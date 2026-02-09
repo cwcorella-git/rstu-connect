@@ -113,35 +113,17 @@ ICNC MONOGRAPH SERIES EDITOR: Dr. Maciej Bartkowski VOLUME EDITORS: Steve Chase,
  | 72 |
 | Do Survey Respondents Believe That They Are Speaking to a Government Agent? | 72 |
 | | |
-| Tables and Figures | |
-| TABLE 1. Observations in Afrobarometer Rounds 3–5 | 20 |
-| TABLE 2. Results for Trust and Potential Mobilization Using the Full Sample | 26 |
-| TABLE 3. Expected Relationships Between Trust and Justication of Violent Action | 35 |
-| TABLE 4. Results for Trust and Justications of Violent Action | 38 |
-| TABLE 5. Afrobarometer Rounds and Years | 42 |
-| TABLE 6. Prediction Results | 52 |
-| TABLE 7. Descriptive Statistics for Trust Variables | 65 |
-| TABLE 8. Linear Regression of Potential Mobilization with Full Sample | 66 |
-| TABLE 9. Descriptive Statistics of Ingroup and Outgroup Trust Variables | 68 |
-
-| TABLE 10. Linear Regression on Justication of Violent Action | 69 |
+3. Expected Relationships Between Trust and Justication of Violent Action | 35 |
+5. Afrobarometer Rounds and Years | 42 |
+7. Descriptive Statistics for Trust Variables | 65 |
+10. Linear Regression on Justication of Violent Action | 69 |
 |--------------------------------------------------------------------------------------------|----|
-| TABLE 11. Linear Regression on Proportion of Conict That is Violent | 71 |
-| TABLE 12. Union Membership and Trust in Diverse Populations | 72 |
-| FIGURE 1. Proposed Explanations for How Trust Shapes Perceptions of Cost | 16 |
-| FIGURE 2. Willingness to Attend a Protest | 21 |
-| FIGURE 3. Dierent Measurements of Social Trust
-and Reported Potential Mobilization | 24 |
-| FIGURE 4. Potential and Actual Mobilization | 31 |
-| FIGURE 5. Justication of Violent Action | 36 |
-| FIGURE 6. Social Trust and Justications of Violent Action | 39 |
-| FIGURE 7. Proportion of Antigovernment Contention
-That is Violent and Nonviolent | 43 |
-| FIGURE 8. Generalized Trust and Predicted
-Antigovernment Nonviolent and Violent Actions | 46 |
-| FIGURE 9. Trust in Diverse Groups and Predicted Nonviolent Contention | 47 |
-| FIGURE 10. Comparison of Cross-Country Coecients for Potential Mobilization | 67 |
-| FIGURE 11. Comparison of Cross-Country Coecients
+1. Proposed Explanations for How Trust Shapes Perceptions of Cost | 16 |
+3. Dierent Measurements of Social Trust
+4. Potential and Actual Mobilization | 31 |
+7. Proportion of Antigovernment Contention
+8. Generalized Trust and Predicted
+11. Comparison of Cross-Country Coecients
 for Justication of Violent Action | 70 |
 
 ## List of Key Terms and Their Definitions

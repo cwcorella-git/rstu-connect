@@ -31,7 +31,6 @@ Southern Unionist - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                the Southern Border States opposed to secession. Many fought
 ## for the Union during the Civil War. These people are also
 
-1 of 12 10/23/25, 7:45 PM Southern Unionist - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                referred to as Southern Loyalists, Union Loyalists,[1] or
                Lincoln's Loyalists.[2] Pro-Confederates in the South derided
                them as "Tories" (in reference to the pro-Crown Loyalists of
@@ -52,8 +51,6 @@ Southern Unionist - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 ## formed their own loyalist infantry, cavalry, and artillery
 ## regiments, while West Virginians formed a new Union state
 ## admitted in 1863.
-
-2 of 12 10/23/25, 7:45 PM Southern Unionist - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## Josiah Dunlow - 1st North Carolina Union Volunteers
 
@@ -84,7 +81,7 @@ Southern Unionist - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                on the United States government. The desire for security was a
                motivation for Unionist slaveholders, who correctly predicted
                that secession would entail a war that the South could not win,
-3 of 12 10/23/25, 7:45 PM Southern Unionist - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                ultimately leading to the loss of their slaves. Others saw the
                end of slavery as preferable to the end of the Union, or saw
                slavery as doomed in the long run and preferred to see it go
@@ -119,7 +116,6 @@ Southern Unionist - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## Baggett claimed that each activist's score was roughly
                proportional to the probability that the activist was a Southern
-4 of 12 10/23/25, 7:45 PM Southern Unionist - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## Unionist. Baggett further investigated the lives of those
 ## Southern Unionists before, during, and after the war, with
@@ -151,7 +147,6 @@ Southern Unionist - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 ## armies entered their hometowns in Tennessee, Virginia,
 ## Arkansas, Louisiana, and elsewhere. Around 100,000 Southern
 
-5 of 12 10/23/25, 7:45 PM Southern Unionist - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                Unionists served in the Union Army during the Civil War, with
 ## every Southern state except South Carolina raising official
                organizations of white troops.[9] Though no regiments of
@@ -177,7 +172,6 @@ Southern Unionist - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                  Virginia and 21,000–23,000[21]
 ## West Virginia
 
-6 of 12 10/23/25, 7:45 PM Southern Unionist - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                The Southern Unionists were referred to in Henry Clay Work's
                song "Marching Through Georgia":
 
@@ -216,8 +210,6 @@ Southern Unionist - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
             3. ^ Howard, Rebecca Ann; ‘Civil War Unionists and Their Legacy
 
-7 of 12 10/23/25, 7:45 PM Southern Unionist - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 ## in the Arkansas Ozarks (Ph.D. thesis) (2015).
 
             4. ^ Lause, Mark A.; Race and Radicalism in the Union Army, p. 5
@@ -254,8 +246,6 @@ Southern Unionist - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 ## 29, 2021
 
           13. ^ Florida's Role in the Civil War: "Supplier of the Confederacy".
-
-8 of 12 10/23/25, 7:45 PM Southern Unionist - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## fcit.usf.edu. Retrieved January 29, 2021.
 
@@ -294,8 +284,6 @@ Southern Unionist - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
           22. ^ Personal Memoirs of Ulysses S. Grant, 1885, vol 2. chapt. 68,
 ## p. 636. Project Gutenberg online edition
 
-9 of 12 10/23/25, 7:45 PM Southern Unionist - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
              - Alexander, Thomas B. (1961). "Persistent Whiggery in the
 ## Confederate South, 1860–1877". Journal of Southern History.
                27 (3). Southern Historical Association: 305–329.
@@ -330,8 +318,6 @@ Southern Unionist - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
              - Foner, Eric (2009). Give Me Liberty! An American History,
 ## second ed.
-
-10 of 12 10/23/25, 7:45 PM Southern Unionist - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
              - Franklin, John Hope (1961). Reconstruction after the Civil War.
                Chicago: University of Chicago Press. ISBN 0-226-26079-8.
@@ -368,7 +354,7 @@ Southern Unionist - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
              - Tunnell, Ted (2006). "Creating 'the Propaganda of History':
 ## Southern Editors and the Origins of Carpetbagger and
                Scalawag". Journal of Southern History. 72 (4): 789–822.
-11 of 12 10/23/25, 7:45 PM Southern Unionist - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                doi:10.2307/27649233. JSTOR 27649233.
 
              - Wiggins, Sarah Woolfolk (1991). The Scalawag in Alabama
@@ -379,5 +365,3 @@ Southern Unionist - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
              - Southerners Against Secession: The Arguments of the
 ## Constitutional Unionists in 1850–51
-
-12 of 12 10/23/25, 7:45 PM

@@ -20,7 +20,6 @@ A Boyle Heights Rent Strike Forged a Path for Other Te... about:reader?url=https
 
 ## Art by Erik Adams
 
-1 of 20 8/28/25, 10:24 AM A Boyle Heights Rent Strike Forged a Path for Other Te... about:reader?url=https%3A%2F%2Fthelandmag.com...
                 On a cold night in late 2017, a group of Boyle Heights tenants
 ## and their supporters showed up at their landlord’s home —a
 ## modernist mini McMansion adorned with seasonal Christmas
@@ -54,7 +53,6 @@ A Boyle Heights Rent Strike Forged a Path for Other Te... about:reader?url=https
 ## the building showed up to each one in full costume, playing
 ## music to begin and end the rallies.
 
-2 of 20 8/28/25, 10:24 AM A Boyle Heights Rent Strike Forged a Path for Other Te... about:reader?url=https%3A%2F%2Fthelandmag.com...
                 Posters explaining the situation were put up in the windows of
                 the building. One poster had a cartoon drawing of Turner, the
                 giant blonde landlord, trying to stomp on several small cute
@@ -87,7 +85,7 @@ A Boyle Heights Rent Strike Forged a Path for Other Te... about:reader?url=https
 
                 In response to the Christmastime action, Turner filed a SLAPP
                 injunction—a Strategic Lawsuit Against Public Participation—
-3 of 20 8/28/25, 10:24 AM A Boyle Heights Rent Strike Forged a Path for Other Te... about:reader?url=https%3A%2F%2Fthelandmag.com...
+
                 aiming to block the protesters from protesting and force the
 ## rent strike to end. Two days after Christmas, the Mariachis
 ## packed the Stanley Mosk courthouse in downtown Los Angeles
@@ -106,7 +104,6 @@ A Boyle Heights Rent Strike Forged a Path for Other Te... about:reader?url=https
                 modern California history. Last winter’s Camp Fire in Northern
 ## California now holds that title.
 
-4 of 20 8/28/25, 10:24 AM A Boyle Heights Rent Strike Forged a Path for Other Te... about:reader?url=https%3A%2F%2Fthelandmag.com...
                 Two hours into the day’s docket, the lawyers for the tenants of
 ## 1812 E. 2nd Street and Turner’s Crescent Canyon Management
 ## were called up. The tenants and their league of supporters
@@ -137,8 +134,6 @@ A Boyle Heights Rent Strike Forged a Path for Other Te... about:reader?url=https
 ## modeled after traditional Mexican charro horsemen outfits,
 ## with embroidered suits and matching sombreros.
 
-5 of 20 8/28/25, 10:24 AM A Boyle Heights Rent Strike Forged a Path for Other Te... about:reader?url=https%3A%2F%2Fthelandmag.com...
-
 ## Boyle Heights mariachis. Photo by Molly Lambert.
 
                 Mariachi music is a cultural fusion, but one mostly forcibly
@@ -157,8 +152,6 @@ A Boyle Heights Rent Strike Forged a Path for Other Te... about:reader?url=https
                 But it was a variety called son jalisciense that developed into
 ## modern mariachi when brass horns were added to the
 ## traditional string instrument ensemble. The Spanish also
-
-6 of 20 8/28/25, 10:24 AM A Boyle Heights Rent Strike Forged a Path for Other Te... about:reader?url=https%3A%2F%2Fthelandmag.com...
 
 ## pushed the idea of musical ensembles organized like formal
 ## orchestras, and the sounds of European musical forms like
@@ -192,7 +185,7 @@ A Boyle Heights Rent Strike Forged a Path for Other Te... about:reader?url=https
 ## diverse ethnic enclave, Boyle Heights housed a large Jewish
 ## population and immigrants from Japan, Mexico and Eastern
                 Europe. A shared tradition of leftist politics connected the
-7 of 20 8/28/25, 10:24 AM A Boyle Heights Rent Strike Forged a Path for Other Te... about:reader?url=https%3A%2F%2Fthelandmag.com...
+
                 Jewish and Mexican American residents of Boyle Heights in the
                 ‘40s and ‘50s, until the Jews assimilated into whiteness enough
                 that they were allowed to move into previously forbidden-to-
@@ -214,7 +207,6 @@ A Boyle Heights Rent Strike Forged a Path for Other Te... about:reader?url=https
                 stand with the six, and together they all went on a rent strike,
 ## one of a half- dozen in L.A. over the last two years.
 
-8 of 20 8/28/25, 10:24 AM A Boyle Heights Rent Strike Forged a Path for Other Te... about:reader?url=https%3A%2F%2Fthelandmag.com...
                 Mariachis performing outside the 2nd Street building. Photo by Molly
 ## Lambert.
 
@@ -244,7 +236,6 @@ A Boyle Heights Rent Strike Forged a Path for Other Te... about:reader?url=https
 ## considered to be harbingers of coming gentrification by
 ## residents who have already seen it play out that way in
 
-9 of 20 8/28/25, 10:24 AM A Boyle Heights Rent Strike Forged a Path for Other Te... about:reader?url=https%3A%2F%2Fthelandmag.com...
                 surrounding neighborhoods such as Silver Lake, Echo Park and
                 Highland Park, where working-class residents were priced out
 ## as property values skyrocketed.
@@ -278,7 +269,6 @@ A Boyle Heights Rent Strike Forged a Path for Other Te... about:reader?url=https
                 tactic that has proven successful in resisting the gentrification
 ## that has already swept and whitewashed other Eastside
 
-10 of 20 8/28/25, 10:24 AM A Boyle Heights Rent Strike Forged a Path for Other Te... about:reader?url=https%3A%2F%2Fthelandmag.com...
                 neighborhoods. The saga of the 2nd Street tenants is the story
                 of what kind of city Los Angeles is becoming at a crucial point
                 when it has one of the highest concentrations of billionaires of
@@ -310,7 +300,6 @@ A Boyle Heights Rent Strike Forged a Path for Other Te... about:reader?url=https
 ## class artists move into poor neighborhoods and price out
                 existing residents. The textbook example is New York’s Lower
                 East Side, where in the 1970s and ‘80s artists forced out the
-11 of 20 8/28/25, 10:24 AM A Boyle Heights Rent Strike Forged a Path for Other Te... about:reader?url=https%3A%2F%2Fthelandmag.com...
 
 ## existing Puerto Rican residents of the neighborhood. What
                 began with artists squatting in warehouses, turning abandoned
@@ -344,7 +333,6 @@ A Boyle Heights Rent Strike Forged a Path for Other Te... about:reader?url=https
 ## Boyle Heights protested a third-wave minimalist coffee shop
 ## called Weird Wave Coffee last summer, the white male owner
 
-12 of 20 8/28/25, 10:24 AM A Boyle Heights Rent Strike Forged a Path for Other Te... about:reader?url=https%3A%2F%2Fthelandmag.com...
                 called the cops on the protesters, proving their suspicion that
                 he was not interested in communicating or interacting with the
 ## existing community in any real way.
@@ -362,8 +350,6 @@ A Boyle Heights Rent Strike Forged a Path for Other Te... about:reader?url=https
 ## Chicago, cities have “improved” at direct cost to longtime
                 residents. Often, public projects are proposed as beneficial to
 ## residents, only to end up displacing them by making their
-
-13 of 20 8/28/25, 10:24 AM A Boyle Heights Rent Strike Forged a Path for Other Te... about:reader?url=https%3A%2F%2Fthelandmag.com...
 
 ## neighborhoods newly desirable to a wealthier clientele.
 
@@ -397,7 +383,6 @@ A Boyle Heights Rent Strike Forged a Path for Other Te... about:reader?url=https
 ## them with eviction, of going through the management
 ## company instead of directly communicating with them, Turner
 
-14 of 20 8/28/25, 10:24 AM A Boyle Heights Rent Strike Forged a Path for Other Te... about:reader?url=https%3A%2F%2Fthelandmag.com...
                 agreed to meet and settle. The two parties negotiated a deal
 ## that amounted to a sort of self-imposed rent control, with
 ## another guaranteed opportunity to meet after a few years.
@@ -430,7 +415,7 @@ A Boyle Heights Rent Strike Forged a Path for Other Te... about:reader?url=https
 ## populations, can feel insurmountable. But the story of the
                 mariachis proves there are possibilities beyond the big blonde
                 boot of capitalism attempting to crush culture and history in
-15 of 20 8/28/25, 10:24 AM A Boyle Heights Rent Strike Forged a Path for Other Te... about:reader?url=https%3A%2F%2Fthelandmag.com...
+
                 Los Angeles, a place that so often attempts to roll over its own
                 culture and history, to create an illusion of no history at all.
                 L.A.’s revolutionary political traditions still hum underneath the
@@ -463,7 +448,6 @@ A Boyle Heights Rent Strike Forged a Path for Other Te... about:reader?url=https
 ## have in one way or another used the Mariachis as a model.”
                 Several of the oldest tenants in the buildings have successfully
                 negotiated to stay in their homes without a rent increase as the
-16 of 20 8/28/25, 10:24 AM A Boyle Heights Rent Strike Forged a Path for Other Te... about:reader?url=https%3A%2F%2Fthelandmag.com...
 
 ## strike continues.
 
@@ -482,8 +466,6 @@ A Boyle Heights Rent Strike Forged a Path for Other Te... about:reader?url=https
 ## exactly might have changed Turner’s mind about meeting with
                 the tenants, whether it’s even possible to chalk it up to any one
 ## specific tactic or whether it’s necessarily because so many
-
-17 of 20 8/28/25, 10:24 AM A Boyle Heights Rent Strike Forged a Path for Other Te... about:reader?url=https%3A%2F%2Fthelandmag.com...
 
 ## tactics were combined in innovative ways. Or maybe it’s
 ## because he realized the court battle was going to cost him
@@ -518,7 +500,6 @@ A Boyle Heights Rent Strike Forged a Path for Other Te... about:reader?url=https
                 to go to sleep and you feel like, ‘Jeez, am I doing the right
 ## thing? Why did I have to do this? Maybe I should look for
                 another place? Maybe I should look for a better…’ But where?
-18 of 20 8/28/25, 10:24 AM A Boyle Heights Rent Strike Forged a Path for Other Te... about:reader?url=https%3A%2F%2Fthelandmag.com...
 
 ## Everywhere is expensive because slumlords, you know, they
                 have them everywhere. Why should [we] have to be kicked out
@@ -552,7 +533,6 @@ A Boyle Heights Rent Strike Forged a Path for Other Te... about:reader?url=https
                 Sanchez is relaxed for the first time in months. “I’m telling you
 ## man, I’m going to sleep like a baby tonight.”
 
-19 of 20 8/28/25, 10:24 AM A Boyle Heights Rent Strike Forged a Path for Other Te... about:reader?url=https%3A%2F%2Fthelandmag.com...
                 We go downstairs for the party. The sun starts to set on 2nd
                  Street as the mariachis start playing out front, parading inside
                 the building. Turner is invited, but he doesn’t show. He sends
@@ -571,5 +551,3 @@ A Boyle Heights Rent Strike Forged a Path for Other Te... about:reader?url=https
                 windows of the building and ripped up in a central pile, mostly
                 by the building’s kids. The sunset is orange and purple as the
 ## mariachis launch into a jubilant “Cielito Lindo.”
-
-20 of 20 8/28/25, 10:24 AM

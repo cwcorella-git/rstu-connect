@@ -33,7 +33,6 @@ Anthracite coal strike of 1902 - Wikipedia about:reader?url=https%3A%2F%2Fen.wik
 ## Methods Striking
 
                      Resulted in Nine-hour workday (reduced from ten)
-1 of 19 9/7/25, 12:02 PM Anthracite coal strike of 1902 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## wage increase of 10%
 ## first strike settled by federal arbitration
@@ -69,7 +68,6 @@ Anthracite coal strike of 1902 - Wikipedia about:reader?url=https%3A%2F%2Fen.wik
 
 ## The Coal strike of 1902 (also known as the anthracite coal
 
-2 of 19 9/7/25, 12:02 PM Anthracite coal strike of 1902 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 strike)[1][2] was a strike by the United Mine Workers of
                 America in the anthracite coalfields of eastern Pennsylvania.
 ## Miners struck for higher wages, shorter workdays, and the
@@ -100,7 +98,6 @@ Anthracite coal strike of 1902 - Wikipedia about:reader?url=https%3A%2F%2Fen.wik
 ## Nanticoke, Pennsylvania, demonstrated that the unions could
                 win a strike directed against a subsidiary of one of the large
                 railroads.[4]
-3 of 19 9/7/25, 12:02 PM Anthracite coal strike of 1902 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## Coal miners in Hazleton, Pennsylvania, in 1900.
 
@@ -127,7 +124,6 @@ Anthracite coal strike of 1902 - Wikipedia about:reader?url=https%3A%2F%2Fen.wik
                 recognize the UMWA as the representative of the workers. The
 ## union declared victory and dropped its demand for union
 
-4 of 19 9/7/25, 12:02 PM Anthracite coal strike of 1902 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 recognition.[5]
 
 ## The anthracite coal strike
@@ -155,7 +151,6 @@ Anthracite coal strike of 1902 - Wikipedia about:reader?url=https%3A%2F%2Fen.wik
 
 ## Anthracite mining is a business, and not a religious,
                 sentimental, or academic proposition.... I could not if I would
-5 of 19 9/7/25, 12:02 PM Anthracite coal strike of 1902 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## delegate this business management to even so highly a
                 respectable body as the Civic Federation, nor can I call to my
@@ -178,8 +173,6 @@ Anthracite coal strike of 1902 - Wikipedia about:reader?url=https%3A%2F%2Fen.wik
                 [edit]
                 Theodore Roosevelt teaches the childish coal barons a lesson. 1902
 ## cartoon by Charles Lederer
-
-6 of 19 9/7/25, 12:02 PM Anthracite coal strike of 1902 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## On June 8, President Theodore Roosevelt asked his
                 Commissioner of Labor, Carroll D. Wright, to investigate the
@@ -212,7 +205,6 @@ Anthracite coal strike of 1902 - Wikipedia about:reader?url=https%3A%2F%2Fen.wik
 ## union considered the mere holding of a meeting to be
                 tantamount to union recognition and took a conciliatory tone.
                 The owners told Roosevelt that strikers had killed over 20 men
-7 of 19 9/7/25, 12:02 PM Anthracite coal strike of 1902 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## and that he should use the power of government "to protect
                 the man who wants to work, and his wife and children when at
@@ -245,7 +237,6 @@ Anthracite coal strike of 1902 - Wikipedia about:reader?url=https%3A%2F%2Fen.wik
 ## the commission he was creating. He also considered
 ## nationalizing the mines under the leadership of John M.
 
-8 of 19 9/7/25, 12:02 PM Anthracite coal strike of 1902 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 Schofield.[13] This would put the U.S. Army in control of the
                 coalfields[14][15] to "run the mines as a receiver", Roosevelt
                 wrote.[16]
@@ -270,7 +261,6 @@ Anthracite coal strike of 1902 - Wikipedia about:reader?url=https%3A%2F%2Fen.wik
 ## The employers agreed on the condition that the five members
                 be a military engineer, a mining engineer, a judge, an expert in
                 the coal business, and an "eminent sociologist". The employers
-9 of 19 9/7/25, 12:02 PM Anthracite coal strike of 1902 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## were willing to accept a union leader as the "eminent
 ## sociologist," so Roosevelt named E. E. Clark, head of the
@@ -295,7 +285,7 @@ Anthracite coal strike of 1902 - Wikipedia about:reader?url=https%3A%2F%2Fen.wik
                 three months, taking testimony from 558 witnesses, including
                 240 for the striking miners, 153 for nonunion mineworkers, 154
                 for the operators, and eleven called by the Commission itself.
-10 of 19 9/7/25, 12:02 PM Anthracite coal strike of 1902 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 Baer made the closing arguments for the coal operators, while
 ## lawyer Clarence Darrow closed for the workers.
 
@@ -327,8 +317,6 @@ Anthracite coal strike of 1902 - Wikipedia about:reader?url=https%3A%2F%2Fen.wik
 ## arbitration board, made up of equal numbers of labor and
 ## management representatives, with the power to settle labor
 
-11 of 19 9/7/25, 12:02 PM Anthracite coal strike of 1902 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 ## disputes. Mitchell considered that de facto recognition and
                 called it a victory.[21]
 
@@ -351,7 +339,6 @@ Anthracite coal strike of 1902 - Wikipedia about:reader?url=https%3A%2F%2Fen.wik
                 between a mob of 5,000 striking miners versus police resulted
 ## in the beating death of Joseph Beddall, a merchant and the
 
-12 of 19 9/7/25, 12:02 PM Anthracite coal strike of 1902 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 brother of the deputy sheriff.[25]
 
 ## Contemporary reporting describes three other deaths and
@@ -381,7 +368,6 @@ Anthracite coal strike of 1902 - Wikipedia about:reader?url=https%3A%2F%2Fen.wik
                 Miners in the West often turned into full-scale warfare between
 ## strikers and both employers and the civil and military
                 authorities. This strike was successfully mediated through the
-13 of 19 9/7/25, 12:02 PM Anthracite coal strike of 1902 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## intervention of the federal government, which strove to
 ## provide a "Square Deal"—which Roosevelt took as the motto
@@ -420,7 +406,6 @@ Anthracite coal strike of 1902 - Wikipedia about:reader?url=https%3A%2F%2Fen.wik
 
              7. ^ Dubofsky, Melvyn, and McCartin, Joseph A.. Labor in
                 America : A History. New York: John Wiley & Sons, Incorporated,
-14 of 19 9/7/25, 12:02 PM Anthracite coal strike of 1902 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## 2017. Accessed September 8, 2020. ProQuest Ebook Central.
 
@@ -463,8 +448,6 @@ Anthracite coal strike of 1902 - Wikipedia about:reader?url=https%3A%2F%2Fen.wik
 
            22. ^ Mitchell, John (1903). Organized labor; its problems,
 
-15 of 19 9/7/25, 12:02 PM Anthracite coal strike of 1902 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 ## purposes, and ideals and the present and future of American
 ## wage earners. American Book and Bible House. p. 322.
 
@@ -502,8 +485,6 @@ Anthracite coal strike of 1902 - Wikipedia about:reader?url=https%3A%2F%2Fen.wik
                 the Anthracite Coal Industry, 1875-1925. Albany, N.Y.: State
 ## University of New York Press, 1994. ISBN 0-7914-1819-7
 
-16 of 19 9/7/25, 12:02 PM Anthracite coal strike of 1902 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
              - Blatz, Perry K. "Local Leadership and Local Militancy: The
                 Nanticoke Strike of 1899 and the Roots of Unionization in the
                 Northern Anthracite Fields." Pennsylvania History. 58:4
@@ -539,8 +520,6 @@ Anthracite coal strike of 1902 - Wikipedia about:reader?url=https%3A%2F%2Fen.wik
 
              - Morris, Edmund. Theodore Rex. (Random House, 2001).
 ## ISBN 0-394-55509-0; biography of TR as President
-
-17 of 19 9/7/25, 12:02 PM Anthracite coal strike of 1902 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
              - Perry, Peter R. "Theodore Roosevelt and the labor movement"
                 (MA thesis California State University, Hayward; 1991) online;
@@ -578,8 +557,6 @@ Anthracite coal strike of 1902 - Wikipedia about:reader?url=https%3A%2F%2Fen.wik
                 Train. Library of Congress, 1947. Audio. https://www.loc.gov/
 ## item/ihas.200197134/.
 
-18 of 19 9/7/25, 12:02 PM Anthracite coal strike of 1902 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
              - Department of Labor essay on the strike
 
              - History of the 1902 strike Archived 2014-10-06 at the Wayback
@@ -589,5 +566,3 @@ Anthracite coal strike of 1902 - Wikipedia about:reader?url=https%3A%2F%2Fen.wik
                 development of the mines to the close of the anthracite strike
 ## of 1902 Cornell University Library Historical Monographs
 ## Collection.
-
-19 of 19 9/7/25, 12:02 PM

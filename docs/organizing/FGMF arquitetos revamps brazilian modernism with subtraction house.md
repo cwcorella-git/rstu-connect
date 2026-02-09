@@ -20,8 +20,6 @@ FGMF arquitetos revamps brazilian modernism with house of voids 'subtracon house
 
 we use cookies to make your reading a beer experience. [got it!](https://www.designboom.com/architecture/fgmf-arquitetos-casa-subtracao-subtraction-house-brazil-02-06-2024/#) [more info](https://www.designboom.com/cookie-policy) [>](https://www.designboom.com/cookie-policy)
 
-## 1 of 20 5/29/24, 3:06 PM
-
 ## ![](_page_1_Picture_2.jpeg)
 
 ## ![](_page_1_Picture_3.jpeg)
@@ -45,5 +43,3 @@ we use cookies to make your reading a better experience.
 got it!
 
 more info >
-
-## 2 of 20 5/29/24, 3:06 PM

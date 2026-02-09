@@ -19,7 +19,7 @@ Reno-Sparks apartment rent reaches another record high https://www.rgj.com/story
          Rents have increased in 12 of the last 14 quarters since 2019 — 10 of which were record
          highs.
                   Reno No. 1 among cities with highest rate of home price reductions
-1 of 6 7/4/25, 1:48 PM  Reno-Sparks apartment rent reaches another record high https://www.rgj.com/story/news/money/business/2022/07/29/reno-sparks-...
+
          A second report from the Nevada State Apartment Association, meanwhile, saw average rent
          in Reno-Sparks reach $1,550 for the same period. The rent is also the highest ever reported
          by the apartment association for Reno-Sparks, although still lower than the national average
@@ -38,7 +38,7 @@ Reno-Sparks apartment rent reaches another record high https://www.rgj.com/story
          then the other half that can’t.”
          Although apartment rents are at record highs, they are increasing at a slower clip in the last
          year — a sign of moderating rents, according to Vazquez.
-2 of 6 7/4/25, 1:48 PM Reno-Sparks apartment rent reaches another record high https://www.rgj.com/story/news/money/business/2022/07/29/reno-sparks-...
+
          The Nevada State Apartment Association was initially forecasting rents to increase by 7%
          year-over-year before reducing its forecast down to 5%. In the last 12 months, rent growth
          also stood at 4.1%. The number is signiﬁcantly down from the all-time high rent increase of
@@ -60,7 +60,7 @@ Reno-Sparks apartment rent reaches another record high https://www.rgj.com/story
          “Will (rent) go backwards? Probably not. I think most landlords will rather push move-in
          specials or oﬀer a free month of rent, which essentially reduces rents, even if it’s not at face
          value.”
-3 of 6 7/4/25, 1:48 PM Reno-Sparks apartment rent reaches another record high https://www.rgj.com/story/news/money/business/2022/07/29/reno-sparks-...
+
          Whether or not the Reno-Sparks apartment market will see more concessions largely depends
          on the vacancy rate. The NVSAA is reporting a vacancy rate of 6%, up slightly from 5.8% in
          the ﬁrst quarter and 5.2% during the second quarter last year.
@@ -80,7 +80,7 @@ Reno-Sparks apartment rent reaches another record high https://www.rgj.com/story
          once vacancies reach 3%.
          The most common concessions involve either a free month of rent or reduced rent with a 12-
          month lease. Some apartments are also actively wooing employees working at the
-4 of 6 7/4/25, 1:48 PM Reno-Sparks apartment rent reaches another record high https://www.rgj.com/story/news/money/business/2022/07/29/reno-sparks-...
+
          Gigafactory.
          “A majority of the properties now oﬀering concessions are oﬀering a discount to Tesla and
          other Tahoe Reno Industrial Center employees,” according to Johnson Perkins Griﬀin.
@@ -97,7 +97,7 @@ Reno-Sparks apartment rent reaches another record high https://www.rgj.com/story
            Lakeridge: $1,907, up from $1,873
            Southeast Reno: $1,743, up from $1,714
            Downtown Urban (Reno and Sparks): $1,717, up from $1,691
-5 of 6 7/4/25, 1:48 PM Reno-Sparks apartment rent reaches another record high https://www.rgj.com/story/news/money/business/2022/07/29/reno-sparks-...
+
          Here are the average rents in Reno-Sparks based on apartment type.
            Studio: $1,161
            1 bedroom, 1 bath: $1,488
@@ -108,7 +108,6 @@ Reno-Sparks apartment rent reaches another record high https://www.rgj.com/story
          Jason Hidalgo covers business and technology for the Reno Gazette Journal, and also reviews
          the latest video games. Follow him on Twitter @jasonhidalgo. Like this content? Support
          local journalism with an RGJ digital subscription.
-6 of 6 7/4/25, 1:48 PM
 
 ## Document Summary
 

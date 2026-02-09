@@ -36,7 +36,7 @@ Police Unions Are Anti-Labor - Harvard Political Review about:reader?url=https%3
                 Homestead Strike of 1892 and the Lawrence Strike of 1912, to
 ## name a few examples. In each of these incidents, the police
                 resorted to extreme violence, acquiring new legal powers and
-1 of 4 9/7/25, 11:57 AM Police Unions Are Anti-Labor - Harvard Political Review about:reader?url=https%3A%2F%2Fharvardpolitics.c...
+
                 protections as they terrorized working class communities. By
 ## the middle of the 20th century, the police had become an
 ## autocratic, militarized force whose primary role was to
@@ -67,7 +67,6 @@ Police Unions Are Anti-Labor - Harvard Political Review about:reader?url=https%3
                 federal political arena. The Fraternal Order of Police and the
 ## International Union of Police Associations, the two largest
                 police unions in the country, endorsed President Trump in 2016
-2 of 4 9/7/25, 11:57 AM Police Unions Are Anti-Labor - Harvard Political Review about:reader?url=https%3A%2F%2Fharvardpolitics.c...
 
 ## and recently endorsed his reelection campaign. By funneling
 ## money into President Trump’s campaign, the IUPA is directly
@@ -102,7 +101,6 @@ Police Unions Are Anti-Labor - Harvard Political Review about:reader?url=https%3
 ## abolition means building a world that does not rely on
 ## capitalism and racism to structure society.
 
-3 of 4 9/7/25, 11:57 AM Police Unions Are Anti-Labor - Harvard Political Review about:reader?url=https%3A%2F%2Fharvardpolitics.c...
                 Although some critics of abolition argue that disaffiliating
                 police unions would threaten other public sector unions, many
                 trade unionists disagree with this position, indicating support
@@ -128,5 +126,3 @@ Police Unions Are Anti-Labor - Harvard Political Review about:reader?url=https%3
 ## use
 
 ## - Advertisement -
-
-4 of 4 9/7/25, 11:57 AM

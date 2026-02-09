@@ -58,7 +58,7 @@ Winnipeg general strike - Wikipedia https://en.wikipedia.org/wiki/Winnipeg_gener
           Russian Revolution of 1917. A meeting of western
           labour delegates in Calgary in March 1919 Death(s) 2
           adopted numerous radical resolutions, including Injuries 30
-1 of 12 9/7/25, 2:52 AM Winnipeg general strike - Wikipedia https://en.wikipedia.org/wiki/Winnipeg_general_strike
+
           support for a ﬁve-day week and a six-hour day. Arrested 94
           They also called for the establishment of a new
           union centre, the One Big Union, to promote class solidarity by
@@ -98,7 +98,7 @@ Winnipeg general strike - Wikipedia https://en.wikipedia.org/wiki/Winnipeg_gener
           city telephone exchanges, who were not at this time union members. Also on the ﬁrst day of the strike, the
           major organizations of returned soldiers announced their support and were active throughout the six weeks of
           the strike.[9]
-2 of 12 9/7/25, 2:52 AM Winnipeg general strike - Wikipedia https://en.wikipedia.org/wiki/Winnipeg_general_strike
+
           In the early days of the strike, according to historian David Bercuson, "The atmosphere was almost festive,
           the belief in ultimate victory strong."[10] Participants assembled in city parks to listen to speakers report on
           the progress of the strike and discuss the many related social reform issues of the time. To ensure that strikers
@@ -138,7 +138,7 @@ Winnipeg general strike - Wikipedia https://en.wikipedia.org/wiki/Winnipeg_gener
           Minister of Justice Arthur Meighen and Minister of Labour Winnipeg general strike
           Gideon Robertson. They refused to meet with the Strike
           Committee, but consulted with the Citizens' Committee, who greatly inﬂuenced their conclusions. Meighen
-3 of 12 9/7/25, 2:52 AM Winnipeg general strike - Wikipedia https://en.wikipedia.org/wiki/Winnipeg_general_strike
+
           issued a statement that the strike was "a cloak for something far
           deeper—an eﬀort to 'overturn' the proper authority". Robertson
           reported back to Ottawa that "the motive behind this strike
@@ -178,7 +178,7 @@ Winnipeg general strike - Wikipedia https://en.wikipedia.org/wiki/Winnipeg_gener
           were also arrested.Oscar Schoppelrei (sometimes spelled Schappellri),[23] an American-born Canadian
           resident and WWI veteran of German ethnic origin, was also arrested.[24]
           Bloody Saturday
-4 of 12 9/7/25, 2:52 AM Winnipeg general strike - Wikipedia https://en.wikipedia.org/wiki/Winnipeg_general_strike
+
           The climax of the strike came a few days later, on Saturday, June
           21, which was soon known as Bloody Saturday. To protest
           against the arrest of the strike leaders, the returned soldiers had
@@ -220,7 +220,7 @@ Winnipeg general strike - Wikipedia https://en.wikipedia.org/wiki/Winnipeg_gener
           In May and June 1919, general strikes broke out in as many as thirty other cities, from Amherst, Nova Scotia,
           to Victoria, British Columbia. Some of these strikes were protests against local conditions; some were in
           solidarity with the Winnipeg strikers; some arose from both causes.[28]
-5 of 12 9/7/25, 2:52 AM Winnipeg general strike - Wikipedia https://en.wikipedia.org/wiki/Winnipeg_general_strike
+
           Aftermath
           "State trials" and deportations
           Eight of the strike leaders were brought to trial for seditious conspiracy - Heaps, Armstrong, Bray, Ivens,
@@ -254,7 +254,7 @@ Winnipeg general strike - Wikipedia https://en.wikipedia.org/wiki/Winnipeg_gener
           While awaiting trial, Queen was re-elected to the Winnipeg City council.[36] While serving out their
           sentences in prison, Armstrong, Ivens and Queen were elected to the Manitoba legislature in the 1920
           provincial election. Queen later served seven terms as mayor of Winnipeg.[37] However for a period of 25
-6 of 12 9/7/25, 2:52 AM Winnipeg general strike - Wikipedia https://en.wikipedia.org/wiki/Winnipeg_general_strike
+
           years after the general strike, the business-supported Citizens League never lost dominance in city hall. And
           the polarity of the general strike was transmuted to city politics for that entire period, at least on the issues of
           social welfare and working conditions.[38]
@@ -293,7 +293,7 @@ Winnipeg general strike - Wikipedia https://en.wikipedia.org/wiki/Winnipeg_gener
           during the years from 1917 to 1925.[47] Recent accounts of the strike have also noted that most strikers were
           not union members, suggesting that the events might be described as an urban rebellion against the failings of
           the capitalist social order as it existed at the end of World War I.[48]
-7 of 12 9/7/25, 2:52 AM Winnipeg general strike - Wikipedia https://en.wikipedia.org/wiki/Winnipeg_general_strike
+
           Commemorations in popular culture
           Shortly after the strike, two novels, Ralph Connor's To Him that Hath (Toronto, 1921) and Douglas Durkin 's
           The Magpie (Toronto, 1923), explored some of the labour and social themes raised by the strike. Fox, a 1991
@@ -328,8 +328,6 @@ Winnipeg general strike - Wikipedia https://en.wikipedia.org/wiki/Winnipeg_gener
            8. Bumsted 1994, p. 28
            9. Bumsted 1994, p. 29
           10. Bercuson, Confrontation at Winnipeg, p. 116.
-
-8 of 12 9/7/25, 2:52 AM Winnipeg general strike - Wikipedia https://en.wikipedia.org/wiki/Winnipeg_general_strike
 
           11. Quoted by Kenneth McNaught, A Prophet in Politics: A Biography of J.S. Woodsworth
               (Toronto: University of Toronto Press, 1959), p. 121.
@@ -375,8 +373,6 @@ Winnipeg general strike - Wikipedia https://en.wikipedia.org/wiki/Winnipeg_gener
           33. Masters, The Winnipeg General Strike, p. 150
           34. Bumsted, Winnipeg General Strike of 1919, p. 66
 
-9 of 12 9/7/25, 2:52 AM Winnipeg general strike - Wikipedia https://en.wikipedia.org/wiki/Winnipeg_general_strike
-
        35. Justice H. A. Robson's report, quoted in Fudge, Judy; Tucker, Eric (2004). Labour
            Before the Law: The Regulation of Workers' Collective Action in Canada, 1900–
            1948. Toronto: University of Toronto Press. p. 112. ISBN 0-8020-3793-3.
@@ -419,7 +415,7 @@ Winnipeg general strike - Wikipedia https://en.wikipedia.org/wiki/Winnipeg_gener
            Bibliography
            ▪ Graphic History Collective (2019). 1919: A Graphic History of the Winnipeg General
              Strike. Illustrated by David Lester. Toronto: Between the Lines.
-10 of 12 9/7/25, 2:52 AM Winnipeg general strike - Wikipedia https://en.wikipedia.org/wiki/Winnipeg_general_strike
+
              ISBN 978-1-77113-420-0. OCLC 1080207708 (https://search.worldcat.org/oclc/1080
              207708).* Bumsted, J. M. (1994). The Winnipeg General Strike of 1919: An
              Illustrated History. Watson & Dwyer. ISBN 9780920486405.
@@ -463,7 +459,7 @@ Winnipeg general strike - Wikipedia https://en.wikipedia.org/wiki/Winnipeg_gener
              Canada, 1974)
            ▪ Mitchell, Tom, "Strike or Revolution? Hugh Robson’s Inquiry and the Winnipeg
              General Strike,” The Manitoba Law Journal, 42, 2, 2019.
-11 of 12 9/7/25, 2:52 AM Winnipeg general strike - Wikipedia https://en.wikipedia.org/wiki/Winnipeg_general_strike
+
             ▪ Korneski, Kurt. "Prairie Fire: The Winnipeg General Strike (https://www.lltjournal.ca/i
               ndex.php/llt/article/view/5188)," Labour / Le Travail, 45 (Spring 2000), pp. 259–266.
             ▪ Penner, Norman, ed. Winnipeg 1919: The Strikers' Own History of the Winnipeg
@@ -488,4 +484,3 @@ Winnipeg general strike - Wikipedia https://en.wikipedia.org/wiki/Winnipeg_gener
               Human Rights, 2019.
            Retrieved from "https://en.wikipedia.org/w/index.php?
            title=Winnipeg_general_strike&oldid=1306818859"
-12 of 12 9/7/25, 2:52 AM

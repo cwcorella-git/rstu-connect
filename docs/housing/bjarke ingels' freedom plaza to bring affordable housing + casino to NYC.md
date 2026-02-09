@@ -22,8 +22,6 @@ bjarke ingels group's 'freedom plaza' could bring affordable housing and casino 
 
 we use cookies to make your reading a beer experience. [got it!](https://www.designboom.com/architecture/bjarke-ingels-group-big-freedom-plaza-new-york-02-13-2024/#) [more info](https://www.designboom.com/cookie-policy) [>](https://www.designboom.com/cookie-policy)
 
-## 1 of 22 5/29/24, 8:04 PM
-
 ## ![](_page_1_Picture_2.jpeg)
 
 ## ![](_page_1_Picture_3.jpeg)
@@ -80,5 +78,3 @@ we use cookies to make your reading a better experience.
 got it!
 
 more info >
-
-## 3 of 22 5/29/24, 8:04 PM

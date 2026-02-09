@@ -8,7 +8,6 @@ tags:
   - theory
 ---
 
-Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
             Anthony J. Nocella II, Mark Seis, and
             Jeﬀ Shantz
             Classic Writings in Anarchist
@@ -46,7 +45,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
                Chapter 3: The Program of the International Brotherhood
                Chapter 4: Ethics: Morality of the State
             Part Four: August Spies (1855–1887)
-1 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
                Chapter 5: Address of August Spies
             Part Five: Peter Kropotkin (1842–1921)
                Chapter 6: Law and Authority: An Anarchist Essay
@@ -90,7 +89,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             dependent on others; no one is an island. Thank you also to those today and
             through history who identiﬁed as anarchists and fought for the liberation and
             freedom for all. Finally, we would like to thank Richard J. White, Jason Del
-2 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             Gandio, Luis A. Fernandez, Madelynne Kinoshita, Amber E. George, and Erik
             Juergensmeyer who wrote reviews of the book prior to publication.
             Foreword
@@ -138,7 +137,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             far things have changed since 1887 is a moot point. Of course, situations vary
             across the globe and unemployment is only one of the issues that attracts
             aggressive policing. But the thrust of Parsons’s analysis is about the
-3 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             institutionalization of injustice, the legality of violent repression and the
             unreasonable measures deployed to regulate disadvantage.
               Revisiting anarchist criminology also draws attention to the alternatives
@@ -183,7 +182,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             inevitable fact that state capitalism is the source of crime and criminal
             behavior and immense human suﬀering. Capitalism is legalized inequality and
             theft. Laws, police, courts, and prisons exist to enforce the rights of the
-4 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             owners of capital to steal the wealth produced by workers, making them
             desperate, poor, and dependent on low wages, which do not allow the majority
             of working people to acquire the necessities of life. Further, the criminal
@@ -233,7 +232,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             of aberrant behavior. In short, the state prevents what criminology and
             criminal justice cannons presuppose is a Hobbesian “war of all against all.”[5]
             Criminology and criminal justice rarely ask whether state capitalism is, by its
-5 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             nature, violent and its behavior aberrant, and thus a legitimate form of social
             organization. Several anarchists included in this edition deconstruct the
             primary unquestioned assumption of criminology and criminal justice: that
@@ -283,7 +282,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             the best interest of the individual. Despite this prima facie fallacy, criminology
             and criminal justice treat prisons as legitimate and even humane ways to deal
             with marginalized populations. Incarceration is the mechanism used to
-6 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             legitimize structural racism, classism, sexism, and every other form of
             injustice endemic to state capitalist systems. It is no surprise that people of
             color in the US and throughout the colonized world are disproportionately
@@ -330,7 +329,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             own deﬁnitions of fairness and equality, they fail to consider the fundamental
             structural inequality inherent in capitalism. As noted above, the laws created
             in the capitalist system are not neutral; they favor the interests of the owners
-7 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             of capital. Equality before the law is a fallacy. If equality before the law were
             true, then how would it be possible for a homeless person to be in violation of
             the law if s/he is squatting in a vacant privately-owned building? Private
@@ -379,7 +378,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             oppose and challenge the state’s legalization and institutionalization of the
             prison industrial complex and the state’s criminalizing of dissent, resistance,
             and individual social reformers.
-8 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
                Notably, anarchists are among the ﬁrst, in that context of emerging
             criminology to go to the roots of issues like crime, conﬂict, and violence, and
             to locate such social problems in structures and systems of inequality,
@@ -426,7 +425,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             not ask how social systems and structures create crime. Instead, they ask why
             people commit crimes in existing social systems and structures and how we
             can control and reduce crime within existing social systems and structures.
-9 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             Questions about how the social order is constructed to create crime are sorely
             lacking with respect to the epistemological focus of the discipline.
               In some cases, even critical criminological theories like neo-Marxism have
@@ -475,7 +474,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             Anarchist criminology has been part of movements for social transformation,
             rebellion, insurrection, and revolution—for a new world in which social harms
             are mitigated as much as possible and no groups wield coercive authority
-10 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             against others. Simply put, anarchist movements pose challenges to liberal
             democratic states, which have legalized and institutionalized the social harms
             of capital. Likewise, anarchists oppose and challenge the state’s legalization
@@ -522,7 +521,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             the notion of justice and systems of justice as well. It shows that the history of
             criminology is not what hegemonic criminology and the dominant criminology
             textbooks have told us it is.
-11 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
               The writers collected here reveal a vital, alternative criminology that has
             run alongside, intersected with, and challenged mainstream criminology
             throughout its history—from the very beginning. Some of these works, such as
@@ -569,7 +568,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
               William Godwin’s work predates the naming of anarchism as a formal
             political project but is considered to be its most important precursor or
             progenitor in Western Enlightenment thought, and an alternative to classical
-12 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             criminological perspectives, such as those of Cesare Beccaria and Jeremy
             Bentham.
               Godwin situates the issues of criminology on their proper ground. Criminal
@@ -614,7 +613,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             appointment. I may put an innocent man to death for the common good,
             either because he is infected with a pestilential disease, or because some
             oracle has declared it essential to the public safety. None of these, though
-13 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             they consist in the exertion of force for some moral purpose, comes within the
             import of the word punishment. Punishment is generally used to signify the
             voluntary inﬂiction of evil upon a vicious being, not merely because the public
@@ -664,7 +663,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             beings, each of them solitary, but the ﬁrst virtuous and the second vicious, the
             ﬁrst inclined to the highest acts of benevolence, if his situation were changed
             for the social, the second to malignity, tyranny and injustice, do we not feel
-14 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             that the ﬁrst is entitled to felicity in preference to the second?” If there be any
             diﬀiculty in the question, it is wholly caused by the extravagance of the
             supposition. No being can be either virtuous or vicious who has no
@@ -714,7 +713,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             be unjust in us not by a positive interference to render that punishment
             double.
               Thus it appears, whether we enter philosophically into the principle of
-15 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             human actions, or merely analyse the ideas of rectitude and justice which
             have the universal consent of mankind, that, accurately speaking, there is no
             such thing as desert. It cannot be just that we should inﬂict suﬀering on any
@@ -761,7 +760,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             the preliminary discussion of the exercise of private judgment.[25] But those
             reasonings will now be extended, and derive additional advantage from a
             fuller arrangement.
-16 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
                It is commonly said that no man ought to be compelled in matters of religion
             to act contrary to the dictates of his conscience. Religion is a principle which
             the practice of all ages has deeply impressed upon the mind. He that
@@ -811,7 +810,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             criterion shall be applied to deliver us from uncertainty?” There are but two
             criterions possible the decisions of other men’s wisdom, and the decisions of
             our own understanding. Which of these is conformable to the nature of man?
-17 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             Can we surrender our own understandings? However we may strain after
             implicit faith, will not conscience in spite of ourselves whisper us, “This
             decree is equitable, and this decree is founded in mistake?” Will there not be
@@ -861,7 +860,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             purposes?
                Let us reﬂect for a moment upon the species of argument, if argument it is
             to be called, that coercion employs. It avers to its victim that he must
-18 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             necessarily be in the wrong, because I am more vigorous and more cunning
             than he. Will vigour and cunning be always on the side of truth? Every such
             exertion implies in its nature a species of contest. This contest may be
@@ -911,7 +910,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             of distaste. It begins with violently alienating the mind from the truth with
             which we wish it to be impressed. It includes in it a tacit confession of
             imbecility. If he who employs coercion against me could mould me to his
-19 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             purposes by argument, no doubt he would. He pretends to punish me because
             his argument is important, but he really punishes me because his argument is
             weak.
@@ -958,7 +957,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             engaged in no hostility against the community or any of its members. He is
             quietly pursuing those occupations which are beneﬁcial to himself, and
             injurious to none. Upon what pretence is this man to be the subject of
-20 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             violence? For restraint? Restraint from what? “From some future injury which
             it is to be feared he will commit.” This is the very argument which has been
             employed to justify the most execrable of all tyrannies. By what reasonings
@@ -1008,7 +1007,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             obstacles of oppression.”
                The opinion of the excellence of adversity is built upon a very obvious
             mistake. If we will divest ourselves of paradox and singularity, we shall
-21 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             perceive that adversity is a bad thing, but that there is something else that is
             worse. Mind can neither exist nor be improved without the reception of ideas.
             It will improve more in a calamitous, than a torpid state. A man will
@@ -1058,7 +1057,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             too great. Ingenious cruelty was busied to ﬁnd new means of torturing the
             victim, or of rendering the spectacle impressive and horrible.
               It has long since been observed that this system of policy constantly fails of
-22 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             its purpose. Farther reﬁnements in barbarity produce a certain impression so
             long as they are new, but this impression soon vanishes, and the whole scope
             of a gloomy invention is exhausted in vain.[26] The reason of this phenomenon
@@ -1108,7 +1107,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             with supercilious neglect, as if I were totally incapable of feeling and morality.
             If you inﬂict pain upon me, you are either just or unjust. If you be just, it
             should seem necessary that there should be something in me that makes me
-23 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             the ﬁt subject of pain either desert, which is absurd, or mischief I may be
             expected to perpetrate, or lastly a tendency to reformation. If any of these be
             the reason why the suﬀering I undergo is just, then example is out of the
@@ -1155,7 +1154,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             diﬀiculty in reducing them to general rules. Murder, according to this system,
             will be the exertion of any species of action aﬀecting my neighbour, so as that
             the consequences terminate in death. The diﬀiculties of the magistrate are
-24 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             much abridged upon this principle, though they are by no means annihilated.
             It is well known how many subtle disquisitions, ludicrous or tragical according
             to the temper with which we view them, have been introduced to determine in
@@ -1205,7 +1204,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             of reconciling coercion and justice, if for reasons already assigned they were
             neat in their own nature incompatible. It is earnestly to be desired that this
             mode of administering retribution should be seriously attempted. It is to be
-25 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             hoped that men will one day attempt to establish an accurate criterion, and
             not go on for ever, as they have hitherto done, with a sovereign contempt of
             equity and reason. This attempt would lead by a very obvious process to the
@@ -1255,7 +1254,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             heroes of ancient Rome were impelled by vain glory or disinterested
             benevolence, whether Voltaire were the stain of his species, or their most
             generous and intrepid benefactor? Upon these subjects moderate men
-26 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             perpetually quote upon us the impenetrableness of the human heart. Will
             moderate men pretend that we have not a hundred times more evidence upon
             which to found our judgment in these cases, than in that of the man who was
@@ -1305,7 +1304,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             every word and every action come distorted by the medium through which it
             is transmitted? The guilt of a man, to speak in the phraseology of law, may be
             proved either by direct or circumstantial evidence. I am found near to the
-27 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             body of a man newly murdered. I come out of his apartment with a bloody
             knife in my hand or with blood upon my clothes. If, under these circumstances
             and unexpectedly charged with murder, I falter in my speech or betray
@@ -1354,7 +1353,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             to shake oﬀ an imputation under which he labours, to talk of being put on his
             trial, but no man ever seriously wished for this ordeal, who knew what a trial
             was.
-28 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             Part Two: Pierre-Joseph Proudhon
             (1809–1865)
               Pierre-Joseph Proudhon is famously the ﬁrst public ﬁgure to describe their
@@ -1394,7 +1393,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             goods, one’s income, and the fruit of one’s labor and industry.”
               Code Napoléon, article 544: “Property is the right to enjoy and dispose of
             things in the most absolute manner, provided we do not overstep the limits
-29 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             prescribed by the laws and regulations.”
                These two deﬁnitions do not diﬀer from that of the Roman law: all give the
             proprietor an absolute right over a thing; and as for the restriction imposed
@@ -1442,7 +1441,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             being prohibited by the same code of procedure.
                Before going to the heart of the question, it will not be useless to oﬀer a few
             preliminary remarks.
-30 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             § 1.—Property as a Natural Right.
                The Declaration of Rights has placed property in its list of the natural and
             inalienable rights of man, four in all: liberty, equality, property, security. What
@@ -1491,7 +1490,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             an elector, and every elector eligible. The right, once acquired, is the same for
             all; the law compares neither persons nor votes. I do not ask now whether this
             system is the best; it is enough that, in the opinion of the charter and in the
-31 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             eyes of every one, equality before the law is absolute, and, like liberty, admits
             of no compromise.
                It is the same with the right of security. Society promises its members no
@@ -1541,7 +1540,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             professional jealousy.
                But, they say, the courts and the police force are established to restrain this
             mob; government is a company, not exactly for insurance, for it does not
-32 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             insure, but for vengeance and repression. The premium which this company
             exacts, the tax, is divided in proportion to property; that is, in proportion to
             the trouble which each piece of property occasions the avengers and
@@ -1591,7 +1590,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             extremes of social degradation.
               It is said that all perpetual annuities are essentially redeemable. This maxim
             of civil law, applied to the State, is good for those who wish to return to the
-33 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             natural equality of labor and wealth; but, from the point of view of the
             proprietor, and in the mouth of conversionists, it is the language of bankrupts.
             The State is not only a borrower, it is an insurer and guardian of property;
@@ -1640,7 +1639,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             precious as another’s. These three rights are absolute; that is, susceptible of
             neither increase nor diminution; because in society each associate receives as
             much as he gives,—liberty for liberty, equality for equality, security for
-34 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             security, body for body, soul for soul, in life and in death.
               But property, in its derivative sense, and by the deﬁnitions of law, is a right
             outside of society; for it is clear that, if the wealth of each was social wealth,
@@ -1687,7 +1686,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             on other questions had given his legists so much trouble, had nothing to say
             about property. Be not surprised at it: in the eyes of that man, the most selﬁsh
             and wilful person that ever lived, property was the ﬁrst of rights, just as
-35 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             submission to authority was the most holy of duties.
                The right of occupation, or of the ﬁrst occupant, is that which results from
             the actual, physical, real possession of a thing. I occupy a piece of land; the
@@ -1737,7 +1736,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
                We never can conceive how the equality of conditions, having once existed,
             could afterwards have passed away. What was the cause of such
             degeneration? The instincts of the animals are unchangeable, as well as the
-36 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             diﬀerences of species; to suppose original equality in human society is to
             admit by implication that the present inequality is a degeneration from the
             nature of this society,—a thing which the defenders of property cannot
@@ -1787,7 +1786,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
 
                3. Whenever a spectator comes in or goes out, the places of all contract or
                   enlarge correspondingly: for, says Reid, “the right of property is not
-37 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
                   innate, but acquired;” consequently, it is not absolute; consequently, the
                   occupancy on which it is based, being a conditional fact, cannot endow
                   this right with a stability which it does not possess itself. This seems to
@@ -1834,7 +1833,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
                   moment, spontaneously and without cause, people began to use the
                   words thine and mine; and that they might have, or ought to have,
                   dispensed with them. But thine and mine were never invented.”
-38 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
               A philosopher yourself, you are too realistic. Thine and mine do not
             necessarily refer to self, as they do when I say your philosophy, and my
             equality; for your philosophy is you philosophizing, and my equality is I
@@ -1882,7 +1881,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             can form no associations,—they live as enemies. Then, if inequality of
             conditions is a necessary evil, so is isolation, for society and inequality are
             incompatible with each other. Then, if society is the true condition of man’s
-39 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             existence, so is equality also. This conclusion cannot be avoided.
               This being so, how is it that, ever since the establishment of this balance,
             inequality has been on the increase? How is it that justice and isolation
@@ -1931,7 +1930,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
               But why did not this ideologist perceive that man is not proprietor even of
             his own faculties? Man has powers, attributes, capacities; they are given him
             by Nature that he may live, learn, and love: he does not own them, but has
-40 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             only the use of them; and he can make no use of them that does not
             harmonize with Nature’s laws. If he had absolute mastery over his faculties,
             he could avoid hunger and cold; he could eat unstintedly, and walk through
@@ -1981,7 +1980,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
                He confounds property with possession, communism with equality, the just
             with the natural, and the natural with the possible. Now he takes these
             diﬀerent ideas to be equivalents; now he seems to distinguish between them,
-41 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             so much so that it would be inﬁnitely easier to refute him than to understand
             him. Attracted ﬁrst by the title of the work, “Philosophy of Political Economy,”
             I have found, among the author’s obscurities, only the most ordinary ideas.
@@ -2031,7 +2030,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
 ## valid after my death as during my life.”
 
                In fact, to become a proprietor, in M. Cousin’s opinion, one must take
-42 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             possession by occupation and labor. I maintain that the element of time must
             be considered also; for if the ﬁrst occupants have occupied every thing, what
             are the new comers to do? What will become of them, having an instrument
@@ -2081,7 +2080,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             number of inhabitants rises to thirty-four millions, each one will have a right
             only to 1/34,000,000. Now, so regulate the police system and the government,
             labor, exchange, inheritance, &c., that the means of labor shall be shared by
-43 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             all equally, and that each individual shall be free; and then society will be
             perfect.
                Of all the defenders of property, M. Cousin has gone the farthest. He has
@@ -2131,7 +2130,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             axioms are absolute, deﬁnitions are certain; and all the results of a principle
             are to be accepted, provided they are logically deduced. Deplorable pride! We
             know nothing of our nature, and we charge our blunders to it; and, in a ﬁt of
-44 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             unaﬀected ignorance, cry out, “The truth is in doubt, the best deﬁnition
             deﬁnes nothing!” We shall know some time whether this distressing
             uncertainty of jurisprudence arises from the nature of its investigations, or
@@ -2177,7 +2176,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             none could live without working. It necessarily followed that, to obtain
             equality of products, there must be equality of labor; and that, to obtain
             equality of labor, there must be equality of facilities for labor. Whoever
-45 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             without labor got possession, by force or by strategy, of another’s means of
             subsistence, destroyed equality, and placed himself above or outside of the
             law. Whoever monopolized the means of production on the ground of greater
@@ -2227,7 +2226,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             others. Indeed, every right—it is Pothier who says it—supposes a producing
             cause in the person who enjoys it; but in man who lives and dies, in this son of
             earth who passes away like a shadow, there exists, with respect to external
-46 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             things, only titles of possession, not one title of property. Why, then, has
             society recognized a right injurious to itself, where there is no producing
             cause? Why, in according possession, has it also conceded property? Why has
@@ -2274,7 +2273,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             himself represents, jurisprudence is at fault: Themis has lost one scale of her
             balance.
               Listen to the professor of Rennes, the learned Toullier: —
-47 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
                   “How could this claim, made valid by occupation, become stable and
                   permanent property, which might continue to stand, and which
 ## might be reclaimed after the ﬁrst occupant had relinquished
@@ -2324,7 +2323,6 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
                   two things which, in the language of the law, have nothing whatever
 ## in common. In this we see what a wonderful change has been
                   eﬀected in property, and to what an extent Nature has been altered
-48 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
 
 ## by the civil laws.”
 
@@ -2375,7 +2373,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             therefore, customary to retain property by intent alone—nudo animo; it could
             be sacriﬁced only with the consent and by the action of the proprietor.
               It was necessary that the equality in the division should be kept up from one
-49 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             generation to another, without a new distribution of the land upon the death
             of each family; it appeared therefore natural and just that children and
             parents, according to the degree of relationship which they bore to the
@@ -2425,7 +2423,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             substantiate the right. Now, property is no exception to this rule: then the
             universal recognition of the right of property does not legitimate the right of
             property. Man is mistaken as to the constitution of society, the nature of right,
-50 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             and the application of justice; just as he was mistaken regarding the cause of
             meteors and the movement of the heavenly bodies. His old opinions cannot be
             taken for articles of faith. Of what consequence is it to us that the Indian race
@@ -2475,7 +2473,6 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
 
                   “In fact, the cause of the cultivation of the habitable earth.”
                If the cultivator ceased to be a tenant, would the land be worse cared for?
-51 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
 
 ## “The guarantee and the morality of labor.”
 
@@ -2527,7 +2524,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
 ## All have an equal right of occupancy.
                The amount occupied being measured, not by the will, but by the variable
             conditions of space and number, property cannot exist.
-52 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
               This no code has ever expressed; this no constitution can admit! These are
             axioms which the civil law and the law of nations deny! …
               But I hear the exclamations of the partisans of another system: “Labor,
@@ -2573,7 +2570,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             Soviet Union stand as important political statements in their own right and
             validate Bakunin’s insight. So intense were the debates between Bakunin and
             Marx, and the proponents of each within the First International, that Marx
-53 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             infamously undermined the International by moving its oﬀices to New York
             rather than have the Bakuninist (that is, anarchist) wing win out.
               A ﬁgure of the barricades himself imprisoned and driven into exile by
@@ -2619,7 +2616,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             and social laws, so that all these millions of wretched human beings,
             deceived, enslaved, tormented, exploited, may be released from all their
             oﬀicial and oﬀicious directors and benefactors—both associations and
-54 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             individuals—and at last breathe in complete freedom.
                Convinced as we are that individual and social evil resides much less in
             individuals than in the organization of material things and in social conditions,
@@ -2669,7 +2666,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             political parties; it was proved particularly ineﬀective against the privileged
             classes, since power resides less in men themselves than in the circumstances
             created for men of privilege by the organization of material goods, that is, the
-55 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             institution of the State and its natural basis, individual property.
               Therefore, to make a successful revolution, it is necessary to attack
             conditions and material goods; to destroy property and the State. It will then
@@ -2720,7 +2717,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
 ## a. the bankruptcy of the State
 
                b. the discontinuance of payments of private debts through the intervention
-56 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
                   of the State, leaving to each debtor the right to pay his own debts if he so
 ## desires
 
@@ -2772,7 +2769,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
                    federation of associations, communes, and provinces which have rebelled
                    in the name of the same principles, and in order to organize a
                    revolutionary force capable of overcoming the reaction. There will be no
-57 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
                   dispatching of oﬀicial revolutionary commissars with ribbons decorating
                   their chests but revolutionary propagandists will be sent to all the
                   provinces and communes, particularly to the peasants, who cannot be
@@ -2821,7 +2818,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             composed of dedicated, energetic, intelligent individuals, sincere friends of
             the people above all, men neither vain nor ambitious, but capable of serving
             as intermediaries between the revolutionary idea and the instincts of the
-58 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             people.
               There need not be a great number of these men. One hundred
             revolutionaries, strongly and earnestly allied, would suﬀice for the
@@ -2869,7 +2866,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             individual rights from public rights, the only representative of which—the
             State—was thereby invested with the power to suppress all the revolts of
             individual egoism, having, however, the duty of protecting every one of its
-59 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             members in the exercise of his rights in so far as they did not run counter to
             the general rights of the community.
                The State Formed by the Social Contract Is the Modern Atheistic State. Now
@@ -2919,7 +2916,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             species whether or not it is formed into similar associations.
                Morality Is Co-Extensive Only With the Boundaries of Particular States. The
             existence of a single limited State necessarily presupposes the existence, and
-60 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             if necessary provokes the formation of several States, it being quite natural
             that the individuals who ﬁnd themselves outside of this State and who are
             menaced by it in their existence and liberty, should in turn league themselves
@@ -2969,7 +2966,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             human morality and justice, whether private or common, and thereby it often
             sets itself in sharp contradiction to them. Thus, for instance, to oﬀend,
             oppress, rob, plunder, assassinate, or enslave one’s fellow man is, to the
-61 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             ordinary morality of man, to commit a serious crime.
                In public life, on the contrary, from the point of view of patriotism, when it is
             done for the greater glory of the State in order to conserve or to enlarge its
@@ -3017,7 +3014,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             idea is the invisible power of our century, with which the present powers—the
             States—must reckon. They cannot submit to it of their own free will because
             such submission on their part would be equivalent to suicide, since the
-62 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             triumph of humanity can be realized only through the destruction of the
             States. But the States can no longer deny this idea nor openly rebel against it,
             for having now grown too strong, it may ﬁnally destroy them.
@@ -3067,7 +3064,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             revolting crimes; why present and past kings and ministers of all times and of
             all countries—statesmen, diplomats, bureaucrats, and warriors—if judged
             from the point of view of simple morality and human justice, deserve a
-63 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             thousand times the gallows or penal servitude.
                For there is no terror, cruelty, sacrilege, perjury, imposture, infamous
             transaction, cynical theft, brazen robbery, or foul treason which has not been
@@ -3117,7 +3114,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             violation of justice and of honesty—for the good of the State.
                Wherein Machiavelli Was Wrong. Yes, Machiavelli was right: we cannot
             doubt it now that we have the experience of three and a half centuries added
-64 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             to his own experience. Yes, History tells us that while small States are
             virtuous because of their feebleness, powerful States sustain themselves only
             through crime. But our conclusion will diﬀer radically from that of
@@ -3167,7 +3164,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             convergence of two apparently contrary orders of thoughts and facts upon
             one and the same conviction: that of the necessity of sacriﬁcing human liberty
             in order to make men into moral beings and transform them into saints,
-65 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             according to some, and virtuous citizens, according to others? As for us, we
             are hardly surprised at it, for we are convinced that politics and theology are
             both closely related, stemming from the same origin and pursuing the same
@@ -3217,7 +3214,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             consciousness, to all ideas, to all intellectual and moral discernment; it is the
             very basis, it is the world in which, inevitably and at a much later stage, there
             began to develop that which we call good and evil.
-66 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
               The State a Historically Necessary Evil. It is not so with the State. And I do
             not hesitate to say that the State is an evil but a historically necessary evil, as
             necessary in the past as its complete extinction will be necessary sooner or
@@ -3263,7 +3260,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             Why Sentence Should Not Be Passed Upon Them: On October 7th, 8th, and
             9th, 1886 (Chicago: Socialistic Publishing Society, 1886?), 1–23.
             Chapter 5: Address of August Spies
-67 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
               August Spies
               your honor: In addressing this court I speak as the representative of one
             class to the representative of another. I will begin with the words uttered ﬁve
@@ -3313,7 +3310,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             an honorable man!—that he had himself been searching for the young man,
             but had not been able to ﬁnd him. About three weeks later I learned that the
             very same young man had been kidnapped and taken to Buﬀalo, N.Y., by two
-68 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             of the illustrious guardians of “Law and Order,” two Chicago detectives. Let
             Mr. Grinnell, let the Citizens’ Association, his employer, let them answer for
             this! And let the public sit in judgment upon the would-be assassins!
@@ -3362,7 +3359,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             number of lives were lost—many were wounded. But hundreds of lives were
             thereby saved! But for that bomb, there would have been a hundred widows
             and hundreds of orphans where now there are a few. These facts have been
-69 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             carefully suppressed, and we were accused and convicted of conspiracy by
             the real conspirators and their agents. This, your honor, is one reason why
             sentence should not be passed by a court of justice—if that name has any
@@ -3412,7 +3409,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             the State? For the same reason! The State, however, wisely avoided this point
             in the prosecution of this case. From their testimony one is forced to conclude
             that we had, in our speeches and publications, preached nothing else but
-70 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             destruction and dynamite. The court has this morning stated that there is no
             case in history like this. I have noticed, during this trial, that the gentlemen of
             the legal profession are not well versed in history. In all historical cases of this
@@ -3462,7 +3459,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             and follow the thorny path of science. “No change! No change! You would
             destroy society and civilization!” has ever been the cry of the ruling classes.
             They are so comfortably situated under the prevailing system that they
-71 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             naturally abhor and fear even the slightest change. Their privileges are as
             dear to them as life itself, and every change threatens these privileges. But
             civilization is a ladder whose steps are monuments of such changes! Without
@@ -3512,7 +3509,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             correctness of the statement? That I should have compared myself with
             Washington, is a base lie. But if I had, would that be murder? I may have told
             that individual who appeared here as a witness that the workingmen should
-72 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             procure arms, as force would in all probability be the ultima ratio; and that in
             Chicago there were so and so many armed, but I certainly did not say that we
             proposed to “inaugurate the social revolution.” And let me say here:
@@ -3562,7 +3559,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             established, and you force the masses who are now agitating in a peaceable
             way into open rebellion! You thereby shut oﬀ the last safety valve—and the
             blood which will be shed, the blood of the innocent—it will come upon your
-73 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             heads!
               “Seven policemen have died,” said Grinnell, suggestively winking at the
             jury. You want a life for a life, and have convicted an equal number of men, of
@@ -3612,7 +3609,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             proprietors. The forces that tossed you into the paradise, the industrial forces,
             are still at work. They are growing more active and intense from day to day.
             Their tendency is to elevate all mankind to the same level, to have all
-74 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             humanity share in the paradise you now monopolize. You, in your blindness,
             think you can stop the tidal wave of civilization and human emancipation by
             placing a few policemen, a few gatling guns, and some regiments of militia on
@@ -3661,7 +3658,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
               Grinnell spoke of Victor Hugo. I need not repeat what he said, but will
             answer him in the language of one of our German philosophers: “Our
             bourgeoise erect monuments in honor of the memory of the classics. If they
-75 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             had read them they would burn them!” Why, amongst the articles read here
             from the Arbeiter-Zeitung, put in evidence by the State, by which they intend
             to convince the jury of the dangerous character of the accused Anarchists, is
@@ -3712,7 +3709,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             decree of our “honorable court” is consummated.
               “These men,” Grinnell said repeatedly, “have no principles; they are
             common murderers, assassins, robbers,” etc. I admit that our aspirations and
-76 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             objects are incomprehensible to unprincipled ruﬀians, but surely for this we
             are not to be blamed. The assertion, if I mistake not, was based upon the
             ground that we sought to destroy property. Whether this perversion of facts
@@ -3763,7 +3760,6 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
                   “Machinery involves a great accumulation of power, and always a
 ## greater division of labor in consequence.
 
-77 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
                   “The advantages resulting from this centralization of production
                   were of such a nature as to cause its still further extension, and
                   from this concentration of the means of labor and of the operations
@@ -3812,7 +3808,6 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
                   desirable, but has become an imperative necessity, and wherever we
                   ﬁnd in history that something has once become a necessity, there
                   we always ﬁnd that the next step was the doing away with that
-78 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
 
 ## necessity by the supplying of the logical want.
 
@@ -3864,7 +3859,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
 
                   “‘Remedy? Well, I should like it better if it could be done without
                   violence, but you, gentlemen, and the class you represent, take care
-79 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
                   that it cannot be accomplished otherwise. Let us suppose that the
                   workingmen of today go to their employers, and say to them:
                   “Listen! Your administration of aﬀairs doesn’t suit us any more; it
@@ -3914,7 +3909,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
                   “‘How can anything be destroyed which does not exist? In our times
 ## there is no individuality; that only can be developed under
                   Socialism, when mankind will be independent economically. Where
-80 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
                   do you meet today with real individuality? Look at yourselves,
                   gentlemen! You don’t dare to give utterance to any subjective
                   opinion which might not suit the feelings of your bread givers and
@@ -3963,7 +3958,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             of the masses in order that a few rude and arrogant parvenues might become
             “eminent manufacturers,” “extensive packing house owners,” or “inﬂuential
             shoe black dealers”—to do this they lacked that speciﬁc Christian organ.
-81 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
               Socialism teaches that the machines, the means of transportation and
             communication are the result of the combined eﬀorts of society, past and
             present, and that they are therefore rightfully the indivisible property of
@@ -4013,7 +4008,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             directions, and don’t stop for a little blood. That which made the solid South
             will make a solid North!” What does your honor say to these utterances of a
             “law and order” organ—a Republican organ? How does the Arbeiter-Zeitung
-82 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             compare with this?
               The book of John Most, which was introduced in court, I have never read,
             and I admit that passages were read here that are repulsive—that must be
@@ -4063,7 +4058,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             gone into this movement for the emancipation of the oppressed and suﬀering.
             It is true we have called upon the people to arm and prepare for the stormy
             times before us.
-83 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
                This seems to be the ground upon which the verdict is to be sustained. “But
             when a long train of abuses and usurpations pursuing invariably the same
             object evinces a design to reduce the people under absolute despotism, it is
@@ -4110,7 +4105,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             alternatives to punitive approaches to social ills. He also did much to analyze
             the social nature of laws as aspects, not of deliberation, justice, and order, but
             of class rule. Kropotkin reminds the reader that rule of law is rule of the
-84 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             speciﬁc order in which the law is created and the dominant ones who make it.
             These analyses are exempliﬁed in the chapters by Kropotkin included here.
               Chapter 6, pamphlet, Law and Authority (London: International Publishing
@@ -4155,7 +4150,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             friendship—that, if this state of things continues, we shall lose all initiative, all
             habit of thinking for ourselves. Our society seems no longer able to
             understand that it is possible to exist otherwise than under the reign of Law,
-85 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             elaborated by a representative government and administered by a handful of
             rulers; and even when it has gone so far as to emancipate itself from the
             thraldom, its ﬁrst care had been to reconstitute it immediately. “The Year I. of
@@ -4205,7 +4200,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             the lawyers rose to power, they did their best to strengthen the principle upon
             which their ascendancy depended. The middle-class at once accepted it as a
             dyke to dam up the popular torrent. The priestly crew hastened to sanctify it,
-86 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             to save their bark from foundering amid the breakers. Finally, the people
             received it as an improvement upon the arbitrary authority and violence of
             the past.
@@ -4255,7 +4250,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             who vouch for its supernatural origin, or else, bloodshed, conquest by ﬁre and
             sword. They study the characteristics of law, and instead of perpetual growth
             corresponding to that of the human race, they ﬁnd its distinctive trait to be
-87 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             immobility, a tendency to crystalise what should be modiﬁed and developed
             day by day. They ask how law has been maintained, and in its service they see
             the atrocities of Byzantinism, the cruelties of the Inquisition, the tortures of
@@ -4302,7 +4297,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             habits, and that suﬀices to maintain cordial relations between the inhabitants
             of the village, the members of the tribe or community. Even amongst
             ourselves—the “civilised” nations—when we leave large towns, and go into
-88 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             the country, we see that there the mutual relations of the inhabitants are still
             regulated according to ancient and generally accepted customs, and not
             according to the written law of the legislators. The peasants of Russia, Italy,
@@ -4352,7 +4347,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             it in others; and the bully, who procures the invasion and pillage of his
             neighbours, that he may return laden with booty, and followed by slaves;
             these two, hand in hand, have succeeded in imposing upon primitive society
-89 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             customs advantageous to both of them, but tending to perpetuate their
             domination of the masses. Proﬁt, gin by the indolence, the fears, the inertia of
             the crowd, and thanks to the continual repetition of the same acts, they have
@@ -4400,7 +4395,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             advantage of the dominant minority. Military authority undertook to ensure
             obedience. This new function was a fresh guarantee to the power of the
             warrior; now he had not only mere brute force at his service; he was the
-90 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             defender of law.
               If law, however, presented nothing but a collection of prescriptions
             serviceable to rulers, it would ﬁnd some diﬀiculty in insuring acceptance and
@@ -4447,7 +4442,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             terrible eﬀorts have been needed, what rivers of blood have been spilt, every
             time there has been a question of the repeal of one of these fundamental
             enactments serving to hold the people in fetters. Before she could abolish the
-91 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             vestiges of serfdom and feudal rights, and break up the power of the royal
             court, France was forced to pass through four years of revolution and twenty
             years of war. Decades of conﬂict are needful to repeal the least of the
@@ -4497,7 +4492,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             organised for the plunder of a people daily becoming more peaceful, as they
             applied themselves to agricultural pursuits. These robbers exploited the
             feelings for justice inherent in the people—they posed as the administrators of
-92 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             that justice, made a source of revenue for themselves out of its fundamental
             principles and concocted laws to maintain their own domination.
               Later on, these laws, collected and classiﬁed by jurists, formed the
@@ -4547,7 +4542,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             portions of the ancient ediﬁce, the Revolution delivered over the power of
             law-making to the bourgeoisie, who, in their turn, began to raise a fresh
             framework of laws, intended to maintain and perpetuate middle-class
-93 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             domination amongst the masses. Their Parliament makes laws right and left,
             and mountains of law accumulate with frightful rapidity. But what are all
             these laws at bottom?
@@ -4597,7 +4592,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             preservation of society, is now perceived to be nothing but an instrument for
             the maintenance of exploitation, and the domination of the toiling masses by
             rich idlers. At the present day its civilising mission is nil; it has but one object,
-94 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             to bolster up exploitation.
               This is what is told us by history as to the development of law. Is it in virtue
             of this history that we are called upon to respect it? Certainly not. It has no
@@ -4644,7 +4639,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             have the same object in view, their end being to keep the workman in a
             subordinate position towards his employer, and thus aﬀord security for
             exploitation.
-95 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
               As for guaranteeing the product of his labour to the producer, there are no
             laws which even attempt such a thing. It is so simple and natural, so much a
             part of the manners and customs of mankind, that law has not given it so
@@ -4694,7 +4689,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             that this species of law is absolutely indispensable to the maintenance of
             security in our societies. These are laws developed from the nucleus of
             customs useful to human communities, which have been turned to account by
-96 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             rulers to sanctify their own domination. The authority of the chiefs of tribes,
             of rich families in towns, and of the king, depended upon their judicial
             functions, and even down to the present day, whenever the necessity of
@@ -4742,7 +4737,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             by all those cases which are due at present to habitual criminals, who have
             been brutalised in prison.
                We are continually being told of the beneﬁts conferred by law, and the
-97 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
             beneﬁcial eﬀect of penalties, but have the speakers ever attempted to strike a
             balance between the beneﬁts attributed to laws and penalties, and the
             degrading eﬀect of these penalties upon humanity? Only calculate all the evil
@@ -4787,7 +4782,6 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             sympathy are the only eﬀectual barriers we can oppose to the anti-social
             instincts of certain amongst us.
             Chapter 7: Are Prisons Necessary?
-98 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
 
 ## Peter Kropotkin
                If we take into consideration all the inﬂuences indicated in the above rapid
@@ -4838,7 +4832,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
             Europe. And if we should take into account the disturbing inﬂuences which
             will increase, or diminish, next year, the number of murders committed, we
             might predict the ﬁgures with a still greater accuracy.
-99 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
                There was, some time ago, in Nature, an essay on the number of assaults
              and suicides committed in India with relation to temperature and the
              moisture of the air. Everybody knows that an excessively hot and moist
@@ -4888,7 +4882,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              interesting investigations, that we surely can form a nearly complete idea
              about this category of causes which bring men and women within our penal
              jurisdiction. Of course, we cannot endorse in full the conclusions of one of the
-100 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              most prominent representatives of this school, Dr. Lombroso,[48] especially
              those he arrives at in one of his writings.[49] When he shows us that so many
              inmates of our prisons have some defect in the organization of their brains,
@@ -4938,7 +4932,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              “borderland between crime and insanity, near one boundary of which we meet
              with something of madness but more of sin (of conscious desire of doing some
              harm, we prefer to say), and near the other boundary of which something of
-101 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              sin but more of madness.” But, “a just estimate of the moral responsibility of
              the unhappy people inhabiting this borderland” will never be made as long as
              the idea of “sin,” or of “bad will,” is not got rid of.[51]
@@ -4987,7 +4981,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              The causes of the violence which has brought him into the prisoners’ dock
              must be sought long years before. And if we push our analysis still deeper, we
              discover that this state of mind is itself a consequence of some physical
-102 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              disease either inherited or developed by an abnormal life; some disease of the
              heart, the brain, or the digestive system. For many years these causes have
              been at work before resulting in some deed which falls within the reach of the
@@ -5037,7 +5031,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              from this defect? It is a suﬀicient reason for sending them to prison?
                 Humanity has seldom ventured to treat its prisoners like human beings; but
              each time it has done so it has been rewarded for its boldness. I was
-103 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              sometimes struck at Clairvaux with the kindness bestowed on sick people by
              several assistants in the hospital; I was touched by several manifestations of a
              reﬁned feeling of delicacy. Dr. Campbell, who has had much more opportunity
@@ -5086,7 +5080,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              been put to death during the preceding reign[56] and about 25 since 1881,
              capital punishment does not exist in Russia for common-law oﬀences. It was
              abolished in 1753, and since that time murderers are merely condemned to
-104 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              hard-labour from eight to twenty years (parricides for life), after the
              expiration of which term they are settled free for life in Siberia. Therefore,
              Eastern Siberia is full of liberated assassins; and, nevertheless, there is hardly
@@ -5136,7 +5130,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              the deeds of our assassins.
                From year to year thousands of children grow-up in the ﬁlth—material and
              moral—of our great cities, completely abandoned amidst a population
-105 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              demoralized by a life from hand to mouth, the incertitude of to-morrow, and a
              misery of which no former epoch has had even an apprehension. Left to
              themselves and to the worst inﬂuences of the street, receiving but little care
@@ -5186,7 +5180,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              decorum under which he conceals his bestiality; when the watchword of our
              civilized world is: “Enrich yourselves! Crush down everything you meet in
              your way, by all means short of those which might bring you before a court!”
-106 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              When apart from a few exceptions, all—from the landlord down to the artisan
              —are taught every day in a thousand ways that the beau-ideal of life is to
              manage aﬀairs so as to make others work for you; when manual work is so
@@ -5236,7 +5230,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              have known in history, and we see still, communities where men are more
              closely connected together than in our Western European cities. China is an
              instance in point. The great “compound family” is there still the basis of the
-107 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              social organization: the members of the compound family know one another
              perfectly; they support one another, they help one another, not merely in
              material life, but also in moral troubles; and the number of “crimes” both
@@ -5285,7 +5279,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
                 Liberty and fraternal care have proved the best cure on our side of the
              above-mentioned wide borderland “between insanity and crime.” They will
              prove also the best cure on the other boundary of the same borderland.
-108 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              Progress is in that direction. All that tends that way will bring us nearer to the
              solution of the great question which has not ceased to preoccupy human
              societies since the remotest antiquity, and which cannot be solved by prisons.
@@ -5327,7 +5321,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              drawn after the photographs, and are therefore of no account so long as the
              photographs themselves are accessible.
                Certain as it is that vice, crime, and brutality very often ﬁnd a characteristic
-109 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              expression of face, so equally certain is it also that prominent physiognomists
              very often judge inaccurately and falsely. There are many instances of this. In
              Mantegazza’s work are found examples. Now, if it is diﬀicult to arrive at a
@@ -5377,7 +5371,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              know that this unfortunate inheritance came from his mother’s side. The
              Darwin family was famous for two hundred years. The sons of Hegel and
              Schelling were also able men. Many more instances of that kind could be
-110 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              adduced; and whenever a genius or his posterity goes to the wall, there are
              often external circumstances that cause it. The Fielden who became famous
              as a Member of Parliament at the time of the Chartist movement in England,
@@ -5428,8 +5422,6 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              what he says of the change that has come upon himself.
 ## Respectfully Yours,
 
-111 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
-
 ## Joseph E. Gary.
 
                Professor Lombroso wrote his article with the best intentions, I fully
@@ -5474,7 +5466,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
                It is a general opinion that we, because we call ourselves revolutionists,
              expect Anarchy to come with one stroke—as the immediate result of an
              insurrection that violently attacks all that which exists and which replaces it
-112 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              with institutions that are really new.[59] And to say the truth this idea is not
              lacking among some comrades who also conceive the revolution in such a
              manner.
@@ -5524,7 +5516,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              and make them hope that something can be attained through the kindness of
              the exploiters and governments. The problem lies in knowing how to use the
              little power we have—that we go on achieving, in the most economical way,
-113 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              more prestige for our goal.
                There is in every country a government which, with brutal force, imposes its
              laws on all; it compels all to be subjected to exploitation and to maintain,
@@ -5574,7 +5566,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              and more things until it will have embraced all mankind and all life’s
              manifestations.
                Having overthrown the government and all the existing dangerous
-114 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              institutions which with force it defends, having conquered complete freedom
              for all and with it the right to the means of production, without which liberty
              would be a lie, and while we are struggling to arrive to this point, we do not
@@ -5621,7 +5613,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
                Such statements were distorted, counterfeited, put in a bad light by the
              bourgeois press, and the reason is clear. The duty of the press, paid to defend
              the interests of police and sharks, is to hide the real nature of anarchism from
-115 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              the public, and seek to accredit the tale about anarchists being full of hatred
              and destroyers; the press does that by duty, but we have to acknowledge that
              they often do it in good faith, out of pure and simple ignorance. Since
@@ -5671,7 +5663,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              bloodsucking petty bosses, it also produces the likes of Caﬁero, Reclus, and
              Kropotkin, and the many people that in any epoch sacriﬁced their class
              privileges to an ideal. If the proletariat gave and gives so many heroes and
-116 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              martyrs of the cause of human redemption, it also gives oﬀ the white guards,
              the slaughterers, the traitors of their own brothers, without which the
              bourgeois tyranny could not last a single day.
@@ -5718,7 +5710,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              sheer necessity of defence”.
                Going by the second part of your reasoning, it would almost look like only “a
              materially violent thrust” constitutes a violation of the justice principle that
-117 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              will be fundamental in the future society.
                Why force and physical constraint, although limited and inspired by the idea
              of a sheer necessity of defence, should not be used also in those cases
@@ -5768,7 +5760,6 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
 ## your loving
 ## Aldo Venturini
 
-118 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
              Malatesta’s Reply:
                The criticism of our friend Venturini is quite right: however, I point out to
              him that I only expressed some ideas about the complex question of crime,
@@ -5817,7 +5808,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
 ## Anyway, let us come back to the topic of crime.
                As Venturini correctly points out, there are worse ways of oﬀending justice
              and freedom than those committed by material violence, against which the
-119 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              resort to physical constraint can be necessary and urgent. Therefore I agree
              that the principle I put forward, i.e. that one has a right to resort to material
              force only against those who want to violate someone else’s right by material
@@ -5865,7 +5856,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              to be improved, and the forms of expressing and defending it need to be
              worked out.”
              Part Eight: Voltairine De Cleyre (1866–
-120 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              1912)
                Voltairine de Cleyre distinguishes between social conscience and personal
              conscience. Every crime is a charge against society and society must honestly
@@ -5910,7 +5901,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              thousands whom they do not know, they have no conception; they sleep; and
              they hear the voices of those who cry aloud about these things, dimly, as in
              dreams; and they do not wish to awaken. Nevertheless, at the end of the
-121 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              centuries they always awaken. It is the radical who always wins at last. At the
              end of the centuries institutions are reviewed by this aroused social
              conscience, are revised, sometimes are utterly rooted out.
@@ -5959,7 +5950,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
                That is about the height and power of my voice, or of any individual voice, in
              the present state of the question. I do not deceive myself. I do not imagine
              that the question of crime and punishment will be settled till long, long after
-122 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              the memory of me shall be as completely swallowed up by time as last year’s
              snow is swallowed by the sea. Two thousand years ago a man whose soul
              revolted at punishment, cried out: “Judge not, that ye be not judged,” and yet
@@ -6009,7 +6000,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              may be mixed in smaller proportions altogether, or the outside temptation has
              not come upon you.
                I am no disciple of that school whose doctrine is summed up in the teaching
-123 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              that Man’s Will is nothing, his Material Surroundings all. I do not accept that
              popular socialism which would make saints out of sinners only by ﬁlling their
              stomachs. I am no apologist for characterlessness, and no petitioner for
@@ -6058,7 +6049,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              inﬁnitely more modest. Moreover there is some chance of its being true, while
              the other is highly imaginative ﬁction.
                 This is not to impugn the honesty of those who inherit this survival of an
-124 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              earlier mental state of the race, and who accept it as they accept their
              appetites or anything else they ﬁnd themselves born with. Nor is it to belittle
              those past eﬀorts of active and ardent souls who claimed direct divine
@@ -6107,7 +6098,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              no free-will freak thrust by an omnipotent joker upon a world of cause and
              sequence to play havoc therein, but just a poor diﬀerentiated bit of
              protoplasm as much subject to the general processes of matter and mind as
-125 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              his ancient progenitor in the depths of the Silurian sea, not until then was it
              possible for any real conception of the scope of history to begin. Not until
              then was it said: “The actions of men are the eﬀects of large and general
@@ -6157,7 +6148,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              done. This is one of the results which must, in the end, ﬂow from the labors of
              the real historians; one of the reasons why history was worth writing at all.
                Now the next point in the problem is the criminal himself. Admitting what
-126 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              cannot be impeached, that there is cause and sequence in the action of man;
              admitting the pressure of general causes upon all alike, what is the reason
              that one man is a criminal and another not?
@@ -6206,7 +6197,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              or for their unfortunate physical condition? On the contrary, you pity them,
              you realize that life is a long inﬂiction to them, and your best and tenderest
              sympathies go out to them. Why not to the other, equally a helpless victim of
-127 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              an evil inheritance? Granting for the moment that you have the right to
              punish the mentally responsible, surely you will not claim the right to punish
              the mentally irresponsible! Even the law does not hold the insane man guilty.
@@ -6256,7 +6247,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              suddenly commit an act of violence which is at utter variance with their whole
              former existence; such as, for instance, the murder of a seducer by the father
              of the injured girl, or of a wife’s paramour by her husband. If I believed in
-128 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              severity at all I should say that these were the criminals upon whom society
              should look with most severity, because they are the ones who have most
              mental responsibility. But that also is nonsense; for such an individual has
@@ -6306,7 +6297,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              perpetually getting in prison; no sooner is he out than he does something else
              and gets in again. The brand that at ﬁrst scorched him has succeeded in
              searing. He no longer feels the ignominy. He is a “jail-bird,” and he gets to
-129 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              have a cynical pride in his own degradation. Every man’s hand is against him,
              and his hand is against every man’s. Such are the reforming eﬀects of
              punishment. Yet there was a time when he, too, might have been touched, had
@@ -6356,7 +6347,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              mild punishments do not reform, is any measure of punishment conceivable or
              attainable which will better our case?
                Before answering this question let us consider the class of crimes which so
-130 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              far has not been dwelt upon, but which nevertheless comprises probably ninetenths of all oﬀenses committed. These are all the various forms of stealing,—
              robbery, burglary, theft, embezzlement, forgery, counterfeiting, and the
              thousand and one ramiﬁcations and oﬀshoots of the act of taking what the law
@@ -6405,7 +6396,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              worse than the man who crawls in a cellar and dies of starvation? I think not.
              He is only a little more assertive. Cardinal Manning said: “A starving man has
              a natural right to his neighbor’s bread.” The Anarchist says: “A hungry man
-131 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              has a social right to bread.” And there have been whole societies and races
              among whom that right was never questioned. And whatever were the
              mistakes of those societies, whereby they perished, this was not a mistake,
@@ -6455,7 +6446,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              brain was ruined by the heavy labor of life? And what of the dream that
              turned to madness and destroyed the thing it loved the best?
                These are the things that make criminals, the perverted forces of man,
-132 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              turned aside by the institution of property, which is the giant social mistake
              to-day. It is your law which keeps men from using the sources and the means
              of wealth production unless they pay tribute to other men; it is this, and
@@ -6505,7 +6496,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              jealousy will cease. But religions and governments uphold this institution and
              constantly tend to create the spirit of ownership, with all its horrible
              consequences.
-133 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
                Ah, you will say, perhaps it is true; perhaps when this better social condition
              is evolved, and this freer social spirit, we shall be rid of crime,—at least ninetenths of it. But meanwhile must we not punish to protect ourselves?
                The protection does not protect. The violent man does not communicate his
@@ -6554,7 +6545,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              you must accept with it the blood-guilt of innocent men.
                Not only this, but you must accept also the responsibility for all the misery
              which results to others whose lives are bound up with that of the convict, for
-134 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              even he is loved by some one, much loved perhaps. It is a foolish thing to turn
              adrift a house full of children, to become criminals in turn, perhaps, in order
              to frighten some indeﬁnite future oﬀender by making an example of their
@@ -6605,7 +6596,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              things are germinal: in judge and prosecutor and prison-keeper too, and even
              in those small moral souls who cut out one undeviating pattern for all men to
              ﬁt, even in them there are the germs of passion and crime and sympathy and
-135 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              forgiveness. And some day things will stir in them and accuse them and
              awaken them. And that awakening will come when suddenly one day there
              breaks upon them with realizing force the sense of the unison of life, the
@@ -6655,7 +6646,6 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              bubbles?
 ## Can you not feel that
 
-136 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
                    “Men are the heart-beats of Man, the plumes that feather his
 ## wings,
                    Storm-worn since being began with the wind and the thunder of
@@ -6702,7 +6692,6 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
 ## Far back, through creeks and inlets making,
 ## Comes silent, ﬂooding in, the main.”
 
-137 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
              Part Nine: Lucy Parsons (1853–1942)
                Lucy Parsons argues that government is power reduced to science,
              especially so in an industrial age. Government is legalized force. From this
@@ -6748,7 +6737,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              in the interest of the few and at the expense of the many. Government in its
              last analysis is this power reduced to a science. Governments never lead; they
              follow progress. When the prison, stake or scaﬀold can no longer silence the
-138 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              voice of the protesting minority, progress moves on a step, but not until then.
                I will state this contention in another way: I learned by close study that it
              made no diﬀerence what fair promises a political party, out of power, might
@@ -6798,7 +6787,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              are composed of crystallized ideas—principles that are caught and impaled
              between the planks of long platforms, and considered too sacred to be
              disturbed by a close investigation. In all other “issues” there is always a limit;
-139 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              some imaginary boundary line beyond which the searching mind dare not
              penetrate, lest some pet idea melt into a myth. But anarchism is the usher of
              science—the master of ceremonies to all forms of truth. It would remove all
@@ -6848,7 +6837,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              are governed least.”
                Still unsatisﬁed perhaps, the inquirer seeks for details, for ways and means,
              and whys and wherefores. How will we go on like human beings—eating and
-140 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              sleeping, working and loving, exchanging and dealing—without government?
              So used have we become to “organized authority” in every department of life
              that ordinarily we cannot conceive of the most common-place avocations
@@ -6897,7 +6886,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              revivifying inﬂuences of self responsibility and self control, and see how we
              will respond to these better inﬂuences.”
                The belief in a literal place of torment has nearly melted away; and instead
-141 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              of the direful results predicted, we have a higher and truer standard of
              manhood and womanhood. People do not care to go to the bad when they ﬁnd
              they can as well as not. Individuals are unconscious of their own motives in
@@ -6947,7 +6936,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              naturally do without it. Some higher incentive must, and will, supersede the
              greed for gold. The involuntary aspiration born in man to make the most of
              one’s self, to be loved and appreciated by one’s fellow-beings, to “make the
-142 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              world better for having lived in it,” will urge him on the nobler deeds than
              ever the sordid and selﬁsh incentive of material gain has done.
                 If, in the present chaotic and shameful struggle for existence, when
@@ -6996,7 +6985,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              liberty. Once it was considered necessary to compel men to save their souls,
              with the aid of governmental scaﬀolds, church racks and stakes. Until the
              foundation of the American republic it was considered absolutely essential
-143 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              that governments should second the eﬀorts of the church in forcing people to
              attend the means of grace; and yet it is found that the standard of morals
              among the masses is raised since they are left free to pray as they see ﬁt, or
@@ -7045,7 +7034,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
                Following are deﬁnitions which will appear in all of the new standard
              dictionaries:
                Anarchism: The philosophy of a new social order based on liberty
-144 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              unrestricted by man made law, the theory that all forms of government are
              based on violence—hence wrong and harmful, as well as unnecessary.
                Anarchy: Absence of government; disbelief in and disregard of invasion and
@@ -7089,7 +7078,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              reformation.
                Hence, three objects—reformative, penal, and protective—are now sought
              to be accomplished by means of enforced physical restraint, by incarceration
-145 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              of a more or less solitary character, for a speciﬁc, or more or less indeﬁnite
              period.
                 Seeking to promote its own safety, society debars certain elements, called
@@ -7139,7 +7128,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              countries the spirit of personal revenge, of sworn, eternal enmity, still exists.
              What are the secret organizations of the Maﬁa type, so common in all South
              European lands, but the manifestations of this spirit?! And what is the
-146 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              underlying principle of duelling in its various forms—from the armed combat
              to the ﬁstic encounter—but this spirit of direct vengeance, the desire to
              personally avenge an insult or an injury, fancied or real: to wipe out the same,
@@ -7189,7 +7178,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              maltreated and abused by oﬀicial brutes whom he despises and hates, the
              young prisoner, utterly miserable, comes to curse the fact of his birth, the
              woman that bore him, and all those responsible, in his eyes, for his misery. He
-147 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              is brutalized by the treatment he receives and by the revolting sights he is
              forced to witness in prison. What manhood he may have possessed is soon
              eradicated by the “discipline.” His impotent rage and bitterness are turned
@@ -7239,7 +7228,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              and the dungeon are a permanent institution in all of them.
                Aside from the penal character of reformatories and the derogatory
              inﬂuence the deprivation of liberty and enjoyment exercise on the youthful
-148 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              mind, the associations in those institutions preclude, in the majority of cases,
              all reformation. Even in the reformatories no attempt is made to classify the
              inmates according to the comparative gravity of their oﬀenses, necessitating
@@ -7287,7 +7276,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              no one has a right to take anything from you without your consent.
                But your employer takes from you what you produce. The whole wealth
              produced by labor is taken by the capitalists and kept by them as their
-149 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              property.
                 The law says that your employer does not steal anything from you, because
              it is done with your consent. You have agreed to work for your boss for certain
@@ -7337,7 +7326,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
                 No, you are not a free man. You are dependent on your employer and on
              your wages. You are really a wage slave. The whole working class, under the
              capitalist system, is dependent on the capitalist class. The workers are wage
-150 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              slaves.
                So, what becomes of your freedom? What can you do with it? Can you do
              more with it than your wages permit?
@@ -7387,7 +7376,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              before them squeezed out of you, out of the workers.
 ## “Then it is not my boss who supports me, but I him?”
                Of course. He gives you a job; that is, permission to work in the factory or
-151 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              mill which was not built by him but by other workers like yourself. And for
              that permission you help to support him for the rest of your life or as long as
              you work for him. You support him so generously that he can aﬀord a mansion
@@ -7438,7 +7427,6 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
 
                 - all those monopolists and capitalists have a right to get proﬁts from the
                   farmer for using the railroads and other facilities before he can get his
-152 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
 
 ## food to you.
 
@@ -7489,7 +7477,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
                If they were capitalists themselves, then it would stand to reason why they
              want to protect the wealth they have stolen, and why they try to keep up, even
              by force, the system that gives them the privilege of robbing the people.
-153 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
                But the police and the soldiers, the defenders of “law and order,” are not of
              the capitalist class. They are men from the ranks of the people, poor men who
              for pay protect the very system that keeps them poor. It is unbelievable, is it
@@ -7534,7 +7522,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
 ## Emma Goldman
                OUR REFORMERS have suddenly made a great discovery—the white slave
              traﬀic. The papers are full of these “unheard-of conditions,” and lawmakers
-154 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              are already planning a new set of laws to check the horror.
                It is signiﬁcant that whenever the public mind is to be diverted from a great
              social wrong, a crusade is inaugurated against indecency, gambling, saloons,
@@ -7584,7 +7572,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              York City alone one out of every ten women works in a factory, that the
              average wage received by women is six dollars per week for forty-eight to
              sixty hours of work, and that the majority of female wage workers face many
-155 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              months of idleness which leaves the average wage about $280 a year. In view
              of these economic horrors, is it to be wondered at that prostitution and the
              white slave trade have become such dominant factors?
@@ -7632,7 +7620,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              is no mean factor in forcing her to seek recreation and forgetfulness in the
              gaiety and glimmer of prostitution. In other words, the servant girl, being
              treated as a drudge, never having the right to herself, and worn out by the
-156 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              caprices of her mistress, can ﬁnd an outlet, like the factory or shopgirl, only in
              prostitution.
                 The most amusing side of the question now before the public is the
@@ -7678,7 +7666,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
                   “Pope Sixtus IV. was more practical; from one single brothel, which
                   he himself had built, he received an income of 20,000 ducats.”
                In modern times the Church is a little more careful in that direction. At least
-157 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              she does not openly demand tribute from prostitutes. She ﬁnds it much more
              proﬁtable to go in for real estate, like Trinity Church, for instance, to rent out
              death traps at an exorbitant price to those who live oﬀ and by prostitution.
@@ -7727,7 +7715,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              nor is there any plausible reason why nature should adapt itself to a perverted
              conception of morality.
                Society considers the sex experiences of a man as attributes of his general
-158 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              development, while similar experiences in the life of a woman are looked upon
              as a terrible calamity, a loss of honor and of all that is good and noble in a
              human being. This double standard of morality has played no little part in the
@@ -7776,7 +7764,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
                Moralists are ever ready to sacriﬁce one-half of the human race for the sake
              of some miserable institution which they can not outgrow. As a matter of fact,
              prostitution is no more a safeguard for the purity of the home than rigid laws
-159 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              are a safeguard against prostitution. Fully ﬁfty per cent. of married men are
              patrons of brothels. It is through this virtuous element that the married
              women—nay, even the children—are infected with venereal diseases. Yet
@@ -7826,7 +7814,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              is suﬀicient evidence to prove that the export of American girls for the
              purpose of prostitution is by no means a small factor.
                 Thus Cliﬀord G. Roe, ex-Assistant State Attorney of Cook County, Ill., makes
-160 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              the open charge that New England girls are shipped to Panama for the
              express use of men in the employ of Uncle Sam. Mr. Roe adds that “there
              seems to be an underground railroad between Boston and Washington which
@@ -7876,7 +7864,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              referred to the former. As to the cadet system, abhorrent as it is, we must not
              ignore the fact that it is essentially a phase of modern prostitution,—a phase
              accentuated by suppression and graft, resulting from sporadic crusades
-161 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              against the social evil.
                The procurer is no doubt a poor specimen of the human family, but in what
              manner is he more despicable than the policeman who takes the last cent
@@ -7926,7 +7914,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              prostitute, can alone help to ameliorate present conditions. Wilful shutting of
              eyes and ignoring of the evil as a social factor of modern life, can but
              aggravate matters. We must rise above our foolish notions of “better than
-162 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              thou,” and learn to recognize in the prostitute a product of social conditions.
              Such a realization will sweep away the attitude of hypocrisy, and insure a
              greater understanding and more humane treatment. As to a thorough
@@ -7974,7 +7962,6 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
                   all but dead physically! Come on! I will show you one more hell—
 ## one more, the very worst.’
 
-163 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
                   “He took him to a prison and showed him a dungeon, with its foul
                   air and the many human forms, robbed of all health and energy,
                   lying on the ﬂoor, covered with vermin that were devouring their
@@ -8023,7 +8010,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              of maintaining vast armies of human beings caged up like wild beasts![67]
                Yet crimes are on the increase. Thus we learn that in America there are four
              and a half times as many crimes to every million population today as there
-164 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              were twenty years ago.
                 The most horrible aspect is that our national crime is murder, not robbery,
              embezzlement, or rape, as in the South. London is ﬁve times as large as
@@ -8072,7 +8059,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              inhumanity of his surroundings, and by the unscrupulous hounding of the
              machinery of the law. Archie and Flaherty are but the types of many
              thousands, demonstrating how the legal aspects of crime, and the methods of
-165 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              dealing with it, help to create the disease which is undermining our entire
              social life.
                   “The insane criminal really can no more be considered a criminal
@@ -8121,7 +8108,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              recognizes this terrible fact, though he may not be able to account for it.
                A collection of criminal philosophy, which Havelock Ellis, Lombroso, and
              other eminent men have compiled, shows that the criminal feels only too
-166 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              keenly that it is society that drives him to crime. A Milanese thief said to
              Lombroso: “I do not rob, I merely take from the rich their superﬂuities;
              besides, do not advocates and merchants rob?” A murderer wrote: “Knowing
@@ -8171,7 +8158,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
                 Society is using the most drastic methods in dealing with the social
              oﬀender. Why do they not deter? Although in America a man is supposed to be
              considered innocent until proven guilty, the instruments of law, the police,
-167 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              carry on a reign of terror, making indiscriminate arrests, beating, clubbing,
              bullying people, using the barbarous method of the “third degree,” subjecting
              their unfortunate victims to the foul air of the station house, and the still
@@ -8221,7 +8208,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              fact that crime is a question of degree, that we all have the rudiments of
              crime in us, more or less, according to our mental, physical, and social
              environment; and that the individual criminal is merely a reﬂex of the
-168 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              tendencies of the aggregate.
                 With the social consciousness wakened, the average individual may learn to
              refuse the “honor” of being the bloodhound of the law. He may cease to
@@ -8270,7 +8257,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
                   shirts, the cost by free labor being not less than $1.20 per dozen,
                   while it pays Rhode Island thirty cents a dozen. Furthermore, the
                   State charges this Trust no rent for the use of its huge factory,
-169 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
                   charges nothing for power, heat, light, or even drainage, and exacts
                   no taxes. What graft!”[72]
                It is estimated that more than twelve million dollars’ worth of workingmen’s
@@ -8318,7 +8305,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              defeats its own ends. It helps to create poisonous fumes that stiﬂe every
              attempt for economic betterment. If the workingman wants to avoid these
              eﬀects, he should insist on the right of the convict to work, he should meet
-170 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              him as a brother, take him into his organization, and with his aid turn against
              the system which grinds them both.
                Last, but not least, is the growing realization of the barbarity and the
@@ -8366,7 +8353,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              from the state agencies and the resistance in the street. As criminologists, we
              have a great task before us. First, we need to educate ourselves and
              communities on alternative forms of justice based on collaboration and mutual
-171 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              aid. And we must do this aiming to abolish the criminal justice system entirely.
              Second, we have to study and engage emerging movements that are already
              pushing for the abolition of prisons, police, and property, while rethinking the
@@ -8416,7 +8403,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
              academic halls. In sum, make sure to take the ideas in this book and share
              them, leave the book someone where folks can pick it up, or provide it for a
              course required reading.
-172 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
                As we look beyond this book, I invite the reader to grapple with the ideas.
              At this moment when we are grappling with the rise of fascist ideologies and
              movements, when we can see clearly that political turmoil is coming, and
@@ -8477,7 +8464,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
                [26] Beccaria, Dei Delitti e delle Pene.
                [27] Book IV, Chap. IX.
                [28] “Questa è una di quelle palpabili verità, che per una maravigliosa combinazione di
-173 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              circostanze non fono con decifa sicurezza conosciute, che da alcuni pochi penfatori uomini d’ ogni
              nazione, e d’ ogni secolo.” Dei Delitti d delle Pene.
                [29] Book II, Chap. VI, p. 131.
@@ -8539,7 +8526,7 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
                [53] Journal of Mental Science, January, 1870, p. 488 sq.
                [54] The importance of this factor, well pointed out by Ed. Du Cane, is proved by the
              circumstance that what they call “the criminal age” is the age between twenty-ﬁve and thirtyfour. After that age, a desire for a quieter life makes the breaches of law suddenly decrease. The
-174 of 175 10/9/25, 1:58 AM Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
+
              proposal of Ed. Du Cane (“if those persons whose career evidences in them marked criminal
              tendencies could either be locked up or kept under supervision until they passed, say, the age of
              forty”) is typical of the peculiar logics developed in those people who have been for some time
@@ -8577,4 +8564,3 @@ Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/librar
                [71] The Criminal.
                [72] Quoted from the publication of the National Committee on Prison Labor.
              Retrieved on 12th May 2021 from libgen.rs
-175 of 175 10/9/25, 1:58 AM

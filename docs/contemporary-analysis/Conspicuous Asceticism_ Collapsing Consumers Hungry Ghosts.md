@@ -171,13 +171,9 @@ Between Latent Variables
 ## LIST OF FIGURES
 
 | | Page |
-|------------------------------|------|
-| Figure 1.1: Conceptual Model | 42 |
-| Figure 1.2: Empirical Model | 54 |
-| Figure 2.1: Conceptual Model | 65 |
-| Figure 2.2: Empirical Model | 74 |
-| Figure 2.3: Empirical Model | 75 |
-| Figure 3.1: Conceptual Model | 85 |
+1.1: Conceptual Model | 42 |
+2.1: Conceptual Model | 65 |
+3.1: Conceptual Model | 85 |
 ## | Figure 3.2: Empirical Model | 93 |
 
 ## CHAPTER I

@@ -174,7 +174,6 @@ See Also
 Final Straw: #OperationPUSH, Strikes in Florida Prisons
 - By collective,
 It's Going Down
-##
 | , January 8, 2018 |
 |------------------------------------------|
 | Kite Line: #OperationPUSH - By Kite Line |

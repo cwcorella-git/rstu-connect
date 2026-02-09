@@ -8,7 +8,6 @@ tags:
   - theory
 ---
 
-Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
             David Graeber
             Fragments of an Anarchist
             Anthropology
@@ -47,8 +46,6 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
                  of the inﬁnite variety of needs and aspirations of a civilized being.
 
 ## Peter Kropotkin (Encyclopedia Brittanica)
-
-1 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
 
 ## Basically, if you’re not a utopianist, you’re a schmuck.
 
@@ -97,7 +94,7 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
             analogy is strained at best. The nineteenth-century “founding ﬁgures” did not
             think of themselves as having invented anything particularly new. The basic
             principles of anarchism— self-organization, voluntary association, mutual aid
-2 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
+
             — referred to forms of human behavior they assumed to have been around
             about as long as humanity. The same goes for the rejection of the state and of
             all forms of structural violence, inequality, or domination (anarchism literally
@@ -146,7 +143,7 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
             also the ones closest to anarchism.) Anarchists like to distinguish themselves
             by what they do, and how they organize themselves to go about doing it. And
             indeed this has always been what anarchists have spent most of their time
-3 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
+
             thinking and arguing about. Anarchists have never been much interested in
             the kinds of broad strategic or philosophical questions that have historically
             preoccupied Marxists—questions like: Are the peasants a potentially
@@ -194,7 +191,7 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
             is, itself, an idea, even if a very old one. It is also a project, which sets out to
             begin creating the institutions of a new society “within the shell of the old,” to
             expose, subvert, and undermine structures of domination but always, while
-4 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
+
             doing so, proceeding in a democratic fashion, a manner which itself
             demonstrates those structures are unnecessary. Clearly any such project has
             need of the tools of intellectual analysis and understanding. It might not need
@@ -243,7 +240,7 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
             which people are free to govern their own aﬀairs?
               This is what this pamphlet is mainly about.
               For starters, I would say any such theory would have to begin with some
-5 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
+
             initial assumptions. Not many. Probably just two. First, it would have to
             proceed from the assumption that, as the Brazilian folk song puts it, “another
             world is possible.” That institutions like the state, capitalism, racism and male
@@ -288,7 +285,7 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
             provides at least something of a model, if a very rough, incipient model, of
             how nonvanguardist revolutionary intellectual practice might work. When one
             carries out an ethnography, one observes what people do, and then tries to
-6 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
+
             tease out the hidden symbolic, moral, or pragmatic logics that underlie their
             actions; one tries to get at the way people’s habits and actions makes sense in
             ways that they are not themselves completely aware of. One obvious role for a
@@ -333,7 +330,7 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
             was to abandon “civilization”—industrial society—entirely and spend the last
             ﬁfty years or so of his life in a village on the Spanish island of Majorca,
             supporting himself by writing novels, but also producing numerous books of
-7 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
+
             love poetry, and a series of some of the most subversive essays ever written.
               Graves’ thesis was, among other things, that greatness was a pathology;
             “great men” were essentially destroyers and “great” poets not much better
@@ -383,7 +380,7 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
             Brown, known to his college friends as “Anarchy Brown.” Brown was an
             admirer of the famous anarchist Prince (he of course renounced his title),
             Peter Kropotkin, arctic explorer and naturalist, who had thrown social
-8 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
+
             Darwinism into a tumult from which it still has never quite recovered by
             documenting how the most successful species tend to be those which
             cooperate the most eﬀectively. (Sociobiology for instance was basically an
@@ -432,7 +429,7 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
             revolutionary elite capable of keeping the myth alive by their willingness to
             engage in symbolic acts of violence—an elite which, like the Marxist vanguard
             party (often somewhat less symbolic in its violence), Mauss described as a
-9 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
+
             kind of perpetual conspiracy, a modern version of the secret political men’s
             societies of the ancient world.
                In other words, Mauss saw Sorel, and hence anarchism, as introducing an
@@ -478,7 +475,7 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
             exist, they largely derive from him.
               Before Mauss, the universal assumption had been that economies without
             money or markets had operated by means of “barter”; they were trying to
-10 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
+
             engage in market behavior (acquire useful goods and services at the least cost
             to themselves, get rich if possible...), they just hadn’t yet developed very
             sophisticated ways of going about it. Mauss demonstrated that in fact, such
@@ -527,7 +524,7 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
                  use of gang rape as a weapon to terrorize women who transgress
                  proper gender roles. It’s a blind spot so glaring one has to wonder
                  how he could possibly miss out on it; especially considering it
-11 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
+
                  provides an answer to just that question. Perhaps Amazonian men
                  understand what arbitrary, unquestionable power, backed by force,
                  would be like because they themselves wield that sort of power over
@@ -576,7 +573,7 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
             it is often particularly the egalitarian societies which are torn by terrible inner
             tensions, or at least, extreme forms of symbolic violence.
                Of course, all societies are to some degree at war with themselves. There
-12 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
+
             are always clashes between interests, factions, classes and the like; also,
             social systems are always based on the pursuit of diﬀerent forms of value
             which pull people in diﬀerent directions. In egalitarian societies, which tend
@@ -626,7 +623,7 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
             fought, though more often large disputes were mediated in large communal
             “moots.” Still, there were no political institutions larger than the compound;
             in fact, anything that even began to look like a political institution was
-13 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
+
             considered intrinsically suspect, or more precisely, seen as surrounded by an
             aura of occult horror. This was, as ethnographer Paul Bohannan succinctly put
             it, because of what was seen to be the nature of power: “men attain power by
@@ -676,7 +673,7 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
             content, which is nothing if not tumultuous, and social process, which is all
             about mediation, arriving at consensus. None of these societies are entirely
             egalitarian: there are always certain key forms of dominance, at least of men
-14 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
+
             over women, elders over juniors. The nature and intensity of these forms vary
             enormously: in Piaroa communities the hierarchies were so modest that
             Overing doubts one can really speak of “male dominance” at all (despite the
@@ -726,7 +723,7 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
 ## such apocalyptic fantasies.
 
               Now, at this point the reader may be objecting, “Sure, but what does any of
-15 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
+
             this have to do with the kind of insurrectionary communities which
             revolutionary theorists are normally referring to when they use the word
             ‘counterpower’?”
@@ -776,7 +773,7 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
               The puzzling question is how such profound changes in popular attitudes
             could happen so fast? The likely answer is that they really didn’t; there were
             probably things going on even under the nineteenthcentury kingdom of which
-16 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
+
             foreign observers (even those long resident on the island) were simply
             unaware. But clearly, too, something about the imposition of colonial rule
             allowed for a rapid reshuﬄing of priorities. This, I would argue, is what the
@@ -826,7 +823,7 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
             has, of course, not always been the case. But this leads to a very important
             question, because any really politically engaged anthropology will have to
             start by seriously confronting the question of what, if anything, really divides
-17 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
+
             what we like to call the “modern” world from the rest of human history, to
             which folks like the Piaroa, Tiv or Malagasy are normally relegated. This is as
             one might imagine a pretty vexed question but I am afraid it can’t be avoided,
@@ -870,7 +867,7 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
             instead all former Canadian citizens begin to organize themselves into
             libertarian collectives. Obviously this would never be allowed to happen. In
             the past, whenever it even looked like it might—here, the Paris commune and
-18 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
+
             Spanish civil war are excellent examples—the politicians running pretty much
             every state in the vicinity have been willing to put their diﬀerences on hold
             until those trying to bring such a situation about had been rounded up and
@@ -919,7 +916,7 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
             revolutions.
               Let me take up the argument I began to sketch out in the last section and
             try to explain why I think this is true:
-19 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
+
                  a fairly brief manifesto concerning the concept of revolution:
 
 ## The term “revolution” has been so relentlessly cheapened in
@@ -970,7 +967,7 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
                  expectations, and insofar as “reality” refers to anything, it refers to
                  precisely that which can never be entirely encompassed by our
                  imaginative constructions. Totalities, in particular, are always
-20 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
+
                  creatures of the imagination. Nations, societies, ideologies, closed
                  systems... none of these really exist. Reality is always inﬁnitely
                  messier than that—even if the belief that they exist is an undeniable
@@ -1021,7 +1018,7 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
                  doing so, reconstitutes social relations—even within the collectivity
                  —in that light. Revolutionary action does not necessarily have to aim
                  to topple governments. Attempts to create autonomous communities
-21 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
+
                  in the face of power (using Castoriadis’ deﬁnition here: ones that
 ## constitute themselves, collectively make their own rules or
                  principles of operation, and continually reexamine them), would, for
@@ -1067,7 +1064,7 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
 
 ## There has long been a related debate over what particular
                  advantage “the West,” as Western Europe and its settler colonies
-22 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
+
                  have liked to call themselves, had over the rest of the world that
                  allowed them to conquer so much of it in the four hundred years
                  between 1500 and 1900. Was it a more eﬀicient economic system? A
@@ -1117,7 +1114,7 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
 ## sixteenth or seventeenth centuries—e.g., depopulating large
                  portions of the Andes or central Mexico by working millions to death
                  in the mines, or kidnapping a signiﬁcant chunk of the population of
-23 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
+
                  Africa to work to death on sugar plantations— unless one has some
                  actual evidence to suggest they were so genocidally inclined. In fact
                  there appear to have been plenty of examples of people in a position
@@ -1168,7 +1165,7 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
             extremely diﬀicult to do so. One has to cut past the endless host of intellectual
             tricks and gimmicks that create the wall of distance around “modern”
             societies. Let me give just one example. It is common to distinguish between
-24 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
+
             what are called “kinship-based societies” and modern ones, which are
             supposed to be based on impersonal institutions like the market or the state.
             The societies traditionally studied by anthropologists have kinship systems.
@@ -1218,7 +1215,6 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
             becomes a mode of social mobility).
 ## Gender relations are of course the very fabric of kinship.
 
-25 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
             what would it take to knock down these walls?
                I’d say a lot. Too many people have too much invested in maintaining them.
             This includes anarchists, incidentally. At least in the United States, the
@@ -1266,7 +1262,6 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
                  apparently cooperative elders, and return with the equipment a
                  week later only to discover the village entirely abandoned—every
                  single inhabitant had moved in with some relative in another part of
-26 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
 
 ## the country.
 
@@ -1316,7 +1311,7 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
             is a phenomenon theorists of social struggle have rarely fully appreciated.
                  When the French colonial administration established itself in
                  Madagascar it duly began dividing the population up into a series of
-27 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
+
                  “tribes”: Merina, Betsileo, Bara, Sakalava, Vezo, Tsimihety, etc.
                  Since there are few clear distinctions of language, it is easier here,
                  than in most places, to discern some of the principles by which
@@ -1368,8 +1363,6 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
                  Sakalava is seen largely to be about. And dead kings still make their
 ## wishes known—through spirit mediums who are usually elderly
 
-28 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
-
 ## women of commoner descent.
 
               In many other parts of Madagascar as well, it often seems that no one really
@@ -1419,7 +1412,7 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
             Moulier Boutang, has even argued that the history of capitalism has been a
             series of attempts to solve the problem of worker mobility—hence the endless
             elaboration of institutions like indenture, slavery, coolie systems, contract
-29 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
+
             workers, guest workers, innumerable forms of border control—since, if the
             system ever really came close to its own fantasy version of itself, in which
             workers were free to hire on and quit their work wherever and whenever they
@@ -1469,7 +1462,7 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
             spectacle pure and simple (somewhat along the lines of what Paul Lafargue,
             Marx’s West Indian son-in-law and author of The Right to Be Lazy, implied
             when he suggested that after the revolution, politicians would still be able to
-30 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
+
             fulﬁll a useful social function in the entertainment industry). More likely it will
             happen in ways we cannot even anticipate. But no doubt there are ways in
             which it is happening already. As Neoliberal states move towards new forms
@@ -1514,7 +1507,7 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
               An adequate theory of states would then have to begin by distinguishing in
             each case between the relevant ideal of rulership (which can be almost
             anything, a need to enforce military style discipline, the ability to provide
-31 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
+
             perfect theatrical representation of gracious living which will inspire others,
             the need to provide the gods with endless human hearts to fend oﬀ the
             apocalypse...), and the mechanics of rule, without assuming that there is
@@ -1561,7 +1554,7 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
               So that’s one project: to reanalyze the state as a relation between a utopian
             imaginary, and a messy reality involving strategies of ﬂight and evasion,
             predatory elites, and a mechanics of regulation and control.
-32 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
+
                All this highlights the pressing need for another project: one which will ask,
             If many political entities we are used to seeing as states, at least in any
             Weberian sense, are not, then what are they? And what does that imply about
@@ -1611,7 +1604,7 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
             was because, in this early stage of globalization, Western elites were trying to
             model themselves on China, the only state in existence at the time which
             actually seemed to conform to their ideal of a uniform population, who in
-33 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
+
             Confucian terms were the source of sovereignty, creators of a vernacular
             literature, subject to a uniform code of laws, administered by bureaucrats
             chosen by merit, trained in that vernacular literature... With the current crisis
@@ -1656,7 +1649,7 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
             a reason you can’t just take some and give it to her. A man with a big stick will
             come and very likely hit you. Anarchists, in contrast, have always delighted in
             reminding us of him. Residents of the squatter community of Christiana,
-34 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
+
             Denmark, for example, have a Christmastide ritual where they dress in Santa
             suits, take toys from department stores and distribute them to children on the
             street, partly just so everyone can relish the images of the cops beating down
@@ -1696,7 +1689,7 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
               A theory of how structures of hierarchy, by their own logic, necessarily
             create their own counterimage or negation. They do, you know.
             8) SUFFERING AND PLEASURE: ON THE
-35 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
+
             PRIVATIZATION OF DESIRE
               It is common wisdom among anarchists, autonomists, Situationists, and
             other new revolutionaries that the old breed of grim, determined, selfsacriﬁcing revolutionary, who sees the world only in terms of suﬀering will
@@ -1741,7 +1734,7 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
             remarkable work) is itself a fascinating sociological question. But surely, an
             alternative analysis of alienation might be useful here.
               We could start with a kind of sociology of micro-utopias, the counterpart of
-36 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
+
             a parallel typology of forms of alienation, alienated and nonalienated forms of
             action... The moment we stop insisting on viewing all forms of action only by
             their function in reproducing larger, total, forms of inequality of power, we
@@ -1788,7 +1781,6 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
 
                - the elimination of all restrictions on global freedom of travel or residence
 
-37 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
               The rest would pretty much take care of itself. The moment the average
             resident of Tanzania, or Laos, was no longer forbidden to relocate to
             Minneapolis or Rotterdam, the government of every rich and powerful country
@@ -1835,7 +1827,7 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
             telemarketers, stretch-SUV manufacturers, or for that matter, corporate
             lawyers. We could also eliminate the entire advertising and PR industries, ﬁre
             all politicians and their staﬀs, eliminate anyone remotely connected with an
-38 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
+
             HMO, without even beginning to get near essential social functions. The
             elimination of advertising would also reduce the production, shipping, and
             selling of unnecessary products, since those items people actually do want or
@@ -1879,7 +1871,7 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
             historical-ethnographic perspective I’ve been trying to develop here, our nonexistent science, might be able to contribute to it.
               The ﬁrst cycle of the new global uprising— what the press still insists on
             referring to, increasingly ridiculously, as “the anti-globalization movement”—
-39 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
+
             began with the autonomous municipalities of Chiapas and came to a head
             with the asambleas barreales of Buenos Aires, and cities throughout
             Argentina. There is hardly room here to tell the whole story: beginning with
@@ -1929,7 +1921,7 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
             ideologically stiﬂing than it may sound because the assumption behind all
             good consensus process is that one should not even try to convert others to
             one’s overall point of view; the point of consensus process is to allow a group
-40 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
+
             to decide on a common course of action. Instead of voting proposals up and
             down, then, proposals are worked and reworked, scotched or reinvented, until
             one ends up with something everyone can live with. When it comes to the ﬁnal
@@ -1980,7 +1972,6 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
 ## An hypothesis.
 
                  Majoritarian democracy was, in its origins, essentially a military
-41 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
 
 ## institution.
 
@@ -2032,7 +2023,6 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
                  Australia to Siberia, egalitarian communities have preferred some
 ## variation on consensus process. Why?
 
-42 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
                  The explanation I would propose is this: it is much easier, in a face-
 ## to-face community, to ﬁgure out what most members of that
                  community want to do, than to ﬁgure out how to convince those who
@@ -2081,7 +2071,7 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
                  Greek mercenaries who suddenly ﬁnd themselves leaderless and
                  lost in the middle of Persia. They elect new oﬀicers, and then hold a
                  collective vote to decide what to do next. In a case like this, even if
-43 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
+
                  the vote was 60/40, everyone could see the balance of forces and
                  what would happen if things actually came to blows. Every vote was,
 ## in a real sense, a conquest.
@@ -2132,7 +2122,7 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
             traditional elitist criticism of majoritarian direct democracy is not entirely
             baseless either.
               I noted earlier that all social orders are in some sense at war with
-44 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
+
             themselves. Those unwilling to establish an apparatus of violence for
             enforcing decisions necessarily have to develop an apparatus for creating and
             maintaining social consensus (at least in that minimal sense of ensuring
@@ -2180,7 +2170,7 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
             are sitting on not as some guilty secret (which is nonetheless their guilty
             secret, and no one else’s) but as the common property of humankind.
             ANTHROPOLOGY (in which the author
-45 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
+
             somewhat reluctantly bites the hand that feeds
             him)
               The ﬁnal question—one that I’ve admittedly been rather avoiding up to now
@@ -2228,7 +2218,7 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
               There’s more to it though. In many ways, anthropology seems a discipline
             terriﬁed of its own potential. It is, for example, the only discipline in a position
             to make generalizations about humanity as a whole—since it is the only
-46 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
+
             discipline that actually takes all of humanity into account, and is familiar with
             all the anomalous cases. (“All societies practice marriage, you say? Well that
             depends on how you deﬁne ‘marriage.’ Among the Nayar...”) Yet it resolutely
@@ -2278,7 +2268,7 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
                Now, what form does this populism take in practice? Mainly, it means that
             you must demonstrate that the people you are studying, the little guys, are
             successfully resisting some form of power or globalizing inﬂuence imposed on
-47 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
+
             them from above. This is, anyway, what most anthropologists talk about when
             the subject turns to globalization—which it usually does almost immediately,
             nowadays, whatever it is you study. Whether it is advertising, or soap operas,
@@ -2328,7 +2318,7 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
             diﬀerence in this regard between individuals and groups...) established in
             advance. Things have come to such a pass that in countries like Nepal even
             Theravada Buddhists are forced to play identity politics, a particularly bizarre
-48 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
+
             spectacle since they are essentially basing their identity claims on adherence
             to a universalistic philosophy that insists identity is an illusion.
               Many years ago a French anthropologist named Gerard Althabe wrote a
@@ -2377,7 +2367,7 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
                  anarchists, quite, or even, quite autonomists; they represent their
                  own unique strand within that broader tradition; indeed, they are
                  trying to revolutionize revolutionary strategy itself by abandoning
-49 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
+
                  any notion of a vanguard party seizing control of the state, but
                  instead battling to create free enclaves that could serve as models
                  for autonomous self-government, allowing a general reorganization
@@ -2425,7 +2415,7 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
                  would be about their Maya identity itself. They could assert the
                  right to continue to be Mayan. They could demand recognition as
                  Mayan. But for a Maya to say something to the world that was not
-50 of 51 10/1/25, 7:44 PM Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
+
                  simply a comment on their own Maya-ness would be inconceivable.
               And who was listening to what they really had to say?
               Largely, it seems, a collection of teenage anarchists in Europe and North
@@ -2436,4 +2426,3 @@ Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/d
             importance for human freedom. Let’s start taking some responsibility for it.
             Retrieved September 1, 2013 from http://www.eleuthera.it/ﬁles/materiali/
             David_Graeber_Fragments_%20Anarchist_Anthropology.pdf
-51 of 51 10/1/25, 7:44 PM

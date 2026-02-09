@@ -1234,7 +1234,6 @@ With *p* representing that (social) state of affairs characterized as "narrow eg
 (~~p # p) & (~~p # ~p) & (p # ~p)
  or simply:
 (p # ~~p # ~p)
-##
 The latter two conjunctions would be granted truth even by formal logic, but the first belongs exclusively to dialectical logic. Only a vestige, a shadow of the first conjunct holds within formal logic:
 
 "A sentence and its negation are called contradictories of one another. Though any sentence of the form *~o* has two equivalent contradictories, *o* and *~~o*, it has become customary to speak loosely of 'the' contradictory of a sentence."
@@ -1254,7 +1253,6 @@ We can arrive at a formal-logical version of this model by reduction, specifical
 The great advantage of the Dialectical Logic (Fig. 1) is seen concretely by using the interpretation:
 
 p: (the) "narrow egoism" (theory) is true of the world.
-##
 *~p*: "altruism" is true of the world.
 
 *~~p*: "communist egoism" is true of the world.

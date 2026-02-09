@@ -37,7 +37,6 @@ The Case for the Tenant Union (Jan - Mar 2023 P&R Issu... about:reader?url=https
                 were up 17.5 percent over the course of 2021, squeezing Black
 ## and brown tenants the most.
 
-1 of 12 10/18/25, 9:39 PM The Case for the Tenant Union (Jan - Mar 2023 P&R Issu... about:reader?url=https%3A%2F%2Fwww.prrac.org%2...
                 If it is our goal to solve this crisis, then we have to understand
                 the system that creates it: racial capitalism. Under this system,
                 wealthy people, who are overwhelmingly white, gain profit and
@@ -71,8 +70,6 @@ The Case for the Tenant Union (Jan - Mar 2023 P&R Issu... about:reader?url=https
 ## policies and lending practices have created and maintained
 ## racialized hierarchies. The modern housing market, marrying
 
-2 of 12 10/18/25, 9:39 PM The Case for the Tenant Union (Jan - Mar 2023 P&R Issu... about:reader?url=https%3A%2F%2Fwww.prrac.org%2...
-
 ## public and private supports to secure mortgages, protects a
 ## pathway to wealth-building for those who have been able to
                 access it. As a result, Black incomes are 60 percent of white
@@ -105,7 +102,6 @@ The Case for the Tenant Union (Jan - Mar 2023 P&R Issu... about:reader?url=https
 
 ## Displacement and exploitation have become rampant
 
-3 of 12 10/18/25, 9:39 PM The Case for the Tenant Union (Jan - Mar 2023 P&R Issu... about:reader?url=https%3A%2F%2Fwww.prrac.org%2...
                 expressions of racial capitalism, often driven by the interests of
 ## developers and investors, and at a disproportionate cost to
 ## Black and brown communities. Displacement takes many
@@ -137,7 +133,6 @@ The Case for the Tenant Union (Jan - Mar 2023 P&R Issu... about:reader?url=https
 ## acute. Today, housing costs are Americans’ biggest monthly
 ## expense. The majority of poor tenant households spend at
 
-4 of 12 10/18/25, 9:39 PM The Case for the Tenant Union (Jan - Mar 2023 P&R Issu... about:reader?url=https%3A%2F%2Fwww.prrac.org%2...
                 least half their income on housing. Our rent therefore becomes
 ## the most significant determinant of our families’ economic
                 security, and the stability of our communities. Whether we can
@@ -167,7 +162,6 @@ The Case for the Tenant Union (Jan - Mar 2023 P&R Issu... about:reader?url=https
 ## tenant union cannot be reduced to a simplistic power- innumbers analysis or practice; the tenant union lives and dies
                 by its ability, not just to build power, but to wield power.
                 The tenant union is not a new concept. In fact, the union is one
-5 of 12 10/18/25, 9:39 PM The Case for the Tenant Union (Jan - Mar 2023 P&R Issu... about:reader?url=https%3A%2F%2Fwww.prrac.org%2...
 
 ## of the most intuitive arrangements. Knowing our neighbors,
 ## sharing resources with them— this has been a means of
@@ -201,8 +195,6 @@ The Case for the Tenant Union (Jan - Mar 2023 P&R Issu... about:reader?url=https
 ## neighborhood chapter, the Midtown Tenant Union, in 2021.
 ## This union meets every Tuesday evening in a church
 
-6 of 12 10/18/25, 9:39 PM The Case for the Tenant Union (Jan - Mar 2023 P&R Issu... about:reader?url=https%3A%2F%2Fwww.prrac.org%2...
-
 ## basement, centrally located in the neighborhood. Members of
                 the union—including elders and youth, longtime residents and
 ## new Midtowners—carpool together, facilitate the meeting
@@ -234,7 +226,6 @@ The Case for the Tenant Union (Jan - Mar 2023 P&R Issu... about:reader?url=https
                 creating structures that allow for democratic decision-making,
 ## while also nimble enough to assess, rearrange, discard when
 
-7 of 12 10/18/25, 9:39 PM The Case for the Tenant Union (Jan - Mar 2023 P&R Issu... about:reader?url=https%3A%2F%2Fwww.prrac.org%2...
                 something isn’t quite right, or it’s getting in the way of the
 ## union exercising power.
 
@@ -266,8 +257,6 @@ The Case for the Tenant Union (Jan - Mar 2023 P&R Issu... about:reader?url=https
 ## conditioned to put their heads down, keep to themselves.
                 Subverting that conditioning can feel impossible, but it is non-
 ## negotiable if tenants stand a chance in the face of their
-
-8 of 12 10/18/25, 9:39 PM The Case for the Tenant Union (Jan - Mar 2023 P&R Issu... about:reader?url=https%3A%2F%2Fwww.prrac.org%2...
 
 ## landlords’ power.
 
@@ -301,8 +290,6 @@ The Case for the Tenant Union (Jan - Mar 2023 P&R Issu... about:reader?url=https
 ## usually a source of pride, or at least a primary way of
 ## understanding oneself in the world. On the other hand, some
 
-9 of 12 10/18/25, 9:39 PM The Case for the Tenant Union (Jan - Mar 2023 P&R Issu... about:reader?url=https%3A%2F%2Fwww.prrac.org%2...
-
 ## people are ashamed to be tenants rather than owners, the
                 product of internalized racial capitalism, and others just don’t
                 think of themselves in terms of where they live and how they
@@ -334,7 +321,6 @@ The Case for the Tenant Union (Jan - Mar 2023 P&R Issu... about:reader?url=https
                 conditions. Imagine losing heat in your home during a freezing
 ## weekend. Now imagine that neighbors come by, door-to-door,
                 to distribute warming supplies and collect signatures on a list
-10 of 12 10/18/25, 9:39 PM The Case for the Tenant Union (Jan - Mar 2023 P&R Issu... about:reader?url=https%3A%2F%2Fwww.prrac.org%2...
 
 ## of demands. Together you escalate on the landlord through
                 public calls-to-action, your citywide union drives hundreds of
@@ -367,7 +353,6 @@ The Case for the Tenant Union (Jan - Mar 2023 P&R Issu... about:reader?url=https
 ## complicated practice of experimentation and refinement. To
                 take on organized capital, the moment calls on us to take big
                 and small actions, and to build durable infrastructure to sustain
-11 of 12 10/18/25, 9:39 PM The Case for the Tenant Union (Jan - Mar 2023 P&R Issu... about:reader?url=https%3A%2F%2Fwww.prrac.org%2...
 
 ## this struggle through time.
 
@@ -390,5 +375,3 @@ The Case for the Tenant Union (Jan - Mar 2023 P&R Issu... about:reader?url=https
 ## John Washington (johnarchiewashington@gmail.com) is a
                 tenant organizer based in Buffalo and the training lead with the
 ## Homes Guarantee campaign.
-
-12 of 12 10/18/25, 9:39 PM

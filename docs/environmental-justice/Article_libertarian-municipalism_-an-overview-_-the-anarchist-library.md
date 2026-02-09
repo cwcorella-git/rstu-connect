@@ -38,7 +38,7 @@ Libertarian Municipalism: An Overview | The Anarchist ... about:reader?url=https
                 vote, they normally turn to established parties if only because,
 ## as centers of power, they can produce results of sorts in
                 practical matters. If one bothers to vote, most people reason,
-1 of 19 3/17/25, 5:10 PM Libertarian Municipalism: An Overview | The Anarchist ... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 why waste a vote on a new marginal organization that has all
                 the characteristics of the major ones and that will eventually
 ## become corrupted if it succeeds? Witness the German Greens,
@@ -71,7 +71,6 @@ Libertarian Municipalism: An Overview | The Anarchist ... about:reader?url=https
                 It is precisely such parliamentary and ministerial objectives
 ## that we call “politics” today. To the modern political
 
-2 of 19 3/17/25, 5:10 PM Libertarian Municipalism: An Overview | The Anarchist ... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 imagination, “politics” is precisely a body of techniques for
 ## holding power in representative bodies — notably the
                 legislative and executive arenas — not a moral calling based
@@ -103,7 +102,6 @@ Libertarian Municipalism: An Overview | The Anarchist ... about:reader?url=https
 
                 In this respect, libertarian municipalism is not one of many
                 pluralistic techniques that is intended to achieve a vague and
-3 of 19 3/17/25, 5:10 PM Libertarian Municipalism: An Overview | The Anarchist ... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## undefined social goal. Democratic to its core and
                 nonhierarchical in its structure, it is a kind of human destiny,
@@ -137,8 +135,6 @@ Libertarian Municipalism: An Overview | The Anarchist ... about:reader?url=https
                 political and the statist realms. Enormous mischief has been
 ## caused by the interchangeable use of these terms — social,
 
-4 of 19 3/17/25, 5:10 PM Libertarian Municipalism: An Overview | The Anarchist ... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## political, and the state. Indeed, the tendency has been to
                 identify them with one another in our thinking and in the reality
                 of everyday life. But the state is a completely alien formation, a
@@ -170,7 +166,7 @@ Libertarian Municipalism: An Overview | The Anarchist ... about:reader?url=https
 ## agglomerations are not, strictly speaking, cities or
                 municipalities in the traditional sense of those terms, despite
                 being designated as such by sociologists. It is only if we think
-5 of 19 3/17/25, 5:10 PM Libertarian Municipalism: An Overview | The Anarchist ... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 that they are cities that we become mystified by problems of
 ## size and logistics. Even before we confront the ecological
                 imperative of physical decentralization (a necessity anticipated
@@ -202,7 +198,6 @@ Libertarian Municipalism: An Overview | The Anarchist ... about:reader?url=https
 ## planned economy would inevitably yield bureaucratic
 ## totalitarianism could have been better made than the case
                 that decentralized libertarian municipalities will inevitably be
-6 of 19 3/17/25, 5:10 PM Libertarian Municipalism: An Overview | The Anarchist ... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## authoritarian and have exclusionary and parochial traits.
 ## Economic interdependence is a fact of life today, and
@@ -236,8 +231,6 @@ Libertarian Municipalism: An Overview | The Anarchist ... about:reader?url=https
                 In the case of libertarian municipalism’ parochialism can thus
 ## be checked not only by the compelling realities of economic
 
-7 of 19 3/17/25, 5:10 PM Libertarian Municipalism: An Overview | The Anarchist ... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## interdependence but by the commitment of municipal
 ## minorities to defer to the majority wishes of participating
 ## communities. Do these interdependencies and majority
@@ -268,7 +261,7 @@ Libertarian Municipalism: An Overview | The Anarchist ... about:reader?url=https
                 confederal council. This is not a denial of democracy but the
                 assertion of a shared agreement by all to recognize civil rights
                 and maintain the ecological integrity of a region. These rights
-8 of 19 3/17/25, 5:10 PM Libertarian Municipalism: An Overview | The Anarchist ... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 and needs are not asserted so much by a confederal council as
 ## by the majority of the popular assemblies conceived as one
 ## large community that expresses its wishes through its
@@ -299,7 +292,6 @@ Libertarian Municipalism: An Overview | The Anarchist ... about:reader?url=https
 
 ## Certain points, however, should be obvious. The people who
                 initially enter into the duel between confederalism and statism
-9 of 19 3/17/25, 5:10 PM Libertarian Municipalism: An Overview | The Anarchist ... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## will not be the same human beings as those who eventually
                 achieve libertarian municipalism. The movement that tries to
@@ -331,7 +323,6 @@ Libertarian Municipalism: An Overview | The Anarchist ... about:reader?url=https
                 capitalism too is increasingly eager to bring the worker into
 ## complicity with his or her own exploitation by means of
                 “workplace democracy.” Nor was the revolution in Spain or in
-10 of 19 3/17/25, 5:10 PM Libertarian Municipalism: An Overview | The Anarchist ... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## other countries spared the existence of competition among
                 worker-controlled enterprises for raw materials, markets, and
@@ -364,7 +355,7 @@ Libertarian Municipalism: An Overview | The Anarchist ... about:reader?url=https
                 themselves as citizens guided strictly by the needs of their
                 community and region rather than by personal proclivities and
                 vocational concerns. Here, citizenship would come into its own,
-11 of 19 3/17/25, 5:10 PM Libertarian Municipalism: An Overview | The Anarchist ... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 and rational as well as ecological interpretations of the public
 ## good would supplant class and hierarchical interests.
 
@@ -397,7 +388,6 @@ Libertarian Municipalism: An Overview | The Anarchist ... about:reader?url=https
 ## foster.
 
                 For those who rightly call for a new technology, new sources of
-12 of 19 3/17/25, 5:10 PM Libertarian Municipalism: An Overview | The Anarchist ... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## energy, new means of transportation, and new ecological
                 lifeways, can a new society be anything less than a Community
@@ -430,7 +420,7 @@ Libertarian Municipalism: An Overview | The Anarchist ... about:reader?url=https
 ## Green municipalist movements that propose popular
 ## neighborhood and town assemblies — even if they have only
                 moral functions at first — and electing town and city councilors
-13 of 19 3/17/25, 5:10 PM Libertarian Municipalism: An Overview | The Anarchist ... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 that advance the cause of these assemblies and other popular
                 institutions. These minimal steps can lead step-by-step to the
                 formation of confederal bodies and the increasing legitimation
@@ -461,7 +451,6 @@ Libertarian Municipalism: An Overview | The Anarchist ... about:reader?url=https
                 this collection offer ideas, ways, and means not only to undo
 ## the present social order but to remake it drastically —
                 expanding its residual democratic traditions into a rational and
-14 of 19 3/17/25, 5:10 PM Libertarian Municipalism: An Overview | The Anarchist ... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## ecological society.
 
@@ -495,8 +484,6 @@ Libertarian Municipalism: An Overview | The Anarchist ... about:reader?url=https
 ## radicals that “dialectics” is their “method.” The struggle
 ## toward creating new civic institutions out of old ones (or
 
-15 of 19 3/17/25, 5:10 PM Libertarian Municipalism: An Overview | The Anarchist ... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## replacing the old ones altogether) and creating civic
 ## confederations is a self formative one, a creative dynamic
                 formed from the tension of social conflict. The effort to work
@@ -527,7 +514,7 @@ Libertarian Municipalism: An Overview | The Anarchist ... about:reader?url=https
                 with the state. The tension between municipal confederations
 ## and the state must be clear and uncompromising. Since these
                 confederations would exist primarily in opposition to statecraft,
-16 of 19 3/17/25, 5:10 PM Libertarian Municipalism: An Overview | The Anarchist ... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 they cannot be compromised by state, provincial, or national
 ## elections, much less achieved by these means. Libertarian
 ## municipalism is formed by its struggle with the state,
@@ -560,8 +547,6 @@ Libertarian Municipalism: An Overview | The Anarchist ... about:reader?url=https
                 A bouquet of struggles for “identity” has often fractured rising
 ## radical movements since SDS in the 1960s, ranging from
 
-17 of 19 3/17/25, 5:10 PM Libertarian Municipalism: An Overview | The Anarchist ... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## foreign to domestic nationalisms. Because these identity
                 struggles are so popular today, some of the critics of libertarian
                 municipalism invoke “public opinion” against it. But when has
@@ -593,7 +578,6 @@ Libertarian Municipalism: An Overview | The Anarchist ... about:reader?url=https
                 is a “general interest” in democratizing society and preserving
 ## the planet Now that traditional forces such as the workers’
 
-18 of 19 3/17/25, 5:10 PM Libertarian Municipalism: An Overview | The Anarchist ... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 movement have ebbed from the historical scene, it can be said
 ## with almost complete certainty that without libertarian
 ## municipalism, the left will have no politics whatever.
@@ -621,5 +605,3 @@ Libertarian Municipalism: An Overview | The Anarchist ... about:reader?url=https
 ## future.
 
 ## April 3, 1991; addendum, October 1, 1991
-
-19 of 19 3/17/25, 5:10 PM

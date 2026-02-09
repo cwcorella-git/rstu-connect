@@ -8,12 +8,10 @@ tags:
   - theory
 ---
 
-A Short Introduction to Anarchist Communism https://theanarchistlibrary.org/library/anarchist-federat...
            Anarchist Federation (of Britain)
            A Short Introduction to Anarchist
            Communism
            2015
-## Introduction
 ## Glossary
                What We’re Fighting: Capitalism and Hierarchy
 ## Anarchist Communism
@@ -42,7 +40,7 @@ A Short Introduction to Anarchist Communism https://theanarchistlibrary.org/libr
             exploitative structures in society (such as capitalism and the state), and
             building a society where everyone has an equal input into decisions that
             aﬀect their life.
-1 of 16 10/24/25, 10:23 AM A Short Introduction to Anarchist Communism https://theanarchistlibrary.org/library/anarchist-federat...
+
            Capitalism
             An economic and political system based around exploiting those forced to
             sell their labour, in which a country’s trade and industry are controlled by
@@ -83,7 +81,7 @@ A Short Introduction to Anarchist Communism https://theanarchistlibrary.org/libr
            Leftist
              Used to refer to authoritarian or hierarchical left-wing organisations (such
              as trade unions and political parties), or their members.
-2 of 16 10/24/25, 10:23 AM A Short Introduction to Anarchist Communism https://theanarchistlibrary.org/library/anarchist-federat...
+
            Means of Production
             The non-human infrastructure needed for production of items, such as
             ﬁelds, factories and workshops (and their associated tools). Keep in mind
@@ -123,7 +121,7 @@ A Short Introduction to Anarchist Communism https://theanarchistlibrary.org/libr
            of services are provided, and they make the decisions about how this work is
            organised. The rest of us, the working class, must work in the ﬁelds and the
            factories, the call centres and the oﬀice blocks, or else get by on beneﬁts or
-3 of 16 10/24/25, 10:23 AM A Short Introduction to Anarchist Communism https://theanarchistlibrary.org/library/anarchist-federat...
+
            scrape together what we need to survive.
               We, the working class, build and provide everything society needs to
            function. They, the ruling class, suck proﬁt out of our work. We are the body
@@ -173,7 +171,7 @@ A Short Introduction to Anarchist Communism https://theanarchistlibrary.org/libr
            to make them defend the ruling class against those oppressed by gender, skin
            colour, disability, and on and on and on.
               To get past this we need a revolutionary movement made up of many
-4 of 16 10/24/25, 10:23 AM A Short Introduction to Anarchist Communism https://theanarchistlibrary.org/library/anarchist-federat...
+
            diﬀerent organisations. We need many diﬀerent ways in which we can take
            control of our own lives and ﬁght the diﬀerent oppressions that push us down.
            We need to completely transform society and ourselves. In the Anarchist
@@ -220,7 +218,7 @@ A Short Introduction to Anarchist Communism https://theanarchistlibrary.org/libr
            freeing ourselves. They are the way that we as a working class can confront
            the problems in our own lives collectively, working together against the whole
            system of capitalism and the ways it tries to divide us.
-5 of 16 10/24/25, 10:23 AM A Short Introduction to Anarchist Communism https://theanarchistlibrary.org/library/anarchist-federat...
+
               These ideas have not just been plucked out of thin air. Anarchist
            communism is a living working class tradition that has worked in ways large
            and small throughout the history of capitalism. It does not come out of the
@@ -270,7 +268,7 @@ A Short Introduction to Anarchist Communism https://theanarchistlibrary.org/libr
            be a blank slate – that way lies the corpses piled up by ‘revolutionary’ terror
            (such as happened in France, Russia, and China). Instead, revolution must be
            built out of the materials to hand by those of us alive today.
-6 of 16 10/24/25, 10:23 AM A Short Introduction to Anarchist Communism https://theanarchistlibrary.org/library/anarchist-federat...
+
            Revolution and Revolutionaries
               Revolutionaries believe that the societies we live in are basically unjust and
            unfair. It is not just a matter of this injustice or that unfairness – it is the
@@ -319,7 +317,7 @@ A Short Introduction to Anarchist Communism https://theanarchistlibrary.org/libr
            making sure that you don’t get what you want. Any deals done with capitalism
            are bound backﬁre, as we’ve seen time and time again. You don’t make
            progress by negotiating with the bosses. You make progress by terrifying
-7 of 16 10/24/25, 10:23 AM A Short Introduction to Anarchist Communism https://theanarchistlibrary.org/library/anarchist-federat...
+
            them. Anarchist communists believe that it is better to ﬁght for what we want,
            even if we don’t get it straight away, rather than ﬁghting for something we
            don’t want, and getting it.
@@ -364,7 +362,7 @@ A Short Introduction to Anarchist Communism https://theanarchistlibrary.org/libr
            supermarkets or taking the perfectly good food that they throw out (‘skipping’
            or ‘dumpster diving’). Or it can be something much larger like a project to
            communally farm a piece of land or establish a new community.
-8 of 16 10/24/25, 10:23 AM A Short Introduction to Anarchist Communism https://theanarchistlibrary.org/library/anarchist-federat...
+
              The reasons that people have for doing this kind of thing are very good
            ones. They see the harm that capitalism does every day and want no part of it.
            By stealing or taking what is thrown away they try to stop giving support back
@@ -414,7 +412,7 @@ A Short Introduction to Anarchist Communism https://theanarchistlibrary.org/libr
            common interests.
              In the end it is this collective direct action that the ruling class are afraid of,
            not people dropping out, and it is a self-organised mass movement ready to
-9 of 16 10/24/25, 10:23 AM A Short Introduction to Anarchist Communism https://theanarchistlibrary.org/library/anarchist-federat...
+
            take collective direct action that we should be helping to build.
            Dual Power
              The other typical approach to preﬁgurative politics is trying to build dual
@@ -461,7 +459,7 @@ A Short Introduction to Anarchist Communism https://theanarchistlibrary.org/libr
            with dual power strategies. The biggest problem is the risk of co-option. What
            this means is that movements and organisations which start out trying to
            provide an alternative are often ‘captured’ by capitalism, and end up helping
-10 of 16 10/24/25, 10:23 AM A Short Introduction to Anarchist Communism https://theanarchistlibrary.org/library/anarchist-federat...
+
            to manage people’s exploitation rather than challenging it.
              For example, cooperatives often become employers in their own right, with
            full cooperative members becoming managers and their new employees
@@ -508,7 +506,7 @@ A Short Introduction to Anarchist Communism https://theanarchistlibrary.org/libr
            places. These new relationships give us the conﬁdence and the resources that
            we need to ﬁght back wherever we are. This culture becomes a mass of tinder
            which is able to turn the spark from one struggle into a ﬂame which can
-11 of 16 10/24/25, 10:23 AM A Short Introduction to Anarchist Communism https://theanarchistlibrary.org/library/anarchist-federat...
+
            spread.
               This culture is not a particular organisation or set of principles or anything
            like that. It is composed of many diﬀerent organisations and more than this of
@@ -556,7 +554,7 @@ A Short Introduction to Anarchist Communism https://theanarchistlibrary.org/libr
            action and self organisation can be applied to a number of areas of everyday
            life.
            Workplace Struggles
-12 of 16 10/24/25, 10:23 AM A Short Introduction to Anarchist Communism https://theanarchistlibrary.org/library/anarchist-federat...
+
              At work the confrontation between workers and bosses is at its most
            obvious. Workers want to work as little as possible for as much money as they
            can get, whereas bosses want as much work for as little pay. This is the nature
@@ -600,7 +598,7 @@ A Short Introduction to Anarchist Communism https://theanarchistlibrary.org/libr
            not up to the job of describing the kind of struggles we’re talking about here.
            Liberal (and even most radical), ways of talking about the struggles of those
            oppressed because of gender or sexuality, the struggle against white
-13 of 16 10/24/25, 10:23 AM A Short Introduction to Anarchist Communism https://theanarchistlibrary.org/library/anarchist-federat...
+
            supremacy, or similar, do not recognise the relationship between these kinds
            of struggle and working class struggle. Sometimes they are seen as
            distractions and other times as ‘separate but equal’, but rarely are they seen
@@ -647,7 +645,7 @@ A Short Introduction to Anarchist Communism https://theanarchistlibrary.org/libr
            is an important store of knowledge and skills. It is a kind of memory that
            keeps alive a vision of the working class as united and deﬁant even when the
            class has been kicked in the head so many times it’s starting to forget its own
-14 of 16 10/24/25, 10:23 AM A Short Introduction to Anarchist Communism https://theanarchistlibrary.org/library/anarchist-federat...
+
            name, let alone its past.
              Members of a revolutionary organisation are also militants in their own
            right and intensely involved in struggles where they live and work. The ideas
@@ -689,7 +687,7 @@ A Short Introduction to Anarchist Communism https://theanarchistlibrary.org/libr
            get exploited, they will always ﬁght back, and as anarchist communists we
            will always be there to support this as best we can.
            Further Reading
-15 of 16 10/24/25, 10:23 AM A Short Introduction to Anarchist Communism https://theanarchistlibrary.org/library/anarchist-federat...
+
            The Role of the Revolutionary Organisation
              Anarchist Federation, Revised Third Edition, 2015
            LibCom Introductory Guide
@@ -701,4 +699,3 @@ A Short Introduction to Anarchist Communism https://theanarchistlibrary.org/libr
            At the Café
              Errico Malatesta, 1897–1920
            Retrieved on 2020-04-09 from afed.org.uk
-16 of 16 10/24/25, 10:23 AM

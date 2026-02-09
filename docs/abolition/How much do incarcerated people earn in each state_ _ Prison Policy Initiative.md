@@ -82,7 +82,7 @@ Industries") | |
 Hampshire | 0.25 | 1.50 | 0.50 | 1.50 |
 | New Jersey | 0.26 | 2.00 | 0.38 | 2.00 |
 | New Mexico | 0.10 | 1.00 | 0.30 | 1.10 |
-| New York | 0.10 | 0.33 | Average 0.62 | |
+0.62 | |
 | North Carolina | 0.05 | 0.38 | 0.05 | 0.38 |
 | North Dakota | 0.19 | 0.88 | 0.45 | 1.69 |
 | Ohio | 0.10 | 0.17 | 0.21 | 1.23 |

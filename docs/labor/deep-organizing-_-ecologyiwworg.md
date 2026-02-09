@@ -34,7 +34,7 @@ deep organizing | ecology.iww.org about:reader?url=https%3A%2F%2Fecology.iww.org
                 clear it takes more than marching from point A to point B—and
 ## even more than scattered direct actions like taking over
                 highways, occupying politicians’ offices, or minor vandalism.
-1 of 4 10/24/25, 12:05 AM deep organizing | ecology.iww.org about:reader?url=https%3A%2F%2Fecology.iww.org%...
+
                 Coming out into the streets, pouring our energy into actions,
                 escalating to risk arrest, disrupting business as usual, and then
                 feeling exhausted and defeated is a common cycle in the anti-
@@ -66,7 +66,7 @@ deep organizing | ecology.iww.org about:reader?url=https%3A%2F%2Fecology.iww.org
 ## bringing new people into social movements and the political
 ## work of bringing them toward organized anarchism, so that
                 there will be more prepared militants down the line. We know
-2 of 4 10/24/25, 12:05 AM deep organizing | ecology.iww.org about:reader?url=https%3A%2F%2Fecology.iww.org%...
+
                 that organized, rather than simply mobilized, political struggle
                 is far more effective in challenging imperialism in moments of
 ## crisis.
@@ -98,5 +98,3 @@ deep organizing | ecology.iww.org about:reader?url=https%3A%2F%2Fecology.iww.org
 ## union bureaucracy systems. So what could these next steps
 ## look like? Here are some examples of what members of Black
 ## Rose / Rosa Negra have found success with.
-
-3 of 4 10/24/25, 12:05 AM deep organizing | ecology.iww.org about:reader?url=https%3A%2F%2Fecology.iww.org%... 4 of 4 10/24/25, 12:05 AM

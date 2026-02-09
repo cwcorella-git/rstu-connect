@@ -20,8 +20,6 @@ Even in a novel that has a prologue, the writer will, at some point, need to get
 
 "Working the context in" varies, depending on the sort of story, viewpoint, etc. In mimetic fiction—that is, fiction that is
 
-## 1 of 5 10/16/25, 12:06 AM
-
 supposed to mimic real life—this usually means dropping details in a bit at a time, as they become relevant to the characters, because this is how people find out about context in real life. Some context also develops in front of the reader as the story progresses, which shouldn't need any more emphasis or explanation.
 
 In a first-person or omniscient viewpoint, the narrator can just tell the reader the context. "Everybody knows a seventh son is lucky." "Cinderella's father was a wealthy merchant." "New folks started coming in from the East, hoping to get land." "The king decided to hold a ball so that the prince could choose a bride." In first person, the writer has to consider what the narrator knows, and when and how they learned it—a firstperson narrator who lives in a medieval culture may have known all their lives that dragons have shown up in great numbers every so often, but they may not know that their appearance is tied to the lava from an irregular volcanic eruption that hatches a bunch of dragon eggs all at once, leading to overpopulation that drives them to spread out from their normal habitat. If the volcano is on the far side of the world, this narrator definitely isn't going to know that the volcano is erupting right now.
@@ -45,5 +43,3 @@ On December 18, 2024 / [Writing](https://pcwrede.com/pcw-wp/category/writing/)
 ## ![](_page_4_Picture_5.jpeg)
 
 ## ![](_page_4_Picture_6.jpeg)
-
-## 5 of 5 10/16/25, 12:06 AM

@@ -37,7 +37,7 @@ Shawn Fain: May Day 2028 Could Transform the Labor... about:reader?url=https%3A%
                The first is that, to reshape the economy into one that works for
                the benefit of everyone — not just the wealthy — we need to
                reclaim our country’s history of militant trade unions that
-1 of 5 3/17/25, 11:08 PM  Shawn Fain: May Day 2028 Could Transform the Labor... about:reader?url=https%3A%2F%2Finthesetimes.com...
+
                united workers across race, gender and nationality.
                May Day has its roots right here in the United States — in 1886,
                in the streets of Chicago, where workers were organizing and
@@ -65,7 +65,7 @@ Shawn Fain: May Day 2028 Could Transform the Labor... about:reader?url=https%3A%
                class in our country.
                They want us to believe that corporate bosses gave workers
                decent wages, benefits and safer working conditions out of the
-2 of 5 3/17/25, 11:08 PM Shawn Fain: May Day 2028 Could Transform the Labor... about:reader?url=https%3A%2F%2Finthesetimes.com...
+
                goodness of their hearts. That justice and equality for people of
                color, for immigrants, for women and for queer communities
                were gifts benevolently handed down from above.
@@ -94,7 +94,7 @@ Shawn Fain: May Day 2028 Could Transform the Labor... about:reader?url=https%3A%
                living and more time off the clock so we can spend more of our
                time with our family and friends — then unions have to start
                thinking bigger.
-3 of 5 3/17/25, 11:08 PM Shawn Fain: May Day 2028 Could Transform the Labor... about:reader?url=https%3A%2F%2Finthesetimes.com...
+
                I’ll give you an example.
                Last summer, during the lead-up to the contract expiration at
                the Big Three, I had the opportunity to meet with Teamsters
@@ -123,7 +123,7 @@ Shawn Fain: May Day 2028 Could Transform the Labor... about:reader?url=https%3A%
                A united working class is the only effective wall against the
                billionaire class’ race to the bottom. For the U.S. labor
                movement, that means grappling with some hard truths. Like
-4 of 5 3/17/25, 11:08 PM Shawn Fain: May Day 2028 Could Transform the Labor... about:reader?url=https%3A%2F%2Finthesetimes.com...
+
                the undeniable fact that it is impossible to protect American
                jobs while ignoring the plight of everyone else.
                A weekly digest of our best coverage
@@ -140,7 +140,6 @@ Shawn Fain: May Day 2028 Could Transform the Labor... about:reader?url=https%3A%
                allow corporations, politicians and borders to divide us.
                It’s time we reclaimed May Day for the working class.
                That’s what our May Day contract expiration is all about.
-5 of 5 3/17/25, 11:08 PM
 
 ## Document Summary
 

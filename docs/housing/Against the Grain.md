@@ -1195,8 +1195,6 @@ The second melancholy aspect of the new livelihoods at the periphery afforded by
 
 Adams, Robert McC. "Agriculture and Urban Life in Early Southwestern Iran." Science 136, no. 3511 (1962): 109–122. ———. The Land Behind Bagdad: A History of Settlement on the Diyala Plains. Chicago: University of Chicago Press, 1965. ———. "Anthropological Perspectives on Ancient Trade." Current Anthropology 15, no. 3 (1974): 141–160. ———. Heartland of Cities: Surveys of Ancient Settlements and Land Use on the Central Floodplain of the Euphrates. Chicago: University of Chicago Press, 1974. ———. "Strategies of Maximization, Stability, and Resilience in Mesopotamian Society, Settlement, and Agriculture." Proceedings of the American Philosophical Society 122, no. 5 (1978): 329–335. ———. "The Limits of State Power on the Mesopotamian Plain." Cuneiform Digital Library Bulletin 1 (2007). ———. "An Interdisciplinary Overview of a Mesopotamian City and Its Hinterland." Cuneiform Digital Library Journal 1 (2008): 1–23.
 
-## 139 of 168 10/1/25, 7:49 PM
-
 Algaze, Guillermo. "The Uruk Expansion: Cross Cultural Exchange in Early Mesopotamian Civilization." Current Anthropology 30, no. 5 (1989): 571–
 
 ———. "Initial Social Complexity in Southwestern Asia: The Mesopotamian

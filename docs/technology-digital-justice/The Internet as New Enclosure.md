@@ -23,8 +23,6 @@ Yet as more and more of our lives become digitized, it's important not to take i
 
 We should be especially attentive to the ways new media are *convenient:* convenience can be a sign that the infinite possibilities of human life are being forcibly narrowed down. Indeed, these innovations are barely even
 
-## 1 of 3 11/11/25, 2:51 AM
-
 optional: nowadays it's difficult to maintain friendships or get hired without a cell phone and an online profile. More and more of our mental processes and social lives must pass through the mediation of technologies that map our activities and relationships for corporations and government intelligence. These formats also shape the content of those activities and relationships.
 
 The networks offered by Facebook aren't new; what's new is that they seem external to us. We've always had social networks, but no one could use them to sell advertisements—nor were they so easy to map. Now they reappear as something we have to consult. People corresponded with old friends, taught themselves skills, and heard about public events long before email, Google, and Twitter. Of course, these technologies are extremely helpful in a world in which few of us are close with our neighbors or spend more than a few years in any location. The forms assumed by technology and daily life influence each other, making it increasingly unthinkable to uncouple them.
@@ -38,8 +36,6 @@ Like any pyramid scheme, capitalism has to expand constantly, absorbing new reso
 In this account, the internet functions as another successive layer of alienation built on the material economy. If a great deal of what is available on the internet is free of charge, this is not just because the process of colonization is not yet complete, but also because the determinant currency in the media is not dollars but *attention.* Attention functions in the information economy the same way control of material resources functions in the industrial economy. Even if attention doesn't instantly translate into income *online,* it can help secure it offline. As currencies, attention and capital behave differently, but they both serve to create power imbalances.
 
 What is capital, really? Once you strip away the superstitions that make it seem like a force of nature, it's essentially a social construct that enables some people to amass power over others. Without the notion of private property, which is only "real" insofar as everyone abides by it, material resources couldn't function as capital. In this regard, property rights serve
-
-## 2 of 3 11/11/25, 2:51 AM
 
 the same purpose that the notion of divine right of kings used to: both form the foundation of systems assigning sovereignty. Some people believe passionately in property rights even as those rights are used to strip them of any influence in society. It could be said that these people are *under the spell* of property.
 
@@ -56,5 +52,3 @@ This isn't a criticism of technology per se. The point is that it's not neutral:
 **To put this differently: proponents of internet freedom should ask themselves whether that freedom is really compatible with capitalism and the state.**
 
 Retrieved on 2nd December 2020 from [crimethinc.com](https://crimethinc.com/2013/06/10/the-internet-as-new-enclosure)
-
-## 3 of 3 11/11/25, 2:51 AM

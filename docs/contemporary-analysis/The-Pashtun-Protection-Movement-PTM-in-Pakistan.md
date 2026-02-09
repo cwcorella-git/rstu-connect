@@ -73,8 +73,7 @@ Publication Disclaimer: The designations used and material presented in this pub
 41 |
 | Acknowledgments
 42 |
-| Text Boxes, Tables, Figures, and Maps |
-| TEXT BOX 1. What Are the Tribal Areas?
+1. What Are the Tribal Areas?
 3 |
 | TEXT BOX 2. What is the FCR?
 5 |
@@ -108,8 +107,7 @@ to Distribute Among the Local Public
 
 | FIGURE 9. Activists Collect Funds at a PTM Jalsa | 23 |
 |-----------------------------------------------------------------------------|----|
-| FIGURE 10. Youth Sit on the Roof of a Bus to Travel to a PTM Jalsa | 24 |
-| FIGURE 11. Tweet by PTM Leader Manzoor Pashteen | 26 |
+11. Tweet by PTM Leader Manzoor Pashteen | 26 |
 | MAP 1. Locations of PTM Jalsas in 2018–2020 | 19 |
 | MAP 2. The Seven Former FATA Regions
 on the Pakistan–Afghanistan Border. | 36 |

@@ -8,7 +8,6 @@ tags:
   - theory
 ---
 
-The Irrepressible Anarchists https://usa.anarchistlibraries.net/library/crimethinc-the-...
             CrimethInc.
             The Irrepressible Anarchists
             Federal Inﬁltration and Repression —
@@ -44,7 +43,7 @@ The Irrepressible Anarchists https://usa.anarchistlibraries.net/library/crimethi
             The grace period is over—in May, 2005, the FBI announced that it considers
             the Earth Liberation Front domestic terror threat number one—and the
             government hopes to use this opportunity to settle scores with the anarchist
-1 of 10 11/11/25, 2:51 AM The Irrepressible Anarchists https://usa.anarchistlibraries.net/library/crimethinc-the-...
+
             movement in general.
               This has been coming all along, of course. Every generation that has
             succeeded in pushing its resistance past rhetoric into eﬀective action has
@@ -91,7 +90,7 @@ The Irrepressible Anarchists https://usa.anarchistlibraries.net/library/crimethi
               The following month, Zachary Jenson, Lauren Weiner and Eric McDavid
             were arrested in Auburn, California for allegedly conspiring to commit actions
             on behalf of the ELF. They were set up by an FBI agent provocateur, “Anna,”
-2 of 10 11/11/25, 2:51 AM The Irrepressible Anarchists https://usa.anarchistlibraries.net/library/crimethinc-the-...
+
             who was sleeping with one of them; apparently she bought bomb-making
             materials and rented a bugged house for them. Apparently “Anna” had been
             traveling in anarchist circles since summer of 2004, attending two
@@ -138,7 +137,7 @@ The Irrepressible Anarchists https://usa.anarchistlibraries.net/library/crimethi
             how to respond assists the FBI in their work. To their eternal discredit,
             Anarchy: A so-called Journal of Desire Armed set the low-water mark for this
             sort of thing in implying that the current situation is simply the result of a
-3 of 10 11/11/25, 2:51 AM The Irrepressible Anarchists https://usa.anarchistlibraries.net/library/crimethinc-the-...
+
             “fetishization of security culture” in anarchist circles. Thankfully, more actionoriented publications and websites such as No Compromise and The New York
             Rat have provided practical information on how to support targeted activists
             through letter-writing, fund-raising, and solidarity actions. Sad to say, the
@@ -184,7 +183,7 @@ The Irrepressible Anarchists https://usa.anarchistlibraries.net/library/crimethi
             respond to your thoughtless words without endangering herself. Likewise,
             “innocent” activists may be accused of others’ actions, and even go to prison
             for them; but this is the fault of the government, not on the ones who act, so
-4 of 10 11/11/25, 2:51 AM The Irrepressible Anarchists https://usa.anarchistlibraries.net/library/crimethinc-the-...
+
             long as they don’t stupidly put others at risk. Finally, much of the evidence in
             recent cases is based on informants wearing microphones into conversations.
             Activists should consider the possibility that even trusted companions could
@@ -232,7 +231,7 @@ The Irrepressible Anarchists https://usa.anarchistlibraries.net/library/crimethi
             who were not arrested, who are not even facing the threat of life in prison—
             have agreed to speak to the authorities, putting others at grievous risk.
               Imagine the situation of an activist who has agreed to testify against her
-5 of 10 11/11/25, 2:51 AM The Irrepressible Anarchists https://usa.anarchistlibraries.net/library/crimethinc-the-...
+
             former comrades. All the experiences that made her an anarchist, from
             childhood on, come back to haunt her as she betrays her own values and
             commitments, siding with the bullies, the rapists, the snide executives and
@@ -279,7 +278,7 @@ The Irrepressible Anarchists https://usa.anarchistlibraries.net/library/crimethi
               At the Republican National Convention in Philadelphia summer of 2000,
             Camilo Viveiros and two others were beaten and arrested by a group of police
             that included John Timoney, then Police Commissioner of Philadelphia.
-6 of 10 11/11/25, 2:51 AM The Irrepressible Anarchists https://usa.anarchistlibraries.net/library/crimethinc-the-...
+
             Charged with numerous felonies (as a rule, you always get charged by the
             police for whatever they do to you) and demonized as violent extremists, the
             activists came to be known as the Timoney Three; Camilo himself faced more
@@ -329,7 +328,7 @@ The Irrepressible Anarchists https://usa.anarchistlibraries.net/library/crimethi
             On the day of the escape, the three met in the waiting room at the prison
             entrance, where they were processed through registration and shuttled in a
             van to the visiting room in South Hall. One member of the team went ahead of
-7 of 10 11/11/25, 2:51 AM The Irrepressible Anarchists https://usa.anarchistlibraries.net/library/crimethinc-the-...
+
             the others. Although there was a sign stating that all visitors would be
             searched with a hand-held metal detector, he made it through registration
             without even a pat-down. Meanwhile, the other two men were processed
@@ -376,7 +375,7 @@ The Irrepressible Anarchists https://usa.anarchistlibraries.net/library/crimethi
             oﬀensive? It’s worth pointing out that, with the exception of Rob Thaxton[5],
             no anarchist in recent memory has served more than a couple years in prison
             for participation in mass actions—this is impressive, given the high level of
-8 of 10 11/11/25, 2:51 AM The Irrepressible Anarchists https://usa.anarchistlibraries.net/library/crimethinc-the-...
+
             confrontation these have sometimes reached. It seems to be harder to make
             charges stick in mass action scenarios, perhaps because they involve so many
             suspects and so much chaos, and also because investigating them at great
@@ -430,7 +429,7 @@ The Irrepressible Anarchists https://usa.anarchistlibraries.net/library/crimethi
             suﬀering from heat exhaustion approached her for aid, “Anna” oﬀered her a sip of Gatorade, then
             declined to assist her further. The woman collapsed and an ambulance was called. If any doubt
             lingered as to whether the FBI is concerned about human life, their insertion of incompetent
-9 of 10 11/11/25, 2:51 AM The Irrepressible Anarchists https://usa.anarchistlibraries.net/library/crimethinc-the-...
+
             frauds into medic teams serving law-abiding protestors should settle the matter.
               [5] Rob just ﬁnished serving a seven year sentence for throwing a rock at a police oﬀicer during
             a Reclaim the Streets in Eugene, Oregon, June 18th, 1999.
@@ -444,4 +443,3 @@ The Irrepressible Anarchists https://usa.anarchistlibraries.net/library/crimethi
             a guy have to do these days to get charged as an eco-terrorist? Obviously, he has to have the right
             friends.
             Retrieved on 7th November 2020 from crimethinc.com
-10 of 10 11/11/25, 2:51 AM

@@ -132,7 +132,7 @@ Cheesehead
 (colloquial) |
 | Language | |
 | • Official language | None |
-| • Spoken language | English 90.7% |
+90.7% |
 | | Spanish 5.0% |
 | | Other 4.3%[4] |
 | Time zone

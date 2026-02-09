@@ -20,8 +20,6 @@ Another question: I can do my own voice, or a child's voice. That's it. I have n
 
 Well first, you stop trying to write a character's voice according to their role in the story. There is no way that all crochety old
 
-## 1 of 5 10/16/25, 12:04 AM
-
 ladies (or sidekicks, or young men, or…anyone, really) speak. There is only the way that this particular old lady (sidekick, young man, villain…) speaks.
 
 This means that research will only get you so far. You need to develop an ear for different kinds of dialog, as well as learning how to write it down once you can hear it.
@@ -58,5 +56,3 @@ On August 20, 2025 / [Writing](https://pcwrede.com/pcw-wp/category/writing/)
 ## ![](_page_4_Picture_5.jpeg)
 
 ## ![](_page_4_Picture_6.jpeg)
-
-## 5 of 5 10/16/25, 12:04 AM

@@ -1167,7 +1167,7 @@ ness | nple | te- | Conn | ecte | dness | QOL |
 Alabhath | Almost no green spaces within the area and only 0.05 m2/ca of open spaces | - | | | | | | | | | | - |
 | r capit | Masaken | Almost no green spaces within the area and only 0.07 m2/ca of open spaces | - | | | | | | - | | | | - |
 | aces pe | Ezbet Allam | Almost no green spaces within the area and only 0.1 m2/ca of open spaces | - | | | | | | - | | | | - |
-| Green spaces per capita | Abdelmonem Reyad | No green spaces within the area and only 0.01 m2/ca of open spaces | _ | | | | | | - | | | | - |
+0.01 m2/ca of open spaces | _ | | | | | | - | | | | - |
 
 (continued)
 
@@ -1188,8 +1188,8 @@ Alabhath | The district is informally built advocating walkability, mixed use an
 | olicy | E 1. 4 All | ing walkability, mixed use and mixed | | | | | | | | | | - |
 | se po | Abdel- with land use. monem Re- yad | | | | | | | | | | | |
 | Land u | | | | | | | | | | | - | |
-| I | Alabhath | Although generated waste is minimal 0.5kg/ca, where inhabitants have a high reusing rate, but the residual waste is of lower value and hence doesn't attract waste pickers to recycle resulting in accumulation especially given the high concentration of people. The municipality is currently considering a more efficient system. | | | | | | | | | | - |
-| policy | | Rate of wastes 0.5 kg/ca, the residual waste is of lower value and hence doesn't attract waste pickers to recycle resulting in accumulation especially given the high concentration of people in the area. | | | | | | | | | | - |
+0.5kg/ca, where inhabitants have a high reusing rate, but the residual waste is of lower value and hence doesn't attract waste pickers to recycle resulting in accumulation especially given the high concentration of people. The municipality is currently considering a more efficient system. | | | | | | | | | | - |
+0.5 kg/ca, the residual waste is of lower value and hence doesn't attract waste pickers to recycle resulting in accumulation especially given the high concentration of people in the area. | | | | | | | | | | - |
 | -use | | Although the generated waste is mini- | | | | | | | | | | - |
 | Waste recycling | monem Reyad | mal (0.6kg/ca), where inhabitants have a high reusing rate, but the residual waste is of lower value and hence doesn't attract waste pickers to recycle resulting in accumulation especially given the high concentration of people. The municipality is currently considering a more efficient system. | | | | | | | | | | - |
 | Length of

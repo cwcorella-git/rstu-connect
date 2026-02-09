@@ -159,7 +159,6 @@ SEXAGENARIANS [75]
 Chapter 9 – ANONYMOUS HEROES,THE PROTESTS OF THE
 ENSLAVED,AND ABOLITION [109]
  The Caifazes [109]
-##
 ## Masters and Slaves [110]
 
 ## The Slave and Abolitionism [112]

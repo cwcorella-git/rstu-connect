@@ -15,31 +15,18 @@ tags:
 
 ## Nestor Makhno
 
-#### **Contents**
-
-| Chapter 1. Great October in the Ukraine | |
+1. Great October in the Ukraine | |
 |----------------------------------------------------------------------------------------------------------------------------------------------|--|
 | Chapter 2. On the 10th Anniversary of the Makhnovist Insurgent Movement in
-the Ukraine | |
-| Chapter 3. On Defense of the Revolution | |
-| Chapter 4. A Few Words on the National Question in the Ukraine | |
-| Chapter 5. To the Jews of All Countries | |
-| Chapter 6. The Makhovshchina and Anti-Semitism | |
-| Chapter 7. In Memory of the Kronstadt Revolt | |
-| Chapter 8. The Idea of Equality and the Bolsheviks | |
-| Chapter 9. The Paths of "Proletarian" Power | |
-| Chapter 10."Soviet" Power — Its Present and Its Future | |
-| Chapter 11. The Struggle Against the State | |
-| Chapter 12. The First of May: Symbol of a New Era in the Life and Struggle of the
-Toilers | |
-| Chapter 13. Anarchism and Our Times | |
-| Chapter 14. Our Organization | |
-| Chapter 15. On Revolutionary Discipline | |
-| Chapter 16. The ABC of the Revolutionary Anarchist | |
-| Chapter 17. Open Letter to Spanish Anarchists | |
-| Chapter 18. On the History of the Spanish Revolution of 1931 and the Part Played
-by the Left and Right-Wing Socialists and the Anarchists | |
-| Chapter 19. Bibliographical Afterword by Alexandre Skirda | |
+3. On Defense of the Revolution | |
+5. To the Jews of All Countries | |
+7. In Memory of the Kronstadt Revolt | |
+9. The Paths of "Proletarian" Power | |
+12. The First of May: Symbol of a New Era in the Life and Struggle of the
+13. Anarchism and Our Times | |
+15. On Revolutionary Discipline | |
+18. On the History of the Spanish Revolution of 1931 and the Part Played
+19. Bibliographical Afterword by Alexandre Skirda | |
 
 #### **Chapter 1. Great October in the Ukraine**
 

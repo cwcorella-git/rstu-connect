@@ -8,8 +8,6 @@ tags:
   - theory
 ---
 
-Anarchists Getting Ourselves Together https://theanarchistlibrary.org/library/james-herod-anarchists-getting-ou...
-
 ## James Herod
 ## A Proposal
 ## March 2007
@@ -47,7 +45,7 @@ Anarchists Getting Ourselves Together https://theanarchistlibrary.org/library/ja
                vigorously against representative government. By direct democracy we mean decision-making in
                assemblies through face-to-face discussion, deliberation, and voting, and an association of such
                assemblies built up through negotiated agreements (pacts, treaties), not through federation (or
-1 of 5 9/17/25, 11:36 AM Anarchists Getting Ourselves Together https://theanarchistlibrary.org/library/james-herod-anarchists-getting-ou...
+
                confederation) using delegates. The term has also been widely used in recent years to refer to
                referendums and recalls, which is an unfortunate restriction and weakening of the concept, which
                originally referred to direct participatory democracy, as in a town meeting. We stick to the original
@@ -98,8 +96,6 @@ Anarchists Getting Ourselves Together https://theanarchistlibrary.org/library/ja
                       negotiating treaties amongst various autonomous entities. Cumbersome but necessary
 ## if direct democracy is to be preserved.
 
-2 of 5 9/17/25, 11:36 AM Anarchists Getting Ourselves Together https://theanarchistlibrary.org/library/james-herod-anarchists-getting-ou...
-
 ## Projects
 
                       (a) Origin of Projects
@@ -146,7 +142,6 @@ Anarchists Getting Ourselves Together https://theanarchistlibrary.org/library/ja
 ## common purpose of agitating for anarchy.
 ## Network not Federation
 
-3 of 5 9/17/25, 11:36 AM Anarchists Getting Ourselves Together https://theanarchistlibrary.org/library/james-herod-anarchists-getting-ou...
                   Most of the anarchist federations established recently consist of individuals or groups who agree
                to abide by the decisions of an annual or bi-annual regional assembly of members. This feature will
                not be characteristic of this network, the absence of which is what distinguishes it from a
@@ -197,7 +192,7 @@ Anarchists Getting Ourselves Together https://theanarchistlibrary.org/library/ja
                off using simple majority rule, or Robert's Rules of Order. Moreover, already many misconceptions
                of the technique are widespread in the movement, like the belief that it overcomes majority rule,
                that there is no voting, or that a block can be used by anyone under any circumstances.
-4 of 5 9/17/25, 11:36 AM Anarchists Getting Ourselves Together https://theanarchistlibrary.org/library/james-herod-anarchists-getting-ou...
+
                Nevertheless, this process (relabeled with a more accurate name) is superior is all respects to simple
                majority rule: it results in better decisions, achieves greater compliance with the decisions, builds
                solidarity, results in more effective actions and campaigns, and is consistent with direct democracy
@@ -231,5 +226,3 @@ Anarchists Getting Ourselves Together https://theanarchistlibrary.org/library/ja
                blogs and the 23 papers under Selected Papers: 1998-Present. Clicking on anything else will just
                get you a blank page. Sorry. I hope to have everything uploaded by the end of April (but don't hold
 ## your breath).
-
-5 of 5 9/17/25, 11:36 AM

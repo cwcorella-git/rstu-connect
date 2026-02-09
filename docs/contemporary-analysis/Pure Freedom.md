@@ -264,8 +264,6 @@ Updated Preface by the "Editor" ................................................
 | 10. Free Love and Other Practical Applications 52 | |
 ## | 11. Art, Culture, Lifestyle 59 | |
 
-## 4 of 101 10/14/25, 8:45 PM
-
 12. Federalism - Small Is Beautiful – The Idea of Networking .........................
 
 | 13. Chaos, Or What…? 73 |
@@ -1298,7 +1296,6 @@ as a resident, to the council of my neighborhood;
  as a cosmopolitan, to a global association of Esperantists;
  as a frequent traveler, to a federation organizing railway timetables — and
 so on …
-##
 "But, but …" critics might interject, "You can do all of that already today!" And: "Isn't that a bit too much work and responsibility all at once?" Or: "How many people do you honestly think would be so committed and voluntarily take interest in community work?!"
 
 Let's try to answer these objections one at a time.

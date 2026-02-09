@@ -18,11 +18,9 @@ tags:
 
 ---
 
-
 50  EAST  69TH  STREET  NEW  YORK 
 
 1944 
-
 
 THE      • 
 ROBERT  SCHALKENBACH 
@@ -42,16 +40,12 @@ a  wider  acquaintance  with  the  so-
 cial and  economic  philosophy  of 
 Henry  George 
 
-
 Copyright,  1886,  by 
 Henry  George 
 
-
 All  rights  reserved 
 
-
 THE  Country  Life  Press,  garden  city,  new  YORK,  u.  s.  A. 
-
 
 TO  THE  MEMORY 
 
@@ -67,9 +61,7 @@ WHO  IN  THE  NIGHT  OF  DESPOTISM  FORESAW
 
 THE  GLORIES  OF  THE  COMING  DAY 
 
-
 'Prove  all  things :  hold  fast  that  which  is  good.* 
-
 
 PREFACE. 
 
@@ -102,7 +94,6 @@ separated  by  seemingly  irreconcilable  differences  of
 opinion  may  unite  for  that  full  application  of  the  free- 
 
 ix 
-
 
 35  PREFACE. 
 
@@ -145,9 +136,7 @@ American  protectionists  as  an  authoritative  exponent  of
 their  views— Professor  Thompson  of  the  University  of 
 Pennsylvania. 
 
-
 CONTENTS, 
-
 
 CHAPTER  PAGE 
 
@@ -197,12 +186,9 @@ XXI.  Inadequacy  of  the  Free-Trade  Argument  ...  224
 
 xi 
 
-
 Xll 
 
-
 CONTENTS. 
-
 
 CHAPTER  PAGE 
 
@@ -226,12 +212,9 @@ XXX.    Conclusion 327
 
 Index ,    *    .    .  333 
 
-
 PROTECTION  OR  FREE  TRADE? 
 
-
 . 
-
 
 CHAPTER  I. 
 
@@ -259,7 +242,6 @@ held  down  to  brutish  levels  by  animal  needs.  Bitterly
 conscious  of  injustice,  feeling  in  their  inmost  souls  that 
 they  were  made  for  more  than  so  narrow  a  life,  they,  too, 
 spasmodically  struggle  and  cry  out.    But  until  they  trace 
-
 
 2  PROTECTION  OR  FREE   TRADE? 
 
@@ -302,7 +284,6 @@ agree  on  the  path  reform  should  take.
 It  is  with  the  hope  of  promoting  such  agreement  that 
 I  propose  in  these  pages  to  examine  a  vexed  question 
 
-
 INTRODUCTORY.  3 
 
 which  must  be  settled  before  there  can  be  any  efficient 
@@ -343,7 +324,6 @@ must  force  themselves  to  the  front.  First  among  these
 questions,  upon  which  party  lines  must  soon  be  drawn 
 and  political  discussion  must  rage,  is  the  tariff  question. 
 
-
 4  PROTECTION  OR  FREE  TRADE? 
 
 It  behooves  not  merely  those  who  aspire  to  political 
@@ -382,7 +362,6 @@ that  all  who  live  by  wages  ought  to  seek,  and  working-
 men  a,re  right  in  supporting  any  measure  that  will  attain 
 that  object.  Nor  in  this  are  they  acting  selfishly,  for, 
 while  the  question  of  wages  is  the  most  important  of 
-
 
 INTRODUCTORY.  *- 
 
@@ -424,7 +403,6 @@ have  not  equipped  themselves  by  long  study.
 This  is,  indeed,  a  hopeless  view.  We  may  safely  leave 
 many  branches  of  knowledge  to  such  as  can  devote  them- 
 
-
 6  PROTECTION  OR  FREE  TRADE? 
 
 selves  to  special  pursuits.  "We  may  safely  accept  what 
@@ -465,7 +443,6 @@ always  be  ruled  and  robbed  by  the  few.
 But  this  is  not  so.  Political  economy  is  only  the  econ- 
 omy  of  human  aggregates,  and  its  laws  are  laws  which 
 
-
 INTRODUCTORY.  7 
 
 we  may  individually  recognize.  What  is  required  for 
@@ -505,7 +482,6 @@ which  relates  to  wages  and  which  is  primarily  concerned
 with  the  distribution  of  wealth  has  not  been  adequately 
 treated.  Yet  this  is  the  very  heart  of  the  controversy, 
 the  ground  from  which,  until  it  is  thoroughly  explored. 
-
 
 8  ^ftOTECTION  OR  FREE  TRADE? 
 
@@ -548,7 +524,6 @@ seeing  the  necessity  of  doing  so  by  the  atmosphere  of  his
 time  and  place.  He  at  any  rate  failed  to  carry  his  great 
 inquiry  into  the  causes  which  from  "that  original  state 
 
-
 INTRODUCTORY.  9 
 
 of  things  in  which  the  production  of  labor  constitutes 
@@ -590,7 +565,6 @@ That,  so  far  as  it  has  yet  gone,  the  controversy
 between  protection  and  free  trade  has  not  been  carried 
 to  its  logical  conclusions  is  evident  from  the  positions 
 
-
 10  PROTECTION  OR  FREE  TRADE? 
 
 which  both  sides  occupy.  Protectionists  and  free  traders 
@@ -618,7 +592,6 @@ tariff  question  as  ordinarily  debated.  And  here,  it  may
 be,  we  shall  find  ground  on  which  honest  divergences  of 
 opinion  may  be  reconciled,  and  facts  which  seem  conflict- 
 ing may  fall  into  harmonious  relations. 
-
 
 CHAPTER  II. 
 
@@ -651,7 +624,6 @@ business,  so  what  is  everybody's  interest  is  nobody's
 interest.     Two  or  three  citizens  of  a  seaside  town  see 
 
 11 
-
 
 12  PROTECTION   OR   FREE   TRADE  t 
 
@@ -692,7 +664,6 @@ constitute  a  power  of  the  kind  most  potent  in  forming
 opinion  and  influencing  legislation,  and  that  this  fact 
 weakens  the  presumption  the  wide  acceptance  of  protec- 
 tion might  otherwise  afford,  and  is  a  reason  why  those 
-
 
 CLEARING  GROUND.  13 
 
@@ -735,7 +706,6 @@ more  originated  in  Great  Britain  than  did  the  habit  of
 walking  on  the  feet.  Free  trade  is  the  natural  trade— 
 the  trade  that  goes  on  in  the  absence  of  artificial  restric- 
 
-
 14         PROTECTION  OR  EREE  TRADE? 
 
 tions.  It  is  protection  that  had  to  be  invented.  But 
@@ -774,7 +744,6 @@ that  country  has  yet  to  be  fought.
 
 On  the  other  hand,  it  is  absurd  to  talk  of  protection  as 
 an  American  system.     It  had  been  fully  developed  in 
-
 
 CLEARING  GROUND.  15 
 
@@ -816,7 +785,6 @@ nominal  as  compared  with  what  the  British  tariff  was
 then  or  our  tariff  is  now.  And  in  the  Federal  Constitu- 
 tion State  tariffs  were  prohibited— a  step  which  has  re* 
 
-
 16  PROTECTION  OR  1FREE  TRADE? 
 
 suited  in  giving  to  the  principle  of  free  trade  the  greatest 
@@ -856,7 +824,6 @@ tions. Though  we  preserve  this  aristocratic  distinction
 after  it  has  been  abandoned  in  some  European  countries, 
 it  is  in  no  sense  American.  It  neither  originated  with 
 us  nor  does  it  consort  with  our  distinctive  ideas  and 
-
 
 CLEARING  GROUND.  17 
 
@@ -900,7 +867,6 @@ industries  have  grown  up— some  of  them,  such  as  the
 building  of  iron  ships,  for  which  natural  advantages 
 cannot  be  claimed.     How  can  this  be  explained  on  the 
 
-
 18         PEOTECTION  OR  FREE  TRADE* 
 
 theory  that  Irish  industries  cannot  be  reestablished  with, 
@@ -941,12 +907,9 @@ highest  esteem,  while  the  strength  of  free  trade  has  been
 the  greatest  in  the  section  in  which  up  to  the  civil  war 
 slavery  prevailed.     The  political  party  which  success- 
 
-
 CLEARING  GROUND. 
 
-
 19 
-
 
 fully  challenged  the  aggressions  of  the  slave  power  also 
 declared  for  a  protective  tariff,  while  the  men  who  tried 
@@ -984,7 +947,6 @@ aim  of  protection.  Ancl  whatever  protection  accom-
 plishes, protectionists  at  least  profess  regard  for  the 
 working-classes,  and  proclaim  their  desire  to  use  the 
 powers  of  government  to  raise   and  maintain  wages. 
-
 
 20  PROTECTION  OR  FREE  TRADE? 
 
@@ -1026,7 +988,6 @@ are  disposed  to  regard  protection  as  favorable  to  the
 aspirations  of  labor,  to  consider  whether  it  can  be  true 
 that  what  labor  needs  is  to  be  protected  ? 
 
-
 CLEARING  GROUND.  21 
 
 To  admit  that  labor  needs  protection  is  to  acknowledge 
@@ -1067,7 +1028,6 @@ not  labor  the  creator  of  capital,  the  producer  of  all
 wealth?  Is  it  not  the  men  who  labor  that  feed  and 
 clothe  all  others  ?    Is  it  not  true,  as  has  been  said,  that 
 
-
 22  PROTECTION  OR  FREE  TRADE? 
 
 the  three  great  orders  of  society  are  "working-men, 
@@ -1097,7 +1057,6 @@ And  so,  that  freedom  of  trade  has  been  advocated  by
 those  who  have  no  sympathy  with  labor  should  not  prej- 
 udice us  against  it.  Can  the  road  to  the  industrial  emanci- 
 pation of  the  masses  be  any  other  than  that  of  freedom? 
-
 
 CHAPTER  III. 
 
@@ -1131,7 +1090,6 @@ would  be  the  assumption  that  these  higher  wages  are  due
 to  our  decimal  coinage  or  to  our  republican  form  of 
 
 23 
-
 
 24  PROTECTION  OR   FREE  TRADE? 
 
@@ -1171,12 +1129,9 @@ collection  and  grouping  such  liability  to  oversight  and
 such  temptation  to  bias  that  they  are  to  be  distrusted  in 
 matters  of  controversy  until  they  have  been  subjected  to 
 
-
 OF  METHOD. 
 
-
 25 
-
 
 rigid  examination.  The  value  of  most  arguments  turn- 
 ing upon  statistics  is  well  illustrated  in  the  story  of  the 
@@ -1215,7 +1170,6 @@ within  certain  limits  hardly  less  useful  than  actual
 experiment.  We  may  test  the  working  of  known  prin- 
 ciples by  mentally  separating,  combining  or  eliminating 
 
-
 26        PROTECTION  OR  FREE  TRADE? 
 
 conditions.  Let  me  explain  what  I  mean  by  an  illustra- 
@@ -1253,23 +1207,18 @@ In  such  ways  as  this,  with  which  we  are  all  familiar,
 we  can  isolate,  analyze  or  combine  economic  principles, 
 and,  by  extending  or  diminishing  the  scale  of  proposi- 
 
-
 *  Lecture  before  the  students  of  the  University  of  California,  on 
 the  "Study  of  Political  Economy,"  April,  1877. 
 
-
 OF  METHOD. 
 
-
 27 
-
 
 tions,  either  subject  them  to  inspection  through  a  mental 
 magnifying-glass  or  bring  a  larger  field  into  view.  And 
 this  each  one  can  do  for  himself.  In  the  inquiry  upon 
 which  we  are  about  to  enter,  all  I  ask  of  the  reader  is 
 that  he  shall  in  nothing  trust  to  me. 
-
 
 CHAPTER  IV. 
 
@@ -1303,7 +1252,6 @@ ever protectionists  in  the  United  States  may  talk  of
 tection is,  and  of  necessity  must  be,  advocated  as  of 
 
 28 
-
 
 PROTECTION  AS  A  UNIVERSAL  NEED.      29 
 
@@ -1344,7 +1292,6 @@ the  Federal  Constitution  prevented  her  from  securing  by
 a  State  tariff.  The  full  bearing  of  such  notions  never 
 occurred  to  me  till  I  happened  to  hear  the  protective 
 
-
 30  PROTECTION   OR  FREE  TRADE? 
 
 theory  elaborately  expounded  by  an  able  man.  As  he 
@@ -1383,7 +1330,6 @@ guard  against  every  other  nation  and  erect  artificial
 obstacles  to  national  intercourse.  It  implies  that  a 
 federation  of  mankind,  such  as  that  which  prevents  the 
 establishment  of  tariffs  between  the  States  of  the  Ameri- 
-
 
 PROTECTION  AS  A  UNIVERSAL  NEED.      31 
 
@@ -1424,7 +1370,6 @@ not  in  spirit,  from  that  warfare  which  sinks  ships  and
 burns  cities.  Can  we  imagine  the  nations  beating  their 
 swords  into  plowshares  and  their  spears  into  pruning- 
 hooks  and  yet  maintaining  hostile  tariffs? 
-
 
 32  PROTECTION  OR  -FREE  TRADE? 
 
@@ -1467,7 +1412,6 @@ and,  when  the  officer  admired  it,  had  replied  that  it  was
 his.  The  third  said  he  simply  put  a  greenback  conspicu- 
 ously in  the  first  article  of  luggage ;  and  the  fourth  told 
 
-
 PROTECTION  AS  A  UNIVERSAL  NEED.  33 
 
 how  his  plan  was  to  crumple  up  a  note,  and  put  it  with 
@@ -1509,7 +1453,6 @@ church !
 Conscientious  men  will  (until  they  get  used  to  them) 
 shrink  from  false   oaths,  from  bribery,  or  from  other 
 
-
 34        PROTECTION  OR  FREE  TRADE? 
 
 means  necessary  to  evade  a  tariff,  but  even  of  believers 
@@ -1549,7 +1492,6 @@ to  oaths  to  prevent  men  from  doing  what  they  feel
 injures  no  one,  is  to  weaken  the  sanctity  of  oaths.  Cor- 
 ruption, evasion  and  false  swearing  are  inseparable  from 
 tariffs.     Can  that  be  good  of  which  these  are  the  fruits ! 
-
 
 PROTECTION  AS  A  UNIVERSAL  NEED.  35 
 
@@ -1592,7 +1534,6 @@ dreamed  of  a  time  when  the  power  of  traversing  those
 unobstructed  fields  might  also  be  his.  That  this  triumph 
 is  within  the  power  of  human  ingenuity  who  in  this  age 
 
-
 36        PROTECTION  OR  FREE  TRADE? 
 
 of  marvels  can  doubt?  And  who  would  not  hail  with 
@@ -1631,12 +1572,9 @@ things.  But  what  all  mankind,  in  the  individual  affairs
 of  every-day  life,  regard  as  to  be  desired  is  not  the 
 making  of  things,  but  the  possession  of  things. 
 
-
 CHAPTER  V. 
 
-
 THE   PROTECTIVE   UNIT. 
-
 
 THE  more  one  considers  the  theory  that  every  nation 
 ought    to    "protect"    itself    against    every    other 
@@ -1648,7 +1586,6 @@ saying  that  each  should  have  a  protective  tariff  ?  *  What
 is  meant  by  nation  or  country  in  the  protectionist  theory 
 is  an  independent  political  division.  Thus  Great  Britain 
 and  Ireland  are  considered  one  nation,  France  another, 
-
 
 *  That  protectionist  writers  are  themselves  conscious  of  this 
 absurdity  is  to  be  seen  in  their  constant  effort  to  suggest  the  idea, 
@@ -1669,7 +1606,6 @@ of  nations  as  parts  of  the  world's  providential  order,"  the  "providers
 tial  boundaries  of  nations,"  etc. 
 
 37 
-
 
 38         PROTECTION  OR  FREE  TRADE? 
 
@@ -1710,7 +1646,6 @@ theory  is  destitute  of  scientific  basis;  that  instead  of
 originating  in  any  deduction  from  principles  or  induction 
 from  facts,  it  has  been  invented  merely  to  serve  the  pur- 
 
-
 THE  PROTECTIVE  UNIT.  39 
 
 poses  of  its  inventors  ?  Political  changes  in  no  wise  alter 
@@ -1749,7 +1684,6 @@ it  not  clear  that  these  States  also  need  protection  from
 the  States  which  adjoin  them  on  the  south?  What  dif- 
 ference does  it  make  that  one  set  of  States  belong  to 
 the  American  Union  and  the  other  to  the  Canadian  Con- 
-
 
 40         PROTECTION  OR  FREE  TRADE? 
 
@@ -1792,7 +1726,6 @@ chusetts, for  instance,  does  not  produce  coal,  iron  or
 sugar.  These,  then,  on  protective  principles,  ought  to 
 come  into  Massachusetts  free,  while  Pennsylvania  enjoyed 
 
-
 THE  PROTECTIVE  UNIT.  41 
 
 protection  on  iron  and  coal,  and  Louisiana  on  sugar. 
@@ -1832,7 +1765,6 @@ Upon  the  protective  theory  protection  is  most  needed
 against  like  industries.  All  protectionists  agree  that  the 
 United  States  has  greater  need  of  protection  against 
 Great  Britain  than  against  Brazil  j  and  Canada  against 
-
 
 42  PROTECTION  OR  FREE  TRADE? 
 
@@ -1874,7 +1806,6 @@ between  the  States.
 Nor  can  there  be  any  doubt  that  if  our  political  organi- 
 zation made  our  townships  independent  of  one  another. 
 
-
 THE  PROTECTIVE  UNIT.  43 
 
 we  should  have,  in  our  townships  and  villages,  the  same 
@@ -1915,7 +1846,6 @@ a  foundry,  and,  in  short,  all  the  establishments  necessary
 to  supply  the  wants  of  our  people?  To  get  them  we 
 peed  only  a  protective  tariff.     Capital,  when  assured  ot 
 
-
 44         PROTECTION  OR  FREE  TRADE? 
 
 protection,  will  be  gladly  forthcoming  for  such  enter- 
@@ -1953,7 +1883,6 @@ a  social  condition  in  which  the  principle  of  protection
 was  thus  fully  carried  out  would  be  a  condition  of  utter 
 barbarism. 
 
-
 CHAPTER  VI. 
 
 TRADE. 
@@ -1989,7 +1918,6 @@ Yet  a  moment's  thought  will  show  that  no  effort  of
 foreigners  to  sell  us  their  products  could  of  itself  make  a 
 
 45 
-
 
 46  PROTECTION  OR  -FREE  TRADE? 
 
@@ -2031,7 +1959,6 @@ For  a  people  can  be  more  quickly  injured  by  preventing
 them  from  getting  things  than  by  preventing  them  from 
 sending  things  away.     Trade  does  not  require  force. 
 
-
 TRADE.  4? 
 
 Free  trade  consists  simply  in  letting  people  buy  and  sell 
@@ -2071,7 +1998,6 @@ out  goods  to  be  sold.  The  great  mass  of  the  imports  of
 every  civilized  country  consists  of  goods  that  have  been 
 ordered  by  the  people  of  that  country  and  are  imported 
 *vt  their  risk.      This  is   true   even   in  our   own   case, 
-
 
 48  PROTECTION  OR  FREE  TRADE? 
 
@@ -2114,7 +2040,6 @@ devise  any  scheme  by  which  any  intelligence  can  be
 secured  in  a  Parliament  or  Congress  superior  to  that  of 
 the  people  it  represents. 
 
-
 TEADE.  49 
 
 That  where  protective  tariffs  are  imposed  it  is  in 
@@ -2153,7 +2078,6 @@ consciousness  and  will.  We  live  by  the  continuous  car-
 rying on  of  multifarious  and  delicate  processes  apparent 
 only  in  their  results  and  utterly  irresponsive  to  mental 
 direction. 
-
 
 50        PROTECTION  OR  FREE  TRADE? 
 
@@ -2196,7 +2120,6 @@ Dody  that  for  which  it  calls.
 It  is  as  natural  for  men  to  trade  as  it  is  for  blood  to 
 circulate.     Man  is  by  nature  a  trading  animal,  impelled 
 
-
 TRADE.  51 
 
 to  trade  by  persistent  desires,  placed  in  a  world  where 
@@ -2238,7 +2161,6 @@ can  be  accumulated.
 If  to  prevent  trade  were  to  stimulate  industry  and 
 promote  prosperity,  then  the  localities  where  he  was  most 
 
-
 52         PROTECTION  OR  FREE  TRADE? 
 
 isolated  would  show  the  first  advances  of  man.  The 
@@ -2278,7 +2200,6 @@ in  such  a  world,  we  might  infer  it  to  be  the  intent  of
 nature  that  each  people  should  develop  its  own  indus- 
 tries  independently   of   all    others.     But   the   world   in 
 
-
 TRADE.  53 
 
 which  we  do  find  ourselves  is  not  merely  adapted  to 
@@ -2317,7 +2238,6 @@ help  one  another.
 Other  natural  facts  have  similar  bearing.  It  has  long 
 been  known  that  to  obtain  the  best  crops  the  farmer 
 should  not  sow  with  seed  grown  in  his  own  fields,  but 
-
 
 54        PROTECTION  OR  FREE  TRADE? 
 
@@ -2359,7 +2279,6 @@ could  never  have  emerged  from  barbarism,  and  some-
 thing which  physical  nature  and  social  laws  alike  prove 
 to  be  in  conformity  with  the  creative  intent. 
 
-
 TKADE.  65 
 
 It  is  true  that  protectionists  do  not  condemn  all  tradev 
@@ -2397,7 +2316,6 @@ whether  it  would  be  possible  or  impossible  for  me  to
 make  for  myself  the  thing  for  which  I  trade?  If  I  dic| 
 not  want  the  thing  I  am  to  get  more  than  the  thing  I  am 
 to  give,  I  would  not  wish  to  make  the  trade.    Here  is  a 
-
 
 56         PROTECTION  OR  FREE  TRADE? 
 
@@ -2440,7 +2358,6 @@ lines  of  latitude."— Horace  Greeley,  Political  Economy,  p.  39.
 ians than  along  the  parallels  of  latitude."— Professor  Robert 
 Ellis  Thompson,  Political  Economy,  p.  217. 
 
-
 TRADE.  57 
 
 most  alike  in  habits  and  needs  will  call  most  largely  for 
@@ -2480,7 +2397,6 @@ may  become  good  workmen.  There  will  not  only  be  a
 saving  of  the  time  and  effort  required  for  learning,  but 
 each,  moreover,  can  in  a  single  vocation  work  to  much 
 better  advantage,  and  may  acquire  and  use  tools  which 
-
 
 58         PROTECTION  OR  FREE  TRADE? 
 
@@ -2524,7 +2440,6 @@ all  revenues  are  drawn.
 Any  one  can  see  what  would  be  the  result  of  forbidding 
 each  individual  to  obtain  from  another  any  commodity 
 
-
 TRADE.  59 
 
 or  service  which  he  himself  was  naturally  fitted  to  pro- 
@@ -2565,7 +2480,6 @@ by  ligatures,  would  be  not  a  whit  more  absurd  than  to
 assert  that  the  way  for  nations  to  become  rich  is  for 
 them  to  restrict  the  natural  tendency  to  trade. 
 
-
 CHAPTER  VII. 
 
 PRODUCTION  AND  PRODUCERS. 
@@ -2599,7 +2513,6 @@ As  for  the  tea,  it  was  grown  in  China,  was  carried  on
 a  bamboo  pole  upon  the  shoulders  of  a  man  tc  some  river 
 
 60 
-
 
 PRODUCTION  AND  PRODUCERS.  61 
 
@@ -2641,7 +2554,6 @@ that  causes  it  to  be  brought  to  the  United  States.  It  is
 the  demand  for  tea  in  the  United  States— that  is  to  say, 
 the  readiness  to  give  other  products  of  labor  for  it— that 
 
-
 62         PROTECTION  OR  FREE  TRADE? 
 
 causes  tea  to  be  grown  in  China  for  shipment  to  the 
@@ -2681,7 +2593,6 @@ of  the  ground,  we  may  also  just  as  truly  produce  it  by
 exchanging  other  products  of  labor  for  it.  Whether  we 
 get  coal  by  digging  it  or  by  bringing  it  from  Nova 
 Scotia  or  Australia  or  England  in  exchange  for  other 
-
 
 PRODUCTION  AND  PRODUCERS.         63 
 
@@ -2726,7 +2637,6 @@ does  the  manufacturer.  He  merely  transfers  things  from  the  place
 of  their  production  to  the  place  of  demand."— Professor  R.  E. 
 Thompson,  Political  Economy,  p.  198. 
 
-
 64        PROTECTION  OR  FREE  TRADE? 
 
 reservoirs  and  pipes  which  enable  the  inhabitant  of  a  city 
@@ -2767,7 +2677,6 @@ of  the  wholesaler,  who  held  the  apples  in  stock  until  the
 is  still  levied  in  France,  though  abolished  for  a  time  by  the  Revolu- 
 tion. It  is  a  survival  of  the  local  tariffs  once  common  in  Europe, 
 which  separated  province  from  province  and  town  from  country 
-
 
 PRODUCTION  AND  PRODUCERS.         65 
 
@@ -2810,7 +2719,6 @@ reducing  and  abolishing  these  restrictions  to  trade,  producing  in
 this  way  good  results  which  are  sometimes  attributed  by  protec- 
 tionists to  external  tariffs. 
 
-
 66  PROTECTION  OR  FREE  TRADE? 
 
 transactions.  A  hundred  cases  of  shoes  may  be  sold  at 
@@ -2850,7 +2758,6 @@ much  greater  liability  to  loss  from  decay  or  accident.
 But  it  is  when  he  comes  to  things  not  constantly  needed, 
 but  which,  when  needed,  though  it  may  not  be  once  a 
 year  or  once  a  lifetime,  may  be  needed  verr~  v*adly—  that 
-
 
 PRODUCTION  AND  PRODUCERS.         67 
 
@@ -2892,7 +2799,6 @@ state  of  things  it  may  hereafter  lie  in  our  way  to  inquire,
 but  at  present  I  am  only  concerned  in  pointing  out  that 
 the  trader  is  not  a  mere  "  useless  exchanger,"  who  "  adds 
 
-
 68  PEOTECTION  OR  FREE  TRADE? 
 
 nothing  to  the  real  wealth  of  society,"  but  that  the  trans. 
@@ -2928,7 +2834,6 @@ by  what  name  of  honor  he  may  be  called,  or  how  lustily
 the  priests  of  Mammon  may  swing  their  censers  before 
 him,  is  in  the  last  analysis  but  a  beggar-man  or  a  thief. 
 
-
 CHAPTER  VIII. 
 
 TARIFFS   FOR  REVENUE. 
@@ -2963,7 +2868,6 @@ tures, and  propose,  not  to  abolish  it,  but  only  to  restrict
 it  to  revenue  purposes.    Nearly  all  the  opposition  to  the 
 
 69  ' 
-
 
 70  PROTECTION  OR  FREE  TRADE? 
 
@@ -3004,7 +2908,6 @@ rate returns  of  private  business  to  be  made  to  govern-
 ment officials.  To  collect  more  easily  an  indirect  tax 
 upon  salt  the  government  of  British  India  cruelly  pre^ 
 vents  the  making  of  salt  in  many  places  where  the 
-
 
 TARIFFS  FOR  REVENUE.  71 
 
@@ -3047,7 +2950,6 @@ rich.  Since  such  taxation  falls  on  people  not  according
 to  what  they  have,  but  according  to  what  they  consume, 
 it  is  heaviest,  on  those  whose  consumption  is  largest  in 
 
-
 72  PROTECTION  OR  FREE  TRADE? 
 
 proportion  to  their  means.  As  much  sugar  is  needed  to 
@@ -3086,7 +2988,6 @@ diamonds  as  compared  with  their  bulk.  Even  where  dis-
 crimination of  this  kind  is  not  made  in  the  imposition  of 
 indirect  taxation,  it  arises  in  its  collection.  Specific 
 taxes  fall  more  heavily  upon  the  cheaper  than  the  costlier 
-
 
 TARIFFS  FOR  REVENUE.  73 
 
@@ -3128,7 +3029,6 @@ levied  a  tax  of  twenty-five  per  cent,  on  every  article
 bought,  there  would  quickly  be  outcry;  but  the  very 
 people  who  would  fight  rather  than  pay  a  tax  like  this 
 
-
 74  PROTECTION  OR  FREE  TRADE? 
 
 will  uncomplainingly  pay  higher  taxes  when  they  are 
@@ -3167,7 +3067,6 @@ principal  towns.
 
 It  is  no  wonder  that  princes  and  ministers  anxious  to 
 make  their  revenues  as  large  as  possible  should  prefer  a 
-
 
 TARIFFS  FOR  REVENUE.  75 
 
@@ -3209,7 +3108,6 @@ the  sum  of  five  hundred  dollars.  Before  he  can  sell  the
 cigars  he  has  made,  he  must  furthermore  pay  a  tax  on 
 them,  and  even  then  if  he  would  sell  cigars  in  less  quanti- 
 
-
 76        PEOTECTION  OR  FREE  TRADE? 
 
 ties  than  by  the  box  he  must  buy  a  second  license.  The 
@@ -3250,7 +3148,6 @@ generally  oppose  such  propositions.  The  manufacturers
 and  dealers  in  tobacco  and  cigars  have  never  striven  to 
 secure  any  reduction  in  the  heavy  taxes  on  those  articles, 
 
-
 TARIFFS  FOR  REVENUE.  77 
 
 and  the  importers  who  pay  directly  the  immense  sums 
@@ -3285,11 +3182,9 @@ which  the  farmers  of  the  revenue  under  the  old  French
 system  would  have  made  to  the  abolition  of  a  tax  which 
 enabled  them  to  extort  two  millions  of  francs  from  the 
 
-
 *  Just  now  (1886)  the  interests  concerned  in  keeping  up  indirect 
 taxation  are  urging  a  worse  than  useless  scheme  for  spending  enor- 
 mous sums  on  iron-clad  coast  defenses. 
-
 
 78  PROTECTION  OK  FREE  TRADE? 
 
@@ -3331,7 +3226,6 @@ smoke  poorer  tobacco,  and  those  who  drink  to  drink
 viler  liquor.  But  merely  as  a  means  of  raising  revenue, 
 it  is  clear  that  indirect  taxes  are  to  be  condemned,  since 
 
-
 TAEIFFS  FOR  REVENUE.  79 
 
 they  cost  far  more  than  they  yield,  bear  with  the  greatest 
@@ -3367,7 +3261,6 @@ the  hardship  of  indirect  and  unequal  taxation  without  even  the
 purpose  of  benefiting  the  consumer."— Professor  R.  E.  Thompson, 
 Political  Economy,  p.  232. 
 
-
 CHAPTER   IX. 
 
 TARIFFS  FOR  PROTECTION. 
@@ -3400,7 +3293,6 @@ accomplishes  its  object,  the  less  revenue  will  it  yield.
 The  tariff  of  Great  Britain  is  an  example  of  a  purely 
 
 80 
-
 
 TARIFFS  FOR  PROTECTION.  81 
 
@@ -3444,7 +3336,6 @@ many  times  round  the  world  before  landing  at  our  ports.
 In  either  of  these  ways  precisely  the  same  protective 
 effect  could  be  secured  as  by  import  duties,  and  in  cases 
 
-
 82         PEOTECTION  OR  FREE  TRADE? 
 
 where  duties  secure  full  protection  by  preventing  impor- 
@@ -3485,7 +3376,6 @@ assumed  desirable  to  encourage  aerial  navigation  at
 public  expense.  Under  the  bounty  system  we  should 
 sffer  premiums  for  the  building  and  successful  operation 
 
-
 TARIFFS  FOR  PROTECTION.  83 
 
 of  air-ships.  Under  the  protective  system  we  should 
@@ -3524,7 +3414,6 @@ general  taxation  may  have  a  discouraging  effect.  But
 when  to  encourage  one  industry  we  raise  the  price  of  its 
 products  by  a  protective  duty,  we  at  the  same  time  pro- 
 duce a  directly  injurious  effect  upon  other  industries  that 
-
 
 84         PROTECTION  OR  FREE  TRADE? 
 
@@ -3566,7 +3455,6 @@ lected on  the  raw  sugar,  though  many  of  our  exports,
 such  as  those  of  condensed  milk,  syrups  and  preserved 
 fruits,  are  much  curtailed  by  these  duties 
 
-
 TARIFFS  FOR  PROTECTION.  86 
 
 The  substitution  of  bounties  for  protection  in  encour- 
@@ -3607,7 +3495,6 @@ supplies  home  demands,  but  leaves  a  surplus  for  export,
 the  duty  on  wheat  does  not  add  to  price,  and  the  Cana- 
 dian farmer  so  exceptionally  situated  that  he  must  send 
 wheat  to  this  side,  although  there  is  no  general  demand 
-
 
 86  PROTECTION  OR  FREE  TRADE? 
 
@@ -3654,7 +3541,6 @@ in  the  case  of  export  duties  on  articles  of  which  the  country  levyin
 the  export  duty  has  a  monopoly,  as  Brazil  has  of  india-r'ibber  and 
 Cuba  of  the  Havana  tobacco. 
 
-
 TAEIFFS  FOR  PROTECTION:  81 
 
 tion,  to  compel  the  people  of  other  countries  to  pay  its 
@@ -3693,10 +3579,8 @@ producers  to  the  industry  by  the  superior  profits  to  be
 obtained.  This  competition,  when  free  to  operate,  ulti- 
 mately reduces  profits  to  the  general  level*     But  this  is 
 
-
 *  The  effect  of  protection  upon  profits  in  the  protected  industries 
 will  be  more  fully  examined  in  Chapter  XVII, 
-
 
 88        PROTECTION  OR  FREE  TRADE? 
 
@@ -3736,7 +3620,6 @@ increase  or  decrease  of  price.  Thus,  while  the  newspaper
 business  is  not  a  monopoly,  the  publication  of  each  indi- 
 vidual paper  is,  and  its  price  is  fixed  by  the  publisher.  A 
 publisher  may,  and  in  most  cases  will,  prefer  increased  cir- 
-
 
 TAEIFFS  FOR  PROTECTION.  89 
 
@@ -3778,7 +3661,6 @@ shown  that  the  bounty  system  inevitably  leads  to  fraud
 and  begets  corruption,  while  but  poorly  accomplishing  the 
 ends  sought  by  it.     But  these  evils  are  inseparable  from 
 
-
 00  PROTECTION  OR  FREE  TRADE? 
 
 any  method  of  u  encouragement,"  and  attach  to  the  pro* 
@@ -3818,7 +3700,6 @@ to  the  point  of  ideal  perfection.  For  to  secure  free  trade
 we  have  only  to  abolish  restrictions.  But  to  carry  the 
 theory  of  protection  into  practice  some  articles  must  be 
 taxed  and  others  left  untaxed,  and,  as  to  the  articles 
-
 
 TARIFFS  FOR  PROTECTION.  91 
 
@@ -3862,7 +3743,6 @@ been  utterly  ruined.  This,  of  course,  was  not  intended  by  Congress.
 The  ruffling  industry  is  only  one  of  the  many  minor  industries  that 
 were  thrown  down  and  trampled  upon  in  the  last  tariff  scramble. 
 
-
 92  PROTECTION  OR  FREE  TRADE? 
 
 because,  after  a  long  wrangle,  it  was  found  impossible  to 
@@ -3904,7 +3784,6 @@ a  wall  resembles  the  fresco  of  a  Raphael.
 But  this  is  not  all.  After  a  tariff  has  been  enacted, 
 come  the  interpretations  and  decisions  of  treasury  off! 
 
-
 TARIFFS  FOR  PROTECTION.  93 
 
 cials  and  courts  to  unmake  and  remake  it,*  and  duties 
@@ -3927,7 +3806,6 @@ what  we  have  done.
 *  The  Secretary  of  the  Treasury  states  that  there  are  now  (Feb- 
 ruary, 1886)  over  2300  tariff  cases  pending  in  the  Southern  District 
 of  New  York  alone. 
-
 
 CHAPTER  X. 
 
@@ -3962,7 +3840,6 @@ Governors  Simon  Snyder,  George  Clinton,  Daniel  D.  Tompkins,  De
 Witt  Clinton,  etc.,  cannot  fail  to  note  that  they  champion  not  the 
 maintenance,  but  the  creation  of  home  manufactures."— Horace 
 Greeley,  Political  Economy,  t>.  34- 
-
 
 THE  ENCOURAGEMENT  OF  INDUSTRY.      95 
 
@@ -4004,7 +3881,6 @@ capable,  in  their  development,  of  much  public  benefit
 have  often  to  struggle  under  great  disadvantages  in  their 
 beginnings,  and  their  development  might  sometimes  be 
 
-
 96         PROTECTION  OR  FREE  TRADE? 
 
 beneficially  hastened  by  judicious  encouragement.  But 
@@ -4043,7 +3919,6 @@ conditions  and  what  are  not.  Even  promising  industries
 are  more  apt  to  be  demoralized  and  stunted  than  to  be 
 aided  in  healthy  growth  by  encouragement  that  gives 
 them  what  they  do  not  earn,  just  as  a  young  man  is 
-
 
 THE  ENCOURAGEMENT  OF  INDUSTRY.      97 
 
@@ -4084,7 +3959,6 @@ temporary  protection  was  then  timidly  asked,  are  still
 infants  in  their  desire  for  encouragement.  Though  they 
 have  grown  mightily  they  claim  the  benefits  of  the 
 *|  Baby  Act "  all  the  more  lustily,  declaring  that  if  they 
-
 
 98  PROTECTION  OR  FREE  TRADE? 
 
@@ -4129,7 +4003,6 @@ to-day  is  not,  however,  the  encouragement  of  infant
 industries,  but  the  encouragement  of  home  industry,  that 
 is,  all  home  industry. 
 
-
 THE  ENCOURAGEMENT  OF  INDUSTRY.      99 
 
 Now  it  is  manifestly  impossible  for  a  protective  tariff 
@@ -4171,7 +4044,6 @@ Imagine  a  village  of  say  a  hundred  voters.  Imagine
 two  of  these  villagers  to  make  such  a  proposition  as  this : 
 "We  are  desirous,  fellow-citizens,  of  seeing  you  more 
 
-
 100  PROTECTION   OR   FREE   TRADE? 
 
 prosperous  and  to  that  end  propose  this  plan :  Give  us 
@@ -4212,7 +4084,6 @@ picker,  was  subsidized.  Yet  evidently  the  result  of  suck
 encouragement  of  each  would  be  the  discouragement  ot 
 all.     For  as  there  could  be  distributed  only  what  was 
 
-
 THE  ENCOURAGEMENT  OF  INDUSTRY.     101 
 
 raised  by  taxation,  less  the  cost  of  collection,  no  one 
@@ -4252,7 +4123,6 @@ country.  Our  imaginations  are  affected  as  were  those
 of  the  first  Europeans  who  visited  India,  and  who, 
 impressed  by  the  profusion  and  magnificence  of  the 
 
-
 102  PEOTECTION  OR  FREE  TRADE? 
 
 Rajahs,  but  not  noticing  the  abject  poverty  of  the 
@@ -4268,7 +4138,6 @@ tive tariffs  make  more  work,  in  the  sense  in  which  the
 spilling  of  grease  over  her  kitchen  floor  makes  more 
 work  for  the  housewife,  or  as  a  rain  that  wets  his  hay 
 makes  more  work  for  the  farmer. 
-
 
 CHAPTER  XI 
 
@@ -4301,7 +4170,6 @@ German  instead  of  to  English  producers.  It  turned
 out  that  the  Germans  were  making  a  new  powder  called 
 
 103 
-
 
 104  PROTECTION  OR  FREE   TRADE? 
 
@@ -4342,7 +4210,6 @@ has  enabled  the  people  of  various  countries  to  excel.  To
 reserve  our  home  market  to  home  production  is  to  limit 
 the  world  from  which  our  wants  may  be  supplied  to  the 
 
-
 THE  HOME  MARKET  AND  HOME  TRADE.    105 
 
 bounds  of  our  own  country,  how  little  soever  that  may 
@@ -4382,7 +4249,6 @@ sell  him  labor,  no  one  would  sell  him  milk  or  bread  or
 meat  or  any  service  or  commodity  whatever.  But 
 instead  of  growing  prosperous,  this  much-protected  man 
 had  to  fly  from  a  place  where  his  own  market  was  thus 
-
 
 106  PROTECTION  OR  FREE  TRADE? 
 
@@ -4428,7 +4294,6 @@ should  be  as  quick  as  those  of  the  home  trade,  the  capital  employed
 in  it  will  give  but  one-half  the  encouragement  to  the  industry  or 
 productive  labor  of  the  country. 
 
-
 THE  HOME  MARKET  AND  HOME  TRADE.    107 
 
 This  astonishing  proposition,  of  which  Adam  Smith 
@@ -4454,7 +4319,6 @@ with  Catholics  only  one  profit  goes  to  Protestants.  There-
 fore, trade  between  Protestants  is  twice  as  profitable  as 
 trade  between  Protestants  and  Catholics. 
 
-
 *  In  the  next  paragraph  Adam  Smith  goes  on  to  carry  this  prop 
 osition  to  an  unconscious  reductio  ad  absurdum.     He  says : 
 
@@ -4470,7 +4334,6 @@ his  guests  to  stay  with  him  only  one  day  can,  with  equal  facili-
 ties, furnish  twelve  times  as  much  entertainment  to  man  and  beast 
 as  can  the  innkeeper  who  permits  each  guest  to  stay  with  him  twelve 
 days. 
-
 
 108  PROTECTION   OR  FREE   TRADE? 
 
@@ -4511,7 +4374,6 @@ labor  than  a  professional  whitewashes  but  it  would
 nevertheless  be  a  loss  to  him  to  take  time  in  which  he 
 might  earn  the  wages  of  a  portrait-painter  in  order  to  do 
 whitewashing  that  he  might  get  done  for  the  wages  of  a 
-
 
 TpiC  HOME  MAEKET  AND  HOME  TEADE.  109 
 
@@ -4554,7 +4416,6 @@ men  who  can  and  do  buy  American  newspapers  than  take  it  for  $50
 of  those  who  rarely  see  and  never  buy  one  of  my  products.  The 
 money  price  of  the  American  iron  may  be  higher,  but  its  real  cost 
 
-
 110  PROTECTION  OR  FREE  TRADE? 
 
 to  me  is  less  than  that  of  the  British  iron.  And  my  case  is  that  of 
@@ -4595,7 +4456,6 @@ tariff  compels  them  to  pay,  because  these  prices  are  paid
 to  our  own  people,  then  producers  would  lose  nothing  if 
 compelled  to  sell  to  their  fellow-citizens  below  cost.    If 
 
-
 THE  HOME  MAEKET  AND  HOME  TKADE.    Ill 
 
 workmen  are  necessarily  compensated  for  high-priced 
@@ -4609,7 +4469,6 @@ much  ado  about  nothing  5  and  workmen  are  taking  need-
 less trouble  when  they  demand  an  increase  of  wages, 
 while  employers  are  quite  as  foolish  when  they  try  to  cut 
 wages  down. 
-
 
 CHAPTER  XII. 
 
@@ -4643,7 +4502,6 @@ things  which  it  contains  increases  faster  than  its  popula-
 tion.    What,  then,  is  more  repugnant  to  reason  than  the 
 
 112 
-
 
 EXPORTS  AND  IMPORTS.  113 
 
@@ -4686,7 +4544,6 @@ and  papers,  our  protectionist  prepares  to  depart,  but
 before  going  seeks  to  offer  some  kindly  warning  of  the 
 danger  Crusoe  will  be  exposed  to  from  thv.  "deluge  of 
 
-
 114        PROTECTION  OR  FREE  TRADE? 
 
 cheap  goods"  that  passing  ships  will  seek  to  exchange 
@@ -4728,7 +4585,6 @@ richer  I  shall  be.  I  am  not  afraid  of  being  overwhelmed
 with  goods.  The  more  they  bring  the  better  it  will  suit 
 me." 
 
-
 EXPORTS  AND  IMPORTS.  115 
 
 And  so  the  two  might  part,  for  it  is  certain  that  no 
@@ -4768,7 +4624,6 @@ ties of  the  things  of  which  exports  and.  imports  consist,
 it  would  be  a  far  more  plausible  method  of  national  en- 
 richment to  keep  such  things  from  going  out  than  to  keep 
 them  from  coming:  in. 
-
 
 116  PROTECTION  OR  FREE  TRADE? 
 
@@ -4811,7 +4666,6 @@ has  a  higher  value  than  on  leaving  the  port  of  its  expor-
 tation. But  on  the  theory  that  a  trade  is  profitable  only 
 when  exports  exceed  imports,  the  only  way  for  all  coun 
 
-
 EXPOETS  AND  IMPORTS.  11? 
 
 tries  to  trade  profitably  with  one  another  would  be  to 
@@ -4850,7 +4704,6 @@ alien  officials  secure  a  permanent  excess  of  exports  over
 imports.  So  the  foreign  debt  which  has  been  fastened 
 upon  Egypt  requires  large  amounts  of  the  produce  of 
 that  country  to  be  sent  away  for  which  there  is  no 
-
 
 118  PROTECTION  OR  FREE  TRADE? 
 
@@ -4893,7 +4746,6 @@ United  States  mean  large  remittances  from  the  Irish  in  America  to
 their  families  at  home,  and  these  remittances  are  more  important 
 to  business  here  than  the  prices  we  get  for  our  own  products." 
 
-
 EXPOETS  AND  IMPORTS.  119 
 
 Iowa  for  wealthy  young  Englishmen  who  wish  to  become 
@@ -4932,7 +4784,6 @@ of  the  American  estates  of  an  Irish  landlord,  William  Scully.  This
 Scully,  who  was  one  of  the  most  notorious  of  the  rack-renting  and 
 evicting  Irish  landlords,  owns  from  75,000  to  90,000  acres  of  the 
 richest  land  in  Illinois,  besides  large  tracts  in  other  States.     Hi* 
-
 
 120  PROTECTION  OR  FREE  TRADE? 
 
@@ -4976,7 +4827,6 @@ saying:  "Not  content  with  acquiring  land  himself,  Scully  has
 induced  a  number  of  his  relatives  to  become  American  landlords, 
 and  their  system  is  patterned  on  his  own." 
 
-
 EXPORTS  AND  IMPORTS.  121 
 
 The  annual  balance  against  us  on  these  accounts  is 
@@ -5016,7 +4866,6 @@ uce to  the  New  Yorker  or  Bostonian.  They  may  work
 hard,  but  grow  relatively  poorer  j  he  may  not  work  at  all, 
 but  grow  relatively  richer,  so  that  when  they  need  capital 
 
-
 122  PROTECTION  OR  FREE  TRADE? 
 
 for  building  railroads  or  any  other  purpose,  they  must 
@@ -5025,7 +4874,6 @@ interest.  The  tendency  of  the  time  is  thus  to  the  owner-
 ship of  the  whole  country  by  residents  of  cities,  and  it 
 makes  no  difference  to  the  people  of  the  country  district? 
 whether  those  cities  are  in  America  or  Europe. 
-
 
 CHAPTER  Xlll. 
 
@@ -5059,7 +4907,6 @@ they  obtain  from  others  we  term  their  purchases.  Hence
 we  become  accustomed  to  think  of  exports  as  sales,  and 
 
 123 
-
 
 124  PROTECTION  OR  FREE  TRADE? 
 
@@ -5102,7 +4949,6 @@ The  primary  form  of  trade  is  barter— the  exchange  of
 commodities  for  commodities.  But  just  as  when  we 
 begin  to  think  and  speak  of  length,  weight  or  bulk,  it  is 
 
-
 CONFUSIONS  ARISING  FROM  THE  USE  OF  MONEY.     125 
 
 necessary  to  adopt  measures  or  standards  by  which  these 
@@ -5141,7 +4987,6 @@ banks,  so  that  immense  transactions  are  carried  on  with
 a  very  small  actual  use  of  money ;  and  finally,  credits  of 
 convenient  denominations,  printed  upon  paper,  and 
 adapted  to  transference  from  hand  to   hand  without 
-
 
 126  PROTECTION  OR  FREE  TRADE? 
 
@@ -5184,7 +5029,6 @@ exchange  are  most  felt  on  the  side  of  reduction  to  the
 medium  of  exchange.  To  exchange  anything  for  money 
 it  is  necessary  to  find  some  one  who  wants  that  particular 
 
-
 CONFUSIONS  ARISING  FROM  THE  USE  OF  MONEY.     127 
 
 thing,  but,  this  exchange  effected,  the  exchange  of  money 
@@ -5223,7 +5067,6 @@ lay  up  a  great  treasure  for  time  of  sudden  need.  Thus
 gold  and  silver  were  even  more  striking  symbols  of 
 wealth  than  now,  and  the  habit  of  thinking  of  them  as 
 the  only  real  wealth  was  formed. 
-
 
 128  PROTECTION  OR  FREE  TRADE? 
 
@@ -5264,7 +5107,6 @@ savage  penalties  of  death  or  mutilation.  Skilled  work-
 men were  forbidden  to  leave  the  country  lest  they  might 
 teach   foreigners   their   art;    domestic  industries   were 
 
-
 CONFUSIONS  ARISING  FROM  THE  USE  OF  MONEY.     129 
 
 encouraged  by  bounties,  by  patents  of  monopoly  and  by 
@@ -5303,7 +5145,6 @@ value  is  relatively  high.  This  tendency  is  checked  by
 the  difficulties  of  transportation,  which  vary  with  differ- 
 ent things  as  their  bulk,  weight  and  liability  to  injury 
 compare  with  their  value.    The  precious  metals  do  not 
-
 
 130  PROTECTION  OR  FREE  TRADE? 
 
@@ -5345,7 +5186,6 @@ underlies  protectionist  arguments,*  and  the  habit  of  asso-
 save  for  subsidiary  tokens,  paper  money  was  exclusively  used,  and 
 so  conscious  of  its  ability  to  perform  all  the  functions  of  money  that 
 he  declares  it  to  be  as  much  superior  to  coin  as  the  railway  is  to  the 
-
 
 OONFUSIONS  ARISING  FROM  THE  USE  OF  MONEY.     131 
 
@@ -5390,7 +5230,6 @@ all  our  industries  that  the  United  States  could  sell  in  competition
 with  all  the  world,  and  at  the  same  time  be  free  from  the  necessity 
 of  buying  anything  from  all  the  world." 
 
-
 132  PROTECTION  OR  FREE  TRADE! 
 
 same  inferential  meaning,  and  thns  unconsciously  to 
@@ -5430,7 +5269,6 @@ phorical. We  speak  of  a  wealthy  man  as  a  moneyed
 man,  and  in  talking  of  his  wealth  say  that  he  has  so 
 much  "  money,"  whereas  the  fact  probably  is,  that  though 
 
-
 CONFUSIONS  ARISING  FROM  THE  USE  OF  MONEY.     133 
 
 he  may  be  worth  millions,  he  never  has  at  any  one  time 
@@ -5469,7 +5307,6 @@ exported  or  imported  it  is  as  a  commodity,  and  its  value
 is  estimated  at  that  of  the  bullion  contained.  What  each 
 nation  imports  is  paid  for  in  the  commodities  which  it 
 
-
 134  t'KOTECTiON   OK  FKEE  TRADE? 
 
 exports,  unless  received  as  loans  or  investments,  or  as 
@@ -5493,7 +5330,6 @@ in  value  is  no  more  proof  of  a  losing  trade  than  that  in
 the  old  times  a  trading  ship  brought  home  a  cargo  worth 
 more  than  that  she  carried  out  was  proof  of  an  unprofit- 
 able voyage. 
-
 
 CHAPTER  XIV. 
 
@@ -5526,7 +5362,6 @@ great  disadvantage  in  production  as  compared  with  other
 countries. 
 
 135 
-
 
 136  PROTECTION  OR  FREE  TRADE? 
 
@@ -5567,7 +5402,6 @@ it  would  drive  the  produce  of  our  dearer  domestic  labor
 out  of  the  market."  But  the  conclusion  does  not  follow 
 from  the  premise.  To  make  it  valid  two  intermediate 
 propositions  must   be   assumed:    first,  that  low  wa^es 
-
 
 DO  HIGH  WAGES  NECESSITATE  PROTECTION?    137 
 
@@ -5610,7 +5444,6 @@ of  cloth  will  exchange  for  a  large  weight  of  cotton,  or  a
 small  bulk  of  watches  for  a  large  bulk  of  wheat,  means 
 simply  that  equal  amounts  of  labor  will  produce  larger 
 
-
 138  PROTECTION  OR  FREE  TRADE? 
 
 weights  or  bulks  of  the  one  thing  than  of  the  other ;  and 
@@ -5651,7 +5484,6 @@ servants  for  almost  nothing,  but  find  that  so  many  are
 required  that  servants  cost  more  than  in  the  United 
 States ;   yet  the  Chinese  who  are  largely  employed  in 
 
-
 DO  HIGH  WAGES  NECESSITATE  PROTECTION?    139 
 
 domestic  service  in  California,  and  get  wages  that  they 
@@ -5690,7 +5522,6 @@ formity with  its  desires.  A  race  of  intelligent  pygmies
 with  muscles  no  stronger  chan  those  of  the  grasshopper 
 could  produce  far  more  wealth  than  a  race  of  stupid 
 giants  with  muscles  as  strong  as  those  of  the  elephant 
-
 
 140        PROTECTION  OR  FREE  TRADE? 
 
@@ -5733,7 +5564,6 @@ below  the  ordinary  level,  or  can  import  laborers  who
 will  work  for  him  for  less,  and  that  he  may  by  this 
 means  be  enabled  to  undersell  hi«  competitors,  while  the 
 
-
 1)0  HIGH  WAGES  NECESSITATE  PEOTECTION?    141 
 
 employer  who  continues  to  pay  higher  wages  than  other 
@@ -5772,7 +5602,6 @@ that  the  effect  would  be  to  increase  the  profits  of  capital
 and  thus  bring  in  more  capital.  But,  to  say  nothing  of 
 the  deterrent  effect  upon  the  coming  in  of  labor,  a 
 moment's  reflection  will  show  that  such  a>  reduction  of 
-
 
 142  PROTECTION  OR  FREE   TRADE? 
 
@@ -5813,7 +5642,6 @@ buy  no  more  than  before.  And  in  a  little  while  the
 inevitable  effect  of  the  degradation  of  labor  involved  in 
 the  reduction  of  wages  would  begin  to  tell  in  fche  reduced 
 
-
 DO  HIGH  WAGES  NECESSITATE  PROTECTION?    143 
 
 power  of   production,   and  both   exports   and   imports 
@@ -5834,7 +5662,6 @@ and  thus  increase  production,  while  as  soon  as  an
 increase  in  wages  began  to  tell  on  the  habits  of  the 
 people  and  on  industrial  methods  productive  power 
 would  increase. 
-
 
 CHAPTER  XV. 
 
@@ -5868,7 +5695,6 @@ lower,  but  we  hear  no  less  of  the  need  for  protection.  It  is  hardly
 necessary  in  this  discussion  to  treat  of  the  nature  and  law  of  inter* 
 
 144 
-
 
 ADVANTAGES  AND  DISADVANTAGES.  145 
 
@@ -5911,7 +5737,6 @@ a  disadvantage,  but  rather  as  evidence  of  the  large  returns  to  the
 diminish  as  rent  rises  and  the  landowner  gets  a  larger  share  of  their 
 produce  for  permitting  labor  and  capital  to  work. 
 
-
 146  PEOTECTION  OR  FREti  TRADE? 
 
 not.  Unless  the  people  of  the  country  of  less  advantages 
@@ -5951,7 +5776,6 @@ which  make  one  part  of  the  habitable  globe  better  fitted  for  some
 productions,  unfit  it  for  others,  and  what  is  disadvantage  for  some 
 kinds  of  production,  is  generally  advantage  for  other  kinds.  Even 
 the  lack  of  rain  which  makes  some  parts  of  the  globe  useless  to  man, 
-
 
 ADVANTAGES  AND  DISADVANTAGES.  14? 
 
@@ -5994,7 +5818,6 @@ general  intelligence  which  increases  with  the  increase  of  the  comfort
 and  leisure  of  the  masses  of  the  people,  that  is  to  say,  with  the 
 increase  of  wages. 
 
-
 145  PROTECTION  OR  FREE  TRADE? 
 
 Chinese  tea,  we  obtain,  in  spite  of  the  long  carriage, 
@@ -6034,7 +5857,6 @@ would  bring.  Free  trade  is  voluntary  trade.  It  cannot
 go  on  unless  to  the  advantage  of  both  parties,  and,  as 
 between  the  two,  free  trade  is  relatively  more  advanta- 
 geous to  the  poor  and  undeveloped  country  than  to  the 
-
 
 ADVANTAGES  AND  DISADVANTAGES.  149 
 
@@ -6077,7 +5899,6 @@ access  to  theirs  ? "  cry  British  fair  traders.
 All  these  notions  are  forms  of  the  delusion  that  to 
 export  is  more  profitable  than  to  import,  but  so  wide- 
 
-
 150  PROTECTION  OR  FREE  TRADE? 
 
 spread  and  influential  are  they  that  it  may  be  well  to 
@@ -6115,7 +5936,6 @@ the  world,  for  which  we  were  her  principal  competitor,
 and  to  hand  over  to  her  the  trade  of  South  America  and 
 of  other  countries,  of  which,  but  for  this,  we  should  have 
 had  the  largest  share. 
-
 
 ADVANTAGES  AND  DISADVANTAGES.  151 
 
@@ -6156,7 +5976,6 @@ man,  because  by  thus  lessening  their  own  wealth  his  five
 neighbors  would  lessen  their  ability  to  exchange  with 
 him.    But,  would  he  better  himself  if  he  were  to  say : 
 
-
 152  PROTECTION  OR  FREE  TRADE? 
 
 "Since  these  fools  will  insist  upon  burning  half  of  all 
@@ -6177,7 +5996,6 @@ because  other  nations  have  embraced  it  are  as  unwise  as
 those  who  say,  Lie,  because  others  are  false;  Be  idle, 
 because  others  are  lazy;  Refuse  knowledge,  because 
 others  are  ignorant. 
-
 
 CHAPTER  XVI. 
 
@@ -6211,7 +6029,6 @@ tilling  of  the  soil,  has  been  protected  by  high  duties,
 although  certain  grades  of  foreign  wool  are  necessary  to 
 
 153 
-
 
 /54  PROTECTION   OR   FREE   TRADE? 
 
@@ -6253,7 +6070,6 @@ writers  and  speakers  constantly  assume,  that  but  for
 protection  there  would  not  now  be  a  manufacture  of  any 
 importance  carried  on  in  the  United  States,  and  that 
 were  protection   abolished  the   sole  industry  that  this 
-
 
 THE  DEVELOPMENT  OF  MANUFACTURES.    155 
 
@@ -6298,7 +6114,6 @@ it  has,  the  larger  the  city.  Look  at  New  York!  New
 York  has  more  theaters  than  any  other  city  in  America, 
 and  is  consequently  the  greatest  city  in  America.     Phila- 
 
-
 15t>  PROTECTION  OR  FREE   TRADE? 
 
 delphia  ranks  next  to  New  York  in  the  number  and  size 
@@ -6337,7 +6152,6 @@ building  of  each  theater  had  been  followed  by  a  marked
 increase  in  population  and  wealth.  I  might  point  out 
 that  San  Francisco  had  not  a  theater  until  the  Ameri- 
 cans came  there,  and  was  consequently  but  a  straggling 
-
 
 THE  DEVELOPMENT  OF  MANUFACTURES.    157 
 
@@ -6378,7 +6192,6 @@ of  Roman  power  and  civilization  went  on  together;  and
 that  the  extinction  of  the  theater  brought  on  the  night 
 of  the  Dark  Ages.  Dwelling  then  a  moment  upon  the 
 rudeness  and  ignorance  of  that  time  when  there  were  no 
-
 
 158  PROTECTION  OR  FREE  TRADE? 
 
@@ -6421,7 +6234,6 @@ The  truth  is  that  manufactures,  like  theaters,  are  the
 result,  not  the  cause,  of  the  growth  of  population  and 
 wealth. 
 
-
 THE  DEVELOPMENT  OF  MANUFACTUEES.    159 
 
 If  we  take  a  watch,  a  book,  a  steam-engine,  a  piece  of 
@@ -6461,7 +6273,6 @@ but  to  differences  in  taste  and  to  the  individuality  of
 demands.  For  instance,  it  will  be  much  more  conve- 
 nient and  satisfactory  to  me,  if  I  wish  to  have  a  boat  built, 
 to  have  it  built  where  I  can  talk  with  the  builder  and 
-
 
 160  PROTECTION  OR  FREE  TRADE? 
 
@@ -6503,7 +6314,6 @@ quantities  of  all  the  various  things  needed  must  be  pro-
 duced for  itself  by  each  small  community,  they  can  be 
 produced  only  by  rude  and  wasteful  methods.     But  if 
 
-
 THE  DEVELOPMENT  OF  MANUFACTURES.    161 
 
 trade  permits  these  things  to  be  produced  in  large  quan- 
@@ -6542,7 +6352,6 @@ is  in  the  possession  of  tools  and  weapons  made  in  that
 state  of  society  in  which  alone  it  is  possible  to  manu- 
 facture them,  and  that  by  keeping  up  communication 
 With  the  denser  populations  they  have  left  behind  them, 
-
 
 162  PROTECTION  OR  FREE  TRADE? 
 
@@ -6584,7 +6393,6 @@ of  plowshares  that  of  cutlery,  window- glass  will  be  made
 before  telescope  lenses,  and  the  coarser  grades  of  cloth 
 before  the  finer. 
 
-
 THE  DEVELOPMENT  OF  MANUFACTURES.    163 
 
 But  while  we  may  describe  in  a  general  way  the  condi- 
@@ -6622,7 +6430,6 @@ the  general  development  of  industry,  but  even  the  de-
 velopment of  the  very  industries  for  whose  benefit 
 the  system  of  protection  is  most  advocated,  by  making 
 more   costly   the   products   which   they  must  use   and 
-
 
 164  PROTECTION  OR  FREE  TRADE? 
 
@@ -6665,7 +6472,6 @@ assumption  that  the  "home  producer"  and  "home  consumer"  are
 necessarily  close  together  in  point  of  space,  whereas,  as  in  the 
 United  States,  they  may  be  thousands  of  miles  apart. 
 
-
 THE  DEVELOPMENT  OF  MANUFACTURES.    165 
 
 lies  in  protection.  That  tariffs  are  powerless  to  remedy 
@@ -6693,7 +6499,6 @@ culture  that  impoverished  the  provinces  of  Africa.  The
 same  disease  which  rotted  the  old  civilization  is  exhibit- 
 ing its  symptoms  in  the  new.  That  disease  cannot  be 
 sured  by  protective  tariffs. 
-
 
 CHAPTER  XVII. 
 
@@ -6728,7 +6533,6 @@ industries  protected  by  our  tariff  are  (with  perhaps  some  nominal
 exceptions)  of  the  kind  carried  on  in  this  way. 
 
 166 
-
 
 PROTECTION  AND  PRODUCERS.  167 
 
@@ -6771,7 +6575,6 @@ on  industries  so  unprofitable  in  themselves  that  they  can
 be  maintained  only  by  subsidies.  And  to  this  loss  must 
 ^>e  added  the  waste  that  seems  inseparable  from  govern- 
 
-
 168        PROTECTION  OR  FREE  TRADE? 
 
 mental  fosterage,  for  just  in  proportion  as  industries  are 
@@ -6813,7 +6616,6 @@ that  led  David  A.  Wells,  when  he  visited  Europe  as  Special  Com-
 missioner of  Revenue,  to  begin  to  question  the  usefulness  of  oui 
 tariff  in  promoting  American  industry. 
 
-
 PROTECTION  AND  PRODUCERS.  169 
 
 United  States,  that  they  all  get  protected,  some  more 
@@ -6853,7 +6655,6 @@ point  at  which  protection  must  cease  to  benefit  even  the
 industries  it  strives  to  encourage,  not  that  I  think  it 
 possible  to  give  numerical  exactness  to  such  matters. 
 
-
 170  PROTECTION  OR  FREE  TRADE? 
 
 But  that  there  is  such  a  point  is  certain,  and  that  in  the 
@@ -6892,7 +6693,6 @@ bring  these  profits  to  the  general  level.  A  monopoly,
 more  or  less  complete,  which  may  thus  enable  certain 
 producers  to  retain  for  themselves  the  increased  profits 
 which  it  is  the  first  effect  of  a  protective  duty  to  give, 
-
 
 PROTECTION  AND  PRODUCERS.  171 
 
@@ -6935,7 +6735,6 @@ tive duty  on  quinine,  until  its  abolition  in  1879,  resulted
 to  the  sole  benefit  of  three  houses,  while  a  combination  of 
 ouarry-owners— the  Producers'  Marble  Company— have 
 
-
 172        PROTECTION  OR  FREE  TRADE? 
 
 succeeded  in  preventing  any  home  competition  in  the  pro* 
@@ -6977,7 +6776,6 @@ more  wealth.  Thus  to  production  as  it  goes  on  in  civi-
 lized societies  the  three  factors  are  land,  labor  and 
 capital,  and  since  land  is  in  modern  civilization  made  a 
 
-
 PROTECTION  AND  PRODUCERS.  173 
 
 subject  of  private  ownership,  the  proceeds  of  production 
@@ -7016,7 +6814,6 @@ of  production  is  not  the  reward  of  producers  and  does
 not  stimulate  production,  but  is  merely  a  toll  which 
 producers  are  compelled  to  pay  to  one  whom  our  laws 
 permit  to  treat  as  his  own  what  Nature  furnishes. 
-
 
 174  PROTECTION   OR  FREE   TRADE? 
 
@@ -7057,7 +6854,6 @@ trees,  and  who  derive  their  profits  solely  from  that
 source— nor  has  it  added  to  their  profits.  The  parties 
 who  have  really  lobbied  and  logrolled  for  the  impositioo 
 
-
 PROTECTION  AND  PRODUCERS.  175 
 
 and  maintenance  of  the  lumber  duty  are  the  owners  of 
@@ -7090,13 +6886,11 @@ on  copper  and  copper  ore,  which  for  a  long  time  enabled
 American  copper  companies  to  keep  up  the  price  of 
 copper  in  the  United  States  while  they  were  shipping 
 
-
 *  When,  after  the  great  fire  in  Chicago,  a  bill  was  introduced  in 
 Congress  permitting  the  importation  free  of  duty  of  materials 
 intended  for  use  in  the  rebuilding  of  that  city,  the  Michigan  timber- 
 land  barons  went  to  Washington  in  a  special  car  and  induced  the 
 committee  to  omit  lumber  from  the  bill. 
-
 
 176  PROTECTION  OR  FREE  TRADE? 
 
@@ -7139,7 +6933,6 @@ pound  on  the  old  copper  taken  off,  he  found  it  cheaper  to  sail  in
 ballast  to  Halifax,  get  his  ship  re-coppered  by  Canadian  workmen, 
 and  then  come  back  to  Boston  for  his  return  cargo. 
 
-
 PROTECTION  AND  PRODUCERS.  177 
 
 shown  that  the  nation  was  not  losing  greatly  by  the 
@@ -7179,7 +6972,6 @@ eons  before  man  appeared  were  accumulated  by  Nature
 for  the  use  of  the  millions  who  would  one  day  be  called 
 into  being— enabling  the  monopolists  of  our  iron  land  to 
 
-
 178  PROTECTION  OR  FREE   TRADE? 
 
 levy  heavy  taxes  on  their  fellow-citizens  long  before  they 
@@ -7203,7 +6995,6 @@ States  for  such  cases  made  and  provided,  the  enterpris-
 ing forestallers  at  once  applied  to  Congress  for  (and  of 
 course  secured)  the  imposition  of  a  duty  which  would 
 
-
 *  The  royalty  paid  by  iron-miners  for  the  privilege  of  taking  the 
 ore  ont  of  the  earth  in  many  cases  equals  and  in  some  cases  exceeds 
 the  cost  of  mining  it.  The  royalties  of  the  Pratt  Iron  and  Coal 
@@ -7223,7 +7014,6 @@ firm  who  do  the  actual  work  of  production.  The  output  is  1200
 tons  per  day,  which,  according  to  the  Inter-Ocean  correspondent, 
 gives  to  the  owners  a  net  profit  of  $480  per  day ;  to  the  Colbys,  $150 
 per  day;  Morse  &  Co.,  $1680;  Captain  Sellwood,  $900  per  day;  and 
-
 
 PROTECTION  AND  PRODUCERS.  179 
 
@@ -7268,7 +7058,6 @@ them  as  owners  of  this  rich  gift  of  Nature  to— Mr.  Coleman's  heirs.
 The  deposit  of  iron  ore  would  be  worked  were  there  no  duty,  and 
 was  worked*  I  believe,  before  any  duty  on  iron  was  imposed. 
 
-
 180        PROTECTION  OR  FREE  TRADE? 
 
 lots,  have  been  disposed  to  support  a  policy  which  haa 
@@ -7309,7 +7098,6 @@ industries.  But  were  the  whole  system  abolished  there
 can  be  no  doubt  that  American  industry  would  spring 
 forward  with  new  vigor. 
 
-
 CHAPTER  XVIII. 
 
 EFFECTS   OF  PROTECTION   ON  AMERICAN  INDUSTRY. 
@@ -7341,7 +7129,6 @@ merely  ignore  the  history  of  his  country  during  that  long
 period  before  the  first  tariff  of  any  kind  was  instituted, 
 
 181 
-
 
 182  PROTECTION  OR  FREE  TRADE? 
 
@@ -7383,7 +7170,6 @@ ward. Manufacturing  has  increased  in  the  United  States
 because  of  the  growth  of  population  and  the  development 
 of  \he  country;  not  because  of  tariffs,  but  in  spite  of  them. 
 
-
 EFFECTS  OF  PROTECTION  ON  AMERICAN  INDUSTRY.  183 
 
 That  protective  tariffs  have  injured  instead  of  helped 
@@ -7422,7 +7208,6 @@ This  is  not  a  natural  condition  of  trade.  The  United
 States  have  long  passed  the  stage  of  growth  in  which 
 raw  materials  constitute  the  only  natural  exports.  We 
 have  now  a  population  of  nearly  sixty  millions,  and  con- 
-
 
 184  PROTECTION  OR  FREE  TRADE? 
 
@@ -7463,7 +7248,6 @@ where  manufacturing  is  not  so  heavily  burdened  by  taxes
 on  material,  and  what  should  have  been  peculiarly  an 
 American  manufacture  is  transferred  to  a  foreign  country. 
 
-
 EFFECTS  OF  PROTECTION  ON  AMERICAN  INDUSTRY.  185 
 
 Every  American  who  has  visited  London  has  doubtless 
@@ -7502,7 +7286,6 @@ get  a  foothold  in  foreign  markets  only  to  lose  it  when
 fairly  introduced.  We  have  sent  locomotives  to  Russia, 
 arms  to  Turkey  and  Germany,  agricultural  implements 
 to  England,  river  steamers  to  China,  sewing-machines  to 
-
 
 186  PROTECTION  OR  FREE  TRADE? 
 
@@ -7546,7 +7329,6 @@ would  under  any  circumstances  have  diminished  our
 deep-sea  commerce;  yet  this  effect  was  only  temporary, 
 and  but  for  our  protective  policy  we  should  at  the  end  of 
 
-
 EFFECTS  OF  PROTECTION  ON  AMERICAN  INDUSTRY.  187 
 
 the  war  have  quickly  resumed  our  place  in  the  carrying 
@@ -7585,7 +7367,6 @@ To-day,  the  ships  on  which  we  have  wasted  millions  are,
 for  purposes  of  modern  warfare,  as  antiquated  as  Roman 
 galleys.  Compared  with  the  vessels  of  other  nations 
 they  can  neither  fight  nor  run  5  while,  as  for  privateers 
-
 
 188  PROTECTION  OR  FREE  TRADE? 
 
@@ -7626,7 +7407,6 @@ that  if  wages  are  higher  with  us  this  is  really  to  our
 advantage,  while  not  only  can  capital  now  be  had  as 
 cheaply  in  New  York  as  in  London,  but  American  capital 
 is  actually  being  used  to  run  vessels  under  foreign  flags, 
-
 
 EFFECTS  OF  PROTECTION  ON  AMERICAN  INDUSTRY.  189 
 
@@ -7674,7 +7454,6 @@ I  cannot  better  explain  my  meaning  than  by  saying  that  the  Ameri-
 can affects  a  sort  of  heroism  in  his  manner  of  trading,  in  which  he 
 follows  not  only  a  calculation  of  his  gain,  but  an  impulse  of  his  nature. 
 
-
 190  PROTECTION  OR  FREE  TRADE? 
 
 What  the  observant  Frenchman  describes  in  somewhat 
@@ -7720,7 +7499,6 @@ breach  of  contract  by  an  employee  the  employer  has  only  a  civil
 remedy.  He  cannot  restrain  the  employed  of  his  liberty,  coerce 
 him  by  violence  or  duress,  or,  should  he  quit  work,  call  on  the  law 
 
-
 EFFECTS  OF  PROTECTION  ON  AMERICAN  INDUSTRY.  191 
 
 American  shipping.  This  is  no  more  a  reason  for  the 
@@ -7762,7 +7540,6 @@ Crews  have  been  largely  obtained  by  a  system  of  virtual  impress-
 ment or  kidnapping  called  in  longshore  vernacular  "shanghaing," 
 by  which  men  are  put  on  board  ship  when  drunk  or  even  by  force, 
 for  the  sake  of  their  advance  wages  or  a  bonus  called  "blood- 
-
 
 192  PROTECTION  OR  FREE  TRADE? 
 
@@ -7806,7 +7583,6 @@ are  always  at  a  disadvantage  in  appealing  to  the  law.  This  is  a  vic
 which  inheres  in  all  forms  of  protectionism,  from  that  of  absolute 
 monarchy  to  that  of  protective  duties. 
 
-
 EFFECTS  OF  PROTECTION  ON  AMERICAN  INDUSTRY.  193 
 
 policy  of  protection  we  should  to-day  have  been  the  first 
@@ -7846,7 +7622,6 @@ American-built  vessel,  obscure  the  effects  of  protection
 in  our  coasting  trade,  they  are  just  as  truly  felt  as  in  our 
 ocean  trade.     The  increased  cost  of  building  and  running 
 
-
 194  PROTECTION  OR  FREE  TRADE? 
 
 vessels  has,  especially  as  to  steamers,  operated  to  stunt 
@@ -7862,7 +7637,6 @@ between  New  York  and  San  Francisco.  It  would  have
 been  impossible  for  the  railway  ring  thus  to  prevent 
 competition  had  the  trade  between  the  Atlantic  and 
 Pacific  been  open  to  foreign  vessels. 
-
 
 CHAPTER  XIX. 
 
@@ -7897,7 +7671,6 @@ by  foreign  producers,  that  wages  must  also  decline*
 the  last  Presidential  campaign  (1884),  is  a  sample  of  the  arguments 
 
 195 
-
 
 196  PROTECTION  OR  FREE   TRADE? 
 
@@ -7942,7 +7715,6 @@ it  is  called  a  protective  tariff.  Such  a  tariff  is  a  defense  of  Ame
 industry  against  direct  competition  with  the  underpaid  labor  of  other 
 countries." 
 
-
 PROTECTION  AND  WAGES.  197 
 
 parts.  Causes  which  increase  or  decrease  aggregate 
@@ -7983,7 +7755,6 @@ the  tendency  of  tariff  restrictions  on  trade  is  to  lessen
 the  production  of  wealth.  But  protective  tariffs  also 
 operate  to  alter  the  distribution  of  wealth,  by  imposing 
 higher  prices  on  some  citizens  and  giving  extra  profits  to 
-
 
 198  PROTECTION  OR  FREE   TRADE? 
 
@@ -8026,7 +7797,6 @@ will  drive  the  products  of  higher-priced  labor  out  of  any
 market  in  which  they  can  be  freely  sold,  since,  as  we 
 have  already  seen,  low-priced  labor  does  not  mean  cheap 
 
-
 PROTECTION  AND  WAGES.  199 
 
 production^  and  it  is  the  comparative,  not  the  absolute, 
@@ -8067,7 +7837,6 @@ occupation.  There  are  times  when  we  see  one  employer
 reducing  wages  and  others  following  his  example,  but  this 
 occurs  too  quickly  to  be  caused  by  the  competition  of  the 
 
-
 200  PROTECTION  OR  FREE  TRADE? 
 
 goods-market.  It  occurs  at  times  when  there  is  great 
@@ -8106,7 +7875,6 @@ goods-market,  but  through  that  of  the  labor-market.
 Thus  cabinet-makers,  for  instance,  could  not  long  get  $2 
 where  workmen  in  other  trades  as  easily  learned  and 
 practised  were  only  getting  $1,  since  the  superior  wages 
-
 
 PROTECTION  AND  WAGES.  201 
 
@@ -8148,7 +7916,6 @@ effect  of  the  other  is  upon  the  distribution  of  wealth,
 decreasing  the  proportion  which  goes  to  the  working- 
 classes.      We    might    permit    the   free   importation   of 
 
-
 202        PROTECTION  OR  FREE  TRADE! 
 
 Chinese  commodities  without  in  the  slightest  degree 
@@ -8188,7 +7955,6 @@ Now  let  us  change  the  supposition  and  imagine  such  a
 barrier  between  the  two  countries  as  would  prevent  the 
 passage  of  commodities,  while  permitting  the  free  pas- 
 sage of  men.     No   goods  produced  by  the  lower-paid 
-
 
 PROTECTION  AND  WAGES.  203 
 
@@ -8231,7 +7997,6 @@ Our  tariff,  like  all  protective  tariffs,  aims  at  nothing  of
 this  kind.  It  shields  the  employing  producer  from  com- 
 petition, but  in  no  way  attempts  to  lessen  competition 
 
-
 204        PROTECTION  OR  FREE  TRADE? 
 
 among  those  who  must  sell  him  their  labor;  and  the 
@@ -8272,7 +8037,6 @@ wholesale,  have  bitterly  fought  every  effort  of  their  men
 to  claim  anything  like  decent  wages ;  and  from  factory- 
 owners  who  claim  the  right  to  dictate  the  votes  of  men. 
 
-
 PEOTECTION  AND  WAGES.  205 
 
 The  whole  spirit  of  protection  is  against  the  rights  of 
@@ -8305,7 +8069,6 @@ post-office,  and  an  American  is  not  even  allowed  to
 accept  the  present  of  a  book  from  a  friend  abroad  with- 
 out paying  a  tax  for  it.*     But  this  is  not  to  protect  the 
 
-
 *  Although  a  great  sum  is  raised  in  the  United  States  every  year 
 to  send  the  Bible  to  the  heathen  in  foreign  parts,  we  impose  for  the 
 protection  of  the  home  "Bible  manufacturer"  a  heavy  tax  upon  the 
@@ -8314,7 +8077,6 @@ complaints  of  the  smuggling  of  Bibles  across  our  northern  frontier,
 which  have  doubtless  inspired  our  custom-house  officers  to  renewed 
 vigilance,  since,  according  to  an  official  advertisement,  the  following 
 property  seized  for  violation  of  the  United  States  revenue  laws  was 
-
 
 206  PROTECTION  OR  FREE  TRADE? 
 
@@ -8356,7 +8118,6 @@ Of  stockings,  1  bottle  of  gin,  1  Bible.
 
 *  An  exception  is  to  be  made  in  favor  of  Horace  Greeley,  who, 
 though  a  protectionist,  did  advocate  an  international  copyright. 
-
 
 PROTECTION  AND  WAGES.  207 
 
@@ -8401,7 +8162,6 @@ I  rode  not  long  since  on  the  platform  of  a  Brooklyn
 horse-car  and  talked  with  the  driver.  He  told  me, 
 bitterly  and  despairingly,  of  his  long  hours,  hard  work 
 
-
 208  PROTECTION  OR  FREE  TRADE? 
 
 and  poor  pay— how  he  was  chained  to  that  car,  a  verier 
@@ -8442,7 +8202,6 @@ their  profits  increase  the  competition  of  workmen  for
 employment.  Such  excuses  are  given  only  when  employ- 
 ers feel  that  if  they  reduce  wages  their  employees  will  be 
 compelled  to  submit  to  the  reduction,  since  others  wiU 
-
 
 PEOTECTION  AND  WAGES.  209 
 
@@ -8485,7 +8244,6 @@ from  abroad,  or  of  teaching  new  workmen,  have  long
 sufficed  to  maintain  such  increase.  As  for  the  great 
 mass  of  those  engaged  in  the  protected  industries,  their 
 
-
 210  PROTECTION  OR  FREE  TRADE? 
 
 labor  can  hardly  be  called  skilled.  Much  of  it  can  be 
@@ -8526,7 +8284,6 @@ The  car-driver  was  right.  Nothing  could  raise  his
 wages  that  did  not  lessen  the  competition  of  those  who 
 stood  ready  to  take  his  place  for  the  wages  he  was  get 
 
-
 PROTECTION  AND  WAGES.  211 
 
 ting.  If  we  were  to  enact  that  every  car-driver  should 
@@ -8566,7 +8323,6 @@ greater  risk  or  uncertainty,  by  their  requirement  of
 superior  skill,  education  or  natural  ability,  or  by  restric* 
 tions  such  as  those  imposed  by  trades-unions.  And  to 
 secure  anything  like  a  general  rise  of  wages,  or  even  to 
-
 
 212  PROTECTION  OR  FREE  TRADE? 
 
@@ -8609,7 +8365,6 @@ cupations was  shown  in  the  early  days  of  California,  as
 afterwards  in  Australia.  Had  anything  happened  in 
 California  to  increase  the  demand  for  cooks  or  carpenters 
 
-
 PROTECTION  AND  WAGES.  213 
 
 or  painters,  the  rise  in  such  wages  would  have  been 
@@ -8649,7 +8404,6 @@ And  even  if  the  differentiation  between  landowner,
 farmer  and  laborer  had,  under  the  conditions  I  speak  of, 
 not  become  as  clear  here  as  in  Great  Britain,  nothing 
 Which  benefited  the  farmer  would   have  the  slightest 
-
 
 214  PROTECTION  OR  FREE  TRADE? 
 
@@ -8692,7 +8446,6 @@ people  "for  the  protection  of  American  industry"  pay
 their  employees  as  little  as  they  can,  and  make  no  scruple 
 of  importing  the  very  foreign  labor  against  whose  prod- 
 
-
 PEOTECTION  AND  WAGES.  215 
 
 nets  the  tariff  is  maintained.  It  is  notorious  that  wages 
@@ -8732,7 +8485,6 @@ so  with  them  for  much  of  the  time  it  is  either  "  a  feast  or
 a  famine."  These  violent  fluctuations  tend  to  bring 
 workmen  into  a  state  of  dependence,  if  not  of  actual 
 
-
 216  PROTECTION  OR  FREE  TRADE? 
 
 peonage,  and  to  depress  wages  below  the  general  stand- 
@@ -8742,7 +8494,6 @@ industries,  that  the  capitalists  who  carry  them  on  would
 soon  "enjoy"  even  lower-priced  labor  than  now,  were  it 
 not  that  wages  in  them  are  kept  up  by  the  rate  of  wages 
 in  the  unprotected  industries. 
-
 
 CHAPTER  XX. 
 
@@ -8774,7 +8525,6 @@ because  a  man's  ancestors  have  enjoyed  the  privilege  of
 living  on  other  people,  he  and  his  descendants,  to  the 
 
 217 
-
 
 218  PROTECTION  OR  FREE  TRADE? 
 
@@ -8816,7 +8566,6 @@ of  protection  involves  temporary  disaster,  immediate
 abolition  is  as  preferable  to  gradual  abolition  as  amputa- 
 tion at  one  operation  is  to  amputation  by  inches. 
 
-
 THE  ABOLITION  OF  PROTECTION.  219 
 
 And  to  the  working-classes— the  classes  for  whom 
@@ -8857,7 +8606,6 @@ manifestly  to  the  advantage  of  the  poorer  class  that  any
 great  public  expense  be  met  at  once  rather  than  spread 
 over  years  by  means  of  public  debts.      Thus,  if  the 
 
-
 220  PROTECTION  OR  FREE  TRADE? 
 
 expenses  of  our  civil  war  had  been  met  by  taxation 
@@ -8896,7 +8644,6 @@ a  constant  depressing  effect  upon  the  labor-market.  In
 a  sharp  but  short  period  of  depression  the  public  purse 
 could,  without  serious  consequences,  be  drawn  upon  to 
 relieve  distress,  but  any  attempt  to  relieve  in  that  way 
-
 
 THE  ABOLITION  OF  PEOTECTION.  221 
 
@@ -8941,7 +8688,6 @@ how  are  they  to  be  paid  for?  There  is  not  productive
 power  enough  in  Europe  to  supply  them,  nor  are  there 
 ships  to  transport  them,  to  say  nothing  of  the  effect 
 
-
 222  PROTECTION  OR  FREE   TRADE? 
 
 upon  European  prices  of  the  demands  of  sixty  millions 
@@ -8970,7 +8716,6 @@ markets  from  which  our  manufacturers  are  now  shut  out
 would  be  opened.  If  any  industry  would  be  " crushed" 
 it  could  only  be  some  industry  now  carried  on  at  national 
 
-
 The  increased  power  which  the  removal  of  restrictions 
 upon  trade  would  give  in  the  production  of  wealth  would 
 be  felt  in  all  directions.  Instead  of  a  collapse  there 
@@ -8982,7 +8727,6 @@ manufacturers  would  begin  to  find  markets  the  whole
 world  over.  American  ships  would  again  ssiJ  the  bisrh 
 seas.     The  Delaware  would  ring  like  the  Clyde  with  the 
 
-
 THE  ABOLITION  OF  PROTECTION.  223 
 
 clash  of  riveting  hammers,  and  the  United  States  would 
@@ -8992,7 +8736,6 @@ resources  entitle  her,  but  which  is  now  occupied  by  Eng-
 land, while  legislation  and  administration  would  be 
 relieved  of  a  great  cause  of  corruption,  and  all  govern- 
 mental  reforms  would  be  made  easier. 
-
 
 CHAPTER  XXI. 
 
@@ -9026,7 +8769,6 @@ the  country  that  enforces  them,  and  have  no  tendency  to
 give  a  greater  proportion  of  that  wealth  to  the  working- 
 
 224 
-
 
 INADEQUACY  OF  THE  FREE-TEADE  ARGUMENT.     225 
 
@@ -9069,7 +8811,6 @@ in  error.  Though  accepted  error  has  always  the  strength
 of  habit  and  authority,  and  the  battle  against  it  must 
 always  be  hard  at  first,  yet  the  tendency  of  discussion  in 
 
-
 226  PROTECTION  OR  FREE  TRADftr 
 
 which  error  is  confronted  with  truth  is  to  make  the  truth 
@@ -9110,7 +8851,6 @@ chimney-top  is  to  fall  to  the  surface  of  the  ground.  But
 it  will  not  fall  to  the  surface  of  the  ground  if  its  fall  be 
 intercepted  by  the  roof  of  a  house.     The  tendency  of 
 
-
 INADEQUACY  OF  THE  FREE-TRADE  ARGUMENT.     227 
 
 anything  that  increases  the  productive  power  of  labor  is 
@@ -9149,11 +8889,9 @@ tion that  so  far  as  issue  is  joined  between  protectionists
 and  free  traders,  in  current  discussion,  the  free  traders 
 have  the  best  of  the  argument. 
 
-
 *  I  find  this  suggestive  phrase  in  a  protectionist  newspaper.  But 
 it  well  expresses  the  attitude  toward  labor  of  many  of  the  free-trade 
 writers  also. 
-
 
 228  PROTECTION  OR  FREE  TRADE? 
 
@@ -9195,7 +8933,6 @@ between  them  may,  with  not  entire  inaptness,  be
 described  as  that  of  exclusively  regarding  theory  and 
 that  of  exclusively  regarding  facts,  we  shall  see  when 
 
-
 INADEQUACY  OF  THE  FREE-TRADE  ARGUMENT.     229 
 
 we  have  developed  a  theory  which  will  embrace  all  the 
@@ -9218,7 +8955,6 @@ personal  liberty  in  the  controversies  of  the  slave-holding
 Whigs  and  slave-holding  Democrats  of  forty  years  ago, 
 or  in  the  sermons  of  the  preachers  whose  salaries  were 
 paid  by  them. 
-
 
 CHAPTER  XXII. 
 
@@ -9251,7 +8987,6 @@ nowhere  really  raised  wages  or  of  themselves  improved
 the  condition  of  the  working-classes. 
 
 230 
-
 
 THE  REAL  WEAKNESS  OF  FREE  TRADE.    231 
 
@@ -9295,7 +9030,6 @@ they  regard  the  tariff  question  as  one  of  no  practical  con-
 cern to  working-men— an  attitude  hardly  less  satisfac- 
 tory to  the  protected  interests  than  a  thorough  belief  in 
 
-
 232  PROTECTION  OR  FREE  TRADE! 
 
 protection.  For  when  an  interest  is  already  intrenched 
@@ -9338,7 +9072,6 @@ reform  which  is  urged  on  the  ground  that  it  would  still
 further  increase  the  production  of  wealth  should  fail  to 
 arouse  popular  enthusiasm  1 
 
-
 THE  EEAL  WEAKNESS  OF  FEEE  TRADE.    233 
 
 If,  indeed,  it  be  popular  ignorance  that  gives  persis- 
@@ -9379,7 +9112,6 @@ such  reforms  was  far  more  hopeful.  The  great  social
 problems  which  to-day  loom  so  dark  on  the  horizon  of 
 the  civilized  world  were  then  hardly  perceived.  In  the 
 destruction  of  political  tyranny  and  the  removal  of  trade 
-
 
 234  PROTECTION  OR  FREE  TRADE? 
 
@@ -9422,7 +9154,6 @@ increased,  and  that  the  cheapening  of  commodities  has
 brought  into  common  use  things  that  were  once  con- 
 sidered luxuries.     It  is  also  true  that  in  many  trades 
 
-
 THE  EEAL  WEAKNESS  OF  FREE  TRADE.    235 
 
 wages  have  been  somewhat  raised  and  hours  reduced  by 
@@ -9453,7 +9184,6 @@ write.  I  do  not  take  it  because  equally  striking  items
 are  rare,  but  because  I  find  a  comment  on  it  which  I 
 should  also  like  to  quote : 
 
-
 STARVED  TO  DEATH  IN  OHIO. 
 
 Dayton,  O.,  August  26.— One  of  the  most  horrible  deaths  that 
@@ -9463,7 +9193,6 @@ dren and  a  wife,  and  was  once  a  prominent  citizen  of  Xenia,  O.  He
 tried  his  hand  at  any  kind  of  business  where  he  could  find  opportu- 
 nity, and  finally  was  compelled  to  shovel  gravel  to  get  a  crust  for 
 his  children.     He  worked  at  this  all  last  week,  and  on  Saturday 
-
 
 236  PROTECTION  OE  FREE  TRADE? 
 
@@ -9510,7 +9239,6 @@ within  narrower  bounds.
 The  poor  fellow  who  starved  to  death  at  Dayton  the  other  day 
 suffered  an  Old- World  fate.     He  was  down  and  could  not  get  np. 
 
-
 THE  REAL  WEAKNESS  OF  FREE  TRADE.    237 
 
 H«  was  deprived  of  his  old  resources  and  could  not  invent  new 
@@ -9553,7 +9281,6 @@ tection would  in  any  way  alter  the  tendency  which  as
 wealth  increases  makes  the  struggle  for  existence  harder 
 and  harder.     This  tendency  shows  itself  throughout  the 
 
-
 238  PROTECTION  OR 'FREE  TRADE? 
 
 civilized  world,  and  arises  from  the  more  unequal  dis- 
@@ -9585,7 +9312,6 @@ ing, here  is  what  the  Congregational  clergymen  of  the
 greatest  and  richest  of  the  world's  great  cities  declare  in 
 their  "  Bitter  Cry  of  Outcast  London  " : 
 
-
 While  we  have  been  building  our  churches  and  solacing  ourselves 
 with  our  religion  and  dreaming  that  the  millennium  was  coming, 
 the  poor  have  been  growing  poorer,  the  wretched  more  miserable 
@@ -9594,7 +9320,6 @@ which  separates  the  lowest  classes  of  the  community  from  our
 churches  and  chapels  and  from  all  decency  and  civilization.  It  is 
 easy  to  bring  an  array  of  facts  which  seem  to  point  to  the  opposite 
 conclusion.     But  what  does  it  all  amount  to!    We  are  simply  living 
-
 
 THE  REAL  WEAKNESS  OF  FREE  TRADE.    239 
 
@@ -9638,7 +9363,6 @@ and  New  York,  are  now.
 Yet  patient  students  of  those  times— such  men  as  Pro- 
 fessor Thorold  Rogers,  who  has  devoted  himself  to  the 
 
-
 240  PROTECTION  OR  FREE  TRADE? 
 
 history  of  prices,  and  has  deciphered  the  records  of  coL 
@@ -9678,7 +9402,6 @@ And  not  merely  do  facts  of  this  kind  prevent  us  from
 assuming  that  the  abolition  of  protection  could  more  than 
 temporarily  benefit  working-men,  but  they  suggest  the 
 
-
 THE  EEAL  WEAKNESS  OF  FREE  TEADE.    241 
 
 question,  whether  it  could  more  than  temporarily  increase 
@@ -9712,7 +9435,6 @@ binations  to  restrain  production.  And  considering  this,
 can  we  feel  quite  sure  that  the  effect  of  abolishing  protec- 
 tion would  be  more  than  temporarily  to  increase  the  pro- 
 duction of  wealth  ? 
-
 
 CHAPTER  XXIII. 
 
@@ -9750,7 +9472,6 @@ philosopher
 
 242 
 
-
 THE  REAL   STRENGTH  OF  PROTECTION.  243 
 
 protection  is  advocated  or  defended,  and  this  has  been 
@@ -9783,7 +9504,6 @@ pression becomes  very  large.  Thus  the  opportunity  of
 work  comes  to  be  regarded  as  a  privilege,  and  work  itself 
 to  be  deemed  in  common  thought  a  good.* 
 
-
 *  The  getting  of  work,  not  the  getting  of  the  results  of  work,  is 
 assumed  by  protectionist  writers  to  be  the  end  at  which  a  true 
 national  policy  should  aim,  though  for  obvious  reasons  they  do  not 
@@ -9793,7 +9513,6 @@ dwell  upon  this  notion.  Thus,  Professor  Thompson  says  (p.  211,
 "The  [free-trade]  theory  assumes  that  the  chief  end  of  national 
 as  of  individual  economy  is  to  save  labor,  whereas  the  great  problem 
 is  how  to  employ  it  productively.     If  buying  in  the  cheapest  market 
-
 
 244  PROTECTION   OR  FREE   TRADE? 
 
@@ -9839,7 +9558,6 @@ economy  of  labor  consists,  not  in  getting  on  with  as  little  as  possi
 but  in  finding  remunerative  employment  for  as  much  of  it  as  pos- 
 sible," 
 
-
 THE  REAL  STRENGTH  OF  PROTECTION.  245 
 
 ging  for  employment  in  the  brick-yards— would  the  edict 
@@ -9881,7 +9599,6 @@ effect  of  protection  is  to  increase  work  without  increasing
 wealth.  And  here  is  the  reason  why,  as  we  have  seen  in 
 the  United  States,  in  Canada  and  in  Australia,  the  disposi- 
 
-
 246  PROTECTION  OR  FREE  TRADE? 
 
 tion  to  resort  to  protective  tariffs  increases  as  that  early 
@@ -9897,7 +9614,6 @@ is  not  the  mere  work  of  felling  trees  that  tempts  Mr.  Glad-
 stone to  take  up  his  ax  as  a  relief  from  the  cares  of  state 
 and  the  strain  of  politics.  He  could  get  as  much  work- 
 in  the  sense  of  exertion— from  pounding  a  sand-bag  with 
-
 
 *  The  growth  of  the  protective  spirit  as  social  development  goes  on, 
 which  has  been  very  obvious  in  the  United  States,  is  generally- 
@@ -9925,7 +9641,6 @@ farmers,  that  the  average  farmer  feels  that  "  there  are  already  too
 many  people  in  farming,"  and  hence  is  not  ill  disposed  toward  a 
 policy  which,  though  it  may  increase  the  prices  he  has  to  pay,  claims 
 to  "  make  work  "  in  other  branches  of  industry. 
-
 
 THE  EEAL  STRENGTH  OF  PROTECTION.  247 
 
@@ -9968,7 +9683,6 @@ the  material  necessary  to  the  exertion  of  labor,  or,  as  is  the
 prevailing  method  in  our  industrial  organization,  sell  their 
 labor  to  those  who  have  the  material.    Thus  it  comes  that 
 
-
 248  PROTECTION  OR  FREE  TRADE? 
 
 the  majority  of  men  must  find  some  one  who  will  set  them 
@@ -10009,7 +9723,6 @@ labor.  This  feeling  runs  through  all  classes,  and  colors
 all  our  thought  and  speech.  One  cannot  read  our  news- 
 papers without  seeing  that  the  notice  of  a  new  building  or 
 
-
 THE  REAL  STRENGTH  OF   PROTECTION.  249 
 
 projected  enterprise  of  any  kind  usually  concludes  by  stat- 
@@ -10049,7 +9762,6 @@ than  to  hear  it  said  of  a  useless  construction  or  expendi-
 ture that  "  it  has  done  no  good,  except  to  provide  employ 
 ment,"  while  the  most  popular  argument  for  the  eight-hout 
 system  is  that  machinery  has  so  reduced  the  amount  of 
-
 
 250  PROTECTION  OR  FREE  TRADE? 
 
@@ -10092,7 +9804,6 @@ their  unproductive  consumption  and  by  actual  destruction  1
 Is  it  not  true  that  all  over  the  United  States  the  working- 
 classes  are  protesting  against  the  employment  of  convicts 
 
-
 THE  EEAL  STRENGTH  OF  PROTECTION.  251 
 
 m  this,  that  or  the  other  way,  and  would  nmch  rather  have 
@@ -10132,7 +9843,6 @@ recognize  no  deeper  social  wrong  than  the  framing  of
 tariffs  on  a  protective  instead  of  on  a  revenue  basis,  and 
 that,  with  such  trivial  exceptions,  is  but  a  justification  of 
 
-
 252  PROTECTION  OR  FREE  TRADE? 
 
 "  things  as  they  are,"  is  repellent  to  the  instincts  of  the 
@@ -10170,7 +9880,6 @@ venting  the  coming  into  a  country  of  the  produce  of  other
 countries,  seems,  at  least,  to  increase  the  requirement  for 
 work  at  home. 
 
-
 CHAPTER  XXIV. 
 
 THE   PARADOX. 
@@ -10203,7 +9912,6 @@ invention  ought  to  be  restrained  as  incongruous  as  the
 notion  that  trade  ought  to  be  restrained— as  incapable  af 
 
 253 
-
 
 254        PROTECTION  OR  FREE  TRADE? 
 
@@ -10243,10 +9951,8 @@ as  a  matter  of  fact  it  is  equalty  clear  that  they  do  not.
 In  countries  like  Great  Britain  there  is  still  a  large 
 class  living  on  the  verge  of  starvation,  and  constantly 
 
-
 *  For  a  fuller  examination  of  the  effects  of  machinery  see  my 
 "Social  Problems. " 
-
 
 THE  PARADOX.  255 
 
@@ -10287,7 +9993,6 @@ Great  Britain  reduced  hours  and  increased  pay;  it  is
 legislation,  not  any  improvement  in  the  general  condi- 
 tion of  labor,  that  has  stopped  the  harnessing  of  women 
 in  mines  and  the  working  of  little  children  in  mills  and 
-
 
 256  PROTECTION  OR  FREE  TRADE? 
 
@@ -10331,7 +10036,6 @@ nership in  the  usual  way,  and  go  into  the  business  of
 plumbing  and  gas-fitting.  In  this  case  whatever  in- 
 creases  or  decreases  the  profits  of  the  firm  will  affect  the 
 
-
 THE  PARADOX.  25? 
 
 partners  equally,  and  whether  these  profits  be  much  or 
@@ -10372,7 +10076,6 @@ The  social  phenomena  we  have  to  explain  resemble
 those  presented  in  this  last  case.  The  increased  in- 
 equality of  distribution  which  accompanies  material 
 progress  is  evidently  connected  with  the  increased  pro- 
-
 
 258  PROTECTION   OR  FISEE   TRADE? 
 
@@ -10415,7 +10118,6 @@ income,  the  gulf  between  the  proprietor  who  owned  it
 and  the  slave  who  worked  upon  it  would  not  merely  have 
 enormously  widened  as  compared  with  the  time  when 
 
-
 THE  PARADOX,  259 
 
 Crusoe  and  Friday  shared  with  substantial  equality  the 
@@ -10457,7 +10159,6 @@ Crusoe's  ownership  of  the  island,  what  would  have  been
 the  difference?  As  he  could  live  upon  Crusoe's  prop^- 
 erty  only  on  Crusoe's  terms,  his  freedom  would  simply 
 
-
 260  PROTECTION  OR  FREE  TRADE? 
 
 have  amounted  to  the  freedom  to  emigrate,  to  drown 
@@ -10497,7 +10198,6 @@ above.  For  as  a  Scottish  landlord  told  his  tenants:
 "God  Almighty  may  have  made  the  land,  but  I  own  it 
 And  if  you  don't  do  as  I  say,  off  you  go  !  " 
 
-
 THE  PABADOX.  261 
 
 No  increase  of  wealth  could  enable  such  "free* 
@@ -10536,7 +10236,6 @@ thus  partake  with  him  in  the  advantages  of  any  improve-
 ment that  increased  the  power  of  producing  wealth,  there 
 would  yet  remain  a  class,  the  mere  laborers  of  only  ordi- 
 nary ability,  to  whom  such  improvement  could  bring  no 
-
 
 a 62  PROTECTION  OR  FREE  TRADE? 
 
@@ -10578,7 +10277,6 @@ landowners  and  a  class  of  non-landowners  would  have
 been  established,  to  which  arrangement  the  whole  popu- 
 lation might  in  a  few  generations  have  become  so  habitu- 
 
-
 THE  PARADOX.  263 
 
 ated  as  to  think  it  the  natural  order,  and  when  they  had 
@@ -10618,7 +10316,6 @@ They  bring  good  or  evil  according  to  the  conditions
 under  which  they  are  exerted.  In  a  state  of  society  in 
 which  all  men  stood  upon  an  equality  with  relation  to  the 
 
-
 264        PROTECTION  OR  FREE  TRADE? 
 
 use  of  the  material  universe  their  effects  could  be  only 
@@ -10657,7 +10354,6 @@ invention  or  reform  in  a  society  where  the  planet  is  held
 to  be  private  property,  and  the  children  that  come  into 
 life  upon  it  are  denied  all  right  to  its  use  except  as  they 
 buy  or  inherit  the  title  of  some  dead  man,  we  may  see 
-
 
 THE  PARADOX.  265 
 
@@ -10700,7 +10396,6 @@ My  reply  would  be  negative.  Not  only  has  protection
 — which  is  merely  the  protection  of  producing  capitalists 
 against  foreign  competition  in  the  home  market — tend- 
 
-
 266  PROTECTION  OR  FREE  TRADE? 
 
 encies  in  itself  toward  monopoly  and  inequality,  but  it 
@@ -10723,7 +10418,6 @@ hood is  reached  he  cannot  again  become  a  child.
 
 No ;  it  is  not  in  going  backward,  it  is  in  going  forward- 
 that  the  hope  of  social  improvement  lies. 
-
 
 CHAPTER  XXV, 
 
@@ -10759,7 +10453,6 @@ robbers,  because  there  are  in  every  country  other  things
 than  private  property  in  land  which  tend  to  diminish 
 
 267 
-
 
 268  PROTECTION  OR  FREE  TRADE? 
 
@@ -10800,7 +10493,6 @@ masses,  such  as  improvement  in  skill,  in  intelligence,  in
 temperance  or  in  thrift,  cannot  improve  their  material 
 condition.      Improvement  of  this  kind  can  benefit  the 
 
-
 THE  ROBBER  THAT  TAKES  ALL  THAT  IS  LEFT.  269 
 
 individual  only  while  it  is  confined  to  the  individual,  and 
@@ -10840,7 +10532,6 @@ be  treated  as  private  property.  The  worthy  people  who
 imagine  that  compulsory  education  or  the  prohibition  of 
 the  drink  traffic  can  abolish  poverty  are  making  the 
 same  mistake  that  the  Anti-Corn-Law  reformers  made 
-
 
 270  PROTECTION  OR  FREE  TRADE? 
 
@@ -10883,7 +10574,6 @@ and  that  which  Will  Atkins  and  his  comrades  attempted
 to  establish  when  they  set  up  a  claim  to  the  ownership  of 
 the  island  and  called  on  its  other  inhabitants  to  do  all 
 
-
 THE  ROBBER  THAT  TAKES  ALL  THAT  IS  LEFT.  271 
 
 the  work.  The  one,  which  consists  in  making  property 
@@ -10924,7 +10614,6 @@ bodies  of  men,  and  this  without  a  qualm  of  conscience
 or  any  reprobation  from  public  opinion.  In  short,  when 
 society  reaches  the  point  of  development  where  a  brisk 
 
-
 272        PROTECTION  OR  FREE  TRADE? 
 
 competition  for  the  use  of  land  springs  up,  the  owner- 
@@ -10963,7 +10652,6 @@ Land  in  itself  has  no  value.  Value  arises  only  from
 human  labor.  It  is  not  until  the  ownership  of  land 
 becomes  equivalent  to  the  ownership  of  laborers  that 
 any  value  attaches  to  it.     And  where  land  has  a  specula- 
-
 
 THE  ROBBER  THAT  TAKES  ALL  THAT  IS  LEFT.     273 
 
@@ -11005,7 +10693,6 @@ discoveries  that  increase  the  productive  power  of  labor
 lessen  the  value  of  the  things  that  require  labor  for  their 
 production,  but  increase  the  value  of  land,  since  they 
 
-
 274        PROTECTION  OR  FREE  TRADE! 
 
 increase  the  amount  that  labor  can  be  compelled  to  give 
@@ -11044,7 +10731,6 @@ more  uniform  a  heat,  that  the  glass-  and  iron-workers  of
 Pittsburgh  find  it  more  economical  than  the  old  fuel, 
 even  at  the  same  cost.  But  they  cannot  long  retain  this 
 advantage.    If  it  prove  permanent,  other  glass-  and  iron. 
-
 
 THE  ROBBER  THAT  TAKES  ALL  THAT  IS  LiEFT.     275 
 
@@ -11087,7 +10773,6 @@ the  gratification  of  Pennsylvania  protectionists)  increasing  our
 exports  over  our  imports,  just  as  though  they  owned  so  many  Penn- 
 .?ylvanians. 
 
-
 276  PROTECTION  OR  FREE   TRADE? 
 
 It  is  not  in  the  power  of  capital  to  compel  men  who  can 
@@ -11129,7 +10814,6 @@ reached  a  position  which  will  enable  us  to  proceed  with
 our  inquiry  and  ascertain  what  the  effects  of  true  free 
 trade  would  be. 
 
-
 CHAPTER  XXVI. 
 
 TRUE  FREE  TRADE. 
@@ -11166,7 +10850,6 @@ Our  inquiry  has  shown  that  the  reason  why  the  aboli-
 tion of  protection,  greatly  as  it  would  increase  the  pro- 
 
 277 
-
 
 278  PROTECTION  OR  FREE  TRADE? 
 
@@ -11209,7 +10892,6 @@ ticable. In  a  state  of  society  such  as  exists  in  civilized
 countries  to-day,  it  would  be  extremely  difficult,  if  not 
 altogether  impossible,  to  make  an  equal  division  of  land 
 
-
 TRUE  FEEE  TRADE.  279 
 
 Nor  would  one  such  division  suffice.  With  the  first 
@@ -11251,7 +10933,6 @@ But  the  two  things  are  essentially  different.
 In  the  first  place  equal  rights  to  land  could  not  be 
 Secured  by  the  equal  division  of  land,  and  in  the  second 
 place  it  is  not  necessary  to  make  land  the  private  prop- 
-
 
 280  PROTECTION  OR  FREE  TRADE? 
 
@@ -11297,7 +10978,6 @@ the  joint  property  of  several  owners.
 In  other  words,  we  can  leave  land  now  being  used  in 
 the  secure  possession  of  those  using  it,  and  leave  land 
 
-
 TRUE  FREE  TRADE.  281 
 
 now  unused  to  be  taken  possession  of  by  those  who  wish 
@@ -11338,7 +11018,6 @@ the  first  time.  It  is  sometimes  said  that  while  this  prin-
 ciple is  manifestly  just,  and  while  it  would  be  easy  to 
 apply  it  to  a  new  country  just  being  settled.,  it  would  be 
 
-
 282  PROTECTION   OR   FREE   TRADE? 
 
 exceedingly  difficult  to  apply  it  to  an  already  settled 
@@ -11378,7 +11057,6 @@ some  upon  occupations  or  businesses  or  persons  (as  in
 the  case  of  income  taxes,  which  are  in  reality  taxes  on 
 persons  according  to  income) ;  some  upon  the  transporta- 
 tion or  exchange  of  commodities,  in  which  last  category 
-
 
 TEUE  FREE   TRADE.  283 
 
@@ -11423,7 +11101,6 @@ Briefly,  they  would  be  threefold  :
 In  the  first  place,  all  taxes  that  now  fall  upon  the  exer- 
 tion of  labor  or  use  of  capital  would  be  abolished.    No 
 
-
 284  PROTECTION  OR  FREE  TRADE? 
 
 one  would  be  taxed  for  building  a  house  or  improving  a 
@@ -11464,7 +11141,6 @@ to  be  devoted  to  purposes  of  general  benefit.
 In  the  third  place,  and  most  important  of  all,  the 
 monopoly  of  land  would  be  abolished,  and  land  would  be 
 
-
 TRUE  FREE  TRADE.  285 
 
 thrown  open  and  kept  open  to  the  use  of  labor,  since  it 
@@ -11503,7 +11179,6 @@ no  matter  what  the  increase  of  wealth.  Labor,  free  to
 the  natural  elements  of  production,  would  no  longer  be 
 incapable  of  employing  itself,  and  competition,  acting  as 
 fully  and  freely  between  employers  as  between  employed, 
-
 
 286  PEOTECTION  OR  FEEE  TRADE? 
 
@@ -11548,7 +11223,6 @@ of  a  country  by  producing  within  that  country  valuable
 things.  Thus  the  principle  of  free  trade  requires  that  we 
 should  not  merely  abolish   all  indirect  taxes,  but  that 
 
-
 TRUE  FREE   TRADE.  287 
 
 we  should  abolish  as  well  all  direct  taxes  on  things  that 
@@ -11592,7 +11266,6 @@ values,  however,  do  not  fall  upon  all  land,  but  only  upon
 valuable  land,  and  on  that  in  proportion  to  its  value. 
 Fence  they  do  not  in  any  degree  check  the  ability  of 
 
-
 288  PROTECTION  OR  FREE  TRADE? 
 
 labor  to  avail  itself  of  land,  and  are  merely  an  appro, 
@@ -11632,7 +11305,6 @@ tive to  production.
 
 Taxes  on  land  values  are  thus  the  only  taxes  from 
 which,  in  accordance  with  the  principle  of  free  trade, 
-
 
 TEUE  FEEE   TRADE.  289 
 
@@ -11677,7 +11349,6 @@ in  the  mere  abolition  of  protection— the  mere  substitu-
 tion of  a  revenue  tariff  for  a  protective  tariff— cannot 
 help  the  laboring-classes,  because  it  does  not  touch  the 
 
-
 290  PROTECTION   OK  FREE   TRADE/ 
 
 fundamental  cause  of  that  unjust  and  unequal  distribu 
@@ -11719,7 +11390,6 @@ that  these  great  Frenchmen  were  not  extravagant.
 
 True  free  trade  would  emancipate  labor. 
 
-
 CHAPTER  XXVII. 
 
 THE  LION  IN  THE   WAY. 
@@ -11752,7 +11422,6 @@ any  other  terms.  Under  the  shadow  of  an  absolute
 despotism  more  liberty  of  thought  and  expression  may 
 
 291 
-
 
 292  PROTECTION  OR  FREE  TRADE? 
 
@@ -11794,7 +11463,6 @@ the  British  people  to  ask  themselves  why  they  should
 continue  to  support  the  descendants  of  royal  favorites, 
 and  to  pay  interest  on  the  vast  sums  spent  during  former 
 
-
 THE  LION  IN  THE  WAY.  293 
 
 generations  in  worse  than  useless  wars;  but  it  is  that 
@@ -11834,7 +11502,6 @@ borne  by  the  holders  of  land  must  inevitably  arise  in
 such  a  way  as  to  open  the  whole  question  of  the  rightful 
 ownership  of  British  soil.  For  not  only  do  all  economic 
 considerations  point  to  a  tax  on  land  values   as  the 
-
 
 294        PROTECTION  OR  FREE  TRADE? 
 
@@ -11877,7 +11544,6 @@ fruits  of  labor  to  those  who  do  not  labor,  the  classes  who
 control  the  organs  of  public  education  and  opinion— the 
 classes  to  whom  the  many  are  accustomed  to  look  for 
 
-
 THE  LION  IN  THE  WAY.  295 
 
 Mght  and  leading,  must  be  loath  to  challenge  the  primary 
@@ -11919,7 +11585,6 @@ institution."
 Thus  it  was  that  even  slaves  believed  abolitionists  the 
 worst  of  humankind,  and  were  ready  to  join  in  the  sport 
 
-
 296  PROTECTION  OR  FREE  TRADE? 
 
 of  tarring  and  feathering  one.  And  so,  an  institution 
@@ -11957,7 +11622,6 @@ revenue  duties  would  not  only  have  added  the  strength
 of  the  holders  of  municipal  and  mining  land  to  that  of 
 the  holders  of  agricultural  land,  but  would  also  have 
 arrayed  in  opposition  the  very  class  most  efficient  in  the 
-
 
 THE  LION  IN   THE  WAY.  297 
 
@@ -11998,7 +11662,6 @@ while  it  has  been  to  those  interested  in  it  that  the  oppo-
 nents of  protection  have  principally  appealed.  Under 
 such  circumstances  there  has  been  here  even  less  disposi- 
 
-
 29$  PROTECTION  OR  FREE  TRADE? 
 
 tion  than  in  Great  Britain  to  carry  the  free-trade  prin. 
@@ -12006,7 +11669,6 @@ ciple  to  its  legitimate  conclusions,  and  free  trade  has
 been  presented  to  the  American  people  in  the  emascu- 
 lated shape  of  a  "revenue  reform"  too  timid  to  ask  foi 
 even  u  British  free  trade." 
-
 
 CHAPTER  XXVIII. 
 
@@ -12040,7 +11702,6 @@ and  effort  divided  by  schemes  of  reform  which  though
 they  may  be  good  in  themselves  are,  with  reference  to 
 
 299 
-
 
 300  PROTECTION  OR  FREE  TRADE? 
 
@@ -12084,7 +11745,6 @@ to  accomplish  anything.  To  a  habitable  house  a  roof  is
 as  important  as  walls :  and  we  express  in  a  word  the  end 
 to  which  a  house  is  built  when  we  speak  of  putting  a 
 
-
 FREE  TRADE  AND  SOCIALISM.  301 
 
 roof  over  our  heads.  But  we  cannot  build  a  house  from 
@@ -12126,7 +11786,6 @@ vantage of  struggling  against  general  tendencies.  They
 are  like  the  attempts  of  a  man  in  a  crowd  to  gain  room 
 bv  forcing  back  those  who  press  upon  him— like  attempts 
 
-
 302  PROTECTION  OR  FREE  TRADE? 
 
 to  stop  a  great  engine  by  the  sheer  force  of  human  mus- 
@@ -12165,10 +11824,8 @@ trace  the  relations  between  the  conclusions  to  which  we
 have  come  and  what,  with  various  shades  of  meaning,  is 
 termed  "socialism."* 
 
-
 *  The  term  "  socialism  "  is  used  so  loosely  that  it  is  hard  to  attach 
 to  it  a  definite  meaning.     I  myself  am  classed  as  a  socialist  by  those 
-
 
 FREE  TRADE  AND  SOCIALISM.  303 
 
@@ -12210,7 +11867,6 @@ seems  to  me  a  high-purposed  but  incoherent  mixture  of  truth  and
 fallacy,  the  defects  of  which  may  be  summed  up  in  its  want  of  radi- 
 calism—that  is  to  say,  of  going  to  the  root. 
 
-
 304  PROTECTION  OR  FREE  TRADE? 
 
 Society  ought  not  to  leave  the  telegraph  and  the  railway 
@@ -12250,7 +11906,6 @@ exchange,  as  a  remedy  for  the  difficulty  of  finding
 employment  on  the  one  side,  and  for  overgrown  fortunes 
 on  the  other,  belongs  to  the  same  category  as  the  pre- 
 scription that  all  men  should  be  good.     That  if  all  men 
-
 
 FREE  TRADE  AND  SOCIALISM.  305 
 
@@ -12293,7 +11948,6 @@ and  universal  exchanger;  it  is  necessary  only  that  the
 equal  rights  of  all  to  that  primary  means  of  production 
 which  is  the  source  all  other  means  of  production  are 
 
-
 306  PROTECTION  OR  FREE  TRADE? 
 
 derived  from,  should  be  asserted.  And  this,  so  far  from 
@@ -12324,7 +11978,6 @@ monopoly  that  forbids  men  to  employ  themselves,  and
 capital  could  not  possibly  oppress  labor.  In  no  case  could 
 the  capitalist  obtain  labor  for  less  than  the  laborer  could 
 
-
 *  The  great  source  of  confusion  in  regard  to  such  matters  arises 
 from  the  failure  to  attach  any  definite  meaning  to  terms.  It  must 
 always  be  remembered  that  nothing  that  can  be  classed  either  as 
@@ -12334,7 +11987,6 @@ solvent  debts,  government  bonds,  etc.— is  in  reality  not  even  wealth
 —which  all  true  capital  must  be.  For  a  fuller  elucidation  of  this, 
 as  of  similar  points,  I  must  refer  the  reader  to  my  "  Progress  and 
 Poverty." 
-
 
 FREE  TRADE  AND   SOCIALISM.  307 
 
@@ -12377,7 +12029,6 @@ In  short,  competition  plays  just  such  a  part  in  the
 social  organism  as  those  vital  impulses  which  are  beneath 
 consciousness  do  in  the  bodily  organism.  With  it,  as 
 with  them,  it  is  only  necessary  that  it  should  be  free. 
-
 
 308  PROTECTION   OR  FREE  TRADE? 
 
@@ -12422,7 +12073,6 @@ principle,  however  faulty  they  may  be  in  method.
 
 Such  cases  aside,  this  power  of  restricting  production 
 
-
 FEEE  TEADE  AND  SOCIALISM.  309 
 
 is  derived,  in  part,  from  tariff  restrictions.  Thus  the 
@@ -12464,7 +12114,6 @@ various  parts  from  three  sources.
 
 1.  From  the  protective  duty  on  coal.  Free  trade 
 would  abolish  that. 
-
 
 310  PROTECTION  X)R  TREE  TRADE? 
 
@@ -12508,7 +12157,6 @@ munity, is  a  question  of  method.  It  seems  to  me,  how-
 ever, that  experience  goes  to  show  that  better  results  can 
 be  secured,  with  less  risk  of  governmental  corruption,  by 
 
-
 FREE  TRADE  AND  SOCIALISM.  311 
 
 state  management  than  by  state  regulation.  But  the 
@@ -12548,7 +12196,6 @@ among  the  purposes  which  will  suggest  themselves  to  the
 reader  by  which  the  surplus  income  of  the  community 
 could  be  used  to  increase  the  sum  of  human  knowledge, 
 the  diffusion  of  elevating  tastes,  and  the  gratification  of 
-
 
 312        PROTECTION  OR  FREE  TRADE! 
 
@@ -12590,7 +12237,6 @@ separated  from  each  other  in  a  "work-house."
 If  this  is  socialism,  then,  indeed,  is  it  true  that  free 
 trade  leads  to  socialism. 
 
-
 CHAPTER  XXIX. 
 
 PRACTICAL  POLITICS. 
@@ -12627,7 +12273,6 @@ free  trader,  and  he  ain't  ashamed  to  own  it."  And  when
 the  "boys"  had  shaken  hands  with  me,  very  much  as 
 
 313 
-
 
 314  PROTECTION  OR  FREE   TRADE? 
 
@@ -12670,7 +12315,6 @@ moving  too  quickly,  people  are  not  likely  to  move  at  all.
 
 Such  advocacy  is  not  of  the  sort  that  can  compel  dis- 
 
-
 PRACTICAL  POLITICS.  31n 
 
 cussion,  awaken  thought,  and  press  forward  a  great 
@@ -12709,7 +12353,6 @@ of  the  Jews.  "When  entirely  convenient  they  will  speak,
 write,  attend  a  meeting,  eat  a  dinner  or  give  a  little  money 
 for  the  cause,  but  they  will  hardly  break  with  their  party 
 or  "throw  away"  a  vote. 
-
 
 316  PROTECTION  OR  FREE  TRADE? 
 
@@ -12750,7 +12393,6 @@ Take  the  current  free-trade  literature.  Its  aim  is  to
 show  the  impolicy  of  protection,  rather  than  its  injus- 
 tice; its  appeal  is  to  the  pocket,  not  to  the  sympathies, 
 
-
 PRACTICAL  POLITICS.  317 
 
 Yet  to  begin  and  maintain  great  popular  movements  it  is 
@@ -12790,7 +12432,6 @@ not  so  much  opposition  as  indifference.  Without  opposi-
 tion that  attention  cannot  be  excited,  that  energy  evoked, 
 that  are  necessary  to  overcome  the  inertia  that  is  the 
 strongest  bulwark  of  existing  abuses.    A  party  can  no 
-
 
 318  PROTECTION"  OR  FREE   TRADE? 
 
@@ -12836,7 +12477,6 @@ ourselves  with.     The  important  thing  is  how  they  think.
 Now  the  chief  agency  in  promoting  thought  is  discus- 
 sion.   And  to  secure  the  most  general  and  most  effective 
 
-
 PEACTICAL  POLITICS.  319 
 
 discussion  of  a  principle  it  must  be  embodied  in  concrete 
@@ -12878,7 +12518,6 @@ tionists would  in  vain  have  sought  to  accomplish  directly.
 So  with  the  tariff  question.  Whether  we  have  a  pro* 
 tective  tariff  or  a  revenue  tariff  is  in  itself  of  small 
 
-
 320  PROTECTION  OR  FREE  TRADE? 
 
 importance,  for,  though  the  abolition  of  protection 
@@ -12918,7 +12557,6 @@ the  full  freeing  of  land,  and  the  complete  emancipation
 of  labor,  it  is,  of  course,  necessary  that  the  whole  of  this 
 value  should  be  taken  for  the  common  benefit ;  but  that 
 will  inevitably  follow  the  decision  to  collect  from  this 
-
 
 PEACTICAL  POLITICS.  321 
 
@@ -12960,7 +12598,6 @@ taxation,  of  the  nature  and  rights  of  property,  and  of  the
 question  to  which  all  these  questions  lead— the  question 
 of  the  relation  of  men  to  the  planet  on  which  they  live. 
 In  this  way  more  can  be  accomplished  for  popular  eco- 
-
 
 322  PROTECTION   OR   FREE   TRADE? 
 
@@ -13004,7 +12641,6 @@ able income ;  while  independent  sources  of  any  needed  amount  of
 revenue  could  be  found  in  various  taxes,  which  though  not  eco- 
 nomically perfect,  as  is  the  tax  on  land  values,  are  yet  much  less 
 objectionable  than  taxes  on  imports.     The  excise  tax  on  spirituous 
-
 
 PRACTICAL  POLITICS,  323 
 
@@ -13051,7 +12687,6 @@ Of  all  excuses  for  the  continuance  of  any  tariff  at  all,  the  most
 groundless  is  that  it  is  necessary  to  secure  Federal  revenues.  Even 
 the  income  tax,  bad  as  it  is,  is  in  all  respects  better  than  a  tariff. 
 
-
 324  PROTECTION  OR  FREE  TRADE? 
 
 from  those  of  Great  Britain  in  1846,  when,  the  laboring. 
@@ -13094,7 +12729,6 @@ mere  beginning,  has  always  insisted  that  Great  Britain  was  yet  unde*
 the  blight  of  protectionism,  and  that  the  struggle  for  true  free  trade 
 was  yet  to  come. 
 
-
 PRACTICAL  POLITICS.  325 
 
 have  constantly  advocated  the  carrying  of  free  trade  to 
@@ -13135,7 +12769,6 @@ tariff  can  be  secured  the  active  spirits  of  the  free-trade
 party  will  have  far  passed  the  point  when  that  would 
 satisfy  them :  while  before  the  abolition  of  indirect  taxa^ 
 
-
 326  PROTECTION  OR  FREE  TRADE? 
 
 tion  is  reached,  the  incidence  of  taxation  and  the  nature 
@@ -13151,7 +12784,6 @@ result  of  labor.  Once  that  distinction  is  made  clear—
 and  a  thorough  discussion  of  the  tariff  question  mus* 
 now  make  it  clear— and  private  property  in  land  is 
 doomed. 
-
 
 CHAPTER  XXX. 
 
@@ -13184,7 +12816,6 @@ thrones  with  bayonets,  substitutes  small  vanities  and
 petty  jealousies  for  high-minded  patriotism,  and  converts 
 
 327 
-
 
 328  PROTECTION  OR  FREE   TRADE? 
 
@@ -13227,7 +12858,6 @@ aggression,  we  ought  to  be  too  just  to  commit  it.
 In  throwing  open  our  ports  to  the  commerce  of  the 
 world  we  shall  far  better  secure  their  safety  than  by 
 
-
 CONCLUSION.  329 
 
 fortifying  them  with  all  the  "  protected  "  plates  that  our 
@@ -13268,7 +12898,6 @@ of  the  interstate  peace  it  secures,  is  that  it  has  pre.
 vented  the  establishment  of  State  tariffs  and  given  us 
 free  trade  over  the  better  part  of  a  continent. 
 
-
 330  PROTECTION  OR  FREE  TRADE? 
 
 We  may  "extend  the  area  of  freedom"  whenever  we 
@@ -13307,7 +12936,6 @@ interest,  general  convenience  and  fraternal  feeling  might
 soon  lead  to  a  pact,  which,  in  the  words  of  our  own, 
 would  unite  all  the  English-speaking  peoples  in  a  league 
 "  to  establish  justice,  insure  domestic  tranquillity,  provide 
-
 
 CONCLUSION.  331 
 
@@ -13351,7 +12979,6 @@ being  stored,  need  not  alarm  her,  but  there  is  black  omen
 in  the  fact  that  Pennsylvania  miners  are  working  for  65 
 cents  a  day.    No  triumphant  invader  can  tread  our  soil 
 
-
 332  PROTECTION   OR  FREE   TRADE  t 
 
 till  the  blight  of  "  great  estates  "  has  brought  "  failure  of 
@@ -13381,9 +13008,7 @@ law  to  which  we  must  conform  social  institutions  and
 national  policy  if  we  would  secure  the  blessings  of  abun- 
 dance and  peace. 
 
-
 INDEX. 
-
 
 American  Republic,  possibilities 
 of,  328. 
@@ -13436,7 +13061,6 @@ English  estates  in  America,  119,
 275. 
 Evarts,  William  M.,  131. 
 
-
 Exchange,  international,  gov- 
 erned by  comparative  cost  of 
 production,  147. 
@@ -13482,15 +13106,11 @@ Imports,  in  a  profitable  trade
 should  exceed  exports,  116 ;  do 
 not  always  imply  exports,  117. 
 
-
 333 
-
 
 334 
 
-
 INDEX. 
-
 
 Individualism,  303. 
 
@@ -13560,7 +13180,6 @@ value  of,  198.
 
 Navigation  Laws,  effects  of,  193. 
 
-
 Octroi,  64. 
 Over-production,  232. 
 
@@ -13618,12 +13237,9 @@ from  advantages  or  disadvan-
 tages, 144;  abolition  of,  would 
 stimulate    industry,    180,    217; 
 
-
 INDEX. 
 
-
 335 
-
 
 plea  for  gradual  abolition,  217; 
 effect  on  wages,  230 ;  cannot  be 
@@ -13689,7 +13305,6 @@ cialists, 6 ;  not  recondite,  7 ;  not
 yet  thoroughly  discussed,  7; 
 cannot  be  understood  without 
 
-
 going  further,  9,  224;  paradox 
 to  which  it  leads,  253. 
 
@@ -13752,88 +13367,60 @@ Work,  treated  by  protectionists
 as  an  end,  243  ;  how  this  feeling 
 arises,  247. 
 
-
 i 
-
 
 Date    DueUtC  '  .i^R 
 
 SOCIAL  SCIENCE!  OtOOM1*" 
 Due  Returned  Due  Returned 
 
-
 NOV  27  <59 
-
 
 WWT5W 
 
-
 ISftl 
-
 
 uan  y  B  'W 
 
-
 MOV  2  8  00 
-
 
 **W  2  8  '60 
 
-
 DEC  i  y  6|o  mc ■-•'•» 
-
 
 '-••. 
 
-
 ■*m 
-
 
 ES'fil    fl^ 
 
-
 if"  '  3  '61 
-
 
 FEB  1  1  '61 
 
-
 MtXJU 
-
 
 *? 
 
-
 MlHW  itL'Bg 
-
 
 M»H»22'6i! 
 
-
 Mffl  ?g  '66 
-
 
 MAY20 
 
-
 '68 
 
-
 TTrafrESfttiW 
-
 
 ?37 
 
 c,3 
 
-
 Protection  or  free  trade,  main 
 337G348pC3 
 
-
 3  lEbE  D30flS  7D55 
 
-
 / 
-
-

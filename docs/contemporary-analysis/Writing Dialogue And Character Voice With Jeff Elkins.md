@@ -22,8 +22,6 @@ Podcast: [Download](https://media.blubrry.com/thecreativepenn/content.blubrry.co
 
 In the intro, the [new Audible Gate site;](https://www.audiblegate.com/) scammers using big publisher names [\[Writer Beware\]](https://accrispin.blogspot.com/2021/03/scammers-taking-big-5-publishers-names.html); Vellum update for Ingram PDF [\[Vellum software;](https://www.thecreativepenn.com/vellum) my [tools and tutorials\]](https://www.thecreativepenn.com/tools/) ; Do Book Bub
 
-## 1 of 30 10/16/25, 12:10 AM
-
 deals on a permafree first in series work multiple times? [\[Book Bub blog\]](https://insights.bookbub.com/bookbub-deals-permafree-books-multiple/); audio course on financial independence [\[JD](https://www.getrichslowly.org/audible-fire-course/) [Roth\]](https://www.getrichslowly.org/audible-fire-course/) and my list of [money books.](https://www.thecreativepenn.com/moneybooks/) Plus, [Secrets and Lies](https://storybundle.com/mystery) [Storybundle;](https://storybundle.com/mystery) and updates on my books, [The Wreck of the](https://www.thecreativepenn.com/2017/05/17/art-money-ambition-damien-hirst-treasures-wreck-unbelievable/) [Unbelievable,](https://www.thecreativepenn.com/2017/05/17/art-money-ambition-damien-hirst-treasures-wreck-unbelievable/) and Damien Hirst's 'green' NFT [\[FT\]](https://www.ft.com/content/76cacb9e-ba20-44e7-9ced-f570553af5e1).
 
 Today's show is sponsored by [Ingram Spark,](https://selfpub.is/2qL4aTQ) who I use to print and distribute my print-ondemand books to 39,000 retailers including independent bookstores, schools and universities, libraries and more. **It's your content – do more with it** through [Ingram Spark.com.](https://selfpub.is/2qL4aTQ)
@@ -46,8 +44,6 @@ You can listen above or on [your favorite podcast app](https://www.thecreativepe
 
 - How getting fired started Jeff's writing career and how he now manages **multiple streams of income**
 - The two biggest **mistakes** writers make with dialogue
-
-## 2 of 30 10/16/25, 12:10 AM
 
 - Ways to **research authentic voices**
 - How to use **subtext** in dialogue
@@ -375,5 +371,3 @@ And then my fiction is at [jeffelkinswriter.com.](http://www.jeffelkinswriter.co
 Joanna: Fantastic. Thanks so much for your time, Jeff. That was great.
 
 Jeff: Thanks, Joanna. This was fantastic.
-
-## 30 of 30 10/16/25, 12:10 AM

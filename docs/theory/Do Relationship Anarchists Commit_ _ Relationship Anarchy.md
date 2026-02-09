@@ -13,8 +13,6 @@ tags:
 
 3–4 minutes
 
-##
-
 Hi, I'm Kale. Today I want to clear up some misconceptions about relationship anarchy and commitment.
 
 I've had some people say to me 'I couldn't handle relationship anarchy, I need commitment!'
@@ -26,8 +24,6 @@ My question is: what does commitment look like? Maybe to monogamous folks, it in
 We already know that is not the likely path an RAs relationships will take. But does that mean that they don't know how to commit?
 
 Just because commitment doesn't look how it might in a
-
-## 1 of 3 11/11/25, 2:44 AM
 
 An RA relationship will set it's own tone, and the people involved will form their own types of commitments together.
 
@@ -49,8 +45,6 @@ What we are doing in relationship anarchy is recognizing a person's autonomy, an
 
 Once you realize that commitment is a living thing, that it can change and evolve, you can acknowledge that it's permanence
 
-## 2 of 3 11/11/25, 2:44 AM
-
 is a fallacy.
 
 That means that you must look at what is going on in this moment.
@@ -64,5 +58,3 @@ So, can relationship anarchists commit? Of course they can. They do it intention
 They recognize that every commitment might not be from now until the day they die, but if they are there it means they fully and completely want to be.
 
 If you're a relationship anarchist, how do you practice commitment? If you want to be a part of the discussion, post a comment, join our Facebook group or follow me on Twitter, all which you will find down below. Thanks for watching, bye!
-
-## 3 of 3 11/11/25, 2:44 AM

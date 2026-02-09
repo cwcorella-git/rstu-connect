@@ -22,8 +22,6 @@ Relationship anarchy questions the idea that love is a limited resource that can
 
 Deciding to not base a relationship on a foundation of entitlement is about respecting others' independence and self-determination. Your feelings for a person or your history together does not make you entitled to command and control a partner to comply with what is considered normal to do in a relationship. Explore how you can engage without stepping over boundaries and personal beliefs. Rather than looking for compromises in every situation, let loved ones choose paths that keep their integrity intact, without letting this mean a crisis for the relationship. Staying away from entitlement and demands is the only way to be sure that you are in a relationship that is truly mutual. Love is not more "real" when people compromise for each other because it's part of what's
 
-## 1 of 3 9/26/25, 2:43 PM
-
 expected.
 
 #### Find your core set of relationship values
@@ -48,8 +46,6 @@ Choosing to assume that your partner does not wish you harm leads you down a muc
 
 #### Change through communication
 
-## 2 of 3 9/26/25, 2:43 PM
-
 For most human activities, there is some form of norm in place for how it is supposed to work. If you want to deviate from this pattern, you need to communicate — otherwise things tend to end up just following the norm, as others behave according to it. Communication and joint actions for change is the only way to break away. Radical relationships must have conversation and communication at the heart — not as a state of emergency only brought out to solve "problems". Communicate in a context of trust. We are so used to people never really saying what they think and feel — that we have to read between the lines and extrapolate to find what they really mean. But such interpretations can only build on previous experiences — usually based on the norms you want to escape. Ask each other about stuff, and be explicit!
 
 #### Customize your commitments
@@ -57,5 +53,3 @@ For most human activities, there is some form of norm in place for how it is sup
 Life would not have much structure or meaning without joining together with other people to achieve things — constructing a life together, raising children, owning a house or growing together through thick and thin. Such endeavors usually need lots of trust and commitment between people to work. Relationship anarchy is not about never committing to anything — it's about designing your own commitments with the people around you, and freeing them from norms dictating that certain types of commitments are a requirement for love to be real, or that some commitments like raising children or moving in together have to be driven by certain kinds of feelings. Start from scratch and be explicit about what kind of commitments you want to make with other people!
 
 Retrieved on 14 July 2012 from [log.andie.se](http://log.andie.se/post/26652940513/the-short-instructional-manifesto-for-relationship)
-
-## 3 of 3 9/26/25, 2:43 PM

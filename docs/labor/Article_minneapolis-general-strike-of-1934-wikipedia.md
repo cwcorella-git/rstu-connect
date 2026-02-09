@@ -28,8 +28,6 @@ Minneapolis general strike of 1934 - Wikipedia about:reader?url=https%3A%2F%2Fen
 ## 44°58′52″N 93°16′37″W / 44.98111°N
 ## 93.27694°W
 
-1 of 13 9/7/25, 12:04 PM Minneapolis general strike of 1934 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 ## Goals Unionization
 
 ## Methods Strikes, Protest, Demonstrations
@@ -57,8 +55,6 @@ Minneapolis general strike of 1934 - Wikipedia about:reader?url=https%3A%2F%2Fen
 ## Mike Johannes
 
 ## Casualties and losses
-
-2 of 13 9/7/25, 12:04 PM Minneapolis general strike of 1934 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
                 - Injuries: 67+ • Fatalities: 2 deputized civilians
 
@@ -91,7 +87,6 @@ Minneapolis general strike of 1934 - Wikipedia about:reader?url=https%3A%2F%2Fen
 ## Leadup to the strike
 
                 [edit]
-3 of 13 9/7/25, 12:04 PM Minneapolis general strike of 1934 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## The International Brotherhood of Teamsters, under the
                 leadership of Daniel Tobin in 1933, was a conservative union
@@ -123,7 +118,6 @@ Minneapolis general strike of 1934 - Wikipedia about:reader?url=https%3A%2F%2Fen
 ## established under the International's Constitution and the
 ## ineffective mediation procedures offered under the National
                 Industrial Recovery Act. The victory gave the union a great deal
-4 of 13 9/7/25, 12:04 PM Minneapolis general strike of 1934 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## of credibility among both drivers and their employers. The
                 union began organizing drivers wherever they could be found.
@@ -155,7 +149,7 @@ Minneapolis general strike of 1934 - Wikipedia about:reader?url=https%3A%2F%2Fen
 ## police, augmented by several hundred newly deputized
 ## members of the Citizens Alliance, an employer organization,
                 attempted to open up the market for trucking. Fighting began
-5 of 13 9/7/25, 12:04 PM Minneapolis general strike of 1934 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 when a loaded truck began leaving a loading dock. The battle
 ## became a general melee when hundreds of pickets armed with
                 clubs of all sorts rushed to the area to support the picketers;
@@ -183,7 +177,6 @@ Minneapolis general strike of 1934 - Wikipedia about:reader?url=https%3A%2F%2Fen
 ## dozen special police, municipal police, and strikers were
                 beaten or wounded.[8][additional citation(s) needed]
                 The Central Labor Council, the Building Trades Council and the
-6 of 13 9/7/25, 12:04 PM Minneapolis general strike of 1934 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## Teamsters Joint Council approached Mike Johannes, the
                 Minneapolis Chief of Police, to propose a truce, under which the
@@ -217,8 +210,6 @@ Minneapolis general strike of 1934 - Wikipedia about:reader?url=https%3A%2F%2Fen
 ## any clubs or weapons of any sort. The police, on the other
 ## hand, armed themselves with riot guns which sprayed
 
-7 of 13 9/7/25, 12:04 PM Minneapolis general strike of 1934 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 ## buckshot over a wide arc.
 
                 On Friday, July 20, a single yellow truck drove to the central
@@ -251,7 +242,6 @@ Minneapolis general strike of 1934 - Wikipedia about:reader?url=https%3A%2F%2Fen
 
 ## Martial law and settlement
 
-8 of 13 9/7/25, 12:04 PM Minneapolis general strike of 1934 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 [edit]
                 A public commission, set up later by the governor, reported:
                 Police took direct aim at the pickets and fired to kill. Physical
@@ -285,8 +275,6 @@ Minneapolis general strike of 1934 - Wikipedia about:reader?url=https%3A%2F%2Fen
 ## On August 21, a federal mediator got acceptance of a
 ## settlement proposal from A. W. Strong, head of the Citizens
 
-9 of 13 9/7/25, 12:04 PM Minneapolis general strike of 1934 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 ## Alliance, incorporating the union's major demands. The
 ## settlement was ratified, breaking the back of employer
 ## resistance to unionization in Minneapolis. In March 1935,
@@ -319,7 +307,7 @@ Minneapolis general strike of 1934 - Wikipedia about:reader?url=https%3A%2F%2Fen
 ## Minneapolis. Trotskyist strength grew to over 100 members.
 ## This gave leadership to the Trotskyists through the various
                 unions they led within the Central Labor Council. As mentioned
-10 of 13 9/7/25, 12:04 PM Minneapolis general strike of 1934 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 below, through organizing the first area-wide contract for any
                 union outside of rail, the Trotskyists established locals of their
                 party wherever there were Teamster locals, from South Dakota
@@ -355,7 +343,7 @@ Minneapolis general strike of 1934 - Wikipedia about:reader?url=https%3A%2F%2Fen
 
             2. ^ Alam, Ehsan. "Minneapolis Teamsters' Strike, 1934".
                 Mnopedia.org. Minnesota: MNOPEDIA. Retrieved 2025-04-01.
-11 of 13 9/7/25, 12:04 PM Minneapolis general strike of 1934 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 “"No trucks shall be moved! By nobody!" was the rallying cry of
                 Minneapolis Teamsters Local 574 as they struck in the summer
 ## of 1934.”
@@ -393,7 +381,6 @@ Minneapolis general strike of 1934 - Wikipedia about:reader?url=https%3A%2F%2Fen
 
              - Korth, Philip. Minneapolis Teamsters Strike of 1934. East
                 Lansing, Mich.: Michigan State University Press, 1995.
-12 of 13 9/7/25, 12:04 PM Minneapolis general strike of 1934 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## ISBN 0-87013-385-3
 
@@ -417,5 +404,3 @@ Minneapolis general strike of 1934 - Wikipedia about:reader?url=https%3A%2F%2Fen
 
              - 75th anniversary of the Minneapolis truck drivers’ strike, by
 ## Ron Jorgenson
-
-13 of 13 9/7/25, 12:04 PM

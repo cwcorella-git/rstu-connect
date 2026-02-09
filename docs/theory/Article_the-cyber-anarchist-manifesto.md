@@ -8,7 +8,6 @@ tags:
   - theory
 ---
 
-The Cyber-Anarchist Manifesto https://theanarchistlibrary.org/library/anarchist-federat...
             Anarchist Federation of Cyber
             Communes (AF2C)
             The Cyber-Anarchist Manifesto
@@ -45,8 +44,6 @@ The Cyber-Anarchist Manifesto https://theanarchistlibrary.org/library/anarchist-
                  love among the people; which is not an exclusive characteristic only
                  of self-declared anarchists, but inspires all people who have a
 ## generous heart and an open mind.
-
-1 of 4 10/4/25, 12:05 PM The Cyber-Anarchist Manifesto https://theanarchistlibrary.org/library/anarchist-federat...
 
             2.0 The Web
 
@@ -92,7 +89,7 @@ The Cyber-Anarchist Manifesto https://theanarchistlibrary.org/library/anarchist-
             federation is to pool these forces together, to share information, and be able
             to coordinate larger initiatives in an accessible and transparent manner.
               We like to imagine a giant solidarity network, and we hope to provide a
-2 of 4 10/4/25, 12:05 PM The Cyber-Anarchist Manifesto https://theanarchistlibrary.org/library/anarchist-federat...
+
             platform to make it happen.
               Concretely, this means that in addition to networking between individuals
             and existing organizations, we are working to provide a platform for emerging
@@ -138,7 +135,5 @@ The Cyber-Anarchist Manifesto https://theanarchistlibrary.org/library/anarchist-
 ## Join us.
 ## Together, we will be unstoppable.
 
-3 of 4 10/4/25, 12:05 PM The Cyber-Anarchist Manifesto https://theanarchistlibrary.org/library/anarchist-federat...
             Retrieved on December 20, 2024 from
             AF2C expects this text will be expanded on in the future.
-4 of 4 10/4/25, 12:05 PM

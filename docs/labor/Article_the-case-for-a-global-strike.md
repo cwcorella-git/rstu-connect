@@ -40,7 +40,6 @@ The Case for a Global Strike about:reader?url=https%3A%2F%2Fwww.threadings....
                 am in a permanent after. I kneel to pray and recall accounts of
 ## young Sudanese women messaging their local religious
 
-1 of 17 10/24/25, 12:13 AM The Case for a Global Strike about:reader?url=https%3A%2F%2Fwww.threadings....
                 leaders, asking if they will still be permitted into paradise if
                 they commit suicide to avoid rape from occupying soldiers. I
 ## am in a permanent after.
@@ -48,7 +47,6 @@ The Case for a Global Strike about:reader?url=https%3A%2F%2Fwww.threadings....
 ## Today is April 15, 2024. Tomorrow will not look like
 ## today.
 
-2 of 17 10/24/25, 12:13 AM The Case for a Global Strike about:reader?url=https%3A%2F%2Fwww.threadings....
                 Alt text: a screenshot from ismatu’s phone of Bisan from a TikTok
                 video. Bisan wears a black hoodie and her curly hair blows in the wind
                 behind her. The video is well circulated, having nearly 113,000 likes.
@@ -71,8 +69,6 @@ The Case for a Global Strike about:reader?url=https%3A%2F%2Fwww.threadings....
 ## resist. Sisters in the struggle. It’s never felt like an
                 understatement— I just feel it in my body now. Sisters (n.):
 ## someone who you most ardently for. Someone who you
-
-3 of 17 10/24/25, 12:13 AM The Case for a Global Strike about:reader?url=https%3A%2F%2Fwww.threadings....
 
 ## care for such that it compels you to action.
 
@@ -107,8 +103,6 @@ The Case for a Global Strike about:reader?url=https%3A%2F%2Fwww.threadings....
 ## manufactured. The hopelessness is manufactured. We see the
 ## insecurity of the nation-state everywhere. Never before has
 
-4 of 17 10/24/25, 12:13 AM The Case for a Global Strike about:reader?url=https%3A%2F%2Fwww.threadings....
-
 ## surveillance from the state been so totalitarian— even
                 (especially) through the device likely read this on. I also submit:
                 a conglomeration of ruling bodies who monitor their citizens
@@ -139,7 +133,7 @@ The Case for a Global Strike about:reader?url=https%3A%2F%2Fwww.threadings....
 ## Wilson Gilmore described the machine perfectly.
 
 ## “Racism, specifically, is the state-sanctioned or
-## extralegal production and exploitation of group5 of 17 10/24/25, 12:13 AM
+## extralegal production and exploitation of group
 
 The Case for a Global Strike about:reader?url=https%3A%2F%2Fwww.threadings....
 
@@ -160,7 +154,6 @@ The Case for a Global Strike about:reader?url=https%3A%2F%2Fwww.threadings....
                 Headline from Al Jazeera on October 18, 2023: Biden arrives in Tel
 ## Aviv, backs Israel’s narrative on Gaza hospital strike,
 
-6 of 17 10/24/25, 12:13 AM The Case for a Global Strike about:reader?url=https%3A%2F%2Fwww.threadings....
                 subheading, “US President Joe Biden gives Israel ‘the green light to act
                 as it sees fit’ amid the Gaza war that killed thousands.” Biden sits
 ## across from Netanyahu in linked video.
@@ -178,7 +171,6 @@ The Case for a Global Strike about:reader?url=https%3A%2F%2Fwww.threadings....
 ## own land, and the slow-bred, constant slaughter of African
 ## peoples as a vehicle to over-harvest lands across North and
                 South America, as well as across Europe. And they continue to
-7 of 17 10/24/25, 12:13 AM The Case for a Global Strike about:reader?url=https%3A%2F%2Fwww.threadings....
 
 ## expand.
 
@@ -212,7 +204,7 @@ The Case for a Global Strike about:reader?url=https%3A%2F%2Fwww.threadings....
                 superpower benefitting from violent civilian death is the United
                 Arab Emirates (who extract the gold from Sudan in deals with
                 the warring military groups while the people are slaughtered).
-8 of 17 10/24/25, 12:13 AM The Case for a Global Strike about:reader?url=https%3A%2F%2Fwww.threadings....
+
                 This is a war of attrition, designed to break the will of the
 ## people bit by bit, massacre by massacre until they force
                 consent to military rule. We had wars of similar depravity in the
@@ -243,7 +235,7 @@ The Case for a Global Strike about:reader?url=https%3A%2F%2Fwww.threadings....
                 technological infrastructure and the political landscape simply
                 didn’t align for that. Is this why we don’t care? I am also hyper
                 aware, as a Black American and as a Sierra Leonean, of how no
-9 of 17 10/24/25, 12:13 AM The Case for a Global Strike about:reader?url=https%3A%2F%2Fwww.threadings....
+
                 one blinks when Black people die. We were the original capital
                 under racial capitalism. There still is this sentiment, especially
 ## among the Western world, that suffering and dying is just…
@@ -267,7 +259,6 @@ The Case for a Global Strike about:reader?url=https%3A%2F%2Fwww.threadings....
 ## everyone is free.
 
                 (3) Fast. Train. Study. Fight.
-10 of 17 10/24/25, 12:13 AM The Case for a Global Strike about:reader?url=https%3A%2F%2Fwww.threadings....
 
 ## Only in a slaveocracy would the idea of freedom
 ## fighting and resistance seem mad.
@@ -278,8 +269,6 @@ The Case for a Global Strike about:reader?url=https%3A%2F%2Fwww.threadings....
 ## the sharpening of our minds, bodies, and communities in
 ## service of liberation. Black August was first commemorated
 ## with collective action in 1971 when George Jackson was
-
-11 of 17 10/24/25, 12:13 AM The Case for a Global Strike about:reader?url=https%3A%2F%2Fwww.threadings....
 
 ## assassinated by San Quentin prison guards in an attempt to
 ## quell the revolutionary spirit he stewarded within the
@@ -312,8 +301,6 @@ The Case for a Global Strike about:reader?url=https%3A%2F%2Fwww.threadings....
 ## Additionally, fasting during the inaugural Black August
                 included abstinence from radio and television. Last year, my
 ## first time fasting for Black August, I fasted from screens.
-
-12 of 17 10/24/25, 12:13 AM The Case for a Global Strike about:reader?url=https%3A%2F%2Fwww.threadings....
 
 ## Conscious divestment from the machine includes mind and
 ## body, not just dollars.
@@ -348,7 +335,6 @@ The Case for a Global Strike about:reader?url=https%3A%2F%2Fwww.threadings....
 
 ## Study the world that you cannot personally observe (and not
 
-13 of 17 10/24/25, 12:13 AM The Case for a Global Strike about:reader?url=https%3A%2F%2Fwww.threadings....
                 just the news that comes through your algorithm). Learn where
                 the stitches of the human tapestry are frayed. Note where they
 ## are being or have been burned intentionally. How do you
@@ -382,7 +368,7 @@ The Case for a Global Strike about:reader?url=https%3A%2F%2Fwww.threadings....
 
                 Also literally engaging in combat training is helpful (for legal
                 purposes I don’t condone violence :P).
-14 of 17 10/24/25, 12:13 AM The Case for a Global Strike about:reader?url=https%3A%2F%2Fwww.threadings....
+
                 (4) Revolution more about beginnings than
 ## endings.
 
@@ -415,7 +401,6 @@ The Case for a Global Strike about:reader?url=https%3A%2F%2Fwww.threadings....
 
                 I learn so much from studying the successes and failures of the
                 Burkina Faso revolution, lasting for four glorious years. Here’s
-15 of 17 10/24/25, 12:13 AM The Case for a Global Strike about:reader?url=https%3A%2F%2Fwww.threadings....
 
 ## what’s previously happened across colonized countries that
 ## managed to have revolutions, like clockwork.
@@ -449,8 +434,6 @@ The Case for a Global Strike about:reader?url=https%3A%2F%2Fwww.threadings....
 ## one another at this crucial stage— we must dream past the
 ## start of something and be thinking towards the day when we
 
-16 of 17 10/24/25, 12:13 AM The Case for a Global Strike about:reader?url=https%3A%2F%2Fwww.threadings....
-
 ## are inevitably successful— how will we keep those gains?
 
                 Past the fall of the empire— what are we fighting for? How do
@@ -477,5 +460,3 @@ The Case for a Global Strike about:reader?url=https%3A%2F%2Fwww.threadings....
 ## ABOUT THIS UNTIL PEOPLE IN MY PHYSICAL
 ## LIFE TOLD ME! USE THIS TEXT AND TALK
 ## ABOUT IT thank you have a good day.
-
-17 of 17 10/24/25, 12:13 AM

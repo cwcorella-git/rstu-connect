@@ -15,8 +15,6 @@ If two parties have some sort of dealings, then each has a memory of their inter
 
 Since we desire privacy, we must ensure that each party to a transaction have knowledge only of that which is directly necessary for that transaction. Since any information can be spoken of, we must ensure that we reveal as little as possible. In most cases personal identity is not salient. When I purchase a magazine at a store and hand cash to the clerk, there is no need to know who I am. When I ask my electronic mail provider to send and receive messages, my provider need not
 
-1 of 4 10/4/25, 1:15 PM
-
 know to whom I am speaking or what I am saying or what others are saying to me; my provider only need know how to get the message there and how much I owe them in fees. When my identity is revealed by the underlying mechanism of the transaction, I have no privacy. I cannot here selectively reveal myself; I must *always* reveal myself.
 
 Therefore, privacy in an open society requires anonymous transaction systems. Until now, cash has been the primary such system. An anonymous transaction system is not a secret transaction system. An anonymous system empowers individuals to reveal their identity when desired and only when desired; this is the essence of privacy.
@@ -28,8 +26,6 @@ We cannot expect governments, corporations, or other large, faceless organizatio
 We must defend our own privacy if we expect to have any. We must come together and create systems which allow anonymous transactions to take place. People have been defending their own privacy for centuries with whispers, darkness, envelopes, closed doors, secret handshakes, and couriers. The technologies of the past did not allow for strong privacy, but electronic technologies do.
 
 We the Cypherpunks are dedicated to building anonymous systems. We are defending our privacy with cryptography, with anonymous mail forwarding systems, with digital signatures, and with electronic money.
-
-2 of 4 10/4/25, 1:15 PM
 
 Cypherpunks write code. We know that someone has to write software to defend privacy, and since we can't get privacy unless we all do, we're going to write it. We publish our code so that our fellow Cypherpunks may practice and play with it. Our code is free for all to use, worldwide. We don't much care if you don't approve of the software we write. We know that software can't be destroyed and that a widely dispersed system can't be shut down.
 
@@ -47,8 +43,6 @@ The Cypherpunks are actively engaged in making the networks safer for privacy. L
 |         |
 |         |
 
-3 of 4 10/4/25, 1:15 PM
-
 [About](https://nakamotoinstitute.org/about/) [Contact](https://nakamotoinstitute.org/contact/) [Podcasts](https://nakamotoinstitute.org/podcasts/) [Feed](https://nakamotoinstitute.org/mempool/atom.xml) [Newsletter](https://news.nakamotoinstitute.org/) [Donate](https://pay.zaprite.com/pl_vNYDp4YBSd) [Get involved](https://nakamotoinstitute.org/get-involved/) [GitHub](https://github.com/NakamotoInstitute/nakamotoinstitute.org)
 
 [X](https://x.com/NakamotoInst) [Nostr](https://primal.net/sni)
@@ -58,5 +52,3 @@ The Cypherpunks are actively engaged in making the networks safer for privacy. L
 ## SATOSHI NAKAMOTO INSTITUTE ESTABLISHED BLOCK #272,311
 
 Satoshi Nakamoto Institute is licensed under a [Creative Commons Attribution-](http://creativecommons.org/licenses/by-sa/4.0/)[ShareAlike 4.0 International License.](http://creativecommons.org/licenses/by-sa/4.0/) Some works may be subject to other licenses.
-
-4 of 4 10/4/25, 1:15 PM

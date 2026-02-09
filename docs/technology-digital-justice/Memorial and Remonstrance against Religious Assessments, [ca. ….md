@@ -97,5 +97,3 @@ Government destitute of a legal Provision for the support of Religion" (Vi: Ms, 
 - 13. JM noted in the margin that this quotation was "Per Decl. Rights title." In fact it is a rather loose rendering of Mason's original introductory title.
 - 14. Originally JM wrote, "nay that they can abolish."
 - 15. Words within brackets are faded on the Ms and restored from the broadside text.
-
-## 22 of 22 10/19/25, 10:29 AM

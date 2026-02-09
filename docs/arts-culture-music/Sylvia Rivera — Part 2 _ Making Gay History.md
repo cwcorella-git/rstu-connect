@@ -300,6 +300,4 @@ Season three of this podcast is made possible with funding from the Ford Foundat
 
 So long! Until next time!
 
-###
-
 #### **Continue Reading**

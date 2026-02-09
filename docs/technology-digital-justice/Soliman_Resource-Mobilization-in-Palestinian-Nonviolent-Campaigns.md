@@ -116,12 +116,10 @@ C
 | Location of the RV Campaign | 46 |
 |--------------------------------------------------------------------------------|----|
 | Hardship and Repression of the Local Population | 47 |
-| Rebuilding Villages Campaign and Its Actions | 48 |
-| Chapter 3. Activists' Strategies for Determining the Kinds of Resources Needed | 51 |
+3. Activists' Strategies for Determining the Kinds of Resources Needed | 51 |
 | Identifying Clear Goals for the Campaign | 58 |
 | First-Hand Experience of Communal Life and Its Hardships | 58 |
-| Conducting Face-to-Face Meetings | 60 |
-| Chapter 4. How Material and Non-material Resources Were Acquired or Harnessed | 61 |
+4. How Material and Non-material Resources Were Acquired or Harnessed | 61 |
 | Non-material Resources: Social and Cultural Resources | 62 |
 | Family Relations and Communal Trust | 62 |
 | Semi-Bedouin Traditions | 64 |
@@ -136,8 +134,7 @@ C
 | Human and Organizational Resources | 78 |
 | Human Resources | 78 |
 | Volunteer Labor | 79 |
-| Building Materials and Equipment | 80 |
-| Chapter 5. Domestic and External Actors in the Nonviolent Campaigns | 82 |
+5. Domestic and External Actors in the Nonviolent Campaigns | 82 |
 | Domestic Palestinian Actors and Their Role in the Campaigns | 83 |
 | Community Residents and Their Power to Harness Resources | 83 |
 
@@ -200,8 +197,7 @@ Chapter 7. Managing Material and Non-material Resources |
 Organizing in Harmony with Cultural Norms and Traditions |
 |----------------------------------------------------------------------------------------------------------|
 | 118
-Coordinating with the PRNs in Managing Material and Non-material Resources |
-| Chapter 8. Protecting Material Resources from
+8. Protecting Material Resources from
 Israeli Authorities and the Military
 120 |
 | Chapter 9. The Impact of Material and Non-material Resources
@@ -243,9 +239,7 @@ of Resources in Nonviolent Campaigns
 ## | Acknowledgments
 153 |
 
-### Tables and Figures
-
-| TABLE 1. Material vs. Non-material Resources
+1. Material vs. Non-material Resources
 7 |
 |------------------------------------------------------------------------------------------------------------------|
 | TABLE 2. Categorization of Material Resources
@@ -288,8 +282,7 @@ Through Domestic or External Sources
 Through Domestic or External Sources
 62 |
 | 72
-TABLE 17. Examples of Projects Applied for by the PSCC |
-| TABLE 18. Types of Actors in the SHH Campaign
+18. Types of Actors in the SHH Campaign
 82 |
 
 | TABLE 19. Types of Actors in the JVS Campaign
@@ -320,8 +313,7 @@ of the Rebuilding Villages Campaign
 to Achieve Campaign Goals
 113 |
 | 126
-TABLE 29. Types, Examples, Sources, and Impacts of Resources |
-| TABLE 30. Interviewees, Coded for Condentiality
+30. Interviewees, Coded for Condentiality
 147 |
 | FIGURE 1. Interaction Among the Dierent Types of Material Resources
 10 |
@@ -332,8 +324,7 @@ TABLE 29. Types, Examples, Sources, and Impacts of Resources |
 | FIGURE 4. South Hebron Hills Area
 32 |
 | 39
-FIGURE 5. Map of the Jordan Valley. |
-| FIGURE 6. RV Campaign Geographical Locations
+6. RV Campaign Geographical Locations
 45 |
 | FIGURE 7. How Non-material Resources Harnessed Material Resources
 68 |
@@ -351,8 +342,7 @@ by the Rebuilding Villages Campaign and In-Kind Contributions (PSCC Oce)
 | FIGURE 11. The Roles of Campaign Members in the Nonviolent Campaigns
 86 |
 | 87
-FIGURE 12. SHH Committees and Their Relationships |
-| FIGURE 13. Relationships Between the SHH Committee and Other Local Actors
+13. Relationships Between the SHH Committee and Other Local Actors
 87 |
 
 ### **EXECUTIVE SUMMARY**
@@ -800,12 +790,7 @@ stay in their communities |
 | Small cameras and
 laptops | Portable | Domestic and
 External | Allow the documenting of actions
-and the writing of reports |
-| Mattresses and sleeping
-bags, winter covers | Light and easy to carry | External | Help activists stay warm and thus
-stay longer in the built villages |
-
-Table 8. Examples of Non-material Resources, Their Nature, Impact, and Actors Derived from Case Studies
+8. Examples of Non-material Resources, Their Nature, Impact, and Actors Derived from Case Studies
 
 | EXAMPLE OF
 NONMATERIAL
@@ -1497,9 +1482,7 @@ family relations | Local knowledge of the communities,
 semi-Bedouin traditions | Already available in the
 communities
 Ready to be harnessed
-by a campaign |
-
-Table 12. Dierent Actions, and Types and Nature of Resources in the JVS Campaign
+12. Dierent Actions, and Types and Nature of Resources in the JVS Campaign
 
 | | MATERIAL RESOURCES | | | | | | |
 |----------------------------------------------------------------------------|---------------------------------------------------------------------------------|----------------------------|-----------|-----------------------------------------------------------------------------------------------------------------------------------------|--|--|--|
@@ -1576,9 +1559,7 @@ the communities |
 relations | Semi-Bedouins traditions, local knowledge
 and know-how | Material and non-material
 resources available in the
-communities |
-
-Table 13. Dierent Actions, and Types and Nature of Resources in the RV Campaign
+13. Dierent Actions, and Types and Nature of Resources in the RV Campaign
 
 | STRATEGIES USED
 TO HELP SPECIFY | MATERIAL RESOURCES
@@ -1704,9 +1685,7 @@ Acquired with External Help | Building materials, money, plastic water
 pipelines, solar panels | Knowledge/skills related to
 documentation of nonviolent actions,
 capacity-building training, solidarity, lm
-production, writing press releases | | |
-
-Table 15. Types of Resources in the JVS Campaign Acquired Through Domestic or External Sources
+15. Types of Resources in the JVS Campaign Acquired Through Domestic or External Sources
 
 | | JVS CAMPAIGN RESOURCES | | | |
 |-----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|
@@ -1730,9 +1709,7 @@ school bus, plastic pipelines, and solar
 panels | Knowledge in documenting, nonviolent
 actions and acts of repression, capacity
 building training, solidarity, lm
-production, writing press releases | | |
-
-Table 16. Types of Resources in the RV Campaign Acquired Through Domestic or External Sources
+16. Types of Resources in the RV Campaign Acquired Through Domestic or External Sources
 
 | | RV CAMPAIGN RESOURCES | | | |
 |-----------------------------------------------------------------------------------|--------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|
@@ -2346,9 +2323,7 @@ and infrastructure equipment | | | | | |  |  |  |  |
 shared relevant experience
 to help activists develop
 more eective strategies for
-their nonviolent campaigns | | | |  | | | | | |
-
-Table 25. External Actors and Their Actions in Support of the Jordan Valley Solidarity Campaign
+25. External Actors and Their Actions in Support of the Jordan Valley Solidarity Campaign
 
 | EXTERNAL ACTORS'
 SUPPORTING ACTIONS | SCI | BRIGHTON
@@ -2396,9 +2371,7 @@ and monitor the situation |  |  | | | | | | |  |
 shared relevant experience
 to help activists develop
 more eective strategies for
-their nonviolent campaigns | | | |  | | | | | |
-
-Table 26. External Actors and Their Actions in Support of the Rebuilding Villages Campaign
+26. External Actors and Their Actions in Support of the Rebuilding Villages Campaign
 
 | EXTERNAL ACTORS'
 SUPPORT ACTIONS | ANARCHISTS

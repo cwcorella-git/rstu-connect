@@ -540,11 +540,9 @@ And he said, "Take them away and give them food." So we were taken and given foo
 "Yes." ('Wow,' I thought, 'that's pretty good. I never mentioned that to anybody'.)
 
 "She died last year."
-##
 "She got very big in the stomach before she died."
 
 ... Pause ... "Yes."
-##
 He leaned back and closed his eyes and said, "Spleen. She died of spleen."
 
 Well, what happened to me at that moment, I can't really put into words. He looked at me in a certain way at that moment, and two things happened—it seemed simultaneous. They do not seem like cause and effect.

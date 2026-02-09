@@ -8,7 +8,6 @@ tags:
   - organizing
 ---
 
-Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              Dean Spade
              Mutual Aid
              Building Solidarity During This Crisis
@@ -48,8 +47,6 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
 ## Signs of Diﬀiculty under Pressure
 ## Guidelines for Greater Wellness
 ## Bonus Activities That Help
-
-1 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
 
 ## Unhelpful/Untrue Thoughts
                Conclusion: Everything is at Stake and We’re Fighting to Win
@@ -97,7 +94,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              aid will determine whether we win the world we long for or dive further into
              crisis.
                 We can imagine what is possible when we come together in this way by
-2 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              examining the response of Hong Kong’s protest movement to COVID-19. In
              2019, a massive anti-government mobilization swept Hong Kong, with people
              opposing police and seeking greater control over their lives. By the time the
@@ -146,7 +143,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              nitty-gritty of how to work together in mutual aid groups and how to handle
              the challenges of group decision-making, conﬂict, and burnout. It includes
              charts and lists that can be brought to group meetings to stimulate
-3 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              conversation and build shared analysis and group practices. Ultimately, helps
              imagine how we can coordinate to collectively take care of ourselves—even in
              the face of disaster—and mobilize hundreds of millions of people to make
@@ -191,7 +188,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
 ## need.
 
               Mutual aid projects expose the reality that people do not have what they
-4 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              need and propose that we can address this injustice together. The most
              famous example in the United States is the Black Panther Party’s survival
              programs, which ran throughout the 1960s and 1970s, including a free
@@ -240,7 +237,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              that mutual aid is an unbroken tradition among Indigenous people across
              many cycles of colonialism, maintained through traditional teachings that
              contemporary Indigenous mutual aid projects are working to restore and
-5 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              amplify. Settlers have long worked to undermine Indigenous people’s selfsustaining practices by ﬁrst destroying food systems and then forcing
              dependency on rations given at forts and missions and, now, by settler
              nonproﬁts. Indigenous mutual aid eﬀorts are both a matter of survival and a
@@ -289,7 +286,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              would be invited to participate in organizing and become part of SRLP,
              working on changing the conditions that had brought them to the group. As
              people joined, things were often bumpy. Members may have had some things
-6 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              in common—being trans or gender-nonconforming, for example—but also
              diﬀered from one another in terms of race, immigration status, ability, HIV
              status, age, housing access, sexual orientation, language, and more. By
@@ -338,7 +335,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
 
                Mutual aid projects help people develop skills for collaboration,
              participation, and decision-making. For example, people engaged in a project
-7 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              to help one another through housing court proceedings will learn the details
              of how the system harms people and how to ﬁght it, but they will also learn
              about meeting facilitation, working across diﬀerences, retaining volunteers,
@@ -388,7 +385,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              pickup.” They were eventually allowed in, told to take whatever they needed.
              After being let in once, aid workers were able to return repeatedly. They made
              more badges for local organizers, and this source continued to beneﬁt local
-8 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              communities for months.
                MADR asserts that by taking bold actions together, “we can imagine new
              ways of interacting with the world.” When dominant ways of living have been
@@ -437,7 +434,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              deciding who gets the help, what the limits are to that help, and what strings
              are attached. You can be sure that help like that is not designed to get to the
              root causes of poverty and violence. It is designed to help improve the image
-9 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              of the elites who are funding it and put a tiny, inadequate Band-Aid on the
              massive social wound that their greed creates.
                The charity model we live with today has origins in Christian European
@@ -487,7 +484,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              organization to win a grant. To win, nonproﬁts want to make their work look
              legitimate to the funder, which means working according to the funder’s
              beliefs about the causes of and solutions for a particular problem rather than
-10 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              challenging those beliefs. For example, the funder may favor nonproﬁts that
              make sobriety a condition of receiving a spot in a homeless shelter, because
              rich people would rather believe that homelessness is caused by poor people’s
@@ -535,7 +532,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              nonproﬁts that purport to address poverty are mostly run by white elites. The
              idea promoted by nonproﬁts and universities is that people with advanced
              degrees are best suited to ﬁgure out the solutions to social problems. It
-11 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              mystiﬁes the causes of poverty, making it seem like some kind of mysterious
              math problem that only people with advanced degrees can ﬁgure out. But any
              poor person knows that poverty is caused by the greed of their bosses,
@@ -585,7 +582,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              and feeling more rage, fear, sadness, grief, and despair may be appropriate.
              Those feelings may help us be less appeased by false solutions, and stir us to
              pursue ongoing collective action for change.
-12 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
                 That doesn’t mean that mutual aid work never feels good. In fact, it is often
              deeply satisfying and connective, creating caring relationships, raucous
              celebrations, and an enduring sense of purpose. In my experience, it is more
@@ -633,7 +630,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              public transit, suspension of student loan payments, and more. While this
              relief has been far from universal or adequate, it has demonstrated that many
              of the things our movements have fought for are entirely possible.
-13 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
                Disasters are pivotal times in the competition between political programs,
              moments when much can be lost or won. Winning the world we want is far
              from guaranteed. Our opponents, those who currently control the most of the
@@ -682,7 +679,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              meeting needs than the government. At worst, mutual aid projects are
              portrayed as unlawful, dangerous, and criminal. As we saw with the police
              attacks on the Black Panther Party breakfast programs, or more recent Trump
-14 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              administration raids on the medical camps of No More Deaths (which oﬀers
              support to migrants at the southern US border), when mutual aid eﬀorts truly
              build and legitimize coordinated action and autonomy against existing
@@ -732,7 +729,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              Indigenous people get left out or get less. For example, the New Deal, which
              emerged to quiet the anti-capitalist rebellions brought on by the Great
              Depression and stabilize the capitalist system, was designed so that women
-15 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              and domestic and agricultural workers (disproportionately Black and Latinx)
              were excluded from the beneﬁts created. By tying many beneﬁts to work, the
              New Deal also perpetuated a status quo of grinding poverty for people with
@@ -782,7 +779,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              stimulate fantasies of a benevolent government as we face brutal government
              failure and wish that things were diﬀerent.
                 Part of the reason our dream of a savior government is so compelling is that
-16 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              it is hard for us to imagine a world where we meet core human needs through
              systems that are based on principles of collective self-determination rather
              than coercion. We are accustomed to a situation where the choice is between
@@ -832,7 +829,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              sharing practices and resources with other groups building and maintaining
              local grids. Governance and innovation remain local, but knowledge, support,
              and solidarity are networked and shared.
-17 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
                To imagine a society where we share everything, co-govern everything, have
              everything we need and don’t rely on coercion and domination, we have to
              shed the capitalist propaganda that tells us people are naturally greedy, and
@@ -878,7 +875,6 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
 
              4. Some dangers and pitfalls of mutual aid.
 
-18 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
                Even while they explicitly work to reject the charity model, mutual aid
              projects can slip into some of the well-worn grooves of that model if we don’t
              root deeply in our principles and practice careful discernment. Mutual aid
@@ -925,7 +921,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              Almost immediately, stories broke about how giant corporations like Shake
              Shack and Potbelly received millions while small businesses owned by people
              of color received the least. Among individual workers, those with the most
-19 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              precarious jobs were cut out of unemployment beneﬁts and the stimulus
              checks that were supposed to provide relief. Undocumented people were
              ineligible for relief. Disaster relief and poor relief are designed to uphold and
@@ -972,7 +968,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              public health infrastructure. After storms, ﬂoods, and ﬁres, there is often this
              kind of push to “rebuild” in ways that center the plans and dreams of elites
              and do real harm to the populations who have lost the most.
-20 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
                Paternalism is also visible in programs within welfare and criminal
              punishment systems that force criminalized people and people seeking
              welfare beneﬁts to take parenting classes, budgeting classes, and anger
@@ -1019,7 +1015,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              complementary to privatization. In the wake of Hurricane Harvey in 2017,
              corporate media news stories of boat owners volunteering to make rescues
              followed this script, neither criticizing government failures to rescue people
-21 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              nor interrogating the cause of worsening hurricanes and whom they most
              endangered. That is, the media stories of individual heroes hid the social and
              political conditions producing the crisis. Politicians and CEOs, who fantasize
@@ -1068,7 +1064,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              Meanwhile, the private ﬁreﬁghting business is growing, with wealthy
              homeowners paying for private ﬁre services to come seal their homes, spray
              ﬁre retardants on the premises, and put owners in ﬁve-star hotels while less
-22 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              aﬄuent people watch their homes burn, struggle in shelters, and ﬁght FEMA
              for basic beneﬁts. Fire proﬁteers aim to create a context in which only those
              who can pay get help or protection in the case of a ﬁre, which means ﬁres will
@@ -1117,7 +1113,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
                Notably, these co-optive approaches also failed to reduce gender-based
              violence. Research has shown that pro-criminalization policy reforms that
              became popular in this period, like mandatory arrest laws requiring police to
-23 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              make arrests during domestic violence calls, resulted in the arrests of abuse
              survivors, especially if they were queer, trans, disabled, or people of color.
              This is a sobering story of how co-optation can undermine our eﬀorts to meet
@@ -1166,7 +1162,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              focused on providing support after something happens. Both are mutual aid
              approaches, since they address immediate survival needs with a recognition
              that the systems that are supposed to guarantee safety—the cops,
-24 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              prosecutors, and courts—fail to do so and actually make things worse. These
              mutual aid projects work to build a new world, where people create safety
              through community building and support each other to stop harmful behavior
@@ -1214,7 +1210,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
 
                While there is no single correct model for a mutual aid group, being aware
              of general tendencies that distinguish mutual aid from other projects can help
-25 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              groups make thoughtful decisions and maintain their integrity and
              eﬀectiveness. To help us think through where things can get slippery, the
              chart below tracks characteristics within mutual aid groups against those of
@@ -1260,7 +1256,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              weren’t professionally trained to do, mainstream culture (e.g., lawyers
              rotating facilitation roles, language are more valuable and important
              access than non-lawyers)
-26 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              Values self-determination for people Oﬀers “help” to the
              impacted or targeted by harmful social “underprivileged,” absent of an
              conditions awareness or strategy for
@@ -1307,7 +1303,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              be strong and sustainable. It makes sense that we are not good at creating
              emancipatory group structures. Most of us have never been in groups that
              had fair, participatory, transparent structures. We’ve been working at jobs
-27 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              where bosses tell us what to do, or been in schools, families, state institutions,
              or churches where strong hierarchies rule and most people get no say in how
              things will go. We do not have much practice imagining or being in groups
@@ -1356,7 +1352,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
 ## opportunities, or money distributed to many people
              Vague Individuals make decisions Clear decision-making
              decision- without consulting others; processes that everyone is
-28 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              making Some decisions don’t get trained in and that includes
              process made in time; Conﬂict over all members
 ## decisions
@@ -1405,7 +1401,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              we do our work from a feeling that there is not enough money, time, or
              attention to go around, we sometimes get competitive with other groups or
              with other people within our group, or we feel so much urgency about
-29 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              particular tasks that we don’t take the necessary steps to do our task well,
              and we forget about being kind to each other in our rush to get something
              done. This can lead to conﬂict or making mistakes that harm our
@@ -1454,7 +1450,6 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
                              others doing Blame group and the group’s
                              related work between with other collective
                              for attention members groups doing wisdom and
-30 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
 
 ## or about who related work; abilities;
 ## resources; cares most or Beneﬁts the Staying in it
@@ -1502,7 +1497,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              currently like. And even if there has only been one conversation so far about
              starting a project, the norms that the people in that conversation may be
              likely to bring to the group’s emerging culture will already be noticeable. This
-31 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              chart can be used to talk about strengths and weaknesses participants have
              experienced before in other groups, including families, jobs, schools, and
              congregations, and what they want to emulate or avoid reproducing in this
@@ -1548,7 +1543,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              do wrong. How do we hold our values of ﬂexibility, compassion, and justice
              while building a culture where we show up and do what we said we would?
              These tensions are real. If we do not talk about them together, we run the risk
-32 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              of falling into automatic behaviors, driving out new people, and falling apart.
              Creating a group culture intentionally, and having a shared vision about how
              we want it to be does not mean we all need to be just like each other. We can
@@ -1595,7 +1590,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              us avoid the worst costs of hierarchies and majority rule, which can include
              abuse of power, demobilization of most people, and ineﬀiciency. Consensus
              decision-making gives us the best chance to hear from everyone concerned,
-33 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              address power dynamics, and make decisions that represent the best wisdom
              of the group and that people in the group will want to implement.
              What Is Consensus Decision-Making?
@@ -1642,7 +1637,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              passed without modiﬁcation. If there are blocks, it means the proposal needs
              more work. The person or people blocking can share their concerns, and the
              group can either work further on modifying the proposal then and there, or
-34 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              have some people work on it and come up with a way forward before the next
              meeting. If no one blocks, but many people stand aside, the group may decide
              to discuss the reasons for the stand asides for a bit longer and see if they can
@@ -1666,7 +1661,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              For consensus to work well, people need a common purpose; some degree of
              trust in each other; an understanding of the consensus process; a willingness
              to put the best interests of the group at the center (which does not mean
-35 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              people let themselves be harmed “for the good of the group,” but may mean
              being okay not always getting their way); a willingness to spend time
              preparing and discussing proposals; and skillful facilitation and agenda
@@ -1713,7 +1708,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              maybe stuﬀ envelopes, phonebank, or hand something out at a parade or
              event. Volunteers’ relationships to those groups are usually thin—they don’t
              have much inﬂuence in the group, and while they may get some satisfaction
-36 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              from feeling like they helped, they are not doing the core of the work.
                 Mutual aid groups, on the other hand, give people a way to build a deep
              relationship to the work and to feel the power of doing important, bold
@@ -1762,7 +1757,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              not just going along with what charismatic or authoritative people say. In our
              culture, we get a lot of practice either going along with bossy people or trying
              to be the boss. It’s time to learn something diﬀerent.
-37 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              Making Consensus Decision-Making Eﬀicient and
              Eﬀective
               Here are ﬁve practices that set up eﬀicient, eﬀective consensus decisionmaking:
@@ -1810,7 +1805,6 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              manage its part of the whole.
 ## 2. Creating a decision-making chart
 
-38 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
                A great way to prevent conﬂict and gain the eﬀiciency and productivity that
              task-speciﬁc teams can provide is to have a decision-making chart that lets
              people know which decisions can happen in teams and which are whole-group
@@ -1862,7 +1856,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              fast-paced decisions, such as responding to media requests or a coalition
              request to sign on to a letter or event that needs an immediate response.
              Having a team or subgroup that is authorized by the group to do a quick
-39 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              turnaround in these situations can help groups stay responsive while being
              grounded in a clear process. A quick-response group that has two or three
              people who are well-versed in the group’s principles can tell if something is
@@ -1914,7 +1908,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              our callers are undocumented and criminalized, and that we need it to be
              useable by people with a broad range of computer experience, we might ask
              some group members to research existing options and come back with a
-40 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              proposal that we can discuss. They will present what they learned, tell us the
              pros and cons of various approaches, and propose what they think is the best
              solution. Now the next conversation we have can be based on good, wellresearched information.
@@ -1965,7 +1959,6 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              are they?”
 ## 4. Practicing Meeting Facilitation
 
-41 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
                How well or poorly we facilitate meetings will make or break our groups.
              Skillful facilitation helps us make decisions together, feel heard and included
              by each other, prevent and resolve conﬂict, celebrate our accomplishments
@@ -2016,8 +2009,6 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
                   meeting and make sure newcomers understand them and get to ask
 ## questions or suggest additions.
 
-42 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
-
                 - When talking about something important, if time allows, consider a goround so that the group hears from everyone. This is especially important
                   if the same people are usually talking and others are usually quiet.
                One way to establish some group norms about facilitation is to have an
@@ -2051,7 +2042,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              take bold collective action together. We will never have as much money and
              weapons as our opponents. All we have is people power. We need to support
              people who have not been part of social movement work to join social
-43 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              movements. They need to feel like they can become part of a response to
              conditions that they ﬁnd intolerable.
                Mutual aid is the best onramp for getting people involved in transformative
@@ -2102,7 +2093,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              engaged. When we greet new people with exhaustion and resentment, we
              rarely succeed in making participation in our group irresistible. Making our
              meetings welcoming, fun, warm, and energizing; making space for people to
-44 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              feel their rage and grief about the issues we are organizing around; and
              cultivating care and connection with one another strengthen the group and
              make the work more sustainable, in addition to supporting the well-being of
@@ -2148,7 +2139,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              media or elites justice?
              Fosters competition in the Fosters compassion and a desire that no one
              group is left out of the group
-45 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              Suspicious of new people Generous and open to newcomers while
 ## holding clear principles and boundaries
              Impulsive—plans change with Holds steady to the groups’ decisions and
@@ -2193,7 +2184,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
                3. Circle qualities you see in yourself that are obstacles to you practicing
              cooperative leadership or that don’t ﬁt your values. Where did you learn those
              qualities? How have they served you? How have they gotten in the way of
-46 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              what you want or believe in? What helps you move toward acting in greater
              alignment with your values?
                4. Notice qualities that are prevalent in groups you are in. What could help
@@ -2238,7 +2229,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              groups. Because of this, it can be very useful for groups to consider whether
              this is something they want to do. Some groups can do their work without
              raising money at all. Some groups can do their work just raising money
-47 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              through grassroots fundraising in their communities, taking small donations
              from many people. That kind of fundraising can avoid the problem with grantmaking foundations attaching strings to grant money and trying to control the
              direction of the work. Grassroots fundraising can help build a sense that the
@@ -2286,7 +2277,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
                Another pitfall of hiring paid staﬀ is that when groups become staﬀed,
              unpaid volunteers in the group sometimes expect that staﬀ person or few staﬀ
              people to suddenly do all the work, and volunteers sometimes check out
-48 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              (especially if they felt overworked before the group started paying staﬀ). This
              can make the group vulnerable to a loss of capacity, to becoming governed by
              just a few staﬀers, and to burnout and overwork of those staﬀers. It can also
@@ -2332,7 +2323,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              can activate old wounds and survival responses. We come to the work to heal
              ourselves and the world, but we often do the work in ways that further harm
              ourselves and impede our contribution to the resistance. When our groups are
-49 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              focused on getting important things done “out there,” there is rarely room to
              process our strong feelings or admit that we do not know how to navigate our
              roles “in here.”
@@ -2383,8 +2374,6 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
                   the same level of leadership (this behavior is usually rationalized in some
 ## way).
 
-50 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
-
                - A life-and-death feeling that “it must be done the way I do it.” An
                  extreme version of this can result in leaders sabotaging the group or
                  project rather than recognizing that it may be time to step back and take
@@ -2434,7 +2423,6 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              individuals or groups create concrete steps to address the problems.
                1. Make internal problems a top priority. The group cannot do its important
 
-51 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              work if it is falling apart inside, and it cannot do its work well if it is promising
              to do work it does not have the capacity to do. The internal concerns cannot
              wait until later, because the giant need the group exists to ﬁll is probably not
@@ -2486,7 +2474,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              sure they are aware of how much they are working? Assess the workload and
              scale back projects until the workload is under control. Create a moratorium
              on new projects until capacity expands. Enforce the moratorium—no one can
-52 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              unilaterally take on new work for the group or for themselves as a member of
              the group.
                4. Build a culture of connection. How can the group’s meeting culture foster
@@ -2532,7 +2520,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
                   ask for honest feedback about my behavior, and who can help support me
                   and soothe me when I feel afraid of doing something in a new way. For
                   example, these people might remind me that even though someone else
-53 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
               in the project will do this task diﬀerently, it is better to let them do it so
               they can build their own skills and I can use the time for something
               healing that has been missing from my life. These people might help
@@ -2583,7 +2571,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
                Whatever it is, I have to engage in a gentle way and be careful that it
                does not become another thing to perfect or to try to be the leader of.
                Pursuing a healing path can be a way to practice doing things because
-54 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
                  they feel good rather than because they accomplish something.
 
                 - I need to stick around. It may be tempting to disappear altogether from a
@@ -2631,7 +2619,6 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
 
                 - Sometimes we are so used to feeling excluded that we tune into that
                   familiar feeling quickly and easily, unconsciously looking for evidence
-55 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
 
 ## that we are diﬀerent or are being slighted or left out.
 
@@ -2683,7 +2670,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              feelings, notice them, and decide how to move forward, rather than having
              the feelings drive our behavior.
                 For example, imagine my feelings got hurt by a person in my mutual aid
-56 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              group who did not follow through on something. If I then launched an
              informal campaign to get other people in the group to perceive my ﬂaky
              collaborator as a person lacking integrity, and to get them pushed out of the
@@ -2728,7 +2715,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
                  that relate to my family of origin or other formative groups?
              Use Direct Communication before Using Gossip and
              Social Media
-57 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
                Sometimes the ﬁrst impulse we have when we are hurt is to make our hurt
              known—through negative gossip or on social media platforms. Negative
              gossip and accusatory posts can hurt the person doing the gossiping, the
@@ -2778,7 +2765,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              these moves cause damage and distort the truth, which is that we are all
              navigating diﬀicult conditions the best we can, and we all have a lot to learn
              and unlearn. If we want to build a diﬀerent way of being together in groups,
-58 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              we have to look closely at the feelings and behaviors that generate the desire
              to throw people away. Humility, compassion for ourselves, and compassion for
              others are antidotes to disposability culture. Examining where we project on
@@ -2823,7 +2810,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              Tightly scheduled Room for the unexpected
              Arrogant and superior Humble and digniﬁed
              Adding more work No adding without subtracting
-59 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              Unable to estimate time Realistic time allotment
              Non-stop Pausing for change of pace, focus, new
 ## ideas
@@ -2864,7 +2851,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              Can’t hear body signals Knows when to rest
              Neglecting rest of life Balanced life
              Worry, overplanning Staying in the now
-60 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              Perfectionism
                Perfectionism is an insidious and harmful force in our mutual aid groups
              and in our own psyches. “I’m not a perfectionist, everything I do is so
@@ -2914,8 +2901,6 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
 
                      ◦ If I put myself out there, then others will think badly of me, I should
 ## keep quiet.
-
-61 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
 
              - All-or-Nothing Thinking
 
@@ -2971,8 +2956,6 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
                  ◦ I feel dread and a sense of avoidance about my task because of my
 ## fear of failure, exposure, humiliation.
 
-62 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
-
 ## ◦ I feel deadened by overwhelming shame or grief that I am
 ## suppressing.
 
@@ -3019,7 +3002,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              Project, and you can ﬁnd more information in the resource list at the end of
              this book.)
              Signs of Diﬀiculty under Pressure
-63 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              Some areas to think about when making this section might include:
 
               - Overly self-critical thoughts (about your contributions to the group, your
@@ -3072,7 +3055,6 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
               - Any other compulsive behavior that, in your experience, suggests
 ## imbalance.
 
-64 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              Guidelines for Greater Wellness
                In this section, try to set realistic expectations, not piein-the-sky guidelines
              that will cause shame or feelings of inadequacy if they are not met. You can
@@ -3122,8 +3104,6 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              good, things that are lovely extras to improve your state of being.
 
 ## • Kinds of movement or exercise that are fun and feel good.
-
-65 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
 
 ## • Cooking adventures.
 
@@ -3175,8 +3155,6 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
 ## ◦ I have lost everything.
 
 ## ◦ I ruined everything.
-
-66 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
 
 ## ◦ Nothing every works out for me/us.
 
@@ -3230,7 +3208,6 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
 
                 - I cannot read minds. If I think someone does not like me, ignored me, or
                   was mean to me, it may be a misinterpretation of their behavior.
-67 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
 
                 - I don’t have to like everyone in this group to care about them all. I can
                   stretch myself to be kind and caring to people even if we have diﬀerent
@@ -3279,7 +3256,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              had been mobilizing during the ﬁrst months of the pandemic became vectors
              of participation in the growing protests. Millions of people participated in new
              ways in this moment—providing food, masks, hand sanitizer, water, medical
-68 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              support, and protection to each other while ﬁghting cops and white
              supremacists in the streets, organizing and supporting funds for criminalized
              people, pressuring schools and other institutions to cancel contracts with the
@@ -3328,7 +3305,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              gas and rubber bullet injuries make street battles with police for days on end
              possible. Healing justice projects and conﬂict mediation projects help us live
              together in police-free zones. Mutual aid is essential to all of our resistance
-69 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              work.
                 Moments of crisis and transformative organizing empower increasingly bold
              actions of mutual support. On June 1, 2020, Washington, DC, police
@@ -3378,7 +3355,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              that are based in our principles of liberation and collective self-determination.
              We must imagine and build ways of eating, communicating, sheltering,
              moving, healing, and caring for each other that are not proﬁt-centered,
-70 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              hierarchical, and destructive to our planet. We must practice co-governing,
              creating participatory, consent-based ways of cooperating that are not based
              in militarism.
@@ -3415,7 +3392,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              Creative Interventions Toolkit. creative-interventions.org.
              Critical Resistance. “Oakland Power Projects.” criticalresistance.org.
              Davis, Angela Y. Are Prisons Obsolete? New York: Seven Stories, 2003.
-71 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              Dixon, Ejeris, and Leah Lakshmi Piepzna-Samarasinha. Beyond Survival:
                Strategies and Stories from the Transformative Justice Movement. Chico,
                CA: AK Press 2019.
@@ -3453,7 +3430,7 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
               to the Rise of Black Power. New York: Vintage, 2011.
              Movement Generation Justice and Ecology Project. “From Banks and Tanks to
               Cooperation and Caring: A Strategic Framework for a Just Transition.”
-72 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
               November 2016. movementgeneration.org.
              Mutual Aid Disaster Relief. mutualaiddisasterrelief.org.
              Mutual Aid Hub. mutualaidhub.org.
@@ -3490,6 +3467,5 @@ Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
 ## Atlantic, May 12, 2020. theatlantic.com.
 
              Walia, Harsha. Undoing Border Imperialism. Chico, CA: AK Press, 2013.
-73 of 74 10/19/25, 11:28 AM Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
+
              https://1lib.us/book/6119675/99b812
-74 of 74 10/19/25, 11:28 AM

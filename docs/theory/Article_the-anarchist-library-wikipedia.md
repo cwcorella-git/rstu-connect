@@ -47,7 +47,7 @@ The Anarchist Library - Wikipedia https://en.wikipedia.org/wiki/The_Anarchist_Li
          It aims to serve as a gathering place for anarchist publications or those related to anarchism in English, and to
          enable the establishment of archival work for anarchist textual resources.[9] The library's collections focus
          particularly on contemporary anarchism, and almost all of the texts are in English.[10] The collection is built
-1 of 3 10/4/25, 12:06 PM The Anarchist Library - Wikipedia https://en.wikipedia.org/wiki/The_Anarchist_Library
+
          by free and open subscription from the editors.[10]
          Legacy
          Inﬂuence(s)
@@ -84,7 +84,6 @@ The Anarchist Library - Wikipedia https://en.wikipedia.org/wiki/The_Anarchist_Li
             5.nostate.net/2018/07/02/anarchistlibraries-net/). 325.nostate.net. Archived from
             the original (https://325.nostate.net/2018/07/02/anarchistlibraries-net/) on
             2018-07-03. Retrieved 2025-07-06.
-2 of 3 10/4/25, 12:06 PM The Anarchist Library - Wikipedia https://en.wikipedia.org/wiki/The_Anarchist_Library
 
           7. Malenfant, Jayne (2018). "Anarchist Youth in Rural Canada: Technology, Resistance,
              and the Navigation of Space" (https://muse.jhu.edu/pub/130/article/714698).
@@ -120,4 +119,3 @@ The Anarchist Library - Wikipedia https://en.wikipedia.org/wiki/The_Anarchist_Li
             g/ﬁles/Ruth_Kinna_The_Continuum_Companion_to_Anarchism.pdf) (PDF),
             Bloomsbury Academic, ISBN 978-1-4411-7212-9
          Retrieved from "https://en.wikipedia.org/w/index.php?title=The_Anarchist_Library&oldid=1312427176"
-3 of 3 10/4/25, 12:06 PM

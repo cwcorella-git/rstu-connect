@@ -37,7 +37,7 @@ The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=ht
                  earnestness there is in me . ..," the President urged, "I ask that
 ## there be an immediate resumption of operations in the coal
                  mines in some such way as will . . . meet the crying needs of
-1 of 25 9/7/25, 11:57 AM The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=https%3A%2F%2Fwww.dol.gov%2Fg...
+
                  the people." He appealed to the patriotism of the contestants
 ## to make "individual sacrifices for the general good."2
 
@@ -69,7 +69,6 @@ The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=ht
 ## warfare in the coalfields in 1900 and 1902.7
 
                  The groundwork for the 1900 anthracite coal strike was laid by
-2 of 25 9/7/25, 11:57 AM The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=https%3A%2F%2Fwww.dol.gov%2Fg...
 
 ## the unexpected results of strikes in the bituminous or soft
 ## coalfields in 1897. A depression in 1893 forced down wages
@@ -103,7 +102,6 @@ The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=ht
 ## reduce competition.
 
                  Mitchell underestimated the opposition of the mine operators,
-3 of 25 9/7/25, 11:57 AM The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=https%3A%2F%2Fwww.dol.gov%2Fg...
 
 ## and the operators underestimated the militancy of their
 ## workers. In August 1900, the union drew up demands and
@@ -137,7 +135,6 @@ The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=ht
                  Hanna had warned him that the coal strike could seriously hurt
 ## their party at the polls.12
 
-4 of 25 9/7/25, 11:57 AM The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=https%3A%2F%2Fwww.dol.gov%2Fg...
                  Under political pressure, coal operators posted a pay increase
                  and agreed to a grievance procedure but refused to recognize
                  the union. John Mitchell, though boasting that the workers were
@@ -171,7 +168,6 @@ The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=ht
                  many coal operators when he replied, "Anthracite mining is a
 ## business, and not a religious, sentimental, or academic
 
-5 of 25 9/7/25, 11:57 AM The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=https%3A%2F%2Fwww.dol.gov%2Fg...
                  proposition.... I could not if I would delegate this business
                  management to even so highly a respectable body as the Civic
                  Federation, nor can I call to my aid . . . the eminent prelates you
@@ -205,8 +201,6 @@ The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=ht
 ## where he interviewed presidents of coal roads, independent
 ## mine operators, financiers, mine foremen, and
 
-6 of 25 9/7/25, 11:57 AM The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=https%3A%2F%2Fwww.dol.gov%2Fg...
-
 ## superintendents. He also heard the miners' side from John
 ## Mitchell, whom he summoned to New York. Wright worked
                  assiduously, and within 12 days, he sent by special courier to
@@ -238,7 +232,7 @@ The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=ht
                  Roosevelt sent the report to Attorney General Philander Knox
                  with the comment, "This is an important report by Carroll D.
                  Wright. Will you read it over and then at cabinet we can discuss
-7 of 25 9/7/25, 11:57 AM The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=https%3A%2F%2Fwww.dol.gov%2Fg...
+
                  whether it shall be made public. I like its tone greatly . . . ." But
 ## after discussion Roosevelt questioned whether publication
 ## might be construed as Presidential approval of Wright's
@@ -271,7 +265,7 @@ The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=ht
                  interests of the country." Union supporters brilliantly exploited
                  this "divine right" letter of "George the Last'' and public opinion
                  turned against the operators.24 Perhaps for the first time in
-8 of 25 9/7/25, 11:57 AM The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=https%3A%2F%2Fwww.dol.gov%2Fg...
+
                  American history, a distinguished scholar wrote, a union tied
 ## up a basic industry "without being condemned as a
 ## revolutionary menace."25
@@ -304,7 +298,7 @@ The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=ht
 ## For Mitchell, the calling of the conference implied union
                  recognition. Breathing the sweet smell of success, he was at
                  his conciliatory best. Mitchell, Roosevelt wrote, "behaved with
-9 of 25 9/7/25, 11:57 AM The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=https%3A%2F%2Fwww.dol.gov%2Fg...
+
                  great dignity and moderation. The operators, on the contrary,
 ## showed extraordinary stupidity and bad temper."31 The
                  operators were "insolent" to the President, and they savagely
@@ -337,8 +331,6 @@ The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=ht
 ## to make good their promise to mine enough coal to meet
 ## public needs.36
 
-10 of 25 9/7/25, 11:57 AM The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=https%3A%2F%2Fwww.dol.gov%2Fg...
-
 ## Although Roosevelt blamed the operators for spurning
                  mediation, he again appealed to the strikers. On October 6, he
 ## asked Wright to propose to John Mitchell that if the miners
@@ -370,7 +362,6 @@ The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=ht
 ## Roosevelt then searched for other prominent men to add to
 ## Wright's commission .40
 
-11 of 25 9/7/25, 11:57 AM The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=https%3A%2F%2Fwww.dol.gov%2Fg...
                  President Roosevelt also was ready as a last resort to order the
 ## U.S. Army to take over the coalfields. He would do whatever
                  was necessary to prevent interference with the resumption of
@@ -404,8 +395,6 @@ The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=ht
 ## Morgan asked Root to come to New York. On October 11, 1902,
 ## the two men met for 5 hours on Morgan's yacht, the Corsair,
 
-12 of 25 9/7/25, 11:57 AM The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=https%3A%2F%2Fwww.dol.gov%2Fg...
-
 ## allegedly because newspaper reporters could not bother them
 ## there. They drafted an arbitration proposal. The mine
                  operators, fearful of rising public hostility and under pressure
@@ -438,7 +427,7 @@ The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=ht
                  Roosevelt wrote to political satirist Finley Peter Dunne. "If you
 ## or anyone else produced it and ascribed it to a fictitious
                  character all people would unite in saying it was too gross a
-13 of 25 9/7/25, 11:57 AM The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=https%3A%2F%2Fwww.dol.gov%2Fg...
+
                  caricature to possess literary value."45 Although the operators'
                  representatives feared class warfare, they refused to accept a
 ## labor man on the commission. Finally, Roosevelt recounted,
@@ -470,7 +459,6 @@ The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=ht
                  that all disputed issues should be submitted to arbitration.
 ## Both sides also agreed to abide by the findings of the
                  commission. "The child is born," wrote Carroll Wright, "and I
-14 of 25 9/7/25, 11:57 AM The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=https%3A%2F%2Fwww.dol.gov%2Fg...
 
 ## trust will prove a vigorous ... member of society."48
 
@@ -505,8 +493,6 @@ The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=ht
 ## employees of anthracite mines. He repeatedly reminded these
 ## agents of the "extreme and urgent need" for data, and when
 
-15 of 25 9/7/25, 11:57 AM The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=https%3A%2F%2Fwww.dol.gov%2Fg...
-
 ## they ran into language barriers, he authorized them to hire
 ## interpreters.50
 
@@ -539,8 +525,6 @@ The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=ht
                  the award" was the creation of a six-man arbitration board to
                  settle disputes that could not be worked out with mine officials.
 ## The employees selected three members and the employers
-
-16 of 25 9/7/25, 11:57 AM The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=https%3A%2F%2Fwww.dol.gov%2Fg...
 
 ## three members.
 
@@ -575,7 +559,6 @@ The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=ht
                  role of the Federal Government in important national strikes.
                  The Anthracite Coal Commission, toward the end of its report,
                  summarized in a cautious way the responsibility of the National
-17 of 25 9/7/25, 11:57 AM The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=https%3A%2F%2Fwww.dol.gov%2Fg...
 
 ## Government in "cases where great public interests are at
                  stake." The people had "the right . . . to know the facts, and so
@@ -609,7 +592,7 @@ The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=ht
                  important in the long run, a new role was established for the
 ## Federal Government in labor disputes. During the dramatic
                  confrontation with the mine operators and workers on October
-18 of 25 9/7/25, 11:57 AM The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=https%3A%2F%2Fwww.dol.gov%2Fg...
+
                  3, 1902, Roosevelt had said, " I speak for neither the operators
                  nor the miners but for the general public." He made labor and
                  industry accept the fact "that the third party, the great public,
@@ -646,8 +629,6 @@ The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=ht
                  6. Philip Taft, Organized Labor in American History (New York,
 ## Harper & Row, 1959), pp. 152-58.
 
-19 of 25 9/7/25, 11:57 AM The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=https%3A%2F%2Fwww.dol.gov%2Fg...
-
 ## 7. John Lombardi, Labor's Voice in the Cabinet (New York,
 ## Columbia University Press, 1942), p. 47; "Report of the
 ## Anthracite Coal Strike Commission," Bulletin of the
@@ -682,8 +663,6 @@ The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=ht
                  (November 1902), p. 1204.
 
 ## 13. Weibe, "Anthracite Coal Strike," pp. 234-37; Mitchell,
-
-20 of 25 9/7/25, 11:57 AM The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=https%3A%2F%2Fwww.dol.gov%2Fg...
 
 ## Organized Labor, pp. 366-67; Herbert Croly, Marcus Alonzo
 ## Hanna (New York, The Macmillan Co., 1919), p. 328; Elsie
@@ -721,7 +700,7 @@ The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=ht
                  22. Unidentified page preceding letter, Wright to Roosevelt,
                  June 20, 1902, TRP; Letter, Roosevelt to Nelson W. Aldrich, Aug.
                  26, 1902, Roosevelt Letters, Vol. III, p. 323; Wright to C. M.
-21 of 25 9/7/25, 11:57 AM The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=https%3A%2F%2Fwww.dol.gov%2Fg...
+
                  Walker, Sept. 15, 1902, NARG 257; "Report to the President."
 
 ## 23. Letter, Roosevelt to Crane, Oct. 22, 1902, Roosevelt
@@ -760,7 +739,6 @@ The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=ht
 
                  35. Letter, Roosevelt to Bacon, Oct. 5, 1902, Roosevelt Letters,
                  Vol. III, p. 341; Letter, Roosevelt to Seth Low (Mayor of New York
-22 of 25 9/7/25, 11:57 AM The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=https%3A%2F%2Fwww.dol.gov%2Fg...
 
 ## City), Oct. 4, 1902, TRP.
 
@@ -799,7 +777,6 @@ The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=ht
 
                  44. Taft, Organized Labor, pp. 179-80; Glueck, Mitchell, p. 1 30;
 
-23 of 25 9/7/25, 11:57 AM The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=https%3A%2F%2Fwww.dol.gov%2Fg...
                  Letter, Roosevelt to Bacon, Oct. 22, 1902, Roosevelt Letters,
 ## Vol. III, pp. 363-65.
 
@@ -836,8 +813,6 @@ The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=ht
                  53. Mitchell, Organized Labor, p. 394; Glueck, Mitchell, p. 154;
 ## "Anthracite Commission Report," pp. 464, ff.
 
-24 of 25 9/7/25, 11:57 AM The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=https%3A%2F%2Fwww.dol.gov%2Fg...
-
                  54. Samuel Gompers, Seventy Years of Life and Labor, Vol. II,
 ## pp. 117, 126-27.
 
@@ -865,5 +840,3 @@ The Coal Strike of 1902: Turning Point in U.S. Policy | U... about:reader?url=ht
 ## 59. Draft and final copy of opening address to Oct. 3, 1902
                  Conference, TRP; Letter, Roosevelt to H. H. Woodward, Oct. 19.
 ## 1902, Roosevelt Letters, Vol. III, pp. 356-57.
-
-25 of 25 9/7/25, 11:57 AM

@@ -36,7 +36,7 @@ Anarchism as Extreme Democracy | The Anarchist Library about:reader?url=https%3A
 ## precisely because democratic ideals are so attractive.
                Periodical elections and (relative) freedom of expression and
                association are used to justify a society where a few really rule
-1 of 19 3/17/25, 5:10 PM Anarchism as Extreme Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                over the majority. Capitalist democracy is used by competing
 ## factions of rulers to settle their disputes without (much)
 ## bloodshed. It serves to coopt rebellious popular forces.
@@ -70,8 +70,6 @@ Anarchism as Extreme Democracy | The Anarchist Library about:reader?url=https%3A
 ## “socialism” or “freedom,” they have meant many different
 ## things to many different people.
 
-2 of 19 3/17/25, 5:10 PM Anarchism as Extreme Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## In What is Property?, the first work to claim the term
                “anarchist,” Pierre Joseph Proudhon explicitly counterposed it
                to “democrat”: “I hear some of my readers reply: ...‘You are a
@@ -104,8 +102,6 @@ Anarchism as Extreme Democracy | The Anarchist Library about:reader?url=https%3A
 ## anarchism from the standpoint of democracy, and then a
 ## criticism of democracy from the standpoint of anarchism.
 
-3 of 19 3/17/25, 5:10 PM Anarchism as Extreme Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## Democratic Anti-Anarchism
 
 ## Robert Dahl’s Democracy and Its Critics (1989) is a major
@@ -137,7 +133,6 @@ Anarchism as Extreme Democracy | The Anarchist Library about:reader?url=https%3A
                assume that coercion means a state. He admits that preliterate
                peoples, such as the Inuit (Eskimo), lived satisfactorily for
                centuries or millennia without states,but he does not consider
-4 of 19 3/17/25, 5:10 PM Anarchism as Extreme Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## how they dealt with the social need for coercion. They had
 ## coercion, whether by public opinion or organized violence—
@@ -172,8 +167,6 @@ Anarchism as Extreme Democracy | The Anarchist Library about:reader?url=https%3A
                of the preliterate tribes or later city-states. For democracy to
 ## exist on a large scale, it needed the “invention” of
 
-5 of 19 3/17/25, 5:10 PM Anarchism as Extreme Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## representation. Only representative government (by
 ## implication, a state) could have brought democracy to the
 ## modern world, he claims.
@@ -205,7 +198,7 @@ Anarchism as Extreme Democracy | The Anarchist Library about:reader?url=https%3A
 ## longer (capitalists and workers) or have redefined their
 ## relationships as equals (men and women, European-Americans
                and African-Americans, North Americans and Latin Americans).
-6 of 19 3/17/25, 5:10 PM Anarchism as Extreme Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                Where wealth is evenly distributed and no oppression exists,
                society is no longer pulled in different directions by competing
 ## and hostile forces. It does not need a state to hold things
@@ -235,8 +228,6 @@ Anarchism as Extreme Democracy | The Anarchist Library about:reader?url=https%3A
                be a mistake to underestimate the importance of authoritarian
 ## institutions in the daily lives of working people and the
 ## consequences of introducing a more democratic system in the
-
-7 of 19 3/17/25, 5:10 PM Anarchism as Extreme Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## governing of economic enterprises” (p. 332).
 
@@ -270,7 +261,7 @@ Anarchism as Extreme Democracy | The Anarchist Library about:reader?url=https%3A
                [T]hese associations took the institutional form of local
                assemblies...or representative councils of mandated recallable
                deputies” (p. 4). These historical examples cannot “prove” the
-8 of 19 3/17/25, 5:10 PM Anarchism as Extreme Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                validity of a radically democratic society, but they provide
 ## ample evidence of its possibility.
 
@@ -301,8 +292,6 @@ Anarchism as Extreme Democracy | The Anarchist Library about:reader?url=https%3A
                [W]e are neither for a majority nor for a minority government;
                neither for democracy nor for dictatorship.... We are...for free
 ## agreement.... We are for anarchy” (p. 76).
-
-9 of 19 3/17/25, 5:10 PM Anarchism as Extreme Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## The democratic concept is “the rule of the majority, with
 ## respect for the rights of the minority.” Under patriarchal
@@ -335,7 +324,6 @@ Anarchism as Extreme Democracy | The Anarchist Library about:reader?url=https%3A
 ## However, there will still be areas which require collective
 ## decision-making. For example, a community may need to
 
-10 of 19 3/17/25, 5:10 PM Anarchism as Extreme Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                decide whether to build a new road. Consensus would be best,
 ## but people often disagree. A majority and a minority may
                polarize about this issue. This can-not be treated as a matter of
@@ -367,8 +355,6 @@ Anarchism as Extreme Democracy | The Anarchist Library about:reader?url=https%3A
                participate and to seek to become the new majority. Perhaps in
 ## the future they will persuade enough community members
 ## that the new road was a mistake and to tear it down, or, at
-
-11 of 19 3/17/25, 5:10 PM Anarchism as Extreme Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## least, not tobuild new ones. They may be in the majority on
 ## other issues.
@@ -402,7 +388,6 @@ Anarchism as Extreme Democracy | The Anarchist Library about:reader?url=https%3A
                radicals try to develop democratic theory without incorporating
                anarchism. Often it is little more than “democratic socialism”
                restated, that is, reformist state socialism. For example, David
-12 of 19 3/17/25, 5:10 PM Anarchism as Extreme Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## Trend’s Radical Democracy (1996) is mostly articles by
 ## members of Democratic Socialists of America. They are
@@ -437,7 +422,6 @@ Anarchism as Extreme Democracy | The Anarchist Library about:reader?url=https%3A
 ## —is not the ground for salvation from the state. But “civil
 ## society” is internally antagonistic, based on the tensions
 
-13 of 19 3/17/25, 5:10 PM Anarchism as Extreme Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                between oppressed and oppressors, including the struggles of
                classes, genders, and races,among others. This pressure from
 ## below for freedom is the source of all social progress.
@@ -470,8 +454,6 @@ Anarchism as Extreme Democracy | The Anarchist Library about:reader?url=https%3A
 
 ## Democracy’s Importance For Anarchism
 
-14 of 19 3/17/25, 5:10 PM Anarchism as Extreme Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## If democratic theory needs anarchism, so anarchism needs
                democracy. There is an authoritarian trend within the history of
 ## anarchism. It begins with Proudhon, who was racist,antiSemitic, patriarchal, and who imagined himself ruling France as
@@ -502,7 +484,7 @@ Anarchism as Extreme Democracy | The Anarchist Library about:reader?url=https%3A
 ## anarchism is its supposed rejection of democracy. “...
                [A]narchist ‘libertarianism’...is not concerned with the winning
                of democratic control-from-below, but with the destruction of
-15 of 19 3/17/25, 5:10 PM Anarchism as Extreme Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                ‘authority’ over the individual ego, even the most extremely
                democratic version of authority imaginable” (1969; p. 93). He
 ## quotes Proudhon, “Any man who cannot do what he wants and
@@ -533,8 +515,6 @@ Anarchism as Extreme Democracy | The Anarchist Library about:reader?url=https%3A
 ## of its founders.
 
 ## However, Draper has a major point. Anarchism, if not
-
-16 of 19 3/17/25, 5:10 PM Anarchism as Extreme Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## inherently hostile to democracy, has had a contradictory
                relationship with it. The individualist tendencies are the worst
@@ -567,7 +547,6 @@ Anarchism as Extreme Democracy | The Anarchist Library about:reader?url=https%3A
 
 ## Dewey, John (ed.) (1957). The Living Thoughts of Thomas
 
-17 of 19 3/17/25, 5:10 PM Anarchism as Extreme Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                Jefferson. New York: Fawcett.
                Dolgoff, Sam (ed.) (1974). The Anarchist Collectives: Workers’
 ## Self-Management in the Spanish Revolution 1936–1939. New
@@ -602,7 +581,6 @@ Anarchism as Extreme Democracy | The Anarchist Library about:reader?url=https%3A
 
 ## Mouffe, Chantal (1996). “Radical Democracy or Liberal
 
-18 of 19 3/17/25, 5:10 PM Anarchism as Extreme Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                Democracy?” In D. Trend (Ed.), Radical Democracy. New York:
 ## Routledge. (Pp. 19–26.)
 
@@ -624,4 +602,3 @@ Anarchism as Extreme Democracy | The Anarchist Library about:reader?url=https%3A
 
                Woodcock, George (1962). Anarchism: A History of Libertarian
                Ideas and Movements.New York: World Publishing.
-19 of 19 3/17/25, 5:10 PM

@@ -16,10 +16,6 @@ Societies in Movement and Anticolonial Paths in Latin America
 
 ## ![](_page_0_Picture_4.jpeg)
 
-#
-
-# Societies in Movement and Anticolonial Paths in Latin America Raúl Zibechi
-
 ## Translated by George Ygarza Quispe
 
 ## ![](_page_1_Picture_3.jpeg)

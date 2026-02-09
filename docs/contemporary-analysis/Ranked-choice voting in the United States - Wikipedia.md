@@ -143,8 +143,7 @@ council[62] | November
 5, 2024
 (Planned) |
 | San
-Francisco[64] | All city
-officials | March 5.
+5.
 2002 | 55% | October
 2004[65] |
 | San Leandro | Mayor and

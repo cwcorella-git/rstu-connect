@@ -22,8 +22,6 @@ Getting the context into the story is a perennial writing difficulty. There are 
 
 I think I've written four books that have had prologues. Three of them were the middle-school Star Wars novelizations, and the
 
-## 1 of 5 10/16/25, 12:06 AM
-
 prolog were there because that's how the movies start—with that crawl of text that sets the stage. The other one was The Raven Ring, and I'll get to that in a minute.
 
 The Star Wars prologues are classic science fiction infodumps, and they work because a) the movies set the readers up to expect them, b) they are short—two to three pages, tops (and that's large print), and c) they point straight at the action, which nearly always starts in medias res, usually with someone getting chased and/or shot at. They add context, letting the reader know up front who to cheer for, in a brief and hopefully interesting way that is part of the format for these stories (as with fairy tales that often start with a stock phrase, like "once upon a time," or "long ago and far away).
@@ -53,5 +51,3 @@ On December 11, 2024 / [Writing](https://pcwrede.com/pcw-wp/category/writing/)
 ## ![](_page_4_Picture_4.jpeg)
 
 ## ![](_page_4_Picture_5.jpeg)
-
-## 5 of 5 10/16/25, 12:06 AM

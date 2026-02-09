@@ -13,7 +13,7 @@ The leftwing deadbeat – Organizing.work https://organizing.work/2020/05/the-le
            MK Lees and Marianne Garneau look at leftists’ poor track record in workplace organizing
            campaigns
            There is often a temptation when starting out organizing to focus on people you think may
-1 of 8 3/18/25, 6:07 PM  The leftwing deadbeat – Organizing.work https://organizing.work/2020/05/the-leftwing-deadbeat/
+
            be politically left – to reach out to these people first, or even to invite them onto your
            organizing committee.
            “He’s in DSA”
@@ -40,7 +40,7 @@ The leftwing deadbeat – Organizing.work https://organizing.work/2020/05/the-le
            about a coworker:
               I met him through Rojava solidarity activist circles before I started
               working there. He’s the “leftist professor” type in the shop, reads all
-2 of 8 3/18/25, 6:07 PM The leftwing deadbeat – Organizing.work https://organizing.work/2020/05/the-leftwing-deadbeat/
+
               the philosophy books and listens to Murray Bookchin books on tape.
               He asked me about organizing once about six months ago, very off
               the cuff, we had lunch and had a short conversation about it. I tried
@@ -65,7 +65,7 @@ The leftwing deadbeat – Organizing.work https://organizing.work/2020/05/the-le
            not left enough. Not anarchist enough.” Some, she says, “refuse to even sign a card.”
            In fact, leftists often use their politics to argue for why they shouldn’t join the union. In the
            IWW’s Chicago Couriers Union in the mid-2000s, one messenger was a member of the
-3 of 8 3/18/25, 6:07 PM The leftwing deadbeat – Organizing.work https://organizing.work/2020/05/the-leftwing-deadbeat/
+
            Workers World Party. On the few occasions he showed up to meetings, he objected to the
            idea of the IWW being the union for messengers, instead advocating for calling up the SEIU.
            But he never did anything to organize his coworkers or support the organizing that was
@@ -95,7 +95,7 @@ The leftwing deadbeat – Organizing.work https://organizing.work/2020/05/the-le
            A few attended the IWW Organizer Training 101, which breaks down each of the steps
            involved in talking to coworkers — inviting them to chat outside of work, asking them
            questions about their issues — confronting all of the awkwardness and pitfalls head-on
-4 of 8 3/18/25, 6:07 PM The leftwing deadbeat – Organizing.work https://organizing.work/2020/05/the-leftwing-deadbeat/
+
            through roleplay and group discussion. But still, the DSA members did not approach their
            coworkers.
            “After that we all met with the Director of Organizing,” the organizer says. “We did some
@@ -124,7 +124,7 @@ The leftwing deadbeat – Organizing.work https://organizing.work/2020/05/the-le
            general strike and call for the working class to rise up, but decline to have that same
            conversation with the people they work with.
            Militancy where you’d least
-5 of 8 3/18/25, 6:07 PM The leftwing deadbeat – Organizing.work https://organizing.work/2020/05/the-leftwing-deadbeat/
+
            expect it
            Meanwhile, consider some inverse examples.
            During an IWW campaign in Chicago, Steve, a former sheet metal worker, refused to support
@@ -153,7 +153,7 @@ The leftwing deadbeat – Organizing.work https://organizing.work/2020/05/the-le
            ordinary people who just care about the issues — not the card-carrying leftists, who
            themselves can just as easily hold the struggle back (see “The Leftwing Committeeman”
            from Martin Glaberman’s Punching Out).
-6 of 8 3/18/25, 6:07 PM The leftwing deadbeat – Organizing.work https://organizing.work/2020/05/the-leftwing-deadbeat/
+
            Why is it this way?
            Why are so many leftists so dedicated to unions in their minds yet such poor union members
            in the world outside of their mind?
@@ -177,9 +177,8 @@ The leftwing deadbeat – Organizing.work https://organizing.work/2020/05/the-le
                 Burnout culture, workers as props: The Expendables: In a pandemic, the lack
                Organizers at United For Respect speak of unions is literally killing workers 
                out
-7 of 8 3/18/25, 6:07 PM The leftwing deadbeat – Organizing.work https://organizing.work/2020/05/the-leftwing-deadbeat/
+
                        Copyright © All rights reserved. Theme Noble Blog by Creativ Themes
-8 of 8 3/18/25, 6:07 PM
 
 ## Document Summary
 

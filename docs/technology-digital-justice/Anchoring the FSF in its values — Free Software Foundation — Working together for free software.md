@@ -25,8 +25,6 @@ The divergence between our values and those of most users was expressed differen
 
 As the media incessantly labeled our work as "open source", many embraced "open source" thinking we endorsed it, even as the term gave them the wrong idea of what we stood for. We had to work hard to inform the public that we stood for something different from that. When people learned where we stood, some adopted our philosophy, but many stuck with "open
 
-## 1 of 3 10/4/25, 1:11 PM
-
 source" since it did not question the values that society had taught them.
 
 It would have been almost inevitable for supporters of "open source" to join the FSF, then vote to convert it into an "open source" organization, if its structure allowed such a course. Fortunately, we had made sure it did not. So we were able to continue spreading the idea that software freedom is a freedom that everyone needs and everyone is entitled to, just like freedom of speech.
@@ -45,8 +43,6 @@ Nowadays, large political movements, business kingpins, and various governments 
 
 What new political disagreements will exist in the free software community ten, twenty or thirty years from now? People may try to disconnect the FSF from its values for reasons we have not anticipated, but we can be confident that our structure will give us a base for
 
-## 2 of 3 10/4/25, 1:11 PM
-
 standing firm.
 
 We recently asked our associate members to [help us evaluate](https://www.fsf.org/news/fsf-associate-members-to-assist-in-review-current-board-members) the current members of the FSF board of directors through a process that will help us preserve the basic structure that protects the FSF from pressure to change its values. A year ago we used this process to select [new](https://www.fsf.org/news/fsf-adds-3-highly-qualified-board-members) [board members,](https://www.fsf.org/news/fsf-adds-3-highly-qualified-board-members) and it worked very well.
@@ -58,5 +54,3 @@ Sincerely,
 ## ![](_page_2_Picture_6.jpeg)
 
 Send your feedback on our translations and new translations of pages to [campaigns@fsf.org.](mailto:campaigns@fsf.org)
-
-## 3 of 3 10/4/25, 1:11 PM

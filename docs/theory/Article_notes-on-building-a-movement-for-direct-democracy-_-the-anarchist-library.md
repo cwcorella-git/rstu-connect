@@ -8,7 +8,6 @@ tags:
   - democracy
 ---
 
-Notes on Building a Movement for Direct Democracy | The Anarchist L... https://theanarchistlibrary.org/library/james-herod-notes-on-building-a...
               Title: Notes on Building a Movement for Direct Democracy
               Author: James Herod (https://theanarchistlibrary.org/category/author/james-herod)
               Topic: Direct Democracy (https://theanarchistlibrary.org/category/topic/direct-democracy)
@@ -22,7 +21,6 @@ Notes on Building a Movement for Direct Democracy | The Anarchist L... https://t
               james-herod-notes-on-building-a-movement-for-direct-democracy)  (https://
               theanarchistlibrary.org/library/james-herod-notes-on-building-a-movement-for-direct-democracy/
               bbselect?selected=pre-post)
-1 of 4 9/17/25, 11:29 AM Notes on Building a Movement for Direct Democracy | The Anarchist L... https://theanarchistlibrary.org/library/james-herod-notes-on-building-a...
 
 ## James Herod
 
@@ -60,7 +58,7 @@ Notes on Building a Movement for Direct Democracy | The Anarchist L... https://t
            3. So-called ‘individualist anarchists’ need to be convinced that individual freedom is a social achievement, and
            that anarchy is not merely "an aggregate of autonomous individuals" but new social forms through which
            genuine self-government can be achieved. Failing in this, which seems likely, a movement for direct democracy
-2 of 4 9/17/25, 11:29 AM Notes on Building a Movement for Direct Democracy | The Anarchist L... https://theanarchistlibrary.org/library/james-herod-notes-on-building-a...
+
            (i.e., anarchy, communism) must simply bypass, and sideline, as far as possible, the individualists, who
            represent the greatest threat, within the movement, to the revolutionary struggle for freedom.
 
@@ -101,7 +99,6 @@ Notes on Building a Movement for Direct Democracy | The Anarchist L... https://t
            Random (https://theanarchistlibrary.org/random) | RSS feed (https://theanarchistlibrary.org/feed) | Titles (https://
               theanarchistlibrary.org/listing) | Authors (https://theanarchistlibrary.org/category/author) | Topics (https://
             theanarchistlibrary.org/category/topic) | Latest entries (https://theanarchistlibrary.org/latest) | Mobile (https://
-3 of 4 9/17/25, 11:29 AM Notes on Building a Movement for Direct Democracy | The Anarchist L... https://theanarchistlibrary.org/library/james-herod-notes-on-building-a...
+
                    theanarchistlibrary.org/help/opds) | Add a new text (https://theanarchistlibrary.org/action/text/new)
                 theanarchistlibrary.org (https://theanarchistlibrary.org) Ⓐ anarchistnews.org (https://anarchistnews.org)
-4 of 4 9/17/25, 11:29 AM

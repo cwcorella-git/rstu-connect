@@ -37,8 +37,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## Eizaburō and Mihara Yōko. Ōshima-san has spent a small
 ## fortune in financing Kokushoku Sensensha’s (the Black
 
-1 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## Battlefront Company) republication of numerous, otherwise
 ## unobtainable, anarchist texts. As one of the few surviving
                 anarchists of the interwar era, he also provides an inspiring link
@@ -69,7 +67,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## communist content. I am pleased to be able to use this
                 opportunity to pay tribute to Mark as an exemplary friend and
                 comrade. Last, but not least, come the three women in my life.
-2 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## With good humour. Emily Midorikawa Crump and Erica
 ## Midorikawa Crump put up with their father’s strange
@@ -103,8 +100,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## ‘Pure anarchism’ was the dominant current within Japanese
 ## anarchism during the interwar years. Its adherents were
 
-3 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## anarchist communists who wished to rid anarchism of the
                 ‘impurity’ of syndicalism. It might well be asked: why write a
                 book on these pure anarchists? After all, did they not ultimately
@@ -134,7 +129,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 is arguable that they are nowhere near as universal as is often
                 claimed), are of very short historical duration. Not only does
                 this image conflict with the perception of the Japanese as a
-4 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## revolutionary people, which was widespread throughout East
                 Asia in the years following the upheaval of 1868, but it also
@@ -166,7 +160,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 that era, it remained very much a Japanese translation of an
 ## essentially European work. The very title The Conquest of
                 Bread (as opposed to The Conquest of Rice) indicates the (for
-5 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## many Japanese) exotically European flavour of Kropotkin’s
 ## passionate arguments for communism. Kropotkin remained
@@ -198,7 +191,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## misinterpreted as having a connection with the political
 ## systems formerly or actually found in Russia, China and
                 elsewhere, there is no alternative to employing the term here,
-6 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 since ‘anarchist communism’ was the declared aim of the pure
 ## anarchists. Our theme in Non-Market Socialism in the
 ## Nineteenth and Twentieth Centuries was that, although a
@@ -231,7 +224,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 
             3. The council communism associated with the German
                 Revolution of 1918 and its aftermath, which was articulated by
-7 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## theoreticians such as Anton Pannekoek (1873–1960), Otto
 ## Ruhle (1874–1943) and Paul Mattick (1904–81).
@@ -265,7 +257,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## repeated emergence of these organisationally separate and
                 culturally distinct formulations of what still remains essentially
                 the same communist alternative to capitalism suggests that it
-8 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 is in the nature of capitalism, wherever it exists, to evoke a
 ## communist response which does not vary in its fundamentals.
                 From the standpoint of the late twentieth century, it may look
@@ -295,8 +287,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## conditions, is further confirmation of the argument that
 ## capitalism invariably evokes a communist response from
 ## within the ranks of those whom it oppresses and exploits.
-
-9 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## Hence, despite Japanese pure anarchism’s lack of concrete
                 success, its very existence can be regarded as significant when
@@ -330,7 +320,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## The End of Anarchism? in 1925 and Alexander Berkman’s
 ## What Is Communist Anarchism? (better known in its abridged
 
-10 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 form as the ABC of Anarchism) in 1929.[2]
 
 ## Even with regard to Spanish anarchism, Pengam was sceptical
@@ -363,8 +352,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## anarchists, anarchist communism would probably have
 ## withered on the bough in Japan as in Europe, so that there
 
-11 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## would be no particular reason today for studying a movement
 ## which displayed the same fading qualities as its
 ## contemporaries in Europe.
@@ -396,7 +383,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 of contrast, fate has not been kind to a gifted and original
 ## thinker like Hatta. Language has acted as a barrier to an
 
-12 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 appreciation in the West of his stature as a theoretician, while
 ## in Japan the prevalence of bolshevism within the relevant
                 scholarly circles has caused him to be ignored. Hopefully, the
@@ -429,8 +415,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 
 ## Europe was the source of the anarchist communism that was
 
-13 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## introduced to Japan early in the twentieth century. In this
                 chapter I shall give an account of anarchist communism as it
                 developed within the political and intellectual milieu of Europe
@@ -462,8 +446,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## François Dumartheray (1842–1931) was the first to use the
 ## term ‘anarchist communism’ when he wrote a pamphlet To the
 
-14 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## Manual Workers, Partisans of Political Action, which was
 ## published in Geneva in February 1876, and Elisée Reclus
                 (1830–1905) is said to have delivered a speech from an
@@ -493,7 +475,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 production will be so abundant that there will be no need to
 ## limit consumption or to demand from men more work than
                 they would be able or willing to give’.[9] He was confident that
-15 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## communism would create the conditions for such an
 ## abundance for several reasons, the chief of which were that
@@ -525,7 +506,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 they are part of humanity, they will exercise here, by deed and
                 directly, their right to a share of the human wealth. But if an
                 inhabitant of Peking came into this country, he would have the
-16 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 same rights as the others: he would enjoy, in common with the
                 others, all the wealth of the country, in the same way that he
                 had done in Peking.[11]
@@ -556,7 +537,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 of the times: ‘everywhere the State is abdicating and
 ## abandoning its holy functions to private individuals.
                 Everywhere free organization trespasses on its domain.’[14]
-17 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 Despite this flaw in the scientific foundation, which Kropotkin
 ## attempted to give to anarchist communism, in other respects
 ## the theory which he constructed had a coherent logic to it.
@@ -588,8 +569,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 substitute for it, such as labour vouchers. Thus everyone would
 ## be secure in the knowledge that they had a right to receive
 
-18 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## from the common wealth free supplies of consumer goods. In
                 the light of the demoralising hunger that past revolutions had
 ## brought with them, which had caused people to lose faith in
@@ -619,7 +598,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## Kropotkin believed that what made anarchist communism
 ## distinctive was that its approach would be not to take
                 production as a given and then decide how the cake should be
-19 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 divided, but to start with the people entirely rethinking their
 ## consumption needs and then reorganising production so as to
 ## achieve the required output of goods. In other words, in
@@ -651,7 +630,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 requirement to introduce scientific rationality into the realms of
 ## consumption and production. Since Kropotkin expected future
 
-20 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 revolutions, as in the past, to occur in limited geographical
 ## areas, production within a revolutionary commune would need
                 to be reorganised swiftly so as to make the territory it held
@@ -682,7 +660,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## children whom Kropotkin expected to inhabit an anarchist
 ## communist society. No less important than achieving a
 
-21 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 combination of agriculture and industry in each locality was the
 ## desirability of bringing about a merging of ‘the husbandman
                 and the mechanic in the same individual’.[19] Participation in,
@@ -713,8 +690,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 between different areas:
 
 ## We must offer the peasant in exchange for his toil not
-
-22 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## worthless paper-money, but the manufactured articles of
 ## which he stands in immediate need ...
@@ -749,7 +724,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## envisages. On the other hand, the invitation from the
 ## townspeople to the peasants to ‘bring us your produce, and
 
-23 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 take from our stores and shops all the manufactured articles
                 you please’ implies that the relationship is to be based on free
 ## distribution, without regard for equivalent exchange.
@@ -782,7 +756,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## As for the labour movement, Kropotkin paid virtually no
 ## attention to workers’ organisations in the articles which
 
-24 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 constituted The Conquest of Bread. With the passage of time,
                 however, he not only took note of the spread of labour unions
 ## but was loath to surrender these organisations, and the
@@ -812,7 +785,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## Nevertheless, Kropotkin was also aware that by no means all
                 unions fulfilled this function. In a letter to Max Nettlau (dated 5
                 April 1895) he also argued:
-25 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 There are trade unions which egotistically struggle for higher
                 wages or shorter hours [to achieve] emancipation. These
 ## unions are wrong, and often as monopoly-striving as
@@ -845,7 +818,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## anarchist elements, the importance which anarchist
 ## syndicalism accorded to the union form of organisation
                 ensured that it was distinct from other varieties of anarchism.
-26 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## Anarchist syndicalists believed that unions (syndicats in
 ## French) had a potential which extended far beyond their
@@ -877,7 +849,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 syndicalist principle. As we shall see, when the Zenkoku Rōdō
 ## Kumiai Jiyū Rengōkai (AlI-Japan Libertarian Federation of
                 Labour Unions or Zenkoku Jiren) was formed in Japan in 1926,
-27 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## the influence of the Charter of Amiens on the platform it
 ## adopted at its founding conference was striking. However,
@@ -910,7 +881,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## necessary to explain what is meant by ‘syndicalism’.
 
                 If it is a question of the sought-after future, if, that is, by
-28 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## syndicalism is meant the form of social organisation which
                 should replace the capitalistic and statal organisation, then
@@ -943,8 +913,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 existence, both due to lack of funds and the oppression of the
 ## authorities, they replaced one another in more or less
 
-29 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## continuous succession and hence were a constant presence in
                 the collective sense, no matter how short-lived the majority of
 ## such publications might be.
@@ -976,7 +944,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## opposite effect of muting anarchist communist criticism of
 ## anarchist syndicalism and fostering a sense of common
                 identity among anarchists of all persuasions. Faced with the
-30 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 frequently vicious repression mounted by the capitalist state,
 ## disputes between anarchists over the relative merits of
 ## communism and syndicalism often seemed like a luxury which
@@ -1008,7 +976,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## Western Europe, which Kropotkin wrote two years after his
 ## return to Russia in 1917, he expressed enthusiasm for the
 
-31 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 soviets or councils of workers and peasants: ‘the idea of
                 soviets, that is to say, of councils of workers and peasants ...
                 controlling the economic and political life of the country is a
@@ -1039,7 +1006,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 result was that, in Europe at any rate, the distinctive theory of
 ## anarchist communism was subsumed into an increasingly illdefined catch-all of ‘anarchism’. Even in Spain, which after the
 
-32 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 First World War had the largest anarchist movement in Europe,
                 the slide towards theoretical imprecision took place, resulting
 ## in 1936 in the ultimate absurdity of ‘anarchist’ ministers
@@ -1073,7 +1039,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 Berkman’s sketch of the new society. These included abolition
 ## of the state, decentralisation, voluntary labour, free
 
-33 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 distribution of products and so forth. Yet although there were
 ## passages in What Is Communist Anarchism? that could be
 ## interpreted as references to the type of self-supporting
@@ -1103,8 +1068,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## employees of a given factory or mill ... In this manner the
                 whole factory or mill can consecutively acquire the necessary
 ## knowledge about the organisation and management of their
-
-34 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## trade and keep step with its development. These councils
 ## would serve as industrial colleges where the workers would
@@ -1136,7 +1099,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## and social structure of communist society as Berkman
                 imagined it was still to consist of distinct foci of industry and of
                 separate urban and rural locations. In this sense, it was no
-35 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## mere rhetorical turn of phrase when Berkman admitted that
                 ‘capitalism is the parent of the new society’.[34]
@@ -1169,7 +1131,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 and the Whites and had controlled large areas of the Ukraine
 ## between 1918 and 1921. Reflecting the defeat which the
                 anarchists had suffered in Russia at the hands of the better
-36 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## organised bolsheviks, the Organisational Platform sought to
 ## establish a General Union of Anarchists equipped with ‘a
@@ -1202,7 +1163,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## and organisational orientation of the activity of isolated
                 organisations consistent with the theoretical positions and the
                 general tactical line of the Union; the monitoring of the general
-37 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## state of the movement; the maintenance of working and
                 organisational links between all the organisations in the Union;
@@ -1235,7 +1195,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## of anarchist communist theory, and its absorption into the
 ## increasingly vague and amorphous hotchpotch of ‘anarchism’,
                 was in Japan a time of intense organisational confrontation and
-38 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## theoretical controversy between ‘pure anarchists’ (as the
 ## anarchist communists were often known in Japan) and
@@ -1267,7 +1226,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## referred to Andō as an advocate of ‘agricultural communist
                 anarchism’.[39] For the purposes of this book, however, it is
                 not necessary to go back further than 1906. In 1906 the most
-39 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 influential socialist of his generation, Kōtoku Shūsui, returned
                 from six months spent in California and astounded his social-
 ## democratic comrades by questioning the usefulness of
@@ -1298,7 +1257,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## led him from social democracy towards anarchism. For these
                 reasons, his stay in the USA can be said to have brought to a
                 head a development in his political ideas that was discernible
-40 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 even before he left Japan.[41]
 
 ## Kōtoku’s speech on 28 June 1906 was followed by various
@@ -1332,7 +1291,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 the socialist press. During the six months Kōtoku had spent in
 ## the USA he had come under the influence of various
 
-41 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 anarchists, not the least influential of whom was his Russianborn landlady in San Francisco, a certain Mrs Fritz. Mrs Fritz had
                 thoughtfully decorated the room that she let to Kōtoku with a
                 picture of Mikhail Bakunin (1814–76) on one wall and a picture
@@ -1364,8 +1322,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 and elated they were. A few years ago I heard that a number of
 ## young people in America had made a study of the
 ## development of the labour movement. Consequently, they
-
-42 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## became interested in the libertarian movement and were fond
                 of reading various works of mine. I wonder if among them are
@@ -1399,8 +1355,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 
 ## Yours fraternally,
 
-43 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
             16. Kropotkin[45]
 
 ## Kōtoku’s new ideas created a sensation within the Japanese
@@ -1430,7 +1384,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## of both journals was due to harassment by the authorities.
 ## Their editors were repeatedly fined and imprisoned, and
                 various techniques were employed to hinder their distribution.
-44 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## Even the ostentatiously law-abiding social democrats were
                 hounded by the authorities, so it was little wonder that public
@@ -1462,8 +1415,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## within the nascent anarchist movement in Japan. Work on a
 ## Japanese version of The Conquest of Bread got under way in
 ## 1907 and extracts appeared in the Nihon Heimin Shinbun and
-
-45 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## Kumamoto Hyōron as they were translated during 1907–8.
 ## Ōsugi and Yamakawa translated sections of The Conquest of
@@ -1497,8 +1448,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## union organisations, so that those inclined to anarchist
 ## syndicalism were restricted to theoretical discussion and
 
-46 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## prevented from any attempts to organise syndicats among the
                 growing working class. Nevertheless, despite repression by the
 ## state, there was a feeling among some anarchists that
@@ -1531,8 +1480,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 
 ## Like The Social General Strike, The Conquest of Bread also
 
-47 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## evoked a ready response in Japan. The impact which
                 Kropotkin’s book made was due to the fact that, in addition to
                 offering a vision of the future, there were obvious similarities
@@ -1562,7 +1509,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 scientific understanding and with the lofty morality of mutual
                 aid.[50]
                 It would not do to leave Akaba’s case without mentioning that
-48 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 he was forced to go underground after illegally distributing his
 ## booklet in 1910, was eventually apprehended, and died in
 ## custody in 1912.
@@ -1594,7 +1541,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 in 1909: ‘Many of the comrades in Tokyo gradually lost their
                 jobs and their houses. All were threatened by hunger.’[51]
                 Clearly, a barely established movement experiencing this level
-49 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## of persecution did not provide the type of environment in
                 which the clarification of theoretical issues could easily be
@@ -1629,7 +1575,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## probe for inconsistencies between different varieties of
 ## anarchism.
 
-50 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 Finally, and most importantly, it was the state’s prohibition of
                 unions which defused any potential tension between anarchist
 ## communism and anarchist syndicalism. Only where unions
@@ -1661,7 +1606,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 Japan, which was to continue until the end of the First World
 ## War.
 
-51 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 During the ‘winter period’ the state suppressed all anarchist
                 and socialist organisations and kept a careful watch on those
 ## whom it regarded as infected with ‘dangerous thoughts’.
@@ -1693,8 +1637,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 who, thanks to their imprisonment, had escaped the dragnet of
 ## the ‘high treason case’ and possible execution. Ōsugi Sakae
 
-52 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## was the most colourful personality among his generation of
 ## anarchists and, in conjunction with the sharpness of his
                 intellect and his wide-ranging talents. this made him from now
@@ -1724,7 +1666,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 under a scientific, literary and philosophical form’.[55]
 ## Encouraged by the relative success of Kindai Shisō, Arahata
                 and Ōsugi then organised in Tōkyō a Sanjikarizumu Kenkyū Kai
-53 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 (Society for the Study of Syndicalism) in July 1913. Meetings
                 were held at least monthly and lectures were delivered on the
 ## CGT and on the syndicalist movement associated with Tom
@@ -1756,8 +1698,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 suppressed and their editors were often imprisoned under the
 ## press laws.
 
-54 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## Whereas both anarchist communism and anarchist
 ## syndicalism remained discernible strands within Japanese
                 anarchism during the ‘winter period’, various factors combined
@@ -1788,7 +1728,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## in France excited many anarchists in Japan. Even though the
 ## CGT proved quite incapable of unleashing the general strike
                 against the catastrophe for the working class of mass slaughter
-55 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 in the First World War, it still dazzled many anarchists in Japan
 ## and was seen by them as a role model for their movement.
 
@@ -1819,7 +1759,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## nevertheless they were aware that tension existed between
                 anarchist communists and anarchist syndicalists in Europe. Yet
                 although they could follow the dispute in intellectual terms, the
-56 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## absence of unions deprived the issues of any immediate
 ## relevance in Japan. The detached manner in which the
@@ -1853,8 +1792,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## to give ground by a wave of struggles which engulfed Japan
 ## towards the end of the First World War. The years 1915–18
 
-57 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## were boom years for Japanese capital due to the commercial
 ## stimulus provided by a war in which Japan was only
 ## peripherally involved militarily. Fortunes were made by
@@ -1885,7 +1822,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## 1918. Hundreds of thousands of men, women and children
                 were involved in these incidents, which look in most of Japan
                 except for a few of the northernmost areas. In major cities,
-58 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## such as Ōsaka and Kōbe, there were pitched battles with the
 ## police, troops were mobilised, and destruction was on a
@@ -1918,7 +1854,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## When they were first formed, almost all unions were led by
                 reformists of one type or another. Even though many of these
                 reformists came to use the vocabulary of socialism when it was
-59 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## expedient to do so, they were not seeking any fundamental
                 change in capitalist social relations. At worst, such reformist
@@ -1951,7 +1886,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 Indeed, for the remainder of the period under discussion in this
 ## chapter the unions became the principal focus of anarchist
 
-60 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 efforts. Many anarchists threw themselves into the struggle to
 ## rid the unions, both inside and outside the Yūaikai/Sōdōmei
                 federation, of their manipulative leaders. In view of the degree
@@ -1982,7 +1916,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## against syndicalism.
 
                 There were by this stage significant numbers of anarchists in
-61 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## many sections of the workforce, but the hardest core of the
 ## anarchist union movement was undoubtedly made up of
@@ -2015,8 +1948,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## bolsheviks also soon becoming involved, initially there was
 ## room for a limited amount of cooperation before positions
 
-62 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## hardened into irreconcilable battlelines. Prominent among
 ## those who turned to bolshevism, and who went on to
                 participate in the founding of the Nihon Kyōsantō (Communist
@@ -2047,8 +1978,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 bolsheviks and reformists. Although its founding conference,
 ## held in Tōkyō on 9–10 December 1920, was disrupted by the
 ## police, with many arrests, it had achieved a membership of
-
-63 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## approximately 1,000 by that stage and was publishing the
                 journal Shakaishugi (Socialism). Three thousand attended the
@@ -2081,8 +2010,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 had been defeated, and its bloody suppression of the Kronstadt
 ## rebellion in 1921. Ōsugi shared Berkman’s and Goldman’s
 
-64 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## estimation of the Russian Revolution and concurred that its
 ## potential for human liberation had been wrecked by the
                 bolsheviks’ consolidation of state power and their enforcement
@@ -2112,8 +2039,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 this occasion, but reformist and anarchist unionists also came
                 to blows. One of the issues at stake in the disputes between
 ## reformists and anarchists was the nonproletarian background
-
-65 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## of many of the reformist leaders. As a Seishinkai spokesman
                 put it from the May Day platform: ‘We are opposed to people
@@ -2147,7 +2072,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## between the anarchists and their reformist and bolshevik
 ## opponents. Anarchist elements were henceforth either driven
 
-66 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 out of Sōdōmei or forced to conform to policies decided by the
 ## leadership. The reformists and bolsheviks maintained an
                 uneasy cohabitation within Sōdōmei until the organisation split
@@ -2179,8 +2103,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## Labour Union, which had been formed in November 1921,
 ## were also strongly anarchist. As for the anarchist groups,
 
-67 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## adorned with often extravagant . names such as the
                 Girochinsha (Guillotine Society) or Futeisha (Outlaws’ Society),
 ## they were mostly short-lived but replaced one another in
@@ -2211,7 +2133,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 their bodies were fished out of a well four days later. Ōsugi, Itō
 ## and Tachibana were only three among thousands who were
                 lynched, but the blow to Japanese anarchism was severe. Once
-68 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## again, the most able anarchist of his generation had been
 ## murdered.
@@ -2246,8 +2167,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 
 ## Hatta’s active involvement in the anarchist movement
 
-69 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## spanned the relatively short period 1924–32 and his most
                 important writings all appeared during a concentrated spurt of
                 theoretical innovation, lasting barely five years between 1927
@@ -2278,7 +2197,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 deaths, however, Hatta’s childhood could not have been other
 ## than beset by difficulties. The Hatta family was long
                 established in Tsu and had a tradition of loyal service to the
-70 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 Tōdō han (fief) prior to the Meiji Restoration of 1868. In fact, the
 ## Hattas had for generations managed the finances of the Tōdō
 ## daimyō (lord). The family house was located in the Wakebe
@@ -2310,7 +2229,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## Although then still in his teens, Hatta was drawn to Tōkyō
 ## since, to a provincial lad like him, the wealth, power and
 
-71 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 educational institutions to be found there all had a magnetic
                 appeal. In Tōkyō he hoped to find the means to support himself
 ## and to pick up the threads of his education. However, this
@@ -2342,7 +2260,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## twentieth century was, up to a point, a process of
 ## Westernisation. Western machines, Western guns, Western
 
-72 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 sciences and so on were all adopted with alacrity but, when it
 ## came to Western ideologies, the state was considerably less
 ## enthusiastic. The purpose behind the adoption of Western
@@ -2373,7 +2290,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## attitudes which were characteristic of longer established
                 religions in Japan, such as Buddhism in its various forms. An
                 illustration of the somewhat radical tinge which Christianity
-73 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 had acquired in Japan at this time is provided by the case of the
 ## Shakai Minshutō. When the abortive attempt was made to
                 launch this social democratic party in Tōkyō in 1901, all its
@@ -2404,7 +2321,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 higher course (1906–8) and finally the theology course (1908–
 ## 10). The surviving college records show him to have been a
 
-74 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 brilliant student who was superior to most of his peers and an
                 accomplished all-rounder.[72] Apart from academic studies,
 ## contemporary issues of Shirogane Gakuhō, the college
@@ -2436,7 +2352,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 
 ## Hatta’s career as a clergyman took him to a number of
                 locations in the Chūbu (Central Honshū) and Chūgoku (Western
-75 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 Honshū) regions. Typically a protestant church in provincial
                 Japan at this time would have been a small-scale enterprise.
 ## Active membership would have been no more than a few
@@ -2467,7 +2383,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## a letter from Hatta which was published in the Meiji Gakuin
 ## magazine in March 1915 does throw interesting light on his
 
-76 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 work in Gifu Prefecture.[74] At the time of writing Hatta has
                 been in what is evidently a rural location in Gifu Prefecture for
 ## ten months and he calculates that during this time he has
@@ -2498,7 +2413,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 for the growth of Christianity in Japan. A single convert in the
 ## countryside soon leads 10 others, writes Hatta, presumably
                 due to the closely-knit web of human relations which exist in
-77 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 rural society. By implication, the individualism which is more
 ## characteristic of urban life means that converts have to be
                 made one by one in the cities. This favourable evaluation of the
@@ -2529,7 +2444,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## April 1919 until August 1920. This was evidently a crucial
                 period in his life because it seems to have been at this time
                 that his dissatisfaction with orthodox Christianity developed. It
-78 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## is reasonable to speculate that this was linked with the
                 widespread discontent and mass struggles which occurred just
@@ -2562,8 +2476,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## movement started to emerge in the locality after the First
 ## World War, with various unions such as the Hiroshima
 
-79 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## Seishinkō Kumiai Hōyūkai (Hiroshima Needlemakers’ Union
 ## Friendly Society) , the Hiroshima-Shi Insatsukō Shinyūkai
                 (Hiroshima City Printworkers’ Friendly Society) and the
@@ -2595,7 +2507,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 problem for his new church: ‘Pastor Hatta’s sermons were
                 superb, so much so that I thought it a shame that more people
                 were not there to hear them. It was like the Bible talking in the
-80 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 spirit of pure socialism and one of my friends admired Pastor
 ## Hatta so much that he asked him to celebrate his
                 marriage.’[82] The gospel as Hatta taught it proved popular
@@ -2627,7 +2539,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## could not be achieved by reformist half-measures either.
 ## Gradually Hatta came to the view that there was only one
 
-81 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 political philosophy that was equal to the task of achieving
                 such a total transformation of society’s institutions and mores.
                 This was anarchism. Step by step, Hatta was reaching the point
@@ -2660,8 +2571,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 For the church establishment and the local dignitaries alike, the
 ## final straw was Hatta’s response to Ōsugi’s murder. With
 
-82 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## considerable bravery, and disregarding intimidation by the
 ## police, Hatta organised a memorial meeting for Ōsugi at his
 ## church. As a result, Hatta was ordered by both the Town
@@ -2693,7 +2602,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## certain amount of money could be earned by translating, but
 ## even here Hatta’s commitment to the cause often got the
 
-83 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 better of his business sense. Kropotkin’s Ethics: Origin and
 ## Development, Modern Science and Anarchism and Anarchist
                 Morality (all published in 1928), Bakunin’s God and the State
@@ -2725,7 +2633,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 autobiographical novel, under the title Taking a Stone As My
 ## Pillow, which covered the period 1923–6. The character Yagi
 
-84 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 Shūzō who appears in this novel is plainly modelled on Hatta,
 ## even down to being a renegade clergyman from Hiroshima
                 who has abandoned his wife and children. Apart from throwing
@@ -2758,8 +2665,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 and suspected her of philandering. In his anarchist theorising
 ## Hatta often wrote that it was the ‘creative violence of a
 
-85 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## minority’ that would rouse the masses and precipitate the
                 revolution. Whatever the merits of this strategy as a means of
 ## bringing about the revolution, it did not provide any
@@ -2790,8 +2695,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 always with young people gathered round him.’[90] In the
 ## same journal, Daidōji Saburō described how he once took
 ## Hatta on a propaganda trip to the poor farming village in
-
-86 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## Tōhoku (North-East Honshū) where he came from. Hatta’s
                 unsurpassed ability to talk to an audience of farmers for hours
@@ -2824,7 +2727,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## stretch. Whether words like ‘eloquently’ or ‘resonantly’
                 adequately describe Hatta’s delivery on those nights, I don’t
                 know, but let’s just say that they were masterly speeches, with
-87 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## Hatta talking on and on. I don’t remember what he talked
 ## about, but not even one person dozed off. The women were
@@ -2856,7 +2758,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 
                 In addition to his reputation as a public speaker, Hatta came to
                 be regarded by his comrades as ‘the greatest theoretician of
-88 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 anarchist communism in Japan’.[92] A detailed examination of
                 Hatta’s theoretical writings will be left until Chapters 5 and 6,
                 but here it is appropriate to indicate the objectives which lay
@@ -2888,7 +2790,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 judiciously siding with the ‘right’ side in the First World War,
                 Japan took over a string of formerly German-held islands in the
                 North Pacific. Parallel to this acquisition of a formal empire,
-89 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 there was a continual process under way of informal economic
                 and military penetration of China, particularly of its NorthEastern region of Manchuria, which was rich in many of the raw
 ## materials needed by Japanese industry. Eventually Manchuria
@@ -2918,7 +2820,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## entailed supporting bolshevik Russia. Hatta would have none
                 of this. For him, capitalism and bolshevism were cut from the
                 same cloth and displayed essentially the same characteristics.
-90 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 As a consequence of bolshevik attempts to industrialise, the
 ## division of labour was proceeding apace in Russia and
                 destroying patterns of communal living that had survived for
@@ -2949,7 +2851,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## meet the bolsheviks’ claims to be exponents of ‘scientific
 ## socialism’ by setting anarchism on a more self-consciously
                 scientific footing.[98] Similarly, faced with competition from
-91 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## bolsheviks employing organisational methods based on so-
 ## called ‘democratic centralism’, there were anarchists who
@@ -2981,8 +2882,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## the entirely natural process of free association by groups
 ## united in a common purpose, which was widely practised
 
-92 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## among animals and supposedly ‘primitive’ peoples, yielded
 ## better results than any form of ‘artificial organisation’,
                 including ‘democratic centralism’.[103] As for anarchist
@@ -3012,7 +2911,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 distribution of power. Hence it would be free of any incipient
                 structures that could eventually mature into a new apparatus
                 of state control. Such a society’s rhythms of production would
-93 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 flow from decisions on the levels of consumption they wished
 ## to enjoy taken by the people in their communes. Consumption
 ## would thus determine production, rather than being
@@ -3044,7 +2943,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## that, during his anarchist years, Hatta was that rare
 ## combination of a man of action and a man of thought. As
 
-94 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 Komatsu Ryūji has described him:
                 Hatta was no mere educator of the masses or activist. Still less
 ## was he a mere researcher or philosopher. His assertions and
@@ -3074,7 +2972,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 at variance with his earlier writings that some commentators
                 have even questioned whether it really was written by Hatta.
                 [108] However, I see no reason to doubt its authenticity and I
-95 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## am more inclined to explain the contradictions which exist
 ## between it and Hatta’s earlier writings by reference to his
@@ -3106,7 +3003,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## anarchists to enter the fray and make the labour movement’s
 ## concerns their own. Hatta now seemed to be encouraging
                 anarchists to base their activity on conflicts occurring within
-96 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## capitalism rather than on the struggle against capitalism,
 ## which was perceptibly dwindling by 1932.
@@ -3139,7 +3035,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## successive raids by American bombers in the closing months
                 of the Second World War, a war which anarchists like Hatta had
                 vainly struggled to prevent. People by the name of Hatta still
-97 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## live in Tsu, but all memories of Shūzō have long since
 ## evaporated. In 1990 one household dimly recalled thal their
@@ -3172,7 +3067,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 movement!’[116] The Nōmin Rōdōtō was merely a transient
 ## organisation, since the state issued a banning order within
 
-98 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 thirty minutes of the announcement of its inauguration, but the
                 anarchists were sufficiently encouraged by the effectiveness of
 ## their joint intervention on 1 December 1925 to initiate
@@ -3205,8 +3099,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## than forty speakers had been drawn up so that they could
 ## replace one another in continuous succession whenever the
 
-99 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## police ordered a speaker to stop. Sure enough, the meeting
 ## proceeded in this fashion but, as it did, the anarchists’
 ## indignation gradually rose until it reached boiling point.
@@ -3237,7 +3129,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 subtitle of this article referred to ‘Black Action Which Terrified
 ## the Watchdogs’ and this conveys an idea of the role which
                 Kokuren militants regularly assumed in such disputes. Practical
-100 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 support was given to the Keisei tramworkers, both in the form
 ## of leafleting and by physically confronting the police. The
 ## article explained that Kokuren had ‘resolved from a class
@@ -3267,8 +3159,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 confront the police with scant regard for their own safety. Other
 ## notable disputes in which Kokuren members became actively
 ## involved were those by 600 workers at Hitachi’s Kameido
-
-101 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## Factory in September/October 1926 and at the Japan Musical
 ## Instruments Company in Hamamatsu from April until August
@@ -3301,7 +3191,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## of Kokushoku Seinen was hostility to urbanisation. For
 ## example, an article in issue number 4 declared that ‘the
 
-102 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 farmers are the source of civilisation’[125] and another article,
                 entitled ‘Revolt Against the City’, in the third issue of the
 ## journal, discussed in some detail the parts to be played by
@@ -3333,7 +3222,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 framework of existing society. For this to occur, the cities would
 ## have to be destroyed and those within them who exercised
                 authority over the rest of society would have to be stripped of
-103 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 their power. In contrast to anarchist syndicalism’s aim of taking
                 over the urban industries, this article asserted that it is only
                 rulers and exploiters who need cities, not those who live by
@@ -3365,8 +3254,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 within a short time of its formation, Kokuren became a bastion
 ## of pure anarchism within the wider anarchist movement.
 
-104 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## Later issues of Kokushoku Seinen contained many articles
                 which strongly affirmed anarchist communism and stressed its
                 distinctive character relative to other currents of anarchism.
@@ -3397,7 +3284,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## FAI. More will be said about Kokuren below but, in order to
                 grasp the full extent of the shakeout between pure anarchists
                 and anarchist syndicalists which occurred in Japan in the late
-105 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## 1920s, we now need to shift the focus of our attention to
 ## Zenkoku Jiren.
@@ -3430,8 +3316,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## Labour Unions
                 Kōbe Casual Workers’ Union, Kyōto Printworkers’ Union, Ōsaka
 ## Machine Workers’ Union, Osaka Printworkers’ Union
-
-106 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## Chūgoku (Western Honshū) Libertarian Federation of Labour
 ## Unions
@@ -3466,8 +3350,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## decisions were concerned with establishing industry-by-
 ## industry organisation, persuading sympathetic but as yet
 
-107 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## unaffiliated unions to join Zenkoku Jiren, abolishing all
 ## oppressive laws and ordinances. and promoting a network of
                 Far-Eastern libertarian labour unions.[133]
@@ -3498,7 +3380,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 Similarly, Zenkoku Jiren ‘s affirmation that ‘we reject all political
 ## movements and insist on economic action alone’ mirrored the
                 Charter of Amiens’ declaration that ‘the CGT groups, outside of
-108 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 all political schools, all those workers who are conscious of the
 ## struggle leading to the disappearance of wage-earning and
                 employment’.[136]
@@ -3530,7 +3412,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 (Libertarian Federation), from 5 June 1926. The same range of
                 views on questions of theory and strategy that was evident in
                 Kokushoku Seinen was also found in the columns of Jiyū Rengō.
-109 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## Syndicalism was well represented in the early issues of the
                 journal. For example, in issue number 2 there was an article on
@@ -3561,7 +3442,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## to do so. The argument proceeded from the observation that
                 the cities grew fat at the expense of the villages, allowing some
                 crumbs from this exploitation to fall to the urban workers. Since
-110 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 continuing exploitation of the rural areas was progressively
                 impoverishing them, however, the urban workers’ share in the
 ## diminishing . surplus that could be extracted from an
@@ -3592,7 +3473,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## detailed analysis of those printworkers’ disputes which had
 ## flared up in 1926 appeared in Jiyū Rengō in September 1927.
 
-111 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 According to the figures given there, in 1926 there had been
 ## seventy disputes involving the All-Japan Printworkers’
                 Federation.[143] This high level of disputes continued into
@@ -3624,7 +3504,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## and demonstrations. Both federations also launched another
 ## joint campaign in the same year against Japan’s armed
 
-112 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 intervention in China. This was in response to Prime Minister
 ## Tanaka dispatching 2,000 troops to Shantung Province in May
                 1927, in a move designed to block Chiang Kai Shek’s northern
@@ -3657,8 +3536,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 
 ## During the conference the Communists obliged our two
 
-113 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## comrades to have only one vote and referred their items on
                 ‘Sacco and Vanzetti’ and the ‘Freeing of political prisoners in all
                 countries’ to ... representatives who were not fully informed on
@@ -3689,7 +3566,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## Seitō Undō (Anti-Political Party Movement), it opposed all
 ## political parties, no matter whether they were avowedly
                 bourgeois or supposedly proletarian. One of those behind this
-114 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## journal was Utagawa Noboru (1895–1944) who had been one
                 of Zenkoku Jiren’s delegates to the Pan-Pacific Labour Union
@@ -3721,7 +3597,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## Mizunuma explained that he was not against prosecuting the
 ## class struggle, but that he was opposed to a theory which
 
-115 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 sought to reduce all social phenomena to a simplistic scenario
 ## that allowed only for antagonism between capital and wage
                 labour. To reduce all social conflicts to this simple formula
@@ -3751,7 +3626,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## not merely aiming to transfer the ownership of the means of
 ## production from the capitalists to the workers, as Brother
                 Katamachi advocates. It has to be the initial means of going
-116 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 beyond that and realising a truly free and equal society without
                 classes and where all social exploitation will be abolished.[156]
 
@@ -3783,7 +3658,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## whether its representatives should be allowed to take their
                 seats occupied a full day and a half of conference time.[158]
                 Although the national conference eventually upheld the Kansai
-117 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## Federation’s expulsion of the Ōsaka Amalgamated Workers’
                 Union, and thus refused seating rights to the union’s delegates,
@@ -3816,7 +3690,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## all syndicalists are fighting to abolish the oppressive
                 machinery of the state and to resist capitalist exploitation. In
                 Spain too, anarchists and syndicalists apportion between them
-118 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 concern for economic questions and for the spiritual side of
                 things in such a way that theoretical disputes do not arise.
                 [160]
@@ -3849,7 +3723,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## Casual Workers’ Union, whose delegates countered by
 ## proposing a revised programme which differed less
 
-119 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 fundamentally from the original:
 
 ## We take the class struggle as the basis for the liberation
@@ -3883,8 +3756,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## The unions that withdrew from the conference included the
 ## Tōkyō Casual Workers’ Union, the Kōtō and Nankatsu branches
 
-120 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## of the Tōkyō General Workers’ Union, and the Tōkyō Food
                 Workers’ Union. There is evidence that, at least in some cases,
                 the pure anarchists were justified in accusing their opponents
@@ -3915,7 +3786,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 Han Seitō Undō eventually turned to bolshevism.[170] As
 ## Shirai Shinpei (1907–88) put it in later years, of those
                 associated with Han Seitō Undō, ‘only three people stayed with
-121 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## the black flag’—Enishi Ichizō (1901–84), Takahashi Kōkichi
                 (1903–84) and Shirai himself.[171] It would be unfair to pay
@@ -3948,7 +3818,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 and anarchist syndicalists led to the demise of the anarchist
 ## literary and theoretical magazine, Kokushoku Sensen (Black
 
-122 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 Battlefront), which had been launched in February of that year.
 ## Differences between those associated with this journal had
 ## been exacerbated by arguments over Hatta’s pamphlet The
@@ -3979,7 +3848,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## shown their real colours in splitting away from the pure
                 anarchists and were therefore as legitimate targets of violent
                 direct action as were the capitalists or the bolsheviks. Violent
-123 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## confrontations between Kokuren’s militants and anarchist
 ## syndicalists became commonplace and Kokushoku Seinen kept
@@ -4011,7 +3879,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## economic demands would be uppermost in the workers’ minds
 ## and unions would be nothing more than ‘mere organs of daily
                 economic struggle’.[175]
-124 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## Various commentators have argued that, after the anarchist
 ## syndicalists broke away from Zenkoku Jiren, it came to have
@@ -4043,8 +3910,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## redundancies and wage cuts broke out at the Shibaura Works
 ## which was jointly owned by Mitsui and the American General
 
-125 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## Electric (G.E.) Company. By the standards of the time, the
 ## Shibaura Works was a large factory, employing 1,300 workers
                 in the production of electrical machinery’. Zenkoku Jiren was
@@ -4074,7 +3939,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 cards against them. This was certainly a radically different
 ## outlook from that which has characterised most unions,
                 whether in Japan or elsewhere. Surely the most striking feature
-126 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## of Zenkoku Jiren after the departure of the anarchist
                 syndicalists from its ranks, however, was not its ‘ideological’
@@ -4107,7 +3971,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## Today a dangerous atmosphere envelops the whole of Japan.
 ## Disturbances on account of poor economic conditions are
 
-127 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 occurring here and there. We anarchists are conscious that our
                 responsibility is very great. A feeling of urgency abounds in our
                 camp.[181]
@@ -4140,7 +4003,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## Jiren grew in the period following its second conference.
 ## Although the statistics on union membership in the prewar
 
-128 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 period are not wholly reliable, the available figures show that
 ## Zenkoku Jiren reached a peak of 16,300 members in 1931.
                 [184] In September 1931 the so-called ‘Manchurian Incident’
@@ -4174,7 +4036,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 the contrary, Kokuren’s recklessly violent activism, coupled
 ## with the unremitting persecution which it experienced even
 
-129 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 prior to the Manchurian Incident, had the effect of driving all
                 but the most committed elements out of its ranks. In 1929 and
 ## 1930 sections of Kokuren’s membership in Western Honshū
@@ -4206,8 +4067,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## prohibited from public sale, the factories provided an
 ## environment in which the paper could be surreptitiously
 
-130 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## circulated from hand to hand among sympathetic workers.
 ## Without this advantage, Kokuren was swamped by the
                 formidable difficulties which were bound to beset any activist
@@ -4237,8 +4096,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## Manchuria. That is why its government has made up its mind
                 to risk anything so as not to lose its many privileges in China ...
 ## American capital has flowed into China in larger and larger
-
-131 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## amounts. This represents an enormous menace to the
                 Japanese capitalist class. In other words, now Japan is forced to
@@ -4271,7 +4128,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## several of these works were specifically directed against
 ## syndicalism, it is appropriate briefly to examine here the
 
-132 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 anarchist syndicalist current which he engaged in theoretical
                 debate. Hence, before moving on to a detailed consideration of
                 pure anarchist theories in the next two chapters, this chapter
@@ -4300,7 +4156,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## denied that the syndicalists who had broken away were
                 organisationally far weaker than Zenkoku Jiren and numerically
                 inferior’.[195] For a time during 1930 and 1931 Zenkoku Jikyō
-133 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 adopted the title Jiyū Rengō Dantai Zenkoku Kaigi (All-Japan
                 Conference of Libertarian Federation Groups) but by the end of
                 1931 it had settled on the name Nihon Rōdō Kumiai Jiyū Rengō
@@ -4330,7 +4186,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## disregarding the likelihood of beatings and imprisonment,
 ## committed themselves to struggles which were often doomed
                 to failure from the start. Two of the best-known disputes in
-134 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## which Jikyō activists were involved were the strikes at the
 ## Nihon Senjū Company and the Tōkyō Gas Company in April
@@ -4364,7 +4219,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 
 ## The Tōkyō Gas Company dispute was complicated by the
 
-135 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 divide and rule policy which the company adopted for handling
 ## its workers. In addition to ‘regular’ workers, there was a
                 category of ‘external’ workers who were not directly employed
@@ -4395,7 +4249,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 these polemics, and particularly to the part played in them by
 ## Hatta Shūzō as he strove to purify anarchism of what he
 
-136 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 considered to be alien influences, such as syndicalism, that we
 ## now turn.
 
@@ -4427,7 +4280,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 was actually achieved under the Act of 1832, Hatta maintained
 ## that ‘even if, for argument’s sake, the workers had secured
                 “universal suffrage”, it was still bound to have been a failure’
-137 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 as far as they were concerned.[199] Hatta believed that
 ## disillusionment with electoral politics had led to workers
 ## stressing the need for ‘economic action’ alone and that
@@ -4459,7 +4312,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 question what is it that ideologically underpins syndicalism, I
 ## can only conclude that it is a combination of Marxism and
 
-138 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 anarchism. In other words, syndicalism can be said to be, in
                 this sense, a hybrid creature.[202]
                 Specifically, Hatta maintained that syndicalism borrowed from
@@ -4488,7 +4340,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 of what he took to be its realised form in Russia. In any case,
                 what concerns us at this point is not the inadequacy, in this
                 regard, of Hatta’s understanding of Marxism, but his critique of
-139 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 syndicalism’s incorporation of the capitalist division of labour
                 into its union-based organisation and strategy. Here Hatta was
 ## on much firmer ground. Anarchist syndicalists believed that
@@ -4520,8 +4372,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## within large-scale industry and identified the principal
 ## consequences which flowed from it. First, he argued that,
 
-140 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## where the division of labour exists, labour becomes
 ## mechanised and, as a result, degenerates into mechanical
 ## activity. The producer becomes a cog in an inflexible
@@ -4551,7 +4401,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 of attempting to maximise profit. Yet, even if the capitalists
                 were expropriated so that all industries came to be controlled
                 by those who worked in them, there would still be a situation
-141 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 where, for example, the coal mines would be in the hands of a
 ## body of men who saw themselves as miners and looked out on
                 the rest of society from the confines of their industry. No other
@@ -4582,7 +4432,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## becomes necessary in order to coordinate the various
                 branches of production.[209] In capitalism it is the market
                 which fulfils this role, but since syndicalism’s declared intention
-142 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 was to transcend the capitalist market, it would have to find
 ## some other means to achieve this goal. The means which
                 anarchist syndicalists have generally favoured is a network of
@@ -4613,7 +4463,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 that, for all their ideological hostility to state power, the
                 anarchist syndicalists’ strategy of social transformation would
                 degenerate into the familiar social division between rulers and
-143 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## ruled? In a situation where those engaged in one branch of
                 production have ‘neither responsibility for, understanding of,
@@ -4645,7 +4494,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## the emergence of government was that most anarchist
 ## syndicalists accepted the need for exchange between
 
-144 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 economic units and for calculation in labour time. Hatta traced
 ## back to Pierre Joseph Proudhon (1809–65) the readiness of
 ## many anarchist syndicalists to resort to such economic
@@ -4675,7 +4523,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## parallel was drawn between capitalist money and syndicalist
                 labour vouchers. Since both were to function as the symbols of
                 value in their respective systems, calculation could only be
-145 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 reliably conducted in either of them if their production and
                 circulation were controlled and monitored and policed by some
 ## supervisory body. Once again, it was only the state, in one
@@ -4708,7 +4556,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 relation to the crucial question of the primacy of consumption
 ## or production? Hatta’s answer was that, by accepting the
 
-146 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 division of labour, syndicalism located itself on essentially the
 ## same terrain as capitalism and, for that matter, bolshevism
                 too:
@@ -4741,7 +4588,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 It is worth noting that Hatta extended his criticisms of union-
 ## based syndicalism to the alternative revolutionary strategy
 
-147 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 which sought to use soviets (workers’ councils) as the means
                 to overthrow the existing order and establish a new society in
 ## its place. Advocates of this strategy have often pointed to
@@ -4773,8 +4619,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 branch criticism of soviets, Hatta and his comrades were not
 ## impressed by those who sought to distinguish between
 ## genuine soviets and their bolshevik-dominated namesakes in
-
-148 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## Russia. Hatta maintained that, irrespective of whether they
                 were manipulated by party bosses or were the freely organised
@@ -4808,8 +4652,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## Although Hatta made a major contribution to pure anarchist
 ## theorising on the class struggle, it was Iwasa Sakutarō who
 
-149 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## most pithily captured the pure anarchists’ distrust of the
 ## conventional labour movement with his ‘mountain bandit’
 ## theory. In an essay on ‘The Labour Movement and the Mass
@@ -4840,7 +4682,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 become an approval of capitalism, an assenting to capitalism,
 ## and amounts to appealing and imploring to the capitalists’.
                 [224]
-150 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## The nub of Iwasa’s criticism of the conventional labour
                 movement was that it had allowed itself to be incorporated into
@@ -4873,7 +4714,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## Hence their movement—that is, the class struggle—does not
                 fundamentally break with the plunder and exploitation of the
                 capitalist system. It is essentially a conservative, reformist
-151 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## movement which is in harmony with capitalism, compromises
                 with it, or even inherits its pillage and exploitation. It is not a
@@ -4904,7 +4744,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 Restoration of 1868, and beyond that to the Confucian classics,
 ## Iwasa described those who would provide the spark to kindle
                 this vision as ‘many anonymous activists and people of virtue
-152 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 and righteousness’ (ikuta mumei no shishi jin jin gishi). ‘Due to
                 their activity and their effort, the notion of a just future is
                 clearly implanted in the heads of the people and, in this way,
@@ -4935,7 +4775,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## whatever percentage of their land was rented) the poverty
 ## which afflicted the tenant farmers was not in dispute, but
 
-153 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 Hatta’s point was that there was no direct connection between
                 poverty and proletarianisation. Nor was there any perceptible
 ## trend towards the tenant farmers becoming wage labourers,
@@ -4966,7 +4805,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 developed capitalist countries being ripest for revolution, one
 ## found that the living conditions of workers were improving
 
-154 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 there and that they were not the ones to manifest any spark of
 ## rebellion. Workers in the advanced countries seemed to be
 ## largely preoccupied with maintaining and improving their
@@ -4996,7 +4834,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## rival concept of the ‘proletariat’, so he put forward
 ## ‘revolutionary action’ as an alternative strategy to ‘class
                 struggle’.[237] By drawing a sharp contrast between class
-155 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 struggle and revolution, Hatta found another opportunity for
                 attacking syndicalism:
 
@@ -5028,7 +4866,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 Hatta argued that a third characteristic of the class struggle
 ## was that, even as classes pitted themselves against each
                 other, there was a tendency for them to develop similar tactics.
-156 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## In this sense, class war was much like any other form of
 ## warfare. In military confrontations, if one side acquires a
@@ -5059,7 +4896,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 argued that even if the class struggle were fought successfully
                 to the point of ‘final victory’ for the oppressed class, the
                 outcome ‘will be nothing more than a reversal of positions’.
-157 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 [241] He predicted that. even if the former oppressors were
                 subjugated, a new ruling class would emerge from the formerly
 ## oppressed and ironically the class struggle would persist.
@@ -5089,7 +4926,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 then we are forced to say that it is a major mistake to declare,
                 as the syndicalists do, that the revolution will be brought about
                 by the class struggle. Even if a change in society came about
-158 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## by means of the class struggle, it would not mean that a
                 genuine revolution had occurred.[244]
@@ -5122,7 +4958,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## antagonism within society and he expended much energy on
 ## opposing those who sought to orient anarchism towards a
                 struggle which would pit the agricultural villages against the
-159 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 cities.[245] In articles with titles such as ‘Against Physiocracy’,
                 Hatta criticised anarchists of this latter persuasion not because
                 of their hostility towards the cities, nor even because they look
@@ -5154,8 +4990,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 intended to do. Instead, the pure anarchists sought to bring
 ## about a revolution which would be jointly executed by the
 
-160 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## farmers in the villages and the wage-earning workers in the
                 clues. The aim of such a revolution would be to dissolve the
 ## cities and convert the villages into the communes which the
@@ -5185,7 +5019,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## commodities, the same factors of poverty and ignorance
 ## enabled the urban entrepreneurs to sell them expensively.
                 [248]
-161 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 Hatta was well aware that urban wage earners are exploited by
                 their capitalist employers. Nevertheless, he was still of the
 ## opinion that the workers in the cities benefited from the
@@ -5215,7 +5049,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 as lending weight to, rather than countering, the physiocrats’
 ## contention that city folk prospered at the expense of the
                 villagers. Yet where Hatta parted company with the physiocrats
-162 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 was in his claim that ‘in today’s society, everybody exploits
 ## everybody else and robs each other. Everybody engages in a
                 struggle for existence with everybody else.’[251] Actually or
@@ -5246,7 +5080,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 physiocracy was that ‘anarchism is opposed to the antagonism
                 between city and village (physiocracy is opposed only to the
                 city)’.[254]
-163 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## Although the physiocrats were opposed to inequality between
                 the cities and the villages, they were far from being against
@@ -5277,7 +5110,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 [255]
                 In passages such as this, Hatta tried to persuade the peasants
                 and tenant farmers to see their villages in a different light from
-164 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## that shed by physiocracy. Poor and exploited though the
                 villages might be, and though they might fall far short of the
@@ -5312,8 +5144,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 on their own in the cities. Echoing Kropotkin’s warnings in The
 ## Conquest of Bread, Hatta asked what would be the outcome of
 
-165 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## an uprising which was confined to the city alone. Dwindling
                 food stocks would soon precipitate a crisis and any attempt to
 ## solve this by adopting authoritarian measures towards the
@@ -5344,8 +5174,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 assault on science. In a series of articles on ‘Natural Science
 ## and Anarchism’ which appeared in Rōdō Undō (Labour
 ## Movement) in 1927 he announced his intention ‘to prove that
-
-166 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## natural science is the enemy of the people and to give a
 ## detailed explanation of the fact that a new system of
@@ -5378,7 +5206,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## communal well-being was usually endowed with a spiritual
 ## aura. The other vital aspect of supposedly ‘primitive’
 
-167 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 knowledge to which Hatta drew attention was that it was held
 ## in common by the community as a whole, it was not the
                 property of specialists, nor was it used to bolster the power of a
@@ -5408,7 +5235,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 therefore inaccessible to the mass of the people, and could be
                 used as an allegedly neutral and value-free arbiter whenever
                 people’s interests were sacrificed in the name of ‘progress’.
-168 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## Hatta insisted that there was thus a parallel between
                 capitalism and earlier types of class society. In the ancient
@@ -5439,7 +5265,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## crying, in the face of this machine of giant nature, human
                 beings become creatures devoid of any authority.’[266] For
                 Hatta the danger inherent in this attitude was that scientists
-169 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## come to erect ‘natural laws’ which, because they are
                 considered to be expressions of incontrovertible reason, take
@@ -5471,7 +5296,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 science too is based on mathematics, in the sense that it relies
 ## on methods such as quantitative assessment and establishing
                 numerically derived norms which are to be enforced with scant
-170 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 regard for local conditions and exceptional circumstances. In
 ## place of science, Hatta looked to the emergence of a new
 ## system of anarchist communist knowledge which would adopt
@@ -5501,7 +5326,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## he should have translated into Japanese Kropotkin’s Modern
                 Science and Anarchism. In his preface to the translation Hatta
                 had to admit that Kropotkin’s purpose in writing this booklet
-171 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## had been to give anarchism a scientific foundation and he
 ## conceded that Kropotkin ‘grasped the points of agreement
@@ -5534,7 +5358,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 must be verified. Its aim is to construct a synthetic philosophy
 ## comprehending in one generalization all the phenomena of
 
-172 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 nature—and therefore also the life of societies.[274]
 
 ## Hence it was ironic that Hatta should have attributed to
@@ -5567,8 +5390,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## We have already seen that Hatta wrote extensively on the
 ## theory of the class struggle, which was one of the main
 
-173 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## weapons in Marx’s theoretical armoury. Yet, although Hatta
 ## referred to Marx when discussing the problems involved in
                 aggregating people into social classes, it was the anarchist
@@ -5600,7 +5421,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 when he criticised Proudhon, for example). In the case of the
 ## labour theory of value, however, Marx was frequently the
 
-174 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 direct object of Hatta’s critical attention. His two principal
                 objections to the Marxian labour theory of value were, first,
 ## that value is a subjective quality which cannot be measured
@@ -5630,7 +5450,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 not escape from the fundamental principles of capitalism. On
 ## the one hand, his theory became collective individualism
                 (where a collective engaged in a certain industry exclusively
-175 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## possesses value created by the whole of society) and, as a
 ## result, was separated from true communism. On the other
@@ -5662,7 +5481,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## of economic calculation. Any system which employed such
 ## devices would be no more than a variant of capitalism,
                 maintained Hatta. It could not legitimately be considered as
-176 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## even a preliminary stage of communism, since ‘when labour
 ## becomes the basis of all value we are destroying the
@@ -5694,7 +5512,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## Kropotkin, anarchism would have been overwhelmed by
                 Marxism:
                 In the days of the First International, anarchism and Marxism
-177 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 gave the appearance of setting up in business together. In fact,
 ## it was thanks to Kropotkin that anarchism was rescued from
 ## this major crisis. If Kropotkin had not appeared, anarchism
@@ -5725,7 +5543,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## place and whose further development should be
 ## uncompromisingly opposed. One of his most outspoken
                 statements to this effect appeared in an article in Kurohata
-178 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 (Black Flag) in 1931, where he wrote: ‘Capitalism is a disease
                 which absolutely should not be contracted. It is a stage which
                 absolutely should not be permitted to exist in history.’[286]
@@ -5757,8 +5575,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 villages, found in all countries throughout the ages, which have
 ## organised their own affairs and practised a natural
 
-179 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## communism, although he also pointed to those ‘free towns’
                 which successfully threw off central authority in periods such
                 as the European Middle Ages.[288] Hatta’s view was that,
@@ -5788,7 +5604,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## communism (large-scale industry). Conversely, for Hatta
                 capitalism merely erected obstacles in the way of communism.
                 By siphoning off revolutionary energy into the class struggle
-180 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 and accentuating the division of labour, it impeded progress
 ## towards communism. It should also be added that, because
 ## neither the wage-earning working class nor mass production
@@ -5820,7 +5636,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## Looked at from this perspective, it struck Hatta as a
 ## ‘mechanical world view’ which lacked ‘poetry, creativity or
 
-181 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 impulsiveness’.[292] For Hatta, communism could be achieved
                 at any level of technological development, irrespective of the
                 productive capacity that was available. All that was required
@@ -5852,7 +5667,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## to philosophical materialism derived from the fact that
 ## materialism lakes the principle of necessity and not the
 
-182 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 principle of liberty as its fundamental point of reference.[296]
 ## On the other hand, in another article which appeared in
 ## January of the same year, he denied that his arguments
@@ -5885,7 +5699,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 
              3. They alter material conditions by means of mutual aid, which is
                 a manifestation of their will to exist.[299]
-183 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 Both idealist and materialist elements were interwoven here in
                 the shape of ‘their will to exist’ and ‘material circumstances’
                 respectively. Hatta’s objective, however, was not to identify his
@@ -5918,8 +5732,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## anarchist communists. They followed Kropotkin and the other
 ## pioneers of anarchist communism in envisaging the new
 
-184 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## society as a federation of autonomous communes organised
                 on the basis of free agreement, well-being for all and mutual
                 aid. Production and consumption were to accord with the wellworn formula that people ‘would work according to ability’ and
@@ -5950,7 +5762,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 anarchist communism was little different from the way in which
 ## it has often been depicted before and since. However, Hatta
 
-185 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 tried to get beyond the level of vague generalisation so as to
                 discern in more concrete detail the essential contours of an
 ## anarchist communist society. In order to do this, he took a
@@ -5982,7 +5793,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 individual desires. To put it another way, it is to plan the
                 satisfaction of individual desires. The fundamental principle of
                 the communist system lies here. Kropotkin said that if one’s
-186 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 point of departure is not the satisfaction of individual desires,
 ## one cannot reach a genuinely communist system. It has to be
                 said that this remark of Kropotkin’s is truly the definitive
@@ -6014,7 +5825,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 everyone from scarcity mere utopianism? Is it impossible for
 ## humans to escape from their fate of desires which are
                 unlimited and scarcity which knows no bounds?[306]
-187 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 Hatta’s answer was that, on the contrary, there were definite
                 limits to desires and that it was quite possible, even on the
                 basis of the existing forces of production, to attain a situation
@@ -6044,7 +5855,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 affairs found in existing society, the symptoms of cancer crop
 ## up in our desires. But this should not be taken as the real
                 nature of cells.[307]
-188 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 Hatta argued that, even in a diseased society like capitalism,
                 pathology did not go unchallenged. Physiology was at work too
                 and predictably he cited the farmers as evidence of this. As on
@@ -6075,7 +5886,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## assumed insatiability of human desires, so Hatta’s social
 ## physiology took solidarity between human beings as its
                 foundation stone. Obviously, to build a physiologically sound
-189 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## society on this foundation meant to eliminate those
 ## pathological features which, in combination, constitute the
@@ -6108,7 +5918,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## a particular danger of this occurring if the politically
 ## decentralised communes continued to practise an economic
 
-190 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 division of labour. Economic specialisation within the commune
                 could easily provide an opportunity for the emergence of new
 ## forms of social stratification, where those with particular
@@ -6139,7 +5948,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## the margins, there should not be giving and receiving (as
 ## distinct from exchange) relations between communes. What
                 had to be avoided, however, was reliance on external sources
-191 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## for vital supplies, since this would make any commune which
                 was caught in that situation vulnerable to outside pressure. If
@@ -6172,8 +5980,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 anarchists openly considered them illustrates the lengths to
 ## which they were prepared to go, if necessary, in order to
 
-192 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## safeguard decentralisation and to circumvent the power
                 relations inherent in a situation where energy sources or other
 ## vital supplies lay outside the local commune’s control.
@@ -6204,7 +6010,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 whereby the villages cease to be mere communist agricultural
                 villages and become a cooperative society which is a fusion of
                 agriculture and industry?’[313] Third, due to the combined
-193 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## effects of the reasons given above, they also expected that
 ## there would be an explosion of inventiveness and fruitful
@@ -6237,7 +6042,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## writings are numerous remarks to the effect that ‘humankind
 ## cannot advance to happiness by means of a large volume of
                 production’.[315] As has already been mentioned, the ultimate
-194 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 meaning of political and economic decentralisation for Hatta
                 was that he saw it as the key to people retaining control of their
                 own lives and not finding themselves on the receiving end of
@@ -6269,7 +6074,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## no special coordinating organ will be required. A superior
 ## organ, composed of people who coordinate production without
 
-195 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 taking part in production, will not be needed. In other words,
                 coordination will occur internally, within the commune, so that
                 there will be no danger, or even possibility, of power emerging.
@@ -6301,7 +6105,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 Gyo [業] is literally ‘occupation’. Hence, in combination with
                 bun, we get bungyō [分業], meaning the ‘division of
                 occupations’ or, more colloquially, the ‘division of labour’. Te
-196 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 [⼿] is a character signifying ‘hand’, so that tewake [⼿分け]
 ## conveys the meaning ‘hands divided’ or, again more
                 colloquially, the ‘division of work’. Bearing these lexicological
@@ -6332,8 +6136,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 branches of production. It was Hatta’s belief that, within the
 ## context of the decentralised economy of anarchist
 ## communism, the division of work would not lead to these
-
-197 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## doom-laden consequences, both because of the limited
                 geographical scale, and because of the intense solidarity, of
@@ -6367,7 +6169,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 Hatta’s view, the threat of exploitation always existed when
 ## people were reduced to dependency through being forced to
 
-198 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 rely on others for the means of life. To avoid this predicament,
                 people needed to achieve a situation where, individually and
                 collectively, they were self-sufficient (jisoku) and practised self-
@@ -6399,7 +6200,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## one could reasonably expect all members of a commune to
 ## take part in the production of a crop which is universally
 
-199 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 recognised as ‘essential’ throughout Japan. In the case of a
 ## product such as tobacco, however, it would be reasonable to
                 expect that only smokers would cooperate in the effort to grow
@@ -6429,7 +6229,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 arts and (to use current terminology) ‘sciences’ too.[322]
 ## Nevertheless, the same principle would apply as within the
 
-200 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 field of ‘essential production’. If any individual found himself or
                 herself alone in the pursuit of certain cultural interests, there
 ## would be no impediments to single-handed enquiry and
@@ -6462,8 +6261,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## process which extends over many months and involves
 ## numerous distinct operations. To mention only the most
 
-201 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## obvious jobs involved, these include ploughing, tending the
 ## seedbeds, flooding the paddy fields, transplanting the
 ## seedlings, maintaining the irrigation system, harvesting,
@@ -6494,8 +6291,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 coin. The abolition of one depended on the elimination of the
                 other and the means for achieving these twin goals lay in the
 ## decentralised commune practising the ‘division of work’ as
-
-202 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## distinct from the ‘division of labour’.
 
@@ -6529,7 +6324,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 ways suited them best so as to achieve freely agreed levels of
                 consumption. This is very different from existing society, where
                 people’s desires for consumption are continually eclipsed by
-203 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 production considerations, reflecting either the state’s interest
                 in expanding production or the effect of capitalism’s economic
 ## laws. In an anarchist communist society neither of these
@@ -6560,7 +6355,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 between workers and capitalists at the point of production, it
                 was only to be expected that those whose strategy and tactics
                 flowed from the class struggle would focus on production. This
-204 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## was how he explained the prevalence of slogans such as ‘the
                 workers’ right to work’ or ‘the producers’ right to produce’
@@ -6591,7 +6385,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 him, liberty was defined as the freedom of people to realise
                 their desires. That was why he denounced as inimical to liberty
                 any social system which, by prioritising production, frustrated
-205 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 people’s ability to satisfy their desires:
 
 ## In making production our economic starting point, human
@@ -6624,7 +6418,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## The pure anarchists were not content with simply dreaming
 ## about the new world of anarchist communism, but were
                 committed to an all-out effort to bring it about. Commitment to
-206 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 anarchist communism’s realisation, however, raised questions
 ## such as what form of organisation would be best suited to
 ## achieving this goal and what should be the relationship
@@ -6656,7 +6450,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## the organisational principle of the anarchist communist
 ## movement, but Hatta denied that this was one theory of
 
-207 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 organisation among several contending theories. Rather it was
                 the case, suggested Hatta, that libertarian federation has the
                 status of a ‘fundamental truth’ (genri) which we all recognise
@@ -6686,7 +6479,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## sizeable movement at the same time that it provided ample
                 scope for individual initiative and action. Hatta believed that
                 libertarian federation met these requirements entirely. On the
-208 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 one hand, it was ‘based on the freedom of will and spirit of
 ## independence of the individual’, but it also encouraged the
 ## individual to ‘federate with other individuals according to
@@ -6717,7 +6510,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## criticism of syndicalism. Hatta claimed that one of
                 syndicalism’s contradictions was that it sought to combine the
                 theory of creative violence by a minority, which it borrowed
-209 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 from anarchism, with the theory of the class struggle, which
                 derived from Marxism. In the course of criticising syndicalism’s
                 use of what he regarded as these two contradictory theories,
@@ -6746,7 +6539,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## stranglehold on the farming communities and hence enable
 ## the latter to flower naturally into the autonomous communes
                 of the new society.[336]
-210 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## Nevertheless, despite the role which Hatta expected the
                 anarchist minority to fulfil in the early stages of a revolution, it
@@ -6779,8 +6571,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 ‘transitional period’ to be interposed between the old society
 ## and the new. Looked at from an economic angle, he
 
-211 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## maintained that it would be positively harmful to institute
 ## centralised control of the economy, since it was turning
 ## immediately to decentralised production in the communes
@@ -6812,8 +6602,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 
 ## From 1931 the Japanese state became locked into an
 
-212 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## intensifying spiral of external aggression and internal
 ## repression. Externally, the Japanese army provoked the
 ## Manchurian Incident in September 1931, the puppet state of
@@ -6844,7 +6632,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 unions together again into a single, decentralised federation. A
 ## second tendency among the pure anarchists reacted to
                 repression in the cities by turning even further away from the
-213 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## urban centres and adopting an even looser organisational
                 structure than Zenkoku Jiren. This tendency is best represented
@@ -6877,7 +6664,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 their efforts lay the determination to resist the capitalist state.
 ## Even if one judges some of the strategies they employed to
 
-214 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 have been seriously flawed, they surely deserve respect for the
                 fact that the state had to crush them, since it could not win
 ## them over.
@@ -6908,7 +6694,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 ‘we should establish close contact with the people and enter
 ## into their midst via those commercial transactions which
                 constitute the labour movement’.[342] This certainly
-215 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## prefigured the reassessment of the labour movement which
 ## many in Zenkoku Jiren were to undertake before long. In a
@@ -6941,7 +6726,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## development in the years after 1931 as a slide towards
 ## compromise and away from anarchist communist principles.
 
-216 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 Yet, as the following account will attempt to convey, even if
                 such criticism is legitimate, it should nevertheless be tempered
 ## by an adequate appreciation of the difficulties and dangers
@@ -6973,7 +6757,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## capital were conspicuously absent. It is true that the
 ## immediate demands of the ‘action programme’ were intended
 
-217 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 to fit in with the strategy encapsulated in the first clause of the
 ## new ‘programme’ (kōryō) which the third conference was also
                 intended to consider. This stated that ‘we shall advance to the
@@ -7004,7 +6787,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## Zenkoku Jiren and Jikyō moved towards one another on the
 ## basis of an increasingly shared reformism. A few days after
                 Zenkoku Jiren’s aborted third conference, its representatives
-218 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 again met with delegates from Jikyō and decided to participate
 ## jointly in the coming May Day demonstration, using the
                 common slogans ‘Against War’, ‘Against Fascism’ and ‘Against
@@ -7035,7 +6818,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 capitalism.[350] This group gained editorial control of Jiyū
 ## Rengō Shinbun and, having severed its association with
                 Zenkoku Jiren, used the journal as a vehicle for promoting the
-219 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## policies it favoured.
 
@@ -7068,7 +6850,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 
 ## Developments abroad also helped to create an atmosphere in
                 which the idea of a ‘united front’ had increasing appeal within
-220 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## the ranks of Zenkoku Jiren. In Germany the Nazis came to
                 power in January 1933. Reacting to this, both Zenkoku Jiren and
@@ -7100,8 +6881,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## itself aligned in ‘united fronts’ made strange bedfellows
 ## indeed.
 
-221 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## Yamaguchi’s recollections are also useful for conveying how
 ## the changing orientation of Zenkoku Jiren appeared to its
                 erstwhile opponents in Jikyō. To anarchist syndicalists like
@@ -7131,8 +6910,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 not anarchists’.[355] The accompanying article on ‘Various
 ## Problems of the Union Movement’ called for ‘rigorous self-
 ## criticism’ and sought to turn Zenkoku Jiren away from its
-
-222 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## preoccupation with ‘ideological purification’ towards ‘the
                 struggle of the masses to live’.[356] In a similar vein, an
@@ -7164,7 +6941,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## on The Libertarian Commune and Anarchist Syndicalism’,
 ## which appeared in Jiyū Rengō Shinbun on 10 September 1933.
                 As we have seen, the pure anarchists’ vision of a new society
-223 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 took the form of a federation of libertarian communes. In an
 ## attempt to find common ground with the pure anarchists of
                 Zenkoku Jiren, a Jikyō study group issued a report during 1933
@@ -7195,7 +6972,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 The writer of this article did not reject unions out of hand. On
 ## the contrary, he was quite prepared to concede that ‘in our
                 opinion, labour unions are indispensable in present-day society
-224 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 for purposes of struggle, training and preparation’, but he was
 ## nevertheless adamant that, in the event of revolution, they
                 would be replaced by entirely different types of organisations.
@@ -7226,7 +7003,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 Yet, despite such outspoken support for Zenkoku Jiren’s long
 ## established scepticism with regard to syndicalism’s
                 revolutionary credentials, the article still came out strongly for
-225 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 a ‘united struggle’ with Jikyō. The writer of this article did not
                 pretend that Zenkoku Jiren and Jikyō now saw eye to eye on all
                 questions, but he did argue, with little evidence to support
@@ -7258,7 +7035,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## struggles were justified in view of the period of reaction
 ## through which Japan was currently passing. One of the
 
-226 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 purposes of ‘united fronts’ was given as to ‘win over to our side
 ## the masses who have fallen under anarchist syndicalism’s
                 influence, bring their ideas into line with ours and incorporate
@@ -7290,8 +7066,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## anarchism. When the accommodation with anarchist
 ## syndicalism eventually came, it took the form of a joint
 
-227 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## statement issued by Zenkoku Jiren and Jikyō on 1 January
                 1934. With evident high hopes, this claimed that:
 
@@ -7322,7 +7096,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 In these stormy times, we must strengthen our forces for the
 ## battle.
 
-228 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 Total opposition to sackings, wage reductions and short-time
 ## working (rinkyū).
 ## Down with fascism—the tool of the capitalists.
@@ -7354,7 +7127,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 as a body, nothing more than a mere handful’.[373] Certainly it
 ## was a ‘mere handful’ who gathered in 1935 at Shibaura in
 
-229 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 Tōkyō for what proved to be the last May Day demonstration to
                 be held in prewar Japan. The police were out in force to control
 ## a mere 300 demonstrators, the speakers addressing the crowd
@@ -7384,8 +7156,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 ultimate tragedy was that Zenkoku Jiren failed in this trade-off
                 and, in the final reckoning, ended up with both its organisation
 ## and its principles in tatters.
-
-230 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## Nōson Seinen Sha (Farming Villages Youth Association)
 
@@ -7417,7 +7187,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## One of the best ways of putting Nōseisha’s theories into
 ## context is to refer to Suzuki Yasuyuki’s (1903–70) pamphlet
                 History of the Japanese Anarchist Movement, which he wrote in
-231 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## 1932. Suzuki was one of Nōseisha’s most important
                 theoreticians and in this pamphlet he traced, from Nōseisha’s
@@ -7448,7 +7217,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 was:
                 But Hatta does not say how this is to be put into effect. It goes
                 without saying that herein lies the idealism of Hatta Shūzō’s
-232 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 anarchism.[379]
 
 ## Suzuki was also critical of the organisational methods
@@ -7480,7 +7249,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 essentially that the entire farming village would rise up, take
                 control of the land, oust the landlords, sever its links with the
                 urban capitalist economy, and resist the state’s demands, such
-233 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## as the payment of taxes and the conscription of young men.
 ## Comparing this projected revolution with such previous
@@ -7512,8 +7280,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## and June 1930, even before Nōseisha had been formally
 ## constituted. Here the handling of anarchist communism was
 
-234 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## unexceptional and there were many echoes of Hatta’s
 ## deliberations on the same subject. However, by the time the
                 later chapters of the pamphlet were published in Kurohata in
@@ -7543,7 +7309,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 was strongly critical of ‘centralised organisation’. In developing
 ## his argument, he rejected not merely overtly centralised
                 bodies but even large-scale federations, including those whose
-235 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 ostensible organisational principle was libertarian federation.
 ## Hence one section of the text was subtitled ‘The Fallacy of
 ## Amalgamation (Kesseishugi); the Dissolution of Kokuren and
@@ -7575,8 +7341,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## organisational methods produced a fierce reaction from the
 ## latter and the situation was not helped when, in November
 
-236 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## 1931, Nōseisha secretly issued a ‘Report on the Situation
 ## Throughout the Country’ which, it was claimed, would prove
                 useful to the authorities if it fell into the hands of the police. In
@@ -7607,8 +7371,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## March 1931 it started to issue the journal Nōson Seinen
                 (Farming Villages Youth), which served as its national
 ## mouthpiece, and also its members in Tōkyō often assumed the
-
-237 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## functions of a de facto leadership. Contradictions between
                 Nōseisha’s theory and practice of organisation thus evidently
@@ -7642,8 +7404,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## whatever the circumstances, that we are revolutionaries.
 ## However, we are not leaders divorced from the masses.
 
-238 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## Therefore we must always be prepared to act as anarchist
 ## revolutionaries who are with the masses and who are in the
                 van of the revolution proceeding from the masses.[392]
@@ -7675,7 +7435,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## claimed that the reasons for Nōseisha’s formation no longer
                 applied since ‘the anarchist movement in the villages has risen
                 beyond that originally planned by Nōson Seinen’.[393]
-239 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## Although Nōseisha had built up a network of several hundred
                 supporters in Nagano Prefecture and elsewhere, there is little
@@ -7709,8 +7468,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## In December 1933 Aizawa Hisao and four similarly minded
 ## comrades, who were working within Zenkoku Jiren to bring
 
-240 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## about its reorientation towards the class struggle and its
 ## reunification with Jikyō, formed the Nihon Museifu
 ## Kyōsanshugisha Renmei (League of Anarchist Communists in
@@ -7742,7 +7499,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 leaders. Needless to say, they trusted themselves to relinquish
 ## leadership once the revolution was secure.
 
-241 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 The bolshevik influence at work here is a point which hardly
                 needs to be laboured. What is worth noting, however, is that
 ## none of those who set up the League came from a bolshevik
@@ -7773,8 +7529,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 On 30 January 1934, as Hatta Shūzō lay dying, the League was
 ## reconstituted as the Party. Although its membership was
 ## subsequently expanded, it continued to keep its existence a
-
-242 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## closely guarded secret and never had more than a few dozen
                 members. Its membership was deliberately restricted, partly to
@@ -7808,8 +7562,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
              1. Abolition of power politics and the capitalist system.
 
              2. Establishment of a system of complete local autonomy.
-
-243 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
              3. Abolition of the private property system.
 
@@ -7845,8 +7597,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## revolution, when the people had asserted themselves
 ## sufficiently to engage in economic construction from the
 
-244 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## bottom up and were ready to exercise their own control over
                 society, would the Party ‘of its own accord relinquish power’.
                 [403] In other words, the Party’s strategy, like the League’s
@@ -7879,7 +7629,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 against his upbringing, was fascinated by strong-arm tactics
                 and acts of violence. A plan was hatched to carry out a robbery
                 in order to raise funds for the Party and a firearm was acquired
-245 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 for that purpose. However, before this plan could be put into
 ## effect, Futami and others became suspicious of a member
                 called Shibahara Junzō (?1901–35), believing him to be at best
@@ -7912,8 +7662,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 
 ## This repression certainly mortally wounded Zenkoku Jiren.
 
-246 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## From factory and workplace, no matter whether they were
 ## men or women, those regarded as activists were arrested
                 indiscriminately, without any distinction being made between
@@ -7945,7 +7693,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 
                 As they hounded the anarchists, the authorities also used the
                 press to justify the witch-hunt that they were conducting. With
-247 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 headlines such as ‘A Frenzied Bunch Dreaming of an Ideal’ or
 ## ‘Extending From Its Nagano Stronghold Across the Whole
 ## Country—A Black Encampment Expanding Itself Resolutely’
@@ -7979,7 +7727,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## hothouse, claustrophobic atmosphere of a self-styled
 ## vanguard, the Party’s members increasingly lost touch with
 
-248 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 reality, even to the extent of bizarrely executing one of their
 ## number who fell under suspicion. Needless to say, Futami’s
                 murder of Shibahara was a godsend to a state which wanted to
@@ -8010,7 +7757,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 redress it in liberal garments, few remembered those who had
                 resisted authoritarian rule long before it was fashionable to do
                 so. Fewer still remembered the anarchist maxims that there is
-249 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 no such thing as a ‘good state’ (as opposed to a ‘bad state’)
                 any more than there is an ‘acceptable form of capitalism’ (as
 ## opposed to an ‘objectionable form of capitalism ‘). A new
@@ -8042,7 +7789,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 utopian fantasy. And, although supporters of capitalism would
 ## prefer not to admit it, it also assumes that there was no
 
-250 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 alternative to Japan becoming an armed nation-state, ready to
 ## engage in war in defence of its economic interests, as
 ## eventually happened with such catastrophic consequences
@@ -8074,7 +7820,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 nation-states. For example, Miyazaki Akira suggested in Appeal
 ## to the Farmers that a country of Japan’s size would become
 
-251 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 ‘several hundred or so communal societies’.[412] Reduced to
                 this scale, each commune would function largely on the basis
                 of face-to-face relationships, without the need for extensive
@@ -8105,8 +7850,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 agriculture and industry, which would manifest itself both in
                 the life of the commune as a whole and in the lifestyles of its
 ## individual members. Men, women and children were expected
-
-252 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## to become well-rounded individuals with many aptitudes and
                 interests. rather than narrow specialists locked into a particular
@@ -8140,8 +7883,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## were the only obstacle to gauging anarchist communism’s
 ## economic performance in terms of capitalism’s criteria, it
 
-253 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## might be possible to come up with a computer simulation of
                 such an ‘economy’ and estimate its likely productive efficiency
                 relative to that achieved by capitalism at an equivalent stage
@@ -8171,8 +7912,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## assess its operations against the performance indicators to
 ## which the pure anarchists attached most importance, such as
 ## personal liberty, communal solidarity and the individual’s
-
-254 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## unconditional right to free consumption. Faced with such
 ## demands, capitalism would either have to admit that these
@@ -8205,7 +7944,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## The technical reason why anarchist communism, even if it
 ## could be simulated by computer, could not be evaluated by
                 reference to capitalist criteria is that it was intended to be a
-255 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## moneyless society which would not employ a universal
 ## equivalent for measuring economic value. A capitalist state
@@ -8237,7 +7975,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 performance indicators which are tailored to meet capitalism’s
 ## requirements, we can now evaluate it against those criteria
                 which reflect its own priorities. Appropriate yardsticks would be
-256 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 the extent to which it could have provided for individual liberty
 ## and communal solidarity, and the extent to which it might
 ## reasonably have been expected to achieve economic well-
@@ -8268,7 +8006,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 is equally far-fetched to imagine that millions of young men
 ## from impoverished villages and urban shuns would have
                 voluntarily departed in order to kill and be killed on distant
-257 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## battlefields, whose geographical location they often barely
 ## comprehended, for reasons which bore no relation to the
@@ -8300,7 +8037,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 cities, workers competed to sell their labour power amidst the
                 insecurity created by economic uncertainty and the perpetual
                 fluctuations in the level of unemployment. In addition, urban
-258 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## workers were further divided against one another as
 ## employers played off males against females and ‘regular’
@@ -8333,8 +8069,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## provided with any means to pursue their interests at the
 ## expense of the people. Both state and imperial institutions
 
-259 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## would have been swept away. leaving the people free to lead
                 an independent and self-reliant existence in their communes,
 ## without any coercive or mystifying interference by outside
@@ -8363,8 +8097,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## benefit and enjoyment, and the traditional communal
 ## solidarity of the villages could have reasserted itself and
 ## flourished even further.
-
-260 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## Even if it is thus a reasonable conjecture that the society
                 favoured by the pure anarchists could have met its objective of
@@ -8395,7 +8127,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 the total workforce in the factories fell from 55 per cent in 1929
                 to 41 per cent in 1936, textiles still accounted for 52 per cent of
                 all Japan’s exports in the mid-1930s.[415] Being such an
-261 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## export-oriented sector, the textile industry was totally at
                 variance with the pure anarchist principles of self-sufficiency
@@ -8428,8 +8159,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 the local population. There was nothing inherently unrealistic
 ## about the pure anarchists’ confidence that the products of
 
-262 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## communal workshops could have enriched ordinary people’s
                 lives immeasurably more than the often inappropriate (not to
 ## mention prohibitively expensive) commodities manufactured
@@ -8460,8 +8189,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 only when forced to do so tells us infinitely more about wage
 ## labour and the nature of capitalist employment than it does
 ## about work per se or the nature of humans. Similarly, the
-
-263 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## equally ideological claims by supporters of capitalism that
                 desires are infinite and that consumption will run riot unless
@@ -8494,8 +8221,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## enormous resources were committed to activities which are
 ## essential to capitalism but which would become entirely
 
-264 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## redundant with the achievement of anarchist communism. The
                 vastly wasteful armed forces might be the example which first
 ## comes to mind, but to these could be added the legions of
@@ -8526,7 +8251,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 explained in detail, but it should be recognised that, in rightly
                 establishing a link between economic specialisation and power
                 relations, he probably went too far in the opposite direction. In
-265 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## other words, he neglected the danger posed by the emergence
                 of strong local identities and loyalties in a society based on
@@ -8559,7 +8283,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 significant leap in the realm of ideas than most pure anarchists
 ## allowed for. Whereas the pure anarchists generally
 
-266 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 acknowledged that the process of ‘becoming an anarchist’ was
 ## a major step, which involved throwing off capitalism’s
 ## ideological domination and embracing a new view of society,
@@ -8591,7 +8314,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 
 ## In the second place, some modification would have been
 
-267 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 needed to the principle of communal self-sufficiency. It is true
                 that, as I have mentioned before, the pure anarchists did not
 ## make a fetish out of autarky and were prepared to
@@ -8621,7 +8343,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## copper, Murray Bookchin (b. 1921) made some points which
 ## are relevant to this discussion when he wrote in 1965 in an
                 essay ‘Towards a Liberatory Technology’:
-268 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 ... let us grant that copper will fall within the sizeable category
                 of material that can be furnished only by a nationwide system
                 of distribution. In what sense need there be a division of labor
@@ -8652,7 +8374,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 conforms to the essence of pure anarchism. At the same time,
                 it could prevent the emergence of significant discrepancies in
                 living standards and the localist reaction which these could
-269 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## provoke.
 
@@ -8684,7 +8405,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 Western audience by means of this study.[420] Of course, the
 ## writings of Bookchin and other ‘ecological anarchists’ have
                 been dismissed as utopian, just as Hatta’s were previously. But
-270 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 if a decentralised society of libertarian communes is a utopia, it
                 is a utopia which surfaces repeatedly in various guises and in
                 different historical periods, suggesting that it corresponds to
@@ -8715,8 +8436,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## Rо̄dо̄ Sekai (Labour World).
 ## Rо̄dо̄ Undо̄ (Labour Movement).
 ## Rо̄dо̄shi Kenkyū (Studies in Labour History).
-
-271 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## Shikai Shinbun (Social News).
 ## Shirogane Gakuhо̄ (Shirogane Gazette).
@@ -8753,8 +8472,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 Buick, Adam & Crump, John, State Capitalism: the Wages
                 System Under New Management (Basingstoke: Macmillan,
 ## 1986).
-
-272 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## Cahm, Caroline, Kropotkin and the Rise of Revolutionary
                 Anarchism, 1872–86 (Cambridge: University Press, 1989).
@@ -8793,7 +8510,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 
 ## Hoshino, Junji & Shio, Chо̄gorо̄, Kokushoku Sensen Kaisetsu
 
-273 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 (Isezaki: Kokushoku Sensensha, 1975).
                 Iwasa, Sakutarо̄, Kakumei Dansо̄ (Tо̄kyо̄: Kokushoku
 ## Sensensha, 1931).
@@ -8826,7 +8542,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## 1947).
 
                 ———, Selected Works vol. II (London: Lawrence & Wishart,
-274 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## 1942).
 
@@ -8861,7 +8576,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## Shisо̄ Kenkyūjo, 1931).
 
                 Nо̄son Seinen Sha, ‘“Nо̄son Seinen Sha” oyobi Kikanshi “Nо̄son
-275 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## Seinen” no Kaisan ni tsuite’ (September 1932) in Shakai
 ## Mondai Shiryо̄ Kenkyūkai (ed.), Nо̄son Seinen Sha Shiryо̄
@@ -8894,7 +8608,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 Suzuki, Yasuyuki, ‘Ika ni Nasu Beki ka’ (June 1931) in Shakai
 ## Mondai Shiryо̄ Kenkyūkai (ed.), Nо̄son Seinen Sha Shiryо̄
                 (Kyо̄to: Tо̄yо̄ Bunka Sha, 1972) pp. 537–56.
-276 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## ———, ‘Nani o Nasu Beki Ka’ (September 1932) in Shakai
 ## Mondai Shiryо̄ Kenkyūkai (ed.), Nо̄son Seinen Sha Shiryо̄
@@ -8926,7 +8639,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 [9] Ibid., p. 181.
                 [10] Ibid., p. 180.
                 [11] Ibid., pp. 180–1.
-277 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 [12] Cahm (1989), p. 63.
                 [13] See his Modern Science and Anarchism in Baldwin (1927)
 ## pp. 146–94.
@@ -8952,7 +8665,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 [29] Baldwin (1927), p. 154.
                 [30] Berkman (1977), pp. 52, 59 (emphasis in the original).
                 [31] Ibid., p. 60.
-278 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 [32] Ibid., p. 62.
                 [33] Ibid., p. 69.
                 [34] Ibid., p. 64.
@@ -8979,7 +8692,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 [48] Kumamoto Hyōron no. 19, 20 March 1908, p. 2.
                 [49] Heimin Shinbun no. 32, 23 February 1907, p. 1.
                 [50] Meiji Bunka Shiryō Sōsho vol. 5 (1960) p. 294.
-279 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 [51] Akiyama (1972), p. 37.
                 [52] Shakai Shinbun no. 16, 15 September 1907, p. 1.
                 [53] Roller (no date), p. 7 and Kropotkin (1972), p. 70.
@@ -9006,7 +8719,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 [65] Hagiwara (1969), p. 82.
                 [66] Rōdō Undō series 3 no. 9, 1 November 1922, p. 2.
                 [67] Hatta Shūzō Zenshū (1981), p. 336.
-280 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 [68] Hatta’s date of birth is taken from the college register of
 ## Meiji Gakuin’s Department of Theology. I am grateful to Ms
 ## Shibata of the Registrar’s Department of Tōkyō Shingaku
@@ -9039,7 +8752,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 [80] Rōdō Undō no. 3, 1 January 1920, p. 18 and no. 5, 30 April
 ## 1920, p. 18.
 
-281 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 [81] Chi ni Mikuni o (1982), p. 12.
                 [82] Ibid., p. 11.
                 [83] Ibid., pp. 11–12.
@@ -9067,7 +8779,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## ‘Rōnō Kokka to Nōkō Jiyūshi’ and ‘Sobietoshugisha o Hōmure’
 ## in Ibid., pp. 152–5 and 166–8 respectively.
 
-282 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 [98] Ibid., p. 179.
                 [99] Ibid. (1983), pp. 1–16, 23–35.
                 [100] Ibid. (1981), pp. 184–8.
@@ -9094,7 +8805,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 afternoon of 17 May 1990 contacting all those named Hatta in
 ## the Tsu telephone directory.
 
-283 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 [116] Hagiwara (1969), p. 173.
                 [117] A list of affiliating groups appeared in Kokushoku Seinen
                 no. 1, 5 April 1926, p. 5. The expansion of this list in later issues
@@ -9123,7 +8833,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## local production. And Kokushoku Seinen was the one which
 ## devoted the most energy to this.’ (Nihon Museifushugi
 
-284 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 Undō Shi</em [1970], p. 55.)
                 [129] Kokushoku Seinen no. 13, 5 October 1927, p. 2.
                 [130] Ibid. no. 22, 10 December 1929, p. 1.
@@ -9150,7 +8859,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## 5 and 7.
 
                 [147] Enishi (1974), pp. 9–10.
-285 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 [148] Rōdō Undō series 5 no. 8, August 1927, p. 50.
                 [149] Jiyū Rengō no. 16, 5 September 1927, p. 1.
                 [150] Kokushoku Seinen no. 12, 5 September 1927, p. 3.
@@ -9175,7 +8884,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 [165] Ibid., p. 89.
                 [166] Ibid.
                 [167] Yamaguchi (1970), p. 22.
-286 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 [168] Quoted in Beckmann & Okubo (1969), p. 174.
                 [169] Yamaguchi (1970), p. 22.
                 [170] Komatsu (1971–2), p. 90.
@@ -9201,7 +8910,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 [186] Ibid.
                 [187] Hagiwara (1969) p. 180.
                 [188] Jiyū Rengō Shinbun no. 37, 1 July 1929, p. 4.
-287 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 [189] Kokushoku Seinen no. 24, 10 February 1931, p. l.
                 [190] Jiyū Rengō Shinbun no. 64, to November 1931, p. 4.
                 [191] Ibid.
@@ -9225,7 +8934,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 [209] Ibid.
                 [210] Ibid., pp. 14–15.
                 [211] Ibid. (1981), p. 117.
-288 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 [212] Ibid., p. 23.
                 [213] Ibid., p. 120.
                 [214] Ibid., p. 23.
@@ -9249,7 +8958,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 [232] Macpherson (1987), p. 58.
                 [233] Allen (1972), p. 114.
                 [234] Hatta Shūzо̄ Zenshū (1981), p. 80.
-289 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 [235] Ibid. (1983), p. 29.
                 [236] Ibid.
                 [237] Ibid., p. 26.
@@ -9273,7 +8982,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 [255] Ibid., p. 284.
                 [256] Ibid., pp. 237–8.
                 [257] Ibid., p. 235.
-290 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 [258] Ibid., p. 236.
                 [259] Ibid., p. 238.
                 [260] Ibid., p. 8.
@@ -9297,7 +9006,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 [278] Ibid. (1981), p. 110.
                 [279] Ibid., p. 42.
                 [280] Marx (1942), p. 565.
-291 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 [281] Ibid., p. 564.
                 [282] Hatta Shūzо̄ Zenshū (1981), p. 166.
                 [283] Ibid., p. 212.
@@ -9321,7 +9030,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 [301] Ibid., pp. 8–9.
                 [302] Kropotkin (1972), p. 191.
                 [303] Hatta Shūzо̄ Zenshū (1981), p. 69.
-292 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 [304] Ibid., p. 27.
                 [305] Ibid., p. 45.
                 [306] Ibid., p. 31.
@@ -9345,7 +9054,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 [324] Ibid., p. 127.
                 [325] Ibid., p. 74.
                 [326] Ibid.
-293 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 [327] Ibid., pp. 127–8.
                 [328] Ibid., p. 127.
                 [329] Ibid., p. 59.
@@ -9370,7 +9079,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 [346] Ibid.
                 [347] Ibid.
                 [348] Enishi (1974), p. 11.
-294 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 [349] Mihara (1987), p. 101.
                 [350] Aizawa (1974), pp. 45–7.
                 [351] Mihara (1986), p. 92. Aizawa (1974), p. 47.
@@ -9394,7 +9103,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 [369] Ibid.
                 [370] Komatsu (1971–2), p. 96.
                 [371] Ibid.
-295 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 [372] Ibid., p. 97.
                 [373] Yamaguchi (1970), p. 44.
                 [374] Hagiwara (1969), p. 184.
@@ -9419,7 +9128,7 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
                 [391] Suzuki (September 1932), p. 571.
                 [392] Ibid., p. 565.
                 [393] Nо̄son Seinen Sha (September 1932), pp. 579–80.
-296 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 [394] Mihara (1988), p. 9.
                 [395] Aizawa (1974), pp. 54–7.
                 [396] Ibid., p. 56.
@@ -9445,7 +9154,6 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## 126ff.
 
                 [414] 1 tan is slightly less than one-quarter of an acre or
-297 of 298 3/17/25, 5:08 PM Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## slightly less than 1000 square metres.
 
@@ -9458,4 +9166,3 @@ Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https
 ## Crump (1993).
 
                 [421] Wilde (1890), p. 1028.
-298 of 298 3/17/25, 5:08 PM

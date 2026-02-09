@@ -31,8 +31,6 @@ This precedent was reinforced in the 2005 case Town of Castle Rock v. Gonzales. 
 
 The Supreme Court disagreed, ruling 7-2 against Gonzales. Justice Antonin Scalia, writing for the majority, held that the enforcement of a restraining order was not a mandatory entitlement but was subject to police discretion. The Court determined that a
 
-## 1 of 3 10/15/25, 6:16 PM
-
 constitutional violation.
 
 ## The Legal Reasoning Explained
@@ -52,8 +50,6 @@ A related concept is the "state-created danger" theory. Under this doctrine, a s
 While the U. S. Constitution does not mandate a duty to protect, state laws and constitutions can offer greater protections. The Supreme Court's rulings establish a minimum for constitutional rights, but states are free to provide more expansive rights through their own legal frameworks. A police department might be shielded from liability under federal law but could still be held accountable under a specific state statute.
 
 Some state legislatures have enacted laws that impose a duty on police to act in certain situations, like responding to domestic violence calls or enforcing restraining orders. Similarly, some state courts have interpreted their own laws to recognize a duty to
-
-## 2 of 3 10/15/25, 6:16 PM
 
 [PREVIOUS](https://legalclarity.org/kedra-v-city-of-philadelphia-a-landmark-civil-rights-case/)
 
@@ -78,5 +74,3 @@ Although we strive to keep the information on this site up-to-date, the owners a
 Copyright © Legal Clarity All Rights Reserved.
 
 ## ![](_page_2_Picture_18.jpeg)
-
-## 3 of 3 10/15/25, 6:16 PM

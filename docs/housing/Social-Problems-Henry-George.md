@@ -37,9 +37,7 @@ HENRY  GEORGE.
 
 Brooklyn,  December  7,  1883. 
 
-
 CONTENTS 
-
 
 CHAPTER 
 
@@ -101,9 +99,7 @@ William  Saunders 357
 III.    A  piece  of  land.    Francis  G.  Shaw  ....  361 
 7 
 
-
 SOCIAL  PROBLEMS, 
-
 
 CHAPTER  L 
 
@@ -132,7 +128,6 @@ the  lowest  forms  of  animal  life  there  is  little  differ-
 ence of  parts  ;  both  wants  and  powers  are  few  and 
 
 9 
-
 
 10  SOCIAL   PROBLEMS. 
 
@@ -166,7 +161,6 @@ greater  than  that  of  any  beast,  he  would  perish  from
 cold,  starve  from  inability  to  get  food,  or  be  exter- 
 minated by  animals  better  equipped  for  the  struggle 
 in  which  brute  instinct  suffices. 
-
 
 IMPORTANCE    OF    SOCIAL   QUESTIONS.  11 
 
@@ -202,7 +196,6 @@ arises  the  need  for  social  intelligence — for  that  con-
 sensus of  individual  intelligence  which  forms  a  pub- 
 lic opinion,  a  public  conscience,  a  public  will,  and 
 
-
 12  SOCIAL   PROBLEMS. 
 
 is  manifested  in  law,  institutions  and  administra- 
@@ -235,7 +228,6 @@ The  laborer  becomes  but  part  of  a  great  machine,
 which  may  at  any  time  be  paralyzed  by  causes 
 beyond  his  power,  or  even  his  foresight.  Thus  does 
 the  well-being  of  each  become  more  and  more  de- 
-
 
 IMPORTANCE   OF   SOCIAL   QUESTIONS.  13 
 
@@ -270,7 +262,6 @@ he  needs,  and  makes  each  dependent  upon  others
 with  whom  he  never  comes  in  contact ;  but  the 
 social  organization   becomes   more   sensitive.      A 
 
-
 14  SOCIAL   PROBLEMS. 
 
 primitive  village  community  may  pursue  the  even 
@@ -304,7 +295,6 @@ street  and  level  every  house.  The  Thirty  Years-
 War  set  back  civilization  in  Germany  ;  so  fierce  a 
 war  now  would  all  but  destroy  it.     !Not  merely  have 
 
-
 IMPORTANCE    OF    SOCIAL   QUESTIONS.  15 
 
 destructive  powers  vastly  increased,  but  the  whole 
@@ -336,7 +326,6 @@ ilization. Let  jar  or  shock  dislocate  the  complex
 and  delicate  organization,  let  the  policeman's  club 
 be  thrown  down  or  wrested  from  him,  and  the  foun- 
 tains of  the  great  deep  are  opened,  and  quicker  than 
-
 
 16  SOCIAL   PROBLEMS. 
 
@@ -371,7 +360,6 @@ the  locomotive,  speeding  faster  and  faster.  This  rapid
 progress  is  primarily  in  industrial  methods  and  ma- 
 terial powers.  But  industrial  changes  imply  social 
 changes  and  necessitate  political  changes.    Progress- 
-
 
 IMPORTANCE    OF    SOCIAL   QUESTIONS.  17 
 
@@ -408,7 +396,6 @@ changing  conditions  is  the  task  which  devolves  upon
 us.  Prudence,  patriotism,  human  sympathy,  and 
 2 
 
-
 18  SOCIAL   PROBLEMS. 
 
 religious  sentiment,  alike  call  upon  us  to  undertake 
@@ -443,7 +430,6 @@ there  is,  yet,  seeming  embarrassment  from  the  very
 excess  of  wealth-producing  forces.  "  Give  us  but  a 
 market,"  say  manufacturers,  "and  we  will  supply 
 
-
 IMPOETANCE    OF    SOCIAL   QUESTIONS.  19 
 
 goods  to  no  end  ! ''     "Give  us  but  work  !"  cry  idle 
@@ -475,7 +461,6 @@ Nevertheless,  the  weight  of  the  immense  mass  is
 estimated  and  adjusted  for  every  inch.  But  the 
 skill  of  the  engineer  could  not  prevent  condemned 
 wire  being  smuggled  into  the  cable. 
-
 
 20  SOCIAL   PROBLEMS. 
 
@@ -510,7 +495,6 @@ The  intelligence  required  for  the  solving  of  social
 problems  is  not  a  mere  thing  of  the  intellect.  It 
 must  be  animated  with  the  religious  sentiment  and 
 
-
 IMPORTxVNCE    OF    SOCIAL    QUESTIONS.  21 
 
 warm  with  sympathy  for  human  suffering.  It  must 
@@ -518,7 +502,6 @@ stretch  out  beyond  self-interest,  whether  it  be  the
 self-interest  of  the  few  or  the  many.  It  must  seek 
 justice.  For  at  the  bottom  of  every  social  problem 
 we  will  find  a  social  wrong. 
-
 
 CHAPTER  11. 
 
@@ -549,7 +532,6 @@ more  than  the  present  population  of  Europe  ;  and
 by  its  close  nearly  equal  the  population   which,  at 
 
 22 
-
 
 POLITICAL   DANGERS.  23 
 
@@ -585,7 +567,6 @@ without  something  of  awe — something  of  that  feel-
 ing which  induced  Amasis  of  Egypt  to  dissolve  his 
 alliance  with    the   successful    Polycrates,    because 
 
-
 24:  SOCIAL    PROBLEMS. 
 
 "the  gods  do  not  permit  to  mortals  such  pros- 
@@ -620,7 +601,6 @@ erning power  there  is,  with  social  growth,  a  tendency
 to  the  exaltation  of  their  function  and  the  centraliza- 
 tion of  their  power,  and  in  the  stronger  uf  these  insti- 
 
-
 POLITICAL    DANGERS.  26 
 
 tutions  a  tendency  to  the  absorption  of  the  powers 
@@ -652,7 +632,6 @@ the  gradual  seizure  of  its  powers  by  a  ruling  class —
 though  not  necessarily  a  class  marked  off  b}  per- 
 sonal titles  and  a  hereditary  status,  for,  as  history 
 allows,  personal  titles  and  hereditary  status  do  not 
-
 
 26  SOCIAL   PROBLEMS. 
 
@@ -687,7 +666,6 @@ centration grows  the  facilitj  of  combination  among
 these  great  business  interests.  How  readil}  the 
 railroad   companies,   the  coal  operators,   the  steel 
 
-
 POLITICAL  DANGERS  27 
 
 producers,  even  the  match  manufacturers,  combine, 
@@ -720,7 +698,6 @@ get  up  a  bill  which  some  moneyed  interest  will  pay
 them  to  beat.  So,  too,  these  large  moneyed  inter- 
 ests will  subscribe  to  political  funds,  on  the  princi- 
 ple of  keeping  on  the  right  side  of  those  in  power, 
-
 
 28  SOCIAL    PROBLEMS. 
 
@@ -756,7 +733,6 @@ We  have  already,  under  the  popular  name  of
 "bosses,"  developed  political  Caesars  in  munici- 
 palities and  states.     If  this  development  continues, 
 
-
 POLITICAL   DANGERS.  29 
 
 in  time  there  will  come  a  national  boss.  We  are 
@@ -787,7 +763,6 @@ them?  When  it  comes  to  voting  tramps,  some
 principle  has  been  carried  to  a  ridiculous  and  dan- 
 gerous extreme.  I  have  known  elections  to  be  de- 
 cided by  the  carting  of  paupers  from  the  almshouse 
-
 
 30  SOCIAL  PROBLEMS. 
 
@@ -824,7 +799,6 @@ their  hands  into  voting  as  tliey  wish.  In  municipal,
 State  and  Federal  politics  the  power  of  the  ''ma- 
 chine "  is  increasing.     It  many  places  it  has  become 
 
-
 POLITICAL   DANGERS.  31 
 
 SO  strong  that  the  ordinary  citizen  has  no  more  in- 
@@ -858,7 +832,6 @@ ends  no  matter  how  elections  go.  There  are  sove-
 reign States  so  completely  in  the  hands  of  rings  and 
 corporations  that  it  seems  as  if  nothing  short  of  a 
 
-
 32  SOCIAL   PROBLEMS. 
 
 revolutionary  uprising  of  the  people  could  dispossess 
@@ -891,7 +864,6 @@ our  National  Senate,  sovereign  members  of  the
 Union  are  supposed  to  be  represented  ;  but  what 
 are  more  truly  represented  are  railroad  kings  and 
 great  moneyed  interests,  though  occasionally  a  mine 
-
 
 POLITICAL   DANGERS.  33 
 
@@ -929,7 +901,6 @@ The  people  are  largely  conscious  of  all  this,  and
 
 a 
 
-
 34:  SOCIAL  PROBLEMS. 
 
 there  is  among  the  masses  much  dissatisfaction. 
@@ -963,7 +934,6 @@ the  people,  we  must  give  to  our  politics  earnest  at-
 tention ;  we  must  be  ])re])ared  to  review  our  opin- 
 ions, to  give  up  old  ideas  and  to  accept  new  ones. 
 
-
 POLITICAL   DANGEES.  35 
 
 We  must  abandon  prejudice,  and  make  our  reckon- 
@@ -971,7 +941,6 @@ ing with  free  minds.  The  sailor,  who,  no  matter
 how  the  wind  might  change,  should  persist  in  keep- 
 ing his  vessel  under  the  same  sail  and  on  the  same 
 tack,  would  never  reach  his  haven. 
-
 
 CHAPTEE  ni. 
 
@@ -1000,7 +969,6 @@ lish emigration  increases ;  the  German  outpour
 becomes  so  vast  as  to  assume  the  first  proportions, 
 and  the  millions  of  Italy,  pressed  by  want  as  severe 
 as  that  of  Ireland,  begin  to  turn  to  the  emigrant 
-
 
 COMING    INCEEASE    OF   SOCIAL   PRESSURE.  37 
 
@@ -1035,7 +1003,6 @@ volume  of  the  westward  moving  current  has  in-
 creased, not  diminished.  From  what,  so  short  a 
 time  ago,  was  the  new  West  of  unbroken  prairie  and 
 
-
 38  SOCIAL   PROBLEMS. 
 
 native  forest,  goes  on,  as  children  grow  up,  a  con- 
@@ -1069,7 +1036,6 @@ Quaker  fathers,  and  other  sorts  of  fathers  ;  yet  the
 majority  even  of  the  early  settlers  did  not  come  to 
 America  for  ''freedom  to  worship  God,"  hut  be- 
 
-
 COMING   INCREASE    OF    SOCIAL   PRESSURE.  39 
 
 cause  they  were  poor,  dissatisfied,  unsuccessful,  or 
@@ -1102,7 +1068,6 @@ can  only  begin  to  realize  when  we  try  to  imagine
 what  would  have  been  the  present  condition  of 
 Europe  had  Columbus  found  only  a  watery  waste 
 between  Europe  and  Asia,  or  even  had  he  found 
-
 
 40  SOCIAL   PROBLEMS. 
 
@@ -1139,7 +1104,6 @@ years  back.
 
 Twelve   months    ago,    when    the    hedges    were 
 
-
 COMING  INCREASE   OF   SOCIAL   PRESSURE.  41 
 
 blooming,  I  passed  along  a  lovely  English  road 
@@ -1171,7 +1135,6 @@ the  springs  and  streams  are  all  inclosed  by  walls
 he  cannot  scale,  the  wayfarer,  but  for  charity, 
 might  perish  of  thirst,  as  in  a  desert.  There  is 
 plenty  of  vacant  land  on  Manhattan  Island.     Bi 
-
 
 42  SOCIAL   PROBLEMS. 
 
@@ -1206,7 +1169,6 @@ not  even  for  that ;  it  must  be  remembered  that  of
 what  is  really  fertile,  millions  and  millions  of  acres 
 are  covered  by  railroad  grants  as  yet  unpatented. 
 
-
 COMING   INCREASE    OF   SOCIAL   PRESSURE.  43 
 
 or  what  amounts  to  the  same  thnig  to  the  settler, 
@@ -1240,7 +1202,6 @@ Our  advance  has  reached  the  Pacific,  and  beyond
 the  Pacific  is  the  East,  with  its  teeming  millions. 
 From  San  Diego  to  Puget  Sound  there  is  no  valley 
 
-
 44  SOCIAL   PKOBLEMS. 
 
 of  the  coast-line  that  is  not  settled  or  pre-empted. 
@@ -1271,7 +1232,6 @@ her  population  is  as  yet  but  a  fraction  more  than  six
 to  the  square  mile,  the  last  acre  of  the  vast  public 
 domain  of  Texas  has  passed  into  private  hands,  the 
 rush  to  purchase  during  the  past  year  having  been 
-
 
 COMING  INCREASE  OF   SOCIAL  PRESSUEE.  45 
 
@@ -1306,7 +1266,6 @@ shipping  abroad,  in  wheat  and  cotton  and  tobacco
 and  meat,  or  flushing  into  the  sea  through  the  sew- 
 ers of  our  great  cities,  the  elements  of  fertility  that 
 
-
 46  SOCIAL  PEOBLEMS. 
 
 have  been  embedded  in  the  soil  by  the  slow  pro- 
@@ -1340,7 +1299,6 @@ as  the  Saxons  displaced  the  ancient  Britons,  by  a
 war  of  extermination.  Anglo-Saxon  capital  and 
 enterprise  and   influence  will   doubtless  dominate 
 
-
 COMING  INCREASE   OF   SOCIAL   PRESSURE.  47 
 
 those  regions,  and  many  of  our  people  will  go 
@@ -1373,7 +1331,6 @@ ward way,  Asia — mother  of  peoples  and  religions
 race — millions  who  live  and  die  in  all  but  utter  un- 
 consciousness of  our  modern  world.     In  the  awak- 
 
-
 48  SOCIAL   PROBLEMS. 
 
 ening  of  those  peoples  by  the  impact  of  Western 
@@ -1394,7 +1351,6 @@ is  confined.  You  may  rest  your  hand  on  the  slowly
 ascending  jaw  of  a  hydraulic  press.  It  will  only 
 gently  raise  it.  But  wait  a  moment  till  it  meets 
 resistance ! 
-
 
 CHAPTER  lY. 
 
@@ -1427,7 +1383,6 @@ treasures  of  literature;  how  enormously  it  has
 widened  the  audience  of  the  novelist,  the  historian, 
 
 49 
-
 
 50  SOCIAL   PEOBLEMS. 
 
@@ -1463,7 +1418,6 @@ quickening  the  masses.
 We  come  into  the  world  with  minds  ready  to  re- 
 ceive any  impression.     To  the  eyes  of  infancy  all  is 
 
-
 TWO   OPPOSING   TENDENCIES.  61 
 
 new,  and  one  thing  is  no  more  wonderful  tlian 
@@ -1498,7 +1452,6 @@ It  is  thus  that  tyranny  is  maintained  and  super-
 stition perpetuated.  Polygamy  is  unnatural.  Ob- 
 vious facts  of  universal  experience  prove  this.     The 
 
-
 52  SOCIAL   PROBLEMS. 
 
 uniform  proportion  in  wliicli  the  sexes  are  brought 
@@ -1530,7 +1483,6 @@ should  get  most  of  the  things  that  work  produces?
 "He  that  will  not  work,  neither  shall  lie  eat." 
 That  is  not  merely  the  word  of  the  Apostle ;  it  is 
 the  obvious  law  of  Nature.     Yet  all  over  the  world, 
-
 
 TWO   OPPOSING  TENDENCIES.  53 
 
@@ -1566,7 +1518,6 @@ ments, opportunities,  are  within  their  reach  that
 their  fathers  would  not  have  dreamed  of.  The 
 having  got  so  much,  only  leads  them  to  ask  why 
 
-
 54  SOCIAL    PEOBLEMS. 
 
 they  should  not  have  more.  Desire  grows  by  what 
@@ -1599,7 +1550,6 @@ these  inequalities.  Never  since  great  estates  were
 eating  out  the  heart  of  Kome  has  the  world  seen 
 such  enormous  fortunes  as  are  now  arising.  And 
 never  more  utter  proletarians.     In  the  pauer  which 
-
 
 TWO   OPPOSING   TENDENCIES.  65 
 
@@ -1635,7 +1585,6 @@ power  is  to  concentrate  enormous  wealth  in  the
 hands  of  a  few,  to  make  the  condition  of  the  many 
 more  hopeless  ;  to  force  into  the  position  of  machines 
 
-
 56  SOCIAL  PKOBLEMS. 
 
 for  the  production  of  wealth  thej  are  not  to  enjoy, 
@@ -1669,7 +1618,6 @@ He  worked  in  his  own  home  or  side  by  side  with
 his  employer.  Labor  was  lightened  by  emulation, 
 by  gossip,  by  laughter,  by  discussion.  As  appren- 
 tice, he  looked  forward  to  becoming  a  journeyman  ; 
-
 
 TWO    OPPOSING   TENDENCIES.  57 
 
@@ -1705,7 +1653,6 @@ thousand  are  massed  together,  and,  by  the  aid  of
 steam  and  niachinery,  iron  is  converted  to  its  uses  at 
 a  fraction  of  the  cost  of  the  old  system.     You  can- 
 
-
 58  SOCIAL  PROBLEMS. 
 
 not  enter  without  permission  from  tlie  office,  for 
@@ -1737,7 +1684,6 @@ King  of  England  or  Pope  of  Rome.     He  has  no
 more  control  over  the   conditions   that  give   him 
 employment  than  has  the  passenger  in  a  railroad- 
 car  over  the  motion  of  the  train.     Causes  which  he 
-
 
 TWO   OPPOSING  TENDENCIES.  59 
 
@@ -1773,7 +1719,6 @@ gulf  fixed  that  in  popular  imagination  they  seem  to
 belong  to  distinct  orders  of  beings  ;  when,  in  the 
 name  of  religion,  it  is  persistently  instilled  into  the 
 
-
 60  SOCIAL   PROBLEMS. 
 
 masses  that  all  things  in  tliis  world  are  ordered  by 
@@ -1808,7 +1753,6 @@ God,  of  the  equality  and  brotherhood  of  men,  who
 taught  his  disciples  to  pray  for  the  coming  of  the 
 kingdom  of  heaven  on  earth.  Tlie  college  professors 
 
-
 TWO   OPPOSING  TENDENCIES.  61 
 
 sneered  at  him,  the  orthodox  preachers  denounced 
@@ -1840,7 +1784,6 @@ he  said  :
   not  I  am  come  to  send  peace  on  earth.  I 
 come  not  to  send  peace  hut  a  swords 
 
-
 CHAPTEE  Y. 
 
 THE   MARCH   OF   CONCENTRATION. 
@@ -1871,7 +1814,6 @@ ted by  recent  invention,  such  as  railroading,  tele-
 graphing, or  the  lighting  by  gas  or  electricity. 
 
 62 
-
 
 THE   MARCH   OF   CONCENTRATION.  63 
 
@@ -1906,7 +1848,6 @@ How,  in  the  face  of  these  figures,  the  Census
 Bureau  can  report  a  decline  in  the  average  size  of 
 farms  in  the  United  States  from  153  acres  in  1870 
 
-
 64  SOCIAL   PROBLEMS. 
 
 to  134  acres  in  1880  I  cannot  understand.  !N"or  is 
@@ -1938,12 +1879,10 @@ How  in  all  other  branches  of  industry  the  same
 process  is  going  on,  it  is  scarcely  iK3cessary  to 
 speak.     It  is  everywhere  obvious  that  the  indepen- 
 
-
 *  For  a  further  examination  of  the  Census  Report  as  to  the  average 
 size  of  farms,  see  Appendix. 
 
 t  The  total  number  of  farmers  and  planters  is  given  at  4,225,945. 
-
 
 THE   MAECH    OF   CONCENTRATION.  65 
 
@@ -1979,7 +1918,6 @@ society  had  hardened  again,  a  hereditary  nobility
 had  formed  into  which  no  common  man  could  hope 
 to  win  his  way,  and  the  descendants  of  William's 
 
-
 66  SOCIAL   PROBLEMS. 
 
 adventurers  looked  down  upon  men  of  their  father's 
@@ -2012,7 +1950,6 @@ minutes  those  who  have  not  taken  that  step  may
 run  themselves  out  of  breath  in  the  hopeless  en- 
 deavor to  overtake  the  train.  It  is  absurd  to  think 
 that  it  is  easy  to  stop  aboard  a  train  at  full  speed 
-
 
 THE   MARCH    OF    COXCEXTEATIOX,  67 
 
@@ -2050,7 +1987,6 @@ nia ;  Henry  Yillard  came  here  from  Germany  a  poor
 boy,  became  a  newspaper  reporter,  and  rode  a  mule 
 from  Kansas  City  to  Denver  when  the  plains  were 
 
-
 68  SOCIAL   PROBLEMS. 
 
 swarming  with  Indians — a  thing  no  one  with  a  bank 
@@ -2084,7 +2020,6 @@ them.  The  great  railroad  king  alone  can  fight  the
 great  railroad  king,  and  control  of  the  railroad  sys- 
 tem not  only  gives  the  railroad  kings  control  of 
 
-
 THE   MAECH   OF   CONCENTRATION.  69 
 
 branch  roads,  of  express  companies,  stage  lines, 
@@ -2117,7 +2052,6 @@ the  building  as  the  young  Englishman  who  goes  to
 India  to  take  a  clerical  position  may  look  upon  the 
 statue  of  Lord  Clive.  It  is  a  lesson  and  an  incen- 
 tive, to  be  sure  ;  but  just  as  Clive's  victories,  by  es- 
-
 
 70  SOCIAL   PROBLEMS. 
 
@@ -2153,7 +2087,6 @@ captains  are  not  as  good.  The  captain  of  a  great
 transatlantic  steamer  recently  told  me  tliat  lie  got 
 no  more  pay  now  than  when  as  a  young  man  he 
 
-
 THE   MARCH    OF    CONCENTRATION.  71 
 
 commanded  a  small  sailing-ship.  Nor  is  there  now 
@@ -2187,7 +2120,6 @@ that  could  dissipate  such  fortunes  ;  high  play  has
 gone  out  of  fashion,  and  the  gambling  of  the  Stock 
 Exchange  is  more  dangerous  to  short  than  to  long 
 purses.     Stocks,  bonds,  mortgages,  safe  deposit  and 
-
 
 72  SOCIAL   PROBLEMS. 
 
@@ -2223,7 +2155,6 @@ tion  which,  in  Europe,  during  the  rise  of  the  feudal
 system,  converted  free  proprietors  into  vassals,  and 
 brought  all  society  into  subordination  to  a  hierarchy 
 
-
 THE   MAECH   OF   CONCENTRxiTION.  73 
 
 of  wealth  and  privilege.  Whether  the  new  aristoc- 
@@ -2243,7 +2174,6 @@ But  what  is  the  use  of  objecting  to  the  word  when
 we  have  the  thing.  The  man  who  gives  me  em- 
 ployment, which  I  must  have  or  suffer,  that  man  is 
 my  master,  let  me  call  him  what  I  will. 
-
 
 CHAPTER  YI. 
 
@@ -2276,7 +2206,6 @@ to  practice  that  economy  necessary  for  the  first  ac-
 
 74 
 
-
 THE  WRONG  IN  EXISTING  SOCIAL  CONDITIONS.        75 
 
 cumulation  of  capital ;  or  because  their  fathers  were 
@@ -2308,7 +2237,6 @@ be  gross  injustice  to  refuse  a  Raphael  or  a  Rubens
 more  than  a  house-painter,  but  it  would  prevent  the 
 development  of  great  painters.     To  destroy  inequal- 
 ities in  condition  would  be  to  destroy  the  incentive 
-
 
 Y6  SOCIAL   PROBLEMS. 
 
@@ -2344,7 +2272,6 @@ human  qualities  and  powers  does  it  follow  that  ex-
 isting inequalities  of  fortune  are  thus  accounted  for. 
 I  have  seen  very  fast   compositors  and  very  slow 
 
-
 THE  WRONG  IN  EXISTING  SOCIAL  CONDITIONS.         77 
 
 compositors,  but  the  fastest  I  ever  saw  could  not 
@@ -2377,7 +2304,6 @@ by  others.  Often  there  is  a  total  absence  of  superior
 industry,  skill  or  self-denial,  and  merely  better  luck 
 or  greater  unscrupulousness. 
 
-
 78  SOCIAL   PROBLEMS. 
 
 An  acquaintance  of  mine  died  in  San  Francisco 
@@ -2409,7 +2335,6 @@ protectionist,  and  said  free  trade  would  ruin  our
 "infant  industries."  Evidently  the  $3,000,000  which 
 he  was  enabled  to  lay  by  from  his  own  little  cherub 
 of  au  "  infant  industry  "  did  not  represent  what  he 
-
 
 THE  WRONG  IN  EXISTING  SOCIAL  CONDITIONS.         79 
 
@@ -2447,7 +2372,6 @@ dence. It  began  in  the  blood-money  received  by
 this  petty  tyrant  from  greater  tyrants  as  the  price  of 
 the  lives  of  his  subjects.      It  has  grown  to  its  pres- 
 
-
 80  SOCIAL   PROBLEMS. 
 
 ent  enormous  dimensions  by  the  jobbing  of  loans 
@@ -2481,7 +2405,6 @@ So,  too,  the  great  fortunes  of  the  English  brewers
 and  distillers  have  been  largely  built  up  by  the 
 operation  of  the  excise  in  fostering  monopoly  and 
 concentrating  the  business. 
-
 
 THE  WRONG  IN  EXISTING  SOCIAL  CONDITIONS.         81 
 
@@ -2518,7 +2441,6 @@ Or  take  the  great  Gould  fortune.  Mr.  Gould  might
 have  got  his  first  little  start  by  superior  industry 
 6 
 
-
 82  SOCIAL  PROBLEMS. 
 
 and  superior  self-deniai.  But  it  is  not  that  which 
@@ -2554,7 +2476,6 @@ nearly  all  acquisitions  that  in  these  days  can  fairly
 be  termed  fortunes,  these  elements  of  monopoly,  of 
 spoliation,  of  gambling  run.     The  head  of  one  of 
 
-
 THE  WRONG  IN  EXISTING  SOCIAL  CONDITIONS.        83 
 
 the  largest  manufacturing  firms  in  the  United  States 
@@ -2587,7 +2508,6 @@ stock-gambling,  the  destructivo  use  of  wealth  in
 driving  off  or  buying  off  opposition  which  the  pub- 
 lic must  finally  pay  for,  and  many  other  things 
 whicli  these  will  suggest,  have  operated  to  build  up 
-
 
 84  SOCIAL   PEOBLEMS. 
 
@@ -2623,7 +2543,6 @@ of  monopoly,  extortion  and  spoliation  which  go  to
 the  building  up  of  all,  or  nearly  all,  fortunes,  we 
 see  on  the  one  hand  how  disingenuous  are  those 
 
-
 THE  WRONG  IN  EXISTING  SOCIAL  CONDITIONS.        85 
 
 who  preacli  to  us  that  there  is  nothing  wrong  in 
@@ -2655,7 +2574,6 @@ their  earnings  in  a  pot  and  gamble  for  them  until
 some  have  far  more  than  they  could  have  earned, 
 and  others  have  little  or  nothing. 
 
-
 CHAPTEE  YII. 
 
 IS    IT   THE    B   OF   ALL   POSSIBLE    WORLDS? 
@@ -2684,7 +2602,6 @@ middle,  raises  his  hat  to  her  nod.  And  as  he  whirls
 past  in  his  London-made  dogcart,  a  liveried  servant 
 sitting  with  folded  arms  behind  him,  she  exchanges 
 salutations  with  the  high-born  descendant  of  the 
-
 
 IS  IT  THE  BEST  OF  ALL  POSSIBLE  WORLDS  ?  87 
 
@@ -2720,7 +2637,6 @@ they  are  to  get.  And  upon  the  benches  in  the
 squares  set  men  from  whose  sullen,  deadened  faces 
 the  fire  of  energy  and  the  light  of  hope  have  gone — 
 
-
 88  SOCIAL   PKOBLEMS. 
 
 *' tramps  "  and    the  broken,  rotted,  human 
@@ -2755,7 +2671,6 @@ We  part,  and  as  I  turn  down  the  street  another
 acquaintance  greets  me,  and,  as  his  conversation 
 grows  interesting,  I  go  out  of  my  way,  for  to  delay 
 
-
 IS  IT  THE  BEST  OF  ALL  POSSIBLE  WORLDS?  89 
 
 him  were  sin,  as  he  must  be  at  work  by  two  in  the 
@@ -2787,7 +2702,6 @@ and  saved  till  they  got  a  few  hundred  dollars,  and
 then  set  up  a  little  shop.  But  he  had  not  money 
 enough  to  buy  a  share  in  the  Flour  Association — a 
 co-operative  association  of  boss  bakers,  by  which 
-
 
 90  SOCIAL   PROBLEMS. 
 
@@ -2821,7 +2735,6 @@ will  be  left  to  swelter  through  the  hot  summer.
 The  swarming  tenement-houses  will  not  be  board- 
 ed up  ;  every  window  and  door  will  be  open  to  catch 
 the  least  breath  of  air.     The  dirty  streets  will  be 
-
 
 IS  IT  THE  BEST  OF  ALL  POSSIBLE  WORLDS?  91 
 
@@ -2858,7 +2771,6 @@ temperate  ? "  one  liears  whenever  in  luxurious  par-
 lors such  subjects  are  mentioned.  What  is  this  but 
 the  question  of  the  French  princess.      Thrift  and 
 
-
 92  SOCIAL    PROBLEMS. 
 
 virtue  and  wisdom  and  temperance  are  not  the 
@@ -2894,7 +2806,6 @@ terious  dispensations  of  Providence  that  give  wealth
 to  the  few  and  order  poverty  as  the  lot  of  the  many, 
 make  some  rulers  and  the  others  serfs  —  is  losing 
 
-
 IS  IT  THE  BEST  OF  ALL  POSSIBLE  WORLDS?  93 
 
 power ;  but  another  idea  that  serves  the  same  pur- 
@@ -2929,7 +2840,6 @@ than  that  seen  through  their  own  eyes.
 "That  one-half  of  the  world  does  not  know  how 
 the  other  half  live,"  is  much  more  true  of  the  upper 
 
-
 94  SOCIAL  PROBLEMS. 
 
 than  of  tlie  lower  half.  We  h)ok  upon  that  which 
@@ -2963,7 +2873,6 @@ flowers  in  the  free  field  of  a  new  continent ;  where
 there  are  no  kings,  no  great  standing  armies,  no 
 relics  of  feudal  servitude ;  where  national  existence 
 began  with  the  solemn  declaration  of  the  equal  and 
-
 
 IS  IT  THE  BEST  OF  ALL  POSSIBLE  WORLDS?  95 
 
@@ -3000,7 +2909,6 @@ of  the  millionaire's  divorce  or  the  latest  great  defal-
 cation ;  how  Ileber  Newton  is  to  be  fired  out  of  the 
 Episcopal  church  for  declaring  the  Song  of  Solomon 
 
-
 96  SOCIAL  PROBLEMS. 
 
 a  love-drama,  and  the  story  of  Jonah  and  the  whale 
@@ -3035,7 +2943,6 @@ where  are  the  heathen  among  whom  such  degrad-
 ed and  distorted  human  beings  are  to  be  found  as 
 in   our  centers  of  so-called   Christian   civilization. 
 
-
 Is  IT  THE  BEST  OF  ALL  POSSIBLE  WORLDS  ?  97 
 
 where  we  have  such  a  respect  for  the  all-seeing  eye 
@@ -3067,7 +2974,6 @@ the  dragging  of  such  horrors  to  light,  not  the  doing
 of  them,  were  the  unpardonable  sin.  They  were 
 only  paupers  !  And  I  read  in  the  journal  founded 
 by  Horace  Greeley,  that  "the  woes  of  the  Tewks- 
-
 
 98  SOCIAL   PROBLEMS. 
 
@@ -3103,9 +3009,7 @@ boy  for  the  penitentiary  and  a  girl  for  the  brothel.''
 A  partial  report  of  charitable  work  in  New  York 
 city,  not  embracing  the  operations  of  a  number  of 
 
-
 99 
-
 
 important  societies,  shows  36,000  families  obtaining 
 relief,  while  it  is  estimated  that  were  the  houses  in 
@@ -3138,7 +3042,6 @@ children  under  thirteen  were  employed.  While
 in  Canada  last  winter  it  was  shown  that  children 
 under  thirteen  were  kept  at  work  in  the  mills  from 
 
-
 100  SOCIAL   PROBLEMS. 
 
 six  in  the  evening  to  six  in  the  morning,  a  man  on 
@@ -3167,7 +3070,6 @@ their  miserable  existence."
 It  is  the  fool  who  saith  in  his  heart  there  is  no 
 God.  But  what  shall  we  call  the  man  who  tells  us 
 that  with  this  sort  of  a  world  God  bids  us  be  content? 
-
 
 CHAPTER  YIII. 
 
@@ -3199,7 +3101,6 @@ might  outshine  each  other  in  dress,  in  equipage,  in
 the  lavishness  of  our  balls  or  dinners,  in  the  mag- 
 
 iOX 
-
 
 102  SOCIAL  PROBLEMS. 
 
@@ -3235,7 +3136,6 @@ hungry  hogs?     That  is  human  society  as  it  is.
 Did  you  ever  see  a  company  of  well-bred  men  and 
 women  sitting  down  to  a  good  dinner,  without  scram- 
 bling, or  jostling,  or  gluttony,  each,  knowing  that 
-
 
 THAT   WE    ALL   MIGHT   BE    RICH.  103* 
 
@@ -3273,7 +3173,6 @@ We  are  so  accustomed  to  poverty  that  even  in  the
 most  advanced  countries  we  regard  it  as  the  natural 
 lot  of  the  great  masses  of  the  people  ;  that  we  take 
 
-
 104  SOCIAL  PROBLEMS. 
 
 it  as  a  matter  of  course  that  even  in  our  highest 
@@ -3306,7 +3205,6 @@ straggle  to  merely  live !
 Yet  who  can  look  about  him  without  seeing  that 
 to  whatever  cause  poverty  may  be  due,  it  is  not  due 
 to  the  niggardliness  of  nature  ;  without  seeing  that 
-
 
 THAT   WE   ALL   MIGHT   BE   RICH.  105 
 
@@ -3342,7 +3240,6 @@ nearer  the  centres  of  population.  If  farmers  are
 paying  onc-fonrth,  one-third,  or  even  one-half  their 
 crops  for  the  privilege  of  getting  land  to  cultivate, 
 
-
 106  SOCIAL   PROBLEMS. 
 
 it  is  not  because  there  is  not,  even  in  our  oldest 
@@ -3375,7 +3272,6 @@ gunny  cloth  manufacturers,  at  a  recent  nieeting,
 agreed  to  close  their  mills  until  the  present  over- 
 stock on  the  market  is  greatly  reduced  ;  many  other 
 manufacturers  have   done   the   same   thing.     The 
-
 
 THAT   WE    ALL   MIGHT   BE   RICH.  107 
 
@@ -3411,7 +3307,6 @@ of  poverty  is  that  there  is  not  work  enough  for  so
 many  people,  and  that  if  the  Creator  had  made  the 
 rock  harder,  the  soil  less  fertile,  iron  as  scarce  aa 
 
-
 108  SOCIAL  PROBLEMS. 
 
 gold,  and  gold  as  diamonds  ;  or  if  ships  would  sink 
@@ -3446,7 +3341,6 @@ tangible  wealth  in  the  ISTorth  at  the  close  than  at  the
 beginning  of  the  war.  Nor  was  it  the  great  issue 
 of  paper  money,  nor  the  creation  of  the  debt  which 
 
-
 THAT   WE   ALL  MIGHT  BE   EICH.  l09 
 
 caused  this  prosperity.  The  Government  presses 
@@ -3480,7 +3374,6 @@ to  as  much  as  the  waste  constantly  going  on  from
 unemployed  labor  and  idle  or  partially  used  ma- 
 chinery. -. 
 
-
 110  SOCIAL  PROBLEMS. 
 
 It  is  evident  that  this  enormous  waste  of  produc- 
@@ -3513,7 +3406,6 @@ opportunities,  and  which  rob  labor  of  its  fair  reward.
 
 What  these  maladjustments  are  I  shall  in  subse- 
 quent chapters  endeavor  to  show.     In  this  I  wish 
-
 
 THAT   WE    ALL   MIGHT   BE    RICH.  Ill 
 
@@ -3549,7 +3441,6 @@ could  not  provide  for  themselves.
 But  if  we  will  not  use  the  intelligence  with  which 
 we  have  been  gifted  to  adapt  social  organization  to 
 
-
 112  SOCIAL   PROBLEMS. 
 
 natural  laws  —  if  we  allow  dogs-in-the-manger  to 
@@ -3582,7 +3473,6 @@ of  Christ's  teaching,  the  staunchest  disbelievers  and
 revilers  of  its  possibility  are  found  among  those  who 
 call  themselves  Christians.  Queer  ideas  of  the 
 Divinity  have  some  of  these  Christians  who  hold 
-
 
 THAT   WE    ALL   MIGHT   BE    RICH.  113 
 
@@ -3618,7 +3508,6 @@ not  to  the  production  of  wealth,  but  to  the  grabbing
 of  wealth.  Consider  the  waste  caused  by  competi- 
 8 
 
-
 114  SOCIAL  PROBLEMS. 
 
 tion  which  does  not  increase  wealth  ;  by  laws  which 
@@ -3653,7 +3542,6 @@ which  permit  the  development  of  the  faculties  that
 raise  man  above  the  animal.  Mind,  not  muscle,  is 
 the  motor  of   progress,  the    force  which  compels 
 
-
 THAT  WE   ALL  MIGHT  BE   RICH.  115 
 
 nature  and  produces  wealth.  In  turning  men  into 
@@ -3666,7 +3554,6 @@ Christ  was  more  than  a  dreamer  when  he  told  his
 disciples  that  in  that  kingdom  of  justice  for  which 
 he  taught  them  to  work  and  pray  this  might  be  the 
 condition  of  all? 
-
 
 CHAPTEE  IX. 
 
@@ -3700,7 +3587,6 @@ tenement  rooms  and  given  a  breath  of  the  fresh
 
 116 
 
-
 FIRST   PRINCIPLES.  117 
 
 breeze  of  sea  shore  or  mountain ;  but  what  little 
@@ -3732,7 +3618,6 @@ leap  into  the  river  herself !  How  vainly  shall  we
 endeavor  to  repress  crime  by  our  barbarous  punish- 
 ment of  the  poorer  class  of  criminals  so  long  as 
 children  are  reared  in  the  brutalizing  influences  of 
-
 
 118  SOCIAL   PROBLEMS. 
 
@@ -3769,7 +3654,6 @@ for  securing  the  just  distribution  of  wealth.  For
 the  just  distribution  of  wealth  is  manifestly  the 
 natural  distribution  of  wealth,  and  injustice  in  the 
 
-
 FIRST    PRINCIPLES.  119 
 
 clistribntion  of  wealth  must,  therefore,  result  from 
@@ -3803,7 +3687,6 @@ could  have  no  more  wealth  than  he  was  able  to
 make  and  to  save.  This  is  the  natural  order. 
 And,  no  matter  how  great  be  the  population,  or 
 how  elaborate  the  society,  no  one  can  have  more 
-
 
 120  SOCIAL   PROBLEMS. 
 
@@ -3840,7 +3723,6 @@ order.
 I  wish  to  emphasize  this  point,  for  there  are  those 
 who  constantly  talk  and  write  as  though  whoever 
 
-
 FIRST  PRINCIPLES.  121 
 
 finds  fault  with  the  present  distribution  of  wealth 
@@ -3873,7 +3755,6 @@ they  do  not  directly  antagonize — a  deep,  definite,
 intense,  religious  faith,  so  clear,  so  burning  as  to 
 latterly  melt  away  the  thought  of  self — a  general 
 moral  condition  such  as  that  which  the  Methodists 
-
 
 122  SOCIAL  PROBLEMS. 
 
@@ -3908,7 +3789,6 @@ vision  of  universal  peace,  in  which  even  Nature's
 rapine  shall  cease,  when  the  lion  shall  lay  down 
 with  the  lamb  and  a  little  child  shall  lead  them. 
 
-
 FIRST   PRINCIPLES.  123 
 
 That  justice  is  the  highest  quality  in  the  moral 
@@ -3941,7 +3821,6 @@ of  lessening  the  incentive  to  the  production  of
 wealth,  I  would  make  it  more  powerful  by  making 
 the  reward  more  certain.  Whatever  any  man  has 
 added  to  the  common  stock  of  wealth,  or  has  re- 
-
 
 124:  SOCIAL   PROBLEMS. 
 
@@ -3976,7 +3855,6 @@ vate beneficence.  And  he  who  struggles  for  that
 recognition  of  justice  which,  by  securing  to  each  his 
 own,  will  make  it  needless  to  beg  for  alms  from  one 
 
-
 FIRST  PRINCIPLES.  125 
 
 for  another,  is  doing  a  greater  and  a  higher  work 
@@ -4009,7 +3887,6 @@ by,  that  spirit  which  seeks  to  make  life  better,
 nobler,  happier  for  others,  rather  than  by  that  spirit 
 which  only  seeks  more  enjoyment  for  itself  For 
 the  Mammon  of  Injustice  can  always  buy  the  selfish 
-
 
 126  SOCIAL  PROBLEMS. 
 
@@ -4046,7 +3923,6 @@ The  sentiment  to  wliich  I  would  appeal  is  not  envy,
 nor  yet  self-interest,  but  that  nobler  sentiment  which 
 found  strong,  though  rude,  expression  in  that  battle- 
 
-
 FIRST   PRINCIPLES.  127 
 
 hymn  which  rang  through  the  land  when  a  great 
@@ -4082,7 +3958,6 @@ tily or  not,  whether  we  have  worn  soft  raiment  or
 not,  whether  we  leave  a  great  fortune  or  nothing  at 
 
 *"  Battle-Hymn  of  the  Republic,"  by  Julia  Ward  Howe. 
-
 
 128  SOCIAL   PROBLEMS. 
 
@@ -4122,7 +3997,6 @@ their  labor  to  the  good  of  all,
 in  which  all  true  life  was  extinct;  recalled  it  to  existence, 
 conquered  the  millions,  conquered  the  world,  and  caused 
 
-
 t'IRST   PRINCIPLES.  129 
 
 the  education  of  the  human  race  to  ascend  one  degree  on 
@@ -4153,7 +4027,6 @@ menace,  if  indeed  there  be  those  for  whom  threats  are
 necessary,  will  be  the  firmness,  not  Jthe  irritation,  of  your 
 speech." 
 
-
 CHAPTER  X. 
 
 THE    RIGHTS    OF    MAN. 
@@ -4183,7 +4056,6 @@ should  receive  the  same  respect  as  a  law  prohibiting
 infanticide. 
 
 130 
-
 
 THE   EIGHTS    OF   MAN.  131 
 
@@ -4220,7 +4092,6 @@ their  just  powers  from  the  consent  of  the  governed ;  that,
 whenever  any  form  of  government  becomes  destructive  of 
 these  ends,  it  is  the  right  of  the  people  to  alter  or  to  abolish 
 it,  and  to  institute  a  new  government,  laying  its  foundations 
-
 
 132  SOCIAL  PROBLEMS. 
 
@@ -4265,7 +4136,6 @@ oppression."
 It  is  one  thing  to  assert  the  eternal  principles,  as 
 they  are  asserted  in  times  of  upheaval,  when  men 
 
-
 THE    RIGHTS    OF    MAN.  133 
 
 of  convictions  and  of  the  courage  of  their  convic- 
@@ -4298,7 +4168,6 @@ It  is  possible  for  men  to  see  the  truth,  and  assert
 the  truth,  and  to  hear  and  repeat,  again  and  again, 
 formulas  embodying  the  truth,  without  realizing  all 
 that  that  truth  involves.      Men  who  signed  the 
-
 
 134  SOCIAL  PROBLEMS. 
 
@@ -4333,7 +4202,6 @@ unalienable  rights  with  which,  as  asserted  as  a  self-
 eviden.t  truth  by  the  Declaration  of  Independence, 
 all  men  have  been  endowed  by  God,  their  Creator. 
 
-
 THE   RIGHTS   OF   MAN.  135 
 
 I  believe  the  National  Assembly  of  France  were  right 
@@ -4365,7 +4233,6 @@ extort  from  another  labor  or  earnings  ?  All  this
 goes  without  the  saying.  Any  recognition  of  the 
 equal  right  to  life  and  liberty  which  would  deny 
 the  right  to  property — the  right  of  a  man  to  his 
-
 
 136  SOCIAL  PROBLEMS. 
 
@@ -4402,7 +4269,6 @@ things — are,  as  a  whole,  satisfied  of  their  freedom,
 and  boast  of  it.  They  think,  for  it  has  been  so  long 
 preached  to  them  that  most  of  them  honestly  belieye 
 
-
 THE  RIGHTS   OF   MAN.  137 
 
 it,  that  Englishmen  are  the  freest  people  in  the  world, 
@@ -4435,7 +4301,6 @@ earn  his  living,  to  transmute  his  labor  into  wealth,
 and  to  possess  and  enjoy  that  wealth  for  his  own 
 sustenance  and  benefit,  and  for  the  sustenance  and 
 benefit  of  those  whom  nature  places  in  dependence 
-
 
 138  SOCIAL   PROBLEMS. 
 
@@ -4470,7 +4335,6 @@ But  what  is  the  fact  ?  The  fact  is,  that  the  right
 of  this  "free-born  Englishman ''  to  his  own  labor 
 and  the  fruits  of  his  labor  is  denied  as  fully  and 
 
-
 THE   RIGHTS   OF   MAN.  139 
 
 completely  as  though  he  were  made  dj  law  a  slave ; 
@@ -4504,7 +4368,6 @@ would  be  were  he  suspended  over  a  precipice  while
 somebody  else  held  a  sharp  knife  to  the  rope  ;  just 
 as  free  as  if  thirsting  in  a  desert  he  found  the  only 
 
-
 140  SOCIAL   PROBLEMS. 
 
 spring  for  miles  walled  and  guarded  by  armed  men 
@@ -4536,7 +4399,6 @@ and  the  authority  to  take  any  intruder  before  the
 magistrate,  who  will  send  him  to  prison  ;  the  old- 
 time  common  has  become  ''  my  lord's  "  great  park, 
 on  which  his  fat  cattle  graze,  and  his  supple-limbed 
-
 
 THE   RIGHTS  OF  MAN.  141 
 
@@ -4571,7 +4433,6 @@ his  labor  to  those  who  have  land  on  such  terms  as
 they  please,  and  those  terms  are  only  enough  to 
 just  support  life  in  the  most  miserable  fasliion  — that 
 
-
 142  SOCIAL  PROBLEMS. 
 
 is  to  saj,  all  the  produce  of  his  labor  is  taken  from 
@@ -4603,7 +4464,6 @@ humility  which  these  people  think  proper  and  be-
 coming in  the  "  lower  classes  ";  if  there  is  suspicion 
 that  he  may  have  helped  himself  to  an  apple  or 
 snared  a  hare,   or  slyly  hooked  a  fish   from   the 
-
 
 THE   RIGHTS   OF  MAN.  143 
 
@@ -4638,7 +4498,6 @@ I  have  not  dwelt  upon  the  darkest  shades  —  the
 sodden  ignorance  and  brutality,  the  low  morality  of 
 these  degraded  and  debased  classes.     In  quantity 
 
-
 144:  SOCIAL  PE0BLEM8. 
 
 and  quality  of  food,  in  clothing  and  housing,  in 
@@ -4670,7 +4529,6 @@ world.  They  are  ignorant,  and  degraded,  and  de-
 based ;  they  live  the  life  of  slaves  and  die  the  death 
 of  paupers,  simply  because  they  are  robbed  of  their 
 natural  rights. 
-
 
 THE   EIGHTS   OF  MAN.  145 
 
@@ -4710,7 +4568,6 @@ ing  poverty,  side  by  side  with  such  wantonness  of
 
 10 
 
-
 146  SOCIAL   PROBLEMS. 
 
 luxury,  and  which  is  to  be  seen  in  the  cities  even 
@@ -4735,7 +4592,6 @@ tial rights  of  man  —  the  rights  to  life,  liberty  and
 the  pursuit  of  happiness  are  denied  here  as  com- 
 pletely as  in  England.  And  the  same  results  must 
 follow. 
-
 
 CHAPTER  XI. 
 
@@ -4766,7 +4622,6 @@ tries. Yet,  liere  is  a  civilized  and  Christian  gov-
 ernment, or  one  that  jKisses  for  such,   shipping  oif 
 
 147 
-
 
 148  SOCIAL   PROBLEMS. 
 
@@ -4801,7 +4656,6 @@ to  keep  them  alive ;  and  so  as  the  cheapest  way  of
 getting  rid  of  them,  tliey  are  shipped  away  at  pub- 
 lic expense. 
 
-
 ■    DUMPING    GARBAGE.  149 
 
 What  is  the  reason  of  this  ?  Why  is  it  that  peo- 
@@ -4834,7 +4688,6 @@ The  country  from  which  these  people  are  shipped
 ing compared  to  the  voluntary  emigration — is  abun- 
 dantly capable  of  maintaining  in  comfort  a  very 
 much  larger  population  than  it    has    ever    had. 
-
 
 150  SOCIAL   PROBLEMS. 
 
@@ -4869,7 +4722,6 @@ populated  Ireland  of  which  he  has  heard  so  much.
 There  is  ]>lonty  of  good  l.iud,  but  on  \{  :ire  only  fat 
 beasts,  and  sheep  so  clean  and  white  that  you  at 
 
-
 DUMPING   GARBAGE.  151 
 
 first  think  that  they  must  be  washed  and  combed 
@@ -4903,7 +4755,6 @@ women,  till  it  can  be  made  to  grow  something.
 For  such  patches  of  rock  and  bog — soil  it  could 
 not  be  called,  save  by  courtesy — which  has   been 
 
-
 152  SOCIAL   PROBLEMS. 
 
 made  to  produce  anything  only  by  their  unremitting 
@@ -4935,7 +4786,6 @@ butions of  the  world.  When  so  ricli  as  to  have  a
 few  chickens  or  a  pig,  they  no  more  think  of  eating 
 them  than  Yanderbih  tliinks  of  eating  his  $50,000 
 trotters.      They  are  sold  to  help  pay  the  rent.      In 
-
 
 DUMPING   GARBAGE.  153 
 
@@ -4970,7 +4820,6 @@ throijgh  this  country  you  come  across  some  land-
 lord's palatial  home  mansion,  its  magnificent 
 grounds  inclosed  with  high  walls.      Pass  inside 
 
-
 154  SOCIAL   PKOBLEMS. 
 
 these  walls  and  it  is  almost  like  entering  another 
@@ -5001,7 +4850,6 @@ comes  out  of  the  earnings  of  just  such  people  as  are
 now  being  dumped  on  our  wharves — out  of  their 
 earnings,  or  out  of  what  is  sent  them  by  relatives 
 in  America,  or  by  charitable  contributions. 
-
 
 DUMPING  GARBAGE.  155 
 
@@ -5035,7 +4883,6 @@ surplus  Irish  men  and  women ;  these  garbage  Irish
 men  and  women  and  little  children  —  surplus  and 
 garbage  because  the  landlords  of  Ireland  have  no 
 use  for  them,  are  shoveled  out  of  their  own  countrv 
-
 
 156  SOCIAL   PROBLEMS. 
 
@@ -5072,7 +4919,6 @@ Every  "surplus"  Irishman,  Englishman  or
 Scotchman  sent  over  here  assists  directly  in  sending 
 up  the  value  of  land  and  the  rent  of  land.     The 
 
-
 DUMPING   GARBAGE.  157 
 
 stimulation  of  emigration  from  the  Old  Country  to 
@@ -5105,7 +4951,6 @@ creases a  little,  its  ownership  will  give,  of  demand-
 ing the  earnings  of  other  people.  And  under  pre- 
 sent conditions  it  is  a  matter,  not  of  a  generation  or 
 two,   but  only  of  a  few  years,  before  they  will  be 
-
 
 158  SOCIAL   PROBLEMS. 
 
@@ -5141,7 +4986,6 @@ than  the  farmers  who  rent  of  them  are  to  the
 laborers  to  whom  they  sublet.  They  regard  the 
 land  as  their  own,  that  is  all,  and  expect  to  get  an 
 
-
 DUMPING    GARBAGE.  159 
 
 income  from  it ;  and  the  agent  who  sends  them  the 
@@ -5175,7 +5019,6 @@ power  as  landlords  here  than  there.
 
 In  Ireland,  especially,  the  tendency  of  legislation 
 for  a  series  of  years  has  been  to  restrain  the  power 
-
 
 160  SOCIAL  PROBLEMS. 
 
@@ -5217,7 +5060,6 @@ the  rent,  and  serves  him  with  a  summons."
 
 A  while  ago,  when  it  was  bitter  cold,  I  read  in 
 
-
 BUMPING   GARBAGE.  161 
 
 the  papers  an  item  telling  how,  in  the  city  of 
@@ -5253,7 +5095,6 @@ already  have  our  human  garbage,  the  volume  of
 which  some  of  this  Irish  human  garbage  will  cer- 
 11 
 
-
 162  SOCIAL   PROBLEMS. 
 
 tainlj  go  to  swell.  Wherever  jou  go  throughout 
@@ -5264,7 +5105,6 @@ million  people  who  live  on  alms  !  What,  in  a  few
 years  more,  are  we  to  do  for  a  dumping-ground  ? 
 Will  it  make  our  difficulty  the  less  that  our  human 
 garbage  can  vote  ? 
-
 
 CHAPTER  TIL 
 
@@ -5297,7 +5137,6 @@ of  other  commodities  that  the  whole  quantity  pro-
 duced cannot  be  exchanged  for  enough  of  those  other 
 
 163 
-
 
 164  SOCIAL  PROBLEMS. 
 
@@ -5333,7 +5172,6 @@ other  things  for  watches.
 In  short,  desire  continuing,  the  over-production 
 of  particular  commodities  can  only  be  relative  to 
 
-
 OVER-PRODUCTION.  165 
 
 the  production  of  other  commodities,  and  may  result 
@@ -5366,7 +5204,6 @@ is  a  great  and  rapid  increase  in  the  production  of
 coal,  out  of  proportion  to  the  increase  of  other  pro- 
 duction. In  a  free  market  the  price  of  coal  there- 
 fore falls.     The  effect  is  to  enable  all  consumers  of 
-
 
 166  SOCIAL   PROBLEMS. 
 
@@ -5401,7 +5238,6 @@ of  equilibrium  between  the  production  of  coal  and
 the  production  of  other  things  is  effected,  it  is 
 on  a  diminished  scale  of  aggregate  production. 
 
-
 OVER-PRODUCTION.  167 
 
 All  trade,  it  is  to  be  remembered,  is  the  exchange 
@@ -5434,7 +5270,6 @@ depress  trade,  by  lessening  aggregate  demaad  and
 diminishing  supply.  The  equation  of  supply  and 
 demand  between  agricultural  productions  and  manu- 
 factured goods  might  thus  be  altered  in  the  same 
-
 
 168  SOCIAL   PKOBLEMS. 
 
@@ -5469,7 +5304,6 @@ To  recapitulate :  Eelative  over-production  may
 proceed  from  causes  which  increase,  or  from  causes 
 which  diminish,  production.     But  increased  produc- 
 
-
 OVEE-I'RODUCTION.  169 
 
 tion  in  any  branch  of  industry  tends  to  increase 
@@ -5503,7 +5337,6 @@ manufactures.  The  tariff  which  we  maintain  for
 the  express  purpose  of  hampering  our  foreign  com- 
 merce, and  restricting  tlie  free  exchange  of  our  own 
 productions  for  the  productions  of  other  nations,  is 
-
 
 170  SOCIAL   PEOBLEMS. 
 
@@ -5556,7 +5389,6 @@ besides,  do  not  so  much  seem  calculated  to  hinder  the  people  from  go
 if  I  may  say  so,  to  the  alehouse,  as  from  going  where  they  can  buy  the 
 best  and  cheapest  liquor.—  Wealth  of  Nations,  Book  IV,  Chap.  III. 
 
-
 OVER  -  PRODUCTION.  1  71 
 
 tlie  result  of  production,  and  partly  on  things  wliicli 
@@ -5586,12 +5418,10 @@ much  more  on  the  value  of  his  land  than  we  do  the
 man  who  holds  ■  an  equal  piece  idle.  So,  too,  if 
 a  man  saves,  our  taxes  operate  to  punish  him  for 
 
-
 *This  arises  from  the  widely  spread  but  utterly  false  notion  that 
 property  should  only  pay  taxes  in  proportion  to  the  income  it  yields. 
 In  Great  Britain,  this  is  carried  to  such  a  pitch  of  absurdity  that  unused 
 land  pays  no  taxes,  no  matter  how  valuable  it  may  be. 
-
 
 172  SOCIAL  PROBLEMS. 
 
@@ -5627,9 +5457,7 @@ of  being  attracted  by  each  other,  leave  between
 each  other  large  patches  of  unused  land.  If  there 
 be   in   the   universe  any  societies  which  have  the. 
 
-
 1 
-
 
 OVER-PEODUCTION.  l73 
 
@@ -5663,7 +5491,6 @@ presenting  a  level  surface,  rufiled  only  by  the  action
 of  the  wind,  stood  up  here  and  there  in  huge 
 columns,  it  could  hardly  perplex  us  more  than 
 these  phenomena  must  perplex  such  extramundane 
-
 
 174  SOCIAL  PROBLEMS. 
 
@@ -5699,9 +5526,7 @@ price  of  land,  a  price  that  increases  the  more  cer-
 tainly it  is  seen  that  a  growing  population  needs 
 the  land.     Thus  the  stronger  the  incentive  to  the 
 
-
 i 
-
 
 OVER  -  PRODUCTION.  175 
 
@@ -5735,7 +5560,6 @@ cost  of  constructing  and  maintaining  roads  and  rail-
 ways, the  greater  distances  over  which  produce  and 
 goods  must  be  transported,  the  difiiculties  which 
 separation  interposes  to  that  commerce  between  men 
-
 
 176  SOCIAL   PROBLEMS. 
 
@@ -5771,7 +5595,6 @@ restricted  production.
 
 And  as  land  values  tend  to  rise,  not  merely  with 
 
-
 OVER  -  PEODUCTION.  1 Y7 
 
 the  growtn  of  population  and  wealth,  but  with  the 
@@ -5806,7 +5629,6 @@ periodical  depressions  in  which  demand  and  supply
 seem  unable  to  meet  and  satisfy  each  other  could 
 12 
 
-
 178  SOCIAL   PROBLEMS. 
 
 not  become  widespread  and  persistent  did  pro- 
@@ -5829,7 +5651,6 @@ of  the  equal  and  inalienable  right  of  all  men  to
 freely  apply  to  nature  for  the  satisfaction  of  their 
 needs,  and  to  retain  for  their  own  uses  the  full  fruits 
 of  their  labor. 
-
 
 CHAPTER  XIIL 
 
@@ -5863,7 +5684,6 @@ Yet  the  tramp,   known   as  he  is  now  from  the
 
 179 
 
-
 180  SOCIAL  PROBLEMS. 
 
 Atlantic  to  the  Pacific,  is  only  a  part  of  the  phenom- 
@@ -5896,7 +5716,6 @@ employment"  ;  while  there  are  many  who,  with  more
 or  less  definiteness,  hold  the  idea  that  labor-saving 
 inventions  have  operated  injuriously  by  lessening 
 the  amount  of  work  to  be  done. 
-
 
 UNEMPLOYED    LABOR.  181 
 
@@ -5933,7 +5752,6 @@ who,  as  we  say,  furnishes  work?
 
 So  it  necessarily  would  be,  if  in  saying  that  labor 
 
-
 182  SOCIAL   PROBLEMS. 
 
 is  the  producer  of  wealth,  we  stated  the  whole  case. 
@@ -5967,9 +5785,7 @@ of  the  matter  and  motion  contained  in  the  human
 franip.  The  power  of  contracting  and  expanding 
 human  muscles  is  the  initial  force  with  which  the 
 
-
 I 
-
 
 UNEMPLOYED    LABOR.  183 
 
@@ -6003,7 +5819,6 @@ wealth  consists  of  materials  and  products  of  nature
 which  have  been  secured,  or  modified  by  human  ex- 
 ertion so  as  to  fit  them  for  the  satisfaction  of  human 
 
-
 184  SOCIAL   PROBLEMS. 
 
 desires,*  labor  is  the  active  factor  in  the  production 
@@ -6035,12 +5850,10 @@ standing  place  and  reservoir  of  material  and  forces.
 We  will  suppose  labor  to  be  as  necessary  as  with  us, 
 human  desires  to  be  as  boundless  as  with  us,  the 
 
-
 ♦However  great  be  its  utility,  nothing  can  be  counted  as  wealth 
 unless  it  requires  labor  for  its  ])roduction  ;  nor  however  much  labor  has 
 been  required  for  its  production,  can  anything  retain  the  character  of 
 wealth  longer  than  it  can  gratify  desire. 
-
 
 UNEMPLOYED   LABOR.  185 
 
@@ -6075,7 +5888,6 @@ Variations  there  might  be  in  the  demand  for  par-
 ticular commodities  or  services,  which  would  pro- 
 duce variations  in  the  demand  for  labor  in  different 
 
-
 186  SOCIAL  PEOBLEMS. 
 
 occupations,  and  cause  wages  in  those  occupations 
@@ -6109,7 +5921,6 @@ that  surplus  of  unemploj  labor  which  enables
 capital  to  make  such  advantageous  bargains  with 
 labor  would  not  exist,     Tlie  man  who  wanted  to 
 
-
 UNEMPLOYED    LABOR.  187 
 
 get  others  to  work  for  him  would  not  find  men 
@@ -6141,7 +5952,6 @@ a  bare  living,  and  dismissal  from  employment
 means  anxiety  and  privation,  and  even  beggary  or 
 starvation,  these  large  fortunes  have  monstrous 
 power.    But  in  a  condition  of  things  where  there 
-
 
 188  SOCIAL   PROBLEMS. 
 
@@ -6176,7 +5986,6 @@ the  best  for  men  wlio  will  use  the  intelligence  with
 which  they  have  been  gifted.  Of  this,  however,  I 
 shall  speak  hereafter.  What  I  am  now  trying  to  do 
 by  asking  my  readers  to  endeavor  to  imagine  a 
-
 
 ITNEMPLOTED   LABOR.  189 
 
@@ -6213,7 +6022,6 @@ their  living  directly  from  nature.  The  occupations
 that  resort  directly  to  nature  are  the  primitive  occu- 
 pations, from  which,  as  society  progi'esses,  all  others 
 
-
 190  SOCIAL   PROBLEMS. 
 
 are  differentiated.  No  matter  how  complex  the 
@@ -6247,7 +6055,6 @@ This  whoever  will  may  see  by  merely  looking
 around  him.  Clearly  the  difficulty  of  finding  em- 
 ployment, the  fact  that  in  all  vocations,  as  a  rule, 
 
-
 UNEMPLOYED   LABOR.  191 
 
 the  supply  of  labor  seems  to  exceed  the  demand 
@@ -6268,7 +6075,6 @@ unemployed  mechanic,  or  operative,  or  clerk,  could
 or  would  get  himself  a  farm  ;  but  that  from  all  the 
 various  occupations  enough  would  betake  themselves 
 to  the  land  to  relieve  any  pressure  for  employment. 
-
 
 CHAPTEE   XIV. 
 
@@ -6302,12 +6108,9 @@ creased the  power  of  producing  wealth  have  not
 
 192 
 
-
 THE   EFFECTS   OF  MACHINERY. 
 
-
 19 
-
 
 proved  an  unmixed  good.  Their  benefits  are  not 
 merely  unequally  distributed,  but  they  are  bringing 
@@ -6341,7 +6144,6 @@ developing   on   the   one  side,   enormous  fortunes,
 
 but  on  tlie  other  side,   utter  pariahs.      These  are 
 13 
-
 
 194  SOCIAL  PROBLEMS. 
 
@@ -6379,7 +6181,6 @@ more  iron,  and  thus  the  farmer  will  be  enabled  to
 obtain  the  same  quantity  of  all  the  things  he  wants 
 with  less  labor,  or  a   somewhat  greater  quantity 
 
-
 THE   EFFECTS    OF   MACHINERY.  195 
 
 with  the   same    labor.      And    so   with    all   other 
@@ -6414,7 +6215,6 @@ mon level  the  earnings  of  capital.  The  direct  effect
 of  improvements  and  inventions  which  add  to 
 productive  power  is,  it  is  to  be  remarked,  always  to 
 
-
 196  SOCIAL  PEOBLEMS. 
 
 increase  the  earnings  of  labor,  never  to  increase  tlie 
@@ -6447,7 +6247,6 @@ benefit  of  improvements  in  production.
 For  the  cause  we  must  go  further.  While 
 labor-saving  improvements  increase  the  power 
 of  labor,  no  improvement  or  invention  can  release 
-
 
 THE  EFFECTS  OF  MACHINERY.         197 
 
@@ -6483,7 +6282,6 @@ kind  ;  which  practically  amounts  to  the  same  thing.
 
 These  gains  primarily  accrue  to  labor  ;  that  is  to 
 
-
 198  SOCIAL    PROBLEMS. 
 
 say,  the  advantage  given  by  the  raih-oad  in  the  dis- 
@@ -6516,7 +6314,6 @@ one  end  of  the  city  to  the  other.  They  have  made
 accessible  to  the  over-crowded  population  of  the 
 lower  part  of  the  island,  the  vacant  spaces  at  the 
 upper.     But  they  have  not  added  to  the  earnings  of 
-
 
 THE    EFFECTS   OF   MACHINERY.  199 
 
@@ -6551,7 +6348,6 @@ give  every  house  a  free  telephone  connection  ;  and
 Mr.  Yanderbilt,  not  to  be  outdone,  were  to  assume 
 the  cost  of  putting  down  good  pavements,  and  clean- 
 
-
 200  SOCIAL   PROBLEMS. 
 
 ing  the  streets,  and  running  the  horse  cars  for  noth- 
@@ -6583,7 +6379,6 @@ produced,  and  need  not  share  with  labor  even  what
 is  necessary  for  its  maintenance.  Were  the  powers 
 and  capacities  of  land  increased,  the  gain  would  be 
 that  of  landowners.      Or  were  the  improvement  to 
-
 
 THE   EFFECTS   OF  MACHINERY.  201 
 
@@ -6619,7 +6414,6 @@ the  reward  of  labor.
 This  is  the  "iron  law  of  wages,"  as  it  is  styled 
 by  the  Germans  —  the  law  which  determines  wages 
 
-
 202  SOCIAL   PROBLEMS. 
 
 to  the  minimum  on  which  laborers  will  consent  to 
@@ -6652,7 +6446,6 @@ goes  on.  Even  education  adds  but  to  the  capacity
 for  suffering.  If  the  slave  must  continue  to  be  a 
 slave,  it  is  cruelty  to  educate  him, 
 
-
 THE   EFFECTS   OF   MACHLNERY.  203 
 
 All  this  we  may  not  yet  fully  realize,  because  the 
@@ -6664,12 +6457,9 @@ here,  but  even  in  Europe.  But  the  new  continent
 is  rapidly  being  fenced  in,  and  the  industrial  revolu- 
 tion goes  on  faster  and  faster. 
 
-
 CHAPTER  XV. 
 
-
 SLAVERY    AND    SLAVERY. 
-
 
 I  MUST  leave  it  to  the  reader  to  carry  on  in  other 
 directions,  if  he  choose,  such  inquiries  as  those  to 
@@ -6693,13 +6483,11 @@ comed him  as  a  man  and  a  brother  ;  had  read  him
 a  Declaration  of  Independence,  an  Emancipation 
 Proclamation   and  a  Fifteenth  Amendment,    and 
 
-
 *  They  are  pursued  in  more  regular  and  scientific  form  in  my 
 "Progress  and  Poverty,"  a  book  to  which  I  must  refer  the  reader  for  a 
 more  elaborate  discussion  of  economic  questions. 
 
 204 
-
 
 SLAVERY   AND   SLAVERY.  205 
 
@@ -6734,7 +6522,6 @@ for  them.  It  was  not  until  the  great  estates  of  the
 rich  patricians  began  to  depopulate  Italy  that  the 
 importation    of    slaves    began.      In    Turkey    and 
 
-
 206  SOCIAL  PROBLEMS. 
 
 Egypt,  where  chattel  slavery  is  yet  legal,  it  is  con- 
@@ -6766,7 +6553,6 @@ firm can  turn  them  on  tlie  parish.  Or  what  would
 the  New  England  manufacturer  gain  by  the  en- 
 slavement of  his  operatives  ?  The  competition  with 
 each   other    of    so-called    freemen,    who    are    de- 
-
 
 SLAVERY  AND  SLAVERY.  207 
 
@@ -6802,7 +6588,6 @@ of  keeping  them  when  ill  or  unproductive ;  at  the
 trouble  of  finding  work  for  them  to  do,  or  of  hiring 
 them  out,   as  at  different  seasons  or  at  different 
 
-
 208  SOCIAL  PROBLEMS. 
 
 times,  the  number  of  slaves  which  diiFerent  owners 
@@ -6834,7 +6619,6 @@ all  the  advantages  of  chattel  slavery  can  be  secured
 without  any  of  the  disadvantages  which  in  a  com- 
 plex society  attend  the  owning  of  a  particular  man 
 by  a  particular  master. 
-
 
 SLAVERY   AND    SLAVERY.  209 
 
@@ -6874,7 +6658,6 @@ for  the  abolition  of  negro  slavery,  it  remains  true
 that  we  have  only  abolished  one  form  of  slavery  — 
 14 
 
-
 210  SOCIAL   PROBLEMS. 
 
 and  that  a  primitive  form  which  had  been  abolished 
@@ -6909,7 +6692,6 @@ stated,  the  Massachusetts  Bureau  of  Labor  Statistics
 and  the  Illinois  Bui-eau  ot  Labor  Statistics  both  de- 
 clare that  in  the  majority  of  cases  the  earnings  of 
 
-
 SLAVERY  AND  SLAVERY.  211 
 
 wage  workers  will  not  maintain  their  families,  and 
@@ -6942,7 +6724,6 @@ labor  really  gets  goes  to  the  owners  of  land.  And
 with  us,  in  the  United  States,  a  great  many  of  the 
 owners  of  land  are  smallowners  —  men  who  own 
 the  homesteads  in  which  they  live  or  the  soil  which 
-
 
 213  SOCIAL  PROBLEMS. 
 
@@ -6978,7 +6759,6 @@ sarily arise,  who,  exchanging  the  products  of  slave
 labor,  would  retain  a  considerable  portion ;  and  a  i 
 class  of  contractors,  who,  hiring  slave  labor  from  the 
 
-
 SLAVERY  AND  SLAVERY.  213 
 
 masters,  would  also  retain  a  portion  of  its  produce. 
@@ -7010,7 +6790,6 @@ way  to  the  highest  places,  so  that  in  such  a  state  of
 society  the  apologists  of  things  as  they  are  would  tri- 
 umphantly point  to  these  examples,  saying,  '-See how 
 beautiful  a  thing  is  slavery  I   Any  slave  can  become  a 
-
 
 214  SOCIAL   PROBLEMS. 
 
@@ -7046,7 +6825,6 @@ without  its  effects  being  much  felt.  As  it  becomes
 more  and  more  difficult  to  get  laud,  so  will  the  vir- 
 tual enslavement  of  the  laboring  classes  go  on.    As 
 
-
 SLAVERY  AND  SLAVERY.  215 
 
 the  value  of  land  rises,  more  and  more  of  the  earn- 
@@ -7080,7 +6858,6 @@ lish yeoman  has  already  disappeared.
 
 We  have  abolished  negro  slavery  in  the  United 
 States.     But  how  small  is  the  real  benefit  to  the 
-
 
 216  SOCIAL   PROBLEMS. 
 
@@ -7122,7 +6899,6 @@ The  only  one  of  our  prominent  men  who  had  any
 glimmering  of  what  was  really  necessary  to  the 
 abolition  of  slavery  was  Thaddeus  Stephens,  but  it 
 
-
 SLAVERY   AND    SLAVERY.  2 IT 
 
 was  only  a  glimmering.  "Forty  acres  and  a 
@@ -7155,7 +6931,6 @@ become  harder  and  harder.  As  yet,  land  is  com-
 paratively cheap  in  the  South,  and  there  is  much 
 not  only  unused  but  unclaimed.  The  consequence 
 is,  that  the  freedmen  are  not  yet  driven  into  that 
-
 
 218  SOCIAL  PROBLEMS. 
 
@@ -7191,7 +6966,6 @@ Of  the  two  systems  of  slavery,  I  think  there  can
 be  no  doubt  that  upon  the  same  moral  level,  that 
 which  makes  property  of  persons  is  more  humane 
 
-
 SLAVERY  AND  SLAVERY.  219 
 
 than  that  which  results  from  making  private 
@@ -7226,7 +7000,6 @@ the  Middle  Passage.
 That  chattel  slavery  is  not  the  worst  form  of  slavery 
 we  know  from  the  fact  that  in  countries  where  it  has 
 
-
 220  SOCIAL    PROBLEMS. 
 
 prevailed  irrespective  of  race  distinctions,  tlie  ranks 
@@ -7260,7 +7033,6 @@ people  than  breed  them  for  the  brothel  or  the  peni-
 posing we  did  legalize  chattel  slavery  again,  who 
 would  buy  men  when  men  can  be  hired  so  cheaply  ? 
 
-
 CHAPTEE  XYI. 
 
 PUBLIC    DEBTS    AND    INDIRECT   TAXATION. 
@@ -7292,7 +7064,6 @@ saved  those  unnecessary  and  cruel  wars  in  which  in
 modern  times  English  blood  and  treasure  has  been 
 
 221 
-
 
 222  SOCIAL  PROBLEMS. 
 
@@ -7326,7 +7097,6 @@ father that  I  should  pay  him,  I  would  only  laugh
 the  more,  and  be  the  more  certain  that  he  was  a 
 lunatic.  To  such  a  demand  any  one  of  us  would 
 reply  in  effect,  "My  great-grandfather  was  evidently 
-
 
 PUBLIC   DEBTS   AND    INDIRECT   TAXATION.  223 
 
@@ -7362,7 +7132,6 @@ device  for  borrowing  from  the  future,  for  compell-
 ing those  yet  to  be  to  bear  a  share  in  expenses 
 which  a  present  generation  may  choose  to  incur. 
 
-
 224  SOCIAL   PROBLEMS. 
 
 That  is,  of  course,  a  physical  impossibility.  They 
@@ -7396,7 +7165,6 @@ States,  to  constitutional  restrictions.  Even  the
 quasi  public  debts  of  railroad  and  other  such  cor- 
 porations have  similarly  led  to  extravagance  and 
 
-
 fUBLIO   DEBTS   AND    INDIJRECT    TAXATION.         225 
 
 corruption  that  have  far  outweighed  any  good  re- 
@@ -7428,7 +7196,6 @@ did  make  it  profitable  with  a  vengeance.  ISTot  only
 did  we,  by  the  institution  of  the  National  Banking 
 system,  give  them  back  nine-tenths  of  much  of  the 
 money  thus  borrowed  while  continuing  to  pay  in- 
-
 
 226  SOCIAL   PROBLEMS. 
 
@@ -7464,7 +7231,6 @@ the  enormous  sums  spent  in  the  endeavor  to  main-
 tain on  the  continent  of  Europe  the  blasphemy  of 
 divine  right ;  for  expenditures  made  to  carry  rapine 
 
-
 .  PUBLIC   DEBTS   AND   INDIRECT  TAXATION.         227 
 
 among  unoffending  peoples  in  the  four  quarters 
@@ -7499,7 +7265,6 @@ government  to  defy  the  people.  It  permits  the  mak-
 ing of  great  and  wasteful  expenditures,  by  silencing, 
 and  even  converting  into  support,  the  opposition  of 
 
-
 228  SOCIAL   PROBLEMS. 
 
 those  who  would  otherwise  resist  these  expenditures 
@@ -7531,7 +7296,6 @@ cut.  They  so  pervert  religious  perceptions  that  pro-
 fessed followers  of  Christ  bless  in  his  name  tlie 
 standards  of  murder  and  rapine,  and  thanks  are 
 given  to  the  Prince  of  Peace  for  victories  that  pile 
-
 
 PUBLIC    DEBTS   AND   INDIKECT   TAXATION.         229 
 
@@ -7568,7 +7332,6 @@ in  usufruct  to  the  living,"  he  declared  that  one  gen-
 
 *  Interview  in  New  York  Times. 
 
-
 230  SOCIAL   PROBLEMS. 
 
 eration  should  not  hold  itself  bound  by  the  laws  or 
@@ -7603,7 +7366,6 @@ endeavor  used  to  increase  expense.  We  have  de-
 liberately substituted  a  costly  currency  for  a  cheap 
 currency  ;  we  have  deliberately  added  to  the  cost  of 
 
-
 PUBLIC    DEBTS   AND    INDIRECT   TAXATION.         231 
 
 paying  off  tlie  public  debt ;  we  maintain  a  costly 
@@ -7635,7 +7397,6 @@ is  only  a  faint  idea,  for  besides  what  goes  to  the
 government  and  what  is  intercepted  by  private 
 interests,  there  is  the  loss  and  waste  caused  by 
 the  artificial  restrictions  and  difficulties  which  this 
-
 
 232  SOCIAL   PROBLEMS. 
 
@@ -7671,7 +7432,6 @@ than  I  can  here  devote  to  the  subject.  But  what  I
 wish  specially  to  point  out  is,  that,  like  the  evils 
 arising  from  public  debts,  they  are  in  the  last  analy- 
 
-
 PUBLIC    DEBTS   AND    INDIRECT  TAXATION.  233 
 
 sis  due  to  ''ignorance,  neglect  or  contempt  of 
@@ -7683,7 +7443,6 @@ to  give  one  citizen  an  advantage  over  another,  to
 take  from  some  the  proceeds  of  their  labor  in  order 
 to  swell  the  profit  of  others,  and  to  punish  as  crimes 
 actions  which  in  themselves  are  not  injurious. 
-
 
 CHAPTER  XYIL 
 
@@ -7716,7 +7475,6 @@ secured,  will  at  the  same  time  greatly  simplify
 government  and  do  away  with  corrupting  infiuences. 
 
 234 
-
 
 THE  FUNCTIONS  OF  GOVEENMENT.       235 
 
@@ -7752,7 +7510,6 @@ tion, as  in  principle,  both  our  navy  and  our  army  are
 repugnant  to  the  democratic  idea.  In  both  we 
 maintain   that  distinction  between    commissioned 
 
-
 236  SOCIAL  PROBLEMS. 
 
 officers  and  common  soldiers  and  sailors  which 
@@ -7787,7 +7544,6 @@ lawyers  at  least  to  the  Frencli  standard.  At
 the  same  time  our  statute  books  are  full  of 
 enactments  which  could,  with  advantage,  be  swept 
 
-
 THE   FUNCTIONS   OF   GOVEKNMENT.  237 
 
 away.  It  is  not  the  business  of  government 
@@ -7820,7 +7576,6 @@ the  sanction  of  public  opinions.
 Restrictions,  prohibitions,  interferences  with  the 
 liberty  of  action  in  itself  harmless,  are  evil  in 
 their  nature,  and,  though  they  may  sometimes  be 
-
 
 238  SOCIAL   PROBLEMS. 
 
@@ -7856,7 +7611,6 @@ pression  of  the  will  of  the  voter,  by  simplifying  our
 elective  methods.  And  a  principle  should  always  be 
 kept  in  mind  which  we  have  largely  ignored,  that 
 
-
 THE    FtJNCTIONS    OF    GOVERNMENT.  239 
 
 the  people  cannot  manage  details,  nor  intelligently 
@@ -7889,7 +7643,6 @@ and  restrictive  functions  of  government  are  super-
 imposed what  may  be  called  cooperative  functions, 
 the  refusal  to  assume  which  leads,  in  many  cases, 
 to  the  disregard  of  individual  rights  as  surely  as 
-
 
 240  SOCIAL  PROBLEMS. 
 
@@ -7925,7 +7678,6 @@ the  utilization  of  larger  powers  and  improved  pro-
 cesses operates  more  and  more  to  the  restriction  and 
 exclusion  of  competition,  and  to  the  establishment 
 
-
 THE   FUNCTIONS   OP   GOVERNMENT.  24l 
 
 of  complete  monopolies.  This  we  may  see  very 
@@ -7957,7 +7709,6 @@ is  to  say,  as,  in  the  process  of  integration,  the  indi-
 vidual becomes  more  and  more  dependent  upon  and 
 subordinate  to  the  all,  it  becomes  necessary  for  gov- 
 ernment,   which  is  properly  that   social  organ  by 
-
 
 242  SOCIAL  PEOBLEMS. 
 
@@ -7991,7 +7742,6 @@ ment in  the  proper  sphere  of  individual  action.
 This  we  may  see  in  our  own  case.  In  what  we 
 attempt  to  do  by  government  and  what  we  leave 
 undone  we  are  like  a  man  who  should  leave  the 
-
 
 THE    FUNCTIONS   OF   GOVERNMENT.  243 
 
@@ -8027,7 +7777,6 @@ roguery,  and  to  put  the  poorer  classes  of  society  at
 a  great  disadvantage.  These  obvious  considerations 
 have  everywhere,  as  society  became  well  organized, 
 
-
 244:  SOCIAL  PROBLEMS. 
 
 led  to  the  recognition  of  the  coinage  of  money  as  an 
@@ -8058,7 +7807,6 @@ individuals  and  associations ;  but  by  leaving  to  them,
 even  in  part  and  under  restrictions  and  guarantees, 
 the  issuance  of  money,  the  people  of  the  United 
 States  sufter  an  annual  loss  of  millions  of  dollars, 
-
 
 THE  FUNCTIONS  OF  GOVERNMENT.       245 
 
@@ -8095,7 +7843,6 @@ taining roads  with  the  business  of  carrying  freight
 and  passengers  upon  them.  It  is  probably  due  to 
 this  that  it  was  not  at  first  recognized  that  the  same 
 
-
 246  SOCIAL   PROBLEMS. 
 
 reasons  which  render  it  necessary  for  the  State  to 
@@ -8128,7 +7875,6 @@ way  we  may,  it  is  so  serious  a  matter  that  it  must  be
 faced.  As  the  individual  grows  from  childhood  to 
 maturity,  he  must  meet  difficulties  and  accept  respon- 
 sibilities from  which  he  well  might  shrink.     So  is  it 
-
 
 THE   FUNCTIONS   OF   GOVERNMENT.  247 
 
@@ -8164,7 +7910,6 @@ people  is,  of  course,  greater  than  the  power  of  the
 railroads,  but  it  cannot  be  exerted  steadily  and  in 
 details.     Even  a  small  special  interest  is,  by  reason 
 
-
 248  SOCIAL   PEOBLEMS. 
 
 of  its  intelligence,  compactness  and  flexibility,  more 
@@ -8198,7 +7943,6 @@ of  California,  for  instance,  have  voted  against
 the  railroad  time  and  again,  or  rather  imagined 
 they   did,    and    even    adopted    a   very   bad    new 
 
-
 THE   FUNCTIONS   OF   GOVEENMENT.  249 
 
 constitution  because  they  supposed  tlie  railroad  was 
@@ -8230,7 +7974,6 @@ keep  up  fares  and  freights  to  a  level  with  those
 exacted  by  the  railroad,  and  if  you  would  send 
 goods  from  Kew  York  to  San  Francisco  by  way  of 
 the  Isthmus,  the  cheapest  way  is  to  first  ship  them 
-
 
 250  SOCIAL   PROBLEMS. 
 
@@ -8266,7 +8009,6 @@ agement notoriously  corrupt  and  inefficient  ?  Would
 not  the  effect  of  adding  such  a  vast  army  to  the 
 already  great  number  of  government  employes,  of 
 
-
 THE   FUNCTIONS   OF   GOVERNMENT.  251 
 
 increasing  so  enormously  the  revenues  and  expendi- 
@@ -8300,7 +8042,6 @@ more  do  that  by  a  negative  policy  than  the  seaman
 can  lay-to  in  a  gale  without  drifting  ;  it  is  necessary 
 tp  make  government  much  more  efficient  and 
 much  less  corrupt.     The  dangers  that  menace  us 
-
 
 252  SOCIAL  PROBLEMS, 
 
@@ -8336,7 +8077,6 @@ principle  proved  by  experience,  that  any  consider-
 able interest  having  necessary  relations  with  govern- 
 ment is  more  corruptive  of  government  when  acting 
 
-
 THE  FUNCTIONS   OF   GOVERNMENT.  253 
 
 upon  government  from  without  than  when  assumed 
@@ -8371,7 +8111,6 @@ or  forced  into  politics  to  procure  favorable  or  prevent
 unfavorable  legislation.  Where  individual  States 
 and  the  General  Government  have  substituted  public 
 
-
 254:  SOCIAL  PROBLEMS. 
 
 printing-offices  for  Public  Printers,  who  themselves 
@@ -8403,7 +8142,6 @@ once  an  outcry.  The  postoffice  department  is  man-
 aged with  greater  efficiency  than  any  other  depart- 
 ment of  the  national  government,  because  it  comes 
 close  to  the  ])e()|)le.     To  say  the  very  least,  it  is 
-
 
 THE    FUNCTIONS    OP   GOVERNMENT.  255 
 
@@ -8439,7 +8177,6 @@ switch-tender  to  general  superintendent,  have  no
 pecuniary  interest  in  the  business  other  than  to 
 get  their  pay  — in  most  cases  paltry  and  inefficient 
 
-
 256  SOCIAX  PROBLEMS. 
 
 —  and  hold  their  positions.  Under  governmental 
@@ -8472,7 +8209,6 @@ plies and  special  rates  for  transportation,  and  who
 often  deliberately  wreck  the  corporation  they  control 
 and  rob  stockholders  to  the  last  cent.  From  one 
 end  to  the  othei",  the  numagement  of  our  railroad 
-
 
 THE   FUNCTIONS   OF   GOVERNMENT.  257 
 
@@ -8509,7 +8245,6 @@ All  I  have  said  of  the  railroad  applies,  of  course,
 to  the  telegraph,  the  telephone,  the  supplying  of 
 17 
 
-
 258  SOCIAL  PEOBLEMS. 
 
 cities  with  gas,  water,  heat  and  electricity, — in  short 
@@ -8544,7 +8279,6 @@ operation  of  government  into  cooperative  educational
 associations,  and  with  sucli  happy  results  that  in  no 
 State  where  the  public  school  system  has  obtained 
 
-
 THE   FUNCTIONS   OF   GOVERNMENT  259 
 
 would  any  proposition  to  abolish  it  get  respectful  con- 
@@ -8576,7 +8310,6 @@ is  much  less,  and  they  can  be  purchased  at  cheaper
 rates.  This  not  only  affects  a  large  economy  in  the 
 aggregate  expenditure,  but  lessens  an  important 
 corruptive  influence.     For  the  strife   of  the  great 
-
 
 260  SOCIAL  PROBLEMS. 
 
@@ -8612,7 +8345,6 @@ only  could  the  most  enormous  economies  thus  be  ob-
 tained, but  the  c):rowin2:  tendencv  to  adulteration  and 
 dishonesty,  as  fatal  to  morals  as  to  health,  would 
 
-
 THE  FUNCTIONS   OF   GOVERNMENT.  261 
 
 be  checked,*  and  at  least  such  an  organization  of 
@@ -8639,7 +8371,6 @@ because  of  our  bad  social  adjustments.  The  con-
 struction of  this  world  in  which  we  find  ourselves  is 
 such  that  a  thousand  men  working  together  can  pro- 
 
-
 *  There  are  many  manufactured  articles  for  which  the  producer  now 
 receives  only  a  third  of  the  price  paid  by  the  consumer,  -"'nile  adultera- 
 tion has  gone  far  beyond  detection  by  the  individual  purchaser.  Not  to 
@@ -8651,7 +8382,6 @@ large  coffee-roasters,  and  I  presume  most  of  them,  have  adopted  an
 invention  by  means  of  which  imitation  coffee  beans,  exactly  resembling 
 in  appearance  the  genuine  artif'le,  am  PfaT:i])C<l  out  of  a  paste.  These 
 they  mix  in  large  quantities  with  real  coilee'. 
-
 
 262  SOCIAL   PROBLEMS. 
 
@@ -8688,7 +8418,6 @@ nothing  else  will  avaiL
 
 I  have   in  this   chapter    touched    briefly   upon 
 
-
 THE    FUNCTIONS    OF    GOVERNMENT.  263 
 
 subjects  that  for  tliorougli  treatment  would  require 
@@ -8720,7 +8449,6 @@ I  have  not  entered.  As  to  the  proper  organization
 of  government,  and  the  distribution  of  powers,  there 
 is  much  need  for  thought. 
 
-
 CHAPTER  XYin. 
 
 WHAT  WE   MUST  DO. 
@@ -8750,7 +8478,6 @@ sell  their  labor  to  others.  There  will  be  differences
 in  wealth,  for  tliere  are  differences  among  men  as  to 
 
 264 
-
 
 WHAT   WE   MUST   DO.  265 
 
@@ -8786,7 +8513,6 @@ mately destroy  it.  As  without  land  man  cannot
 exist ;  as  his  very  physical  substance,  and  all  that 
 he  can  acquire  or  make,  must  be  drawn  from  the 
 
-
 266  SOCIAL  PROBLEMS.  , 
 
 land,  the  ownership  of  the  land  of  a  country  is 
@@ -8819,7 +8545,6 @@ that  a  very  im]-)ortant  part  of  the  effect  of  modern
 invention  has  been  by  the  improvement  of  trans- 
 portation to  open  up  new  land.  What  will  be 
 the  effect  of  continued  improvement  in  industrial 
-
 
 WHAT  WE   MUSI    DO.  267 
 
@@ -8855,7 +8580,6 @@ to  the  trade-dollar  swindle  ?
 
 In  previous  chapters  I  have  given  answers  to  all 
 
-
 268  SOCIAL   PEOBLEMS. 
 
 such  objections  ;  but  to  repeat  in  concise  form,  my 
@@ -8887,7 +8611,6 @@ ultimate  result.  If  the  improvements  are  so  great
 that  all  the  wealth  the  island  can  produce  or  that 
 the  landowners  care  for  can  be  obtained  with  one- 
 half  the  labor,  they  can  let  the  other  half  of  the 
-
 
 WHAT   WE    MUST   DO.  269 
 
@@ -8924,7 +8647,6 @@ money.  Along  comes  the  inventor,  and  says :
 '*I  have  an  invention  which  will  greatly  add  to  the 
 efficiency  of  labor  and  enable  you  to  greatly  increase 
 
-
 270  SOCIAL  PROBLEMS. 
 
 the  produce  of  this  island,  so  that  there  will  he  very- 
@@ -8958,7 +8680,6 @@ Suppose  then  some  one  to  arise  and  say  :  ''What
 is  the  use  of  discussii  surh  abstractions  as  the 
 land   question,    that    cannot    come    into   practical 
 
-
 WHAT  WE    MUST   DO.  271 
 
 politics  for  many  a  day,  and  that  can  only  excite 
@@ -8990,7 +8711,6 @@ Let  us  imagine  a  roar  of  applause,  and  these  pro-
 positions carried  out.  A\  then  ?  Then  the  land- 
 owners would  become  so  much  the  richer.  The 
 laborers  would  gain  nothing,  unless  it  might  be  in  a 
-
 
 272  SOCIAL  PROBLEMS. 
 
@@ -9025,7 +8745,6 @@ say,  in  consideration  of  the  saving  effected  in  trans-
 portation, labor  would  have  to  pay  a  higher  premium 
 for  land. 
 
-
 WHAT  WE    MUST   DO.  273 
 
 So  with  all  monopolies,  and  tlieir  name  is  legion. 
@@ -9059,7 +8778,6 @@ may,  until  we  make  this  fundamental  reform  our
 material  progress  can  but  tend  to  differentiate  our 
 18 
 
-
 274:  SOCIAL    PROBLEMS. 
 
 people  into  tlie  monstrously  rich  and  the  frightfully 
@@ -9069,7 +8787,6 @@ subsistence — we  must  still  have  our  great  criminal
 classes,  our  paupers  and  our  tramps,  men  and 
 women  driven  to  degradation  and  desperation  from 
 inability  to  make  an  honest  living. 
-
 
 CHAPTER  XIX. 
 
@@ -9103,7 +8820,6 @@ there  may  be  left  of  our  public  domain  to  actual
 settlers.     That  would  be  merely  a  locking  of  the 
 
 275 
-
 
 276  SOCIAL  PROBLEMS. 
 
@@ -9139,7 +8855,6 @@ the  republic  before  social  inequality  and  political
 demoralization  have  reached  the  point  when  no 
 salvation  is  possible,  we  must  assert  the  principle  of 
 
-
 THE    FIRST   GREAT   REFORM.  277 
 
 the  Declaration  of  Independence,  acknowledge  the 
@@ -9172,7 +8887,6 @@ of  Charles  II,  the  feudal  dues  were  sliaken  off
 by  a  landholders'  parliament.  We  accepted  it  as 
 we  have  accepted  the  aristocratic  organization  of 
 our   army  and  navy,  and  many  other  things,    in 
-
 
 278  SOCIAL   PROBLEMS. 
 
@@ -9207,7 +8921,6 @@ tenant  for  a  day  of  this  rolling  sphere  should  collect
 rent  for  it  from  his  co-tenants,  or  sell  to  them  for  a 
 price  what  was  here  ages  before  him  and  will  be 
 
-
 THE    FIRST   GREAT   REFORM.  279 
 
 here  ages  after  him  ?  What  more  preposterous  than 
@@ -9240,7 +8953,6 @@ before  they  are  permitted  to  improve ;  prevents  men
 from  going  to  work  for  themselves  who  would  gladly 
 do  so,  crowding  them  into  deadly  competition 
 with  each  other  for  the  wages  of  employers  ;   and 
-
 
 280  SOCIAL  PROBLEMS. 
 
@@ -9276,7 +8988,6 @@ to  other  individuals,  why  would  they  not  use  and
 improve  land  belonging  to  the  whole  people?  What 
 is  to  prevent  land  owned  by  Trinity  church,  by  the 
 
-
 THE   FIRST   GREAT   REFORM.  281 
 
 Sailors'  Snug  Harbor,  by  the  Astors  or  Rlieinlanders, 
@@ -9311,7 +9022,6 @@ rights  of  all  in  that  way,  even  if  such  division  were
 not  in  itself  impossible.  In  a  small  and  primitive 
 community  of  simple  industries  and  habits,  such  a 
 
-
 282  SOCIAL  PROBLEMS. 
 
 tliat  Moses  legislated  for,  substantial  equality  may 
@@ -9344,7 +9054,6 @@ railroad  than  by  breaking  up  track,  engines,  cars
 and  depots  into  as  many  separate  bits  as  there  are 
 stockholders?  And  so  it  is  not  necessar}',  in  order 
 to  secure  equal  rights  to  land,  to  make  an  equal 
-
 
 THE    FIRST    GREAT   REFORM.  283 
 
@@ -9379,7 +9088,6 @@ wished  to  use  it,  at  once  relieving  the  labor  market
 and  giving  an  enormous  stimulus  to  production  and 
 improvement,  while  land  in  use  would  be  paid  for 
 according  to  its  value,  irrespective  of  the  improve- 
-
 
 284  SOCIAL  PROBLEMS. 
 
@@ -9416,7 +9124,6 @@ reader,  who  lacks  inclination  to  follow  the  close  rea-
 soning necessary  to  show  the  full  relation  of  this 
 seemingly  simple  reform  to  economic  laws,  I  cannot 
 
-
 THE   FIRST  GREAT  REFORM.  285 
 
 exhibit  its  full  force,  but  I  may  point  to  some  of  the 
@@ -9449,12 +9156,10 @@ and  opportunities  of  production,  while  at  the  same
 time  removing  the  taxation  which  now  hampers, 
 restricts  and  fines  production,  would  enormously 
 
-
 *I  use  the  term  ground  rent  because  the  proper  economic  term,  rent, 
 might  not  be  understood  by  those  who  are  in  the  habit  of  using  it  in  its 
 common  sense,  which  applies  to  the  income  from  buildings  and  improve- 
 ments, as  well  as  land. 
-
 
 286  SOCIAL  PROBLEMS. 
 
@@ -9487,7 +9192,6 @@ Tliere  would  be  no  need  of  combinations  to  raise  or
 maintain  wages ;  for  wages,  instead  of  tending  to  the 
 lowest  point  at  which  laborers  can  live,  would  tend 
 to   the  liighest  point  which  employers  could  pay, 
-
 
 THE   FIRST   GREAT  REFORM.  287 
 
@@ -9523,7 +9227,6 @@ now  interested  in  keeping  up  taxation  would  cease
 to  contribute  money  for  the  debauching  of  voters 
 and  to  beset    the    law-making  power  with  their 
 
-
 288  SOCIAL   PROBLEMS. 
 
 lobbyists.  We  sliould  get  rid  of  the  fraud  and  false 
@@ -9556,7 +9259,6 @@ reform  I  have  suggested  to  be  considered,  but  the
 higher  moral  tone  that  would  be  given  to  social  life 
 by  the  equalization  of  conditions  and  the  abolition 
 of  poverty.     The  greed  of  wealth,  which  makes  it  a 
-
 
 THE    FIRST   GREAT   REFORM.  289 
 
@@ -9591,7 +9293,6 @@ possible  management  of  public  affairs  if  our  social
 and  political  adjustments  enabled  us  to  utilize  those 
 qualities.     Who  has  not  known  poor  men  who  might 
 
-
 290  SOCIAL   PROBLEMS. 
 
 safely  be  trusted  with  untold  millions  ?  Who  has 
@@ -9624,7 +9325,6 @@ live  with  his  fellows.  He  is  by  nature  a  social
 animal.  And  the  creative  scheme  must  embrace 
 the  life  and  development  of  society,  as  truly  as  it 
 embraces  the  life  a-nd  development  of  the  individual. 
-
 
 THE   FIRST  GREAT  REFORM.  291 
 
@@ -9660,7 +9360,6 @@ while  no  amount  of  training  will  enable  him  to  walk
 on  his  hands  save  awkwardly,  slowly  and  painfully. 
 In  the  same  way  we  may  know  that  the  natural  or 
 
-
 292  SOCIAL   PROBLEMS. 
 
 riglit  way  of  raising  tlie  revenues  wliicli  are  required 
@@ -9690,13 +9389,11 @@ conforms  to  every  economic  and  moral  require-
 ment. What  can  be  more  in  accordance  with  justice 
 than  that  the  value  of  land,  which  is  not  created  by 
 
-
 *  Value,  it  must  always  be  remembered,  is  a  totally  different  thing  from 
 utility.  From  tlie  confounding  of  these  two  dill'erent  ideas  much  error 
 and  confusion  arise.  No  matter  how  useful  it  may  be,  nothing  has  a 
 value  until  some  one  is  willing  to  give  labor  or  the  produce  of  labor 
 for  it. 
-
 
 THE   FIRST    GKEAT   KEFORM,  293 
 
@@ -9732,7 +9429,6 @@ declaration  of  the  Hebrew  scriptures,  that  man  has
 been  created  in  the  image  of  God,  forces  itself  upon 
 the  mind. 
 
-
 294  SOCIAL  PEGBLEMS. 
 
 If  all  the  material  things  needed  by  man  could 
@@ -9765,7 +9461,6 @@ adaptations,  in  which  more  than  in  anything  else
 the  human  mind  recognizes  evidences  of  Mind  in- 
 finitely greatei-,  and  catches  glimpses  of  the  Master 
 Workman. 
-
 
 THE    FIRST   GREAT   REFORM.  295 
 
@@ -9800,7 +9495,6 @@ growing  out  of  and  ever  balancing  a  centrifugal
 force  tending  to  diversity.  Here  is  a  fund  belong- 
 ing to  society  as  a  whole  from  which,  without  the 
 
-
 296  SOCIAL   PROBLEMS. 
 
 degradation  'of  alms,  private  or  public,  provision 
@@ -9826,7 +9520,6 @@ Creator,  from  this  ignoring  and  defying  of  his  social
 laws,  there  arise  in  the  very  heart  of  our  civilization 
 those  horrible  and  monstrous  things  that  betoken 
 social  putrefaction. 
-
 
 CHAPTER  XX. 
 
@@ -9860,7 +9553,6 @@ the  contrary,  these  measures  would  be  as  clearly  to
 
 297 
 
-
 298  SOCIAL   PROBLEMS. 
 
 their  advantage  as  to  the  advantage  of  wageworkers. 
@@ -9891,7 +9583,6 @@ more  than  his  fair  share  of  the  burdens  of  society,
 and  gets  less  than  his  fair  share  of  its  benefits  ;  and 
 though  the  time  for  his  awakening  has  not  yet 
 come,    his    thought,    with  the  decadence    of   old 
-
 
 THE   AMERICAN   FARMER.  299 
 
@@ -9927,7 +9618,6 @@ There  lived  in  Dublin,  some  years  ago,  a  gentle-
 man named  Murphy — "Cozy"  Murphy,  they 
 called  him,  for  short,  and  because  he  was  a  very 
 
-
 300  SOCIAL   PROBLEMS. 
 
 comfortable  sort  of  a  Murphy.  Cozy  Murphy 
@@ -9962,7 +9652,6 @@ It  requires  no  grasp  of  abstractions  for  the  work-
 ing farmer  to  see  that  to  abolish  all  taxation,  save 
 upon  the  value  of  land,   would  be  really    to    his 
 
-
 THE   AlklEEICAN  FARMER.  301 
 
 interest,  no  matter  how  it  might  affect  larger  land- 
@@ -9994,7 +9683,6 @@ of  small  owners,  the  value  of  whose  improvements
 bears  a  much  greater  ratio  to  the  value  of  their  land 
 than  is  the  case  with  larger  owners ;  and  who,  as 
 one  of  the  effects  of  treating  improvements  as  a 
-
 
 302  SOCIAL   PROBLEMS. 
 
@@ -10029,7 +9717,6 @@ festly to  put  all  taxes  on  the  value  of  land  would  be
 to  lessen  relatively  and  absolutely  the  taxes  the 
 working  farmer  has  to  pay. 
 
-
 THE    AMERICAN    FARMER.  303 
 
 So  far  from  the  effect  of  placing  all  taxes  upon 
@@ -10062,7 +9749,6 @@ the  country.  Taxes  which  add  to  prices  bear  upon
 the  inhabitants  of  sparsely  settled  districts  with  as 
 much  weight,  and  in  many  cases  with  much  more 
 weight,  than  upon  the  inhabitants  of  great  cities. 
-
 
 304  SOCIAli  PROBLEMS. 
 
@@ -10098,7 +9784,6 @@ returns  from  his  labor  upon  it ;  and  as  the  selling
 valueof  other  land  would  be  similarly  affected,  this 
 loss  would  not  make  it  harder  for  him  to  get  another 
 
-
 THE   AMERICAN   FARMER.  805 
 
 farm  if  lie  wished  to  move,  while  it  would  be 
@@ -10133,7 +9818,6 @@ population,  while  in  1880  it  had  risen  to  22.5  per
 
 20 
 
-
 306  SOCIAL   PROBLEMS. 
 
 cent.*  Agriculture  is  jet  the  largest  occupation, 
@@ -10160,7 +9844,6 @@ in  the  agricultural  population.  According  to  the
 census  the  number  of  farms  and  plantations  in  the 
 United  States  in  1880  was  4,008,907.     The  number 
 
-
 *  It  is  an  illustration  of  the  carelessness  with  which  the  census  reports 
 have  been  sho  'cled  together,  that  although  the  Compendium  (Table 
 V)  gives  the  urban  population,  no  information  is  given  as  to  what  is 
@@ -10175,7 +9858,6 @@ gaged in  agriculture  has  been  only  i:i).5  per  cent,  in  personal  and  p
 fessional services  the  increase  has  been  51.7  per  cent,  in  trade  and 
 transportation,  51.9  per  cent,  and  iu  manufacturing,  mechanical  and 
 mining  industries,  41.7  per  cent. 
-
 
 THE   AMERICAN   FARMER.  307 
 
@@ -10227,7 +9909,6 @@ that  can  be  obtained  for  all  that  they  possess.
 The  entire  agricultural  regions  of  our  country  are  crowded  with  loan 
 agents,  representing  capital  from  all  the  great  money  centers  of  the 
 
-
 308  SOCIAL  PROBLEMS. 
 
 certain  that  the  farmers  who  really  own  their  farms 
@@ -10268,7 +9949,6 @@ political  effects  as  the  invention  of  the  cotton-gin,  which  revived  an
 extended  negro  slavery  in  the  United  States,  and  made  it  an  aggressive 
 political  power. 
 
-
 THE    AMERICAN   FARMER.  309 
 
 the  large  producer  in  agriculture  gains  an  advantage 
@@ -10304,7 +9984,6 @@ of  Europe  is  due,  I  take  it,  to  the  prevalence  of  habits  differing  
 those  of  the  people  of  English  speech,  and  to  the  fact  that  modem  ten- 
 dencies are  not  yet  felt  there  as  strongly. 
 
-
 310  SOCIAL   PROBLEMS. 
 
 English  and  American  capitalists  can  run  miles  of 
@@ -10338,7 +10017,6 @@ another  powerful  tendency  operating  in  the  same
 direction. 
 
 At  the  looting  of  the  Summer  Palace  at  Pekin  by 
-
 
 THE   AMEKICAN    FARMER.  311 
 
@@ -10374,7 +10052,6 @@ horses,  gravitate  to  the  possession  of  the  rich.
 
 So  long  as  the  masses  are  fools  enough  to  permit 
 
-
 312  SOCIAL   PROBLEMS. 
 
 private  property  in  land,  it  is  rightly  esteemed  the 
@@ -10409,7 +10086,6 @@ whoso  prime  object  is  a  secure  investment.
 This  process  must  go  on  in  the  United  States  as 
 land  rises  in  value.     We  may  observe  it  now.     It 
 
-
 THE  AMEKICAN  FARMER.  313 
 
 is  in  the  newer  parts  of  our  growing  cities  that  we 
@@ -10441,7 +10117,6 @@ is  cheaper ;  or  he  is  tempted  or  forced  to  mortgage,
 and  the  mortgage  eats  and  eats  until  it  eats  him 
 out,  or  until  he  concludes  that  the  wisest  thing  he 
 can  do  is  to   realize   the   difierence   between  the 
-
 
 314  SOCIAL   PROBLEMS. 
 
@@ -10477,7 +10152,6 @@ states  for  a  man  starting  with  notliing  to  become  by
 his  labor  the  owner  of  a  flirm.  As  the  public 
 domain  disappears  this  will  become  impossible  all 
 
-
 THE  AMERICAN  FARMER.  315 
 
 over  the  United  States.  And  as  in  the  accidents 
@@ -10494,7 +10168,6 @@ ognition means  that  his  children,  if  not  himself,
 shall  lose  all  right  whatever  in  their  native  soil ; 
 shall  sink  from  the  condition  of  free  men  to  that  of 
 serfs. 
-
 
 CHAPTEE  XXI. 
 
@@ -10526,7 +10199,6 @@ being  produced.  The  vast  populations  of  these
 great  cities  are  utterly  divorced  from  all  the  genial 
 
 316 
-
 
 CITY   AND   COUNTRY.  3lY 
 
@@ -10561,7 +10233,6 @@ unnatural  life  of  the  great  cities  means  an  equally
 unnatural  life  in  the  country.  Just  as  the  wen  or 
 tumor,  drawing  the  wholesome  juices  of  the  body 
 
-
 818  Social  problems. 
 
 into  its  poisonous  vortex,  impoverishes  all  other 
@@ -10595,7 +10266,6 @@ comforts and  evils  of  such  a  life.  Yet  as  the  cities
 grow,  unwholesomely  crowding  people  together  till 
 they  are  packed  in  tiers,  family  above  family,  so  are 
 
-
 CITY   AND   COUNTRY.  310 
 
 they  unwholesomely  separated  in  the  country.  The 
@@ -10627,7 +10297,6 @@ cattle,  to  grouse  and  to  deer  —  glens  that  once  sent
 out  their  thousand  fighting  men  now  tenanted  by  a 
 couple  of  gamekeepers.  So  across  the  Tweed, 
 while  London,  Liverpool,  Leeds,  Manchester  and 
-
 
 320  SOCIAL   PROBLEMS. 
 
@@ -10663,9 +10332,7 @@ That  present  tendencies  are  hurrying  modern
 society  toward  inevitable  catastrophe,  is  apparent 
 from  the    constantly  increasing    concentration  of 
 
-
 i 
-
 
 CITY  AND   COUNTRY.  321 
 
@@ -10703,7 +10370,6 @@ farmer  in  the  measures  I  have  proposed.  With  the
 resumption  of  common  rights  to  the  soil,  the  over- 
 21 
 
-
 322  SOCIAL   PROBLEMS. 
 
 crowded  population  of  the  cities  would  spread,  the 
@@ -10735,7 +10401,6 @@ broken  up,  it  seems  to  me  that  rural  life  would  tend
 to  revert  to  the  primitive  type  of  the  village  sur- 
 rounded by  cultivated  fields,  with  its  common 
 pasturage  and  woodlands.     But  however  this  may 
-
 
 CITY    AND    COUNTRY.  328 
 
@@ -10769,7 +10434,6 @@ tion can  bring  to  elevate  and  expand  human  life,
 seems,  in  the  light  of  existing  facts,  as  wild  a  dream 
 as  ever  entered  the  brain  of  hasheesh  eater.    Yet  the 
 
-
 824  SOCIAL  PROBLEMS. 
 
 powers  already  within  the  grasp  of  man  make  it 
@@ -10783,7 +10447,6 @@ and  even  largely  in  the  United  States,  fruit  is  a
 luxury.  Yet  mother  earth  is  not  niggard  of  her 
 fruit.  If  we  chose  to  have  it  so,  every  road  might 
 be  lined  with  fruit  trees. 
-
 
 CHAPTEK  XXII. 
 
@@ -10815,7 +10478,6 @@ in  conditions  and  powers  that  seemed  most  for-
 bidding, has  already  found  his  richest  storehouses 
 
 825 
-
 
 326  SOCIAL  PROBLEMS. 
 
@@ -10852,7 +10514,6 @@ will  honestly  and  carefully  make  up  his  own  mind
 as  to  the  causes  and  the  cure  of  the  social  evils  that 
 are  so  apparent,  does,  in  that,  the  most  important 
 
-
 CONCLUSION.  327 
 
 thing  ill  his  power  toward  their  removal.  This 
@@ -10888,7 +10549,6 @@ to  think  for  themselves.  Therefore  the  obligation
 devolves  with  all  the  more  force  on  those  who  can. 
 If  thinking  men  are  few,  they  are  for  that  reason  all 
 
-
 328  SOCIAL  PROBLEMS. 
 
 the  more  powerful.  Let  no  man  imagine  that  he 
@@ -10922,7 +10582,6 @@ of  one  sex  suffices  for  the  management  of  common
 interests,  the  vastly  more  intricate,  more  delicate  and 
 more  important  questions  which  the  progress  of  ci  vili- 
 
-
 CONCLUSION.  329 
 
 zation  makes  of  public  moment,  require  the  intelli- 
@@ -10954,7 +10613,6 @@ Florentine  agitator  that  when  he  had  received  a  new
 pair  of  boots,  he  concluded  that  all  popular  griev- 
 ances were  satisfied.  How  often  do  we  see  this  story 
 illustrated  anew  in  working-men's  movements  and 
-
 
 330  .  SOCIAL  PROBLEMS. 
 
@@ -10989,9 +10647,7 @@ must  be  made,  if  labor  is  to  be  enfranchised,  and
 social  justice  won,  are  those  least  able  to  help  or 
 struggle  for  themselves,  those  who  have  no  advan- 
 
-
 I 
-
 
 CONCLUSION.  •  331 
 
@@ -11009,7 +10665,6 @@ themselves.
 
 In  that  spirit,  and  in  no  other,  is  the  power  to 
 solve  social  problems  and  carry  civilization  onward. 
-
 
 APPENDIX. 
 
@@ -11054,16 +10709,13 @@ whole,  in  the  number  of  farms  below  153  acres,  than  in  the
 number  above  153  acres,  and,  consequently,  the  average  sice 
 has  been  reduced. 
 
-
 334  Appendix. 
-
 
 If  I  have  not  made  the  reason  of  the  case  plain,  I  shall 
 be  happy  to  resort  to  a  more  elementary  statement,  illus- 
 trated with  diagrams,  if  desired.    Respectfully  yours, 
 
 Francis  A.  Walker. 
-
 
 EXPLANATION. 
 
@@ -11100,7 +10752,6 @@ tion of  the  Census  Bureau  as  conclusive  proof,  which  no  one
 could  question  (and  which,  up  to  the  publication  of  the  fifth 
 paper  of  this  series,  no  one  seems  to  have  thought  of  ques- 
 tioning), that  these  things  need  excite  no  uneasiness,  since 
-
 
 THE  CENSUS  REPORT  ON  THE  SIZE  OF  FARMS.      8S5 
 
@@ -11146,7 +10797,6 @@ factors  of  average,  which  is  in  itself  an  expression  of  propor-
 tion between  number  and  some  other  property  of  things, 
 such  as  size,  weight,  length,  value,  etc.    An  average  does 
 
-
 336  APPENDIX. 
 
 not,  as  General  Walker  says,  increase  or  diminish  according 
@@ -11190,7 +10840,6 @@ discrepancies  appear  without  explanation  in  the  Census  of
 1860."  This  is  well  calculated  to  impress  one  who  casually 
 turns  over  the  pages  of  the  Compendium  with  the  vigilant 
 
-
 THE  CENSUS  REPORT  ON  THE  SIZE  OF  FARMS.      337 
 
 care  that  has  been  exercised,  but  it  becomes  rather  amusing 
@@ -11233,7 +10882,6 @@ difi'erences  as  4,362  farms  under  three  acres  in  1880,  and
 against  3,720  in  1870,  are  glaring  enough  to  strike  the  eye 
 of  any  one  who  has  been  told  that  the  average  size  of  farms 
 has  diminished,  and  to  put  him  lipon  inquiry. 
-
 
 338  APPENDIX. 
 
@@ -11293,9 +10941,7 @@ nearer  the  class  minimum  than  the  class  maximum),  and
 therefore  that,  taken  as  a  whole,  the  entire  class  must  count 
 22 
 
-
 I 
-
 
 THE  CENSUS  REPORT  ON  THE  SIZE  OF  FARMS.     339 
 
@@ -11345,7 +10991,6 @@ Increase  in  farms  above  153  acres 1,084,957
 Net  increase  in  farms  below  153  acres 263,965 
 
 Excess  in  increase  of  farms  above  153  acres 820,992 
-
 
 340  APPENDIX. 
 
@@ -11405,9 +11050,7 @@ IV.— 20  to  50        "      (•.r.,U0,at50     "     3,307,000
 
 Total  decrease  in  area 4,483,049 
 
-
 THE  CENSUS  REPORT  ON  THE  SIZE  OF  FARMS.  341 
-
 
 Class.  Increase. 
 
@@ -11476,7 +11119,6 @@ VIII.— Over  1,000  "   14,900  3,720  55,428,000
 
 2,659,985    407,735,502 
 
-
 342  APPENDIX. 
 
 This  is  about  as  close  as  I  can  figure  with  any  regard  to 
@@ -11535,7 +11177,6 @@ ico, 20  for  INIuiitiina,  8  for  Iilaho,  7 1  for  Dakota,  and  so  on.
 
 I  have  gone  into  this  subject  at  such  length  because  the 
 
-
 THE  CENSUS  REPORT  ON  THE  SIZE  OF  FARMS.      343 
 
 authority  of  the  census  has  been  so  generally  invoked  as 
@@ -11544,7 +11185,6 @@ centrating in  the  United  States.  The  truth  is,  that  it  is
 concentrating  so  rapidly  that,  should  present  tendencies 
 continue,  it  will  not  be  many  decades  before  we  shall  be  a 
 nation  of  landlords  and  tenants. 
-
 
 \_From  Frank  Leslie's  Illustrated  Newspaper,  June  16, 1883.] 
 To  the  Editor  of  Frank  Leslie's  Illustrated  Newspaper  : 
@@ -11585,9 +11225,7 @@ which  is  thus  shown  on  the  face  of  it  to  be  false.
 This  is  Mr.  George's  reasoning,  precisely.  To  omit  minor 
 classes,  let  us  take  the  greatest  class  of  all,  that  of  farms 
 
-
 34:i  APPENDIX. 
-
 
 between  100  and  500  acres,  the  increase  in  the  number  of 
 farms  of  this  class  being  no  less  than  1,130,929,  against 
@@ -11636,7 +11274,6 @@ through  the  aggregation  of  great  estates  —  latifnndia,  as  he
 magnificently  calls  it,  to  tlie  confusion,  there  is  reason  to 
 fear,  of  most  of  his  disciples — is  brought  violently  and 
 injuriously  up  against  hard  facts,  such  as  those  just  cited. 
-
 
 THE  CENSUS  REPORT  ON  THE  SIZE  OF  FARMS.   345. 
 
@@ -11700,7 +11337,6 @@ Oflice  really  turns  upon  the  average  size  of  the  farms  be-
 tween 100  and  500  acres.  Mr.  George  estimates  that  aver- 
 age at  400  acres !    The  reasonableness  or  unreasonableness 
 
-
 346  APPEISTDIX. 
 
 of  this  will  best  be  made  to  appear  by  presenting  the  num- 
@@ -11748,7 +11384,6 @@ explicitly.  Respectfully,
 
 Boston,  June  10,  1883.  Francis  A.  Walkee. 
 
-
 FURTHER    ANALYSIS    OF   THE    CENSUS   REPORT. 
 
 [From  Frank  Leslie's  Illustrated  Newspaper,  June  30, 1883.] 
@@ -11760,7 +11395,6 @@ between  the  census  figures  and  census  conclusions  as  to  the
 size  of  farms.  Professor  Walker,  instead  of  furnishing  the 
 
 diagrams  with  which  he,  in  the   first   place,  proposed  to 
-
 
 THE  CENSUS  REPORT  ON  THE  SIZE  OF  FARMS.   347 
 
@@ -11806,7 +11440,6 @@ increase  in  the  number  of  farms  below  than  above  a  cer-
 tain point  necessarily  showed  a  decrease  of  average  area. 
 The  absurdity  of  this — a  principle   which  he  offered   to 
 
-
 348  APPENDIX. 
 
 illustrate  with  diagrams  — I  previously  pointed  out,  and  he 
@@ -11848,7 +11481,6 @@ and  500  acres.  In  1880  the  same  township  is  divided  into
 tional farms  at  the  lowest  class  limit  of  100  acres,  added  to 
 the  previous  total  acreage,  would  give  6,400  more  acres  than 
 the  township  contains ;  which  proves,  according  to  Professor 
-
 
 THE  CENSUS  REPORT  ON  THE  SIZE  OF  FARMS.       349 
 
@@ -11895,7 +11527,6 @@ of  this, — a  decrease  in  the  number  of  smaller  farms  and  an
 increase  in  the  number  of  larger  farms, —  should  we  not  say 
 that  they  were  inconsistent  with  the  reduction  of  average  ? 
 This  inconsistency  is  just  what  the  Census  Report  shows. 
-
 
 S50  APPENDIX. 
 
@@ -11944,7 +11575,6 @@ time.
 
 Without  meeting  the  facts  and  figures  which  I  gave 
 
-
 THE  CENSUS  REPORT  ON  THE  SIZE  OF  FARMS.      351 
 
 from  the  Census  Report  in  disproof  of  the  assertion  that 
@@ -11991,7 +11621,6 @@ which  shows  a  large  increase  in  the  number  of  farms;
 but  he  very  prudently  neglects  to  specify  the  classes  in 
 which  this  increase  took  place.  He  could  not  have  done 
 this  without  showing  to  the  eye  of  the  reader  that,  instead 
-
 
 352  APPENDIX. 
 
@@ -12046,9 +11675,7 @@ lowing table,  which  exhibits  the  percentage  of  increase  or
 decrease  in  each  class  for  the  decade  ending  1870  and  the 
 decade  ending  1880 : 
 
-
 THE  CENSUS  REPORT  ON  THE  SIZE  OF  FARMS.       853 
-
 
 PERCENTAGE  OF   CHANGE   IN   NUMBER  OF   FARMS   IN   COTTON 
 
@@ -12133,12 +11760,9 @@ Increase  in  farms  over  100  acres 3,848
 
 23 
 
-
 354 
 
-
 APPENDIX. 
-
 
 Could  anything  more  conclusively  disprove  the  assertion 
 of  reduced  average  ? 
@@ -12146,7 +11770,6 @@ of  reduced  average  ?
 Take  now  New  York.    The  census  totals  give : 
 
 NEW   YORK. 
-
 
 Total 
 acreage. 
@@ -12172,15 +11795,12 @@ increase  has  been
 CHANGES   IN   NUMBER   OF  FARMS   IN   NEW   YORK,   DECADE 
 ENDING   1880. 
 
-
 Class.                                           Change  in  number. 
 I.— Under  3  acres 298  increase. 
-
 
 M,nge  per  cent. 
 414  %  increa 
 12 
-
 
 II.— StolO  "  1,537 
 
@@ -12209,12 +11829,10 @@ Now,  let  us  take  the  case  of  Georgia,  in  which  Professor
 
 The  census  total  gives : 
 
-
 Total 
 acreage. 
 1870—23,647,941 
 1880—26,043,282 
-
 
 GEORGIA. 
 
@@ -12226,12 +11844,10 @@ farms.
 
 138,626 
 
-
 Average  size 
 of  farms. 
 338  acres. 
 188      " 
-
 
 Increase..    2,395,341  68,670  150  acres  decrease. 
 
@@ -12243,9 +11859,7 @@ ENDING   1880.
 Class.                                            Change  in  number. 
 I.— Under  3  acres No  return  for  1870. 
 
-
 Change  per  cent. 
-
 
 II.— 3  to  10 
 III.— 10  to  20 
@@ -12255,7 +11869,6 @@ VI.— 100  to  500
 VII.— 500  to  1,000 
 VIII.— Over  1,000 
 
-
 147  decrease. 
 .  1,752  increase. 
 .14,553 
@@ -12263,7 +11876,6 @@ VIII.— Over  1,000
 .36,145 
 .  5,511 
 .  3,072 
-
 
 4 
 
@@ -12279,10 +11891,8 @@ VIII.— Over  1,000
 
 733 
 
-
 decrease, 
 increase. 
-
 
 THE  CENSUS  REPORT  ON  THE  SIZE  OF  FARMS.       355 
 
@@ -12345,7 +11955,6 @@ VIII.— Over  1,000  "     24,558              419  10,289,802
 
 69,956  23,647,862 
 
-
 356  APPENDIX. 
 
 After  this,  it  would  "be  wasting  space  and  time  to  go 
@@ -12360,7 +11969,6 @@ and  in  its  parts,  and  with  this,  must  decline  further  con-
 troversy. Henry  George. 
 
 New  York,  June  15, 1883. 
-
 
 II. 
 
@@ -12405,7 +12013,6 @@ rare  thing  for  the  aged  of  the  industrial  classes  to  go  to  the
 workhouse  is  entirely  contrary  to  my  experience,  and  I  may 
 
 357 
-
 
 358  APPENDIX. 
 
@@ -12461,7 +12068,6 @@ against  the  confiscation  by  landlords  of  property  created  by
 industry,  and  the  statement  that  he  advocates  an  equal  dis- 
 tribution of  property  is  entirely  unfounded, 
 
-
 CONDITION   OF    ENGLISH   AGRICULTURAL    LABORERS.    359 
 
 Neither  is  your  correspondent  more  happy  in  the  asser- 
@@ -12514,7 +12120,6 @@ persons'  labor ;  and  if  the  universality  of  injustice  is  a  sound
 reason  for  upholding  it,  then  undoubtedly  Mr.  George  is  in 
 the  wrong. 
 
-
 360  APPENDIX. 
 
 I  am  willing  to  admit,  as  "A  Freeborn  Englishman  "  con- 
@@ -12551,7 +12156,6 @@ have  the  determination,  to  deliver  themselves  and  their
 children  from  a  fatal  influence.    I  am, 
 
 Yours  respectfully,  William  Saundebs. 
-
 
 III. 
 
@@ -12598,7 +12202,6 @@ why  you  shouldn't  let  me  have  it  as  well  as  leave  it  to  rust,
 which  it  will  since  you're  not  going  to  use  it. 
 
 861 
-
 
 362  APPENDIX. 
 
@@ -12652,7 +12255,6 @@ you  at  work  on  that  moorland  for  ?  The  soil  is  much  better
 on  this  side  of  the  fence.  You  can  raise  fifty  bushels  more 
 potatoes  here  than  you  can  there,  with  the  same  work. 
 
-
 A   PIECE   OF   LAND.  363 
 
 You'd  much  better  hire  this  lot  of  me ;  I  wouldn't  charge 
@@ -12700,7 +12302,6 @@ agree  to  give  you  one-third  the  value  of  the  fence  ;  say,  ten
 bushels  of  potatoes,  and  five  bushels  more  on  account  of  the 
 other  improvements. 
 
-
 364  APPENDIX. 
 
 Landowner.  Will  you  keep  the  fence  in  as  good  repair 
@@ -12739,7 +12340,6 @@ Landowner.  Yes;  you  may  have  it.  It's  so  much  gain
 to  me;  but  if  it  wasn't  for  that  confounded  common  you 
 should  pay  more. 
 
-
 ANOTHER   YEAR. 
 
 {In  the  meanwhile  Landowner  has  succeeded  in  getting 
@@ -12751,12 +12351,9 @@ Labor.)
 Labor,  going  to  Landovmer.  Please,  sir,  as  the  common  is 
 enclosed,  I've  now  no  free  land  to  work  upon,  and  I  should 
 
-
 ANOTHER  YEAR. 
 
-
 366 
-
 
 be  very  glad  to  hire  that  same  lot  of   you  for  another 
 year. 
@@ -12808,7 +12405,6 @@ thing, and  I  had  to  come  to  your  terms,  because  you  had  the
 common  to  fall  back  upon.  This  year  there's  no  common, 
 and  you've  got  to  come  to  mine. 
 
-
 BQ6  APPENDIX. 
 
 Labor.  I  hope,  sir,  that  they  will  be  such  as  to  enable  me 
@@ -12840,7 +12436,6 @@ some  of  the  small  potatoes  in  charity,  to  keep  you  alive  and
 out  of  the  poorhouse  —  where  {aside)  1  should  have  to  pay 
 for  the  whole  support  of  you  and  your  family. 
 
-
 [From  the  Boston  Glohe.l 
 Since  Mrs.  Frank  Leslie  assumed  the  sole 
 management,  the  brilliancy  and  success  of  the 
@@ -12860,7 +12455,4 @@ Newspaper  faithfully  pictures  the  most  important
 events,  and  a  bound  volume  is  an  invaluable 
 history  of  the  year. 
 
-
 S67 
-
-

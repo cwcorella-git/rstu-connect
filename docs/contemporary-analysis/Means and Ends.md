@@ -1873,8 +1873,6 @@ Books, n.d.
 
 ———. Words of A Rebel. Montréal: Black Rose Books, 1992. Lenin, Vladimir. Collected Works, Vol. 10. Edited by Andrew Rothstein. Moscow: Progress Publishers, 1978. ———. Selected Works. Moscow: Progress Publishers, 1977. Liu, Lydia H., Rebecca E. Karl, and Dorothy Ko, eds. The Birth of Chinese Feminism: Essential Texts in Transnational Theory. New York: Columbia University Press, 2013. "The London Declaration (1913)." In Appendix to Thorpe, "The Workers Themselves, 320. Lum, Dyer D. "On Anarchy." In Parsons, Anarchism: Its Philosophy and Scientific Basis, 149–58. ———. Philosophy of Trade Unions. New York: American Federation of Labor, 1892. ———. "Why I Am a Social Revolutionist." Twentieth Century 5, no. 18 (October 1890): 5–6. Luxemburg, Rosa. Rosa Luxemburg Speaks. Edited by Mary-Alice Waters. New York: Pathfinder Press, 1970. Mackay, John Henry. The Anarchists: A Picture of Civilization at the Close of the Nineteenth Century. Boston: Benj. R. Tucker, Publisher, 1891. Makhno, Nestor. The Struggle Against the State and Other Essays. Edited by Alexandre Skirda. San Francisco: AK Press, 1996. Malatesta, Errico. A Long and Patient Work: The Anarchist Socialism of L'Agitazione, 1897–1898. Vol. 3 of The Complete Works of Malatesta, edited by Davide Turcato. Chico, CA: AK Press, 2016. ———. The Anarchist Revolution: Polemical Articles, 1924–1931. Edited by Vernon Richards. London: Freedom Press, 1995. ———. At the Café: Conversations on Anarchism. London: Freedom Press, 2005. ———. Between Peasants: A Dialogue on Anarchy. Johannesburg: Zabalaza Means and Ends https://theanarchistlibrary.org/library/zoe-baker-means-...
 
-## 219 of 279 10/1/25, 7:52 PM
-
 ———. Life and Ideas: The Anarchist Writings of Errico Malatesta. Edited by
 
 ———. The Method of Freedom: An Errico Malatesta Reader. Edited by
@@ -3581,7 +3579,6 @@ of Emma Goldman's Mother Earth, ed. Peter Glassgold, (New York: Counterpoint, 20
  [885] Malatesta, Towards Anarchy, 49.
  [886] Malatesta, Patient Work, 320.
  [887] Malatesta, Towards Anarchy, 168. See also Malatesta, The Anarchist Revolution: Polemical
-##
 Articles, 1924–1931, ed. Vernon Richards (London: Freedom Press, 1995), 80; Kropotkin, Direct Struggle, 293–94.
 
 [\[888\]](#page-139-6) Michael Bakunin, Statism and Anarchy (Cambridge: Cambridge University Press, 1990), ed. Marshall Shatz, 114, 25. For another example, see Malatesta, Towards Anarchy, 98–103.

@@ -2189,10 +2189,7 @@ and solidarity, 7
 and work for all, 58
 accountability, 87–8, 107, 153, 155
 addictions, 30, 132–7, 191n15
-##
-
 affordable housing, 103
-##
 alcohol, 34–5
 
 ## Allen, Kenneth, 158
@@ -2272,7 +2269,6 @@ bank robbers, 36
 divestment in communities, 163, 166
 
 in early settled Montreal, 35
-##
 enslaved people, 34–5, 68, 159, 162–3
 
 harassment at entertainment hubs, 19–20
@@ -2560,7 +2556,6 @@ immigration enforcement, 130
 and new solidarities, 41
 
 plan in Montreal, 40, 42
-##
 ## plan in Winnipeg, 113
 
 and redistribution of wealth, 168
@@ -2982,7 +2977,6 @@ performing, 15
 photo speed limit enforcement, 116–17
 
 police: acquitted, 20, 21–2
-##
 brotherhood of, 135
 
 charged, 191n13
@@ -3180,7 +3174,6 @@ in justice system, 80
 and mental health, 150
 
 recognizing, 26
-##
 recommendations to combat, 23
 
 ## in TPS, 19–27
@@ -3346,7 +3339,6 @@ surveillance and data collection, 124, 127
 ## and TPS, 99, 102, 103–6
 
 vigil for Alloura, 106–7
-##
 Sex Workers of Winnipeg Action Coalition (SWWAC), 114–17
 
 ## Sir George Williams University, 36
@@ -3500,7 +3492,6 @@ systemic and racialization, 31
 ## Waiser, Bill, 17
 
 Walcott, Rinaldo, 58
-##
 walks, 87
 
 ## Wall, Tyler, 16

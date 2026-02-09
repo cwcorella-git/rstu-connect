@@ -25,8 +25,6 @@ tags:
 
 The term satyagraha was coined and developed by [Mahatma](https://en.wikipedia.org/wiki/Mahatma_Gandhi) [Gandhi](https://en.wikipedia.org/wiki/Mahatma_Gandhi) (1869-1948[\)\[2\]](about:reader?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSatyagraha#cite_note-Majmudar_p38-2) as early as 1919[.\[3\]](about:reader?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSatyagraha#cite_note-3) Gandhi practised satyagraha as part of the [Indian independence movement](https://en.wikipedia.org/wiki/Indian_independence_movement) and
 
-## 1 of 17 7/23/25, 6:51 PM
-
 also during his earlier struggles in [South Africa](https://en.wikipedia.org/wiki/South_Africa) for [Indian rights.](https://en.wikipedia.org/wiki/Indian_South_Africans) Satyagraha theory influenced [Martin Luther King Jr.'s](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.) and [James](https://en.wikipedia.org/wiki/James_Bevel) [Bevel](https://en.wikipedia.org/wiki/James_Bevel)'s campaigns during the [Civil Rights Movement](https://en.wikipedia.org/wiki/Civil_Rights_Movement) in the United States, as well as [Nelson Mandela's](https://en.wikipedia.org/wiki/Nelson_Mandela) struggle against [apartheid](https://en.wikipedia.org/wiki/Apartheid) in South Africa and many other [social-justice](https://en.wikipedia.org/wiki/Social-justice) and similar movements[.\[4\]](about:reader?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSatyagraha#cite_note-4)[\[5\]](about:reader?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSatyagraha#cite_note-5)
 
 Gandhi envisioned satyagraha as not only a tactic to be used in acute political struggle but as a universal solvent for injustice and harm.
@@ -46,5 +44,3 @@ He founded the [Sabarmati Ashram](https://en.wikipedia.org/wiki/Sabarmati_Ashram
 On another occasion, he listed these rules as "essential for every Satyagrahi in India":
 
 ## 1. Must have a living faith in God
-
-## 2 of 17 7/23/25, 6:51 PM

@@ -36,7 +36,7 @@ Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=ht
                  function just as well, such as the common overdress. Many of
 ## these traditional and custom dressers have very few total
                  articles of clothing, but also rarely share them. In a majority of
-1 of 25 3/17/25, 5:05 PM Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                  these styles, there is an under layer that is easy to launder, and
                  most individuals have 2 or 3 of these under layers, and launder
                  only them frequently and often by hand or in smallbatch guilds,
@@ -68,7 +68,7 @@ Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=ht
                  system, just checked out less often- just as a specialized book
 ## might be. If something is so particular that after a few
                  generations it still sees no use, it can be made over completely
-2 of 25 3/17/25, 5:05 PM Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                  or scrapped for stuffing, and new items can be made for those
 ## who come along.
 
@@ -101,8 +101,6 @@ Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=ht
                  be worn from child to elder in many configurations, sometimes
 ## even by the same individual across a lifetime.
 
-3 of 25 3/17/25, 5:05 PM Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## The lower total articles needed by the society, and the
                  immense length of time that many articles stay in circulation,
 ## means that garment workers can take much more time for the
@@ -133,8 +131,6 @@ Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=ht
 ## At the great communal undertakings, such as a large harvest
 ## or construction, it is not uncommon to see groups take long
 ## lunches and darn each other’s nipped clothes. In the
-
-4 of 25 3/17/25, 5:05 PM Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## community houses and eateries, there are also a great many
                  people whose fidgeting hands turn just as gladly to mending as
@@ -167,7 +163,7 @@ Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=ht
                  the coat of their own accord, and those who assist them are left
                  with the need to dispose of it. Not wanting to be wasteful, they
                  turn it towards the purpose of fabric. The textile it makes is
-5 of 25 3/17/25, 5:05 PM Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                  incredibly useful; it is warm when wet, it is water resistant, it
 ## can hold its shape, or it can be felted into new ones.
 
@@ -200,8 +196,6 @@ Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=ht
 ## circulation. And even then, the social organism and the
 ## individual being on the same continuum of self, each covers
 
-6 of 25 3/17/25, 5:05 PM Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## where the other cannot.
 
 ## Basic mending skills — in relationality and in fabric — are
@@ -233,7 +227,7 @@ Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=ht
 ## often attend lectures and workshops and such that are
 ## arranged by other crafters. Often, these workshops are
                  organized out of a sheer exuberance with one’s work, an utter
-7 of 25 3/17/25, 5:05 PM Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                  yearning to share information about it. Occasionally however,
                  some person or group will ask of someone to share in an open
 ## setting, and this is rarely refused.
@@ -265,7 +259,6 @@ Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=ht
                  stitching, except occasionally bring smiles to the eyes of those
                  doing such work. And yet it is the babies’ clothes that wear out
                  the fastest. They often do not notice the holes to be darned,
-8 of 25 3/17/25, 5:05 PM Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## nor do they ask others to darn them. They take no care when
                  catching the nape of their jumper on a twig, and move blithely
@@ -297,7 +290,7 @@ Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=ht
 ## doing new silly things.
 
                  Still, though, the novelty and sweetness of a babe does little to
-9 of 25 3/17/25, 5:05 PM Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                  assuage the dread of laundering the baby’s diapers. There are
                  a few in the society, however, who don’t quite mind the smell,
 ## or who cannot smell it at all. They cannot alone handle the
@@ -330,7 +323,6 @@ Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=ht
 ## applied from the communality within other aspects of the
 ## laundry system leaves this a much less daunting task. Those
 
-10 of 25 3/17/25, 5:05 PM Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                  working in the laundries do not have to return each item to its
                  preferred wearer; infact, relatively few and relatively small
                  items are returned. Injury preventing daily support items like
@@ -361,7 +353,7 @@ Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=ht
 
 ## Small batch laundering forms a layer of communal
                  organization and laborsharing that is far more personal, and
-11 of 25 3/17/25, 5:05 PM Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                  used for more personal items. Crotched underwear is one item
 ## for which many wearers have their own personal or nearpersonal supply. Except in the coldest of environments, these
                  items are rather small, and not difficult to hand wash or small
@@ -391,7 +383,6 @@ Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=ht
                  sent to the laundries. This rare return makes individualized
 ## sorting somewhat unnecessary. In the great rooms and halls
                  and closets of the libraries, there are sections for different
-12 of 25 3/17/25, 5:05 PM Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## categories of items. One room or wall may be devoted to
 ## underdresses, with each section sorted by color, then
@@ -424,8 +415,6 @@ Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=ht
                  less than weekly wear. Those socks held communally often last
 ## even less time, being worn near daily, and get worn out in
 
-13 of 25 3/17/25, 5:05 PM Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## about a year. The society does have an ethos of repair;
 ## however, these items being so thin, and also so easy to
                  produce, they are one of very few items in the society where
@@ -456,7 +445,7 @@ Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=ht
                  are split into batches by cut. From there, they are sorted by
                  size. Different localities have their own standardizations of sock
                  sizing and therefor their own sorting methods. One of the most
-14 of 25 3/17/25, 5:05 PM Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                  common methods is that socks of a certain size have a certain
                  number of horizontal lines across the toe. This method makes
 ## machine storting and hand sorting both fairly simple and
@@ -488,7 +477,6 @@ Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=ht
                  quality and not inundated with allergens. Old clothes worn to
 ## thinness find new homes in the cookeries and kitchens,
 
-15 of 25 3/17/25, 5:05 PM Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                  assisting in the straining of broths and cheeses, or as the cover
                  of steaming vegetables. The leftovers of cloth, after spending
 ## many years in their function with the body, can continue to
@@ -519,7 +507,6 @@ Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=ht
 ## and innovating for new uses. Moments of waste are turned
                  over to become the foundation of other systems, or to be used
                  as input. The very waste of death; that we may die and leave
-16 of 25 3/17/25, 5:05 PM Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## behind that vessel which has made us, is undone in its
 ## revamping towards use. The body is processed, with that
@@ -551,7 +538,7 @@ Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=ht
 ## The use of animal products, human and otherwise, is treated
 ## with both graciousness and solemnity. A great deal of
                  meditations and spiritual practices revolve in part around this
-17 of 25 3/17/25, 5:05 PM Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                  posthumous use of the body. Usufructian funeral services are
 ## varied, with hundreds or thousands of regional, cultural,
                  individual, and religious options to discern between; but even
@@ -583,7 +570,7 @@ Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=ht
                  whole relationality between all parts of reality, interconnected,
                  caring and providing for each other. In this regard, all are cared
                  for and all are accounted for. One who allows their clothes to
-18 of 25 3/17/25, 5:05 PM Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                  tatter unmended will be doted upon by the community, offered
 ## a great deal of help in repairing them, and in stabilizing
                  whatever aspects of their life must be out of order for such a
@@ -614,7 +601,6 @@ Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=ht
 ## individuals return their hordes eventually, after community
 ## support and care drives them to unlearn their anxieties of
                  scarcity or fear of noncontrol. However, occasionally, one or a
-19 of 25 3/17/25, 5:05 PM Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## few people will attempt to checkout a great sum of the most
                  desired and necessary clothing, setting themselves up as lords
@@ -646,7 +632,6 @@ Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=ht
                  On the scale of time, their return is as blessed as any return to
 ## the collective while.
 
-20 of 25 3/17/25, 5:05 PM Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                  The same principle is applied to any area within the whole that
                  does not seem to be in alignment with the usufructian values.
 ## There are those materials that seem more time or labor
@@ -677,7 +662,7 @@ Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=ht
                  hickory nut shells never become a meaningfully useful clothing
                  material, their temporary adoption as such allows individuals
                  to build a relationship with them as a material, and explore
-21 of 25 3/17/25, 5:05 PM Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                  what they could be used for. All things and all people have their
                  place in the society; so long as careful attention is given, with
 ## understanding of needs, through personalization and
@@ -708,7 +693,7 @@ Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=ht
                  available in multiple forms at every time of year, preempting
 ## crop failures, and ensuring that allergies and other health
                  conditions can be easily dietarily accounted for. However, the
-22 of 25 3/17/25, 5:05 PM Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                  longscale nature of society, and the ability to selectively breed
                  native crops towards different seasonality, nutrition, and shelf
                  ripening, often mean that there is little desire to import new
@@ -740,7 +725,6 @@ Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=ht
                  great stories of the many peoples, one often finds motifs of
 ## dress demarcating the overall plot of the story, giving
 
-23 of 25 3/17/25, 5:05 PM Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                  character insight, or implying new layers of rich meaning. This
                  shared understanding of material culture is often generative in
 ## individuals’ attempts to further interpret their own
@@ -772,7 +756,6 @@ Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=ht
 ## Experimentation in waterproofing outerwear and soft shoes
                  has led to the invention of canvas boats, as well as patches
                  that can be applied to fix leaks, further assisting in the safe and
-24 of 25 3/17/25, 5:05 PM Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## ecologically sound transport of materials.
 
@@ -790,5 +773,3 @@ Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=ht
                  flax left loose will tangle. But together, each giving and using,
                  but none destroying, all are cool in summer, warm in winter,
 ## and cozy all year round.
-
-25 of 25 3/17/25, 5:05 PM

@@ -37,7 +37,6 @@ The Police are Not Required to Protect You — Barnes Law about:reader?url=https
                substantive constitutional duty. In this case, Joshua’s mother
 ## sued the Winnebago County Department of Social Services,
                alleging it deprived Joshua of his "liberty interest in bodily
-1 of 6 9/7/25, 12:00 PM The Police are Not Required to Protect You — Barnes Law about:reader?url=https%3A%2F%2Fwww.barneslawllp...
 
 ## integrity, in violation of his rights under the substantive
 ## component of the Fourteenth Amendment's Due Process
@@ -73,7 +72,7 @@ The Police are Not Required to Protect You — Barnes Law about:reader?url=https
 ## permitted a lawsuit against the town of Castle Rock for the
                police’s failure to respond after Jessica Gonzales tried to get
                the police to arrest her estranged husband Simon Gonzales for
-2 of 6 9/7/25, 12:00 PM The Police are Not Required to Protect You — Barnes Law about:reader?url=https%3A%2F%2Fwww.barneslawllp...
+
                kidnapping their three daughters (ages 7, 8, and 10) while they
                were playing outside, in violation of a court-issued protective
                         [9]
@@ -109,8 +108,6 @@ The Police are Not Required to Protect You — Barnes Law about:reader?url=https
 ## and thus no legal recourse could be brought thereunder.
                The “no duty to protect” rule remains unwavering and the law
 ## today.
-
-3 of 6 9/7/25, 12:00 PM The Police are Not Required to Protect You — Barnes Law about:reader?url=https%3A%2F%2Fwww.barneslawllp...
 
 ## Needless to say, the stories of Joshua DeShaney and Jessica
                Gonzales’ three daughters (and countless similar stories) are
@@ -192,7 +189,6 @@ The Police are Not Required to Protect You — Barnes Law about:reader?url=https
                www.nytimes.com/2005/06/28/politics/justices-rule-police-do-
 ## not-have-a-constitutional-duty-to-protect.html?_r=0.
 
-5 of 6 9/7/25, 12:00 PM The Police are Not Required to Protect You — Barnes Law about:reader?url=https%3A%2F%2Fwww.barneslawllp...
                [15]
 ## Although the protective order did mandate an arrest, or an
                arrest warrant, in so many words, Justice Scalia said, "a wellestablished tradition of police discretion has long coexisted
@@ -203,5 +199,3 @@ The Police are Not Required to Protect You — Barnes Law about:reader?url=https
 
                [16]
 ## Castle Rock v. Gonzales, No. 04-278.
-
-6 of 6 9/7/25, 12:00 PM

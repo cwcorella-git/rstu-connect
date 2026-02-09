@@ -3528,10 +3528,8 @@ Mother Earth Publishing Association 74 West 119th Street NEW YORK
 ### WORKS BY PETER KROPOTKIN
 
 | The Great French Revolution, 1789-1793\$2.00 |
-|-----------------------------------------------------|
-| Mutual Aid 2.00 |
-| Memoirs of a Revolutionist 2.00 |
-| Russian Literature 2.00 |
+2.00 |
+2.00 |
 | Conquest of Bread |
 | Fields, Factories and Workshops (cloth) |
 | Modern Science and Anarchism (new enlarged edition) |

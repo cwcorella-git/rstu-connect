@@ -35,8 +35,6 @@ The manifesto lays a philosophical basis for launching the project, and importan
 
 The author provides many reasons for why the project and software freedom is beneficial to users, although he agrees that its wide adoption will make the work of programmers less profitable.
 
-## 1 of 3 10/4/25, 1:08 PM
-
 A large part of the *GNU Manifesto* is focused on rebutting possible objections to GNU Project's goals. They include the programmer's need to make a living, the issue of advertising and distributing free software, and the perceived need of a profit incentive.
 
 ## **Inspired by GNU Manifesto**
@@ -60,8 +58,6 @@ Throughout history, the *GNU Manifesto* has inspired various other UNIX-related 
 - 6. ["CNN - Apple warms up to open source community - June 16, 1999" \(http://www.cn](http://www.cnn.com/TECH/computing/9906/16/apple.idg/) [n.com/TECH/computing/9906/16/apple.idg/\).](http://www.cnn.com/TECH/computing/9906/16/apple.idg/) www.cnn.com. Retrieved 2019-10-07.
 - 7. ["Red Hat: open source genesis, to mainstreaming revelations - Open Source](https://www.computerweekly.com/blog/Open-Source-Insider/Red-Hat-open-source-genesis-to-mainstreaming-revelations) [Insider" \(https://www.computerweekly.com/blog/Open-Source-Insider/Red-Hat-open](https://www.computerweekly.com/blog/Open-Source-Insider/Red-Hat-open-source-genesis-to-mainstreaming-revelations)[source-genesis-to-mainstreaming-revelations\).](https://www.computerweekly.com/blog/Open-Source-Insider/Red-Hat-open-source-genesis-to-mainstreaming-revelations) www.computerweekly.com. Retrieved 2019-10-07.
 
-## 2 of 3 10/4/25, 1:08 PM
-
 - 8. [Stallman, Richard](https://en.wikipedia.org/wiki/Richard_Stallman) (March 1985). ["The GNU Manifesto" \(https://www.gnu.org/gnu/ma](https://www.gnu.org/gnu/manifesto.html) [nifesto.html\).](https://www.gnu.org/gnu/manifesto.html) [GNU Project.](https://en.wikipedia.org/wiki/GNU_Project) Retrieved 2019-02-09.
 - 9. Stallman, Richard. ["Initial announcement of the GNU Project" \(https://www.gnu.org/](https://www.gnu.org/gnu/initial-announcement.en.html) [gnu/initial-announcement.en.html\).](https://www.gnu.org/gnu/initial-announcement.en.html) www.gnu.org. Retrieved 2019-02-07.
 - 10. Stallman, Richard M. (February 1986). ["GNU's Bulletin, Volume 1 Number 1" \(http](https://www.gnu.org/bulletins/bull1.txt) [s://www.gnu.org/bulletins/bull1.txt\).](https://www.gnu.org/bulletins/bull1.txt) Gnu.org. p. 8. Retrieved 2019-02-08.
@@ -74,5 +70,3 @@ Throughout history, the *GNU Manifesto* has inspired various other UNIX-related 
 ▪ [GNU Manifesto \(https://www.gnu.org/gnu/manifesto.html\)](https://www.gnu.org/gnu/manifesto.html)
 
 Retrieved from ["https://en.wikipedia.org/w/index.php?title=GNU\\_Manifesto&oldid=1277793277"](https://en.wikipedia.org/w/index.php?title=GNU_Manifesto&oldid=1277793277)
-
-## 3 of 3 10/4/25, 1:08 PM

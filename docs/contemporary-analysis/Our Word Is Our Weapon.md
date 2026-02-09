@@ -131,7 +131,6 @@ SECTION II — Beneath the Mask
  55 — Letter to the Eureka Committee
  56 — It Continues Raining Here
  57 — Democratic Teachers and the Zapatista Dream
-##
 58 — Closing Words at the National Encuentro in Defense of the Cultural Heritage To Plant the Tree of Tomorrow Memory Has Its Own Reality
 
 ### **SECTION III — Creating Memory PART ONE — TALES FOR A SLEEPLESS SOLITUDE— The Stories of**

@@ -1896,9 +1896,7 @@ Bourgeoisie | ProfessionalManagerial Class | Bourgeoisie |
 | Socially mobile? (i.e., do they move up and down the class structure) | No | Yes | Yes | No | No |
 | Positive view of education? | No | No | Yes | Yes | No |
 | Distinct political tendencies? | Yes | Yes | Yes | Yes | Yes |
-| Distinct aesthetics? | Yes | Yes | Unclear | Yes | Yes |
-
-Figure 2. Comparisons/checklist: petty bourgeoisie, new petty bourgeoisie, proletariat.
+2. Comparisons/checklist: petty bourgeoisie, new petty bourgeoisie, proletariat.
 
 | | Old Petty Bourgeoisie | New Petty Bourgeoisie | Proletariat |
 |---------------------|------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

@@ -1854,8 +1854,6 @@ abolition, 10–12, 39. See also Beyond the Bars; Black & Pink; Critical
  capitalism and, 58, 61
  in Chicago, 127–28, 140–44, 149, 152, 158, 161, 163
  decarceration and, 35, 38, 50
-##
-
 definition of, 50
  disability movement and, 67–68
  domestic violence and, 81–82
@@ -1893,8 +1891,6 @@ abolition feminism, 1, 2, 73, 82, 97, 172. See also African American
  bail funds and, 31–33
  Black Lives Matter and, 118
  borders and, 122
-##
-
 both/and perspective and, 3–5, 155, 172
  carceral feminism and, 107–8, 115–17
  collectivity and, 13–14, 16, 128–29
@@ -1932,8 +1928,6 @@ accountability, 3–4, 138, 144
  practice of, 5–7, 13–14
 Action Conference of Women Against Repression and Prison, 101
 AFL-CIO, 148
-##
-
 Africa, 36
 African American Policy Forum, 134
 African American Women in Defense of Ourselves, 95
@@ -1971,8 +1965,6 @@ anti-prison movements, 30, 141. See also abolition; Critical Resistance
 antiracism, x, 11
  Braden and, 109
  in Brazil, 22
-##
-
 Critical Resistance and, 45
  gender violence and, 86–87, 89, 92, 97
  INCITE! and, 89, 91
@@ -2009,8 +2001,6 @@ Ben-Moshe, Liat, 68
 Bent Bars, 6
 Berlin, 6
 Beyond Survival (Dixon and Piepzna-Samarasinha), 7
-##
-
 Beyond the Bars, 39
 "Beyond the State" 89
 Bhattacharjee, Annanya, 108–9
@@ -2048,8 +2038,6 @@ Brown, H. Rap, 31
 Brown, Mike, 18, 153
 Bureau of Prisons, 165
 Burge, Jon, 141–42
-##
-
 Burke, Tarana, 96
 Bush, George W., 140
 Butler, Octavia, 8, 16
@@ -2086,8 +2074,6 @@ Chicago, xiii, 11, 26, 38, 111, 131
  family policing system, 139
  feminist organizing in, 136–37, 140–41, 143–44, 161
  immigrant rights movement in, 140
-##
-
 INCITE! in, 89, 140, 160–61
  police academy in, 156–58
  police torture in, 132–33, 141
@@ -2125,8 +2111,6 @@ Community Justice for Youth Institute, 138
 Community Organizing and Family Issues, 138
 Connecticut, 164
 Cook County Juvenile Temporary Detention Center, 141
-##
-
 Cooke, Marvel, 98
 Cops Are Flops, 23
 Cosby, Monica, 111–13, 144, 174
@@ -2164,8 +2148,6 @@ criminal legal system, 48, 107, 112, 135, 137, 153
  women in, 29
 Critical Race Theory, 2
 Critical Resistance, 23, 34, 36, 43, 71, 73, 147, 154
-##
-
 1998 conference of, 36–37, 45
  analyses of, 40–44
  in Chicago, 140, 160
@@ -2202,8 +2184,6 @@ domestic violence, 20, 92, 115. See also gender violence
  courts for, 106
  INCITE!-CR Statement and, x
  "Moment of Truth" and, 78–79
-##
-
 prisons and, 81–82
  state violence and, 81
 Domestic Violence Report, 81
@@ -2239,8 +2219,6 @@ Females United for Action, 136
 femicide, 17, 18
 feminism. See also Black feminism, carceral feminism, queer feminism,
  women of color feminism
-##
-
 abolition indivisible from, 12, 26, 82, 127, 131, 154, 168
 abolitionist imagination and, xii
 anticapitalism and, x, xii
@@ -2278,8 +2256,6 @@ prefiguration and, 15
 private and public spheres and, 70
 reforms and, 110
 socialist, 50
-##
-
 suffrage and, 97
  tension with abolition of, 81–82
  theory of, 2, 86
@@ -2316,8 +2292,6 @@ GenderJUST, 140
 gender violence, 65, 75–76, 84, 85, 103, 108, 164, 169
  1960s women's movement and, 92
  ableism and, 137
-##
-
 abolition and, 82, 85, 102, 111, 143
 abolition feminism and, 63, 90, 99–101, 109, 111–12, 115–18, 120–21
 agency and, 46
@@ -2355,8 +2329,6 @@ theorization of, 114
 transformative justice and, 6
 transphobia and, 91, 92
 white supremacy and, 110, 121
-##
-
 GEO Group, 72
 George, Jett, 151
 Gilmore, Ruth Wilson, 51, 150
@@ -2392,8 +2364,6 @@ ICE. See US Immigration and Customs Enforcement
 Idaho, 78
 Illinois, 124–25, 127, 141, 156
 Illinois Department of Corrections, 164
-##
-
 Immigrant Youth Justice League, 139
 immigration, 75, 85, 116, 140, 146. See also US Immigration and Customs
  Enforcement
@@ -2430,8 +2400,6 @@ Intimate Partner Violence and State Violence Power and Control Wheel
 Iran, 124
 Israel, 23
 Jackson, Esther Cooper, 96, 98
-##
-
 Jane Collective, 165
 Jemison, N. K., 8
 Jim Crow, 56
@@ -2467,8 +2435,6 @@ Lorde, Audre, 30, 149, 171
 Los Angeles, 33, 38, 41, 71
 Louisville, Kentucky, 18
 Love, Eisha, 117
-##
-
 Love & Protect, 6, 96, 123, 143–44
 Malunguinho da Silva, Erica, 22
 Manchester, xiii
@@ -2505,8 +2471,6 @@ Morgan, Robin, 97
 Morgan State, 39
 Movement for Black Lives. See Black Lives Matter movement
 Ms. magazine, 106
-##
-
 Murakawa, Naomi, 155
 mutual aid, 4, 90, 111, 118, 136, 141, 144, 162, 168
 NAACP, 98
@@ -2542,8 +2506,6 @@ Oklahoma City, 133
 Okorafor, Nnedi, 8
 On the Road to Freedom: An Abolitionist Assessment of Pretrial and Bail
  Reforms (toolkit), 170
-##
-
 "Open Letter to Our Friends on the Question of Language" (Ellis), 48
 Organized Communities Against Deportations, 140–41, 152
 Our Enemies in Blue (Williams), 147
@@ -2580,8 +2542,6 @@ police, 8, 25, 120, 134, 158–159, 169
  imperialism and, 22
  INCITE!-CR Statement and, ix, 175–84
  Israel and, 23
-##
-
 "Moment of Truth" and, 79
  murders committed by, 5, 18, 23, 131–35
  Native Americans and, 132
@@ -2619,8 +2579,6 @@ prison industrial complex, 4, 43–44, 47–48, 144, 165
  Project Nia on, 140
  queer and trans resistance and, 39
  reforms and, 102
-##
-
 sexuality and, 47
 "Prison Is Abuse," 112
 Prison Legal News (Wright), 59
@@ -2658,8 +2616,6 @@ prisons, 5, 10, 31, 53, 60, 112, 164, 169
  reforms of, 29–31, 33, 35–36, 39, 42, 46, 50–51, 61–63
  sexual violence and, 114, 144
  slavery and, 58–60, 65
-##
-
 solitary confinement in, 112, 165
  in South Africa, 65
  transgender people in, 48, 154
@@ -2695,8 +2651,6 @@ racism, 108, 160
  PIC and, 44
  police and, 25, 141–42, 146
  Radical Reconstruction and, 59
-##
-
 reformism and, 62
  sexual violence and, 96, 137
  slavery and, 53
@@ -2733,8 +2687,6 @@ São Paulo, xiii, 22
 Schenwar, Maya, 72
 Schub, Ora, 138
 Scottsboro Nine, 96
-##
-
 Scott, Walter, 18
 Seattle, 129
 Seigel, Micol, 158–59
@@ -2772,8 +2724,6 @@ Shaylor, Cassandra, 36
 She Safe, We Safe, 118
 Sista II Sista, 85, 89
 Sisterhood Is Powerful (Morgan), 97
-##
-
 Sisters Inside, xiii, 49, 113–14, 120
 Sisters Testify, 95
 Sisters Uncut, xiii, 6, 20, 120–21, 129
@@ -2811,8 +2761,6 @@ Stevenson, Bryan, 59, 131
 "Stop State Sexual Assault!" campaign, 114
 Story Telling and Organizing Project, 7
 Struggle for Justice (AFSC), 35
-##
-
 Student Nonviolent Coordinating Committee, 99
 Students Against Mass Incarceration, 39
 surveillance, 27, 30, 50, 66, 72, 75, 150
@@ -2849,8 +2797,6 @@ Transformative Justice Law Project, 141
 "Transforming Justice" (conference), 39
 Transgender, Gender Variant and Intersex Justice Project, 6, 39, 101
 transphobia, 2–3, 9, 65, 91, 92, 137, 169
-##
-
 Ce Ce Mc Donald and, 19
  criminal legal system and, 82, 141
  in movements, 10, 91
@@ -2886,8 +2832,6 @@ Van Dyke, Jason, 131–33, 135, 150, 155–56, 164–65
 Van Dyke, Tiffany, 164–65
 Vietnam, 44
 Violence Against Women Act, 105, 118
-##
-
 Violent Crime Control and Law Enforcement Act, 105–6
 Visible Voices, 140
 Visions of Abolition (film), 144
@@ -2922,7 +2866,6 @@ World Bank, 49
 World War I, 55
 Wright, Bruce M., 35
 Wright, Paul, 59
-##
 Xicana Moratorium Coalition, 23
 
 Young Women's Empowerment Project, 136, 161

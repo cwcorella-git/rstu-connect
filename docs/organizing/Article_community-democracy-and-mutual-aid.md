@@ -9,7 +9,6 @@ tags:
   - democracy
 ---
 
-Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/symbiosis-rese...
            Symbiosis Research Collective
            Community, Democracy, and
            Mutual Aid
@@ -46,7 +45,7 @@ Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/
            indeed, many Occupy oﬀshoots attempted to create such a world in miniature.
              Yet the utopian spirit that swept the globe in 2011 hasn’t yielded
            comprehensive alternatives to the present political and economic system.
-1 of 29 10/19/25, 11:31 AM Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/symbiosis-rese...
+
            Occupy and the movements it inspired have failed to answer the question of
            what that other world— the “Next System”—should look like and how we can
            possibly get there.
@@ -95,7 +94,7 @@ Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/
            one another rather than try to conjure up a whole new system out of thin air.
            The heart of our argument is that building networks of radically democratic,
            cooperative institutions can sustain our communities and our collective
-2 of 29 10/19/25, 11:31 AM Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/symbiosis-rese...
+
            struggle in the near term, organize our base to win ﬁghts with the state and
            private sector, begin eroding public support for the current dysfunctional
            system, and, in time, become the dominant institutions of tomorrow’s world.
@@ -142,7 +141,7 @@ Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/
            channel national decision-making are structurally incapable of staving oﬀ
            ecological and economic collapse, and securing a decent life for everyone.
            What we face is a colossal collective action problem.
-3 of 29 10/19/25, 11:31 AM Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/symbiosis-rese...
+
            Our Theory of Social Change
              The German-American political philosopher Hannah Arendt argued that
            intolerable situations such as ours could be cast aside by the public’s
@@ -191,7 +190,7 @@ Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/
            for collective action. Transcending capitalism and the state thus requires
            having alternative institutions in place to meet those needs and organize
            people to act powerfully in concert with one another. Retracting support
-4 of 29 10/19/25, 11:31 AM Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/symbiosis-rese...
+
            without engaging in such oppositional institutions is hardly distinguishable
            from apathy.
              Fourth, we cannot neglect the preformation of the post-revolutionary
@@ -240,8 +239,8 @@ Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/
            ecosocialism.
              Most of the community institutions discussed here are not new inventions,
            but have been developed through generations of popular struggle all over the
-           world. The challenge taken up here is to synthesize them into a uniﬁed anti5 of 29 10/19/25, 11:31 AM
-Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/symbiosis-rese...
+           world. The challenge taken up here is to synthesize them into a uniﬁed anti
+
            capitalist strategy at every level of society.
              Particular institutional arrangements will likely depend on local needs and
            conditions, but possibilities include worker-owned cooperatives,
@@ -286,7 +285,7 @@ Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/
            fundamentally volatile and could give way to a revolutionary overthrow of the
            republican Provisional Government.
              At the time, however, “dual power” was essentially descriptive. The
-6 of 29 10/19/25, 11:31 AM Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/symbiosis-rese...
+
            American anarchist theorist Murray Bookchin was the ﬁrst to ﬂesh out the
            concept into a strategic framework for transformative politics. In his political
            blueprint, called “libertarian municipalism,” confederations of directly
@@ -332,7 +331,7 @@ Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/
            who seeks to organize, it was an all-important lesson: the community knows
            what it needs better than anyone else does.
              Building directly democratic, cooperative institutions creates buy-in at an
-7 of 29 10/19/25, 11:31 AM Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/symbiosis-rese...
+
            early stage and ensures that a community can make decisions in its own best
            interest. Direct democracy is also a form of popular education. Through it,
            people can develop political consciousness and practice living the ethic of
@@ -378,7 +377,7 @@ Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/
              Now, though, there is an opportunity to situate the industrial proletariat as
            a prominent wing within a broader democratic struggle, not just against wage
            labor but against racial and sexual oppression, hierarchy, ecological
-8 of 29 10/19/25, 11:31 AM Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/symbiosis-rese...
+
            destruction, the state, and perhaps even work itself. A better socioeconomic
            system can only be won by a cross-class international coalition among
            peasants, proletarians, social movements beyond labor, and progressive
@@ -427,7 +426,7 @@ Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/
            neglected participation in the broader anti-Franco struggle.[11] More recently
            and perhaps more distressingly, the cooperative’s internal democracy has
            slowly eroded amid reforms meant to keep it competitive with capitalist ﬁrms.
-9 of 29 10/19/25, 11:31 AM Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/symbiosis-rese...
+
            Between 1985 and 1991, the component worker-owned co-ops of the
            Mondragon network ceded most of their decision-making power to the
            Mondragon Cooperative Corporation, a centralized holding company whose
@@ -471,7 +470,7 @@ Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/
            no loan repayment until the co-op begins to turn a proﬁt, and even then it gets
            paid back strictly as a percentage of proﬁts. (In months without proﬁt, the
            ﬁrm pays nothing). The Working World has funded over 200 worker-controlled
-10 of 29 10/19/25, 11:31 AM Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/symbiosis-rese...
+
            companies around the world, and it has been so successful that it is now
            spearheading the development of a network of local funds for cooperatives.
            [13] The fund currently needs local organizers to set up local credit
@@ -516,7 +515,7 @@ Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/
            achieve the full potential of Alinsky’s own “iron rule of organizing”—never do
            for others what they can do for themselves. In institution-based organizing,
            the iron rule means that professional organizers should emphasize training
-11 of 29 10/19/25, 11:31 AM Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/symbiosis-rese...
+
            and leadership development in the community, rather than running campaigns
            on behalf of the community. The former method builds power and grows the
            organization or movement; the latter stiﬂes it. Although the philosophy behind
@@ -565,7 +564,7 @@ Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/
            cooperative housing for low-income people.[15] They often illustrated the
            programs’ function with the metaphor of being stranded on a life raft—the
            community must take practical steps to stay alive in the present, but never
-12 of 29 10/19/25, 11:31 AM Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/symbiosis-rese...
+
            forget that the real goal is to make it to shore, to revolution. The Panthers
            understood these programs as “survival pending revolution”—a means of
            sustaining their communities until they could achieve liberation.
@@ -609,7 +608,7 @@ Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/
            political orders of that time.
              Organizing within the prison system was a political incubator of the
            Palestinian resistance movement and oﬀers a microcosmic example of the
-13 of 29 10/19/25, 11:31 AM Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/symbiosis-rese...
+
            development of dual power in the much larger prison of the occupation. With
            hunger strikes, political prisoners eventually won concessions for their own
            self-administration within the prisons. They assembled structures of political
@@ -659,7 +658,7 @@ Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/
            together housewives and working women in cities and towns throughout the
            occupied territories. They set up classes and cottage industry cooperatives
            (managed along roughly anarcho-syndicalist lines, with one vote for each
-14 of 29 10/19/25, 11:31 AM Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/symbiosis-rese...
+
            worker-member) for women looking to generate supplementary income.[20]
            Organizers went door-to-door in the poorer villages and refugee camps to
            reach women who were illiterate, economically dependent on men, and
@@ -708,7 +707,7 @@ Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/
            delegates to represent them at area/municipal committees, which coordinated
            resistance activities among neighborhoods, camps, and nearby villages. These
            committees in turn elected representatives to a district committee, and
-15 of 29 10/19/25, 11:31 AM Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/symbiosis-rese...
+
            district committees sent representatives to al-Qiyada al-Muwhhada, the secret
            Uniﬁed National Leadership of the Uprising (UNLU).[23] The UNLU ﬁrst
            began distributing pamphlets in January 1988 detailing strike dates, boycotts
@@ -755,7 +754,7 @@ Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/
            look like transposed to an American context? As our example, we will use
            Detroit, Michigan—the city we know best and the one where we ﬁrst intend to
            begin putting the ideas outlined here into practice. It is also one of the
-16 of 29 10/19/25, 11:31 AM Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/symbiosis-rese...
+
            harder-hit cities in the current neoliberal crisis. Detroit’s conditions of
            undemocratic governance, depressed property values, depopulation of the
            urban core, high point source pollution, tremendously powerful developers,
@@ -802,7 +801,7 @@ Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/
            property taxes, they will face tax foreclosure, have their home sold at auction,
            and be evicted. Many tenants who have paid rent are also evicted because
            their landlords failed to pay property taxes.
-17 of 29 10/19/25, 11:31 AM Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/symbiosis-rese...
+
               Organized eﬀorts to keep foreclosed families in their homes are already
            underway.
               Formed in 2014, the Tricycle Collective buys occupied homes at the county
@@ -850,7 +849,7 @@ Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/
            housing for up to a year for university students or long-term visitors; to semipermanent housing from one to ﬁve years with extension available if needed;
            and, ﬁnally, to permanent housing for those planning to stay in a house or
            apartment indeﬁnitely.
-18 of 29 10/19/25, 11:31 AM Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/symbiosis-rese...
+
              On the second axis, options would range from individual apartments and
            single-family homes to a variety of communal living situations. Some
            apartments would be redesigned so that residents have private living spaces
@@ -897,7 +896,7 @@ Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/
            environments with pesticides and herbicides, replacing complex ecosystems
            with industrial monocultures, and destabilizing the global nitrogen cycle
            through over-reliance on petrochemical fertilizers, it erodes the ecological
-19 of 29 10/19/25, 11:31 AM Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/symbiosis-rese...
+
            base that all agriculture (and life itself) depends on. Furthermore, the food
            this system produces is poorly distributed by the market. Eight hundred
            million people worldwide are undernourished, including 15 percent of
@@ -944,7 +943,7 @@ Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/
            regulators. This is an especially exploitative and (as shown below) vulnerable
            model of energy capitalism. Eﬀective, visionary organizers can help their
            communities bypass the corporate monopoly’s price gouging and pollution
-20 of 29 10/19/25, 11:31 AM Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/symbiosis-rese...
+
            through a community-owned grid of renewable, distributed generation
            supplying aﬀordable electricity to all.
              Since the Industrial Revolution, energy production has been complex and
@@ -990,7 +989,7 @@ Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/
              At the center of all of this mutual aid and participatory social service work
            is the creation of organs of radical democracy. Like the Palestinians in the
            First Intifada, the Kurds in revolutionary Rojava, and the Catalonians in the
-21 of 29 10/19/25, 11:31 AM Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/symbiosis-rese...
+
            Spanish Civil War, American communities should both actively organize local
            assemblies in which free citizens come together to make decisions and
            empower those institutions politically. Detroit has several good starting
@@ -1039,7 +1038,7 @@ Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/
            other projects would also allow this revolutionary community organization to
            seize municipal power directly through elections. The City Charter could then
            be rewritten, restructuring city governance toward radical participatory
-22 of 29 10/19/25, 11:31 AM Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/symbiosis-rese...
+
            democracy. It is at this stage that the institution-building strategy described
            here would begin to create a cascade eﬀect of municipal transformation.
            Upscaling Radical Democracy
@@ -1084,7 +1083,7 @@ Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/
            models and community-based learning into the public sphere to be available
            to all. We could devise city-wide bike shares, recycling and composting
            syndicates, community centers, and time banks.
-23 of 29 10/19/25, 11:31 AM Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/symbiosis-rese...
+
            Conclusion: A Next System Beyond the City
              Suppose we can reconﬁgure a series of large municipalities like Detroit
            along libertarian municipalist lines—making city oﬀicials report directly to a
@@ -1132,7 +1131,7 @@ Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/
            meaningful progressive reforms.
              Confederations would pool resources to create political alliances and win
            policies ranging from a universal basic income to stringent environmental
-24 of 29 10/19/25, 11:31 AM Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/symbiosis-rese...
+
            protections to tax incentives for cooperative businesses. Such policies would
            give cities additional time and space to continue building up their alternative,
            post-capitalist institutions. Of course, coexistence with even a sympathetic
@@ -1182,7 +1181,7 @@ Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/
            their democratic communal alternatives spread. And what will this leave us
            with?
              It is important not to presume the precise contours of the future society
-25 of 29 10/19/25, 11:31 AM Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/symbiosis-rese...
+
            since no static blueprint can predict changing circumstances, and the very
            point of the new system is that the people will design it democratically. That
            said, a democratic successor to statism and capitalism must address certain
@@ -1232,7 +1231,7 @@ Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/
            control, local experimentation, and radical democracy—means that we cannot
            predict precisely what the future will look like; nor do we want to. Even the
            authors of this essay don’t agree on all the particulars—should some
-26 of 29 10/19/25, 11:31 AM Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/symbiosis-rese...
+
            semblance of money, the market, and private ownership remain for
            nonessential goods? Or should all economic activity be fully communal? To
            what extent can or should the Internet reduce the need for face-to-face
@@ -1281,7 +1280,7 @@ Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/
            activism have engaged with a variety of movements for social change, most
            notably campaigns for climate justice and animal liberation. His work has
            appeared in In These Times, Earth Island Journal, Truthout, and The Nassau
-27 of 29 10/19/25, 11:31 AM Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/symbiosis-rese...
+
            Weekly. He holds a bachelor’s degree in astrophysical sciences from
            Princeton University.
              Matthew Porges is a writer and researcher based in Brussels, Belgium. He
@@ -1341,7 +1340,7 @@ Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/
              [24] Community gardens, cottage industry cooperatives, food and medicine distribution
            networks, and other forms of economic self-suﬀiciency provided subsistence for neighborhoods so
            they could both provide for all members of the community and participate fully in strikes and
-28 of 29 10/19/25, 11:31 AM Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/symbiosis-rese...
+
            boycotts.
              [25] One First Intifada veteran interviewed in Beit Sahour in 2014 said that he was jokingly
            accused of being in the UNLU because the suggestions his popular committee had given him to
@@ -1369,4 +1368,3 @@ Community, Democracy, and Mutual Aid https://usa.anarchistlibraries.net/library/
            Retrieved on 2020-03-25 from thenextsystem.org
            This is a production of the Symbiosis Research Collective. For more
            information, go to symbiosis-revolution.org.
-29 of 29 10/19/25, 11:31 AM

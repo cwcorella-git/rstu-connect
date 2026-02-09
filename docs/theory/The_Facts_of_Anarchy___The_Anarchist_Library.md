@@ -8,7 +8,6 @@ tags:
   - theory
 ---
 
-The Facts of Anarchy | The Anarchist Library https://theanarchistlibrary.org/library/ito-noe-the-facts-o...
             Title: The Facts of Anarchy
             Author: Itō Noe (https://theanarchistlibrary.org/category/author/ito-noe)
             Topics: Japan (https://theanarchistlibrary.org/category/topic/japan), Japanese anarchism (https://
@@ -31,7 +30,7 @@ The Facts of Anarchy | The Anarchist Library https://theanarchistlibrary.org/lib
          with whom she was murdered by the japanese military police in 1923. She was a leadingﬁgure in the japanese
          feminist Bluestocking Society, and translated Emma Goldman into Japanese. The following excerpts are taken
          from her article, “The Facts of Anarchy, “ originally published in 1921 in Rodo Undo (the Labour Movement). Itō
-1 of 3 3/17/25, 5:05 PM  The Facts of Anarchy | The Anarchist Library https://theanarchistlibrary.org/library/ito-noe-the-facts-o...
+
          Noe argues that the Japanese peasant village was a functioning anarchist society based on mutual agreement
          and mutual aid. The translation by Yoshiharu Hashimoto. originally published in A Short History of the Anarchist
          Movement in Japan (Tokyo: Idea Publishing, 1979), has been modiﬁed by the editor for stylistic reasons.
@@ -72,7 +71,7 @@ The Facts of Anarchy | The Anarchist Library https://theanarchistlibrary.org/lib
          crime again ...
          Expulsion is the last resort ... When one receives this punishment, no one dares to associate with him ... So
          they think of the seriousness of this punishment and do not impose it on someone unless his deed is
-2 of 3 3/17/25, 5:05 PM The Facts of Anarchy | The Anarchist Library https://theanarchistlibrary.org/library/ito-noe-the-facts-o...
+
          intolerable. As far as I know, I have not heard of this great punishment being imposed on a family ...
          Egoistic urban life is intolerable to those accustomed to village life. Where there is no hope of success besides
          poverty, it is far more comfortable and warm to support each other under the protection of the association.
@@ -81,7 +80,6 @@ The Facts of Anarchy | The Anarchist Library https://theanarchistlibrary.org/lib
           theanarchistlibrary.org/category/topic) | Latest entries (https://theanarchistlibrary.org/latest) | Mobile (https://
                theanarchistlibrary.org/help/opds) | Add a new text (https://theanarchistlibrary.org/action/text/new)
              theanarchistlibrary.org (https://theanarchistlibrary.org) Ⓐ anarchistnews.org (https://anarchistnews.org)
-3 of 3 3/17/25, 5:05 PM
 
 ## Document Summary
 

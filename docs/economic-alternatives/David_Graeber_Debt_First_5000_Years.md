@@ -1497,7 +1497,6 @@ The most ingenious trick of the merchant societies, though, was to assist in the
 ## =£735, for the first four grades.
 ## } so boxes brass rods for each
 ## of the lower grades.
-##
 In other words, it was quite expensive. But membership quickly became the chief mark of honor and distinction everywhere. Entry fees were no doubt less exorbitant in small, distant communities, but the effect was still the same: thousands ended up in debt to the merchants, whether for the fees required for j oining, or for the trade goods they supplied (mostly cloth and metal put to use creating the gear and costumes for the Ekpe performances-debts that they thus themselves became responsible for enforcing on themselves. These debts, too, were regularly paid in people, ostensibly yielded up as pawns.)
 
 H o w d i d i t work in practice ? It appears to have varied a great deal from place to place. In the Afikpo district, on a remote part of the upper Cross River, for instance, we read that everyday affairs-the acquisition of food, for example-was conducted, as among the Tiv, "without trade or the use of money." Brass rods, supplied by the merchant societies, were used to buy and sell slaves, but otherwise mostly as a

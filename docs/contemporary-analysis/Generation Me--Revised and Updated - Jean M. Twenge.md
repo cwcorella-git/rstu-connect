@@ -3136,8 +3136,6 @@ Ameri Corps, 101, 269
 Anderson, Ethan, 221
 Aniston, Jennifer, 135
 anxiety, 145–47, 148, 156, 202
-##
-
 appearance, obsession on, 134–36
 Armstrong, Elizabeth, 216
 Arnett, Jeffrey, 46, 103, 115, 117, 130
@@ -3182,8 +3180,6 @@ self-focus of, 59–63, 66, 67, 68–69
 bankruptcy, personal, 170
 Basinger, Kim, 61
 Basu, Alo, 122
-##
-
 Battle Hymn of the Tiger Mother (Chua), 307
 Baumeister, Roy, 88, 294, 307
 Be a Winner (coloring book), 71–72
@@ -3228,8 +3224,6 @@ Carrey, Jim, 25
 celebrity:
  dreams of, 171
  obsession with, 121
-##
-
 and obsession with appearance, 134–36
 Chappelle, Dave, 231
 cheating, 33–34, 88
@@ -3275,8 +3269,6 @@ Cohen, Eric, 141
 Colbert Report, The (TV), 193
 Colin, Chris, 107–8, 122, 155, 198, 295
 college admissions, 157–59
-##
-
 college populations, 321–22
 Collins, Rebecca, 219
 Columbine High School, 99
@@ -3322,8 +3314,6 @@ culture:
  and ethnic pride, 234–36
  influence of, 11, 69, 311
  and marriage, 156
-##
-
 and movie themes, 118–19
 Culture of Fear, The (Glassner), 179
 Culture Shock! USA (guidebook), 127–28, 129
@@ -3368,8 +3358,6 @@ disengagement, 181–203
 divorce, 130, 151, 153
 Dolan-Pascoe, Brenda, 80
 dominance, 126
-##
-
 donations, charitable, 44, 100, 102
 Donne, John, 296
 Donnelly, Kristin, 240
@@ -3414,8 +3402,6 @@ entitlement, 85–86, 92, 97–98, 266
 entrepreneurship, 275–76, 288–90
 environment, concern for, 188–89
 Epplin, Luke, 107, 108
-##
-
 equality, 227–60
  civil rights movement, 227–29, 233
  for gays and lesbians, 255–60
@@ -3460,8 +3446,6 @@ freedom:
  and self-doubt, 160
 Freeman, Elise, 186
 Free to Be . . . You and Me (film), 240
-##
-
 Friends (TV), 39
 friendships, 312–13
 F*ck! I'm in My Twenties (Koenig), 152
@@ -3506,8 +3490,6 @@ Generation Me, first edition of, xii, xiii, xvi, 6, 285–86, 301
 Generation We (2008), 186
 Generation Whatever, 181–82
 Generation X:
-##
-
 being yourself, 24
  birth year of (1961–81), 5, 6
  and cheating, 33
@@ -3552,8 +3534,6 @@ group membership, 47
 Growing (Up) at Thirty-Seven (Rubin), 60
 Growing Up Digital (Tapscott), 13, 28
 Guerra, Patricia, 166
-##
-
 H
 Hais, Michael, 185
 Hanauer, Cathi, 173
@@ -3598,8 +3578,6 @@ Hung, William, 119–20
 Huxley, Aldous, 65
 Hyde, Janet, 80
 hypomania, 145–46
-##
-
 I
 i Generation (i Gen), 5
 Ilardi, Steve, 314
@@ -3644,8 +3622,6 @@ isolation, 149–57
 It's a Wonderful Life (film), 119
 It's Never Too Soon to Discipline (Peters), 306
 I Want a Famous Face (TV), 134
-##
-
 J
 James, E L, 122
 Jay, Meg, 115
@@ -3690,8 +3666,6 @@ K
 Kamen, Paula, 210, 239
 Kardashian, Kim, 213
 Kasser, Tim, 275
-##
-
 Kato, Lesley, 295
 Katz, Lilian, 97
 Kazez, Daniel, 199
@@ -3734,8 +3708,6 @@ Lords, Traci, 213
 Lost in Transition (Smith), 30, 187
 luck, 194–96, 294
 Lyons, Sean, 272
-##
-
 Macko, Lia, 108, 252, 254
 Maduro, E. S., 246
 Majestic, The (film), 25
@@ -3781,8 +3753,6 @@ media:
  and sex, 218–21, 222
  stories about threats in, 177–79
  violence shown in, 310–11
-##
-
 medicine, distrust in, 190–91
 Meeker, Meg, 220
 Meet the Fockers (film), 26
@@ -3828,8 +3798,6 @@ movies:
  and social rules, 24–27
 multitasking, 315–16
 Murphy Brown (TV), 39
-##
-
 Murray, Sandra, 131
 Myers, David, 179–80
 My Space, 105
@@ -3872,8 +3840,6 @@ oversharing, 50–51
 overthinking, 311–12
 P
 Palosz, Bart, 148
-##
-
 Paltrow, Gwyneth, 123
 parents:
  attachment parenting, 169–70
@@ -3919,8 +3885,6 @@ Pond, Richard, 96
 Poniewozik, James, 120
 pornography, 213–14
 possessions, 137–41
-##
-
 Post, Andrew, 166–67
 Postman, Neil, 192, 220
 Prince, Matt, 86
@@ -3964,8 +3928,6 @@ religion, 42–48
  fundamentalist, 46–47, 75
  and homosexuality, 259
  make-your-own, 46
-##
-
 restrictive rules of, 46
  therapeutic individualism in, 45
 research:
@@ -4010,8 +3972,6 @@ Sanford and Son (TV), 175
 Sarbanes-Oxley, 34
 Schneider, Barbara, 110
 Scholar, The (TV), 124
-##
-
 schools, see education
 Schor, Juliet, 138
 Schwartz, Barry, 155
@@ -4057,8 +4017,6 @@ self-love, 129–34, 295
 Self Matters (Dr. Phil), 65
 self-promotion, 126
 self-satisfaction, 67, 68
-##
-
 Seligman, Martin, 66, 88, 177
 Seligson, Hannah, 100–101
 Sesame Street (TV), 108
@@ -4104,8 +4062,6 @@ Smith, Howard, 237–38
 Smith, Kevin, 24
 Snapchat, 123, 221
 social change, 323–24
-##
-
 social consciousness, 100
 social networking, 104–6, 123, 150, 156
 social problems, involvement in, 186–87
@@ -4151,8 +4107,6 @@ stress, 142–80
  and depression, 142–45, 146–47
  economic causes of, 160–70
  and jobs, 159–60
-##
-
 and loneliness, 149–57
  media stories as sources of, 177–79
  physical symptoms of, 145, 146
@@ -4197,8 +4151,6 @@ Titanic, 98
 Title IX, 244–45
 tolerance, 28, 31–32, 103, 104
 Torrance Tests of Creative Thinking, 87–88
-##
-
 traits, use of term, 319–20
 Trinkaus, John, 32
 Trudeau, Garry, "Doonesbury," 82–83
@@ -4241,8 +4193,6 @@ Watergate, 190
 wealth, age distribution of, 161
 We Are All Special (coloring book), 2
 weddings:
-##
-
 over-the-top, 123
  personalized, 41–42
  and social rules, 38–42
@@ -4286,8 +4236,6 @@ York, Sara Ferguson, Duchess of, 61
  and delusions of grandeur, 120, 141, 172
  and expectations, 109–14, 172
  extending adolescence via, 114–19
-##
-
 and fame, 120–24
  and "Follow your dreams," 112–14
  and self-expression, 124–29
@@ -4302,7 +4250,6 @@ Zappos, 271
 Zhang, Liqing, 183
 Zoloft, 143, 144
 Zucker, Bonnie, 128
-##
 ## ![](_page_362_Picture_0.jpeg)
 
 A Division of Simon & Schuster, Inc. 1230 Avenue of the Americas New York, NY 10020 [www. Simonand Schuster.com](http://www.simonandschuster.com/)

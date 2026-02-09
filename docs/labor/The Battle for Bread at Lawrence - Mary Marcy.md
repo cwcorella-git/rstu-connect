@@ -49,18 +49,14 @@ In a dingy back room of an Italian house I saw over fifty empty pay envelopes wh
 | 5.291 week spinning room 5.711 week spinning room |
 | 4.921 week spinning room 5.831 week spinning room |
 | 6.551 week spinning room 4.921 week spinning room . |
-| 4.511 week spinning room 6.371 week spinning |
-| room 5.901 week spooling room 6.051 week |
-| drawing room 6.741 week drawing room 5.571 |
-| week drawing room 5.501 week and 6 hours drawing room |
+5.901 week spooling room 6.051 week |
+5.501 week and 6 hours drawing room |
 | 5.271 week drawing and doffing 7.051 week bobbin setter |
 | 4.181 week bobbin setter 5.101 week bobbin setter |
 | 4.921 week bobbin setter 4.181 week carding room |
 | 3.061 week and 5 hours carding room 7.011 week beaming room |
-| 5.831 week dryer house 6.831 week combing |
-| room 6.901 week combing room 6.391 week 3 |
-| hours combing room 6.601 week 3 hours combing room 6.164 days |
-| winding room 3.504 1/2 days spinning room 3.335 |
+6.901 week combing room 6.391 week 3 |
+3.504 1/2 days spinning room 3.335 |
 
 | | 1/2 days winding room 4.593 days combing room |
 |------------------------------|-----------------------------------------------------------|

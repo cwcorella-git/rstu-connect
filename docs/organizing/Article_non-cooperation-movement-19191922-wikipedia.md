@@ -8,7 +8,6 @@ tags:
   - organizing
 ---
 
-Non-cooperation movement (1919–1922) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
          Non-cooperation movement (1919–1922)
          The non-cooperation movement was a political campaign launched on 4 September 1920 by Mahatma
          Gandhi to have Indians revoke their cooperation from the British government, with the aim of persuading
@@ -41,7 +40,7 @@ Non-cooperation movement (1919–1922) - Wikipedia https://en.wikipedia.org/wiki
          Although the Rowlatt Act of 1919, which suspended the rights of political prisoners in sedition trials,[4] was
          never invoked and declared void just a few years later,[6] it motivated Gandhi to conceive the idea of
          satyagraha (truth), which he saw as synonymous with independence.
-1 of 6 8/20/25, 8:49 PM Non-cooperation movement (1919–1922) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
+
          Motivation for Gandhi's movement was further solidiﬁed following the events of 13 April 1919, when a large
          crowd had gathered at Jallianwala Bagh near the Golden Temple in Amritsar to protest against the arrest of
          Saifuddin Kitchlew and Dr. Satyapal,[13] while others had come to attend the annual Baisakhi festival.[14]
@@ -78,7 +77,7 @@ Non-cooperation movement (1919–1922) - Wikipedia https://en.wikipedia.org/wiki
           ▪ Indians would be encouraged to withdraw from Raj-sponsored schools, police
             services, the military, and the civil service, and lawyers were asked to leave the
             Raj's courts;
-2 of 6 8/20/25, 8:49 PM Non-cooperation movement (1919–1922) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
+
           ▪ public transportation and English-manufactured goods, especially clothing, was
             boycotted; and
           ▪ Indians returned honours and titles given by the government and resigned from
@@ -114,7 +113,7 @@ Non-cooperation movement (1919–1922) - Wikipedia https://en.wikipedia.org/wiki
          to the police chowki with some 22 policemen inside it. Around 30 mobs were there for this incident. This
          cruelty made Gandhi think to end the movement.
          Mahatma Gandhi felt that the revolt was veering oﬀ-course, and was disappointed with the rise of violent
-3 of 6 8/20/25, 8:49 PM Non-cooperation movement (1919–1922) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
+
          nature of the movement. He did not want the movement to degenerate into a contest of violence, with police
          and angry mobs attacking each other back and forth, victimizing civilians in between. Gandhi appealed to the
          Indian public for all resistance to end, went on a fast and on 12 February 1922 called oﬀ the non-cooperation
@@ -148,7 +147,6 @@ Non-cooperation movement (1919–1922) - Wikipedia https://en.wikipedia.org/wiki
             vement.php). knowindia.gov.in. Archived from the original (https://knowindia.gov.in/
             culture-and-heritage/freedom-struggle/the-non-cooperation-movement.php) on 7
             December 2017. Retrieved 11 August 2021.
-4 of 6 8/20/25, 8:49 PM Non-cooperation movement (1919–1922) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
 
           2. "Noncooperation movement (https://www.britannica.com/event/noncooperation-mo
              vement)." Encyclopædia Britannica, 15 December 2015. Retrieved 2021-08-10.
@@ -194,8 +192,6 @@ Non-cooperation movement (1919–1922) - Wikipedia https://en.wikipedia.org/wiki
              (Nachdruck ed.). Gurgaon: Penguin Books. ISBN 978-0-14-010781-4.
          19. Titles, Medals and Ribbons (https://aeon.co/essays/the-shame-of-sir-british-honoursand-decolonisation)
 
-5 of 6 8/20/25, 8:49 PM Non-cooperation movement (1919–1922) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
-
          20. Ministry of Culture, Government of India. "Maghfoor Ahmad Ajazi" (https://amritmah
              otsav.nic.in/unsung-heroes-detail.htm?138). amritmahotsav.nic.in.
          21. Biswamoy Pati, Lata Singh, ed. (2014). Colonial and Contemporary Bihar and
@@ -231,4 +227,3 @@ Non-cooperation movement (1919–1922) - Wikipedia https://en.wikipedia.org/wiki
             (1966)
          Retrieved from "https://en.wikipedia.org/w/index.php?title=Non-cooperation_movement_(1919–
          1922)&oldid=1296499109"
-6 of 6 8/20/25, 8:49 PM

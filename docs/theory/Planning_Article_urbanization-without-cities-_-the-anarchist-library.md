@@ -38,7 +38,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## ecological reasons, to explore modern urbanization. We must
 ## explore not only its impact on the natural environment, a
 
-1 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 subject that has already been discussed in considerable detail
 ## by many writers, but, more significantly these days, the
 ## changes urbanization has produced in our sensibility toward
@@ -70,7 +69,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 city itself, for the city at its best eventually became an ethical
 ## union of people, an ethical as as social ecocommunity, not
 
-2 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 simply a dense collection of structures designed for no other
                 purpose than to provide goods and services for its anonymous
 ## residents.
@@ -102,7 +100,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 of city life, a destructing of community, and a denaturing of
                 agrarian life—is the underlying theme of this book. I must leave
                 it to the pages which follow for a more complete description
-3 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 and elucidation of the vast problems urbanization is creating.
 ## My argument runs counter to the conventional wisdom that
                 city and countryside, like society and nature, are necessarily in
@@ -134,7 +132,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## municipality, if we are to include towns as well as
                 metropolitican areas—as an ecological enterprise, not merely a
                 logistical or structural one. Hence, the largest chapter in this
-4 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## book advances a programmatic agenda for recovering not only
                 an ecological image of the city and an active citizenry but a
@@ -169,8 +166,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 
 ## Professor Emeritus,
 
-5 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## School of Environmental Studies,
 ## Ramapo College of New Jersey
 
@@ -204,7 +199,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 viewpoint the origins of cities, their role in shaping humanity as
 ## a highly unique and creative species, and the promise they
 
-6 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 offer as arenas for a new political and social dispensation. I
 ## have tried to examine how the city evolved, what forms it
 ## assumed over time, how it functioned as more than a mere
@@ -235,7 +229,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## word counterpart here, however, I do not mean that civic
                 participation, citizenship, and civic history are reducible to
                 natural mutualism, ecocommunities, and biological evolution;
-7 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 they differ in far too many ways to be congruent. But this is a
                 philosophical question I have dealt with in a broad discussion of
                 first and second nature in my The Philosophy of Social Ecology
@@ -266,7 +260,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## Metropolitan Statistical Area (SMSA)-sprawling, densely
                 occupied regions that ordinarily embrace milllions of people. In
                 reality, cities are being supplanted by areas so immense in size
-8 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 that they are losing their contours, specificity, and uniqueness.
 ## Many urban agglomerations today have larger populations
 ## than many countries had a century ago and are in many
@@ -297,7 +291,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## biological heritage, indeed the “metamorphosis” of that
 ## heritage into a new social form of evolution. The city was
                 initially the arena par excellence for the transformation of
-9 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## human relationships from associations based on biological
 ## facts, such as kinship, to distinctly social facts, such as
@@ -329,7 +322,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## social responsibilities to citizens who in the best of
                 circumstances could freely decide on their civic responsibilities
                 and determine their own affinities based on reason and secular
-10 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 interests—these steps constitute a meaningful definition of the
                 city. Cities, to be sure, can rise and fall. They can enjoy good
                 fortune for a time or, owing to conflicts, totally disappear. But
@@ -361,7 +354,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 Insofar as I am guided by the Greek notion that a city or polis is
                 an ethical union of citizens, I am committed to an overarching
                 vision of what the city ought to be, not merely what it is at any
-11 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 given time. The term ought is the stuff out of which ethics is
                 usually made—with the difference that in my view the “ought”
                 is not a formal or arbitrary regulative credo but the product of
@@ -392,7 +385,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 for citizenship not only in new, ecologically oriented networks
 ## of cities but in truly rational beings called citizens. For
                 citizenship, too, is a process—as the Greeks so brilliantly saw—
-12 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 a process involving the social and self-formation of people into
 ## active participants in the management of their communities.
 ## As this book stresses, citizens today no longer even
@@ -423,7 +416,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 confederations. I cannot stress how integrally the confederal
                 association of cities and towns is part of the development of a
                 free, ecologically oriented society. Localism, in the narrow
-                sense of a virtually autarchical locality that aspires to “self13 of 428 3/17/25, 5:09 PM
+                sense of a virtually autarchical locality that aspires to “self
 Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 sufficiency”—in the sense so popular in the ecology movement
 ## today—could easily produce a parochialism notable for such
@@ -455,7 +448,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 hierarchial pyramid of authority would thus be literally inverted
                 in confederal municipalism; the “apex” of all authority would
                 lie with the municipal assemblies, guided by majority rule both
-14 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## in the assembly and among the assemblies of a confederal
 ## region; the “base” would lie with the broadest confederal
@@ -489,8 +481,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## strong, self-conscious, and well-organized movement that is
 ## committed to municipal confederation, radical theory and
 
-15 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## practice will deserve the ignominious oblivion into which
                 Marxist and individualistic “anarchist” tendencies have been
 ## drifting for some time now. Today’s dogmatic or subcultural
@@ -523,7 +513,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 This practice is not a mere “strategy,” to use the language of
 ## the traditional Left—indeed, the language of all statist
 
-16 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 movements. It is not a “means” to an end, least of all a very
                 unclear and muddled end. Rather, it is the unfolding of an end:
 ## the famous “Commune of communes,” to which socialists and
@@ -554,7 +543,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## representation rather than participation. Even more
                 significantly, it would ignore the crucial fact that as they run
                 candidates for local offices, confederal municipalists are also
-17 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 running them against state, provincial, and national offices and
 ## institutions. The demand for municipal confederations is
                 simultaneously a demand for opposition to the nation-state in
@@ -585,7 +574,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## to reduce a confederation or commune to a republic or a
 ## commonwealth.
 
-18 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 Radicals, social-democrats, and liberals—not to speak of that
 ## hybridized phenomenon known as “the Greens”—have never
                 learned how to deal with the problem of state power. If history
@@ -617,7 +605,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 seeks to expand the democratic institutions that still linger on
 ## in any modern republican system by opening them to the
 
-19 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 widest public participation possible at any given time. Hence
                 the slogan that I have advanced: “Democratize the Republic!
                 Radicalize the Democracy!” It is not that state power is to be
@@ -649,7 +636,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## against the larger background of a historic moment in the
                 evolution—and I should add, the decline—of city life, namely
                 the emergence of a major threat to city and countryside alike:
-20 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## urbanization. The existence of this threat—not merely as
                 geographic sprawl but as a devastating dehumanization of city
@@ -682,7 +668,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 be conceived in terms that explore how notions of domination
 ## and the historical development of hierarchy have led to the
 
-21 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 social as well as natural problems we face today. For a clearer
 ## understanding of my ecological perspective—social ecology—
                 the reader is advised to consult my many books on the subject,
@@ -713,7 +698,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## socially and enviromentally concerned people must face. My
                 goal here is to pose the question of the future of cities and
                 citizenship as clearly as I can and to advance solutions based
-22 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## on the principles of social ecology.
 
@@ -745,7 +729,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## balance with the natural world) and, perhaps no less
                 significantly, the decline of the very notion of citizenship.
                 So sweeping a statement obviously requires some clarification
-23 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## at the outset of our discussion. According to most social
                 theorists, the traditional “contradiction” created by the rise of
@@ -778,7 +761,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## antagonistically in the past. And there have been long
 ## stretches of history when each tried to assert economic and
                 political dominance over the other. But there have also been
-24 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## times when they existed in an almost exquisitely sensitive,
                 creative, and ecological balance with each other. Some of the
@@ -812,7 +794,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 
                 The truth is that the city and the country are under siege today
                 —a siege that threatens humanity’s very place in the natural
-25 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## environment. Both are being subverted by urbanization, a
                 process that threatens to destroy their identities and their vast
@@ -845,7 +826,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 We are often satisfied to call any urban entity a city if it is
 ## demographically congested, structurally sizable, and, most
 
-26 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 significantly, populated by individuals whose work no longer
 ## deals directly with food cultivation. Urbanization, like
                 citification, seems to meet these criteria so completely that we
@@ -875,7 +855,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 natural. Food is normally bought rather than grown. Dwellings
                 tend to be concentrated rather than dispersed. Personal life is
                 not open to the considerable public scrutiny we find in small
-27 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 towns or rooted in the strong kinship systems we find in the
 ## country. Urban culture is produced, packaged, and marketed
                 as a segment of the city dweller’s leisure time, not infused into
@@ -904,7 +884,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## western world has traditionally imparted to some kind of
 ## urbanism. Most of our utopian visions, whether heavenly or
                 earthly, take the form of a pity, a “New Jerusalem’’ to. speak in
-                sacred terms, or an idealized version of the Hellenic “city28 of 428 3/17/25, 5:09 PM
+                sacred terms, or an idealized version of the Hellenic “city
 Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## state” to use Secular language.
@@ -938,7 +918,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 ultimately what I would call communities of the heart”—moral
 ## associations that were nourished by a shared sense of
 
-29 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 ideological commitment and public concern. Civic ideology and
                 concern centered around a strong belief in the good life for
 ## which the city provided the arena and catalytic agent. The
@@ -970,7 +949,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 as the good life than as a product of the ethical sturdiness,
 ## spiritual commitment, and sense of civic virtue that marked
 
-30 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 the citizenry of earlier eras. It also meant a love of the land, of
                 place and natural setting that gave rise to a rich ecological
 ## sensibility and respect for the countryside.
@@ -1002,7 +980,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 rather on the individual gifts of one or more of its residents. It
                 does not provide us with evidence of the city’s cultural milieu
                 but of a specific person’s gifts and biography that often involve
-31 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## a valiant effort to transcend a community’s oppressive
 ## environment. Such was the case, for example, with James
@@ -1035,7 +1012,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## often stagnant cultural life and social malaise.
 
                 In fact, like any marketplace, the modern city is the hectic
-32 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 center of a largely privatized interaction between anonymous
                 buyers and sellers who are more involved in exchanging their
 ## wares than in forming socially and ethically meaningful
@@ -1067,7 +1044,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## citizen—a historically remarkable term that I have yet to
 ## describe—but that of a taxpayer. He or she does not have a
 
-33 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 sense of self appropriate to what we might call a public figure
 ## but rather that of a free-wheeling investor. Doubtless,
 ## taxpayers and investors often form many associations, but
@@ -1097,7 +1073,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## surrogates, not in their “constituencies” who increasingly
 ## acquire the anonymity and’ facelessness that the word
                 “constituency” denotes. Like the traditional liberal concept that
-34 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 government is best when it governs least, so the contemporary
                 liberal Concept of citizenship seems to be that a “constituent”
 ## is best when he or she acts the least.
@@ -1129,7 +1105,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## personal appearance, career advancement, and
 ## entertainment in a thoroughly boring milieu—replaces the
                 more heroic stance of a socially and environmentally involved
-35 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 body politic. We thus encounter a twofold development: a
 ## world in which growing social power preempts concerns that
                 were once largely within the purview of the individual and the
@@ -1162,8 +1138,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 a personal issue as well as a social one. It Is equivalent to
 ## regaining one’s private selfhood as well as one’s public
 
-36 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## selfhood, one’s personality as well as one’s citizenship.
 
                 To attain such reempowerment and self-reconstitution has its
@@ -1194,7 +1168,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## around the city as it meandered its way through different
                 historical forms: decentralization versus centralization, direct
                 democracy versus representative republicanism, assemblies of
-37 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 the people versus councils of deputies, recall and rotation of
                 public officials versus lengthy tenure in office and professional
 ## fixidity. popular management of social affairs versus
@@ -1224,7 +1198,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 presupposes and later promotes the reduction of the. citizen to
                 a “taxpayer,” “constituent,” or part of an “electorate.” We shall
                 see that urbanization yields not only a drastic colonization of
-                the countryside but also of the city’s and the citizen s very self38 of 428 3/17/25, 5:09 PM
+                the countryside but also of the city’s and the citizen s very self
 Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## identity. Like the modern market, which has invaded every
@@ -1258,7 +1232,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 menacing civic or municipal incubus in every centralized social
 ## system, one that has always threatened to dismember
 
-39 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 centralized power as such and restore the control of society to
                 a public that has been cruelly dispossessed of its very identity..
 
@@ -1291,8 +1264,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## field is free from weeds.” “Newspeak was designed not to
 ## extend but diminish the range of thought” by a process of
 
-40 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## abbreviation—by rendering concepts more functional than
                 moral in nature and by dememorizing thought (if I may coin a
                 phrase) that was designed to uproot the mind from a sense of
@@ -1324,7 +1295,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## To a great extent, this is the Greek, more precisely, the
                 Athenian, ideal of civicism, citizenship, and politics, an ideal,
                 that has surfaced repeatedly throughout history. I believe this
-41 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 ideal forms a crucial challenge—despite its many limitations for
 ## the modern era. I propose to explore not only the ills of
                 urbanization insofar as they have subverted town and country
@@ -1354,7 +1325,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## the countryside, marked by a typically urban development of
                 crafts, administration, and, to use a grossly denatured word,
                 “politics.” This new, largely nonagrarian ensemble of activities
-42 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 produced what we like to call “civilization”: a literate world,
 ## culturally “enlightened,” presumably more rational
                 institutionally and technologically than the agrarian, society on
@@ -1385,8 +1356,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## With equal alacrity we assume that just as they shared our
                 economic lifeways (albeit in a more rudimentary fashion), they
 ## also shared our civic attitudes. Although we are likely to
-
-43 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## concede that their sense of communal loyalties was stronger
                 than ours, we often believe that they judged their cities with a
@@ -1419,8 +1388,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 of self-assurance that Our contemporary ills are as ancestral
 ## and incorrigibly “human” as our biological attributes and
 
-44 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## pathologies. They belong to us as assuredly as the human
 ## brain, human fingers, and ingrained human psychological
                 traits that our species shares with its ancestors and with its
@@ -1451,7 +1418,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 boars, asses, geese, and the skeletal remains of such predators
                 as wolves, foxes, and leopards, suggest a “citified population of
                 hunters and gatherers whose arts of gardening were of recent
-45 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 origin. By conventional standards, this economic tableau does
 ## not comfortably explain why a city such as Çatal, with an
                 estimated population of at least 6,000 people occupying some
@@ -1484,7 +1451,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 ecologically oriented community of late Paleolithic hunters and
 ## gatherers rather than an early neolithic community of food
 
-46 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 cultivators. The culture is marked by a very sophisticated stone
 ## and bone technics, by markedly collective dwellings adorned
 ## with images of animals and shamanlike figures amidst
@@ -1515,7 +1481,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## already familiar with the arts of planting, harvesting, and
                 milling grains, did not form any kind of permanent settlements
                 on fertile soil as early as 18,000 years ago, when ice sheets still
-47 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 covered vast portions of the European continent. Evidence of
                 food cultivators has been found quite recently adjacent to the
 ## Nile River at Wadi Kubbaniya in upper Egypt. They were
@@ -1546,7 +1512,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## to village and city was not the predictable result, as
 ## archaeological orthodoxy would have it, of technological
                 change or, as more recent theories would claim, of population
-48 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 pressure, war, or other drastic environmental pressures that
 ## might have produced hunger on a large scale. In short, the
                 transition from tribe to city was not the necessary result of
@@ -1577,8 +1543,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 fishing, and gathering economy.”{4} I find this conclusion, with
                 its wayward suggestions and its shades of heterodoxy, all the
 ## more tantalizing because its authors do, in fact, use the
-
-49 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## conceptual framework and terminology of traditional
                 archaeology with its recourse to such words as economic base,
@@ -1612,7 +1576,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 cultivation, plows, and domesticated animals. Not that the city
 ## gave rise to these agrarian basics, as Jane Jacobs seems to
 
-50 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 suggest. Apparently, agriculture in a simple form was known to
                 hunters and food gatherers long before villages began to dot
 ## the landscape that phased from the Paleolithic into the
@@ -1644,7 +1607,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## what he was to call “the anonymity of the economy in early
 ## society” and his compelling demolition of the view that the
 
-51 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 market was necessarily the decisive element in the founding of
 ## the city would exhibit a lack of appreciation for the
 ## thoroughness and elegance of his analysis.{5} Indeed,
@@ -1675,7 +1637,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 the psychological setting and institutional carryovers for the
 ## more rationalistic civilization we later find in the Greek
                 archipelago. This unconscious tribal and mutualistic substrate
-52 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 of obligation and association was, in fact, more forceful as a
 ## guide for human behavior than its formulation into a
                 sophisticated civic and political philosophy or social theory.
@@ -1706,7 +1668,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 associative role played by material things such as gifts, which
                 serve to foster a much deeper human attribute: the need to be
                 grounded in community, to enjoy shared sensibilities that are
-53 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 spiritually supportive and without which authentic individuality
                 is chimerical. Human personality, which is nurtured by parental
                 care, kinship ties, friendship, and the assurance or security
@@ -1738,7 +1700,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 restructuring of the fairly egalitarian tribal or village peoples on
 ## whom they depended—peoples who built their monuments,
 
-54 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 often massive in size; who created their plazas, dwellings, and
                 altars; who filled their temple storehouses, erected their walls,
 ## and shaped the sculptures that dazzle the modern eye. That
@@ -1770,7 +1731,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## surprising as it may seem, whether they were voluntary
 ## enterprises undertaken by devout “parishioners” who viewed
 
-55 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 their civic responsibilities as a sort of “calling.” We assume that
                 a coercive strategy was followed by oppressive elites at the
                 inception of city life because we read our literary accounts of
@@ -1801,7 +1761,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## structures in urban areas of every continent.
 
                 We are confronted, too, with the differences between early and
-56 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## modern conceptions of “citizenship.” How did ancestral
                 “citizens” of the first cities view themselves? In what sense
@@ -1833,7 +1792,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 not a village. From a historical perspective, given time and
 ## place, it was even an immense city if archaeological
                 calculations of its populations are remotely correct. What does
-57 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## this tableau mean? In what sense were its men and women
 ## “urban”? We can surmise that they were not mere “residents”
@@ -1864,8 +1822,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## character.
 
 ## Yet these seemingly uncivic features provided a crucially
-
-58 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## important matrix for what was to grow into the highly
 ## sophisticated classical notion of the “citizen.” If social
@@ -1898,7 +1854,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## bombastically celebrates its formal “freedoms” and tries to
 ## ignore its lack of social concern.
 
-59 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 Surprisingly, citizenship and the political forms that foster it
                 would be difficult to explain without looking precisely at those
                 primal organic institutions—particularly clanlike relationships,
@@ -1930,7 +1885,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## progenitor with some kind of personal embodiment. The Sons
 ## of Aeneas, the Trojan hero who “founded” Rome in the city’s
 
-60 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 urban mythology, are no different in principle than the Children
 ## of Israel and the Biblical Jacob who was the patriarchal
 ## ancestor of the Hebrew tribes. The word “citizen,” in fact,
@@ -1961,7 +1915,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 of tribal assemblages with their remote origins in primitive
                 egalitarian relationships. So, 100, the notions of consensus
                 where it existed, prolonged discourse with its goal of arriving at
-61 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## a commonality of views, and a sense of agreement were
                 pronounced features of such a radical political (lomocracy. By
@@ -1994,7 +1947,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 
                 The city breaks this biological spell, with its ecological aura,
                 however fictive it may be in reality. It exorcises the blood oath
-62 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 from the family with its parochial myths and its chauvinistic
 ## exclusivity, while retaining or reworking its concept of
 ## socialization. Paternity is given a high place in the civic
@@ -2025,7 +1978,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 the mindless tribal obligations and blood oaths that impeded
                 the rights of the stranger but in a form that wore the symbols
                 and enjoyed the prestige of tribal tradition. Indeed, one of the
-63 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## great tasks of ecological thinking will be to develop an
 ## ecological civicism that restores the organic bonds of
@@ -2056,7 +2008,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 —a necessity in modern liberal and socialist theory—that its
                 practice is seen as unavoidable in a highly imperfect world.
                 Modern social ideologies tend to blend politics with the state
-64 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 almost unthinkingly—and often throw society into the brew for
                 good measure. The confusion on this score is massive. Just as
                 there are many people who, by virtue of the all-pervasive role
@@ -2088,7 +2040,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 inherit to meet their personal and spiritual needs. This personal
 ## world can be designated as “social,” however much
 
-65 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 “government” penetrates, regulates, or, in totalitarian states,
                 absorbs its forms. It is a world that has deep roots in what Marx
 ## and later Hannah Arendt were to designate as the “realm of
@@ -2119,7 +2070,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 Hellenic of the Greek social theorists and philosophers. With
                 Aristotle we are still dealing in terms of human association on
                 the level of the city, or to be more precise, the polis, which is
-66 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 commonly mistranslated as the “city-state!”. [3]
 
 ## By the middle of the fifth century B.C., when the Athenian
@@ -2152,8 +2103,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## northern and southern Egypt, long before the Roman empire
 ## had begun its long decline.
 
-67 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## Athens had a “state” in a very limited and piecemeal sense.
 ## Despite its governmental system for dealing with a sizable
 ## slave population, the “state” as we know it in modern times
@@ -2184,7 +2133,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## number who were slaves and disenfranchised resident aliens.
                 Yet the citizens of Athens could hardly be called a “class” in any
                 meaningful sense of the term. Indeed, within this body politic,
-68 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 we encounter economic distinctions that run the entire gamut
 ## of material resources from the wealthy to the impoverished.
 
@@ -2216,7 +2165,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## was the polis, not that ambiguous phenomenon, the state.
                 What is central to modern thought, by contrast, is the state not
                 politics or, strictly speaking, the affairs of administering an
-69 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 entity that could pass for a polis. Hence, although politics and
                 the state intermesh in both cases, they do so in very different
 ## ways and from remarkably different perspectives.
@@ -2247,7 +2196,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 otherwise it will lose “its true nature’’ as well as workability.
 ## Summing up this remarkable body of notions, Aristotle
 
-70 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 concludes “that the best limiting principle for a polis is the
 ## largest expansion of the population with a view to self-
 ## sufficiency that can be taken in at one view.”{7}
@@ -2279,7 +2227,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## shared commonality of purpose among men whose self-
 ## realization is the “good life.”
 
-                The “good life,” in turn, includes a degree of material self71 of 428 3/17/25, 5:09 PM
+                The “good life,” in turn, includes a degree of material self
 Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## sufficiency that goes beyond mere survival. But it does not
@@ -2313,8 +2261,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 community but also to communize. In criticizing Lylcophron the
 ## Sophist, who contends that the polis is a “mere alliance”
 
-72 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## among men to prevent them from inflicting harm on each
 ## other (Hobbes’s later view of the “social contract”) and
 ## promote the exchange of goods to satisfy their individual
@@ -2345,8 +2291,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 By contrast, the household is the sphere of mere survival, the
                 place to which our zoon politiken repairs to satisfy his biological
 ## need for food, clothing, shelter—in sum, the “realm of
-
-73 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## necessity” to cite Marx’s commonly used phrase. It is the
                 domain of the man’s wife, children, kin, and slaves where an
@@ -2380,8 +2324,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## other two domains. “Buie” properly belongs to the family.
 ## Where it does appear in the koinonia, it is simply a brute
 
-74 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## extension of the patriarchal family to the civic world
                 (monarchia) or it takes the form of a despotism ruled by a
 ## tyrant (tyrannos). And Aristotle views monarchies and
@@ -2413,7 +2355,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 aristocratic surrogates such as Solon, Kleisthenes, and Perikles
 ## were to dismember the traditional feudal system of Homeric
                 times, wage a steady war against privilege within the citizen
-75 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## body, and turn the popular assembly from a lifeless, rarely
                 convened mass meeting into a vital on-going forum for making
@@ -2444,8 +2385,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## If politics is taken to be a form of popular activity in
                 administering public life that, strictly speaking, is neither a,
 ## state, conceived as a highly professionalized system of
-
-76 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## governance, nor a “society,” conceived as forms of personal
 ## association for promoting survival and well-being, the
@@ -2479,8 +2418,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 classical theory of republican, government, a theory that was
 ## to deeply affect the thinking of American and French
 
-77 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## constitutionalists in the eighteenth century.
 
                 According to Polybius, the virtues of monarchy were embodied
@@ -2513,8 +2450,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 according to classes based on property and age, the assembly
 ## was highly structured along hierarchical lines. It elected
 
-78 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## Rome’s consuls, praetors, and censors—each successively
                 forming the most important or prestigious magistrates of the
                 republic. The elective functions of the comitia centuriata were
@@ -2545,8 +2480,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 the Homeric warriors or the Spartans of later times, in which
 ## men expressed their opinion by shouting.”{10} If so, the
 ## contio does not bring the Roman assembly form any closer to
-
-79 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## the highly talkative Athenian assembly. Indeed, Greek
 ## observers of Roman procedures found the difference between
@@ -2579,7 +2512,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## of the koinonia into a distinctly separate and usually
 ## professional power at its summit. Republics are beyond the
 
-80 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 immediate reach of popular control; democracies are not even
 ## confronted by the issue of the displacement of power.
 
@@ -2611,8 +2543,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 responsibilities. Accordingly, every aspect of government had
                 to be professionalized, Under the Empire, Rome’s troops were
 ## mercenaries, increasingly of alien birth and culture; its
-
-81 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## bureaucracy became an elaborate apparatus, staffed by
                 numerous ex-slaves who had acquired the skills for political
@@ -2646,7 +2576,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 skills and affairs together with martial arts and the> postures
 ## of command. Polybius advises us that ten years of military
 
-82 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 service are necessary before a man can aspire to a political
                 career—a prerequisite that was mercifully abbreviated in the
                 later years of the Republic. One then went into the service of a
@@ -2679,7 +2608,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## modern sense) are evidence of differences in methods of
 ## manipulation rather than programs. None of the nobles, with
 
-83 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 the exception of the brothers Gracchi, over tried to really shift
                 political power from the patrician elite to the populace. Indeed,
                 Roman politicians were rarely burdened by Nontimentality for
@@ -2711,8 +2639,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## morally certain, and fiercely independent yeomanry. The
 ## landholdings of these yeomen provided the material
 ## competence for a solid independence of mind and a sense of
-
-84 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## community rootedness. Behind the more distinguished names
 ## of early republican Rome, such as Cincinnatus, who left his
@@ -2746,7 +2672,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## Rome failed to turn the governance of the civitas into a
 ## genuinely political community. Men like Cincinnatus were to
 
-85 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 lose not only the landholdings that gave them independence of
                 mind and spirit; they were to lose the social base for public
 ## commitment without developing a politics that could control
@@ -2778,8 +2703,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## lost any monarchic proclivities were to clearly favor a
 ## republican system of governance over a democratic one.
 
-86 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## But democratic notions of a body politic did not disappear.
 ## They were to surface from the depths of a popular
 ## “underground” of deviant Christian sects throughout ‘the
@@ -2810,7 +2733,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 by him in his relationship with his rivals. Machiavelli’s demand
 ## for a total commitment by his chosen sovereign to politics
                 reflects the emergence of a new kind of man, the Renaissance
-87 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 prince: secular, keenly intelligent, skillful, and cunning. He is a
 ## man of reason rather than faith, of judgement rather than
 ## belief, and self-reliance rather than dependency, A new
@@ -2842,7 +2765,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 own citizens. If the man sent turns out to be incompetent, it
 ## must change him; and if capable, keep him by law from going
 
-88 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 beyond the proper limits. And it is seen by experience that only
 ## princes and armed republics make very great progress,
 ## whereas mercenary forces do nothing but harm, and also an
@@ -2875,7 +2797,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 
 ## Ideologically, the hybridization of two very distinct and
 
-89 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 potentially conflicting classical ideas of public governance
                 arises from a serious confusion over what we mean by politics
 ## and statecraft.
@@ -2908,8 +2829,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 
 ## Not that ancient and medieval civic parochialism was an
 
-90 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## unblemished desideratum. Parochialism had a very harmful,
 ## often dehumanizing, effect on urban life generally. The
 ## tendency to set one city against another fostered local
@@ -2941,8 +2860,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 politics based on personal intimacy; a nation, “England,” was
 ## conceived as the legendary victim of invading “barbarous”
 
-91 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## Normans who had crossed the channel from France some five
 ## hundred years earlier and imposed a royal tyranny on a
 ## representative system of Saxon self-governance. The
@@ -2972,8 +2889,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## the Roman Forum where the comitia tributa often held its
 ## sessions. It could be heard quite audibly, whether by
 ## acclamation in Sparta, arguments in Athens, or even in the
-
-92 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## most despotic of Rome’s imperial periods when the hoots and
 ## shouts of commoners at the Coliseum reminded the emperors
@@ -3005,7 +2920,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 politic, nor was it a social entity such as a “family” that united
                 the people into an authentic kin group. Aristotle’s notion of
                 philia or solidarity as a crucial precondition for a political life
-93 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 expressed the unique identity politics possessed as a form of
                 governance, one That transcended mere kinship obligations. If
                 kinsmen were obligated to each other by virtue of blood ties
@@ -3037,7 +2952,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 Out politics as a clearly identifiable area of public activity is the
                 extent to which it is burdened by the institutional weight of the
                 nation-state. Arendt’s distinction between a “political realm”
-94 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 and one that is “social” allows for very little difference between
                 political activity and statecraft. The state has so thoroughly
                 merged with the political—institutionally and functionally—that
@@ -3068,7 +2983,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 urban literature generally neglects the relationship between
 ## the city and the remarkable phenomenon of citizenship it
 
-95 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 produces. Urban historians tend to fixate on largely narrative
                 accounts of the city’s development from village to megalopolis
                 —accounts that are riddled by nostalgia for the past or a brute
@@ -3099,7 +3013,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 the professional politician, the party functionary, or even the
                 urban resident in all the splendor of his or her civic anonymity.
                 It is the citizen—a term that embodies the classical ideals of
-96 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 philia, autonomy, rationality, and, above all, civic commitment,
                 The elusive citizen who surfaced historically in the assemblies
 ## of Greece, in the communes of medieval Europe, in the town
@@ -3130,7 +3044,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 image of the citizen in any politically intelligible sense of the
 ## term. Tribal peoples form social groups—families, clans,
 
-97 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 personal and community alliances, sororal and fraternal clubs,
 ## vocational and totemic societies, and the like; They may
 ## assemble regularly to examine and decide communal affairs—
@@ -3161,7 +3074,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 to a sense of futurity, kinship ties to civic ties, mythopoeia to
                 ethics. In waxing enthusiastically over the popular assemblies
                 that existed very early in Mesopotamian cities, Henri Frankfort
-98 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## declared that the assembly form “is a man-made institution
                 overriding the natural and primordial division of society into
@@ -3193,7 +3105,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## immigrants and alien residents.
 
                 The Greek citizen ideal, however, differed very profoundly from
-99 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## the modern. It was not simply some specious myth of shared
                 heredity that united citizens of the polis with each other but a
@@ -3224,7 +3135,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 concerned with administering the affairs of the polis but also
                 with educating the citizen as a public boing who developed the
                 competence to act in the public interest. paideia, in effect, was
-100 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 a form of civic schooling as well as personal training. It rooted
                 civic commitment in independence of mind, philia, and a deep
 ## sense of individual responsibility.
@@ -3256,7 +3167,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## models of behavior; gymnasia in which to train and control
                 their bodies or learn martial arts; courts to shape their faculties
                 for judgment; and, in time, the ekklesia in which to formulate
-101 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 crucial policies through discourse and debate. But every polis,
                 be it a garrison-state such as Sparta or a democracy such as
                 Athens, provided a variety of public spaces in which citizens
@@ -3287,8 +3198,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## strangely costumed visiting foreigners who gawked at the
 ## looming acropolis above and the superbly adorned public
 ## buildings nearby.
-
-102 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## During inclement weather, this colorful and eminently vocal
                 crowd could take refuge in the colonnaded arcades or stoa that
@@ -3321,8 +3230,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 Otherwise turned into oligarchic institutions with a democratic
 ## veneer.
 
-103 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## Citizenship, in effect, involved an on-going process of
                 educational, ethical, and political gestation for which such
 ## words as “constituent” and “voter” are modern parodies of a
@@ -3353,7 +3260,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## the peril of its freedom.
 
                 The first phase of this journey into a political world begins with
-104 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 the way the Athenians managed to shed the narrow features of
                 the kinship bond based on blood ties, religion, and familial
                 loyalties, while simultaneously developing an almost ecological
@@ -3385,7 +3292,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 terms of a remarkable constellation of factors from which the
 ## modern world can learn much.
 
-105 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 What aristocratic Greece and democratic Greece were to share
 ## as a common legacy is a vigorous ideal of independence—an
                 ideal oven stronger than its widely touted ideal of justice. To
@@ -3416,7 +3322,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## system of organized trade. However, the archaic mentality
 ## endured, and this explains not only the scorn felt for the
                 artisan, labouring in his smithy, or beneath the scorching sun
-106 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 on building sites, but also the scarcely veiled disdain felt for
                 merchants or for rich entrepreneurs who live off the labor of
 ## their slaves.”{17}
@@ -3448,7 +3354,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## Independence without the substance of material self-
 ## sufficiency and personal autonomy would have been formal at
 
-107 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 best and hollow at worst to the Greek mind. No client, however
 ## well-off, could render a judgement or reason freely without
                 deferring to exogenous authorities and interests on whom his
@@ -3478,8 +3383,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## race. They never themselves realized, even their greatest
 ## writers did not realize, how unique and remarkable their
 ## political institutions were.”{18}
-
-108 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## Colorful and truthful as these lines may be, Zimmern
                 understates the extent to which Greek thinkers were conscious
@@ -3512,7 +3415,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 subordinate him and assert their authority over his destiny. A
 ## magnificent amateur, he embodied the nascent citizenship in
 
-109 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 which all his peers acknowledged the need for a self-possessed
                 individual who could be entrusted as much with the affairs of
                 his community as with the satisfaction of his private needs.
@@ -3543,7 +3445,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## The old Greek aristocracy was no mere anachronism in this
 ## process. The Athenian democracy did not shed it; rather, it
                 tried, with qualified success, to absorb it. Its epic culture,
-110 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 gospel of valor, high sense of philia, and code of honor, marked
                 by a disdain for material thin gs, were incorporated into the
 ## puritanical virtues of
@@ -3575,7 +3477,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 exceptional distinction who could be as heroically selfless in
                 political causes as their ancestors were heroically valorous in
                 military ones. As Werner Jaeger was to point out, Athens did
-111 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 not destroy its aristocracy but rather tried to turn its entire
 ## citizen body into one.
 
@@ -3608,8 +3510,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## opened irreparable wounds in the Roman body politic. It
 ## remains to the credit of the Athenians that the crisis was
 
-112 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## handled very gingerly. The moderation that Hellenic society
                 turned into a deeply personal as well as civic ethos was to find
                 its embodiment in Solon, a noble of considerable prestige who
@@ -3641,7 +3541,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## Solon never pretended that he desired the political and
 ## economic supremacy of demos, nor did he try to divest the
                 nobility of power. As his verses indicated, he shrewdly steered
-113 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 a middle course through a crisis that would have exploded in
                 social chaos had any of the contending orders gained absolute
                 supremacy over the others:
@@ -3673,7 +3573,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 spared the need to collect dowries. Individuals could will their
                 property as they ‘chose, not according to familial dictates—a
                 law that struck an important blow at the collective solidity of
-114 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 the aristocratic genos and its concentration of sizable wealth. A
                 number of lesser laws restricted displays of excessive luxury
 ## and riches. But perhaps the most strikingly Hellenic law
@@ -3704,7 +3604,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 followed Solon s departure, greatly reduced the power of the
                 Attic nobility and initiated the economic and political changes
                 that were to lead to the democracy. Recalcitrant nobles were
-115 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 forced into exile and their estates divided among the poor. The
 ## needy were given livestock and seed, exports were promoted,
                 and a vigorous foreign policy opened new markets to Athenian
@@ -3736,7 +3636,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 Kleisthenes struck decisively at the societal basis of aristocratic
 ## power—the traditional kinship network that gave the Attic
 
-116 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 nobility its very sense of identity. The ancient Greek phratries
 ## and clans were simply divested of any political power and
                 gradually declined in importance for want of any significant
@@ -3766,8 +3665,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 retaining a number of local religious associations, chieftainlike
                 figures such as demarchs (the deme’s version of the Athenian
 ## archons), and by making membership in a dome hereditary
-
-117 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## even though a citizen might choose to reside at some later
 ## time in another part of Attica. Kleisthenes, in effect,
@@ -3801,8 +3698,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 
 ## This extraordinary opening of public life to the Athenian
 
-118 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## citizenry was completed during the sixty years that saw
                 Kleisthenes assume the archonship in: 492 B.C. and the
                 outbreak of the Peloponnesian War in 431. An analytic account
@@ -3833,7 +3728,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 citizen had little hope of any certain immortality other than the
                 memory he left behind in the polis. Afterlife became a form of
                 political life and eternahty existed only insofar as noble political
-119 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## actions were memorable enough to become part of the polis’s
 ## history and destiny.
@@ -3866,7 +3760,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## prayers, and its agenda was composed of sacred as well as
                 secular topics. Problems of constructing temples or planning
                 festivals occupied the assembly as earnestly as matters such
-120 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 as ostracism or the ratification of treaties. In famous funeral
                 oration, which so vividly captures the spirit of the democracy,
                 Perikles cites among its attributes “the contests and sacrifices
@@ -3898,7 +3792,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## participated in the Lesser Panathenaia, which culminated
 ## quadrennially in the Greater Panathenaia, an extraordinary
 
-121 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 parade of Athenians and Athenian life in full array, if we are to
                 judge from the bas relief that girdles the Parthenon. Almost
                 every month, Athenians witnessed or participated in a variety
@@ -3929,7 +3822,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## gave the democracy its ideological meaning. By the
                 thousands, Athenians flocked to the Theater of Dionysos on the
                 southeast slope of the Acropolis to see the plays of Aeskylos,
-122 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 Sophokles, Euripides, and others who literally created serious
 ## drama in western culture. Under the clear skies of a high
 ## Mediterranean spring, they watched with absorption the
@@ -3961,8 +3854,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 
 ## It is my task to render final judgement here.
 ## This is a ballot for Orestes I shall cast.
-
-123 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## There is no mother anywhere who gave me birth,
 ## and, but for marriage, I am always for the male
@@ -3996,7 +3887,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## circumstances or motive that produced it. To the Athenians,
 ## this behavior was evidence of unreasoning tribalism, of an
 
-124 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 irrationality that precluded any civic union based on discourse,
                 logic, and orderly compromise. Recourse to trial rather than
                 ordeal, to the weighing of circumstantial evidence, motive, and
@@ -4028,7 +3918,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## {26} To the Athenians, who apparently revered Aeskylos, the
                 Oresteia unfolds the emergence of justice from a hazy “dark”
                 world of tribal antiquity and its fortunes in the arbitrary domain
-125 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 of warriors, nobles, and the genoi, into the clear light of the
                 polis and its orderly citizenry. The identification of the audience
                 with the drama must have been intensely personal; it was the
@@ -4059,7 +3949,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 the rise of the polis. For we are still in the time of the royal oikos
                 or household. In writing the drama, Sophokles may have tried
                 to show that after the decline of this prepolitical world of blood
-126 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 clans and regal palaces the Athenian citizen no longer had to
                 confront the pangs of tragedy in Hegel’s sense of the term—a
                 drama in which both sides are right. The polis spares us the
@@ -4091,7 +3981,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## insight and wisdom when he acquires the status of a free
 ## citizen.
 
-127 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 Yet, the Greek ideal of the citizen, in contrast to ours, is not
 ## monadic. However individuated the Greek drama became with
 ## Sophokles and even more decidedly so with Euripides, the
@@ -4123,8 +4012,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## arrogance that bears comparison only with the conceited
 ## claims of psychoanalysis and psychohistory to explain the
 
-128 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## human drama in all its aspects. That human beings can be
 ## individuated in different ways—some as highly social and
                 political beings, others as private and self-indulgent beings, still
@@ -4154,7 +4041,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 
                 But such notions, valuable as they may be, lack a processual
                 content that sees this whole from the standpoint of an everfuller development. We can see this by looking closely at the
-129 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## quixotic nature of the Greek dramatic tragedy itself—the
                 staged experience of the polis and citizen. For it was through
@@ -4186,7 +4072,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 that are likely to yield ever-wider ethical and political horizons.
                 One senses that a community guided by justice has just begun
                 to emerge, that the civic ideal of freedom is still nascent, that
-130 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 citizenship and the polis are still experiencing birth pangs and
                 their future still lies before them. Few Athenians, I suspect,
                 could have left such dramas without feeling an intense sense
@@ -4218,7 +4104,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## drama with its promise of futurity and hope.
 
                 The polis was no less a theater for the practice of virtue than
-131 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 the orchestra at the foot of the Acropolis was a home for the
 ## performance of the plays it watched. And the citizen was no
 ## less an actor in a great civic drama than the men who
@@ -4250,8 +4136,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## democracy. The Aeskylean tragedies and Perikles’s funeral
 ## oration, to cite two highly important and widely separated
 
-132 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## examples, completely refute the image of the democracy as a
 ## phenomenon based on mere habit and convention. One must
                 totally ignore Kleisthenes’s reforms and the subtle melding of
@@ -4281,7 +4165,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## As we shall see shortly, there were impressive attempts to
 ## create patterns of civic freedom that approximated the
                 democratic polis in medieval city-states and in the American
-133 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 and French revolutions. These attempts were usually intuitive.
 ## The Americans who attended town meetings in New England
                 after 1760 and the French sans-culottes who filled the radical
@@ -4313,7 +4197,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## broad concept of grass-roots organization that passes under
 ## words such as “localism,” “decentralism,” and
 
-134 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 “bioregionalism”? Is it an educational activity—a civic paideia
                 —that fosters the citizen’s empowerment, both spiritually as
 ## well as institutionally? Or is it primarily a form of
@@ -4345,7 +4228,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## reason innovatively.
 
                 Accordingly, where thinking of a crude kind does exist, lines of
-135 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 thought fecklessly crisscross each other like the scrawlings of
 ## an infant that can barely grasp a pencil. Oligarchies are
 ## accepted as democracies; virtual monarchies as republics;
@@ -4375,7 +4258,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 completely. And here lies a lesson that later institutionally
                 oriented democrats were to learn at great cost. An agora does
                 not in itself produce a polis, nor does an ekklesia in itself
-136 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## produce citizens. All of them must exist, to be sure, if a
 ## democracy is to be established; but they remain mere
@@ -4407,7 +4289,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 Rostovtzeff’s aristocratic biases, he is on solid ground when he
 ## emphasizes that “to allow land even to every member of the
                 proletariat could never bring back a time when the state rested
-137 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## NOCurely upon a strong peasant population.”{29} The culture
 ## that produced men such as Cincinnatus or the elder Cato was
@@ -4440,7 +4321,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## “representative,” as though they derive from a common
 ## heritage. During inspired moments, medieval and modern
 
-138 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 cities were to fluctuate between the two and, at times, come
                 closer to a Hellenic democracy and citizenry than the Gracchi
 ## could have achieved in Rome. What these cities achieved in
@@ -4471,7 +4351,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## economy placed a high.premium on the stability of urban
                 institutions. The Hellenic emphasis on the polis as a realm of
                 reason that had to vigilantly guard itself against a surrounding
-139 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## world of chaotic uncertainty and mindless barbarism—a
                 sensibility so important to understanding its attitude toward
@@ -4504,7 +4383,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 parasitism run riot to the point of moral, cultural, and societal
 ## suicide.
 
-140 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 Hence, ancient cities were located within a hundred miles or so
                 of the Mediterranean Sea or close to navigable rivers that led
 ## to major bodies-of water. Ancient Lugdunum (modern Lyons)
@@ -4536,7 +4414,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## America and Mexico are grim reminders that cities can die
 ## forever without successors to overlay them, indeed that
 
-141 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 historically they have been terribly Vulnerable to social and
                 ecological changes. Nor do we like to think that, cities have any
                 significant roots in agrarian societies, Indeed that they did not
@@ -4567,7 +4444,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 the polis as immortal was woven into the heroic image of the
                 democratic citizen and the ideal that noble actions would yield
                 a lasting fame that would survive his own mortality. The words
-142 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## “eternal Rome” are proverbial. Even before the rise of
                 Christianity, they entered deeply into the consciousness of the
@@ -4600,8 +4476,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 characteristic of Mediterranean fare, for no doubt existed in his
 ## mind that, all its cultural amenities aside, the city was
 
-143 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## materially dependent upon the immediate countryside and the
 ## farmers who trundled its produce into his squares.
 
@@ -4632,7 +4506,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 also its own urban centers. Attica’s “party of the Plain,” as
                 historians call it, enviously regarded the Athenian town-dweller
                 as a parasite and periodically aligned itself against him, hence
-144 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 Kleisthenes’ shrewd admixture of urban with rural trittyes to
                 neutralize these conflicts. In Roman times a rural police was
                 created by the city, particularly In the Near East, to maintain
@@ -4664,7 +4538,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 Roman civilization seemed to produce in the way of order and
 ## uniformity of laws, it more than destroyed in the way of
 
-145 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 creativity and political commitment. By the latter part of the
                 fifth century A.D., the Mediterranean basin had ceased to be
                 either orderly or innovative. In balance, the cost of imperial and
@@ -4697,7 +4570,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## was to be the city that imposed its technics, economic
 ## relationships, culture, and values on agrarian communities.
 
-146 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 Traditional agrarian attitudes did not place a high premium on
                 artisans, merchants, and financiers; these were not orders that
 ## were respected in ancient society. A Greek or Roman
@@ -4730,8 +4602,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 could properly support a modest urban population. As sources
 ## of tribute began to break away from the empire and its
 
-147 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## provinces were assailed by repeated invasions of semitribal
 ## German, Slav, and Magyar peoples, the fragile ancient city
                 dwindled to little more than a village scale, at least in western
@@ -4761,8 +4631,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## grade. But privilege depended upon obligatory service. This
                 perception of an inmixture of liberty and servitude pervaded
 ## late Roman and much of medieval social thought.”{33}
-
-148 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## The veering of the former Roman provinces toward a highly
                 localist society, one in which each component was internally
@@ -4795,8 +4663,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 in fact, that was quite rare in the ancient city. To begin with,
 ## they were not simply religious or administrative centers as
 
-149 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## were so many of their classical predecessors, although such
 ## centers were fairly common in medieval Europe. What is
 ## significant about them is that they were largely structured
@@ -4828,8 +4694,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## This new kind of city appeared not only because of the
 ## extraordinary energy Europe brought to a world drained by
 
-150 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## imperial tribute; it also emerged because of the inherent
 ## weakness that marked a highly decentralized and parochial
 ## system of agriculture. Whatever may be the image Roman
@@ -4860,7 +4724,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 introverted to challenge the new “civilization” nurtured by the
 ## towns. The famous medieval maxim, “Urban air makes for
                 freedom/’ could be, said to include freedom of thought and an
-151 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 openness to innovation as well as personal and political liberty.
                 Like a calculating observer who can patiently stand by while his
 ## opponents exhaust themselves in mutual combat, the
@@ -4892,7 +4756,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 matched for that period by other European regions.{34} And if
 ## we rise above the national chauvinism that afflicted
 
-152 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 medievalists of the recent past, it would be hard to disagree
 ## with Mundy that the “distinction between the northern
                 European and Italian town” drawn by Belgium’s great historian,
@@ -4924,7 +4787,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 The origins of these city-states need not concern us. After at
 ## least a millennium of urban development, from the legendary
 
-153 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 founding of Rome in 753 B.C. to the last of the emperors in 476
                 A.D., probably no area in ancient Europe was more citified than
                 Italy and few municipalities exhibited more staying power than
@@ -4957,7 +4819,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 Renaissance that will concern us here, except insofar as the
 ## Dominican Fra Savonarola represented a popular reaction to
 
-154 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 the aristocratic and simoniacal world that fostered it, and it is
 ## not the communa as a “city republic,” words so easily
                 interchangeable with “city-state” that will be our main focus of
@@ -4987,7 +4848,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 fealty not to a local noble, cleric, military chieftain, or distant
                 monarch. Despite its strongly religious terms, it was an act of
                 citizenship, unique in an age of religious congregations, that
-155 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## pledged members of the commune to respect each others’
 ## civic rights and extend them untampered to newcomers and
@@ -5020,7 +4880,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 We know, too, that this general assembly of “all the members
 ## of the commune” was the “oldest communal institution” of
 
-156 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 these Italian cities, and further, that the, consuls usually
 ## “sounded out the general assembly” before they made any
 ## major decisions about such issues as war and peace, taxes,
@@ -5051,8 +4910,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 from within or outside the city. The assembly, in turn, never
                 totally disappeared. It lingered on in a highly atrophied form
 ## and haunted the oligarchs and despots who usurped its
-
-157 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## powers. We know that in Bergamo, for example, as elsewhere,
                 outgoing consuls were obliged to hold elections for new ones in
@@ -5086,7 +4943,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## We must not suppose, however, that Italy became a
 ## centralized State at this time, even on a municipal base.
 
-158 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 Whether as a democracy or a republic, the Italian city rested to
                 an astonishing extent on little neighborhood “communes” that
                 existed within the larger urban commune. We have no parallel
@@ -5117,7 +4973,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## until they were supplanted by despotic signori, family
 ## dynasties ruled by one man who replaced a multitude of
                 oligarchies, often to be unseated again and his sons restored in
-159 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 reckless shifts of aristocratic and military power. Italian civic
                 history is not notable for any even or linear development from
 ## democracy through republican systems to oligarchy,
@@ -5149,7 +5005,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## fully lost until recent times. Conciliar governance did not
 ## abolish major democratic features of the city such as the
 
-160 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 selection of consuls by sortition at Lucca, for example, where
 ## the neighborhoods or contrada convened in their own
 ## assemblies and “lots were drawn,” notes Daniel Waley,
@@ -5180,7 +5035,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 influence of particularly powerful groups. Nor could he come
 ## from a neighboring commune, which obviously was privy to
 
-161 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 the city’s infighting. He was selected for his impartiality, for his
                 legal training, and ordinarily held his office for no more than a
                 year, often as little as six months. The consulate, like the
@@ -5211,7 +5065,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 inception. Many of these elements could be expected to follow
                 any standard that filled their empty pockets. In a feudal world
                 where a feeling of social place was crucial to one’s sense of
-162 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 self-regard, they were outside the pale of the commune’s life
 ## and its broader political concerns.
 
@@ -5241,8 +5095,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## 1250—and to acquire a growing voice in the governance of
 ## Piacenza, Lodi, Bergamo, Siena, Parma, and Qenoa. “The
 ## popolo’s breakthrough into politics was the result of
-
-163 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## revolutionary organization,” declares Martines with a
 ## decisiveness that is not easy to encounter among many
@@ -5275,7 +5127,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 These vocational groups, composed almost exclusively of wellto-do tradesmen and master craftsmen in their fields, were the
 ## earliest popular organizations of which we have any record,
 
-164 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 and they tried not only to control the operations of their crafts
 ## and its produce but also constituted themselves into armed
 ## societies with the very distinct goal of controlling the
@@ -5306,7 +5157,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## societies were consolidated across adjacent urban parishes
                 into what looked very much like a citywide militia. The popolo,
                 to be sure, had not created the idea of a neighborhood militia
-165 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 out of thin air; such companies of men living in the same parts
 ## of the city had been the backbone of the communal military
 ## system for years. What the popolo did, however, was to
@@ -5337,8 +5188,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## the commander of the twenty companies. Being an outsider,
 ## he was expected to stand above the temptations of local
 ## partisanship. His oath of office obliged him to call the
-
-166 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## companies to action whenever there was a threat to the
 ## popolo.... The popolo had no trouble finding only the most
@@ -5372,8 +5221,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## however, it was not a democracy of blooded idlers and
 ## aristocratic bullies. The popular democracy was composed of
 
-167 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## men who worked with their hands at crafts or devoted long
                 hours of the day to the chores of administration, business, and
                 legal affairs. Whether they were wealthy entrepreneurs or men
@@ -5404,7 +5251,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 education, the huge increase in popular literacy, or a political
 ## tradition that trounced any attempt at institutionalized
                 despotism. For all his aristocratic inclinations, Dante was a
-168 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 popolani, no less than the chronicler Giovanni Villani whose
                 history of Florence is one of the best to be written of his era.
 ## The popular commune created new men who breathed a
@@ -5434,7 +5281,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 of social orders and economic classes. Quite to the contrary, it
                 gave a new impetus to trade, the accumulation of wealth, and
                 increasing economic and political differentiation, setting the
-169 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## popolo grosso or “fat people” against the popolo magro or
 ## “thin people.” In time, the commune developed a siege
@@ -5467,7 +5313,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## battleground for an apocalyptic battle between Christ and
 ## Satan. If Rienzi was too early for the fourteenth century,
 
-170 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 Savonarola was too late for the fifteenth. Both men challenged
 ## entrenched attitudes that stood as insuperable obstacles to
                 their projects: Rienzi, a predominantly feudal sensibility;
@@ -5497,7 +5342,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 at one time or another in almost every town of Europe, often
 ## preceded by consulates and followed by oligarchies with a
                 wide variety of names. Elective systems of governance, which
-171 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 Roman traditions inspired in Italy, were reinforced north of the
                 Alps by German tribal traditions. Not until well into the High
                 Middle Ages did hereditary kingships come into fashion; until
@@ -5528,7 +5373,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 there were also exceptions. At Nimes, the constitution provided
                 for the election of five consuls from the “whole people of the
                 city or its larger part,” typically indirectly, such as existed in the
-172 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 Italian city-states. Arles locked its carefully controlled general
                 assemblies into an oligarchy by placing virtually all changes of
                 law and imposition of taxes in the hands of its consuls and their
@@ -5560,7 +5405,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 the hatred of the Flemish people toward France. As a result,
 ## lowly artisans and their lordly masters fought side-by-side
 
-173 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 when they were not fighting face-to-face. Ultimately, the “thin”
 ## people, organized into “lesser gilds” triumphed over their
 ## patriciates, and established a civic structure that gave
@@ -5592,7 +5436,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## the country.”{45}
 
                 Emerton’s closing remarks on the struggle of Flemish towns for
-174 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## civic freedom and autonomy might well seem like a touching
                 epitaph for the commune as the nation-state began to emerge.
@@ -5624,7 +5467,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 judgement modern liberal historians have of what constitutes
                 the health arid pathology of a body politic. But it is fair to ask,
                 as I have throughout this book, whether any kind of politics,
-175 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 much less one that can be “embodied” in an active citizenry, is
                 possible under a tyranny or, for that matter, a “representative
                 democracy” (republic). Waley seems to surrender the need for
@@ -5655,7 +5498,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 Actually, the history of civic freedom does not end with the
                 fourteenth century or the rise of the nation-state. The ideal of
                 popular assemblies as a form of self-governance, and the city
-176 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 as the nuclear arena for politics and an active citizenry, seems
                 to have enjoyed a remarkable degree of persistence, especially
 ## if we bear in mind that there were so many factors—statist,
@@ -5687,7 +5530,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## seems to have been shunted away from “mainstream”
 ## accounts of civic freedom. To assign a few paragraphs to a
 
-177 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 living illustration of confederalism, participatory democracy,
                 and active citizenship, despite the philistine smugness of Swiss
 ## life and the conservatism of Swiss politics, would be doing
@@ -5719,7 +5561,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## and direct democracy in modern times is the rise and brief
 ## ascendancy of the sectional assemblies in the Great French
 
-178 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 Revolution, a movement that addresses the typical question of
                 whether or not a face-to-face democracy is possible in a large
                 city, indeed by the standards of two centuries ago a world city.
@@ -5752,7 +5593,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## the power plays between the Third Estate and the monarchy,
 ## really began from below and, most typically, as a result of
 
-179 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 Parisian militancy. Despite the highly discriminatory franchise
                 that the Xing imposed on his own capital—nearly a quarter of
                 the city’s population was disenfranchised in contrast to a sixth
@@ -5783,7 +5623,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 of the disenfranchised people, the sans culottes, increasingly
 ## awkward. By this time, the “districts” had been renamed
                 “sections” and their number reduced from sixty to forty-eight
-180 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## by the National Assembly in order to diminish their power.
                 Despite such attempts to suppress the “districts” and later the
@@ -5815,7 +5654,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## Jacobins to power.
 
                 Although the details of how these local assemblies functioned
-181 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 leaves much to be desired, partly because the minutes of the
                 sections were lost in the flames of the Paris Commune of 1871,
 ## partly, too, because their history has yet to be written by
@@ -5847,7 +5686,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## important function, that of police, was entrusted to a
 ## commissaire de police, aided by sixteen commissaires de
 
-182 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 section. To meet the needs of local administration the sections
 ## formed almost as many committees as a modern American
 ## town or city. There were comites civile and comites
@@ -5878,7 +5716,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 
 ## The more radical sections of Paris were not unmindful that
                 these concentric rings of authority surrounding the commune’s
-183 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 Bureau were meant to camouflage an inner circle of executives
                 who were as disquieted by the irascibility of the sections as the
                 Convention was of the Commune, a body that it really saw as a
@@ -5909,7 +5747,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 ‘aristocracy.’ In this way the sections were regenerated in the
                 bourgeois quarters dominated by the moderates before the fall
                 of the Girondins, and by the ‘new moderates’ after the month
-184 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## of September 1793.”{49}
 
@@ -5942,7 +5779,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## by wealthy emigres and used them to provide jobs for the
 ## unemployed who made uniforms, weapons, and gunpowder
 
-185 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 fpr the embattled revolutionary armies at the front. Not unlike
                 the Athenian festivals of an earlier age that did so much to
                 cement the polis together, the sections not only called periodic
@@ -5973,7 +5809,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 civiles, revolutionary commissions, police commissioners, or
 ## commissioners for supplies were subjected to constant
                 surveillance by the sections, at least as long as the latter
-186 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## maintained their independence from the revolutionary
 ## government. Censure, ‘purifying’ votes, and revocability of
@@ -6006,8 +5841,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 practical steps toward implementing the idea of a federation of
 ## communes by establishing a corresponding committee to
 
-187 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## communicate with the 44,000 municipalities of France. In a
 ## printed circular to the municipalities, the committee’s
                 secretary boldly declared: “That is the only kind of federalism
@@ -6038,7 +5871,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 reworked stagnant archaic systems of corporate life based on
                 status and kinship into the innovative, free realm of politics and
                 citizenship, was to produce the very factors that led to its own
-188 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 undoing. European cities, I have pointed out, were different
 ## from their ancient counterparts because of their inherent
                 autonomy as civic entities. The increasing separation of the
@@ -6069,7 +5902,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 ultimately to raise the very real problem of its subversion as a
 ## realm of genuine politics and meaningful citizenship? Gur
                 answers to these questions, so crucial to an understanding of
-189 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 modern urbanization arid the threat it poses to the city, oblige
 ## us to examine the new kind of economy and values that
 ## became preponderant in the communes of the late Middle
@@ -6101,7 +5934,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## economy some 500 years ago than the Italian peninsula, and
 ## yet Italy was to lag behind western Europe’s trend toward
 
-190 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 nation-state building for centuries. Nor can we understand why
 ## it was only in England that a market economy virtually
                 absorbed all other economic forms of life such that the British
@@ -6133,7 +5965,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 
                 Yet new as this development was, I do not wish to overstate it.
                 Our own society, a society that celebrates the ascendancy of
-191 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## “free trade” and a competitive capitalist economy, is
                 ideologically imperialistic: it tends to cast the past too much in
@@ -6165,7 +5996,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## greatly complicating their relationships with the emerging
 ## monarchies.
 
-192 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 For the present, it is important to emphasize that the wealthy
                 merchants of the late Middle Ages differed from their ancient
 ## counterparts in the way in which they were committed to
@@ -6196,7 +6026,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 forested, semitribal communal world. Both of these worlds, the
 ## manorial and the tribal, in antiquity constituted a very
                 precarious, indeed hazardous, terrain for the merchant, for his
-193 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## caravans on the land and his ships in remote waterways.
 
@@ -6229,7 +6058,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 depots, warehouses, and affiliates began to interlink Italian
 ## city-states with numerous medieval European towns, and the
                 movement of goods was gradually secured by treaties, tribute,
-194 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## and hired mercenaries from the predations of robber barons
 ## and bandits. The Venetian navy virtually swept the city’s
@@ -6262,7 +6090,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 onward. A considerable portion of the revenue acquired by the
 ## French Bourbon kings, for example, came from the sale of
 
-195 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 titles, a sale that united the higher orders of society by a
                 shared sense of titular nobility—even as it divided them by a
                 sense of shared disdain between the purchased “nobility of the
@@ -6295,7 +6122,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 terrain that were now structured not only around religious and
 ## governmental institutions but, significantly, around the
 
-196 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 markets qf craftsmen and artisans. These artisan towns, to be
 ## sure, were crude and unpolished; they were more villagelike
 ## than urban. The work and the markets that emerged from this
@@ -6327,7 +6153,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## turn, are primarily economic organizations and’ assume few
 ## cultural, much less religious; undertakings.
 
-197 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 The medieval gild, by contrast, assumed the responsibilities of
 ## the ancient collegium, the modern labor union, and a great
                 deal more. Possibly religious in origin, it became highly secular
@@ -6358,8 +6183,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 and elaboration took place organically, not artificially, within a
                 highly decentralized agrarian society. In contrast to the Roman-
 ## controlled town, the European town was a unique
-
-198 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## phenomenon insofar as local autonomy became the rule rather
                 than the exception. Control from below thrived at the expense
@@ -6392,7 +6215,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 been definitively foreclosed by urban issues that are emerging
 ## today.
 
-199 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 For the present, we shall confine our account of the nationstate to the way it was achieved, with the clear reservation that
 ## other alternatives continually existed, indeed dramatic
                 alternatives that we will explore later. Initially, the intercity
@@ -6424,7 +6246,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## Although pan-Hellenism was very much in the air among the
 ## Greek polei shortly before Alexander brought the western
 
-200 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 world and the Near Eastern together institutionally, it quickly
                 drifted into a cosmopolitan Hellenistic ecumene that adopted
                 Greek for its lingua franca and Greek culture for its spiritual
@@ -6455,7 +6276,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 definition, rather than by citizens. The emperors, in turn, were
 ## the “fathers” of their people, not simply their sovereigns,
 
-201 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 European nations, by contrast, were pieced together by sterner
                 stuff. However muph monarchical nation building, so redolent
 ## of ancient statecraft, went hand in hand with the market’s
@@ -6486,7 +6306,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## society. Indeed, once sources, of tribute disappeared, the
 ## resources for maintaining the Roman imperial state
 
-202 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 disappeared as well and the West devolved into decentralized
                 feudal society. Europe fell back on its own resources and its
 ## own authentic forms of social and economic organization.
@@ -6517,7 +6336,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 commitment to their civic rights, the more conflicted patrician
 ## stratum—feudal in outlook but decidedly bourgeois in its
                 commercial practices—oscillated in its loyalties between the
-203 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## more popular elements in the city and the elite elements,
                 noble and kingly, to which it felt a groveling loyalty that marks
@@ -6550,7 +6368,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## notions of unregulated business practices were to be found
                 among these less privileged groups. Despite their quasifeudal
                 notions, however, they resolutely opposed territorial lords who
-204 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 sought to challenge the liberties of their towns, ironically in
 ## contrast to the wealthy merchant strata in their own
 ## communities who feared both camps in this conflict and
@@ -6582,7 +6400,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## reexamine the conventional wisdom about the rise of the
 ## modern state and the formation of the nation.
 
-205 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 That the state preceded the nation historically hardly requires
                 emphasis here. The previous pages of this work have operated
                 with this fact throughout. The professional institutionalization
@@ -6613,7 +6430,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 
                 What is no less disturbing, there has been a gross disregard of
                 democratic rights generally among self-styled “progressives”
-206 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## whose concerns for material justice have supplanted their
                 concerns for social justice. The primacy given to economics, an
@@ -6645,7 +6461,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## much less to a free community. Hence the development of the
 ## state and the emergence of the nation are not matters of
                 academic interest. Their history is deeply entangled with the
-207 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 prevalent societal values of our time and profoundly affects our
                 visions of society’s future, especially in a discussion of the
 ## municipality.
@@ -6678,7 +6494,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 meaning, despite the presence of slavery. Even in the modern
 ## nation-states we know best, municipalities are often less
 
-208 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 “statified” than nations, with the exception, to be sure, of the
                 patently totalitarian states that have emerged in our own time.
 ## In practical terms, a modern municipal politics can be very
@@ -6710,7 +6525,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 to emerge organically, that is to say, within the framework of
                 social relationships and, later, political norms that were by no
                 means consistent with and were, at times, highly antithetical to
-209 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 the formation of a state apparatus. Hence, it is fair to say that
                 just as the constituted or constitutional state preceded the
                 formation of the nation, so an organic state, uncertain of its
@@ -6742,7 +6557,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 
                 Despite the increasing secularization of the state, notably m
                 Greece and Borne, the state never completely lost its religious
-210 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 trappings and its function as the custodian of the collectivistic
 ## community. This attribute, whether as an ensemble of feudal
                 nobles or a monarchy and ultimately as an absolutist empire,
@@ -6774,7 +6589,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## European nation-state appears not as the emergence of a
 ## national economy, significant as this development proved to
 
-211 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 be, but as the increasing sovereignty of the kingly household
                 itself—the monarchical oikos—and the image of the “nation” as
 ## a kingly patrimony.
@@ -6805,8 +6619,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 and a professional royal judiciary to translate this system into
                 practice—many of these jurisdictions were to be reclaimed by
 ## the barons. Nominally centralized, England remained
-
-212 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## remarkably decentralized under the weaker monarchs who
                 filled the long span between Henry II and Henry VII, a period of
@@ -6840,7 +6652,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 interests of a specific “ruling class.” Class theories of the
 ## “origins of the state” to the contrary notwithstanding, the
 
-213 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 English state of the Middle Ages began as the elaboration of a
                 patrimony rather than the institutionalization of one “class’s”
                 authority over that of another. The English barons, who were to
@@ -6873,8 +6684,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 Why did the English state become such a useful framework for
 ## the modern nation and for modern capitalism? An answer to
 
-214 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## this question lies precisely in the limits as well as the
                 rationalistic and centralistic forms it assumed, both territorially
                 and institutionally. Despite its exhausting adventures in France,
@@ -6905,7 +6714,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 ideal “bourgeois” political system. Indeed, it was England’s
                 “constitutional monarchy” that was to have an almost hypnotic
                 attraction for the progressive intelligentsia of the French and
-215 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## German enlightenments.
 
@@ -6938,7 +6746,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 
                 By the end of the twelfth century, France had already begun to
                 catch up with England by creating les officiers du roi (officials of
-216 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## the king) who shared power with the French barons in the
 ## traditional royal council. By degrees, the French began to
@@ -6971,8 +6778,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 contrast to so much of feudal Europe, the sons of the French
 ## middle classes began to regard the royal bureaucracy rather
 
-217 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## than the clerical hierarchy as the avenue toward upward
                 mobility and power, a shift in perspective that linked the French
 ## “bourgeoisie,” whatever that word meant some two centuries
@@ -7004,7 +6809,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 forms, in fact, were to appear very early in human history. The
                 Ptolemaic state that followed Alexander’s conquest of Egypt in
                 ancient times did not differ in fundamentals from the structure
-218 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 that Frederick imposed’on Sicily some fifteen centuries later.
                 Characteristically, both Alexander’s general, Ptolemy, and the
 ## Norman monarch, Frederick, wedded the economy of the Nile
@@ -7035,7 +6840,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 undermining a flourishing city network that enjoyed extraordfi
 ## nary wealth and autonomy. The extortions initiated by the
                 Spanish state led, as we shall see shortly, to one of the greatest
-219 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 urban uprisings in western history, an uprising that decided the
                 future of the new nation that had emerged from the Christian
                 reconquest of the Iberian peninsula after centuries of Moorish
@@ -7067,7 +6872,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## homogenized lifeways, bureaucratized institutions, and
 ## centralized state forms. In some cases, this absolutist
 
-220 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 alternative favored the later expansion of a market economy;
                 in others, it led to state parasitism and outright regression. In
                 all cases, however, it turned localist politics into nationalist
@@ -7099,7 +6903,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## argument goes, they were to show a unique commonality of
 ## interests in the support they gave to the emerging absolute
 
-221 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 monarchies and nation-states of the late Middle Ages. Like the
 ## monarchy, they opposed feudal lords who placed imposts on
                 their commercial transactions and blocked the development of
@@ -7132,8 +6935,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## sheep runs to meet Flemish demands for wool—perhaps the
 ## earliest example of agribusiness in modern times.
 
-222 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## Confederacies or leagues of cities go back as far as Greek
                 times when poleis entered into various associations with each
                 other for mutual protection, shared religious beliefs, economic
@@ -7164,7 +6965,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 persuasion failed to hold its confederates in line is doubtless
                 true; but there is an inescapable irony in the fact that it foisted
                 its own democratic institutions on poleis with limited freedoms
-223 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## of their own, whether they wanted a democracy or not. The
                 internal politics of the league’s members stands in very sharp
@@ -7196,7 +6996,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 juridical national identity at one extreme or kinship ties at the
                 other. Citizenship, in effect, is not dissolved into an impersonal
                 national affiliation or a presumably biological or tribal one. And,
-224 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 in fact, many polites or citizens of a confederacy enjoyed rights
                 in other confederal poleis that they normally denied to resident
 ## aliens. They could buy land, enjoy the full protection of a
@@ -7228,7 +7028,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## opponents. And republican-type structures did surface among
                 them from, time to time. But these republics rarely produced
                 stable institutional forms. Human scale—a distinctly municipal
-225 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## scale—continued to be the only congenial and comprehensible
 ## level of institutional form that seemed to satisfy Hellenic
@@ -7260,7 +7059,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## is evidence that an ekklesia formulated policies for the
 ## Thessalian Confederacy in the closing decades of the fifth
                 century B.C., possibly as an aristocratic body. But in time cities
-226 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## began to encroach upon the power of the territorial nobles.
                 Apparently, a democratic faction, strongly influenced by the
@@ -7292,7 +7090,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 them are out for their fairly humane and decent treatment of
 ## foreigners. The Aetolian Confederacy appears to have had an
                 ekklesia in which all citizens not only had the right to vote but
-227 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 followed the Athenian fashion of voting as individuals, not as
 ## citizens of their own poleis. This extraordinary degree of
                 political individuation within a confederacy—a rarity even in
@@ -7324,7 +7122,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 
                 What does it mean in very concrete terms to say that a Greek
                 confederacy had a citizens’ assembly? It is tempting to think
-228 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## that in comparatively large confederal areas, such an
 ## assembly is simply a euphemism for a representative system
@@ -7357,7 +7154,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 with this revival came the emergence of new confederacies, an
 ## extremely important aspect of European history whose story
 
-229 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 has been badly neglected. Peter Kropotkin’s work on the city
                 confederacies and leagues of Europe, limited as it may be, may
                 be cited as a truly pioneering effort.{55} The period of the
@@ -7388,7 +7184,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 
 ## The following year saw the emergence of the first of the
                 Lombard Leagues (1167), which numbered, sixteen cities at its
-230 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 height, followed by a second in 1198 and finally a third (1226)
                 that collectively included nearly all the major cities of northern
                 Italy. Not only was Milan a member of all three leagues but also
@@ -7419,7 +7215,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 colonies.”{57} Whether Italy’s parcelization is quite the overall
                 “evil” that characterizes most historical accounts of the Italian
                 city-states or a desideratum that delayed the emergence of an
-231 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## overly centralized nation-state has yet to be assessed.
 
@@ -7451,7 +7246,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## equivalents. It denotes an organic community, a community
 ## that has a sense of identity and personality, indeed one in
 
-232 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 which city hierarchies are notable for the contribution they
 ## make to the collective good at each level rather than the
 ## oppression they inflict on subordinates.
@@ -7484,7 +7278,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 
 ## Thus, one has the sense that German cities formed more
 
-233 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 stable confederacies than did other urban entities in Europe.
 ## Indeed the Swiss Confederation, perhaps the most enduring
 ## and libertarian to emerge in Europe, rested heavily on the
@@ -7516,7 +7309,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## trade, the league at its height embraced between 60 and 80
 ## cities (I have taken the most conservative figures at my
 
-234 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 disposal), including the wool-processing center of Bruges in
                 Flanders. Nearly all the major Baltic ports belonged to this
 ## confederacy at one time or another, and its ships ranged
@@ -7547,7 +7339,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 century and in the centuries that followed it, the certainty so
                 prevalent in present-day historiography tliat the nation-state
                 constitutes a “logical” development of Europe out of feudalism
-235 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 can only be regarded as a bias, indeed a misuse of hindsight
                 that verges on a mystical form of historical predetermination.
 
@@ -7579,7 +7371,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## largest among them.
 
                 This was not entirely the case north of the Alps. German city
-236 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## confederations, for example, provide us with more enduring
                 efforts to institutionalize intercommunal cooperation, efforts
@@ -7611,7 +7402,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## to the empire and the territorial lords. Its very formation
                 without imperial sanction was an act of defiance against the
                 efforts of Emperor Charles IV to assert centralized control over
-237 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## the German cities, hence its articles of agreement have a
                 markedly defensive tone. But it functioned very much like the
@@ -7644,7 +7434,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## League’s Diet, the Städtetag of the Rhenish League, and
 ## autonomous confederal’ bodies elsewhere in Europe haunt the
 
-238 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 history of the continent like the unexorcised spirit of a more
                 active public life and a vital civic politics. That the nation-state
 ## eventually did unite the laggard principalities of Germany,
@@ -7675,7 +7464,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 apparently part of a larger effort to unite Italy into civic leagues
                 under Rome’s suzereinty. Present-day historians tend to depict
                 Rienzi as a forerunner of Italian nationalism when they are not
-239 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## occupied with defaming him as a “demagogue” with strictly
                 self-serving intentions. The greater likelihood is that he was a
@@ -7706,7 +7494,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## convictions. Rierizi and Marcel rose to prominence because
                 they spoke for artisans and the urban poor as well as merchant
                 and professional strata, many of whom sided with the nobility
-240 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 against the ordinary people of Europe’s cities. Perez Zagorin
 ## seems to be much closer to the truth when be observes,
 ## “Grievances born of unfavorable conjoncture and wretched
@@ -7738,8 +7526,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 to provincial and central authorities. Whether this connection
 ## was well-established—as was the case in the Hussite Wars of
 
-241 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## Bohemia during the fifteenth century—or assumed an
 ## emphemeral character, agrarian unrest became endemic
                 throughout the centuries that followed and persists to this day
@@ -7769,7 +7555,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## rural Gemeinde from fern dal, commercial, and clerical
                 encroachment. If there is any unifying drama to the upheaval,
                 it is the peasantry’s effort to preserve its organic communal
-                ties, its traditional village universe that encompassed time242 of 428 3/17/25, 5:09 PM
+                ties, its traditional village universe that encompassed time
 Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## honored values, institutions, and lifeways as well as
@@ -7803,8 +7589,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 into common military operations, each led by a chief and four
 ## councillors, a structure that completely replicated the
 
-243 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## administration of the peasant village. The village form, in
 ## effect, was projected onto the shared command structure of
                 the mili tary forces, mirroring the traditional society that it was
@@ -7837,7 +7621,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## poor and lower classes, and its moral tone and appeals to
 ## scripture won it considerable clerical support. The almost
 
-244 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 evangelical nature of the uprising gave it the qualities of a
                 crusade for human rights and decency, traits that were not lost
                 on many of the educated strata of the cities. Despite its radical
@@ -7869,7 +7652,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## removed from the eyes of men and women in the sixteenth
 ## century.
 
-245 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 This much must be emphasized: the attempts to create a
                 nation-state in western Europe four centuries ago did not occur
                 without considerable resistance from the free cities of the era,
@@ -7900,7 +7682,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 reserve for a later and fuller discussion.) The Great French
 ## Revolution, in turn, was to evoke the ideal of communal
 
-246 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 confederation without giving it permanent reality. Indeed, the
                 Jacobin “dictatorship,” if such it can be called, was to turn
                 France into one of the most centralized nation-states in Europe.
@@ -7931,7 +7712,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## entered into conflict with each other would have seemed
                 inconceivable at the time if it did not actually happen. Isabella,
                 following an active policy of fostering city life and playing
-247 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## urban strata against landed magnates, promoted internal
 ## commerce, scrupulously respected municipal rights, and
@@ -7963,7 +7743,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## from the monarchy to the nobility and drawing upon urban
 ## wealth to consolidate royal rule, Ferdinand and Isabella
                 enlarged their bureaucratic control over the independent cities
-248 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 of the province. The corregidores or town officials of the crown
 ## were given extended powers to bring the urban noble clans
                 under control and protect the cities from landed magnates who
@@ -7994,8 +7774,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## the lost municipal lands were recovered by the aristocracy,
                 their taxing powers were increased, their abilities to sidestep
 ## disagreeable court decisions were enhanced, and their
-
-249 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## financial control of the monarchy increased immensely. When
                 in 1519 Charles V became king of Spain as Carlos I and entered
@@ -8028,8 +7806,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## monarch, the declining prestige of the royal power, and the
 ## growing encroachments of a self-serving aristocracy.
 
-250 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## On May 30,1520, a crowd of woolworkers seized a hated
 ## member of Segovia’s Cortes delegation and hanged him,
                 leading to a revolt in the city that forced all its royal officials to
@@ -8061,7 +7837,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## central government, placed a tactful distance between
 ## themselves and the monarchy. By mustering an impressive
 
-251 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 army of citizens with an infrastructure and added detachments
 ## of professional soldiers, the Comunero Junta moved speedily
 ## toward a series of victories that threatened to replace the
@@ -8092,7 +7867,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## Castilians by the other “Spains” that surrounded them, the
 ## movement was seen as the work of a privileged population
                 that had revolted against its even more privileged overlords.
-252 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 The Catalans, Basques, and Andalusians, to cite the most well-
 ## known regions hostile to Castilian hegemony, could not be
                 brought to identify with a Castilian cause, however much the
@@ -8123,7 +7898,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## citizens Of a particular city or they aspired to be. Their
                 ideological unity came from the primary loyalty that the city
                 claimed and from the political arena it created. It was the city,
-253 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 not their “class,” that evoked in them a real feeling of place, a
                 meaningful commitment of service, and a clear sense of selfdefinition. This collective loyalty to a patria chica, to a “small
                 fatherland,” so intense among urban dwellers during that era,
@@ -8154,7 +7929,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 achieving was enough of a division between these strata to tip
 ## the balance in their favor and bring the greater military
 
-254 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 prowess of the aristocracy into an advantageous position over
 ## relatively inexperienced civic militias.
 
@@ -8184,7 +7958,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 entire public sphere, opening it to all strata of the population
 ## and advanced urban concepts of citizenship that were allinclusive and completely grass-roots in character. In cities such
                 as Toledo and Valladolid, this neighborhood democracy was not
-255 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## merely a demand; it became a working reality, one that was
 ## rarely to be achieved again until the rise of the Parisian
@@ -8218,8 +7991,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 by greater or lesser struggles of a similar nature after nation-
 ## states had been well-established. If Spain, one of Europe’s
 
-256 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## strongest absolute monarchies in the sixteenth century, is
 ## singled out for study, the Comunero movement did not
 ## establish a tradition that an “ascending” bourgeoisie could
@@ -8250,7 +8021,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 Whether or not the two terms actually reveal the convergence
                 of a development that was to yield centralized authority in its
                 most brutal forms is a problem that we have yet to resolve in
-257 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## our own time.
 
@@ -8283,7 +8053,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## a marketplace, a destructured and formless economic unit, a
                 realm in which the Hobbesian war of “all against all” becomes
                 a virtual reality, ironically designated as a “return to nature.”
-258 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## Such a condition and the mentality it produces constitute a
                 dissolution of nature and society’s evolutionary thrust toward
@@ -8314,7 +8083,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 crucial importance for our time, indeed one that will help us
                 define the future of the city, politics, and, above all, citizenship.
                 Chapter Seven: The Social Ecology of Urbanization
-259 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 From the sixteenth century onward, Europe was the stage for a
                 drama unique in history: the development of nation-states and
                 national cultures in which populations tended to identify with
@@ -8347,8 +8116,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## Nationalism exercises its strongest power over the popular
 ## imagination in oppositional ways when a nation is in some
 
-260 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## sense under attack. As an internally cohesive fdrce, it has
 ## always been fragile. The success of National Socialism in
 ## “unifying” the German people has deeper roots in German
@@ -8379,8 +8146,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## symbol of oppression. Crucifixion, a mode of punishment
                 normally reserved for rebels and intransigent slaves, imparted
 ## to the cross a symbolic meaning not unlike that which was
-
-261 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## attached to the Nazi swastika during the World War II. The
                 adoption of this symbol by the Church instead of the fish, which
@@ -8413,7 +8178,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 as such in the ancient arid medieval worlds. Centralized power
 ## was limited by the hard facts of a primitive communications
 
-262 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 system and a largely Neolithic technology. Armies and officials
                 could move no faster than horses; roads were very poor, often
 ## almost trackless; and weaponry had barely emerged from the
@@ -8446,8 +8210,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 is the compelling fact that it was an elaborate state: a vast
 ## apparatus not only with its black-robed bureaucracy but a
 
-263 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## system of law and a juridical machinery adequate enough to
 ## make its legal sovereignty effective. The emergence of
 ## ecclesiastical law served to open a crucial area for the
@@ -8478,7 +8240,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 pope, secular and divine can be taken as a symbolic expression
                 for the many divisions that riddled medieval society and made
                 the nation-state possible. Had medieval society been entirely
-264 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## unitary, it might very well have been blanketed by large,
                 suffocating, patrimonial empires that would have drained its
@@ -8511,8 +8272,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 Europe produced on a continental level has its parallel in an
 ## internal system of “checks and balances” that existed on a
 
-265 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## domestic level. The intercity trade that provided economic
 ## underpinnings to the formation of nation-states repeatedly
 ## came up against strong localist barriers—artisan gilds,
@@ -8543,7 +8302,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## 600 denari during Diocletian’s time increased by 20 denari
                 every mile so that the cost of transporting it as little as 30 miles
                 rendered its sale in a nearby market prohibitive. Unless a good
-266 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## network of waterways existed, foreign trade had a limited
 ## economic impact on the interior of a region. Generally, the
@@ -8575,7 +8333,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 firearms, and, in no small part, by dazzling European trinkets.
 ## Needless to emphasize, European epidemics, too, played a
                 major role in depleting aboriginal populations and demoralizing
-267 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## them..
 
@@ -8609,8 +8366,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## reliable monetary system were vitiated by the enormity of
 ## royal taxes, the ongoing wars between nation-states that
 
-268 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## placed Europe in a chronic state of siege, and the monetary
 ## instability produced by royal loans and defaults.
 
@@ -8643,8 +8398,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 who was barred from the status of a master by increasing gild
 ## exclusivity, a serious gap developed that could rend
 
-269 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## communities in violent struggles. We have seen evidence of
                 such struggles in Flanders and Italy, where skilled as well as
 ## unskilled workers were proletarianized and reduced to
@@ -8674,8 +8427,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## through the Reformation, which was by no means only a
 ## peasant war, through the era of the democratic revolutions,
 ## and into the Industrial Revolution, indeed for several
-
-270 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## generations afterward.
 
@@ -8708,7 +8459,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 character of those who lived outside the orbit of absolutism
 ## and opposed it. These outsiders, in fact, were the great
                 majority in Europe and generally serviced local and regional
-271 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## markets. By contrast, the bankers, professionals, and
 ## merchants whose incomes were derived from loans to the
@@ -8741,8 +8491,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## statusless, and homeless “mob,” whom even the English
 ## Levellers viewed warily because of their dependence on the
 
-272 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## largesse of the possessing classes.
 
                 Our picture is further complicated by the aspirations of the
@@ -8774,7 +8522,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## massive bureaucratic structures. Medieval Europe was an
 ## embryonic world—rich in promise, to be sure, but largely
                 unformed, lacking in cohesion, indeed more particularistic than
-273 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 decentralistic. Absolutism and the early era of nation building
                 stood somewhere in between. As Perez Zagorin tells us: “In
                 spite of the expansion of absolutism and its critical collisions
@@ -8805,7 +8553,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## performed.”{65}
 
                 What Zagorin seems to reproach the absolutist monarchies for
-274 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## -namely their failure to “sweep the stage clean with a new
 ## broom” and achieve a more homogenized, efficient, and
@@ -8837,8 +8584,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 closing chapter of this book-that gave such fecundity to both
 ## French revolutions and opened such sense of promise in
 ## Europe two centuries ago. What an individual “thinks of
-
-275 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## himself”—not simply the hidden economic laws or some
 ## unknown “spirit” that ostensibly guides history—has a very
@@ -8872,8 +8617,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 speculative thought to envision a new society long before an
 ## old one becomes intolerable or is bereft of any room for
 
-276 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## development. Artisans and peasants in the era of nation
                 building had many sound ideas about the kind of society they
 ## wished to create. It is a mechanistic arrogance of the most
@@ -8904,7 +8647,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## a prevailing vision among the monarchies of his day that
 ## clashed with the reality of their situation and profoundly
                 unsettled the real world. What European monarchs did “think”
-277 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## of themselves—namely, all-powerful rulers of highly
 ## centralized state’s—deeply affected the development of
@@ -8936,7 +8678,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 by Zagorin very ably:
                 In every case, some new exorbitancy of royal finance, a tax on
                 taverns, for instance, or the abolition of as exemption from
-278 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## certain imposts, sparked the outbreak. Then the residential
                 quarters of the poor erupted, mobs of three, five, and even ten
@@ -8968,7 +8709,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 professionals, and even members of the lesser nobility, it is
 ## unlikely that these uprisings would have gone very far.
                 Apparently their extent depended upon “the passivity, neutral
-279 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 or ambiguous behavior, and even partial support [of] the
 ## notables and well-to-do. The bourgeois militia of Bordeaux
                 showed little will to act.. At Perigeux the bourgeois guard was
@@ -9001,8 +8742,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## out.... But they were helpless to hold back the advance of
 ## absolutism and its centralizing grip because they had no
 
-280 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## political reforms to propose and conceived of no new
 ## institutional limits on the power of the royal state. {68}
 
@@ -9033,7 +8772,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## gain more power and greater social recognition. Consumption
                 in all its dazzling forms thus assumed greater significance than
                 production, even for the bourgeoisie, which tried to elbow its
-281 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 way into the social hierarchies of the era. Mary Beard’s account
                 of the merchant’s values in the Roman world holds as well in
 ## the era of absolutism as it does in the era of empire, a
@@ -9065,7 +8804,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 merchants, and a good sprinkling of “industrialists” who were
                 eager to acquire noble status—even if only “nobles of the robe”
                 (nobles who had noble status conferred upon them for service
-282 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 to the state or, quite crassly, for money) rather than “nobles of
                 the sword” (hereditary nobility). They were more like medieval
                 burghers, than capitalists in the present-day sense of the term.
@@ -9097,7 +8836,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 hated men like Richelieu, Mazarin, and members of the king’s
 ## administrative bureaucracy, despite’their ritualistic
 
-283 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 expressions of affection for the king. Such cries as “Long live
                 the king without the gabelle!” meant that the king, ostensibly
                 beloved for his symbolic status as a caring father, could earn
@@ -9129,7 +8867,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## Thus Richelieu and Mazarin did not succeed, in fact. They
                 carried centralization far in France, but not so far that it could
                 prevent the French Revolution, which tried in its early phases to
-284 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 reverse the power of the king and the aristocrats alike, initially
 ## driving toward a relatively decentralized, indeed minimal,
                 state. If centralism is to be identified with the interests of the
@@ -9160,8 +8898,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## May 1871 when the Commune of Paris tried to establish a
 ## confederal republic based on a commune of communes, a
 ## struggle that ended in a bloody massacre and the ebbing of
-
-285 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## decentralistic notions of socialism in France itself.
 
@@ -9194,8 +8930,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## well into recent times. So much emphasis has been placed by
 ## historians on Europe’s development of a market economy, its
 
-286 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## relative freedom of trade, and its openness to industrial
 ## innovation—features that are certainly uniquely European—
                 that we fail to recognize how little they would have been able
@@ -9226,7 +8960,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 exist in Central America, mountainous portions of Asia, and the
                 rain forests in southeast Asia have brought even nation-states
                 aided by “superpowers” to their knees. All the “colonizers” of
-287 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 the past recognized the need for effective road systems. The
 ## Romans were able to hold their empire together precisely
 ## because it was networked by a highly elaborate system of
@@ -9257,7 +8991,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 administrative centres were almost all situated either on the
                 sea or on internal navigable waterways.”{70} This orientation
                 is very “un-European”: it reflects the astonishing extent to
-288 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## which a world oriented toward agrarian values dominated its
 ## merchants and morally denigrated their sources of income.
@@ -9289,7 +9022,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## the modern age, it is important to recognize how local
                 producers and local markets slowly reworked the interior of the
                 European continent, preparing it for a monetized economy and
-289 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 providing the goods and markets for creating a market society.
                 This slow but historic change in the economic culture of Europe
 ## —a slow but decisive change in attitudes toward trade,
@@ -9323,8 +9056,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 
 ## To say, Ferdinand Braudel reminds us, that “Napoleon moved
 
-290 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## no faster than Julius Caesar” misses a number of very
                 important points. Even if this statement were true, Napoleon
 ## had a greater variety of transportation choices than Caesar
@@ -9355,7 +9086,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 predatory, and politically it provided the individual producer
                 with a stronger material base for the exercise of citizenship.
                 [11] Finally, it tended to dissolve barriers between local
-291 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## communities and adjacent regions, opening the doors to new
 ## ideas, cultures, values, and the interchange of skills and
@@ -9387,7 +9117,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 significance than another in some communities and areas does
 ## not alter the mixed nature of economic life as a whole.
                 Contrary to the widely held belief that a capitalistic economy
-292 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 emerged within the “womb” of feudalism and asserted itself as
                 a “dominant” form with the attempt to build nation-states in
 ## the sixteenth century, it seems more accurate in my view to
@@ -9420,8 +9150,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## in which feudal traditions interacted with simple commodity
 ## and capitalist forms of societal organization. Nor were
 
-293 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## feudalism, capitalism, and simple commodity production
                 socially rigid economic systems. They were evolving cultures,
                 differing in values, sensibilities, ways of experiencing the world
@@ -9453,7 +9181,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 A number of historians have called this period the “crisis of
 ## feudalism,” a terminology that may very well express a
                 typically modern identification of “progress” with expansion.
-294 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## This bias tends to overlook qualitative growth and cultural
 ## elaboration for quantitative growth and cultural change.
@@ -9485,7 +9212,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 all the ecologically varied social relationships produced by
 ## history to the exchange of objects called “commodities”—did
 
-295 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 not “evolve” out of a feudal era. It literally exploded into being
 ## in Europe, particularly England, during the eighteenth and
 ## especially nineteenth centuries, although it existed in the
@@ -9516,7 +9242,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 agglomerations that threaten the very integrity of city life and
 ## citizenship. What makes the market society we call
                 “capitalism” unique, even by contrast to its early mercantile
-296 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 form, is that it is an ever-expansive, accumulative, and, in this
                 respect, a cancerous economic system whose “law of life” is to
                 “grow or die.” Capitalism in its characteristically modern and
@@ -9546,7 +9272,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## city and countryside alike. Growth in the special form that
 ## singles out modern capitalism from all earlier forms of
                 economic fife, including earlier forms of capitalism itself, has
-297 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 affected what we still persist in calling the “city” by leading to
                 the expansion of pavements, streets, houses, and industrial,
                 commercial, and retail structures over the entire landscape just
@@ -9577,7 +9303,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 part of paideia or the education of a social being, tend to wane
                 into personal indifference to social problems. The decline of the
                 citizen, more properly his or her dissolution into a being lost in
-298 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## a mass society—the human counterpart of the mass-produced
 ## object—is furthered by a burgeoning of structural gigantism
@@ -9610,7 +9335,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 
 ## It was the extraordinary combination of technical advances
                 \yith the existence of a highly variegated society, relatively free
-299 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 of the cultural constraints to trade that prevailed in antiquity,
 ## that gave economic ascendancy to the capitalistic component
 ## of the mixed economy over all its other components. Neither
@@ -9641,7 +9366,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 courtly society. That nation-building, increased ceritralization,
                 or, more properly, national consolidation prepared the way for
                 industrial capitalism by opening more “hinterlands” to trade is
-300 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## patently clear. So, too, did increases in the population of
                 dispossessed, propertyless hands, whether as a result of land
@@ -9673,7 +9397,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 Nor need we be concerned with whether the needs of a “rising
 ## bourgeoisie” produced the Industrial Revolution or the
                 Industrial Revolution gave rise to the “bourgeoisie,” which in
-301 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## any case was always a presence in all the major cities of
                 Europe. Factories, in fact, had begun to appear in eighteenth-
@@ -9705,8 +9428,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## power and added a strongly plebeian character to the
                 country’s system of government. Even the English aristocracy
 ## had been readied for a gainful capitalistic economy by the
-
-302 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## wealth it acquired from the sale of wool. We shall have
                 occasion to note that landed squires and industrial capitalists
@@ -9740,7 +9461,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 precapitalist society from which they had derived. Long after
 ## Puritanism had passed away as a movement, English society
 
-303 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 had become secularized. The joyless spirit that the Puritans
 ## brought to England then lived on, largely bereft of the few
 ## moral constraints that religion generally imposed on the
@@ -9773,7 +9493,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 
 ## Engels’s words are meant as much to praise the
 
-304 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 “revolutionary” work of the English industrial capitalist as they
 ## are intended to startle the German readers, who first
 ## encountered his book. The Enlightenment’s uncritical
@@ -9804,7 +9523,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 The mixed messages in this passage reflect the characteristic
 ## tension created among the “progressives” of the era between
                 the, claims of an abstract sense of “history” and an existential
-305 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 sense of humanity that was to rend apart major socialists such
 ## as Engels and ultimately, owing to his commitment to
                 industrial progress as a “precondition” for a free society, justify
@@ -9835,8 +9554,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## output of yarn, by 1764; Richard Arkwright’s throstle, a
                 sophistication of the spinning machine calculated for the use of
 ## a mechanical prime mover, by 1767; Samuel Crompton’s
-
-306 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## mule, by 1785, followed around the same time by Arkwright’s
 ## carding machine and preparatory frames; finally, Edmund
@@ -9869,7 +9586,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## minister, who went on to work with Robert Fulton in the
 ## development of the steamship. English society had opened
                 itself, more than most European societies, to advancement by
-307 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## individuals in the “lower classes/’ Moreover, many of the
 ## inventors whose work introduced the Industrial Age were to
@@ -9902,7 +9618,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 and population. Within the first thirty or forty years of the
                 nineteenth century, Birmingham increased its inhabitants from
                 73,000 to 200,000; Sheffield from 46,000 to 110,000; Halifax
-308 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## from 63,000 to 110,000; Leeds from 53,000 to 123,000. Such
 ## astonishing rates of growth among comparatively small
@@ -9935,7 +9650,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## communal character of their own. Growing industry,
 ## commerce, and “commodification” did not seep completely
 
-309 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 into the neighborhood fife of the new cities, nor did it totally
                 destroy the conditions for the regeneration of domestic fife.
                 The buffeting that towns and cities of the nineteenth century
@@ -9966,7 +9680,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 economic ends. Picnics, athletic activities, outdoor forays into
 ## the countryside served to add a very intimate dimension to
 
-310 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 purely educational projects. The casas del pueblo established
                 by Spanish socialists and the centros obreros established by
                 the Spanish anarchists, which existed up to the late 1930s, are
@@ -9998,8 +9711,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## major cities were spared crowd actions and uprisings in the
 ## nineteenth century, indeed well into the first half of the
 
-311 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## twentieth. As industrial capitalism spread out from England
                 into western Europe and America, the initial destabilization it
 ## produced as a result of urbanization and mechanization was
@@ -10030,7 +9741,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## commodities and automobiles by Germany and the United
                 States, respectively, which finally began to transform the world
                 into its present form—all seemed to carry over into the popular
-312 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 culture and give it specific national features. We find a fixidity
 ## in England along industrial lines that appears in its
                 conventional and underground cultures as well: a strong
@@ -10061,7 +9772,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## Yet every class culture was always a community culture,
 ## indeed a civic culture—a fact that finks the period of the
                 Industrial Revolution and its urban forms with precapitalist
-313 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## cultures of the past. This continuity has been largely
                 overlooked by contemporary socialists and sociologists. While
@@ -10094,8 +9804,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 continuity with precapitalist fife-ways and values. This partly
 ## municipal, partly domestic domain formed a strong
 
-314 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## countervailing force to the impact of an industrial
 
 ## economy and the nation-state. Here, workers mingled with a
@@ -10127,8 +9835,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## to which they are disappearing in the second half of the
 ## century, largely as a result of sweeping technological and
 
-315 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## cultural developments that occurred during the Second World
 ## War and its aftermath. Science systematically applied to
 ## technics has only recently revealed the deepest secrets of
@@ -10159,7 +9865,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 engaged in public life as the principal catalysts for achieving
 ## the good society—in short, those socially involved thinkers
                 whom the Russians of the last century called the intelligentsia
-316 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 —retreat into the confines of the academy and are transformed
 ## into mere intellectuals. Research tends to replace creative
                 speculation; libraries tend to replace the cafes that nourished a
@@ -10192,7 +9898,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## productive base is turning into a market society. The “cash
 ## nexus” has become an all-embracing commodity nexus in
 
-317 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 which consumption, not only production, has become an end in
                 itself. Objects now mediate nearly all the social relationships
                 that once had a living and creative flesh-and-blood character.
@@ -10223,7 +9928,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 Which is not to say that the period following the Second World
 ## War did not have its preludes in the pre-war era.
                 Technologically, the radio and particularly the cinema had a
-318 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## strong grip on popular culture throughout the twenties and
 ## thirties. The automobile and the vast economy created were
@@ -10256,8 +9960,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## Ireland, and in the yeoman farmers who were being scattered
 ## throughout the continent by the dust storms that swept over
 
-319 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## middle America.
 
                 The Depression, in fact, witnessed a remarkable regeneration
@@ -10289,7 +9991,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## The Depression reversed the migration from farm to city, at
                 least until the dust storms of later years drove many farmers to
                 other parts of the country. Rural culture also began to thrive in
-320 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 the mass media of the decade, particularly as an evocation of
 ## community values, mutual aid, and compassion for less
                 fortunate people. The extraordinary degree of social vitality
@@ -10320,8 +10022,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## with any time before the 1890s, one that gave to community,
                 public service, political idealism, and social justice a premium
 ## that makes the decade unique in twentieth-century American
-
-321 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## history.
 
@@ -10354,7 +10054,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## Yet there were also harbingers of significant tendencies
                 counteractive to the radical analyses that marked the decade.
                 Rural electrification was to basically alter the traditional
-322 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 agrarian life-ways that the Depression decade celebrated. It
                 brought the radio into the home and exposed a socially pristine
                 population to the mass media. The spate of public works that
@@ -10386,7 +10086,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## time.
 
                 The Second World War, while holding the values of die thirties
-323 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 somewhat in place during the first half of the forties, foisted
                 another Industrial Revolution on western society whose scope,
                 as we are now beginning to see, rivals the shift of humanity
@@ -10417,7 +10117,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 suburban self-indulgence (material as well as sexual) as a new
 ## way of life and a new set of values.
 
-324 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 Cities were to lose not only their territorial form; they were to to
                 lose their cultural integrity and uniqueness. The Man in the
                 Gray Flannel Suit, particularly as embodied in the sartorial
@@ -10448,7 +10147,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 synthetic human and biotic relationships. Nor can this disarray
                 be sorted out and pieced together on the summits of social fife.
                 Historically, the power of preindustrial fifeways to survive and
-325 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## preserve a moral sense of social fife depended on the
 ## existence of an “underground” culture in towns,
@@ -10480,7 +10178,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## which sixties radicals such as Rudi Dutschke advocated in
 ## Germany and Herbert Marcuse evoked in America more than a
                 decade ago, has demonstrated that it is the institutions that
-326 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## ultimately absorb modern rebels, not the rebels who capture
 ## the institutions.
@@ -10513,7 +10210,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## rather than a consumer. Ultimately, society threatens to
 ## become as inorganic as an ecosystem that has been divested
 
-327 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 of its flora and fauna. When totalitarianism eventually does
                 emerge, it is likely that the coherent self, so direly needed to
                 resist it, will have undergone such erosion that it may well lack
@@ -10545,7 +10241,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## their material needs, to reproduce as well as produce, to
                 “relate” with each other as individuals and family groups, to
                 fraternize in a variety of personal associations and degrees of
-328 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## intimacy. The town and city, even the village, provided a
 ## political realm of life, human-made in origins, in which
@@ -10578,7 +10273,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## by professionals encountered the greatest difficulty in
                 legitimating itself. Tribal institutions can be easily understood
                 because human beings are, after all, natural organisms. They
-329 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## must feed themselves, acquire their means of subsistence,
 ## reproduce, live in safety, and, given their evolution as
@@ -10609,8 +10303,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## as mere “constituents” or, worse, voters and taxpayers who
                 are the passive recipients of the goods and services provided
 ## to us by an all-powerful state and our “elected”
-
-330 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## representatives.
 
@@ -10644,8 +10336,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## A close reading of history has demonstrated that the state—
 ## and, in our own time, the nation-state—is not only the
 
-331 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## repository of agents and institutions that have made a
                 mockery of politics; it shows, in fact,’ that these state agents
                 and institutions have degraded the individual as a public being,
@@ -10677,7 +10367,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 the principal source of resistance to the encroachment of the
 ## nation-state. In its acts of defiance it often delayed the
 
-332 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 development of the nation-state and created remarkable forms
 ## of association to counteract the state’s encroachment upon
 ## municipal freedom and individual liberties.
@@ -10710,8 +10399,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## socialists, the “economic democracy” advanced by many
 ## liberals, or systems of “workers’ control” demanded by
 
-333 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## orthodox anarchists—all of which, I may add, involve some
                 degree of state involvement or a particularistic and potentially
 ## competitive body of interests within the community, however
@@ -10743,7 +10430,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## city—whose assent or opposition to a course of action was
 ## achieved by referendum. The confederal system that united
                 the communes had the right to deal with foreign affairs, and
-334 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## little more. Beyond this sphere, confederal bodies were
 ## concerned mainly with preventing their component leagues
@@ -10775,7 +10461,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 after Napoleon had reduced the Free State to a canton in the
 ## more centralized Swiss Confederation, Barber notes that the
                 peasant still turned the harshness of his sparse land “into a
-335 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 discipline of individuality, a teacher of autonomy. He held the
 ## intuitive conviction that his rural mountain life, his
 ## uncomplicated involvement in a pastoral economy that left
@@ -10808,8 +10494,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## are only now becoming aware of the localist and
 ## communitarian motives that drove Puritan settlers to New
 
-336 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## England. Religious persecution by Charles I was only one of
                 several reasons that the lives of the Puritans were intolerable
                 under the Stuart kings. “If Charles I is remembered at all today,
@@ -10840,8 +10524,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## community and that its restoration was a necessary move
                 toward social as well as religious purification. Every community
 ## was conceived as an ethical compact, not simply a form of
-
-337 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## association for personal and collective survival—a notion
                 decidedly antithetical to the Hobbesian and Lockean principles
@@ -10874,7 +10556,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## lieutenants, and almost everyone in the realm against the
 ## collectors of unconstitutional revenues, shaped the New
 
-338 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 Englanders’ ideas about civil, ecclesiastical, and military polity.
 ## The settlers departed from England determined to maintain
                 their local attachments against outside interference, and to a
@@ -10906,7 +10587,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## “grasping,” and emotionally guarded. This imagery mistakes
                 Boston, a commercially oriented and acquisitive port, for New
                 England as a whole. The port cities, in fact, often stood at odds
-339 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## with the many small townships that were networked into the
                 interior of the New England colonies and states. These colonies
@@ -10937,8 +10617,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## mutuality in relationships, egalitarianism in status, selfsufficiency in the development of needs and their satisfaction,
 ## and more elaboration of communitarian values than
 ## fetishization of change. In short, they were committed to a
-
-340 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## moral economy and society, not to lifeways premised on the
 ## market and gain.
@@ -10971,7 +10649,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 
 ## If anything, this yeomanry seems to have viewed commerce
                 disdainfully, indeed as parasitic and demeaning to a productive
-341 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## and spiritually oriented way of life. In the words of the
 ## Bostonian, George Richards Minot, writing in the 1780s,
@@ -11004,7 +10681,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## women in this society and their enormous strength of
 ## character.
 
-342 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 Barter and the sharing of resources reinforced neighborliness
                 and fostered a warmly hospitable openness to people, even to
                 newcomers, as the Marquis de Chastellex was to observe in his
@@ -11035,7 +10711,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 congregation can easily extend outward into the civil, world in
 ## the form of an equally autonomous political body, the town
                 meeting. The periodic meeting of the entire male population of
-343 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## a community in order to govern its own affairs is a logical
                 outcome of Puritan religious belief and forms of organization.
@@ -11068,8 +10743,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 the most radical state constitutions to be adopted during the
 ## American Revolution, Vermont yeomen, gathering at Windsor
 
-344 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## in July 1777, not only abolished slavery and property
 ## qualifications for the franchise, they also avowed that “as
                 standing armies, in the time of peace, are dangerous to liberty,
@@ -11100,7 +10773,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 staples of local government even today. But the colonial New
 ## England town claimed authority over anything that happened
 
-345 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 within its borders. It hired a minister to preach in the town-built
 ## meetinghouse and compelled attendance at his sermons. It
                 controlled public uses of private property, from the location of
@@ -11133,8 +10805,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 centralized nation-state. Running at cross purposes throughout
 ## the document and the quasilegal “Declaration of
 
-346 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## Independence” are agrarian, precapitalist commitments to
                 freedom, a participatory politics, and an involved citizenry on
 ## the one hand, and a distinctly capitalistic imagery of
@@ -11166,7 +10836,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## new to the precapitalist world. What makes the merchant
 ## stratum unique in the modern social landscape is that it
                 funneled its earnings into its various enterprises and sought
-347 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## unceasingly to expand them—partly as a response to the
                 intense competition that existed in new markets, partly in an
@@ -11199,7 +10868,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 territories it acquired on the western frontier. Its goal was “to
 ## profit from their purchases through quick sales to incoming
 
-348 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 settlers.”{92} As one Boston lawyer put it in 1785: “Money is
 ## the only object attended to, and the only acquisition that
 ## commands respect.”{93}
@@ -11231,7 +10899,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 they made lavish contributions to civic beautification! The new
                 merchant and particularly the industrialist who followed, began
                 to view his own community as an object of predation and often
-349 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 plundered it ruthlessly. This behavior, graduated to the level of
                 the “business ethic,” began to supplant the religious precepts
 ## and cultural values that had been passed on from time
@@ -11262,7 +10930,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## sufficiency and personal autonomy were still ends in
 ## themselves, and the acquisition of wealth that sent so many
                 adventurers to the West in pursuit of gold originated more in
-350 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 visions of luxurious living than capital expansion. It was not
 ## until the Reconstruction Era following the Civil War that
 ## American capitalism, seen as a system of growth for its own
@@ -11294,7 +10962,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## economy preceding modern capitalism and energized the
 ## movements that gave us modern concepts of democracy. The
 
-351 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 tension between rural and urban society and the diversity it
 ## created as people moved between both worlds accounts in
                 very great part for the fecundity of social life in the past. The
@@ -11325,7 +10992,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 hidden intuition of our times for which nuclear immolation and
                 the wasteland it may yield is as much a metaphor for our times
                 as it is a potential reality. Politics and citizenship are not only
-352 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 the victims of this corrosive process. It may well be that they
                 are also the antidote for it—provided, to be sure, that we can
                 reconstruct them in ways that are redolent of their classical
@@ -11356,7 +11023,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 
                 The Soviet example of the state qua party is simply the logical
                 extension of the party into the state if only because every party
-353 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 has its roots in the state, not in the citizenry. The conventional
                 party is hitched to the state like a garment on a clothing hook.
 ## However varied the garment and its design may be, it is not
@@ -11388,7 +11055,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## programs are no better than their capacity to answer to the
 ## needs of an active public body. A clear failing of many
 
-354 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 “political” parties is the fact that their programs or “ideologies”
 ## are imposed on the public by individuals or their acolytes
 ## whose relationship to the community is tenuous and largely
@@ -11419,7 +11085,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## networked into regional and national congresses), popular
 ## assemblies in a wide variety of areas, and autonomous
                 municipalities—often without party leadership. The notion, so
-355 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 common across the political spectrum, that a party structured
 ## along conventional hierarchical lines and guided by a
                 commanding leadership is indispensable to political change is,
@@ -11452,7 +11118,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 
                 The recovery and development of politics must, I submit, take
                 its point of departure from the citizen and’his or her immediate
-356 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## environment beyond the familial and private arenas of life.
 ## There can be no politics without community. And by
@@ -11485,7 +11150,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## brothers Gracchi tried to radically expand—an endeavor that
 ## ended in tragic failure.
 
-357 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 All statist objections aside, the problem of restoring municipal
                 assemblies seems formidable if it is cast in strictly structural
 ## and administrative forms. New York City has no way of
@@ -11516,8 +11180,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## who are rotatable, recallable, and, above all, rigorously
                 instructed in written form to support or oppose any issue that
 ## appears on the agenda of local confederal councils composed
-
-358 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## of delegates from several neighborhood assemblies. There is
                 no mystery involved in this form of organization. The historical
@@ -11550,7 +11212,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## mean that everyone must know how to design and construct
 ## one. That is a job for engineers, who can offer alternative
 
-359 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 designs—a very important political function of experts, to be
 ## sure, but one that the people in assembly can be free to
 ## decide. But to design and construct a road is a strictly
@@ -11582,7 +11243,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 referendum process in liberal theory is a fiction—whether in
                 seemingly democratic notions at one extreme or a totalitarian
                 politics of mass mobilization at the other. The individual, left to
-360 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## his or her own destiny in the name of autonomy and
 ## independence, becomes a seemingly asocial being whose very
@@ -11613,8 +11273,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## formation of selfhood. The real anthropology of our species
                 involves the prolonged dependence of the infant and young on
 ## elders, a socialization process that, until recent times,
-
-361 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## ultimately led to a deep sense of interdependence in
                 adulthood, riot a brash sense of “independence.” The notion of
@@ -11648,8 +11306,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 
 ## Paradoxical as it may seem; the authentic elements of a
 
-362 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## rational and free society are communal ones, not individual
                 bnes. Conceived in more institutional terms, the municipality is
 ## the basis for a free society, the irreducible ground for
@@ -11681,7 +11337,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## disengaged from the character-building process—the paideia—
 ## that the Athenians assigned to politics as one of its most
 
-363 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 important educational functions. True citizenship and politics
 ## entail the on-going formation of personality, education, a
 ## growing sense of public responsibility and commitment that
@@ -11712,7 +11367,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## embodiment in citizenship is simply impossible to achieve.
                 Indeed, it ceases to even enter into contemporary notions of
                 “politics” and “citizenship.” Accordingly, we begin to gauge
-364 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## “political involvement” by the “percentage” of “voters” who
                 “participate” in the “political process”—a degradation of words
@@ -11746,7 +11400,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 Nazism? Do its advocates, specifically this writer, wish to undo
 ## the technological gains achieved by the several industrial
 
-365 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 revolutions that followed the first one, two centuries ago? Can
                 a “modern society” be governed any longer by local groups in
 ## an era when centralized power is presumably “here to stay”?
@@ -11778,7 +11431,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 subvert the very meaning of the libertarian municipal project it
                 seeks to advance. In the last analysis, these pages are an effort
                 to apply the principles of social ecology to ah interpretation of
-366 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 the present and to a past that really is always with us, informed
 ## by a deep concern for the contours of a liberatory and
                 ecological future society. To provide a detailed institutional and
@@ -11809,7 +11462,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## those that have a highly polemical character. In trying to
 ## answer these questions, I presuppose a thorough
                 understanding of the essential principles raised in this book:
-367 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 not only is politics to be sharply distinguished from statecraft,
                 but policy making is to be distinguished from administration;
                 not only is “rugged individualism” to be’ distinguished from
@@ -11841,7 +11494,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 possibility of producing a highly fecund terrain for promoting
 ## the development of deeply individuated and richly creative
 
-368 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 personalities. Ironically, Nazism, for all its bombast about the
                 desirability of a German Volksgemeinschaft, opportunistically
                 surrendered the utopian content of this popular yearning for a
@@ -11872,7 +11524,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 collectivity without sacrificing a rich sense of individuality. A
                 creative politics without a creative citizenry is as unattainable
                 as a creative citizenry without a creative politics. The guarded
-369 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## mind, whether we call it “class consciousness” or “social
                 consciousness,” is the sole guarantor of a social and personal
@@ -11904,7 +11555,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 vitality to municipal politics and alter the very shape of politics
 ## itself. One does not have to be a visionary (apparently, a
                 pejorative term, these days) to see that every human impulse
-370 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## is now being affronted by the disempowerment of ordinary
 ## people in everyday life. Locked increasingly into an inward
@@ -11936,7 +11586,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## the United States that have no shared tradition with the,
 ## American Northeast. Community and action groups have
 
-371 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 invaded local politics, a terrain that was once the exclusive
                 preserve of political parties, on a scale that has significantly
 ## altered the entire landscape of municipal policy making.
@@ -11967,7 +11616,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 grass-roots institutions and organizations is evidence less of
 ## failure than of persistence. I am no longer talking of the
 ## explosive episodes that marked the’ uprisings of the 1960s,
-                such as those in black ghettos or antiwar street actions. Grass372 of 428 3/17/25, 5:09 PM
+                such as those in black ghettos or antiwar street actions. Grass
 Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## roots politics, specifically popular municipal politics, is
@@ -12003,7 +11652,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 not merely a historical legacy that belong to the archaeology of
 ## urbanism. A large portion of this book would be completely
 
-373 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 meaningless if the reader failed to see that in nearly all periods
                 of social upheaval people have turned to assembly forms as a
                 way of entering the doors of history and taking control of their
@@ -12034,7 +11682,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 nation-state threatens to become an overbearing force in local
                 affairs. The concept of confederation is as old as the fact of
                 municipal life itself. Initially more defensive than creative in
-374 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## character, it has provided us with extraordinary, indeed
 ## inspiring, examples of freedom within localities and in the
@@ -12067,8 +11714,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 of civic service with the realities of civic practice. Deference to
 ## opponents in debates, the use of language to achieve
 
-375 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## consensus, on-going public discussion in the agora in which
                 even the most prominent of the polis’s figures were expected
                 to debate public issues with the least known, the use of wealth
@@ -12099,7 +11744,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## obediently voting annually for preselected candidates and
 ## paying their taxes with a reasonable modicum of honesty has
 
-376 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 been regarded as a safety valve for public dissatisfaction at
 ## best and “anarchy” at worst.
 
@@ -12133,8 +11777,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 The last and perhaps the most intractable of our coordinates is
 ## economic. Today, economic issues tend to center around “who
 
-377 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## owns what,” “who owns more than whom,” and, above all, how
                 disparities in wealth are to be reconciled with a sense of civic
 ## commonality. Nearly all municipalities have been fragmented
@@ -12166,7 +11808,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## innumerable American municipalities, have united an
 ## astdnishing variety of people into movements with shared
                 concerns that render a ritualistic “class analysis” of their
-378 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## motives utterly irrelevant. No less remarkable in crossing
 ## traditional class, ethnic, and economic barriers is the
@@ -12199,7 +11840,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 politically self-empowered individual, is fading away. It is
 ## disappearing not because “creeping socialism” is devouring
 
-379 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 the “free entrepreneur” but because “creeping corporatism” is
 ## devouring everyone—ironically, in the name of “free
                 enterprise,” The economy of North America, like that of Europe
@@ -12230,7 +11870,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## industrial operations to the workers who perform them, has
 ## become another form of time-studied, assembly-line
                 rationalization, the systematic exploitation of labor by bringing
-380 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## labor itself into complicity with its own exploitation.
 
@@ -12263,7 +11902,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## nor land becomes a separate or potentially competitive unit
 ## within a seemingly communal collective. Nor do workers,
                 farmers, technicians, engineers, professionals, and the like
-381 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 perpetuate their vocational identities as separate interests that
                 exist apart from the citizen body in face-to-face assemblies.
                 “Property” is integrated into the municipality as a material
@@ -12295,7 +11934,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 by the entire community—notably its citizens in face-to-face
 ## relationships working to achieve a general interest that
                 surmounts separate, vocationally defined specific interests.
-382 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## The economy ceases to be merely an economy in the strict
 ## sense of the term, composed of capitalistic, “workercontrolled” enterprises. It becomes a truly political economy
@@ -12327,7 +11965,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## strata of artisans who produced quality goods. Wealth, too,
 ## factored heavily in a privatized economy where material
 
-383 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 differences could expand and foster a variety of hierarchical
 ## differences.
 
@@ -12360,7 +11997,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 resources, is regressive. Localism should never be interpreted
 ## to mean parochialism nor should decentralism ever be
 
-384 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 interpreted to mean that smallness is a virtue in itself. Small is
                 not necessarily “beautiful.” The concept of human scale, by far
 ## the more preferable expression for a truly ecological
@@ -12392,7 +12028,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 
 ## Not surprisingly, the ecotechnologies that came very much
                 into vogue during the 1970s, such as solar, wind, and methane
-385 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## power, later to be explored and toyed with by the national
                 governments of the world, literally collapsed under their own
@@ -12423,7 +12058,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 very notion of sensitively tailoring technology to fit the natural
 ## ecocommunity in which people five is possible to a serious
                 extent only within a locally oriented political community where
-386 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## the uniqueness of the natural environment can be fully
 ## experienced in all its intimacy.
@@ -12456,7 +12090,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 materiality, individual against community, urban belts against
 ## towns, towns against country—and humanity as a whole
                 against a natural world that is seen as “stingy,” “cruel,” and
-387 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 “intractable,” a world that has to be conquered by science and
                 technology before society can hope to be free. Nation-states
 ## and corporate enterprises invoke large-scale technology
@@ -12487,7 +12121,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## than atomistic antagonisms—all, taken together as one
                 coherent ensemble, constitute not only a desideratum of major
                 proportions but anew ethical calling. The incarnation of this
-388 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## human project is the immediate, indeed unmediated,
                 community that enters so profoundly into the fashioning of our
@@ -12520,7 +12153,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 thirteen American colonies,‘was a free republic between 1777
                 and 1791, and it still retains many of the libertarian traditions,
                 of that revolutionary era. This historical legacy may make it
-389 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 somewhat exceptional, but it does not make the area any less
                 real. That Vermont exists is a fact that is existentially more real
 ## than many myths that have moved human beings over the
@@ -12549,7 +12182,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 states. It has a citizens’ legislature in which no elected official
 ## apart from the executive branch (the governor, a modest
                 bureaucracy, the police, and judiciary) receives a livable, fulltime salary for public service and must answer for his or her
-390 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## public service every two years in contrast to the four-year
 ## terms that prevail in most of the United States. The
@@ -12580,7 +12212,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 democratic tradition, has given rise to a state of mind that
 ## imparts a higher authority to a grass-roots moral movement
                 than a legislative mandate. In this case, American politics can
-391 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## be credited with being more vulnerable to moral movements
                 than its critics fully realize, Vermont’s town meetings, like those
@@ -12611,7 +12242,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 citizen participation in the allocation of federal communitydevelopment block grants. NPAs were thereupon established in
                 each of the wards and proceeded to formulate constitutions for
                 periodic meetings, coordinating committees, and the like. They
-392 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 were open to all registered voters of a given ward, although
                 their agendas were often presented by agencies in the mayor’s
 ## office.
@@ -12642,8 +12273,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 
                 What can be done in a city like this—and, for that matter, in a
 ## state like Vermont?
-
-393 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## Minimally, Burlington could benefit enormously from a
 ## municipalist political movement whose candidates are
@@ -12676,8 +12305,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## each delegate would merely be the repository of his or her
 ## assembly’s views on specific issues.
 
-394 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## Optimally, it would be the goal of the Council of Assembly
 ## Delegates to replace the Board of Aldermen and institute
 ## genuine town-meeting democracy in Burlington. There is no
@@ -12708,7 +12335,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## public consensus and widespread public participation in a
                 richer political process than mere “voting.” Voters were not
                 mere spectators in a legislative duel conducted in the state
-395 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 capital; they came fairly close to being direct participants in it,
                 placing their representatives under regular public review at
                 town meetings or in the daily life of their communities. A 1966
@@ -12740,7 +12367,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## would function as a moral monitor of the official state
 ## legislature. This “parallel” ethical system of governance,
 
-396 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 legitiinated by the will of the people in yermont’s municipalities
 ## and corresponding to the “second chamber” in Burlington’s
 ## civic government, could “enact” its own “laws” and
@@ -12771,7 +12397,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## incompetence to govern itself and its ultimate recourse to
 ## violence, would increasingly give way to politics with its
                 classical vision of community life as an ethical compact. This
-397 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## conceptual framework, which sees human consociation as a
 ## distinctly human, and humane, attribute of individual
@@ -12803,7 +12428,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 its own County Confederation of Municipalities and organized
                 in all essentials like the councils of assembly delegates within
                 the cities and the Council of Assembly Delegates for the entire
-398 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## state. These countywide confederations would have the
 ## extremely important function of pooling the resources of
@@ -12836,8 +12460,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## would occupy a high place on the agenda of a municipality’s
 ## economic program. Cooperatives, farms, and small retail
 
-399 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## outlets would be fostered with municipal funds and placed
 ## under growing public control—a policy that might very well
 ## command greater consumer loyalty than we would expect to
@@ -12869,8 +12491,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 are not likely to be prepared for self-governance in. any form.
 ## Hence the need for a new municipal politics to become an
 
-400 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## intensely educational and participatory experience at every
                 level of civic life. The appalling failure of so many “progressive”
                 movements in the towns and cities of America to recognize the
@@ -12901,7 +12521,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## control of its own community.
 
                 It may well be that this civicisme, as the French called it two
-401 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 centuries ago, can no longer flourish in an urbanized world that
 ## has been so extensively commodified and permeated by a
                 market economy. But it may well be that precisely because of
@@ -12932,7 +12552,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## existential commitment to turn their visions into practice.
                 Sweeping as urbanization may be today, it has still not swept
                 the ideal of the free, confederally organized municipality from
-402 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## the agenda of history—and as long as it exists there, it is
 ## something devoutly worth fighting for.
@@ -12966,7 +12585,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## produces in such large numbers of Americans has largely
 ## ceased to be a problem of the very people who profess to
 
-403 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 oppose that society, a failure in ethical vision that has left them
 ## isolated and puzzled.
 
@@ -12999,7 +12617,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 an agenda for a new municipal politics, is lost and in that loss is
 ## replaced by the chaos of ideological confusion. A cranky
 
-404 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 pluralism replaces a stern appreciation of focused thinking; a
                 confused eclecticism replaces the need for wholeness, clarity,
 ## and consistency. The ecology movement and movements for a
@@ -13031,7 +12648,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 genuine freedom. That these very ideals of freedom guided the
 ## radical movements of heretical Christianity centuries ago,
 
-405 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 nourished the English, American, and French revolutions in a
 ## more recent time, inspired the Communards of 1871, and
 ## surfaced again in Spain during the 1930s as well as among
@@ -13063,8 +12679,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## constitutional monarchy and only resigned themselves to an
 ## oligarchic form of republicanism whose model was senatorial
 
-406 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## Rome. It was the people, often of varied class origins, who
                 foisted the liberties we enjoy today on the possessing classes,
                 classes that consistently tried to pervert them and are still in
@@ -13094,7 +12708,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 security from arbitrary rule and material well-being. History
                 has scrambled these faces together so that they now appear a
                 blur, not a unified tradition in which one face stands at odds
-407 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## with the others.
 
@@ -13126,7 +12739,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 community, decentralism, individuality, and direct democracy.
 ## The yearning to render it applicable to a modern America is
                 intense, if only it can be properly articulated and earnestly
-408 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## advanced. It will be an unpardonable failure in political
 ## creativity if a movement that professes to speak for a new
@@ -13159,7 +12771,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## rather than participatory citizens, of “bread-on-the-table”
 ## panaceas rather than visionary ideals charged with ethical
 
-409 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 meaning, their politics, far from being “new,” will be the old
 ## authoritarian statecraft garnished with mere rhetoric.
 
@@ -13190,7 +12801,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## discourse that go beyond such episodic acts as
 ## demonstrations and retain a lived as well as organized
                 continuity. To ignore this irreducible civic unit of political life is
-410 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## to play chess without a chessboard, for it is here that the
                 coordinates exist for playing the game in its most direct, basic,
@@ -13222,7 +12832,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## My recourse to history and to speculations about my own
                 community, Burlington, and its Vermont setting is primarily an
                 endeavor to show that living human beings, not their sciencefiction replicas, actually engaged in and continue to involve
-411 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## themselves in a political process that may initially seem
                 visionary when it is presented abstractly. I have tried to show
@@ -13254,7 +12863,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## that must be taken away from the state. There can be no
                 institutional vacuum where power exists: it is either invested in
                 the people or it is invested in the state. Where the two “share”
-412 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## power, this condition is only temporary and extremely
                 precarious. Sooner of later, the control of society arid its
@@ -13286,7 +12894,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 again repeatedly, for example, in the very simple constitution
 ## written by Vermont’s yeomanry two centuries ago, a
                 constitution that is still notable for the brevity of its articles and
-413 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## the minimal amount of statute law that clothes it.
 
@@ -13319,8 +12926,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## commandeered power from unarmed peoples or disarmed
 ## them presumably (as so many liberals would have it today)
 
-414 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## from the “hazards” of domestic and neighborhood
 ## “shootouts.” Typically, this is the cowboy or “gunslingers”
                 image of the “American Dream,” often cynically imposed on its
@@ -13352,7 +12957,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## This second agenda for a more distant future embodies the
 ## “ultimate” vision I have elaborated in greater detail in my
                 previous writings. Its achievement can no longer be seen as a
-415 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 sudden “revolution” that within a brief span of time will replace
                 the present society with a radically new one. Actually, such
                 revolutions never really happened in history as the litany of
@@ -13384,7 +12989,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## Admittedly, at that point we will have moved from a
 ## countervailing position that tries to play our democratic
 
-416 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 institutions against the state into an aggressive attempt to
                 replace the state with municipally based confederal structures.
                 It is to be devoutly hoped that by that time, the state power
@@ -13417,7 +13021,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 proliferation of nuclear reactors, like that of nuclear weapons,
 ## is a reminder that we are reaching a point of almost cosmic
 
-417 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 finality in our affairs on this planet; that the recovery of an
                 authentic politics and citizenship is not only a precondition for a
                 free society. It is also a precondition for our survival as a
@@ -13451,7 +13054,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## certain technical and scientific amenities that may have
 ## lightened humanity’s material burdens.
 
-418 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 [5] Literally, politea. The word republic—the Latin for res
                 publica, literally public things—has no meaning or analogue in
                 Greek, and, in this writer’s view, no place in the title of Plato’s
@@ -13485,7 +13087,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 [9] Hence my strong objections to the way European,
 ## particularly German, city confederacies are treated in the
 
-419 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 mainstream historical literature of the time, particularly by
                 Toynbee and Mumford. In this respect, Kropotkin’s writings are
 ## still exceptional for their sympathy, although they are not
@@ -13519,7 +13120,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## “emerged” as a dominant social order through a series of
 ## “bourgeois-democratic revolutions” whose “paradigm” is the
 
-420 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 French Revolution of 1789–94 (in the view of some historians,
 ## the span of the revolution is expanded to included the
 ## Napoleonic era, notably up to 1814!). The remarkably mixed,
@@ -13551,7 +13151,7 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## technological progress, indeed, the whole Marxist theory of
                 “historical materialism,” was meant to slap not only the face of
                 philosophical idealism but also of the high spirit of European
-421 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 romanticism is an issue that has yet to be fully explored. Gray
 ## became a favorite color of Marxian socialism as part of its
                 deliberate endeavor to disenchant the world and relegate the
@@ -13586,8 +13186,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 {9} Aristotle, op. cit., 1252a3. Translation modified by author.
                 {10} Lilly Ross Taylor: Roman Voting Assemblies (Ann Arbor:
 ## University of Michigan Press; 1966), p. 2.
-
-422 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## {11} Ibid., p. 3.
 
@@ -13626,7 +13224,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 
 ## {25} Ibid., 681–706
 
-423 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 {26} W.G. Forrest, op. cit., p. 204; George Thomson: Aeschylus
                 and Athens (New York: Grosset & Dunlop; 1968).
                 {27} M. Rostovtzeff: Rome (London: Oxford Univerity Press;
@@ -13664,7 +13261,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## {39} Ibid., p. 37.
 
                 {40} Daniel Waley: The Italian City Republics (New York:
-424 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## McGraw-Hill Book Co.; 1969), p. 63.
 
@@ -13702,7 +13298,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 {54} J.A.O. Larsen: Greek Federal States (London: Oxford
 ## University Press; 1967), p. 27.
 
-425 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 {55} Peter Kropotkin: Mutual Aid (Montreal: Black Rose Books;
 ## n.d.).
 
@@ -13741,7 +13336,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 {69} Mary Beard: A History of Business, Vol. I (Ann Arbor:
 ## University of Michigan Press; 1938), p. 50.
 
-426 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 {70} R.S. Lopez: “The Evolution of Land Transport in the Middle
 ## Ages,” Past and Present, April, 1956, p. 17.
 
@@ -13781,7 +13375,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
 ## der Kleinen Gruppen, (Zurich, 1951). Quoted in Benjamin
 ## Barber, ibid., p. 101.
 
-427 of 428 3/17/25, 5:09 PM Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 {85} T.H. Breen: Puritans and Adventurers (New York: Oxford
 ## University Press; 1980), p. 3.
 
@@ -13809,5 +13402,3 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 Society; 1925), p. 249. Quoted in David Szatmary, ibid., p. 11.
                 {94} Max Horkheimer: The Eclipse of Reason (New York:
 ## Oxford University Press; 1947), p. 135.
-
-428 of 428 3/17/25, 5:09 PM

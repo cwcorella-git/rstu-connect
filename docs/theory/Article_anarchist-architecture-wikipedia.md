@@ -43,7 +43,7 @@ Anarchist architecture - Wikipedia https://en.wikipedia.org/wiki/Anarchist_archi
          While anarchist architecture can be performed with explicit anarchist intentions, it can also be carried out
          unconsciously, as a community will simply react to their living conditions without the knowledge of anarchist
          theory.[6]
-1 of 6 10/15/25, 5:57 PM Anarchist architecture - Wikipedia https://en.wikipedia.org/wiki/Anarchist_architecture
+
          History
          The Italian anarchist architect Giancarlo De Carlo was an important ﬁgure in the development of anarchist
          architecture. De Carlo, who opened his oﬃce in 1950, was active in the Italian anti-fascist resistance and in
@@ -85,7 +85,7 @@ Anarchist architecture - Wikipedia https://en.wikipedia.org/wiki/Anarchist_archi
          interviews and in his notebooks", Attlee writes. "Since his death it has become closely associated with his
          wider ideas about art and architecture; indeed, some would probably argue that it has been hi-jacked by those
          seeking to foreground their own agenda."
-2 of 6 10/15/25, 5:57 PM Anarchist architecture - Wikipedia https://en.wikipedia.org/wiki/Anarchist_architecture
+
          The term has also been used by Lebbeus Woods, whose architecture was deliberately inspired by anarchistic
          ideas and was made to inspire people to reinvent their way of living.[10] Woods abandoned conventional
          architecture in the 1970s and devoted himself to experimental and conceptual art. While he also designed
@@ -122,7 +122,7 @@ Anarchist architecture - Wikipedia https://en.wikipedia.org/wiki/Anarchist_archi
          British-Asian and West-African communities in the United Kingdom created housing cooperatives during the
          1960s, where individuals would pay to join, take a loan from a fund and pay it back with no interest as a way
          to fund the construction of their houses.[17]
-3 of 6 10/15/25, 5:57 PM Anarchist architecture - Wikipedia https://en.wikipedia.org/wiki/Anarchist_architecture
+
          Some associations, such as the South London Housing Association (SOLON), were created with the
          objective of remodeling pre-existing houses. They became more active after the Housing Act (1974), that
          raised the funding for housing cooperatives in London. SOLON "was run on worker co-operative collectivist
@@ -157,7 +157,6 @@ Anarchist architecture - Wikipedia https://en.wikipedia.org/wiki/Anarchist_archi
             hdl:20.500.11850/490393 (https://hdl.handle.net/20.500.11850%2F490393).
          5. Worpole, Ken (2013). Richer Futures: Fashioning a New Politics. Routledge.
             ISBN 9781134060788.
-4 of 6 10/15/25, 5:57 PM Anarchist architecture - Wikipedia https://en.wikipedia.org/wiki/Anarchist_architecture
 
           6. Coates, Michael R. (2022). The Architects' Revolutionary Council: Architectural
              anarchy in Britain & Ireland in the 1970s and how to destroy the R.I.B.A. (https://et
@@ -206,7 +205,6 @@ Anarchist architecture - Wikipedia https://en.wikipedia.org/wiki/Anarchist_archi
              Archived (https://web.archive.org/web/20250527010723/https://theconversation.co
              m/how-anarchist-architecture-could-help-us-build-back-better-after-covid-170328)
              from the original on 27 May 2025. Retrieved 26 May 2025.
-5 of 6 10/15/25, 5:57 PM Anarchist architecture - Wikipedia https://en.wikipedia.org/wiki/Anarchist_architecture
 
          16. Bower, Richard (2016). "Who Decides and Who Provides? The Anarchistic Housing
              Practices of John Turner as Realizations of Henri Lefebvre's Autogestive Space".
@@ -217,4 +215,3 @@ Anarchist architecture - Wikipedia https://en.wikipedia.org/wiki/Anarchist_archi
              Anarchist Studies. 23. Lawrence and Wishart. ISSN 0967-3393 (https://search.world
              cat.org/issn/0967-3393). Retrieved 26 May 2025.
          Retrieved from "https://en.wikipedia.org/w/index.php?title=Anarchist_architecture&oldid=1313409451"
-6 of 6 10/15/25, 5:57 PM

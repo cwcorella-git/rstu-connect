@@ -8,7 +8,6 @@ tags:
   - Spain
 ---
 
-The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
             Murray Bookchin
             The Spanish Anarchists
             The Heroic Years, 1868–1936
@@ -49,8 +48,6 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
 ## 2. Early History (Chapters I-I1I).
 ## 3. From the International to the CNT (Chapters IV and Vll).
                 4. From the Early CNT to the Second Republic (Chapters VIII-IX)
-
-1 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
 
 ## 5. The Road to Revolution
 ## Note on Sources
@@ -97,7 +94,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             Highlighting the reconstructive eﬀorts of the Anarchists was the Spanish Civil
             War itself, an unforgettable conﬂict that was to last nearly three’ bitter years,
             claim an estimated million lives, and stir the deepest passions of people
-2 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             throughout the world.
                No less signiﬁcant was the development of the Spanish Anarchist movement
             from the 1870s to the mid-1930s—its forms of organization, its inﬂuence on
@@ -147,7 +144,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             voices of these groups be expressed with a greater degree of understanding
             than they have generally received.
                The Spanish Civil War, in fact, was very much part of my own life and
-3 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             aﬀected me more deeply than any other conﬂict in a lifetime that has seen a
             terrible international war and the decades of nearly chronic warfare that
             followed it. My sympathies, indeed my Utter devotion, lay with the Spanish
@@ -194,7 +191,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             1960s and with the ecologically oriented young people of today. In contrast to
             Marxian movements, Spanish Anarchism placed a strong emphasis on lifestyle: on a total remaking of fhe individual along libertarian lines. It deeply
             valued spontaneity, passion, and initiative from below. And it thoroughly
-4 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             detested authority and hierarchy m any form. Despite its stern moral outlook,
             Spanish Anarchism opposed the marriage ceremony as a bourgeois sham,
             advocating instead a free union of partners, and it regarded sexual practices
@@ -243,7 +240,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             attention of the general reader. Accordingly, I have chosen to dwell upon the
             turning points of the movement, especially those moments of social creativity
             which are likely to have importance for our own time. I have also tried to tell
-5 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             the story of the more outstanding Spanish Anarchists: the saint-like ascetics
             and ﬁery pistoleros, the deﬁant terrorists and plodding organizers, the
             scholarly theorists and untutored activists.
@@ -292,7 +289,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             authoritarian party, however “libertarian” their opponents might seem in
             other respects. Basic diﬀerences were meant to be respected, not ignored;
             indeed, they were meant to be deepened by the logic of dispute and
-6 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             examination, not compromised by emphasizing superﬁcial resemblances and a
             liberal accommodation to ideological divisions. The slaughter and terror that
             followed in the wake of Franco’s march toward Madrid in the late summer of
@@ -342,7 +339,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
                Finally, I would like to remind the reader that Spanish life has changed
             greatly from the conditions described in this volume. Spain is no longer a
             predominantly agrarian country and the traditional pueblo is rapidly giving
-7 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             way to the modern town and city. This should be dearly borne in mind at all
             times while reading the book. The image of “eternal Spain” has always been a
             reactionary one. Today, when Spain has become one of the most industrialized
@@ -392,7 +389,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             personally involved with their movement. Although I have consulted a large
             number of books, periodicals, letters, and reports on the Spanish Anarchist
             movement, my most rewarding experiences have come from the individuals
-8 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             who knew it at ﬁrst hand. Space limitations make it possible for me to list the
             names of only a few. I am deeply grateful to a very kindly man, Jose Peirats,
             the historian of Spanish Anarchism in its latef period^ for painstakingly
@@ -442,7 +439,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             preparing the text.
                In writing a general narrative of this kind, an author must make a decision
             on where to draw the limits to his research if he is to complete the work in a
-9 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             reasonable period of time. Despite the comparatively improved climate of
             Franco’s Spain a decade ago, my visit to the country in 1967 coincided
             precisely with the publication of an article in my own name-in a leading
@@ -490,7 +487,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
               Fanelli’s trip should have been a complete ﬁasco. Financially, it was
             conducted on a shoestring. Bakunin had raised barely enough money to pay
             for the fare, with the result that Fanelli, chronically short of funds, was
-10 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             constantly pressed for time. His knowledge of Spain was limited and he could
             speak scarcely a sentence in Spanish. In Barcelona, he managed after some
             diﬀiculty to ﬁnd Elie Reclus, the distinguished French anthropologist and a
@@ -540,7 +537,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             Association. Lorenzo tried to persuade Fanelli to remain longer, but he
             declined. The Italian explained that he had to leave because it was necessary
             for individuals and groups to develop “by their own eﬀorts, with their own
-11 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             values,” so that the “great common work will not lack the individual and local
             characteristics which make for a kind of variety that does not endanger unity,”
             but in fact yields a “whole that is the sum of many diﬀerent elements.” In
@@ -589,7 +586,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             yearnings for freedom. And, we shall see, Spain was uniquely susceptible to
             Anarchist visions of liberation.
             Chapter One: The “Idea” and Spain
-12 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             Background
               What was the “Idea,” as it was destined to be called, that Guiseppi Fanelli
             brought to Madrid and Barcelona? Why did it sink such deep and lasting roots
@@ -637,7 +634,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             moments.”
               More typical, however, were the revolutionary peasant movements of the
             late Middle Ages which demanded village autonomy, the preservation of the
-13 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             communal lands, and in some cases, outright communism. Although these
             movements reached their apogee in the Reformation, they never disappeared
             completely; indeed, as late as the twentieth century, Ukranian peasant
@@ -687,7 +684,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             Spanish labor movement. The cooperativist movement, perhaps more
             authentically Proudhonian than Anarchist, raised many obstacles to the
             revolutionary trajectory of the Spanish Anarchist movement. As
-14 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             “cooperativists,” the mutualists were to seek a peaceful and piecemeal
             erosion of capitalism. The Anarchists, in turn, were to stress the need for
             militant struggle, general strike, and insurrection.
@@ -736,7 +733,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             “Garibaldi of Socialism,” as Gerald Brenan calls him—that the collectivist and
             Federalist elements in Proudhon’s theories were given a revolutionary thrust
             —and were carried into Spain as a ﬁery anarchistic ideal.
-15 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             Mikhail Bakunin
               The man who was most successful in providing the vast plebian elements of
             Spanish Anarchism with a coherent body of ideas was neither a Spaniard nor
@@ -785,7 +782,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             by the warmth of his personality, were to turn to him for moral inspiration
             throughout his life.
               He was born in May 1814, in Premukhina, a moderately large estate 150
-16 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             miles northwest of Moscow. A nobleman whose mother was connected by
             lineage to the ruling circles of Russia, Bakunin abandoned a distasteful
             military career and the prospect of genteel stagnation on his family estate for
@@ -835,7 +832,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             centralization as an advance over localism and regionalism. Bakunin
             emphatically disagrees with this viewpoint. The state, he admits, may be
             “historically necessary” in the sense that its development was unavoidable
-17 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             during Ijumanity’s emergence from barbarism, but it is an “historically
             necessary evil, as necessary in the past as its complete extinction will be
             necessary sooner or later, just as necessary as primitive bestiality and
@@ -886,7 +883,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             exercised by the armed revolutionary people, organized in popular militias.
             The revolutionary movement, in turn, must try to reﬂect the society it is trying
             to create. If the movement is to avoid turning into an end in itself, into
-18 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             another state, complete conformity must exist between its means and ends,
             between form and content. Writing bn the structure of the International,
             Bakunin insists that it
@@ -933,7 +930,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             the Latin countries. He foresaw the danger of the embourgeoisement of the
             industrial proletariat and warned of its consequences. Following a
             predisposition to mistrust stable, complacent, institutionalized classes in
-19 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             society, Bakunin turned increasingly to decomposing, precapitalist classes of
             the kind that prevailed in Russia and southern Europe: landless peasants,
             workers with no stake in society, artisans faced by ruin, footloose declasse
@@ -983,7 +980,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             pervaded by its atmosphere of mutual aid and solidarity. Like virtually all the
             intellectuals of his day, he acknowledged the importance of science as a
             means of promoting eventual human betterment; hence the embattled
-20 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             atheism and anticlericalism that pervades all his writings. By the same token,
             he demanded that the scientiﬁc and technological resources of society be
             mobilized in support of social cooperation, freedom, and community, instead
@@ -1032,7 +1029,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             doubtless had a strong appeal in areas like Andalusia where the peasantry
             had come to venerate the social bandit as an avenger of injustice. In this land
             of the “permanent guerrilla”—a ﬁgure that reaches as far back as the Moorish
-21 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             invasion—the lonely band, striking a blow for freedom, had become especially
             dear to the rural poor and nourished a multitude of local myths and legends.
                Finally, Bakunin’s appeal to direct action found a wealth of precedents in
@@ -1080,7 +1077,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             Anarchism below the Pyrenees.
               The most striking characteristic of the Iberian Peninsula is its startling
             variety—its variety of landscapes, land tenure, cultural features, and social
-22 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             forms. It is the sudden changes in topography that catch the attention of a
             traveler in Spain. Within a few hours, one can pass from green, rolling
             country, with well-watered soil and abundant crops, to baked, arid plains,
@@ -1130,7 +1127,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             indisputable heirs of the Spanish state. All other inhabitants of Spain are
             viewed as social inferiors. Yet rarely in history has a “master race” been
             conﬁned to a more inhospitable region of the country under its control. The
-23 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             Meseta has a harsh, erratic climate. Its soil, in the absence of irrigation
             works, is poor and demanding. During Fanelli’s day, a traveler would have
             found all the conditions for chronic agrarian revolts: large estates, owned by
@@ -1179,7 +1176,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             second or third year. The largest estates tended to congregate in the
             Guadalquiver valley, the huge triangular basin that lies between the Sierra
             Morena and the mountain chains of the southern coast. It was here, in the
-24 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             best lands of the most fertile districts of Andalusia, that one found the largest
             holdings, the immense masses of gang labor, and those grotesque economic
             contrasts that gave the region its reputation for misery and agrarian
@@ -1229,7 +1226,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             land tenure. The contrasts extend also to cultures which, in the case of the
             Basques and Catalans, verge on fairly distinct nations. The Basques occupy
             the Atlantic area of the north forming a corner with France, in which live
-25 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             another sizeable portion of their people. Basque is an ancient language
             unrelated to any other in Europe. A deeply pious, outwardly stern people,
             whose sense of self-discipline is relaxed in buoyant songs and satiric
@@ -1279,7 +1276,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             the intense localism of Spanish social life: the patria chica (literally, “small
             fatherland”), an almost untranslatable term that denotes the. village and its
             immediate region—in short, the living arena of the rural Spaniard’s world.
-26 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
                The Spanish word for village is pueblo. Pueblo also means “people,” and this
             is by no means accidental. J.A. Pitt-Rivers, who devoted years of study to
             Spanish village life in Andalusia, notes that “the Greek word for polis far more
@@ -1329,7 +1326,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
                The fueros, which this unique development fostered, helped to provide a
             sturdiness to the pueblo that no amount of bureaucratic structuring could
             possibly match. They also generated those centrifugal forces that continually
-27 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             threatened the central power, or at least challenged the validity of its
             functions. What need had Spaniards for a distant, bureaucratic, anonymous
             state when their pueblos, human in scale, intimate in cohesion, with a
@@ -1375,7 +1372,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             Fanelli’s visit, the capital city of Spain had no industry to speak of. Its
             proletariat consisted of craftsmen, working by traditional standards in small
             shops, and its market was composed of petty government oﬀicials, courtiers,
-28 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             soldiers, an emerging commerical middle class, and a large number of
             intellectuals attracted by the University of Madrid and by the city’s
             burgeoning cultural life. Anarchism in the Spanish capital was largely to
@@ -1424,7 +1421,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             brothers, employing thousands of unskilled workers and producing cheap
             cotton cloth for the villages and towns of Spain.
               The average Barcelona factory operative worked long hours and at nearsubsistence wages (see pp. 51–52 below), living with his or her family in
-29 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             hovels that often lacked adequate ventilation and sanitary facilities. This
             degraded way of life, scarred by toil and poverty, was menaced continually by
             technological unemployment and by lay-oﬀs due to economic slumps. Reduced
@@ -1474,7 +1471,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             relations with the Federal Center were excellent and the pages of its newly
             established organ, La Federation, were open to the expression of
             Internationalist opinions. In a letter to Bakunin he describes the basic
-30 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             strategy of the Barcelona nucleus as a threefold approach: to defend
             Socialism in “a prudent manner”in La Federation, to bring the regulations of
             the Federal Center into accord with the spirit of the International, and to
@@ -1524,7 +1521,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             hierarchical, elitist organization which stands in blatant contradiction to his
             libertarian principles. This contradiction in my view is very real. Bakunin had
             intended the “International Brotherhood” to be a secret organization of
-31 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             Anarchist militants, led in tightly disciplined fashion by a highly centralized
             group of initiates—indeed, by what amounted to a revolutionary general staﬀ.
             The Russian never resolved the need to bring his organizational theories and
@@ -1574,7 +1571,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             ﬁnd a rich soil below the Pyrenees, nourished by the devotion of thousands of
             workers and peasants. Only the scythe of fascism could remove this wild
             luxuriant growth from the Iberian Peninsula—and with it the revolutionary
-32 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             passion of Spain.
             The Congress of 1870
               On the morning of Sunday, June 18, 1870, about one hundred delegates
@@ -1620,7 +1617,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             night. Women work from ten to ﬁfteen hours for less than a dollar, and in
             some factories, for as much as eighteen hours for little more than a dollar.
             Other delegates report that eleven, sixteen, and eighteen hours of daily work
-33 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             are typical in the textile enterprises around Barcelona and Tarragona. Farres,
             a delegate of the steam workers, speaks for “a sad and lamentable group in
             which the capitalists have declared men useless for work and replaced them
@@ -1670,7 +1667,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             obviously Anarchist-inspired, dismissed the importance of producers’
             cooperatives under capitalism: they would represent simply one more
             institution within the bourgeois framework. But the report did emphasize the
-34 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             practical role consumers’ cooperatives could play in promoting “cooperative
             habits” and a spirit of mutual aid among the workers. In dealing with
             cooperatives as an educational means, rather than as a social end that could
@@ -1720,7 +1717,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             to advance as a model for the International as a whole at its next conference
             in London in 1871. This structure is worth examining in some detail. It
             anticipates in many respects the syndicalist form of organization adopted by
-35 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             the French labor movement in the 1890s, a form that later spread to other
             European countries and surfaced again in Spain.
                The commission proposed a dual structure for the Spanish section of the
@@ -1770,7 +1767,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             of revolutionary idealism which has never been equaled by workers’ unions
             elsewhere in the world.
                We must look closely at these men and women, these Spanish Anarchists,
-36 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             and try to gain an understanding of their lives, their fervor, and their
             dedication to the “Idea.” Although the founding nuclei of Spanish Anarchism
             included many intellectuals and students (such ﬁgures as Gaspar Sentinon,
@@ -1820,7 +1817,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             were the Anarchists’ mortal enemies; any voluntary dealings with these
             institutions were to be avoided. Children were sent to libertarian or union
             schools. If these were not available, they went to nonclerical institutions or
-37 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             were taught at home. Parents would often give their children names like
             “Libertaria” (a favorite for the daughters of Anarchist militants) or
             “Emancipacion”; they might even exchange their own ﬁrst names for those of
@@ -1870,7 +1867,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             and banality.
                This devotion, however, did not reduce him to an organizational robot. He
             controlled the movement like everyone else in it and, despite the complexity
-38 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             of its structure at times, it was usually scaled to human dimensions. If this
             structure threatened to become too complex, he as an Anarchist threw the full
             weight of his prestige against the development and together with his
@@ -1920,7 +1917,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             prostitution, broken families, and beggary had reached appalling proportions.
             Not only traditional society but the proletariat itself was in a state of decay.
               The Spanish Anarchists were determined to eliminate these demoralizing
-39 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             features from working-class life. They were intent on restoring the moral ﬁber
             of the proletariat, on giving it inner solidity and ﬁrmness. In a society of
             scarce resources, where a life of idleness and dissipation was a function of
@@ -1967,7 +1964,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             class, the peasants, and the growing working-class movement.
               The details of this succession of failures are too complex to explore in the
             space of a few pages, but the Very fact of their complexity is evidence of the
-40 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             nervous twitching, followed by periodic collapse, that marked Spanish
             political life from the opening decades of the rtineteenth century to Isabella’s
             removal from the throne.
@@ -2016,7 +2013,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             grouping based on the landed bourgeoisie, and the Progressives, a prudent
             cabal of anticlerical “Europeanizers,” who leaned for support on the well-todo urban middle classes. Welling up from the depths of the disillusioned petty
             bourgeoisie came the Republicans—a conglomerate of radicals and
-41 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             Federalists, the latter adhering to Pi y Margall’s doctrine of a Swiss-like,
             cantonal state.
                There was one thing that united this ﬂotsam of Monarchists, clerics,
@@ -2065,7 +2062,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             situation inconceivable in France,” and most of the bishops were recruited
             from “the obscurity of the minor provincial nobility.” Nor was there a visible
             display of clerical luxury and opulence. A bishop, Carr adds,
-42 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
                  was expected to give all his surplus income to charity once his
                  simple houshold needs were satisﬁed. The average parish priest was
                  poor and remained so throughout the nineteenth and twentieth
@@ -2115,7 +2112,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             half century of meddling and manipulation had made it increasingly suspect
             as a corps of Praetorians, even to the Moderates. Having exhausted its
             alliance with the Liberals, embroiled in imperialist adventures in Morocco, the
-43 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             Spanish oﬀicer caste began its slow, fatal drift to the right. If the Liberals,
             who still had illusions of acquiring popular support, regarded the army as an
             embarrassing and dangerous liability, the reactionaries in later years were
@@ -2160,7 +2157,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             Proletarian Anarchism
               The founding of the Spanish Regional Federation opened an entirely new
             period in the modern history of Spain. Since the respectable Liberal parties
-44 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             had shut themselves oﬀ from the masses of Spain the lower classes would try
             to form organizations of their own. The political polarization of rulers and
             ruled merely paralleled one that had long since developed on an economic
@@ -2210,7 +2207,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             many outstanding ﬁgures in the Barcelona labor movement were pragmatic
             trade unionists whose social idealism was shallow at best. The International in
             the Catalan seaport was based on an alliance between a handful of Anarchists
-45 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             and a larger group of opportunistic unionists who had been driven into an
             antipolitical, direct-actionist position by the intransigence of the Barcelona
             textile manufacturers. Between these two tendencies of the Catalan tradeunion movement existed an uneasy, even distrustful relationship which was to
@@ -2259,7 +2256,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             transitional class like the peasantry. It is certain he would have regarded the
             rural Murcianos, not to speak of (os miserables of the Spanish cities generally,
             with disdain—as a declasse ﬂotsam, a lumpen proletariat.
-46 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
               This contemptuous attitude toward decaying classes at the base of society is
             evinced most clearly in his remarks on the Franco-Prussian War. “The French
             need a thrashing,” he wrote to Engels a day after the outbreak of hostilities.
@@ -2308,7 +2305,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             the atmosphere of Barcelona that was to make it the most exciting, unruly,
             and revolutionary city in Europe.
                In the early 1870s, however, these large masses of semiproletarians had yet
-47 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             to be won to Anarchism. The most dedicated early supporters of the Spanish
             Federation were craftsmen, not declasses or unskilled factory workers. As late
             as 1872, more than half of the delegates to the Cordoba congress of the
@@ -2358,7 +2355,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             country.
                The Spanish Federation, on the other hand, was badly in need of repair. The
             Federal Council had suﬀered the loss of two members: Borrel, who had
-48 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             dropped out of activity, and Francisco Mora, who remained behind in Lisbon,
             nursing personal and political grievances that were later to bring him into the
             Marxian-inspired Spanish Socialist Party. Most of the work in the Council fell
@@ -2408,7 +2405,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             Whence, then, came the impulse for the centralization of the Spanish Regional
             Federation? Frankly, the Federal Council was not composed entirely of
             Anarchists. In fact, it included the very men who in later years were to found
-49 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             the Spanish Socialist Party: Francisco Mora, Jose Mesa, and Pablo Iglesias.
             Within a few months of the Valencia conference, these men—the Autoritarios
             (Authoritarians), as they were called by the Anarchists—were locked in a
@@ -2458,7 +2455,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             on the Federal Council, on the other hknd, were not immune to dishonorable
             tactics of their own. Suspicions of Lorenzo’s personal friendship with
             Lafargue, they surreptitiously opened his mail from Madrid and surrounded
-50 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             him in an atmosphere of intrigue. Such tactics by his own comrades so
             infuriated Lorenzo that he resigned from the Federal Council and left
             Valencia. But he never gave up his Anarchist principles and soon returned to
@@ -2508,7 +2505,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             form of Anarchist organization in Spain. Although it is hard to speak of
             “typicality” with respect to the Spanish Anarchist movement, the congress
             basically abandoned the unwieldly structure created by the Valencia
-51 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             conference of the previous year. The Federal Council was shorn of its
             authority over local organizations and reduced to a mere “Federal
             Commission for Correspondence and Statistics.” The trade sections and local
@@ -2558,7 +2555,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             a structural ﬂexibility, organizational looseness, and an atmosphere of
             freedom that has rarely been equaled by a mass labor movement in the
             history of our time. They had read their Bakunin well.
-52 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              Brenan gives us a superb account of how well their movement suited
             Spanish conditions. “The ﬁrst need,” he writes,
                  was to get hold of the half-starving, uneducated ﬁeld laborers and
@@ -2608,7 +2605,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             government was too weak to enforce its order and the Federation continued
             to function as publicly as ever, even calling large rallies to protest the ban.
             But its days as an open movement were numbered, for if Spain was in
-53 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             upheaval and faced with revolution, she was also faced with a reactionary
             military pronunciamiento that would decide her future for decades to come.
             Rebellion and Repression
@@ -2655,7 +2652,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             uphold the interests of reaction, but except for the threat they posed in
             Catalonia, they were boxed into the northern mountains.
               It seemed for a time that the Federalists would succeed. A Constituent
-54 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             Cortes elected a few weeks after Amadeo’s abdication provided them with a
             working majority and the legality necessary to establish a decentralized,
             cantonal republic. E. Figueras, a cautious Federalist benevelo who had
@@ -2705,7 +2702,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             government of Cartegena and declared themselves autonomous. The
             Cartegena revolt doomed Pi’s legalist “conciliatory” policy. The “father of
             Spanish Federalism” was now mistrusted by every faction in the movement.
-55 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             The right regarded him as too “socialistic” and “conciliatory”; the
             Intransigents, as treacherous and lacking in revolutionary zeal, although their
             deputies in the Cortes were prepared to support him against other
@@ -2755,7 +2752,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             policy of its own except for Internationalist uprisings in Alcoy, San Lucar, and
             a few scattered communities in Andalusia. In Barcelona, the proletariat
             responded to the Federation’s plea for a general strike but refused to follow it
-56 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             along the path of social revolution. Intransigents and Internationalists worked
             together in establishing a Committee of Public Safety in Barcelona’s
             municipal’government. The Seville revolutionary junta was headed by the
@@ -2805,7 +2802,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             in an isolated and patently indefensible town. Accordingly, they tried to
             negotiate with the municipal government. The next day a second delegation
             appeared at the City Hall with the warning that the mayor and his council
-57 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             must either maintain their neutrality or resign if they wished to avoid a
             conﬂict. As the delegation was leaving, the police opened ﬁre on an unarmed
             crowd in the square. It was this stupid provocation rather than any “sinister”
@@ -2855,7 +2852,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             a transition to a restoration of the Bourbon monarchy. When a bloodless
             pronunciamiento by Martinez Campos brought Alfonso XII, Isabella’s son, to
             the throne a year later, it surprised no one in Spain or abroad. Even a
-58 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             substantial number of Carlists defected to the new monarch.
               The Federalist movement, split irreparably by the Cantonalist uprisings,
             was to disappear under the Bourbon Restoration. Yet its importance for
@@ -2905,7 +2902,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
               The fact is, of course, that the Internationalists in the tities were living on a
             myth. No revolution was in the oﬀing; indeed, the ﬁrst signs of mass urban
             revolutionary unrest were not to reappear in Spain until the turn of the
-59 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             century. Lacking the power to conduct strikes for higher wages and better
             working conditions, the International had been deserted by the Spanish
             proletariat; hence it could feed only on ideology, hope, and conspiracy. Many
@@ -2951,7 +2948,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             acres. To compensate for the small size of these holdings, grazing is done on
             common land. A large pueblo of three thousand inhabitants or more, for
             instance, may own thousands of acres of forest and pasture. A substantial
-60 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             minority, of peasants have larger holdings (in excess of ﬁve acres). Still
             another minority are essentially landless laborers who must contract for work
             in the pueblo or on large estates in the valley. The pueblo’s money is acquired
@@ -3001,7 +2998,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             proportions. But after the 1870s, the more capable of the mountain villagers
             became “los que tertian ideas” (“those who had ideas”). They embraced
             Anarchism with a devotion that was to survive every persecution but the
-61 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             meticulous execution squads of the fascist Falange.
               To be an Anarchist in the mountain pueblos involved adopting all the
             personal standards of the Anarchists in the cities. A man did not smoke, drink,
@@ -3050,7 +3047,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
               The majority of villagers, to be sure, were never actively occupied with.the
             Anarchist movement. Although aroused to action in periods of distress or
             hope, in ordinary times they went about their daily business with very little
-62 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             interest in anarchistic tenets. On the other hand, the convinced Anarchist
             militants formed a tight nucleus within the larger arena of the pueblo. They
             became, in eﬀect, a clan, even “intermarrying” and establishing blood ties.
@@ -3099,7 +3096,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
                  I recall an incident during a visit to an experimental pig farm in an
                  out-of-the-way part of Andalusia. From the darkness at one end of
                  the building came a red glow. I went along and found a laborer’s
-63 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
                  family crouched on the ﬂoor around a twig ﬁre with smoke so thick
                  that breathing was diﬀicult. The malodorous squalor contrasted
                  with the carefully washed sties that I had been seeing. To my query
@@ -3149,7 +3146,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             political bosses in local elections. The alliance between the caciques and
             bandits served not to abate brigandage, but to expand it. Shielded from
             imprisonment by the patronage of their new employers, the bandits began to
-64 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             raid with impunity. A point was ﬁnally reached where travel between
             Andalusian towns was virtually impossible without an armed escort.
               To restore the security of the roads by using the local militia and police
@@ -3198,7 +3195,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             despair and fatalism. Ricardo Mella, the sensitive Anarchist essayist who lived
             in Andalusia for many years, recalls the volatile temperament of the people,
             so quick to rise in boundless enthusiasm and then sink into dejection, lacking
-65 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             doggedness and staying power. Later, however, passions would begin to surge
             up again, and the dream would reappear. The cycle would be repeated with
             the same fervor, as though a regeneration had occurred without a background
@@ -3245,7 +3242,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             proportion of technicians and scientists.
               In 1871, the Spanish Eederation began to-make serious headway in the
             cities of the south, and thereafter it grew rapidly. A year later, Anselmo
-66 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             Lorenzo, touring Andalusia, could report with great satisfaction that viable
             groups existed in Seville, Carmona, Jerez, Malaga, and Cadiz. The Federation
             could also claim small groups in Cordoba, Aguilar de la Frontera, and other
@@ -3294,7 +3291,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
               Andalusia, it should be noted, is not lacking in a Socialist tradition of its
             own. Even before Fernando Garrido in Madrid had founded La Atraccion
             (generally described as the ﬁrst Spanish Socialist—actually Fourierist—
-67 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             periodical), Juan Abreu had been propagating similar ideas in Cadiz. Later, he
             established a Fourierist colony near Jerez de la Frontera, but it was
             suppressed by the authorities. The expansion of a militant Federalist
@@ -3344,7 +3341,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             Cervantes. Their contrasting personalities provide a fascinating picture of the
             varied human types who were drawn to Anarchism at that period.
               Jose Navarro Prieto had barely reached nineteen years of age when he
-68 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             began his correspondence with the Federal Council. As was the case with so
             many young Andalusian radicals of the day, in his background we see an
             overlapping of the worlds of craftsman and middle-class intellectual. There
@@ -3394,7 +3391,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             savagely attacked by oﬀicial society. Finding it intolerable to stay at the
             university, Cervantes left Cordoba to take up an exchange professorship in
             Badajoz, where he died shortly afterward.
-69 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
               Although their destinies were to diﬀer, Navarro and Cervantes were men of
             ability; more signiﬁcantly, they were surrounded by a complement of highly
             dedicated working-class elements. The Cordoba nucleus began to prosper.
@@ -3444,7 +3441,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             followed by the early Anarchist movement in the Andalusian cities.
             Intellectuals play the initiating role in establishing a nucleus, but they are
             soon surrounded by workers, usually craftsmen, who form the lasting bedrock
-70 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             of the local organization. The movement in the cities is not millenarian or
             wildly apocalyptic. On the contrary, it takes root in a suprisingly stolid manner
             and grows rapidly only under the impetus of events. When the situation
@@ -3493,7 +3490,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             the International in the cities, Anarchist ideas were to percolate deeply into
             the Andalusian countryside.
               The Spanish Federation, however, was now in hopeless decline. Its history
-71 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             between 1874 and 1880 is a humiliating one. The Federal Commission,
             continually in ﬂight from the police, clawed itself to shreds with internal
             bickering. A quarrelsome, unstable body with a waning following and obscure
@@ -3543,7 +3540,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             proceedings seem almost like a replay of the disputes that had occurred in
             1870. Republicans tried to gain a commitment to political action. Predictably,
             some of the more forthright trade unionists sought a conventional labor
-72 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             organization, explicitly aimed at reforms and economic gains. The congress
             rejected both of these positions by large votes, declaring Anarchism to be the
             social goal of the Spanish working class. It emphatically rejected political
@@ -3592,7 +3589,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             into 218 local federations and 663 sections. The great bulk of the union’s
             membership—more than 38,000—was located in Andalusia, while only 13,000
             came from industrial Catalonia. To many delegates from the south, the
-73 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             opportunistic policies of the Catalan labor leaders were nothing less than
             treachery. During the three-day congress a furious battle exploded between
             the two great regions of Spanish Anarchism. It was here, in the Seville
@@ -3642,7 +3639,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             lingered on for years, and Anarchists were arrested and accused of belonging
             to this spurious organization well into the 1890s.
                The Mano Negra persecutions destroyed the Workers’ Federation in
-74 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             Andalusia and almost certainly contributed to its decline in Catalonia. An
             atmosphere of fear, nourished by memories of the repression in the 1870s
             settled over Spain and workers began to desert the movement by the
@@ -3690,7 +3687,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             Carlist Wars served up some of the most frightful butcheries to be seen in the
             nineteenth century. From this quarter came the demand for censorship of
             periodicals and books, for clerical control over educational institutions, and
-75 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             for a restoration of the Inquisition.
               Both Carlism and rural Anarchism, then, take their point of departure from
             the pueblo. But it would be diﬀicult to conceive of more divergent world
@@ -3738,7 +3735,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             conservative. The two factions were drawn together by a common fear of
             clerical, military, and radical uprisings. With the premature death of Alfonso
             XII in March 1885, the Conservative and Liberal parties of the Restoration
-76 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             period came to an agreement to share the state between themselves. A
             political system of Turnismo, or “rotation” was established in which the
             Liberal Party, under the ebullient Praxedes Sagasta, was given the reins of
@@ -3788,7 +3785,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             of Andalusian laborers. A more cautious strategy was tried in 1881, the same
             year that the Workers’ Federation was founded, when the Autoritarios of the
             Old International established the Spanish Socialist Party.[12] Although
-77 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             Marxian in rhetoric and organizational structure, it was basically reformist in
             politics and goals. What probably rescued the party from the fate of the
             Anarchists were the modest demands of its program, the prudent nature of its
@@ -3838,7 +3835,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             example, who exploded a bomb in the French Chamber of Deputies—were
             members of Anarchist groups. The majority, like the Frenchman Ravachol,
             were soloists. They called themselves “Anarchists,” but belonged to no group,
-78 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             for the word had by this time become a synonym for “terrorist.” The
             identiﬁcation of Anarchism with terrorism was the result not merely of earlier
             bombings but of a new emphasis in libertarian circles on “propaganda by the
@@ -3888,7 +3885,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             society. He too believed that it would mean a stateless society of free,
             decentralized communes joined together by pacts and contracts. What
             distinguished him from Bakunin was his insistence that directly after the
-79 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             revolution each commune would be capable of distributing its produce
             according to need. “Need will be put above service,” he wrote; “it will be
             recognized that everyone who cooperates in production to a certain extent
@@ -3937,7 +3934,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             cafe to socialize and discuss ideas. Anarchist groups were usually larger and
             assuredly more volatile. They gave themselves colorful names expressive of
             their high-minded ideals (Ni rey, ni patria, Via Libre), of their revolutionary
-80 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             fervor (Los Rebeldes), or of their sense of fraternity (Los Aﬁnes). Like the
             tertulianos, they met in cafes to discuss ideas and plan actions. Such groups
             had already formed spontaneously in the days of the International, but the
@@ -3987,7 +3984,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             bombings were caused by Anarchists who were protesting against the real
             injuries inﬂicted by the authorities on imprisoned labor militants, or by agents
             provocateurs of the Fomento and the police.
-81 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
               The increasing drift of Spanish Anarchism toward terrorism was to be
             reinforced by an episode of agrarian unrest that became memorable in the
             history of the Andalusian movement. Its locale was Jerez, the center of the
@@ -4037,7 +4034,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             throughout the city waiting for orders to intervene. The authorities apparently
             knew all about the thousands on the plains of Gallina, the march ir\to Jerez,
             and the bands wandering through the nearly empty streets. They did nothing
-82 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             to stop them. With enough “incidents” to justify severe repression, the
             Guardia and cavalry were turned loose on the marchers who quickly
             dispersed into the countryside after some skirmishes. Despite the triviality of
@@ -4087,7 +4084,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             political prisoners by pretending to repent his act and feigning conversion to
             the church. For nearly a year his execution was stayed while Jesuits and
             aristocratic ladies petitioned the government for a commutation of sentence.
-83 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             When the young Anarchist ﬁnally stood on the scaﬀold, he abandoned his
             deception and died with the cry: “Viva la anarquia!”
               Salvador’s death was followed by another round of bombings, arrests, and
@@ -4137,7 +4134,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             nineteenth century were a period when people could be genuinely angered by
             visible evidence of injustice.
               Finally, on August 8, 1897, only a few months after the Montjuich trials, the
-84 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             terror reached the premier personally. Canovas was cornered on the terrace
             of a mountain resort in the Basque country by Michel Angiollilo, an Italian
             Anarchist, and shot to death. Although Angiollilo was garroted for the
@@ -4187,7 +4184,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             considerable fortune in commerce. At ﬁfteen he was sent oﬀ to London to
             learn English and prepare for the business world. The ﬁve years he spent in
             London and Liverpool brought him into contact with radical literature.
-85 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             Thomas Paine’s critique of religion and Robert Owen’s communist theories
             inﬂuenced him profoundly. Before he left England in 1864, the young
             Salvochea had become a convinced atheist and communist. Once back in
@@ -4237,7 +4234,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             to the International almost from its earliest days in Spain, but it was only in
             the seclusion of the prison colony that he began to examine Bakunin’s
             theories with care. Having once adopted them, Salvochea became one of the
-86 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             most fervent Anarchist propagandists in Spain. He remained in the libertarian
             movement until the end of his life.
                When Salvochea ﬁnally returned to Spain in 1885 after the death of Alfonso
@@ -4287,7 +4284,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
                Salvochea was a man of rare generosity and sympathy. Anarchists such as
             Manuel Buenacasa, a historian of the movement, speak of him as “nuestro
             santo mayor”—“our greatest saint”—and recall how he would often be found
-87 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             by his friends without a cap or a topcoat because he had given his own to the
             needy. He never married and he lived frugally. Yet Salvochea did not seek the
             ascetic’s mortiﬁcation of the ﬂesh, nor did he ﬁnd exaltation in hardship. A
@@ -4333,7 +4330,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             Revista Social, an outstanding Anarchist theoretical journal founded in 1896,
             became a forum for a wide range of professional people from the universities,
             arts, and sciences. Disillusioned by the failure of terrorist tactics, many
-88 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             Anarchists began to place their strongest emphasis on the importance of
             education in achieving their social goals. This period was the heyday of
             libertarian schools and pedagogical projects in all areas of the country where
@@ -4382,7 +4379,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             elements that would almost seem conventional today, but it was also
             distinguished by features that even now have scarcely advanced beyond the
             experimental stage. To understand the remarkable advance scored by the
-89 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             Modern School, one must see it against the background of the Spanish
             educational system as a whole.
               Although Spain had a universal education law, the majority of schools were
@@ -4432,7 +4429,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             With these resources, the ﬁrst Modem School was started with an original
             class of twelve girls and eighteen boys. Within ten months, the number of
             students had more that doubled, and in the next few years ﬁfty schools based
-90 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             on the principles of the Modern School were established in Spain, mainly in
             Catalonia. Ferrer, who had invested Mile. Meunier’s money in well-paying
             securities, built up suﬀicient funds to establish a publishing house that turned
@@ -4482,7 +4479,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             were the Secciones de oﬁcio, or trade sections, and the “labor councils” were
             the Federaciones locales, or local federations.
               To understand clearly syndicalist organization, it should be examined in two
-91 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             periods: before a revolutionary change, and afterward, when the “syndicates”
             are expected to take over the management of the economy. Under capitalism,
             the federation of “workers’ associations,” organized by trades, is engaged in
@@ -4532,7 +4529,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             political organs is turned over to the economic units of society and the actual
             producers who operate them.
               Accordingly, each enterprise is administered by its own workers through an
-92 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             elected committee whose members are presumably (although not necessarily)
             removable. The various committees are linked together by delegates on local
             “labor councils” and on an industry-wide basis through the “workers’
@@ -4582,7 +4579,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             over the world, down tools and thus, in at most four weeks, force the
             possessing classes either to eat humble pie or let loose their violence against
             the workers, so that the latter then have the right to defend themselves, and
-93 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             while doing so bring down the whole of the old society.” After examining the
             pedigree of this notion, Engels adds: “On the other hand, the governments,
             especially if encouraged by political abstention, will never let the
@@ -4631,7 +4628,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             unions in the 1890s, all the latent dangers in the movement’s structure were
             cultivated to produce a reformist organization. Under Leon Jouhaux, the
             syndicalist Confederation Generate du Travail (CGT) became bureaucratized
-94 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             and, apart from its revolutionary rhetoric, a fairly conventional trade union.
             Almost exclusively proletarian in composition, it exercised very little inﬂuence
             in rural areas. The word syndicalisme acquired a neutral meaning
@@ -4681,7 +4678,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             calculated political stagnation could no longer contain the new demands that
             were emerging in Spanish society. The 1880s and 1890s as we have noted,
             were decades of major industrialization, indeed, of overexpansion. The
-95 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             Catalan manufacturers, burdened by large surpluses of textiles and by the
             high price of raw cotton, began to press for tax relief and higher tariﬀs. When
             their demands were ignored, they were forced into a fatally discordant
@@ -4731,7 +4728,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             factory towns. Rising prices had made it impossible for a working-class family
             to live on the father’s wages. Although it required about 112 pesetas for a
             family of four to satisfy its minimal needs, a day laborer ordinarily received 60
-96 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             pesetas, a plasterer 96, and a metallurgical worker 108. Three quarters of a
             worker’s wages went to food. To surive, a working-class family had no
             alternative but to send the wife or children to work. It would have been
@@ -4781,7 +4778,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             closer to a quarter—of the city’s labor force belonged to labor organizations.
             In the large textile industry, the overwhelming majority of operatives were
             women and children—the groups most intractable to union inﬂuence. In
-97 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             formulating strategic decisions, the union leadership was sharply divided
             between syndicalists, Anarchists, and Socialists, not to speak of ordinary
             unionists whose outlook was shallow and whose capacity for class solidarity
@@ -4830,7 +4827,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             closed down a large number of workers’ centers. By 1904, the strike
             movement had begun to subside. Most of the strikes had been lost, leaving
             two thousand unemployed. Between 1902 and 1909, Barcelona’s union
-98 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
             membership had been reduced from 45,000 to 7,000, and the employers could
             congratulate themselves that the labor movement had been all but obliterated
             in that city.
@@ -4880,7 +4877,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
             volatile Anarchists forms a perfect study in contrasting humantypes. As it
             turned out, both the Catalan employers and Madrid Socialist leaders were to
             be proven wrong in their assessments. The Barcelona union movement would
-99 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              recover and call a second general strike. This would develop into a week of
              full-scale insurrection. It too would be defeated, becoming known as the
              “Tragic Week.” But instead of falling apart, the Barcelona labor movement
@@ -4926,7 +4923,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              into the workers’ suburbs, collecting thousands into a far-reaching political
              network.
                 There was nothing to equal this network among Catalan autonomists or the
-100 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              unions. By March 1907, the autonomists had been compelled to join forces
              against the Law of Jurisdictions which gave the military authorities the power
              to try by courts martial all civilian acts mimical to the army. The new electoral
@@ -4976,7 +4973,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              fostered by the drift of the early French CGT toward revolutionary
              syndicalism, were to be marked by increasing success. The periodical
              Solidaridad Obrera soon fell under Anarchosyndicalist control and on June 13,
-101 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              1909, a congress of the labor federation voted overwhelmingly to accept the
              general strike tactic “depending upon circumstances.”
                The Anarchosyndicalists were viewed with disdain by the Barcelona
@@ -5026,7 +5023,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              in no position to lose their breadwinners even for a few days, much less allow
              their lives to be endangered in imperialist adventures. Antiwar feeling ran
              high throughout the country. On July 18, Pablo Iglesias, a man who for
-102 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              decades had made prudence the keystone of Socialist policy, warned an
              antiwar rally in Madrid that “if it is necessary, workers will go out on a
              general strike with all the consequences.”
@@ -5076,7 +5073,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              appeared at the factory gates to call out the workers. To protect their
              property, the employers closed down the factories, once again swelling the
              ranks of the strikers as they had in 1902. From the outset the Anarchists
-103 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              associated with Tierra y Libertad tried to turn the strike into an insurrection,
              but their most able activists were quickly arrested by the authorities for
              inciting crowds to attack the police stations. They were removed from the
@@ -5126,7 +5123,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              communications between Barcelona and the rest of Spain worked to the full
              advantage of the government, which misrepresented the uprising as an
              exclusively autonomist movement. The non-Catalan working class and
-104 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              peasantry, lulled by a false picture of the events, made no eﬀort to aid the
              revolutionaries. Except for workers in a number of industrial towns nearby,
              the Barcelona proletariat fought alone. And it fought with great courage and
@@ -5175,7 +5172,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              eight dead and 142 wounded; the fatalities among the civilian population
              were oﬀicially reported as 104, but this ﬁgure is almost certainly an
              understatement and should be weighed against Buenacasa’s claim of 600
-105 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              dead (Buenacasa was one of the participants in the uprising and his ﬁgure,
              although almost six times the oﬀicial one, should not be totally discounted).
              The number of wounded will never be known. Although the reactionary press
@@ -5225,7 +5222,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
                 Accordingly, Francisco Ferrer was tried for his life by a military court that
              had arrived at its verdict well in advance. The proceedings lasted only one
              day. The prosecution was allowed liberties that scandalized world opinion:
-106 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              anonymous aﬀidavits and hearsay accounts were admitted into evidence
              against the defendant; prisoners who were faced with serious punishment for
              their own oﬀenses were evidently given the opportunity to trade heavy
@@ -5274,7 +5271,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              spared this vision for two decades; the second Restoration monarch Alfonso
              XIII, was a posthumous child, born six months after his father’s death. His
              mother, Dona Maria Cristina, did nothing to threaten Canovas’s scheme for
-107 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              stability, and these decades were the most stable in modern Spanish history.
              Industrial development proceeded at a fairly brisk pace. The army’s role in
              politics was curbed, the Carlists were slowly assimilated into the established
@@ -5320,7 +5317,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              practice, and their inﬂuence on the laboring classes of Spain was very limited.
              This was probably the most experimental period in the early history of the
              movement. Its methods—the general strike tactic combined with local
-108 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              insurrections—could be deployed only on a very small operational stage,
              against an historic back-drop dominated by Federalism. By the 1880s and
              early 1890s, Anarchist tactics had veered over to a policy (inﬂuenced largely
@@ -5370,7 +5367,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              back together. It was attended by delegates from only twenty-seven unions
              with pledges of adherence from an additional forty—a substantial decline
              from the 108 that were represented in its April assembly eight months earlier.
-109 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              The membership of the labor federation had dropped from 15,000 to about
              4,500. A pathetically defensive atmosphere prevailed at this gathering. The
              delegates were at pains to disclaim any oﬀicial connection with the general
@@ -5420,7 +5417,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              federations (federaciones locales and sindicatos de oﬁcio). To coordinate this
              structure, the annual congresses of the CNT elected a National Committee
              whose primary functions were correspondence, the collection of statistics,
-110 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              and aid to prisoners.
                 The general secretary of the National Committee and the secretaries of the
              Regional Committees were the only paid oﬀicials in the Confederation. During
@@ -5470,7 +5467,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              number of members they represented, were elected by general assemblies of
              workers convened by the local and comarcal federations.
                 In practice, the CNT was more democratic than these statutes would seem
-111 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              to indicate. There was a throbbing vitality at the base of the organization, a
              living control and initiative from below. The workers’ centers (centros
              obreros) which the Anarchists had established in the days of the International
@@ -5520,7 +5517,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              police rounded up ﬁve hundred CNT militants or cenetistas (as members of
              the organization were soon to be called) and, with the cooperation of Lerroux,
              who regarded the union as a rival of the Radicals, managed to stop the strike
-112 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              movement.
                 Canalejas, the Liberal premier, reacted energetically. Troops were moved
              into all the major cities and the entire country placed under martial law. The
@@ -5569,7 +5566,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              Anselmo Lorenzo. In any case this grand patriarch of Spanish Anarchism died
              on November 30, 1914, having devoted almost a half century to the
              libertarian movement. The CNT, whose formation had meant so much to
-113 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              Lorenzo, numbered no more than 15,000 members at the time. By 1916 the
              labor organization had recovered suﬀiciently to publish Solidaridad Obrera as
              a daily newspaper, but the movement was still subjected to severe
@@ -5619,7 +5616,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              new, enlightened Constitution for Spain.
                To what extent was the CNT drawn into this curious bloc? The
              Anarchosyndicalist union found itself involved to the degree that it was
-114 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              committed to common action with the UGT. The CNT, it must be emphasized
              at this point, was not homogeneous in its outlook. It contained a strong
              syndicalist tendency, represented by Salvador Segui, the general secretary of
@@ -5669,7 +5666,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              revolutionary unrest among the workers before it went too far. The occasion
              for this ploy arose when the railroad workers of the Compania de
              Ferrocarriles del Norte in Valencia decided to go out on strike. Why the strike
-115 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              occurred is unclear. It is quite possible that it was the work of an agent
              provocateur, although it may have also been the result of the hopes produced
              by the assembly of parlimentarians in Barcelona. In any case, the government
@@ -5718,7 +5715,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              stipulated that “those who voted for it... be enlisted ﬁrst.” However moderate
              these demands, at least by Anarchist standards, they did not placate the
              bourgeois parliamentarians in Barcelona. Predictably, the Lliga and its allies
-116 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              completely deserted the labor movement.
                The general strike of August 1917, however, marks a turning point in the
              modern history of Spain. It ﬁnally sealed the alliance of the Catalan
@@ -5765,7 +5762,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              every comer of the peninsula. The ruling classes were terriﬁed. “The
              imminence of a political revolution,” writes Diaz del Moral, who lived through
              those upheavals, “worried even the most optimistic.... The clear vision of
-117 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              these events and the examples of eastern Europe animated all of the
              proletarian strata with hopes of victory. At this point, the most potent labor
              agitation in the history of our country was initiated.”
@@ -5815,7 +5812,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              of Sans articulated its commitment to direct action with prudence— merely as
              a “preferred means”—and only indirectly expressed its opposition to political
              methods. It refrained from declaring its support for comunismo libertario. As
-118 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              Buenacasa disapprovingly noted, the congress “did not endorse a frank
              declaration of libertarian principles.”
                 Yet suprisingly, when the delegates took it upon themselves to elect a new
@@ -5864,7 +5861,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
                 Diaz del Moral, who witnessed the eﬀects of this Anarchist propaganda at
              ﬁrst hand, describes it with great verve and color:
                   Those who were present at the time in 1918–19 will never forget the
-119 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
                   astonishing spectacle. In the ﬁelds, in the shelters, and in the
                   courtyards, wherever peasants gathered to talk, to everyone’s
                   recurring delight there was one topic of conversation that was
@@ -5914,7 +5911,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
                   the eﬀect was successful; with more or less ability, all were
                   agitators. Thus the ﬁre spread rapidly to all ‘combustible’ villages.
                   The propagandist’s task was easy; it suﬀiced that he read an article
-120 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
                  from Tierra y Libertad or El Productor for the hearers, like those of
                  Fanelli in Rubau Donadeu’s guest room, to feel themselves suddenly
 ## illuminated by the new faith.
@@ -5964,7 +5961,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              frequently. Devoted Anarchists might subscribe to a number of papers: usually
              Tierra y Libertad or one of the Solidaridad Obreras, several of which were
              published in the large cities. In addition there were scores of local
-121 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              newspapers to choose from in Andalusia alone. These periodicals were
              supplemented by pamphlets and books on geography, history, science, and
              agronomy, as well as social issues, and included morally elevating dialogues,
@@ -6014,7 +6011,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              the CNT.[23] Finally, where all repressive measures had failed, the strikes
              were literally starved out by the deepening economic crisis that followed the
              war. A quiet once more descended upon the south, not to be broken until the
-122 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              1930s.
                In the north, repression had started even earlier, under the Liberal premier
              Romanones, but its eﬀects were to backﬁre completely on the government.
@@ -6063,7 +6060,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              Anarchist militants in the union, undercutting the position of Segui. On the
              other hand, the captain general Milans del Bosch was a harsh reactionary of
              the old school who had only one answer to labor unrest: dar la batalla—“to
-123 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              give battle.” In this stance he was completely supported by the newly
              organized Employers’ Federation, which sought to establish an antilabor,
              militaristic regime in open deﬁance of the civil authorities in Barcelona and
@@ -6112,7 +6109,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              been arrested in January. There remained one qualiﬁcation: the authorities
              refused to release anyone who was currently on trial.
                On the night of March 16, the settlement was submitted for approval to a
-124 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              huge mass meeting of strikers at Barcelona’s plaza de toros de Las Arenas.
              The workers agreed to everything except the qualiﬁcation on the “social
              prisoners.” A cry went up over the entire plaza: “Free everybody!” Indeed,
@@ -6162,7 +6159,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
                Milans del Bosch, whatever may have been his expectations, did not smash
              the CNT. The union was evidently a formidable power in Catalonia, and in the
              following year its strikes were to increase in number. The captain general,
-125 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              however, succeeded in realizing all the fears of his former civil governor,
              Gonzalez Rothwos: the violent tactics advocated by Anarchist militants were
              to replace the moderate methods of the syndicalists. Pistoleros, or gunmen,
@@ -6212,7 +6209,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              the Madrid Anarchist organizations from the days of the First Republic. It was
              truly a people’s congress, with each delegation wearing its own regional garb:
              the Basques in their berets, the Andalusians in their large Cordobese hats and
-126 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              peasant blouses, and so forth. The delegates represented over 700,000
              members. The overwhelming majority— 427,000—were located in Catalonia,
              while the Levant claimed 132,000. The Andalusian delegation—“the most
@@ -6261,7 +6258,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              participation by the CNT unions in the Mixed Commissions. By this time, the
              Catalan Regional Confederation had acknowledged its error in joining the
              Mixed Commissions organized under the Sanchez ministry, an act of selfcriticism that the delegates accepted without reproaches.
-127 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
                The biggest problem facing the congress was its attitude toward other
              movements, notably the UGT and the Communist International. A strong
              sentiment for fusion with the Socialist union existed among delegates from
@@ -6311,7 +6308,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              the Communist fold, they established the International of Red Trade Unions
              (“Proﬁntern”), presumably an independent body that accepted all
              revolutionary unions irrespective of their political views.
-128 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
                 These ﬂirtations did not last long. In March 1921, the Soviet regime harshly
              suppressed the Kronstadt sailors uprising. The Kronstadt issue, coupled with
              a mounting campaign against Russian Anarchists, began to alienate the
@@ -6361,7 +6358,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              provinces. These ﬁnally collected into a loosely organized National Federation
              of Anarchist Groups, later establishing an exile oﬀshoot in France called the
              Federation of Anarchist Groups of the Spanish Language. In the late 1920s,
-129 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              the two federations were to form the basis of the Federation Anarquista
              Iberica, the redoubtable FAI of the Republican years and the Civil War.
                In Catalonia, however, the CNT had entered a period of deep crisis. The
@@ -6408,7 +6405,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              was made by the men who accepted their services. The atentados were
              entirely impersonal and were performed without expectation of ﬁnancial
              reward or desire for personal vengeance. At that time, according to Pestana,
-130 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              two or three Anarchist action groups were operating in Barcelona. “Let us
              state that those who took advantage of this and paid the young men for their
              work” he adds, “were some elements, very few, among the leaders of the
@@ -6457,7 +6454,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              department’s growing demand for hired assassins. Perhaps the most
              sensational example of these sinister connections was revealed in the pages of
              Solidaridad Obrera on June 8, 1918, when Pestana published evidence that a
-131 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              district police chief, Manuel Bravo Portillo, was operating a German
              espionage ring in the port area. Although Pestana’s charges were to cost
              Bravo his job, the captain general, Milans del Bosch, recruited his services in
@@ -6504,7 +6501,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
                  supported extra-legal means for dealing with terrorism: he is said to
                  have shown Bas a list of 675 syndicalists whom, he declared, ought
                  to be shot outright. Unamuno describes him as follows: “The man is
-132 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
                  a pure brute—he can’t even talk, he can only roar and bray, though
 ## his roars and brays always mean something.”
 
@@ -6554,7 +6551,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              1920, the civil governor of Catalonia, the Conde de Salvatierra, who had
              presided over the lockout of late 1919 and early 1920, fell before the guns of
              Anarchist pistoleros. On March 8, 1921, the Conservative premier, Eduardo
-133 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              Dato, was killed by three Catalan Anarchists in reprisal for restoring the Ley
              de fugas (Law of Flight), a disgusting practice in which the police killed
              arrested syndicalists, claiming they were shot while “trying to escape.” For its
@@ -6604,7 +6601,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              leaders in both labor organizations. Rather, the Conservative government of
              Eduardo Dato hardened its attitude and prepared to do battle, if any was
              really necessary.
-134 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
                The pact produced an angry uproar in the CNT Regional Committees
              outside of Catalonia, all the more because the National Committee and the
              Catalan leadership had consulted with no one in undertaking it. Under
@@ -6654,7 +6651,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              syndicalists try to paralyze the work in the factories, mines, etc., they should
              be beaten with cudgels.”
                The strike in Catalonia collapsed and, with it, any prospect of collaboration
-135 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              between the two unions for years to come.
                 The CNT at this time was plagued not only by bitter harassment at the
              hands of the authorities but also by the divisive activities of the Communists,
@@ -6702,7 +6699,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              into the labor movement. He took an active part in the “Tragic Week” and
              became a refugee from the repression that followed. His life thereafter
              centered almost entirely around the movement—a sequence of meetings,
-136 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              propaganda tours, negotiations, conferences, and hard committee work in
              preparing strikes.
                Although Segui was familiar with Anarchist and Socialist writings, he
@@ -6751,7 +6748,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
 ## components of the group.
 
                  All the components of the group were workers and, therefore, lived
-137 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
                   on their daily wages. The group had no other income in any sense,
 ## but it also had no other expenditures; this was covered by
                   arrangements according to the capabilities of each one of its
@@ -6800,7 +6797,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              goal was not worth ﬁghting for. Accordingly, the Anarchists regarded the
              Marxist party as another statist form, a hierarchy that, if it succeeded in
              “seizing power,” would preserve the power of one human being over another,
-138 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              the authority of the leader over the led. The Marxist party, in their eyes, was a
              mirror image of the very society it professed to oppose, an invasion of the
              camp of the revolution by bourgeois values, methods, and structures.
@@ -6850,7 +6847,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              One of the immediate causes of his departure was characteristic of his
              administration as a whole: it had been found that while Angel Pestana was
              recovering from wounds inﬂicted by the civil governor’s pistgleros, another
-139 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              group of Anido’s gunmen was stationed outside the hospital with orders to
              shoot the Anarchist as soon as he emerged. The story was given wide
              publicity. By now, a more moderate Conservative government, again headed
@@ -6900,7 +6897,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              action group that the purchase, movement, and storage of 1,000 riﬂes and
              200,000 cartridges during a period of military dictatorship was never
              discovered by the police.
-140 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
                 The “Solidarios,” in fact, had by this time developed into a far-ﬂung
              libertarian enterprise. A partial list shows that there were at least thirty
              members, many of whom were prepared to leave Barcelona at a moment’s
@@ -6950,7 +6947,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              France.
                 In fact, the “Solidarios” as a group was faced with dissolution. The
              atentados, bank robberies, and arms traﬀic had claimed a heavy toll of its
-141 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              most militant and active members. Ascaso was in prison for the assassination
              of Soledevila, although he soon made a daring escape, returning by rail to
              Barcelona disguised as a train Conductor and then making his way to Durruti
@@ -7000,7 +6997,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              workers in Barcelona that in a period when the employers seemed to have a
              completely free hand, a force on their behalf was still alive, eﬀectively
              answering blow for blow.
-142 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
                Finally, the Anarchist militants were not interested in “social peace” or in a
              restful period of trade-union growth. They regarded bourgeois society as
              incurably diseased. In their view, the opportunism of Largo Caballero and the
@@ -7046,7 +7043,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              Liberal, Garcia Prieto, ending the reactionary politcal pattern that had been
              foisted on Spain since 1919. A new government of “liberal concentration”
              threatened to initiate sweeping reforms, including the democratization of the
-143 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              army and monarchy. While the Cortes was on summer vacation, a
              parliamentary commission of inquiry into the Moroccan defeats was sifting
              the details of army corruption, low troop morale, and the complicity of the
@@ -7096,7 +7093,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
                 More signiﬁcant evidence of the regime’s nature is provided by its social
              policy—a policy that ﬁxes it more in the Bonapartist than the fascist tradition.
              Primo had no objection to an organized labor movement, provided it posed no
-144 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              political challenges to his regime. His despotic benevolence allowed room for
              material concessions to the i#orking class, including government-sponsored
              medical services, modest wage increases, cheap housing, and a bureaucratic
@@ -7146,7 +7143,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              actions, attempted several heroic, if foolhardy, armed assaults on the
              dictatorship. These actions, almost foredoomed to failure, were largely
              symbolic. On November 6, 1924, smalt groups of militants attacked the
-145 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              Atarazanas barracks in Barcelona, apparantly assured that the fortress gates
              would be opened by supporters within. At the same time, a small armed band
              of Anarchist exiles in France, led by Durruti, crossed the frontier and invaded
@@ -7195,7 +7192,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
                  extreme tendencies ﬂourished in the anarchism of those times—
                  stormy for some and times of hibernation for the majority. Secret
                  meetings in the mountains were disguised as the excursions of
-146 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
                  ingenuous nudists, devotees of pure air, and sunbathers. All of this
                  forms a picturesque contrast if one bears in mind that a sincere
                  return to nature was perfectly compatible with conspiratorial
@@ -7245,7 +7242,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              itself in order to rescue its waning reputation by unseating Primo and
              reestablishing a constitutional government. Once revealed by the
              dictatorship, the plot found such reactionary generals as Wevler and Aguilera,
-147 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              demagogues like Lerroux, and venal sycophants like Barriobera in the same
              conspiratorial bed with Anarchists like Amalio Quilez.
                The years 1928 and 1929 mark the period of Primo’s decline and removal
@@ -7295,7 +7292,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              January 28, 1929, two days after his query, Primo de Rivera resigned and
              departed for the ﬂeshpots of Paris, where he died a few months later. His
              place was taken by General Damaso Berenguer, a highly respected but ailing
-148 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              oﬀicer who could hardly be regarded as a permanent ﬁxture in Spanish
              politics. Berenguer was entrusted with the impossible task of restoring a
              constitutional government without jeopardizing the future of the monarchy.
@@ -7345,7 +7342,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
 
                The FAI, or Federacion Anarquista Iberica (Iberian Anarchist Federation),
              occupies a unique and fascinating place in the history of classical workers’
-149 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              and peasants’ movements. Organized primarily to assure the CNT’s
              commitment to Anarchist principles, the FAI acquired ts. reputation as one of
              the most dreaded and admired organizations of %volutionaries to emerge in
@@ -7395,7 +7392,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              policy than would have been consistent with its expressed libertarian
              principles.
                Yet it must also be emphasized that the aﬀinity groups were far more
-150 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              independent than any comparable bodies in the Socialist Party, much less the
              Communist. We have only to read Ramon Sender’s Seven Red Sundays, a
              novel based on a detailed knowledge of the Madrid FAI organization, to gain a
@@ -7445,7 +7442,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              views were mild compared with Pestana’s frontal demands two years later. In
              a series of articles titled “Situemonos,” published in ¡Despertad!, Pestana
              called for entirely new principles for the CNT and, in a particularly cutting
-151 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              play on words, described the organization as “moderate” (contenido), not as
              “abstinent” (continente). This word play could be taken as a snide attack on
              Anarchist puritanism as well as purism. Peiro, replying on behalf of the
@@ -7495,7 +7492,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              democracy; the second (and more visionary one), a libertarian communist
              society. If one removes the National Committee’s usual obeisances to broad
              Anarchosyndicalist ideals, its perspective could hardly be distinguished from
-152 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              that of the much-despised UGT. Needless to say, the National Committee’s
              “scandalous” statement (as Peirats calls it) produced another uproar among
              Anarchist militants and further polarize’d the’CNT.
@@ -7545,7 +7542,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              Although many syndicates were still illegal elsewhere in the country and
              thousands of cenetistas ﬁlled the jails of the Berenguer regime, Spanish
              Anarchosyndicalism began to pick up the threads that had been broken by the
-153 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              dictatorship in 1924. In little more than a year, the CNT membership
              numbered close to a half million. This ﬁgure, to be sure, is much lower than
              the CNT’s peak membership of 700,000 in 1919, but it is quite substantial if
@@ -7594,7 +7591,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              more than an inchoate, village-based movement with peripheral working-class
              support has been refuted tellingly by Malefakis’s recent study of peasant
              unrest in Spain. In 1873, when Spanish Anarchism exercised a considerable
-154 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              inﬂuence in the countryside, Andalusia (both urban and rural) provided nearly
              two thirds of the old International’s membership. By 1936, this proportion had
              declined to about a ﬁfth. As Malefakis observes:
@@ -7643,7 +7640,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
                With Primo’s departure, Spain began to settle its accounts with the
              monarchy. Alfonso, tainted by his role in establishing the dictatorship, tried
              desperately to retain the throne as a quasiconstitutional monarch. But the
-155 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              monarchy—both in the, person of Alfonso and as an institution—had
              discredited itself completely. Berenguer’s delays in assembling the Cortes and
              Alfonso’s obvious maneuvers to retain his royal prerogatives eroded the
@@ -7693,7 +7690,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              dates, poor communications, and a gross miscalculation of the army’s
              attitude. The uprising was’ scheduled for December 15. According to the
              Republican version, it was unexpectedly pushed back to December 12 by a
-156 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              premature revolt of the Jaca garrison in Aragon. The rebellious troops were
              quickly subdued and their two commanders, Captains Fermin Galan and
              Garcia Hernandez, executed by ﬁring squads. Alcala Zamora, Miguel Maura,
@@ -7743,7 +7740,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
 
                The Republican ﬁasco of December 12, 1930, had not resolved the problems
              of the CNT’s relationship to bourgeois political movements. In theory, at least,
-157 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              the CNT adhered to antistatist principles. Rejecting political methods for
              social change, it advocated direct action by the oppressed against any system
              of political authority. The more intransigent Anarchists in the union carried
@@ -7790,7 +7787,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              The Azaña Coalition
               The Second Republic began its career in an atmosphere of public elation.
              Spain, swept up as by a national festival, ﬂocked into the streets, hailed the
-158 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              new regime, and decorated itself in the Republican ^tricolor. Self-discipline
              became the maxim of the day. To protect the queen mother and her children
              from unruly crowds, Socialists from the Casa del Pueblo of Madrid provided
@@ -7838,7 +7835,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              the very classes it was obliged to oppose, while a Constituent Cortes occupied
              itself with writing a constitution. Although humane and brightly liberal in
              spirit, the constitution became a mechanism for placing legal formalities
-159 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              before social activism. In the end, nobody took this document very seriously.
              The constitution, however, served to reveal the patchwork nature of the new
              cabinet. When the Cortes adopted Article 26—a constitutional provision aimed
@@ -7888,7 +7885,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              mixed emotions,” observes Gabriel Jackson. “Almost everyone acknowledged
              that the Army was top heavy with brass, but many a proud career oﬀicer felt
              that Azaña simply wished to destroy the oﬀicer corps by buying it oﬀ.” As if to
-160 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              feed this suspicion, the government closed down the general military academy
              at Saragossa, an act which many oﬀicers viewed as a “blow to the esprit de
              corps of the Army, since this was the only institution in which oﬀicers of
@@ -7936,7 +7933,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
                  it came to voting, which they did this time to help oust the
                  Monarchy, they preferred to vote for the middle-class Republicans
                  whose liberal views were more in harmony with the anti-Marxist
-161 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
                  ideas of the Spanish Syndicalists than with the orthodox and
                  dogmatic tenets of the Socialists.[35]
                 The day after the republic was proclaimed, Solidaridad Obrera ventured a
@@ -7985,7 +7982,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              expresses what many Socialist leaders practiced daily in their relations with
              the rival union. UGT bureaucrats often provided scabs to break up CNT
              strikes (and replace the striking syndicates by their own unions)—only to
-162 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              accuse the Anarchosyndicalists of pistolerismo when they defended
              themselves.[37] Ruthless in the exercise of his powers, Largo Caballero used
              the immense apparatus of the Ministry of Labor to undermine CNT inﬂuence
@@ -8034,7 +8031,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
                Most of this expansion occurred in the countryside. In the hectic period
              directly following the war, the UGT, shaken by the Russian Revolution and
              Anarchist insurrections in Andalusia, began to discard some of its Marxian
-163 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              shibboleths and direct/its energies toward winning the rural poor. Led by Luis
              Martinez Gil, a follower of Julian Besteiro, Socialists tried to use Primo’s
              comites paritarios to extend the UGT’s rather limited roots in southern Spain.
@@ -8084,7 +8081,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              working-class and left middle-class groups. Others, mainly intellectuals,
              collected around Nin and established the Izquierda Cominunista or Left
              Communists, an avowedly Trotskyist organization, also rooted primarily in
-164 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              Catalonia. Together, the BOC and Izquierda Cominunista virtually supplanted
              the Communist Party in Catalonia and for many years may have outnumbered
              it in Spain as a whole. In 1936, the two organizations merged to form the
@@ -8135,7 +8132,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              reported an outbreak of lawlessness. If one of the syndicates called a general
              strike, and a few prudent shopkeepers pulled down their shutters in case
              anyone might throw a rock, ABC had the city paralyzed. Actually, life was
-165 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              normal outside the port area, and the harbor districts of all the world’s
              seaports were the scenes of union rivalry and sporadic violence in the 1930s.”
                 But the period of greatest violence still lay ahead; in 1931 the CNT was
@@ -8185,7 +8182,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
                 The rules of the congress caused great consternation among delegates.
              Radicals complained that the rules were visibly biased against the FAI; the
              more moderate delegates, in turn, were outraged that oﬀicial representatives
-166 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              of the FAI (an “outside organization”) had been admitted to the congress at
              all. Finally, when a FAI spokesman rose to express his organization’s view on
              an issue, mayhem broke loose. The FAI could have expressed its views
@@ -8234,7 +8231,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              be underestimated.
                 The signiﬁcance of this reorganization plan, and of the debate which
              followed its presentation, can hardly be underestimated. The plan was
-167 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              classical syndicalist doctrine and the FAI, in objecting to it, Unknowingly
              recapitulated the historic battle that had divided Anarchists from syndicalists
              at the turn of the century. Garcia Oliver, speaking for the FAI, warned that the
@@ -8284,7 +8281,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              pointedly warned the delegates: “The Confederation is in no condition to
              revolt in the historic moment in which we are living.” Like all the moderates
              he reminded the congress that Anarchosyndicalism had inﬂuence only over a
-168 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              small minority of the working class. The delegates, however, seem to have
              used the moderates’ proposals to give reality to the FAI’s revolutionary
              perspective. Although the FAI’s speciﬁc proposals were defeated by the
@@ -8334,7 +8331,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              workers’ syndicate, it was a CNT enclave in a solidly UGT center. Accordingly,
              the government and the Sodalist Party found no diﬀiculty in forming a
              common front to break the strike and weaken CNT inﬂuence.
-169 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
                The Ministry of Labor declared the strike illegal and the Ministry of the
              Interior called out the Civil Guard to intimidate the strikers, many of whom
              were women telephone operators. Shedding all pretense of labor solidarity,
@@ -8384,7 +8381,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
                The moderates’ eﬀorts to win the CNT away from the FAI inﬂuence became
              increasingly desperate. The tensions within the organization ﬁnally came to a
              head when in August 1931, thirty moderates signed a vigorous statement
-170 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              denouncing the conspiratorial, ultrarevolutionary policies of the FAI. Although
              the FAI was not mentioned by name, “El Maniﬁesto de los ‘Treinta’”
              (“Manifesto of the ‘Thirty’”), as the document came to be known, denounced
@@ -8433,7 +8430,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              Sabadell, and about half of the syndicates in Valencia. Led by moderates,
              these syndicates were to group together to form a separate federation of their
              own—Los Sindicatos de Oposicion (Opposition Syndicates)—whose
-171 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              membership probably rarely exceeded 60,000. Finally, in April 1932, Pestana,
              parting even from his moderate comrades, was to found his own Syndicalist
              Party, which actually sent two deputies to the Cortes in the elections of 1936.
@@ -8483,7 +8480,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              the left-wing, and a third current, the ‘anarcho-Bolsheviks,’ embodied by the
              group of Garcia Oliver and the playful partisans of ‘one for all,’ who made
              glancing contact with the theories of the Russian revolutionaries.” His
-172 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              statement; in fact, is rather restrained. The “partisans of ‘one for all’ “ were
              the Solidarios of the 1920s who had renamed themselves Nosotros (literally,
              “we”) in the 1930s and included not only Garcia Oliver but Durruti, the
@@ -8532,7 +8529,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              of the Alto Llobregat uprisings, seizing the town hall and raising the CNT’s
              black-and-red ﬂags. The town was swept by street ﬁghting and inevitably by
              severe repression. The January uprising in the Alto Llobregat was not quite
-173 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              the monumentally revolutionary action it seems to be in the descriptive
              rhetoric of Federica Montseney. Although highly localized and poorly planned,
              it was partly a calculated eﬀort by the FAI to enhance its revolutionary
@@ -8581,7 +8578,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              to conduct miltary operations. Indeed, so closely wedded had the CNT and
              FAI become after the split within the Confederation that Manuel Rivas, the
              secretary of the CNT’s National Committee, was also secretary of the faistacontrolled National Committee of Defense.
-174 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
                 Throughout, the police were completely informed about the FAI’s plans and
              prepared meticulously to counter them. The insurrection began on January 8
              with assaults by Anarchist action groups and Cadres of Defense on
@@ -8630,7 +8627,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
                  Another shot and another soldier falls. Another is wounded as he
                  attempts to sneak in through the yard. The rest retreat. Who is
                  inside? Old ‘Sixﬁngers,’ a sixty year old with a tribe of children and
-175 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
                   grandchildren. The old man will not give up. The others cannot
                   leave without getting hurt. The guards take their positions and
                   receive reinforcements. They use their machine guns and hand
@@ -8680,7 +8677,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
                 Lacking satisfaction in the Azaña coalition, the Spanish middle classes
              moved increasingly to the right in the hope that Ariarchist violence and labor
              disorders generally would be deﬁnitely repressed. Translated into crass
-176 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              economic terms, this meant that the Spanish bourgeoisie and petty
              bourgeoisie, victimized by the world depression of the 1930s, saw its only
              hope for economic respite in a disciplined, well-mannered, and obedient
@@ -8730,7 +8727,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              on the most massive strike waves in its history. A plenum of regional
              Confederations at Madrid in late January and early February resolved to
              launch a general strike on behalf of amnesty for prisoners and freedom for
-177 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              closed-down and outlawed syndicates and periodicals, and against compulsory
              arbitration of labor disputes. It can hardly be emphasized too strongly that to
              a considerable extent, what has so facilely been described as FAI and CNT
@@ -8778,7 +8775,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              against Azaña by now and decided to launch their own independent electoral
              campaign, were bluntly rebuﬀed in their eﬀorts to gain Anarchosyndicalist
              votes. Warnings that a rightist victory would be followed by a fascist regime
-178 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              evoked a fairly characteristic (and, to this day, alluringly simplistic) reply:
              fascism would at least compel the proletariat to rise in revolution, whereas a
              reformist victory would simply lead to a piecemeal but ultimately more
@@ -8824,7 +8821,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              industrialists, landowners, Carlist peasants, clerics, and devout Catholics, no
              small number of whom were newly enfranchised women who voted according
              to the dictates of their local priests. The Radical Party mustered most of its
-179 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              votes from anti-Socialist urban middle classes. The greatest parliamentary
              problem facing the CEDA and the Radicals was the need, ﬁrst, to allay the
              fears of troubled Liberals who, while drifting to the right, were deeply
@@ -8873,7 +8870,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              of the delegates probably opposed an uprising, “but not openly,” as A.M.
              Lehning reported. Only a few delegations, most notably the Aragonese,
              pressed for an uprising. The other delegations merely promised to give what
-180 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              aid they could. This lagging of enthusiasm was portentous. Failure was being
              built into the insurrection well in advance of its occurrence and, given the
              lack of any tactical sense of timing and resources, rhetoric was being oﬀered
@@ -8923,7 +8920,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              extent to which it was localized in Aragon, the palpable lack of enthusiasm for
              it, and the opposition it encountered from ﬂagging militants like Garcia Oliver.
                 In any case, with the December uprising, the Anarchist-led “cycle of
-181 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              insurrections” had come to its end. Azaña himself virtually admitted that
              these insurrections contributed to his downfall. The electoral abstentionist
              campaign had also contributed to the victory of the Radicals and the CEDA.
@@ -8973,7 +8970,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              behind its Saragossa comrades. To lighten the burden of the Saragossa
              workers, the Barcelona proletariat under Durruti organized a spectacular
              caravan to bring the children of the strikers to Catalonia. Fleets of taxis were
-182 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              mobilized to convey 13,000 children to the thousands of cenetista families
              which had pledged to care for them. Here, as Brenan observes, the cenetistas
              revealed where their real strength lay: “not in their armed revolts, but in their
@@ -9023,7 +9020,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              Maurin of the Worker-Peasant Bloc failed to “recall the enthusiasm attributed
              to him in Brenan’s account,“observes Gabriel Jackson in a note based on an
              interview with Maurin. “He spoke of the Alianza as having been crippled from
-183 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              the start by antipathy between Caballero and the Catalans, nor does El
              Socialista [the organ of the Spanish Socialist Party’—M.B.] for the spring and
              summer of 1934 give the impression that the new movement was very
@@ -9073,7 +9070,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              had used his legal talents to defend many cenetista militants in the trials of
              the 1920s. Perhaps more than any republican politician in Spain, he retained
              important connections and undeservedly high credibility with the CNT
-184 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              leadership long after liberals of his breed were to be completely discredited
              with the Spanish working class.
                 In Catalonia, Companys was also a major rival of the CNT. He competed
@@ -9123,7 +9120,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              Rabassaires on the left and the escamots on the right. Huge crowds collected
              before the building that housed the Generalitat, demanding decisive action;
              indeed, Barcelona was placarded with demands for an independent Catalonia.
-185 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              The situation had degenerated to opera bouﬀe. Companys, his back to the
              wall, went through the public motions of declaring a “Catalan State within the
              Federal Spanish Republic” (a far cry from the outright independence the
@@ -9173,7 +9170,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              forms it had acquired in Barcelona. Although the Socialists had presumably
              been planning the strike in the Spanish capital since the summer, almost
              every aspect of the plan went awry. The police were well-informed about the
-186 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              Socialists’ intentions and arrested the Socialist-contolled Revolutionary
              Government before it could be installed. The arrests netted Largo Caballero,
              who was in charge of the strike and the rising. A curious listlessness seemed
@@ -9222,7 +9219,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
                  the Oﬀicial Gazette, I won’t believe it.” Caballero’s closest
                  associates, including myself, earnestly insisted that the rising should
                  begin that same night, October 4. In the end Caballero gave in, but
-187 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
                   by then it was too late. It had to be postponed until the next night.
                   During those twenty-four hours martial law was declared, and this
                   meant the collapse by its own weight of the plan for military
@@ -9272,7 +9269,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              slogan of “Union, Hermanos Proletarias” (“Unity, Proletarian Brothers”), the
              famous “UHP” which was to be initialed on walls, vehicles, factories, and
              troop trains throughout the Civil War. So far as the Aviles and Gijon
-188 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              Anarchists were concerned, however, their Socialist and Communist
              “brothers” were to honor the slogan only in the breach. When Anarchist
              delegates from the seaports arrived in Oviedo on October 7, pleading for arms
@@ -9322,7 +9319,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              structures, often quasi-councils composed of factory workers and assemblies
              composed of peasants. The ambience of these fairly decentralized structures,
              their improvisatory character and libertarian spirit, fostered an almost festive
-189 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              atmosphere in Anarchist-held areas.
                This diﬀerence is vividly conveyed by Avelino Gonzalez Mellada, who
              compares Anarchist-controlled La Felguera with Marxist-controlled Sama.
@@ -9371,7 +9368,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              denied arms and support in desperate military situations while the choicest
              weapons were to be reserved for Communist and Republican police
              detachments behind the front lines. These detachments were to serve more as
-190 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              forces to subvert social revolution than to ferret out Franco supporters. The
              CNT and FAI were to experience the full gamut of treachery at the hands of
              every group in the Popular Front—from the Caballero “left” Socialists to the
@@ -9420,7 +9417,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
                The repression of the miners was marked by wanton carnage in battle; later,
              by the torturing and horrible mutilation of captured miners, many of whom
              were shot in batches without trial or owing to the slightest whim and
-191 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              provocation. Estimates of these executions numbered in the thousands. After
              the executions came the torture squads, which by every disinterested account
              matched the savagery of the Nazi torturers in Germany’s concentration
@@ -9470,7 +9467,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              Lerroux and his associates became involved in several shady scandals around
              gambling licenses and army supply contracts. By December, Lerroux was
              forced to step down; indeed, the entire Radical Party had become a useless
-192 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              and discredited anarchronism. “The only party in Republican Spain to have no
              political ideals,” observes Brenan, “all [the Radicals] wanted was that the
              country should jog along quietly. “But Spain was polarizing sharply. Neither
@@ -9517,7 +9514,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              take the historic form of the “Popular Front.”
                The Socialists too had responded to the CEDA’s vindictiveness by veering
              further to the left. Right-wing Socialists like Besteiro, who had opposed the
-193 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              October rising, or Prieto, who had ﬂed to France after its failure, had lost
              virtually all prestige with the party except for its hardened bureaucracy.
              Caballero, at least, had remained behind. By merely sitting in prison (where
@@ -9566,7 +9563,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              syndicalists” who favored pragmatic trade unionism. This was no mere
              organizational maneuver to infuse the Con federation with additional forces; it
              was a signiﬁcant poltical act which led toward collaboration ﬁrst with the
-194 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              UGT, eventually with the Socialists, and ﬁnally with the Popular Front. The
              basis for unity between the CNT and the Opposition Syndicates had been
              cleared in grea part when Pestana, striking out on his own, broke with the
@@ -9616,7 +9613,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              collaboration in the coming elections. Its program was strictly middle-class—
              designed, in Portela’s words, not to frighten its moderate constituency. It
              threatened no nationalization of property, no workers’ control of industry, not
-195 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              even unemployment compensation. To the left, it merely oﬀered the promise
              of amnesty for its thousands of jailed workers and a liberal parliamentary
              shield against authoritarian reaction. Although the Popular Front pact
@@ -9666,7 +9663,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              Spanish political conditions. The strategy, formulated by the Communist
              International after the signing of the Franco-Soviet nonaggression pact of
              1934, was a barely disguised diplomatic response to the threat Hitler seemed
-196 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              to pose to Stalinist Russia. From a policy of mindless insurrectionary rhetoric,
              in which the entire Social Democratic movement had been designated as
              “social fascists—indeed, as greater enemies than the fascists themselves—the
@@ -9716,7 +9713,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              was to give the Communists immense control over the course of events.
                 The elections of February 1936 brought the Popular Front parties to power
              by a margin of some 700,000 votes. Of 271 seats acquired by the coalition, a
-197 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              number which constituted an absolute majority in the Cortes, the Republicans
              (including Martinez Barrio’s Republican Union as well as Azaña’s Izquierda)
              were given 117 seats, the Socialists 90, and the Communists 16.[45] The
@@ -9765,7 +9762,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              elections without becoming Anarchists and one could envision a situation
              where Anarchists would have voted in elections without becoming Bolsheviks.
              From hindsight, Vernon Richards’s observation that a conservative victory in
-198 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              the February elections would have been far less of a setback for the Spanish
              labor movement than the slaughter that followed the generals’ rebellion is a
              tempting conclusion which would have preserved Anarchist purism. But Gil
@@ -9815,7 +9812,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              resolving two CNT strikes in Barcelona, Durruti could peevishly complain:
              “We didn’t come here to celebrate the arrival of a group of men. We came to
              tell the Left ﬀiat we were the ones who decided your triumph and we are the
-199 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              ones who are maintaining two conﬂicts [the strikes in question—M.B.] which
              must be solved immediately. It was our generosity that ^ decided the
              reconquest of February 16th.”
@@ -9864,7 +9861,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
                To unravel this complex skein of events, in which years of social unrest
              seemed to be compressed into a few months, would require a work of its own.
              Only the broadest trends and most signiﬁcant occurrences can be cited here.
-200 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              The ﬁrst trend that requires consideration is the unabated strike wave that
              exploded across Spain shortly after the Popular Front victory. Although both
              the UGT and CNT launched so-called “lightning” strike actions throughout the
@@ -9914,7 +9911,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              responded with severely repressive measures while it tried to placate the
              left’s anger over rightist terrorism by arresting the Falangist leadership,
              including Jose Antonio Primo de Rivera. Solidaridad Obrera was censored so
-201 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              systematically and stringently that many Anarchosyndicalists could claim with
              some justice that their press had enjoyed more freedom under the bienio
              negro than the Popular Front. The government closed down syndicate
@@ -9964,7 +9961,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              Conversion to revolution had produced—and revealed—a crisis within the
              party. With the victory of the Popular front, an unavoidable question emerged:
              should the Socialists form another coalition with the Republicans? Four years
-202 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              earlier this question would have raised no serious factional disputes within
              the party; indeed, Caballero had occupied the post of minister of labor with
              telling eﬀect upon the CNT. Now the reformist of yesteryear who had willingly
@@ -10014,7 +10011,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              opposite course. While the Socialist Party was torn by divisions, the CNT was
              uniting with the Opposition Syndicates. Theoretically, the CNT favored unity
              with the UGT but on terms so revolutionary that they made collaboration on a
-203 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              national scale virtually impossible. Caballero had counted heavily on gaining
              wide support not only from the left of his own party, but from the
              Anarchosydicalists as well. The latter, however, mistrusted him completely.
@@ -10064,7 +10061,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              appropriate prime minister for the coalition and he had chosen as his
              substitute one of his closest friends and collaborators, Casares Quiroga, a
              consumptive who, in Brenan’s words, “reacted to the danger of the situation
-204 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              by an optimism that would have been considered insane if it were not a
              symptom of his disease.” Azaña himself had grown listless, almost indiﬀerent;
              his dream of a stable republic seemed to be turning into a nightmare whose
@@ -10113,7 +10110,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              an orientation would have seemed out of place amid the “scientiﬁc,”
              “objective,” depersonalized rhetoric of a Marxist document.
                The resolution went on to describe the structural details of communal
-205 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              organizations and their federation. Economic planning had’its base in “the
              producer, the individual as the cell, as the cornerstone of all social, economic
              and moral creation,” who functions through the work place, the syndicate,
@@ -10163,7 +10160,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              and women concerned, guaranteeing the children with the security of the
              community.” This resolution was carried unanimously by the delegates of the
              congress. It was written, discussed, and adopted not in the “enlightened”
-206 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              1960s and 1970s, but in the severely patriarchal Catholic Spain of 1936.
              Today, it is impossible for an urbane and modernistic generation to realize
              how far these Anarchosyndicalist workingmen and workingwomen were in
@@ -10213,7 +10210,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
                More symbolic than real at these conspiratorial meetings was the ﬁgure of
              Jose Antonio Primo de Rivera. While in prison the son of the former dictator
              had become the hero of the extreme right. From the welter of Carlist,
-207 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              conservative, and clerical groups, the Falange was to eventually emerge as
              the political backbone of what was later to be called the “Nationalist” cause
              and Jose Antonio was to become its martyr after his execution during the Civil
@@ -10262,7 +10259,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              proletariat.” This, of course, was mere guesswork. It tells us more about the
              course the CNT was to follow in the Civil War and its inability to formulate a
              policy to deal with the consequences of its electoral support of the Popular
-208 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              Front than it does about the actual behavior of the right on the eve of the
              elections. Republican oﬀicers with more substantial facts had informed the
              government in April that military conspiracies were underway. On May 1st,
@@ -10312,7 +10309,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              Monarchist and Carlist headquarters in the capital (presumably to prevent
              disorders) but also the Anarchist centers. This attempt to neutralize the most
              militant elements in the labor movement all but assured that Madrid would
-209 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              remain “serene.” A confused situation emerged in the capital: the CNT, “on
              war footing ever since the building strike,” observe Pierre Broue and Emile
              Temime in their perceptive account of the Spanish Revolution’ and Civil War,
@@ -10362,7 +10359,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              makeshift weapons, lay in wait for any suspicious action by the troops.
                On July 18, the generals declared their pronundamiento and, in the morning
              hours of the next day, solidiers of the Barcelona garrison, perhaps the largest
-210 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              in Spain, began to leave their quarters to occupy strategic centers of the city.
              Almost everywhere they encountered workers massed behind barricades,
              snipers from rooftops, and immense crowds walking toward them with their
@@ -10408,7 +10405,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              sectors of commercial, ﬁnancial, and industrial classes. Accordingly, the
              “people” were united more by the social elements they opposed than by an
              authentic community of shared economic interests.
-211 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
                In the opening years of the Great French Revolution of 1789, the “people”
              was actually a coalition rather than a class. As the revolution unfolded, this
              coalition began to disintegrate. Lofty utopian ideals based on liberty and
@@ -10457,7 +10454,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
                  the contrary. Since the abstraction of all humanity, even of the
                  semblance of humanity, is practically complete in the full-grown
                  proletariat [my emphasis, here—M.B.] since all the conditions of life
-212 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
                   of the proletariat sum up alf the conditions of life of society today in
 ## all their inhuman acuity; since man has lost himself in the
                   proletariat, yet at the same time has not only gained theoretical
@@ -10506,7 +10503,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
                 The great proletarian insurrections that seemed to lend such compelling
              support to the concept of proletarian socialism were fueled primarily by social
              strata that lived within neither industrial nor village society but in the tense,
-213 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              almost electrifying force-ﬁeld of both. Proletarian socialism became a
              revolutionary force for nearly a century not because a well-organized,
              consolidated, hereditary proletariat had emerged with the factory system but
@@ -10556,7 +10553,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              uprisings of the worker’s movement. In July 1936, the CNT and FAI were
              suﬀiciently independent as a workers’ movement, certainly by comparison
              with the Socialists and POUM, to make Barcelona the most revolutionary city
-214 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              in Spain. No other large urban area was to achieve the social goals of
              revolutionary syndicalism as fully, to collectivize industry as resolutely, and to
              foster communal forms of land management as extensively as Barcelona and
@@ -10607,7 +10604,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              higher moral realm of freedom in which people work to the best of their
              abilities and receive according to their needs. Finally, in an abundant
              economy that can provide for personal needs with a minimum of toil, the
-215 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              individual can acquire the free time for self-cultivation and full participation
              in the direct management of social life.
                 Spanish Anarchism revealed how far proletarian socialism could press
@@ -10657,7 +10654,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              society, that it could be turned into an adaptive rather than a revolutionary
              class. Organized and disciplined by the factory, it could in tact become an
              extension of the factory into society at large, a victim of the factory’s narrow
-216 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              economistic functions and its system of standardization and hierarchy. I am
              not contending here that any social revolution in our time can be achieved
              without the active support of the proletariat but rather that any such
@@ -10707,7 +10704,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
                 The genius of Spanish Anarchism stems from its ability to fuse the concerns
              of traditional proletarian socialism with broader more contemporary
              aspirations. In the very act of criticizing one remarkable achievement of the
-217 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              Spanish Anarchist movement, the aﬀinity group, Santillan inadvertently
              reveals its uniqueness. Moreover, he discloses the clash between tradition and
              dream that existed within Spanish Anarchism in the 1930s. “We believe there
@@ -10756,7 +10753,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              the future than the factory socialism of the workers’ movement. It should not
              be forgotten that the “happy Arcadias” and “free communes” which Spanish
              Anarchists had borrowed from visions of the past were often no less stern
-218 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              than Santillan’s image of the factory. They too conceived their communal, free
              “Arcadias” in gravely puritanical terms. They believed in “free love” because
              they believed in the freedom to mate without political or religious sanction,
@@ -10803,7 +10800,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              language and those which are available, with a couple of exceptions, are too
              cursory to supply a very rewarding account of the movement. Juan Gomez
              Casa’s Historia del Anarcosindicalismo (Madrid, 1968) is simply an outline of
-219 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              the major events in Spanish Anarchist history and does not live up to its
              grandiloquent title. Jean Becarud and Gilles Lapouge’s Anarchistes d Espagne
              (Paris, 1970) is even more abbreviated and oﬀers only a glimpse of its subject
@@ -10852,7 +10849,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              Femanco Garrido Tortosa’s Historia de las Asociaciones Obreras en Europa
              (Madrid, 1870). This two-volume account is perhaps the most valuable
              available source on early Spanish working-ilass movements. Garrido was a
-220 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              friend of Reclus and toured Spain with him; his observations are based not
              merely on research into these movements but also on participation in them. In
              English, a splendid survey of early labor agitation appears in Bruce Levine’s
@@ -10901,7 +10898,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              care to consult the ﬁve-volume series Historia Social y Economica de Espana
              y America, edited by Jaime Vicens Vives (Barcelona, 1957–1959) and Vicens
              Vives’s An Economic History of Spain (Princeton, 1969). One of the best
-221 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              sources for popular collectivism in Spain is Joaquin Costa’s Colectivismo
              Agrario en Espana (orginally published in Madrid, 1898). Raymond Carr’s
              Spain, 1808–1939 (Oxford, 1966) is an eminently readable and highly
@@ -10949,7 +10946,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
                Virtually every account of peasant Anarchism in Spain owes a great debt to
              Diaz del Moral, who,also enjoys the distinction of fostering the “millenarian”
              orientation that characterizes so many English works on the subject. Joaquin
-222 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              Costa’s Oligarquia y Catiquismo como la Forma Actual de Gobiemo en Espana
              (orginally published in Madrid, 1902) provides indispensable material on the
              cacique system and Vicens Vives’s Historia Social y Economica ... is an
@@ -10999,7 +10996,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              “original” document would warrant the most scrupulous authentication, in my
              opinion, before any question of police forgery could be removed. Clara E. Lida
              accepts this document as fact and discusses its social context in “Agrarian
-223 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              Anarchism in Andalusia,” International Review of Social History, XIV, 3 (1969).
              Her review of the period makes the article well worth reading, quite aside
              from the dispute that may arise about the authenticity of the document itself.
@@ -11048,7 +11045,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              highly informative material in Joan Connelly Ullman’s book. Ferrer’s La
              Escuela Moderna has been translated into English by Joseph McCabe under
              the title, The Origin and Ideas of the Modem School (London, 1913), a work
-224 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              that has apparently undergone many reprints although the translation does
              not have a publishing history. This small volume presents a comprehensive
              statement of Ferrer’s pedagogic ideals and still deserves reading. A. and C.
@@ -11096,7 +11093,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              4. From the Early CNT to the Second Republic
              (Chapters VIII-IX)
               The early history and structure of the CNT are discussed in detail in the
-225 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              historical works of Brenan, Buenacasa, Abad de Santillan, and Garcia Venero.
              Jose Peirats’s What is the CNT? (London, 1972), the English translation of an
              article in Ruta, gives a description of the organization’s structure and goals as
@@ -11145,8 +11142,8 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              Ediciones “Solidaridad Obrera” under the title Salvador Segui: su vida, su
              obra (Paris, 1960). Meaker also discusses Segui’s policies in detail. An
              excellent account of the conﬂict between various tendencies within the CNT
-             during this period appears in George Breitman’s Spanish Anarcho226 of 234 10/11/25, 1:14 PM
-The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+             during this period appears in George Breitman’s Spanish Anarcho
+
              Syndicalism, 1918–1931: Moderates vs. Extremists (University of Michigan,
              unpublished paper, 1969). Ricardo Sanz provides a personal account of the
              Solidarios and Nosotros aﬀinity groups in El Sindicalismo y La Politico
@@ -11195,7 +11192,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              and the New Mandarins. Hugh Thomas’s The Spanish Civil War (New York,
              1961)—a book that, for some curious reason, has acquired the reputation of
              being a “deﬁnitive” history of the conﬂict—is pretentious, superﬁcial, and
-227 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              factually unreliable. For a devastating critique of Thomas’s oeuvre, the reader
              should consult Vernon Richards’s “July 19, 1936: Republic or Revolution?” in
              Anarchy, No. 5 (Juty/1961), and Richards’s introductory remarks to Gaston
@@ -11245,7 +11242,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              already singled out Broue and Temime’s survey of the uprising in the major
              cities of Spain. One of the most detailed accounts of the day-by-day conﬂict in
              Madrid and Barcelona appears in Abel Paz’s Paradigma de una Revolution
-228 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              (n.p., n.d.), published by Ediciones “ATT,” the concluding portion of which
              contains appeals in Solidaridad Obrera from July 19 to July 23, 1936. Portions
              of S. Canovas Cervantes’s Durruti y Ascaso: La C.N.T. y la Revolution de fulio,
@@ -11294,7 +11291,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
                [3] Perhaps the greatest single failing of Bakunin is his inconsistency in translating his avowed
              organizational precepts into practice. For a discussion of this problem, see pp. 46–50 below.
                [4] Which is not to say that the pueblo did not harbor the petty tyrannies of rigid custom,
-229 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              parochialism, superstition, and the more overt tyrannies of the caciques, clergy, and nobility. As
              we shall see, Spanish Anarchism tried to sift the more positive features of the pueblo from its
              reactionary social characteristics and rear its concept of the future on the mutualism of village
@@ -11357,7 +11354,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
                 [14] “El Madrileno” disappeared completely after the workers marched into Jerez and was not to
              be found again. Pedro Vallina, an outstanding Spanish Anarchist who was on good terms with
              some of the participants in the Jerez uprising, regarded the young man as a provocateur. He also
-230 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              adds the name of Fernando Poulet, a Frenchman who appeared in Paris among the exiled
              Anarchists. Poulet, in Vallina’s opinion, was a spy in the pay of the Spanish embassy.
                [15] As mayor, Salvochea had abolished the consumos (the onerous excise taxes levied on
@@ -11420,7 +11417,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              Andalusian Anarchist Sanchez Rosa, who had been engaged in a bitter ﬁght with the Regional
              Committee of the Andalusian Confederation. The expulsion created such acrimonious feelings
              between Anarchists and syndicalists that it nearly split the entire labor organization. The
-231 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              Anarchists now excoriated the sindicatos unicos and syndicalism generally, demanding a return to
              the old trade sections and a more libertarian type of organization. Although a peace of sorts was
              established between the two wings, the wounds never fully healed and were to reopen in later
@@ -11483,7 +11480,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
                [36] Throughout the latter part of 1931, almost endemic violence engulfed the Barcelona port
              area for example, where the UGT tried to undermine the traditional hold of the CNT on the dock
              workers.
-232 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
                [37] The long lapse between national congresses of the CNT should not be seen as evidence that
              the union was lacking in democracy. On the contrary, between national congresses the
              formulation of policy and initiative in action fell back to Regional, District, and even Local
@@ -11546,7 +11543,7 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              in my eyes—and I have drawn much of my material from his Los anarquistas en la crisis politica
              espanola.
                [44] The reader would be well-advised to take such reports with reservations. It does not
-233 of 234 10/11/25, 1:14 PM The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-...
+
              deprecate the role of the Mieres miners to emphasize that the Communists staked out a claim to
              nearly all the dramatic initiatives in the Asturian insurrection, although the union locals they
              actually controlled probably commanded little more than 3,000 members. Indeed, on the basis of
@@ -11597,4 +11594,3 @@ The Spanish Anarchists https://theanarchistlibrary.org/library/murray-bookchin-.
              an interesting discussion of this correspondence, see Martin Buber’s Paths in Utopia (Boston:
              Beacon Press, pp. 90–94).
              Retrieved on 12th July 2021 from libcom.org
-234 of 234 10/11/25, 1:14 PM

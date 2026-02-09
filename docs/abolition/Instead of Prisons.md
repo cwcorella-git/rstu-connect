@@ -3957,7 +3957,6 @@ To demonstrate why most rape victims prefer not to press charges, let's imagine 
 "Never mind. What time did this holdup take place?"
 
 "About 11 p.m."
-##
 "Just walking? You know that it is dangerous being out on the street that late at night. Weren't you aware that you could have been held up?"
 
 ## "I hadn't thought about it."
@@ -5548,7 +5547,6 @@ In 1969 the Chairman of the Lorton Lifers at the Lorton, Virginia facility, wrot
 [\[188\]](#page-64-3) "Excessive bail shall not be required, nor excessive fines imposed, nor cruel and unusual punishments inflicted."
 
 [189] Weems v. United States, 217 U. S. 349, 368–70 (1910).
-##
 - [\[190\]](#page-64-5) **Ibid**.
 - [\[191\]](#page-64-6) **Jackson v. Bishop**, 404 F. 2d 571, 579–81 (8th Cir. 1968).
 - [\[192\]](#page-64-7) See **Holt v. Sarver**, 309 F. Supp. 363 (E. D. Ark. 1970), aff'd 442 F. 2d 304 (8th Cir. 1971); **Rhem v. Malcolm**, 371 F. Supp. 594 (S. D. N. Y. 1974) aff'd 507 F. 2d 333 (2d Cir. 1974); **Gates v. Collier**, 349 F. Supp. 881 (N. D. Miss. 1972); **Inmates of Suffolk County Jail v. Eisenstudt**, 360 F. Supp. 676 (D. Mass. 1973).

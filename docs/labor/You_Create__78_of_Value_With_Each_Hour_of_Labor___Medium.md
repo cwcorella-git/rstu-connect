@@ -9,7 +9,6 @@ tags:
   - workers
 ---
 
-You Create $78 of Value With Each Hour of Labor | Medium https://medium.com/@re.Marx/you-create-78-of-value-w...
                                     Search
           You Create $78 of Value With Each Hour of
           Labor
@@ -23,7 +22,7 @@ You Create $78 of Value With Each Hour of Labor | Medium https://medium.com/@re.
           appreciation” — the full profits of the store were distributed to the employees, in
           lieu of their usual wage. The staff worked a total of 96 hours, and pulled in $7,500,
           which was split evenly to give the employees $78/hr. The first wave of press coverage
-1 of 19 3/17/25, 11:56 PM  You Create $78 of Value With Each Hour of Labor | Medium https://medium.com/@re.Marx/you-create-78-of-value-w...
+
           was exactly the kind of fawning over the business-owner’s generosity you might
           expect, but then a much more interesting second wave passed through social media
           channels. Socialist outlets began posing the question, “what kind of a system is this,
@@ -41,7 +40,7 @@ You Create $78 of Value With Each Hour of Labor | Medium https://medium.com/@re.
           to accept the LTV to use Marx’s analysis of capitalism, and so it was sort of weakly
           adopted, but adherents freely admit it is sometimes wrong (and economists laugh at
           you if you use it). Some famous socialists even attempt to deny that Marxism
-2 of 19 3/17/25, 11:56 PM You Create $78 of Value With Each Hour of Labor | Medium https://medium.com/@re.Marx/you-create-78-of-value-w...
+
           requires the LTV! Overall, the point of Marxism was to say, value generally comes
           from labor, thus the value awarded to people who don’t labor has been extracted
           from those who do. While Malcolm X may have been no Marxist, he put this better
@@ -74,7 +73,7 @@ You Create $78 of Value With Each Hour of Labor | Medium https://medium.com/@re.
           value. However, our claim is that money’s value is itself determined by labor, in one
           way or another. Let us analyze how money was understood in Marx’s time, and what
           must be changed in the modern era.
-3 of 19 3/17/25, 11:56 PM You Create $78 of Value With Each Hour of Labor | Medium https://medium.com/@re.Marx/you-create-78-of-value-w...
+
           Marxist thinking on the value of money is tied to the existence of a money
           commodity. This is when a certain commodity (i.e. a thing created with labor) is
           chosen to serve as money, a universal store of value. Since any two commodities
@@ -106,7 +105,7 @@ You Create $78 of Value With Each Hour of Labor | Medium https://medium.com/@re.
           fiat currency — meaning, money which is merely defined by an authority (the State)
           to be worth its nominal printed value “by fiat”³. Our money is no longer value-
           bearing, in the sense that it requires negligible labor to physically produce it, and
-4 of 19 3/17/25, 11:56 PM You Create $78 of Value With Each Hour of Labor | Medium https://medium.com/@re.Marx/you-create-78-of-value-w...
+
           thus its existing supply is determined not by production but by a seemingly arbitrary
           choice of State officials. However, even though it possesses no value itself, money
           still represents value, and value still comes from labor. Let us use the American dollar
@@ -138,8 +137,7 @@ You Create $78 of Value With Each Hour of Labor | Medium https://medium.com/@re.
           because it would not be stable enough to serve as a (convenient) money. Thus both
           requirements tend to be enforced for either kind of currency. The value Lₘ is
           overdetermined.
-5 of 19 3/17/25, 11:56 PM
-You Create $78 of Value With Each Hour of Labor | Medium https://medium.com/@re.Marx/you-create-78-of-value-w...
+
           But a single quantity cannot be determined by two separate, independent equations.
           The difference between a money commodity and fiat currency is that in the first
           case, the left equation is fundamental, and in the second case it is the right
@@ -165,8 +163,7 @@ You Create $78 of Value With Each Hour of Labor | Medium https://medium.com/@re.
           “taken home” by individuals or removed from the economy per se — corporate
           profits which are retained by the corporation are still “owned” by someone, even if
           they can’t “spend” it. The creation of value happens when laborers, either within or
-6 of 19 3/17/25, 11:56 PM
-You Create $78 of Value With Each Hour of Labor | Medium https://medium.com/@re.Marx/you-create-78-of-value-w...
+
           outside the US, perform work. That value is later distributed into this or that income
           category, and in order to reconstruct the initial value thus created, we will need to
           keep track of all of these categories together. For consistency with the establishment
@@ -188,7 +185,7 @@ You Create $78 of Value With Each Hour of Labor | Medium https://medium.com/@re.
           claim that $77.48 is the approximate dollar value of an hour of labor, seeing as both
           the dollar and the hour of labor are different unit representations for an equivalent
           quantity, value.
-7 of 19 3/17/25, 11:56 PM You Create $78 of Value With Each Hour of Labor | Medium https://medium.com/@re.Marx/you-create-78-of-value-w...
+
           Exploitation (of a worker) is the scenario where a worker is paid less than the value
           they create — on average $78. This is abstract, average labor — it is important to
           recognize the complications Marx, or any economist, will introduce: labor which
@@ -220,7 +217,7 @@ You Create $78 of Value With Each Hour of Labor | Medium https://medium.com/@re.
           Marx argues that the reason that the natural unit of value, the labor-hour, could not
           serve as the actual measure of value, money, was primarily a practical one.
           “The question why money does not itself directly represent labour-time, so that a piece of
-8 of 19 3/17/25, 11:56 PM You Create $78 of Value With Each Hour of Labor | Medium https://medium.com/@re.Marx/you-create-78-of-value-w...
+
           paper may represent, for instance, x hours’ labour, comes down simply to the question
           why, on the basis of commodity production, the products of labour must take the form of
           commodities.” (Capital, Volume I, Penguin Classics Edition page 188)⁹
@@ -252,8 +249,7 @@ You Create $78 of Value With Each Hour of Labor | Medium https://medium.com/@re.
           either keep this full value, or you would get to democratically choose to what causes
           your surplus goes. As it is now, it goes to the already rich and powerful, and the
           causes they care about are stupid, self-serving, and may well get us all killed.
-9 of 19 3/17/25, 11:56 PM
-You Create $78 of Value With Each Hour of Labor | Medium https://medium.com/@re.Marx/you-create-78-of-value-w...
+
              Remember Bezos’s quote, seemingly confirming the LTV? Bezos: “I also want to thank every Amazon
            employee and every Amazon customer,” Jeff Bezos said Tuesday on returning from the edge of outer space,
                            “because you guys paid for all of this.” — image credit Marian Kamensky
@@ -271,8 +267,7 @@ You Create $78 of Value With Each Hour of Labor | Medium https://medium.com/@re.
            (e.g. Mexico), GDP and GNI are nearly identical. We will elect to use GNI for the US
            both for resonance with Thomas Piketty’s Capital in the Twenty-First Century and
            because I find it likely that a nation’s currency is defined for the population of its
-10 of 19 3/17/25, 11:56 PM
-You Create $78 of Value With Each Hour of Labor | Medium https://medium.com/@re.Marx/you-create-78-of-value-w...
+
            nationals, rather than by production within its borders.
            ⁵ vₒ is used instead of v to reflect the approximation we are using, that all
            commodities are purchased at their value. We will attempt to solve for the corrected
@@ -297,8 +292,7 @@ You Create $78 of Value With Each Hour of Labor | Medium https://medium.com/@re.
            ⁹ Or, if you prefer, page 91, footnote 1 of https://www.marxists.org/archive/marx/
            works/download/pdf/Capital-Volume-I.pdf
              Monetary Policy Money Work Economics Marxism
-11 of 19 3/17/25, 11:56 PM
-You Create $78 of Value With Each Hour of Labor | Medium https://medium.com/@re.Marx/you-create-78-of-value-w...
+
                                                                                                                  Follow
            Written by re.Marx
            118 Followers · 24 Following
@@ -319,21 +313,18 @@ You Create $78 of Value With Each Hour of Labor | Medium https://medium.com/@re.
            pocket, or accumulate to a bank, or get pumped into the stock market, but it doesn’t matter — it really ought
            to belong to you, and the system… more
                         1 reply Reply
-12 of 19 3/17/25, 11:56 PM
-You Create $78 of Value With Each Hour of Labor | Medium https://medium.com/@re.Marx/you-create-78-of-value-w...
+
            More from re.Marx
                re.Marx
            Rent is Always Exploitation
            We shouldn’t be paying off our landlord’s mortgage if the they get to keep the house.
            May 1, 2022 26 5
-13 of 19 3/17/25, 11:56 PM
-You Create $78 of Value With Each Hour of Labor | Medium https://medium.com/@re.Marx/you-create-78-of-value-w...
+
                re.Marx
            I’m a UC graduate student. Here’s What the Strike is About.
            Hint: It’s not about a low hourly rate.
            Nov 29, 2022 1.1K 25
-14 of 19 3/17/25, 11:56 PM
-You Create $78 of Value With Each Hour of Labor | Medium https://medium.com/@re.Marx/you-create-78-of-value-w...
+
                 re.Marx
            Land is Not a Commodity
            Which is why its value doesn’t come from labor, but instead the rent that it generates.
@@ -344,15 +335,13 @@ You Create $78 of Value With Each Hour of Labor | Medium https://medium.com/@re.
            Jul 1, 2022 45
                                                    See all from re.Marx
            Recommended from Medium
-15 of 19 3/17/25, 11:56 PM
-You Create $78 of Value With Each Hour of Labor | Medium https://medium.com/@re.Marx/you-create-78-of-value-w...
+
               Ginger
            I Pretended to Be a Man on a Dating Site—And I Hate What I Discovered
            As a 23-year-old woman fascinated by human behavior (and, let’s be honest, sometimes just
            bored and curious), I decided to conduct a…
                Mar 2 21K 638
-16 of 19 3/17/25, 11:56 PM
-You Create $78 of Value With Each Hour of Labor | Medium https://medium.com/@re.Marx/you-create-78-of-value-w...
+
               Jessica Stillman
            Jeff Bezos Says the 1-Hour Rule Makes Him Smarter. New Neuroscience
            Says He’s Right
@@ -363,14 +352,12 @@ You Create $78 of Value With Each Hour of Labor | Medium https://medium.com/@re.
            Something Huge is About To Happen This Month..
            The Stock Market is about to explode
                Mar 9 704 31
-17 of 19 3/17/25, 11:56 PM
-You Create $78 of Value With Each Hour of Labor | Medium https://medium.com/@re.Marx/you-create-78-of-value-w...
+
               Aurum Archon
            The Manus AI Just Killed Trump’s $500 Billion Stargate Project
            Retrospective
                Mar 8 2.4K 62
-18 of 19 3/17/25, 11:56 PM
-You Create $78 of Value With Each Hour of Labor | Medium https://medium.com/@re.Marx/you-create-78-of-value-w...
+
               In Predict by Will Lockett
            SpaceX Has Finally Figured Out Why Starship Exploded, And The Reason
            Is Utterly Embarrassing
@@ -382,7 +369,6 @@ You Create $78 of Value With Each Hour of Labor | Medium https://medium.com/@re.
            pure chaos
                Mar 1 14.3K 346
                                               See more recommendations
-19 of 19 3/17/25, 11:56 PM
 
 ## Document Summary
 

@@ -8,7 +8,6 @@ tags:
   - theory
 ---
 
-Anarchist Perspectives on Net Neutrality https://theanarchistlibrary.org/library/crimethinc-anarch...
             CrimethInc.
             Anarchist Perspectives on Net
             Neutrality
@@ -45,7 +44,7 @@ Anarchist Perspectives on Net Neutrality https://theanarchistlibrary.org/library
             decentralized forms of infrastructure that are resilient against top-down
             control. The internet, in its current form, is indeed indispensable for
             participating in society; but that doesn’t mean we should take the current
-1 of 4 10/4/25, 12:02 PM Anarchist Perspectives on Net Neutrality https://theanarchistlibrary.org/library/crimethinc-anarch...
+
             form of the internet—or of society—for granted as the best or only possible
             model. It was our resources, extracted from us in the form of taxes and labor
             and innovation, that helped create both in the ﬁrst place. What could we
@@ -92,7 +91,7 @@ Anarchist Perspectives on Net Neutrality https://theanarchistlibrary.org/library
             Internet access was reclassiﬁed under Title II of the Communications Act.
             This meant that ISPs were regulated similarly to a utility, and that preferential
             treatment could not be provided to some websites over others. This is often
-2 of 4 10/4/25, 12:02 PM Anarchist Perspectives on Net Neutrality https://theanarchistlibrary.org/library/crimethinc-anarch...
+
             referred to as an even on-ramp: when you open your browser, you’d see the
             same Internet everyone else sees. You’d have the same access to information
             as every other Internet user. Your ISP could still charge you for faster access
@@ -138,7 +137,7 @@ Anarchist Perspectives on Net Neutrality https://theanarchistlibrary.org/library
             community-based approaches are taking shape in hacker spaces from
             Oakland to New York in the form of mesh networks. The idea is simple:
             instead of relying on the existing physical infrastructure built out by the large
-3 of 4 10/4/25, 12:02 PM Anarchist Perspectives on Net Neutrality https://theanarchistlibrary.org/library/crimethinc-anarch...
+
             telecommunications companies, we can build our own infrastructure. We can
             take our home wiﬁ routers, and program them to talk to each other, to provide
             access to one another. This horizontal communication stands in stark contrast
@@ -156,4 +155,3 @@ Anarchist Perspectives on Net Neutrality https://theanarchistlibrary.org/library
             of this is the mesh networks that exist today, which are ﬂedgling but precious
             examples of the preﬁguration of power we wish to see.
             Retrieved on 23rd April 2021 from crimethinc.com
-4 of 4 10/4/25, 12:02 PM

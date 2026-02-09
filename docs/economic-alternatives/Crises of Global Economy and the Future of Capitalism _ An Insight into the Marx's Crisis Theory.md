@@ -3787,8 +3787,7 @@ This mastery of the measurement of risk led many to believe that all possibility
 |---------------------------------------------------------|--------------------|
 | of banks | United States |
 | oan: the decisive role | Japan 1991-2003 |
-| es and the crisis in Ja | United States 1987 |
-| Table 8.2 Comparison of four crises in the United State | United States |
+8.2 Comparison of four crises in the United State | United States |
 
 | | 1929-39 | | | 2000-03 | |
 |-------------------------------|------------------------------|-----------------------------------------------------------|---------------------------------|---------------------------------|------|

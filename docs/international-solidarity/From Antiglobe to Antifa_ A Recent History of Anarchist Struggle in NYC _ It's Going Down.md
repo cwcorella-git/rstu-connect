@@ -22,8 +22,6 @@ Filed under: [Anarchist Movement,](https://itsgoingdown.org/category/topics/anar
 
 ## ![](_page_0_Picture_10.jpeg)
 
-## 1 of 3 11/11/25, 7:23 PM
-
 **Some NYC anarchists have put together From Antiglobe to Antifa: A Recent History of Anarchist Struggle in NYC. It chronicles the past 10 years of anarchist struggle in NYC through three waves: Occupy, Black Lives Matter, and anti-Trump/antifa.**
 
 Publication for Reading [PDF HERE](https://itsgoingdown.org/wp-content/uploads/2019/03/From-Antiglobe-to-Antifa-v14-single-page-reading-order.pdf) Publication for Printing [PDF HERE](https://itsgoingdown.org/wp-content/uploads/2019/03/From-Antiglobe-to-Antifa-v14.pdf)
@@ -34,10 +32,6 @@ The compilation of this history was inspired by ["Fighting](https://itsgoingdown
 
 …We can fight collective amnesia by building a collective memory. We need a collective memory to adapt our struggles, lest we end up with the "immortal science" of creating endless
 
-## 2 of 3 11/11/25, 7:23 PM
-
 front groups or more likely, a cliquey subculture full of informal social hierarchy. We all need to remember our recent history. We all need to remember what worked and what went wrong. We all need to remember the ones we've lost to the state. We all need to remember why we believe what we believe, and why we work the way we do. We need to collectively remember this, so that we have a collective way forward."
 
 We hope the history compiled herein can build collective memory of recent waves of struggle in NYC, inspire conversations about the history and future of revolutionary organizing, and build a more informed, strategic, and militant anarchist movement.
-
-## 3 of 3 11/11/25, 7:23 PM

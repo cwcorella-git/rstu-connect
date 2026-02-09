@@ -19,8 +19,6 @@ tags:
 - **6.** It is not possible to abolish Capitalism without a revolution, which will arise out of class conflict. The ruling class must be completely overthrown to achieve anarchist communism. Because the ruling class will not relinquish power without their use of armed force, this revolution will be a time of violence as well as liberation.
 - **7.** Unions by their very nature cannot become vehicles for the revolutionary transformation of society. They have to be accepted by capitalism in order to function and so cannot play a part in its overthrow. Trades unions divide the
 
-## 1 of 2 11/7/25, 11:23 PM
-
 working class (between employed and unemployed, trade and craft, skilled and unskilled, etc). Even syndicalist unions are constrained by the fundamental nature of unionism. The union has to be able to control its membership in order to make deals with management. Their aim, through negotiation, is to achieve a fairer form of exploitation of the workforce. The interests of leaders and representatives will always be different from ours. The boss class is our enemy, and while we must fight for better conditions from it, we have to realise that reforms we may achieve today may be taken away tomorrow. Our ultimate aim must be the complete abolition of wage slavery. Working within the unions can never achieve this. However, we do not argue for people to leave unions until they are made irrelevant by the revolutionary event. The union is a common point of departure for many workers. Rank and file initiatives may strengthen us in the battle for anarchist communism. What's important is that we organise ourselves collectively, arguing for workers to control struggles themselves.
 
 - **8.** Genuine liberation can only come about through the revolutionary self activity of the working class on a mass scale. An anarchist communist society means not only co-operation between equals, but active involvement in the shaping and creating of that society during and after the revolution. In times of upheaval and struggle, people will need to create their own revolutionary organisations controlled by everyone in them. These autonomous organisations will be outside the control of political parties, and within them we will learn many important lessons of self-activity.
@@ -28,5 +26,3 @@ working class (between employed and unemployed, trade and craft, skilled and uns
 - **10.** We have a materialist analysis of capitalist society. The working class can only change society through our own efforts. We reject arguments for either a unity between classes or for liberation that is based upon religious or spiritual beliefs or a supernatural or divine force. We work towards a world where religion holds no attraction.
 
 Retrieved on 5th October 2021 from [afed.org.uk](http://afed.org.uk/about/aims-principles/)
-
-## 2 of 2 11/7/25, 11:23 PM

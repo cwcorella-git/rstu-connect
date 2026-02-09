@@ -9,7 +9,6 @@ tags:
   - workers
 ---
 
-The Principles of Revolutionary Unionism https://usa.anarchistlibraries.net/library/international-...
             International Workers Association
             The Principles of Revolutionary
             Unionism
@@ -47,8 +46,8 @@ The Principles of Revolutionary Unionism https://usa.anarchistlibraries.net/libr
             accept the idea that the organization of a social system based exclusively on
             the producing class can be ordered by simple governmental decrees and
             maintains that it can only be obtained through the common action of all
-            manual and intellectual workers, in every branch of industry, by self1 of 3 10/11/25, 1:04 PM
-The Principles of Revolutionary Unionism https://usa.anarchistlibraries.net/library/international-...
+            manual and intellectual workers, in every branch of industry, by self
+
             management of the workers, such that every group, factory or branch of
             industry is an autonomous member of the greater economic organism and
             systematically runs the production and distribution processes according to
@@ -97,7 +96,7 @@ The Principles of Revolutionary Unionism https://usa.anarchistlibraries.net/libr
             thirst for earnings. Capitalist production always seeks to minimize costs in
             order to get more earnings to survive, and it is unable to protect the
             environment. To sum up, the world debt crisis has sped up the tendency to
-2 of 3 10/11/25, 1:04 PM The Principles of Revolutionary Unionism https://usa.anarchistlibraries.net/library/international-...
+
             commercial harvest to the detriment of subsistence agriculture. This fact has
             produced the destruction of the tropical forest, starvation and disease. The
             ﬁght to save our planet and the ﬁght to destroy capitalism must be joint or
@@ -125,4 +124,3 @@ The Principles of Revolutionary Unionism https://usa.anarchistlibraries.net/libr
             necessary creative energy for the reorganization of society on the basis of
             libertarian communism.
             Retrieved on 2020-04-01 from iwa-ait.org
-3 of 3 10/11/25, 1:04 PM

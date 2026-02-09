@@ -94,28 +94,17 @@ Philanthropy "to" Movements, "with" Movements, | 49 |
 | Distinguishing Between a Movement and a Grantee | 55 |
 | Getting Proximate to Movements | 58 |
 | Findings | 60 |
-| Common Tensions and Practices in Supporting Organizing and Movements | 60 |
-| Tension 1. Will My Foundation Support Informal, Unregistered,
-or Grassroots Entities? | 60 |
-| Tension 2. Rapid Response, Project-Based,
-or General Operating Support? | 64 |
-| Tension 3. Does US Federal Tax Law Permit Us to Support Social Movements
-and Grassroots Organizers That Conduct Lobbying? | 66 |
-| Tension 4. How Can We Build Donor Expertise
-in Supporting Organizing and Movements? | 68 |
-| Tension 5. How Can We Avoid Harmful Power Imbalances
-Between Donor and Grantee? | 70 |
-| Tension 6. How Do We Monitor and Evaluate Organizing and Movements? | 73 |
-| Principles for Supporting Grassroots Organizing and Social Movements | 75 |
-| Principle 1. Do No Harm | 76 |
-| Principle 2. Defer to People from Historically Excluded Communities | 76 |
-| Principle 3. Practice Solidarity | 77 |
-| Principle 4. Practice Courageous Learning | 78 |
+1. Will My Foundation Support Informal, Unregistered,
+2. Rapid Response, Project-Based,
+3. Does US Federal Tax Law Permit Us to Support Social Movements
+4. How Can We Build Donor Expertise
+5. How Can We Avoid Harmful Power Imbalances
+6. How Do We Monitor and Evaluate Organizing and Movements? | 73 |
+1. Do No Harm | 76 |
+4. Practice Courageous Learning | 78 |
 | Key Takeaways | 79 |
 | Future Research | 80 |
-| Conclusion | 82 |
-| Appendix 1. Human Rights Grantmaking Data Collection | 84 |
-| Appendix 2. Donors, Social Movements, | |
+2. Donors, Social Movements, | |
 | and Grassroots Organizing Survey Instrument | 85 |
 
 | Bibliography

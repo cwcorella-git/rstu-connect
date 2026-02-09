@@ -1166,8 +1166,6 @@ User progression through exhibits was considered early on as it was an impor tan
 
 ## ![](_page_73_Picture_2.jpeg)
 
-## FIGURE 72 | SPATIAL IDEATION SKETCHES
-
 1. control carbon dioxide see sea level rise and solar energy impacts emissions
 
 ### CITY FLOATING

@@ -2168,7 +2168,6 @@ d Ibid. p. n
 ## , Ibid. p. 74.
 ## , Ibid. p. 69.
 ## f Ibid. p. I30.
-##
 the sovereign regent, the sovereign people too would be reached by no law. Edgar Bauer's whole attempt comes to a change of masters. Instead of wanting to make the people free, he should have had his mind on the sole realizable freedom, his own.
 
 In the constitutional state absolutism itself has at last come in conflict with itself, as it has been shattered into a duality; the government wants to be absolute, and the people wants to be absolute. These two absolutes will wear out against each other.

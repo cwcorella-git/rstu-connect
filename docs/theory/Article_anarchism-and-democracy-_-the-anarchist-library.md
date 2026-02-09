@@ -38,8 +38,6 @@ Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ft
                without the state. Lorenzo Kom’boa Ervin argued in 1993 that
 ## “there is no democracy or freedom under government —
 
-1 of 28 3/17/25, 5:10 PM Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## whether in the United States, China or Russia. Anarchists
                believe in direct democracy by the people as the only kind of
                freedom and self-rule” (Ervin 1993. Also see Milstein 2010, 97–
@@ -71,8 +69,6 @@ Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ft
 ## association, it follows that anarchism does not advocate
 ## democracy (Gordon 2008, 67–70; Crimethinc 2016).
 
-2 of 28 3/17/25, 5:10 PM Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## Anarchists who advocate democracy without the state are
                themselves in favour of free association. Graeber, for example,
 ## advocates a society “where humans only enter those kinds of
@@ -103,7 +99,7 @@ Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ft
                that the history of anarchism can be straight forwardly used to
 ## settle the debate on anarchism and democracy. My hope is
                only that an in-depth knowledge of anarchist history will help
-3 of 28 3/17/25, 5:10 PM Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                modern anarchists think about the topic in more fruitful ways.
 
 ## The Historical Anarchist Critique of Democracy
@@ -135,7 +131,6 @@ Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ft
 ## women, slaves, children and foreigners – were excluded and
 ## lacked decision-making power in the assembly (Hansen 1991,
 
-4 of 28 3/17/25, 5:10 PM Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                304–20). There is a tendency for modern radicals to argue that
 ## the example of 5th century Athens demonstrates that from a
                historical point of view true democracy is direct democracy.
@@ -167,7 +162,6 @@ Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ft
                sense that they do not own a lot of property, then for Aristotle,
 ## it is a democracy independently of the decision-making
 
-5 of 28 3/17/25, 5:10 PM Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                mechanisms through which this rule is achieved (ibid, 100–2,
 ## 139–41). A modern person could of course disagree with
 ## Aristotle about whether or not citizens who elect
@@ -198,7 +192,7 @@ Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ft
 ## Athens.
 
                The historical anarchist critique of democracy so understood is
-6 of 28 3/17/25, 5:10 PM Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                as follows. Anarchists began by arguing that the government of
 ## the people was impossible. What defenders of democracy
                referred to as ‘the people’ was an abstraction which did not
@@ -229,7 +223,6 @@ Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ft
                establish or protect the equal freedom of all, such as in selfdefence or to overthrow the ruling classes. (Malatesta 2014,
 ## 187–91) The violence of government, however, goes far
 
-7 of 28 3/17/25, 5:10 PM Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                beyond this since they are institutions which have the power,
                and claim the exclusive right to, impose their will on everyone
 ## within a given territory via force (ibid, 113, 136).
@@ -261,7 +254,7 @@ Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ft
 
 ## modern capitalist production and bank speculation … get
 ## along very nicely, though, with so-called representative
-               democracy. This latest form of the state, based on the pseudo8 of 28 3/17/25, 5:10 PM
+               democracy. This latest form of the state, based on the pseudo
 Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## sovereignty of a sham popular will, supposedly expressed by
@@ -296,7 +289,6 @@ Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ft
 ## 1995, 78, 77. Also see Berkman 2003, 71–3). The anarchist
                critique of democratic governments should not be interpreted
                as the claim that all forms of government are equally bad. Both
-9 of 28 3/17/25, 5:10 PM Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## Bakunin and Malatesta also claimed that the worst democracy
                was preferable to the best monarchy or dictatorship (Bakunin
@@ -329,8 +321,6 @@ Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ft
 ## labour councils, communes, and associations of production
 ## and consumption (Rocker 2004, 47–8; Malatesta 2014, 60;
 
-10 of 28 3/17/25, 5:10 PM Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## Goldman 1996, 68). The National Confederation of Labour
                (CNT), which was a Spanish anarcho-syndicalist trade union,
 ## proposed in its 1936 Zaragoza congress resolutions that
@@ -362,7 +352,6 @@ Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ft
 ## was only using different language to describe the same
 ## anarchist ideas.
 
-11 of 28 3/17/25, 5:10 PM Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                The majority of anarchists did not refer to an anarchist society
                as ‘true democracy’ because for them ‘democracy’ necessarily
 ## referred to a system of government. A key reason why
@@ -392,7 +381,6 @@ Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ft
                (Kropotkin 2014, 371–82; Berkman 2003, 89–102).
                One of the great ironies of history is that the Russian anarchist
                Michael Bakunin initially used the language of ‘democracy’. In
-12 of 28 3/17/25, 5:10 PM Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## 1868 he co-founded an organisation called The Alliance of
 ## Socialist Democracy and wrote a programme for it which
@@ -425,8 +413,6 @@ Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ft
 ## because it is a topic which does not appear frequently in
 ## surviving articles, pamphlets or books. Those sources which
 
-13 of 28 3/17/25, 5:10 PM Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## are available do nonetheless establish a number of clear
 ## positions. Some anarchists advocated majority vote, whilst
 ## other anarchists advocated unanimous decisions in which
@@ -458,7 +444,6 @@ Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ft
 ## in bondage, which paralyzed their power of action, and even
                led them to make absurd and grotesque assertions. Thus going
                from the principle: The Majority has no right to impose its will
-14 of 28 3/17/25, 5:10 PM Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## on the minority; they came to the conclusion that nothing
 ## should ever be done without the unanimous consent of all
@@ -492,7 +477,6 @@ Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ft
                better to suit the greatest possible number; always, of course,
 ## with the understanding that the minority has all possible
 
-15 of 28 3/17/25, 5:10 PM Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                opportunity to advocate its ideas, to afford them all possible
                facilities and materials to experiment, to demonstrate, and to
 ## try to become a majority (Malatesta 2016, 18–9).
@@ -525,8 +509,6 @@ Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ft
                unions and, I repeat, I do not see anything that goes against
 ## our anarchist principles.
 
-16 of 28 3/17/25, 5:10 PM Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## There are comrades who feel the need to raise questions of
                principle on everything, even the smallest things. Unable as
 ## they are to understand the spirit of our antiparliamentarianism, they place importance on the mere act of
@@ -557,8 +539,6 @@ Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ft
 ## national decision” was “the general assembly of the union,
                where every member has the right to attend, raise and discuss
 ## issues, and vote on proposals”. The “resolutions” of these
-
-17 of 28 3/17/25, 5:10 PM Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## assemblies were “adopted by majority vote attenuated by
 ## proportional representation”. The agenda of regional or
@@ -591,8 +571,6 @@ Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ft
                organisations composed exclusively of anarchist militants, “do
 ## not lay down the law” or “impose their own resolutions on
 ## others”. Their resolutions are only “suggestions,
-
-18 of 28 3/17/25, 5:10 PM Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## recommendations, proposals to be submitted to all involved,
 ## and do not become binding and enforceable except on those
@@ -627,7 +605,6 @@ Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ft
 ## and Argentina attended the previously mentioned
 ## International Anarchist Congress in Amsterdam. Proposals or
 
-19 of 28 3/17/25, 5:10 PM Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                resolutions at the congress were adopted by majority vote and
 ## each delegate had a single vote. How this was implemented
 ## varied depending upon the kind of decision being made. On
@@ -657,8 +634,6 @@ Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ft
 ## resolution, multiple resolutions were passed providing that
                each received a majority vote. This occurred when four slightly
 ## different resolutions on syndicalism and the general strike
-
-20 of 28 3/17/25, 5:10 PM Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## were adopted (ibid, 132–5). The congress minutes respond to
 ## this situation by claiming,
@@ -692,7 +667,6 @@ Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ft
 ## conform to communal decisions. In a social project, however
                vast the federalist basis on which it is built, there can be no
                decisions without their execution. It is even less admissible in
-21 of 28 3/17/25, 5:10 PM Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## an anarchist organisation, which exclusively takes on
 ## obligations with regard to the workers and their social
@@ -724,7 +698,6 @@ Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ft
 ## printed on each membership card, declared that “Anarchosyndicalism and anarchism recognise the validity of majority
 ## decisions”. Although the CNT recognised “the sovereignty of
 
-22 of 28 3/17/25, 5:10 PM Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                the individual” and a militant’s right to have their own point of
 ## view and defend it, members of the CNT were “obliged to
 ## comply with majority decisions” and “accept and agree to
@@ -757,8 +730,6 @@ Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ft
 ## positions. What many modern anarchists label as democracy
 ## without the state, historical anarchists just called free
 
-23 of 28 3/17/25, 5:10 PM Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## association or anarchy. At least one historical anarchist,
 ## Maximoff, referred to anarchism as democracy without the
                state several decades before it became a popular expression.
@@ -790,7 +761,7 @@ Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ft
 ## Bibliography
 
                Ackelsberg, Martha. 2005. Free Women of Spain: Anarchism
-24 of 28 3/17/25, 5:10 PM Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                and the Struggle for the Emancipation of Women. Oakland, CA:
 ## AK Press.
 
@@ -826,7 +797,7 @@ Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ft
 ## Press.
 
                Eckhart, Wolfgang. 2016. The Fist Socialist Schism: Bakunin VS.
-25 of 28 3/17/25, 5:10 PM Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                Marx in the International Working Men’s Association. Oakland,
                CA: PM Press.
 
@@ -859,7 +830,6 @@ Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ft
 
 ## Locke, John. 2016. Second Treatise of Government and Letter
                Concerning Toleration. Oxford: Oxford University Press.
-26 of 28 3/17/25, 5:10 PM Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## Maximoff, Gregori. 2015. Program of Anarcho-Syndicalism.
 ## Guillotine Press
@@ -895,7 +865,6 @@ Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ft
                Peirats, José. 2011. The CNT in the Spanish Revolution Volume
                1. Edited by Chris Ealham. Oakland, CA: PM Press.
 
-27 of 28 3/17/25, 5:10 PM Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                Taber, Mike, ed. 2021. Under the Socialist Banner: Resolutions
                of the Second International 1889–1912. Chicago: Haymarket
 ## Books.
@@ -916,4 +885,3 @@ Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ft
                Practice. Oakland, CA: AK Press.
                Rousseau, Jean-Jacques. 1999. Discourse on Political Economy
                and The Social Contract. Oxford: Oxford University Press.
-28 of 28 3/17/25, 5:10 PM

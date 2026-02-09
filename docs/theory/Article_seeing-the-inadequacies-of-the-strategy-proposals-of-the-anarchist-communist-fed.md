@@ -8,8 +8,6 @@ tags:
   - socialism
 ---
 
-Seeing the Inadequacies of the Strategy Proposals of the Anarchist Co... https://theanarchistlibrary.org/library/james-herod-seeing-the-inadequac...
-
 ## James Herod
 ## Federation (UK)
 ## An Anarchist Revolutionary Strategy Sketched Briefly
@@ -51,8 +49,6 @@ Seeing the Inadequacies of the Strategy Proposals of the Anarchist Co... https:/
 ## flounder.
                    3. "Coordination of all anti-capitalist struggles". (page 2) Once again, in what unit? The
 
-1 of 18 9/17/25, 11:29 AM
-Seeing the Inadequacies of the Strategy Proposals of the Anarchist Co... https://theanarchistlibrary.org/library/james-herod-seeing-the-inadequac...
                 world? The neighborhood? World-wide coordination of all anti-capitalist struggles? Is this what we
                 want, one coordinated world? You can bet your life that if the struggle is coordinated, then the
                 victory, and life after the victory, will be coordinated too, and more so. I prefer a world in turmoil,
@@ -104,8 +100,7 @@ Seeing the Inadequacies of the Strategy Proposals of the Anarchist Co... https:/
                 problem, which accounts for all their agonizing about their relationship to the working class. They
                 don't have to "radicalize" the working class, let alone establish a world-wide coordination of all
                 anti-capitalist struggles. How could we ever get anywhere if this were a prerequisite for
-2 of 18 9/17/25, 11:29 AM
-Seeing the Inadequacies of the Strategy Proposals of the Anarchist Co... https://theanarchistlibrary.org/library/james-herod-seeing-the-inadequac...
+
                 revolutionary work? It only takes one person to call a meeting at a workplace, in a neighborhood,
                 or in a household. It only takes two people to have a meeting. It's because most radicals continue to
                 think that they have to do something to workers to get them to make a revolution that they (the
@@ -157,8 +152,7 @@ Seeing the Inadequacies of the Strategy Proposals of the Anarchist Co... https:/
                 and have lost awareness of what they did earlier. But as soon as the working class, through 'mass
                 spontaneity', does something new, revolutionaries have to update their theories. It's very much a
                 "from the people, to the people" idea (a la Mao, who even wrote an essay or two about this). Once
-3 of 18 9/17/25, 11:29 AM
-Seeing the Inadequacies of the Strategy Proposals of the Anarchist Co... https://theanarchistlibrary.org/library/james-herod-seeing-the-inadequac...
+
                 again we see the mass-elite framework; once again a thoroughly vanguardist idea.
                    By using a concept like "mass spontaneity" the authors show that they have not yet broken out of
                 the dualism – voluntarism vs. determinism – so characteristic of bourgeois thought (and of Lenin
@@ -210,8 +204,7 @@ Seeing the Inadequacies of the Strategy Proposals of the Anarchist Co... https:/
                 class, what communism is, what federalism is, what libertarianism means, and so forth. Whereas in
                 fact there are intense debates about all these things, and they offer no advice about how to resolve
                 these debates. They believe there are such people as 'intellectuals', and they agonize about the role
-4 of 18 9/17/25, 11:29 AM
-Seeing the Inadequacies of the Strategy Proposals of the Anarchist Co... https://theanarchistlibrary.org/library/james-herod-seeing-the-inadequac...
+
                 of such people in the revolution and their relationship to the working class (an historical obsession
                 among leftists). They fall back on the chimera of 'mandated delegates' as their only clue about
                 working democratically in large territories. And so forth and so on.
@@ -262,8 +255,6 @@ Seeing the Inadequacies of the Strategy Proposals of the Anarchist Co... https:/
                 hierarchical, ruling class institutions that they now see as onerous. They especially try hard to stop
                 being wage-slaves and to embed themselves instead in cooperative communal labor. More and
                 more workplaces become cooperatively owned and operated. Fewer and fewer of the necessities of
-5 of 18 9/17/25, 11:29 AM
-Seeing the Inadequacies of the Strategy Proposals of the Anarchist Co... https://theanarchistlibrary.org/library/james-herod-seeing-the-inadequac...
 
 ## life are being produced by wage-slaves.
                    They also increase their efforts to persuade more people locally that the course they have chosen
@@ -315,8 +306,7 @@ Seeing the Inadequacies of the Strategy Proposals of the Anarchist Co... https:/
                 discussion of strategy is still leninist, or at least has strong leninist overtones. This is unsettling,
                 dismaying, and unfortunate, coming as it does from anarchists, which is why I have devoted time to
                 criticizing their position. In this Postscript, therefore, I will continue the discussion, clearing up
-6 of 18 9/17/25, 11:29 AM
-Seeing the Inadequacies of the Strategy Proposals of the Anarchist Co... https://theanarchistlibrary.org/library/james-herod-seeing-the-inadequac...
+
                 some misunderstandings, making some corrections, and adding some further points.
                    A friend of mine, who had met a couple of the members of this group in England, forwarded my
                 essay to Mike, at ACF, and got a short response, as follows:
@@ -368,8 +358,7 @@ Seeing the Inadequacies of the Strategy Proposals of the Anarchist Co... https:/
                 Revolutionary Manifesto for the New Millennium (spring, 2000).
                    There was also some confusion, some thought, in my essay, about "spontaneity". I had not
                 intended to leave the impression that I believe in a "spontaneous" revolution. In fact my position is
-7 of 18 9/17/25, 11:29 AM
-Seeing the Inadequacies of the Strategy Proposals of the Anarchist Co... https://theanarchistlibrary.org/library/james-herod-seeing-the-inadequac...
+
                 just the opposite. I believe that a spontaneous revolution can never succeed. Only if the new social
                 arrangements of anarchism are already largely in place, and only if people have already created the
                 capacity to live without capitalism and are using it to meet most of their needs, could there be any
@@ -420,8 +409,8 @@ Seeing the Inadequacies of the Strategy Proposals of the Anarchist Co... https:/
 ## social autonomy.(b)
                    13. The Time Span of "The Revolution": The ACF anarchists believe that "the revolution must
                 be global and virtually simultaneous". Throughout these papers they talk like this, like 'the
-                revolution' will be sudden, happen all at once, and be worldwide. Of course there will be a pre8 of 18 9/17/25, 11:29 AM
-Seeing the Inadequacies of the Strategy Proposals of the Anarchist Co... https://theanarchistlibrary.org/library/james-herod-seeing-the-inadequac...
+                revolution' will be sudden, happen all at once, and be worldwide. Of course there will be a pre
+
                 revolutionary build up, but these are struggles "before the revolution". The revolution is seen as a
                 distinct event, as something separate from the pre-revolutionary preparations. They say things like:
                 "We cannot say when or where the revolutionary outburst of class anger will first appear...." or
@@ -472,8 +461,7 @@ Seeing the Inadequacies of the Strategy Proposals of the Anarchist Co... https:/
                 armed self-defence forces, to counter the police and armies of states world-wide." They don't get
                 into the details however. How are these militias going to organize themselves, especially on a
                 global level, which the authors seem to think will be needed? More crucially, where are the militias
-9 of 18 9/17/25, 11:29 AM
-Seeing the Inadequacies of the Strategy Proposals of the Anarchist Co... https://theanarchistlibrary.org/library/james-herod-seeing-the-inadequac...
+
                 going to get weapons, weapons that will counter tanks, helicopters, riot gear, pepper spray,
                 automatic rifles, stun guns, rubber bullets, gas? There is no discussion of how this will be done or
                 whether or not it is even possible. I believe they haven't really faced up yet to the obstacle to
@@ -524,8 +512,7 @@ Seeing the Inadequacies of the Strategy Proposals of the Anarchist Co... https:/
                 whenever we have to examine concrete cases, things get a little murkier. Is the Zapatista uprising in
                 Chiapas revolutionary or reformist? Were the massive demonstrations in Belgrade in the fall of
                 1999, which brought on the resignation of Milosevic, revolutionary or counter-revolutionary? Were
-10 of 18 9/17/25, 11:29 AM
-Seeing the Inadequacies of the Strategy Proposals of the Anarchist Co... https://theanarchistlibrary.org/library/james-herod-seeing-the-inadequac...
+
                 the workplace seizures that took place in Yugoslavia shortly thereafter a step toward workers
 ## control or did they usher in neoliberalism?
                    You see, there is no 'objective', fixed definition of what 'radical' is. It has to be worked out anew
@@ -576,8 +563,6 @@ Seeing the Inadequacies of the Strategy Proposals of the Anarchist Co... https:/
                 been a contentious issue (whether or not to build a 'revolutionary organization'), and has reemerged periodically in England and elsewhere in the anarchist movement (according to their brief
 ## history of "Anarchist Communism in Britain").
 
-11 of 18 9/17/25, 11:29 AM
-Seeing the Inadequacies of the Strategy Proposals of the Anarchist Co... https://theanarchistlibrary.org/library/james-herod-seeing-the-inadequac...
                    I encountered this debate myself recently at a small gathering of twenty-five anarchists in
                 Chicago who had met to discuss the desirability and feasibility of establishing a Midwest Anarchist
                 Federation. The dilemma, I think, when it comes to organizing among ourselves, is that the more
@@ -628,8 +613,6 @@ Seeing the Inadequacies of the Strategy Proposals of the Anarchist Co... https:/
                 here to mean not only you personally, but also the Anarchist Federation, and the authors of the
 ## pamphlet.)
 
-12 of 18 9/17/25, 11:29 AM
-Seeing the Inadequacies of the Strategy Proposals of the Anarchist Co... https://theanarchistlibrary.org/library/james-herod-seeing-the-inadequac...
                   This new edition of the Anarchist Federation's pamphlet, The Role of the Revolutionary
                 Organisation, seems considerably improved, from my perspective, from the 1991 version that I
                 analyzed, and also from the version in Beyond Resistance. At least this is my first impression. Of
@@ -680,8 +663,7 @@ Seeing the Inadequacies of the Strategy Proposals of the Anarchist Co... https:/
                 capitalist system as a whole. Capitalism couldn't exist without nation-states. What you will be
                 seeing in coming decades is the rise of two new blocs to challenge the hegemony of the United
                 States, namely, Europe and Northeast Asia. So, unless capitalism is stopped, there will be another
-13 of 18 9/17/25, 11:29 AM
-Seeing the Inadequacies of the Strategy Proposals of the Anarchist Co... https://theanarchistlibrary.org/library/james-herod-seeing-the-inadequac...
+
                 world war to decide which bloc will prevail and dominate. The argument for the continuing
                 necessity of nation-states for capitalism has been nicely stated in Ellen Meiksins Wood's recent
 ## book, The Empire of Capital.
@@ -731,8 +713,6 @@ Seeing the Inadequacies of the Strategy Proposals of the Anarchist Co... https:/
 
 ## Class Spontaneity
 
-14 of 18 9/17/25, 11:29 AM
-Seeing the Inadequacies of the Strategy Proposals of the Anarchist Co... https://theanarchistlibrary.org/library/james-herod-seeing-the-inadequac...
                    There is improvement here over previous versions. At least you are talking now about class
                 spontaneity rather than mass spontaneity, and about "previous agitation by revolutionary
                 minorities" rather than about an organization which preserves the lessons of previous struggles to
@@ -782,8 +762,6 @@ Seeing the Inadequacies of the Strategy Proposals of the Anarchist Co... https:/
                 organization' has to do to carry out its tasks, things like remaining flexible, resisting attack,
                 minimizing damage, changing as need be, perpetuating itself, and so forth. You could have been
                 writing about all the things that councils, assemblies, and co-ops would have to do in order to
-15 of 18 9/17/25, 11:29 AM
-Seeing the Inadequacies of the Strategy Proposals of the Anarchist Co... https://theanarchistlibrary.org/library/james-herod-seeing-the-inadequac...
 
 ## survive and succeed, but you weren't.
 
@@ -833,8 +811,7 @@ Seeing the Inadequacies of the Strategy Proposals of the Anarchist Co... https:/
                 working class is not organized, except partially in unions (which in the United States is down to 8%
                 of non-governmental workers, 13% including governmental workers). But you don't mean by this
                 that you will be working within unions. Saying that you are 'within the working class' can only be
-16 of 18 9/17/25, 11:29 AM
-Seeing the Inadequacies of the Strategy Proposals of the Anarchist Co... https://theanarchistlibrary.org/library/james-herod-seeing-the-inadequac...
+
                 an abstract, conceptual thing. In your theoretical analysis of society you have a category, that of
                 worker, and consider yourself to be in that category (or if not, to at least identify with it). People
                 you consider to be workers however may not so consider themselves as such, or to have any
@@ -885,8 +862,7 @@ Seeing the Inadequacies of the Strategy Proposals of the Anarchist Co... https:/
                 natural, and unobjectionable. But this is not quite "actively working in", or "working inside" these
                 organizations, in order to 'radicalise them" in the sense that you have indicated.
                    Quite frankly, I believe that this line of reasoning, that appears repeatedly in the pamphlet, is a
-17 of 18 9/17/25, 11:29 AM
-Seeing the Inadequacies of the Strategy Proposals of the Anarchist Co... https://theanarchistlibrary.org/library/james-herod-seeing-the-inadequac...
+
                 hangover from vanguard politics. You can't slough off all the baggage of the vanguard party simply
                 by changing the name from party to organization. There are many ways one organization can
                 attempt to influence another one. It happens all the time. You can give them your literature,
@@ -930,5 +906,3 @@ Seeing the Inadequacies of the Strategy Proposals of the Anarchist Co... https:/
                 much language, and so many concepts, that I find offensive, that it's pointless to go on with this.
 ## Yours in Struggle,
 ## James Herod
-
-18 of 18 9/17/25, 11:29 AM

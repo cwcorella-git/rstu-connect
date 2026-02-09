@@ -1310,8 +1310,6 @@ ancient Greece and Rome. see classical education
 Anderson, Benedict, 46, 63, 73
 Anderson, Jessica, 123
 anti-colonial nationalism, 47–49, 65–66, 68–73
-##
-
 anti-education, 111–33
     campus anti-war protests, 113–17
     class hierarchy and, 121–23
@@ -1351,14 +1349,11 @@ authoritarianism
     fascism as type of, xii–xiii. see also fascism
     history revised by. see reclaiming history
 autocracies, 1–24
-##
-
 educational authoritarianism of, 12–15
 education and "alien" perspective, 15–24
 education distorted by, 3–9
 fascist culture and, 1–12
 Trump and Project 2025, 9–12
-##
 #### **B**
 
 Barbarian Virtues (Jacobson), 45
@@ -1391,8 +1386,6 @@ Blackburn, Gilmer W., 80
 Blackhawk, Ned, 49, 57
 Black Reconstruction in America (Du Bois), 91, 165–67, 168
 Blackwater (military contractor), 130
-##
-
 book banning, 12–15, 75. see also authoritarianism; fascism
 Borderland Foundation (Poland), 179
 Borderland of Arts, Culture and Nations (Poland), 179–80
@@ -1429,8 +1422,6 @@ classical education
     for critical thinking, 157
     defined, 136
     democracy vs. fascism both as supported by, 146–51
-##
-
 far-right justification of civilization savagism paradigm and, 140–46, 155
     far-right manipulation of "Western Values" with, 157–59
     as fascist education antidote, 136–37
@@ -1470,11 +1461,8 @@ Cruz, Ted, 112
 culture
     "cultural bomb," 30
     cultural destruction and colonialism, 30–33
-##
-
 cultures of hierarchy, xx–xxi
 defined, xx
-##
 #### **D**
 
 Dante, 139
@@ -1502,7 +1490,6 @@ Dmitriev, Yuri, 161–62
 "Don't Say Gay" law (Florida), 105
 Du Bois, W. E. B., xv, 25, 39, 91, 135, 165–67, 168
 Durkheim, Émile, 72
-##
 #### **E**
 
 education. see also anti-education; classical education; nationalism; reclaiming history; names of
@@ -1510,8 +1497,6 @@ education. see also anti-education; classical education; nationalism; reclaiming
     "alien" perspective in, 15–24
     colonialism and erasing history with. see colonialism
     educational authoritarianism, 12–15
-##
-
 erasing history with, overview, xi–xiv, xviii, xix–xxi
     fascist culture and use of, 1–12, 75–80, 87–90, 97–98, 106–8. see also fascism
     nationalism and textbooks, 52–53, 55–56, 59–61, 63, 67
@@ -1548,8 +1533,6 @@ fascism, 75–110. see also anti-education
     fascist education themes, overview, 78
     fear and grievance encouraged by, 91–95, 136
     gender and "great men" narratives, 80–81, 180–81
-##
-
 gender roles and, 95–101
     Great Replacement Theory, 82–87, 95
     LGBTQ rights and, 75–76, 96–97, 100–6
@@ -1586,8 +1569,6 @@ genocide
     mass killing and, 86
     United Nations Genocide Convention (1948), 113
     university presidents questioned about (by US Congress), 113–17
-##
-
 Germany, World War II–era. see Nazi Germany
 Gessen, Masha, 101–2
 Gibbon, Edward, 138–39
@@ -1623,7 +1604,6 @@ hierarchies
     cultures of, xx–xxi
     segregation and, 2–3. see also slavery
     of value vs. epistemology (knowledge), xix–xx
-##
 Hillsdale College (Michigan), 19–20, 101–3, 106–7, 138–39
 
 Hindus and Hinduism. see religion
@@ -1662,8 +1642,6 @@ Institute for Sexual Science (Institut für Sexualwissenschaft), 75–76, 171–
 International Jew, The (Ford's publication), 84
 intersectionality, 4
 Invisible Histories Project (Alabama), 171–72
-##
-
 Iraq War, Nisour Square Massacre (2007), 130
 Islam and Muslims. see religion
 Israel
@@ -1698,7 +1676,6 @@ Kornbluth, Sally, 114
 Kroll, Andy, 129
 Kruse, Michael, 124–25
 Ku Klux Klan (KKK), 56, 83–84, 99–100, 165–66
-##
 #### **L**
 
 labor exploitation, colonialism and, 37–40. see also slavery
@@ -1733,8 +1710,6 @@ Mackinac Center for Public Policy (Michigan), 129–130
 Mac Lean, Nancy, 100
 Magill, Mary Elizabeth, 114–15
 Mahler, Gustav, xv
-##
-
 Malinowski, Bronisław, 170–71
 Manhattan Institute, 124
 Markovits, Daniel, 151
@@ -1774,7 +1749,6 @@ Mother Jones magazine, 129
 Movement Advancement Project (MAP), 104–5
 Museum of the Second World War (Poland), 172–73
 Mussolini, Benito, 85
-##
 #### **N**
 
 Narwal, Natasha, 117–18
@@ -1811,8 +1785,6 @@ neoliberalism, anti-education goals of, 131–33
 Netanyahu, Benjamin, 61
 neutrality (example of far-right bias), 152, 154
 New College of Florida, 102–4, 125
-##
-
 "New Woman," 95–96
 Nisour Square Massacre (Iraq, 2007), 130
 Nixon, Richard, 123
@@ -1847,8 +1819,6 @@ Political Interference and Academic Freedom in Florida's Public Higher Education
 Politico, 116, 123
 Politics (Aristotle), 135, 146
 poll taxes, 94
-##
-
 "practice memory" concept, 180–82
 Prager, Dennis, 50
 PragerU, 50–55
@@ -1885,8 +1855,6 @@ reclaiming history, 162–84
     uniqueness of Americans and, 177–78
 Reconstruction (US, 1865–77)
     Black Reconstruction in America (Du Bois), 91, 165–67, 168
-##
-
 events during, 55–56
     reclaiming history about, 164–68
 Rediscovery of America, The (Blackhawk), 49
@@ -1922,7 +1890,6 @@ Russia
     reclaiming history about Stalin, 161–62, 165, 178
     2024 election in, 185
 Rwanda, 65
-##
 #### **S**
 
 Schmitt, Carl, 2
@@ -1962,7 +1929,6 @@ supremacist nationalism, 45–57
     slavery as, 49–57
 Symposium, The (Plato), 146
 Syracuse University, 174–75
-##
 #### **T**
 
 taxes, 94, 121–22
@@ -1997,8 +1963,6 @@ Ukraine
     Russia-Ukraine war as fight against fascism, 188–89
 unfreedom, 146–47, 185. see also classical education
 United Kingdom. see Britain
-##
-
 United Nations Genocide Convention (1948), 113
 United States. see also anti-education; classical education; colonialism; education; fascism;
  nationalism; reclaiming history; Reconstruction; slavery; names of individual politicians
@@ -2035,7 +1999,6 @@ voting and elections
     Trump and 2024 presidential campaign, 188–89. see also Trump, Donald
     voter fraud accusations, 93, 124
     Voting Rights Act (1965), 93–94
-##
 #### **W**
 
 Wachsmann, Nikolaus, 141
@@ -2064,12 +2027,10 @@ World War I
     Treaty of Trianon (1920), 15
     Treaty of Versailles (1919), 33
     World War II. see Nazi Germany
-##
 #### **Z**
 
 Zinn, Howard, 180–81
 Zinn Education Project, 181–82
-##
 ## ![](_page_177_Picture_0.jpeg)
 
 An Imprint of Simon & Schuster, LLC 1230 Avenue of the Americas New York, NY 10020

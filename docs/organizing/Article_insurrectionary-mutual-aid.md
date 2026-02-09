@@ -8,7 +8,6 @@ tags:
   - organizing
 ---
 
-Insurrectionary Mutual Aid https://theanarchistlibrary.org/library/curious-george-b...
             Curious George Brigade
             Insurrectionary Mutual Aid
 ## From Mobilizations to Insurrectory Mutual Aid
@@ -48,7 +47,7 @@ Insurrectionary Mutual Aid https://theanarchistlibrary.org/library/curious-georg
             of a stunning military victory, but because it was able to disrupt normality in
             Chiapas which is still going on to this day. Recently the Zapatistas have used
             this base in Chiapas to launch a new challenge to the legitimacy of the
-1 of 5 8/29/25, 11:06 AM Insurrectionary Mutual Aid https://theanarchistlibrary.org/library/curious-george-b...
+
             Mexican State and have expanded beyond Chiapas.
                It is this potential expansion that gives an insurrection its power and drives
             the fear behind the state’s reaction. In a crisis or emergency situation, fortune
@@ -98,7 +97,7 @@ Insurrectionary Mutual Aid https://theanarchistlibrary.org/library/curious-georg
             by the government emergency managers and truly reclaim the tactic of
             Propaganda by the Deed.
               However, to be eﬀective we need to prepare now. The inﬂux of supplies and
-2 of 5 8/29/25, 11:06 AM Insurrectionary Mutual Aid https://theanarchistlibrary.org/library/curious-george-b...
+
             labor to locally aﬀected communities — that we share aﬀinity with — could
             mean the diﬀerence between the streets of Argentina and the stadiums of
             Louisiana. We must be prepared if a crisis happens tomorrow. A crisis is not
@@ -147,7 +146,7 @@ Insurrectionary Mutual Aid https://theanarchistlibrary.org/library/curious-georg
             to the possible involvement of increasingly wider strata of exploited on a ﬂux
             of rebellion which could lead to revolution. It is never possible to see the
             outcome of a speciﬁc struggle in advance. Even a limited struggle can have
-3 of 5 8/29/25, 11:06 AM Insurrectionary Mutual Aid https://theanarchistlibrary.org/library/curious-george-b...
+
             the most unexpected consequences. The passage from the various
             insurrections — limited and circumscribed — to revolution can never be
             guaranteed in advance by any method.
@@ -198,8 +197,6 @@ Insurrectionary Mutual Aid https://theanarchistlibrary.org/library/curious-georg
 
 ## • Greater need for self-suﬀiciency.
 
-4 of 5 8/29/25, 11:06 AM Insurrectionary Mutual Aid https://theanarchistlibrary.org/library/curious-george-b...
               Mutual Aid is not charity! It is an attack!
             Retrieved on June 11, 2009 from aftershockaction.blogspot.com
             From the Curious George Brigade zine.
-5 of 5 8/29/25, 11:06 AM

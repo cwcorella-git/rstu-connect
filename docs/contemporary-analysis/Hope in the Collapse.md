@@ -315,7 +315,6 @@ With a foundation of hope, uncertainty is charged with potential, rather than fe
 [21] angel Kyodo Williams & Lama Rod Owens — Radical Dharma
 [22] Tim De Christopher quoted in I Want A Better Catastrophe
 [23] Richard Gillman-Opalsky — Imaginary Horizons
-##
 [\[24\]](#page-17-0) Carla Bergman & Nick Montgomery — *Joyful Militancy* [\[24\]](#page-17-0) Carla Bergman & Nick Montgomery — *Joyful Militancy* [\[24\]](#page-17-0) Carla Bergman & Nick Montgomery — *Joyful Militancy* [\[24\]](#page-17-0) Carla Bergman & Nick Montgomery — *Joyful Militancy*
 
 - [\[24\]](#page-17-0) Carla Bergman & Nick Montgomery *Joyful Militancy*

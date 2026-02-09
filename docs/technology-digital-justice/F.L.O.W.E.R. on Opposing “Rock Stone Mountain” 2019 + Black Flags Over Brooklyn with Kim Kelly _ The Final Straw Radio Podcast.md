@@ -13,8 +13,6 @@ tags:
 
 Firstly we're presenting a conversation that William had with an organizer with [F. L. O. W. E. R.](https://flowerunited.org/), which stands for Front Line Organization Working to End Racism, about opposition to a neo confederate rally scheduled to take place on February 2nd at Stone Mountain Park about half an hour's drive outside of Atlanta, Georgia. We talk about the longstanding history of this rally, which originally was a KKK event, its resurgence alongside the rise of far right activity, and some of what's been done to oppose it in recent years. We also talk about what to keep in mind when standing against this event and how to learn more and plug in, plus much more.
 
-## 1 of 6 11/11/25, 10:16 PM
-
 This group is @flowerunited on Twitter, and that's a great way to get rapid updates as February 2nd draws nearer. Also a great way to keep updated and read more about the history of this event, plus to see a long list of endorsing groups, you can go to
 
 ## Audio Player
@@ -71,8 +69,6 @@ This week we released a new [Error451](https://thefinalstrawradio.noblogs.org/po
 
 ## **Support Our Work**
 
-## 4 of 6 11/11/25, 10:16 PM
-
 If you appreciate the work that we put into making this show happen, week after week, sometimes more than once a week and if you can afford to help us out, please consider donating to The Final Straw. If you visit our website, you can click the [Donate/Merch](https://thefinalstrawradio.noblogs.org/donate/) button and there you'll find a few options. We can take one-time donations via [paypal or venmo,](https://www.paypal.me/tfsr) we can take ongoing donations via [liberapay,](https://liberapay.com/The-Final-Straw-Radio/) you can buy [t-shirts,](https://thefinalstrawradio.bigcartel.com/product/tfsr-logo-shirt) [stickers,](https://thefinalstrawradio.bigcartel.com/product/tfsr-mega-packs) [buttons](https://thefinalstrawradio.bigcartel.com/product/buttons-badges-pins-whatever) and more via our [bigcartel store](https://thefinalstrawradio.bigcartel.com/) or become a sustainer via [patreon](https://www.patreon.com/tfsr) and make monthly donations. The patreon option has a lot of options for thank you gifts including what's already been mentioned, plus homemade [mixtapes](https://www.patreon.com/join/tfsr/checkout?rid=2663564) and an option to get a [zine made](https://www.patreon.com/join/tfsr/checkout?rid=2447784) of any interview we've conducted, getting those words into the hands of translators and folks who have hearing impairments!
 
 If you can't afford a monetary donation, no worries, tell your friends about the podcast, share an episode on social media, [write us an email or a letter](https://thefinalstrawradio.noblogs.org/kontact/) to suggest content. You could also contact your local community radio station and say that you want us on your airwaves. We have a weekly, 59 minute and FCC-friendly episode out every Sunday afternoon up for radio stations to download and use. More info on that can be found at our website by clicking the [radio link](https://thefinalstrawradio.noblogs.org/radio-broadcasting/) at the top of the site.
@@ -82,5 +78,3 @@ As an aside, we've just started sharing [Political Prisoner button](https://thef
 . … . ..
 
 Playlist [here.](https://spinitron.com/radio/playlist.php?station=wsfm&ifh=https%3A%2F%2Fwww.ashevillefm.org%2Fshow%2Fspinadjuster.html&ptype=d&css=true&playlist=50053#here)
-
-## 6 of 6 11/11/25, 10:16 PM

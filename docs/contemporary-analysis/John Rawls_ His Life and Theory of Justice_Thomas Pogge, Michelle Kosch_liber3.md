@@ -765,7 +765,6 @@ When there are many affected recipients, the easiest way of comparing two candid
 C_{\perp}
 C_6
 C8:
-##
 The distributional prole produced by C7 counts as Pareto-superior to that produced by C8 on the ground that some persons under C7 would be better off, and none worse off, than their counterparts (here shown immediately below) at the corresponding percentile under C8. In general terms, of two ways of organizing the same society, Cx is to be ranked above Cy just in case the distribution produced by Cx is better than that produced by Cy at some percentile and worse at none.
 
 This method of comparison can also be represented graphically by means of curves, each of which represents the individual well-being scores, ordered by magnitude, a candidate is estimated to produce. These curves, which are steadily rising toward the right, are standard-
@@ -790,7 +789,6 @@ A third objection to the anonymity condition, associated with David Gauthier, ho
 
 The fourth and most powerful objection to the anonymity condition maintains that, even if two distributions display the same distributional prole, one may still be morally inferior to the other if it displays a strong correlation between well-being scores on the one hand and skin color, gender, or religion on the other. Thus consider two identical distributional proles with the scores of women (or people of color) highlighted in boldface:
 
-##
 Here the candidate public criterion producing the latter distributional prole would intuitively seem to be morally preferable because, unlike the former, it does not produce a distribution of well-being highly correlated with gender (or skin color). I return to this problem in section 6.4.
 
 Purely recipient-oriented theorists who take individual human beings as recipients and accept the anonymity condition are two steps away from a workable top-tier criterion of justice: They must still specify a metric of well-being in terms of which one can estimate how well off or badly off the individuals living under any social order would be and in terms of which one can then sketch the distributional prole associated with each. And they must still specify an interpersonal aggregation function through which the data collected in each distributional prole can be synthesized into one overall assessment. The Pareto and anonymity conditions contribute to this latter task. But by themselves, they have too little discriminatory power, leaving many comparisons (such as that of C4 and C6) indeterminate, as their associated distributional proles are Pareto-incomparable.
@@ -3944,7 +3942,6 @@ institutions (social), 28–34, 37, 39–41,
 ## special conception of, 66–67 (see
 ## also principles of justice)
 ## Justice as Fairness: A Restatement
-##
 ## ( JFR), 26
 
 ## 144, 166, 171, 179, 186, 188
@@ -4352,7 +4349,6 @@ Oxford University, xi, 16–17, 23
 ## political liberties, 82, 87, 89–90,
 ## 92–95, 97–98, 105, 133,
 ## 149–52, 156, 188
-##
 | (fair)
 value
 of,

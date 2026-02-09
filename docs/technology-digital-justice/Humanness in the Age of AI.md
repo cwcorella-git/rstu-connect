@@ -306,8 +306,6 @@ By clicking "Accept All", you agree to the storing of cookies on your device to 
 
 ## Settings ionship network that users with
 
-## 15 of 25 3/5/25, 7:50 PM
-
 understanding in the second course, this is an
 
 World Blog Research and Engineering Humanness in the Age of Al personnood mechanism but are complementary for applications where proving *relationships* rather than *unique humanness* is needed. However, they are sometimes mentioned in this context and are therefore relevant to discuss.

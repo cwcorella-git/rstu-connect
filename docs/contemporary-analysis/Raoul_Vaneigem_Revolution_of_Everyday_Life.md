@@ -18,29 +18,24 @@ tags:
 | Dedication | . 5 |
 |-------------------------------------------------------------|------|
 | Introduction | . 5 |
-| Part I. The Perspective of Power | 7 |
-| Chapter 1. The Insignificant Signified | |
+1. The Insignificant Signified | |
 | 1 | |
 | 2 | |
 | 3 | |
 | 4 | |
-| Impossible Participation or Power as the Sum of Constraints | 12 |
-| Chapter 2. Humiliation | 12 |
+2. Humiliation | 12 |
 | 1 | . 12 |
 | 2 | 14 |
 | 3 | 16 |
-| 4 | . 17 |
-| Chapter 3. Isolation | . 17 |
+3. Isolation | . 17 |
 | 1 | |
 | 2 | |
 | Chapter 4. Suffering | |
 | 2 | |
 | 3 | |
 | 4 | |
-| Chapter 5. The Decline and Fall of Work | |
-| Chapter 6. Decompression and the Third Force | 28 |
-| Impossible Communication or Power as Universal Mediation | 32 |
-| Chapter 7. The Age of Happiness | |
+6. Decompression and the Third Force | 28 |
+7. The Age of Happiness | |
 | 1 | |
 | 2 | |
 | 3 | |
@@ -49,53 +44,36 @@ tags:
 | 2 | |
 | Chapter 9. Technology and Its Mediated use | |
 | 1 | 41 |
-## | • • | 49 |
-
-| Chapter 10. Down Quantity Street | . 43 |
+10. Down Quantity Street | . 43 |
 |----------------------------------------------------------------------------------|-------|
 | 1 | . 44 |
 | 2 | . 45 |
-| Impossible Realisation or Power as the Sum of Seductions | 48 |
-| Chapter 11. Mediated Abstraction and Abstract Mediation | . 48 |
+11. Mediated Abstraction and Abstract Mediation | . 48 |
 | 1 | . 48 |
 | 2 | . 50 |
 | 3 | . 50 |
-| 4 | . 51 |
-| Chapter 12. Sacrifice | . 54 |
-| 2 | . 57 |
-| Chapter 13. Separation | . 60 |
-| Chapter 14. The Organization of Appearances | . 63 |
+12. Sacrifice | . 54 |
+14. The Organization of Appearances | . 63 |
 | 1 | . 64 |
-| 2 | . 65 |
-| Chapter 15. Roles | . 66 |
+15. Roles | . 66 |
 | 1 | . 67 |
 | 2 | . 67 |
 | 3 | . 69 |
-| 4 | . 71 |
-| Chapter 16. The Fascination of Time | . 73 |
-| Survival and false opposition to it | 76 |
-| Chapter 17. Survival Sickness | . 76 |
-| Chapter 18. Spurious Opposition | |
+16. The Fascination of Time | . 73 |
+18. Spurious Opposition | |
 | 1 | |
 | 2 | |
 | | |
-| Part II. The Reversal of Perspective | 85 |
-| Chapter 19. The Reversal of Perspective | |
-| Chapter 20. Creativity, Spontaneity, and Poetry | . 88 |
+20. Creativity, Spontaneity, and Poetry | . 88 |
 | 1 | . 88 |
-| 2 | . 90 |
-| Chapter 21. Masters Without Slaves | . 92 |
-| 2 | . 94 |
-| Chapter 22. The Space-Time Of Lived Experience | . 96 |
+21. Masters Without Slaves | . 92 |
+22. The Space-Time Of Lived Experience | . 96 |
 | 1 | . 96 |
 | 2 | . 97 |
 | 3 | . 98 |
-| 4 | . 99 |
-| Chapter 23. The Unitary Triad: Self-Realisation, Communication And Participation | . 103 |
+23. The Unitary Triad: Self-Realisation, Communication And Participation | . 103 |
 | 1 | . 104 |
-## | 2 | . 107 |
-
-| Chapter 24. The Interworld And The New Innocence
+24. The Interworld And The New Innocence
  | 108 |
 |----------------------------------------------------------------|-----|
 | 1

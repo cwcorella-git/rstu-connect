@@ -25,8 +25,6 @@ The trouble with the two-state solution is that it grants legitimacy to the Zion
 
 And this has always been the intention of Palestine liberation movements, although not always of their leaders, or of certain Western intellectuals. As for the leaders, both the Palestine Liberation Organization and Hamas eventually came to accept the two-state solution. As for intellectuals, Noam Chomsky has always (and as recently as last month) endorsed the two-state solution. (How is it, by the way, that Chomsky, who purports to be an anarchist, never proposes an anarchist solution to any issue of current import?) So why haven't two states been established? Because Zionist Israel doesn't want a Palestinian state. Its goal from the beginning has always been to steal all the land of Palestine -- and even more land from Lebanon, Syria, Jordan, and Egypt -- for a Greater Israel, and to cleanse the land of all non-Jewish inhabitants.
 
-## 1 of 3 9/17/25, 11:29 AM
-
 ## Palestine: The No-State Solution
 
 Furthermore, the Zionist theft of Palestinian land has proceeded unabated to such an extent that there is by now hardly any land left upon which to base a Palestinian state. Palestinians have been corralled and imprisoned in Gaza and in numerous tiny Bantustan-like isolated enclaves in the West Bank. They control nothing. Israel has effectively taken the two-state solution off the agenda.
@@ -58,8 +56,6 @@ James Petras, The Power of Israel in the United States
 
 ## Uruknet.info
 ## New England Committee to Defend Palestine
-## 2 of 3 9/17/25, 11:29 AM
-
 - [\[1\]](#page-0-0) William Bowles, "The Final Solution is a No-State Solution," on the web at:
 - [](http://www.creative-i.info/?p=4296). This short article, which appeared on several web sites on the Internet on January 28-29, 2009, is not about the anarchist idea of a no-state solution, as discussed in this essay, but about the Zionist ideological connection with Nazism, and to a doctrine which seeks the eradication of "impure" persons from a population or territory. "No-state" as used by Bowles means that Palestinians will get neither the two-state solution nor the one-state solution. They will get nothing, no state. They will be eliminated or expelled, and "Israel" will be ethnically cleansed.
 - [\[2\]](#page-0-1) Bill Templer, "Reclaiming the Commons in Palestine/Israel: Ya Basta! / Khalas!" on the web at: ](http://mrzine.monthlyreview.org/templer230708p.html).
@@ -69,5 +65,3 @@ James Petras, The Power of Israel in the United States
 - [\[6\]](#page-1-2) A bibliography of literature discrediting representative government can be found online at: , entitled "Resource List for the Anti-Elections / Pro-Anarchy Campaign"
 
 Published in the 'Newsletter' of the Boston Anti-Authoritarian Movement (BAAM), #18, February 2009
-
-## 3 of 3 9/17/25, 11:29 AM

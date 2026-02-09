@@ -36,7 +36,7 @@ The End of Arrogance: Decentralization and Anarchist ... about:reader?url=https%
                 organizations as the be-all, end-all of organizing is vital for the
                 creation and rediscovery of possibilities for empowerment and
                 effective anarchist work.
-1 of 9 3/17/25, 5:06 PM  The End of Arrogance: Decentralization and Anarchist ... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 The Tyranny of Structure
                 Most mass structures are a result of habit, inertia and the lack
                 of creative critique. Desire for mass is accepted as common
@@ -65,7 +65,7 @@ The End of Arrogance: Decentralization and Anarchist ... about:reader?url=https%
                 The price of the arrogant dream of mass is appallingly high and
                 the promised returns never come. Super-structures, which
                 include federations, centralized networks and mass
-2 of 9 3/17/25, 5:06 PM The End of Arrogance: Decentralization and Anarchist ... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 organizations, demand energy and resources to survive. They
                 are not perpetual motion machines which produce more
                 energy than what is poured into them. In a community of
@@ -94,7 +94,7 @@ The End of Arrogance: Decentralization and Anarchist ... about:reader?url=https%
                 actually spent on the project at hand instead of what is so
                 innocently referred to as ‘organizing’.
                 Affinity or Bust
-3 of 9 3/17/25, 5:06 PM The End of Arrogance: Decentralization and Anarchist ... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 Not only are super-structures wasteful and inefficient, but they
                 also require that we mortgage our ideals and affinities. By
                 definition, coalitions seek to create and enforce agendas.
@@ -124,7 +124,7 @@ The End of Arrogance: Decentralization and Anarchist ... about:reader?url=https%
                 people should engage in activities based on their affinities and
                 that our work should be meaningful, productive and enjoyable.
                 This is the hidden benefit of voluntary association. It is arrogant
-4 of 9 3/17/25, 5:06 PM The End of Arrogance: Decentralization and Anarchist ... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 to believe that members in a large structure, which again can
                 number in the hundreds or thousands of people, should all
                 have identical affinities and ideals. It is arrogant to believe that
@@ -154,7 +154,7 @@ The End of Arrogance: Decentralization and Anarchist ... about:reader?url=https%
                 organization, which leads to even greater inefficiency and the
                 ever present “burn-out” that is so epidemic in large coalitions
                 and super-structures.
-5 of 9 3/17/25, 5:06 PM The End of Arrogance: Decentralization and Anarchist ... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 Liberty, Trust and True Solidarity
                 “All Liberty is based on Mutual Trust” — Sam Adams
                 If we seek a truly liberated society in which to flourish, we must
@@ -183,7 +183,7 @@ The End of Arrogance: Decentralization and Anarchist ... about:reader?url=https%
                 transferred to certain high profile working groups such as
                 ‘media’ or ‘tactical’. Regardless of how it appears on the
                 outside, superstructures foster a climate in which tiny
-6 of 9 3/17/25, 5:06 PM The End of Arrogance: Decentralization and Anarchist ... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 minorities have disproportionate influence over others in the
                 organization.
                 As anarchists, we should reject all notions of centralized power
@@ -213,7 +213,7 @@ The End of Arrogance: Decentralization and Anarchist ... about:reader?url=https%
                 to form affinity groups or collectives. In accordance with that
                 principle, each affinity group would be able to work individually
                 with other groups. These alliances might last for weeks or for
-7 of 9 3/17/25, 5:06 PM The End of Arrogance: Decentralization and Anarchist ... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 years, for a single action or for a sustained campaign, with two
                 groups or two hundred. Our downfall is when the larger
                 organization becomes our focus, not the work which it was
@@ -242,7 +242,7 @@ The End of Arrogance: Decentralization and Anarchist ... about:reader?url=https%
                 Radical Decentralization: A New Beginning
                 So let us begin our work not in large coalitions and super
                 structures but in small affinity groups. Within the context of our
-8 of 9 3/17/25, 5:06 PM The End of Arrogance: Decentralization and Anarchist ... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 communities, the radical decentralization of work, projects and
                 responsibility strengthens the ability of anarchist groups to
                 thrive and do work which best suits them. We must reject the
@@ -261,7 +261,6 @@ The End of Arrogance: Decentralization and Anarchist ... about:reader?url=https%
                 for liberty, trust and true solidarity.
                 Anarchy works!
                 All power to the affinity groups!
-9 of 9 3/17/25, 5:06 PM
 
 ## Document Summary
 

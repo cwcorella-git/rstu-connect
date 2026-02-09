@@ -678,9 +678,7 @@ Frequency |
 11.1 | 54,028
 62,499 | 36.3
 42.0 |
-## | Totals | 45,115 | 100.0 | 148,725 | 100.0 |
-
-Table 3.1: Size Distribution of Paddy—Land Holdings, Muda Irrigation Scheme, 1975–1976
+3.1: Size Distribution of Paddy—Land Holdings, Muda Irrigation Scheme, 1975–1976
 
 Along with double-cropping has come a roughly fivefold leap in paddy-land prices, far outdistancing the rise of the consumer price index or paddy incomes and fraught with implications for future social mobility. Before 1970 it was possible, though rare, for an industrious and thrifty tenant to buy a small plot of land, thereby improving his situation. With the prevailing land prices, it has become virtually impossible for anyone but the richest owners to expand their holdings. A traditional, if limited, avenue of upward mobility has been all but definitely closed.
 
@@ -881,9 +879,7 @@ Households | | |
 | 3 + -7 | 17 | 33% | 25 | 36% | | |
 | 7 + -10 | 6 | 12% | 7 | 10% | | |
 | 10 + -20 | 13 | 25% | 12 | 17% | | |
-## | 20 + -40 | 4 | 8% | 1 | 1% | | |
-
-Table 4.4: Frequency Distribution of Farm Holding in Sedaka, 1967–1979
+4.4: Frequency Distribution of Farm Holding in Sedaka, 1967–1979
 
 The compression of farm size among a growing number of poor cultivators has not been accompanied by a parallel expansion of farm size by larger-scale cultivators in the village. In fact, nearly the reverse has occurred. Before doublecropping there were seventeen farmers who owned and/or operated more than 10 relong; collectively they monopolized more than 57 percent of village-held land (206.5 relong). Today, when the village is more populous, there are only thirteen such households, and they farm only 37 percent of village-held land (123 relong). The average farm cultivated by this strata shrank in the same period from over 12 relong to 9.5 relong. Thus we find a situation in which the size of both small farms and large farms has diminished, but the number of small farmers has doubled while that of largescale farmers has declined.
 
@@ -903,9 +899,7 @@ Rent | Post-harvest Payment of Rent | | | |
 |------|--------------------|-------------------|------------------------------|------|--|--|
 | | % | (N)* | % | (N)* | | |
 | 1967 | 7 | (3) | 93 | (43) | | |
-## | 1979 | 42 | (28) | 58 | (38) | | |
-
-Table 4.5: Classification of Tenancy Agreements in Sedaka by Timing of Rental Payment, 1967, 1979
+4.5: Classification of Tenancy Agreements in Sedaka by Timing of Rental Payment, 1967, 1979
 
 Before 1970, the payment of cash rent before planting season was quite rare, as shown in table 4.5. By 1979, however, prepayment of rent had become quite common and was approaching one-half of all tenancy agreements. Most of this shift occurred in the first two years of doublecropping, when the initial profits from the new irrigation scheme combined to give most tenants the means to pay, and hence landlords the possibility of requiring, rents in advance. For poorer tenants, the burden was considerable. Exactly how many villagers were unable to raise the cash and lost land in this fashion is, as we shall see, a matter of lively dispute-a dispute that basically follows class lines.[\[200\]](#page-313-6)
 
@@ -917,9 +911,7 @@ Negoti | |
 |------|----|-----------------|-----------------|------|
 | | % | (N) | % | (N) |
 | 1967 | 72 | (33) | 28 | (13) |
-## | 1979 | 47 | (31) | 53 | (35) |
-
-Table 4.6: Classification of Tenancy Agreements in Sedaka by Negotiability of Rents, 1967, 1979
+4.6: Classification of Tenancy Agreements in Sedaka by Negotiability of Rents, 1967, 1979
 
 As table 4.6 shows, tenancies with inflexible rents were, before doublecropping, the exception, whereas by 1979 they had become common enough to constitute a majority of all tenancy agreements. A tenant paying averageto-high rents must harvest, depending on his production costs, anywhere from seven to eleven gunny sacks of paddy in order simply to break even.[\[201\]](#page-313-7) Average yields in Sedaka are roughly thirteen to fourteen gunny sacks and occasionally drop as low as seven to eight. Under the older system of tenancy, the actual rent would typically be reduced to compensate, at least in part, for harvest losses. Now when the rice crop, which even with irrigation is still subject to the caprice of nature, is damaged, the tenant must absorb the entire loss and still come up with full rent in advance of the coming season. While the tenant will in almost every case continue to rent the land, the cost in a bad year is likely to be severe in terms of belt tightening, short-term migration to seek work, and new debts. The landlord-tenant relationship has in the meantime been transformed in such cases into a rigid, if unwritten, impersonal contract. The social bond once implicit in the adjustment of rents to reflect the actual situation of the tenant has given way to tenancies along commercial lines, in which no quarter is expected or given.
 
@@ -935,9 +927,7 @@ Kinship | No Kinship |
 |-------------------------------------|------------------|-----------------------|------------|
 | No. of cases | 28 | 16 | 22 |
 | Percentage of all tenancy cases | 42% | 24% | 33% |
-| Average rent per relong, per season | M\$98.82 | M\$117.61 | M\$131.80 |
-
-Table 4.7: Rental Rates for Tenancies Classified by Degree of Kinship between Landlord and Tenant in Sedaka, 1979
+4.7: Rental Rates for Tenancies Classified by Degree of Kinship between Landlord and Tenant in Sedaka, 1979
 
 Kinship is not the only social tie that mitigates the terms of tenancy. When landlord and tenant both live in the village, the rent is typically below what the market will bear. Thus the rent paid by an unrelated tenant to his landlord outside the village averages M\$ 129 per relong a season, while rent to an unrelated landlord inside the village averages only M\$105.[\[204\]](#page-313-10) The economic impact of tenancy within Sedaka is also apparent in the timing of rent payments. Threequarters of tenants who have some relation (but not a parentchild relation) to their landlord are permitted to pay after the harvest, while less than half of those renting from relatives outside the village are given this concession.[\[205\]](#page-314-0) All this is palpable evidence, if one needed it, that the village is a community in modest but significant ways. Unfortunately, the land available under such terms is in no way equal to the land hunger and demographic pressures it confronts.
 
@@ -973,9 +963,7 @@ The mechanization of rice cultivation naturally posed the most direct threat to 
 |---------------------|------|----------|---------|-------|------|
 | No. of households | 4 | 15 | 0 | 24 | 22 |
 | Percentage of total | 4 | 1) | 9 | 24 | , 22 |
-| village households | 5% | 20% | 12% | 32% | 30% |
-
-TABLE 4.8 • Proportion of Total Net Income Derived from Paid Paddy—Field Labor\* by Households in Sedaka: Main Season, 1977–1978
+4.8 • Proportion of Total Net Income Derived from Paid Paddy—Field Labor\* by Households in Sedaka: Main Season, 1977–1978
 
 Fully one-quarter of the families in Sedaka should be considered predominantly wage laborers in the sense that over half their income derives from this source. All but two of these families are from among the poorest half of the village, and they typically have either so little land or such large families (or both) that only paddy wage labor allows them to keep their heads above water. Another nine households (12 percent) rely on such wages for more than one-quarter of their income, while a further twenty-four households receive at least some cash income from field labor. Thus more than two-thirds of Sedaka's families have some stake in agricultural labor; for more than one-third, that stake is substantial. Even these figures may understate the vital importance of field work for wages.[\[213\]](#page-314-8) In fact, of the twenty-two households that have no income from wage labor, half are composed of retired or disabled members unfit for such work.
 
@@ -1092,9 +1080,7 @@ NO) | | nceters | Total | | |
 of households | 54% | (20) | 43% | (16) | 3% | (1) | 100 | (37) | |
 | Richest half
 of households | 22% | (8) | 73% | (27) | 5% | (2) | 100 | (37) | |
-| Entire village | 38% | (28) | 58% | (43) | 4% | (3) | 100 | (74) | |
-
-Table 4.11 • Political Affiliation of Households in Sedaka by Income Level, in Percentages
+4.11 • Political Affiliation of Households in Sedaka by Income Level, in Percentages
 
 The resistance is particularly marked among the poorest strata of the village, who are more than twice as likely to belong to the opposition as are their wealthier neighbors. That a majority of the village should have affiliated with UMNO requires little explanation, given the manifest advantages. Why a majority of the poorer villagers (and a minority of the rich) have chosen, against their material interests, to remain in the PAS camp, however, does require analysis. There appear to be several reasons. One is that the pattern of village partisanship has its roots in older, family-based factions that existed well before the formation of political parties. Thus, Haji Kadir, the richest man in the village, with his father and his two brothers in tow have constituted something of a minority faction in village politics for at least thirty years. But since all four of these households are quite well-to-do, it only helps to explain what might be termed the "leading" PAS faction and not the appeal of PAS to most of Sedaka's poor. For that explanation we must rely on a combination of family ties, special material interests, UMNO strategy, and, not least, the moral appeal of the opposition. Family ties are influential in at least four or five cases of sons whose fathers (often not residents) have been open and vociferous PAS supporters. But one finds nothing like the UMNO pattern. For in only seven of the twenty poorest PAS households can one find links of kinship or employment that might plausibly explain membership in the opposition. What is more striking is that there are at least five poorer PAS members whose partisan affiliation is, as it were, not compatible with their apparent economic interests-that is, PAS members who depend upon UMNO members for much of their wage labor.
 

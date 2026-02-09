@@ -101,8 +101,6 @@ In 2020, she served on incoming [Queens Borough President](https://en.wikipedia.
 
 3. ["Ruth Messinger" \(https://jwa.org/encyclopedia/article/messinger-ruth\).](https://jwa.org/encyclopedia/article/messinger-ruth) [Jewish](https://en.wikipedia.org/wiki/Jewish_Women%27s_Archive)
 
-## 2 of 3 8/13/25, 9:13 AM
-
 [Women's Archive](https://en.wikipedia.org/wiki/Jewish_Women%27s_Archive). December 7, 2021.
 
 - 4. Traub, James (August 10, 1997). ["New York's Loneliest Liberal" \(https://slate.com/ne](https://slate.com/news-and-politics/1997/08/new-york-s-loneliest-liberal.html) [ws-and-politics/1997/08/new-york-s-loneliest-liberal.html\).](https://slate.com/news-and-politics/1997/08/new-york-s-loneliest-liberal.html) Slate. [Archived \(https://w](https://web.archive.org/web/20050228045405/http://slate.msn.com/id/1828/) [eb.archive.org/web/20050228045405/http://slate.msn.com/id/1828/\)](https://web.archive.org/web/20050228045405/http://slate.msn.com/id/1828/) from the original on February 28, 2005. Retrieved December 16, 2020.
@@ -117,5 +115,3 @@ In 2020, she served on incoming [Queens Borough President](https://en.wikipedia.
 - [Ruth97.org Ruth Messinger for Mayor \(https://web.archive.org/web/1997012110461](https://web.archive.org/web/19970121104613/http://ruth97.org/) [3/http://ruth97.org/\)](https://web.archive.org/web/19970121104613/http://ruth97.org/) at the [Wayback Machine](https://en.wikipedia.org/wiki/Wayback_Machine) (archived January 21, 1997)
 
 Retrieved from ["https://en.wikipedia.org/w/index.php?title=Ruth\\_Messinger&oldid=1305609543"](https://en.wikipedia.org/w/index.php?title=Ruth_Messinger&oldid=1305609543)
-
-## 3 of 3 8/13/25, 9:13 AM

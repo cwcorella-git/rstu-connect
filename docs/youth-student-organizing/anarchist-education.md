@@ -8,7 +8,6 @@ tags:
   - education
 ---
 
-Anarchist Education https://theanarchistlibrary.org/library/judith-suissa-anar...
             Judith Suissa
             Anarchist Education
             2019
@@ -44,7 +43,7 @@ Anarchist Education https://theanarchistlibrary.org/library/judith-suissa-anar..
               Many people, on hearing the term ‘anarchist education’, will intuitively
             respond with a comment along the lines of: ‘Doesn’t that just mean letting
             children do whatever they want?’ This chapter will show that such a response
-1 of 18 10/2/25, 11:46 PM Anarchist Education https://theanarchistlibrary.org/library/judith-suissa-anar...
+
             reﬂects some common misperceptions about anarchism; that educational
             questions were central to the work of leading anarchist theorists and
             activists; and that there is a distinct tradition of anarchist education that,
@@ -90,7 +89,7 @@ Anarchist Education https://theanarchistlibrary.org/library/judith-suissa-anar..
             independence’. Criticising the system by which the educator is regarded as an
             ‘oﬀicial servant, narrowly enslaved to minute regulations, inexorable
             programmes’, he proclaimed that the principle of free, spontaneous learning
-2 of 18 10/2/25, 11:46 PM Anarchist Education https://theanarchistlibrary.org/library/judith-suissa-anar...
+
             should apply not only to pupils but to teachers. ‘He who has charge of a group
             of children, and is responsible for them, should alone be qualiﬁed to decide
             what to do and what not to do’.[3]
@@ -138,7 +137,7 @@ Anarchist Education https://theanarchistlibrary.org/library/judith-suissa-anar..
             oﬀered along the lines of fairly traditional academic subjects and children
             were free to attend them if and when they wished.
                The founders of the school, who included prominent anarchist activists such
-3 of 18 10/2/25, 11:46 PM Anarchist Education https://theanarchistlibrary.org/library/judith-suissa-anar...
+
             as Emma Goldman, Alexander Berkman, Harry Kelly and Leonard Abbott, saw
             it as a microcosm of an alternative society organised on non-hierarchical,
             cooperative grounds. They insisted that in order for the children to develop an
@@ -184,7 +183,7 @@ Anarchist Education https://theanarchistlibrary.org/library/judith-suissa-anar..
             to strengthen its hands, and perpetuate its institutions…’.[8]
               This position, while most closely associated with the anarchists, was also
             held by J.S. Mill, the forefather of modern liberal theory, who vehemently
-4 of 18 10/2/25, 11:46 PM Anarchist Education https://theanarchistlibrary.org/library/judith-suissa-anar...
+
             opposed the idea of universal state education on the grounds that it was ‘a
             mere contrivance for molding people to be exactly like one another’.[9]
               Godwin’s argument was echoed by Ferrer, who wrote, at the time of
@@ -233,7 +232,7 @@ Anarchist Education https://theanarchistlibrary.org/library/judith-suissa-anar..
             challenge to the conceptual distinction between diﬀerent forms of knowledge
             at the heart of the liberal educational ideal. Rather, it was entirely political,
             designed to break down the ‘pernicious distinction’ between brain work and
-5 of 18 10/2/25, 11:46 PM Anarchist Education https://theanarchistlibrary.org/library/judith-suissa-anar...
+
             manual work that was imposed by, and sustained, the capitalist state. As
             Harry Kelly, one of the founders of the New York Modern School wrote,
                  The curse of existing capitalist society is its parasitism. It permits
@@ -277,7 +276,7 @@ Anarchist Education https://theanarchistlibrary.org/library/judith-suissa-anar..
             of Ferrer’s execution were in fact continuing a tradition of libertarian
             educational experiments that dates back at least to Tolstoy’s school at
             Yasnaya Polyana, established in the 1860s, and to the libertarian schools of
-6 of 18 10/2/25, 11:46 PM Anarchist Education https://theanarchistlibrary.org/library/judith-suissa-anar...
+
             Paul Robin (Cempuis, founded in 1880) and Sebastien Faure (La Ruche,
             founded in 1904). Many of the anarchist ideas implemented by Ferrer, such as
             integral education, were central features of these schools. Similar ideas can
@@ -323,7 +322,7 @@ Anarchist Education https://theanarchistlibrary.org/library/judith-suissa-anar..
             Education[22]—they are not co-extensive. The overlaps between the traditions,
             however, mean that many accounts of libertarian education include both
             anarchist and non-anarchist schools and educators. A commonly cited
-7 of 18 10/2/25, 11:46 PM Anarchist Education https://theanarchistlibrary.org/library/judith-suissa-anar...
+
             example here is the school set up by Tolstoy in the 1860s. Tolstoy is often
             described as an anarcho-paciﬁst, or a Christian anarchist, and although his
             emphasis on individual responsibility and freedom places him at some
@@ -372,7 +371,7 @@ Anarchist Education https://theanarchistlibrary.org/library/judith-suissa-anar..
             inherent in the state system.
                The founders of the Modern School in New York were clearly convinced that
             a rational rather than a completely libertarian educational approach was the
-8 of 18 10/2/25, 11:46 PM Anarchist Education https://theanarchistlibrary.org/library/judith-suissa-anar...
+
             most likely to advance anarchist ideas. Thus the 1914–1915 prospectus for the
             school states: ‘The Modern School has been established by men and women
             who believe that a child educated in a natural way, unspoiled by the dogmas
@@ -421,7 +420,7 @@ Anarchist Education https://theanarchistlibrary.org/library/judith-suissa-anar..
             Bakunin put it: ‘Man has two opposed instincts; egoism and sociability. He is
             both more ferocious in his egoism than the most ferocious beasts and more
             sociable than the bees and ants’.[37]
-9 of 18 10/2/25, 11:46 PM Anarchist Education https://theanarchistlibrary.org/library/judith-suissa-anar...
+
               The anarchist view of human nature as not predominantly or innately ‘good’
             or ‘evil’, but as determined largely by social context, goes a long way towards
             explaining the central role that anarchist thinkers over the ages have
@@ -468,7 +467,7 @@ Anarchist Education https://theanarchistlibrary.org/library/judith-suissa-anar..
             reﬂecting the distinction between those more on the individualist end of the
             anarchist spectrum, and those on the socialist end. Matthew Thomas, in his
             account of British anarchist schools, suggests that individualist anarchists
-10 of 18 10/2/25, 11:46 PM Anarchist Education https://theanarchistlibrary.org/library/judith-suissa-anar...
+
             who followed Max Stirner ‘rejected the entire concept of the school as an
             aﬀront to the child’s autonomy’.[40] Yet as Thomas notes, many anarchist
             educators, believing in the transformative power of education, would have
@@ -515,7 +514,7 @@ Anarchist Education https://theanarchistlibrary.org/library/judith-suissa-anar..
             teachers in the face of an unjust and repressive social order is seen by
             anarchist educators as either impossible or “hypocrisy”’.[44] Yet Mueller
             argues that anarchist educators who go beyond a laissez-faire approach can
-11 of 18 10/2/25, 11:46 PM Anarchist Education https://theanarchistlibrary.org/library/judith-suissa-anar...
+
             avoid the implied contradiction by seeking to encourage particular anarchist
             values but not imposing dogma and by openly challenging the social order
             and its institutions.
@@ -562,7 +561,7 @@ Anarchist Education https://theanarchistlibrary.org/library/judith-suissa-anar..
             namely, is it possible to combine an educational process that embodies
             substantive moral and political values with a respect for the freedom of the
             child?
-12 of 18 10/2/25, 11:46 PM Anarchist Education https://theanarchistlibrary.org/library/judith-suissa-anar...
+
             Anarchist Education Today
               In an era when universal, compulsory state schooling has, unlike in
             Godwin’s time, become the unquestioned background against which all
@@ -611,7 +610,7 @@ Anarchist Education https://theanarchistlibrary.org/library/judith-suissa-anar..
             communities of “non-authoritarian schools”’ because ‘no government or
             newspaper could comfortably object to the idea of democratic education,
             whereas “libertarian”, “free”, “progressive” or “anarchist” education would
-13 of 18 10/2/25, 11:46 PM Anarchist Education https://theanarchistlibrary.org/library/judith-suissa-anar...
+
             be under immediate attack’.[49]
               In his research into the range of such schools around the globe, Gribble
             concludes that while they are all diﬀerent, ‘they share a central core of
@@ -662,7 +661,7 @@ Anarchist Education https://theanarchistlibrary.org/library/judith-suissa-anar..
             theory and practice is constantly evolving and self-reﬂective, oﬀering, in some
             cases, explicit criticism of earlier strands in the anarchist tradition. The Free
             Skool website, for example, notes:
-14 of 18 10/2/25, 11:46 PM Anarchist Education https://theanarchistlibrary.org/library/judith-suissa-anar...
+
                  One theoretical limitation to freeskool theory that originates in its
                  anarchist roots is a preoccupation with modernity and rationalism.
                  […]. Ferrer was deeply concerned with using scientiﬁc rationalism
@@ -711,7 +710,7 @@ Anarchist Education https://theanarchistlibrary.org/library/judith-suissa-anar..
             the most exciting contemporary examples here is Rojava, in Northern Syria,
             where the Kurdish-led Democratic Union Party (PYD) has established a
             popular democracy based on Abdullah Ocalan’s idea of ‘democratic
-15 of 18 10/2/25, 11:46 PM Anarchist Education https://theanarchistlibrary.org/library/judith-suissa-anar...
+
             confederalism’, which draws directly on the anarchist theory of Murray
             Bookchin. While it is diﬀicult to obtain accurate information about the
             ongoing situation in Rojava, which at the time of writing is still in the midst of
@@ -758,7 +757,7 @@ Anarchist Education https://theanarchistlibrary.org/library/judith-suissa-anar..
               [2] F. Ferrer, The Origins and Ideals of the Modern School (London: Watts & Co., 1913), 55.
               [3] F. Ferrer, ‘The Rational Education of Children’, The Modern School (New York: Mother Earth
             Publishing Association, 1909), p. 2.
-16 of 18 10/2/25, 11:46 PM Anarchist Education https://theanarchistlibrary.org/library/judith-suissa-anar...
+
              [4] Avrich, Modern School Movement, 21.
              [5] Ferrer, Origins and Ideals, 62.
              [6] For discussions of Ferrer-inspired anarchist schools around the world, see, for example,
@@ -821,7 +820,7 @@ Anarchist Education https://theanarchistlibrary.org/library/judith-suissa-anar..
               [45] N. Jun, ‘Paedeia for Practice: Philosophy and Pedagogy as Practices of Liberation’, in
             Haworth, Anarchist Pedagogies, 294.
               [46] E. McKenna, The Task of Utopia; A Pragmatist Feminist Perspective (Maryland: Rowman &
-17 of 18 10/2/25, 11:46 PM Anarchist Education https://theanarchistlibrary.org/library/judith-suissa-anar...
+
             Littleﬁeld, 2001), 59.
               [47] A. Berkman in Ibid.
               [48] D. Gribble, ‘Good news for Francisco Ferrer—how anarchist ideals in education have
@@ -849,4 +848,3 @@ Anarchist Education https://theanarchistlibrary.org/library/judith-suissa-anar..
               [60] Haworth, Anarchist Pedagogies, 2.
             The Palgrave Handbook of Anarchism (edited by Carl Levy & Matthew S.
             Adams), chapter 29, pp. 511–529, DOI: 10.1007/978-3-319-75620-2_29.
-18 of 18 10/2/25, 11:46 PM

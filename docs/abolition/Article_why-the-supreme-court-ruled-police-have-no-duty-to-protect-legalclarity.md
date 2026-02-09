@@ -9,8 +9,6 @@ tags:
   - prisons
 ---
 
-Why the Supreme Court Ruled Police Have No Duty to Protect - LegalClarity https://legalclarity.org/why-the-supreme-court-ruled-police-have-no-duty-to-pro...
-
 ## Search LegalClarity...
 
 ## CIVIL RIGHTS LAW
@@ -52,7 +50,7 @@ Why the Supreme Court Ruled Police Have No Duty to Protect - LegalClarity https:
                            The Supreme Court disagreed, ruling 7-2 against Gonzales. Justice Antonin Scalia,
                            writing for the majority, held that the enforcement of a restraining order was not a
                            mandatory entitlement but was subject to police discretion. The Court determined that a
-1 of 3 10/15/25, 6:16 PM Why the Supreme Court Ruled Police Have No Duty to Protect - LegalClarity https://legalclarity.org/why-the-supreme-court-ruled-police-have-no-duty-to-pro...
+
                            “well-established tradition of police discretion” exists, even with seemingly mandatory
                            language in a statute. The police department’s failure to act did not constitute a
 ## constitutional violation.
@@ -95,7 +93,7 @@ Why the Supreme Court Ruled Police Have No Duty to Protect - LegalClarity https:
                            Some state legislatures have enacted laws that impose a duty on police to act in certain
                            situations, like responding to domestic violence calls or enforcing restraining orders.
                            Similarly, some state courts have interpreted their own laws to recognize a duty to
-2 of 3 10/15/25, 6:16 PM Why the Supreme Court Ruled Police Have No Duty to Protect - LegalClarity https://legalclarity.org/why-the-supreme-court-ruled-police-have-no-duty-to-pro...
+
                            protect. Whether an individual can hold law enforcement liable for a failure to protect
                            often depends on the speciﬁc laws of the state where the incident occurred.
                            PREVIOUS BACK TO CIVIL RIGHTS LAW NEXT
@@ -123,5 +121,3 @@ Why the Supreme Court Ruled Police Have No Duty to Protect - LegalClarity https:
                                                 Terms And Conditions Privacy Policy About Us DMCA Contact Us
 
 ## Copyright © LegalClarity All Rights Reserved.
-
-3 of 3 10/15/25, 6:16 PM

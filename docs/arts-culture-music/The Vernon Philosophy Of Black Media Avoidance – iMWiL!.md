@@ -18,8 +18,6 @@ tags:
 
 **Mahershala Ali** has [apologized](https://www.vulture.com/2018/12/mahershala-ali-green-book-dr-don-shirley-family-apology.html) to the family of **Don Shirley** the musician he portrays in the new film **Green Book**. Shirley's family, who were apparently left as unknown to the filmmakers/actors as was the reality of the man's life, have said the film falsely depicts their relative by misrepresenting his pride in and awareness of self, his (lack of) friendship with Tony "Lip" Vallelonga played by Viggo Mortensen, and disrespects his stated request while alive that no such film be made. However, to an industry so essential to the
 
-## 1 of 6 10/22/25, 6:58 PM
-
 management and reflection of public opinion such concerns are of necessity routinely ignored.
 
 ## **The Vernon Philosophy of Black Media**
@@ -42,10 +40,6 @@ Like it or not, once seen participating in pop cultural commercial product, prop
 
 More difficult is the VPBMA challenge to reject psychic overtures from commercial industrial product which claim to be uplifting history for the people (BTW, the only ["For](https://www.youtube.com/playlist?list=PL5F9904793D5657CA) [The People"](https://www.youtube.com/playlist?list=PL5F9904793D5657CA) we officially recognize here at iMWiL! is that from the legendary [Listervelt Middleton\)](https://www.youtube.com/playlist?list=PL5F9904793D5657CA). This is why I have historically rejected films like [Selma](https://imixwhatilike.org/?s=selma) and [Fruitvale Station](https://imixwhatilike.org/2013/08/13/fruitvale/). And it is why I have stood already against rumors of films about [Assata Shakur](http://afropunk.com/2018/07/ava-duvernay-wants-to-do-a-movie-about-assata-shakur-were-here-for-all-of-it/) and [Fred Hampton.](https://www.vibe.com/2017/05/antoine-fuqua-fred-hampton-film) We gain nothing from pop cultural depictions of radical histories but distorted versions which work more to recreate them as immaturities or imperfections to overcome or, worse, as somehow accepting of the world as we know it as inevitable or as an improvement. Films, perhaps more than any other medium, also confer a stronger sense of understanding onto the audience meaning that more people who leave feel they now have clarity around a given topic and need not follow up for more study – contrary to popular myth. Remember the positive impact Spike Lee's 1992 **Malcolm X** was meant to have? That historical mess
 
-## 5 of 6 10/22/25, 6:58 PM
-
 paved the way for its "academic" equivalent, one that continues to demand [our response.](https://imixwhatilike.org/2012/11/27/aliepresented/)
 
 But the greatest challenge of the VPBMA is it's insistence that we forgo fame for substance and find, create and disseminate alternative forms of art and entertainment that does the political and cultural work we so desperately look for from institutional power and producers of media or ideological product. The VPBMA is a base call for an immaterial break from dominant culture that if cannot rise to the level of material boycott can at least produce a baseline standard of intellectual rejection, refusal and resistance to the empty and distorted forms of ourselves, our politics and our histories we will continue to suffer.
-
-## 6 of 6 10/22/25, 6:58 PM

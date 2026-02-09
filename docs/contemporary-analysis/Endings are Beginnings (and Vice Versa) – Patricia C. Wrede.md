@@ -20,8 +20,6 @@ Every beginning is the end of something, and every ending is the start of someth
 
 Stories are, ultimately, about change. The standard advice about beginnings recognizes this. If you can open a story either "just before, just at, or just after" the Inciting Incident, things must have been different Before. Something has changed;
 
-## 1 of 5 10/16/25, 12:05 AM
-
 something has come to an end. Whatever Before was like, things aren't going to be like that any more, at least for a while.
 
 If, previous to the Inciting Incident, everyone was in a steady state of being happy or miserable, what ended was an uninteresting steady state, and there's not much in the way of story involved. Happy people happily being happy are not story material; neither are miserable people unhappily being miserable.
@@ -47,5 +45,3 @@ On May 28, 2025 / [Writing](https://pcwrede.com/pcw-wp/category/writing/)
 ## ![](_page_4_Picture_4.jpeg)
 
 ## ![](_page_4_Picture_5.jpeg)
-
-## 5 of 5 10/16/25, 12:05 AM

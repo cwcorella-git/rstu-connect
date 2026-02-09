@@ -9,10 +9,4 @@ tags:
   - workers
 ---
 
---
-
-2  -- ## Page 4
-
-Van Maanen and Kunda 4  -- ## Page 6
-
-: 623-37. 6  -- ## Page 8
+2Van Maanen and Kunda 4: 623-37. 6

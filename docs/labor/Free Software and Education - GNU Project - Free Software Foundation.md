@@ -21,8 +21,6 @@ Free Software is not just a technical question; it is an ethical, social, and po
 
 To learn more, see the [Free Software definition](https://www.gnu.org/philosophy/free-sw.html) and our article
 
-## 1 of 2 10/4/25, 1:11 PM
-
 on [why software should be free](https://www.gnu.org/philosophy/shouldbefree.html) (as in freedom).
 
 ## **The Basics**
@@ -36,5 +34,3 @@ In this six-minutes video Richard Stallman explains briefly and to the point the
 - Learn about the [Reasons Why](https://www.gnu.org/education/edu-why.html) educational institutions should use and teach exclusively Free Software.
 - An article by Richard Stallman: [Why Schools Should Exclusively](https://www.gnu.org/education/edu-schools.html) [Use Free Software.](https://www.gnu.org/education/edu-schools.html)
 - An article by Dr. V. Sasi Kumar on the [education system in](https://www.gnu.org/education/edu-system-india.html) [India.](https://www.gnu.org/education/edu-system-india.html)
-
-## 2 of 2 10/4/25, 1:11 PM

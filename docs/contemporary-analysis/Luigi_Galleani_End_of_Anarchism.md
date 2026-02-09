@@ -14,13 +14,9 @@ tags:
 ## **Contents**
 
 | Introduction | |
-|-----------------------------------------------------------|--|
-| Chapter 1. The Interview with Merlino | |
-| Chapter 2. The Anarchism of Merlino | |
-| Chapter 3. The Characteristics of Anarchism | |
-| Chapter 4. Socialist-Collectivism and Anarchist-Communism | |
-| Chapter 5. Anarchist-Communism and Individualism | |
-| Chapter 6. Workers' Organization | |
+1. The Interview with Merlino | |
+3. The Characteristics of Anarchism | |
+6. Workers' Organization | |
 ## | Chapter 7. Propaganda of the Deed | |
 
 ## **Introduction**

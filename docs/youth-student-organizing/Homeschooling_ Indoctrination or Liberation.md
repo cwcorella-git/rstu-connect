@@ -64,7 +64,6 @@ Everything changed with the rise in compulsory attendance laws.
 1:25
 Homeschooling declined and classrooms were filled.
 1:28
-##
 It should be noted that compulsory schooling was often used by colonizers to enact
 
 cultural
@@ -126,7 +125,6 @@ schooling.
 He also began publishing a magazine called Growing Without Schooling, which went on
 from
 3:03
-##
 1977 to 2001. 3:05 In those early days, homeschoolers often had to work with local school boards and occasionally 3:11 had trouble navigating legal procedure. 3:14 Soon there would be a wave of religious homeschoolers, anxious about the devil in the school system, 3:19 around the mid-80s. 3:21 Some right-wing Calvinist guy named Rousas John Rushdoony attacked the "evils of secular 3:26 schooling" and called for homeschooling for the religious right instead. 3:30 His efforts were bolstered by the work of conservative Christian organizations like 3:33 Focus on the Family. 3:35 Their refusal to cooperate with local school boards led to intense legal battles, and they 3:40 began petitioning on the state level. 3:43 Oversight of homeschooling today differs widely from state to state. 3:47 Scholars tend to divide homeschooled students into three main groups, with some outliers 3:52 and overlap: 1) progressives who homeschool to free their children from the constraints 3:57 of traditional school, unschooling and letting their children follow their interests; 2) 4:04 fundamentalist Christians who homeschool for religious reasons and tend to exclude others 4:08 from their groups or communities; and 3) individuals who did not initially intend to homeschool 4:15 but ultimately adopted homeschooling for practical reasons when other educational methods didn't 4:20 work for their children. 4:21 That second group, the religious homeschooling right, quickly overtook the others. 4:26 They eventually excluded the Seventh Day Adventist Raymond Moore, who they didn't consider 4:30 Christian enough, and they often required statements of faith to receive any support 4:34
 
 Michael Farris, founder of the anti-LGBT, pro-life Home School Legal Defense from their organizations.
@@ -192,8 +190,6 @@ the manifestations
 6:03
 of systemic racism in schools, and the lack of in-depth education on Black history.
 6:09
-##
-
 Some parents need to homeschool because they're living in rural nowhere or they
 travel around
 6:13
@@ -253,8 +249,6 @@ school,
 but I was out of there by the end of standard one, just after I turned 7.
 7:36
 My parents are a deeply Christian people, so they felt called to bring us home and
-##
-
 teach
 7:41
 us that way.
@@ -314,8 +308,6 @@ My mom was no radical, so my schooling still had a lot of the same propaganda th
 state
 9:01
 schooling does, but it was all she knew.
-##
-
 9:04
 It's all most people know.
 9:05
@@ -375,8 +367,6 @@ That freedom to direct my own learning drives me to this day.
 I was able to travel to a few other countries, thanks to my dad's job.
 10:24
 And I also tried many different activities, inconsistently, throughout, including
-##
-
 track
 10:29
 and field, violin, guitar, painting, and most consistently of all of them,
@@ -436,8 +426,6 @@ It sounds weird, but some of my peak social years were between my last two years
 homeschooling
 11:54
 and my first two years of college.
-##
-
 11:56
 I was extremely outgoing, almost to a fault.
 11:59
@@ -497,8 +485,6 @@ which is headed by Dr Brian Ray, whose studies on homeschooling have been heavil
 criticized
 13:20
 for their methodological flaws and gaps.
-##
-
 13:22
 Regardless, it's difficult to make any sweeping claims with the research we do
 have.
@@ -558,7 +544,6 @@ adult at
 all.
 14:39
 If you are curious about examining homeschooling with a more critical eye, The
-##
 Coalition for 14:42 Responsible Home Education, or CRHE, has demographic information, studies, testimonies, recommendations, 14:48 and other information that can help you out. 14:51 They conduct research, develop resources for homeschooling families, and advocate for evidence-based 14:56 homeschooling policy in an effort to ensure the safety and success of homeschooled children. 15:01 I've collected a few of their noteworthy articles, which I'll link below if you're 15:05 interested. 15:06 So...with all that in mind, what potential do I see in homeschooling? The Potential of Homeschooling 15:13 The Potential of Homeschooling As we've established, the conversation around 15:15 homeschooling is often dominated by the propaganda and reactionary elements of the religious 15:19 right, who seek to exert their power and ownership over children. 15:23 Still, there are people outside of that milieu who genuinely want better for their children 15:28 and for their communities. 15:29 I mean, if you're watching this, you probably already know that schools operate antithetically 15:34 to true knowledge and education. 15:36 Worse yet, many communities suffer severely from the lack of funding and resources afforded 15:41 to them by the State. 15:42 Here, the State's failures provide fertile ground for liberation. 15:45 The original intent of homeschooling, to liberate children from the oppressive bounds of state 15:50 schooling, remains noble and worthwhile. 15:54 I believe communities can and should take on the responsibility of this project, not 15:58 just in the future, but also in the here and now. 16:01 I believe the benefits of homeschooling can be adapted and expanded, once we recognize 16:06 and respond to the flaws associated with it.
 
 ## 16:09
@@ -702,5 +687,4 @@ Check out my previous videos for other fascinating topics.
 18:53
 You can follow me on Twitter @_saintdrew.
 18:55
-##
 Thanks again, peace!

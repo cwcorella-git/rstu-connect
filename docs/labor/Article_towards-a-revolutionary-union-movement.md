@@ -9,7 +9,6 @@ tags:
   - workers
 ---
 
-Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/angry-education-...
            Angry Education Workers
            Towards a Revolutionary Union
            Movement
@@ -45,7 +44,7 @@ Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/a
            this history:
                 Parallel to the introduction of social insurance, the establishment
                 and legal protection of trade unions developed as the representation
-1 of 37 10/11/25, 1:03 PM Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/angry-education-...
+
                 exclusively of this part of the proletariat, the “wage laborers”, who
                 can proudly point out that they live from “their own hands’ honest
                 work”. In the early days of modern mass trade unions after the
@@ -93,7 +92,7 @@ Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/a
            Employees International Union (SEIU) and workers’ centers are prominent
            types of labor liberal organizations. They were a more progressive response to
            business unionism, but remain ultimately ﬁxated on “choreographed” labor
-2 of 37 10/11/25, 1:03 PM Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/angry-education-...
+
            actions like one day strikes and staﬀ heavy organizing that maintains the
            containment of proletarian struggle. Rather than a step forward, labor
            liberalism represented a failed compromise between business unionism and
@@ -142,7 +141,6 @@ Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/a
            existing unions or will it require new ones, or a combination of both?”
               We think the answer is a revolutionary union movement. With this in mind,
            we posed three questions:
-3 of 37 10/11/25, 1:03 PM Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/angry-education-...
 
               1. Do we need a revolutionary union movement? What would a
                  revolutionary union movement look like? How can we build one?
@@ -190,7 +188,7 @@ Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/a
            who’d defected to the revolution.
               This brought the workers’ council—an independent, directly democratic
            working class institution for economic and political decision-making born
-4 of 37 10/11/25, 1:03 PM Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/angry-education-...
+
            during the 1905 Russian Revolution—onto the world stage. Workers’ councils
            proliferated across the Russian Empire, Germany, and much of the rest of the
            world between 1917 and 1927. Workers’ councils also spawned numerous
@@ -240,7 +238,7 @@ Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/a
            Commune as a model. That “essence of the Paris Commune as a special type
            of state” meant that power was “based…on the direct initiative of the people
            from below, and not a law enacted by a centralised state power.” Dual power
-5 of 37 10/11/25, 1:03 PM Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/angry-education-...
+
            required “the replacement of the police and army, which are institutions
            divorced from the people and set against the people, by the direct arming of
            the whole people.” Workers and peasants would replace the basis of the
@@ -289,7 +287,7 @@ Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/a
            authoritarian parts of the state—such as the prison-industrial and militaryindustrial complexes.
               The best tool the revolutionary unions have to invoke this state of dual
            power is the general strike. A general strike is when most, or all, workers in
-6 of 37 10/11/25, 1:03 PM Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/angry-education-...
+
            an industry or geographic location refuse to work until their demands are
            met. General strikes frequently feature insurrections against the police,
            workplace occupations, and the creation of directly democratic bodies run by
@@ -334,7 +332,7 @@ Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/a
            working class must be the work of the working class itself.”
            Against Class Collaboration
              Revolutionary unions reject collaboration with the employing class. Looking
-7 of 37 10/11/25, 1:03 PM Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/angry-education-...
+
            at the IWW constitution, this rejection of class collaboration is literally the
            ﬁrst sentence of the preamble: “The working class and the employing class
            have nothing in common.” Seeking labor peace is futile. Conﬂict between
@@ -383,7 +381,7 @@ Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/a
              Through direct action we can construct an association of free and equal
            producers within the shell of the old society.
            Preﬁgurative
-8 of 37 10/11/25, 1:03 PM Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/angry-education-...
+
              The rich history of anarchist labor organizing produced the theory and
            practice of preﬁguration. Preﬁguration is based on the philosophical stance
            that means and ends cannot be separated: that the way you choose to achieve
@@ -434,7 +432,7 @@ Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/a
            determine the type of society we replace capitalism with. We must use
            internal political education and persuasion to help workers begin to overcome
            the baggage we all carry under capitalism. “Beyond ‘Fuck You: An organizer’s
-9 of 37 10/11/25, 1:03 PM Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/angry-education-...
+
            approach to confronting hateful language at work” provides a model of what
            this looks like in one-on-one and small group settings. As we grow, we have to
            incorporate this model into all of our organizational infrastructure. Whatever
@@ -483,7 +481,7 @@ Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/a
            Support Professionals (ESPs) formed the Fix Para Pay slate and elected a
            dissident Chapter Leader, Migda Rodriguez, Unity leadership eﬀectively made
            it impossible for her to do her job. Our revolutionary union movement must
-10 of 37 10/11/25, 1:03 PM Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/angry-education-...
+
            embrace open dissent. Especially after the oﬀicial vote has been taken.
              It is tempting to hide our internal disagreements to present a favorable view
            of the union to the public, but setting up a cadre of leaders that exists above
@@ -530,7 +528,7 @@ Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/a
            (COREs) in a growing number of teacher union locals, Teamsters for a
            Democratic Union (TDU), and Unite All Workers for Democracy (UAWD) in the
            UAW. So far, the results have been stunning and historic victories for the
-11 of 37 10/11/25, 1:03 PM Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/angry-education-...
+
            unions who have embraced increased internal democracy and an inclusive
            organizational culture. Unions who dig in their feet to stick to their
            conservative strategies continue to shed members and render themselves
@@ -577,7 +575,7 @@ Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/a
            organizing that position workers as the beneﬁciaries of certain exclusive
            perks. Not only does this make it easy to paint the labor movement as a
            special interest group separate from the rest of the working class, it does
-12 of 37 10/11/25, 1:03 PM Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/angry-education-...
+
            little to build real worker power. Collective direct action is the only way to
            demonstrate that the means of production are in our hands, and that without
            our labor nothing in society can function. Direct action is also an opportunity
@@ -627,7 +625,7 @@ Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/a
            strike with the Hortonville teachers. When the vote failed badly, the WEAC
            turned to legislative action. They succeeded in getting a law passed that
            provided teachers’ unions with “compulsory interest arbitration” that
-13 of 37 10/11/25, 1:03 PM Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/angry-education-...
+
            improved their ability to secure contracts without striking. However, Eleni
            Schirmer, a researcher at the University of Wisconsin-Madison, argues that
            “this calculation…it failed to develop stronger forms of labour organising –
@@ -678,7 +676,6 @@ Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/a
                 work in other camps. This added to the confusion of the bosses, as
 ## they never knew what to expect.
 
-14 of 37 10/11/25, 1:03 PM Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/angry-education-...
                 These tactics had never been used on such an extensive scale in the
                 United States. The companies could not meet them. All over the
                 Northwest the lumber industry was in a state of disorganization and
@@ -726,7 +723,7 @@ Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/a
            impacts equally ephemeral.
              Meanwhile, IWW branches that take a hybrid, heterodox approach to CBAs
            have a far higher rate of lasting campaigns. These branches help campaigns
-15 of 37 10/11/25, 1:03 PM Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/angry-education-...
+
            sign CBAs if the workers want to, but treat these contracts as mere scraps of
            paper that provide a baseline of institutional stability for the workers in the
            union, and nothing more. In Portland, Oregon, workers at the Burgerville
@@ -775,7 +772,7 @@ Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/a
            the contract taking direct action to achieve greater shop ﬂoor control and
            improvements to working conditions. When it’s time to bargain the next
            contract, we ﬁght to codify all of our de facto gains in the new CBA. Capital is
-16 of 37 10/11/25, 1:03 PM Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/angry-education-...
+
            endlessly adaptive to our resistance to its rule. We think that these heterodox
            approaches to contract negotiations and collective bargaining represent a
            more practically revolutionary stance than turning our backs on them entirely.
@@ -823,7 +820,7 @@ Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/a
            security to forcefully evict teachers, dockworkers, and their children, that is.
              The syndicalist union SI Cobas in Italy uses mobs of students and left-wing
            activists from outside the workplace to set up blockades of workplaces during
-17 of 37 10/11/25, 1:03 PM Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/angry-education-...
+
            strikes of small groups of migrant workers in logistics. This tactic enables
            precariously employed migrant workers leverage against their powerful
            employers until they’ve built majority support in the workplace. Combining
@@ -870,7 +867,7 @@ Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/a
            sweeping up billions of workers into vast corridors of production, distribution,
            and consumption. It relies on uneven development between imperial cores
            and peripheries. A revolutionary union movement organizes down these
-18 of 37 10/11/25, 1:03 PM Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/angry-education-...
+
            supply chains, refusing to fall for the trap of nationalism.
              Social democracy, as popularized by politicians like Bernie Sanders and
            organizations such as Democratic Socialists of America, fails to address
@@ -920,7 +917,7 @@ Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/a
            States that we need to learn from and coordinate with. All of us are building
            with few resources, no institutional support, and amidst escalating repression.
            We should work to strengthen international coordination between our unions
-19 of 37 10/11/25, 1:03 PM Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/angry-education-...
+
            through bodies such as the International Confederation of Labor (ICL) and the
            International Workers Association (IWA). When beneﬁcial to us, we should
            also cooperate with the mainstream, moderate union movements around the
@@ -967,7 +964,7 @@ Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/a
            lapdogs of the employing class and should be treated as such. A more local
            example comes from the Vermont AFL-CIO, which socialist workers in the
            UNITED! Slate democratically transformed into a state-wide workers’ council
-20 of 37 10/11/25, 1:03 PM Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/angry-education-...
+
            during the late 2010s. In 2020 the Vermont AFL-CIO approved a resolution
            authorizing a general strike across the state in the case of Trump stealing the
            election, as well as calling on other AFL-CIO aﬀiliates to do the same.
@@ -1016,7 +1013,7 @@ Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/a
            worker centered struggle against the fascist forces unleashed in the wake of
            Trump’s 2016 election victory. Through its eﬀorts, the IWW gained a new
            relevancy with working people it hadn’t possessed in many decades. Another
-21 of 37 10/11/25, 1:03 PM Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/angry-education-...
+
            example from the IWW was the 2020 University of Santa Cruz Wildcat Strike.
            While the UC system is organized with the UAW, IWW militants were highly
            inﬂuential at UCSC and UC Davis. When their employer loosed the police on
@@ -1063,7 +1060,7 @@ Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/a
            genocidal colonialism.
            Towards a Revolutionary Union Movement,
            Part 10: Industrial(?)
-22 of 37 10/11/25, 1:03 PM Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/angry-education-...
+
              This section of “Towards a Revolutionary Union Movement” has been met
            with skepticism and criticism by some who argue that industrial union
            strategy is not necessary to be a revolutionary union. One fellow worker
@@ -1113,7 +1110,7 @@ Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/a
            industrial unionism as “a method of social reconstruction. It is a means by
            which the basic activities of society may be continued when capitalism shall
            have been overthrown by its own failures and class conﬂicts.”
-23 of 37 10/11/25, 1:03 PM Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/angry-education-...
+
              Industry-wide strategy is a necessity for proletarian victory on the terrain of
            production. Existing labor law attempts to conﬁne working class resistance to
            speciﬁc workplaces as much as possible. Capital, meanwhile, has no
@@ -1160,7 +1157,7 @@ Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/a
               Bargaining for the Common Good represented a fundamental step forward
            for our movement when ﬁrst developed by teacher unionists in the CTU)
            Teachers’ unions have long linked their workplace struggles with the wider
-24 of 37 10/11/25, 1:03 PM Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/angry-education-...
+
            working class struggles for housing, racial justice, women’s rights, LGBTQ+
            liberation, and more. Just because these movements are often not explicitly
            radical or revolutionary does not mean our unions should distance ourselves
@@ -1208,7 +1205,7 @@ Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/a
            replicate, coordinate, and spread these collective struggles for industrial
            democracy far and wide.
            Autonomous
-25 of 37 10/11/25, 1:03 PM Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/angry-education-...
+
              A revolutionary union movement must exemplify, in organizational form, the
            necessity for total proletarian independence from the employing class and
            their theatrical version of politics. When the rich donate to politicians, they
@@ -1258,7 +1255,7 @@ Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/a
            from wreaking havoc in Eastern Europe to massacre workers and sailors. It’s
            a betrayal that has loomed large over world history. The record of other social
            democratic parties is not much better. That’s assuming the rise of a third
-26 of 37 10/11/25, 1:03 PM Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/angry-education-...
+
            party independent of the Democrats and Republicans is even possible in a
            government dominated by a two party system since 1800.
               Revolutionary unions should not invest in Super PACs or endorse speciﬁc
@@ -1307,7 +1304,7 @@ Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/a
            working class power means organizing alongside folks we will have political
            and cultural disagreements with. Democracy entails acceptance and
            cooperation between people of all backgrounds who are willing to be in
-27 of 37 10/11/25, 1:03 PM Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/angry-education-...
+
            community with each other.
              Here, a disagreement exists between those who currently call themselves
            revolutionary unionists. Anarcho-syndicalists aligned with the AIT argue that
@@ -1354,7 +1351,7 @@ Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/a
            landscape lack any union presence at all. The majority of the established labor
            movement has eﬀectively given up on workers in these parts of the economy,
            abandoning them to the whims of their employers. This is an opportunity for
-28 of 37 10/11/25, 1:03 PM Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/angry-education-...
+
            revolutionary workers to target non-union employers and industries for
            organization.
              Accomplishing this requires honing in on strategic industries ﬁrst. That
@@ -1403,7 +1400,7 @@ Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/a
            relevant organizations in order to dominate them.
              Instead, dual carders tend to distance themselves from union leadership
            elections entirely and focus on building power among the rank-and-ﬁle. This
-29 of 37 10/11/25, 1:03 PM Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/angry-education-...
+
            lays the foundation for independent, militant action by union members,
            allowing them to break out of the conﬁnes of narrow trade unionism and ﬁght
            for the entire working class. During the Solidarity, not Silence! campaign, for
@@ -1452,7 +1449,7 @@ Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/a
            Black Workers. The entire League grew from the Dodge Revolutionary Union
            Movement (DRUM) as workers replicated their organizing model in their own
            factory sites. They immediately faced opposition from the UAW bureaucracy,
-30 of 37 10/11/25, 1:03 PM Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/angry-education-...
+
            which shut them out of all leadership roles within the union. Under the
            pressure of intense repression, including the drafting of League organizers
            into the Vietnam War, the group collapsed. There was no wider revolutionary
@@ -1499,7 +1496,7 @@ Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/a
              As militants currently operating either as members of the IWW or within
            other closely-aligned labor formations, we are proud of its accomplishments
            both past and present. Some of the world’s best labor organizers are active
-31 of 37 10/11/25, 1:03 PM Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/angry-education-...
+
            among our rank-and-ﬁle. We also see what the union could be in the future,
            and thus what it is not now. All currently existing revolutionary unions
            ultimately fall short of the characteristics analyzed in this essay. The CNT, for
@@ -1548,8 +1545,8 @@ Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/a
            unions typically organize a few sectors of an industry rather than the industry
            as a whole. The UAW, for example, represents workers at “traditional” auto
            parts factories, electric vehicle shops, and some maquiladoras in northern
-           Mexico. However, the UAW has chosen to respond to the decimation neo32 of 37 10/11/25, 1:03 PM
-Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/angry-education-...
+           Mexico. However, the UAW has chosen to respond to the decimation neo
+
            liberal capitalist trade and austerity policies have wrought upon the industry
            in the U.S. by becoming more of a “general union” rather than choosing to
            expand its organizing to other sectors of the industry; e.g. workers in
@@ -1599,7 +1596,7 @@ Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/a
            (CWA) and the author of several books on militant unionism, including, most
            recently, Class Struggle Unionism—concisely summarizes why: “Organizers…
            know that normally there is a core of people who most want change...A good
-33 of 37 10/11/25, 1:03 PM Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/angry-education-...
+
            organizer pulls those folks together and engages the enemy, whether it be the
            boss or slumlord, and in doing so systematically pulls more and more people
            into the struggle.”
@@ -1649,7 +1646,7 @@ Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/a
              But there is unfortunately a broader dogmatism, an aversion to concrete
            strategy and theoretical analysis that shrinks the imagination of our union
            collectively. It manifests as a hostility by some towards eﬀorts like the
-34 of 37 10/11/25, 1:03 PM Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/angry-education-...
+
            Incarcerated Workers Organizing Committee (IWOC) and the General Defense
            Committee (GDC). The GDC, for example, became an “excellent vehicle to
            grow the anti-fascist movement” during the Trump years while drawing
@@ -1699,7 +1696,7 @@ Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/a
              At the heart of these sometimes paralyzing internal disputes is a lack of
            coherent industrial strategy within the labor movement. Strategy is an arena
            where we could, and should, be distinguishing ourselves within, but instead
-35 of 37 10/11/25, 1:03 PM Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/angry-education-...
+
            we’ve become emblematic of the problem among class struggle unionists. Joe
            Burns elaborates on this failing of the IWW:
                 “Finally, in terms of our strategic focus, there is a signiﬁcant trend
@@ -1749,7 +1746,6 @@ Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/a
 
               5. Become a trainer for the union, and use the Organizer Training 101 as a
                  means of internal political education about industrial organizing strategy,
-36 of 37 10/11/25, 1:03 PM Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/angry-education-...
 
 ## as well as IUs and IUBs.
 
@@ -1779,4 +1775,3 @@ Towards a Revolutionary Union Movement https://theanarchistlibrary.org/library/a
            can address our shortcomings as an organization and herald a new age of
            revolutionary unionism that brings capital to its knees once and for all.
            Retrieved on 2025-09-23 from
-37 of 37 10/11/25, 1:03 PM

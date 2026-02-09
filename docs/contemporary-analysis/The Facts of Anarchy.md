@@ -20,8 +20,6 @@ There are sixty to seventy houses divided into six small associations, and these
 
 ... [At village meetings] everyone frankly speaks his own thoughts ... There is no fearful atmosphere to make one too timid to express his own opinion ... In fact, there is no discrimination, whether he is a village master or a daily labourer... There is neither haughtiness nor humility ....
 
-## 1 of 2 10/15/25, 6:07 PM
-
 How are decisions made? They do it together. Generally, if it is practical or based on clear facts, even more if everyone has offered his knowledge and opinions, the decision will be reached spontaneously ...
 
 When a sick person must take to his bed, the news will be reported to the association. The members will rush to the house. Some will get a doctor, others will report it to his relatives; they go on these errands or nurse him kindly ...
@@ -39,5 +37,3 @@ Expulsion is the last resort ... When one receives this punishment, no one dares
 Egoistic urban life is intolerable to those accustomed to village life. Where there is no hope of success besides poverty, it is far more comfortable and warm to support each other under the protection of the association.
 
 From Robert Graham (Ed.), *Anarchism: A Documentary History of Libertarian Ideas; Volume One: From Anarchy to Anarchism (300 CE to 1939)*. [libcom.org](https://libcom.org/library/anarchism-documentary-history-libertarian-ideas-volume-1-2)
-
-## 2 of 2 10/15/25, 6:07 PM

@@ -2232,7 +2232,6 @@ be assumed. |
 ## | come friends, Social Capital, |
 
 community
-##
 ## World Suck foundation memorialisation
 
 ## 2)
@@ -2765,7 +2764,6 @@ of Reality
 1) Sprite
 (e.g. Androidify/
 -
-##
 -
 
 ## ![](_page_177_Figure_0.jpeg)
@@ -3598,7 +3596,6 @@ SS
 C
 gners.
 ter
-##
 uch
 
 | (V) |
@@ -4667,17 +4664,17 @@ Zhang, Ping. 2008. "Technical Opinion Motivational Affordances: Reasons for ICT 
 and Needs | Design Principles | Some Existing Design Examples |
 |-----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Psychological:
-Autonomy and the Self | Principle 1. Support autonomy. Principle 2. Promote creation and representation of self-identity. | Desktop skins, cell phone ring tones, online avatars, application toolbar customization. |
-| Cognitive: Competence and Achievement | Principle 3. Design for optimal challenge. Principle 4. Provide timely and positive feedback. | Games and learning systems with various challenge levels and immediate performance feedback. |
+1. Support autonomy. Principle 2. Promote creation and representation of self-identity. | Desktop skins, cell phone ring tones, online avatars, application toolbar customization. |
+3. Design for optimal challenge. Principle 4. Provide timely and positive feedback. | Games and learning systems with various challenge levels and immediate performance feedback. |
 | Social & Psychological:
-Relatedness | Principle 5. Facilitate human-human interaction. Principle 6. Represent human social bond. | Group based games (e.g. online
+5. Facilitate human-human interaction. Principle 6. Represent human social bond. | Group based games (e.g. online
 Bridge) with a chat section,
 visualizations of email exchanges
 over a period of time to show both
 tasks and social related messages. |
 | Social & Psychological:
 Leadership and
-Followership | Principle 7. Facilitate one's desire to influence others. Principle 8. Facilitate one's desire to be influenced by others. | Blogs (satisfy one's desire to influence by authoring, and to be influenced by reading), virtual communities where leaders sometimes emerge. |
+7. Facilitate one's desire to influence others. Principle 8. Facilitate one's desire to be influenced by others. | Blogs (satisfy one's desire to influence by authoring, and to be influenced by reading), virtual communities where leaders sometimes emerge. |
 | Emotional: Affect and
 Emotion | Principle 9. Induce intended emotions via initial exposure to ICT. Principle 10. Induce intended emotions via intensive interaction with ICT. | Slick/attractive look of i Pod or cell
 phones, engaging games, ICT that

@@ -32,8 +32,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
 ## Shaped by wars, depressions, government policies, judicial
 ## rulings, and global competition, the early years of the
 
-1 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 ## battleground between unions and management were
 ## adversarial and often identified with aggressive hostility.
 ## Contemporary opposition to trade unions known as union
@@ -62,7 +60,7 @@ History of union busting in the United States - Wikipedia about:reader?url=https
 ## opposed Pratt's efforts to cut back on certain manual
 ## operations, as they were the craftsmen who made the barrels
                 that held the oil. Pratt busted the union, and his strategies for
-2 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 breaking up the organization were adopted by other refineries.
                 [3]
                 Creative methods of union busting have been around for a long
@@ -86,8 +84,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
 ## isolated or destroyed and their activists purged with the
                 assistance of other union organizations during the Second Red
 ## Scare.
-
-3 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## Artist's depiction of the Haymarket Square riot
 
@@ -121,7 +117,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
 
 ## "On Monday morning, April 20, two dynamite bombs were
                 exploded, in the hills above Ludlow ... a signal for operations to
-4 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## begin. At 9 am a machine gun began firing into the tents
                 [where strikers were living], and then others joined."[6] One
@@ -155,7 +150,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
 ## forces were deployed. The militia repulsed attacks on the
 ## Carnegie Steel plant, and prevented violence against
 
-5 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 strikebreakers crossing picket lines, causing a decisive defeat
 ## of the strike, and ended the power of the Amalgamated
                 Association of Iron and Steel Workers at the Homestead plant.
@@ -189,7 +183,7 @@ History of union busting in the United States - Wikipedia about:reader?url=https
 ## leaders during the Pullman Strike of 1894. President Grover
 ## Cleveland sided with the Pullman Company during the strike,
                 and Cleveland's attorney general Richard Olney sought a court
-6 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 order to end the strike from federal judge Peter S. Grosscup,
 ## whom he knew to hold anti-union sentiments. In July 1894,
 ## Grosscup issued an injunction, described as an "omnibus
@@ -221,7 +215,7 @@ History of union busting in the United States - Wikipedia about:reader?url=https
 ## organization, but will engineer things so as to keep
 ## organization out. If, however, there seems a disposition to
                 organize he will become the leading spirit and pick out just the
-7 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 right men to join. Once the union is in the field its members can
 ## keep it from growing if they know how, and our man knows
                 how. Meetings can be set far apart. A contract can at once be
@@ -253,7 +247,7 @@ History of union busting in the United States - Wikipedia about:reader?url=https
                 critically important source of strikebreakers in a wide range of
                 industries and services. ... Collegians deliberately volunteered
                 their services as strikebreakers and were the group least likely
-8 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 to be swayed by the pleas of strikers and their sympathizers
                 that they were doing something wrong."[13]
 
@@ -286,7 +280,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
                 breaking strikes of streetcar drivers.[15] Farley hired his men
 ## based in part upon courage and toughness, and in some
 
-9 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 strikes they openly carried firearms. They were paid more than
 ## the strikers had been. Farley was credited with a string of
 ## successful strikebreaking actions, employing hundreds, and
@@ -316,7 +309,7 @@ History of union busting in the United States - Wikipedia about:reader?url=https
                 by police escorts. Strikers sometimes pelted the strikebreakers
 ## with rocks, bottles, and bricks launched from tenement
                 rooftops.[17]
-10 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 Anti-union cartoon in monthly magazine The American Employer
 ## depicting the AFL as a fly on the wheel, 1913
 
@@ -337,7 +330,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
 ## Austro-Hungarian immigrant who managed to escape told his
 ## government that workers were being held against their will,
                 resulting in an international incident. In addition to kidnapping,
-11 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## strikebreakers complained of deception, broken promises
                 about wages, and tainted food.[19]
@@ -369,7 +361,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
 ## wealthy Chicago businessmen. At the height of its power the
 ## APL had 250,000 members in 600 cities. In 1918, documents
 
-12 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 from the APL showed that ten percent of its efforts (the largest
                 of any category) were focused on disrupting the activities of
 ## the IWW. The APL burgled and vandalized IWW offices, and
@@ -394,7 +385,7 @@ History of union busting in the United States - Wikipedia about:reader?url=https
 ## campaigns or unfounded rumors to create dissension on the
                 picket lines and in union halls. The strikers themselves were
                 not the only targets. For example, female missionaries might
-13 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 systematically visit the strikers' wives in the home, relating a
 ## sob story of how a strike had destroyed their own families.
 ## Missionary campaigns have been known to destroy not only
@@ -428,7 +419,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
 
 ## Hoxie summarized the underlying theories, assumptions, and
 
-14 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 attitudes of employers' associations of the period. According to
                 Hoxie, these included the supposition that employers' interests
                 are always identical to society's interests, such that unions
@@ -458,7 +448,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
                 Shortly after the landslide victory of Franklin D. Roosevelt in the
                 presidential election of 1936, the Supreme Court in April 1937
                 handed down a decision in which it concurred with the findings
-15 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## of the National Labor Relations Board (NLRB) that the Jones
 ## and Laughlin Steel Company had engaged in unfair labor
@@ -490,7 +479,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
                 these skills not only to manipulate the provisions of national
                 labor law, but also the emotions of workers seeking to unionize.
                 [33]
-16 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## Nathan Shefferman (Labor Relations Associates),
 ## 1940s–1950s
@@ -521,7 +509,7 @@ History of union busting in the United States - Wikipedia about:reader?url=https
                 them instead. An indicator of the close relationship between
 ## the Teamster's President David Beck and Shefferman
                 (excerpted from the article): "Beck dispatched Shefferman to
-17 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 Jim Hoffa last year (1956) to offer Hoffa the union's presidency
                 if Hoffa would first help re-elect Beck and then wait 6 months
                 for Beck to resign on grounds of ill health". The article asks
@@ -554,8 +542,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
 
 ## This section needs expansion. You can help by adding
 
-18 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 ## to it. (September 2020)
 
                 In 1956, Nathan Shefferman defeated a unionizing effort of the
@@ -587,7 +573,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
 ## installing union officers who were sympathetic to
 ## management, rewarding employees who worked against the
 
-19 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 union, and spying on and harassing workers.[41] The McClellan
 ## Committee believed that "the National Labor Relations Board
                 [was] impotent to deal with Shefferman's type of activity."[42]
@@ -614,7 +599,7 @@ History of union busting in the United States - Wikipedia about:reader?url=https
 ## reports.
 
                 The 1970s and 1980s were an altogether more hostile political
-20 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 and economic climate for organized labor.[31] Meanwhile, a
                 new multi-billion dollar union buster industry, using industrial
 ## psychologists, lawyers, and strike management experts,
@@ -645,7 +630,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
                 permanently banned from federal employment.[49] In October
 ## 1981, PATCO was decertified as a union by the Federal Labor
 
-21 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 Relations Authority.[50] According to Steve Early of The Boston
                 Globe, "PATCO's destruction ushered in a decade of lost strikes
 ## and lockouts, triggered by management demands for pay and
@@ -675,8 +659,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
 ## Washington Made the Rich Richer—and Turned Its Back on the
 ## Middle Class, Jacob S. Hacker and Paul Pierson—a change in
 ## the political climate in Washington DC starting in the late
-
-22 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## 1970s "sidelined" the NLRA. Much more aggressive and
 ## effective business lobbying meant "few real limits on ...
@@ -709,8 +691,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
 ## This section needs expansion. You can help by adding
 ## to it. (March 2024)
 
-23 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 ## Captive audience techniques
 
                 [edit]
@@ -741,7 +721,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
 
 ## In November 2024, the NLRB ruled that captive audience
                 meeting were illegal throughout the United States.[65][66]
-24 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## Anti-union corporate training materials
 
@@ -776,7 +755,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
                 illegal union-busting activities.[69] A 2019 report from the
 ## Economic Policy Institute found that employers were charged
 
-25 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 with illegally firing workers in 19.9% of union elections, and
                 with illegally coercing, threatening, or retaliating against
                 workers for supporting a union in 29.6% of union elections.[70]
@@ -806,8 +784,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
                 deter union organizing at the warehouse.[72] In June 2024, a
 ## group of 104 delivery drivers at Amazon's DIL7 facility in
 
-26 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 ## Skokie, Illinois, employed by contractor Four Star Express
 ## Delivery as part of Amazon's Delivery Service Partner
 ## subcontractor program, and organized with the Teamsters
@@ -836,7 +812,7 @@ History of union busting in the United States - Wikipedia about:reader?url=https
 ## and to delete a Twitter account the company had created
 ## called "Barstool Sports Union" which had solicited DMs from
                 employees in an apparent attempt to identify union supporters
-27 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 within the company.[75]
                 In September 2021, workers at Activision-Blizzard with the ABK
                 Workers Alliance filed unfair labor practice charges with the
@@ -865,7 +841,7 @@ History of union busting in the United States - Wikipedia about:reader?url=https
 ## to instead use non-union workers at The Athletic, which The
                 New York Times acquired in 2022, to cover sports.[81][82]
                 In August 2022, Trader Joe's announced that it was closing a
-28 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 wine shop it operated in Union Square in New York City.[83] The
 ## United Food and Commercial Workers Union (UFCW) alleged
                 that Trader Joe’s closed the wine shop because workers at that
@@ -895,7 +871,7 @@ History of union busting in the United States - Wikipedia about:reader?url=https
 
 ## In October 2023, the Association of Flight Attendants-CWA
                 sued SkyWest Airlines, alleging that the company illegally fired
-29 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 two flight attendants as retaliation for engaging in protected
                 union organizing activities and that the company illegally stood
                 up a company union in violation of the Railway Labor Act.[90]
@@ -926,7 +902,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
                 circulated that included three members of the union's national
 ## unit bargaining team and two members of the union's
 
-30 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 executive committee.[96][97]
                 In June 2024, the Communications Workers of America filed an
                 unfair labor practice charge with the NLRB against Lionbridge
@@ -957,7 +932,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
                 claimed was in response to an unspecified video surfacing, but
 ## which AGMA President Ned Hanlon characterized as "clearly
 
-31 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 retaliation for unionizing," leading AGMA to issue a "do not
 ## work" order against DBDT in response, which prohibits
 ## members of AGMA, Actors' Equity Association, and SAG-AFTRA,
@@ -991,8 +965,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
 ## In May 2019, following a complaint filed by the United
 ## Steelworkers in November 2017, an NLRB judge found Kumho
 
-32 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 ## Tire had engaged in "pervasive" illegal conduct during a
 ## unionization campaign at the company's tire manufacturing
                 plant in Macon, Georgia, with at least 12 managers including
@@ -1023,7 +995,7 @@ History of union busting in the United States - Wikipedia about:reader?url=https
                 violated labor law by prohibiting workers at an Orlando, Florida
                 service center from discussing pay or raising grievances about
                 working conditions with upper management.[113] In May 2024,
-33 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 an official with the NLRB filed a complaint claiming that Tesla's
 ## workplace rule barring workers from using workplace
                 technology for the purposes of "unauthorized solicitating [sic]
@@ -1053,7 +1025,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
 ## found that Cemex Construction Materials had committed more
                 than two dozen unfair labor practices, including threatening,
                 surveilling, and interrogating workers, as well as hiring security
-34 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## guards to intimidate workers in the lead up to a 2019
                 Teamsters union election.[121] In August 2023, the NLRB
@@ -1085,7 +1056,7 @@ History of union busting in the United States - Wikipedia about:reader?url=https
 ## In December 2022, the NLRB ruled that Apple illegally
 ## interrogated and made coercive statements to retail store
                 workers in Atlanta, Georgia during a union drive.[126] In
-35 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 November 2023, the NLRB filed a complaint against Apple over
                 its practices at a retail store in Towson, Maryland, accusing the
 ## company of offering new benefits to non-unionized workers
@@ -1113,7 +1084,7 @@ History of union busting in the United States - Wikipedia about:reader?url=https
 ## agency "trying to hold them accountable for repeatedly
                 violating workers’ rights to organize and collectively bargain
                 through representatives of their free choosing.”[133]
-36 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 In April 2024, a judge with the NLRB found that U.S. bourbon
 ## maker Woodford Reserve, owned by Brown-Forman,
                 undermined unionization efforts at its distillery in Versailles,
@@ -1145,7 +1116,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
                 as well as making it more difficult for unions to remain certified,
 ## with unions that cannot demonstrate a 60% membership rate
 
-37 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 at their workplaces being automatically decertified by the state
                 under the new law.[138]
                 In May 2024, Alabama Governor Kay Ivey signed into law a bill,
@@ -1176,7 +1146,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
 ## AFGE filed a lawsuit against the DHS, Secretary of Homeland
 ## Security Kristi Noem, the TSA, and TSA Chief of Staff Adam
 
-38 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 Stahl to enforce the agreement, alleging that the termination
                 of the agreement was in relation for AFGE seeking to halt cuts
                 to the federal workforce by the second Trump administration.
@@ -1205,7 +1174,7 @@ History of union busting in the United States - Wikipedia about:reader?url=https
                 represented by the AFGE.[148] This was followed by similar
 ## moves at the Environmental Protection Agency, HHS, and
                 NASA to terminate contracts covering unionized workers at the
-39 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 respective agencies.[149][150][151]
 
 ## History of labor legislation
@@ -1238,7 +1207,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
                 restraining employees exercising their right to organize and
 ## bargain collectively; attempting to dominate or influence a
 
-40 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 labor union; refusing to bargain collectively and in "good faith"
 ## with unions representing their employees; and, finally,
 ## encouraging or discouraging union membership through any
@@ -1269,7 +1237,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
                 the first major revision of a New Deal act passed by a post-war
 ## Congress. In the mid-term elections of 1946, the Republican
                 Party gained majorities in both houses for the first time since
-41 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
                 1931. With the Truman administration initially taking no stand
 ## on the bill, it passed both houses with strong bipartisan
@@ -1304,7 +1271,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
                 The act required union officials to swear that they were not
 ## communists. This provision was overturned by the Supreme
 
-42 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 Court in 1965.[159]
                 The act gave the president the power to petition the courts to
                 end a strike if it constitutes a national emergency. Presidents
@@ -1336,7 +1302,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
 ## loopholes in the requirements allow management and their
 ## agents to ignore the provisions aimed at reforming their
 
-43 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 behavior.[162] The loopholes require consultants to file if they
 ## communicate with employees either for the purpose of
 ## persuading them not to join a union, or to gain knowledge
@@ -1365,7 +1330,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
                 Levitt stated:
                 With the help of our trusted attorneys, our anti-union activities
                 were carried out [under Landrum-Griffin] in backstage secrecy;
-44 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## meanwhile we gleefully showcased every detail of union
                 finances that could be twisted into implications of impropriety
@@ -1407,8 +1371,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
 
              4. ^ The Autobiography of Big Bill Haywood, William D. Haywood,
 
-45 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 ## 1929, pages 157-58.
 
              5. ^ Tindall and Shi, 1984, p. 829.
@@ -1444,7 +1406,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
 
            14. ^ From Blackjacks To Briefcases — A History of
                 Commercialized Strikebreaking and Unionbusting in the United
-46 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## States, Robert Michael Smith, 2003, page 40.
 
@@ -1482,7 +1443,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
 
            23. ^ From Blackjacks To Briefcases — A History of
 
-47 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 Commercialized Strikebreaking and Unionbusting in the United
 ## States, Robert Michael Smith, 2003, page 68.
 
@@ -1519,7 +1479,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
 
            31. ^ Jump up to: a b c d "The Union Avoidance Industry in the
 
-48 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 United States", British Journal of Industrial Relations, John
 ## Logan, Blackwell Publishing Ltd, December 2006, pages 651–
 ## 675.
@@ -1555,7 +1514,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
 
            40. ^ From Blackjacks To Briefcases — A History of
                 Commercialized Strikebreaking and Unionbusting in the United
-49 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## States, Robert Michael Smith, 2003, pages 98–100.
 
@@ -1593,8 +1551,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
            49. ^ "Unhappy Again". Time. October 6, 1986. Archived from the
 ## original on September 3, 2007. Retrieved August 15, 2007.
 
-50 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
            50. ^ "Patco Decertification Vote Is Switched From 2–1 to 3–0". The
 ## New York Times. November 5, 1981. p. 21. Archived from the
 ## original on April 11, 2010. Retrieved April 22, 2024.
@@ -1629,8 +1585,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
            57. ^ Winner-Take-All Politics, Hacker and Pierson, p.58-60
 
            58. ^ Jelle Visser, Union membership statistics in 24 countries,
-
-51 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## Monthly Labor Review, Jan. 2006, p.38-49.
 
@@ -1667,8 +1621,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
            65. ^ "Board Rules Captive-Audience Meetings Unlawful". National
 ## Labor Relations Board. November 13, 2024. Archived from the
 
-52 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 ## original on May 23, 2025. Retrieved November 21, 2024.
 
            66. ^ McNees Blog (November 20, 2024). "NLRB Prohibits Captive
@@ -1704,7 +1656,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
 
            72. ^ Sainato, Michael (May 21, 2024). "'You feel like you're in
 
-53 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 prison': workers claim Amazon's surveillance violates labor
 ## law". The Guardian. ISSN 0261-3077. Archived from the
 ## original on May 21, 2024. Retrieved May 21, 2024.
@@ -1738,8 +1689,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
                 Aggressive Holiday to Take Hostages With": 'NYT' Union Views
 ## New Holiday Schedule as Latest Union-Busting Bid". Vanity
 ## Fair. Archived from the original on May 31, 2023. Retrieved
-
-54 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## June 1, 2024.
 
@@ -1776,8 +1725,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
 ## Guardian. ISSN 0261-3077. Archived from the original on
 ## September 4, 2022. Retrieved March 16, 2024.
 
-55 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
            85. ^ Hawkins, Andrew J. (December 19, 2022). "Tesla accused of
                 illegally firing two employees after they criticized Elon Musk".
 ## The Verge. Archived from the original on April 13, 2024.
@@ -1811,8 +1758,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
 ## and Fake Company Union". Association of Flight Attendants-
 ## CWA. October 11, 2023. Archived from the original on August
 ## 14, 2024. Retrieved September 5, 2024.
-
-56 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
            92. ^ Wiessner, Daniel (November 15, 2023). "REI accused of
 ## widespread labor law violations at unionized US stores".
@@ -1849,7 +1794,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
 
            99. ^ Reuben, Nic (June 12, 2024). "Activision QA supplier
 
-57 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 Lionbridge accused of retaliatory layoffs in "union busting"
                 move". Rock Paper Shotgun. Archived from the original on June
 ## 12, 2024. Retrieved June 14, 2024.
@@ -1884,8 +1828,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
                 says". HR Dive. Archived from the original on February 6, 2024.
 ## Retrieved May 9, 2024.
 
-58 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
            106. ^ "NLRB orders new union vote at Kumho's U.S. tire plant". Tire
                 Business. May 16, 2019. Archived from the original on May 16,
 ## 2019. Retrieved May 9, 2024.
@@ -1919,8 +1861,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
 ## factory workers from wearing union t-shirts, court rules".
 ## Reuters. Archived from the original on November 15, 2023.
 ## Retrieved June 1, 2024.
-
-59 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
            113. ^ Shakir, Umar (April 27, 2023). "Tesla indeed violated labor
                 laws in Florida, US labor board rules". The Verge. Archived from
@@ -1957,7 +1897,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
 
            120. ^ Sainato, Michael (November 29, 2023). "'We can't trust
 
-60 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 them': workers decry alleged union busting at Amazon air
 ## hub". The Guardian. ISSN 0261-3077. Archived from the
 ## original on November 29, 2023. Retrieved March 16, 2024.
@@ -1993,8 +1932,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
 
            127. ^ Roth, Emma (November 22, 2023). "Apple denied unionized
 
-61 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 ## workers better benefits, NLRB claims". The Verge. Archived
 ## from the original on November 22, 2023. Retrieved May 9,
 ## 2024.
@@ -2029,7 +1966,7 @@ History of union busting in the United States - Wikipedia about:reader?url=https
 
            134. ^ Schreiner, Bruce (April 10, 2024). "Woodford Reserve tried to
                 undermine unionization effort at its Kentucky distillery, judge
-62 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 rules". AP News. Associated Press. Archived from the original
 ## on April 10, 2024. Retrieved April 11, 2024.
 
@@ -2064,8 +2001,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
 
            141. ^ Gehrke, Robert (April 28, 2025). "Referendum to repeal antiunion law meets threshold to qualify for 2026 ballot". The Salt
 
-63 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 ## Lake Tribune. Archived from the original on May 3, 2025.
 ## Retrieved May 4, 2025.
 
@@ -2099,8 +2034,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
                 end collective bargaining rights for many federal workers | CNN
                 Politics". CNN. Archived from the original on April 27, 2025.
 ## Retrieved May 4, 2025.
-
-64 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
            148. ^ Jump up to: a b Cameron, Chris (August 6, 2025). "Trump
 ## Administration Begins to Strip Federal Workers of Union
@@ -2137,8 +2070,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
 ## Archived from the original on December 8, 2008. Retrieved
 ## January 19, 2009.
 
-65 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
            157. ^ “Truman-Taft stands – point by point”, CQ Almanac, 1951.
 
            158. ^ Waterhouise, Benjamin C. (2013). Lobbying in America.
@@ -2174,7 +2105,6 @@ History of union busting in the United States - Wikipedia about:reader?url=https
               - Smith, Robert Michael. 2003. From Blackjacks to Briefcases: A
                 History of Commercialized Strikebreaking and Union busting in
                 the United States. Athens, Ohio: Ohio University Press.
-66 of 67 9/7/25, 11:57 AM History of union busting in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
              - Reik, Millie. 2005. "Labor Relations (Major Issues in American
 ## History). Greenwood Press, ISBN 0-313-31864-6
@@ -2187,5 +2117,3 @@ History of union busting in the United States - Wikipedia about:reader?url=https
 
              - 2011 Crackdown on Organized Labor: States Urge Laws to
 ## Curb Union Influence - video report by Democracy Now!
-
-67 of 67 9/7/25, 11:57 AM

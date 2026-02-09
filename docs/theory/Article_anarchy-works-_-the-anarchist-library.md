@@ -40,8 +40,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 
 ## *****
 
-1 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## There are hidden stories all around us,
 ## growing in abandoned villages in the mountains
 ## or vacant lots in the city,
@@ -74,7 +72,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## the maid who must bow to those who can’t even cook for
 ## themselves,
 
-2 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                the immigrant hiking across a desert to find her family on the
 ## other side,
 ## the kid on his way to prison because he burned down a
@@ -106,7 +103,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## political party could somehow secure the interests of all
 ## members of society. Anarchists counter that decision-making
 
-3 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                should not be centralized in the hands of any government, but
                instead power should be decentralized: that is to say, each
                person should be the center of society, and all should be free to
@@ -140,8 +136,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                can live in a society with no bosses, masters, politicians, or
 ## bureaucrats; a society with no judges, no police, and no
 
-4 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## criminals, no rich or poor; a society free of sexism,
 ## homophobia, and transphobia; a society in which the wounds
                from centuries of enslavement, colonialism, and genocide are
@@ -173,7 +167,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                sexism of the Left. There is no Central Committee giving out
 ## membership cards, and no standard doctrine. Anarchy means
 
-5 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                different things to different people. However, here are some
 ## basic principles most anarchists agree on.
 
@@ -207,7 +200,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                representatives. Free people do not request the changes they
 ## want to see in the world; they make those changes.
 
-6 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                Revolution: Today’s entrenched systems of repression cannot
 ## be reformed away. Those who hold power in a hierarchical
                system are the ones who institute reforms, and they generally
@@ -239,7 +231,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## social movement or philosophy of anarchism. Anti-
 ## authoritarians are people who expressly want to live in a
 
-7 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                society without coercive hierarchies, but do not, to the best of
 ## our knowledge, identify as anarchists — either because the
                term was not available to them or because they do not see the
@@ -272,7 +263,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 
 ## It will become apparent throughout this book that anarchy
 
-8 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                exists in conflict with the state and capitalism. Many of the
 ## examples given here were ultimately crushed by police or
                conquering armies, and it is in large part due to this systematic
@@ -304,7 +294,7 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## To this end, here are some recurring themes that may be
                beneficial to reflect on in the course of reading this book:
                Isolation: Many anarchist projects work quite well, but only
-9 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                make an impact in the lives of a tiny number of people. What
                engenders this isolation? What tends to contribute to it, and
 ## what can offset it?
@@ -337,7 +327,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## institutions that take on lives of their own; specific
 ## organizations should come to an end when they are no longer
 
-10 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                helpful. Realizing that, how can we make the most of bubbles
 ## of autonomy while they last, and how can they continue to
 ## inform us after they have ceased to be? How can a series of
@@ -369,7 +358,7 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## capital. Non-Western peoples were represented back to the
 ## West in ways that would confirm the Western worldview and
                sense of superiority, and justify the ongoing imperial project as
-11 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                necessary for the good of the peoples being forcibly civilized.
                As anarchists trying to abolish the power structure responsible
 ## for colonialism and many other wrongs, we want to approach
@@ -401,7 +390,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                write reflects our backgrounds. In fact, the central question this
 ## book seeks to address, whether anarchy could work, seems
 
-12 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                itself to be eurocentric. Only a people who have obliterated the
 ## memory of their own stateless past could ask themselves
 ## whether they need the state. We recognize that not everyone
@@ -433,7 +421,7 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 
                Errico Malatesta, At the Cafe: Conversations on Anarchism.
                London: Freedom Press, 2005.
-13 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                The Dark Star Collective, Quiet Rumours: An Anarcha-Feminist
                Reader. Oakland: AK Press, 2002.
 
@@ -465,7 +453,7 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## Aren’t people naturally selfish?
 
                Everybody has a sense of self-interest, and the capability to act
-14 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                in a selfish way at other people’s expense. But everyone also
                has a sense of the needs of those around them, and we are all
 ## capable of generous and selfless actions. Human survival
@@ -496,7 +484,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## Currency-based economies have only existed a few thousand
 ## years, and capitalism has only been around a few hundred
                years. The latter has proven to work quite miserably, leading to
-15 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## the greatest inequalities of wealth, the largest mass
                starvations, and the worst distribution systems in world history
@@ -529,7 +516,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## people in Europe that many of these were indeed gift
                economies, in which people intentionally kept no tally of who
                owed what to whom so as to foster a society of generosity and
-16 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## sharing.
 
@@ -562,8 +548,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## warm food and a bag of free groceries. Banners hang from
 ## branches and rafters proclaiming “FOR THE COMMONS, NOT
 
-17 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## LANDLORDS OR BUREAUCRACY” and “NI JEFES, NI
 ## FRONTERAS” and a king-size blanket is spread with radical
                reading material, but these aren’t essential to the event — this
@@ -594,7 +578,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                surpluses as gifts. Aside from the social cohesion and joy that is
 ## gained from sharing with your community without greedily
                keeping accounts, a gift economy can also be justified in terms
-18 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## of personal interests. Often, a person cannot consume what
 ## they produce all by themselves. The meat from a day’s hunt
@@ -628,8 +611,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                As for loafers, even if people do not calculate the value of gifts
 ## and keep a balance sheet, they will notice if someone
 
-19 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## consistently refuses to share or contribute to the group,
                violating the customs of the society and the sense of mutual
                aid. Gradually, such people will damage their relationships, and
@@ -659,7 +640,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## personal wealth than others. One study found that a common
                reason for the people to depose or expel a chief was if the chief
                was not considered generous enough.[4]
-20 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## Aren’t people naturally competitive?
 
@@ -692,8 +672,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## In fact they have frequent interactions with the sedentary
 ## Bantu peoples surrounding the forest, and they have had
 
-21 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## plenty of opportunities to see what supposedly advanced
                societies are like. Going back at least hundreds of years, Mbuti
                have developed relationships of exchange and gift-giving with
@@ -725,7 +703,7 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                Mbuti in the villages of the Bantu farmers surrounding the Ituri
                forest, they assumed the Mbuti were a primitive servant class.
                In the 1950s, the Mbuti invited Western anthropologist Colin
-22 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                Turnbull to live with them in the forest. They tolerated his rude
                and ignorant questions, and took the time to teach him about
                their culture. The stories he recounts describe a society far
@@ -758,8 +736,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                the result of everyone working together effectively, and the
 ## whole community shared in the catch.
 
-23 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## Mbuti children were given a high degree of autonomy, and
                spent much of their days in a wing of the camp that was offlimits to adults. One game they frequently played involved a
                group of small children climbing up a young tree until their
@@ -789,8 +765,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                of the other group. By the end, the participants collapsed in a
 ## heap laughing, all having changed their genders multiple
 ## times. Neither side “won,” but that seemed to be the point.
-
-24 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## Group harmony was restored.
 
@@ -824,8 +798,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                activities, so their period of living together as an entire band
 ## coincided with the season in which the specific forms of
 
-25 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## gathering and hunting require the cooperation of a larger
                group. The period of small, disparate groups coincided with the
                time of the year when the foods were in season that were best
@@ -857,7 +829,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                Orleans, after Hurricane Katrina struck in 2005. Initially, the
 ## corporate media spread racist stories of savagery committed
                by the mostly black survivors, and police and national guard
-26 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## troops performing heroic rescues while fighting off roving
                bands of looters. It was later admitted that these stories were
@@ -891,7 +862,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## determinate gender or people with ambiguous, exaggerated
 ## combinations of masculine and feminine traits. In such
 
-27 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                societies, gender was fluid. It was something of a historic coup
                to enforce the notion of two fixed, idealized genders that we
                now consider natural. Speaking in strictly physical terms, many
@@ -922,7 +892,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                films, zines, and the internet; and organizing for fair healthcare
 ## and against gentrification, particularly where the latter
                threatens to destroy important cultural and social spaces for
-28 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## queer youth.
 
@@ -956,7 +925,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                sought to compel the indigenous inhabitants to produce large
                quantities of animal skins, and fundamentalist religious utopias
                based on the total genocide of the native population. But just
-29 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## as the plantation colonies had their slave rebellions, the
                religious colonies had their heretics. One noteworthy heretic
@@ -989,8 +957,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                Narragansett; Roger Williams’ settlement was gifted the land
 ## they built on, whereas Hutchinson’s group negotiated an
 
-30 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## exchange to buy land.
 
                Initially, Pocasset was organized through elected councils and
@@ -1021,7 +987,7 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## transgender expressions — individuals changing their gender
 ## or adopting a unique gender identity. In hunter-gatherer
                societies “a sharp and hard division of labor between the sexes
-31 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                is not universal... [and in the case of one particular society]
 ## virtually every subsistence activity can be, and often is,
                performed by either men or women”.[7]
@@ -1052,7 +1018,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## The Haudennosaunne, called the Iroquois by Europeans, are a
                matrilineal egalitarian society of eastern North America. They
                traditionally use several means to balance gender relations.
-32 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## Whereas European civilization utilizes gender division to
                socialize people into rigid roles and to oppress women, queer,
@@ -1085,8 +1050,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                their’s was not a “matriarchal” society: men were not exploited
 ## or devalued the way women are in patriarchal societies.
 
-33 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## Rather, each group had a measure of autonomy and means for
                preserving a balance. Despite centuries of colonization by a
 ## patriarchal culture, many groups of Haudennosaunne retain
@@ -1118,7 +1081,7 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## Some anthropological research has produced accounts of
 ## peaceful stateless societies, and of warfare among other
                stateless societies that was little more than a rough sport with
-34 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                few casualties[9]. Naturally, the state has found its defenders,
 ## who have set out to prove that war is indeed inevitable and
                thus not the fault of specific oppressive social structures. In one
@@ -1149,7 +1112,7 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                and, given the options of starving to death or invading their
                neighbors’ territory for space to live, chose the latter. The fact
                that under these conditions of global colonialism, genocide,
-35 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                and enslavement any societies remained peaceful at all proves
                that if people really want to, they can be peaceful even in the
                worst of circumstances. Not to say that in such circumstances
@@ -1182,8 +1145,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                Scotland’s political parties have called for the base to be closed
 ## down. In September 1981, a group of Welsh women formed a
 
-36 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## similar camp, the Greenham Common Women’s Peace Camp,
 ## outside an RAF base housing cruise missiles in Berkshire,
 ## England. The women were forcibly evicted in 1984 but
@@ -1215,7 +1176,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                tolerance of other religions. They are also anti-capitalist,
 ## preaching voluntary poverty and “distributist
                communitarianism; self-sufficien[cy] through farming, crafting,
-37 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## and appropriate technology; a radically new society where
 ## people will rely on the fruits of their own toil and labor;
@@ -1249,7 +1209,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 
 ## According to Robert Dentan, a Western anthropologist who
 
-38 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                lived with them, “little violence occurs within Semai society.
                Violence, in fact, seems to terrify the Semai. A Semai does not
                meet force with force, but with passivity or flight. Yet, he has no
@@ -1282,7 +1241,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## genetic self-interest that the group survived. Genetic
 ## competition occurred between different groups, and the
 
-39 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                groups that did the best job of taking care of their members
 ## were the ones to pass on their genes. Direct genetic
 ## competition between individuals was superseded by
@@ -1314,7 +1272,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## coercive hierarchies when new technologies made that
                possible, and even without a lot of technology they could make
                life hell for groups considered inferior. It seems that the most
-40 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## common forms of inequality among otherwise egalitarian
 ## societies were gender and age discrimination, which could
@@ -1346,7 +1303,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                moralistic determination on the part of a local group’s main
                political actors that no one of its members should be allowed to
                dominate the others.”[15] Rather than culture being
-41 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## determined by material conditions, it seems that culture
                shapes the social structures that reproduce a people’s material
@@ -1379,7 +1335,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                obey popular will because they are powerless to maintain their
 ## positions of leadership without support, have appeared in
                many different societies and functioned over long periods of
-42 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## time. Some of the egalitarian societies documented in
 ## Boehm’s survey have a chief or a shaman who plays a ritual
@@ -1412,7 +1367,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                the heaviest burden. To increase their power and their revenue,
 ## princes forced free peasants into serfdom, and resurrected
 
-43 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                Roman Civil law, which instituted private ownership of land,
 ## something of a step backwards from the feudal system in
 ## which the land was a trust between peasant and lord that
@@ -1445,7 +1399,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## region of Germany and drafted the 12 Articles of the Black
 ## Forest, and the movement they created quickly spread. The
 
-44 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                articles, with Biblical references used as justification, called for
 ## the abolition of serfdom and the freedom of all people; the
                municipal power for people to elect and remove preachers; the
@@ -1476,7 +1429,7 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## and corporals. In September they defended themselves from a
 ## Hapsburg army in an indecisive battle, and subsequently
                refused to lay down their arms and beg pardon when entreated
-45 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                to do so. That autumn peasant strikes, refusals to pay tithes,
 ## and rebellions broke out throughout the region, as peasants
                extended their politics from individual complaints to a unified
@@ -1508,7 +1461,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                below. Within statist societies, the ability to organize without
                hierarchies still exists today, and the possibility remains to
                create anti-authoritarian cultures that can bring any would-be
-46 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## leaders back down to earth. Appropriately, much of the
                resistance against global authority is organized horizontally.
@@ -1543,7 +1495,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## Lacking leadership, short on formal organization, and
 ## constantly critiquing internal power dynamics and studying
 
-47 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                more egalitarian ways of organizing, anti-globalization activists
 ## went on to achieve further tactical victories. In Prague in
 ## September 2000, 15,000 protestors overcame the massive
@@ -1573,8 +1524,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## for upcoming actions against the G8. The strategies were
 ## intended to enable diverse approaches, so many affinity
 ## groups could organize mutually supportive actions within a
-
-48 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## common framework rather than carrying out the orders of a
 ## central organization. For example, a blockade plan might
@@ -1606,8 +1555,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## and freedom. In the conservative environment that followed
 ## September 11, the anti-war movement quickly came to be
 ## dominated by reformist and hierarchically-organized groups.
-
-49 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## Although the movement kicked off with the most widely
 ## attended day of protest in human history on February 15,
@@ -1641,8 +1588,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## coercive hierarchies did appear, they did not spread
 ## everywhere immediately, and often provoked significant
 
-50 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## resistance. Even where societies are ruled by authoritarian
                structures, resistance is every much a part of the social reality
 ## as domination and obedience. Furthermore, the state and
@@ -1675,7 +1620,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## environment and defend themselves against neighboring
 ## states. Eventually, they came to be viewed as a distinct
 
-51 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                ethnicity with a privileged autonomy, and the tsar whom their
 ## ancestors renounced sought them out as military allies.
 
@@ -1707,7 +1651,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## “living ancestors,” even though they have formed as a
                response to the valley civilizations. They are post-state, not
                pre-state, but the ideology of the state refuses to recognize
-52 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## such a category as “post-state” because the state supposes
                itself to be the pinnacle of progress. Subjects of the valley
@@ -1739,8 +1682,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                have an essential need for the state, when in fact it is the state
 ## that needs us.
 
-53 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## A broader sense of self
 
                A hundred years ago, Peter Kropotkin, the Russian geographer
@@ -1771,7 +1712,7 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 
 ## Capitalism may be capable of feats of production and
                distribution that have never been possible before, but at the
-54 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                same time this society is tragically unable to keep everyone
 ## fed and healthy, and has never existed without gross
                inequalities, oppression, and environmental devastation. One
@@ -1804,7 +1745,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## This view of human nature was advanced by Hobbes and other
 ## European philosophers to explain the origins and purpose of
                the State; this marked a shift to scientific arguments at a time
-55 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## when divine arguments no longer sufficed. Hobbes and his
 ## contemporaries lacked the psychological, historical,
@@ -1838,7 +1778,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## relationships extend far beyond our bodies and our minds —
 ## we live in communities, depend on ecosystems for food and
 
-56 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                water, and need friends, families, and lovers for our emotional
                health. Without institutionalized competition and exploitation,
 ## a person’s self-interest overlaps with the interests of her
@@ -1872,7 +1811,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 
                James C. Scott, Domination and the Arts of Resistance: Hidden
                Transcripts, New Haven: Yale University Press, 1990.
-57 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## Bob Black, “The Abolition of Work,” 1985. *
 
@@ -1905,7 +1843,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## cooperation rather than authority. Friendship is precious
                because it is a space in which we interact as equals, where our
                opinions are valued regardless of our social status. Groups of
-58 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## friends typically use informal consensus to decide how to
                spend time together, organize activities, assist one another,
@@ -1938,7 +1875,7 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## was outside of Korea, in Manchuria, but two million Korean
                immigrants lived there. Using assemblies and a decentralized
                federative structure that grew out of the KACF, they created
-59 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                village councils, district councils, and area councils to deal with
 ## matters of cooperative agriculture, education, and finance.
 ## They also formed an army spearheaded by the anarchist Kim
@@ -1968,7 +1905,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## Catalunya, Aragon, Asturias, and much of Andalucia. Workers
 ## also defeated the coup in Madrid and Valencia, where the
                socialists were strong, and in much of the Basque country. In
-60 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## the anarchist areas, the government effectively ceased to
 ## function.
@@ -2003,7 +1939,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## Other collectives worked out their own systems of exchange.
 ## They issued local money in the form of vouchers, tokens,
 
-61 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                rationing booklets, certificates, and coupons which carried no
 ## interest and were not negotiable outside of the issuing
 ## collective. Communities that had suppressed money paid
@@ -2035,7 +1970,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                the front, and also took in large numbers of refugees who had
 ## fled the fascists. The town of Graus, for example, with a
 
-62 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                population of 2,600, took in and supported 224 refugees, only
 ## 20 of whom could work.
 
@@ -2066,8 +2000,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## general assembly could expel a member from the collective;
                delegates and administrators were denied punitive power. The
 ## power of the general assembly to respond to transgressions
-
-63 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## was also used to prevent people who had been delegated
                tasks from being irresponsible or authoritarian; delegates or
@@ -2100,7 +2032,7 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## The work of the collectives was conducted by teams of
 ## workers, headed by a delegate chosen by each team. The land
                was divided into cultivated zones. Team delegates worked like
-64 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                the others. There were no special privileges. After the day’s
 ## work, delegates from all the work teams met on the job and
 ## made necessary technical arrangements for the next day’s
@@ -2131,7 +2063,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                crushing any resistance and spiriting off numerous anarchists
                and libertarian socialists to the prisons and torture chambers
                the Stalinists had set up to use against their revolutionary
-65 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## allies.
 
@@ -2163,7 +2094,7 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                setting up seed banks for native seeds, and they have invaded
 ## and destroyed environmentally harmful eucalyptus forestry
                plantations and test grounds for genetically modified crops.
-66 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                Within the logic of democracy, 1.5 million people is considered
 ## simply too large a group for everyone to be allowed to
                participate directly in decision-making; the majority should
@@ -2194,8 +2125,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## the MST local would pass through periodically to see if the
 ## settlement needed help acquiring tools and materials,
 ## resolving internal disputes, or protecting themselves from
-
-67 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## police, paramilitaries, or major landlords, all of whom
 ## frequently conspired to threaten and assassinate MST
@@ -2229,7 +2158,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                by disregarding legality or petitioning the powerful for change,
 ## over a million people have won themselves land and control
 
-68 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                over their lives by going out and doing it themselves. Brazilian
                society has not collapsed due to this wave of anarchy; on the
 ## contrary it has become healthier, although many problems
@@ -2260,8 +2188,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                anyone in the organization from publicly speaking out against
 ## the government’s new agrarian policy. At the same time, the
 ## MST began receiving huge amounts of money from the
-
-69 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## government. Lula had promised to give land to a certain
                number of families and the MST leadership rushed to fill this
@@ -2294,7 +2220,7 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## run on a consensus basis. Consensus decision-making may be
                used on an ad hoc basis to plan an event or campaign, or more
                permanently to run an infoshop: an anarchist social center that
-70 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                can serve as a radical bookshop, library, café, meeting space,
                concert hall, or free store. A typical meeting might begin with
                volunteers filling the positions of facilitator and note-taker.
@@ -2327,7 +2253,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                to authoritarian structures that may deny people the right to
 ## leave or exempt themselves from an arrangement they do not
 
-71 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                agree to. According to this principle, it is better to respect the
 ## differing views of the members of a group than to enforce a
 ## decision that leaves some people excluded or silenced. This
@@ -2359,8 +2284,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## community loses maintaining a police force, which is a huge
 ## drain on resources, the hours spent in consensus meetings
 
-72 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## seem like a good usage of time after all.
 
 ## The rebellion in the southern Mexican state of Oaxaca offer
@@ -2391,7 +2314,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## founders rejected electoral politics and called for people
                throughout the state to organize their own assemblies at every
                level.[24] Recognizing the role of political parties in co-opting
-73 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## popular movements, the APPO banned them from
 ## participating.
@@ -2425,7 +2347,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## smaller assemblies of each sector of the APPO and then
 ## brought to the general assembly where they are debated
                further or ratified.[25]
-74 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## Time and again, spontaneous popular assemblies such as the
 ## one created in Oaxaca have proved capable of making sound
@@ -2459,8 +2380,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                the APPO Council, the provisional decision-making group that
 ## was emerging as a leadership body. Some people within the
 
-75 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## APPO created other formations to disseminate anarchist,
                indigenist, or other anti-authoritarian perspectives, and many
                just went on with their work and ignored the calls to flock to the
@@ -2491,7 +2410,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                night and day, taking care of everything. And that’s how the
 ## neighborhood assemblies were born. We’d say, “It’s the
                neighborhood of La Soledad’s turn and tomorrow it’s up to San
-76 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## Jacinto.” That’s how the neighborhood assemblies were first
                used, and then later they turned into decision-making bodies,
@@ -2526,8 +2444,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 
 ## Years before these events in Zaachila, another group was
 
-77 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## organizing autonomous villages in the state of Oaxaca. As
                many as twenty-six rural communities affiliated with the CIPORFM (Council of Indigenous Peoples of Oaxaca — Ricardo Flores
                Magon), an organization that identifies with southern Mexico’s
@@ -2557,7 +2473,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## have been stateless societies on every continent that used
 ## diffuse sanctions rather than specialized enforcers. Only
                through a long and violent process do states steal this ability
-78 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## from people and monopolize it as their own.
 
@@ -2590,7 +2505,7 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                the trash in front of their door. Meanwhile, in their day-to-day
                interactions individual neighbors might share their criticisms
                with members of the offending household, or ridicule them, not
-79 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                invite them to joint activities, or glare at them in the streets. If
 ## someone is incorrigibly antisocial, always blocking or
                contradicting the desires of the rest of the group and refusing
@@ -2623,7 +2538,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## practice organization falls on the shoulders of informal
 ## powerholders — people who are delegated an unofficial
 
-80 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                position of leadership by the rest of the group, whether they
                want it or not. This means that members of horizontal groups,
                from collective houses to entire societies, must confront the
@@ -2655,8 +2569,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## communal living and decision-making. At a typical kibbutz,
 ## most decisions were made at a general town meeting, held
 
-81 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## twice weekly. The frequency and length of meetings stemmed
                from the fact that so many aspects of social life were open to
                debate, and the common belief that proper decisions “can only
@@ -2686,8 +2598,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## More importantly, she is not forced to abide by collective
                decisions. In a society based on this principle, people would
 ## enjoy a social mobility that is denied to people in statist
-
-82 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## contexts, in which laws are enforced upon an individual
 ## whether she approves of them or not. In any case, expulsion
@@ -2721,7 +2631,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                structures. The kibbutzim were founded on land seized by the
                Israeli state from Palestinians, against whom genocidal policies
                are still continuing today. The racism of the European founders
-83 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## allowed them to ignore the abuse inflicted on the previous
 ## inhabitants of what they saw as a promised land, much the
@@ -2754,7 +2663,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## societies, the norm in Nubian culture is to consider one
                person’s problem everyone’s problem; when there is a dispute,
                strangers, friends, relatives, or other third parties intercede to
-84 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## help the disputants find a mutually satisfying resolution.
 ## According to anthropologist Robert Fernea, Nubian culture
@@ -2787,7 +2695,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## rituals, and they use shame and leveling mechanisms with
 ## people who are boastful or domineering. When disputes get
                out of hand, they use ritual clown skits at kachina dances to
-85 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## mock the people involved. The Hopi offer an example of a
                society that gave up feuding and developed rituals to cultivate
@@ -2820,8 +2727,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## organize itself and coordinate resistance against constant
 ## assault by police and paramilitaries, with open assemblies.
 
-86 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## Anarchist infoshops and Israeli kibbutzim show that groups
 ## running complex operations that have to pay rent or meet
                production schedules while accomplishing social and cultural
@@ -2853,7 +2758,7 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## might be a tradition of town meetings that can be expanded
                from symbolic window dressing to real self-organization; on the
                other hand, people might be starting from a macho culture, in
-87 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                which case they will have to learn how to listen, compromise,
                and ask questions. Alternately, if a group develops a decisionmaking method that is totally original and alien to their society,
 ## they may face challenges including newcomers and explaining
@@ -2885,7 +2790,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## develop decentralized and overlapping forms of organization
 ## and decision-making, and to preserve space for spontaneous
 
-88 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                organization to occur outside of all pre-existing structures. If
                there is only one structure in which all decisions are made, an
                internal culture can develop that is not inclusive to everyone in
@@ -2919,7 +2823,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                Journey through Argentina’s Popular Uprising, Leeds (UK):
 ## University of Leeds, 2004.
 
-89 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                Marianne Maeckelbergh, The Will of the Many: How the
 ## Alterglobalisation Movement is Changing the Face of
                Democracy, London: Pluto Press, 2009.
@@ -2950,8 +2853,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                position of inferiority — to the boss who oversees us and the
 ## wealthy people who own our workplace — and we do not have
 ## decision-making power in our job but must mindlessly follow
-
-90 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## orders, it can become excruciatingly odious and mind-
 ## numbing. We also lose our natural incentive to work when we
@@ -2984,8 +2885,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                doing without wages, because the primary economic activities
 ## — producing food, housing, clothing, tools — are all easily
 
-91 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## connected to common needs. In such circumstances, work is a
 ## necessary social activity and an apparent obligation from
 ## every member of the community who is able. And because it
@@ -3017,7 +2916,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                competition rather than the logic of mutual aid. A similarly
 ## organized commune in a world without capitalism would not
 
-92 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                face these same problems. In any case, unwillingness to work
 ## due to lack of wages was not one of the problems the
 ## kibbutzim faced.
@@ -3048,7 +2946,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                do not need wages: they work for themselves. They occupy
                abandoned buildings left to rot by speculators, as a protest
                against gentrification and as anti-capitalist direct action to
-93 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## provide themselves with housing. Teaching themselves the
                skills they need along the way, they fix up their new houses,
@@ -3081,7 +2978,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## communal meal or a bicycle repair shop or a weekly movie
                showing, they talk with friends and friends of friends until they
                have enough people and resources to make their idea a reality,
-94 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## and then they spread the word or put up posters and hope as
                many people as possible will come and partake. To a capitalist
@@ -3115,7 +3011,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                such as Barcelona, people can spend the majority of their time
 ## and meet the majority of their needs — from housing to
 
-95 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                entertainment — within this squatters’ social network, without
                labor and almost without money. Of course not everything can
                be stolen (not yet), and the squatters are still compelled to sell
@@ -3147,7 +3042,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## How can anarchists organize themselves in the workplace and
 ## coordinate production and distribution across an entire
                economy without bosses and managers? In fact, a great deal of
-96 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## resources are lost through competition and middlemen.
                Ultimately it is the workers who carry out all the production and
@@ -3180,7 +3074,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                the media, declaring instead: “Que se vayan todos! ” They all
                must go! Dozens were killed by police, but people fought back,
                shaking off the terror left over from the military dictatorship
-97 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## that ruled Argentina in the ’70s and ’80s.
 
@@ -3214,8 +3107,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## and psychologists on site, they provided themselves with
 ## healthcare. The workers found that they could pay their
 
-98 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## workforce with just two days of production, so they lowered
 ## prices 60% and organized a network of young vendors, many
                previously unemployed, to market the ceramic tiles throughout
@@ -3246,7 +3137,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                library. In 2003, El Tigre’s cultural center held the national
 ## meeting of reclaimed businesses, attended by 1,500 people.
                Maria, one collective member, said of her experience: “Three
-99 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## years ago, if someone had told me we’d be able to run this
 ## place I’d never have believed them... I believed we needed
@@ -3278,7 +3168,7 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 
 ## There are also many criticisms of the Mondragón complex. To
                anarchists it comes as no surprise that a democratic structure
-100 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                can house an elite group, and according to Mondragón’s critics
                this is exactly what has happened as the cooperative complex
 ## seeks — and achieves — success within a capitalist economy.
@@ -3311,8 +3201,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                Gore Associates, based in Delaware, is the billion dollar high-
 ## tech firm that produces waterproof Gore-Tex fabric, special
 
-101 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## insulation for computer cables, and parts for the medical,
 ## automobile, and semiconductor industries. Salaries are
                determined collectively, no one has titles, there is no formal
@@ -3344,7 +3232,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                there is nothing to stop a large society for organizing itself in
 ## many smaller units. Small-scale organization is eminently
 
-102 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                possible. Even within a high-tech industry, Gore factories can
                coordinate with one another and with suppliers and consumers
                while maintaining their small scale organizational structure.
@@ -3376,7 +3263,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## scale. Among other things, parecon emphasizes the
                importance of empowering all workers by mixing tasks that are
                creative and rote, mental and manual, thus creating “balanced
-103 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## job complexes” that will prevent the emergence of a
                managerial class.[35]
@@ -3408,7 +3294,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## they got done well.
 
                In the short time [three weeks] that Channel 9 was running,
-104 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## until Governor Ulises commanded that the antennas be
                destroyed, we managed to spread a lot of information. Movies
@@ -3440,7 +3325,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## the voices that opposed them, as artificial as commercial
 ## voices are, but to win themselves the means to communicate.
 
-105 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                The remaining radio stations operated successfully for months,
 ## until government repression shut them down. One university
 ## student involved in taking over, running, and defending the
@@ -3472,7 +3356,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## receiving a massage or a cake or simply the recognition and
 ## gratitude for being a stand-up member of the community.
                Ultimately, in a cooperative society, having a good reputation
-106 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## and being seen by your peers as responsible are more
 ## compelling than any material incentives.
@@ -3507,8 +3390,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## through reed beds, which means water coming out of
 ## Christiania is as clean as that coming out from the rest of
 
-107 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## Copenhagen’s treatment plants, has helped the commune be
                shortlisted for a pan-Scandinavian award for ecological living.
                [38]
@@ -3539,7 +3420,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 
 ## In the plethora of experiments that arose in Argentina in
                response to the crisis of 2001, the economics of solidarity and
-108 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## care for all members of society flourished. The economic
                collapse in Argentina did not lead to the dog-eat-dog scenario
@@ -3572,7 +3452,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                something that is invisible in the fossil record: respect. The
 ## Mbuti, for example, recognize five age groups — infants,
 
-109 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                children, youth, adults, and elders — and of these, only the
                adults carry out significant economic production in the form of
                gathering and hunting or collecting raw materials like wood;
@@ -3604,7 +3483,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                During the Spanish Civil War, Barcelona’s Medical Syndicate,
 ## organized largely by anarchists, managed 18 hospitals (6 of
                which it had created), 17 sanatoria, 22 clinics, 6 psychiatric
-110 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## establishments, 3 nurseries, and one maternity hospital.
 ## Outpatient departments were set up in all the principal
@@ -3636,8 +3514,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                first aid stations and organize roving medics to provide first aid
 ## for thousands of demonstrators. These medics, often self-
 ## trained, treat injuries from pepper spray, tear gas, clubs,
-
-111 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## tasers, rubber bullets, police horses, and more, as well as
 ## shock and trauma. The Boston Area Liberation Medic Squad
@@ -3671,8 +3547,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## experience. Funded by donations and run by volunteers, the
 ## Common Ground clinic provided treatment to tens of
 
-112 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## thousands of people. The failure of the government’s
 ## “Emergency Management” experts during the crisis is widely
 ## recognized. But Common Ground was so well organized it also
@@ -3703,7 +3577,7 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## topics of immediate usefulness, like surviving childhood,
 ## expressing emotions healthily, developing their unique
                creative potentials, taking charge of their own health or caring
-113 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                for sick people, dealing with gender violence, domestic abuse,
 ## or alcoholism, standing up to bullies, communicating with
                parents, exploring their sexuality in a respectful way, finding a
@@ -3735,8 +3609,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## never chose. They are also likely to be miseducated about a
 ## number of things, perhaps unaware that a majority of human
 
-114 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## societies throughout history have been egalitarian and
 ## stateless, that the police have only recently become an
 ## important and supposedly necessary institution, that their
@@ -3767,7 +3639,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                after Ferrer’s execution in Spain, the first Modern School in the
 ## US was founded in New York City by Emma Goldman,
 
-115 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                Alexander Berkman, Voltairine de Cleyre, and other anarchists.
                A number of famous artists and writers helped teach there, and
 ## pupils included the artist Man Ray. It lasted for several
@@ -3799,7 +3670,7 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## limitations, they have succeeded admirably.
 
                Our reputation with students that are struggling academically
-116 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                and/or behaviorally, and whose needs the system has failed to
                meet, is such that an increasing number of kids are coming to
 ## us having previously been tagged with labels like ADHD and
@@ -3831,8 +3702,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## oppressed.” In São Paulo the MST has built itself an
 ## autonomous university which trains farmers nominated by the
 
-117 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## individual settlements. Rather than teaching, for example,
                agribusiness, as a capitalist university would, they teach family
 ## agriculture with a critique of the exploitative and
@@ -3863,7 +3732,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                Outside of the control of the state, education need not be a
                static, fixed thing. It can be a tool of empowerment, as people
                are taught how to teach, so they can pass on the lessons they
-118 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## learn rather than being permanently dependent on a class of
                professional educators. It can be a tool of liberation, as people
@@ -3897,7 +3765,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                technology and the high level integration of infrastructure and
 ## production in present day society makes anarchy a dream of
 
-119 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                the past. In fact, this worry is not at all unfounded. It is not so
                much the complexity of the technology, however, that is odds
                with the creation of an anarchist society, so much as the fact
@@ -3928,7 +3795,7 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## subsidies to medical research, at best go to inventing
                treatments that are patented by corporations with no scruples
                about letting people die if they cannot afford them — just as
-120 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                they have no scruples over torturing and killing thousands of
 ## animals in the testing phase.
 
@@ -3961,7 +3828,7 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## destined for the trash from the beginning.
 
                The doctrine of intellectual property prevents the spread of
-121 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                useful technologies, allowing them to be controlled or withheld
                according to what is most profitable. Apologists for capitalism
 ## typically argue that intellectual property encourages the
@@ -3993,7 +3860,7 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## mounted them on tatchankis, the horse-drawn carts used by
                the peasantry, with devastating effect against superior foes
                bogged down in traditional tactics. In revolutionary Spain, after
-122 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                they had expropriated the big landlords, collectivized the land,
                and freed themselves from the need to produce a single export
 ## crop, farmers improved the health of the soil and increased
@@ -4023,7 +3890,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                government or capitalism, via individual and group innovations
 ## communicated freely through a large, decentralized society.
                [45]
-123 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## Many Westerners might scoff at the thought that people who
                do not use metal tools could provide a model of technological
@@ -4055,7 +3921,7 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                get to see the code either, and beyond a little troubleshooting
 ## all they can do is direct you to a cumbersome “patch,” or
                advise you to erase your hard drive and reinstall the operating
-124 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                system. Users of Microsoft products, for example, are no doubt
                familiar with their frequent glitches, and privacy advocates
 ## also warn of spyware and the cooperation between technology
@@ -4086,7 +3952,7 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                generally elitist circle represented by academia. In a blind,
 ## peer-reviewed study it was judged to be as accurate as
                Encyclopedia Britannica.[46]
-125 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                Wikipedia is “self-organizing” and edited by an open body of
                peer-elected administrators.[47] There have been a few
 ## publicized cases of intentional sabotage, such as when the
@@ -4117,7 +3983,7 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                amount of social stratification, the wealthier families maintain
                their status by giving gifts, holding lavish feasts, and spreading
                their wealth; in some cases, they risk the wrath of the others if
-126 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                they are not generous enough. Other gift economies are barely
                or not at all stratified; the participants simply disown the
                concept of property and give and take social wealth freely. In
@@ -4148,8 +4014,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                alternative economy in the country that was once a model for
 ## neoliberal capitalism. Rather than giving up, remaining
 ## members developed a number of solutions to the problems
-
-127 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## they had encountered, such as limiting membership to
                producers so the network is only used by those who contribute
@@ -4183,8 +4047,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 
 ## A more high-tech example of free exchange is the relatively
 
-128 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## mainstream and wildly successful Freecycle Network.
 ## Freecycle is a global network originally formed by an
 ## environmental nonprofit group to promote giving away items
@@ -4215,7 +4077,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## would be no lawsuits for trademark infringement and one
                chairperson would not be able to tyrannize a network that was
                maintained by millions of people. In the meantime, Freecycle
-129 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## demonstrates that gift economies can function even within
 ## jaded, individualistic Western societies, and can take new
@@ -4249,7 +4110,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## to procure the resources, produce the goods, and remediate
 ## any pollution. Of course, they could make the process more
 
-130 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                efficient by specializing in one consumer good: for example, a
 ## union of chocoholics could produce eco-friendly chocolate —
 ## thus not damaging the ecological commons on which the rest
@@ -4280,7 +4140,7 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                thing, say, cloth, could get more by trading the coupons for
                something they didn’t mind missing, like eggs. Thus there is no
                imposition of spartan uniformity, as in some communist states;
-131 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                people are free to pursue the lifestyle they want, but only if
                they can personally bear the costs of it. They are not able to
                exploit other people, rob their resources, or poison their land to
@@ -4312,7 +4172,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## motivated work, similar to traditions in many other
                decentralized societies. The people of the Taita Hills ensured
                fair use through a number of social arrangements passed on by
-132 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## tradition, which determined how much water each household
                could take; those who violated these practices faced sanctions
@@ -4345,7 +4204,7 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                organized into parallel National Federations of Industry and
                National Economic Federations.[49]
                The Barcelona congress of all Catalan collectives, on August
-133 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                28, 1937, provides an example of their coordinating activities
                and decisions. The collectivized shoe factories needed 2 million
                pesetas credit. Because of a shortage of leather, they had to
@@ -4377,7 +4236,7 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## and elected management committees.
 
                In Catalunya, libertarian workers showed impressive results in
-134 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                maintaining the complex infrastructure of the industrial society
 ## they had taken over. The workers who had always been
 ## responsible for these jobs proved themselves capable of
@@ -4407,7 +4266,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## militia members. They repaired damaged equipment and
 ## streets, cleared barricades, got the transportation system
 
-135 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                running again just five days after fighting ceased in Barcelona,
                and deployed a fleet of 700 trolleys — up from the 600 on the
                streets before the revolution — repainted red and black. As for
@@ -4440,8 +4298,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## experimented with Peasant Banks, Labor Banks, and Councils
 ## of Credit and Exchange. The Levant Federation of Peasant
 
-136 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## Collectives started a bank organized by the Bank Workers
 ## Union to help farmers draw from a broad pool of social
 ## resources needed for certain infrastructure- or resource-
@@ -4473,7 +4329,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                such as labor banks from facilitating the return of capitalism,
 ## though unfortunately the onslaught of totalitarianism from
 
-137 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                both the fascists and Communists deprived Spanish anarchists
 ## of the chance to develop them. These might include rotating
 ## and mixing tasks to prevent the emergence of a new
@@ -4505,7 +4360,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## in the world are largely composed of self-organizing slums
                stretching for miles. Their quality of life leaves much to be
                desired, but they do show that cities do not simply collapse in
-138 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## the absence of experts.
 
@@ -4538,7 +4392,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## “neighborhoods,” each with fewer than 200 people, organized
 ## around a community kitchen, while village-wide services —
 
-139 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                “inter-neighborhood collective spaces” such as the legal and
 ## medical space — were organized by those involved in
 ## providing those services. This experience was replicated
@@ -4570,7 +4423,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                was a non-hierarchical space for the creation of music, art, and
 ## new relationships, as well as spiritual and psychedelic
 
-140 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                exploration. It became an essential ritual and social event in
                England’s growing traveller culture. By 1984, it drew 30,000
                participants who created a self-organized village for the month.
@@ -4602,8 +4454,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## refuse to provide access to informal settlements. Shanty
 ## dwellers get around this problem by constructing their own
 
-141 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## wells and pirating electricity. Medical care is highly
 ## professionalized in capitalist societies and distributed in
 ## exchange for money rather than on the basis of need;
@@ -4634,7 +4484,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## In addition to mutual aid, the anarchist objectives of
                decentralization, voluntary association, hands-on production
                rather than professionalization of skills and services, and direct
-142 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## democracy are guiding principles in many shantytowns. It is
                also important to note that, in an era of growing environmental
@@ -4666,7 +4515,7 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                [56] Faced with this situation, the residents of the informal city
 ## took their self-organization to the next step, by creating
                neighborhood councils, or juntas. The first juntas in El Alto go
-143 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                back to the ‘50s. In 1979 these juntas started to coordinate
 ## through a new organization, the Federation of Neighborhood
                Councils, FEJUVE. Now there are nearly 600 juntas in El Alto.
@@ -4699,7 +4548,6 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                or syndicates. The street vendors and transportation workers,
 ## for example, self-organize in their own base unions.
 
-144 of 338 3/17/25, 5:09 PM Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                Both the neighborhood councils and their counterparts in the
 ## informal economy are patterned after the traditional
 ## communitarian organization of rural indigenous communities
@@ -4729,5 +4577,3 @@ Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                Morales’ reversals of neoliberal policy, as of this writing FEJUVE
                remains critical of MAS and the government, and it remains to
 ## be seen to what extent they will be recuperated.
-
-145 of 338 3/17/25, 5:09 PM

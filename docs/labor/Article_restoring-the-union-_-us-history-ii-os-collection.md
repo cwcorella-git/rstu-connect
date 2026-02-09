@@ -28,8 +28,6 @@ Restoring the Union | US History II (OS Collection) about:reader?url=https%3A%2F
 
              - Analyze the success or failure of the Thirteenth Amendment
 
-1 of 12 10/3/25, 1:51 AM Restoring the Union | US History II (OS Collection) about:reader?url=https%3A%2F%2Fcourses.lumenlear...
-
 ## The end of the Civil War saw the beginning of the
 ## Reconstruction era, when former rebel Southern states were
 ## integrated back into the Union. President Lincoln moved
@@ -61,7 +59,6 @@ Restoring the Union | US History II (OS Collection) about:reader?url=https%3A%2F
                 those voters took those oaths, the restored Confederate states
 ## would draft new state constitutions.
 
-2 of 12 10/3/25, 1:51 AM Restoring the Union | US History II (OS Collection) about:reader?url=https%3A%2F%2Fcourses.lumenlear...
                 Thomas Le Mere took this albumen silver print (a) of Abraham Lincoln
                 in April 1863. Le Mere thought a standing pose of Lincoln would be
                 popular. In this political cartoon from 1865 (b), Lincoln and his vice
@@ -81,7 +78,6 @@ Restoring the Union | US History II (OS Collection) about:reader?url=https%3A%2F
 ## Republicans, wanted to remake the South and punish the
 ## rebels. Radical Republicans insisted on harsh terms for the
 
-3 of 12 10/3/25, 1:51 AM Restoring the Union | US History II (OS Collection) about:reader?url=https%3A%2F%2Fcourses.lumenlear...
                 defeated Confederacy and protection for former slaves, going
 ## far beyond what the president proposed.
 
@@ -113,7 +109,6 @@ Restoring the Union | US History II (OS Collection) about:reader?url=https%3A%2F
 ## the principles of Republican Government, justice and the
                 National safety demand its utter and complete extirpation from
                 the soil of the Republic; and that, while we uphold and maintain
-4 of 12 10/3/25, 1:51 AM Restoring the Union | US History II (OS Collection) about:reader?url=https%3A%2F%2Fcourses.lumenlear...
 
 ## the acts and proclamations by which the Government, in its
                 own defense, has aimed a deathblow at this gigantic evil, we
@@ -148,8 +143,6 @@ Restoring the Union | US History II (OS Collection) about:reader?url=https%3A%2F
 ## supremacy, and his act was part of a larger conspiracy to
 ## eliminate the heads of the Union government and keep the
 
-5 of 12 10/3/25, 1:51 AM Restoring the Union | US History II (OS Collection) about:reader?url=https%3A%2F%2Fcourses.lumenlear...
-
 ## Confederate fight going. One of Booth’s associates stabbed
 ## and wounded Secretary of State William Seward the night of
 ## the assassination. Another associate abandoned the planned
@@ -172,8 +165,6 @@ Restoring the Union | US History II (OS Collection) about:reader?url=https%3A%2F
 ## Major Henry R. Rathbone and Clara Harris.
 
 ## ANDREW JOHNSON AND THE BATTLE OVER
-
-6 of 12 10/3/25, 1:51 AM Restoring the Union | US History II (OS Collection) about:reader?url=https%3A%2F%2Fcourses.lumenlear...
 
 ## RECONSTRUCTION
 
@@ -206,7 +197,6 @@ Restoring the Union | US History II (OS Collection) about:reader?url=https%3A%2F
 ## conciliatory stance of the Copperheads, the northern
 ## Democrats who opposed the Civil War.
 
-7 of 12 10/3/25, 1:51 AM Restoring the Union | US History II (OS Collection) about:reader?url=https%3A%2F%2Fcourses.lumenlear...
                 Unexpectedly elevated to the presidency in 1865, this formerly
                 impoverished tailor’s apprentice and unwavering antagonist of
 ## the wealthy southern planter class now found himself tasked
@@ -236,8 +226,6 @@ Restoring the Union | US History II (OS Collection) about:reader?url=https%3A%2F
                 amnesty included the Confederate political leadership, highranking military officers, and persons with taxable property
                 worth more than $20,000. The inclusion of this last category
 ## was specifically designed to make it clear to the southern
-
-8 of 12 10/3/25, 1:51 AM Restoring the Union | US History II (OS Collection) about:reader?url=https%3A%2F%2Fcourses.lumenlear...
 
 ## planter class that they had a unique responsibility for the
                 outbreak of hostilities. But it also satisfied Johnson’s desire to
@@ -271,7 +259,7 @@ Restoring the Union | US History II (OS Collection) about:reader?url=https%3A%2F
 ## their places in Congress.
 
                 Instead, the Radical Republicans created a joint committee of
-9 of 12 10/3/25, 1:51 AM Restoring the Union | US History II (OS Collection) about:reader?url=https%3A%2F%2Fcourses.lumenlear...
+
                 representatives and senators to oversee Reconstruction. In the
 ## 1866 congressional elections, they gained control of the
 ## House, and in the ensuing years they pushed for the
@@ -304,7 +292,7 @@ Restoring the Union | US History II (OS Collection) about:reader?url=https%3A%2F
 ## the institution of slavery in the United States. The
 ## Emancipation Proclamation had freed only those slaves in
                 rebellious states, leaving many slaves—most notably, those in
-10 of 12 10/3/25, 1:51 AM Restoring the Union | US History II (OS Collection) about:reader?url=https%3A%2F%2Fcourses.lumenlear...
+
                 the border states—in bondage; furthermore, it did not alter or
 ## prohibit the institution of slavery in general.
 
@@ -337,5 +325,3 @@ Restoring the Union | US History II (OS Collection) about:reader?url=https%3A%2F
                 openstaxcollege.org/textbooks/us-history. License: CC BY:
                 Attribution. License Terms: Download for free at http://
 ## cnx.org/content/col11740/latest/
-
-11 of 12 10/3/25, 1:51 AM Restoring the Union | US History II (OS Collection) about:reader?url=https%3A%2F%2Fcourses.lumenlear... 12 of 12 10/3/25, 1:51 AM

@@ -1302,9 +1302,6 @@ REMEMBRANCE AND SUBVERSIVE BODIES   /   299
 ---
 300   /   CONSTELL ATIONS OF C ARE
 PERFORMING
-ANARCHO-FEMINISM
-|
-W R E N AW RY
 1. For more information on BCC Tucson, see https://bcctucson.org/.
 2. I’m also a member of Shakesqueer, and have been part of Macbeth
 (2018), As You Like It (2019), and Romeo and Juliet (2022) in onstage and behind-the-scenes capacities. Since these interviews took place, Shakesqueer has put on a fth production, A Midsummer Night’s Dream (2023), also performed at BCC Tucson.

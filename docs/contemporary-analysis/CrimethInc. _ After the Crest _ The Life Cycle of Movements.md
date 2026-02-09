@@ -19,8 +19,6 @@ But what do we do after the crest? If a single upheaval won't bring down capital
 
 To this end, we've organized a dialogue with anarchists in some of the cities that have seen climaxes of conflict, including Oakland, Barcelona, and Montréal. Over the next several days, we will present the results of some of those discussions here, as a series of reflections on the opportunities and risks that arise during the declining phase of a movement.
 
-## 1 of 3 11/11/25, 7:23 PM
-
 ## **[After the Crest, part I:](https://crimethinc.com/2013/09/09/after-the-crest-part-i-what-to-do-while-the-dust-is-settling)** [What to Do while the Dust Is Settling](https://crimethinc.com/2013/09/09/after-the-crest-part-i-what-to-do-while-the-dust-is-settling)
 
 We encourage our comrades around the country to discuss your own experiences in the waning phases of movements. Below, you can find the interview questions we sent out to initiate this dialogue. If you want to share your conclusions, please contact us: [rollingthunder@crimethinc.com.](mailto:rollingthunder@crimethinc.com)
@@ -35,10 +33,6 @@ It is rarely easy to tell where you are in the trajectory of a period of activit
 
 **In the waning phase of a period of momentum, what are the greatest risks and dangers? What can be done**
 
-## 2 of 3 11/11/25, 7:23 PM
-
 ## **to retain ground that has been gained?**
 
 What errors proved most costly as momentum was dying down? What succeeded in preserving relationships and possibilities after the crest?
-
-## 3 of 3 11/11/25, 7:23 PM

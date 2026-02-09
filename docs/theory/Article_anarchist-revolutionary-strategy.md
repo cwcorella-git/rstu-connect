@@ -8,8 +8,6 @@ tags:
   - theory
 ---
 
-Anarchist Revolutionary Strategy https://theanarchistlibrary.org/library/james-herod-anarchist-revolutionar...
-
 ## James Herod
 ## April 2006
 ## European Historical Antecedents
@@ -50,7 +48,6 @@ Anarchist Revolutionary Strategy https://theanarchistlibrary.org/library/james-h
 ## The Anarchist Movement, 1880-1920
 ## The Industrial Workers of the World
 
-1 of 12 9/17/25, 11:36 AM Anarchist Revolutionary Strategy https://theanarchistlibrary.org/library/james-herod-anarchist-revolutionar...
                   Anti-authoritarianism and participatory democracy of the New Left in the 1960s
 ## The US’s rich tradition of emancipatory social thought
 
@@ -98,7 +95,7 @@ Anarchist Revolutionary Strategy https://theanarchistlibrary.org/library/james-h
                Hightower, and Medea Benjamin. Most of the widely recognized faces in the independent media on
                the so-called left (but not the left as defined by neocons) are progressive populists, or greens. They
                are liberal because they are not anti-capitalist. They may rant and rail against giant corporations,
-2 of 12 9/17/25, 11:36 AM Anarchist Revolutionary Strategy https://theanarchistlibrary.org/library/james-herod-anarchist-revolutionar...
+
                but they sing the praises of small town businesses. They believe in the US constitution. They
                believe that the United States used to have a democracy and they want to get back to it by building
                a grassroots citizens movement.. They think that we can go back to the welfare state, and
@@ -147,7 +144,7 @@ Anarchist Revolutionary Strategy https://theanarchistlibrary.org/library/james-h
                This is why the anarchist strategy, of bypassing the state altogether, is once again back on the front
 ## lines of the class war.
                   Of course, small social democratic parties are still active on the USA scene. The largest is the
-3 of 12 9/17/25, 11:36 AM Anarchist Revolutionary Strategy https://theanarchistlibrary.org/library/james-herod-anarchist-revolutionar...
+
                Democratic Socialists of America. They organize the annual Socialist Scholars Conference in New
                York City, publish a magazine, Left Turn, and regularly run candidates for public office. A smaller
                organization is the Socialist Party USA, whose official magazine is The Socialist.
@@ -197,7 +194,6 @@ Anarchist Revolutionary Strategy https://theanarchistlibrary.org/library/james-h
                production, establishing workers councils, which will then be federated into a dual power structure
 ## to eventually overthrow capitalism.
 
-4 of 12 9/17/25, 11:36 AM Anarchist Revolutionary Strategy https://theanarchistlibrary.org/library/james-herod-anarchist-revolutionar...
                   Sources:
                   ASR magazine, #1-38, 1986-2006 (issues 1-24 as Libertarian Labor Review)
                   web site: www.syndicalist.org
@@ -248,8 +244,6 @@ Anarchist Revolutionary Strategy https://theanarchistlibrary.org/library/james-h
                (AK Press / Dark Star, 2001, 120 pages.)
                   Simon Ford, The Realization and Suppression of the Situationist International: An Annotated
 ## Bibliography 1972-1992. (AK Press, 1995, 149 pages.)
-
-5 of 12 9/17/25, 11:36 AM Anarchist Revolutionary Strategy https://theanarchistlibrary.org/library/james-herod-anarchist-revolutionar...
 
                   6. Grassroots Economic Organizing and the Cooperative Commonwealth
                   Frank Lindenfeld, Len Krimerman, and the GEO (Grassroots Economic Organizing)
@@ -302,7 +296,6 @@ Anarchist Revolutionary Strategy https://theanarchistlibrary.org/library/james-h
 ## Michael Albert, “Assessing Libertarian Municipalism.”
                Online at: http://www.zmag.org/lm.htm
                   See also the debate provoked by this article, online at: http://www.zmag.org/lmdebate.htm
-6 of 12 9/17/25, 11:36 AM Anarchist Revolutionary Strategy https://theanarchistlibrary.org/library/james-herod-anarchist-revolutionar...
 
 ## 8. Inclusive Democracy Project
                   Takis Fotopoulous, and the Democracy and Nature journal (not a US journal)
@@ -355,7 +348,6 @@ Anarchist Revolutionary Strategy https://theanarchistlibrary.org/library/james-h
                   (On the web at: [[http://www.eco.utexas.edu/facstaff/Cleaver/387Lautonomistmarxism.html]
                [http://www.eco.utexas.edu/facstaff/Cleaver/387Lautonomistmarxism.html])
                   Harry Cleaver, Reading Capital Politically. (Texas University Press, Austin, 1979, 209 pages.)
-7 of 12 9/17/25, 11:36 AM Anarchist Revolutionary Strategy https://theanarchistlibrary.org/library/james-herod-anarchist-revolutionar...
 
 ## C.L.R. James, Facing Reality (Bewick Edition, 1974)
                   John Holloway, Change the World Without Taking Power (Pluto Press, 2002)
@@ -409,8 +401,6 @@ Anarchist Revolutionary Strategy https://theanarchistlibrary.org/library/james-h
                   Iain McKay, seven articles at: http://anarchism.ws/writers/anarcho.html#Primitivism
 ## 13. Ontological Anarchism
 
-8 of 12 9/17/25, 11:36 AM Anarchist Revolutionary Strategy https://theanarchistlibrary.org/library/james-herod-anarchist-revolutionar...
-
 ## Hakim Bey, Temporary Autonomous Zone
                   “TAZ is like an uprising which does not engage directly with the State, a guerilla operation
                which liberates an area (of land, of time, of imagination) and then dissolves itself to re-form
@@ -462,7 +452,6 @@ Anarchist Revolutionary Strategy https://theanarchistlibrary.org/library/james-h
                   This is a comparative book review of Galeano’s Days and Nights of Love and War, and
 ## Crimethinc’s Days of War and Nights of Love.
                   On the web at: http://www.anarchist-studies.org/article/articleprint/81/-1/9/
-9 of 12 9/17/25, 11:36 AM Anarchist Revolutionary Strategy https://theanarchistlibrary.org/library/james-herod-anarchist-revolutionar...
 
 ## 15. So-called Post-Left Anarchism
 ## Jason McQuinn, Bob Black
@@ -516,7 +505,6 @@ Anarchist Revolutionary Strategy https://theanarchistlibrary.org/library/james-h
 ## www.coophousing.org/HistoryofCo-ops.pdf
 ## 18. Intentional Communities
 
-10 of 12 9/17/25, 11:36 AM Anarchist Revolutionary Strategy https://theanarchistlibrary.org/library/james-herod-anarchist-revolutionar...
                   There is a rich tradition in the United States of communal experiments. The nineteenth century
                was littered with them, representing a wide variety of philosophies and structures. The New Left of
                the sixties gave birth to a whole new generation of “communes”, both urban and rural, many of
@@ -567,7 +555,7 @@ Anarchist Revolutionary Strategy https://theanarchistlibrary.org/library/james-h
                   Jerry Mander and Edward Goldsmith, editors, The Case Against the Global Economy and For
                   A Turn Toward the Local (Sierra Club Books, 1996, 549 pages)
                   David Solnit, editor, Globalize Liberation; How to Uproot the System and Build a Better World.
-11 of 12 9/17/25, 11:36 AM Anarchist Revolutionary Strategy https://theanarchistlibrary.org/library/james-herod-anarchist-revolutionar...
+
                (City Lights Books, 2004, 497 pages.)
                  Eddie Yuen, editor, Confronting Capitalism: Dispatches from a Global Movement. Soft Skull
 ## Press, 2004, 410 pages.
@@ -595,5 +583,3 @@ Anarchist Revolutionary Strategy https://theanarchistlibrary.org/library/james-h
                   The 2006 printed edition has been expanded a bit and copyedited and so is much improved over
                this last 2004 internet version. You might want to wait for the printed book if you are thinking of
 ## reading it..
-
-12 of 12 9/17/25, 11:36 AM

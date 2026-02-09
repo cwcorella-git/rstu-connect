@@ -9,7 +9,7 @@ tags:
   - prisons
 ---
 
-Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse 1 of 39 8/3/25, 11:21 PM Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse
+Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse 
                  Excellent text examining the creation of the rst police forces,
                  which took place in England and the US in just a few decades
 ## in the mid-19th century. And explaining that they were not
@@ -20,8 +20,6 @@ Origins of the police - David Whitehouse | libcom.org https://libcom.org/article
 ## In England and the United States, the police were
 ## invented within the space of just a few decades -- roughly
 ## from 1825 to 1855.
-
-2 of 39 8/3/25, 11:21 PM Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse
 
 ## The new institution was not a response to an increase in
 ## crime, and it really didn't lead to new methods for dealing
@@ -58,7 +56,7 @@ Origins of the police - David Whitehouse | libcom.org https://libcom.org/article
                  just beginning. Specically, let's consider the market towns of
 ## the late medieval period, about 1,000 years ago.
                  The dominant class of the time wasn't in the towns. The feudal
-3 of 39 8/3/25, 11:21 PM Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse
+
                  The dominant class of the time wasn't in the towns. The feudal
 ## landholders were based in the countryside. They didn't have
                  cops. They could pull together armed forces to terrorize the
@@ -96,7 +94,7 @@ Origins of the police - David Whitehouse | libcom.org https://libcom.org/article
 ## But they didn't have cops. They had their own courts -- and
 ## small armed forces made up of the townsmen themselves.
                  These forces generally had nothing to do with bringing people
-4 of 39 8/3/25, 11:21 PM Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse
+
                  These forces generally had nothing to do with bringing people
                  up on charges. If you got robbed or assaulted, or were cheated
 ## in a business deal, then you, the citizen, would press the
@@ -133,8 +131,6 @@ Origins of the police - David Whitehouse | libcom.org https://libcom.org/article
                  places like England, the biggest force driving people to look for
 ## wage work was the state-endorsed movement to drive peasants
 ## o the land.
-
-5 of 39 8/3/25, 11:21 PM Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse
 
 ## The towns grew as peasants became refugees from the
 ## countryside, while inequality grew within the cities. The
@@ -173,8 +169,6 @@ Origins of the police - David Whitehouse | libcom.org https://libcom.org/article
 ## action, known as the Peterloo Massacre, provoked a wave of
 ## strikes and protests.
 
-6 of 39 8/3/25, 11:21 PM Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse
-
 ## strikes and protests.
 ## Even the time-honored tactic of hanging the movement's
 ## leaders began to backre. An execution would exert an
@@ -212,7 +206,6 @@ Origins of the police - David Whitehouse | libcom.org https://libcom.org/article
 ## over the use of outdoor space. This is a very consequential
                  issue for workers and the poor. The outdoors is important to
 ## workers
-7 of 39 8/3/25, 11:21 PM Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse
 
 ## workers
 ## -- for work
@@ -251,7 +244,6 @@ Origins of the police - David Whitehouse | libcom.org https://libcom.org/article
 ## from a shopkeeper.
 
 ## On both sides of the Atlantic, most arrests were related to
-8 of 39 8/3/25, 11:21 PM Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse
 
 ## On both sides of the Atlantic, most arrests were related to
                  victimless crimes, or crimes against the public order. Another
@@ -289,7 +281,6 @@ Origins of the police - David Whitehouse | libcom.org https://libcom.org/article
 ## identify the leaders and the radicals.
 ## *****
 ## Now we can jump back into the historical narrative and
-9 of 39 8/3/25, 11:21 PM Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse
 
 ## Now we can jump back into the historical narrative and
 ## talk about New York City.
@@ -328,7 +319,7 @@ Origins of the police - David Whitehouse | libcom.org https://libcom.org/article
 ## Selden Bacon notes, the elite of New Amsterdam (the Dutch
 ## colony that later became New York) had seen a need to head
                  o the disorder that could originate from the waterfront:
-10 of 39 8/3/25, 11:21 PM Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse
+
                  o the disorder that could originate from the waterfront:
 
 ## The first ordinances to be found of a police
@@ -367,7 +358,7 @@ Origins of the police - David Whitehouse | libcom.org https://libcom.org/article
 ## but they didn't patrol. They were agents of the court who
 ## executed writs like summonses and arrest warrants. They did
                  not do detective work. In the 1700s and well into the 1800s,
-11 of 39 8/3/25, 11:21 PM Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse
+
                  not do detective work. In the 1700s and well into the 1800s,
                  the system relied almost entirely on civilian informants who
 ## were promised a portion of any ne that the oender might
@@ -404,7 +395,7 @@ Origins of the police - David Whitehouse | libcom.org https://libcom.org/article
 ## revolution -- changes that produced a new working class
 ## out of a conicted hodgepodge of social elements.
                  Let's start with the skilled workers. Even before the revolution,
-12 of 39 8/3/25, 11:21 PM Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse
+
                  Let's start with the skilled workers. Even before the revolution,
 ## the division between masters and journeymen had sharpened.
 ## To understand this, we should look more closely at the
@@ -442,7 +433,6 @@ Origins of the police - David Whitehouse | libcom.org https://libcom.org/article
 ## Enterprises became larger and more impersonal -- more like
 ## factories, with dozens of employees.
 ## In the rst decades of the 19th century, employees were not
-13 of 39 8/3/25, 11:21 PM Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse
 
 ## In the rst decades of the 19th century, employees were not
                  only losing their long-term contracts, but they also were losing
@@ -482,7 +472,6 @@ Origins of the police - David Whitehouse | libcom.org https://libcom.org/article
 ## the wage scale. Black workers, who performed domestic
                  service or worked as general laborers, were a further rung or
 ## two down the wage scale from the Irish.
-14 of 39 8/3/25, 11:21 PM Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse
 
 ## two down the wage scale from the Irish.
                  At the same time, the older unskilled part of the wage-working
@@ -519,8 +508,6 @@ Origins of the police - David Whitehouse | libcom.org https://libcom.org/article
                  In 1802, white and Black sailors struck for higher wages. As
 ## with most strikes during this period, the method was
 ## something that historian Eric Hobsbawm called "collective
-
-15 of 39 8/3/25, 11:21 PM Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse
 
 ## something that historian Eric Hobsbawm called "collective
                  bargaining by riot." In this case, strikers disabled the ships that
@@ -560,7 +547,7 @@ Origins of the police - David Whitehouse | libcom.org https://libcom.org/article
 ## crowd rescued them and sent the watch running.
 ## The crowd drew in more revellers and turned toward the
                  commercial district, where they busted up some stores. At the
-16 of 39 8/3/25, 11:21 PM Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse
+
                  commercial district, where they busted up some stores. At the
 ## Battery, they broke windows in some of the city's richest
 ## homes. Then they headed back up Broadway, where the rich
@@ -599,7 +586,6 @@ Origins of the police - David Whitehouse | libcom.org https://libcom.org/article
 ## that could lead to a strange selection of prosecutions.
 ## Eliminating the fee system gave commanders greater freedom
 ## to set policy and priorities -- and thus made the department
-17 of 39 8/3/25, 11:21 PM Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse
 
 ## to set policy and priorities -- and thus made the department
                  more responsive to the shifting needs of the economic elite.
@@ -636,8 +622,6 @@ Origins of the police - David Whitehouse | libcom.org https://libcom.org/article
                  mills in Britain and New England were driving the Industrial
 ## Revolution, and the slave labor of the Deep South was an
 ## integral part of the boom.
-
-18 of 39 8/3/25, 11:21 PM Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse
 
 ## Charleston did not lie on the main axis of this boom, which
 ## was anchored by burgeoning cities such as New Orleans and
@@ -676,7 +660,7 @@ Origins of the police - David Whitehouse | libcom.org https://libcom.org/article
 ## relations among the slaves themselves. Slaves got out from
                  under the direct supervision of their masters for long stretches
                  of time, and many slaves could make cash for themselves above
-19 of 39 8/3/25, 11:21 PM Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse
+
                  of time, and many slaves could make cash for themselves above
 ## and beyond the fees they paid their masters. Black
                  Charlestonians began to refer to the fees as "freedom dues."
@@ -713,8 +697,6 @@ Origins of the police - David Whitehouse | libcom.org https://libcom.org/article
 ## Neck.
 ## *****
 ## Because conditions in the urban South were dramatically
-
-20 of 39 8/3/25, 11:21 PM Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse
 
 ## Because conditions in the urban South were dramatically
 ## freer than on the plantations, the state had to step in to
@@ -754,7 +736,7 @@ Origins of the police - David Whitehouse | libcom.org https://libcom.org/article
 ## the World, was probably a member of the Charleston AME in
                  the early 1820s. Many of Walker's views, including scriptural
                  arguments for the rights of slaves to rise up and take their
-21 of 39 8/3/25, 11:21 PM Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse
+
                  arguments for the rights of slaves to rise up and take their
 ## freedom, correspond to the views attributed to Denmark
 ## Vesey, a Charleston free Black carpenter who was accused of
@@ -793,7 +775,6 @@ Origins of the police - David Whitehouse | libcom.org https://libcom.org/article
 ## force, while also providing six horses to speed up
 ## communication and mobilization. Charleston thus set out 24-
 ## hour police patrols three years before the foundation of
-22 of 39 8/3/25, 11:21 PM Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse
 
 ## hour police patrols three years before the foundation of
 ## London's police in 1829.
@@ -833,8 +814,6 @@ Origins of the police - David Whitehouse | libcom.org https://libcom.org/article
 ## Black racism was built into American police work from the
 ## very rst day.
 
-23 of 39 8/3/25, 11:21 PM Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse
-
 ## *****
 ## Toward the end, I'll say a few words about Philadelphia,
 ## but before that, I'm going to draw out some themes that
@@ -871,7 +850,6 @@ Origins of the police - David Whitehouse | libcom.org https://libcom.org/article
 ## public education. Public schools accustom children to the
                  discipline of the capitalist workplace; children are separated
 ## from their families to perform a series of tasks alongside
-24 of 39 8/3/25, 11:21 PM Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse
 
 ## from their families to perform a series of tasks alongside
                  others, under the direction of an authority gure, according to
@@ -911,7 +889,6 @@ Origins of the police - David Whitehouse | libcom.org https://libcom.org/article
                  over the day-to-day behavior of the working class. Schooling,
 ## poor relief and police work all aimed to shape workers to
 ## become useful to--and loyal to--the capitalist class.
-25 of 39 8/3/25, 11:21 PM Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse
 
 ## become useful to--and loyal to--the capitalist class.
 ## *****
@@ -948,7 +925,7 @@ Origins of the police - David Whitehouse | libcom.org https://libcom.org/article
 ## So the cops order people around every day without a court
 ## order, and they punish people every day without a court
                  judgment. Obviously, then, some of the key social functions of
-26 of 39 8/3/25, 11:21 PM Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse
+
                  judgment. Obviously, then, some of the key social functions of
                  the police are not written into the law. They're part of police
 ## culture that cops learn from each other with encouragement
@@ -985,7 +962,7 @@ Origins of the police - David Whitehouse | libcom.org https://libcom.org/article
 ## magistrate to hear a case.
 ## Then, as now, most crime was committed by poor people
                  against poor people. In these courts, the victim of assault, theft,
-27 of 39 8/3/25, 11:21 PM Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse
+
                  against poor people. In these courts, the victim of assault, theft,
                  or defamation would act as prosecutor. A constable might get
                  involved in order to bring in the accused, but that's not the
@@ -1024,7 +1001,7 @@ Origins of the police - David Whitehouse | libcom.org https://libcom.org/article
 ## electors and subject to immediate recall.
                  This never became a settled routine because the city was under
                  siege from day one, but the Communards had the right idea. In
-28 of 39 8/3/25, 11:21 PM Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse
+
                  siege from day one, but the Communards had the right idea. In
                  order to overcome a regime of police repression, the crucial
 ## work was to live up to the name of the Commune--that is, to
@@ -1057,7 +1034,6 @@ Origins of the police - David Whitehouse | libcom.org https://libcom.org/article
                  of the police:
                      Williams, Kristian. Our Enemies in Blue: Police and Power in
 ## America. Revised Edition. South End Press, 2007.
-29 of 39 8/3/25, 11:21 PM Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse
 
 ## America. Revised Edition. South End Press, 2007.
 ## Silberman, Charles E. Criminal Violence, Criminal Justice.
@@ -1091,7 +1067,6 @@ Origins of the police - David Whitehouse | libcom.org https://libcom.org/article
 ## Magazine, vol. 93, No. 2 (April 1992), 101-125.
                      Wade, Richard C. Slavery in the Cities: The South -
 ## . Oxford University Press, 1964.
-30 of 39 8/3/25, 11:21 PM Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse
 
 ## . Oxford University Press, 1964.
                  On the early years of public schooling in the US:
@@ -1104,8 +1079,6 @@ Origins of the police - David Whitehouse | libcom.org https://libcom.org/article
                  I've read Kristian Williams' book, Our Enemies in Blue, and it's
                  very thorough but a bit dry. I'd recommend it though. He's a
 ## good speaker as well, if you get a chance to hear him talk.
-
-31 of 39 8/3/25, 11:21 PM Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse
 
 ## Great piece.
 
@@ -1122,7 +1095,6 @@ Origins of the police - David Whitehouse | libcom.org https://libcom.org/article
                  take England until 1829? What was so dierent about material
 ## conditions in France?
 
-32 of 39 8/3/25, 11:21 PM Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse
                  Unfortunately, this is an out-of date version. The most updated
                  one has expanded discussion of the South, and it's at: https://
 ## worxintheory.wordpress.com/2014/12/07/origins-of-the-
@@ -1148,8 +1120,6 @@ Origins of the police - David Whitehouse | libcom.org https://libcom.org/article
 ## Fnordie
 
 ## I've heard 1667 casually mentioned a few
-
-33 of 39 8/3/25, 11:21 PM Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse
 
 ## I've heard 1667 casually mentioned a few
 
@@ -1192,7 +1162,6 @@ Origins of the police - David Whitehouse | libcom.org https://libcom.org/article
 
 ## cousin)
 
-34 of 39 8/3/25, 11:21 PM Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse
                  France also went to war with Spain in 1667, so that increased
 ## the demand to collect taxes even further
 
@@ -1220,7 +1189,7 @@ Origins of the police - David Whitehouse | libcom.org https://libcom.org/article
 
                   hey, sorry about that, I realise that is because this article is in
                   full HTML format, which only editors can edit. So I have just
-35 of 39 8/3/25, 11:21 PM Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse
+
                   full HTML format, which only editors can edit. So I have just
 ## pasted in your most up-to-date version with a hyperlink
                   credit to the original version. Thanks very much for agging
@@ -1243,8 +1212,6 @@ Origins of the police - David Whitehouse | libcom.org https://libcom.org/article
                  That's an interesting question, and we have been wanting to do
 ## some research on that.
 
-36 of 39 8/3/25, 11:21 PM Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse
-
 ## some research on that.
 ## In terms of Europe and Japan, I would imagine that other
 ## governments basically emulated the UK model, or adopted
@@ -1259,8 +1226,6 @@ Origins of the police - David Whitehouse | libcom.org https://libcom.org/article
 
 ## Excellent content
 
-37 of 39 8/3/25, 11:21 PM Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse
-
 ## Midnight Notes outline the history of
            There is a commonly held assumption that policing in USA. They analyzes the cycles of
            the police are a necessary presence in a policing which swing between reformism
@@ -1272,11 +1237,8 @@ Origins of the police - David Whitehouse | libcom.org https://libcom.org/article
            colour in custody in the UK, published in out if a comrade was an undercover police
            1991. ocer.
 
-38 of 39 8/3/25, 11:21 PM Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse
            A short account of the 19 June killing of 16
            people and wounding of 283 by police
            during a demonstration of women and An interview with Xinachtli, a Chicano
            children in support of a... anarchist communist political prisoner
 ## serving a 50-year...
-
-39 of 39 8/3/25, 11:21 PM

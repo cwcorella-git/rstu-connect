@@ -37,8 +37,6 @@ Labor Wars in the U.S. | American Experience | Oﬀicial S... about:reader?url=h
                 unionists. Learn more about events from the West Virginia Mine
 ## Wars within a national context during a period that was
 
-1 of 15 9/7/25, 11:55 AM Labor Wars in the U.S. | American Experience | Oﬀicial S... about:reader?url=https%3A%2F%2Fwww.pbs.org%2F...
-
 ## punctuated by violent struggle between labor and
 ## management.
 
@@ -58,8 +56,6 @@ Labor Wars in the U.S. | American Experience | Oﬀicial S... about:reader?url=h
                 states, and state militias are mobilized, resulting in several
 ## bloody clashes. At least 10 workers die in Cumberland,
 ## Maryland.
-
-2 of 15 9/7/25, 11:55 AM Labor Wars in the U.S. | American Experience | Oﬀicial S... about:reader?url=https%3A%2F%2Fwww.pbs.org%2F...
 
 ## May 4, 1886
                 A day after a union action in support of the eight-hour workday
@@ -82,8 +78,6 @@ Labor Wars in the U.S. | American Experience | Oﬀicial S... about:reader?url=h
 ## July 6, 1892
 ## Steelworkers on strike at the Homestead Steel Works in
 ## Homestead, Pennsylvania fire on Pinkerton guards hired to
-
-3 of 15 9/7/25, 11:55 AM Labor Wars in the U.S. | American Experience | Oﬀicial S... about:reader?url=https%3A%2F%2Fwww.pbs.org%2F...
 
 ## keep order by general manager Henry Clay Frick. A Pinkerton
 ## Guard named John W. Holway later recalls, "...there were
@@ -118,8 +112,6 @@ Labor Wars in the U.S. | American Experience | Oﬀicial S... about:reader?url=h
                 shotguns and attack the train carrying them. Both miners and
 ## guards suffer numerous casualties in the ensuing Battle of
 
-4 of 15 9/7/25, 11:55 AM Labor Wars in the U.S. | American Experience | Oﬀicial S... about:reader?url=https%3A%2F%2Fwww.pbs.org%2F...
-
 ## Virden.
 
 ## May 9, 1900
@@ -142,8 +134,6 @@ Labor Wars in the U.S. | American Experience | Oﬀicial S... about:reader?url=h
 ## West Virginia coal miners strike, both in sympathy for the
                 miners in Pennsylvania and with the stated goal of achieving
 ## union recognition in West Virginia.
-
-5 of 15 9/7/25, 11:55 AM Labor Wars in the U.S. | American Experience | Oﬀicial S... about:reader?url=https%3A%2F%2Fwww.pbs.org%2F...
 
 ## Strikers facing off with militia in Lawrence, MA, PD
 
@@ -178,8 +168,6 @@ Labor Wars in the U.S. | American Experience | Oﬀicial S... about:reader?url=h
 
 ## January 1, 1917
 
-6 of 15 9/7/25, 11:55 AM Labor Wars in the U.S. | American Experience | Oﬀicial S... about:reader?url=https%3A%2F%2Fwww.pbs.org%2F...
-
 ## Frank Keeney and Fred Mooney assume official duties as
 ## executive officers of UMWA District 17 in Charleston, West
                 Virginia. Keeney began working in the mines as a child but was
@@ -212,7 +200,6 @@ Labor Wars in the U.S. | American Experience | Oﬀicial S... about:reader?url=h
 ## working conditions, higher wages, and recognition of their
                 union, and around three quarters of the police department fails
                 to report for work. The police department fires the strikers and
-7 of 15 9/7/25, 11:55 AM Labor Wars in the U.S. | American Experience | Oﬀicial S... about:reader?url=https%3A%2F%2Fwww.pbs.org%2F...
 
 ## recruits a new force.
 
@@ -235,7 +222,6 @@ Labor Wars in the U.S. | American Experience | Oﬀicial S... about:reader?url=h
 ## and seven Baldwin-Felts agents dead. The shootout is known
 ## as the Battle of Matewan or alternately, the Matewan
                 Massacre. Sid Hatfield is later tried and acquitted for murder,
-8 of 15 9/7/25, 11:55 AM Labor Wars in the U.S. | American Experience | Oﬀicial S... about:reader?url=https%3A%2F%2Fwww.pbs.org%2F...
 
 ## causing celebration among miners who see Hatfield as their
 ## champion.
@@ -269,7 +255,7 @@ Labor Wars in the U.S. | American Experience | Oﬀicial S... about:reader?url=h
 ## named Don Chafin soon reignite the conflict and send the
 ## miners marching toward Mingo County again. To reach Mingo
                 County, they will attempt to pass through Logan County where
-9 of 15 9/7/25, 11:55 AM Labor Wars in the U.S. | American Experience | Oﬀicial S... about:reader?url=https%3A%2F%2Fwww.pbs.org%2F...
+
                 Don Chafin, his men, and the West Virginia State Police oppose
 ## the marching miners.
 
@@ -293,7 +279,6 @@ Labor Wars in the U.S. | American Experience | Oﬀicial S... about:reader?url=h
 
 ## April 25, 1922
 
-10 of 15 9/7/25, 11:55 AM Labor Wars in the U.S. | American Experience | Oﬀicial S... about:reader?url=https%3A%2F%2Fwww.pbs.org%2F...
                 Bill Blizzard, the de facto leader of the miners at Blair Mountain,
 ## goes on trial for treason against West Virginia in the same
 ## courthouse in Charles Town, West Virginia where John Brown
@@ -326,7 +311,7 @@ Labor Wars in the U.S. | American Experience | Oﬀicial S... about:reader?url=h
 ## June 16, 1933
 ## Newly-elected President franklin D. Roosevelt signs the
                 National Industrial Recovery Act, granting industrial workers
-11 of 15 9/7/25, 11:55 AM Labor Wars in the U.S. | American Experience | Oﬀicial S... about:reader?url=https%3A%2F%2Fwww.pbs.org%2F...
+
                 the right to join a union. As a result, the UMWA sweeps through
                 West Virginia, including the previously unorganized southern
 ## coalfields.
@@ -349,8 +334,6 @@ Labor Wars in the U.S. | American Experience | Oﬀicial S... about:reader?url=h
 
 ## January 22, 1941
 
-12 of 15 9/7/25, 11:55 AM Labor Wars in the U.S. | American Experience | Oﬀicial S... about:reader?url=https%3A%2F%2Fwww.pbs.org%2F...
-
 ## A strike begins at the Allis-Chalmers Manufacturing Company
 ## plant in Milwaukee, Wisconsin. The plant has manufacturing
 ## contracts with the Navy and the work stoppage hampers
@@ -366,7 +349,6 @@ Labor Wars in the U.S. | American Experience | Oﬀicial S... about:reader?url=h
 
 ## April 8, 1952
                 President Harry Truman intervenes in a steelworker strike, set
-13 of 15 9/7/25, 11:55 AM Labor Wars in the U.S. | American Experience | Oﬀicial S... about:reader?url=https%3A%2F%2Fwww.pbs.org%2F...
 
 ## to begin the following day. He asks Secretary of Commerce
                 Charles Sawyer to seize and operate the country’s steel mills in
@@ -401,10 +383,7 @@ Labor Wars in the U.S. | American Experience | Oﬀicial S... about:reader?url=h
 ## April 18, 1989
 ## In Lebanon, Virginia, 39 women occupy the headquarters of
 
-14 of 15 9/7/25, 11:55 AM Labor Wars in the U.S. | American Experience | Oﬀicial S... about:reader?url=https%3A%2F%2Fwww.pbs.org%2F...
                 the Pittston Coal Company and hold a 36-hour sit-down strike
                 in solidarity with the UMWA miners. The miners are in dispute
 ## with Pittston over changes in healthcare and retirement
 ## benefits.
-
-15 of 15 9/7/25, 11:55 AM

@@ -132,5 +132,3 @@ Clarity about the aims and problems of socialism is of greatest signicance in ou
 1 [2](https://monthlyreview.org/2009/05/01/why-socialism/?query-49-page=2) [3](https://monthlyreview.org/2009/05/01/why-socialism/?query-49-page=3) ... [5](https://monthlyreview.org/2009/05/01/why-socialism/?query-49-page=5) [Next Page](https://monthlyreview.org/2009/05/01/why-socialism/?query-49-page=2)
 
 2025 MONTHLY REVIEW FOUNDATION. ALL RIGHTS RESERVED
-
-Monthly Review | Tel: 212-691-2555 134 W 29th St Rm 706, New York, NY 10001

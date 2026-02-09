@@ -8,8 +8,6 @@ tags:
   - theory
 ---
 
-Issues That Divide Anarchists https://theanarchistlibrary.org/library/james-herod-issues-that-divide-ana...
-
 ## James Herod
 ## in the United States
 ## July 2006
@@ -49,7 +47,7 @@ Issues That Divide Anarchists https://theanarchistlibrary.org/library/james-hero
                having highlighted the distinction. Individualist anarchists are centered around Primitivism,
                Crimethinc, Anarchy, Green Anarchy, Fifth Estate, Earth First, and The Match. Individualists often
                deny that they are individualists, claiming that they are social anarchists too. In these notes I will
-1 of 8 9/17/25, 11:31 AM Issues That Divide Anarchists https://theanarchistlibrary.org/library/james-herod-issues-that-divide-ana...
+
                refer to fanatic anarchist individualists as Egoists, considering that they believe in the absolute
                autonomy of the individual, see society as an aggregate of such autonomous individuals, and often
                cite Max Stirner's The Ego and Its Own as one of their favorite texts. About half of the issues
@@ -98,7 +96,6 @@ Issues That Divide Anarchists https://theanarchistlibrary.org/library/james-hero
 
 ## 5. Voting
 
-2 of 8 9/17/25, 11:31 AM Issues That Divide Anarchists https://theanarchistlibrary.org/library/james-herod-issues-that-divide-ana...
                   Egoists reject voting, even consensus voting (obviously, because they don't go to meetings to
                begin with). When pressed as to how even a small affinity group of eight will make decisions about
                a common course of action, they say that it is contingent, and that the group will be able to figure it
@@ -147,7 +144,6 @@ Issues That Divide Anarchists https://theanarchistlibrary.org/library/james-hero
 
 ## 9. Protest Demonstrations
 
-3 of 8 9/17/25, 11:31 AM Issues That Divide Anarchists https://theanarchistlibrary.org/library/james-herod-issues-that-divide-ana...
                   A very faint opposition to the politics of protest has finally begun to emerge. Critics of protest
                marching claim that the tactic accomplishes almost nothing, and that it is therefore an incredible
                waste of resources, which are always in short supply in left radical movements. The organizers of
@@ -197,7 +193,7 @@ Issues That Divide Anarchists https://theanarchistlibrary.org/library/james-hero
                have impaled themselves on an abstraction. The term left has always been vague, its boundaries
                being rather fuzzy. But the historical ignorance shown by those claiming that anarchy is not part of
                the left is truly astonishing. Moreover, 'left" is an inherently relative term, its meaning depending
-4 of 8 9/17/25, 11:31 AM Issues That Divide Anarchists https://theanarchistlibrary.org/library/james-herod-issues-that-divide-ana...
+
                on the starting point. For extreme right-wing republicans, mainstream liberals are left. However,
                post-left anarchists have simply invented their own highly idiosyncratic definition and then used it
                to rewrite history. Critics claim that what they are really against is just leninism. So why don't they
@@ -246,7 +242,7 @@ Issues That Divide Anarchists https://theanarchistlibrary.org/library/james-hero
                  Anarcho-syndicalists see anarchy as a system of workers councils federated at the local and
                regional levels. Anarcho-communists tend to see anarchy as a world full of autonomous
                communities. Libertarian municipalists see anarchy as a confederation of municipal assemblies or
-5 of 8 9/17/25, 11:31 AM Issues That Divide Anarchists https://theanarchistlibrary.org/library/james-herod-issues-that-divide-ana...
+
                town councils. Egoists see anarchy as an aggregate of autonomous individuals. They are unwilling
                to even talk about the social forms that anarchy might take, evidently because they don't think in
                those terms and don't think that anarchy will take social forms. Situationism, a related tendency, has
@@ -294,7 +290,7 @@ Issues That Divide Anarchists https://theanarchistlibrary.org/library/james-hero
 ## 20. Platformism
 
                  It is my understanding that not all members of the recently established federations of anarchocommunists call themselves platformists. So even within these organizations there is some
-6 of 8 9/17/25, 11:31 AM Issues That Divide Anarchists https://theanarchistlibrary.org/library/james-herod-issues-that-divide-ana...
+
                disagreement or uneasiness about the label. Nevertheless, one of the main web sites of this
                tendency, Anarkismo, explicitly identifies with platformism, as do many of the most prominent
                founders and activists in these organizations. It is a strange identity, to my mind. Whatever. Most
@@ -344,7 +340,7 @@ Issues That Divide Anarchists https://theanarchistlibrary.org/library/james-hero
                communism, as practiced even in the Middle Ages, and as articulated later by utopian socialists, for
                example, as meaning local community control and autonomy. Most of the so-called green
                anarchists I know deny that they are primitivists. They claim that they are social anarchists. What is
-7 of 8 9/17/25, 11:31 AM Issues That Divide Anarchists https://theanarchistlibrary.org/library/james-herod-issues-that-divide-ana...
+
                amazing, though, is how commonplace this way of talking has become, nevertheless. As for green
                anarchism, how in the world did it ever happen that "green" anarchists are claiming exclusive rights
                to radical environmentalism. Bookchin practically invented the orientation single-handedly in the
@@ -374,5 +370,3 @@ Issues That Divide Anarchists https://theanarchistlibrary.org/library/james-hero
                I know, no one yet has succeeded in getting a worthy handle on the issue.
                (An Outline Prepared for, but not Endorsed by, the Organizing Committee for the New England
 ## Anarchist Summit, October 2006)
-
-8 of 8 9/17/25, 11:31 AM

@@ -22,8 +22,6 @@ Has the time come for a new wave of decommodification for the twenty-first centu
 
 Decommodification was a defining feature of the welfare states that were set up in the mid-twentieth century to counter the destructive effects of capitalism. But, since the crisis of the
 
-## 1 of 10 10/2/25, 10:37 PM
-
 mid-1970s, neoliberalism has set in motion a process of recommodification, bringing utilities, public services and many other aspects of life once more under direct capitalist sway. Now that the pandemic has demonstrated for all to see the falsity of the mantra 'there is no alternative to the market', has the time come for a new wave of decommodification for the twenty-first century?
 
 As Marx observed, an inexorable feature of capitalism is that it must keep growing. As the rate of return on existing capital falls, it must engage in a breathless, desperate race to find new activities from which it can milk value. Its growth is thus fuelled by a constant plundering of resources from the planet, and the life it supports that currently lie outside its scope. From the genetic ingredients of rainforest flora to undiscovered life forms in the ocean depths, from musical performance to sociality itself, if it can be appropriated to yield a new commodity, then, using the magic of human ingenuity and labour power, that commodity will be produced, and reproduced. Commodification is thus capitalism's driving force.
@@ -74,8 +72,4 @@ In developing alternative models it is important to learn the lessons from the f
 
 **Ursula Huws** is Professor of Labour and Globalisation at the University of Hertfordshire and the editor of the journal [Work](https://www.plutojournals.com/world-organisation-labour-and-globalisation/) [Organisation, Labour and Globalisation](https://www.plutojournals.com/world-organisation-labour-and-globalisation/). Her most recent books are [Reinventing the Welfare State: Digital Platforms and Public](https://www.plutobooks.com/9780745341842/reinventing-the-welfare-state/)
 
-## 9 of 10 10/2/25, 10:37 PM
-
 [Policies](https://www.plutobooks.com/9780745341842/reinventing-the-welfare-state/) (Pluto Press, 2020), [Labour in Contemporary](https://www.palgrave.com/gp/book/9781137520401) [Capitalism: What Next?](https://www.palgrave.com/gp/book/9781137520401) (Palgrave Macmillan, 2019) and [Labor](https://uhra.herts.ac.uk/handle/2299/16029) [in the Global Digital Economy: The Cybertariat Comes of Age](https://uhra.herts.ac.uk/handle/2299/16029) (Monthly Review Press, 2014). She blogs a[t https://](https://ursulahuws.wordpress.com/) [ursulahuws.wordpress.com/.](https://ursulahuws.wordpress.com/)
-
-## 10 of 10 10/2/25, 10:37 PM

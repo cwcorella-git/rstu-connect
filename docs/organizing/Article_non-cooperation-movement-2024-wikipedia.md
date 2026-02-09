@@ -8,7 +8,6 @@ tags:
   - organizing
 ---
 
-Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
           Non-cooperation movement (2024)
           The non-cooperation movement,[a] also known
           as the one-point movement,[b] was a pro- Non-cooperation movement
@@ -59,7 +58,7 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
           biggest ally.[26] Widespread celebrations and Obaidul Quader
           violence occurred following her removal, while the and Cabinet
           military and President Mohammed Shahabuddin members
-1 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
+
           announced the formation of an interim government
           led by economist and Nobel laureate Muhammad Casualties and losses
           Yunus.[27] Meanwhile, Indian media outlets were Deaths: At least 250 Deaths: 38
@@ -102,7 +101,7 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
           The Anti-discrimination Students Movement previously called for day-long protest programmes on 3 August.
           After day-long protests, students and ordinary people gathered at the central Shaheed Minar area with protest
           marches from diﬀerent parts of Dhaka.[35] At around 5:30 p.m., Nahid Islam, one of the coordinators,
-2 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
+
           addressed the assembled crowd at Shaheed Minar and announced that the movement's exclusive demand was
           the resignation of Hasina and her cabinet. He also called for a comprehensive non-cooperation movement
           starting from 4 August[36][37][38][39] and announced that they had no plans to negotiate with the government.
@@ -141,7 +140,7 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
           On 4 August, thousands of protesters gathered at the Shahbag intersection in the morning, obstructing it as a
           form of civil disobedience to demand the government's resignation.[42]
           At least 97 people died nationwide in confrontations, shootings, and pursuits related to the Non-cooperation
-3 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
+
           movement. Fourteen police oﬃcers were killed across the country,
           with 13 deaths occurring at the Enayetpur police station in Sirajganj.
           Another oﬃcer was killed in Eliotganj, Comilla.[43] Twenty-seven
@@ -186,7 +185,7 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
           return to camps and refrain from getting involved in the political crisis or being used against civilians.[56][57]
           Retired Brig. Gen. M. Sakhawat Hossain stated that there was signiﬁcant unease among the troops, which
           likely pressured the chief of army staﬀ as soldiers were deployed and witnessing the events. Retired oﬃcers,
-4 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
+
           including Brig. Gen. Mohammad Shahedul Anam Khan, deﬁed the curfew on Monday and took to the streets,
           with Khan noting that the army did not intervene. In response to calls for a march to Dhaka, DMP
           Commissioner Habibur Rahman warned of zero tolerance, stating that legal action would be taken against
@@ -223,7 +222,7 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
           furniture.[66] They rummaged oﬃce ﬁles[67] and sat on her bed as well as her chair to take selﬁes.[68] Some
           protesters ate food and stole live animals,[69][70] while others looted Hasina's luxury Dior suitcase and her
           sarees.[71]
-5 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
+
           Sheikh Hasina's departure
           Reports indicated that Hasina, along with her sister Sheikh Rehana, ﬂed Ganabhaban aboard a military
           helicopter before transferring to a C-130 Hercules aircraft of the Bangladesh Air Force. An internet blackout
@@ -264,7 +263,7 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
           Bangladesh Chhatra League, died from a heart attack while climbing a mountain in the Indian state of
           Meghalaya as part of his eﬀorts to ﬂee Bangladesh.[89]
           On 21 August, the interim government ordered the revocation of diplomatic passports issued to Sheikh
-6 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
+
           Hasina as well as her ministers and MPs.[90] On August 29, the interim government issued an ordinance
           revoking a 2009 law that granted special privileges to the family of Sheikh Mujibur Rahman, including
           Sheikh Hasina.[91]
@@ -303,7 +302,7 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
           Mymensingh.[123] The 19th-century Bir Chandra Public Library The Wari Police Station after being
           in Comilla was also looted and burned, leading to the loss of vandalized
           several rare books.[124]
-7 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
+
           At least 232 people were reported to have been killed in the three days that followed Hasina's resignation.[125]
           This included at least 29 oﬃcials of the Awami League and associated groups as well as their relatives.[126]
           An Awami League oﬃce in Chittagong was also set ablaze by miscreants.[98] Two vehicles of the BGB were
@@ -343,7 +342,7 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
           Council reported that from August 4 to August 20, a total of 2,010 incidents (including 69 temples) of attacks
           on minorities took place across the country within this 16-day period. Among the incidents, homes of 157
           families were vandalised, looted, and set on ﬁre, while some of their businesses were also attacked.[152][153]
-8 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
+
           According to most observers, the attacks were largely politically motivated where victims were primarily
           Awami League leaders, activists, and police. However, many Hindus with no political aﬃliation were also
           aﬀected.[148][28] The coordinators of the student movement denounced these attacks and urged the public not
@@ -379,7 +378,7 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
           Bangladesh Bank, retired General Jahangir Alam Chowdhury, and lawyer Sara Hossain.[178] The nomination
           of Yunus, who accepted the advisory role in the interim government, has also been supported by prominent
           ﬁgures within the student movement.[179] In addition, Waker-uz-Zaman pledged an investigation by the
-9 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
+
            military into the preceding incidents of violence and issued an order prohibiting security forces from opening
            ﬁre on crowds.[119]
            President Mohammed Shahabuddin issued an order for the release of all students who had been detained
@@ -417,7 +416,7 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
            On 14 August, the father of a student killed during the protests ﬁled a petition at the International Crimes
            Tribunal. The petition called for an investigation into charges of genocide and crimes against humanity
            against Sheikh Hasina and nine other individuals, including the General Secretary of Bangladesh Awami
-10 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
+
            League and former Road Transport and Bridges Minister Obaidul Quader, and former Minister of Home
            Aﬀairs Asaduzzaman Khan Kamal over their role in the crackdown on the protests. The Awami League and
            its associated organizations were also named as accused in the petition. A formal investigation was initiated
@@ -455,7 +454,7 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
            formally requested the UN to conduct an international investigation into the killings during the protests.[210]
            In a phone call with chief adviser Muhammad Yunus on 14 August, UN human rights chief Volker Türk said
            that such an investigation would come "very soon".[211]
-11 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
+
            Sajeeb Wazed, the son and adviser of Sheikh Hasina, initially
            announced on 5 August that his mother intended to retire from
            politics. On 7 August, he amended this statement clarifying that
@@ -499,7 +498,7 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
               been put on hold.[223] The Delhi Police increased security at the Bangladesh High
               Commission in New Delhi.[224] In his Independence Day address on 15 August,
               Prime Minister Narendra Modi voiced concern over the unrest in Bangladesh and
-12 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
+
              expressed hope that "the situation gets normal there soon".[225]
            ▪ Russia: The Foreign Ministry described the events as an "internal aﬀair" of
              Bangladesh and expressed hope for a quick return to constitutional norms.[226]
@@ -520,7 +519,7 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
              released on 6 August, US citizens were strongly advised against traveling to
              Bangladesh due to "civil unrest, crime, and terrorism".[145]
            Gallery
-13 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
+
            Protesters at Central Shaheed Minar
            See also
             ▪ Non-cooperation movement (1971)
@@ -551,7 +550,6 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
            2. "Bangladesh PM Sheikh Hasina has resigned and left the country, media reports
               say" (https://www.scmp.com/news/asia/south-asia/article/3273265/bangladesh-pmsheikh-hasina-has-resigned-and-left-country-media-reports-say). South China
               Morning Post. 5 August 2024. Retrieved 5 August 2024.
-14 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
 
         3. "Protesters storm Bangladesh PM Hasina's palace amid reports she has resigned
            and ﬂed" (https://www.straitstimes.com/asia/south-asia/bangladesh-army-chief-to-a
@@ -598,7 +596,6 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
            2024. Archived (https://web.archive.org/web/20240824223927/https://www.yenide
            mokrasi34.net/interview-on-student-movement-in-bangladesh.html) from the
            original on 24 August 2024. Retrieved 25 August 2024.
-15 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
 
        12. Protidiner Bangladesh (4 August 2024). 'কথা শােনিন' পুিলশ, িনয়ৎরেণ রাখেত সনাবািহনীর গু িল | Army |
            Police | PB (https://www.youtube.com/watch?app=desktop&v=nXezufuHD80).
@@ -646,8 +643,6 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
            4/https://mzamin.com/news.php?news=121182) from the original on 3 August
            2024. Retrieved 3 August 2024.
 
-16 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
-
        21. Lu, Christina (7 August 2024). "What's Behind Bangladesh's Student Protests?" (htt
            ps://foreignpolicy.com/2024/07/18/bangladesh-student-protests-quota-system/).
            Foreign Policy. Archived (https://web.archive.org/web/20240804023456/https://forei
@@ -692,7 +687,6 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
            (https://web.archive.org/web/20240812172212/https://www.aljazeera.com/news/20
            24/8/8/islamophobic-alarmist-how-some-india-outlets-covered-bangladesh-crisis)
            from the original on 12 August 2024. Retrieved 9 August 2024.
-17 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
 
        29. "বাংলােদেশ িহেদর ওপর হামলা িনেয় ভারেত অপতেযর রচার" (https://www.prothomalo.com/bangladesh/
            n583q95nsq). Prothom Alo (in Bengali). 11 August 2024. Archived (https://web.arch
@@ -738,7 +732,6 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
        39. "One-point demand: Protesters call for PM Hasina to step down" (https://www.dhaka
            tribune.com/bangladesh/353558/one-point-demand-protesters-call-for-pm-hasina-t
            o). Dhaka Tribune. 3 August 2024.
-18 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
 
        40. "সরকােরর সে আেলাচনায় বসার পিরকপনা নই: আেদালেনর অযতম সমবয়ক নািহদ" (https://bangla.thedailysta
            r.net/news/bangladesh/quota-protest/news-602226). The Daily Star (in Bengali). 3
@@ -784,7 +777,6 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
            sh/qtaq13egnf). Prothom Alo. 4 August 2024. Archived (https://web.archive.org/we
            b/20240804142854/https://en.prothomalo.com/bangladesh/qtaq13egnf) from the
            original on 4 August 2024. Retrieved 4 August 2024.
-19 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
 
        50. "কাটা আেদালন: 'সবামক অসহেযাগ আেদালেনর' রথম িদন" (https://www.bbc.com/bengali/live/cz5rryvz6
            3lt). BBC News বাংলা (in Bengali). 4 August 2024. Archived (https://web.archive.org/w
@@ -830,7 +822,6 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
            m/news.php?id=483651). The Daily Observer (Bangladesh). Archived (https://web.a
            rchive.org/web/20240805082613/https://www.observerbd.com/news.php?id=48365
            1) from the original on 5 August 2024. Retrieved 5 August 2024.
-20 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
 
        60. "Sheikh Hasina ﬂees Bangladesh, 'heading to London' as military takes over" (http
            s://www.brecorder.com/news/40315982/bangladesh-pm-hasina-taken-to-safe-shelte
@@ -875,7 +866,6 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
            5142628/https://www.cnbctv18.com/world/bangladesh-riots-sheikh-hasina-residenc
            e-ganabhaban-raided-parliament-stormed-19455009.htm) from the original on 5
            August 2024. Retrieved 5 August 2024.
-21 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
 
        68. "Bangladesh PM Sheikh Hasina's home looted: Watch protesters steal rugs,
            utensils, take selﬁes on bed and PM's chair" (https://economictimes.indiatimes.co
@@ -921,7 +911,6 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
            stoday.in/india/story/nsa-ajit-doval-meets-former-bangladesh-pm-sheikh-hasina-at-h
            indon-airbase-440243-2024-08-05) from the original on 5 August 2024. Retrieved
            5 August 2024.
-22 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
 
        75. "Bangladesh parliament dissolved after PM ﬂees country" (https://www.bbc.com/ne
            ws/articles/c0499xpnp1yo). BBC. 6 August 2024. Archived (https://web.archive.org/
@@ -968,7 +957,6 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
        83. "Salman F Rahman, Anisul Huq arrested in Dhaka" (https://www.dhakatribune.com/
            bangladesh/354644/salman-f-rahman-and-anisul-huq-arrested-in-dhaka). Dhaka
            Tribune. 13 August 2024.
-23 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
 
        84. "Ex-commerce minister Tipu Munshi arrested" (https://www.dhakatribune.com/bang
            ladesh/dhaka/356497/ex-commerce-minister-tipu-munshi-arrested). Dhaka Tribune.
@@ -1011,7 +999,6 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
            sh/district/oqwae91250). Prothom Alo. 5 August 2024. Archived (https://web.archiv
            e.org/web/20240806033521/https://www.prothomalo.com/bangladesh/district/oqwa
            e91250) from the original on 6 August 2024. Retrieved 6 August 2024.
-24 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
 
        97. "Bangladesh crisis: As Sheikh Hasina resigns, protesters set Awami League oﬃce
            on ﬁre, vandalise Mujibur Rahman's statue" (https://www.businesstoday.in/india/sto
@@ -1056,7 +1043,6 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
            t/opb1m3j1sm). Prothom Alo (in Bengali). 5 August 2024. Archived (https://web.arc
            hive.org/web/20240806044501/https://www.prothomalo.com/bangladesh/district/op
            b1m3j1sm) from the original on 6 August 2024. Retrieved 6 August 2024.
-25 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
 
       105. অিফস, যেশার (5 August 2024). "যেশাের শাহীন চাকলাদােরর হােটেল ভাঙচুর-আন, ৬ জেনর মৃতু্য" (https://ww
            w.prothomalo.com/bangladesh/district/zlhxe06oh5). Prothomalo (in Bengali).
@@ -1101,8 +1087,6 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
            68). BD Pratidin. Archived (https://web.archive.org/web/20240806014005/https://w
            ww.bd-pratidin.com/country/2024/08/05/1015668) from the original on 6 August
            2024. Retrieved 7 August 2024.
-
-26 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
 
       116. "Bangladeshi protestors attack Indira Gandhi Cultural Center and Bangabandhu
            memorial" (https://timesoﬁndia.indiatimes.com/world/south-asia/bangladesh-protes
@@ -1151,7 +1135,6 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
       126. "Bodies of 29 Awami League leaders, family members recovered" (https://www.dha
            katribune.com/bangladesh/nation/353920/bodies-of-29-awami-league-leaders-famil
            y-members). Dhaka Tribune. 7 August 2024. Retrieved 7 August 2024.
-27 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
 
       127. "রীপুের িবিজিবর সদয বহনকারী ই গািড়েত আন, হাসপাতােল ৫ লাশ" (https://www.prothomalo.com/bangl
            adesh/district/6v7d8qi09x). Prothom Alo. 5 August 2024. Archived (https://web.arch
@@ -1198,7 +1181,6 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
            ojv2ksnq3e). Prothom Alo (in Bengali). 5 August 2024. Archived (https://web.archiv
            e.org/web/20240806034158/https://www.prothomalo.com/bangladesh/district/ojv2k
            snq3e) from the original on 6 August 2024. Retrieved 6 August 2024.
-28 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
 
       138. "রীমেল িবজয় িমিছেল পুিলেশর িলেত আহত শতািধক" (https://mzamin.com/news.php?news=12152
            1). M Zamin. 5 August 2024. Archived (https://web.archive.org/web/202408060245
@@ -1241,7 +1223,6 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
       147. "BNP leader removed from post over vandalism, looting charges" (https://www.dhak
            atribune.com/bangladesh/politics/354412/bnp-leader-removed-from-post-over-vand
            alism). Dhaka Tribune. 11 August 2024. Retrieved 11 August 2024.
-29 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
 
       148. Hasnat, Saif; Nauman, Qasim (7 August 2024). "Hindus in Bangladesh Face Attacks
            After Prime Minister's Exit" (https://www.nytimes.com/2024/08/07/world/asia/bangla
@@ -1286,7 +1267,6 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
       156. Paul, Ruma; Das, Krishna N. (8 August 2024). "Hindus in Bangladesh try to ﬂee to
            India amid violence" (https://www.reuters.com/world/asia-paciﬁc/hindus-banglades
            h-try-ﬂee-india-amid-violence-2024-08-08/). Reuters.
-30 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
 
       157. "India blocks Bangladeshis ﬂeeing chaotic regime change" (https://www.voanews.c
            om/a/india-blocks-bangladeshis-ﬂeeing-chaotic-regime-change-/7738952.html).
@@ -1321,8 +1301,6 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
            0%A6%A6%E0%A6%BE%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%AE%E
            0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B7) from the original on 10 August
            2024. Retrieved 11 August 2024.
-
-31 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
 
       160. "জব ছিড়েয় সীমােত 'অেচনা' লাকজন জমােয়ত" (https://www.deshrupantor.com/527693/%E0%A
            6%97%E0%A7%81%E0%A6%9C%E0%A6%AC-%E0%A6%9B%E0%A7%9C%E0%A
@@ -1369,7 +1347,6 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
            ThePrint. Archived (https://web.archive.org/web/20240919053707/https://theprint.i
            n/world/bangladeshs-suﬁ-groups-celebrate-birth-anniversary-of-prophet-amid-tightsecurity/2270117/) from the original on 19 September 2024. Retrieved
            19 September 2024.
-32 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
 
       167. "দেশর িবিভন জায়গায় মাজার ভাার ঘটনােলা কন ঘটেছ? কারা ঘটাে?" (https://www.bbc.com/bengali/arti
            cles/ckg2xygly1no). BBC NEWS BANGLA (in Bengali). 7 September 2024. Archived
@@ -1417,7 +1394,6 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
            ary-b8c93cfd). Barron's. Archived (https://web.archive.org/web/20240806092551/ht
            tps://www.barrons.com/news/bangladesh-curfew-to-end-tuesday-businesses-to-reop
            en-military-b8c93cfd) from the original on 6 August 2024. Retrieved 6 August 2024.
-33 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
 
       176. "Meet Army Chief Waker-uz-Zaman who just took over after Sheikh Hasina's ﬂight"
            (https://economictimes.indiatimes.com/news/international/world-news/bangladeshcoup-meet-army-chief-waker-uz-zaman-who-took-over-the-reins-after-seikh-hasinaﬂees-country/articleshow/112287500.cms?from=mdr). The Economic Times. 5
@@ -1461,7 +1437,6 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
       183. "Nobel laureate Muhammad Yunus to lead Bangladesh interim government" (http
            s://www.aljazeera.com/news/2024/8/6/nobel-laureate-yunus-to-lead-bangladesh-int
            erim-govt-presidents-oﬃce). Al Jazeera. Retrieved 7 August 2024.
-34 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
 
       184. "Nobel laureate Yunus arrives in Bangladesh to take over as interim leader" (https://
            apnews.com/article/bangladesh-yunus-hasina-student-protests-8e72489d3f05ab50f
@@ -1509,7 +1484,6 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
       194. "ABT chief Jashimuddin Rahmani freed on bail" (https://www.unb.com.bd/category/B
            angladesh/abt-chief-jashimuddin-rahmani-freed-on-bail/141636). United News of
            Bangladesh. 27 August 2024.
-35 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
 
       195. "Murder case ﬁled against ex-MP Nizam Uddin Hazari" (https://www.dhakatribune.c
            om/bangladesh/nation/354659/ex-mp-nizam-uddin-hazari-faces-murder-charges).
@@ -1552,7 +1526,6 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
            others for vandalizing BNP oﬃce in Barisal" (https://www.dhakatribune.com/bangla
            desh/nation/355839/case-ﬁled-against-former-minister-377-others-for). Dhaka
            Tribune. Retrieved 23 August 2024.
-36 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
 
       207. " 'Today feels like a second Liberation Day,' Bangladesh Nobel laureate Yunus tells
            FRANCE 24" (https://www.france24.com/en/asia-paciﬁc/20240806-today-feels-likea-second-liberation-day-bangladesh-nobel-laureate-yunus-tells-france-24). France
@@ -1593,7 +1566,6 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
       216. "Joy denies Hasina's alleged statement on US role in ouster" (https://www.dhakatrib
            une.com/bangladesh/354439/joy-denies-hasina%E2%80%99s-alleged-statement-o
            n-us-role). 12 August 2024. Retrieved 11 August 2024.
-37 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
 
       217. "মতাচু্যিত িনেয় শখ হািসনার লখা দািবেত ভুয়া খালা িচিঠ ভাইরাল" (https://rumorscanner.com/fact-check/f
            ake-open-letter-on-the-demand-written-by-sheikh-hasina-is-viral/120089). Rumour
@@ -1641,7 +1613,6 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
            9/https://www.deccanherald.com/india/delhi/security-beefed-up-at-bangladesh-hig
            h-commission-in-delhi-3137504) from the original on 7 August 2024. Retrieved
            7 August 2024.
-38 of 39 8/20/25, 8:49 PM Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-cooperation_moveme...
 
       225. "India's Modi voices concern over unrest in neighboring Bangladesh and attacks on
            Hindus there" (https://apnews.com/article/indian-prime-minister-modi-concern-bang
@@ -1663,4 +1634,3 @@ Non-cooperation movement (2024) - Wikipedia https://en.wikipedia.org/wiki/Non-co
            a-from). Dhaka Tribune. Retrieved 13 August 2024.
            External links
            Retrieved from "https://en.wikipedia.org/w/index.php?title=Noncooperation_movement_(2024)&oldid=1300214389"
-39 of 39 8/20/25, 8:49 PM

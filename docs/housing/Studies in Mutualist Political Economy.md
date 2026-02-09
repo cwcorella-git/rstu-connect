@@ -4102,10 +4102,7 @@ Doubleday, Page & Co., 1909) 297–8.
 1980) 31.
  [382] Dobb, Studies in the Development of Capitalism 235–6.
  [383] Wallerstein, Historical Capitalism 105–6.
-##
 [\[384\]](#page-122-4) Wallerstein, The Modern World System, Part I 62, 286.
-
-## 290 of 301 10/4/25, 1:12 PM
 
 [\[385\]](#page-123-0) Ibid. 245–6, 256; Perez Zagorin, "The Second Interpretation of the English Revolution,"
 
@@ -4215,9 +4212,6 @@ Press, 1975) 81.
 194.
  [471] Alexander Cairncross, "Economic Schizophrenia," Scottish Journal of Political Economy
 (February 1950), qt. in Michael Perelman, Classical Political Economy: Primitive Accumulation
-##
-## 292 of 301 10/4/25, 1:12 PM
-
 and the Social Division of Labor (Totowa, N. J.: Rowman & Allanheld; London: F. Pinter, 1984, c
 
 [\[472\]](#page-150-0) J. B. Robertson, The Economics of Liberty (Minneapolis: Herman Kuehn, 1916) 80–1.

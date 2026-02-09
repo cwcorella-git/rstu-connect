@@ -56,13 +56,9 @@ To make our case, we need to understand the various interpretations of what is m
 
 Steven Tufts of York University groups the interpretations into four categories--two of which can be described as "top down" in nature, and two as "bottom up."
 
---
-
 ## Green capitalism
 
 : Also known as the status quo, and based on the idea that the free market drives change under capitalism and will reward green innovation in developing renewable energy and greater efficiency in the use of fossil fuels. For the elites who support this idea, there is the added benefit that green capitalism will be good for a sector of business executives and shareholders.
-
---
 
 ## Second World War-style transition
 
@@ -72,13 +68,9 @@ This strategy is modeled on the mobilization for war in the 1930s and 1940s, rai
 
 Elements of this program are underway in some countries that lack domestic fossil-fuel resources, like Germany. The U. S. is the least likely of the major powers to pursue this strategy because of the power of energy corporations and the massive existing investment in in fossil fuels.
 
---
-
 ## Green capitalism mixed with social justice
 
 : Imagines green job creation and tougher measures like carbon taxes, along with initiatives to promote greater equity north and south; more public transportation; electric cars; bikes; smarter urban planning; sustainable farming methods; and the phasing out of heavily polluting energy through legislative reform implemented under pressure from protest and lobbying. In this scenario, the free market is more regulated, but still determines what goods and services are produced.
-
---
 
 ## Organic energy democracy
 

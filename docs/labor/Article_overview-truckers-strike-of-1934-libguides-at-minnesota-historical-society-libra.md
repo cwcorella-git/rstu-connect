@@ -31,7 +31,7 @@ Overview - Truckers' Strike of 1934 - LibGuides at Minn... about:reader?url=http
 ## of the International Brotherhood of Teamsters (IBT) had
 ## organized 3,000 transportation workers of the trucking
                 industry into an industrial union. When employers refused to
-1 of 2 9/7/25, 12:05 PM Overview - Truckers' Strike of 1934 - LibGuides at Minn... about:reader?url=https%3A%2F%2Flibguides.mnhs.o...
+
                 recognize the union, or its right to speak for all of its members,
                 union leaders called a strike. Trucking operations in the city
 ## came to a halt.
@@ -50,5 +50,3 @@ Overview - Truckers' Strike of 1934 - LibGuides at Minn... about:reader?url=http
                 national labor history and legislation. The strike opened the
 ## way for enactment of laws acknowledging and protecting
 ## workers' rights.
-
-2 of 2 9/7/25, 12:05 PM

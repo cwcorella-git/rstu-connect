@@ -18,8 +18,6 @@ tags:
 
 Once you've committed to the seed-crystal idea you're going to turn into your first novel, you'll have to develop it. (The commitment part is important. There will be some point possibly more than one—in this process where everything you've written sounds stupid, clichéd, or just too frustrating to work with, and you're going to want to give up. If you really mean it when you say "I want to write a novel," you will have to get through this point (possibly more than once). Stubbornness is one of the cardinal virtues for writers, but being prepared for
 
-## 1 of 5 10/16/25, 12:06 AM
-
 this to happen helps, too.)
 
 Ahem. So, developing the idea, frequently referred to as ["prewriting."](https://pcwrede.com/pcw-wp/prewriting/)
@@ -49,5 +47,3 @@ On January 8, 2025 / [Writing](https://pcwrede.com/pcw-wp/category/writing/)
 ## ![](_page_4_Picture_4.jpeg)
 
 ## ![](_page_4_Picture_5.jpeg)
-
-## 5 of 5 10/16/25, 12:06 AM

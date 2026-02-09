@@ -64,7 +64,6 @@ them or contradicts their convictions.
 1:21
 Consensus rejects dualistic, either/or choices, and opens itself to infinite
 possibilities.
-##
 ## 1:27
 
 Consensus is based on the principle that every voice is worth hearing\* and every concern 1:31 is justified. 1:32 But it's more than "chasing compromise" and finding a solution everyone can live with. 1:37 It's a process of finding creative solutions, better than the original proposal. 1:43 Ideas build one upon the next, generating new ideas, until the best decision emerges. 1:49 Rather than looking for just a "time-effective" decision making process, consensus forces 1:53 us to ask what a fair decision making process even looks like, and question the solutions 1:59 it produces. 2:00 Consensus, done right, creates an atmosphere in which conflict is desirable, encouraged, 2:06 supported, and resolved cooperatively with respect and creativity, rather than avoiding, 2:12 dismissing, diminishing, or denying the inevitable. 2:15 Consensus also recognizes that decisions are not an end in themselves. 2:21 Decision making is a process, from proposal to actual implementation. 2:26 For cultures and groups that value consent and cooperation, rather than coercion, to 2:30 follow through, consensus has been the practice. 2:33 Which brings me to the history of consensus. 2:35 The History of Consensus When people think of egalitarian decision History of Consensus 2:41 making, the Ancient Greeks often come to mind. 2:44 Of course, only a select few could actually vote, but they are credited with "the beginning 2:50 of democracy." 2:51 The word democracy began in Ancient Athens, but the process of egalitarian decision making 2:57 dates long, long before them. 3:00 Modern homo sapiens are, like, 200,000 years old, of course they thought to make decisions 3:05
@@ -138,8 +137,6 @@ So, first and foremost, a person submits a proposal.
 It helps if people are able to read and digest the proposal before meetings, just
 to save
 7:40
-##
-
 time.
 7:42
 The proposal is really in its seed stage at this point, expect it to grow and
@@ -199,7 +196,6 @@ to the next step.
 In level two, the scribe can start listing out the concerns that were raised in
 level
 9:01
-##
 one on a blackboard or whiteboard. 9:02 At this stage, we're not resolving or validating any concerns, just listing them. 9:07 Doesn't matter if they're reasonable or unreasonable, vague or well-defined. 9:14 Phrasing is important when it comes to constructively raising concerns. 9:18 Saying things like "I'm concerned because xyz." instead of saying something like "boo, 9:23 this sucks," can be a lot more helpful. 9:26 The facilitator's job through this process of concern identification is to interrupt 9:30 any attempts to defend the proposal, resolve the concern, judge the concern, or dismiss 9:35 anyone's feelings. 9:36 Once it's all laid out, the group can begin to look for connections and patterns between 9:41 the concerns. 9:43 Then the group can move on to level three. 9:45 At level three, the group can begin to resolve related concerns. 9:49 Make sure to ask any clarifying questions about the concerns before attempting to resolve 9:54 them, so that no one is approaching it with misconceptions and projections. 9:57 Now, there are different ways to resolve concerns, depending on the type of concern. 10:02 Some concerns can lead to mere modifications of the proposal, or lead to ideas even better 10:08 than the original proposal. 10:09 It's really a creative and collaborative process when it comes to resolving concerns. 10:14 Sometimes, while addressing some concerns, other concerns may be raised and then those 10:18 need to be resolved too. 10:21 One by one, clear through and resolve the list of concerns, then call for consensus. 10:26 Same process as last time. 10:28 Silence doesn't imply consent. 10:30
 
 If consensus is reached, then boom, proposal get through.
@@ -276,7 +272,6 @@ Consensus often doesn't work with large groups.
 I've heard of different upper limits, like 15 or 20 people, but then I've also seen
 14:55
 where places like Chiapas use consensus in neighbourhood assemblies of 300
-##
 families.
 
 15:00
@@ -338,8 +333,6 @@ Ask people to argue for the opposing viewpoint.
 Find points of agreement.
 16:22
 Identify assumptions and biases.
-##
-
 16:24
 Consider the big picture.
 16:27
@@ -399,7 +392,6 @@ video on DEMOCRACY.
 17:47
 It's really good.
 17:49
-##
 And Being deserves more subs.
 
 ## 17:50

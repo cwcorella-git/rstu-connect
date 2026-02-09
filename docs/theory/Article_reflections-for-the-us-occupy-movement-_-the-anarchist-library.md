@@ -38,8 +38,6 @@ Reﬂections for the US Occupy Movement | The Anarchis... about:reader?url=https
                While the central plazas of the cities of Spain are no longer
 ## occupied, in some places the momentum of May continues
 
-1 of 18 3/17/25, 5:09 PM Reﬂections for the US Occupy Movement | The Anarchis... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## with force. Particularly in Barcelona, a dynamic struggle
 ## continues to evolve, including a heterogeneous and broad
                group of people in weekly neighborhood assemblies, protests,
@@ -71,7 +69,6 @@ Reﬂections for the US Occupy Movement | The Anarchis... about:reader?url=https
                part of the unprecedented turnout of nearly a thousand people
                taking the streets in a solidarity demonstration the same day
                that Catalan police began arresting protestors identified from
-2 of 18 3/17/25, 5:09 PM Reﬂections for the US Occupy Movement | The Anarchis... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## the June Parliament blockade (see “Wave of Arrests Sweep
                Barcelona http://www.counterpunch.org/2011/10/10/
@@ -105,7 +102,6 @@ Reﬂections for the US Occupy Movement | The Anarchis... about:reader?url=https
                May provided a unique opportunity for people trying to change
 ## the world to meet each other and increase our forces and
 
-3 of 18 3/17/25, 5:09 PM Reﬂections for the US Occupy Movement | The Anarchis... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                understanding, but it seems that at each step, we had to pass
 ## an obstacle constituted by the original forms of the 15M
                movement. Similarly in the US, the starting points imposed by
@@ -136,7 +132,6 @@ Reﬂections for the US Occupy Movement | The Anarchis... about:reader?url=https
 ## neighborhood movements at the end of the dictatorship and
                the transition to democracy, the clandestine struggle against
                Franco, the Civil War, and going back to the beginning of the
-4 of 18 3/17/25, 5:09 PM Reﬂections for the US Occupy Movement | The Anarchis... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## century, the anarchist struggle against capitalism.
 
@@ -170,7 +165,7 @@ Reﬂections for the US Occupy Movement | The Anarchis... about:reader?url=https
 ## The memory of struggles from before the global economic
 ## crash has allowed people to move beyond a simple kneejerk
                response to the present crisis and instead formulate a deeper
-5 of 18 3/17/25, 5:09 PM Reﬂections for the US Occupy Movement | The Anarchis... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                critique of the system responsible for their woes. In practice,
                this has meant a popular shift from complaints about specific
 ## laws or specific features of the banking system that might
@@ -203,7 +198,6 @@ Reﬂections for the US Occupy Movement | The Anarchis... about:reader?url=https
                recognize them for what they are. Especially those assemblies
 ## that have remained informal places of meeting, despite the
 
-6 of 18 3/17/25, 5:09 PM Reﬂections for the US Occupy Movement | The Anarchis... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                frequent attempts by grassroots politicians to herd them into
                some formal structure or another, serve a primary function of
                allowing neighbors to meet each other and share their stories,
@@ -235,7 +229,6 @@ Reﬂections for the US Occupy Movement | The Anarchis... about:reader?url=https
                extent to which we know each other, to which we are no longer
 ## strangers in our own neighborhoods, and the extent to which
                these relations of acquaintance are transforming into relations
-7 of 18 3/17/25, 5:09 PM Reﬂections for the US Occupy Movement | The Anarchis... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## of material and emotional solidarity.
 
@@ -268,7 +261,6 @@ Reﬂections for the US Occupy Movement | The Anarchis... about:reader?url=https
                name just a few examples. And because of direct relationships
                of solidarity with international struggles, when the pacifists try
                to hijack the story of the Arab Spring or the uprising in Iceland
-8 of 18 3/17/25, 5:09 PM Reﬂections for the US Occupy Movement | The Anarchis... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## to try and steer the movement in Barcelona towards legalism
 ## and civility, people with friends and comrades in Cairo or
@@ -303,7 +295,6 @@ Reﬂections for the US Occupy Movement | The Anarchis... about:reader?url=https
 ## oldest tools for getting the middle and lower sectors of US
 ## society to betray themselves and help push down those who
 
-9 of 18 3/17/25, 5:09 PM Reﬂections for the US Occupy Movement | The Anarchis... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                are even lower in the hierarchy. The US could not possibly have
 ## created the largest wealth gap in the so-called developed
                world without the complicity of large parts of the population.
@@ -336,7 +327,6 @@ Reﬂections for the US Occupy Movement | The Anarchis... about:reader?url=https
 ## through the Communist period all the way to the early
 ## dynasties).
 
-10 of 18 3/17/25, 5:09 PM Reﬂections for the US Occupy Movement | The Anarchis... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                In order to overcome the severe disadvantages created by the
                denial of place, American rebels and revolutionaries need to
 ## hold on to their locale for dear life, prevent its periodic
@@ -367,8 +357,6 @@ Reﬂections for the US Occupy Movement | The Anarchis... about:reader?url=https
                model of the total privatization of public space that not only
                prohibits—but also installs new urban architecture to engineer
 ## out of existence—anyone who is not a consumer in motion.
-
-11 of 18 3/17/25, 5:09 PM Reﬂections for the US Occupy Movement | The Anarchis... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## The neighborhood assemblies are starting to reverse this
                process, drawing on popular memory of the way things used to
@@ -402,8 +390,6 @@ Reﬂections for the US Occupy Movement | The Anarchis... about:reader?url=https
 ## Nonetheless, public space does exist in the US, however
 ## inconvenient its shape, and it must be taken for popular
 
-12 of 18 3/17/25, 5:09 PM Reﬂections for the US Occupy Movement | The Anarchis... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## struggles to advance. The occupy movement is clearly
 ## breaking ground in this respect, although the embarrassing
                habit in several cities of asking for permission for what is
@@ -434,7 +420,6 @@ Reﬂections for the US Occupy Movement | The Anarchis... about:reader?url=https
                revolutionary visions. Just a brief scene from our meeting on
                Wednesday night can give an indication of the healthy effect
                this radicalization has had on morale:
-13 of 18 3/17/25, 5:09 PM Reﬂections for the US Occupy Movement | The Anarchis... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## There were perhaps seventy of us, people from our
 ## neighborhood and a few people from other neighborhoods who
@@ -467,7 +452,6 @@ Reﬂections for the US Occupy Movement | The Anarchis... about:reader?url=https
                meeting where we’re counselled to follow rules stacked against
 ## us, perhaps sign a petition or two, come out to a protest,
 
-14 of 18 3/17/25, 5:09 PM Reﬂections for the US Occupy Movement | The Anarchis... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                provided we behave a certain way, and then leave the rest to
                the specialists? If someone had gotten up to speak of the need
                to be nonviolent or respect the laws, they probably would have
@@ -500,8 +484,6 @@ Reﬂections for the US Occupy Movement | The Anarchis... about:reader?url=https
 ## growing anticapitalist consensus. There is still plenty of
 ## democratic rhetoric in the movement, but every month it
 
-15 of 18 3/17/25, 5:09 PM Reﬂections for the US Occupy Movement | The Anarchis... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## seems to wane, and in the most active, dynamic
 ## neighborhoods, the common ground is not support of
 ## democracy but the shared opposition to capitalism.
@@ -533,7 +515,7 @@ Reﬂections for the US Occupy Movement | The Anarchis... about:reader?url=https
 ## democracy movement prevents the worst of fascism by
                promoting tolerance, but in many places it has already won the
                financing of forward-looking elites, hijacked growing struggles
-16 of 18 3/17/25, 5:09 PM Reﬂections for the US Occupy Movement | The Anarchis... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                and steered them in populist, self-defeating directions, and
                marginalized more radical elements, directly assisting in their
 ## repression.
@@ -566,7 +548,6 @@ Reﬂections for the US Occupy Movement | The Anarchis... about:reader?url=https
 ## welfare states of northern Europe, for example, have
 ## successfully undermined popular autonomy and created a
                population of dependents and sycophants that, even today, in
-17 of 18 3/17/25, 5:09 PM Reﬂections for the US Occupy Movement | The Anarchis... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## the face of growing abuse and governmental fascism, seem
                unable to constitute popular struggles. This innate American
@@ -585,5 +566,3 @@ Reﬂections for the US Occupy Movement | The Anarchis... about:reader?url=https
 ## have been whispering to each other, “Now, there’s even
                occupations starting in the US. Something really big must be
 ## happening!”
-
-18 of 18 3/17/25, 5:09 PM

@@ -22,8 +22,6 @@ The revolutionary organization organizes within mass movements in order to contr
 
 The revolutionary organization does this in order to build a social base for anti-authoritarian approaches towards social transformation that is rooted in the struggles of working class and oppressed people. The revolutionary organization works within mass struggles to combat isolation, share
 
-## 1 of 4 10/24/25, 10:25 AM
-
 resources, extend mutual aid networks and link different struggles. It works within rank and file movements and mass organizations. It strives to counteract authoritarian, bureaucratic and reformist tendencies by advocating horizontal, directly democratic and revolutionary forms of organizing within mass movements.
 
 The revolutionary organization in its movement work creates positive relationships with other sympathetic activists and organizations. It avoids public condemnation of sympathetic groups who use different tactics. In this way it can develop an active periphery of supporters and allies who find themselves in agreement with aspects of its work and ideas.
@@ -58,7 +56,4 @@ The organizational principles of the revolutionary organization serve to strengt
 
 The revolutionary organization is also a political home for revolutionaries. A place for its membership to feel supported and safe. The revolutionary organization strives to achieve an internal organizational culture based on respect, principled behavior and accountability to each other that fights all forms of domination and oppression. It does this through an active practice of challenging all forms of oppression within ourselves, our relationships, and
 
-## 3 of 4 10/24/25, 10:25 AM
-
 our organizations. This responsibility for maintaining an organizational culture of accountability is that of the entire membership. The membership is responsible for and accountable for the memberships' actions. To do this the membership defines clear guidelines to pro-actively solve issues before they happen.
-## 4 of 4 10/24/25, 10:25 AM

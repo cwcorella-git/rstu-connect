@@ -138,16 +138,10 @@ Michelle D. Bonner | 251 |
 | | (Source Varieties of Democracy (V-Dem) | |
 ## | | [Coppedge et al. 2017]) | 75 |
 
-## list of t Ables
-
-| Table 7.1 | Protester, police, and observer identity combinations | 175 |
-|-----------|-------------------------------------------------------|-----|
-| Table 7.2 | Race of respondents by experimental treatment | 178 |
-| Table 7.3 | Conditional distributions of responses | 180 |
-| Table 7.4 | Multinomial logistic regression results | 182 |
-| Table 7.5 | Difference in predicted probability between | |
-| | white and black observers | 183 |
-| Table 7.6 | Probability of protester blame | 184 |
+7.1 | Protester, police, and observer identity combinations | 175 |
+7.2 | Race of respondents by experimental treatment | 178 |
+7.5 | Difference in predicted probability between | |
+7.6 | Probability of protester blame | 184 |
 ## | Table 7.7 | Probability of police blame | 185 |
 
 ## ![](_page_13_Picture_0.jpeg)

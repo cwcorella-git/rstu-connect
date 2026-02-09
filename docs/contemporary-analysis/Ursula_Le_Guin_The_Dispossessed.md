@@ -332,7 +332,6 @@ What was the thicker darkness that flowed along endlessly by the road? Trees? Co
 It was not like any human face. It was as long as his arm, and ghastly white. Breath jetted in vapor from what must be nostrils, and terrible, unmistakable, there was an eye. A large, dark eye, mournful, perhaps cynical? gone in the flash of the car's lights.
 
 "What was that?"
-##
 "Yes, an animal. By God, that's right! You have no large animals on Anarres, have you?"
 
 "A donkey's a kind of horse," said another of the men, and another, in a firm, elderly voice, "That was a horse. Donkeys don't come that size." They wanted to talk with him, but Shevek was not listening again. He was thinking of Takver. He wondered what that deep, dry, dark gaze out of the darkness would have meant to Takver. She had always known that all lives are in common, rejoicing in her kinship to the fish in the tanks of her laboratories, seeking the experience of existences outside the human boundary. Takver would have known how to look back at that eye in the darkness under the trees.
@@ -356,7 +355,6 @@ The youngest of the men who had come with him sat down across the hearth from hi
 Shevek stretched out his legs and leaned forward to catch the warmth of the fire on his face. "I feel heavy."
 
 "Heavy?"
-##
 ## "Perhaps the gravity. Or I am tired."
 
 He looked at the other man, but through the hearth glow the face was not clear, only the glint of a gold chain and the deep jewel red of the robe.
@@ -524,7 +522,6 @@ Tirin looked at them, derisive. "You're all crazy. Who wants to actually get loc
 "Five years!"
 "It's four hours till lights-out. That ought to do it."
 "But I want a turn!"
-##
 ## "All right, we'll leave you in all night."
 
 ## "Well, I meant tomorrow."
@@ -1544,7 +1541,6 @@ He thought about Mitis and her warning. He thought about the Northsetting Instit
 He had never been ill, and never known any physical discomfort worse than tiredness. Having no idea what a high fever was like, he thought, during the lucid intervals of that long night, that he was going insane. Fear of madness drove him to seek help when day came. He was too frightened of himself to ask help from his neighbors on the corridor: he had heard himself raving in the night. He dragged himself to the local clinic, eight blocks away, the cold streets bright with sunrise spinning solemnly about him. At the clinic they diagnosed his insanity as a light pneumonia and told him to go to bed in Ward Two. He protested. The aide accused him of egoizing and explained that if he went home a physician would have to go to the trouble of calling on him there and arranging private care for him. He went to bed in Ward Two. All the other people in the ward were old. An aide came and offered him a glass of water and a pill. "What is it?" Shevek asked suspiciously. His teeth were chattering again.
 
 "Antipyretic."
-##
 The aide shrugged. "All right," she said, and went on.
 
 Most young Anarresti felt that it was shameful to be ill: a result of their society's very successful prophylaxy, and also perhaps a confusion arising from the analogic use of the words "healthy" and "sick." They felt illness to be a crime, if an involuntary one. To yield to the criminal impulse, to pander to it by taking pain relievers, was
@@ -2366,7 +2362,6 @@ It was the first time he had heard her say his name. He turned to her and said s
 They were face to face now, but they had not touched.
 
 "Is it what you need, then?"
-##
 Life, said the stream of quick water down on the rocks in the cold dark.
 
 When Shevek and Takver came down from the mountains, they moved into a double room. None was free in the blocks near the Institute, but Takver knew of one not far away in an old domicile in the north end of town. In order to get the room they went to the block housing manager —Abbenay was divided into about two hundred local administrative regions, called blocks—a lens grinder who worked at home and kept her three young children at home with her. She therefore kept the housing files in a shelf on top of a closet so the children wouldn't get at them. She checked that the room was registered as vacant; Shevek and Takver registered it as occupied by signing their names.
@@ -3366,7 +3361,6 @@ Sabul produced an unnatural chuckle.
 "Did anything come in for us on the summer shipments from Urras?" Shevek inquired, clearing off sitting room on the bench. He sat down and crossed his legs. His light skin had tanned and the fine down that covered his face had bleached to silver while he worked in the fields in Southrising. He looked spare, and sound, and young, compared to Sabul. Both men were aware of the contrast.
 
 "Nothing of interest."
-##
 "What's odd about it? What did you expect, a lectureship at Ieu Eun University? The Seo Oen Prize?"
 
 "I expected reviews and replies. There's been time." He said this as Sabul said, "Hardly been time for reviews yet."
@@ -3616,7 +3610,6 @@ The Urrasti counted twenty hours in a day. For eight days he spent twelve to six
 Coming in with the breakfast tray, Efor found him lying half-dressed on the bed, his eyes shut, talking in a foreign language. He roused him. Shevek woke with a convulsive start, got up and staggered into the other room, to the desk, which was perfectly empty; he stared at the computer, which had been cleared, and then stood there like a man who has been hit on the head and does not know it yet. Efor succeeded in getting him to lie down again, and said, "Fever there, sir. Call the doctor?"
 
 "No!"
-##
 ## &quot;Sure, sir?"
 
 &quot;No! Don't let anybody in here. Say I am ill, Efor."

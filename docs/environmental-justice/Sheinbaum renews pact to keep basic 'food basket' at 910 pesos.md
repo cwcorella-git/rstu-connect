@@ -19,8 +19,6 @@ Under the agreement signed by Sheinbaum and Mexico's major food and grocery comp
 
 ## ![](_page_0_Picture_8.jpeg)
 
-## 1 of 3 7/12/25, 3:25 PM
-
 ## ![](_page_1_Picture_2.jpeg)
 
 Essential groceries like eggs, rice and beans remain affordable under Mexico's anti-inflation agreement. (Moisés Pablo Nava/ Cuartoscuro)
@@ -37,8 +35,6 @@ Cabinet members attending the signing ceremony included Finance Minister Edgar A
 
 Energy Minister Luz Elena González [praised](https://x.com/Luz Elena_GE/status/1922106305701151089) "the willingness of supermarkets and agricultural producers to join this action for the benefit of the people of Mexico" on her social media channels.
 
-## 2 of 3 7/12/25, 3:25 PM
-
 The agreement comes amid ongoing inflationary pressures that are impacting low-income families.
 
 At the end of April, inflation in Mexico was 3.93%, marking its third consecutive monthly increase, according to data from the National Institute of Statistics and Geography (INEGI). The Bank of Mexico's target inflation rate is set at 3%, plus or minus one percent.
@@ -50,5 +46,3 @@ Agribusinesses in the agreement include Grupo Mar, Minsa, Lala, Bimbo, Su Karne,
 To prevent rising fuel prices, the government said it will remain committed to keeping prices below inflation, including electricity rates and other public prices.
 
 With reports from [Proceso](https://www.proceso.com.mx/nacional/politica/2025/5/12/sheinbaum-renovo-paquete-contra-la-inflacion-no-aumentara-precio-de-24-productos-de-canasta-basica-351007.html), [Animal Político](https://animalpolitico.com/politica/sheinbaum-paquete-inflacion-canasta-basica) and [Aristegui Noticias](https://aristeguinoticias.com/1305/mexico/sheinbaum-y-empresarios-renuevan-pacic-canasta-basica-se-mantiene-en-910-pesos/)
-
-## 3 of 3 7/12/25, 3:25 PM

@@ -24,7 +24,7 @@ The General Strike | ecology.iww.org about:reader?url=https%3A%2F%2Fecology.iww.
 
 ## What is a general strike? Well, it’s what happens when all
                 workers in a specific industry or geographical location cease
-1 of 3 10/24/25, 12:04 AM The General Strike | ecology.iww.org about:reader?url=https%3A%2F%2Fecology.iww.org%...
+
                 work simultaneously, thus bringing business as usual to a halt.
 ## Such activity can be used with great effect to beat back
                 growing oppressive conditions, brought on by the bosses or by
@@ -56,7 +56,6 @@ The General Strike | ecology.iww.org about:reader?url=https%3A%2F%2Fecology.iww.
 ## by a union—and that amounts to more than 87% of American
                 wage earners—face enormous risks for taking collective action
                 at all, let alone something as forceful as a strike. That doesn’t
-2 of 3 10/24/25, 12:04 AM The General Strike | ecology.iww.org about:reader?url=https%3A%2F%2Fecology.iww.org%...
 
 ## mean workers not formally represented by a union cannot
                 strike. In fact, they can, and what’s more, such activity is
@@ -71,5 +70,3 @@ The General Strike | ecology.iww.org about:reader?url=https%3A%2F%2Fecology.iww.
 ## and coordinate with grassroots community organizations.
                 Otherwise, these workers would be sitting ducks, and likely all
 ## get fired.
-
-3 of 3 10/24/25, 12:04 AM

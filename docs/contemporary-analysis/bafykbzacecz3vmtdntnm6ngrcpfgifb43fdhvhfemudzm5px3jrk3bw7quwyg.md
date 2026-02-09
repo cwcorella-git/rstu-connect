@@ -4126,9 +4126,7 @@ for candidate |
 |------------------|-----------|------------------|-----------------------------|
 | Democratic Party | Gore | 35 | 52 |
 | Republican Party | Bush | 48 | 48 |
-## | Green Party | Gore | 17 | |
-
-Table 17.2 Illustration of a hypothetical presidential election with three parties under fusion voting rules
+17.2 Illustration of a hypothetical presidential election with three parties under fusion voting rules
 
 | District Number | Democrats | Republicans | Winner in election |
 |-----------------|-----------|----------------|---------------------------|
@@ -4137,9 +4135,7 @@ Table 17.2 Illustration of a hypothetical presidential election with three parti
 million | Republican |
 | 3 | 1 million | 1.1
 million | Republican |
-| Total | 4 million | 2.3 million | 1 Democrat, 2 Republicans |
-
-Table 17.3 Illustration of effects of Gerrymandering on an election
+17.3 Illustration of effects of Gerrymandering on an election
 
 ## ![](_page_346_Picture_2.jpeg)
 

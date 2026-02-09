@@ -19,8 +19,6 @@ It's not clear whether Wilson was wounded by FBI agents or if he died by suicide
 
 FBI officials describe Wilson as a potentially violent extremist known to express racial and religious hatred and antigovernment sentiment. They say that while under surveillance, Wilson wanted to commit an act of terrorism,
 
-## 1 of 3 11/11/25, 7:29 PM
-
 specifically a bombing, and had considered several targets, including a school with a large population of black students, a synagogue and a mosque.
 
 But as the coronavirus pandemic began to take hold in the United States and local officials in Missouri issued stay-at-home orders, FBI officials said Wilson became aggravated.
@@ -41,12 +39,8 @@ As of Wednesday, there have been 356 cases of the coronavirus illness COVID-19 i
 
 ## ![](_page_1_Picture_11.jpeg)
 
-## 2 of 3 11/11/25, 7:29 PM
-
 Michael Kosnar is the Justice Department Producer for NBC News.
 
 ## ![](_page_2_Picture_3.jpeg)
 
 Phil Helsel is a reporter for NBC News.
-
-## 3 of 3 11/11/25, 7:29 PM

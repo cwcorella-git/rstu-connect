@@ -60,13 +60,10 @@ ICNC MONOGRAPH SERIES EDITOR: Dr. Maciej Bartkowski VOLUME EDITORS: Bruce Pearso
 | Introduction | 5 |
 | The Turning Point | 6 |
 | Key Research Questions and Analytical Framework | 9 |
-| Monograph Structure | 10 |
-| Chapter 1. The Tradition of Judicial Resistance in Poland | 12 |
+1. The Tradition of Judicial Resistance in Poland | 12 |
 | Judicial Solidarity Movement in the 1980s | 13 |
-| Protests of Polish Judges in Democratic Poland (2008–2014) | 14 |
-| Chapter 2. The Law and Justice Party's Grab on the Independent Judiciary | 16 |
-| A Loss of Public Condence in Judges | 21 |
-| Chapter 3. Judicial Activism, Disobedience, and Resistance | 23 |
+2. The Law and Justice Party's Grab on the Independent Judiciary | 16 |
+3. Judicial Activism, Disobedience, and Resistance | 23 |
 | Constructive and Disruptive Activism | 23 |
 | Becoming a People's Judge | 26 |
 | Judges' Freedom of Expression | 29 |
@@ -77,9 +74,7 @@ Rose Up (2017) | 33 |
 | Judicial Resistance Continues (2018–2023) | 40 |
 | Changes in the Way Judges Perceived Their Function | 41 |
 | Judges' Associations: The Engine Behind Judicial Resistance | 43 |
-| Size and Demographics of Judicial Resistance | 47 |
-
-| Chapter 4. Professional Groups in Support of Judicial Independence | 49 |
+4. Professional Groups in Support of Judicial Independence | 49 |
 |-------------------------------------------------------------------------------------|-----|
 | Action Democracy (AD) | 49 |
 | Committee for the Defense of the Democracy (KOD) | 50 |
@@ -89,14 +84,12 @@ Rose Up (2017) | 33 |
 | The Human Rights Commission (HRC) of the Polish Bar Association | 55 |
 | Lex Super Omnia and Resisting Prosecutors | 56 |
 | The Justice Defense Committee (KOS) | 59 |
-| Polish Commissioner for Human Rights | 60 |
-| Chapter 5. Impact of Judicial Resistance | 62 |
+5. Impact of Judicial Resistance | 62 |
 | Polish Resistance Became a European Concern | 62 |
 | Judges Engaged Citizens | 64 |
 | Politicians Learned What Was at Stake | 64 |
 | The Legal Profession Came Together | 65 |
-| Judicial Resistance Pierced the Opponent | 65 |
-| Chapter 6. Catalog of Judicial Resistance Actions | 68 |
+6. Catalog of Judicial Resistance Actions | 68 |
 | Acts of Expression | 68 |
 | 1 Acts
 of
@@ -193,9 +186,7 @@ Intervention | 120 |
 | About the Author | 174 |
 ## | | |
 
-#### Tables, Figures, and Boxes
-
-| TABLE 1. Judges' Tactics Using Actions of Expression
+1. Judges' Tactics Using Actions of Expression
 69 |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | TABLE 2. Judges' Tactics Using Actions of Omission
@@ -208,14 +199,12 @@ Intervention | 120 |
 145 |
 | FIGURE 1. In the July 2017 "Chain of Lights," protesters hold posters
 35
-that read "Constitution." |
-| FIGURE 2. AD projected the message "This is our court" on the Supreme Court
+2. AD projected the message "This is our court" on the Supreme Court
 building during the Chain of Light protest.
 50 |
 | FIGURE 3. Polish lawyers support the judges during the March of 1,000 Gowns.
 68
-One lawyer holds the Polish Constitution. |
-| FIGURE 4. On the eve before Igor Tuleya's hearing regarding the possible waiver
+4. On the eve before Igor Tuleya's hearing regarding the possible waiver
 of his immunity, demonstrators hold letters spelling "Murem za Igorem,"
 "Standing behind Igor."
 70 |
@@ -232,8 +221,7 @@ Disciplinary Chamber was scheduled for the following day).
 75 |
 | FIGURE 9. Judges Katarzyna Wesołowska-Zbudniewek, Ewa Maciejewska,
 75
-Krzysztof Kacprzak, Paweł Maciejewski i Grzegorz Gała |
-| FIGURE 10. Judge Lutostańska and other judges from Olsztyn posing in the
+10. Judge Lutostańska and other judges from Olsztyn posing in the
 Konstytucja T-shirts.
 76 |
 | FIGURE 11. Poster action in courts and the city (freedom for Polish judges,
@@ -252,16 +240,14 @@ matches the edge of the judge's gown while the symbol signies "the law is sti
 alive." There were also versions for lawyers and prosecutors.
 79 |
 | 82
-FIGURE 15. Iustitia posters at the Pol And Rock Festival. |
-| FIGURE 16. Posters from the festivals
+16. Posters from the festivals
 89 |
 | FIGURE 17. Protest poster that lists the cities, location and time of the expected
 protests in support of the independent judges.
 91 |
 | FIGURE 18. The same protests were held in front of the Myślenice District Court
 92
-and Gliwice Regional Court. |
-| FIGURE 19. Poster: Demand they return to work (list of prosecuted judges that
+19. Poster: Demand they return to work (list of prosecuted judges that
 were suspended from adjudicating)—protest on the 18th at 18:00
 93 |
 | FIGURE 20. Individual photos of judges supporting
@@ -2585,7 +2571,6 @@ Dolińska-Ficek and Ozimek v. Poland (nos.
 ––––– "Judgment of 6 July 2023, Tuleya v.
 Poland, nos. 21181/19 and 51751/20,
 ––––– "Judgment of 24 October 2023, Pająk
-##
 and Others v. Poland, no. 25226/18,
 
 **–––––** "Judgment of 23 November 2023, Wałęsa v. Poland, no. 50849/21.

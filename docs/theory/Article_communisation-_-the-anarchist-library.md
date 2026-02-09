@@ -39,8 +39,6 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                societies, and free software access in the most modern ones).
 ## In other words, these “creative commons” would allow us a
 
-1 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## gradual and peaceful passage toward a human community.
 
                The successive refutation of theories we regard as incomplete
@@ -72,8 +70,6 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## barter. These collectives functioned as worker-managed
                enterprises, for the benefit of the people, yet enterprises all the
 ## same.
-
-2 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## We are dealing with something else.
 
@@ -107,8 +103,6 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                relationships, and this can only be done if the process starts in
 ## the very early days of the revolutionary upheaval. Money,
 
-3 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## wage-labour, the enterprise as a separate unit and a valueaccumulating pole, work-time as cut off from the rest of our
                life, production for value, private property, State agencies as
                mediators of social life and conflicts, the separation between
@@ -139,7 +133,7 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                possibility for the proletarians to try and invent “something
                else”. Most of the time, nearly all the time in fact, their reaction
                is far from communism, but the possibility of a breakthrough
-4 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                does exist, as has been proved by a succession of endeavours
                throughout modern times, from the English Luddites in 1811 to
 ## the Greek insurgents in 2008.
@@ -172,7 +166,6 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## capitalism itself would render null and void the “labour
 ## capitalist” option, and the only alternative facing the
 
-5 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                proletariat would become a simple one: communist revolution
 ## or descent into barbarism.
 
@@ -205,7 +198,6 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                (..) The struggle against capital in its developed, modern form –
 ## in its decisive aspect, the struggle of the industrial wage
                worker against the industrial bourgeois – is in France a partial
-6 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## phenomenon (..) Nothing is more understandable, then, than
                that the Paris proletariat sought to secure the advancement of
@@ -239,7 +231,6 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                over: capital’s completely real domination destroys the
 ## possibility of anything but a communist endeavour.
 
-7 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                We ought to be a bit wary of the lure of catastrophe theory.
 ## When 1914 broke out, and even more so after 1917,
 ## communists said that mankind was entering the epoch of wars
@@ -270,8 +261,6 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                regularly, sometimes irregularly, but which on the whole, with
 ## the growing size of capitalism, become more and more
 ## devastating. (..) And should the present crisis abate, new
-
-8 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## crises and new struggles will arise. In these struggles the
                working class will develop its strength to struggle, will discover
@@ -305,8 +294,6 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## that would do away with property, classes and work as an
 ## activity separate from the rest of life.
 
-9 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## The theme of communisation is as old as the proletarians’
 ## struggles when they tried to free themselves. Whenever they
 ## were on the social offensive, they implicitly and sometimes
@@ -337,8 +324,6 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## stagnation of Marxism” can help us understand why a deeply
 ## entrenched “communising” prospect has waited so long before
 ## becoming explicit. At the dawn of capitalism, the 1830s and
-
-10 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## 1840s were a time of farseeing communist insights. Marx’s
 ## 1844 Manuscripts probably expressed the sharpest edge of
@@ -373,7 +358,6 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                In 1975-76, A World Without Money did not evade the issue of
 ## how Marx stood regarding communisation (a word and concept
 
-11 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                he never used):
 
 ## “That Marx and Engels did not talk more about communist
@@ -407,7 +391,6 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                21st century, we would be naïve to believe that we are wiser
 ## than our predecessors because we realize how destructive
 
-12 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                productive forces can be. Just as the nature of capitalism is
                invariant, so are the nature and programme of the proletariat.
 ## This programme, however, cannot escape the concrete needs
@@ -440,7 +423,6 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                paradise, new public orthodoxy declares the industrial dream
                to be a nightmare, so there is little merit in debunking the
                techno-cult or advocating renewable energy or green building.
-13 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## The idea of communisation as a revolution that creates
 ## communism - and not the preconditions of communism -
@@ -473,8 +455,6 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                being word-drunk, there is little fun in playing the prophet of
 ## the past.
 
-14 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## Transition ?
 
                We would have nothing to object to the concept of transition if
@@ -506,7 +486,6 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## decay and/or destruction from outside, all the more so as
 ## various countries and continents will not be developing new
                relationships at the same pace. Some areas may lag behind for
-15 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## a long time. Others may go through temporary chaos. But the
 ## main point is that the communising process has to start as
@@ -540,7 +519,7 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 
                We will only modify our food habits, for example, as we modify
                our tastes: changing circumstances go along with changing
-16 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                minds, as was written in the third Thesis on Feuerbach in 1845.
                Our intention is not to create a new man, virtuous, reasonable,
                always able and willing to master his desires, always respectful
@@ -572,8 +551,6 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## power vacuum enabled them to seize it. The insurgents did
                away with a State machinery which was already dissolving, did
 ## not attempt or manage to change the social structure, won a
-
-17 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## civil war, and eventually created a new State power.
 
@@ -609,8 +586,6 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## the idea of a communisation which they fear would try and
 ## change the social fabric while not bothering to smash State
 
-18 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## power. These comrades miss the point. Communisation is not
 ## purely or mainly social and therefore non-political or only
                marginally political. It implies fighting public – as well as private
@@ -643,7 +618,6 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                will shift away from State power, and the less bloodshed there
 ## will be.
 
-19 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                An insurrectionary process does not just consist in occupying
                buildings, erecting barricades and firing guns one day, only to
 ## forget all about them the next. It implies more than mere
@@ -676,7 +650,6 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## sooner or later be crushed, or will lose their impetus, as
 ## happened in Spain after 1936. On the other hand, if the
                necessary armed struggle against the police and army is only a
-20 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## military struggle, one front against another, and if the
                insurgents do not also take on the social bases of the State,
@@ -710,7 +683,6 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                make as to be the revolution. Quite. But J. Holloway’s theory of
 ## “changing the world without taking power” empties that
 
-21 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                process of any reality by denying its antagonism to the State.
                Like Holloway, we don’t want to take power. But unlike him and
                his many followers, we know that State power will not wither
@@ -743,7 +715,6 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                follow that nearly everyone is a proletarian, nor that every
 ## proletarian can play the same part in the communising
 
-22 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                process. Some are more apt than others to initiate the change,
 ## which does not mean that they would be the “leaders” of the
                revolution. On the contrary, they would succeed only in so far
@@ -777,8 +748,6 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                General strike, mass disorder and rioting break the normal flow
 ## of social reproduction. This suspension of automatisms and
 
-23 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## beliefs forces proletarians to invent something new that
                implies subjectivity and freedom: options have to be decided
                on. Everyone has to find his or her place, not as an isolated
@@ -809,7 +778,7 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## any large social movement (Germany 1918, Spain 1936,
 ## France 1968, Argentina 2001, to name a few) shows how
                volatile the unprecedented can be, when the situation slips out
-24 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                of control and creates both deadlocks and breakthroughs. One
 ## thing leads to another point of departure for further
                development. That particular example prompts the question of
@@ -841,7 +810,7 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 
                On the contrary, communisation will treat the minor facts of
                existence for what they are: a reflection and a manifestation of
-25 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                “big” facts. Money, wage-labour, companies as separate units
 ## and value accumulation centres, work-time cut off from the
 ## rest of our time, profit-oriented production, obsolescence-
@@ -872,8 +841,6 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## non-mercantile links which tend to be more and more
                irreversible: “Beyond a certain point, one cannot come back.
 ## That tipping-point we must reach.” (Kafka)
-
-26 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## Making, circulating and using goods without money includes
                breaking down the wall of a private park for the children to
@@ -906,7 +873,6 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                classrooms for years (now 15 to 20 years in so-called advanced
 ## societies). Actually, modern school is fully aware of the
                shortcomings of such an absurdity, and tries to bridge the gap
-27 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## by multiplying out-of-school activities and work experience
                schemes. These remedies have little effect: the rift between
@@ -939,7 +905,6 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                best remembered, was the rejection of a revolution that would
 ## postpone its completion to an always receding future.
 
-28 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                In the following years, as the radical wave gradually ebbed, the
 ## emphasis on the here and now remained, albeit deprived of
 ## subversive content and purpose, and was reduced to an array
@@ -970,7 +935,7 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                current far leftists. While it pushes dozens of millions in or out
                of work, today’s all-encompassing capitalism wears more often
                a hedonistic than a puritanical mask. It turns Victor Serge’s
-29 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                formula upside down: “Do not sacrifice the present… ! Live
 ## and communicate here and now !”
 
@@ -1003,7 +968,6 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## Russian mir had neither the strength nor the intention of
                revolutionising society: rural cooperation depended on a social
                system and a political order that was beyond the grasp of the
-30 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## village autonomy. Nowadays, millions of co-ops meet their
                match when they attempt to play multinationals – unless they
@@ -1039,8 +1003,6 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 
 ## fulfilment of needs =
 
-31 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## community + abundance =
 
 ## equality
@@ -1075,8 +1037,6 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 
 ## No money
 
-32 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## Communising is not just making everything available to
 ## everyone without anyone paying, as if we merely freed
 ## instruments of production and modes of consumption from
@@ -1109,7 +1069,7 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                what they had in common: in spite of their different concrete
 ## natures and uses, both they were comparable results of the
                same practice, labour in general, or abstract labour, liable to be
-33 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                reduced to a universal and quantifiable element, the average
 ## human effort necessary to produce that bread and that jar.
                Activity was turned into work. Money is crystallised labour: it
@@ -1143,7 +1103,6 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                money to fight or to feed themselves, because goods will not
 ## be reduced to a quantum of something comparable to another
                quantum. Circulation will be based on the fact that each action
-34 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## and person is specific and does not need to be measured to
 ## another in order to exist.
@@ -1177,7 +1136,7 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                that the product considered will be particular: it will correspond
                to needs expressed personally (by the direct producers at the
                time or by others) and that the satisfaction of the need won't
-35 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                be separated from the productive act itself. Let's think, for
                example, about how the construction of housing will change as
 ## soon as standardization disappears. Production without
@@ -1209,7 +1168,6 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## as I have a mind, without ever becoming hunter, fisherman,
 ## herdsman or critic.” (Marx, German Ideology, 1845)
 
-36 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                This statement has been ridiculed by bourgeois for its naivety,
                and attacked by radicals for its acceptance of objectionable
                activities, hunting of course, more generally its endorsement of
@@ -1241,7 +1199,6 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## where only those involved in it are allowed in.
 
                Scarcity vs. abundance: Prometheus unbound?
-37 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## For many a communist (once again, most Marxists and quite a
                few anarchists), the original cause of the exploitation of man by
@@ -1276,8 +1233,6 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## vision believes that reaching a stage of abundance will
 ## transform humankind. When men and women are properly fed,
 
-38 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## housed, schooled, educated, cared for, “struggle for life”
 ## antagonisms and attitudes will gradually disappear,
                individualism will give way to altruism, people will behave well
@@ -1309,7 +1264,7 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                physical needs are fulfilled. Human beings only satisfy – or fail
                to satisfy – all their needs within social interrelations. Only in
                extreme circumstances do we eat just in order not to starve. In
-39 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                most cases, we eat in the company of others (or we decide or
 ## are led or forced to eat on our own, which also is a social
                situation). We follow a diet. We may overeat or voluntarily skip
@@ -1340,7 +1295,6 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## links which will also result in vegetable gardening.
                Communisers will not say: “Let’s grow potatoes because we
                need to feed ourselves.” Rather, they will imagine and invent a
-40 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## way to meet, to get and be together, that will include
 ## vegetable gardening and be productive of potatoes. Maybe
@@ -1375,7 +1329,6 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                existence of a market, but he analysed the institution of the
 ## economic process as a distinct system with its own laws of
                motion. The Great Transformation, written in the aftermath of
-41 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## the Great Depression, coincided with a capitalist effort to
                regulate market forces. In the last decades, there has been a
@@ -1407,7 +1360,7 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                We declare that we can no longer put up with the fact that the
                great majority work and sweat for the smallest of minorities.
                Long enough, and for too long, less than a million individuals
-42 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                have disposed of that which belongs to 20 million of their like,
 ## their equals.”
 
@@ -1440,7 +1393,7 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                its fluidity, its ability to supersede rigid forms, to remodel
                hierarchy and discard vested interests when it needs to, not
                forgetting its adaptability to the most varied doctrines and
-43 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                regimes. This plasticity has no precedent in history. It derives
 ## from the fact that capitalism has no other motive than to
                create abstract value, to maximize its flow, and eventually to
@@ -1472,7 +1425,6 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                taught us how resourceful that system can prove. In troubled
                times, social creativity will not only be on our side: in order to
                ride out the storm, capitalism also will put forward authenticity
-44 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## and collectiveness. It will provide the individual with
                opportunities to go beyond his atomized self. It will suggest
@@ -1505,7 +1457,7 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
                moral order than it did in the 1920s and 30s, and often have a
 ## “liberal-libertarian” and permissive-transgressive flavour.
                Communisation, on the other hand, will prevail by giving birth
-45 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                to ways of life that will tend to be universal, but not dominated
 ## by addiction, virtuality and public imagery.
 
@@ -1535,8 +1487,6 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## work and the myth of progress.
 
 ## We have no other terrain apart from this contradiction. It
-
-46 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## dramatically exploded in January 1919, when a few thousand
 ## Spartakist insurgents went to battle amidst the quasi
@@ -1572,7 +1522,6 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 
 ## Background information on how the “communisation” idea
 
-47 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                became explicit in the 1970s:
                The Story of Our Origins (part of an article from La Banquise,
                #2, 1983): John Gray “For communism” site: reocities.com
@@ -1605,7 +1554,7 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 
                On democracy:The Implosion of Democratist Ideology, 1989,
                available on Libcom.org; and A Contribution to the Critique of
-48 of 49 3/17/25, 5:10 PM Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                Political Autonomy, 2008, available on The Anarchist Library.
                Marx, letter to Vera Zasulich, March 1881; and: “If the Russian
                Revolution becomes the signal for a proletarian revolution in
@@ -1619,4 +1568,3 @@ Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchis
 ## Fundamental Principles of Communist Production &
                Distribution (1930): marxists.org
                S. Maréchal, Manifesto of the Equals (1796): marxists.org
-49 of 49 3/17/25, 5:10 PM

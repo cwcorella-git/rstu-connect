@@ -1143,7 +1143,6 @@ How even a formal recognition of individual rights, or of the equal rights of mi
 10 [English novelist H. G. Wells (1866–1946) is best remembered today for such science fiction classics as *The Time Machine* and *The War of the Worlds.* In his day he was also known for his biting social satires, contributions to popular history, and involvement with numerous progressive causes. In 1939 he drafted a "Declaration of the Rights of Man" that was published in *The Daily Herald* and other newspapers, and which elicited much commentary. Some of these ideas were later worked into the Universal Declaration of Human Rights that was adopted by the UN General Assembly in December 1948. Wells's "Declaration" was reprinted under the title "Ten Points for World Peace," *Current History,* vol. 51, March 1940, pp. 16–18, from which subsequent citations are taken. —Ed.]
 
 11 [Wells, "Ten Points for World Peace," op. cit., p. 18. —Ed.]
-##
 ## 13 [*Ibid.* —Ed.]
 
 ## 12 [*Ibid.* —Ed.]
@@ -1670,10 +1669,7 @@ Fight against liberalism in all its forms, liberalism that had defeated Germany,
 - 10 [Hayek refers to H. G. Wells, *Future in America: A Search after Realities* (New York and London: Harper & Brothers, 1906). —Ed.]
 
 11 [ Johann Plenge, 1789 und 1914, op. cit., p. 20. —Ed.]
-##
-
 12 [Ibid., p. 82. —Ed.]
-##
 ## 13 [*Ibid.,* p. 120. —Ed.]
 
 ## 14 [*Ibid.,* p. 121. —Ed.]
@@ -1692,7 +1688,6 @@ Lensch's *Die deutsche Sozialdemokratie under der Weltkrieg: eine politische Stu
 - 22 [*Ibid.,* pp. 25–26. In this passage Lensch actually said, "from the point of view of historical development, that country is to be regarded as *revolutionary* or not." —Ed.]
 
 23 [Ibid., pp. 67–68. —Ed.]
-##
 ## 24 [*Ibid.,* p. 204. —Ed.]
 
 ## 25 [*Ibid.,* p. 208. —Ed.]

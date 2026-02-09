@@ -47,7 +47,7 @@ tags:
             “absorption,” there is an important diﬀerence.
               Che’s notion of “absorption” is simply when a “force attacks the enemy for a
             period of time and then breaks oﬀ the attack being absorbed into the
-1 of 2 8/29/25, 11:06 AM A Swarm of Butterﬂies: A Fierce Defense of Chaos in Di... https://theanarchistlibrary.org/library/curious-george-b...
+
             community or environment” from where it came. Pulsing is a constant ﬂow of
             people joining, breaking up and rejoining, often in new combinations of
             groups. The most successful way this can be done is through small
@@ -91,4 +91,3 @@ tags:
             of creative and free butterﬂies. We are ﬁghting for our lives and dancing to be
             free.
             Retrieved on June 11, 2009 from www.lahaine.org
-2 of 2 8/29/25, 11:06 AM

@@ -43,8 +43,6 @@ Should the press say tomorrow how many drunks there were at the tribune? Should 
 
 Across from the Labor Exchange a group decorated in red is drinking... I pass by...a man detaches himself and gives me two sous "for good luck,"
 
-## 1 of 3 10/9/25, 6:53 PM
-
 taking me for a poor devil and so as to get a laugh. Pieces of silver fall to the ground, rolling from his pockets.
 
 Working class emancipation through union organization!
@@ -76,4 +74,3 @@ The cops!
 The anger calms. The honest worker reappears... and flees, followed by the policemen's boots.
 
 The comedy is over... They have to disperse and the crowd flees, hiccupping and stumbling, while exasperated comrades, wanting to resist orders and shoves, shout "anarchy" in the face of the police workers as a challenge. And in the distance...the cabarets, the bars, the thousand tentacles of that terrible octopus, alcohol, suck out and breathes in all this worker blood. It's the holiday of the organized proletariat. It's May Day.
-## 3 of 3 10/9/25, 6:53 PM

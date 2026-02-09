@@ -19,8 +19,6 @@ I make a modest amount of money in royalties on a handful of books I've publishe
 
 Trying to make money by paywalling your content and punishing those who share it is a guaranteed strategy for reducing sales. I personally encountered a sad example a few years back. The original cover of my second book, Organization Theory, bore a viral online image called "Head up \*ss" — a picture, as the name suggests, of a guy in a necktie with his head stuck up his own posterior. It appears in thousands of places all over the Web, almost none
 
-## 1 of 2 10/4/25, 12:05 PM
-
 of them with any attribution or indication of who might have created the image. About nine months after I published the book, I got an email from the graphic designer who originally created "Head up \*ss," asking that I take it down and hinting at legal action if I didn't. I offered to pay for its use, once I realized there was a publicly identified creator who took credit for it, but he refused — he wasn't interested in selling it. Think about that: The image had proliferated all over the web, and was virally popular and well recognized, but with no indication of who had created it. Had the creator let me use it, I would have gladly credited the image in the book and done my best to send design business his way. His identity as the creator of that famous image would have been wonderful advertising for his services as a graphic artist and any business at all he got from exposure on my book cover would have been that much more than the image was getting him at the time, which I'm guessing was probably none. But his sense of "property" wouldn't let him do that.
 
 Paywalling content is basically like criminalizing someone for giving people directions to your store. The stupidest example of this phenomenon I can think of is Rupert Murdoch's attempt to stop Google from showing articles in Murdoch publications in its search results. "Old Man Yells at Internet."
@@ -30,5 +28,3 @@ I think Zeller's experience, and mine, are fairly typical. For example, fileshar
 Free culture benefits consumers, it benefits artists, and it benefits the general culture. The only people who don't benefit are the parastic corporations of Big Content. Good riddance.
 
 Retrieved on 24 June 2016 from https://c4ss.org/content/45961
-
-## 2 of 2 10/4/25, 12:05 PM

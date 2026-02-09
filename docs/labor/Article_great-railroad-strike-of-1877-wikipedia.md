@@ -30,8 +30,6 @@ Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wiki
 ## National Guard
 ## Unofficial militias
 
-1 of 29 9/7/25, 12:06 PM Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 ## City police
 
 ## Lead figures
@@ -63,7 +61,6 @@ Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wiki
                 Disruption was widespread and at its height, the strikes were
                 supported by about 100,000 workers. With the intervention of
                 federal troops in several locations, most of the strikes were
-2 of 29 9/7/25, 12:06 PM Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## suppressed by early August 1877. Labor continued to work to
                 organize into unions to work for better wages and conditions.
@@ -92,7 +89,6 @@ Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wiki
                 followed quickly by that of Henry Clews, and this set off a chain
 ## reaction of bank failures, which temporarily closed the New
                 York stock market.[3]
-3 of 29 9/7/25, 12:06 PM Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## Unemployment rose dramatically, reaching 14 percent by
 ## 1876, with many more severely underemployed, and wages
@@ -124,7 +120,6 @@ Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wiki
 ## thus entailed massive financial risk. Speculators fed large
 ## amounts of money into the industry, causing abnormal growth
 
-4 of 29 9/7/25, 12:06 PM Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 and over-expansion. Jay Cooke's firm, like many other banking
                 firms, invested a disproportionate share of depositors' funds in
                 the railroads, thus laying the track for the ensuing collapse.
@@ -156,7 +151,6 @@ Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wiki
 
 ## Many of the new immigrant workers were Catholics, and their
 
-5 of 29 9/7/25, 12:06 PM Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 church had forbidden participation in secret societies since
                 1743, partially as a reaction against the anti-Catholicism of
                 Freemasonry. But by the late 19th century, the Knights of Labor
@@ -179,7 +173,6 @@ Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wiki
 ## dividends by the same percentage. By July 14, 1877, it had
                 spread to the Martinsburg, West Virginia station where strikers
                 refused to let freight trains pass.[11] A crowd had gathered in
-6 of 29 9/7/25, 12:06 PM Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## support of the railroad workers. Due to violence against
                 workers who refused to take part in the strike, and since the
@@ -212,7 +205,6 @@ Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wiki
 ## headquarters and main depot at the Camden Street Station to
 ## board waiting westward trains to Hagerstown and
 
-7 of 29 9/7/25, 12:06 PM Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 Cumberland. The Sixth assembled at its armory at East Fayette
                 and North Front Streets (by the old Phoenix Shot Tower) in the
 ## Old Town /Jonestown area and headed to Camden. It had to
@@ -244,7 +236,6 @@ Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wiki
                 industries other than railroads still attacked them because the
 ## rails cut through the cities and dominated city life. Their
                 resentment of the railroads' economic power was expressed in
-8 of 29 9/7/25, 12:06 PM Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## physical attacks against them at a time when many workers'
                 wages were lowered. Protestors "included cross-class elements
@@ -266,7 +257,7 @@ Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wiki
                 Colonel George R. Snowden.[17]
                 Burning of Pennsylvania Railroad and Union Depot, Pittsburgh,
                 Pennsylvania, July 21–22, 1877, engraving from Harper's Weekly
-9 of 29 9/7/25, 12:06 PM Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 Burning of Union Depot, Pittsburgh, Pennsylvania, July 21–22, 1877,
 ## engraving from Harper's Weekly
 
@@ -298,7 +289,6 @@ Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wiki
 
 ## Workers in Reading, Pennsylvania—the state's third-largest
                 industrial city at the time—also went on strike. This city was
-10 of 29 9/7/25, 12:06 PM Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## home of the engine works and shops of the Philadelphia and
 ## Reading Railway, against which engineers struck since April
@@ -322,7 +312,7 @@ Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wiki
                 who owned the coal mines, organized an unofficial militia. It
 ## committed 14 civilian shooting casualties, resulting in the
                 deaths of two persons.[citation needed]
-11 of 29 9/7/25, 12:06 PM Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 Pennsylvania state historical marker for the events in Scranton
                 On August 1, 1877, in Scranton, in northeast Pennsylvania, one
                 day after railroad workers commenced a strike, a city posse of
@@ -350,8 +340,6 @@ Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wiki
                 and other rail centers throughout Illinois. In sympathy, coal
 ## miners in the pits at Braidwood, LaSalle, Springfield, and
 ## Carbondale went on strike as well. In Chicago, the
-
-12 of 29 9/7/25, 12:06 PM Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## Workingmen's Party organized demonstrations that drew
 ## crowds of 20,000 people.
@@ -383,7 +371,6 @@ Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wiki
                 was finally restored. An estimated 20 men and boys died, none
 ## of whom were law enforcement or troops; scores more were
                 wounded, and the loss of property was valued in the millions of
-13 of 29 9/7/25, 12:06 PM Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## dollars.
 
@@ -416,7 +403,6 @@ Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wiki
                 the local Chinese population. This led to new alliances between
 ## workers and small business owners aimed at refusing to hire
                 Chinese laborers and boycotting Chinese goods.[27]
-14 of 29 9/7/25, 12:06 PM Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## Police Role in the Strike
 
@@ -444,7 +430,7 @@ Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wiki
 ## were instrumental in upholding the existing power dynamics
                 during labor unrest. This marked a shift in how the government
                 would respond to labor strikes, with law enforcement playing
-15 of 29 9/7/25, 12:06 PM Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 an increasingly central role in managing such conflicts.[28]
 
 ## The Great Railroad Strike of 1877 began to lose momentum
@@ -476,7 +462,6 @@ Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wiki
 
 ## Aftermath and legacy
 
-16 of 29 9/7/25, 12:06 PM Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 [edit]
 
 ## In total, there were likely over 100,000 people that were
@@ -506,7 +491,7 @@ Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wiki
                 the national call for labor rights and the aftermath of the Great
                 Railroad Strike of 1877.[35][36]
                 Strikers in Pittsburgh burned in total 39 buildings, 104 engines,
-17 of 29 9/7/25, 12:06 PM Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 46–66 passenger cars, and 1,200–1,383 freight cars.[37][38]
                 Damage estimates ranged from five to 10 million dollars.[39]
                 [40]:118
@@ -539,7 +524,6 @@ Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wiki
                 Railroad, which had the lowest wage rate of any major railroad,
 ## established the Baltimore and Ohio Employees' Relief
 
-18 of 29 9/7/25, 12:06 PM Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 Association, which provided coverage for sickness, injury from
                 accidents, and a death benefit.[42][43] In 1884, the B&O
                 became the first major employer to offer a pension plan.[42]
@@ -569,7 +553,6 @@ Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wiki
 
 ## In 2013 a historical marker commemorating the event was
                 placed in Baltimore, Maryland, by the Maryland Historical Trust
-19 of 29 9/7/25, 12:06 PM Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## and Maryland State Highway Administration. Its inscription
                 reads:
@@ -605,8 +588,6 @@ Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wiki
              - 1877 Shamokin uprising
 
              - Great Railroad Strike of 1922
-
-20 of 29 9/7/25, 12:06 PM Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
              - List of US strikes by size
 
@@ -645,7 +626,6 @@ Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wiki
 
              7. ^ David Glasner, Thomas F. Cooley (1997). "Depression of
 
-21 of 29 9/7/25, 12:06 PM Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 1873–1879". Business Cycles and Depressions: An
 ## Encyclopedia. Taylor & Francis. ISBN 0-8240-0944-4.
 
@@ -684,8 +664,6 @@ Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wiki
            18. ^ Jump up to: a b "The Great Strike of 1877: Remembering a
 ## Worker Rebellion". UE News. June 2002. Retrieved May 25,
 
-22 of 29 9/7/25, 12:06 PM Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 ## 2008.
 
            19. ^ Singer, Merrill (2007). Drugging the Poor: Legal and Illegal
@@ -720,8 +698,6 @@ Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wiki
 
            26. ^ Brecher, Jeremy (1974). Strike! (3rd ed.). Fawcett
 ## Publications.
-
-23 of 29 9/7/25, 12:06 PM Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
            27. ^ White 2017, p. 352-353.
 
@@ -760,7 +736,6 @@ Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wiki
 
            37. ^ "The Great Railroad Strike of 1877" – Digital History ID 1097,
 
-24 of 29 9/7/25, 12:06 PM Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 Digital History, University of Houston (and others), accessed 27
 ## May 2016
 
@@ -795,8 +770,6 @@ Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wiki
 ## George Washington University.
 
            44. ^ Aliyev, Huseyn (August 3, 2019). "When and How Do Militias
-
-25 of 29 9/7/25, 12:06 PM Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## Disband? Global Patterns of Pro-Government Militia
                 Demobilization in Civil Wars". Studies in Conflict & Terrorism.
@@ -834,7 +807,6 @@ Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wiki
 
              - Bellesiles, Michael A. (2010). 1877: America's Year of Living
                 Violently. New York: New Press. ISBN 9781595584410.
-26 of 29 9/7/25, 12:06 PM Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
              - Bruce, Robert V. (1957). 1877: Year of Violence. I.R. Dee.
 ## ISBN 9780929587059. online
@@ -871,7 +843,7 @@ Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wiki
              - Rondinole, Troy. "Drifting toward Industrial War: The Great
 ## Strike of 1877 and the Coming of a New Era." in The Great
                 Industrial War: Framing Class Conflict in the Media, 1865–1950
-27 of 29 9/7/25, 12:06 PM Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 (Rutgers University Press, 2010), pp. 38–57. online
 
              - Salvatore, Nick. "Railroad Workers and the Great Strike of
@@ -908,7 +880,6 @@ Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wiki
 
              - "The B&O Railroad Strike of 1877." The Statesman
                 (Martinsburg, WV), July 24, 1877. (West Virginia Division of
-28 of 29 9/7/25, 12:06 PM Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## Culture and History)
 
@@ -930,5 +901,3 @@ Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wiki
              - "The Great Railway Strike of 1877 and Newspaper Coverage".
 ## Railroads and the Making of Modern America. University of
 ## Nebraska Lincoln. Retrieved September 1, 2016.
-
-29 of 29 9/7/25, 12:06 PM

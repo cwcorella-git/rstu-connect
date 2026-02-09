@@ -1624,8 +1624,6 @@ This sequence serves to introduce the game's primary enemy character - *The Chao
 
 ## ![](_page_33_Picture_17.jpeg)
 
-##
-
 ## Corrupt
 
 Lam nus rendae accabor epudit, volorehenis cupta in ea quam ipsusani rae net aut vere, ut aut ullum ea dolupiciis rectorro ma autatibus audias netume iuntio. Us aut repelibea velest molupti usdant accum nis ut doloremqui seque eum hicte volum, ni occum quiaecus.

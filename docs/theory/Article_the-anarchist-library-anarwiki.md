@@ -34,7 +34,6 @@ The Anarchist Library - AnarWiki about:reader?url=https%3A%2F%2Fanarwiki.org%2Fw
 ## towards including some anti-tech and anti-leftist writings
 ## authored by people who see themselves as in conflict with
                anarchists. Plus, rejecting some texts which critique these antitech & anti-left ideologues. Also, whilst the open-submission
-1 of 7 10/4/25, 12:13 PM The Anarchist Library - AnarWiki about:reader?url=https%3A%2F%2Fanarwiki.org%2Fw...
 
 ## model helps with acquiring 1000s of texts, this sometimes
 ## leads to editorial oversight, where in some cases uploads
@@ -65,7 +64,7 @@ The Anarchist Library - AnarWiki about:reader?url=https%3A%2F%2Fanarwiki.org%2Fw
                people who lived very rurally or who are disabled.[11]
                The project had archived 7,000 texts by 2020,[1] and by July
                2025, it had expanded to include 16,000.[12]
-2 of 7 10/4/25, 12:13 PM The Anarchist Library - AnarWiki about:reader?url=https%3A%2F%2Fanarwiki.org%2Fw...
+
                It aims to collect a wide variety of anarchist publications, plus
                some texts related to anarchism in English, and to enable the
                establishment of archival work for anarchist textual resources
@@ -95,7 +94,7 @@ The Anarchist Library - AnarWiki about:reader?url=https%3A%2F%2Fanarwiki.org%2Fw
                of texts possible, but this is a time-consuming process.[23]
                In 2018, internal conflicts arose within The Anarchist Library
                over its inclusion of texts by Individualists Tending to the Wild
-3 of 7 10/4/25, 12:13 PM The Anarchist Library - AnarWiki about:reader?url=https%3A%2F%2Fanarwiki.org%2Fw...
+
                (ITS) and debates about whether such content should be
                included, or if so, whether long warning notes should at least
                be added at the top.[14][15] Critics argue that the editorial
@@ -125,7 +124,6 @@ The Anarchist Library - AnarWiki about:reader?url=https%3A%2F%2Fanarwiki.org%2Fw
 
              - Kinna, Ruth (2012), The continuum companion to anarchism
                (PDF), Bloomsbury Academic, ISBN 978-1-4411-7212-9
-4 of 7 10/4/25, 12:13 PM The Anarchist Library - AnarWiki about:reader?url=https%3A%2F%2Fanarwiki.org%2Fw...
 
             1. ↑ Jump up to: 1.0 1.1 "The Anarchist Library talk at 2020 London
                Anarchist Bookfair" The Anarchist Library Bookshelf. Archived
@@ -164,7 +162,6 @@ The Anarchist Library - AnarWiki about:reader?url=https%3A%2F%2Fanarwiki.org%2Fw
            11. ↑ Malenfant, Jayne (2018). "Anarchist Youth in Rural Canada:
 ## Technology, Resistance, and the Navigation of Space".
 
-5 of 7 10/4/25, 12:13 PM The Anarchist Library - AnarWiki about:reader?url=https%3A%2F%2Fanarwiki.org%2Fw...
                Jeunesse: Young People, Texts, Cultures. 10 (2): 126–151.
                doi:10.1353/jeu.2018.0020. ISSN 1920-261X.
 
@@ -200,8 +197,6 @@ The Anarchist Library - AnarWiki about:reader?url=https%3A%2F%2Fanarwiki.org%2Fw
 ## staff - Mr Luke Campbell". www.gla.ac.uk. Retrieved
 ## 2025-07-06.
 
-6 of 7 10/4/25, 12:13 PM The Anarchist Library - AnarWiki about:reader?url=https%3A%2F%2Fanarwiki.org%2Fw...
-
            21. ↑ Jump up to: 21.0 21.1 21.2 21.3 "Intellectual Property is Theft –
 ## Towards an Anarchist Culture of Knowledge Sharing &
 ## Translation". AnarchistStudies.Blog. Retrieved 2025-07-06.
@@ -216,5 +211,3 @@ The Anarchist Library - AnarWiki about:reader?url=https%3A%2F%2Fanarwiki.org%2Fw
 
            24. ↑ Jump up to: 24.0 24.1 "The Elephant in the Room". Immer
 ## Autonom. Retrieved 2025-07-06.
-
-7 of 7 10/4/25, 12:13 PM

@@ -38,7 +38,7 @@ The Public Duty Doctrine and Its Implications for Police ... about:reader?url=ht
 ## custody, or making promises of protection.
 
                  Another notable case that discussed the public duty doctrine is
-1 of 4 9/7/25, 12:01 PM The Public Duty Doctrine and Its Implications for Police ... about:reader?url=https%3A%2F%2Fsavagetraininggro...
+
                  Warren v. District of Columbia (1981). In that case, the D.C.
                  Court of Appeals held that the police did not have a specific
 ## duty to protect individuals from harm. The case involved a
@@ -71,7 +71,6 @@ The Public Duty Doctrine and Its Implications for Police ... about:reader?url=ht
                  that social workers did not have a duty to protect a child from
 ## harm by his father, even though they had been aware of the
 
-2 of 4 9/7/25, 12:01 PM The Public Duty Doctrine and Its Implications for Police ... about:reader?url=https%3A%2F%2Fsavagetraininggro...
                  father’s abusive behavior. Similarly, in Castle Rock v. Gonzales
                  (2005), the Supreme Court held that the police did not have a
 ## duty to enforce a restraining order against a woman’s exhusband, even though she had repeatedly asked for their help.
@@ -104,7 +103,6 @@ The Public Duty Doctrine and Its Implications for Police ... about:reader?url=ht
                  important officers consult their legal advisors and develop a
 ## thorough understanding of the laws in their jurisdiction.
 
-3 of 4 9/7/25, 12:01 PM The Public Duty Doctrine and Its Implications for Police ... about:reader?url=https%3A%2F%2Fsavagetraininggro...
                  For more information about this topic, consider attending the
 ## training course entitled Response to the Non-Criminal
                  Barricade: Disengagement and Special Relationships® either
@@ -116,5 +114,3 @@ The Public Duty Doctrine and Its Implications for Police ... about:reader?url=ht
 ## DeShaney v. Winnebago County Dep’t of Social Servs., 489
 ## U.S. 189 (1989).
 ## Martinez v. State of California, 444 U.S. 277 (1980)
-
-4 of 4 9/7/25, 12:01 PM

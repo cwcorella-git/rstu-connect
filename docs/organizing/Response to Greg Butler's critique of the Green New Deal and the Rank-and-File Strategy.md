@@ -549,7 +549,6 @@ I
 would also point out that while California has a reputation for being a "deep green" state,
 it
 actually ranks
-##
 third behind Texas and Alaska, in order of states that produce the most oil, but that hasn't stopped many union members, including several Building Trades locals from supporting the Green New Deal here.
 
 No Shit, Sherlock!

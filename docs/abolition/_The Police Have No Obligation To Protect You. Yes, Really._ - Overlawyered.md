@@ -63,8 +63,6 @@ Just one problem. As any lawyer, politician, liar quickly learns, NEVER express 
 
 **December 28, 2011** Congrats on making the ABA Journal's fifth annual top 100 law blog list!
 
-## 1 of 3 9/7/25, 12:01 PM
-
 #### **December 28, 2011 8:36 PM**
 
 By [Attorney George E. Bourguignon,](http://www.bourguignonlaw.com/) [Jr.](http://www.bourguignonlaw.com/) Doesn't that beg the question: if the police have no obligation to protect us, then don't we have a "super" right to protect ourselves. And doesn't that mean we do not have to obey the police when we believe we need to protect ourselves?
@@ -119,8 +117,4 @@ To be clear, what *De Shaney* and *Castle Rock* say is that the police have no *
 
 By [DYSPEPSIA GENERATION » Blog](http://dyspepsiageneration.com/?p=69680) [Archive » "The Police Have No](http://dyspepsiageneration.com/?p=69680) [Obligation To Protect You. Yes, Really."](http://dyspepsiageneration.com/?p=69680)
 
-## 2 of 3 9/7/25, 12:01 PM
-
 1000 Massachusetts Avenue N. W. Washington D. C. 20001-5403 Telephone (202) 842-0200 [Privacy Policy](https://www.overlawyered.com/privacy)
-
-## 3 of 3 9/7/25, 12:01 PM

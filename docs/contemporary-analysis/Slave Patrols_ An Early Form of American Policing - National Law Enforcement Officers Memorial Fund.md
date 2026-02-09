@@ -19,8 +19,6 @@ God."
 
 When one thinks about policing in early America, there are a few images that may come to mind: A county sheriff enforcing a debt between neighbors, a constable serving an arrest warrant on horseback, or a lone night watchman carrying a lantern through his sleeping town. These organized practices were adapted to the colonies from England and formed the foundations of American law enforcement. However, there is
 
-## 1 of 4 9/7/25, 11:53 AM
-
 another significant origin of American policing that we cannot forget—and that is slave patrols.
 
 The American South relied almost exclusively on slave labor and white Southerners lived in near constant fear of slave rebellions disrupting this economic status quo. As a result, these patrols were one of the earliest and most prolific forms of early policing in the South. The responsibility of patrols was straightforward—to control the movements and behaviors of enslaved populations. According to historian Gary Potter, slave patrols served three main functions.
@@ -39,8 +37,6 @@ First formed in 1704 in South Carolina, patrols lasted over 150 years, only tech
 
 After the Civil War, Southern police departments often carried over aspects of the patrols. These included systematic surveillance, the enforcement of curfews, and even notions of
 
-## 3 of 4 9/7/25, 11:53 AM
-
 who could become a police officer. Though a small number of African Americans joined the police force in the South during Reconstruction, they met active resistance.
 
 Though law enforcement looks very different today, the profession developed from practices implemented in the colonies.
@@ -52,5 +48,3 @@ Though law enforcement looks very different today, the profession developed from
 [\[iv\]](#page-2-2) Hadden, 73.
 
 [\[v\]](#page-2-3) Hadden, 203.
-
-## 4 of 4 9/7/25, 11:53 AM

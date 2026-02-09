@@ -251,81 +251,45 @@ and Negotiated Civil War Settlements
 | Detailed Results: Attributes of Nonviolent Campaigns
 and Post-Conict Democratization | 94 |
 
-### Tables and Figures
-
-| TABLE 1. Denition of Nonviolent Campaigns | 4 |
+1. Denition of Nonviolent Campaigns | 4 |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
 | TABLE 2. Denitions of Civil War, Conict Termination,
-and Conict Transformation | 5 |
-| TABLE 3. Denitions of Durable Peace and Post-Conict Democratization | 6 |
-| TABLE 4. Relationships Between Nonviolent Campaigns
-and Civil War Explored in This Study | 7 |
-| TABLE 5. Key Dierences Between the Cases of South Africa and Mali | 27 |
-| TABLE 6. Results of Statistical Analysis: Nonviolent Campaign Attributes
-and Negotiated Agreements to End Civil War | 28 |
-| TABLE 7. A Note on Interpreting Predicted Probabilities | 31 |
-| TABLE 8. Nonviolent Campaign Attributes and Negotiated Settlements to Civil War | 41 |
-| TABLE 9. Nonviolent Campaign Attributes
-and Post-Conict Democratization (1955–2010) | 46 |
-| TABLE 10. Summary of Key Findings:
-Mass Democratic Movement in South Africa (1983–94) | 57 |
-| TABLE 11. Summary of Key Findings:
-ADEMA and March Revolution in Mali (1991–1996) | 64 |
-| TABLE 12. Key Lessons for Academics, Activists, and Policymakers | 67 |
-| FIGURE 1. Percentage of Civil Wars Ending in a Negotiated Settlement, with and without
+4. Relationships Between Nonviolent Campaigns
+6. Results of Statistical Analysis: Nonviolent Campaign Attributes
+9. Nonviolent Campaign Attributes
+10. Summary of Key Findings:
+11. Summary of Key Findings:
+1. Percentage of Civil Wars Ending in a Negotiated Settlement, with and without
 Nonviolent Resistance Campaign (NVC) in the Final Year of the War (1955–2013) | 29 |
 | FIGURE 2. Nonviolent Campaign (NVC) and the Predicted
-Probability of a Negotiated Settlement, based on data from 1955 to 2013. | 32 |
-| FIGURE 3. Nonviolent Campaign (NVC) and the Duration of Civil War (1955–2013) | 33 |
-| FIGURE 4. Nonviolent Campaigns (NVC)
-and Types of Civil War Termination (1955–2013) | 34 |
-| FIGURE 5. Predicted Probability of Civil War Recurrence,
-based on data from 1955 to 2013 | 35 |
-
-| FIGURE 6. Nonviolent Campaigns (NVC) and the Predicted Probability
+4. Nonviolent Campaigns (NVC)
+5. Predicted Probability of Civil War Recurrence,
+6. Nonviolent Campaigns (NVC) and the Predicted Probability
 of Democratization after a Civil War, based on data from 1955 to 2010 | 38 |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
 | FIGURE 7. Nonviolent Campaigns (NVC) and Predicted Probabilities for Specic Contexts
-of Post-Conict Democratization, based on data from 1955 to 2010 | 39 |
-| FIGURE 8. Success and Size of Nonviolent Campaigns (NVC)
-and Civil War Settlements, based on data from 1955 to 2013 | 42 |
-| FIGURE 9. Social Diversity, Women's Participation,
-and Civil War Settlements, based on data from 1955 to 2013 | 43 |
-| FIGURE 10. Leadership Structure and Parallel Institutions of Nonviolent Campaigns (NVC)
+8. Success and Size of Nonviolent Campaigns (NVC)
+9. Social Diversity, Women's Participation,
+10. Leadership Structure and Parallel Institutions of Nonviolent Campaigns (NVC)
 and Predicted Probability of Civil War Settlements, based on data from 1955 to 2013 | 45 |
 | FIGURE 11. Success and Size of Wartime Nonviolent Campaigns (NVC)
-and Post-Conict Democratization, based on data from 1955 to 2010 | 47 |
-| FIGURE 12. Social Diversity of Wartime Nonviolent Campaigns (NVC), Women's Participation,
-and Post-Conict Democratization, based on data from 1955 to 2010 | 48 |
-| FIGURE 13. Organizational Diversity of Wartime Nonviolent Campaigns (NVC)
-and Post-Conict Democratization, based on data from 1955 to 2010 | 49 |
-| FIGURE 14. Leadership Structure and Parallel Institutions of Wartime Nonviolent Campaigns
-(NVC) and Post-Conict Democratization, based on data from 1955 to 2010 | 50 |
-| FIGURE 15. Logistic Regression and Cox Proportional Hazard Models:
-Nonviolent Resistance and Negotiated Agreements (1955–2013) | 85 |
-| FIGURE 16. In-Sample Predictive Power: Nonviolent Campaigns (NVC)
-and Negotiated Settlements, based on data from 1955 to 2013 | 86 |
-| FIGURE 17. K-Fold Cross-Validation: Nonviolent Campaigns (NVC)
-and Negotiated Agreements, based on data from 1955 to 2013 | 87 |
-| FIGURE 18. Cox Proportional Hazard and Logistic Regression Models:
-Nonviolent Campaigns (NVC) and the Recurrence of Civil War (1955–2013) | 88 |
-| FIGURE 19. Logistic Regression Models: Nonviolent Campaigns (NVC)
-and Post-Conict Democratic Transitions (1955–2010) | 89 |
-| FIGURE 20. In-Sample Predictive Power: Nonviolent Campaigns (NVC)
-and Post-Conict Democratization, based on data from 1955 to 2010 | 90 |
-
-| FIGURE 21. K-Fold Cross-Validation: Nonviolent Campaigns (NVC)
+12. Social Diversity of Wartime Nonviolent Campaigns (NVC), Women's Participation,
+13. Organizational Diversity of Wartime Nonviolent Campaigns (NVC)
+14. Leadership Structure and Parallel Institutions of Wartime Nonviolent Campaigns
+15. Logistic Regression and Cox Proportional Hazard Models:
+16. In-Sample Predictive Power: Nonviolent Campaigns (NVC)
+17. K-Fold Cross-Validation: Nonviolent Campaigns (NVC)
+18. Cox Proportional Hazard and Logistic Regression Models:
+19. Logistic Regression Models: Nonviolent Campaigns (NVC)
+20. In-Sample Predictive Power: Nonviolent Campaigns (NVC)
+21. K-Fold Cross-Validation: Nonviolent Campaigns (NVC)
 and Democratic Transitions, based on data from 1955 to 2010 | 90 |
 |------------------------------------------------------------------------------------------------------------------------------------|----|
 | FIGURE 22. Logistic Regression Models: Campaign Success, Size,
-and Negotiated Agreements (1955–2013) | 91 |
-| FIGURE 23. Logistic Regression Models: Campaign Diversity
-and Negotiated Agreements (1955–2013) | 92 |
-| FIGURE 24. Logistic Regression Models: Other Attributes
-and Negotiated Agreements (1955–2013) | 93 |
-| FIGURE 25. Logistic Regression Models: Nonviolent Campaign Success, Size,
-and Post-Conict Democratic Transitions (1955–2010) | 94 |
-| FIGURE 26. Logistic Regression Models: Other Nonviolent Campaign Attributes
+23. Logistic Regression Models: Campaign Diversity
+24. Logistic Regression Models: Other Attributes
+25. Logistic Regression Models: Nonviolent Campaign Success, Size,
+26. Logistic Regression Models: Other Nonviolent Campaign Attributes
 and Post-Conict Democratic Transitions (1955–2010) | 95 |
 
 # **Executive Summary**

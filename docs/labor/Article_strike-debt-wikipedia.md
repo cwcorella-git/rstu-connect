@@ -44,7 +44,7 @@ Strike Debt - Wikipedia https://en.wikipedia.org/wiki/Strike_Debt
          The anti-capitalist group both encourages the breakdown of current debt dogma and acknowledges the
          smallness of their role within larger debt structures. Strike Debt perceives its Rolling Jubilee as a public
          education campaign to "build a national debtors' movement" and showcase the eﬀects of predatory debt on
-1 of 7 8/20/25, 8:50 PM Strike Debt - Wikipedia https://en.wikipedia.org/wiki/Strike_Debt
+
          communities and people. It wants to encourage debt erasure as a public policy practice and to erase the
          stigma behind defaulting. To this end, the group wants those reached by the jubilee to pay it forward such that
          their contributions will help the jubilee reach others, such as those that Strike Debt encourages to default.[3]
@@ -83,7 +83,7 @@ Strike Debt - Wikipedia https://en.wikipedia.org/wiki/Strike_Debt
          3. Cook, Eli (2013). "Can David Graeber Become the Marx of the Debtor Class?" (http
             s://www.academia.edu/22713243). Raritan. 33 (2): 83–85. ISSN 0275-1607 (https://
             search.worldcat.org/issn/0275-1607). Archived (https://web.archive.org/web/20190
-2 of 7 8/20/25, 8:50 PM Strike Debt - Wikipedia https://en.wikipedia.org/wiki/Strike_Debt
+
              714185540/https://www.academia.edu/22713243/Can_David_Graeber_Become_the
              _Marx_of_the_Debtor_Class) from the original on July 14, 2019. Retrieved
              January 13, 2019.
@@ -127,7 +127,7 @@ Strike Debt - Wikipedia https://en.wikipedia.org/wiki/Strike_Debt
          Further reading
           ▪ Altman, Anna (November 21, 2012). "Occupy Returns, With a New Idea" (https://ww
             w.newyorker.com/news/news-desk/occupy-returns-with-a-new-idea). The New
-3 of 7 8/20/25, 8:50 PM Strike Debt - Wikipedia https://en.wikipedia.org/wiki/Strike_Debt
+
            Yorker. Archived (https://web.archive.org/web/20201125030134/https://www.newyo
            rker.com/news/news-desk/occupy-returns-with-a-new-idea) from the original on
            November 25, 2020. Retrieved May 23, 2021.
@@ -174,7 +174,7 @@ Strike Debt - Wikipedia https://en.wikipedia.org/wiki/Strike_Debt
            ness) from the original on November 29, 2018. Retrieved January 12, 2019.
          ▪ Gould-Wartofsky, Michael A. (2015). The Occupiers: The Making of the 99 Percent
            Movement. New York, NY: Oxford University Press. ISBN 978-0-19-931391-4.
-4 of 7 8/20/25, 8:50 PM Strike Debt - Wikipedia https://en.wikipedia.org/wiki/Strike_Debt
+
          ▪ Graeﬀ, Erhardt (2016). "Case Study: Strike Debt and the Rolling Jubilee—Building a
            Debt Resistance Movement" (https://www.academia.edu/27108599). In Gordon,
            Eric; Mihailidis, Paul (eds.). Civic Media: Technology, Design, Practice. The MIT
@@ -220,7 +220,7 @@ Strike Debt - Wikipedia https://en.wikipedia.org/wiki/Strike_Debt
            t-oﬀshoot-rolling-jubilee-wants-pay-your-student-debt-271273). Newsweek.
            Archived (https://web.archive.org/web/20210523044952/https://www.newsweek.co
            m/occupy-wall-street-oﬀshoot-rolling-jubilee-wants-pay-your-student-debt-271273)
-5 of 7 8/20/25, 8:50 PM Strike Debt - Wikipedia https://en.wikipedia.org/wiki/Strike_Debt
+
            from the original on May 23, 2021. Retrieved May 23, 2021.
          ▪ Newitz, Annalee (September 17, 2014). "Possibly the Most Relevant Political
            Movement for Our Future" (https://io9.gizmodo.com/possibly-the-most-relevant-poli
@@ -264,6 +264,5 @@ Strike Debt - Wikipedia https://en.wikipedia.org/wiki/Strike_Debt
          ▪ The Debt Collective (https://debtcollective.org)
          ▪ Full text (https://archive.org/details/TheDebtResistorsOperationsManual) of the
            Debt Resistors' Operations Manual
-6 of 7 8/20/25, 8:50 PM Strike Debt - Wikipedia https://en.wikipedia.org/wiki/Strike_Debt
+
          Retrieved from "https://en.wikipedia.org/w/index.php?title=Strike_Debt&oldid=1302210769"
-7 of 7 8/20/25, 8:50 PM

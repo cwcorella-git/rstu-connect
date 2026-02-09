@@ -57,13 +57,9 @@ This book has been composed in Arno Pro with Futura display
 
 | Acknowledgments | ix |
 |-----------------------------------------------------------------------------------------------------|-----|
-| INTRODUCTION. Reform or Abolition? | 1 |
-| CHAPTER 1. Army of the Wronged: Political Prisoners and Black Radicalism | 18 |
-| CHAPTER 2. The Uses and Abuses of Incarceration: Punishment, Dehumanization, and Slavery | 44 |
-| CHAPTER 3. A Broken System? Racism and Functional Critique | 87 |
-| CHAPTER 4. The Prison Industrial Complex: Profit, Privatization, and the Circumstances of Injustice | 120 |
-| CHAPTER 5. Responding to Crime: Incarceration and Its Alternatives | 148 |
-| CHAPTER 6. Dreaming Big: Utopian Imagination and Structural Transformation | 183 |
+2. The Uses and Abuses of Incarceration: Punishment, Dehumanization, and Slavery | 44 |
+4. The Prison Industrial Complex: Profit, Privatization, and the Circumstances of Injustice | 120 |
+6. Dreaming Big: Utopian Imagination and Structural Transformation | 183 |
 | Notes | 203 |
 ## | Index | 221 |
 

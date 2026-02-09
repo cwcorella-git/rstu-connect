@@ -22,8 +22,6 @@ The Minneapolis Strike - International Brotherhood of ... about:reader?url=https
 
              •
 
-1 of 8 9/7/25, 12:04 PM The Minneapolis Strike - International Brotherhood of ... about:reader?url=https%3A%2F%2Fteamster.org%2Fa...
-
              •
 
 ## In 1934 Minneapolis was one of the major hauling centers of
@@ -34,7 +32,6 @@ The Minneapolis Strike - International Brotherhood of ... about:reader?url=https
                  A small group of organized drivers in the city made up General
 ## Drivers Local 574 of the International Brotherhood of
 
-2 of 8 9/7/25, 12:04 PM The Minneapolis Strike - International Brotherhood of ... about:reader?url=https%3A%2F%2Fteamster.org%2Fa...
                 Teamsters. Local 574 had been trying for several years, with
                 little success, to organize drivers in Minneapolis. They didn’t
 ## care what industry the drivers were from, they wanted to
@@ -67,8 +64,6 @@ The Minneapolis Strike - International Brotherhood of ... about:reader?url=https
 ## Strike!
 
 ## The strike began on May 16. The workers demanded
-
-3 of 8 9/7/25, 12:04 PM The Minneapolis Strike - International Brotherhood of ... about:reader?url=https%3A%2F%2Fteamster.org%2Fa...
 
 ## recognition of the union, wage increases, shorter working
                 hours and the right of the union to represent “inside workers,”
@@ -103,7 +98,6 @@ The Minneapolis Strike - International Brotherhood of ... about:reader?url=https
 ## unemployed, who made up a third of Minneapolis’ working
 ## population at the time.
 
-4 of 8 9/7/25, 12:04 PM The Minneapolis Strike - International Brotherhood of ... about:reader?url=https%3A%2F%2Fteamster.org%2Fa...
                 The support of the jobless towards the strike undermined the
 ## employer’s ability to find scab drivers.
 
@@ -139,7 +133,6 @@ The Minneapolis Strike - International Brotherhood of ... about:reader?url=https
                 later, the most violent episode of the strike took place. A large
 ## group of unarmed workers were fired on by more than 100
 
-5 of 8 9/7/25, 12:04 PM The Minneapolis Strike - International Brotherhood of ... about:reader?url=https%3A%2F%2Fteamster.org%2Fa...
                 police officers. They had been were lured to a street corner by
 ## deputies in a scab truck. The incident became known as
 ## “Bloody Friday.”
@@ -177,7 +170,6 @@ The Minneapolis Strike - International Brotherhood of ... about:reader?url=https
 
 ## On the night of July 31, the union headquarters was
 
-6 of 8 9/7/25, 12:04 PM The Minneapolis Strike - International Brotherhood of ... about:reader?url=https%3A%2F%2Fteamster.org%2Fa...
                 surrounded and raided by National Guard troops, who arrested
 ## many of the strike leaders.
 
@@ -212,11 +204,9 @@ The Minneapolis Strike - International Brotherhood of ... about:reader?url=https
 ## The Minneapolis strike of 1934 is widely seen as a pivotal
 ## moment for the Teamsters and for the labor movement.
 
-7 of 8 9/7/25, 12:04 PM The Minneapolis Strike - International Brotherhood of ... about:reader?url=https%3A%2F%2Fteamster.org%2Fa...
                 Membership in the union grew as barriers against “non-craft”
                 workers came down. The union also grew in stature, proving to
                 be a powerful force in the labor movement. The outcome of the
                 strike also led to the enactment of legislation acknowledging
                 the rights of workers to organize and bargain, including the
                 National Labor Relations Act and the Fair Labor Standards Act.
-8 of 8 9/7/25, 12:04 PM

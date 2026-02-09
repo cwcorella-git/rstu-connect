@@ -31,8 +31,6 @@ tags:
 
 ## Methods Strikes, protests, demonstrations
 
-1 of 25 9/7/25, 12:07 PM 1912 Lawrence textile strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 ## Parties
 
 ## Textile workers; American Woolen
@@ -64,7 +62,6 @@ tags:
 
 ## The Lawrence Textile Strike, also known as the Bread and
                 Roses Strike, was a strike of immigrant workers in Lawrence,
-2 of 25 9/7/25, 12:07 PM 1912 Lawrence textile strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## Massachusetts, in 1912 led by the Industrial Workers of the
                 World (IWW). Prompted by a two-hour pay cut corresponding to
@@ -96,8 +93,6 @@ tags:
                 exodus, leading to violence at the Lawrence train station.[6]
 ## Congressional hearings followed, resulting in exposure of
 
-3 of 25 9/7/25, 12:07 PM 1912 Lawrence textile strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 ## shocking conditions in the Lawrence mills and calls for
                 investigation of the "wool trust." Mill owners soon decided to
                 settle the strike, giving workers in Lawrence and throughout
@@ -122,7 +117,6 @@ tags:
 ## eliminate skilled workers and to employ large numbers of
                 unskilled immigrant workers, mostly women. Work in a textile
                 mill took place at a grueling pace, and the labor was repetitive
-4 of 25 9/7/25, 12:07 PM 1912 Lawrence textile strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## and dangerous. About one third of workers in the Lawrence
                 textile mills died before the age of 25.[11] In addition, a number
@@ -150,8 +144,6 @@ tags:
 ## owned by American Woolen Company president William Wood,
 ## who said he could not afford to pay his workers for the two
 
-5 of 25 9/7/25, 12:07 PM 1912 Lawrence textile strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 ## hours per week they were cut, even though the company had
 ## made a profit of $3,000,000 (~$71.4 million in 2023) in
                 1911[citation needed].
@@ -176,7 +168,6 @@ tags:
                 Industrial Workers of the World (IWW) had also been organizing
                 for five years among workers in Lawrence but also had only a
                 few hundred actual members.[6]
-6 of 25 9/7/25, 12:07 PM 1912 Lawrence textile strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## Workers picket the textile mill at the start of the strike.
 
@@ -205,7 +196,7 @@ tags:
                 demands: a 15% increase in wages for a 54-hour work week,
 ## double pay for overtime work, and no discrimination against
                 workers for their strike activity.[23]
-7 of 25 9/7/25, 12:07 PM 1912 Lawrence textile strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 The Massachusetts National Guard mounted on horses during the
 ## strike.
 
@@ -229,7 +220,7 @@ tags:
 ## who were trying to enter the mills as breaking the peace.
 
                 Standoff between the state militia with bayonets and workers.
-8 of 25 9/7/25, 12:07 PM 1912 Lawrence textile strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 The IWW was successful, even with AFL-affiliated operatives,
                 as it defended the grievances of all operatives from all the
 ## mills. Conversely, the AFL and the mill owners preferred to
@@ -261,7 +252,6 @@ tags:
 ## banned all public meetings, and called out 22 more militia
 ## companies to patrol the streets. Harvard students were even
 
-9 of 25 9/7/25, 12:07 PM 1912 Lawrence textile strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 given exemptions from their final exams if they agreed to go
 ## and try to break up the strike.
 
@@ -290,8 +280,6 @@ tags:
                 mother miscarried. The press, there to photograph the event,
 ## reported extensively on the attack. Moreover, when the
 
-10 of 25 9/7/25, 12:07 PM 1912 Lawrence textile strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 ## women and children were taken to the Police Court, most of
                 them refused to pay the fines levied and opted for a jail cell,
                 some with babies in arms.[35]
@@ -315,7 +303,7 @@ tags:
                 attract attention to the cause. On February 10, 119 children
                 were sent to Manhattan to live with relatives, or strangers, who
                 were able to feed them to alleviate the financial strain on the
-11 of 25 9/7/25, 12:07 PM 1912 Lawrence textile strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 striking families.[37] The children were welcomed in NY by
 ## cheering crowds that drew national attention. When another
                 group of children were sent to NY, they were paraded down 5th
@@ -339,7 +327,7 @@ tags:
 ## Children of the mill workers were brought to homes of
 ## supporters of the Lawrence textile strike. With the aid of
                 Haywood and Flynn, these two individuals organized a way for
-12 of 25 9/7/25, 12:07 PM 1912 Lawrence textile strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 donations for the children of strikers. In addition, the children
                 began to form strike rallies to demonstrate the hardship and
 ## struggle occurring in the Lawrence mill factories. Strikes
@@ -361,8 +349,6 @@ tags:
                 City came home on March 30.[citation needed]
                 Political cartoon which urges a general strike to free the strike leaders
 ## Ettor and Giovannitti.
-
-13 of 25 9/7/25, 12:07 PM 1912 Lawrence textile strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## Ettor and Giovanniti, both members of IWW, remained in
                 prison for months after the strike was over.[4] Haywood
@@ -390,7 +376,6 @@ tags:
 ## thereafter when he was subpoenaed to testify. Wood, the
 ## American Woolen Company owner, was formally exonerated.
                 [42][43]
-14 of 25 9/7/25, 12:07 PM 1912 Lawrence textile strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## Flyer distributed in Lawrence, Sept. 1912.
 
@@ -416,7 +401,7 @@ tags:
 
 ## All three defendants were acquitted on November 26, 1912.
                 [45]
-15 of 25 9/7/25, 12:07 PM 1912 Lawrence textile strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 The strikers, however, lost nearly all of the gains they had won
                 in the next few years. The IWW, disdaining written contracts as
                 encouraging workers to abandon the daily class struggle, thus
@@ -445,8 +430,6 @@ tags:
                 [edit]
 
 ## After the strike concluded, workers received a few of the
-
-16 of 25 9/7/25, 12:07 PM 1912 Lawrence textile strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## demands established between mill workers and owners. Some
 ## workers went back to work at the mills and "others came and
@@ -483,7 +466,6 @@ tags:
 
              1. ^ United States. Bureau of Labor; Neill, Charles Patrick (1912).
 
-17 of 25 9/7/25, 12:07 PM 1912 Lawrence textile strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 Report on strike of textile workers in Lawrence, Mass., in 1912.
                 Cornell University Library. Washington, Govt. print. off. p. 9.
 
@@ -520,8 +502,6 @@ tags:
 
              9. ^ Sinclair, Upton (1915). The Cry for Justice: An Anthology of
 
-18 of 25 9/7/25, 12:07 PM 1912 Lawrence textile strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 ## the Literature of Social Protest ... Sinclair. p. 247.
 
            10. ^ Zwick, Jim (2003). "Behind the Song: Bread and Roses". Sing
@@ -555,8 +535,6 @@ tags:
 ## Baywood Publishing. p. 4. ISBN 9780895038647. Archived
                 (PDF) from the original on February 1, 2016. Retrieved
 ## February 3, 2016.
-
-19 of 25 9/7/25, 12:07 PM 1912 Lawrence textile strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
            16. ^ Jump up to: a b Neill, Charles P. (1912). Report on Strike of
 ## Textile Workers in Lawrence, Mass. in 1912. U.S. Government
@@ -595,8 +573,6 @@ tags:
                 1912. Archived from the original on July 27, 2018. Retrieved
 ## July 27, 2018.
 
-20 of 25 9/7/25, 12:07 PM 1912 Lawrence textile strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
            27. ^ Neill Report, p. 15
 
            28. ^ Ayers, Edward L. (2008). American Passages: A History of
@@ -632,7 +608,6 @@ tags:
            36. ^ The strike at Lawrence, Mass.: Hearings before the
 ## Committee on Rules of the House of Representatives on House
                 Resolutions 409 and 433, March 2–7, 1912. 62d Cong., 2d sess.
-21 of 25 9/7/25, 12:07 PM 1912 Lawrence textile strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## House. Doc. 671. U.S. Government Printing Office. 1912.
 ## Archived from the original on October 4, 2016. Retrieved
@@ -668,7 +643,7 @@ tags:
            43. ^ "Wood Found Not Guilty By Jury". The Boston Daily Globe.
                 June 8, 1913. ProQuest 502270838. Archived from the original
                 on December 15, 2017. Retrieved July 5, 2017. “An interesting
-22 of 25 9/7/25, 12:07 PM 1912 Lawrence textile strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 problem growing out of the trial, which remains unsettled, is
                 the charge by Morris Shuman, one of the jurors, that someone
                 tried to bribe him... telling him that he could get a good job with
@@ -703,8 +678,6 @@ tags:
 ## Police Take Them in Custody in Middle of Night and Bail is
 ## Refused. John Ramey, Syrian Youth, Bayoneted in Back By
 ## Soldier, Dies of His Wounds". The Boston Daily Globe.
-
-23 of 25 9/7/25, 12:07 PM 1912 Lawrence textile strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## ProQuest 501862405. Archived from the original on March 16,
 ## 2018. Retrieved July 5, 2017.
@@ -741,8 +714,6 @@ tags:
 ## newburyportnews.com. Archived from the original on February
 ## 10, 2019. Retrieved February 11, 2019.
 
-24 of 25 9/7/25, 12:07 PM 1912 Lawrence textile strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
              - Cameron, Ardis, Radicals of the Worst Sort: Laboring Women in
                 Lawrence, Massachusetts, 1860–1912 (Urbana: University of
 ## Illinois Press, 1993).
@@ -776,5 +747,3 @@ tags:
              - Testimony of Camella Teoli before Congress
 
              - Lawrence Strike of 1912 on Marxists.org
-
-25 of 25 9/7/25, 12:07 PM

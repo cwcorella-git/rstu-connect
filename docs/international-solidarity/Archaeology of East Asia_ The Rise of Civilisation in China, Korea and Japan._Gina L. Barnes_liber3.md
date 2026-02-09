@@ -375,27 +375,15 @@ Figure 4.4 Major obsidian and sanukite sources Figure 4.5 Blade production techn
 | x | Archaeology of East Asia | |
 |--------------------------|-------------------------------------------------------------------------|--|
 | Figure 4.7 | Tools from Suyanggae, central
-Korean Peninsula85 | |
-| Figure 4.8 | Hut and lithic scatters at the Tana
-Mukaihara site, Kanto region89 | |
-| Figure 4.9 | Incipient Jomon artifacts95 | |
-| Figure 5.1 | Sites mentioned in Chapter 5 and
-the main Early Holocene cultures100 | |
-| Figure 5.2 | Settlements at Xinglongwa and
-Chulmun culture sites101 | |
-| Figure 5.3
+4.8 | Hut and lithic scatters at the Tana
+5.1 | Sites mentioned in Chapter 5 and
+5.2 | Settlements at Xinglongwa and
+5.3
 Figure 5.4 | Jomon storage pits105
-Woodworking tools and techniques 106 | |
-| Figure 5.5 | e Holocene Transgression,
-shellmounds and plains108 | |
-| Figure 5.6 | Shellmound village of Takane-kido 109 | |
-| Figure 5.7 | Isarago shellmound analyses110 | |
-| Figure 5.8 | Jomon weaving and basketry114 | |
-| Figure 5.9 | Feeding shika deer at Todaiji | |
-| | Temple, Nara114 | |
-| Figure 5.10 | Weaving weights or net weights?115 | |
-
-Figure 5.12 Paddy elds at Caoxieshan .............122 Figure 6.1 A Middle Jomon exchange network ........................................128 at Oyu ..........................................134 Figure 6.4 Mid-Holocene sites across the China Mainland ...........................135 Figure 6.5 A sketch of Banpo village ...............138 Jiangzhai site ..................................139 ceramic production tools ...............142 Neolithic East Coast sites .............149
+5.5 | e Holocene Transgression,
+5.6 | Shellmound village of Takane-kido 109 | |
+5.9 | Feeding shika deer at Todaiji | |
+5.12 Paddy elds at Caoxieshan .............122 Figure 6.1 A Middle Jomon exchange network ........................................128 at Oyu ..........................................134 Figure 6.4 Mid-Holocene sites across the China Mainland ...........................135 Figure 6.5 A sketch of Banpo village ...............138 Jiangzhai site ..................................139 ceramic production tools ...............142 Neolithic East Coast sites .............149
 
 Yangzi River valley .........................220 Zhou defensive walls ......................231 riding among Northern Zone peoples in the early 1m BC ........................234 China .............................................235
 
@@ -403,72 +391,58 @@ Yangzi River valley .........................220 Zhou defensive walls ..........
 
 Figure 8.5 Shang vessel shapes ........................196 Sichuan Basin ................................202 Shang ...........................................212 at Xibeigang ...................................218
 
-| Figure 10.7 | A bronze seal bearing the character
-for 'storehouse'240 | Figure 12.9 | New elements of tomb
+12.9 | New elements of tomb
 construction297 |
 |----------------------------|--------------------------------------------------------------------------------------|-------------|----------------------------------------------------------------------------------------|
-| Figure 10.8 | Ornate Eastern Zhou bronzes242 | | Figure 12.10 e Wu Liang family shrine297 |
-| Figure 10.9 | Southern Zhou bronze agricultural | | Figure 12.11 Qin roads, and sites mentioned |
+12.10 e Wu Liang family shrine297 |
+12.11 Qin roads, and sites mentioned |
 | | implements243 | | in the text299 |
-| | Figure 10.10 Zhou weaponry245 | | Figure 12.12 Han horses in stone and ceramic300 |
+12.12 Han horses in stone and ceramic300 |
 | | Figure 10.11 Iron objects from the mass grave
-Xiadu #44 of Yan247 | | Figure 12.13 Diagnostic bronzes from the
+12.13 Diagnostic bronzes from the
 southwestern Dian culture302 |
-| | Figure 10.12 Zhou coins248 | | Figure 12.14 Representative Xiongnu material |
+12.14 Representative Xiongnu material |
 | | Figure 10.13 Belts and nomads252 | | culture304 |
 | | Figure 10.14 Gold ornaments from steppe and
-Siberian traditions with full display | Figure 13.1 | Han commanderies and Eastern Yi |
-| | of animal art253 | Figure 13.2 | (Dongyi) peoples310
-e Dongtuanshan capital of Puyo, |
-| Figure 11.1 | Sites mentioned in Chapter 11255 | | Jilin City312 |
-| Figure 11.2 | Bronzes from the lower Manchurian | Figure 13.3 | Wood-chamber tombs and the tomb
+13.1 | Han commanderies and Eastern Yi |
+13.2 | (Dongyi) peoples310
+11.1 | Sites mentioned in Chapter 11255 | | Jilin City312 |
+13.3 | Wood-chamber tombs and the tomb
 of Pujo Yegun314 |
-| | Basin257 | Figure 13.4 | Han grave goods for a spousal |
-| Figure 11.3 | Bronze Age burials257 | | burial316 |
-| Figure 11.4 | Dolmens of the southern Korean | Figure 13.5 | Wajil pottery318 |
-| | Peninsula261 | Figure 13.6 | Samhan regional divisions and sites 319 |
-| Figure 11.5 | Mumun non-bronze prestige
-goods262 | Figure 13.7 | Iron tools from Yoshinogari324 |
-| Figure 11.6 | Middle Mumun settlement at | Figure 13.8 | Spheres of Yayoi bronze use325 |
-| | Taepyong-ri264 | Figure 13.9 | Burial jars of North Kyushu325 |
-| Figure 11.7 | Hilltop settlement of Komdan-ri
-in early Middle Mumun265 | | Figure 13.10 Imagined Eastern Seto bronze bell
-ritual326 |
-| Figure 11.8 | Artifacts of the Slender Bronze | | Figure 13.11 Middle Yayoi sites and polities (guo)
+11.3 | Bronze Age burials257 | | burial316 |
+13.5 | Wajil pottery318 |
+11.5 | Mumun non-bronze prestige
+13.8 | Spheres of Yayoi bronze use325 |
+11.7 | Hilltop settlement of Komdan-ri
+13.10 Imagined Eastern Seto bronze bell
+13.11 Middle Yayoi sites and polities (guo)
 in North Kyushu327 |
-| | Dagger Culture267 | | Figure 13.12 Samhan and Middle to Late Yayoi |
-| Figure 11.9 | Ornamented bronzes268
+11.9 | Ornamented bronzes268
 Figure 11.10 Artifacts common to the southern | | grave goods328 |
-| | Korean Peninsula and northern | Figure 14.1 | Early walled fortresses of Paekche |
+14.1 | Early walled fortresses of Paekche |
 | | Kyushu in Early Yayoi272 | | and Koguryo333 |
 | | Figure 11.11 e marriage of Pen/Insular
-potteries273 | Figure 14.2 | Koguryo interactions with
+14.2 | Koguryo interactions with
 surrounding peoples in the 3–4c334 |
-| | Figure 11.12 Radiocarbon dating of the spread | Figure 14.3 | Indigenous tomb structures of |
+14.3 | Indigenous tomb structures of |
 | | of paddy eld agriculture275
-Figure 11.13 Yayoi pottery types in western | Figure 14.4 | Koguryo and Paekche335
+14.4 | Koguryo and Paekche335
 Mature Kaya and Silla tombs337 |
 | | Japan276
-Figure 11.14 Paddy eld technology277 | Figure 14.5 | Non-iron prestige goods exchanged
+14.5 | Non-iron prestige goods exchanged
 among late 4c–early 5c elite341 |
-| | Figure 11.15 Late Jomon creations282 | Figure 14.6 | Late Yayoi mound-burials and |
+14.6 | Late Yayoi mound-burials and |
 | | Figure 11.16 Middle and Late Yayoi pottery of
-Tohoku283 | Figure 14.7 | Kofun-period tombs343
-Keyhole tomb shape and size |
-| Figure 12.1 | Dynastic capitals of Qin, Han and | Figure 14.8 | classes347
-Haniwa cylinders and sculptures348 |
-| Figure 12.2 | Tang286
-Qin Shihuangdi's tomb and | Figure 14.9 | Early Kofun grave goods349
+14.7 | Kofun-period tombs343
+14.8 | classes347
+12.2 | Tang286
+14.9 | Early Kofun grave goods349
 Figure 14.10 Kofun-period housesteads and |
-| | associated pits287 | | palaces350 |
-| Figure 12.3
+12.3
 Figure 12.4 | Qin Shihuangdi's terracotta army288
-e Luoyang capital of Late Han291 | | Figure 14.11 Armor and unique blades352
-Figure 14.12 Evidence of Koguryo warfare353 |
-| Figure 12.5 | e Han period salt industry292 | | Figure 14.13 Corridor-chamber tombs in East |
-| Figure 12.6 | Models for the afterlife294 | | Asia356 |
-| Figure 12.7 | Han mirror designs295 | | Figure 14.14 Koguryo tomb murals357 |
-| Figure 12.8 | e Mawangdui Tomb of Lady
+14.11 Armor and unique blades352
+14.13 Corridor-chamber tombs in East |
+12.8 | e Mawangdui Tomb of Lady
 Dai296 | | Figure 14.15 A regional variant of the MTC in
 Kyushu359 |
 
@@ -597,7 +571,7 @@ analyze these two classes of material separately and then compare million years 
 
 | Mode 1.1 fe
 CLEVITES of
-Abbresiation | Make 1.1 from the health-list of he Benear Age
+1.1 from the health-list of he Benear Age
 CLEUES and select controls in regions
 Volces as occurs to a burst of gathering feeling | e Bonatrige
 Insir spors of the
@@ -852,7 +826,7 @@ Traditionally, modern human anatomy and modern human time: blades, groundstone, 
 
 Beyond the artifactual evidence of modernity, certain behavioral patterns are thought to dene modern humans. Among them are planning, scheduling, social group reciprocity, history through back to 200kya, long before the documented second wave Out of ii 'Upper' Palaeolithic is chosen for use here to distinguish it from 'Late'
 
-| (double-boxed according to di | | fferent interpretations) | Table 4.1 Climatic phases and major material cultures of East Asia in the Late Pleistocene, from oldest (top) to youngest (bottom) | | | First appearance of ceramics are emboldened; cal.kya = thousand years ago, calibrated. EUP = Early Upper Palaeolithic, LUP = Late Upper Palaeolithic, LGM = Late Glacial Maximum |
+4.1 Climatic phases and major material cultures of East Asia in the Late Pleistocene, from oldest (top) to youngest (bottom) | | | First appearance of ceramics are emboldened; cal.kya = thousand years ago, calibrated. EUP = Early Upper Palaeolithic, LUP = Late Upper Palaeolithic, LGM = Late Glacial Maximum |
 |------------------------------------------|------------------|--------------------------|------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|---------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Stage/
 event | cal.kya
@@ -1717,9 +1691,7 @@ e Eurasian steppes occur as a relatively thin band sandwiched keeping' is put at
 
 Despite the aversion of archaeologists to postulating long-range of the western steppe trekking across the steppes to the east and ese peoples were copper-using herder-hunters who traveled by
 
-## ![](_page_200_Picture_1.jpeg)
-
-| Figure 7.8 Across the
+7.8 Across the
 Eurasian steppes | |
 |----------------------------------------------------------------------|--|
 | The route east from

@@ -100,7 +100,6 @@ CGT Anarchist Union (Spain) - July 24, 2019 (
 link
 )
 IWW GLAMROC (Germany) -
-##
 Die IWW Leipzig unterstützt den weltweiten Klimastreik 2019
 
 IBU San Francisco Bay Region; September 10, 2019
@@ -118,8 +117,6 @@ UAW 2865 Endorses the Green New Deal to Protect Workers and Strengthen Labor (as
 as the Climate Strike) (US: California) - (
 link
 )
-##
-
 U. S. I. Unione Sindacale Italiana (Italy) - September 1, 2019 (
 Press Release
 )
@@ -132,7 +129,6 @@ link2
 )
 Verdi (Germany) - (
 link
-##
 ## )
 
 | See Also: |
@@ -169,8 +165,7 @@ September 20th - |
 | |
 | strikewithus.org |
 | |
-| en español |
-| Global Climate Strike is the 350.org one called for September 20th - 27th, which seems to be
+350.org one called for September 20th - 27th, which seems to be
 an effort to piggyback onto or offer a bridge between the other two - |
 | globalclimatestrike.net |
 | In the US, see |

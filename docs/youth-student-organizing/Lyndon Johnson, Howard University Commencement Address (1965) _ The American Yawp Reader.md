@@ -19,8 +19,6 @@ That beginning is freedom; and the barriers to that freedom are tumbling down. F
 
 But freedom is not enough. You do not wipe away the scars of
 
-## 1 of 3 8/26/25, 10:36 AM
-
 centuries by saying: Now you are free to go where you want, and do as you desire, and choose the leaders you please.
 
 You do not take a person who, for years, has been hobbled by chains and liberate him, bring him up to the starting line of a race and then say, "you are free to compete with all the others," and still justly believe that you have been completely fair.
@@ -50,5 +48,3 @@ Together, and with millions more, we can light that candle of understanding in t
 And, once lit, it will never again go out.
 
 [Source: Public Papers of the Presidents of the United States: Lyndon B. Johnson, 1965. Volume II, entry 301, pp. 635-640. Washington, D. C.: Government Printing Office, 1966. Available online via LBJ Library [\(http://www.lbjlib.utexas.edu/johnson/](http://www.lbjlib.utexas.edu/johnson/archives.hom/speeches.hom/650604.asp) [archives.hom/speeches.hom/650604.asp\)](http://www.lbjlib.utexas.edu/johnson/archives.hom/speeches.hom/650604.asp).]
-
-## 3 of 3 8/26/25, 10:36 AM

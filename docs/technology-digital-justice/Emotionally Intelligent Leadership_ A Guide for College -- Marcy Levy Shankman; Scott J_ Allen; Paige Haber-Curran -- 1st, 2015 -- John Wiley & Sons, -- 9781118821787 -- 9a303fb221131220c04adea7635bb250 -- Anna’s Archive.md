@@ -2853,8 +2853,6 @@ Mc Cauley, C. D., & Van Velsor, E. (Eds.). (2003). The Center for Creative Leade
 
 Emotionally intelligent leadership (EIL) promotes an intentional focus on three facets: consciousness of self, consciousness of others, and consciousness of context. Across the three EIL facets are nineteen capacities that equip individuals with the knowledge, skills, perspectives, and attitudes to achieve desired leadership outcomes.
 
-####
-
 Demonstrating emotionally intelligent leadership involves awareness of your abilities, emotions, and perceptions. Consciousness of self is about prioritizing the inner work of reflection and introspection and appreciating that self-awareness is a continual and ongoing process.
 
 - Emotional Self-Perception: Identifying emotions and their influence on behavior. Emotional self-perception is about describing, naming, and understanding your emotions. Emotionally intelligent leaders are aware of how situations influence emotions and how emotions affect interactions with others.

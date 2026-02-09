@@ -15,8 +15,6 @@ twilkins
 
 Housing is the single biggest monthly cost for tens of millions of people, whether they are tenants or homeowners. Everyone in the United States should have safe, accessible, sustainable, and permanently affordable housing: a Homes Guarantee. Our nation is facing a housing crisis. From big cities to small towns and rural communities, families are struggling to pay their rent or mortgage, and far too many are living on the brink of eviction. This has led our country to the largest homeless crisis
 
-## 1 of 8 10/15/25, 11:50 PM
-
 since the federal government began tracking these numbers.
 
 Corporations and the politicians that serve them have worked for decades to create a cycle of cutting taxes for corporations and the wealthy and then using smaller revenue streams to defund public housing and subsidized housing programs and other social services. At the same time that real wages for poor and working people have stagnated, wealth inequality has widened and the U. S. has grown an ever richer billionaire class and corporations with insatiable greed. The resulting hyperinflation in rent in the past few years has turned a crisis into an outright humanitarian and political emergency.
@@ -66,5 +64,3 @@ The United States has never fully addressed the lasting impacts of Native genoci
 To end land and real estate speculation, housing must be decommodified and treated as a basic necessity and civil right rather than an investment. Speculation allows investors to profit from housing while leaving properties vacant or neglected, destabilizing communities and inflating housing costs. Local and state governments need to consider measures such as land value uplift taxes, flipping taxes, and taxes on outof-state transactions to disincentivize speculative practices. Additionally, a blight and vacancy tax would penalize property owners who allow homes to fall into disrepair. These policies would promote stable, affordable housing and curb predatory investment behaviors. Lastly, as climate crises increase, we need new, standing policies that prevent post-disaster land speculation rather than urging an individual governor to put a moratorium in place after a disaster.
 
 ## ![](_page_7_Picture_3.jpeg)
-
-## 8 of 8 10/15/25, 11:50 PM

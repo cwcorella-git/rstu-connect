@@ -19,20 +19,17 @@ tags:
 
 ---
 
-
   This Memorial Edition of the Writings of
   Henry George is limited to one thousand
   numbered copies, of which this is
 
   No. 4
 
-
   MEMORIAL EDITION
   OF THE WRITINGS
   OF HENRY GEORGE
 
   VOL. I.
-
 
 Make for thyself a definition or description of the thing which is
 presented to thee, so as to see distinctly what kind of a thing it is,
@@ -49,14 +46,11 @@ are like families; what each thing is, and of what it is composed, and
 how long it is the nature of this thing to endure.—_Marcus Aurelius
 Antoninus._
 
-
 [Illustration: _Henry George when writing “Progress and Poverty” San
 Francisco, 1879_]
 
-
   THE WRITINGS OF
   HENRY GEORGE
-
 
   PROGRESS AND
   POVERTY
@@ -71,17 +65,14 @@ Francisco, 1879_]
 
   [Illustration: Colophon]
 
-
   NEW YORK: DOUBLEDAY
   AND MCCLURE COMPANY
   1898
-
 
   Copyright, 1891, by
   HENRY GEORGE
 
   THE DE VINNE PRESS.
-
 
   TO THOSE WHO,
   SEEING THE VICE AND MISERY THAT SPRING FROM
@@ -91,7 +82,6 @@ Francisco, 1879_]
   AND WOULD STRIVE FOR ITS ATTAINMENT
 
   SAN FRANCISCO, March, 1879.
-
 
             There must be refuge! Men
     Perished in winter winds till one smote fire
@@ -115,9 +105,7 @@ Francisco, 1879_]
 
     _Whittier._
 
-
 PREFACE TO FOURTH EDITION.
-
 
 The views herein set forth were in the main briefly stated in a
 pamphlet entitled “Our Land and Land Policy,” published in San
@@ -308,16 +296,13 @@ preface added, this edition is the same as previous ones.
   HENRY GEORGE.
   NEW YORK, _November_, 1880.
 
-
 CONTENTS.
-
 
   INTRODUCTORY.
 
                                                                    PAGE
 
   The Problem                                                          3
-
 
   BOOK I.—WAGES AND CAPITAL.
 
@@ -331,7 +316,6 @@ CONTENTS.
 
           V.—The real functions of capital                            79
 
-
   BOOK II.—POPULATION AND SUBSISTENCE.
 
   Chapter I.—The Malthusian theory, its genesis and support           91
@@ -341,7 +325,6 @@ CONTENTS.
         III.—Inferences from analogy                                 129
 
          IV.—Disproof of the Malthusian theory                       140
-
 
   BOOK III.—THE LAWS OF DISTRIBUTION.
 
@@ -363,7 +346,6 @@ CONTENTS.
 
        VIII.—The statics of the problem thus explained               219
 
-
   BOOK IV.—EFFECT OF MATERIAL PROGRESS UPON THE DISTRIBUTION OF WEALTH.
 
   Chapter I.—The dynamics of the problem yet to seek                 225
@@ -376,7 +358,6 @@ CONTENTS.
 
          IV.—Effect of the expectation raised by material progress   253
 
-
   BOOK V.—THE PROBLEM SOLVED.
 
   Chapter I.—The primary cause of recurring paroxysms of industrial
@@ -384,13 +365,11 @@ CONTENTS.
 
          II.—The persistence of poverty amid advancing wealth        280
 
-
   BOOK VI.—THE REMEDY.
 
   Chapter I.—Insufficiency of remedies currently advocated           297
 
          II.—The true remedy                                         326
-
 
   BOOK VII.—JUSTICE OF THE REMEDY.
 
@@ -405,7 +384,6 @@ CONTENTS.
 
           V.—Property in land in the United States                   383
 
-
   BOOK VIII.—APPLICATION OF THE REMEDY.
 
   Chapter I.—Private property in land inconsistent with the best
@@ -417,7 +395,6 @@ CONTENTS.
         III.—The proposition tried by the canons of taxation         406
 
          IV.—Indorsements and objections                             420
-
 
   BOOK IX.—EFFECTS OF THE REMEDY.
 
@@ -431,7 +408,6 @@ CONTENTS.
          IV.—Of the changes that would be wrought in social
              organization and social life                            452
 
-
   BOOK X.—THE LAW OF HUMAN PROGRESS.
 
   Chapter I.—The current theory of human progress—its insufficiency  473
@@ -444,17 +420,13 @@ CONTENTS.
 
           V.—The central truth                                       541
 
-
   CONCLUSION.
 
   The problem of individual life                                     553
 
-
 INTRODUCTORY.
 
-
 THE PROBLEM.
-
 
     Ye build! ye build! but ye enter not in,
     Like the tribes whom the desert devoured in their sin;
@@ -463,9 +435,7 @@ THE PROBLEM.
 
     _—Mrs. Sigourney._
 
-
 INTRODUCTORY.
-
 
 THE PROBLEM.
 
@@ -783,11 +753,9 @@ not our affair. If the conclusions that we reach run counter to our
 prejudices, let us not flinch; if they challenge institutions that have
 long been deemed wise and natural, let us not turn back.
 
-
 BOOK I.
 
 WAGES AND CAPITAL.
-
 
 CHAPTER I.—THE CURRENT DOCTRINE—ITS INSUFFICIENCY.
 
@@ -799,15 +767,12 @@ CHAPTER IV.—THE MAINTENANCE OF LABORERS NOT DRAWN FROM CAPITAL.
 
 CHAPTER V.—THE REAL FUNCTIONS OF CAPITAL.
 
-
   He that is to follow philosophy must be a freeman in mind.
           —_Ptolemy_.
-
 
 CHAPTER I.
 
 THE CURRENT DOCTRINE OF WAGES—ITS INSUFFICIENCY.
-
 
 Reducing to its most compact form the problem we have set out to
 investigate, let us examine, step by step, the explanation which
@@ -1179,7 +1144,6 @@ see, if, beginning with facts and tracing their relations, we arrive
 at the same conclusions as are thus obvious when, beginning with first
 principles, we trace their exemplification in complex facts.
 
-
 FOOTNOTES:
 
 [1] It is true that the poorest may now in certain ways enjoy what
@@ -1229,11 +1193,9 @@ best for the sake of simplicity to confine the inquiry. Any question
 which may arise in the reader’s mind as to wages for unproductive
 services had best therefore be deferred.
 
-
 CHAPTER II.
 
 THE MEANING OF THE TERMS.
-
 
 Before proceeding further in our inquiry, let us make sure of the
 meaning of our terms, for indistinctness in their use must inevitably
@@ -1814,11 +1776,9 @@ speaking of money in this connection, I am of course speaking of coin,
 for although paper money may perform all the functions of coin, it is
 not wealth, and cannot therefore be capital.
 
-
 CHAPTER III.
 
 WAGES NOT DRAWN FROM CAPITAL, BUT PRODUCED BY THE LABOR.
-
 
 The importance of this digression will, I think, become more and more
 apparent as we proceed in our inquiry, but its pertinency to the branch
@@ -2427,11 +2387,9 @@ than does the final disposition of the product made by the ultimate
 receiver, who may, perhaps, be in another quarter of the globe and at
 the end of a series of exchanges numbering hundreds.
 
-
 CHAPTER IV.
 
 THE MAINTENANCE OF LABORERS NOT DRAWN FROM CAPITAL.
-
 
 But a stumbling block may yet remain, or may recur, in the mind of the
 reader.
@@ -2730,11 +2688,9 @@ Chap. III, p. 25.
 [12] The words quoted are Ricardo’s (Chap. II); but the idea is common
 in standard works.
 
-
 CHAPTER V.
 
 THE REAL FUNCTIONS OF CAPITAL.
-
 
 It may now be asked, If capital is not required for the payment of
 wages or the support of labor during production, what, then, are its
@@ -3000,17 +2956,14 @@ proceed. That question is, Do the productive powers of nature tend
 to diminish with the increasing drafts made upon them by increasing
 population?
 
-
 FOOTNOTES:
 
 [13] New Zealand and its Inhabitants. Rev. Richard Taylor. London,
 1855. Chap. XXI.
 
-
 BOOK II.
 
 POPULATION AND SUBSISTENCE.
-
 
 CHAPTER I.—THE MALTHUSIAN THEORY, ITS GENESIS AND SUPPORT.
 
@@ -3020,7 +2973,6 @@ CHAPTER III.—INFERENCES FROM ANALOGY.
 
 CHAPTER IV.—DISPROOF OF THE MALTHUSIAN THEORY.
 
-
     Are God and Nature then at strife,
       That Nature lends such evil dreams?
       So careful of the type she seems,
@@ -3028,11 +2980,9 @@ CHAPTER IV.—DISPROOF OF THE MALTHUSIAN THEORY.
 
     —_Tennyson._
 
-
 CHAPTER I.
 
 THE MALTHUSIAN THEORY, ITS GENESIS AND SUPPORT.
-
 
 Behind the theory we have been considering lies a theory we have yet to
 consider. The current doctrine as to the derivation and law of wages
@@ -3385,7 +3335,6 @@ vanished when subjected to a candid examination, so, do I believe, will
 vanish the grounds of this, its twin. In proving that wages are not
 drawn from capital we have raised this Antæus from the earth.
 
-
 FOOTNOTES:
 
 [14] Principles of Political Economy, Book II, Chap. IX., Sec. VI.—Yet
@@ -3408,11 +3357,9 @@ Report U. S. Department of Agriculture, 1873.
 
 [18] Note IV. to Wealth of Nations.
 
-
 CHAPTER II.
 
 INFERENCES FROM FACTS.
-
 
 The general acceptance of the Malthusian theory and the high authority
 by which it is indorsed have seemed to me to make it expedient to
@@ -4146,7 +4093,6 @@ Nature than can the six millions slain by the sword of Genghis Khan,
 Tamerlane’s pyramid of skulls, or the extermination of the ancient
 Britons or of the aboriginal inhabitants of the West Indies.
 
-
 FOOTNOTES:
 
 [19] Malthus’ other works, though written after he became famous, made
@@ -4231,11 +4177,9 @@ not interest in the economic sense of the term.
 [29] The seat of recent famine in China was not the most thickly
 settled districts.
 
-
 CHAPTER III.
 
 INFERENCES FROM ANALOGY.
-
 
 If we turn from an examination of the facts brought forward in
 illustration of the Malthusian theory to consider the analogies by
@@ -4545,11 +4489,9 @@ the Malthusian theory is not proved by the reasoning by which it is
 supported—it is enough for the present. In the next chapter I propose
 to take the affirmative and show that it is disproved by facts.
 
-
 CHAPTER IV.
 
 DISPROOF OF THE MALTHUSIAN THEORY.
-
 
 So deeply rooted and thoroughly entwined with the reasonings of the
 current political economy is this doctrine that increase of population
@@ -4881,18 +4823,15 @@ examination, we may infer really spring from the mal-adjustments of
 men—an inference which, as we proceed, will become a demonstration. For
 we have yet to find what _does_ produce poverty amid advancing wealth.
 
-
 FOOTNOTES:
 
 [30] Principles of Political Economy, Book I., Chap. XIII., Sec. 2.
 
 [31] The rate up to 1860 was 35 per cent. each decade.
 
-
 BOOK III.
 
 THE LAWS OF DISTRIBUTION.
-
 
  CHAPTER I.—THE INQUIRY NARROWED TO THE LAWS OF DISTRIBUTION—NECESSARY
  RELATION OF THESE LAWS.
@@ -4912,7 +4851,6 @@ THE LAWS OF DISTRIBUTION.
 
  CHAPTER VIII.—THE STATICS OF THE PROBLEM THUS EXPLAINED.
 
-
  The machines that are first invented to perform any particular
  movement are always the most complex, and succeeding artists generally
  discover that with fewer wheels, with fewer principles of motion
@@ -4926,12 +4864,10 @@ THE LAWS OF DISTRIBUTION.
  Smith_, _Essay on the Principles which Lead and Direct Philosophical
  Inquiries, as Illustrated by the History of Astronomy_.
 
-
 CHAPTER I.
 
 THE INQUIRY NARROWED TO THE LAWS OF DISTRIBUTION—THE NECESSARY RELATION
 OF THESE LAWS.
-
 
 The preceding examination has, I think, conclusively shown that the
 explanation currently given, in the name of political economy, of the
@@ -5289,11 +5225,9 @@ labor and capital must be as it would be between Tom, Dick, and Harry,
 if Tom and Dick were the original partners, and Harry came in but as an
 assistant to and sharer with Dick.
 
-
 CHAPTER II.
 
 RENT AND THE LAW OF RENT.
-
 
 The term rent, in its economic sense—that is, when used, as I am
 using it, to distinguish that part of the produce which accrues to
@@ -5518,7 +5452,6 @@ land fails to increase as rapidly as productive power, that wages and
 interest can increase with the increase of productive power. All this
 is exemplified in actual fact.
 
-
 FOOTNOTES:
 
 [32] In speaking of the value of land I use and shall use the words as
@@ -5546,11 +5479,9 @@ Mr. Ricardo.
 necessary relation between rent, interest, and wages, but evidently
 never worked it out.
 
-
 CHAPTER III.
 
 OF INTEREST AND THE CAUSE OF INTEREST.
-
 
 Having made sure of the law of rent, we have obtained as its necessary
 corollary the law of wages, where the division is between rent and
@@ -6032,17 +5963,14 @@ receive a special and distinguishable advantage from the reproductive
 character of capital, which is as real, though perhaps not as clear, as
 though I had lent my capital to another and he had paid me interest.
 
-
 FOOTNOTES:
 
 [36] This is really said of profits, but with the evident meaning of
 returns to capital.
 
-
 CHAPTER IV.
 
 OF SPURIOUS CAPITAL AND OF PROFITS OFTEN MISTAKEN FOR INTEREST.
-
 
 The belief that interest is the robbery of industry is, I am persuaded,
 in large part due to a failure to discriminate between what is really
@@ -6222,11 +6150,9 @@ poor; that wealth is but the reward of industry, intelligence, and
 thrift; and poverty but the punishment of indolence, ignorance, and
 imprudence.
 
-
 CHAPTER V.
 
 THE LAW OF INTEREST.
-
 
 Let us turn now to the law of interest, keeping in mind two things to
 which attention has heretofore been called—viz:
@@ -6483,11 +6409,9 @@ that is to say, between the possessors of the two factors, natural
 substances and powers, and human exertion—which two factors by their
 union produce all wealth.
 
-
 CHAPTER VI.
 
 WAGES AND THE LAW OF WAGES.
-
 
 We have by inference already obtained the law of wages. But to verify
 the deduction and to strip the subject of all ambiguities, let us seek
@@ -6886,7 +6810,6 @@ necessaries or comforts of the laborer, but only in the increased value
 of land and the greater incomes and more lavish expenditure of the
 rent-receiving class.
 
-
 FOOTNOTES:
 
 [37] This equalization will be effected by the equation of prices.
@@ -6895,11 +6818,9 @@ FOOTNOTES:
 accounts for the high wages of successful lawyers, physicians,
 contractors, actors, etc.
 
-
 CHAPTER VII.
 
 THE CORRELATION AND CO-ORDINATION OF THESE LAWS.
-
 
 The conclusions we have reached as to the laws which govern the
 distribution of wealth recast a large and most important part of the
@@ -6966,11 +6887,9 @@ a whole, but measures of different qualities. In the statement we have
 given, they spring from one point, support and supplement each other,
 and form the correlating divisions of a complete whole.
 
-
 CHAPTER VIII.
 
 THE STATICS OF THE PROBLEM THUS EXPLAINED.
-
 
 We have now obtained a clear, simple, and consistent theory of the
 distribution of wealth, which accords with first principles and
@@ -7086,11 +7005,9 @@ where man single-handed is commencing the struggle with nature, and
 land is yet worth nothing, but to the great cities, where the ownership
 of a little patch of ground is a fortune.
 
-
 BOOK IV.
 
 EFFECT OF MATERIAL PROGRESS UPON THE DISTRIBUTION OF WEALTH.
-
 
  CHAPTER I.—THE DYNAMICS OF THE PROBLEM YET TO SEEK.
 
@@ -7101,7 +7018,6 @@ EFFECT OF MATERIAL PROGRESS UPON THE DISTRIBUTION OF WEALTH.
  OF WEALTH.
 
  CHAPTER IV.—EFFECT OF THE EXPECTATION RAISED BY MATERIAL PROGRESS.
-
 
  Hitherto, it is questionable if all the mechanical inventions yet made
  have lightened the day’s toil of any human being.—_John Stuart Mill._
@@ -7121,11 +7037,9 @@ EFFECT OF MATERIAL PROGRESS UPON THE DISTRIBUTION OF WEALTH.
 
     —_Mrs. Browning._
 
-
 CHAPTER I.
 
 THE DYNAMICS OF THE PROBLEM YET TO SEEK.
-
 
 In identifying rent as the receiver of the increased production which
 material progress gives, but which labor fails to obtain; in seeing
@@ -7184,7 +7098,6 @@ of wealth, let us, therefore, consider the effects of increase of
 population apart from improvement in the arts, and then the effect of
 improvement in the arts apart from increase of population.
 
-
 FOOTNOTES:
 
 [39] As to this, it may be worth while to say: (1) That the general
@@ -7204,11 +7117,9 @@ extension of cultivation, but upon the proposition that if land of a
 certain quality will yield something, land of a better quality will
 yield more.
 
-
 CHAPTER II.
 
 THE EFFECT OF INCREASE OF POPULATION UPON THE DISTRIBUTION OF WEALTH.
-
 
 The manner in which increasing population advances rent, as explained
 and illustrated in current treatises, is that the increased demand
@@ -7615,11 +7526,9 @@ I am disposed to think that the latter mode, to which little attention
 has been given by political economists, is really the more important.
 But this, in our inquiry, is not a matter of moment.
 
-
 CHAPTER III.
 
 THE EFFECT OF IMPROVEMENTS IN THE ARTS UPON THE DISTRIBUTION OF WEALTH.
-
 
 Eliminating improvements in the arts, we have seen the effects of
 increase of population upon the distribution of wealth. Eliminating
@@ -7947,11 +7856,9 @@ of our great American cities were to be made models of purity and
 economy, the effect would simply be to increase the value of land, not
 to raise either wages or interest.
 
-
 CHAPTER IV.
 
 EFFECT OF THE EXPECTATION RAISED BY MATERIAL PROGRESS.
-
 
 We have now seen that while advancing population tends to advance rent,
 so all the causes that in a progressive state of society operate to
@@ -8120,17 +8027,14 @@ advance of rent to overpass the limit where production would cease, is,
 I think, shown by recurring seasons of industrial paralysis—a matter
 which will be more fully examined in the next book.
 
-
 BOOK V.
 
 THE PROBLEM SOLVED.
-
 
  CHAPTER I.—THE PRIMARY CAUSE OF RECURRING PAROXYSMS OF INDUSTRIAL
  DEPRESSION.
 
  CHAPTER II.—THE PERSISTENCE OF POVERTY AMID ADVANCING WEALTH.
-
 
  To whomsoever the soil at any time belongs, to him belong the fruits
  of it. White parasols, and elephants mad with pride are the flowers
@@ -8144,11 +8048,9 @@ THE PROBLEM SOLVED.
  whereby he will extract from her the third nettle, and call it
  rent.—_Carlyle._
 
-
 CHAPTER I.
 
 THE PRIMARY CAUSE OF RECURRING PAROXYSMS OF INDUSTRIAL DEPRESSION.
-
 
 Our long inquiry is ended. We may now marshal the results.
 
@@ -8719,7 +8621,6 @@ depressions exhibit, in fact, as was noticed in the opening chapter,
 but intensifications of the general movement which accompanies material
 progress.
 
-
 FOOTNOTES:
 
 [40] The Subsidy Question and the Democratic Party, 1871.
@@ -8736,11 +8637,9 @@ that land values must ultimately advance, hold on as long as they can.
 a new period of activity has commenced, as above predicted, and in New
 York and Chicago real estate prices have already begun to recover.
 
-
 CHAPTER II.
 
 THE PERSISTENCE OF POVERTY AMID ADVANCING WEALTH.
-
 
 The great problem, of which these recurring seasons of industrial
 depression are but peculiar manifestations, is now, I think, fully
@@ -9179,17 +9078,14 @@ of power. As said the Brahmins, ages ago—
  of it. White parasols and elephants mad with pride are the flowers of
  a grant of land._”
 
-
 FOOTNOTES:
 
 [43] Systems of Land Tenure, published by the Cobden Club.
-
 
  This Memorial Edition of the Writings of Henry George is limited to
  one thousand numbered copies, of which this is
 
  No. 4
-
 
   MEMORIAL EDITION
   OF THE WRITINGS
@@ -9197,10 +9093,8 @@ FOOTNOTES:
 
   VOL. II.
 
-
   THE WRITINGS OF
   HENRY GEORGE
-
 
   PROGRESS AND
   POVERTY
@@ -9215,28 +9109,22 @@ FOOTNOTES:
 
   [Illustration: Colophon]
 
-
   NEW YORK: DOUBLEDAY
   AND McCLURE COMPANY
   1898
 
-
   Copyright, 1891, by
   HENRY GEORGE
 
-
   THE DE VINNE PRESS.
-
 
 BOOK VI.
 
 THE REMEDY.
 
-
  CHAPTER I.—INSUFFICIENCY OF REMEDIES CURRENTLY ADVOCATED.
 
  CHAPTER II.—THE TRUE REMEDY.
-
 
  A new and fair division of the goods and rights of this world
  should be the main object of those who conduct human affairs.—_De
@@ -9248,11 +9136,9 @@ THE REMEDY.
  means do not merely produce small effects; they produce no effect at
  all.—_John Stuart Mill._
 
-
 CHAPTER I.
 
 INSUFFICIENCY OF REMEDIES CURRENTLY ADVOCATED.
-
 
 In tracing to its source the cause of increasing poverty amid advancing
 wealth, we have discovered the remedy; but before passing to that
@@ -9296,7 +9182,6 @@ VI. From a more general distribution of land.
 Under these six heads I think we may in essential form review all hopes
 and propositions for the relief of social distress short of the simple
 but far-reaching measure which I shall propose.
-
 
 _I.—From Greater Economy in Government._
 
@@ -9401,7 +9286,6 @@ inexpensive tends to put it under control of the people and to bring
 questions of real importance to the front. But no reduction in the
 expenses of government can of itself cure or mitigate the evils that
 arise from a constant tendency to the unequal distribution of wealth.
-
 
 _II.—From the Diffusion of Education and Improved Habits of Industry
 and Thrift._
@@ -9594,7 +9478,6 @@ industrious, prudent, skillful, and intelligent, they must be relieved
 from want. If you would have the slave show the virtues of the freeman,
 you must first make him free.
 
-
 _III.—From Combinations of Workmen._
 
 It is evident from the laws of distribution, as previously traced,
@@ -9786,7 +9669,6 @@ Like this is the method of labor combinations. In their strikes,
 trades’ unions sit _dharna_. But, unlike the Hindoo, they have not the
 power of superstition to back them.
 
-
 _IV.—From Co-operation._
 
 It is now, and has been for some time, the fashion to preach
@@ -9885,7 +9767,6 @@ accomplish the end which co-operation aims at—to give to each what
 he fairly earns. Destroy this monopoly, and industry must become the
 co-operation of equals.
 
-
 _V.—From Governmental Direction and Interference._
 
 The limits within which I wish to keep this book will not permit
@@ -9939,7 +9820,6 @@ natural development of all the parts will be secured the harmony of the
 whole. All that is necessary to social regeneration is included in the
 motto of those Russian patriots sometimes called Nihilists—“Land and
 Liberty!”
-
 
 _VI.—From a More General Distribution of Land._
 
@@ -10147,11 +10027,9 @@ sacks are carried by corporations. All the currents of the time run to
 concentration. To resist it successfully we must throttle steam and
 discharge electricity from human service.
 
-
 CHAPTER II.
 
 THE TRUE REMEDY.
-
 
 We have traced the unequal distribution of wealth which is the curse
 and menace of modern civilization to the institution of private
@@ -10221,7 +10099,6 @@ perceived by the Stoic Emperor—
  “_We are made for co-operation—like feet, like hands, like eyelids,
  like the rows of the upper and lower teeth._”
 
-
 FOOTNOTES:
 
 [44] To say nothing of superior want of conscience, which is often the
@@ -10233,11 +10110,9 @@ his resolution and ordering a roast pig invited two lady friends to
 dine with him, but the pig being brought in before the company arrived,
 Keimer could not resist the temptation and ate it all himself.
 
-
 BOOK VII.
 
 JUSTICE OF THE REMEDY.
-
 
  CHAPTER I.—INJUSTICE OF PRIVATE PROPERTY IN LAND.
 
@@ -10250,16 +10125,13 @@ JUSTICE OF THE REMEDY.
 
  CHAPTER V.—PROPERTY IN LAND IN THE UNITED STATES.
 
-
  Justice is a relation of congruity which really subsists between two
  things. This relation is always the same, whatever being considers it,
  whether it be God, or an angel, or lastly a man.—_Montesquieu._
 
-
 CHAPTER I.
 
 THE INJUSTICE OF PRIVATE PROPERTY IN LAND.
-
 
 When it is proposed to abolish private property in land the first
 question that will arise is that of justice. Though often warped by
@@ -10672,7 +10544,6 @@ invention and improvement add to productive power; but it is everywhere
 a truth—as much in our new States as in the British Islands or by the
 banks of the Indus.
 
-
 FOOTNOTES:
 
 [46] In saying that private property in land can, in the ultimate
@@ -10709,12 +10580,10 @@ own rights, and could not sell those of the unborn. The government was
 obliged to step in and settle the matter by buying land for a tribal
 annuity, in which every child that is born acquires a share.
 
-
 CHAPTER II.
 
 THE ENSLAVEMENT OF LABORERS THE ULTIMATE RESULT OF PRIVATE PROPERTY IN
 LAND.
-
 
 If chattel slavery be unjust, then is private property in land unjust.
 
@@ -11036,7 +10905,6 @@ ownership of land is the nether millstone. Material progress is the
 upper millstone. Between them, with an increasing pressure, the working
 classes are being ground.
 
-
 FOOTNOTES:
 
 [48] One of the anti-slavery agitators (Col. J. A. Collins) on a visit
@@ -11046,11 +10914,9 @@ ration which in the slave codes of some of the States fixed the minimum
 of maintenance for a slave. He quickly discovered that to many of his
 hearers it was an anti-climax.
 
-
 CHAPTER III.
 
 CLAIM OF LAND OWNERS TO COMPENSATION.
-
 
 The truth is, and from this truth there can be no escape, that there is
 and can be no just title to an exclusive possession of the soil, and
@@ -11359,11 +11225,9 @@ given in “Justice,” 1891. This has also been reprinted by D. Appleton &
 Co., and constitutes, I think, the very funniest answer to himself ever
 made by a man who claimed to be a philosopher.
 
-
 CHAPTER IV.
 
 PRIVATE PROPERTY IN LAND HISTORICALLY CONSIDERED.
-
 
 What more than anything else prevents the realization of the essential
 injustice of private property in land and stands in the way of a candid
@@ -11867,7 +11731,6 @@ As Madame de Stael said, “Liberty is ancient.” Justice, if we turn to
 the most ancient records, will always be found to have the title of
 prescription.
 
-
 FOOTNOTES:
 
 [51] The influence of the lawyers has been very marked in Europe, both
@@ -11883,11 +11746,9 @@ to this measure by which the land owners avoided the payment of their
 rent to the nation, disputes the statement of Blackstone that a
 knight’s service was but for 40 days, and says it was during necessity.
 
-
 CHAPTER V.
 
 OF PROPERTY IN LAND IN THE UNITED STATES.
-
 
 In the earlier stages of civilization we see that land is everywhere
 regarded as common property. And, turning from the dim past to our own
@@ -12186,11 +12047,9 @@ equal right of all to land, our free institutions will be in vain; our
 common schools will be in vain; our discoveries and inventions will but
 add to the force that presses the masses down!
 
-
 BOOK VIII.
 
 APPLICATION OF THE REMEDY.
-
 
  CHAPTER I.—PRIVATE PROPERTY IN LAND INCONSISTENT WITH THE BEST USE OF
  LAND.
@@ -12200,7 +12059,6 @@ APPLICATION OF THE REMEDY.
  CHAPTER III.—THE PROPOSITION TRIED BY THE CANONS OF TAXATION.
 
  CHAPTER IV.—INDORSEMENTS AND OBJECTIONS.
-
 
     Why hesitate? Ye are full-bearded men,
     With God-implanted will, and courage if
@@ -12217,11 +12075,9 @@ APPLICATION OF THE REMEDY.
 
     —_E. R. Taylor._
 
-
 CHAPTER I.
 
 PRIVATE PROPERTY IN LAND INCONSISTENT WITH THE BEST USE OF LAND.
-
 
 There is a delusion resulting from the tendency to confound the
 accidental with the essential—a delusion which the law writers have
@@ -12376,7 +12232,6 @@ by every other consideration. It is as wasteful and uncertain a mode
 of securing the proper use of land as the burning down of houses is of
 roasting pigs.
 
-
 FOOTNOTES:
 
 [54] The fixed rent under the lease to the Alaska Fur Company is
@@ -12384,11 +12239,9 @@ $55,000 a year, with a payment of $2.62½ on each skin, which on
 100,000 skins, to which the take is limited, amounts to $262,500—a
 total rent of $317,500.
 
-
 CHAPTER II.
 
 HOW EQUAL RIGHTS TO THE LAND MAY BE ASSERTED AND SECURED.
-
 
 We have traced the want and suffering that everywhere prevail among
 the working classes, the recurring paroxysms of industrial depression,
@@ -12558,11 +12411,9 @@ remedy I have proposed by the accepted canons of taxation. In doing
 so, many incidental bearings may be seen that otherwise might escape
 notice.
 
-
 CHAPTER III.
 
 THE PROPOSITION TRIED BY THE CANONS OF TAXATION.
-
 
 The best tax by which public revenues can be raised is evidently that
 which will closest conform to the following conditions:
@@ -12585,7 +12436,6 @@ any at a disadvantage, as compared with others.
 Let us consider what form of taxation best accords with these
 conditions. Whatever it be, that evidently will be the best mode in
 which the public revenues can be raised.
-
 
 _I.—The Effect of Taxes upon Production._
 
@@ -12730,7 +12580,6 @@ is to drive it away. But the whole value of land may be taken in
 taxation, and the only effect will be to stimulate industry, to open
 new opportunities to capital, and to increase the production of wealth.
 
-
 _II.—As to Ease and Cheapness of Collection._
 
 With, perhaps, the exception of certain licenses and stamp duties,
@@ -12792,7 +12641,6 @@ to reduce the price of land.
 Thus in all respects a tax upon land values is the cheapest tax by
 which a large revenue can be raised—giving to the government the
 largest net revenue in proportion to the amount taken from the people.
-
 
 _III.—As to Certainty._
 
@@ -12864,7 +12712,6 @@ would be so simple and clear, and public attention would be so directed
 to it, that the valuation of taxation could and would be made with
 the same certainty that a real estate agent can determine the price a
 seller can get for a lot.
-
 
 _IV.—As to Equality._
 
@@ -12948,7 +12795,6 @@ skill, and intelligence; and each will obtain what he fairly earns.
 Then, but not till then, will labor get its full reward, and capital
 its natural return.
 
-
 FOOTNOTES:
 
 [55] Following the habit of confounding the exclusive right granted by
@@ -12985,11 +12831,9 @@ to ask that others be prevented from making similar things. Such a
 prohibition, though given for the purpose of stimulating discovery and
 invention, really in the long run operates as a check upon them.
 
-
 CHAPTER IV.
 
 INDORSEMENTS AND OBJECTIONS.
-
 
 The grounds from which we have drawn the conclusion that the tax on
 land values or rent is the best method of raising public revenues have
@@ -13231,11 +13075,9 @@ But if once the truth which I am trying to make clear is understood by
 the masses, it is easy to see how a union of political forces strong
 enough to carry it into practice becomes possible.
 
-
 BOOK IX.
 
 EFFECTS OF THE REMEDY.
-
 
  CHAPTER I.—OF THE EFFECT UPON THE PRODUCTION OF WEALTH.
 
@@ -13245,7 +13087,6 @@ EFFECTS OF THE REMEDY.
 
  CHAPTER IV.—OF THE CHANGES THAT WOULD BE WROUGHT IN SOCIAL
  ORGANIZATION AND SOCIAL LIFE.
-
 
  I cannot play upon any stringed instrument; but I can tell you how of
  a little village to make a great and glorious city.—_Themistocles._
@@ -13259,11 +13100,9 @@ EFFECTS OF THE REMEDY.
  vineyards and eat the fruit of them. They shall not build and another
  inhabit; they shall not plant and another eat.—_Isaiah._
 
-
 CHAPTER I.
 
 OF THE EFFECT UPON THE PRODUCTION OF WEALTH.
-
 
 The elder Mirabeau, we are told, ranked the proposition of Quesnay, to
 substitute one single tax on rent (the _impôt unique_) for all other
@@ -13448,11 +13287,9 @@ be set in motion; demand would keep pace with supply, and supply with
 demand; trade would increase in every direction, and wealth augment on
 every hand.
 
-
 CHAPTER II.
 
 OF THE EFFECT UPON DISTRIBUTION AND THENCE UPON PRODUCTION.
-
 
 But great as they thus appear, the advantages of a transference of
 all public burdens to a tax upon the value of land cannot be fully
@@ -13659,11 +13496,9 @@ were this insane desire to get rich at any cost lessened, mental
 activities now devoted to scraping together riches would be translated
 into far higher spheres of usefulness.
 
-
 CHAPTER III.
 
 OF THE EFFECT UPON INDIVIDUALS AND CLASSES.
-
 
 When it is first proposed to put all taxes upon the value of land, and
 thus confiscate rent, all land holders are likely to take the alarm,
@@ -13848,7 +13683,6 @@ All fear of great fortunes might be dismissed, for when every one gets
 what he fairly earns, no one can get more than he fairly earns. How
 many men are there who fairly earn a million dollars?
 
-
 FOOTNOTES:
 
 [56] Besides the enormous increase in the productive power of labor
@@ -13862,12 +13696,10 @@ our cities, and its practical result is to be seen in the diminishing
 productiveness of agriculture in large sections. In a great part of the
 United States we are steadily exhausting our lands.
 
-
 CHAPTER IV.
 
 OF THE CHANGES THAT WOULD BE WROUGHT IN SOCIAL ORGANIZATION AND SOCIAL
 LIFE.
-
 
 We are dealing only with general principles. There are some matters
 of detail—such as those arising from the division of revenues between
@@ -14416,11 +14248,9 @@ which this book must be confined, I cannot fully treat the questions
 which arise. I can but suggest some thoughts, which may, perhaps, serve
 as hints for further thought.
 
-
 BOOK X.
 
 THE LAW OF HUMAN PROGRESS.
-
 
  CHAPTER I.—THE CURRENT THEORY OF HUMAN PROGRESS—ITS INSUFFICIENCY.
 
@@ -14432,7 +14262,6 @@ THE LAW OF HUMAN PROGRESS.
 
  CHAPTER V.—THE CENTRAL TRUTH.
 
-
                     What in me is dark
     Illumine, what is low raise and support;
     That to the height of this great argument
@@ -14441,11 +14270,9 @@ THE LAW OF HUMAN PROGRESS.
 
     —_Milton._
 
-
 CHAPTER I.
 
 THE CURRENT THEORY OF HUMAN PROGRESS—ITS INSUFFICIENCY.
-
 
 If the conclusions at which we have arrived are correct, they will fall
 under a larger generalization.
@@ -14860,7 +14687,6 @@ This is a truth which in the current philosophy is ignored; but it is
 a truth most pregnant. Any valid theory of human progress must account
 for it.
 
-
 FOOTNOTES:
 
 [57] In semi-scientific or popularized form this may perhaps be seen
@@ -14884,11 +14710,9 @@ come?”
 [60] Herbert Spencer’s definition of Evolution, “First Principles,” p.
 396.
 
-
 CHAPTER II.
 
 DIFFERENCES IN CIVILIZATION—TO WHAT DUE.
-
 
 In attempting to discover the law of human progress, the first step
 must be to determine the essential nature of those differences which we
@@ -15371,7 +15195,6 @@ Human progress goes on as the advances made by one generation are in
 this way secured as the common property of the next, and made the
 starting point for new advances.
 
-
 FOOTNOTES:
 
 [61] Wordsworth, in his “Song at the Feast of Brougham Castle,” has in
@@ -15383,11 +15206,9 @@ highly poetical form alluded to this influence:
     “Bear me to the heart of France,”
     Is the longing of the shield.
 
-
 CHAPTER III.
 
 THE LAW OF HUMAN PROGRESS.
-
 
 What, then, is the law of human progress—the law under which
 civilization advances?
@@ -16021,7 +15842,6 @@ which, beneath the warpings of selfishness and the distortions of
 superstition, seem to underlie every religion that has ever striven to
 formulate the spiritual yearnings of man.
 
-
 FOOTNOTES:
 
 [62] How easy it is for ignorance to pass into contempt and dislike;
@@ -16046,11 +15866,9 @@ New Zealanders had a notion that by eating their enemies they acquired
 their strength and valor. And this seems to be the general origin of
 eating prisoners of war.
 
-
 CHAPTER IV.
 
 HOW MODERN CIVILIZATION MAY DECLINE.
-
 
 The conclusion we have thus reached harmonizes completely with our
 previous conclusions.
@@ -16550,7 +16368,6 @@ is trembling on the verge of a great movement. Either it must be a leap
 upward, which will open the way to advances yet undreamed of, or it
 must be a plunge downward, which will carry us back toward barbarism.
 
-
 FOOTNOTES:
 
 [64] See Macaulay’s letter to Randall, the biographer of Jefferson.
@@ -16572,11 +16389,9 @@ Constitution of the United States, adopted a century ago, is greatly
 superior to the latest State Constitutions, the most recent of which is
 that of California—a piece of utter botchwork.
 
-
 CHAPTER V.
 
 THE CENTRAL TRUTH.
-
 
 In the short space to which this latter part of our inquiry is
 necessarily confined, I have been obliged to omit much that I would
@@ -16849,11 +16664,9 @@ whose eyes at Patmos were closed in a trance. It is the culmination of
 Christianity—the City of God on earth, with its walls of jasper and its
 gates of pearl! It is the reign of the Prince of Peace!
 
-
 CONCLUSION.
 
 THE PROBLEM OF INDIVIDUAL LIFE.
-
 
     The days of the nations bear no trace
       Of all the sunshine so far foretold;
@@ -16866,11 +16679,9 @@ THE PROBLEM OF INDIVIDUAL LIFE.
 
     —_Frances Brown._
 
-
 CONCLUSION.
 
 THE PROBLEM OF INDIVIDUAL LIFE.
-
 
 My task is done.
 
@@ -17204,7 +17015,6 @@ land:
  without weariness and passionately affecting that beauty which cannot
  be expressed or uttered by men._
 
-
 FOOTNOTES:
 
 [68] Let us not delude our children. If for no other reason than for
@@ -17219,9 +17029,7 @@ which do not relate to self—
     When any one obtains that which he merits,
     Or any merits that which he obtains.”
 
-
 INDEX.
-
 
   Bagehot, Walter, arrest of civilization, 480-481;
     why barbarians waste away, 497-498.
@@ -17234,7 +17042,6 @@ INDEX.
     on Malthus, 92-93, 100;
     interest and profits, 158;
     relation between rent, wages and interest, 170.
-
 
   Cairnes, J. E., high wages and interest in new countries, 20-22.
 
@@ -17306,7 +17113,6 @@ INDEX.
   Co-operation, not a remedy for poverty, 314-317;
     but will follow from the extirpation of poverty, 452-469.
 
-
   Debts, public, not capital, 189-190;
     origin and abolition, 381-382, 453.
 
@@ -17328,7 +17134,6 @@ INDEX.
     contrasted with true laws, 218;
     equality of, 450-451.
 
-
   Education no remedy for poverty, 305-306.
 
   Exchange, functions of, 27-29, 76-77;
@@ -17339,7 +17144,6 @@ INDEX.
 
   Exchanges, credit in, 276-277;
     effect of wages on international, 309-310.
-
 
   Fawcett, Prof., Indian expenditures, 120_n_;
     value of land in England, 287.
@@ -17354,7 +17158,6 @@ INDEX.
 
   Franklin, Benjamin, his economy, 303.
 
-
   Government, improvements in increase production, 227, 252;
     will not relieve poverty, 298-301;
     simplification and change of character, 452-469;
@@ -17364,9 +17167,7 @@ INDEX.
   Guizot, Europe after fall of Roman Empire, 372-373;
     the question that arises from a review of civilization, 553.
 
-
   Hyndman, H. M., Indian famine, 119-120.
-
 
   Improvements in the arts, effect upon distribution, 242-252;
     in habits of industry and thrift, will not relieve poverty, 301-308;
@@ -17407,7 +17208,6 @@ INDEX.
 
   Ireland, cause of poverty and famine, 123-128;
     effect of introduction of potato, 303-304.
-
 
   Labor, purpose of, 27-29, 244-245, 396;
     meaning of term, 37-38;
@@ -17486,7 +17286,6 @@ INDEX.
     balance of, 196-197;
     meaning of, 561.
 
-
   Macaulay, English rule in India, 116;
     future of United States, 534.
 
@@ -17557,7 +17356,6 @@ INDEX.
 
   More, Sir Thomas, ejectments of cottagers, 289.
 
-
   Nature, its reproductive power, 180-182;
     utilization of its variations, 182-183, 185-187;
     equation between reproduction and destruction, 196-197;
@@ -17567,7 +17365,6 @@ INDEX.
 
   Nightingale, Florence, causes of famine in India, 118-119, 119_n_,
       120_n_.
-
 
   Perry, Arthur Latham, on capital, 34;
     rent, 225.
@@ -17659,9 +17456,7 @@ INDEX.
     abolition by England, effect of, 252;
     how protective taxes fall, 447-448.
 
-
   Quesnay, his doctrine, 422-423, 431.
-
 
   Rent, bearing upon Malthusian theory, 96-98, 132-134, 228-241,
       242-252;
@@ -17709,7 +17504,6 @@ INDEX.
 
   Royce, Samuel, Deterioration and Race Education, 538_n_.
 
-
   Slaveholders of the South, their view of abolition, 351-353.
 
   Slavery, chattel, comparatively trivial effects of, 347;
@@ -17751,7 +17545,6 @@ INDEX.
 
   Swift, Dean, his Modest Proposal, 126.
 
-
   Taxation, eliminated in considering distribution, 155;
     reduction of will not relieve poverty, 297-301;
     considered, 406-427;
@@ -17771,9 +17564,7 @@ INDEX.
   Thornton, Wm., on wage fund, 18_n_;
     on capital, 35.
 
-
   Values, equation of, 196-197.
-
 
   Wages, current doctrine, 17;
     it coincides with vulgar opinion, 18;
@@ -17838,5 +17629,3 @@ in hyphenation have been standardised but all other spelling and
 punctuation remains unchanged.
 
 Italics are represented thus _italic_.
-
-

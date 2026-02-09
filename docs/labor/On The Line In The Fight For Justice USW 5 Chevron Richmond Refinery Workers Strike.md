@@ -32,8 +32,6 @@ Dr. Rose On Cal-Osha, The Chevron Richmond Refinery, Health And Safety For Worke
 
 Cover-up:The Chevron Richmond Refinery Explosion-Fire, Health And Safety And Cal-Osha https://youtu.be/hplpolLXV6Y
 
-Cal-OSHA Mandated to take effective criminal action to immediately remediate the Richmond refinery multiple safety hazards http://www.upwa.info/documents/Cal-os...
-
 | US CSB Report |
 |--------------------------------------|
 | http://www.csb.gov/assets/1/16/Draft|

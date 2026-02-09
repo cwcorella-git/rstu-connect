@@ -14,8 +14,6 @@ Special thanks to our French comrades from the Solidarity Initiative Olga Taratu
 
 If you want to see more content like this, you are welcome tosupport its making financially. At the end of 2024, the platform mistakenly blocked our fundraising for two weeks, which resulted in a loss of monthly donors. We invite everyone to subscribe again – this allows the Assembly to continue working for you and helping our local readers in their daily struggle to survive!
 
-###
-
 It is already officially recognized that after the law on partial decriminalization of unauthorized leaving a military unit (SZCh in Ukrainian) and desertion came into force, desertions from the army of Ukrainehave increased significantly."I spoke with our elite units, both with the Airborne Assault Forces and with the Marines: the number of SZCh increased by 60%,"said Roman Kostenko, secretary of the parliamentary defense committee, at the end of January. Seeing that the ground is slipping from under its feet, the Ukrainian state is trying to take punitive measures.
 
 We recently wrote about the post of war correspondent Yury Butusov on December 31 which received a wide resonance in Ukraine. In the post, Butusov described how 1,700 people fled from the 155th Mechanized Brigade "Anna of Kyiv" before the first shot was fired. By the time it was sent to France, there were already 935 fugitives. In France itself, more than 50 fled.

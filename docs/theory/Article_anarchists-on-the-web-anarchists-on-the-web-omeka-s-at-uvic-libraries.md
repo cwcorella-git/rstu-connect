@@ -21,7 +21,6 @@ Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=htt
                 the reality of its use as a tool for corporate, political, and
                 military control. From these debates about the Internet, and
                 the increasing technologization of society more broadly, many
-1 of 27 10/4/25, 12:08 PM Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=https%3A%2F%2Fomekas.library.uvi...
 
 ## sub-groups of anarchists have emerged. Cypherpunks, who
 ## advocate for anonymity, have led privacy movements
@@ -47,7 +46,7 @@ Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=htt
                 In the interest of accessibility, this site is meant to be read as
                 one page. All external sources referenced in this exhibit can be
                 found free online, and are hyperlinked within the text. For a full
-2 of 27 10/4/25, 12:08 PM Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=https%3A%2F%2Fomekas.library.uvi...
+
                 list of sources, please view the Acknowledgements section at
 ## the end.
 
@@ -79,7 +78,6 @@ Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=htt
 ## around the massive “drum memory” most computers used for
 ## storage. Drum memory cylinders weighed about ten pounds
                 each, and only stored 10KB worth of data—that’s only about 10
-3 of 27 10/4/25, 12:08 PM Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=https%3A%2F%2Fomekas.library.uvi...
 
 ## pages of a text document!
 
@@ -105,7 +103,7 @@ Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=htt
 ## On the other hand, many engineers, corporations, and
                 governments saw the anarchic design of the Internet as a weak
                 spot:
-4 of 27 10/4/25, 12:08 PM Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=https%3A%2F%2Fomekas.library.uvi...
+
                 “[The Internet’s creators were] no longer in charge. Nobody
 ## really was. Those with dark intentions would soon find the
 ## Internet well suited to their goals, allowing fast, easy,
@@ -137,8 +135,6 @@ Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=htt
 ## notable being Phrack, a portmanteau of phreak and hack.
 ## Whereas hackers were mostly interested in computer
 ## networks, phreakers were interested in telephone networks.
-
-5 of 27 10/4/25, 12:08 PM Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=https%3A%2F%2Fomekas.library.uvi...
 
 ## The two often worked together, as in those days, Internet
 ## access was often connected to a landline telephone—hence
@@ -172,7 +168,6 @@ Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=htt
                 color, without nationality, without religious bias... and you call
 ## us criminals. You build atomic bombs, you wage wars, you
 
-6 of 27 10/4/25, 12:08 PM Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=https%3A%2F%2Fomekas.library.uvi...
                 murder, cheat, and lie to us and try to make us believe it's for
 ## our own good, yet we're the criminals.
 
@@ -199,8 +194,6 @@ Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=htt
 ## understood if intercepted by enemy forces, Nazi generals
 ## received and gave orders in a complex, ever-changing code
 ## that could only be deciphered using early computer
-
-7 of 27 10/4/25, 12:08 PM Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=https%3A%2F%2Fomekas.library.uvi...
 
 ## technology in World War II, and modern credit cards use
 ## cryptographic smart chips to prevent fraud. Cypherpunks
@@ -234,8 +227,6 @@ Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=htt
                 crypto anarchy will allow national secrets to be trade freely and
 ## will allow illicit and stolen materials to be traded. An
 
-8 of 27 10/4/25, 12:08 PM Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=https%3A%2F%2Fomekas.library.uvi...
-
 ## anonymous computerized market will even make possible
 ## abhorrent markets for assassinations and extortion. Various
 ## criminal and foreign elements will be active users of
@@ -267,7 +258,7 @@ Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=htt
                 alienate users and retain their power over the Internet as a
 ## social tool. Hackers complicate this corporate power. Hacks
                 both destabilise public trust in corporations' ability to preserve
-9 of 27 10/4/25, 12:08 PM Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=https%3A%2F%2Fomekas.library.uvi...
+
                 their data online, and increase public interest in the inner
 ## workings of networks and computers. Hackers have thus
                 become key figures in imagining the Internet as a site where
@@ -276,8 +267,6 @@ Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=htt
 
                 The cover art, as well as a transcription of the first half of the
 ## pamphlet, is included below.
-
-10 of 27 10/4/25, 12:08 PM Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=https%3A%2F%2Fomekas.library.uvi...
 
 ## "It would appear that the most important, if not essential
                 aspect of surviving in this ‘post-Y2K’ society has become the
@@ -307,8 +296,6 @@ Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=htt
 
 ## Hacking Reality is the means by which we can reclaim our
 ## communities and struggle towards an equitable and
-
-11 of 27 10/4/25, 12:08 PM Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=https%3A%2F%2Fomekas.library.uvi...
 
 ## democratic society. Within this technological system that
 ## surrounds us, the Hacker struggles to become human. We are
@@ -341,8 +328,6 @@ Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=htt
 ## applications, especially when it comes to unintended
 ## applications or possessions of said power.
 
-12 of 27 10/4/25, 12:08 PM Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=https%3A%2F%2Fomekas.library.uvi...
-
 ## As a culture, and as a set of social networks, Hackers have
 ## been uniquely successful in both understanding the presence
                 and role of this power (within the system) as well as being able
@@ -362,8 +347,6 @@ Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=htt
                 groups) who freely give out source code and intelligence that
 ## they gather.
 
-13 of 27 10/4/25, 12:08 PM Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=https%3A%2F%2Fomekas.library.uvi...
-
 ## Most of our technology, indeed, most of our communication
                 environments, were originally, and for the most part still are,
                 the domain of the military. This is not to say that economic and
@@ -381,8 +364,6 @@ Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=htt
 ## to be human beings living in a social world." (Hirsh)
 
 ## Hirsh pits the Hacker against the Consumer as two seperate
-
-14 of 27 10/4/25, 12:08 PM Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=https%3A%2F%2Fomekas.library.uvi...
 
 ## roles in capitalist society. Whereas the Hacker fights for
                 freedom and actively pushes back against corporate and state
@@ -416,7 +397,6 @@ Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=htt
 ## Agency, the National Security Agency, the Church of
 ## Scientology, the British National Party, and the U.S.
 
-15 of 27 10/4/25, 12:08 PM Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=https%3A%2F%2Fomekas.library.uvi...
                 Department of Defense. So far in 2023, the year this exhibit
 ## was created, hackers have posted the U.S. No Fly List on
                 BreachForums, a popular hacking forum. Authorities struggled
@@ -447,13 +427,11 @@ Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=htt
                 Ecological Resistance vol. #8 in 2005, serves as a catalogue
                 pointing to informational zines on a variety of topics. Its section
                 on hacktivism includes several resources about the history and
-16 of 27 10/4/25, 12:08 PM Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=https%3A%2F%2Fomekas.library.uvi...
+
                 practical application of hacking techniques, mostly related to
                 creating viruses, finding ways to steal free Internet access or
 ## phone calls, and protecting personal information from
 ## scammers and governments alike.
-
-17 of 27 10/4/25, 12:08 PM Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=https%3A%2F%2Fomekas.library.uvi...
 
 ## Much like Hirsh's article, "from knapping to crapping"
 ## advocates for education about the inner workings of
@@ -476,8 +454,6 @@ Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=htt
 ## telecommunication repeater stations, which span the entire
 ## globe with fiber optics, cables, and radio frequencies.
 
-18 of 27 10/4/25, 12:08 PM Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=https%3A%2F%2Fomekas.library.uvi...
-
 ## The copying and dissemination of information thus becomes a
 ## universal community where data can be made available by
 ## anyone for everyone and vice versa. Moreover, this occurs
@@ -493,7 +469,6 @@ Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=htt
                 scarcity, which forms the basis of private property, because
 ## such transmissions are themselves already copies. Not by
 
-19 of 27 10/4/25, 12:08 PM Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=https%3A%2F%2Fomekas.library.uvi...
                 chance, this word “copy” originated from the Latin copia — as
 ## in copiousness, meaning “abundance, ample supply,
                 profusion, plenty” (from co- “together, with, in common” + ops
@@ -527,15 +502,13 @@ Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=htt
 
 ## Linux is another tool of resistance often talked about by
                 anarchists online. As I have previously mentioned, Linux is an
-20 of 27 10/4/25, 12:08 PM Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=https%3A%2F%2Fomekas.library.uvi...
+
                 operating system often touted as an alternative to Microsoft
                 Windows. It has been heavily criticized by tech companies for
                 "encouraging piracy" and other acts of Internet crime, as there
 ## are no anti-piracy measures built into the software (unlike
 ## Windows Defender, which flags pirated files and can even
 ## prevent torrenting programs from running).
-
-21 of 27 10/4/25, 12:08 PM Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=https%3A%2F%2Fomekas.library.uvi...
 
 ## Linux for Punks
 
@@ -565,7 +538,6 @@ Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=htt
 ## two standard operating systems pre-installed allows tech
                 corporations to maintain a level of control over how users use
                 their devices, and de-incentivizes the use of free, open source,
-22 of 27 10/4/25, 12:08 PM Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=https%3A%2F%2Fomekas.library.uvi...
 
 ## community generated operating systems like Linux.
 
@@ -588,7 +560,7 @@ Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=htt
 ## Nonetheless, Linux's enduring connections to the anti-
 ## copyright movement have made it popular among Internet
                 anarchists. As the comic featured in "Linux for Punks" to the
-23 of 27 10/4/25, 12:08 PM Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=https%3A%2F%2Fomekas.library.uvi...
+
                 right indicates, Steve Ballmer, the CEO of Microsoft at the time
                 of the zine's creation, famously stated that "Linux is a cancer
 ## that attaches itself in an intellectual property sense to
@@ -622,7 +594,7 @@ Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=htt
                 As I described at the beginning of this exhibit, the organization
                 of the Internet follows an anarchist structure. Filesharing,
                 torrenting, and piracy further exploits this anarchic design. The
-24 of 27 10/4/25, 12:08 PM Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=https%3A%2F%2Fomekas.library.uvi...
+
                 lack of centralized control within the Internet has long been a
                 source of anxiety for governments and corporations alike, but
 ## has been exalted and joyfully manipulated by anarchists
@@ -656,8 +628,6 @@ Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=htt
 ## such, these citations are likely incomplete.
 
 ## Antagonism. “Technoskeptic.” The Anarchist Library, 20 Feb.
-
-25 of 27 10/4/25, 12:08 PM Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=https%3A%2F%2Fomekas.library.uvi...
 
 ## 2011, theanarchistlibrary.org/library/antagonism-
 ## technoskeptic.
@@ -693,10 +663,8 @@ Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=htt
 
                 Timberg, Craig. “The Real Story of How the Internet Became so
 ## Vulnerable.” The Washington Post, 30 May 2015,
-## www.washingtonpost.com/sf/business/2015/05/30/net-of26 of 27 10/4/25, 12:08 PM
+## www.washingtonpost.com/sf/business/2015/05/30/net-of
 
 Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=https%3A%2F%2Fomekas.library.uvi...
 
 ## insecurity-part-1/.
-
-27 of 27 10/4/25, 12:08 PM

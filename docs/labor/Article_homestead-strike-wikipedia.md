@@ -32,8 +32,6 @@ Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## Parties
 
-1 of 38 9/7/25, 12:07 PM Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
                 - Amalgamated • Carnegie Steel Pennsylvania
                   Association Company State Militia
 
@@ -69,8 +67,6 @@ Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
                 - Injuries: 11• Injuries: 12–36[citation needed]
 
-2 of 38 9/7/25, 12:07 PM Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
                                - Captured: 324[citation needed]
 
 ## Designation markers
@@ -101,7 +97,7 @@ Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                hoists, charging machines, and buggies. All of this greatly sped
                up the process of steelmaking, and allowed the production of
                vastly larger quantities of the product. As the mills expanded,
-3 of 38 9/7/25, 12:07 PM Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                the labor force grew rapidly, especially with unskilled workers.
 ## However, while Carnegie Steel grew and progressed, workers
                at Homestead were seeing their wages drop.[6]
@@ -124,7 +120,6 @@ Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 ## effort to prevent management from including a non-union
 ## clause in the workers' contracts, known as a "yellow-dog
 
-4 of 38 9/7/25, 12:07 PM Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                contract". The violence occurred on both sides, and the plant
 ## brought in numerous strikebreakers. The strike ended on
                March 20, in a complete victory for the union.[8]
@@ -155,7 +150,6 @@ Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 ## Nature of the 1892 strike
 
                [edit]
-5 of 38 9/7/25, 12:07 PM Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## The Homestead strike was organized and purposeful, a
                harbinger of the type of strike which marked the modern age of
@@ -169,7 +163,7 @@ Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 ## Plans of Carnegie and Frick
 
                [edit]
-6 of 38 9/7/25, 12:07 PM Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                Andrew Carnegie (left) and Henry Clay Frick pictured in c. 1893
                Andrew Carnegie placed industrialist Henry Clay Frick in charge
                of his company's operations in 1881. Frick resolved to break
@@ -198,7 +192,7 @@ Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                encouraged Frick to use the negotiations to break the union:
                "...the Firm has decided that the minority must give way to the
                majority. These works, therefore, will be necessarily non-union
-7 of 38 9/7/25, 12:07 PM Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                after the expiration of the present agreement."[17] Carnegie
                believed that the Amalgamated was a hindrance to efficiency;
 ## furthermore it was not representative of the workers. It
@@ -223,7 +217,7 @@ Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                Duquesne."[19]
                Frick locked workers out of the plate mill and one of the open
                hearth furnaces on the evening of June 28. When no collective
-8 of 38 9/7/25, 12:07 PM Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                bargaining agreement was reached by June 29, Frick locked the
                union out of the rest of the plant. A high fence topped with
 ## barbed wire, begun in January, was completed and the plant
@@ -254,7 +248,6 @@ Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                working in the mill during the period of their efficiency. …
                "Therefore, the committee desires to express to the public as
                its firm belief that both the public and the employees aforesaid
-9 of 38 9/7/25, 12:07 PM Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## have equitable rights and interests in the said mill which
 ## cannot be modified or diverted without due process of law;
@@ -277,7 +270,7 @@ Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## The strikers were determined to keep the plant closed. They
                secured a steam-powered river launch and several rowboats to
-10 of 38 9/7/25, 12:07 PM Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                patrol the Monongahela River, which ran alongside the plant.
                Men also divided themselves into units along military lines.
                Picket lines were thrown up around the plant and the town, and
@@ -309,8 +302,6 @@ Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## Frick had ordered the construction of a solid board fence
 
-11 of 38 9/7/25, 12:07 PM Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 ## topped with barbed wire around mill property. The workers
 ## dubbed the newly fortified mill "Fort Frick".
 
@@ -334,7 +325,7 @@ Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## The strikers were prepared for the Pinkerton agents; the AA
                had learned of the Pinkertons as soon as they had left Boston
-12 of 38 9/7/25, 12:07 PM Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                for the embarkation point. The small flotilla of union boats went
 ## downriver to meet the barges. Strikers on the steam launch
 ## fired a few random shots at the barges, then withdrew—
@@ -367,7 +358,6 @@ Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 ## detectives. The men shot first, and not until three of the
 ## Pinkerton men had fallen did they respond to the fire. I am
 
-13 of 38 9/7/25, 12:07 PM Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                willing to take an oath that the workmen fired first, and that the
 ## Pinkerton men did not shoot until some of their number had
                been wounded."[31] But according to The New York Times, the
@@ -391,8 +381,6 @@ Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                the agents, calling on the strikers to 'kill the Pinkertons'.[35]
                The strikers continued to sporadically fire on the barges. Union
 ## members took potshots at the ships from their rowboats and
-
-14 of 38 9/7/25, 12:07 PM Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## the steam-powered launch. The burgess of Homestead, John
                McLuckie, issued a proclamation at 6:00 a.m. asking for
@@ -419,7 +407,6 @@ Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 ## swimming away. Intermittent gunfire from both sides
 ## continued throughout the morning. When the tug attempted to
 
-15 of 38 9/7/25, 12:07 PM Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                retrieve the barges at 10:50 a.m., gunfire drove it off. More
 ## than 300 riflemen positioned themselves on the high ground
 ## and kept a steady stream of fire on the barges. Just before
@@ -451,7 +438,7 @@ Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 ## The AA worked behind the scenes to avoid further bloodshed
                and defuse the tense situation. At 9:00 a.m., outgoing AA
                international president William Weihe rushed to the sheriff's
-16 of 38 9/7/25, 12:07 PM Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                office and asked McCleary to convey a request to Frick to meet.
 ## McCleary did so, but Frick refused. He knew that the more
 ## chaotic the situation became, the more likely it was that
@@ -474,7 +461,6 @@ Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                Pinkerton men leave the barges after their surrender during the
 ## Homestead strike
 
-17 of 38 9/7/25, 12:07 PM Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                At 4:00 p.m., events at the mill quickly began to wind down.
 ## More than 5,000 men—most of them armed mill hands from
 ## the nearby South Side, Braddock and Duquesne works—
@@ -504,7 +490,6 @@ Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 ## Pinkertons were clubbed into unconsciousness. Members of
 ## the crowd ransacked the barges, then burned them to the
 
-18 of 38 9/7/25, 12:07 PM Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                waterline.[46]
 
 ## As the Pinkertons were marched through town to the opera
@@ -533,7 +518,7 @@ Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                eleven.[53][54] According to one newspaper report, an agent
                under cannon fire jumped off a barge and drowned.[55][56] John
                Shingle, the captain of the steamboat Little Bill was killed.[57][2]
-19 of 38 9/7/25, 12:07 PM Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                Between thirty-three to thirty-five agents and one crewman of
                the Little Bill were reported in the hospital injured.[58][59] The
                total number of captured Pinkertons was 324.[60] A roster of
@@ -556,7 +541,7 @@ Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 ## Pattison, however, remained unconvinced by the strikers'
 ## arguments. Although Pattison had ordered the Pennsylvania
                militia to muster on July 6, he had not formally charged it with
-20 of 38 9/7/25, 12:07 PM Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                doing anything. Pattison's refusal to act rested largely on his
                concern that the union controlled the entire city of Homestead
                and commanded the allegiance of its citizens. Pattison refused
@@ -585,7 +570,6 @@ Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 ## The company quickly brought in strikebreakers and restarted
 ## production under the protection of the militia. Despite the
                presence of AFL pickets in front of several recruitment offices
-21 of 38 9/7/25, 12:07 PM Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## across the nation, Frick easily found employees to work the
                mill. The company quickly built bunk houses, dining halls and
@@ -609,7 +593,7 @@ Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 ## strike
 
                [edit]
-22 of 38 9/7/25, 12:07 PM Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                Berkman's attempt to assassinate Frick, as illustrated by W. P. Snyder
 ## for Harper's Weekly in 1892
 
@@ -639,7 +623,7 @@ Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                to go back to work on Carnegie's terms; the strike had failed
                and the union had collapsed.[72]
                The company had waged a second front in state court, and was
-23 of 38 9/7/25, 12:07 PM Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                winning. On July 18, sixteen of the strike leaders were charged
                with conspiracy, riot and murder. Each man was jailed for one
                night and forced to post a $10,000 bond. The union retaliated
@@ -667,7 +651,6 @@ Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                bankrupted by the job action. Weekly union relief for a member
 ## averaged $6.25 but totaled a staggering $10,000 per week
 
-24 of 38 9/7/25, 12:07 PM Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                when including 1,600 strikers. With only 192 out of more than
                3,800 strikers in attendance, the Homestead chapter of the AA
                voted, 101 to 91, to return to work on November 20, 1892.[74]
@@ -698,8 +681,6 @@ Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 ## An organizing drive at the Homestead plant in 1896 was
 ## suppressed by Frick. The economy recovered by 1897. In May
 
-25 of 38 9/7/25, 12:07 PM Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 ## 1899, three hundred Homestead workers formed an AA lodge,
 ## but Frick ordered the Homestead works shut down and the
                unionization effort collapsed.[citation needed]
@@ -721,7 +702,6 @@ Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 ## strike against Carnegie's successor company, U.S. Steel,
 ## collapsed. By 1909, membership in the AA had sunk to 6,300.
                A nationwide steel strike of 1919 also was unsuccessful.[80]
-26 of 38 9/7/25, 12:07 PM Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## The AA maintained a rump membership in the steel industry
                until its takeover by the Steel Workers Organizing Committee
@@ -756,8 +736,6 @@ Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
             - Frick Coke Company strike of 1891
 
             - Frick mine explosion
-
-27 of 38 9/7/25, 12:07 PM Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
             - Pittsburgh railroad strike
 
@@ -797,8 +775,6 @@ Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
             8. ^ Krause, pp. 174–192; Body, pp. 50–51.
 
-28 of 38 9/7/25, 12:07 PM Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
             9. ^ Brody, p. 52; Krause, pp. 42, 174, 246–249.
 
            10. ^ Brody, p. 53.
@@ -834,8 +810,6 @@ Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 ## Foner, p. 207.
 
            18. ^ Krass p 277
-
-29 of 38 9/7/25, 12:07 PM Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
            19. ^ Quoted in Krass p. 278; Krause, pp. 284–310, contains the
 ## best discussion of the bargaining timeline and exchange of
@@ -874,8 +848,6 @@ Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
            29. ^ Foner, p. 209; Krause, p. 16. Krause indicates that at least a
 ## thousand people turned out.
 
-30 of 38 9/7/25, 12:07 PM Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
            30. ^ Krause, pp. 16–18. Brody cites Andrew Carnegie, who
                claimed that Frick had not extended the barbed-wire fence to
                the riverbank, thus allowing the strikers access to the plant
@@ -911,8 +883,6 @@ Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
            38. ^ Krause, pp. 22–25, 30; Brody, p. 59.
 
            39. ^ Homestead p. 74
-
-31 of 38 9/7/25, 12:07 PM Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
            40. ^ Krause, p. 24; Foner, p. 210.
 
@@ -950,8 +920,6 @@ Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
            48. ^ Krause, pp. 38–39.
 
-32 of 38 9/7/25, 12:07 PM Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
            49. ^ Krause, pp. 40–41.
 
            50. ^ The two (J.W. Klein and T.J. Conners) are listed by name
@@ -986,7 +954,6 @@ Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 ## Sporting Extra, Image 1 reports a Pinkerton named Michael
 ## Commas had died of injuries in hospital that morning". The
 
-33 of 38 9/7/25, 12:07 PM Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                Evening World. ISSN 1941-0654. Retrieved April 7, 2019. Fort
 ## Frick or the Siege of Homestead by Myron R. Stowall p. 254
                reports a Pinkerton guard Edward A R. Speer died of injuries 11
@@ -1024,8 +991,6 @@ Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
            65. ^ Paul Kahan, The Homestead Strike: Labor, Violence, and
 ## American Industry, 2014, p. 90
-
-34 of 38 9/7/25, 12:07 PM Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
            66. ^ Krause, pp. 337–338.
 
@@ -1068,8 +1033,6 @@ Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
            80. ^ Foner, p. 218.
 
-35 of 38 9/7/25, 12:07 PM Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 ## General and cited references
 
                [edit]
@@ -1106,8 +1069,6 @@ Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                Culture, and Steel. Pittsburgh, PA: University of Pittsburgh
 ## Press, 1992.
 
-36 of 38 9/7/25, 12:07 PM Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
             - Krause, Paul. "Labor Republicanism and 'Za Clebom': AngloAmerican and Slavic Solidarity in Homestead," in "Struggle a
                Hard Battle": Essays on Working-Class Immigrants, edited by
 ## Dirk Hoerder (1986), 143–169
@@ -1142,8 +1103,6 @@ Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                Steelworkers," Quarterly Journal of Economics, 7 (July 1893),
 ## 400–432. JSTOR 1882283.
 
-37 of 38 9/7/25, 12:07 PM Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
             - Battle of Homestead Foundation
 
             - United Steelworkers
@@ -1151,5 +1110,3 @@ Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
             - Homestead: A Complete History of the Struggle of July, 1892 at
                Project Gutenberg. Contemporary book by Pittsburgh journalist
 ## Arthur Gordon Burgoyne.
-
-38 of 38 9/7/25, 12:07 PM

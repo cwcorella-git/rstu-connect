@@ -37,7 +37,6 @@ Anarchy Vs. Archy: No Justiﬁed Authority | The Anarchis... about:reader?url=ht
 
 ## Not all guidance given by one person to another constitutes
                 hierarchy. Choosing to accept a specialist's expertise in their
-1 of 13 3/17/25, 5:06 PM Anarchy Vs. Archy: No Justiﬁed Authority | The Anarchis... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## craft needn't create a hierarchy or make them your ruler. A
 ## roofer laying your roof or a chef cooking your meal or a
@@ -71,7 +70,6 @@ Anarchy Vs. Archy: No Justiﬁed Authority | The Anarchis... about:reader?url=ht
 ## enable a violent force of power when you legitimized an
 ## authority is irrelevant. It will do harm and the people who
                 signed off on legitimizing it are (or should be) culpable for that
-2 of 13 3/17/25, 5:06 PM Anarchy Vs. Archy: No Justiﬁed Authority | The Anarchis... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## harm.
 
@@ -106,7 +104,6 @@ Anarchy Vs. Archy: No Justiﬁed Authority | The Anarchis... about:reader?url=ht
                 you kill them in self-defense. This was a simple use of force; it
 ## does not make you an authority over the person who tried to
 
-3 of 13 3/17/25, 5:06 PM Anarchy Vs. Archy: No Justiﬁed Authority | The Anarchis... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 kill you. This isolated action you took to preserve your own life
 ## does not magically imbue you with the authority to go on a
 ## killing spree.
@@ -138,7 +135,6 @@ Anarchy Vs. Archy: No Justiﬁed Authority | The Anarchis... about:reader?url=ht
 ## confused Chomsky-acolytes out there making arbitrary
                 justifications for all kinds of hierarchical shit and then branding
                 that shit "anarchist" when it's anything but. I've even seen his
-4 of 13 3/17/25, 5:06 PM Anarchy Vs. Archy: No Justiﬁed Authority | The Anarchis... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## followers using his definitions to frame so-called "Night-
 ## watchman states" as being anarchist in nature. Nightwatchman states are states that only exist to provide citizens
@@ -171,8 +167,6 @@ Anarchy Vs. Archy: No Justiﬁed Authority | The Anarchis... about:reader?url=ht
 ## The Enlightenment, long before European philosophers began
 ## to pine for a return to it.
 
-5 of 13 3/17/25, 5:06 PM Anarchy Vs. Archy: No Justiﬁed Authority | The Anarchis... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
-
 ## I don't consider Chomsky to be an anarchist (because he's
                 demonstrably not one), so his definitions aren't that important
 ## to me. But unfortunately they're important to a lot of
@@ -204,7 +198,6 @@ Anarchy Vs. Archy: No Justiﬁed Authority | The Anarchis... about:reader?url=ht
 ## voluntarily choose to be subordinate to their bosses or the
 ## state in exchange for wages or security. Anarchists need to
 
-6 of 13 3/17/25, 5:06 PM Anarchy Vs. Archy: No Justiﬁed Authority | The Anarchis... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 reject Bakunin's language if we're to differentiate ourselves
 ## from these authoritarian ideologies and truly take a stand
 ## against authority.
@@ -237,7 +230,7 @@ Anarchy Vs. Archy: No Justiﬁed Authority | The Anarchis... about:reader?url=ht
 ## a car simply has nothing to do with authority. It's a
 ## fundamental misrepresentation of the anarchist concept of
                 authority, and I hope this piece will help shift the discourse
-7 of 13 3/17/25, 5:06 PM Anarchy Vs. Archy: No Justiﬁed Authority | The Anarchis... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
+
                 away from it. Every fucked up political ideology out there, from
                 monarchy to neoliberalism to fascism, claims to be for justified-
 ## authority and against unjustified-authority. We know it's
@@ -269,7 +262,6 @@ Anarchy Vs. Archy: No Justiﬁed Authority | The Anarchis... about:reader?url=ht
 ## now that ensure that those laws - such as the right to
 ## education to a good standard, or that housing or medical
 
-8 of 13 3/17/25, 5:06 PM Anarchy Vs. Archy: No Justiﬁed Authority | The Anarchis... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 training or care should be of a certain standard, or the right to
                 process through a justice system. Necessarily these authorities
                 should have the ability to change situations where these laws/
@@ -302,7 +294,6 @@ Anarchy Vs. Archy: No Justiﬁed Authority | The Anarchis... about:reader?url=ht
                 that the ruler in a hierarchical relationship gives commands
 ## and the subordinate obeys under threat of (socially
 
-9 of 13 3/17/25, 5:06 PM Anarchy Vs. Archy: No Justiﬁed Authority | The Anarchis... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 legitimized) violence. If I offered my boss a meal, or saved
 ## them from drowning, I wouldn't be exercising authority over
                 them. That action alone doesn't create a hierarchy. But just by
@@ -335,7 +326,6 @@ Anarchy Vs. Archy: No Justiﬁed Authority | The Anarchis... about:reader?url=ht
 
 ## On Anarchist Parenting
 
-10 of 13 3/17/25, 5:06 PM Anarchy Vs. Archy: No Justiﬁed Authority | The Anarchis... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 Authority is a structurally violent institution. It has nothing to
                 do with the act of rendering aid to a child; feeding them or
 ## preventing them from falling into a pool and drowning. A
@@ -369,7 +359,6 @@ Anarchy Vs. Archy: No Justiﬁed Authority | The Anarchis... about:reader?url=ht
 
 ## "Civilized" people make the mistake of constructing
 
-11 of 13 3/17/25, 5:06 PM Anarchy Vs. Archy: No Justiﬁed Authority | The Anarchis... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 dangerous, unhealthy and authoritarian environments for us to
                 live in that completely ignore the burning desire every child
                 has for freedom, play, exploration and learning through first-
@@ -401,7 +390,6 @@ Anarchy Vs. Archy: No Justiﬁed Authority | The Anarchis... about:reader?url=ht
                 its deficiencies since so many collectivist "anarchists" are really
                 minarchists in disguise. Minarchists see no real problem with
                 authority so long as it benefits them materially. Sadly, these
-12 of 13 3/17/25, 5:06 PM Anarchy Vs. Archy: No Justiﬁed Authority | The Anarchis... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## minarchists largely control the discourse in many anarchist
                 spaces where the idea of true anarchy is simply unfathomable.
@@ -430,5 +418,3 @@ Anarchy Vs. Archy: No Justiﬁed Authority | The Anarchis... about:reader?url=ht
 
 ## When you compromise and make excuses to construct
 ## hierarchies; what you're doing is no longer anarchy.
-
-13 of 13 3/17/25, 5:06 PM

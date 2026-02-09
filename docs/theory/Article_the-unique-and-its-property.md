@@ -8,7 +8,6 @@ tags:
   - theory
 ---
 
-The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
             Max Stirner
             The Unique and Its Property
             1845
@@ -48,7 +47,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
               Footnotes whose number at the bottom of the page is followed by a triangle
             are found in early German editions, though often expanded upon here by
             translator. All others are solely by the translator.
-1 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             Introduction
             Why a New Translation?
                First of all, I enjoy the play of languages and the play of words. For me,
@@ -95,7 +94,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             realized that the mistranslation of the title and the ﬁrst and last sentence{5}
             were not the only major ﬂaws in Byington’s eﬀort. Throughout the book a
             reader will ﬁnd the word “ego” used not only to translate “Ich” (I), but also at
-2 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             times to translate “Einzelne” (individual) and “Einzige” (unique). In addition,
             there were the occasional crudities that Byington chose to clean up and
             humor that he seemed not to get. But most of all, after reading Der Einzige in
@@ -142,7 +141,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             (or check Leopold’s overly-lengthy notes in the Cambridge edition).
               Having said this, I think that it will be useful to the rebellious readers if I
             say a bit about Stirner’s project as I understand it and about some of my
-3 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             translation choices.
             Stirner, the Wise Guy
               Almost every scholar of Stirner, whether self-taught or university-trained,
@@ -189,7 +188,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             the outline of The Unique to parallel that of Hegel’s The Phenomenology of
             the Spirit and Feuerbach’s The Essence of Christianity, while undermining the
             foundations of both works. Some scholars have called him the ultimate
-4 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             Hegelian, because he makes use of Hegel’s dialectical method{10} in his book.
             However, in “The Philosophical Reactionaries,” Stirner explains that this too
             was part of the joke: “Do you philosophers actually have an inkling that you
@@ -236,7 +235,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             he is presenting a caricatured, mocking perspective of how his opponents
             view human development, with the intent of twisting it against them.
                In the same way, the picture Stirner presented of a supposed historical
-5 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             progress in “Part I: Humanity” (and particularly in “The Hierarchy) was not
             his own perspective on history. Stirner was quite intentionally ahistorical.
             Instead he was making a mockery of Hegel’s dialectically progressive view of
@@ -286,7 +285,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             dialectic to undermine the dialectic. And this worked best through mockery
             and sarcasm. Stirner was a thoroughly impious atheist, what I like to call a
             bareﬁsted atheist. He had no need or desire for a god in his life, not even
-6 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             some ultimate crystallized “I” to be achieved, and he was willing— and in fact
             took pleasure in—accepting the full implications of his godlessness. Without a
             god there is no basis for morality; without a god there is no basis for the
@@ -333,7 +332,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             and now in this moment, you here and now in this moment, each utterly
             transient individual being existing only in the immediate present. Any words
             used to describe this will be inadequate, because they will fall into a
-7 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             comparison and so a lie. So Stirner chooses simply to give it a name. I found
             that there were a few ways to translate “Einzige.” In most instances, I chose
             to translate it as “the unique.” Not “the unique one,” because Stirner did not
@@ -383,7 +382,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             {20}
               In attacking the sacred, Stirner attacked the “Geist.” You can ﬁnd variations
             (in noun, adjective, and adverb form) of the word throughout the book.
-8 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             “Geist” has a broader range of meaning than any of its English equivalents,
             and so I wasn’t able to choose just one word to use for it throughout the book.
             Among the possible translations are “spirit,” “mind,” and “intellect.” In
@@ -433,7 +432,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             legal property, as opposed to a proletarian which, in Stirner’s time, referred
             to someone who was legally propertyless. Since Stirner made use of this
             distinction in a number of places in the book (after all, among those whose
-9 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             ideas he was criticizing were the communists of the time), I have usually
             translated the word as “bourgeois,” although occasionally, where it made
             more sense in context, I translated it as “citizen.”
@@ -479,7 +478,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             expects us to do? You are outraged at this misunderstanding, and you inform
             us that God’s cause is indeed the cause of truth and love, but this cause
             cannot be called alien to him, because God himself is truth and love; you are
-10 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             outraged at the assumption that God might resemble us poor worms by
             promoting an alien cause as his own. “Should God promote the cause of truth,
             if he is not himself truth?” He cares only for his own cause, but since he is all
@@ -528,7 +527,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             at least the “good cause” must be my aﬀair? Which good, which bad? I am
             myself my own aﬀair, and I am neither good nor bad. Neither makes any sense
             to me.
-11 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
               The divine is God’s aﬀair; the human cause is “humanity’s.” My aﬀair is
             neither the divine nor the human; it is not the good, the true, the just, the
             free, etc., but only my own, and it is not general, but is—unique, as I am
@@ -574,7 +573,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             everything, we ﬁnd our courage, our superiority; behind the sharp command
             of parents and bosses, our courageous choice or our outwitting cunning still
             stands. And the more we feel ourselves, the smaller that which once seemed
-12 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             insurmountable appears. And what is our trickery, cunning, courage, and
             deﬁance? What else but—mind!
                For quite some time, we are spared a conﬂict that leaves us so short of
@@ -624,7 +623,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
                However, we were also already thinking as children, and our thoughts were
             not ﬂeshless, abstract, absolute, i.e., nothing but thoughts, a heaven for
             itself, a pure world of thought, logical thoughts.
-13 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
               On the contrary, they had only been thoughts that we had about a thing: we
             thought about the thing in this way or that. Thus we may have thought: “The
             world we see there was made by God,” but we didn’t think of (“investigate”)
@@ -674,7 +673,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             youth, who gets enthused about other things, for example, God, the
             fatherland, and so on.
               Therefore the man shows a second self-discovery. The youth found himself
-14 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             as spirit and lost himself again in the general spirit, the perfect, holy spirit,
             the human being, humanity, in short, every ideal; the man ﬁnds himself as
             embodied spirit.
@@ -723,7 +722,6 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
 
             1.2.1. The Ancients
 
-15 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
               Since tradition once gave our pre-Christian ancestors the name of “the
             ancients,” we won’t advance it against them that, in comparison with us
             experienced people, they actually should be called children, and instead still
@@ -773,7 +771,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             teaching: “Use your reason, your wit, your mind, against everything; with
             good and practiced reasoning one gets on best in the world, prepares for
             himself the best lot, the most pleasant life.” They recognize in the mind the
-16 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             human being’s real weapon against the world. This is why they so strongly
             hold to dialectical agility, language skills, the art of disputation, etc. They
             proclaim that the mind is to be used against everything; but they are still far
@@ -823,7 +821,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             for the heart in the skeptical age, as was achieved for reason in the sophistic
             age.
                Sophistic education brought it to pass that one’s reason won’t stand still
-17 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             before anything, and skeptical education, that the heart won’t be moved by
             anything.
                As long as the human being is involved in the turmoil of life and entangled
@@ -873,7 +871,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             example, in the faith of Christians, which alone justiﬁes (without works). Their
             lack of spirituality forever sets Jews apart from Christians; for the spiritual is
             incomprehensible to the unspiritual, as the unspiritual is contemptible to the
-18 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             spiritual. But the Jews only have the “spirit of this world.”
                The ancient sharpness and depth of perception lies as far from the spirit
             and the spirituality of the Christian world as earth lies from heaven.
@@ -923,7 +921,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             fourth the enjoyment of social pleasures in the company of young friends.”
             These are all the good things of life, the joys of life. What else was Diogenes
             of Sinope looking for if not the true enjoyment of life, which he found in
-19 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             having the least possible wants? What else Aristippus, who found it in good
             spirits under every circumstance? They are seeking for cheerful, unclouded
             courage to face life, for cheerfulness; they are seeking to “be of good cheer.”
@@ -973,7 +971,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             contradict themselves; thoughts about things are undiscriminating (good and
             bad are all the same, so that what one calls good another ﬁnds bad); so
             knowledge of the “truth” has ended, and only the person without knowledge,
-20 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             the person who ﬁnds nothing to recognize in the world, remains, and this
             person just lets the truth-empty world be and takes no account of it.
               So antiquity ﬁnishes with the world of things, with the world order, with the
@@ -1021,7 +1019,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             loses the content with which it had occupied itself, until ﬁnally nothing is left
             to it but empty warm-heartedness, the thoroughly universal human kindness,
             the love of humanity, the consciousness of freedom, “self-consciousness.”
-21 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
                Only in this way is Christianity ﬁnished, because it has become barren,
             dead, and void of content. There is now no more content against which the
             heart does not rebel, unless it has crept up on it unawares or without selfconsciousness. The heart criticizes to death everything that wants to intrude
@@ -1070,7 +1068,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             order, but they incessantly wondered if they couldn’t then relieve themselves
             of this service, and when they had grown dead tired in their ever-renewed
             endeavors at revolt, then, amidst their last sighs, there was born to them the
-22 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             God, the “overcomer of the world.” All their activity had been nothing but
             worldly wisdom, a striving to get behind and over the world. And what is the
             wisdom of the many centuries that followed? What did the moderns try to get
@@ -1119,7 +1117,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             ourselves; since as long as we were children one could have presented us with
             the most edifying thoughts without our wanting or being able to recreate
             them in ourselves. So also the spirit only exists when it creates the spiritual; it
-23 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             is only actual together with the spiritual, its creation.
                Since we recognize it because of its works, the question is this: What are
             these works? But the works or children of the spirit are nothing other than—
@@ -1169,7 +1167,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             makes himself—the central point, or in that you divide your I in two and raise
             up your “true I,” the spirit, as the master of the worthless remainder, whereas
             he wants to know nothing of this division, and pursues spiritual and material
-24 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             interests just as it gives him pleasure. Indeed, you think that you are striking
             out only against those who have no spiritual interests at all, but in fact you
             curse at everyone who doesn’t see the spiritual interest as his “true and
@@ -1219,7 +1217,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             we have to again recognize it as our own and take it back from the other
             world into this one. Feuerbach names the God, who is spirit, “our essence.”
             Can we put up with this, that “our essence” is brought into opposition with us
-25 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             and that we get split up into an essential and a non-essential I? Don’t we move
             back again in this way into the unhappy misery of seeing ourselves exiled
             from ourselves?
@@ -1267,7 +1265,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
 
               Have you ever seen a spirit? “No, not I, but my grandmother.” You see, it’s
             the same with me too; I myself haven’t seen any, but they ran every which way
-26 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             between my grandmother’s feet, and from trust in our grandmothers’ honesty
             we believe in the existence of spirits.
               But didn’t we have grandfathers, and didn’t they shrug their shoulders
@@ -1317,7 +1315,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             “spirits”?
               Since the spirit appeared in the world, since “the Word became ﬂesh,” since
             then the world has been spiritualized, enchanted, a phantasm.
-27 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
               You have spirit, because you have thoughts. What are your thoughts? —
             Spiritual essences. —And so not things? —No, but the spirit of things, the
             main point of all things, their innermost aspect, their—idea. —So what you
@@ -1367,7 +1365,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             the creator. You are yourself a higher essence than you are, and you outdo
             yourself. But that you are the one who is higher than you, i.e., that you are not
             mere creation, but likewise your own creator, this you fail to recognize as an
-28 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             involuntary egoist; and so the “higher essence” is for you—an alien thing.
             Every higher essence, like truth, humanity, etc., is an essence over us.
                Alienation is a hallmark of the “sacred.” In everything sacred, there is
@@ -1417,7 +1415,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             transformation, sacred thoughts and actions, writings and aspirations, etc.
                The conﬂict over what is worshiped as the highest essence can only be
             understood as meaningful, so long as the most embittered opponents concede
-29 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             to each other the main point, that there is a highest essence to which worship
             or service is due. If one smiles compassionately at the whole struggle over a
             highest essence, like a Christian, for example, at the war of words between a
@@ -1466,7 +1464,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             is religion; its realm is a realm of essences, phantasms, and ghosts.
                The urge to make the phantasm tangible, or to realize the nonsense, has
             brought about an embodied ghost, a ghost or spirit with an actual body, a fullbodied ghost. How the strongest, most brilliant Christians have martyred
-30 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             themselves to get a conception of this ghostly phenomenon! But there always
             remained the contradiction of the two natures, the divine and the human, i.e.,
             the ghostly and the sensual; there remained the most wondrous phantasm,
@@ -1515,7 +1513,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             anyone ever been honored, only being regarded as a ghost for a sanctiﬁed,
             i.e., protected and established, person. If I embrace and cherish you, because
             I have love for you, because my heart ﬁnds nourishment, and my need
-31 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             satisfaction, in you, it is not for the sake of the higher essence whose
             sanctiﬁed body you are, thus not because I see a ghost, i.e., an appearing
             spirit, in you, but out of egoistic pleasure: you yourself, with your essence, are
@@ -1565,7 +1563,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             same “ﬁxed idea.” Anyone who has never tried and dared not to be a good
             Christian, a faithful Protestant, a virtuous person, etc., is imprisoned and
             entangled by faith, virtue, etc. Just as the scholastics only philosophized
-32 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             within the faith of the Church; just as Pope Benedict XIV wrote huge tomes
             within the papist superstition, without ever calling this belief into question;
             just as authors ﬁll whole volumes on the state without questioning the ﬁxed
@@ -1614,7 +1612,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             you will ﬁnd out how this moral hero is also a hero of faith, despite a
             Krummacher, despite a Philip II. These ﬁght for the faith of the church, he for
             the faith of the state, or the state’s moral laws; for articles of faith, both
-33 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             condemn anyone who acts diﬀerently than what their faith will allow. The
             stigma of “crime” is stamped upon him, and he may languish in houses of
             correction, in prisons. Moral faith is as fanatical as religious faith! It is called
@@ -1664,7 +1662,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             truth.”[34] With this, indeed, we lose the narrow religious standpoint, lose
             God, who is the subject from this standpoint; but we only exchange it for the
             other side of the religious standpoint, the moral standpoint. For example, we
-34 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             no longer say “God is love,” but rather “love is divine.” If we further replace
             the predicate “divine” with the synonymous “sacred,” then the matter returns
             again to all the old ways. According to this, love is supposed to be the good in
@@ -1714,7 +1712,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             People don’t want to notice this; nor can they notice it without consciously
             being an egoist.
               Reimarus and all who have shown that also our reason, our heart, etc., lead
-35 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             to God, have shown in this way that we are possessed through and through.
             Certainly, they oﬀended the theologians from whom they took the privilege of
             religious exaltation, but through this they conquered still more territory for
@@ -1764,7 +1762,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             with brute force? Aren’t you familiar with the same procedure as a “legal” and
             sanctioned one? And what can you argue against it from your principle of
             morality?—“But it was an illegal execution.” So the immoral aspect in this was
-36 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             the illegality, the disobedience to the law? So you admit that the good is
             nothing other than—the law, morality nothing other than loyalty. Your
             morality must also sink down to this outward appearance of “loyalty,” to this
@@ -1814,7 +1812,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             one immediately waters it down again with loving assurances, and—feigns
             resignation; on the other hand, if one has had the nerve to ﬁght back against
             the “free” petition with moral references to trust, the moral courage also
-37 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             immediately declines, and one assures the petitioner that they hear the free
             words with special pleasure, one—feigns appreciation. In short, one wants to
             have the one, but not do without the other; one would like to have a free will,
@@ -1863,7 +1861,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             meaning and signiﬁcance only with regard to the Jewish law; for it, before
             Jesus Christ, the Pharisee was no more than the “publican and sinner.” So
             also before self-ownership, the moral Pharisee counts for as much as the
-38 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             immoral sinner.
                Nero became very unpleasant through being possessed. But a self-owning
             person would not stupidly oppose the “sacred” to him, so as to whine when
@@ -1913,7 +1911,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             his death; but the act was an immoral one, at which moral people will be
             horriﬁed for all eternity.
                But all this, more or less, only hits on “bourgeois morality,” on which the
-39 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             freer people look down with contempt. It is, to be exact, like its native ground,
             the bourgeois way of life in general, still too little removed and free from the
             religious heaven not to transplant the laws of the latter without criticism or
@@ -1963,7 +1961,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             welfare of every human being, but sacred in and of themselves.”[41] Don’t we
             have the priest there again? Who is his God? The Human Being! What is the
             divine? The human! So the predicate[42] has indeed only changed into the
-40 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             subject, and, instead of the phrase “God is love,” one says “love is divine”;
             instead of “God has become human,” “the human being has become God,” etc.
             It is just a new—religion. All moral relationships are ethical, are cultivated
@@ -2012,7 +2010,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             little by little to the fullest measure of self-denying meanness and lowness, so
             the former must ascend to the most humiliating loftiness. The earthly
             Mammon and the heavenly God both demand exactly the same degree of—
-41 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             self-denial. The lowly, like the lofty, reach out for a “good,” the former for the
             material good, the latter for the ideal, the so-called “highest good”; and in the
             end, both also complete each other again, since the “materially minded”
@@ -2061,7 +2059,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             much on the possessions by the devil as on those by a good spirit: there, vice,
             folly, etc.; here, humility, devotion, etc.
               Where can one look without meeting victims of self-denial? There’s a girl
-42 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             sitting across from me, who has perhaps been making bloody sacriﬁces to her
             soul for ten years already. A dead tired head droops over the voluptuous form,
             and pale cheeks betray the slow bleeding away of her youth. Poor child, how
@@ -2111,7 +2109,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             longer tolerate rejection. Their thought, or spirit, has the sole power, and no
             objection of the “ﬂesh” is heard any more. Nevertheless, I can only break the
             tyranny of the spirit through the “ﬂesh”; because it’s only when a person also
-43 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             perceives his ﬂesh that he perceives himself completely, and it is only when he
             perceives himself completely that he is a perceiving or reasonable being. The
             Christian doesn’t perceive the misery of his enslaved nature, but lives in
@@ -2161,7 +2159,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             resulted in a dissolution and consumption of the object. Instead he sustained
             in mature years his childish feelings received in childhood and squandered
             the forces of his manhood in sprucing up his childish nonsense.
-44 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
               So the diﬀerence is whether feelings are imparted to me or only aroused in
             me. The latter are my own, egoistic, because as feelings they don’t get
             stamped into me, recited to me, imposed on me; but I open myself to the
@@ -2210,7 +2208,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
               The history of the world, whose structuring in fact belongs entirely to the
             Caucasian race, seems to have gone through two Caucasian world ages up to
             now, in the ﬁrst of which we had to work out and work oﬀ our innate
-45 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             Negroidity, which was followed in the second by Mongoloidity (Chineseness),
             to which likewise a horrifying end must be made. Negroidity represents
             antiquity, the time of dependence on things (on rooster feeding, bird’s ﬂight,
@@ -2260,7 +2258,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             now habit is an “other nature,” which removes and releases human beings
             from their ﬁrst and original natural condition, in that it secures them against
             all of its contingencies. The constructed habit of the Chinese has provided for
-46 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             all occurrences, and everything is “planned”; whatever happens, the Chinese
             person always knows how he has to behave, and he doesn’t ﬁrst need to
             decide for himself according to the circumstances: no unforeseen event
@@ -2310,7 +2308,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             sentimentalist under the ruins of the immense world of sentimentality, the
             isolated person under his isolated world, the gloriﬁed person under his
             heaven. And heaven is the spirit realm, the realm of spiritual freedom.
-47 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
                The heavenly realm, the realm of spirits and ghosts, has found its proper
             system in speculative philosophy. Here it was expressed as the realm of
             thoughts, concepts and ideas; heaven is populated with thoughts and ideas,
@@ -2358,7 +2356,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
               Everything that is supposed to be, for the egoist, unapproachable,
             untouchable, outside his power, i.e., over him, is sacred; in short, every
             matter of conscience is sacred, because “This is a matter of conscience to me”
-48 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             simply means “I hold this sacred.”
                For little children, as for animals, there is nothing sacred, because, in order
             to make room for this conception, one has to have already come so far in his
@@ -2407,7 +2405,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             unchangeable. And so it goes on with the sacred, step by step, from the “holy”
             to the “holy of holies.”
             Sometimes people divide human beings into two classes, the cultured and the
-49 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             uncultured. The former, insofar as they are worthy of the name, concerned
             themselves with thoughts, with the spirit, and because they were the rulers in
             the time after Christ, in which the principle is thought, they demanded a
@@ -2457,7 +2455,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
                  through its surface, into which it sucks a portion of the new ideas.
                  [61]
               And on page 6: “It has turned the revolutionary ideas, for which not it, but
-50 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             unselﬁsh or impassioned men sacriﬁced themselves, solely to its own
             advantage, has transformed spirit into money. Of course, after it had removed
             from those ideas their point, their consistency, their destructive seriousness,
@@ -2506,7 +2504,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             Just, etc., were priests through and through, inspired by the idea, enthusiasts,
             consistent tools of this idea, ideal human beings. So Saint Just proclaims in a
             speech:
-51 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
                  There is something terrible in the sacred love of country; it is so
                  exclusive that it sacriﬁces everything to the public interest without
 ## mercy, without fear, without human consideration. It hurls
@@ -2555,7 +2553,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             everywhere.
                So there’s no question here of concern for me, you, us; that would be
             personal interest, and belongs under the heading of “worldly love.”
-52 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             Philanthropy is a heavenly, spiritual, a—priestly love. The human must be
             established in us, and even if we poor devils were to come to ruin because of
             it. It is the same priestly principle as that famous ﬁat iustitia, pereat mundus;
@@ -2605,7 +2603,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             producers (proletarians), a negation of the traditional conception of rights is
             by no means enough. The people unfortunately care little for the theoretical
             victory of the idea. One must demonstrate to them ad oculos[71] how this
-53 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             victory can be used practically in life.”[72] And on page 32: “You must get hold
             of the people with their actual interests if you want to act upon them.” He
             then shows how a rather agreeable amorality has gained ground among our
@@ -2655,7 +2653,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             which is set up as rule and law; he should abase himself before something
             higher: self-abasement. “He who abases himself shall be exalted.”[75] Yes, yes,
             in time children must be required to practice piety, godliness, and
-54 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             respectability; a person of good upbringing is one into whom “good
             principles” have been instilled and impressed, drummed, rammed, and
             preached.
@@ -2703,7 +2701,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             its depths. Only the human organ that is able to blow out of the lungs can also
             achieve ﬂute-playing, and only the person who has the right organ for it can
             become a partaker of truth. One who is able to think only of sensuous,
-55 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             objective, material things, also imagines only material things in truth. But
             truth is spirit, utterly non-sensuous, therefore only for the “higher
             consciousness,” not for the “earthly-minded.”
@@ -2752,7 +2750,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             begins with absolute doubt, the dubitare, with the “contrition” of the common
             consciousness, with the rejection of that “spirit”; “thought” does not
             legitimate. Nature counts for nothing to it, the opinion of people, their
-56 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             “human institutions” for nothing, and it does not rest until it has brought
             reason into everything and can say, “The actual is the rational, and only the
             rational is the actual.”[81] So it has ﬁnally brought the spirit, reason, to
@@ -2800,7 +2798,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             only lives, when he thinks.” Thinking life is called “spiritual life”! Only spirit
             lives, its life is the true life. So just as in nature only the “eternal laws,” the
             spirit or reason of nature, are its true life—in the human being, as in nature,
-57 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             only thought lives; everything else is dead! With the history of the spirit, it
             had to come to this abstraction, to the life of universalities or of the lifeless.
             Solely God, who is spirit, lives. Nothing lives but the ghost.
@@ -2850,7 +2848,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             to stir up a man against his father and a daughter against her mother,”[88] and
             others, are accompanied by references to the heavenly or true family, and
             mean nothing more than the state’s demand, in a collision between it and the
-58 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             family, to obey its commands.
                It is with morality like it is with the family. Many people break with morals,
             but with the conception of “morality” it’s more diﬀicult. Morality is the “idea”
@@ -2900,7 +2898,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             only the intellectual and spiritual person. Catholicism, particularly the Jesuits,
             in this way helped to advance egoism, found an involuntary and unconscious
             following within Protestantism itself, and saved us from the degeneration and
-59 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             destruction of sensuality. Nevertheless, the Protestant spirit spread its rule
             further and further; and since, compared with it, the “divine,” the Jesuit spirit
             represents only the “diabolical,” which is inseparable from everything divine,
@@ -2949,7 +2947,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             was declared to be such; if it was done for the beneﬁt of the church, then its
             sanctiﬁcation by the church would be certain, even if not openly expressed.
             For the Protestant, majesty counts as sacred; for the Catholic, only the
-60 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             majesty consecrated by the pontiﬀ could count as such, and it counts as such
             only because the pope, even when it is without a special act, grants this
             sacredness to it once and for all. If he withdrew his consecration, the king
@@ -2997,7 +2995,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             attacks indiﬀerent, and not letting themselves be aﬀected by them. Horace
             utters the famous Niladmirari,[97] in which he likewise announces the
             indiﬀerence of the other, the world; it is not supposed to inﬂuence us or
-61 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             arouse our astonishment. And that impavidum ferient ruinae[98] expresses the
             very same unshakability as Psalm 46:3: “We do not fear though the earth
             should perish.” In all this the space is opened for the Christian principle that
@@ -3047,7 +3045,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             human, it still remains an alien spirit to me, to you, still a long way from
             becoming our unrestricted property, which we deal with at our pleasure.
             However, one thing certainly happened, and obviously guided the course of
-62 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             post-Christian history: and this one thing was the endeavor to make the Holy
             Spirit more human, and bring it closer to human beings, or human beings
             closer to it. Thus, it came about that it could ﬁnally be understood as the
@@ -3097,7 +3095,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
               Liberalism only brought up other concepts; human instead of divine,
             governmental instead of ecclesiastical, “scientiﬁc” instead of religious, or
             more generally, actual concepts and eternal laws instead of “crude
-63 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             propositions” and rules.
               Now nothing but spirit rules in the world. A countless multitude of concepts
             buzz about in people’s heads, and what are those who strive to get further
@@ -3145,7 +3143,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             claims our attention here. I give “the free” only as a translation of “the
             liberals,” but with regard to the concept of freedom, as with generally so
             many other things whose anticipatory mention I can’t avoid, I must refer to
-64 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             what comes later.
 
             1.3.1 Political Liberalism
@@ -3194,7 +3192,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             all. The state should be a community of free and equal human beings, and
             everyone should devote himself to the “good of the whole,” merge into the
             state, make the state his aim and ideal. State! State! Such was the universal
-65 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             call, and from then on people sought for the “right state form,” the best
             constitution, and so the state in its best formulation. The thought of the state
             penetrated into every heart and awakened enthusiasm; to serve it, this
@@ -3243,7 +3241,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             barons, which were taken from them as “usurpations,” only passed over to the
             bourgeoisie, because the bourgeoisie was now called the “nation.” All
             prerogatives were given back “into the hands of the nation.” As a result, they
-66 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             ceased to be “prerogatives”; they became “rights.”[112] From this time on the
             nation demands tithes, compulsory service; it has inherited the lord’s court,
             the rights of the hunt, the serfs. The night of August 4 was the death night of
@@ -3293,7 +3291,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             acquire every right that the state has to grant, if he just fulﬁlls the conditions
             attached to it, conditions which are to be sought only in the nature of each
             right, not in a preference for the person (persona grata); the nature of the
-67 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             right to become an oﬀicer, for example, brings with it the necessity that one
             possess healthy limbs and an appropriate level of knowledge, but it doesn’t
             have noble birth as a condition; if, on the other hand, even the most deserving
@@ -3343,7 +3341,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             much the one that pursues public oﬀice as the one that in commerce seeks to
             shear its sheep or in some other way become useful to itself and others.
                But if the deserving count as the free (because what does the comfortable
-68 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             bourgeois, the loyal oﬀicial, lack of that freedom which his heart desires?),
             then “servants” are the—free. The obedient servant is the free man! What a
             load of nonsense! Yet this is the sense of the bourgeoisie, and its poet, Goethe,
@@ -3393,7 +3391,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             doctrine of liberalism, is nothing other than a second phase of Protestantism,
             and runs quite parallel to “religious freedom.”[119] Or could one maybe
             understand the latter as a freedom from religion? Anything but that. Only the
-69 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             freedom from intermediaries is supposed to be expressed in this, the freedom
             from mediating priests, the abolition of the “laity,” and so, the direct and
             unmediated relationship to religion or God. Only on the condition that one has
@@ -3443,7 +3441,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             Christian life of the state, a spiritualized life.
               The bourgeoisie’s behavior is liberal through and through. Every personal
             intrusion into another’s sphere outrages the bourgeois sense; if the bourgeois
-70 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             citizen sees that one is dependent on the mood, the pleasure, the will of a
             human being as individual (i.e., not as authorized by a “higher power”), he
             immediately makes a show of his liberalism and shrieks about “arbitrariness.”
@@ -3493,7 +3491,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
               Free competition means nothing other than that every man can show
             himself, assert himself, ﬁght against the others. Of course, the feudal party
             obstructed this, since its existence depended on non-competition. The
-71 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             struggles during the Restoration period in France had no other content than
             this: that the bourgeoisie was ﬁghting for free competition, and the feudalists
             were trying to bring back the guild system.
@@ -3543,7 +3541,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             constitutional law, in a charter, in a legal or “legitimate” prince, who is
             himself guided by, and rules according to, “rational laws”; in short, in legality.
             The period of the bourgeoisie is ruled by the British spirit of legality. An
-72 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             assembly of feudal estates is always recalling that its authority goes only so
             far, and that it is called at all only through favor and can get thrown out again
             through disfavor. It always reminds itself of its—calling. One certainly can’t
@@ -3593,7 +3591,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             living displeases him. Because there are also intellectual vagabonds to whom
             the ancestral home of their fathers seems too cramped and oppressive for
             them to be willing to content themselves with the limited space anymore;
-73 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             instead of staying within the bounds of a moderate way of thinking, and
             taking as inviolable truth what grants consolation and reassurance to
             thousands, they leap over all boundaries of tradition and run wild with their
@@ -3643,7 +3641,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             it, but money[124] gives advantage.[125] The possessors rule, but from among
             the dispossessed, the state trains up its “servants,” to whom it gives money (a
             salary), in proportion to how much they rule (govern) in its name.
-74 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
                I receive everything from the state. Do I have anything without the state’s
             approval? What I have without this approval, it takes away from me as soon as
             it discovers the lack of a “legal title.” So don’t I have everything by its grace,
@@ -3691,7 +3689,6 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             and there.
                The state is founded on the—slavery of labor. If labor becomes free, the
             state is lost.
-75 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
 
             1.3.2 Social Liberalism
 
@@ -3742,7 +3739,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
               Before the supreme ruler, the sole commander, we had all become equal,
             equal persons, i.e., zeros.
               Before the supreme proprietor we all become equal—paupers. For now, one
-76 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             is still in another’s estimation a “pauper,” a “have-not”; but then this
             estimation ceases. We are all paupers, and as the overall mass of communist
             society we could call ourselves “ragged rabble.”
@@ -3792,7 +3789,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             you a recompense, not for your mere existence; also not for what you are for
             yourselves, but only for what you are for us. How do you have claims on us?
             Perhaps through your high birth, etc.? No, only by what you do that is
-77 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             desirable or useful to us. So then let it be this way: We are willing to be worth
             to you only so much as we do for you, but you are to be held likewise by us.
             Services determine worth, those services that are worth something to us,
@@ -3842,7 +3839,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             revolution the word was “grab fortune!” Fortune-hunting or games of chance:
             bourgeois life began in this. Along with that then, the requirement that
             anyone who gains something doesn’t recklessly put it at stake again.
-78 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
                A strange and yet utterly natural contradiction. Competition, in which
             bourgeois or political life solely operates, is a game of chance through and
             through, from stock market speculation all the way down to applications for
@@ -3892,7 +3889,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             take it up.
                So the only thing left to criticism is to show that the acquisition of these
             goods by no means makes us human beings.
-79 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
               With the liberal commandment that everyone should make a human being of
             himself, or make himself a human being, the need was posited that everyone
             must gain time for this work of humanization, i.e., that it would become
@@ -3941,7 +3938,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             is an immense ﬁeld for free utilization.
                The worker will use society for his egoistic aims as the bourgeois uses the
             state. You still only have an egoistic aim, your welfare! So the humane liberal
-80 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             accuses the socialist. Take up a purely human interest—then I will be your
             companion. “But to this belongs a stronger, more comprehensive
             consciousness than a worker’s consciousness.”
@@ -3990,7 +3987,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             individual certainly leaves you cold, and abstractly you could cry ﬁat libertas,
             pereat mundus.[142] You don’t worry about the coming day either, and have no
             serious concerns at all for the individual’s desires, neither for your own good
-81 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             living nor that of others; but you just make nothing from all of this, because
             you are a—dreamer.
                Would the humane liberal perhaps be so liberal as to pass everything
@@ -4038,7 +4035,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             doesn’t fail to do so, and if he fails to, then—he can’t. What does your
             unreasonable demand, what does the call to be a human being which you
             issue to him, concern him?
-82 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             In the “human society” that the humane liberal promises, nothing “special”
             which one or the other has should ever ﬁnd recognition, nothing that has the
             character of “private” should ever have value. In this way the circle of
@@ -4088,7 +4085,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
                For the socialists, welfare is still the highest goal, as free contention was
             the agreeable thing to the political liberals; now welfare is also free, and
             whoever wants to have it may get it, just as whoever wanted to enter into
-83 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             contention (competition) could choose to do so.
                But to take part in contention you need only be bourgeois; to take part in
             welfare you need only be workers. Neither is synonymous with “human
@@ -4135,7 +4132,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             is unable to quench it. Therefore, revelry stands by the side of his work, and
             he feels compelled to proclaim work and idleness human in one breath,
             indeed, to attribute true elevation to the idler, the reveler. He works only to
-84 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             get away from work; he wants to make labor free, only so that he can be free
             from labor.
                Enough, his work has no satisfying content, because it is only assigned by
@@ -4185,7 +4182,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             him no peace until he had gained light and enlightenment for himself to the
             best of his powers.
                So he works for his own sake and for the satisfaction of his need. That in
-85 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             this he was also useful to others, indeed, to future generations, does not take
             the egoistic character from his work.
                In the next place, if he still also only worked for his own sake, why would his
@@ -4235,7 +4232,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             necessary condition for sociability; because only as a human being among
             human beings is one companionable. With this it makes its social aim known,
             the establishment of “human society.”
-86 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
                Among social theories, criticism is indisputably the most complete, because
             it removes and undermines everything that separates human being from
             human being: all prerogatives down to the prerogative of faith. In it, the loveprinciple of Christianity, the true social principle, comes to its purest
@@ -4283,7 +4280,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
                  basis and necessary foundation of the state—a purely private
                  matter. Even when they were connected to the state and made it
                  Christian, they were only the proof that the state had not yet
-87 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
                  developed its universal political idea, that it was only establishing
                  private rights— they were only the highest expression of the fact
                  that the state was a private matter and only dealt with private
@@ -4332,7 +4329,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             short, “human rights”; socialism grants the individual what comes to him as
             an active human being, as a “working” human being; ﬁnally, humane
             liberalism gives the individual what he has as a “human being,” i.e.,
-88 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             everything that belongs to humanity. Consequently, the unique has nothing at
             all, humanity everything; and the necessity of “rebirth” preached in
             Christianity is demanded without ambiguity and to the fullest degree. Become
@@ -4382,7 +4379,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             advantage” of motion over it. If they could have it, they would have it.
               To do other people no harm, this is what the demand to possess no
             prerogative boils down to; to renounce all “having the advantage,” the
-89 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             strictest theory of renunciation. One is not supposed to think of himself as
             anything special, for example, a Jew or a Christian. Now I don’t think of
             myself as anything special, but as unique. Without a doubt, I am similar to
@@ -4431,7 +4428,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             each other as enemies, namely the “masses” and “criticism”[156]; more
             speciﬁcally, “free, human criticism,” as it is called[157], as opposed to crude,
             for example, religious criticism.
-90 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
                Criticism expresses the hope that it will be victorious over all the masses
             and “prove their own universal shortcomings to them.”[158] So it wants to
             ﬁnally be in the right,[159] and to represent all squabbles of the “faint-hearted
@@ -4481,7 +4478,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             some, but only mine are of any concern to me, and only they can be overcome
             by me. I cannot become a human I, because I am simply I, and not a mere
             human being.
-91 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
                But let’s still see whether criticism hasn’t taught us something that we can
             take to heart! Am I not free if I am not without interests, not human if I am
             not disinterested? Now, even if I’m not much enthused to be free or human, I
@@ -4531,7 +4528,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             reappears as subject; since possession becomes the property of society, so
             worry is regenerated as work; and since God as the human being becomes a
             prejudice, a new faith arises, faith in humanity or liberty. In place of the
-92 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             individual’s God, now the God of all, namely, “the human being,” has been
             raised up; “it is indeed the highest thing in all of us to be human.” But since
             no one can quite be what the idea “human being” implies, the human being
@@ -4580,7 +4577,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             a boundless resentment.” The revolution satisﬁed some with its results and
             left others unsatisﬁed; the satisﬁed portion is the middle class (bourgeoisie,
             philistines, etc.), the unsatisﬁed portion is the—masses. Doesn’t the critic, so
-93 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             placed, himself belong to the masses?
               But the unsatisﬁed are still in great uncertainty, and their dissatisfaction
             expresses itself only in a “boundless resentment.” The equally unsatisﬁed
@@ -4630,7 +4627,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             since he is good as a critic, he would now become bad, or change from an
             unselﬁsh person to an egoist, etc. “Whatever you do, no dogma!” This is his—
             dogma. Because the critic remains on one and the same terrain with the
-94 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             dogmatist, that of thoughts. Like the latter, he always starts from a thought,
             but he diﬀers in this, that he never ceases to keep the fundamental thought
             embroiled in the process of thinking, so as not to let it become stable. He only
@@ -4680,7 +4677,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
               A jerk does me the service of the most careful thought, a stretching of the
             limbs shakes oﬀ the torment of thoughts, an upward leap hurls the nightmare
             of the religious world from my breast, a hurrah shouted out with joy throws
-95 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             oﬀ years of burdens. But the enormous signiﬁcance of unthinking jubilation
             couldn’t be recognized in the long night of thinking and believing.
                “What crudeness and frivolity, to want to solve the most diﬀicult problems,
@@ -4730,7 +4727,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             complete the victory, and the sacred power of thought is defeated by the force
             of egoism. Only the egoistic ﬁght, the ﬁght of egoists on both sides, makes
             everything clear.
-96 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
                This last now, making thinking a matter of egoistic taste, a matter of the
             unique, a mere pastime or hobby as it were, and taking from it the
             signiﬁcance of “being the last decisive power,” this debasement and
@@ -4778,7 +4775,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              that the human being has killed God in order to now become—“sole God on
                high.” The other world outside us is indeed swept away, and the great
               enterprise of the men of the Enlightenment is accomplished; but the other
-97 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
               world inside us has become a new heaven and calls us forth to storm the
               heavens once again: God has had to make way, but not for us, rather for—
              humanity. How can you believe the God man has died before the man in him,
@@ -4826,7 +4823,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             limits of my freedom too painfully obvious to me. “Now that you have become
             free from sins, you have become servants of righteousness.”[168] Don’t
             republicans, in their broad freedom, become servants of the law? How true
-98 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
             Christian hearts longed at all times to become free, how they pined to see
             themselves released from the bonds of earthly life! They looked out toward
             the land of freedom. (“The Jerusalem that is above is the freewoman; she is
@@ -4874,7 +4871,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
             heart, a so-called dead dog has none and so is no longer a dog.
               If one claims that a slave may still be inwardly free, he in fact says only the
             most indisputable and trivial thing. For who is likely to claim that anyone is
-99 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              wholly without freedom? If I am an eye-servant, can I therefore not be free
              from countless things, from faith in Zeus, for example, or the desire for fame,
              and so on? So why shouldn’t a whipped slave also be able to be inwardly free
@@ -4924,7 +4921,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
                The urge for a speciﬁc freedom always entails the aim of a new rule, as then
              the revolution “could give its defenders the uplifting feeling that they were
              ﬁghting for freedom,” but truthfully only because they were after a speciﬁc
-100 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              freedom, and thus a new rule, the rule of law.
                You all want freedom, you want freedom. So why do you haggle over more
              or less? Freedom can only be the whole of freedom; a piece of freedom is not
@@ -4974,7 +4971,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              unregulated impulses, desires, wishes, passions; a chaos without light or a
              guiding star! How am I supposed to get a correct answer if—without regard
              for God’s commandments or the duties that morality prescribes, without
-101 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              regard for the voice of reason, which in the course of history, after bitter
              experiences, has raised the best and most reasonable things into law—I
              simply ask myself? My passion would advise me to do the most senseless
@@ -5024,7 +5021,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              have been freed from everything I am not? Only I and nothing but I. But
              freedom has nothing to oﬀer this I itself. As to what more is supposed to
              happen now, since I have become free, freedom is silent, as our governments,
-102 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              when a prisoner’s time is up, just release him and cast him out into
              desolation.
                 Now why, if one strives for freedom out of love for the I, why not choose the
@@ -5074,7 +5071,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              sake of the good” without prospect of reward? As if here too the reward was
              not contained in the satisfaction it would grant. Thus religion is also founded
              on our egoism and exploits it; calculated on our desires, for the sake of one of
-103 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              them, it stiﬂes many others. This then gives the phenomenon of duped
              egoism, where I don’t satisfy myself, but one of my desires, e.g., the desire for
              blessedness. Religion promises me this: “the highest good”; to gain this I pay
@@ -5124,7 +5121,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              croak in vain and, ﬁnally, fall silent.
                 My freedom becomes complete only when it is my—power; but by this I
              cease to be merely a free person and become an own person. Why is the
-104 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              freedom of the people a “hollow word”? Because the people have no power!
              With a breath from the living I, I blow peoples over, whether it’s the breath of
              a Nero, a Chinese emperor, or a poor writer. Why then do the chambers of the
@@ -5172,7 +5169,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              the latter couldn’t do this without inconsistency. But emancipated or not
              emancipated, a Jew remains a Jew; the one who is not self-liberated is merely
              an—emancipated man. The Protestant state can certainly set the Catholics
-105 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              free (emancipate them); but since they do not free themselves, they remain
              merely—Catholics.
                 Selﬁshness and unselﬁshness have already been talked about. The friends of
@@ -5219,7 +5216,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              profession of judge, Welcker cries, is demoralized by this dependence! In dry
              words, this means nothing else than that judges will ﬁnd it more
              advantageous if they make their judgments as the ministers would have it
-106 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              than as the law would have it. How is that to be helped? Perhaps by reminding
              the judges of the shame of their venality, and then cultivating the conﬁdence
              that they will stop and think, and from now on deem justice higher than their
@@ -5268,7 +5265,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              Hans; as a human being you are the same thing that he is. And since as Hans
              you do not exist for him, insofar as he is a liberal and not unconsciously an
              egoist, he has really made “brotherly love” very easy for himself: he doesn’t
-107 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              love the Hans in you, of whom he neither knows nor wants to know anything,
              but rather the human being.
                 To see nothing more in you and me than “human beings” is to carry on the
@@ -5318,7 +5315,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
                 It’s also like this with the spirit. A Christian spirit, an upright spirit, and the
              like could likely be my acquired quality, i.e., my property, but I am not this
              spirit; it is mine, I am not its.
-108 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
                Hence, we have in liberalism only the continuation of the old Christian
              disdain for the I, the embodied Hans. Instead of taking me as I am, one looks
              merely at my property, my qualities, and enters into an honest alliance with
@@ -5367,7 +5364,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              which, by the way, one acts very liberally because they are so insigniﬁcant.
                One could call it the state-religion, the religion of “free states,” not in the
              sense, used up to now, that it is preferred or privileged by the state, but as the
-109 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              religion which the “free state” is not only entitled, but is compelled, to
              demand of each of its people, regardless of whether privately he is Jewish,
              Christian, or whatever. For it does the same service to the state as ﬁlial piety
@@ -5416,7 +5413,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              quality.
                It had to come to this at last, that we were no longer only expected to be
              Christians, but to become human beings; since, though we could never really
-110 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              even become Christians, but always remained “poor sinners” (for the
              Christian was also just an unattainable ideal), still the absurdity of this did not
              come to our awareness and the deception was easier than now, when the
@@ -5466,7 +5463,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              requires that I do nothing which would stop it from persisting. Its continued
              existence is supposed to be sacred for me. Then I should not be an egoist, but
              an “honest, upright,” i.e., moral human being. Enough: I am supposed to be
-111 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              powerless and respectful before it and its continued existence.
                This state, indeed not an existing one, but one still in need of being created,
              is the ideal of progressive liberalism. It is supposed to be a true “human
@@ -5516,7 +5513,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
                In his account, the fault of Jews and Christians alike lies in their wanting to
              be and have something “distinctive,” instead of just being human beings and
              striving for what is human, namely, “universal human rights.” He thinks their
-112 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              basic error consists in their belief that they are “privileged,” possess
              “prerogatives,” generally in the belief in prerogative. He opposed this with
              universal human rights. Human rights!
@@ -5566,7 +5563,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              deﬁned by the “species,” the general requirements, etc.; this is law to him. He
              is deﬁned by it: then, what else is the species to him than his “deﬁnition,” his
              “calling”? Whether I look upon “humanity,” the species, as the ideal to
-113 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              emulate, or upon God and Christ with the same desire, what essential
              diﬀerence would there be? At most, the former is more wishy-washy than the
              latter. As the individual is the whole of nature, so too is he the whole of the
@@ -5616,7 +5613,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
                 The desecrater tenses his strength against any fear of God, because fear of
              God would determine him in everything that he kept as sacred. Whether in
              the God-man the God or the man exercises sanctifying power, whether
-114 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              anything is thus held sacred for God’s or for the human being’s (humanity’s)
              sake, this doesn’t change the fear of God, because the human being is revered
              as the “supreme being”[196] as much as from the speciﬁcally religious
@@ -5665,7 +5662,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              right, I grow suspicious of my right; I don’t like his accepting that I’m right.
              But even when a wise man grants that I’m right, I am still not right because of
              this. Whether I am right is completely independent of the fool’s or the wise
-115 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              man’s granting it.
                 Nevertheless, we have striven for this right up to now. We seek for right and
              turn to the court for that purpose. To which? To a royal, a papal, a people’s
@@ -5715,7 +5712,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              i.e., when he lives according to society’s laws, and so is—loyal. Whether I am
              loyal in a despotic regime or in a “society” à la Weitling,[201] it is the same
              lack of rights, insofar as in both cases I don’t have my right but alien right.
-116 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
                With rights one always asks: “What or who gives me the right?” Answer:
              God, love, reason, nature, humanity, etc. No, only your power, your strength
              gives you the right (your reason, for example, may give it to you).
@@ -5763,7 +5760,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              consider themselves authorized to shoot escaping suspects dead, because
              they murder on a “higher authority,” i.e., “rightly.” But I am authorized by
              myself to murder if I do not forbid it to myself, if I am not myself afraid of
-117 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              murder as a “wrong.” This view forms the basis of Chamisso’s poem, Das
              Mordtal,[208] where the gray-haired Indian murderer gains the respect of the
              white man whose brothers he murdered. The only thing I am not authorized to
@@ -5812,7 +5809,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              against him, but rather myself.
                 Since human rights are always something given, it always comes down to
              the rights which people give, i.e., “grant,” to each other. If one grants the
-118 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              right of existence to newborn children, then they have the right; if one doesn’t
              grant it to them, as was the case among the Spartans and the ancient
              Romans, then they do not have it. Because only society can give or concede it
@@ -5862,7 +5859,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              in any other case, he can only make a little ﬁst in his pocket or fall victim as
              an impertinent fool.
                In short, if you Chinese and Japanese didn’t ask after rights, if you didn’t
-119 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              ask, in particular, after the rights “that were born with you,” then you’d have
              no need at all to ask after the well-won rights either.
                 You shrink back from others, because you believe you see next to them the
@@ -5911,7 +5908,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              words—in the law.
                Whatever the law may be, it must be respected by—the loyal citizen. Thus
              the legal mind of Old England is praised. This corresponds completely to that
-120 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              Euripidean proverb (Orestes, 412): “We serve the gods, whatever the gods
              are.” Laws in general, gods in general, that’s how far we are today.
                 People try to distinguish law from arbitrary command, from ordinance: the
@@ -5961,7 +5958,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              might as well say the worst case—a slave to myself. Because I was a willer
              yesterday, today I am will-less, yesterday voluntary, today involuntary.
                 How to change? Only by recognizing no duty, i.e., by not binding myself or
-121 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              allowing myself to be bound. If I have no duty, then I also know no law.
                 “But they will bind me!” No one can bind my will, and my unwillingness
              remains free.
@@ -6011,7 +6008,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              mockery and disparagement, frivolity, etc.,” once he doesn’t ﬁnd the sacred
              shrine, the state, worthy of acknowledgement. The spiritual arrogance of the
              servants and subjects of the state has exquisite penalties against unspiritual
-122 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              “exuberance.”
                 When the government declares all mental play against the state punishable,
              then the moderate liberals come and say: whimsy, satire, wit, humor, etc.,
@@ -6060,7 +6057,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              censorship of speech in its presence, like any child.
              If you let another make you out in the right, you must no less let him make
              you out in the wrong; if justiﬁcation and reward come to you from him, expect
-123 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              his prosecution and punishment as well. Alongside right goes wrong,
              alongside legality crime. What are you? You are a—criminal!
                 “The criminal is the state’s most characteristic crime!” Bettina[213] says.
@@ -6109,7 +6106,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              prosper in it.”[220] If, like Bettina, you here understand the human being as
              the concept “human being,” she is right; the “diseased” state recovers
              through the prosperity of “human beings,” because the more infatuated
-124 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              individuals are with “the human being,” the better it is for the state. But if you
              refer it to individuals, to “all” (and the author also does this half and half,
              because she is still caught up in vagueness about “the human being”), then it
@@ -6159,7 +6156,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              what is contrary to the “moral feeling” of these people, they prohibit. How
              should unfaithfulness, dropping away, oath-breaking, in short, all radical
              breaking oﬀ all tearing to pieces of time-honored bonds, not be unholy and
-125 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              criminal in their eyes? Anyone who breaks these demands of the soul has all
              moral, all soulful human beings as enemies. Only Krummacher and his crew
              are the right people to consistently set up a penal code of the heart, as a
@@ -6209,7 +6206,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
                 Crimes arise from ﬁxed ideas. The sacredness of marriage is a ﬁxed idea.
              From the sacredness it follows that inﬁdelity is a crime, and therefore a
              certain marriage law imposes a shorter or longer penalty upon it. But for
-126 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              those who proclaim “freedom as sacred,” this penalty must be regarded as a
              crime against freedom, and only in this sense has public opinion also branded
              the marriage law.
@@ -6259,7 +6256,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              his wrath, the law ﬂogs the lawless; you’ll let one speak with you at any time
              and show the other the door.
                 “Equality of rights” is just a phantom, because right is nothing more nor
-127 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              less than authorization, a matter of grace, which, by the way, you can also
              acquire through your merit; for merit and grace don’t contradict each other,
              in that grace also wants to be “earned” and our gracious smile only falls on
@@ -6309,7 +6306,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              to give way or deny yourself.
                 People understand the signiﬁcance of the conﬂicts too formally and weakly
              if they only want to “dissolve” them in order to make room for a “unifying”
-128 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              third thing. The conﬂict deserves rather to be intensiﬁed. As Jew and
              Christian you are in too slight a conﬂict and are only arguing about religion,
              about the emperor’s beard as it were, about a triﬂe. In religion, indeed,
@@ -6358,7 +6355,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              and I don’t boast of or console myself with my inalienable rights.
                With absolute right, right itself dies; the rule of the “concept of right” is
              wiped out at the same time. For it is not to be forgotten that up to now
-129 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              concepts, ideas, or principles have ruled us, and that among these rulers, the
              concept of right, or of justice, played one of the most important roles.
                Authorized or unauthorized—it doesn’t matter to me; if only I am powerful,
@@ -6407,7 +6404,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              together with the Greek polloi, the “many” or the “mass,” but more so
              because “national aspirations” are at present the order of the day, and also
              because even the latest rebel has not yet shaken oﬀ this deceptive person,
-130 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              although, on the other hand, the latter consideration would have to give the
              advantage to the term “humanity,” because on all sides people are starting to
              rave over “humanity.”
@@ -6456,7 +6453,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              so that a single lord of the manor, the lord of the people, the monarchical
              power, would be strengthened; serfdom under the one became even stricter
              thereby. Only in favor of the monarch, whether he is called “prince” or “law,”
-131 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              have privileges ever fallen. In France, the citizens are indeed not the serfs of
              the king, but rather the serfs of the “law” (the Charter). Subordination was
              maintained, only the Christian state recognized that a person cannot serve
@@ -6506,7 +6503,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              He should have stuck with this, and since he hadn’t uttered a death sentence
              against himself, should have despised that of the Athenians and escaped. But
              he subordinated himself and recognized the people as his judge; he seemed
-132 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              small to himself before the majesty of the people. That he subjected himself to
              power, to which he could only lose, as to a “right,” was self-betrayal: it was
              virtue. The narrators ascribe the same scrupulousness to Christ, who
@@ -6556,7 +6553,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
                 A people suppresses those who tower up above its majesty, by ostracism
              against the powerful citizens, by the Inquisition against the heretics of the
              church, by the—inquisition against traitors in the state.
-133 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
                Because all that matters to the people is its self-assertion; it demands
              “patriotic sacriﬁce” from everyone. Consequently, for it everyone in himself is
              indiﬀerent, a nothing, and it cannot do, nor even allow, what the individual
@@ -6605,7 +6602,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              individuals; society is only the commonality of the room, and even the statues
              in a museum room are in society, they are grouped. People customarily say:
              “they hold the room in common,” but it’s rather the case that the room holds
-134 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              us or has us in it. That’s as far as the natural meaning of the word society
              goes. It comes out from this that society is not generated by me and you, but
              by a third factor which makes us both into associates, and that it is precisely
@@ -6654,7 +6651,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              have become indiﬀerent used to be a son; because, since the sonship shows
              itself to be no longer operative, it has no greater signiﬁcance than the longpast connection of mother and child through the umbilical cord. That one
              once lived in this bodily connection is a done thing that cannot be undone,
-135 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              and to this extent one remains the son of this mother and the brother of her
              other children; but it would only come to a lasting connection through lasting
              family piety, this family spirit. Individuals are only members of the family in
@@ -6704,7 +6701,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              regard than the family bond.
                 Now, however, a wish sometimes glimmers in a less passionate and willful
              heart than Juliet’s. The compliant girl brings herself as a sacriﬁce to the
-136 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              peace of the family. One could say self-interest also prevails here, because the
              decision comes from the feeling that the compliant girl feels more satisﬁed by
              family unity than by the fulﬁllment of her wish. That might be; but how, when
@@ -6753,7 +6750,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              children of their country”).
                 What one calls a state is a web and network of dependence and devotion; it
              is a togetherness, a sticking together, in which those ordered together
-137 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              acquiesce to each other, or in short, depend on each other: it is the order of
              this dependence. Suppose the king, whose authority lends authority to all
              down to the bailiﬀ, disappeared; still, all in whom the sense of order was
@@ -6803,7 +6800,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              state, the church came with the pretension of being I, and I watched it all
              quietly. No wonder if then there was also always an actual I that stepped up
              there and asserted to my face that it was not my you but my own I. The Son of
-138 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              Man had done the same par excellence; why shouldn’t a son of man do it too?
              So I always looked for my I above and outside myself and could never actually
              come to myself.
@@ -6853,7 +6850,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              for the other, the play of individuals with each other, their buzzing back and
              forth, their everyday life, is a contingency, that it must no doubt leave to the
              individuals themselves because it can do nothing about them. Many,
-139 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              admittedly, still strain at gnats and swallow camels,[252] while others are more
              clever. In the latter, individuals are “freer,” because they’re less bullied. But I
              am free in no state. The state’s lauded tolerance is simply a tolerance of the
@@ -6902,7 +6899,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              the womb, immediately enters into opposition. Government, if it were nothing
              independent and opposing, would be nothing at all.
                “In the free state there is no government, etc.”[256] This actually implies
-140 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              that the people, when it is the sovereign, doesn’t let itself be led by a higher
              authority. Is it somehow diﬀerent in the absolute monarchy? Is there perhaps
              a government there for the sovereign, standing over him? Over the sovereign,
@@ -6951,7 +6948,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              itself, because it has broken into a duality: the government wants to be
              absolute, and the people wants to be absolute. These two absolutes will
              annihilate each other.
-141 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
                 Edgar Bauer rails against the ruler’s being determined by birth, by chance.
              But when “the people” will have become “the sole power in the state,”[264]
              don’t we then have in it a master by chance? What then is the people? The
@@ -7000,7 +6997,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              Here is the feature of all reactionary desires, that they want to set up
              something universal, abstract, an empty, lifeless concept, whereas the selfowned strive to unburden the sturdy, lively particular from the tangled mass
              of generalities. The reactionaries would be glad to pound a people, a nation,
-142 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              forth from the earth; the self-owned have only themselves in mind. Essentially,
              the two eﬀorts that are on the agenda today, namely, the restoration of
              provincial rights, the old tribal divisions (Franks, Bavarians, etc., Lausitz,
@@ -7050,7 +7047,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              tries to convince you that you’re not your own I, but rather Hans or Kunz is
              your I! But that’s how it goes for the people, and rightly so for it. Because the
              people has no more of an I than the eleven planets reckoned together have,
-143 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              even though they revolve around a common center.
                Bailly’s statement is typical of the slave mentality that persons have before
              the sovereign people, as before the prince. “I no longer have,” he says, “any
@@ -7099,7 +7096,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
                   himself on the whole of humanity, if he doesn’t draw his strength
                   from it like Antaeus. [279]
                In the same place he says: “The person’s relation to the res publica is
-144 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              degraded by the theological perspective to a purely private matter, and is thus
              done away with by denial.” As if the political perspective did otherwise with
              religion! There religion is a “private matter.”
@@ -7148,7 +7145,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              ﬁxed. As a party of absolutism, it cannot want its members to doubt the
              irrefutable truth of this principle; they could only entertain this doubt if they
              were egoistic enough to want to be something else outside their parties, i.e.,
-145 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              nonpartisan. They cannot be nonpartisan as party people, but only as egoists.
              If you are a Protestant and belong to this party, then you can only justify
              Protestantism, at most “purify” it, not reject it; if you are a Christian and
@@ -7198,7 +7195,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              faith. Because those who belong to the party must believe in its principles,
              they must not doubt or question it, it must be what is certain, what is
              unquestionable for the party member. This means: one must belong to a party
-146 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              body and soul, otherwise one is not truly a party man, but rather more or less
              an—egoist. Entertain any doubt of Christianity and you are already no longer
              a true Christian, you have lifted yourself to the “audacity” of raising a
@@ -7248,7 +7245,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              commandments of this Sacred One, which he delivers to the world through his
              anointed and rulers-by-the-grace-of-God. As the church had mortal sins, so the
              state has capital crimes; as the one had heretics, so the other has traitors; the
-147 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              one had ecclesiastical penalties, the other has criminal penalties; the one had
              inquisitorial trials, the other has ﬁscal trials; in short, there sins, here crimes,
              there sinners, here criminals, there inquisition and here—inquisition. Won’t
@@ -7298,7 +7295,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              fallen, so all punishments must fall. As sin against the so-called God is a
              person’s own aﬀair, so is that against every sort of so-called sacred thing.
              According to our theories of penal law, with whose “timely improvement”
-148 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              people are struggling in vain, they want to punish people for this or that
              “inhumanity” and make the foolishness of these theories especially clear by
              their consequences, in that they hang the little thieves and let the big ones go.
@@ -7348,7 +7345,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              human being a “destiny,” in that they also want to know him as divine, human,
              and the like: morality, freedom, and humanity, etc., are his essence. And like
              religion, politics also wanted to “educate” the human being, to bring him to
-149 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              the realization of his “essence,” his “destiny,” to make something out of him—
              namely a “true human being,” the one in the form of the “true believer,” the
              other in the form of the “true bourgeois citizen or subject.” In fact, it comes to
@@ -7398,7 +7395,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
                 Today’s “nationals” have again stirred up the dispute between those who
              think they have only human blood and human blood ties, and the others who
              insist upon their special blood and special blood ties.
-150 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
                 If we disregard the fact that pride might reveal an overestimation, and take
              it solely for awareness, then we ﬁnd an immense gap between the pride of
              “belonging to” a nation and thus being its property, and the pride in calling a
@@ -7448,7 +7445,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              the human being’s.
                 Human beings have something of their own, and I am supposed to recognize
              this own and hold it sacred. Their own consists partly in outer and partly in
-151 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              inner possessions. The former are things, the latter intellectual matters,
              thoughts, convictions, noble feelings, etc. But I am always only supposed to
              respect rightful or human possessions: the wrongful and inhuman I need not
@@ -7498,7 +7495,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              me, then for me he has no right. His life, for example, counts to me only for
              what it is worth to me. I respect neither his so-called property rights or his
              right to material goods, nor even his right to the “sanctuary of his inner
-152 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              being” or his right to have his spiritual goods and divinities, his gods, remain
              unharmed. His goods, the sensual as well as the spiritual, are mine, and I deal
              with them as property owner to the extent of my—power.
@@ -7547,7 +7544,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
                 Property as bourgeois liberals understand it deserves the attack of the
              communists and Proudhon: it is intolerable, because the bourgeois property
              owner is really nothing but a propertyless person, one who is everywhere
-153 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              excluded. Instead of owning the world as he might, he doesn’t even own the
              paltry point on which he turns round.
                Proudhon doesn’t want the propriétaire[292] but the possesseur or
@@ -7597,7 +7594,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              individual. Then the ghost of “right” stands at their side.
                Proudhon, like the communists, ﬁghts against egoism. That is why they are
              continuations and consequences of the Christian principle, the principle of
-154 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              love, of sacriﬁce for something universal, something alien. They complete, for
              example, in property, only what has long existed in the matter—namely the
              propertylessness of individuals. When the law says: Ad reges potestas omnium
@@ -7646,7 +7643,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              from him, as freedom belongs to the one who takes it.
                 Only power decides about property, and since the state, whether the state of
              the bourgeoisie or of paupers or of human beings as such, is the only powerful
-155 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              one, it alone is property owner; I the unique have nothing, and am only
              enfeoﬀed, am a vassal, and as such, a servant. Under the rule of the state,
              there is no property of mine.
@@ -7696,7 +7693,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              beyond the “political”[301] and goes beyond the concepts and horizon of the
              state, which only knows state property and can distribute only this. Thus it
              ties the possession of property to conditions, as it ties everything to them, for
-156 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              example, marriage, in that it allow allows marriage sanctioned by it to count,
              and snatches this from my power. But property is only my property, when I
              hold it unconditionally; only I, as unconditional I, have property, enter into a
@@ -7746,7 +7743,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              work. The state allows me to utilize all my thoughts and to bring them to
              everyone (indeed, I already utilize them, for example, through this, that they
              bring honor to me from the listeners, and the like); but only so long as my
-157 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              thoughts—are its thoughts. On the other hand, if I harbor thoughts of which it
              doesn’t approve, i.e., which it can’t make its own, then it doesn’t allow me to
              utilize them at all, to bring then into exchange, into intercourse. My thoughts
@@ -7795,7 +7792,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
                 Here egoism, selﬁshness must decide; not the principle of love, not lovemotives like compassion, charity, kindness, or even justice and fairness
              (because iustitia too is a phenomenon of —love, a love product): love
              recognizes only sacriﬁces and calls for “self-sacriﬁce.”
-158 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
                 Egoism has no intention of sacriﬁcing anything, of giving up anything; it
              simply decides: what I need I must have and will get for myself.
                 All attempts to provide rational laws of property leaked out of the bosom of
@@ -7843,7 +7840,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              everyone will have property, as all slaves become free people as soon as they
              no longer respect the master as master. Associations will then, in this matter
              as well, multiply the individual’s means and secure his contested property.
-159 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
                 In the opinion of the communists the community should be the property
              owner. On the contrary, I am the property owner, and I only come to an
              agreement with others about my property. If the community doesn’t do what
@@ -7892,7 +7889,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              substance, he hopes from the state that it will bring about an equalization of
              property. Always the state! The great papa![309] As the church was proclaimed
              and looked upon as the “mother” of believers, so the state completely has the
-160 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              face of the provident father.
                 Competition shows itself to be most precisely connected with the principle
              of the bourgeois way of life. Is it anything other than equality (égalité)? And
@@ -7942,7 +7939,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              times more than he, would make his lecture room empty. “Have you studied
              and graduated, friend?” No, but what of that? I amply understand what is
              necessary for teaching the subject. “I’m sorry, but competition isn’t ‘free’
-161 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              here. There is nothing to say against your person, but you lack the thing, the
              doctoral degree. And this degree, I, the state, require. First ask me for it
              respectfully, then we will see what’s to be done.”
@@ -7992,7 +7989,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              shows himself as a human being; this is why we also let the property-holder,
              whom we called “property owner,” remain valid for so long. Still you possess
              the things only so long as you don’t “get kicked oﬀ this property.”
-162 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
                 The property-holder is capable, but only so far as others are incapable.
              Since your product forms your capability only so long as you are capable of
              keeping hold of it, i.e., so long as we are incapable of doing anything with it,
@@ -8041,7 +8038,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              only care about one of your qualities, then your compliance perhaps, or your
              aid, has a value (a cash value) for me, and I purchase it.
                 If you don’t know how to give yourself anything more than a cash value, in
-163 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              my estimation, the a situation we learn from history, in which German natives
              were sold to America, could repeat itself. Should those who let themselves be
              bartered away be worth more to the seller? He preferred hard cash to this
@@ -8091,7 +8088,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              “Of their hard-heartedness.” But who then has supported the poor, who has
              provided their nourishment when they were no longer able to work, who has
              given alms, those alms that even have their name from kindheartedness
-164 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              (eleemosyne)[323]? Haven’t the rich always been “kindhearted”? Aren’t they
              “charitable” to this day, as poor-taxes, hospitals, foundations of all sorts, etc.,
              prove?
@@ -8141,7 +8138,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              privilege. To the bourgeoisie it seemed fair to put back into play[330]
              everything that appeared to be there for every “human being.” But because it
              was put back into play,[331] it was still given[332] to no one, but rather left to
-165 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              each to grab by his human powers. By this the mind was turned toward the
              acquisition of the human, which from then on beckoned to everyone, and
              there emerged a tendency which one hears so loudly complained about under
@@ -8191,7 +8188,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              on quietly while you slurp oysters? Just buy the oysters from us as dearly as
              we have to buy the potatoes from you, then you’ll be allowed to go on eating
              them. Or do you think the oysters don’t belong as much to us as to you? You’ll
-166 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              cry out about violence if we help ourselves and consume them too, and you
              are right. Without violence, we don’t get them, as you no less have them by
              doing violence to us.
@@ -8241,7 +8238,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              utilizing ourselves. “But you uneducated people really don’t need as much.”
              Now, we’re taking a bit more so that we can get the education that perhaps
              we do need. “But if you bring the rich down in this way, who then will still
-167 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              support the arts and sciences?” Oh, well, the crowd must do it; if we come
              together, that gives a nice little sum; and anyway, you rich now only buy the
              most insipid books and maudlin pictures of the Mother of God or a pair of
@@ -8290,7 +8287,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              education, which no “educated person” believes to be beyond his powers), or,
              broadly, only a skill possible to all.
                 But even if everyone can hold these oﬀices, still only the individual’s unique
-168 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              force, which is solely his own, gives them, so to speak, life and meaning. That
              he doesn’t administer his oﬀice like an “ordinary person,” but adds the
              capabilities of his uniqueness, he is not yet paid for this when he is generally
@@ -8340,7 +8337,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
                 To bring this image to an end, the child of Labor and Money is again a girl,
              an unmarried one and therefore Money, but with a certain lineage from Labor,
              her father. The shape of the face, the “image,” bears a diﬀerent stamp.
-169 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
                 Finally, once again concerning competition, it has a continued existence
              precisely through this: that not all look after their own aﬀair and come to an
              understanding with each other over it. Bread, for example, is a need of all the
@@ -8390,7 +8387,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              separated from me. I can’t take back the power that I have given to the
              possessor. One has “invested power,” has given away his power, has
              renounced thinking better of it.
-170 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
                 A property owner can give up his power and his right to a thing by giving it
              away, squandering it, and the like. And couldn’t we likewise let go of the
              power that we lend to him?
@@ -8440,7 +8437,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              is and remains mine. In the banker’s wealth I as little see anything alien as
              Napoleon did in the territories of the kings; we have no fear of “conquering”
              it, and look about us for the means for doing so. Thus, we strip from it the
-171 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              spirit of alienness, of which we had been afraid.
                 Therefore, it is necessary that I no longer lay claim to anything as human
              being, but to everything as I, this I; therefore, to nothing human, but rather to
@@ -8490,7 +8487,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              way, and the sin against them consists in a direct desecration, whereas
              against a sensory good a theft or alienation takes place: the spiritual goods
              themselves are devalued and desecrated, not merely taken away; the sacred
-172 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              is immediately threatened. The words “irreverence” and “impudence” refer to
              everything a person can commit as a crime against spiritual goods, i.e.,
              against all that is sacred for us; and mockery, insult, contempt, doubt, and the
@@ -8540,7 +8537,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              demanded gift; but you can bet everything that the recipients won’t know how
              to use the gift as long as they regard the state as a truth: they will not violate
              this “sacred thing” and will call for a punitive press law against anyone who
-173 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              would dare to do this.
                 In a phrase, the press won’t become free from what I am not free from.
                 With this do I perhaps show myself as an opponent of freedom of the press?
@@ -8590,7 +8587,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              remains in the service of the state, morality, or the law. Indeed, a freedom
              from the constraints of censorship is not yet a freedom from the constraints of
              the law. The press, once seized by the desire for freedom, wants to grow ever
-174 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              freer, until at last the writer says to himself: I am then only wholly free when I
              ask for nothing; but writing is free only when it is my own, dictated to me by
              no power, no authority, no belief, no fear; the press must not be free—that is
@@ -8640,7 +8637,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              even raise and support each other; but rather I pursue it to make them bleed
              to death, so that the permitters themselves ﬁnally cease. I act as a deliberate
              enemy, outsmarting them and using their imprudence.
-175 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
                 “The press is mine when I acknowledge no judge whatever over its use
              except myself, i.e., when I no longer write what morality, religion, respect for
              state laws, and the like determine, but what I and my egoism decide!”
@@ -8690,7 +8687,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              always only to individuals, and gave it to others, e.g., its organs. So if one
              wants to have it for all, then one has to assert outright that it is due to the
              individual, me, not to the human being or the individual insofar as he is a
-176 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              human being. Anything other than a human being (e.g., a beast) can, in any
              case, make no use of it. The French government, for example, does not deny
              freedom of the press as a human right, but demands from the individual a
@@ -8739,7 +8736,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              make human beings divine.”[354] He has his hand in play everywhere, and
              nothing happens without it; everywhere he has his “best intentions,” his
              “incomprehensible plans and decrees.” Reason, which he himself is, should
-177 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              also be advanced and realized throughout the world. His fatherly care
              deprives us of all independence. We can do nothing sensible without someone
              saying God did that! and can draw no misfortune to ourselves without hearing
@@ -8789,7 +8786,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
                 Up to now, intercourse was based on love, considerate behavior, doing for
              each other. As a person owed it to himself to make himself blessed or to take
              up into himself blessedness, the supreme essence, and bring it to a vérité (a
-178 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              truth and actuality), so one owes it to others to help them realize their
              essence and calling: in both cases, one owed it to the human essence to
              contribute to its realization.
@@ -8839,7 +8836,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              a tyrant against which he gives up all power of breaking oﬀ: he has given up
              himself, because he cannot break oﬀ and therefore cannot release himself
              from the passion: he is possessed.
-179 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
                I also love human beings, not just a few individuals,[358] but every one. But I
              love them with the awareness of egoism; I love them because love makes me
              happy, I love because love is natural to me, it pleases me. I know no
@@ -8889,7 +8886,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              thoroughly to my pleasure.
                Selﬁsh love is very far from unselﬁsh, mystical, or romantic[364] love. One
              can love every possible thing, not just human beings, but any “object” at all
-180 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              (wine, one’s fatherland, etc.). Love becomes blind and crazy through a must
              taking it out of my power (infatuation), romantic through a should entering
              into it, i.e., through the “object” becoming sacred to me, or through me
@@ -8939,7 +8936,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
                 The condition of being possessed by love lies in the alienation of the object,
              or in my powerlessness against its alienation and superior power. For the
              egoist, nothing is so high that he would humble himself before it, nothing so
-181 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              independent that he would live for the love of it, nothing so sacred that he
              would sacriﬁce himself to it. The egoist’s love wells up from selﬁshness, ﬂows
              in a bed of selﬁshness, and empties back into selﬁshness.
@@ -8988,7 +8985,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              preconceived, it is a prejudice.[370] I no longer reveal myself in front of the
              world, but rather my love reveals itself. Indeed, the world does not rule me,
              but so much the more inevitably the spirit of love rules me. I have overcome
-182 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              the world, to become the slave of this spirit.
                If earlier I said, I love the world, now I add as well: I don’t love it, because I
              annihilate[371] it, as I annihilate myself; I break it up. I don’t limit myself to
@@ -9037,7 +9034,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              what way moral inﬂuence, the main ingredient of our upbringing, seeks to
              control human intercourse will be considered here with egoistic eyes in at
              least one example.
-183 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
                 Those who bring us up take care early to cure us of lying and to impress on
              us the principle that one must always tell the truth. If they made self-interest
              the basis for this rule, then everyone would readily understand how by lying
@@ -9087,7 +9084,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              and eternal damnation, you can wear me down so much that I make a false
              oath, but you shall not squeeze the truth out of me, since I will lie to you,
              because I have given you no claim and no right to my honesty. Let God, “who
-184 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              is truth,” look down ever so threateningly upon me, let lying come ever so
              hard to me, still I have the courage of the lie; and even if I were tired of my
              life, even if nothing seemed more welcome to me than your executioner’s
@@ -9137,7 +9134,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              famous. It wasn’t later, when he carefully considered his promise, but
              immediately, when he took the oath, that King Francis took it back in thought
              as well as through a secret protestation, documented and signed before his
-185 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              councilors; he uttered a premeditated perjury. Francis showed that he was not
              averse to buying his release, but the price that Charles set on it seemed too
              high and unreasonable to him. Although Charles behaved stingily when he
@@ -9186,8 +9183,8 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              the truth: a courage that the young are most usually lacking in, since they
              would rather confess the truth and mount the scaﬀold for it than confound the
              enemy’s power through the insolence of a lie. For them the truth is “sacred”
-             and the sacred always demands blind reverence, submission, and self186 of 242 10/1/25, 7:45 PM
-The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+             and the sacred always demands blind reverence, submission, and self
+
              sacriﬁce. If you are not insolent, not mockers of the sacred, you are tame and
              its servants. If someone puts a grain of truth in the trap for you, you certainly
              peck at it; they’ve caught the fools. You don’t want to lie. Well, then, fall as
@@ -9237,7 +9234,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              been mercilessly driven to betray their comrades. But, as the means proved
              itself in practice, it also proves itself theoretically[383]. A word of honor, an
              oath, is only for the one I entitle to receive it; anyone who forces me receives
-187 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              only a force, i.e., a hostile word, the word of an enemy, whom one has no right
              to trust; because the enemy doesn’t give us that right.
                Incidentally, state courts don’t even recognize the inviolability of an oath.
@@ -9287,7 +9284,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              by profession and out of “love,” we only want to win it from others. We want
              to make it our own; it should no longer be in bondage to God (the church) or
              the law (the state), but rather our own; therefore we seek to “win” it, to “gain
-188 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              its favor,” and thereby bring an end to the violence it uses against us, making
              this force unnecessary, so that we meet it as it meets us, and as soon as it
              belongs to us, devote ourselves to it as to ourselves. If the world is ours, it no
@@ -9337,7 +9334,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              and hold it sacred. Society demands that those who belong to it don’t go
              beyond it and rise up, but rather remain “within the bounds of legality,” i.e.,
              allow themselves only as much as society and its law allows them.
-189 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
                 It makes a diﬀerence whether my freedom or my ownness gets limited by a
              society. If only the former is the case, it is a coalition, an agreement, an
              association; but if it threatens ownness with ruin, it is a power for itself a
@@ -9387,7 +9384,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              to miss out. But what then would this welfare be? Does everyone have one
              and the same well-being, are all equally well oﬀ with one and the same thing?
              If so, then it’s about “true well-being.” With this, don’t we come to the exact
-190 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              point where religion begins its tyranny? Christianity says, don’t look on
              earthly baubles, but seek your true well-being, become—devout Christians;
              the Christian life is the true well-being. It is the true well-being of “all,”
@@ -9435,7 +9432,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              makes society and all that ﬂows from this principle obsolete. But this principle
              seeks to culminate in communism, since in it everything is to be held in
              common, for the establishment of—“equality.” If this “equality” is won,
-191 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              “freedom” too is not lacking. But whose freedom? Society’s! Society is then all
              in all, and human beings are only “for each other.” It would be the glory of the
              love-state.
@@ -9485,7 +9482,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
                Neither a natural nor a spiritual tie holds the association together, and it is
              not a natural nor a spiritual alliance. Neither one blood, nor one faith (spirit),
              brings it about. In a natural alliance—like a family, a tribe, a nation, indeed,
-192 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              humanity—individuals only have the value of specimens of the same type of
              species; in a spiritual alliance—like a parish or a church—the individual only
              symbolizes a member of the same spirit; what you are as unique must in both
@@ -9535,7 +9532,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              all, as little as I made the agreement for the sake of the generality or even of
              any other human being; rather I entered into it for the sake of my own beneﬁt,
              from selﬁshness. But as to sacriﬁcing, surely I only sacriﬁce what is not in my
-193 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              power; that is, I “sacriﬁce” nothing at all.
                 To come back to property, the lord is the property owner. Choose then
              whether you want to be lord, or whether society shall be lord! This will
@@ -9585,7 +9582,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              and meekness; it is a gift. Why so sentimentally call for pity as a poor victim of
              robbery, when you are just a foolish, cowardly gift-giver? Why here again
              blame others as if they had robbed us, when we ourselves are to blame in
-194 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              leaving the others unrobbed? The poor are to blame for the existence of the
              rich.
                 No one at all gets worked up over his property, but over alien property.
@@ -9635,7 +9632,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              it is perceived as a bad thing in the early Christians that they preached
              obedience to the established heathen social order, ordered recognition of the
              heathen authorities, and conﬁdently commanded, “Give unto Caesar the
-195 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              things that are Caesar’s.”[403] And yet how much turmoil arose at the same
              time against Roman rule, how seditious the Jews and even the Romans
              showed themselves to be against their own temporal government! In short,
@@ -9685,7 +9682,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              this still appeals to your sentimentality, and you don’t know how to read
              anything more out of it. So be it; I use it as an example for this, that my
              satisfaction decides my relationship with human beings, and that I also do not
-196 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              renounce, from any impulse toward humility, the power over life and death.
                With regard to “social duties” in general, another doesn’t give me my
              position toward others, so neither God nor humanity prescribes to me my
@@ -9733,7 +9730,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
                 Let us express the same thing from another side. One who is worried only
              about staying alive, in his anxiety, easily forgets the enjoyment of life. If he is
              dealing only with staying alive, and he thinks, “If only I have dear life,” he
-197 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              doesn’t apply his full strength to using, i.e., enjoying, life. But how does one
              use life? By using it up, like the candle, which one uses by burning it. One
              uses life, and consequently himself, the living one, by consuming it and
@@ -9783,7 +9780,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              completely to this aspiration and mission. If with those religious devotees who
              hope for life in a world beyond and look upon life in this world as a mere
              preparation for that, the servitude of their earthly existence, which they give
-198 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              solely to the service of the hoped-for heavenly existence, is rather acutely
              obvious, still one would go far astray if one wanted to consider the most
              enlightened and sophisticated as less self-sacriﬁcing. There is a much broader
@@ -9833,7 +9830,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              take it from me when I kill myself as when a tile or an enemy’s bullet takes me
              down; indeed, he would also have roused the decision for death in me!); the
              moral person forbids it because I owe my life to the fatherland, etc., “because
-199 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              I don’t know whether I might not yet do good through my life.” Of course, the
              good loses in me a tool, as God loses a resource. If I am immoral, the good is
              served by my reformation; if I am “godless,” God takes pleasure in my
@@ -9883,7 +9880,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              by unfavorable circumstances from standing at the high point of the time, and
              after the great studies essential for it create skilled works of art; but he will
              create poetry, whether he’s a plowman or so lucky as to live at the court of
-200 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              Weimar. A born musician will make music, regardless of whether on all
              instruments or only on an oaten pipe. A born philosophical thinker can prove
              himself as a university philosopher or as a village philosopher. Finally, a born
@@ -9933,7 +9930,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              manifestation and can no more remain idle than life, which, if it “stood still”
              for even a second, would no longer be life. Now, one could call out to human
              beings: “use your force.” But the meaning would be put into this imperative
-201 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              that it is the mission of the human being to use his force. It’s not so. Rather,
              everyone actually uses his force without ﬁrst looking at this as his calling; at
              every moment everyone uses as much force as he possesses. One is likely to
@@ -9983,7 +9980,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
                 Still far away from myself, I separate myself into two halves, of which one,
              the one that’s unattained and to be fulﬁlled, is the true one. The one, the
              untrue one, namely the unspiritual one, must be brought as a sacriﬁce; the
-202 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              other, the true one, is supposed to be the whole human being, namely the
              spirit. Then it is said, “The spirit is the human being’s authentic essence,” or,
              “The human being exists as a human being only spiritually.” Now a person
@@ -10033,7 +10030,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              barely a need to hint that a future is actual “future” only when it has not yet
              appeared.
                But why this evaluation of a word? If the most consequential
-203 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              misunderstanding of thousands of years were not kept hidden behind it, if all
              the phantasms of possessed human beings didn’t haunt this single concept of
              the little word “possible,” its contemplation would have to concern us little
@@ -10083,7 +10080,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              something. What? Good, beautiful, true; more precisely, moral, pious,
              agreeable, etc. He wants to make a “proper human being,” “something
              proper,” of himself. The human is his goal, his should, his destiny, calling,
-204 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              task, his—ideal: he is to himself a future, an other-worldly being. And what
              makes him a “proper guy”? Being true, being good, being moral, and the like.
              Now he looks askance at anyone who doesn’t recognize the same “what,” seek
@@ -10133,7 +10130,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              of my desires, lusts, emotional surges, etc.; I am their—master, in like
              manner, through the sciences and the arts, I become the master of the
              stubborn world, whom earth and sea obey, and to whom even the stars must
-205 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              give an account of themselves. The spirit has made me master. —But I have
              no power over the spirit itself. From religion (education) I learn well the
              means for “defeating the world,” but not how I will also conquer God and
@@ -10183,7 +10180,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              mind,” if only so that he can—go to sleep. Nothing can concern us with which
              we do not concern ourselves: the overly ambitious person can’t get away from
              his ambitious plans, nor the God-fearing person from the thought of God;
-206 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              infatuation and being possessed come together as one.
                Only the sensual and sinful human being, the human being so long as he has
              the uneasy choice between happiness of the senses and peace of the soul, so
@@ -10232,7 +10229,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              content, or “proceed capriciously with it.”
                 But because we all show ourselves capricious in our treatment of objects,
              i.e., deal with them as we like best, according to our liking (the philosopher
-207 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              likes nothing so much as when he can sniﬀ out an “idea” in everything, as the
              God-fearing person likes to make God his friend through everything, so, for
              example, through holding the Bible sacred): we therefore nowhere encounter
@@ -10282,7 +10279,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
                 The conception[429] of objects is thoroughly diverse, as God, Christ, world,
              etc., were and are conceived in the most varied ways. In this everyone is a
              “dissenter,” and after bloody battles people have at last achieved so much that
-208 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              opposing views about the same object are no longer condemned as heresies
              punishable by death. The “dissenters” get along with each other. But why
              should I only think diﬀerently about a thing—why not push the dissent to its
@@ -10332,7 +10329,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              way my own sensuality, which I satisfy as I please, diﬀers from free, unbridled
              sensuality to which I succumb.
                 Feuerbach, in the Principles of the Philosophy of the Future, is always
-209 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              insisting on being. In this, with all his opposition to Hegel and the absolute
              philosophy, he too gets stuck in abstraction—because “being” is abstraction,
              as is “the I” itself. Only I am not solely abstraction; I am all in all,
@@ -10382,7 +10379,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              head; because I am space like the street.
                 The experts or privileged tolerate no freedom of thought, i.e., no thoughts
              that do not come from the “giver of all good,” whether one calls this giver
-210 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              God, pope, church, or whatever else. If anyone has such illegitimate thoughts,
              he must whisper them in his confessor’s ear and let the latter chastise him
              until the slave-whip becomes unbearable to the free thoughts. The spirit of
@@ -10432,7 +10429,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              I only have to —receive it from its giver by grace; here the truth is to be
              sought and is my goal that lies in the future, towards which I have to run.
                In both cases, the truth (the true thought) lies outside of me, and I strive to
-211 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              get it, whether as a gift (grace) or by purchase (my own earnings).[437] Thus,
              1) The truth is a privilege; 2) No, the way to it is permitted to all, and neither
              the Bible, nor the holy father, nor the church, nor anyone else is in possession
@@ -10482,7 +10479,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              the guidance and control of the mind. Once the church fulﬁlled this mission;
              now it isn’t adequate for the task. It is from the university that this great
              service must be expected, and it will not fail to accomplish this. We, the
-212 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              government, have the duty to support them in this. The charter calls for the
              freedom of thought and of conscience.”[440] So, in favor of freedom of thought
              and conscience, the minister demands “the guidance and control of the mind.”
@@ -10532,7 +10529,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              this thoughtlessness, this unrecognized “freedom of thought,” or freedom
              from thought, are you your own. Only from it do you reach the point of
              consuming language as your property.
-213 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
                 If the thought isn’t my thought, it’s just a thought I’m pursuing; it is slave
              work, or the work of one who “serves at the word.” For I, not a thought, am
              the beginning of my thinking, and so I am also its aim, even as its entire
@@ -10582,7 +10579,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              one also passes them oﬀ as divine revelations, then the quality of alienness
              still remains in them for me; indeed, as my own creations they are already
              alienated from me after the act of creation.
-214 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
                 The Christian person is the believer in thinking, who believes in the
              supremacy of thoughts and wants to put thoughts, so-called “principles,” in
              command. Indeed, some examine the thoughts and choose none of them as
@@ -10632,7 +10629,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              spouses, Proudhon, George Sand, Bluntschli,[446] etc., etc., have the ﬂoor;
              hierarchy will last so long as people believe in, think about, or even criticize,
              principles; because even the most relentless criticism, which undermines all
-215 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              currently accepted principles, still ultimately believes in the principle.
                 Everyone criticizes, but their criteria diﬀer. People hunt for the “right”
              criterion. The right criterion is the ﬁrst premise. The critic starts from a
@@ -10682,7 +10679,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              criticism could only be active starting from themselves, would have to
              themselves be the premise of their activity, since, without being, they could
              not be active. But thinking, as something presupposed, is a ﬁxed thought, a
-216 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              dogma; thinking and criticism can, therefore, only start from a dogma, from a
              thought, a ﬁxed idea, a premise.
                 This brings us back to what I said above, that Christianity consists in the
@@ -10731,7 +10728,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              itself only through you, because it exists only—in your head. You admit that
              truth is a thought, but not every idea is true, or as you also probably express
              it, not every thought is really and truly a thought. And how do you measure
-217 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              and recognize the true thought? By your powerlessness; namely, by your no
              longer being able to harm it! If it overpowers you, inspires you, and carries
              you away, then you hold it to be the true one. Its rulership over you certiﬁes
@@ -10781,7 +10778,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              according to my ability. As actuality or worldliness is “vain and void” for the
              Christian, so the truth is for me. It exists just as much as the things of the
              world go on existing, even though the Christian has proven their nothingness;
-218 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              but it is vain, because it has its value not in itself but in me. Of itself it is
              worthless. The truth is a—creature.[450]
                 As you produce countless things through your activity, indeed, as you
@@ -10831,7 +10828,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              it may rage against ideas, it still isn’t rid of them. It keeps ﬁghting with the
              ghosts, but it can only do this while it thinks of them as ghosts. The ideas it
              deals with do not completely disappear; the morning breeze of a new day
-219 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              doesn’t scare them away.
                The critic can indeed achieve tranquility before ideas, but he never gets rid
              of them; in other words, he will never realize that above the embodied human
@@ -10880,7 +10877,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              which I hold no more sacred awe. Then, ﬁrst of all, I will no longer shudder
              before a thought, however reckless or “devilish” it may seem, because if it
              threatens to become uncomfortable and unsatisfying for me, its end lies in my
-220 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              power; but I will also not shrink back before any action because a spirit of
              godlessness, immorality, unlawfulness, dwells in it, as little as St. Boniface
              would refrain from cutting down the sacred oak of the heathens from religious
@@ -10930,7 +10927,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              egoist before whom the humane shudder is as much a phantasm as the devil
              is: he exists only as a nightmare and a phantasmic image in their brain. If they
              were not naively drifting back and forth in the old-fashioned opposition
-221 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              between good and evil, to which they’ve given the modern names of “humane”
              and “egoistic,” they wouldn’t have polished up the hoary “sinner” into the
              “egoist” either, and sewed a new patch onto an old cloak.[452] But they could
@@ -10980,7 +10977,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
                You are then not merely called to everything divine, entitled to everything
              human, but owner of what is yours, i.e., of all that you possess the strength to
              make your own; in other words, you are ﬁt and qualiﬁed for all that is yours.
-222 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
                People have always reckoned that they must give me a purpose that lies
              outside myself, so that ﬁnally they demanded that I should call upon the
              human because I am—a human. This is the Christian magic circle. Fichte’s I is
@@ -11029,7 +11026,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              ﬂesh; the non-actual “human being,” the bodiless I, will become actual in the
              embodied I, in me.
                The question of “God’s existence” winds its way through Christianity; taken
-223 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              up over and over again, it bears witness that the urge for existence,
              embodiment, personality, actuality, continually occupied the mind,[455]
              because it never found an adequate solution. The question of God’s existence
@@ -11077,7 +11074,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              man, and it carries out its work of conversion and redemption throughout all
              time, to prepare a reception for God in all human beings and in everything
              human, and to penetrate everything with the spirit: it keeps to it, to prepare a
-224 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              place for the “spirit.”
                 When the accent was ﬁnally placed on the human being or humanity, it was
              again the idea that was “called eternal”: “The human being never dies!” Now
@@ -11127,7 +11124,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              question: “Who is the human being?” With “what” one looks for the concept in
              order to realize it; with “who” there is no longer any question at all, but the
              answer present personally in the questioner himself: the question itself
-225 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              answers itself.
                They say of God, “Names name you not.” This is true of me: no concept
              expresses me, nothing that is said to be my essence exhausts me; they are
@@ -11186,7 +11183,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
                 [27] A “political animal,” a concept taken from Aristotle.
                 [28] “Unverrückbar” can also translate as “absolute,” a signiﬁcant thing in light of the critique
              Stirner is developing.
-226 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
                [29] Stirner makes a wordplay here on “Besessene” (possessed) and “versessen” (set).
                [30] Latin for a temple or other place consecrated to a deity.
                [31] ‣ Friedrich Christoph Schlosser, Geschichte der achtzehnten Jahrhunderts und des
@@ -11249,7 +11246,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
                [56] “Courage” is “Mut”: “humbly” is “demütig.”
                [57] In the passage that follows, Stirner uses a bit of wordplay to make his point: “Furcht” (fear),
              “Ehrfurcht” (reverence), “gefürchtet” (feared) and “geehrt” (honored).
-227 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
                [58] The German word “Pﬁﬀ” can have several meanings, two of which could have ﬁt here:
              catcalls—in other words mocking what scares one; and pizzazz—using one’s moxie or glamor to
              show up what scares one. I chose the former, but it was a purely willful choice.
@@ -11312,7 +11309,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
                 [89] In German, “Freigeist,” which would literally translate as “free spirit,” but is used to refer
              both to freethinkers and to libertines.
                 [90] “Geistlicher.”
-228 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
                [91] “Geistliche.”
                [92] “Ablaßkrames” in German. “Ablaß” translates as “indulgence.” “Kram” translates as “junk”
              or “odds and ends” and seems to have a rather derogatory connotation. The verb “kramen”
@@ -11375,7 +11372,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              point in this wordplay. Here “cause” is the most appropriate translation, but a few sentences later
              he uses it in the sense of a “thing”— speciﬁcally money, thus pointing out that the apparent rule
              by a cause actually works out as the rule of things over actual ﬂesh and blood individuals.
-229 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
                [122] The German word, “weltgeschichtlich,” could also be translated “world-historically” after
              the fashion of certain Marxist academics, but I see no need to imitate Marxist academics in using
              such pretentious terms. However, those readers familiar with that term may want to be aware of
@@ -11438,7 +11435,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              Stirner is referring here to the division of labor on the factory production line, where a worker
              really only does a fragment of what is necessary to make a product, and so has little awareness of
              all that is necessary for its production.
-230 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
                [147] ‣ Bruno Bauer (anonymously), review of H. F. W. Hinrichs, Politische Vorlesungen, 2
              volumes (Halle, 1843), in Allgemeine Literaturzeitung, No. 5 (April 1844), p. 24.
                 [148] ‣ Ibid.
@@ -11500,7 +11497,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
                 [175] Vorstellung.
                 [176] “The voice of the people is the voice of God.”
                 [177] Oﬀenbarung is more often translated as “revelation.” I wasn’t sure whether to keep this
-231 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              and assume that Stirner intended it as subtle sarcasm against religion, or to use the less religious
              translation. I chose the latter, but with reservations.
                [178] Used here as another name for Satan.
@@ -11562,7 +11559,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              chosen to translate it this way to better clarify Stirner’s point that the “right” to be considered of
              “age” lies not in something granted to one, but in one’s capacity and willingness to act
              “maturely” or “responsibly.” In other words, one grants oneself majority by how one acts.
-232 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
                [208] “The Valley of Murder.”
                [209] ‣ August Becker, Die Volksphilosophie unserer Tage (Neumünster near Zurich, 1843), pp.
              22ﬀ.
@@ -11625,7 +11622,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
                [236] “Ordensbänder” literally refers to ribboned medals, like those one might get in the
              military, but he is making a play on the word “Band” or tie, and a literal translation loses that
              connection. So I decided to make a reference to the “school ties” of the British upper class,
-233 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              neckties that represent the school they went to as a child which are considered as a sign of a
              supposed obligation they owe each other for having been schoolmates.
                 [237] Author of Greek tragedies.
@@ -11688,7 +11685,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              the one translated as “Germanhood” is “Deutschtum.” From this, what Stirner means by
              “property,” which is “Eigentum,” should become clearer. My property is my “ownhood”... that is,
              it is what makes me my own.
-234 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
                [270] “Die Zusammentretenden” —this noun comes from the verb “zusammentreten” which can
              indeed mean “to assemble,” but can also mean “to trample underfoot,” so that here this noun may
              have a double meaning that those brought together “mechanically” are being trampled underfoot.
@@ -11751,7 +11748,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
                [293] ‣ Pierre-Joseph Proudhon, What Is Property? (Paris, 1841), p. 83.
                [294] Literally: “Power over all things pertains to kings, ownership belongs to individuals; the
              king possesses everything in terms of command, individuals in terms of lordship.”
-235 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
                [295] Power.
                [296] Command.
                [297] ‣ Ibid.‚ p. 90.
@@ -11813,7 +11810,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
                [325] To get the feel of this comparison, think of someone who makes, say, $100 a day as
              compared to someone who makes $20 a day.
                [326] Literally, “Brot studium,” that is, “bread studies.”
-236 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
                [327] “auf den Schein”... “Schein” can translate both as “appearance” or “appearances” and as
              “banknote” or “bill” as in a dollar bill. I assume that Stirner is playing with words here and
              intends both meaning: one works to keep up appearances and to make money.
@@ -11876,7 +11873,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              “individual.” As an adjective, it can also be translated as “some” or “a few.” I decided to translate
              it as “a few individuals” in order to emphasize the distinction Stirner is making between loving
              only a few and loving every human being while also keeping the relationship of the adjective to
-237 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              the noun clear.
                 [359] Les mystères de Paris is a novel by Eugene Sue published in 1842—43 about the Parisian
              underworld. Stirner’s review of this book can be found in an English translation by Lawrence
@@ -11939,7 +11936,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              involved.
                 [388] A reference to the Russian Czar, worded this way to get past the censors.
                 [389] Literally, “auch hat es nichts zu sagen,” “it also has nothing to say.” So Stirner may have
-238 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              meant that society has no say in whether an individual chooses to deprive himself of speciﬁc
              freedoms.
                 [390] In this sentence and the next one, Stirner is playing on the word “Mut,” which is translated
@@ -12002,7 +11999,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
                 [421] A reference to Jesus’ words to “doubting Thomas,” the disciple who, according to the
              gospel tale, refused to believe in the resurrection until he could see and feel Jesus’ wounds. See
              John 20:29.
-239 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
                [422] Probably a reference to Weitling’s The Poor Sinner’s Gospel, ﬁrst published in 1843, which
              portrays Jesus as a precursor to communism.
                 [423] See Matthew 7:7.
@@ -12065,7 +12062,7 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              An Introduction to ‘Stirner’s Critics’ and ‘The Philosophical Reactionaries,’” which introduces my
              translation of the two writings by Stirner (Max Stirner, Stirner’s Critics, translated by Wolﬁ
              Landstreicher, LBC Books and CAL Press, 2012). For those interested in exploring the intellectual
-240 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              background of Stirner’s ideas, McQuinn’s detailed introduction is a good place to start.
 ## {2} Editor of the “Roots of the Right” edition of the book.
                {3} Editor of the “Cambridge Texts in the History of Political Thought” edition.
@@ -12122,7 +12119,6 @@ The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-
              section number, etc.) have been removed; 2. pagination and line breaks are
              diﬀerent, of course; 3. some footnotes in the original had (apparently)
              spurious letters — e.g., “95a” — that have been removed to simplify linking
-241 of 242 10/1/25, 7:45 PM The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
+
              here. The Unique and Its Property was originally published by Little Black
              Cart
-242 of 242 10/1/25, 7:45 PM

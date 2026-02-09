@@ -8,7 +8,6 @@ tags:
   - theory
 ---
 
-The Haymarket Martyrs | The Anarchist Library https://theanarchistlibrary.org/library/lucy-e-parsons-th...
            Title: The Haymarket Martyrs
            Author: Lucy E. Parsons (https://theanarchistlibrary.org/category/author/lucy-e-parsons)
            Topics: class-struggle (https://theanarchistlibrary.org/category/topic/class-struggle), Haymarket (https://
@@ -31,7 +30,7 @@ The Haymarket Martyrs | The Anarchist Library https://theanarchistlibrary.org/li
                                  The Haymarket Martyrs
          Does this rising generation know that those who inaugurated the eight-hour day were put to death at the
          command of capital?
-1 of 2 7/31/25, 7:03 PM  The Haymarket Martyrs | The Anarchist Library https://theanarchistlibrary.org/library/lucy-e-parsons-th...
+
          Until forty years ago men, women and children toiled ten and often twelve hours a day in factories for a mere
          pittance, and children from six to nine years of age had to work to help keep up the family.
          The Knights of Labor, a powerful organization claiming 500,000 members, had never agitated for a reduction of
@@ -68,7 +67,6 @@ The Haymarket Martyrs | The Anarchist Library https://theanarchistlibrary.org/li
           theanarchistlibrary.org/category/topic) | Latest entries (https://theanarchistlibrary.org/latest) | Mobile (https://
                theanarchistlibrary.org/help/opds) | Add a new text (https://theanarchistlibrary.org/action/text/new)
              theanarchistlibrary.org (https://theanarchistlibrary.org) Ⓐ anarchistnews.org (https://anarchistnews.org)
-2 of 2 7/31/25, 7:03 PM
 
 ## Document Summary
 

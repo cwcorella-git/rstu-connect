@@ -76,7 +76,6 @@ presented
 an absolute banger with WALL-E. Remember when the robots fell in love?
 2:50
 Real tears man.
-##
 2:51 Anyway, I'm sure y'all can come up with more examples in the comments, but WALL-E 2:55 works to illustrate my point. 2:57 And don't worry, I'm not gonna become another media critique You Tuber. 3:01 WALL-E is a critique of consumerism, not capitalism. 3:04 Of course, consumerism is a manifestation of capitalism, but you'll notice that even 3:09 as WALL-E pans over cities of garbage and barren landscapes, even as it negatively portrays 3:14 the worst excesses of corporate malpractice and automated dystopia, it fails to truly 3:19 point to capitalism's foundational flaws as the source of Earth's demise. 3:23 In fact, even post-apocalypse, the corporate monopoly of Buy-n-Large endures. 3:28 The megacorporation destroyed the planet and took its customers with it to space, where 3:32 they regressed into beings of pure consumption. 3:35 The fatness=laziness metaphor is, problematically, very prominent. 3:39 Sure, the humans eventually stand up to the corporate AI overlord, but the film seems 3:44 to place the blame of consumerism on the people, while the corporation was simply doing what 3:49 it had to do. 3:50 The film basically says that it's these blobs' fault for not looking up from their 3:53 gadgets and gulpers to go green and #savetheturtles. 3:56 It doesn't really say they should've overthrown capitalism. 4:01 Just that they should've changed their lifestyles. 4:03 Cuz when the global leader/BnL CEO spins the existential crisis as a luxury cruise, it 4:09 seems they barely bat an eye and go right back to consuming. 4:12 I'm not saying this is the only valid interpretation of the film, but it's one to consider. 4:17 In fact, with the release of the movie, the then billion dollar Disney was pumping out 4:21
 
 Over the years since then, Disney has expanded to consume more and more retailers, plastic merchandise made with sweatshop labour.
@@ -142,8 +141,6 @@ relevance hasn't
 waned since 2016, or takedown another garbage PragerU video...but with such massive
 platforms,
 5:58
-##
-
 they could do a whole lot more than *just* feed into vague anti-capitalism,
 critiquing
 6:02
@@ -202,7 +199,6 @@ Demanding abolition will never manifest it.
 7:25
 Abolition must be a part of a militant political programme, else it be co opted
 again and again.
-##
 ## 7:30
 
 The State will never abolish itself.
@@ -264,8 +260,6 @@ than dismantling it completely.
 9:03
 We're now in the midst of a global crisis.
 9:08
-##
-
 As the vaccine apartheid builds and the climate crisis intensifies, we can't afford
 to fall
 9:13
@@ -324,7 +318,6 @@ people
 through permablitzes, I want alyuh to be working towards a vision.
 10:42
 Our visions won't all be the same, but as long as they're compatible, I can picture
-##
 ## 10:47
 
 a world in which many worlds exist. 10:50 We've got some difficult days ahead, but I'm still heading to the promised land. 10:55 Take breaks when you need to fam. 10:56 I hope you're with me till the end. 10:58 Peace. Outro 10:59 Outro Thank you for watching. 11:01 Thanks once again to the Famalay, Ongrad, Coby Tamayo, John Vechey, Ori Shimony, Len 11:08 P, Some Guy, Seth, J. Dorrance, Eepa, y@, Beyond Binary Podcast, Mamish Disgusting, Eshi The 11:15 Mad, Hoie, Geoff Massey, kimonoko, Alki, Forrest Alvarez, Poodle Hawk, Håkon Kleppe Normann, 11:23 Spencer Harmon, Matt, and Suavacado Jones. 11:26 You can join these beautiful humans and support me too on Patreon.com/saintdrew. 11:30 Please like, comment, subscribe, and share with your fellow peoples. 11:34 Feed the algorithm. 11:35 Check out my previous videos for other fascinating topics.

@@ -27,8 +27,6 @@ By 'Direct Democracy' I mean decision-making in assemblies through face-to-face 
 - 2. The split in the movement over neighborhood versus workplace organizing must be overcome. Direct democracy activists need to launch a campaign to convince anarcho-syndicalists that under anarchy all cooperative projects will come under community control (for allocation of resources, or for decisions to start up, or shut down, for example). Libertarian municipalists need to be convinced that struggles at the workplace are an integral part of defeating capitalists. If this campaign of persuasion fails, a new wing of the movement needs to be built which integrates the two tactics (and adds struggles for self-governing, expanded households).
 - 3. So-called 'individualist anarchists' need to be convinced that individual freedom is a social achievement, and that anarchy is not merely "an aggregate of autonomous individuals" but new
 
-## 1 of 3 9/17/25, 11:37 AM
-
 social forms through which genuine self-government can be achieved. Failing in this, which seems likely, a movement for direct democracy (i.e., anarchy, communism) must simply bypass, and sideline, as far as possible, the individualists, who represent the greatest threat, within the movement, to the revolutionary struggle for freedom.
 
 - 4. A campaign needs to be launched to try to persuade nongovernmental organizations, almost all of which are based on hierarchical, managerial structures, to convert to direct democracy. Similarly, all the organizations which we ourselves create, whether publishing projects, bookstores, media projects, or single-purpose initiatives, need to operate on the basis of direct democracy, not through the typical practice of electing officers. Many, perhaps most, of the existing worker co-ops have reverted to managerial structures, although many of them started out as directly democratic projects. This needs to be reversed. A campaign might even be launched to convince the twenty thousand small towns left in the United States with a population of 10,000 or less to ditch representative government (mayors, city councils), in favor of direct democracy. Nothing is stopping them, and it would be easy to do, if they only wanted to.
@@ -46,9 +44,3 @@ social forms through which genuine self-government can be achieved. Failing in t
 - 10. The concept of Federation (or confederation) needs to be scuttled. It compromises the movement for direct democracy, and prevents us from inventing procedures for building territorial associations of directly democratic assemblies, through either negotiated agreements or territory wide vote tallying.
 
 Prepared for a Forum Discussion at the 'We Are Resisting' Conference Lawrence, Kansas, June 30- July 4, 2004
-
-## 2 of 3 9/17/25, 11:37 AM
-
-Notes on Building a Movement for Direct Democracy https://theanarchistlibrary.org/library/james-herod-notes-on-building-a...
-
-## 3 of 3 9/17/25, 11:37 AM

@@ -34,7 +34,6 @@ Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fe
 ## have examined violence by workers or trade unions in the
                 context of industrial disputes.[1][7][8][9] The US government
                 has examined violence during industrial disputes.[10]
-1 of 45 9/7/25, 11:58 AM Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## According to a 1969 study, no major labor organization in
 ## American history has ever openly advocated violence as a
@@ -65,7 +64,7 @@ Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fe
                 observe, if labor disputes are accompanied by violence, it may
                 be because labor has no legal redress.[11] In 1894, some
                 workers declared:
-2 of 45 9/7/25, 11:58 AM Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 ..."the right of employers to manage their own business to suit
                 themselves," is fast coming to mean in effect nothing less than
                 a right to manage the country to suit themselves.[12]
@@ -87,7 +86,7 @@ Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fe
 ## Great Railroad Strike of 1877
 
                 [edit]
-3 of 45 9/7/25, 11:58 AM Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 Sixth Regiment of the Maryland Militia fighting its way through
 ## Baltimore, Maryland, 20 July 1877
 
@@ -116,7 +115,6 @@ Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fe
 ## wounding twenty-nine others.
 
                 Burning of Pennsylvania Railroad and Union Depot, Pittsburgh,
-4 of 45 9/7/25, 11:58 AM Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## Pennsylvania, 21–22 July 1877
 
@@ -152,7 +150,7 @@ Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fe
 ## defendants had thrown the bomb.
 
                 The Haymarket affair is generally considered significant for the
-5 of 45 9/7/25, 11:58 AM Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 origin of international May Day observances for workers.[17][18]
                 The causes of the Haymarket Affair are still controversial, but
                 can be traced in part to an incident the previous day, in which
@@ -184,7 +182,6 @@ Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fe
 ## and West, in small communities and metropolitan cities,
                 testifying to the common attitudes of Americans in every part
                 of the United States."[1] Workers with different ethnic origins
-6 of 45 9/7/25, 11:58 AM Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## who worked under very different conditions in widely
 ## separated parts of the United States nonetheless responded
@@ -216,7 +213,7 @@ Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fe
                 the other for starting the shooting. The union miners, exposed
                 on the logged-off hillside, had not positioned themselves for a
                 gunfight, while mine guards were able to shelter in buildings.
-7 of 45 9/7/25, 11:58 AM Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 The union men circled above the mill, and got into a position
 ## where they could send a box of black powder down the flume
                 into one of the mine buildings. The building exploded, killing
@@ -248,7 +245,7 @@ Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fe
 ## from the Pinkerton Detective Agency to break the union's
                 picket lines, resulting in gunfire and flaming barges on the Ohio
                 River. There was a consensus of all parties that the presence of
-8 of 45 9/7/25, 11:58 AM Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 the Pinkertons inflamed the attitudes of the strikers.[1] The
                 strikers defeated the Pinkertons, but could not keep the mills
                 from operating after the National Guard was deployed.[1]
@@ -278,7 +275,6 @@ Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fe
                 across the river. A riot broke out, and a number of the workers
 ## were arrested. It turned out that two of the strikers were
 
-9 of 45 9/7/25, 11:58 AM Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 Pinkerton detectives, and convictions were secured.[27]
 
 ## Battle of Virden, 1898
@@ -310,7 +306,6 @@ Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fe
 ## years" than to recognize the union. He then fired seventeen
 ## workers that he believed to be union members and demanded
 
-10 of 45 9/7/25, 11:58 AM Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 that all other union men collect their back pay and quit.[28]
 
 ## On April 29, 250 angry union members belonging to the WFM
@@ -342,7 +337,6 @@ Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fe
 ## Independence Depot which killed thirteen. The Cripple Creek
                 Mining District was under occupation by the Colorado National
                 Guard, the Citizens' Alliance was active in the district, and
-11 of 45 9/7/25, 11:58 AM Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## historians continue to debate who was responsible for each
                 incident of violence.[35][36][37] One likely perpetrator was
@@ -377,8 +371,6 @@ Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fe
 
 ## The bombings were carried out in retaliation against
 
-12 of 45 9/7/25, 11:58 AM Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 ## workplaces that used open shop policies (allowing non-union
 ## and union workers side by side, or prohibiting unions
                 altogether), rather than closed shops (union only). The bombs
@@ -409,7 +401,6 @@ Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fe
                 from the building. When they opened it, they heard ticking, and
 ## ran. They were 60 feet away when the dynamite went off,
 
-13 of 45 9/7/25, 11:58 AM Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 creating a crater and rattling windows, but without injuring
 ## anyone. Another dynamite bomb was discovered and
                 disarmed at the Los Angeles home of the president of the antiunion Merchants and Manufacturers Association.[44]
@@ -439,7 +430,6 @@ Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fe
                 International Officers stretched the limits of zeal in a righteous
                 cause. Their strategy and tactics suffered - not the cause or
                 validity of unionism.[46]
-14 of 45 9/7/25, 11:58 AM Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## East St Louis Illinois Riot, 1917
 
@@ -473,7 +463,7 @@ Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fe
 ## Two years of conflict between miners and mine owners,
 ## characterized by utilization of the Baldwin–Felts Detective
                 Agency for infiltrating, sabotaging and attacking the United
-15 of 45 9/7/25, 11:58 AM Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 Mine Workers union, culminated in the Battle of Blair Mountain
                 in 1921.[48] The largest armed insurrection since the American
                 Civil War was touched off by the murders of Sid Hatfield and Ed
@@ -504,7 +494,6 @@ Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fe
 
 ## Theater bombings, 1928
 
-16 of 45 9/7/25, 11:58 AM Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 [edit]
 
 ## Six Seattle movie theaters were bombed over the course of a
@@ -537,7 +526,6 @@ Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fe
                 captains made threats to kill the replacement workers. There
 ## was evidence that the UFW could discipline picketers who
                 violated strike rules by pulling them off the picket line and
-17 of 45 9/7/25, 11:58 AM Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## having them work elsewhere yet the evidence tended to show
 ## the UFW rarely disciplined picketers. There was testimony
@@ -569,8 +557,6 @@ Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fe
 ## death of Hayes West. Five members of the United Mine
 ## Workers Union, including Donnie Thornsbury, president of
 ## UMW Local 2496, were indicted by a federal grand jury,
-
-18 of 45 9/7/25, 11:58 AM Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## arrested, and charged with conspiracy to damage and disable
                 motor vehicles used in interstate commerce.[60] After a trial in
@@ -604,7 +590,6 @@ Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fe
 
 ## 1989 Pittston coal strike
 
-19 of 45 9/7/25, 11:58 AM Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 [edit]
 
 ## The 1989 strike by the United Mine Workers of America
@@ -636,8 +621,6 @@ Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fe
 ## the picket line. York, an employee of an environmental
 ## contractor, was at the mine to perform government-mandated
 
-20 of 45 9/7/25, 11:58 AM Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 ## maintenance of sedimentation ponds, work unrelated to the
                 labor dispute. In the same incident, a truck driven by a mine
                 guard was struck by rocks thrown by strikers on the picket line,
@@ -668,7 +651,7 @@ Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fe
 ## 1997, Teamsters Union strike against UPS
 
                 [edit]
-21 of 45 9/7/25, 11:58 AM Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 In Miami, during a 1997 Teamsters Union strike against UPS, a
 ## group of men pulled UPS truck driver Rod Carter out of his
                 truck, beat him, and stabbed him six times with an ice pick.
@@ -700,7 +683,6 @@ Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fe
 ## manager, and a former president. Andrew Shomers confessed
 ## to the fire-bombing, and also to the beatings at the
 
-22 of 45 9/7/25, 11:58 AM Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 supermarket site. Another union member, confessed to driving
                 the getaway car in the fire bombing.[73] Anthony Cerrone, a
 ## member of local 91, confessed to involvement in the
@@ -731,7 +713,6 @@ Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fe
 ## and Fox News contributor Steven Crowder, resulting in a
                 chipped tooth and a minor cut on the forehead. Another worker
                 threatened to kill Crowder with a gun.[78][79][80][81][82][83]
-23 of 45 9/7/25, 11:58 AM Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## Ironworkers Local 401, Philadelphia, 2015
 
@@ -764,7 +745,6 @@ Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fe
 
 ## Carpenters Union, Philadelphia, 2015
 
-24 of 45 9/7/25, 11:58 AM Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 [edit]
 
 ## In 2015, the Pennsylvania Convention Center Authority sued
@@ -798,7 +778,6 @@ Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fe
 
 ## United Mine Workers versus Progressive Mine Workers,
 
-25 of 45 9/7/25, 11:58 AM Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 [edit]
                 In 1932, some southern Illinois coal miners dissatisfied with the
 ## concessions made by the United Mine Workers Union, and
@@ -829,7 +808,6 @@ Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fe
 ## The Progressive Mine Workers union survived, and PMWA-
 ## UMWA violence flared up occasionally over the years, as one
 
-26 of 45 9/7/25, 11:58 AM Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 union would strike while the other continued to work, and they
 ## both claimed to represent miners at various coal mines. In
                 1946, two miners died in clashes between the rival unions at a
@@ -859,7 +837,6 @@ Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fe
 ## prevent threatened violence by strikers in the Phelps Dodge
                 copper strike of 1982, a union official charged that he was "in
                 the pocket" of Phelps Dodge.[97]
-27 of 45 9/7/25, 11:58 AM Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## Legal exceptions for labor unions
 
@@ -892,7 +869,7 @@ Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fe
                 Some union sympathizers believe that labor union violence is
                 justified, especially when directed at strikebreakers. Some hold
                 that the law allowing and protecting strikebreakers is unfair, so
-28 of 45 9/7/25, 11:58 AM Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 that violence and intimidation are the only ways labor unionists
                 can stage an effective strike.[100][101] Others believe that,
                 although violence is wrong, it should be tolerated as an excess
@@ -926,7 +903,6 @@ Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fe
 ## message to all Houston police stations, urging them to stop
 ## UPS drivers, and "go into zero tolerance mode, to get the
 
-29 of 45 9/7/25, 11:58 AM Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 nonstriking drivers off the street.[106]
                 On 12 October 1898, at Virden, Illinois, a crowd of strikers
 ## armed with rifles tried to prevent a railroad car of
@@ -958,8 +934,6 @@ Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fe
 ## A detective will join the ranks of the strikers and at once
 ## become an ardent champion of their cause. He is next found
 
-30 of 45 9/7/25, 11:58 AM Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 ## committing an aggravated assault upon some man or woman
 ## who has remained at work, thereby bringing down upon the
 ## heads of the officers and members of the assembly or union
@@ -989,7 +963,6 @@ Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fe
 ## During the Colorado Labor Wars, the Colorado National Guard
                 had been called into the Cripple Creek Mining District to put
                 down a strike, and Colorado National Guard leadership became
-31 of 45 9/7/25, 11:58 AM Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## concerned that the Mine Owners Association had not lived up
 ## to their agreement to cover the payroll of the soldiers. In
@@ -1022,8 +995,6 @@ Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fe
              - List of strikes, in USA and the world
 
              - Opposition to trade unions
-
-32 of 45 9/7/25, 11:58 AM Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
              - Union busting
 
@@ -1062,7 +1033,6 @@ Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fe
 ## Assaying the Social Determinants of Extreme Labor-
 ## Management Violence in US Labor History—1877–1947".
 
-33 of 45 9/7/25, 11:58 AM Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 Social Science History. 38 (3–4): 541–575. doi:10.1017/
 ## ssh.2015.24. S2CID 142526387.
 
@@ -1097,7 +1067,6 @@ Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fe
            13. ^ Jump up to: a b Scharf, J. Thomas (1967) [1879]. "History of
 ## Maryland From the Earliest Period to the Present Day". 3.
                 Hatboro, PA: Tradition Press: 733–42.
-34 of 45 9/7/25, 11:58 AM Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
            14. ^ Zinn, Howard (1995). A People's History of the United States
                 1492-present. New York: Harper Collins. p. 248.
@@ -1134,7 +1103,7 @@ Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fe
 
            23. ^ Jump up to: a b Emma Goldman; Candace Falk (2008). A
                 Documentary History of the American Years, Volume 1: Made
-35 of 45 9/7/25, 11:58 AM Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 for America, 1890-1901. University of Illinois Press. p. 23.
 
            24. ^ Mark Wyman (1979). Hard Rock Epic: Western Miners and
@@ -1175,7 +1144,6 @@ Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fe
 
            37. ^ George G. Suggs, Jr. (1972). Colorado's War on Militant
 
-36 of 45 9/7/25, 11:58 AM Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 Unionism: James H. Peabody and the Western Federation of
 ## Miners. pp. 114, 189.
 
@@ -1211,7 +1179,6 @@ Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fe
            46. ^ "A History of the Ironworkers Union, Part 2". International
                 Association of Bridge, Structural, Ornamental and Reinforcing
                 Ironworkers, Local 373. Archived from the original on March 4,
-37 of 45 9/7/25, 11:58 AM Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## 2016. Retrieved May 19, 2016.
 
@@ -1251,7 +1218,6 @@ Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fe
 
            58. ^ Ronald B. Taylor (May 14, 1986). "UFW Employed Violence
 
-38 of 45 9/7/25, 11:58 AM Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 During Strike, Judge Rules". Los Angeles Times. Archived from
 ## the original on December 18, 2012.
 
@@ -1287,7 +1253,6 @@ Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fe
            67. ^ "65 F.3d 1137: United States of America, Plaintiff-appellee, v.
                 Jerry Dale Lowe, Defendant-appellant :: US Court of Appeals
                 Cases :: Justia". Law.justia.com. Retrieved 2011-03-27.
-39 of 45 9/7/25, 11:58 AM Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
            68. ^ Martha Bryson Hodel (June 23, 1994). "Jury deliberates
 ## miner's fate". Daily News. Bowling Green (Ky.).
@@ -1327,8 +1292,6 @@ Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fe
 
            79. ^ "Lansing business owner alleges racial abuse, loses
 
-40 of 45 9/7/25, 11:58 AM Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 ## equipment in Right to Work protests at state Capitol".
 ## MLive.com. 12 December 2012.
 
@@ -1366,7 +1329,6 @@ Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fe
 
            89. ^ "Union leader convicted in Philadelphia racketeering case".
 
-41 of 45 9/7/25, 11:58 AM Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 CBS News. January 20, 2015. Archived from the original on July
 ## 28, 2015.
 
@@ -1402,8 +1364,6 @@ Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fe
 
            98. ^ "Sabotage, stalking & stealth exemptions: special state laws
 ## for labor unions" (PDF). US Chamber of Commerce. 2012.
-
-42 of 45 9/7/25, 11:58 AM Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
             99. ^ "Hobbs Act". US Department of Justice. 19 February 2015.
 ## Retrieved 12 May 2016.
@@ -1442,7 +1402,6 @@ Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fe
 ## Labor Question". Pennsylvania History 11. No. July 1944.
                 p. 175., citing Journal of United Labor, July 12, 1888. Hogg
                 block-quotation contains a typo, interpretation is assumed as a
-43 of 45 9/7/25, 11:58 AM Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## single quote rendered as a comma.
 
@@ -1481,8 +1440,6 @@ Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fe
 
            120. ^ Benjamin McKie Rastall (1905). The Labor History of the
 
-44 of 45 9/7/25, 11:58 AM Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 ## Cripple Creek District. p. 105.
 
            121. ^ Peter Carlson (1983). Roughneck, The Life and Times of Big
@@ -1491,5 +1448,3 @@ Union violence in the United States - Wikipedia about:reader?url=https%3A%2F%2Fe
              - BBC report on arrests in the case of Chea Vichea
 
              - The Independent report on the murder of Keith Frogson
-
-45 of 45 9/7/25, 11:58 AM

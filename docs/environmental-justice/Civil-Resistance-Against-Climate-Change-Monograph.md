@@ -153,72 +153,39 @@ by Environmental Groups in the Study Population | 104 |
 | Civil Resistance Tactics Database: Identication
 and Categorization of Civil Resistance Tactics | 106 |
 
-# Tables and Figures
-
-| TABLE 1. Categories and Examples of Civil Resistance | 8 |
+1. Categories and Examples of Civil Resistance | 8 |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|----|
 | TABLE 2. Terms, Denitions, and Data Used in This Monograph
 
  | 10 |
-| TABLE 3. Event Categories, Descriptions, and Examples | 25 |
-| TABLE 4. Organizational Status of Environmental Groups and Sub-Groups | 28 |
-| TABLE 5. Frequency of Words Related to Climate, Justice, Conservation,
-and Sustainability Occurring on Environmental Group Websites | 29 |
-| TABLE 6. Climate Change Topics and Most Frequent Words
-in Environmental Group Websites | 30 |
-| TABLE 7. Unique Civil Resistance Tactics, Ordered by Category, 2010–2019 | 35 |
-| TABLE 8. Number of Civil Resistance Tactics Promoted by Umbrella Groups | 38 |
-| TABLE 9. Outcomes of Climate Change Campaigns, 2017–2020 | 42 |
-| TABLE 10. Examples of Campaign Goals, Targets, and Outcomes | 42 |
-| TABLE 11. Groups Involved in the Stop Adani Campaign | 50 |
-| TABLE 12. Events Promoted by Groups Active in the Stop Adani Campaign | 51 |
-| TABLE 13. Stop Adani Events Aligned with Categories of Civil Resistance | 53 |
-| TABLE 14. Most Common Targets Identied in Facebook Event Text | 55 |
-| TABLE 15. Number of Secondary Targets by Sector | 57 |
-| TABLE 16. Selection of Wins Against Government Secondary Targets | 58 |
-| TABLE 17. The Divestment Campaign: Groups, Sub-Groups, Their Status,
-Civil Resistance Tactics Used, and Number of Events Associated with Each | 61 |
-| TABLE 18. Range of Events Promoted in Divestment Campaign
-(Including Cohosted Events) | 62 |
-| TABLE 19. Types of Civil Resistance Used in the Divestment Campaign | 63 |
-| TABLE 20. Australian Divestment Targets
-and Announcements by Organization Type, 2015–2019 | 64 |
-| TABLE 21. Government Responses to Disruptive Civil Resistance | 74 |
-
-| TABLE 22. Mapping Data onto the Components
+5. Frequency of Words Related to Climate, Justice, Conservation,
+6. Climate Change Topics and Most Frequent Words
+7. Unique Civil Resistance Tactics, Ordered by Category, 2010–2019 | 35 |
+9. Outcomes of Climate Change Campaigns, 2017–2020 | 42 |
+11. Groups Involved in the Stop Adani Campaign | 50 |
+13. Stop Adani Events Aligned with Categories of Civil Resistance | 53 |
+15. Number of Secondary Targets by Sector | 57 |
+17. The Divestment Campaign: Groups, Sub-Groups, Their Status,
+18. Range of Events Promoted in Divestment Campaign
+20. Australian Divestment Targets
+22. Mapping Data onto the Components
 of the Great Turning | 78 |
 |-------------------------------------------------------------------------------------------------|----|
 | TABLE 23. Mapping Data onto the Components
-of the Climate Insurgency | 80 |
-| TABLE 24. Mapping Data onto the Components
-of the Political Process Model | 82 |
-| FIGURE 1. Three Components of the Great Turning | 15 |
-| FIGURE 2. Great Turning Components
-and Data to Be Mapped onto Each Component | 16 |
-| FIGURE 3. Climate Insurgency Components
-and Data to Be Mapped onto Each Component | 18 |
-| FIGURE 4. Political Process Model Components
-and Data to Be Mapped onto Each Component | 20 |
-| FIGURE 5. Information Presented in This Chapter | 22 |
-| FIGURE 6. Emergence of Environmental Activism Groups in Australia | 27 |
-| FIGURE 7. Words Most Commonly Associated
-with Climate Topics in Environmental Group Websites | 31 |
-| FIGURE 8. Comparison of Conventional
-and Directed Network Campaign Structures | 32 |
-| FIGURE 9. All Unique Events by Group Category, 2010–2019 | 32 |
-| FIGURE 10. Types of Event Promoted by Environmental Groups | 33 |
-| FIGURE 11. Most Common Civil Resistance Tactics,
-All Environmental Groups, 2010–2019 | 34 |
-| FIGURE 12. Climate Angels at Extinction Rebellion Declaration Day | 39 |
-| FIGURE 13. Location of the Galilee Basin, Queensland | 47 |
-| FIGURE 14. Stop Adani Logos at the School Strike for Climate Event | 52 |
-| FIGURE 15. Human Sign Action | 54 |
-| FIGURE 16. Change in Stop Adani Targets over Time | 56 |
-
-| FIGURE 17. Divestment Campaign Events | |
+24. Mapping Data onto the Components
+2. Great Turning Components
+3. Climate Insurgency Components
+4. Political Process Model Components
+5. Information Presented in This Chapter | 22 |
+7. Words Most Commonly Associated
+8. Comparison of Conventional
+9. All Unique Events by Group Category, 2010–2019 | 32 |
+11. Most Common Civil Resistance Tactics,
+12. Climate Angels at Extinction Rebellion Declaration Day | 39 |
+14. Stop Adani Logos at the School Strike for Climate Event | 52 |
+17. Divestment Campaign Events | |
 |-----------------------------------------|----|
-| and Divestment Announcements, 2014–2019 | 65 |
-| FIGURE 18. Climate Activism Arrests, | |
+18. Climate Activism Arrests, | |
 ## | Broken Down Across States, 2016–2019 | 73 |
 
 # **Executive Summary**

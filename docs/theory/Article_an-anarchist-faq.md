@@ -8,7 +8,6 @@ tags:
   - theory
 ---
 
-An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
             The Anarchist FAQ Editorial Collective
             An Anarchist FAQ
             Version 15.4 (17-Mar-2020)
@@ -49,7 +48,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
 ## A.2.19 What ethical views do anarchists hold?
 ## A.2.20 Why are most anarchists atheists?
              A.3 What types of anarchism are there?
-1 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                A.3.1 What are the diﬀerences between individualist and social anarchists?
 ## A.3.2 Are there diﬀerent types of social anarchism?
 ## A.3.3 What kinds of green anarchism are there?
@@ -102,7 +101,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              B.5 Is capitalism empowering and based on human action?
              B.6 But won’t decisions made by individuals with their own money be
              the best?
-2 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              B.7 What classes exist within modern society?
 ## B.7.1 But do classes actually exist?
 ## B.7.2 Does social mobility make up for class inequality?
@@ -155,7 +154,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
 ## people?
 ## C.10.4 Does growth automatically mean people are better oﬀ?
              C.11 Doesn’t neo-liberalism in Chile prove that the free market
-3 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              beneﬁts everyone?
 ## C.11.1 Who beneﬁted from Chile’s “economic miracle”?
 ## C.11.2 What about Chile’s economic growth and low inﬂation?
@@ -208,7 +207,6 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              E.1 What are the root causes of our ecological problems?
 ## E.1.1 Is industry the cause of environmental problems?
 
-4 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                E.1.2 What is the diﬀerence between environmentalism and ecology?
              E.2 What do eco-anarchists propose instead of capitalism?
              E.3 Can private property rights protect the environment?
@@ -261,7 +259,6 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
 ## G.1.2 What about their support of “private property”?
 ## G.1.3 What about their support for wage labour?
 
-5 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                G.1.4 Why is the social context important in evaluating Individualist Anarchism?
              G.2 Why do individualist anarchists reject social anarchism?
 ## G.2.1 Is communist-anarchism compulsory?
@@ -314,7 +311,6 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
 ## H.3.4 Don’t anarchists just quote Marxists selectively?
                H.3.5 Has Marxist appropriation of anarchist ideas changed it?
                H.3.6 Is Marxism the only revolutionary politics which have worked?
-6 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
 
 ## H.3.7 What is wrong with the Marxist theory of the state?
 ## H.3.8 What is wrong with the Leninist theory of the state?
@@ -368,7 +364,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
 ## I.3.5 What would confederations of syndicates do?
 ## I.3.6 What about competition between syndicates?
                I.3.7 What about people who do not want to join a syndicate?
-7 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                I.3.8 Do anarchists seek “small autonomous communities, devoted to small scale
 ## production”?
              I.4 How could an anarchist economy function?
@@ -422,8 +418,6 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
 ## I.8.8 But did the Spanish collectives innovate?
 ## I.8.9 Why, if it was so good, did it not survive?
 
-8 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
-
 ## I.8.10 Why did the CNT collaborate with the state?
                I.8.11 Was the decision to collaborate a product of anarchist theory?
                I.8.12 Was the decision to collaborate imposed on the CNT’s membership?
@@ -476,8 +470,6 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                J.5.7 Do most anarchists think mutual credit is suﬀicient to abolish capitalism?
                J.5.8 What would a modern system of mutual banking look like?
 ## J.5.9 How does mutual credit work?
-
-9 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
 
 ## J.5.10 Why do anarchists support co-operatives?
                J.5.11 If workers really want self-management then why are there so few co-
@@ -534,8 +526,6 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    4. What is the history of the CNT and the Communist International?
 ## 5. Why did the CNT not join the Workers’ Alliance?
 ## 6. Was the October 1934 revolt sabotaged by the CNT?
-
-10 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
 
 ## 7. Were the Friends of Durruti Marxists?
 ## 8. Did the Friends of Durruti “break with” anarchism?
@@ -600,8 +590,6 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    13. How does the Battle of Prague expose the SWP as hypocrites?
                    14. Is the Leninist tradition actually as democratic as the SWP like to claim?
 
-11 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
-
                    15. Why is the SWP’s support for centralisation anti-socialist?
                    16. Why is the SWP wrong about the A16 Washington D.C. demo?
                    17. Why does the SWP’s Washington example refute the SWP’s own argument and not
@@ -664,8 +652,6 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    4 Did the Kronstadt rebellion reﬂect “the exasperation of the peasantry”?
 ## 5 What lies did the Bolsheviks spread about Kronstadt?
 
-12 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
-
 ## 6 Was the Kronstadt revolt a White plot?
                    7 What was the real relationship of Kronstadt to the Whites?
 ## 8 Did the rebellion involve new sailors?
@@ -726,7 +712,6 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
 ## 5 — Anarchism and “anarcho”-capitalism
                    6 — Appendix: Deﬁning Anarchism
                Replies to Some Errors and Distortions in Bryan Caplan’s “Anarchist Theory FAQ”
-13 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
 
 ## version 4.1.1.
 ## 1 Is anarchism purely negative?
@@ -789,8 +774,6 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    11.4 Does “Natural Law” actually provides protection for individual liberty?
 ## 11.5 But Natural Law was discovered, not invented!
 
-14 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
-
 ## 11.6 Why is the notion of “discovery” contradictory?
 
                This is an anarchist FAQ. Its aim is to present what anarchism really stands
@@ -836,7 +819,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              ideological roots of the degeneration of the Revolution and to show that the
              post-hoc explanations ﬁrst postulated by Trotsky and regurgitated by
              Leninists to this day were inadequate.
-15 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                This was part of the aim of section H (on Marxism) and I think it was
              successful. Originally, it was going to be much bigger, too big as it turned out.
              So sections on the Russian Revolution which were originally planned to be in
@@ -886,7 +869,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              vanguardists think it did. For if it had, as in 1905, then it would have been as
              counter-productive — when not irrelevant — as modern-day Leninist sects
              are. This does not mean there was no party bureaucracy – there was, with an
-16 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              obvious negative impact before and after it seized power — but that it was
              usually ignored by the rank-and-ﬁle while being fought by Lenin: it was
              revolutionary during 1917 in spite of itself, its structures and its perspectives.
@@ -935,7 +918,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              his book would take it seriously. He was right — except that the two volumes
              of System of Economic Contradictions are not an easy book and few readers
              of Marx bother to compare him to what Proudhon actually wrote. All in all, the
-17 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              words of scientist (and, obviously, non-anarchist) Richard Dawkins against one
              of his critics are applicable here:
                    “we are in danger of assuming that nobody would dare to be so rude
@@ -984,7 +967,6 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
 
                    “The State and national representation cannot ﬁnd these forms. It is
                    the very life of the consumer and of the producer, his intellect, his
-18 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
 
 ## organising spirit which must ﬁnd them and improve them by
 ## applying them to the daily needs of life.
@@ -1035,8 +1017,6 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    perhaps, the most powerful desire of every thinking being. It is
 ## highly probably that this essential point would have been
 
-19 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
-
 ## recognised for some time if we had not always confused
 ## individuation — that is to say, the complete development of
                    individuality — with individualism. Now, individualism – it is high
@@ -1086,7 +1066,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    “the State, with its hierarchy of functionaries and the weight of its
                    historical traditions, could only delay the dawning of a new society
                    freed from monopolies and exploitation […] what means can the
-20 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                    State provide to abolish this monopoly that the working class could
                    not ﬁnd in its own strength and groups? […] what advantages could
                    the State provide for abolishing these same privileges? Could its
@@ -1135,7 +1115,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    go through the workshops, putting a stop to work everywhere. […]
                    After a few days, the strike was absolutely general […] It was a
                    whole people going on strike […]
-21 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                    “A new force was thus established by the strike: the force of the
                    workers asserting themselves for the ﬁrst time and setting in motion
                    this lever of any revolution — direct action. […] It is equally obvious,
@@ -1184,7 +1164,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              needs of the moment for all possible purposes”. These “three kinds of
              groupings” would ensure “the satisfaction of all social needs: consumption,
              production and exchange, communications, sanitary arrangements, education,
-22 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              mutual protection against aggression, mutual aid, territorial defence; the
              satisfaction, ﬁnally, of scientiﬁc, artistic, literacy, entertainment needs.”
              (Kropotkin, La Science moderne et l’anarchie, pp. 92–3)
@@ -1234,7 +1214,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              crisis caused by the elite on welfare provision for the many. Unlike in Greece
              and elsewhere in Europe, austerity was not imposed upon the government by
              the heavy hand of the EU but was embraced willingly – so killing oﬀ a
-23 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              recovery and stalling the economy for two years. When growth ﬁnally
              returned, austerity was proclaimed vindicated in spite of the critics being
              proven correct. Worse, it returned to trend growth without the higher growth
@@ -1282,7 +1262,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              Indeed, the UK anti-union laws show that our masters know this, know where
              our real power lies: not in Parliament but in our workplaces and streets. This
              — direct action and solidarity — is what creates the possibility for revolution.
-24 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                 Neo-liberalism has singularly failed in terms of the promises it made
              (“trickle down,” its anti-union arguments, productivity growth has trended
              down since the 1980s, the private proﬁteering associated with previously
@@ -1333,8 +1313,6 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
 ## Iain McKay
 ## An Anarchist FAQ
 
-25 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
-
 ## www.anarchistfaq.org
 
              An Anarchist FAQ after 20 years
@@ -1383,7 +1361,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              anarchists, were very selective in what they took from him. Proudhon’s
              critique of wage-labour and corresponding advocacy of self-management and
              socialisation were lost on Tucker.[5] Revolutionary anarchism is closer to
-26 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              Proudhon’s ideas than those who claimed his mantle — but this championing
              of Proudhon by Tucker shaped how many viewed the Frenchman and yet
              another false image (albeit less false than the one Marx invented) was
@@ -1433,7 +1411,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              developed anarchist movement in the 1890s and, ironically, the only impact
              Stirner had in his lifetime was on Marx and what became Marxism (needless
              to say, Marx distorted Stirner’s ideas just as much as he did Proudhon’s or
-27 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              Bakunin’s).
                Anarchism developed in the context of the French workers’ movement and
              so embodied the legacies of the French Revolution (and its “Anarchists”) as
@@ -1482,7 +1460,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              started, this was generally denied but now the recognition of reality is at least
              acknowledged and, often, deplored, by some of the elite (usually politicians
              seeking votes). The denials of reality could be surreal — I remember reading
-28 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              an edition of the Economist at the turn of the millennium which had
              editorialised that the 20th century had shown Marx’s predictions of a tiny
              minority of wealthy capitalists surrounded by a sea of impoverished
@@ -1531,7 +1509,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              liberty” to the proprietor. This alienation of liberty is the means by which
              exploitation happens. Whoever “labours becomes a proprietor” of his product
              but by that Proudhon did “not mean simply (as do our hypocritical
-29 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              economists)” — and Locke — the “proprietor of his allowance, his salary, his
              wages” but “proprietor of the value which he creates, and by which the
              master alone proﬁts.” Locke is also clearly the target for Proudhon’s comment
@@ -1580,7 +1558,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              and abolishing the state that protects them by means of federalism. An
              account of anarchism which ignores all this would be a travesty and produce
              false picture of what anarchism is and what counts as anarchist.[19] Sadly, this
-30 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              false picture still exists in academic and other works — based on little more
              than if someone calls themselves an anarchist then they are. Few (bar the
              propertarians who fail to recognise the oxymoronic nature of “anarcho”-
@@ -1628,7 +1606,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              campaigning for votes which have traditionally watered-down radical parties
              long before they achieve oﬀice (but not real power). Still, we are sure the
              true-believers will proclaim that next time they will not make the same
-31 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              mistakes as the Social Democrats, the Greens, and now Syriza. And state
              socialists call anarchists utopians…
                So while proclaiming itself “Scientiﬁc Socialism” (an expression, like so
@@ -1677,7 +1655,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              and nationalisation (rather than federalism and workers’ self-management) or
              slowly making capitalism slightly better (rather than replacing it with
              something better) then it is understandable that some anarchists would drop
-32 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              the term. Simply put the anarchist vision of socialism was at odds with what
              most people considered it to mean:
                    “socialism is... the extinction of poverty, the elimination of
@@ -1721,7 +1699,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    machinery ― so as to enable him to compel others to work for him.
                    “Either the individual will join a society of which all the members
                    own, all together, such a territory, such machinery, such roads, and
-33 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                    so on, and utilise them for the life of all ― and then he will be a
                    Communist; or he will apply to some sort of authority, placed above
                    society, and obtain from it the right of taking, for his own exclusive
@@ -1769,7 +1747,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    were once allies but who now are hostile, who seek now to divert
                    onto authoritarian paths those movements which were originally
                    spawned in revolt against the oppression of Capital and State.
-34 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                    “And ﬁnally […] they have to ﬁnd, within the practice of life itself
                    and indeed working through their own experiences, new ways in
                    which social formations can be organised, be they centred on work,
@@ -1817,7 +1795,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              produce an FAQ which reﬂected the majority of anarchist thought, both
              currently and historically from an international perspective, has been a
              success as shown by the number of mirrors, links and translations AFAQ has
-35 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              seen (being published by AK Press conﬁrms this).
                Since the oﬀicial release, AFAQ has changed. When we released it back in
              1996, we had already decided to make it a FAQ about anarchism rather than
@@ -1866,8 +1844,8 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              by “anarcho”-capitalists, explaining how there are two forms of anarchism
              and that the two have nothing or little in common (if that is the case, why call
              your ideology anarchism?). Anarchist organisations and activism increased
-             and the awareness that anarchism was anti-hierarchy, anti-state and anti36 of 3436 10/1/25, 7:46 PM
-An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+             and the awareness that anarchism was anti-hierarchy, anti-state and anti
+
              capitalist increased. As an added bonus, some genuine individualist anarchists
              appeared, refuting the claim that “anarcho”-capitalism was merely a form of
              “updated” individualist anarchism. All these developments were welcomed, as
@@ -1916,7 +1894,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                Given that even such an usually reliable expert as the late, great, Paul
              Avrich made mistakes, this position is by far the most sensible. Between what
              a suitably qualiﬁed “expert” writes and what actual anarchists say and do, I
-37 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              always go for the latter. Any serious scientist would do so, but sadly many do
              not — instead, we get ideology. A classic example is Eric Hobsbawm’s thesis
              on “Primitive Rebels” which he decided to illustrate, in part, with the
@@ -1965,7 +1943,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                 But as I said, I always consider what is said more important than who says
              it. The fact that AFAQ is so popular with anarchists is what counts and I hope
              that we continue to be. We are always looking for help and suggestions, so if
-38 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              you want to get involved or want something added or changed, please contact
              us — we consider AFAQ as a resource for anarchists and we want it to reﬂect
              what anarchists think and do.[31] However, if you do want something changed
@@ -2015,7 +1993,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                Hopefully, after summarising 19th and 20th century anarchism, the
              anarchists of the 21st century will use that to build and develop new ideas and
              movements and create both viable anarchist alternatives under statism and
-39 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              capitalism and, eventually, a free society. Whether we do so or not is,
              ultimately, up to us. Let us hope we can rise to the challenge! I do hope that
              anarchists can rise above the often silly arguments that we often inﬂict on
@@ -2061,7 +2039,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              thinking for oneself.” (A.A. Milne) This is not the case of course. We have
              included extensive quotations by many anarchist ﬁgures for three reasons.
              Firstly, to indicate that we are not making up our claims of what certain
-40 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              anarchists thought or argued for. Secondly, and most importantly, it allows us
              to link the past voices of anarchism with its present adherents. And lastly, the
              quotes are used for their ability to convey ideas succinctly rather than as an
@@ -2111,7 +2089,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              due to the need to include relevant arguments and facts which otherwise may
              not have been included.
                We are sure that many anarchists will not agree 100% with what we have
-41 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              written in the FAQ. That is to be expected in a movement based upon
              individual freedom and critical thought. However, we are sure that most
              anarchists will agree with most of what we present and respect those parts
@@ -2160,7 +2138,6 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                 and are trying to create a better world. An Anarchist FAQ was oﬀicially
                 released on July 19th, 1996 for that reason — to celebrate the Spanish
               Revolution of 1936 and the heroism of the Spanish anarchist movement. We
-42 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
 
 ## hope that our work here helps make the world a freer place.
 
@@ -2208,7 +2185,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              the ground covered in AFAQ was provoked by having to critique other
              theories and refute attacks on anarchism.
                Anarchism has changed over the years and will continue to evolve and
-43 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              change as circumstances do likewise and new struggles are fought and
              (hopefully) won. It is not some ﬁxed ideology, but rather a means of
              understanding an evolving world and to change it in libertarian directions. As
@@ -2258,7 +2235,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              themselves on most issues and that can take space. Some of the evidence we
              use is from books and articles the general reader may not have easy access so
              we have tried to present full quotes to show that our use is correct (the
-44 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              number of times I’ve tracked down references only to discover they did not
              say what was suggested is, sadly, quite numerous).
                Moreover, refuting distortions and inventions about anarchism can be
@@ -2308,7 +2285,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              wiser to simply exclude section F from the book but, in the end, I decided it
              should remain. Partly, for the reasons above and partly because it does serve
              another, more useful, purpose. Neo-liberalism is based, in many ways, on
-45 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              right-“libertarian” dogmas so critiquing those helps our struggle against
              “actually existing” capitalism and the current attacks by the ruling class.
                 I do not wish anarchism to go the same way that “libertarian” has gone in
@@ -2358,7 +2335,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              come across in our struggles (hopefully, the critiques we provide of
              capitalism, neo-liberalism and so forth will also be useful to other radicals).
              We have tried to indicate the quoted source is an anarchist or libertarian. If in
-46 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              doubt, please look at the bibliography on the webpage. This breaks references
              down into libertarian (anarchist and non-anarchist) thinkers (or sympathetic
              accounts of anarchism) and non-libertarians (which, needless to say, includes
@@ -2407,7 +2384,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
 
              A Summation
               “No question, the word anarchy freaks people. Yet anarchy — rule by no one
-47 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              — has always struck me as the same as democracy carried to its logical and
              reasonable conclusions. Of course those who rule — bosses and politicians,
              capital and the state — cannot imagine that people could rule themselves, for
@@ -2453,7 +2430,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              “orthodox” approach isn’t working, since the problems in question are getting
              worse. Unless some better approach is taken soon, we are clearly headed for
              disaster, either from catastrophic war, ecological Armageddon, or a descent
-48 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              into urban savagery — or all of the above.
                Anarchism oﬀers a uniﬁed and coherent way of making sense of these
              crises, by tracing them to a common source. This source is the principle of
@@ -2502,7 +2479,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              diﬀerence is very important. Basically, theory means you have ideas; an
              ideology means ideas have you. Anarchism is a body of ideas, but they are
              ﬂexible, in a constant state of evolution and ﬂux, and open to modiﬁcation in
-49 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              light of new data. As society changes and develops, so does anarchism. An
              ideology, in contrast, is a set of “ﬁxed” ideas which people believe
              dogmatically, usually ignoring reality or “changing” it so as to ﬁt with the
@@ -2549,7 +2526,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              basic ideas of anarchism and give our analysis of certain topics based on how
              we understand and apply these ideas. We are sure, however, that all
              anarchists will agree with the core ideas we present, even if they may
-50 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              disagree with our application of them here and there.
              A.1 What is anarchism?
                Anarchism is a political theory which aims to create anarchy, “the absence
@@ -2593,7 +2570,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    all, complete freedom within complete solidarity.” [Op. Cit., pp. 16]
                This FAQ is part of the process of changing the commonly-held ideas
              regarding anarchism and the meaning of anarchy. But that is not all. As well
-51 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              as combating the distortions produced by the “common-sense” idea of
              “anarchy”, we also have to combat the distortions that anarchism and
              anarchists have been subjected to over the years by our political and social
@@ -2637,7 +2614,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              anarchism is primarily a movement against hierarchy. Why? Because
              hierarchy is the organisational structure that embodies authority. Since the
              state is the “highest” form of hierarchy, anarchists are, by deﬁnition, antistate; but this is not a suﬀicient deﬁnition of anarchism. This means that real
-52 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              anarchists are opposed to all forms of hierarchical organisation, not only the
              state. In the words of Brian Morris:
                    “The term anarchy comes from the Greek, and essentially means ‘no
@@ -2683,7 +2660,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              and, therefore, “that his [or her] inclination and judgement are subordinated
              to the will of a master.” [Red Emma Speaks, p. 50] Forty years earlier
              Bakunin made the same point when he argued that under the current system
-53 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              “the worker sells his person and his liberty for a given time” to the capitalist
              in exchange for a wage. [Op. Cit., p. 187]
                Thus “anarchy” means more than just “no government,” it means opposition
@@ -2730,7 +2707,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              75]
                Anarchism, therefore, is a political theory that aims to create a society
              which is without political, economic or social hierarchies. Anarchists maintain
-54 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              that anarchy, the absence of rulers, is a viable form of social system and so
              work for the maximisation of individual liberty and social equality. They see
              the goals of liberty and equality as mutually self-supporting. Or, in Bakunin’s
@@ -2776,7 +2753,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              capital, and machinery has had its time; that it is condemned to disappear:
              and that all requisites for production must, and will, become the common
              property of society, and be managed in common by the producers of wealth.
-55 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              And… they maintain that the ideal of the political organisation of society is a
              condition of things where the functions of government are reduced to
              minimum… [and] that the ultimate aim of society is the reduction of the
@@ -2826,7 +2803,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    challenging all exploitation and defying the legitimacy of all
                    coercive authority. If anarchists have one article of unshakeable
                    faith, it is that, once the habit of deferring to politicians or
-56 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                    ideologues is lost, and that of resistance to domination and
                    exploitation acquired, then ordinary people have a capacity to
                    organise every aspect of their lives in their own interests, anywhere
@@ -2872,7 +2849,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    Government of their own; we believe in no State or Government.”
                    [Nicola Sacco and Bartolomeo Vanzetti, The Letters of Sacco and
                    Vanzetti, p. 274]
-57 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               But is this correct? Considering deﬁnitions from the American Heritage
              Dictionary, we ﬁnd:
                    LIBERTARIAN: one who believes in freedom of action and thought;
@@ -2919,7 +2896,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              political ideas (and 90 years after the expression “libertarian communism”
              was ﬁrst adopted). It is that party, not the anarchists, who have “stolen” the
              word. Later, in Section B, we will discuss why the idea of a “libertarian”
-58 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              capitalism (as desired by the Libertarian Party) is a contradiction in terms.
                 As we will also explain in Section I, only a libertarian-socialist system of
              ownership can maximise individual freedom. Needless to say, state ownership
@@ -2964,7 +2941,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              true sense — as an eﬀort to abolish the exploitation of Labour by Capital —
              the Anarchists were marching hand-in-hands with the Socialists of that time.”
              [Evolution and Environment, p. 81] Or, in Tucker’s words, “the bottom
-59 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              claim of Socialism [is] that labour should be put in possession of its own,” a
              claim that both “the two schools of Socialistic thought … State Socialism and
              Anarchism” agreed upon. [The Anarchist Reader, p. 144] Hence the word
@@ -3012,7 +2989,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              “Anarchistic-Socialism” and denounced capitalism as a system based upon
              “the usurer, the receiver of interest, rent and proﬁt.” Tucker held that in an
              anarchist, non-capitalist, free-market society, capitalists will become
-60 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              redundant and exploitation of labour by capital would cease, since “labour…
              will… secure its natural wage, its entire product.” [The Individualist
              Anarchists, p. 82 and p. 85] Such an economy will be based on mutual
@@ -3061,7 +3038,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              Labour Question]
                However, the meanings of words change over time. Today “socialism”
              almost always refers to state socialism, a system that all anarchists have
-61 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              opposed as a denial of freedom and genuine socialist ideals. All anarchists
              would agree with Noam Chomsky’s statement on this issue:
                    “If the left is understood to include ‘Bolshevism,’ then I would ﬂatly
@@ -3110,7 +3087,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              “libertarian” right in the USA, some pro-capitalists have taken to calling
              themselves “anarchists” and that is why we have laboured the point
              somewhat here. Historically, and logically, anarchism implies anti-capitalism,
-62 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              i.e. socialism, which is something, we stress, that all anarchists have agreed
              upon (for a fuller discuss of why “anarcho”-capitalism is not anarchist see
              section F).
@@ -3156,7 +3133,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              Proudhon … and the program of the Lyon Mutualists” and that there was “a
              remarkable convergence [between the ideas], and it is likely that Proudhon
              was able to articulate his positive program more coherently because of the
-63 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              example of the silk workers of Lyon. The socialist ideal that he championed
              was already being realised, to a certain extent, by such workers.” [K. Steven
              Vincent, Pierre-Joseph Proudhon and the Rise of French Republican
@@ -3205,7 +3182,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              degree) anarchist organisation or aspects of anarchism. He recognised this
              tendency of actual examples of anarchistic ideas to predate the creation of the
              “oﬀicial” anarchist movement and argued that:
-64 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                    “From the remotest, stone-age antiquity, men [and women] have
                    realised the evils that resulted from letting some of them acquire
                    personal authority… Consequently they developed in the primitive
@@ -3252,7 +3229,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              stands for in practice and what ideals drive it:
 ## The man
              Of virtuous soul commands not, nor obeys:
-65 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              Power, like a desolating pestilence,
              Pollutes whate’er it touches, and obedience,
              Bane of all genius, virtue, freedom, truth,
@@ -3302,7 +3279,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              Hence without equality, liberty becomes a mockery — at best the “freedom” to
              choose one’s master (boss), as under capitalism. Moreover, even the elite
              under such conditions are not really free, because they must live in a stunted
-66 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              society made ugly and barren by the tyranny and alienation of the majority.
              And since individuality develops to the fullest only with the widest contact
              with other free individuals, members of the elite are restricted in the
@@ -3350,7 +3327,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              arranging, and they do it according to their attitudes and understanding of
              things.” [Alexander Berkman, What is Anarchism?, p. 185]
                Therefore, anarchism bases itself upon the power of ideas and the ability of
-67 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              people to act and transform their lives based on what they consider to be
              right. In other words, liberty.
              A.2.1 What is the essence of anarchism?
@@ -3394,7 +3371,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              dwarfed, stunted and crushed” (see section B.1 for more details). Thus one of
              “the grand truths of Anarchism” is that “to be really free is to allow each one
              to live their lives in their own way as long as each allows all to do the same.”
-68 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              This is why anarchists ﬁght for a better society, for a society which respects
              individuals and their freedom. Under capitalism, ”[e]verything is upon the
              market for sale: all is merchandise and commerce” but there are “certain
@@ -3440,7 +3417,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              good in their own way. Doing so calls forth the activity and power of
              individuals as they make decisions for and about themselves and their lives.
              Only liberty can ensure individual development and diversity. This is because
-69 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              when individuals govern themselves and make their own decisions they have
              to exercise their minds and this can have no other eﬀect than expanding and
              stimulating the individuals involved. As Malatesta put it, ”[f]or people to
@@ -3490,7 +3467,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              direct management of work by those who do it. For centralisation means
              coercive authority (hierarchy), whereas self-management is the essence of
              freedom. Self-management ensures that the individuals involved use (and so
-70 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              develop) all their abilities — particularly their mental ones. Hierarchy, in
              contrast, substitutes the activities and thoughts of a few for the activities and
              thoughts of all the individuals involved. Thus, rather than developing their
@@ -3539,7 +3516,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              unnecessary, this wild waste of human life, of bone and sinew and brain and
              heart, this turning of people into human rags, ghosts, piteous caricatures of
              the creatures they had it in them to be, on the day they were born; that what
-71 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              is called ‘economy’, the massing up of things, is in reality the most frightful
              spending — the sacriﬁce of the maker to the made — the lose of all the ﬁner
              and nobler instincts in the gain of one revolting attribute, the power to count
@@ -3585,7 +3562,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              would build in accountability, diﬀusion of power among the maximum number
              of persons, task rotation, skill-sharing, and the spread of information and
              resources” are based on “good social anarchist principles of organisation!”
-72 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              [“Socialism, Anarchism and Feminism”, Quiet Rumours: An AnarchaFeminist Reader, p. 47 and p. 46]
                 The fact that anarchists are in favour of organisation may seem strange at
              ﬁrst, but it is understandable. “For those with experience only of authoritarian
@@ -3631,7 +3608,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              all hierarchies. Little wonder, then, that people within authoritarian and
              centralised structures come to hate them as a denial of their freedom. As
              Alexander Berkman puts it:
-73 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                    “Any one who tells you that Anarchists don’t believe in organisation
                    is talking nonsense. Organisation is everything, and everything is
                    organisation. The whole of life is organisation, conscious or
@@ -3678,7 +3655,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              life.” Thus libertarian socialism “is federalistic in character.” [Bakunin, The
              Political Philosophy of Bakunin, pp. 273–4 and p. 272]
                 Therefore, anarchist organisation is based on direct democracy (or selfmanagement) and federalism (or confederation). These are the expression and
-74 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              environment of liberty. Direct (or participatory) democracy is essential
              because liberty and equality imply the need for forums within which people
              can discuss and debate as equals and which allow for the free exercise of
@@ -3723,7 +3700,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              but are “a cause for joy, not fear or regret.” Why? Because “life among clones
              would not be worth living, and a sane person will only rejoice that others have
              abilities that they do not share.” [Noam Chomsky, Marxism, Anarchism, and
-75 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              Alternative Futures, p. 782]
                That some people seriously suggest that anarchists means by “equality”
              that everyone should be identical is a sad reﬂection on the state of presentday intellectual culture and the corruption of words — a corruption used to
@@ -3768,7 +3745,6 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    drink, or wear the same things, do the same work, or live in the
                    same manner. Far from it: the very reverse in fact.”
                    “Individual needs and tastes diﬀer, as appetites diﬀer. It is equal
-76 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
 
 ## opportunity to satisfy them that constitutes true equality.
 
@@ -3817,7 +3793,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              institution.” [Michael Bakunin, God and the State, p. 53]
                If hierarchical social relationships, and the forces that create them, are
              abolished in favour of ones that encourage participation and are based on the
-77 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              principle of “one person, one vote” then natural diﬀerences would not be able
              to be turned into hierarchical power. For example, without capitalist property
              rights there would not be means by which a minority could monopolise the
@@ -3865,7 +3841,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              measure of the wealth of society but also his [or her] portion of social power.”
              [Malatesta and Hamon, No Gods, No Masters, vol. 2, p. 20] Thus selfmanagement is needed to ensure both liberty and equality.
                 Social equality is required for individuals to both govern and express
-78 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              themselves, for the self-management it implies means “people working in
              face-to-face relations with their fellows in order to bring the uniqueness of
              their own perspective to the business of solving common problems and
@@ -3909,7 +3885,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                Solidarity means associating together as equals in order to satisfy our
              common interests and needs. Forms of association not based on solidarity (i.e.
              those based on inequality) will crush the individuality of those subjected to
-79 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              them. As Ret Marut points out, liberty needs solidarity, the recognition of
              common interests:
                    “The most noble, pure and true love of mankind is the love of
@@ -3956,7 +3932,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              Eventually, by organising into groups, we can start to manage our own
              collective aﬀairs together and so replace the boss once and for all. ”Unions
              will… multiply the individual’s means and secure his assailed property.” [Max
-80 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              Stirner, The Ego and Its Own, p. 258] By acting in solidarity, we can also
              replace the current system with one more to our liking: “in union there is
              strength.” [Alexander Berkman, What is Anarchism?, p. 74]
@@ -4001,7 +3977,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              ordering reality … Its capacity to rule by brute force has always been limited
              … Without a high degree of co-operation from even the most victimised
              classes of society such as chattel slaves and serfs, its authority would
-81 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              eventually dissipate. Awe and apathy in the face of State power are products
              of social conditioning that renders this very power possible.” [The Ecology of
              Freedom, p. 159 and pp. 164–5] Self-liberation is the means by which we
@@ -4050,7 +4026,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              society works, changing our ideas and creating new ideals. To quote Emma
              Goldman again: “True emancipation begins… in woman’s soul.” And in a
              man’s too, we might add. It is only here that we can “begin [our] inner
-82 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              regeneration, [cutting] loose from the weight of prejudices, traditions and
              customs.” [Op. Cit., p. 167] But this process must be self-directed, for as Max
              Stirner notes, “the man who is set free is nothing but a freed man… a dog
@@ -4098,7 +4074,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              militancy.
                 As Malatesta made clear, “to encourage popular organisations of all kinds is
              the logical consequence of our basic ideas, and should therefore be an
-83 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              integral part of our programme… anarchists do not want to emancipate the
              people; we want the people to emancipate themselves… , we want the new
              way of life to emerge from the body of the people and correspond to the state
@@ -4148,7 +4124,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              able to retain his/her dignity only through rebellion and disobedience.”
              [Robert Lynn, Not a Life Story, Just a Leaf from It, p. 77] This is why
              anarchists stress self-liberation (and self-organisation, self-management and
-84 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              self-activity). Little wonder Bakunin considered “rebellion” as one of the
              “three fundamental principles [which] constitute the essential conditions of all
              human development, collective or individual, in history.” [God and the State,
@@ -4193,7 +4169,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              Bosses Do?” (Review of Radical Political Economy, Vol. 6, No. 2), a study
              of the modern factory, Steven Marglin found that the main function of the
              corporate hierarchy is not greater productive eﬀiciency (as capitalists claim),
-85 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              but greater control over workers, the purpose of such control being more
              eﬀective exploitation.
                 Control in a hierarchy is maintained by coercion, that is, by the threat of
@@ -4239,8 +4215,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    of unemployed… In almost every job, we have only the ‘right’ to
                    quit. Major decisions are made at the top and we are expected to
                    obey, whether we work in an ivory tower or a mine shaft.” [“For
-                   Democracy Where We Work: A rationale for social self86 of 3436 10/1/25, 7:46 PM
-An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+                   Democracy Where We Work: A rationale for social self
 
 ## management”, Reinventing Anarchy, Again, Howard J. Ehrlich
                    (ed.), pp. 193–4]
@@ -4289,7 +4264,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              just become a “voluntary archist” — which is hardly anarchistic. For more on
              this see section A.2.14 ( Why is voluntarism not enough?).
                 Anarchists argue that organisations do not need to be hierarchical, they can
-87 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              be based upon co-operation between equals who manage their own aﬀairs
              directly. In this way we can do without hierarchical structures (i.e. the
              delegation of power in the hands of a few). Only when an association is selfmanaged by its members can it be considered truly anarchistic.
@@ -4335,7 +4310,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                 Therefore, an anarchist society will be based upon co-operative conﬂict as
              ”[c]onﬂict, per se, is not harmful… disagreements exist [and should not be
              hidden] … What makes disagreement destructive is not the fact of conﬂict
-88 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              itself but the addition of competition.” Indeed, “a rigid demand for agreement
              means that people will eﬀectively be prevented from contributing their
              wisdom to a group eﬀort.” [Alﬁe Kohn, No Contest: The Case Against
@@ -4385,7 +4360,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              guiding principles and ideas of society would be debated and policy decisions
              made, put into practice, reviewed, and co-ordinated. The delegates would
              simply “take their given mandates to the relative meetings and try to
-89 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              harmonise their various needs and desires. The deliberations would always be
              subject to the control and approval of those who delegated them” and so
              “there would be no danger than the interest of the people [would] be
@@ -4434,7 +4409,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              they express the wishes of the assemblies they came from rather than their
              own. In this way government is replaced by anarchy, a network of free
              associations and communities co-operating as equals based on a system of
-90 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              mandated delegates, instant recall, free agreement and free federation from
              the bottom up.
                 Only this system would ensure the “free organisation of the people, an
@@ -4484,7 +4459,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              activities which is required for such a society to work. As such, anarchists try
              to create the kind of world we want in our current struggles and do not think
              our ideas are only applicable “after the revolution.” Indeed, by applying our
-91 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              principles today we bring anarchy that much nearer.
              A.2.10 What will abolishing hierarchy mean and
              achieve?
@@ -4530,8 +4505,8 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                 With the free participation of all in social life, we would quickly see the end
              of inequality and injustice. Rather than people existing to make ends meet
              and being used to increase the wealth and power of the few as under
-             capitalism, the end of hierarchy would see (to quote Kropotkin) “the well92 of 3436 10/1/25, 7:46 PM
-An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+             capitalism, the end of hierarchy would see (to quote Kropotkin) “the well
+
              being of all” and it is “high time for the worker to assert his [or her] right to
              the common inheritance, and to enter into possession of it.” [The Conquest
              of Bread, p. 35 and p. 44] For only taking possession of the means of life
@@ -4578,7 +4553,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              its libertarian nature as its voluntary nature (see section A.2.14 for more
              discussion).
                 It is obvious that individuals must work together in order to lead a fully
-93 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              human life. And so, ”[h]aving to join with others humans” the individual has
              three options: “he [or she] must submit to the will of others (be enslaved) or
              subject others to his will (be in authority) or live with others in fraternal
@@ -4627,7 +4602,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                Such a system does not mean, of course, that everyone participates in every
              decision needed, no matter how trivial. While any decision can be put to the
              assembly (if the assembly so decides, perhaps prompted by some of its
-94 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              members), in practice certain activities (and so purely functional decisions)
              will be handled by the association’s elected administration. This is because, to
              quote a Spanish anarchist activist, “a collectivity as such cannot write a letter
@@ -4677,7 +4652,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              association. Therefore, far from being a denial of freedom, direct democracy
              within the context of free association and self-assumed obligation is the only
              means by which liberty can be nurtured (“Individual autonomy limited by the
-95 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              obligation to hold given promises.” [Malatesta, quoted by quoted by Max
              Nettlau, Errico Malatesta: The Biography of an Anarchist]). Needless to
              say, a minority, if it remains in the association, can argue its case and try to
@@ -4725,7 +4700,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              association at any time and so, to use Malatesta’s words, do not have to
              “submit to the decisions of the majority before they have even heard what
              these might be.” [The Anarchist Revolution, p. 100 and p. 101] Hence,
-96 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              direct democracy within voluntary association does not create “majority rule”
              nor assume that the minority must submit to the majority no matter what. In
              eﬀect, anarchist supporters of direct democracy argue that it ﬁts Malatesta’s
@@ -4773,7 +4748,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              protest/direct action and evaluate/protect minority claims/rights in an
              anarchist society. The actual forms of freedom can only be created through
              practical experience by the people directly involved.
-97 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                Lastly, we must stress that anarchist support for direct democracy does not
              mean that this solution is to be favoured in all circumstances. For example,
              many small associations may favour consensus decision making (see the next
@@ -4820,7 +4795,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    ‘one’ of the ‘consensus’ group.” [“Communalism: The Democratic
                    Dimension of Anarchism”, Democracy and Nature, no. 8, p. 8]
               Bookchin does not “deny that consensus may be an appropriate form of
-98 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
              decision-making in small groups of people who are thoroughly familiar with
              one another.” But he notes that, in practical terms, his own experience has
              shown him that “when larger groups try to make decisions by consensus, it
@@ -4867,7 +4842,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
              imbalance, deeply ﬂawed.
                For anarchists, the idea that individuals should sacriﬁce themselves for the
              “group” or “greater good” is nonsensical. Groups are made up of individuals,
-99 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               and if people think only of what’s best for the group, the group will be a
               lifeless shell. It is only the dynamics of human interaction within groups which
               give them life. “Groups” cannot think, only individuals can. This fact,
@@ -4915,7 +4890,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               debasement and systematic indoctrination of the servile spirit … That corrupt
               and perverse ‘individualism’ is the straitjacket of individuality .. [It] has
               inevitably resulted in the greatest modern slavery, the crassest class
-100 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               distinctions driving millions to the breadline. ‘Rugged individualism’ has
               meant all the ‘individualism’ for the masters, while the people are regimented
               into a slave caste to serve a handful of self-seeking ‘supermen.’” [Red Emma
@@ -4965,7 +4940,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               been social animals), this “theory” is actually a justiﬁcation for the state’s
               having extensive powers over society; and this in turn is a justiﬁcation of the
               capitalist system, which requires a strong state. It also mimics the results of
-101 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               the capitalist economic relations upon which this theory is built. Within
               capitalism, individuals “freely” contract together, but in practice the owner
               rules the worker for as long as the contract is in place. (See sections A.2.14
@@ -5013,7 +4988,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               contradict these implications of voluntarism. For, while technically
               “voluntary” (though as we show in section B.4, this is not really the case),
               capitalist contracts result in a denial of liberty. This is because the social
-102 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               relationship of wage-labour involves promising to obey in return for payment.
               And as Carole Pateman points out, “to promise to obey is to deny or to limit,
               to a greater or lesser degree, individuals’ freedom and equality and their
@@ -5062,7 +5037,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               and so would be a “a relationship of voluntary servitude with another
               individual.” Anyone making such a contract in a free society (i.e. anarchist
               society) would be “devoid of any sense of personal dignity.” [Michael
-103 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               Bakunin: Selected Writings, pp. 68–9] Only self-managed associations can
               create relationships of equality rather than of subordination between its
               members.
@@ -5111,7 +5086,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               or starve. There is no other alternative. Some things are priceless, chief
               among which are life and liberty. A freeman [or woman] is not for sale or
               hire.” [Anarchism, p. 99 and p. 98] And why should we excuse servitude or
-104 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               tolerate those who desire to restrict the liberty of others? The “liberty” to
               command is the liberty to enslave, and so is actually a denial of liberty.
                 Regarding the ﬁrst objection, anarchists plead guilty. We are prejudiced
@@ -5157,7 +5132,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                 Therefore, environment plays an important part in deﬁning what “human
               nature” is, how it develops and what aspects of it are expressed. Indeed, one
               of the greatest myths about anarchism is the idea that we think human nature
-105 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               is inherently good (rather, we think it is inherently sociable). How it develops
               and expresses itself is dependent on the kind of society we live in and create.
               A hierarchical society will shape people in certain (negative) ways and
@@ -5207,7 +5182,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               hierarchy illegitimate, and our need for social relationships implies that we
               can organise without the state. The deep unhappiness and alienation aﬄicting
               modern society reveals that the centralisation and authoritarianism of
-106 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               capitalism and the state are denying some innate needs within us. In fact, as
               mentioned earlier, for the great majority of its existence the human race has
               lived in anarchic communities, with little or no hierarchy. That modern society
@@ -5257,7 +5232,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               of “biological determinism” that sociobiology argues for. Saying that there are
               speciﬁc genes for speciﬁc human traits says little for while ”[v]iolence,
               sexism, and general nastiness are biological since they represent one subset
-107 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               of a possible range of behaviours” so are “peacefulness, equality, and
               kindness.” And so “we may see their inﬂuence increase if we can create social
               structures that permit them to ﬂourish.” That this may be the case can be
@@ -5307,7 +5282,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                  The arrogance of this claim is truly amazing. History hasn’t stopped. One
               thousand years from now, society will be completely diﬀerent from what it is
               presently or from what anyone has imagined. No government in place at the
-108 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               moment will still be around, and the current economic system will not exist.
               The only thing that may remain the same is that people will still be claiming
               that their new society is the “One True System” that completely conforms to
@@ -5354,7 +5329,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               Studies, vol. 3, no. 2, Autumn 1995, pp. 145–164]
               A.2.16 Does anarchism require “perfect” people to
               work?
-109 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                No. Anarchy is not a utopia, a “perfect” society. It will be a human society,
               with all the problems, hopes, and fears associated with human beings.
               Anarchists do not think that human beings need to be “perfect” for anarchy to
@@ -5403,7 +5378,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               shows why, for the detractors make the basic mistake of assuming an
               anarchist society without anarchists! (A variation of such claims is raised by
               the right-wing “anarcho”-capitalists to discredit real anarchism. However,
-110 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               their “objection” discredits their own claim to be anarchists for they implicitly
               assume an anarchist society without anarchists!). Needless to say, an
               “anarchy” made up of people who still saw the need for authority, property
@@ -5451,7 +5426,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               circumstances, not appear in a perfect form immediately (see section H.2.5
               for a discussion of Marxist claims otherwise).
                 Therefore, anarchists do not conclude that “perfect” people are necessary
-111 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               anarchism to work because the anarchist is “no liberator with a divine mission
               to free humanity, but he is a part of that humanity struggling onwards
               towards liberty.” As such, ”[i]f, then, by some external means an Anarchist
@@ -5501,7 +5476,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               and to disempower the many. That while it is needed to maintain class and
               hierarchical society, it is not needed to organise society nor can it do so in a
               just and fair way for all. This is possible. However, without a conscious
-112 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               anarchist presence any libertarian tendencies are likely to be used, abused
               and ﬁnally destroyed by parties or religious groups seeking political power
               over the masses (the Russian Revolution is the most famous example of this
@@ -5547,7 +5522,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               This ideology merely changes its outer garments, not its basic inner content
               over time.
                 During the Dark Ages, for example, it was coloured by Christianity, being
-113 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               adapted to the needs of the Church hierarchy. The most useful “divinely
               revealed” dogma to the priestly elite was “original sin”: the notion that human
               beings are basically depraved and incompetent creatures who need “direction
@@ -5596,7 +5571,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               they hate nothing so much as to see their authority challenged. This is the
               characteristic of all authority, whether the master over his economic slaves or
               man over women. However, everywhere woman is escaping her cage,
-114 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               everywhere she is going ahead with free, large strides.” [Vision on Fire, p.
               256] The same comments are applicable, for example, to the very successful
               experiments in workers’ self-management during the Spanish Revolution.
@@ -5644,7 +5619,6 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    “when I see multitudes of entirely naked savages scorn European
                    voluptuousness and endure hunger, ﬁre, the sword, and death to
                    preserve only their independence, I feel that it does not behove
-115 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
 
 ## slaves to reason about freedom.” [quoted by Noam Chomsky,
                    Marxism, Anarchism, and Alternative Futures, p. 780]
@@ -5692,7 +5666,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               “violence” by protestors (particularly anarchist ones) yet this amounted to a
               few broken windows. The much greater actual violence of the police against
               protestors (which, incidentally, started before the breaking of a single
-116 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               window) was not considered worthy of comment. Subsequent media coverage
               of anti-globalisation demonstrations followed this pattern, ﬁrmly connecting
               anarchism with violence in spite of that the protesters have been the ones to
@@ -5741,7 +5715,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               members of the bourgeoisie targeted. These acts were termed “propaganda
               by the deed.” Anarchist support for the tactic was galvanised by the
               assassination of Tsar Alexander II in 1881 by Russian Populists (this event
-117 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               prompted Johann Most’s famous editorial in Freiheit, entitled “At Last!”,
               celebrating regicide and the assassination of tyrants). However, there were
               deeper reasons for anarchist support of this tactic: ﬁrstly, in revenge for acts
@@ -5791,7 +5765,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               practises.” [Christie and Meltzer, The Floodgates of Anarchy, p. 132]
                 It must be noted that the majority of anarchists did not support this tactic.
               Of those who committed “propaganda by the deed” (sometimes called
-118 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               “attentats”), as Murray Bookchin points out, only a “few … were members of
               Anarchist groups. The majority … were soloists.” [The Spanish Anarchists,
               p. 102] Needless to say, the state and media painted all anarchists with the
@@ -5841,7 +5815,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               false association is renewed at every opportunity, regardless of the facts (for
               example, even though Individualist Anarchists rejected “propaganda by the
               deed” totally, they were also smeared by the press as “violent” and
-119 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               “terrorists”).
                 In addition, as Kropotkin pointed out, the assumption behind propaganda by
               the deed, i.e. that everyone was waiting for a chance to rebel, was false. In
@@ -5890,7 +5864,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               result of previous acts of state and capitalist violence.
                 So “terrorist” acts have been committed by anarchists. This is a fact.
               However, it has nothing to do with anarchism as a socio-political theory. As
-120 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               Emma Goldman argued, it was “not Anarchism, as such, but the brutal
               slaughter of the eleven steel workers [that] was the urge for Alexander
               Berkman’s act.” [Op. Cit., p. 268] Equally, members of other political and
@@ -5936,7 +5910,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               must free themselves from the conﬁnes of existing morality and question that
               morality — “I decide whether it is the right thing for me; there is no right
               outside me.” [The Ego and Its Own, p. 189]
-121 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                 Few anarchists, however, would go so far as Stirner and reject any concept
               of social ethics at all (saying that, Stirner does value some universal concepts
               although they are egoistic ones). Such extreme moral relativism is almost as
@@ -5984,7 +5958,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    the individual. Such a system is based not on reason and knowledge
                    but on awe of the authority and on the subject’s feeling of weakness
                    and dependence; the surrender of decision making to the authority
-122 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                    results from the latter’s magic power; its decisions can not and must
 ## not be questioned. Materially, or according to content,
                    authoritarian ethics answers the question of what is good or bad
@@ -6033,7 +6007,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               more intense and delicate will your moral sense be.. . And the more you are
               accustomed by circumstances, by those surrounding you, or by the intensity
               of your own thought and your imagination, to act as your own thought and
-123 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               imagination urge, the more will the moral sentiment grow in you, the more
               will it became habitual.” [Op. Cit., p. 95]
                  So, anarchism is based (essentially) upon the ethical maxim “treat others as
@@ -6083,7 +6057,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                 Therefore, strictly speaking, anarchism is based upon an egoistic frame of
               reference — ethical ideas must be an expression of what gives us pleasure as
               a whole individual (both rational and emotional, reason and empathy). This
-124 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               leads all anarchists to reject the false division between egoism and altruism
               and recognise that what many people (for example, capitalists) call “egoism”
               results in individual self-negation and a reduction of individual self-interest.
@@ -6132,7 +6106,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               life of every individual and it gives pleasure to individuals because of the
               diversity it produces. This egoist basis of ethics reinforces the second (social)
               reason, namely that individuality is good for society for it enriches the
-125 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               community and social life, strengthening it and allowing it to grow and evolve.
               As Bakunin constantly argued, progress is marked by a movement from “the
               simple to the complex” or, in the words of Herbert Read, it “is measured by
@@ -6179,7 +6153,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               religion and its institutions that anarchists have spent some time refuting the
               idea of religion as well as propagandising against it.
                 So why do so many anarchists embrace atheism? The simplest answer is
-126 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               that most anarchists are atheists because it is a logical extension of anarchist
               ideas. If anarchism is the rejection of illegitimate authorities, then it follows
               that it is the rejection of the so-called Ultimate Authority, God. Anarchism is
@@ -6227,7 +6201,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               social repression, genocide, and the justiﬁcation for every tyrant for nearly
               two millennia. When given the chance it has ruled as cruelly as any monarch
               or dictator. This is unsurprising:
-127 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                    “God being everything, the real world and man are nothing. God
                    being truth, justice, goodness, beauty, power and life, man is
                    falsehood, iniquity, evil, ugliness, impotence, and death. God being
@@ -6276,7 +6250,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                 As the Bible says, “By their fruits shall ye know them.” We anarchists agree
               but unlike the church we apply this truth to religion as well. That is why we
               are, in the main, atheists. We recognise the destructive role played by the
-128 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               Church, and the harmful eﬀects of organised monotheism, particularly
               Christianity, on people. As Goldman summaries, religion “is the conspiracy of
               ignorance against reason, of darkness against light, of submission and slavery
@@ -6325,7 +6299,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               social role of religion is to dampen down revolt, not encourage it. The tiny
               number of radical priests compared to those in the mainstream or on the right
               suggests the validity of our analysis.
-129 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                 It should be stressed that anarchists, while overwhelmingly hostile to the
               idea of the Church and an established religion, do not object to people
               practising religious belief on their own or in groups, so long as that practice
@@ -6371,7 +6345,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    political and social oppression. The exploitation of man by man and
                    the domination of man over man are inseparable, and each is the
                    condition of the other.” [Anarcho-Syndicalism, pp. 62–3]
-130 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                 It is within this general context that anarchists disagree. The main
               diﬀerences are between “individualist” and “social” anarchists, although
               the economic arrangements each desire are not mutually exclusive. Of the
@@ -6420,7 +6394,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               rural society to an industrialised capitalist one, American anarchism changed:
                    “Originally the American movement, the native creation which arose
                    with Josiah Warren in 1829, was purely individualistic; the student
-131 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                    of economy will easily understand the material and historical causes
 ## for such development. But within the last twenty years the
                    communist idea has made great progress, owning primarily to that
@@ -6466,7 +6440,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                 The ﬁrst is in regard to the means of action in the here and now (and so the
               manner in which anarchy will come about). Individualists generally prefer
               education and the creation of alternative institutions, such as mutual banks,
-132 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               unions, communes, etc. They usually support strikes and other non-violent
               forms of social protest (such as rent strikes, the non-payment of taxes and so
               on). Such activity, they argue, will ensure that present society will gradually
@@ -6515,7 +6489,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               remaining for things you use, but not what was used to create them. Thus
               “your watch is your own, but the watch factory belongs to the people.” “Actual
               use,” continues Berkman, “will be considered the only title — not to
-133 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               ownership but to possession. The organisation of the coal miners, for
               example, will be in charge of the coal mines, not as owners but as the
               operating agency … Collective possession, co-operatively managed in the
@@ -6565,7 +6539,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               called mutualism, will result in workers control of production and the end of
               capitalist exploitation and usury. This is because, logically and practically, a
               regime of “occupancy and use” cannot be squared with wage labour. If a
-134 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               workplace needs a group to operate it then it must be owned by the group
               who use it. If one individual claims to own it and it is, in fact, used by more
               than that person then, obviously, “occupancy and use” is violated. Equally, if
@@ -6615,7 +6589,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               against forms of communism that “desire to manage the community after the
               model of a family … [to live] all in the same house and … thus forced to
               continuously meet the same ‘brethren and sisters’ … [it is] a fundamental
-135 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               error to impose on all the ‘great family’ instead of trying, on the contrary, to
               guarantee as much freedom and home life to each individual.” [Small
               Communal Experiments and Why They Fail, pp. 8–9] The aim of anarchistcommunism is, to again quote Kropotkin, to place “the product reaped or
@@ -6661,7 +6635,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    of circumstances, not by imposition from above but by a free
 ## spontaneous movement from below.” [Bakunin on Anarchism, p.
                    200]
-136 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                 If individualists desire to work for themselves and exchange goods with
               others, social anarchists have no objection. Hence our comments that the two
               forms of anarchism are not mutually exclusive. Social anarchists support the
@@ -6710,7 +6684,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               words, individual ownership produces the same social relationships as that
               created by the state, as it comes from the same source (monopoly of power
               over a given area and those who use it).
-137 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                  Social anarchists argue that the Individualist Anarchists acceptance of
               individual ownership and their individualistic conception of individual
               freedom can lead to the denial of individual freedom by the creation of social
@@ -6758,7 +6732,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               guarantee of the autonomy of the individual. The understanding is that such
               ownership boils down to the chance to deploy (as individuals, couples, family
               groups, etc.) the requisite plot of soil or machinery of production to meet the
-138 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               requirements of the social unit, provided that the proprietor does not transfer
               it to someone else or reply upon the services of someone else in operating it.”
               Thus the individualist anarchist could “defend himself against … the
@@ -6804,7 +6778,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               advantage of any individual or class, but for the beneﬁt of all … [with] no
               interest … exacted on loans, except enough to cover risks and expenses.”
               Such a system would end capitalist exploitation and oppression for by
-139 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               “introducing mutualism into exchange and credit we introduce it everywhere,
               and labour will assume a new aspect and become truly democratic.” [Charles
               A. Dana, Proudhon and his “Bank of the People”, pp. 44–45 and p. 45]
@@ -6853,7 +6827,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               In this way, the federation of groups will be able to … regulate the rate of
               production to meet the ﬂuctuating needs of society.” [James Guillaume,
               Bakunin on Anarchism, p. 376]
-140 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                 These anarchists share the mutualists support for workers’ selfmanagement of production within co-operatives but see confederations of
               these associations as being the focal point for expressing mutual aid, not a
               market. Workplace autonomy and self-management would be the basis of any
@@ -6901,7 +6875,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               developing. Needless to say, these positions are not that diﬀerent and, in
               practice, the necessities of a social revolution and the level of political
               awareness of those introducing anarchism will determine which system will
-141 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               be applied in each area.
                 Syndicalism is the other major form of social anarchism. Anarchosyndicalists, like other syndicalists, want to create an industrial union
               movement based on anarchist ideas. Therefore they advocate decentralised,
@@ -6949,7 +6923,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               but they generally think that syndicalistic organisations will be created by
               workers in struggle, and so consider encouraging the “spirit of revolt” as
               more important than creating syndicalist unions and hoping workers will join
-142 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               them (of course, anarcho-syndicalists support such autonomous struggle and
               organisation, so the diﬀerences are not great). Communist-anarchists also do
               not place as great an emphasis on the workplace, considering struggles
@@ -6995,7 +6969,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               A.3.3 What kinds of green anarchism are there?
                 An emphasis on anarchist ideas as a solution to the ecological crisis is a
               common thread in most forms of anarchism today. The trend goes back to the
-143 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               late nineteenth century and the works of Peter Kropotkin and Elisee Reclus.
               The latter, for example, argued that a “secret harmony exists between the
               earth and the people whom it nourishes, and when imprudent societies let
@@ -7044,7 +7018,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               reconstructive message of ecology… [is that] we must conserve and promote
               variety” but within modern capitalist society ”[a]ll that is spontaneous,
               creative and individuated is circumscribed by the standardised, the regulated
-144 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               and the massiﬁed.” [Op. Cit., p. 35 and p. 26] So, in many ways, anarchism
               can be considered the application of ecological ideas to society, as anarchism
               aims to empower individuals and communities, decentralise political, social
@@ -7093,7 +7067,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               objects and forces, that must be made more ‘serviceable’ for human use,
               irrespective of what these uses may be. Environmentalism .. . does not bring
               into question the underlying notions of the present society, notably that man
-145 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               must dominate nature. On the contrary, it seeks to facilitate that domination
               by developing techniques for diminishing the hazards caused by domination.”
               [Murray Bookchin, Towards an Ecological Society, p. 77]
@@ -7143,7 +7117,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               power to the state, few anarchists agree. Rather they see it as inherently
               reformist as well as being hopelessly naive about the possibilities of using
               elections to bring about social change (see section J.5.14 for a fuller
-146 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               discussion of this). Instead they propose direct action as the means to forward
               anarchist and ecological ideas, rejecting electioneering as a dead-end which
               ends up watering down radical ideas and corrupting the people involved (see
@@ -7192,7 +7166,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               rejects its few misanthropic ideas and starts to see that hierarchy, not the
               human race, is the problem (for a discussion between Murray Bookchin and
               leading Earth Firster! Dave Foreman see the book Defending the Earth).
-147 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               A.3.4 Is anarchism paciﬁstic?
                 A paciﬁst strand has long existed in anarchism, with Leo Tolstoy being one
               of its major ﬁgures. This strand is usually called “anarcho-paciﬁsm” (the
@@ -7241,7 +7215,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               individuals, but as classes.” [quoted by Richard B. Saltman, The Social and
               Political Thought of Michael Bakunin p. 121, p. 124 and p. 122]
                 Indeed, the question of violence is relatively unimportant to most
-148 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               anarchists, as they do not glorify it and think that it should be kept to a
               minimum during any social struggle or revolution. All anarchists would agree
               with the Dutch paciﬁst anarcho-syndicalist Bart de Ligt when he argued that
@@ -7290,7 +7264,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               syndicalists and anarchists in Britain and North America reprinting a French
               CGT leaﬂet urging soldiers not to follow orders and repress their striking
               fellow workers. Emma Goldman and Alexander Berkman were both arrested
-149 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               and deported from America for organising a “No-Conscription League” in
               1917 while many anarchists in Europe were jailed for refusing to join the
               armed forces in the ﬁrst and second world wars. The anarcho-syndicalist
@@ -7339,7 +7313,6 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    the press, persuade their respective people that this war is a war of
 ## liberation.
 
-150 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    “We are resolutely against all wars between peoples, and … have
                    been, are, and ever will be most energetically opposed to war.
                    “The role of the Anarchists … is to continue to proclaim that there is
@@ -7385,7 +7358,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               movement which began in the 1960’s was founded upon anarchist practice.
               This is where the term anarcha-feminism came from, referring to women
               anarchists who act within the larger feminist and anarchist movements to
-151 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               remind them of their principles.
                  The modern anarcha-feminists built upon the feminist ideas of previous
               anarchists, both male and female. Indeed, anarchism and feminism have
@@ -7434,7 +7407,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               chattel.” [Voltairine de Cleyre, “The Gates of Freedom”, pp. 235–250, Eugenia
               C. Delamotte, Gates of Freedom, p. 242] To quote Louise Michel:
                    “The ﬁrst thing that must change is the relationship between the
-152 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                    sexes. Humanity has two parts, men and women, and we ought to be
                    walking hand in hand; instead there is antagonism, and it will last as
                    long as the ‘stronger’ half controls, or think its controls, the
@@ -7483,7 +7456,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               thinking clearly.” [“Anarchism: The Feminist Connection,” Quiet Rumours:
               An Anarcha-Feminist Reader, p. 26] Similarly, the Zero Collective argues
               that Anarcha-feminism “consists in recognising the anarchism of feminism
-153 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               and consciously developing it.” [“Anarchism/Feminism,” pp. 3–7, The Raven,
               no. 21, p. 6]
                 Anarcha-feminists point out that authoritarian traits and values, for
@@ -7532,7 +7505,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               centralist organisations and its illusion that having more women bosses,
               politicians, and soldiers is a move towards “equality.” Anarcha-feminists
               would point out that the so-called “management science” which women have
-154 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               to learn in order to become mangers in capitalist companies is essentially a
               set of techniques for controlling and exploiting wage workers in corporate
               hierarchies, whereas “feminising” society requires the elimination of capitalist
@@ -7581,7 +7554,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               from class struggle or from the anarchist project as a whole.” [Op. Cit., p.
               119] Anarcha-feminism continues this tradition by arguing that all forms of
               hierarchy are wrong, not just patriarchy, and that feminism is in conﬂict with
-155 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               its own ideals if it desires simply to allow women to have the same chance of
               being a boss as a man does. They simply state the obvious, namely that they
               “do not believe that power in the hands of women could possibly lead to a
@@ -7630,7 +7603,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               sexist in practice. Such an assumption is false. Anarcha-feminism brings the
               question of consistency between theory and practice to the front of social
               activism and reminds us all that we must ﬁght not only external constraints
-156 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               but also internal ones.
                 This means that anarcha-feminism urges us to practice what we preach. As
               Voltairine de Cleyre argued, “I never expect men to give us liberty. No,
@@ -7679,7 +7652,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    humanity.” [Louise Michel, Op. Cit., p. 142]
                 A key part of this revolutionising modern society is the transformation of
               the current relationship between the sexes. Marriage is a particular evil for
-157 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               “the old form of marriage, based on the Bible, ‘till death doth part,’ … [is] an
               institution that stands for the sovereignty of the man over the women, of her
               complete submission to his whims and commands.” Women are reduced “to
@@ -7728,7 +7701,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               others to act for them their social position would never have changed. This
               includes getting the vote in the ﬁrst place. Faced with the militant suﬀrage
               movement for women’s votes, British anarchist Rose Witcop recognised that it
-158 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               was “true that this movement shows us that women who so far have been so
               submissive to their masters, the men, are beginning to wake up at last to the
               fact they are not inferior to those masters.” Yet she argued that women would
@@ -7775,7 +7748,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               job actions, occupation, organisations of direct action groups and federations
               of libertarian workers’ groups and development of workers’ assemblies,
               collectives and co-operatives” and ”political activity” like the “active
-159 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               interference with implementation of repressive governmental policies,” the
               “non-compliance and resistance against regimentation and bureaucratisation
               of society” and “participation in movements for increasing direct participation
@@ -7823,7 +7796,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               combines practical self-activity with cultural work, with both activities feeding
               into and supporting the other.
               A.3.7 Are there religious anarchists?
-160 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                  Yes, there are. While most anarchists have opposed religion and the idea of
               God as deeply anti-human and a justiﬁcation for earthly authority and slavery,
               a few believers in religion have taken their ideas to anarchist conclusions.
@@ -7873,7 +7846,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               conﬂicting systems of belief. On one side there was a radical, activistic,
               communistic, and libertarian vision of the Christian life” and “on the other
               side there was a conservative, quietistic, materially unwordly, and
-161 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               hierarchical vision.” [The Ecology of Freedom, p. 266 and pp. 274–5]
                 Thus clergyman’s John Ball’s egalitarian comments (as quoted by Peter
               Marshall [Op. Cit., p. 89]) during the Peasant Revolt in 1381 in England:
@@ -7919,7 +7892,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               impact on him) he opposed private property in land, arguing that “were it not
               for the defence of landed property, and its consequent rise in price, people
               would not be crowded into such narrow spaces, but would scatter over the
-162 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               free land of which there is still so much in the world.” Moreover, “in this
               struggle [for landed property] it is not those who work in the land, but always
               those who take part in government violence, who have the advantage.” Thus
@@ -7968,7 +7941,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               powerful) have made — in other words, to do their will.” Handing over
               economic life to the state would simply mean “there will be people to whom
               power will be given to regulate all these matters. Some people will decide
-163 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               these questions, and others will obey them.” [Tolstoy, Op. Cit., p. 40, p. 41, p.
               43 and p. 25] He correctly prophetised that “the only thing that will happen”
               with the victory of Marxism would be “that despotism will be passed on. Now
@@ -8018,7 +7991,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               in its long (and generally oppressive) history.
                 Atheist anarchists point to the fact that the Bible is notorious for advocating
               all kinds of abuses. How does the Christian anarchist reconcile this? Are they
-164 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               a Christian ﬁrst, or an anarchist? Equality, or adherence to the Scripture? For
               a believer, it seems no choice at all. If the Bible is the word of God, how can
               an anarchist support the more extreme positions it takes while claiming to
@@ -8066,7 +8039,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                  In addition, most social anarchists consider Tolstoyian paciﬁsm as dogmatic
               and extreme, seeing the need (sometimes) for violence to resist greater evils.
               However, most anarchists would agree with Tolstoyians on the need for
-165 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               individual transformation of values as a key aspect of creating an anarchist
               society and on the importance of non-violence as a general tactic (although,
               we must stress, that few anarchists totally reject the use of violence in selfdefence, when no other option is available).
@@ -8111,7 +8084,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               came in for a lot of discussion from the Spanish Collectivists who strongly
               supported working class organisation and struggle.
                 This conﬂict soon spread outside of Spain and the discussion found its way
-166 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               into the pages of La Revolte in Paris. This provoked many anarchists to agree
               with Malatesta’s argument that ”[i]t is not right for us, to say the least, to fall
               into strife over mere hypotheses.” [quoted by Max Nettlau, A Short History
@@ -8158,7 +8131,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               society, as well as many intermediations, would, in the absence of
               government, be tried in various localities, according to the instincts and
               material condition of the people … Liberty and experiment alone can
-167 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               determine the best forms of society. Therefore I no longer label myself
               otherwise than ‘Anarchist’ simply.” [“The Making of An Anarchist”, The
               Voltairine de Cleyre Reader, pp. 107–8]
@@ -8205,7 +8178,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               consequently, is not “anarchism without adjectives.”
               A.3.9 What is anarcho-primitivism?
                As discussed in section A.3.3, most anarchists would agree with Situationist
-168 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               Ken Knabb in arguing that “in a liberated world computers and other modern
               technologies could be used to eliminate dangerous or boring tasks, freeing
               everyone to concentrate on more interesting activities.” Obviously ”[c]ertain
@@ -8254,7 +8227,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               organisations adopt a direction and form that is independent of its members’
               intentions.” Thus, they argue, genuine anarchists must oppose industry and
               technology for ”[h]ierarchical institutions, territorial expansion, and the
-169 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               mechanisation of life are all required for the administration and process of
               mass production to occur.” For primitivists, ”[o]nly small communities of selfsuﬀicient individuals can coexist with other beings, human or not, without
               imposing their authority upon them.” Such communities would share essential
@@ -8303,7 +8276,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               criticise them in any detail. They have questionable relevance to actual past
               societies and virtually no relevance to present possibilities. Even supposing
               that life was better in one or another previous era, we have to begin from
-170 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               where we are now. Modern technology is so interwoven with all aspects of
               our life that it could not be abruptly discontinued without causing a global
               chaos that would wipe out billions of people.” [Op. Cit., p. 79]
@@ -8352,7 +8325,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               starving people ﬁghting over what vegetables, fruits and animals they could
               ﬁnd in the countryside. Clearly an anti-organisation dogma can only be
               reconciled with the idea of a near overnight “collapse” of civilisation, not with
-171 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               a steady progress towards a long term goal. Equally, how many “positive
               alternatives” could exist without organisation?
                 Moore dismissed any critique that points out that a collapse would cause
@@ -8401,7 +8374,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               anarchism, namely that self-management is managing your own alienation
               and that no one will want to work in a factory or in a mine and, therefore,
               coercion will have to be used to make them do so? Does working in a selfmanaged workplace somehow become less alienating and authoritarian
-172 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               during a primitivist transition?
                  It is an obvious fact that the human population size cannot be reduced
               signiﬁcantly by voluntary means in a short period of time. For primitivism to
@@ -8451,7 +8424,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               shows the contradiction at the heart of primitivism. While its advocates attack
               other anarchists for supporting technology, organisation, self-management of
               work, industrialisation and so on, they are themselves are dependent on the
-173 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               things they oppose as part of any humane transition to a primitivist society.
               And given the passion with which they attack other anarchists on these
               matters, unsurprisingly the whole notion of a primitivist transition period
@@ -8500,7 +8473,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               very few people would actually voluntarily embrace such a situation. This led
               to “Green Anarchist” developing a form of eco-vanguardism in order, to use
               Rousseau’s expression, to “force people to be free.” This was expressed when
-174 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               the magazine supported the actions and ideas of the (non-anarchist)
               Unabomber and published an article (“The Irrationalists”) by one its editors
               stating that “the Oklahoma bombers had the right idea. The pity was that they
@@ -8548,7 +8521,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               primitivists are more critical of all aspects of technology, including calls by
               social ecologists for the use of appropriate technology essential in order to
               liberate humanity and the planet:
-175 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                    “To speak of technological society is in fact to refer to the technics
                    generated within capitalism, which in turn generate new forms of
                    capital. The notion of a distinct realm of social relations that
@@ -8596,7 +8569,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               some aboriginal societies are very anarchistic, not all are. As anarchist
               anthropologist David Graeber points out, “we know almost nothing about like
               in Palaeolithic, other than the sort of thing that can be gleaned from studying
-176 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               very old skulls … But what we see in the more recent ethnographic records is
               endless variety. There were hunter-gatherer societies with nobles and slaves,
               there are agrarian societies that are ﬁercely egalitarian. Even in … Amazonia,
@@ -8646,7 +8619,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               and, consequently, has little to recommend it in most anarchists’ eyes.
                  This is not to suggest, of course, that non-primitivist anarchists think that
               everyone in a free society must have the same level of technology. Far from it.
-177 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               An anarchist society would be based on free experimentation. Diﬀerent
               individuals and groups will pick the way of life that best suits them. Those
               who seek less technological ways of living will be free to do so as will those
@@ -8694,7 +8667,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               Bakunin, Kropotkin and Tucker all claimed inspiration from his ideas and they
               are the immediate source for both social and individualist anarchism, with
               each thread emphasising diﬀerent aspects of mutualism (for example, social
-178 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               anarchists stress the associational aspect of them while individualist
               anarchists the non-capitalist market side). Proudhon’s major works include
               What is Property, System of Economical Contradictions, The Principle
@@ -8744,7 +8717,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               across the globe. His major works included Mutual Aid, The Conquest of
               Bread, Field, Factories, and Workshops, Modern Science and
               Anarchism, Act for Yourselves, The State: Its Historic Role, Words of a
-179 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               Rebel, and many others. A collection of his revolutionary pamphlets is
               available under the title Anarchism and is essential reading for anyone
               interested in his ideas. In Addition, Graham Purchase’s Evolution and
@@ -8793,7 +8766,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               in the 1860s. Kropotkin, while the most associated with developing the theory
               communist-anarchism, was simply the most famous expounder of the ideas
               that had developed after Bakunin’s death in the libertarian wing of the First
-180 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               International and before he became an anarchist. Thus anarchism is the
               product of tens of thousands of thinkers and activists across the globe, each
               shaping and developing anarchist theory to meet their needs as part of the
@@ -8843,7 +8816,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               of Anarchism). Like Goldman, he supported anarchist involvement in the
               labour movement was a proliﬁc writer and speaker (the book Life of An
               Anarchist gives an excellent selection of his best articles, books and
-181 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               pamphlets). Both were involved in editing anarchist journals, with Goldman
               most associated with Mother Earth (see Anarchy! An Anthology of Emma
               Goldman’s Mother Earth edited by Peter Glassgold) and Berkman The
@@ -8893,7 +8866,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               (“Land and Liberty”) he inﬂuenced the developing labour movement as well as
               Zapata’s peasant army. He continually stressed the need to turn the
               revolution into a social revolution which will “give the lands to the people” as
-182 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               well as “possession of the factories, mines, etc.” Only this would ensure that
               the people “will not be deceived.” Talking of the Agrarians (the Zapatista
               army), Ricardo’s brother Enrique he notes that they “are more or less inclined
@@ -8942,7 +8915,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                 In Japan, Hatta Shuzo developed Kropotkin’s communist-anarchism in new
               directions between the world wars. Called “true anarchism,” he created an
               anarchism which was a concrete alternative to the mainly peasant country he
-183 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               and thousands of his comrades were active in. While rejecting certain aspects
               of syndicalism, they organised workers into unions as well as working with
               the peasantry for the “foundation stones on which to build the new society
@@ -8992,7 +8965,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               which has been hidden by the mainstream churches. Thus Christian
               Anarchism maintains, along with Tolstoy, that “Christianity in its true sense
               puts an end to government” (see, for example, Tolstoy’s The Kingdom of
-184 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               God is within you and Peter Marshall’s William Blake: Visionary
               Anarchist).
                 More recently, Noam Chomsky (in such works as Deterring Democracy,
@@ -9041,7 +9014,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               uncovering and documenting the anarchistic nature of everyday life even
               within capitalism. His extensive writing on housing has emphasised the
               importance of collective self-help and social management of housing against
-185 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               the twin evils of privatisation and nationalisation (see, for example, his books
               Talking Houses and Housing: An Anarchist Approach). He has cast an
               anarchist eye on numerous other issues, including water use (Reﬂected in
@@ -9088,7 +9061,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               it must be stressed that anarchism oﬀers an anarchist critique of both
               liberalism and socialism and we should not submerge the uniqueness of
               anarchism into other philosophies.
-186 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                 Section A.4.2 discusses liberal thinkers who are close to anarchism, while
               section A.4.3 highlights those socialists who are close to anarchism. There are
               even Marxists who inject libertarian ideas into their politics and these are
@@ -9136,7 +9109,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               freedom should be equated to consenting to be ruled and proposed a
               participatory democratic theory in which people collectively make their own
               decisions (a self-assumed obligation to your fellow citizens rather to a state).
-187 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               In discussing Kropotkin, she showed her awareness of the social anarchist
               tradition to which her own theory is obviously related.
                  Pateman builds on this analysis in her The Sexual Contract, where she
@@ -9186,7 +9159,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               principles of transparency, accountability and self-determination, one that
               frees people instead of liberating capital.” This means being against a
               “corporate-driven globalisation . .. that is centralising power and wealth into
-188 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               fewer and fewer hands” while presenting an alternative which is about
               “decentralising power and building community-based decision-making
               potential — whether through unions, neighbourhoods, farms, villages,
@@ -9233,7 +9206,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               classical liberalism is a profoundly elitist tradition. The works of Locke and
               the tradition he inspired aimed to justify hierarchy, state and private property.
               As Carole Pateman notes, “Locke’s state of nature, with its father-rulers and
-189 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               capitalist economy, would certainly not ﬁnd favour with anarchists” any more
               than his vision of the social contract and the liberal state it creates. A state,
               which as Pateman recounts, in which “only males who own substantial
@@ -9282,7 +9255,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               Futures, p. 777] Moreover, as Benjamin Tucker noted with regards their
               predecessors, while they are happy to attack any state regulation which
               beneﬁts the many or limits their power, they are silent on the laws (and
-190 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               regulations and “rights”) which beneﬁt the few.
                 However there is another liberal tradition, one which is essentially precapitalist which has more in common with the aspirations of anarchism. As
               Chomsky put it:
@@ -9330,7 +9303,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               equality.” Nor did he oppose state intervention or state aid for the working
               classes. For example, he advocated public education to counter the negative
               eﬀects of the division of labour. Moreover, he was against state intervention
-191 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               because whenever “a legislature attempts to regulate diﬀerences between
               masters and their workmen, its counsellors are always the masters. When
               regulation, therefore, is in favour of the workmen, it is always just and
@@ -9379,7 +9352,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               hated democracy — Thomas Jeﬀerson was a partial exception, but only
               partial.” The American state, as a classical liberal state, was designed (to
               quote James Madison) “to protect the minority of the opulent from the
-192 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               majority.” Or, to repeat John Jay’s principle, the “people who own the country
               ought to govern it.” [Understanding Power, p. 315] If American is a
               (formally) democracy rather than an oligarchy, it is in spite of rather than
@@ -9429,7 +9402,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                  Thus anarchism shares commonality with pre-capitalist and democratic
               liberal forms. The hopes of these liberals were shattered with the
               development of capitalism. To quote Rudolf Rocker’s analysis:
-193 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                    “Liberalism and Democracy were pre-eminently political concepts,
                    and since the great majority of the original adherents of both
                    maintained the right of ownership in the old sense, these had to
@@ -9476,7 +9449,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               advocated a decentralised communal system with workers’ control of industry.
               G.D.H. Cole’s Guild Socialism Restated is the most famous work of this
               school, which also included author’s S.G. Hobson and A.R. Orage (Geoﬀrey
-194 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               Osteregaard’s The Tradition of Workers’ Control provides an good
               summary of the ideas of Guild Socialism). Bertrand Russell, another supporter
               of Guild Socialism, was attracted to anarchist ideas and wrote an extremely
@@ -9525,7 +9498,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               Marxists who do). Castoriadis, like social anarchists, saw the future society as
               one based on radical autonomy, generalised self-management and workers’
               councils organised from the bottom up. His three volume collected works
-195 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               (Political and Social Writings) are essential reading for anyone interested
               in libertarian socialist politics and a radical critique of Marxism.
                 Special mention should also be made of Maurice Brinton, who, as well as
@@ -9570,7 +9543,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               However, this is not the case for all schools of Marxism. There are important
               sub-branches of Marxism which shares the anarchist vision of a self-managed
               society. These include Council Communism, Situationism and Autonomism.
-196 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               Perhaps signiﬁcantly, these few Marxist tendencies which are closest to
               anarchism are, like the branches of anarchism itself, not named after
               individuals. We will discuss each in turn.
@@ -9617,7 +9590,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               Castoriadis, whose ideas inﬂuenced them, the Situationists continued to view
               themselves as Marxists, developing Marx’s critique of capitalist economy into
               a critique of capitalist society as alienation had shifted from being located in
-197 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               capitalist production into everyday life. They coined the expression “The
               Spectacle” to describe a social system in which people become alienated
               from their own lives and played the role of an audience, of spectators. Thus
@@ -9667,7 +9640,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               conﬂicts within it. This is not limited to just the workplace and just as workers
               resist the imposition of work inside the factory or oﬀice, via slowdowns,
               strikes and sabotage, so too do the non-waged resist the reduction of their
-198 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               lives to work. For Autonomists, the creation of communism is not something
               that comes later but is something which is repeatedly created by current
               developments of new forms of working class self-activity.
@@ -9715,7 +9688,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               centralisation. As he put it, the “errors of Marx and Engels … [and] their
               centralistic orientation, were due to the fact they were much more rooted in
               the middle-class tradition of the eighteenth and nineteenth centuries, both
-199 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               psychologically and intellectually, than men like Fourier, Owen, Proudhon and
               Kropotkin.” As the “contradiction” in Marx between “the principles of
               centralisation and decentralisation,” for Fromm “Marx and Engels were much
@@ -9765,7 +9738,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                  Maurice Brinton’s The Irrational in Politics is an excellent short
               introduction to Reich’s ideas which links their insights to libertarian
               socialism.
-200 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               A.5 What are some examples of “Anarchy in
               Action”?
                 Anarchism, more than anything else, is about the eﬀorts of millions of
@@ -9812,7 +9785,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               another kind of history, that is not embodied in oﬀicial records, an invisible
               underground history.” [quoted by William R. McKercher, Freedom and
               Authority, p. 155] Almost by deﬁnition, popular movements and revolts are
-201 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               part of “underground history”, the social history which gets ignored in favour
               of elite history, the accounts of the kings, queens, politicians and wealthy
               whose fame is the product of the crushing of the many.
@@ -9861,7 +9834,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               movements. The death of Franco in 1975 saw a massive rebirth of anarchism
               in Spain, with up to 500,000 people attending the CNT’s ﬁrst post-Franco
               rally. The return to a limited democracy in some South American countries in
-202 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               the late 70’s and 80’s saw a growth in anarchism there. Finally, in the late
               80’s it was anarchists who struck the ﬁrst blows against the Leninist USSR,
               with the ﬁrst protest march since 1928 being held in Moscow by anarchists in
@@ -9908,7 +9881,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               A.5.1 The Paris Commune
                 The Paris Commune of 1871 played an important role in the development of
               both anarchist ideas and the movement. As Bakunin commented at the time,
-203 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                    “revolutionary socialism [i.e. anarchism] has just attempted its ﬁrst
                    striking and practical demonstration in the Paris Commune … [It]
                    show[ed] to all enslaved peoples (and are there any masses that are
@@ -9956,7 +9929,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               the Association of Metal Workers argued that “our economic emancipation …
               can only be obtained through the formation of workers’ associations, which
               alone can transform our position from that of wage earners to that of
-204 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               associates.” They instructed their delegates to the Commune’s Commission on
               Labour Organisation to support the following objectives:
                    “The abolition of the exploitation of man by man, the last vestige of
@@ -10006,7 +9979,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               Proudhon’s ideas (Proudhon had argued in favour of the “implementation of
               the binding mandate” in 1848 [No Gods, No Masters, p. 63] and for
               federation of communes in his work The Principle of Federation).
-205 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                 Thus both economically and politically the Paris Commune was heavily
               inﬂuenced by anarchist ideas. Economically, the theory of associated
               production expounded by Proudhon and Bakunin became consciously
@@ -10055,7 +10028,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               federation, then a central municipal Government becomes equally useless
               and noxious. The same federative principle would do within the Commune.”
               [Kropotkin, Evolution and Environment, p. 75] Instead of abolishing the
-206 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               state within the commune by organising federations of directly democratic
               mass assemblies, like the Parisian “sections” of the revolution of 1789–93 (see
               Kropotkin’s Great French Revolution for more on these), the Paris
@@ -10100,7 +10073,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               has been hijacked in the past by the Stalinist bureaucracy in the Soviet Union
               and elsewhere, the labour movement festival of May Day is a day of worldwide solidarity. A time to remember past struggles and demonstrate our hope
               for a better future. A day to remember that an injury to one is an injury to all.
-207 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                 The history of Mayday is closely linked with the anarchist movement and
               the struggles of working people for a better world. Indeed, it originated with
               the execution of four anarchists in Chicago in 1886 for organising workers in
@@ -10150,7 +10123,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               anarchists and other socialists. Many suspects were beaten up and some
               bribed. “Make the raids ﬁrst and look up the law afterwards” was the public
               statement of J. Grinnell, the States Attorney, when a question was raised
-208 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               about search warrants. [“Editor’s Introduction”, The Autobiographies of
               the Haymarket Martyrs, p. 7]
                 Eight anarchists were put on trial for accessory to murder. No pretence was
@@ -10199,7 +10172,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               relentless, vindictive, savage and bloody. By that prosecution the capitalists
               sought to break the great strike for the eight-hour day which as being
               successfully inaugurated in Chicago, this city being the stormcentre of that
-209 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               great movement; and they also intended, by the savage manner in which they
               conducted the trial of these men, to frighten the working class back to their
               long hours of toil and low wages from which they were attempting to emerge.
@@ -10247,7 +10220,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               breed resistance and, for anarchists, May Day is an international symbol of
               that resistance and power — a power expressed in the last words of August
               Spies, chiselled in stone on the monument to the Haymarket martyrs in
-210 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               Waldheim Cemetery in Chicago:
                    “The day will come when our silence will be more powerful than the
 ## voices you are throttling today.”
@@ -10293,7 +10266,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    federalistic basis.” [Op. Cit., p. 42]
                 In addition to their union organising, the Chicago anarchist movement also
               organised social societies, picnics, lectures, dances, libraries and a host of
-211 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               other activities. These all helped to forge a distinctly working-class
               revolutionary culture in the heart of the “American Dream.” The threat to the
               ruling class and their system was too great to allow it to continue (particularly
@@ -10339,7 +10312,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               gives their members “every opportunity for direct action in their struggles for
               daily bread, it also provides them with the necessary preliminaries for
               carrying through the reorganisation of social life on a [libertarian] Socialist
-212 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               plan by them own strength.” [Rudolf Rocker, Anarcho-Syndicalism, p. 59
               and p. 62] Anarcho-syndicalism, to use the expression of the I.W.W., aims to
               build the new world in the shell of the old.
@@ -10388,7 +10361,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               and courageous role in the insurrection, was completely smashed and
               Portugal remained a fascist state for the next 40 years. [Phil Mailer,
               Portugal: The Impossible Revolution, pp. 72–3] In Spain, the CNT (the
-213 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               most famous anarcho-syndicalist union) fought a similar battle. By 1936, it
               claimed one and a half million members. As in Italy and Portugal, the
               capitalist class embraced fascism to save their power from the dispossessed,
@@ -10438,7 +10411,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               workers, in every trade and country, and remember that however weak you
               are as isolated individuals or districts, you will constitute a tremendous,
               invincible power by means of universal co-operation.” As one American
-214 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               activist commented, this is “the same militant spirit that breathes now in the
               best expressions of the Syndicalist and I.W.W. movements” both of which
               express “a strong world wide revival of the ideas for which Bakunin laboured
@@ -10484,7 +10457,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               Revolution, p. 20] Such popular self-managed organisations cannot be
               anything but “anarchy in action.”
               A.5.4 Anarchists in the Russian Revolution
-215 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                 The Russian revolution of 1917 saw a huge growth in anarchism in that
               country and many experiments in anarchist ideas. However, in popular culture
               the Russian Revolution is seen not as a mass movement by ordinary people
@@ -10534,7 +10507,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               behind. This included the Bolsheviks, with the “Petrograd organisation of the
               Bolsheviks oppos[ing] the calling of strikes precisely on the eve of the
               revolution destined to overthrow the Tsar. Fortunately, the workers ignored
-216 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               the Bolshevik ‘directives’ and went on strike anyway … Had the workers
               followed its guidance, it is doubtful that the revolution would have occurred
               when it did.” [Murray Bookchin, Post-Scarcity Anarchism, p. 123]
@@ -10584,7 +10557,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               government and re-organise society from the bottom up using their own class
               organisations — the soviets, the factory committees, co-operatives and so on.
               They could also inﬂuence the direction of struggle. As Alexander Rabinowitch
-217 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               (in his study of the July uprising of 1917) notes:
                    “At the rank-and-ﬁle level, particularly within the [Petrograd]
                    garrison and at the Kronstadt naval base, there was in fact very
@@ -10632,7 +10605,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               committees did. As S.A. Smith correctly notes, Lenin used “the term
               [‘workers’ control’] in a very diﬀerent sense from that of the factory
               committees.” In fact Lenin’s “proposals … [were] thoroughly statist and
-218 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               centralist in character, whereas the practice of the factory committees was
               essentially local and autonomous.” [Red Petrograd, p. 154] For anarchists,
               “if the workers’ organisations were capable of exercising eﬀective control
@@ -10680,7 +10653,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               but were instead securing power for themselves and pushing not for collective
               ownership of land and productive resources but for government ownership.
               The Bolsheviks, as noted, systematically undermined the workers’ control/selfmanagement movement in favour of capitalist-like forms of workplace
-219 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               management based around “one-man management” armed with “dictatorial
               powers.”
                 As regards the soviets, the Bolsheviks systematically undermining what
@@ -10726,7 +10699,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               that Lenin or any of the mainstream Bolshevik leaders lamented the loss of
               workers’ control or of democracy in the soviets, or at least referred to these
               losses as a retreat, as Lenin declared with the replacement of War
-220 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               Communism by NEP in 1921.” [Before Stalinism, p. 44]
                 Thus after the October Revolution, anarchists started to denounce the
               Bolshevik regime and call for a “Third Revolution” which would ﬁnally free
@@ -10775,7 +10748,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               power (and the social relationships it generates) could not help but result in
               such a degeneration. The political ideas of Bolshevism, with its vanguardism,
               fear of spontaneity and identiﬁcation of party power with working class power
-221 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               inevitably meant that the party would clash with those whom it claimed to
               represent. After all, if the party is the vanguard then, automatically, everyone
               else is a “backward” element. This meant that if the working class resisted
@@ -10824,7 +10797,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               197] By substituting party power for workers power, the Russian Revolution
               had made its ﬁrst fatal step. Little wonder that the following prediction (from
               November 1917) made by anarchists in Russia came true:
-222 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                    “Once their power is consolidated and ‘legalised’, the Bolsheviks
                    who are … men of centralist and authoritarian action will begin to
                    rearrange the life of the country and of the people by governmental
@@ -10872,7 +10845,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               Bolsheviks put down the libertarian socialist elements within their country,
               with the crushing of the uprising at Kronstadt and the Makhnovist movement
               in the Ukraine being the ﬁnal nails in the coﬀin of socialism and the
-223 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               subjugation of the soviets.
                 The Kronstadt uprising of February, 1921, was, for anarchists, of immense
               importance (see the appendix “What was the Kronstadt Rebellion?” for a full
@@ -10918,7 +10891,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               according to principles of self-management by workers were examined and
               discussed with animation by the masses of workers, who all welcomed this
               ideas with the greatest enthusiasm … Railroad workers took the ﬁrst step …
-224 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               They formed a committee charged with organising the railway network of the
               region … From this point, the proletariat of Aleksandrovsk began to turn
               systematically to the problem of creating organs of self-management.” [Op.
@@ -10967,7 +10940,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               cities and towns occupied by the Makhnovists, they began by lifting all the
               prohibitions and repealing all the restrictions imposed on the press and on
               political organisations by one or another power.” Indeed, the “only restriction
-225 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               that the Makhnovists considered necessary to impose on the Bolsheviks, the
               left Socialist-Revolutionaries and other statists was a prohibition on the
               formation of those ‘revolutionary committees’ which sought to impose a
@@ -11017,7 +10990,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               They were the ﬁrst left-wing group to be repressed by the new
               “revolutionary” regime. Outside of Russia, anarchists continued to support
               the Bolsheviks until news came from anarchist sources about the repressive
-226 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               nature of the Bolshevik regime (until then, many had discounted negative
               reports as being from pro-capitalist sources). Once these reliable reports
               came in, anarchists across the globe rejected Bolshevism and its system of
@@ -11067,7 +11040,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               The Russian Tragedy, both by Alexander Berkman; The Bolsheviks and
               Workers Control by M. Brinton; The Kronstadt Uprising by Ida Mett; The
               History of the Makhnovist Movement by Peter Arshinov; My
-227 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               Disillusionment in Russia and Living My Life by Emma Goldman; Nestor
               Makhno Anarchy’s Cossack: The struggle for free soviets in the
               Ukraine 1917–1921 by Alexandre Skirda.
@@ -11112,7 +11085,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               metalworking industry and the unions were in danger of becoming marginal
               administrative units. Behind these alarming developments, in the eyes of
               reformists, lay the libertarians.” [Carl Levy, Gramsci and the Anarchists, p.
-228 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               135] By November 1919 the internal commissions of Turin were transformed
               into factory councils.
                  The movement in Turin is usually associated with the weekly L’Ordine
@@ -11160,7 +11133,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               occupations.” Indeed, “the council movement outside Turin was essentially
               anarcho-syndicalist.” Unsurprisingly, the secretary of the syndicalist metalworkers “urged support for the Turin councils because they represented antibureaucratic direct action, aimed at control of the factory and could be the
               ﬁrst cells of syndicalist industrial unions … The syndicalist congress voted to
-229 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               support the councils… . Malatesta … supported them as a form of direct
               action guaranteed to generate rebelliousness … Umanita Nova and Guerra
               di Classe [paper of the USI] became almost as committed to the councils as
@@ -11208,7 +11181,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               p. 207, p. 193 and p. 194]
                  Eventually the CGL leadership settled the strike on terms that accepted the
               employers’ main demand for limiting the shop stewards’ councils to nonworking hours. Though the councils were now much reduced in activity and
-230 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               shop ﬂoor presence, they would yet see a resurgence of their position during
               the September factory occupations.
                 The anarchists “accused the socialists of betrayal. They criticised what they
@@ -11255,8 +11228,8 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    and administrative workers’ committees. Self-management went
                    quite a long way: in the early period assistance was obtained from
                    the banks, but when it was withdrawn the self-management system
-                   issued its own money to pay the workers’ wages. Very strict self231 of 3436 10/1/25, 7:46 PM
-An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+                   issued its own money to pay the workers’ wages. Very strict self
+
                    discipline was required, the use of alcoholic beverages forbidden,
                    and armed patrols were organised for self-defence. Very close
                    solidarity was established between the factories under self-
@@ -11304,7 +11277,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    the ‘counter-revolutionary vote’ of Milan, declared it minoritarian,
                    arbitrary and null, and ended by launching new, vague, but ardent
                    calls to action.” [Paolo Spriano, Op. Cit., p. 94]
-232 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                 Malatesta addressed the workers of one of the factories at Milan. He argued
               that ”[t]hose who celebrate the agreement signed at Rome [between the
               Confederazione and the capitalists] as a great victory of yours are deceiving
@@ -11353,7 +11326,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               Tobias Abse points out, “the rise of fascism in Italy cannot be detached from
               the events of the biennio rosso, the two red years of 1919 and 1920, that
               preceded it. Fascism was a preventive counter-revolution … launched as a
-233 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               result of the failed revolution” [“The Rise of Fascism in an Industrial City”, pp.
               52–81, Rethinking Italian Fascism, David Forgacs (ed.), p. 54] The term
               “preventive counter-revolution” was originally coined by the leading anarchist
@@ -11402,7 +11375,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               [Red Years, Black Years: Anarchist Resistance to Fascism in Italy, p. 2]
               Rather than being just an “anti-fascist” organisation, the Arditi “were not a
               movement in defence of ‘democracy’ in the abstract, but an essentially
-234 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               working-class organisation devoted to the defence of the interests of
               industrial workers, the dockers and large numbers of artisans and craftsmen.”
               [Tobias Abse, Op. Cit., p. 75] Unsurprisingly, the Arditi del Popolo “appear
@@ -11451,7 +11424,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               towards the Arditi del Popolo than other Communist leaders, ”[i]n common
               with all communist leaders, Gramsci awaited the formation of the PCd’I-led
               military squads.” [Sonnessa, Op. Cit., p. 196] In other words, the struggle
-235 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               against fascism was seen by the Communist leadership as a means of gaining
               more members and, when the opposite was a possibility, they preferred defeat
               and fascism rather than risk their followers becoming inﬂuenced by
@@ -11499,7 +11472,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               claimed by some anarchists. According to Bob Black the “Italian syndicalists
               mostly went over to Fascism” and references David D. Roberts 1979 study
               The Syndicalist Tradition and Italian Fascism to support his claim.
-236 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               [Anarchy after Leftism, p. 64] Peter Sabatini in a review in Social
               Anarchism makes a similar statement, saying that syndicalism’s “ultimate
               failure” was “its transformation into a vehicle of fascism.” [Social
@@ -11548,7 +11521,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               intelligentsia” and that “some syndicalist intellectuals … helped generate, or
               sympathetically endorsed, the new Nationalist movement .. . which bore
               similarities to the populist and republican rhetoric of the southern syndicalist
-237 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               intellectuals.” He argues that there “has been far too much emphasis on
               syndicalist intellectuals and national organisers” and that syndicalism “relied
               little on its national leadership for its long-term vitality.” [Op. Cit., p. 77, p. 53
@@ -11594,7 +11567,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               the widespread take-over of land and factories. Over seven million people,
               including about two million CNT members, put self-management into practise
               in the most diﬀicult of circumstances and actually improved both working
-238 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               conditions and output.
                 In the heady days after the 19th of July, the initiative and power truly rested
               in the hands of the rank-and-ﬁle members of the CNT and FAI. It was ordinary
@@ -11643,7 +11616,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                 All industry in Catalonia was placed either under workers’ self-management
               or workers’ control (that is, either totally taking over all aspects of
               management, in the ﬁrst case, or, in the second, controlling the old
-239 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               management). In some cases, whole town and regional economies were
               transformed into federations of collectives. The example of the Railway
               Federation (which was set up to manage the railway lines in Catalonia,
@@ -11692,7 +11665,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               this very important organisation). This activity on the social front only built on
               the work started long before the outbreak of the war; for example, the unions
               often funded rational schools, workers centres, and so on.
-240 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                 The voluntary militias that went to free the rest of Spain from Franco were
               organised on anarchist principles and included both men and women. There
               was no rank, no saluting and no oﬀicer class. Everybody was equal. George
@@ -11741,8 +11714,6 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    money-tainted air of England; there was no one there except the
 ## peasants and ourselves, and no one owned anyone else as his
 
-241 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
-
 ## master… One had been in a community where hope was more
                    normal than apathy or cynicism, where the word ‘comrade’ stood for
                    comradeship and not, as in most countries, for humbug. One had
@@ -11789,7 +11760,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               thousands of students out onto the streets. Increasing police violence
               provoked the building of the ﬁrst barricades. Jean Jacques Lebel, a reporter,
               wrote that by 1 a.m., ”[l]iterally thousands helped build barricades… women,
-242 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               workers, bystanders, people in pyjamas, human chains to carry rocks, wood,
               iron.” An entire night of ﬁghting left 350 police injured. On May 7th, a 50,000strong protest march against the police was transformed into a day-long
               battle through the narrow streets of the Latin Quarter. Police tear gas was
@@ -11837,7 +11808,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               support for a self-managed revolution from below had a massive inﬂuence in
               the May events and the ideas that inspired it.
                 On May 14th, the Sud-Aviation workers locked the management in its oﬀices
-243 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               and occupied their factory. They were followed by the Cleon-Renault,
               Lockhead-Beauvais and Mucel-Orleans factories the next day. That night the
               National Theatre in Paris was seized to become a permanent assembly for
@@ -11885,7 +11856,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               once… . “ Cohn-Bendit was forced into exile later that very night.
                 As the street demonstrations grew and occupations continued, the state
               prepared to use overwhelming means to stop the revolt. Secretly, top generals
-244 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               readied 20,000 loyal troops for use on Paris. Police occupied communications
               centres like TV stations and Post Oﬀices. By Monday, May 27th, the
               Government had guaranteed an increase of 35% in the industrial minimum
@@ -11934,7 +11905,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               potential power that lies in the hands of the working class. The mass
               assemblies and occupations give an excellent, if short-lived, example of
               anarchy in action and how anarchist ideas can quickly spread and be applied
-245 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               in practice.
                 For more details of these events, see participants Daniel and Gabriel CohnBendit’s Obsolete Communism: The Left-Wing Alternative or Maurice
               Brinton’s eye-witness account “Paris: may 1968” (in his For Workers’
@@ -11979,7 +11950,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               was “not only against Capitalism, but also against these pillars of Capitalism:
               Law, Authority, and the State.” [Evolution and Environment, p. 16 and p.
               19]
-246 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                 In other words, anarchism as it exists today, as a social movement with a
               long history of struggle and with a political theory and set of ideas, is the
               product of the transformation of society which accompanied the creation of
@@ -12028,7 +11999,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               despised we shall show how it is possible to live happily in a world of people
               who are free and equal .. . And when we will have succeeded in arousing the
               sentiment of rebellion in the minds of men [and women] against the avoidable
-247 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               and unjust evils from which we suﬀer in society today, and in getting them to
               understand how they are caused and how it depends on human will to rid
               ourselves of them” then we will be able to unite and change them for the
@@ -12077,7 +12048,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               evaluation of authority and domination, this undermining of what previously
               was considered “natural” or “common-sense” until we started to question
               it. As noted above, an essential part of this process is to encourage direct
-248 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               action by the oppressed against their oppressors as well as encouraging the
               anarchistic tendencies and awareness that exist (to a greater or lesser
               degree) in any hierarchical society. The task of anarchists is to encourage
@@ -12123,7 +12094,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               simple:
                    ”[n]o one should be entrusted with power, inasmuch as anyone
                    invested with authority must … became an oppressor and exploiter
-249 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                    of society.” [Bakunin, The Political Philosophy of Bakunin, p.
                    249]
                  This distinction between forms of authority is important. As Erich Fromm
@@ -12172,7 +12143,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               means that the various groups individuals create have traits, behaviours and
               outcomes that cannot be understood by reducing them to the individuals
               within them. That is, groups consist not only of individuals, but also
-250 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               relationships between individuals and these relationships will aﬀect those
               subject to them. For example, obviously “the exercise of power by some
               disempowers others” and so through a “combination of physical intimidation,
@@ -12222,7 +12193,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    and superiors, and there would ensue two … castes of masters and
                    wage-workers, which is repugnant to a free and democratic society.”
                    [General Idea of the Revolution, pp. 215–216]
-251 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                 In other words, associations can be based upon a form of rational authority,
               based upon natural inﬂuence and so reﬂect freedom, the ability of
               individuals to think, act and feel and manage their own time and activity.
@@ -12272,7 +12243,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               Voltairine de Cleyre Reader, p. 72, p. 17 and p. 72]
                 Needless to say, while we discuss diﬀerent forms of hierarchy in diﬀerent
               sections this does not imply that anarchists think they, and their negative
-252 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               eﬀects, are somehow independent or can be easily compartmentalised. For
               example, the modern state and capitalism are intimately interrelated and
               cannot be considered as independent of each other. Similarly, social
@@ -12316,7 +12287,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               Books, 1985).
               B.1.1 What are the eﬀects of authoritarian social
               relationships?
-253 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                 Hierarchical authority is inextricably connected with the marginalisation
               and disempowerment of those without authority. This has negative eﬀects on
               those over whom authority is exercised, since ”[t]hose who have these
@@ -12365,7 +12336,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               those at the top, meaning that most people are turned into executants,
               following the orders of others. If muscle is not used, it turns to fat; if the brain
               is not used, creativity, critical thought and mental abilities become blunted
-254 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               and side-tracked onto marginal issues, like sports and fashion. This can only
               have a negative impact:
                    “Hierarchical institutions foster alienated and exploitative
@@ -12412,7 +12383,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               humanity.” However, that is not all. Hierarchy, anarchists argue, also twists
               our relationships with the environment. Indeed, “all our notions of dominating
               nature stem from the very real domination of human by human … And it is not
-255 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               until we eliminate domination in all its forms … that we will really create a
               rational, ecological society.” For “the conﬂicts within a divided humanity,
               structured around domination, inevitably leads to conﬂicts with nature. The
@@ -12462,7 +12433,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                 Needless to say, inequality in terms of power will translate itself into
               inequality in terms of wealth (and vice versa). The eﬀects of such social
               inequality are wide-reaching. For example, health is aﬀected signiﬁcantly by
-256 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               inequality. Poor people are more likely to be sick and die at an earlier age,
               compared to rich people. Simply put, “the lower the class, the worse the
               health. Going beyond such static measures, even interruptions in income of
@@ -12512,7 +12483,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                 So wealth does not determine health. What does is the gap between the rich
               and the poor. The larger the gap, the sicker the society. Countries with a
               greater degree of socioeconomic inequality show greater inequality in health
-257 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               status; also, that middle-income groups in relatively unequal societies have
               worse health than comparable, or even poorer, groups in more equal
               societies. Unsurprisingly, this is also reﬂected over time. The widening income
@@ -12561,7 +12532,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               making decisions for themselves are happier and live longer. It is the power to
               control all aspects of your life — work particularly — that wealth and status
               tend to confer that is the key determinant of health. Men who have low job
-258 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               control face a 50% higher risk of new illness: heart attacks, stroke, diabetes
               or merely ordinary infections. Women are at slightly lower risk but low job
               control was still a factor in whether they fell ill or not.
@@ -12611,7 +12582,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               bureaucracy. This becomes a necessity in order to gather the necessary
               information it needs to make decisions (and, obviously, to control those under
               it). However, soon this bureaucracy becomes the real source of power due to
-259 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               its permanence and control of information and resources. Thus hierarchy
               cannot “survive without creating around itself a new privileged class” as well
               as being a “privileged class and cut oﬀ from the people” itself. [Malatesta, Op.
@@ -12661,7 +12632,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               people,” then by treating others as less than yourself, restricting their growth,
               you lose all the potential insights and abilities these individuals have, so
               impoverishing your own life and restricting your own growth.
-260 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               Unfortunately in these days material wealth (a particularly narrow form of
               “self-interest”) has replaced concern for developing the whole person and
               leading a fulﬁlling and creative life (a broad self-interest, which places the
@@ -12707,7 +12678,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               during working hours (sometimes outside work too). As Noam Chomsky
               summarises, “a corporation, factory of business is the economic equivalent of
               fascism: decisions and control are strictly top-down.” [Letters from
-261 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               Lexington, p. 127] The worker’s choices are extremely limited, for most
               people it amount to renting themselves out to a series of diﬀerent masters (for
               a lucky few, the option of being a master is available). And master is the right
@@ -12756,7 +12727,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                 Ultimately, there is one right that cannot be ceded or abandoned, namely
               the right to personality. If a person gave up their personality they would cease
               to be a person yet this is what the employment contract imposes. To maintain
-262 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               and develop their personality is a basic right of humanity and it cannot be
               transferred to another, permanently or temporarily. To argue otherwise would
               be to admit that under certain circumstances and for certain periods of time a
@@ -12805,7 +12776,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               and, moreover, the product of substantial state action and coercion (see
               section F.8 for some discussion of this). Simply put, “the early labourer …
               abhorred the factory, where he [or she] felt degraded and tortured.” While the
-263 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               state ensured a steady pool of landless workers by enforcing private property
               rights, the early manufacturers also utilised the state to ensure low wages,
               primarily for social reasons — only an overworked and downtrodden labourer
@@ -12849,7 +12820,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               conditions to commodify labour fully.
               B.1.3 What kind of hierarchy of values does capitalism
               create?
-264 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                  Anarchists argue that capitalism can only have a negative impact on ethical
               behaviour. This ﬂows from its hierarchical nature. We think that hierarchy
               must, by its very nature, always impact negatively on morality.
@@ -12896,7 +12867,6 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               people are valued by how much they earn. It also leads, as Murray Bookchin
               argues, to a debasement of human values:
                    “So deeply rooted is the market economy in our minds that its
-265 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
 
 ## grubby language has replaced our most hallowed moral and
                    spiritual expressions. We now ‘invest’ in our children, marriages,
@@ -12945,7 +12915,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               satisﬁed by social interaction based on truly human values and by creative,
               self-directed work.
                  This does not mean, of course, that anarchists are against higher living
-266 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               standards or material goods. To the contrary, they recognise that liberty and a
               good life are only possible when one does not have to worry about having
               enough food, decent housing, and so forth. Freedom and 16 hours of work a
@@ -12991,7 +12961,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               Destiny” developed at about the same time in England and to a lesser extent
               in America, and were used to rationalise Anglo-Saxon conquest and world
               domination on a “humanitarian” basis.
-267 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                 Racism and authoritarianism at home and abroad has gone hand in hand. As
               Rudolf Rocker argued, ”[a]ll advocates of the race doctrine have been and are
               the associates and defenders of every political and social reaction, advocates
@@ -13041,7 +13011,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               wages can be depressed below prevailing levels and proﬁts, correspondingly,
               increased. Indirectly, discrimination adds capitalist proﬁts and power by
               increasing unemployment and setting workers against each other. Such
-268 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               factors ensure that capitalism will never “compete” discrimination way as
               some free-market capitalist economists argue.
                  In other words, capitalism has beneﬁted and will continue to beneﬁt from its
@@ -13091,7 +13061,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               elites have embraced socio-biology in response to the growing women’s
               movement. By “explaining” women’s oppression on biological grounds, a
               social system run by men and for men could be ignored.
-269 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                 Women’s subservient role also has economic value for capitalism (we should
               note that Goldman considered capitalism to be another “paternal
               arrangement” like marriage, both of which robbed people of their
@@ -13141,7 +13111,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               the normal human variations they are because they blur that society’s rigid
               gender roles and sexist stereotypes. Most young gay people keep their
               sexuality to themselves for fear of being kicked out of home and all gays have
-270 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               the fear that some “straights” will try to kick their sexuality out of them if
               they express their sexuality freely. As with those subject to other forms of
               bigotry, gays are also discriminated against economically (gay men earning
@@ -13190,7 +13160,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               key things:
                 (1) The narrower the gap between white and black wages in an American
                state, the higher white earnings were relative to white earnings elsewhere.
-271 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                       This means that “whites do not beneﬁt economically by economic
                discrimination. White workers especially appear to beneﬁt economically from
                 the absence of economic discrimination... both in the absolute level of their
@@ -13239,7 +13209,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               The sexual repression of the sexist and homophobe will hardly be good for
               their mental health, their relationships or general development.
                 From the anarchist standpoint, oppression based on race, sex or sexuality
-272 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               will remain forever intractable under capitalism or, indeed, under any
               economic or political system based on domination and exploitation. While
               individual members of “minorities” may prosper, racism as a justiﬁcation for
@@ -13286,7 +13256,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               “anarcho” capitalists bleating about “liberty” while at the same time
               advocating factory fascism and privatised states. In short, authoritarian
               civilisation reproduces itself with each generation because, through an
-273 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               intricate system of conditioning that permeates every aspect of society, it
               creates masses of people who support the status quo.
                  Wilhelm Reich has given one of the most thorough analyses of the
@@ -13335,7 +13305,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    organisation had to change the sexual structure of its members to
                    produce a sexuality in keeping with its new form of life. This was a
                    necessary change because the shifting of power and of wealth from
-274 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                    the democratic gens [maternal clans] to the authoritarian family of
                    the chief was mainly implemented with the help of the suppression
                    of the sexual strivings of the people. It was in this way that sexual
@@ -13381,8 +13351,8 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    of which is the severe impairment of the child’s genital sexuality,
                    makes the child afraid, shy, fearful of authority, obedient, ‘good,’
                    and ‘docile’ in the authoritarian sense of the words. It has a
-                   crippling eﬀect on man’s rebellious forces because every vital life275 of 3436 10/1/25, 7:46 PM
-An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+                   crippling eﬀect on man’s rebellious forces because every vital life
+
                    impulse is now burdened with severe fear; and since sex is a
                    forbidden subject, thought in general and man’s critical faculty also
                    become inhibited. In short, morality’s aim is to produce acquiescent
@@ -13430,7 +13400,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               provide no private space for adolescents to pursue undisturbed sexual
               relationships with their partners, but in fact actively discourage such
               behaviour, often (as in fundamentalist Christian families) demanding complete
-276 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               abstinence — at the very time when abstinence is most impossible! Moreover,
               since teenagers are economically dependent on their parents under
               capitalism, with no societal provision of housing or dormitories allowing for
@@ -13479,7 +13449,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               pleasurable sensations — a conditioning that does, however, prepare them for
               lives based on the sacriﬁce of pleasure (or indeed, even of life itself) under
               capitalism and statism, with their requirements of mass submission to
-277 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               alienated labour, exploitation, military service to protect ruling-class interests,
               and so on. And at the same time, authoritarian ideology emphasises the value
               of suﬀering, as for example through the gloriﬁcation of the tough, insensitive
@@ -13524,7 +13494,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               more than a utopian dream. Surely, it will be argued, as anarchists
               acknowledge that those subject to a hierarchy adapt to it this automatically
               excludes the creation of people able to free themselves from it?
-278 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                  Anarchists disagree. Hierarchy can be ended, both in speciﬁc forms and in
               general. A quick look at the history of the human species shows that this is
               the case. People who have been subject to monarchy have ended it, creating
@@ -13573,7 +13543,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    to all conditions without ﬁghting those which are against his nature,
                    he would have no history. Human evolution is rooted in man’s
                    adaptability and in certain indestructible qualities of his nature
-279 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                    which compel him to search for conditions better adjusted to his
                    intrinsic needs.” [Op. Cit., pp. 22–23]
                 So as well as adaptation to hierarchy, there is resistance. This means that
@@ -13622,7 +13592,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               but, ultimately, end it once and for all. This means that any struggle changes
               those who take part in it, politicising them and transforming their
               personalities by shaking oﬀ the servile traits produced and required by
-280 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               hierarchy. As an example, after the sit-down strikes in Flint, Michigan, in 1937
               one eye-witness saw how “the auto worker became a diﬀerent human being.
               The women that had participated actively became a diﬀerent type of women
@@ -13672,7 +13642,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               assemblies (see section J.5.1) as a means of not only combating the power of
               the state but also replaced it with by free, self-managed, communities (see
               section I.5).
-281 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                Thus the current struggle itself creates the bridge between what is and
               what could be:
                    “Assembly and community must arise from within the revolutionary
@@ -13718,7 +13688,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               that education is still patriarchal, with young women still often steered away
               from traditionally “male” courses of study and work (which teaches children
               that men and women are assigned diﬀerent roles in society and sets them up
-282 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               to accept these limitations as they grow up) it is also true that the position of
               women, like that of blacks and gays, has improved. This is due to the various
               self-organised, self-liberation movements that have continually developed
@@ -13767,7 +13737,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               actively support others in struggle (including members of the dominant race/
               sex/sexuality). Such practical solidarity and communication can, when
               combined with the radicalising eﬀects of the struggle itself on those involved,
-283 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               help break down prejudice and bigotry, undermining the social hierarchies
               that oppress us all. For example, gay and lesbian groups supporting the
               1984/5 UK miners’ strike resulted in such groups being given pride of place in
@@ -13809,7 +13779,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               capitalism.
                 So what is the state? As Malatesta put it, anarchists “have used the word
               State, and still do, to mean the sum total of the political, legislative, judiciary,
-284 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               military and ﬁnancial institutions through which the management of their own
               aﬀairs, the control over their personal behaviour, the responsibility for their
               personal safety, are taken away from the people and entrusted to others who,
@@ -13856,7 +13826,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               “is only one of the forms assumed by society in the course of history.” [Op.
               Cit., p. 10]
                 The state, therefore, is not just federations of individuals or peoples and so,
-285 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               as Malatesta stressed, cannot be used to describe a “human collectively
               gathered together in a particular territory and making up what is called a
               social unit irrespective of the way the way said collectivity are grouped or the
@@ -13907,7 +13877,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
 ## hands of a few.
 
                 Of these three aspects, the last one (its centralised, hierarchical nature) is
-286 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               the most important simply because the concentration of power into the hands
               of the few ensures a division of society into government and governed (which
               necessitates the creation of a professional body to enforce that division).
@@ -13956,7 +13926,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               for its personal advantage.” [Kropotkin, Selected Writings on Anarchism
               and Revolution, p. 61] This means that those who serve the people’s (socalled) servant have more power than those they serve, just as the politician
               has more power than those who elected him. All forms of state-like (i.e.
-287 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               hierarchical) organisations inevitably spawn a bureaucracy about them. This
               bureaucracy soon becomes the de facto focal point of power in the structure,
               regardless of the oﬀicial rules.
@@ -14006,7 +13976,6 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    one’s own fellow citizens … whenever the welfare of the State
 ## demands it.
 
-288 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    “This explains why, since the birth of the State, the world of politics
 ## has always been and continues to be the stage for unlimited
                    rascality and brigandage … This explains why the entire history of
@@ -14056,7 +14025,6 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    State … [in which] all the best aspirations, all the living forces of a
 ## country, are sanctimoniously immolated and interred.” [The
 
-289 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    Political Philosophy of Bakunin, p. 207]
                  That is by no means the end of it. As well as its obvious hierarchical form,
               anarchists object to the state for another, equally important, reason. This is its
@@ -14104,7 +14072,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               [Kropotkon, Evolution and Environment, p. 78] It is for this reason that
               anarchists aim to create a new form of social organisation and life, a
               decentralised one based on decision making from the bottom-up and the
-290 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               elimination of hierarchy.
                  Finally, we must point out that anarchists, while stressing what states have
               in common, do recognise that some forms of the state are better than others.
@@ -14151,7 +14119,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               This service is referred to as “protecting private property” and is said to be
               one of the two main functions of the state, the other being to ensure that
               individuals are “secure in their persons.” However, although this second aim
-291 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               is professed, in reality most state laws and institutions are concerned with the
               protection of property (for the anarchist deﬁnition of “property” see section
               B.3.1).
@@ -14201,7 +14169,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               perfectly well know that if the machinery of the State ceased to protect them,
               their power over the labouring classes would be gone immediately.”
               [Evolution and Environment, p. 98] Protecting private property and
-292 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               upholding class domination are the same thing.
                 The historian Charles Beard makes a similar point:
                    “Inasmuch as the primary object of a government, beyond mere
@@ -14247,7 +14215,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                 So, in a nutshell, the state is the means by which the ruling class rules.
               Hence Bakunin:
                    “The State is authority, domination, and force, organised by the
-293 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                    property-owning and so-called enlightened classes against the
                    masses .. . the State’s domination … [ensures] that of the privileged
                    classes who it solely represents.” [The Basic Bakunin, p. 140]
@@ -14296,7 +14264,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               prosperity of the capitalistic economy: State centralisation and the actual
               subjection of … the people … to the minority allegedly representing it but
               actually governing it.” [Op. Cit., p. 210] How this is achieved is discussed in
-294 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               section B.2.3.
               B.2.2 Does the state have subsidiary functions?
                  Yes, it does. While, as discussed in the last section, the state is an
@@ -14343,7 +14311,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               and stagnation; maintaining a “natural” level of unemployment that can be
               used to discipline the working class, so ensuring they produce more, for less;
               manipulating the interest rate in order to try and reduce the eﬀects of the
-295 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               business cycle and undermine workers’ gains in the class struggle.
                 These actions, and others like it, ensures that a key role of the state within
               capitalism “is essentially to socialise risk and cost, and to privatise power and
@@ -14392,7 +14360,6 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    magnates, the publicans, and the like … we need only to look round,
 ## to see how everywhere in Europe and America the States are
 
-296 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    constituting monopolies in favour of capitalists at home, and still
                    more in conquered lands [which are part of their empires].”
                    [Evolution and Environment, p. 97]
@@ -14440,7 +14407,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               to create institutions for its protection. Combine this with a desire for justice
               on behalf of the oppressed along with opposition to the worse inequalities and
               abuses of power and wealth and we have the potential for the state to act to
-297 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               combat the worse excesses of the system in order to keep the system as a
               whole going. After all, the government “cannot want society to break up, for it
               would mean that it and the dominant class would be deprived of the sources
@@ -14490,7 +14457,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               cannot help but shape how the state tries to implement social protection and
               so if the state assumes functions it does so as much in the immediate interest
               of the capitalist class as in the interest of society in general. Even where it
-298 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               takes action under pressure from the general population or to try and mend
               the harm done by the capitalist market, its class and hierarchical character
               twists the results in ways useful primarily to the capitalist class or itself. This
@@ -14537,7 +14504,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               [Rocker, Anarcho-Syndicalism, p. 75]
                 Equally obviously, the ruling elite and its defenders hate any legislation it
               does not favour — while, of course, remaining silent on its own use of the
-299 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               state. As Benjamin Tucker pointed out about the “free market” capitalist
               Herbert Spencer, “amid his multitudinous illustrations … of the evils of
               legislation, he in every instance cites some law passed ostensibly at least to
@@ -14584,7 +14551,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               body of people (property owners) who nominated the government. In this
               perspective the state was like a joint-stock company. The owning class were
               the share-holders who nominated the broad of directors and the mass of the
-300 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               population were the workers who had no say in determining the management
               personnel and were expected to follow orders.
                 As would be expected, this system was mightily disliked by the majority who
@@ -14634,7 +14601,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               candidates. In 2000, Republican George Bush spent a massive $185,921,855
               while his Democratic rival Al Gore spent only $120,031,205. Four years later,
               Bush spent $345,259,155 while John Kerry managed a mere $310,033,347.
-301 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                 Other election campaigns are also enormously expensive. In 2000, the
               average winning candidate for a seat in the US House of Representatives
               spent $816,000 while the average willing senator spent $7 million. Even local
@@ -14683,7 +14650,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               Unsurprisingly:
                    “In the real world, state policy is largely determined by those
                    groups that command resources, ultimately by virtue of their
-302 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                    ownership and management of the private economy or their status
                    as wealthy professionals. The major decision-making positions in the
 ## Executive branch of the government are typically ﬁlled by
@@ -14732,7 +14699,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               24,000 registered lobbyists — and the inﬂuence of the corporate interests
               they represent. These lobbyists, whose job it is to convince politicians to vote
               in certain ways to further the interests of their corporate clients help shape
-303 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               the political agenda even further toward business interests than it already is.
               This Lobby industry is immense — and exclusively for big business and the
               elite. Wealth ensures that the equal opportunity to garner resources to share
@@ -14781,7 +14748,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               state remains the ruling class’s “policeman” and will be discussed in greater
               detail in section J.2.2 (Why do anarchists reject voting as a means for
               change?). Suﬀice to say, the politicians who are elected to oﬀice are at a
-304 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               disadvantage as regards the state bureaucracy. The latter is a permanent
               concentration of power while the former come and go. Consequently, they are
               in a position to tame any rebel government by means of bureaucratic inertia,
@@ -14831,7 +14798,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               of investors or corporations lose conﬁdence in a government they will simply
               stop investing at home and move their funds abroad. At home, the general
               population feel the results as demand drops, layoﬀs increase and recession
-305 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               kicks in. As Noam Chomsky notes:
                    “In capitalist democracy, the interests that must be satisﬁed are
 ## those of capitalists; otherwise, there is no investment, no
@@ -14876,7 +14843,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    role of business enterprise. Only the wealthy and well oﬀ can aﬀord
                    to launch viable campaigns for public oﬀice and to assume such
                    positions. Change in government in a democracy is a circulation
-306 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                    from one elite group to another.” [Harold Barclay, Op. Cit., p. 47]
                 In other words, elite control of politics through huge wealth disparities
               insures the continuation of such disparities and thus the continuation of elite
@@ -14922,7 +14889,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               while, at the same time, verbally praising the “democracy” it is abusing (New
               Labour in the UK during the run up to the invasion of Iraq was a classic
               example of this). Given that politicians can do what they like for four or ﬁve
-307 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               years once elected, it is clear that popular control via the ballot box is hardly
               eﬀective or even meaningful.
                  Indeed, such “democracy” almost always means electing politicians who say
@@ -14971,7 +14938,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               it of bureaucrats, deputies, commissars, legislators, the military, the police, ad
               nauseam) that, however weak or however well-intentioned it may be at ﬁrst,
               eventually takes on a corruptive power of its own.” [Murray Bookchin, “The
-308 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               Ecological Crisis, Socialism, and the need to remake society,” pp. 1–10,
               Society and Nature, vol. 2, no. 3, p. 7]
                 Centralism makes democracy meaningless, as political decision-making is
@@ -15020,7 +14987,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                  As well as economic pressures from elites, governments also face pressures
               within the state itself due to the bureaucracy that comes with centralism.
               There is a diﬀerence between the state and government. The state is the
-309 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               permanent collection of institutions that have entrenched power structures
               and interests. The government is made up of various politicians. It’s the
               institutions that have power in the state due to their permanence, not the
@@ -15070,7 +15037,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               by the authority of our employers; … by the welfare bureaucrats if we are
               poor; … by landlords if we are tenants.” Thus freedom and justice “are
               determined by power and money” rather than laws. This points to the
-310 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               importance of popular participation, of social movements, for what those do
               are “to create a countervailing power to the policeman with a club and a gun.
               That’s essentially what movements do: They create countervailing powers to
@@ -15117,7 +15084,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               represented by the State, stiﬂe and will keep on stiﬂing the actual and living
               people” by “the bureaucratic world” for “the greater beneﬁt of the privileged
               propertied classes as well as for its own beneﬁt.” [Op. Cit., p. 211]
-311 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                 Examples of increased political centralisation being promoted by wealthy
               business interests by can be seen throughout the history of capitalism. “In
               revolutionary America, ‘the nature of city government came in for heated
@@ -15164,7 +15131,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
 
 ## “And ﬁnally, the permanence of the electoral assemblies was
                    interdicted. Once the middle-class governors were appointed, these
-312 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                    assemblies were not to meet again. Once the middle-class governors
                    were appointed, they must not be controlled too strictly. Soon the
                    right even of petitioning and of passing resolutions was taken away
@@ -15214,7 +15181,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               government” and was in a position to “sacriﬁce to its ruling passion or
               interest both the public good and the rights of other citizens.” Thus the
               “public good” escaped the “majority” nor was it, as you would think, what the
-313 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               public thought of as good (for some reason left unexplained, Madison
               considered the majority able to pick those who could identify the public
               good). To safeguard against this, he advocated a republic rather than a
@@ -15264,8 +15231,6 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    emptor (let the buyer beware) … contract law was intended to
 ## discriminate against working people and for business … The
 
-314 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
-
 ## pretence of the law was that a worker and a railroad made a
                    contract with equal bargaining power … ‘The circle was completed;
                    the law had come simply to ratify those forms of inequality that the
@@ -15313,7 +15278,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               documents.” The ERT “claims that the labour market should be more
               ‘ﬂexible,’ arguing for more ﬂexible hours, seasonal contracts, job sharing and
               part time work. In December 1993, seven years after the ERT made its
-315 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               suggestions [and after most states had agreed to the Maastricht Treaty and
               its “social chapter”], the European Commission published a white paper …
               [proposing] making labour markets in Europe more ﬂexible.” [Doherty and
@@ -15362,7 +15327,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               build more prisons and send troops abroad to advance ruling-class interests,
               even as politicians are crying that there is “no money” in the treasury for
               scholarships, national health care, or welfare for the poor.
-316 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                 State centralisation ensures that “as much as the equalitarian principles
               have been embodied in its political constitutions, it is the bourgeoisie that
               governs, and it is the people, the workers, peasants included, who obey the
@@ -15409,7 +15374,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               this sometime neutrality with regards to individual capitalist companies exists
               only as an expression of its role as an instrument of capital in general.
               Moreover, without the tax money from successful businesses the state would
-317 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               be weakened and so the state is in competition with capitalists for the surplus
               value produced by the working class. Hence the anti-state rhetoric of big
               business which can fool those unaware of the hand-in-glove nature of modern
@@ -15458,7 +15423,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               powers.
                 This means that the state it not just “the guardian of capital” for it “has a
               vitality of its own and constitutes … a veritable social class apart from other
-318 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               classes … ; and this class has its own particular parasitical and usurious
               interests, in conﬂict with those of the rest of the collectivity which the State
               itself claims to represent … The State, being the depository of society’s
@@ -15507,7 +15472,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               all three share exactly the same interests or power in relation to the others.
               Thus, in some situations, the landlord class can promote its interests over
               those of the capitalist class (and vice versa) while the state bureaucracy can
-319 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               grow at the expense of both.
                 As such, it is important to stress that the minority whose interests the state
               defends need not be an economically dominant one (although it usually is).
@@ -15554,7 +15519,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               this system and its property rights regime. We will be reﬂecting this here but
               do not, because of this, assume that anarchists consider other forms of private
               property regime (such as, say, feudalism) as acceptable. This is not the case —
-320 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               anarchists are against every form of property rights regime which results in
               the many working for the few.
                 Anarchist opposition to private property rests on two, related, arguments.
@@ -15603,7 +15568,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    And if each proprietor is sovereign lord within the sphere of his
                    property, absolute king throughout his own domain, how could a
                    government of proprietors be any thing but chaos and confusion?”
-321 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                    [Op. Cit., pp. 266–7]
                 In other words, private property is the state writ small, with the property
               owner acting as the “sovereign lord” over their property, and so the absolute
@@ -15649,7 +15614,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    sell their labour to the property owners for a wage below its real
                    value … This means that workers are subjected to a kind of slavery,
                    which, though it may vary in degree of harshness, always means
-322 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                    social inferiority, material penury and moral degradation, and is the
                    primary cause of all the ills that beset today’s social order.”
                    [Malatesta, The Anarchist Revolution, p. 113]
@@ -15696,7 +15661,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               minority for the protection for its privileges.” [Rudolf Rocker, AnarchoSyndicalism, p. 11] Thus private ownership of the means of production is only
               possible if there is a state, meaning mechanisms of organised coercion at the
               disposal of the propertied class (see section B.2).
-323 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                 Also, it ought to be easy to see that capitalism, by giving rise to an
               ideologically inalienable “right” to private property, will also quickly give rise
               to inequalities in the distribution of external resources, and that this
@@ -15740,7 +15705,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               This leads to the former controlling the latter and using them to produce a
               surplus for them (either directly, as in the case of a employee, or indirectly, in
               the case of a tenant).
-324 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                 The key is that “possession” is rooted in the concept of “use rights” or
               “usufruct” while “private property” is rooted in a divorce between the users
               and ownership. For example, a house that one lives in is a possession,
@@ -15789,7 +15754,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               accurate. There is no human institution that approaches totalitarianism as
               closely as a business corporation. I mean, power is completely top-down. You
               can be inside it somewhere and you take orders from above and hand ‘em
-325 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               down. Ultimately, it’s in the hands of owners and investors.” Thus the actual
               producer does not control their own activity, the product of their labour nor
               the means of production they use. In modern class societies, the producer is
@@ -15837,7 +15802,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               conditions, men must … become associates” and this implies workers’ selfmanagement — “leaders, instructors, superintendents … must be chosen from
               the labourers by the labourers themselves.” [Proudhon, Op. Cit., p. 130, p.
               372 and p. 137]
-326 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                 In this way, anarchists seek, in Proudhon’s words, “abolition of the
               proletariat” and consider a key idea of our ideas that “Industrial Democracy
               must… succeed Industrial Feudalism.” [Proudhon, Selected Writings of
@@ -15884,7 +15849,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               (such as tariﬀs, state granted market monopolies and so on), most are “behind
               the scenes” and work to ensure that capitalist domination does not need
               extensive force to maintain.
-327 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                 Under capitalism, there are four major kinds of property, or exploitative
               monopolies, that the state protects:
                 By enforcing these forms of property, the state ensures that the objective
@@ -15934,7 +15899,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               amounts of money it could undercut capitalist power while building its own
               alternative social order (for money is ultimately the means of buying labour
               power, and so authority over the labourer — which is the key to surplus value
-328 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               production). Proudhon hoped that by credit being reduced to cost (namely
               administration charges) workers would be able to buy the means of
               production they needed. While most anarchists would argue that increased
@@ -15983,7 +15948,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               would other wise.” [Doug Henwood, Wall Street, pp. 64–6]
                 Thus credit “is an important form of social coercion; mortgaged workers are
               more pliable.” [Henwood, Op. Cit., p. 232] Money is power and any means
-329 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               which lessens that power by increasing the options of workers is considered a
               threat by the capitalist class — whether it is tight labour markets, state
               provided unemployment beneﬁt, or cheap, self-organised, credit — will be
@@ -16032,7 +15997,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    … inevitably undermined the viability of traditional peasant
                    agriculture . .. [it] created a sizeable labour force of disinherited
                    peasants with only tenuous attachments to the land. To earn a
-330 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                    living, many of these peasants turned to ‘domestic industry’ — the
                    production of goods in their cottages … It was the eighteenth
                    century expansion of domestic industry … that laid the basis for the
@@ -16080,7 +16045,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                 The tools and equipment monopoly is similar to the land monopoly as it is
               based upon the capitalist denying workers access to their capital unless the
               worker pays tribute to the owner for using it. While capital is “simply storedup labour which has already received its pay in full” and so “the lender of
-331 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               capital is entitled to its return intact, and nothing more” (to use Tucker’s
               words), due to legal privilege the capitalist is in a position to charge a “fee”
               for its use. This is because, with the working class legally barred from both
@@ -16130,7 +16095,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               words, “past initiations of force” combined with the current state protection
               of property ensure that capitalist domination of society continues with only
               the use of “defensive” force (i.e. violence used to protect the power of
-332 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               property owners against unions, strikes, occupations, etc.). The “fees”
               extracted from previous generations of workers has ensured that the current
               one is in no position to re-unite itself with the means of life by “free
@@ -16179,7 +16144,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               development is considered an important and acceptable area of state
               intervention by governments and companies verbally committed to the neoliberal agenda.
                  The “ideas monopoly” actually works against its own rationale. Patents
-333 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               suppress innovation as much as they encourage it. The research scientists
               who actually do the work of inventing are required to sign over patent rights
               as a condition of employment, while patents and industrial security programs
@@ -16228,7 +16193,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               copyrights are invested back into the company, securing advantages by
               creating various “natural” barriers to entry for potential competitors. Thus
               patents impact on business structure, encouraging the formation and
-334 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               dominance of big business.
                 Looking at the end of the nineteenth century, the ideas monopoly played a
               key role in promoting cartels and, as a result, laid the foundation for what was
@@ -16277,7 +16242,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               e.g. by requiring expensive licenses to engage in particular types of activities,
               such as broadcasting or producing certain kinds of medicines or products. In
               the “Information Age,” usury (use fees) from intellectual property are
-335 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               becoming a much more important source of income for elites, as reﬂected in
               the attention paid to strengthening mechanisms for enforcing copyright and
               patents in the recent GATT agreements, or in US pressure on foreign
@@ -16326,7 +16291,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               converting private to state ownership (i.e. nationalisation) does not
               fundamentally change the nature of property relationships; it just removes
               private capitalists and replaces them with bureaucrats (as we discuss in
-336 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               section B.3.5).
               B.3.3 Why is property exploitative?
                 To answer this question, consider the monopoly of productive “tools and
@@ -16372,7 +16337,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
 ## “Can you guess now why the wisdom of Proudhon said that the
                    possessions of the rich are stolen property? Stolen from the
                    producer, the worker.” [Berkman, Op. Cit., pp. 7–8]
-337 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                 Thus the daily theft/exploitation associated with capitalism is dependent on
               the distribution of wealth and private property (i.e. the initial theft of the
               means of life, the land, workplaces and housing by the owning class). Due to
@@ -16422,7 +16387,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               themselves much more than this, and are able to do so because the state
               guarantees them that right as property owners (which is unsurprising, as they
               alone have knowledge of the ﬁrms inputs and outputs and, like all people in
-338 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               unaccountable positions, abuse that power — which is partly why anarchists
               support direct democracy as the essential counterpart of free agreement, for
               no one in power can be trusted not to prefer their own interests over those
@@ -16469,7 +16434,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    property in products carries with it property in raw material. Does
                    the skill of the ﬁsherman, who on the same coast can catch more
                    ﬁsh than his fellows, make him proprietor of the ﬁshing-grounds?
-339 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                    Can the expertness of a hunter ever be regarded as a property-title
 ## to a game-forest? The analogy is perfect, — the industrious
                    cultivator ﬁnds the reward of his industry in the abundancy and
@@ -16518,7 +16483,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                  The ﬁrst thing to note is that it is a fairy tale, it is a myth. The current
               property system and its distribution of resources and ownership rights is a
               product of thousands of years of conﬂict, coercion and violence. As such,
-340 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               given Nozick’s arguments, it is illegitimate and the current owners have no
               right to deprive others of access to them or to object to taxation or
               expropriation. However, it is precisely this conclusion which Nozick seeks to
@@ -16568,7 +16533,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               say over the status of the land they had been utilising and no say over how
               their labour is used). Before the creation of private property, all managed
               their own work, had self-government in all aspects of their lives. After the
-341 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               appropriation, the new wage slave has no such liberty and indeed must accept
               the conditions of employment within which they relinquish control over how
               they spend much of their time. That this is issue is irrelevant for the Lockean
@@ -16615,7 +16580,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    377–8]
                 Capitalism, even though claiming formal self-ownership, in fact not only
               restricts the self-determination of working class people, it also makes them a
-342 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               resource for others. Those who enter the market after others have
               appropriated all the available property are limited to charity or working for
               others. The latter, as we discuss in section C, results in exploitation as the
@@ -16664,7 +16629,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               inferring therefrom that property should be shared by all, I demand, in the
               name of general security, its entire abolition.” [Proudhon, Op. Cit., p. 77 and
               p. 66] Simply put, if it is right for the initial appropriation of resources to be
-343 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               made then, by that very same reason, it is right for others in the same and
               subsequent generations to abolish private property in favour of a system
               which respects the liberty of all rather than a few.
@@ -16712,7 +16677,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               the people, to be settled and used by individuals or groups according to their
               needs” based on “free access”). [Red Emma Speaks, pp. 406–7]
                  Thus, by Schweickart’s own deﬁnition, a system based on state ownership is
-344 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               capitalist as the workers clearly do not own the own means of production they
               use, the state does. Neither do they own the goods or services they produce,
               the state which supplies the workers with the means of production does. The
@@ -16760,7 +16725,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
 ## “The liberals and conservatives and Libertarians who lament
                    totalitarianism are phoneys and hypocrites… You ﬁnd the same sort
                    of hierarchy and discipline in an oﬀice or factory as you do in a
-345 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                    prison or a monastery… A worker is a part-time slave. The boss says
                    when to show up, when to leave, and what to do in the meantime.
                    He tells you how much work to do and how fast. He is free to carry
@@ -16809,7 +16774,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               would say that those subject to such arrangements are free.
                  Now, if we add the condition that any subject is free to leave a Kingdom but
               only if another King will let them join his regime, does that make it any more
-346 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               freer? Slightly, but not by much. The subjects how have a limited choice in
               who can govern them but the nature of the regime they are subjected to does
               not change. What we would expect to see happen is that those subjects whose
@@ -16856,7 +16821,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               extremely eﬀicient in repressing the strikers: “By the end of the strike, most
               of the dead and injured were miners and their families.” The strike soon took
               on the features of a war, with battles between strikers and their supporters
-347 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               and the company thugs. Ironically, when the National Guard was sent in to
               “restore order” the “miners, having faced in the ﬁrst ﬁve weeks of the strike
               what they considered a reign of terror at the hands of the private guards, …
@@ -16906,7 +16871,6 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    country. The populace is at once the object of their scorn and their
 ## fears.”
 
-348 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                 These fears have not changed, nor has the contempt for democratic ideas.
               To quote one US Corporate Executive, “one man, one vote will result in the
               eventual failure of democracy as we know it.” [L. Silk and D. Vogel, Ethics
@@ -16953,7 +16917,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                  The capitalist workplace is profoundly undemocratic. Indeed, as Noam
               Chomsky points out, the oppressive authority relations in the typical
               corporate hierarchy would be called fascist or totalitarian if we were referring
-349 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               to a political system. In his words :
                    “There’s nothing individualistic about corporations. These are big
                    conglomerate institutions, essentially totalitarian in character, but
@@ -17002,7 +16966,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                 Friedman, to prove the free nature of capitalism, compares capitalism with
               a simple exchange economy based upon independent producers. He states
               that in such a simple economy each household “has the alternative of
-350 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               producing directly for itself, [and so] it need not enter into any exchange
               unless it beneﬁts from it. Hence no exchange will take place unless both
               parties do beneﬁt from it. Co-operation is thereby achieved without coercion.”
@@ -17049,7 +17013,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    Libertarian as Conservative”, The Abolition of Work and other
                    essays, p. 147]
                Under capitalism, workers have only the Hobson’s choice of being
-351 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               governed/exploited or living on the street.
                 Anarchists point out that for choice to be real, free agreements and
               associations must be based on the social equality of those who enter into
@@ -17097,8 +17061,8 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               what they are really thinking of is their state-protected freedom to exploit and
               oppress workers through the ownership of property, a freedom that allows
               them to continue amassing huge disparities of wealth, which in turn insures
-              their continued power and privileges. That the capitalist class in liberal352 of 3436 10/1/25, 7:46 PM
-An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+              their continued power and privileges. That the capitalist class in liberal
+
               democratic states gives workers the right to change masters (though this is
               not true under state capitalism) is far from showing that capitalism is based
               on freedom, For as Peter Kropotkin rightly points out, “freedoms are not
@@ -17145,7 +17109,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               of domination and oppression. In other words, “self-ownership” becomes the
               means by which the autonomy of individuals is limited, if not destroyed, in the
               name of freedom and liberty.
-353 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                  This is exposed in the right-libertarian slogan “human rights are property
               rights.” Assuming this is true, it means that you can alienate your rights, rent
               them or sell them like any other kind of property. Moreover, if you have no
@@ -17194,7 +17158,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               or threat of sanctions. This is deﬁnitely the case in company hierarchies under
               capitalism. Bob Black describes the authoritarian nature of capitalism as
               follows:
-354 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                    ”[T]he place where [adults] pass the most time and submit to the
                    closest control is at work. Thus … it’s apparent that the source of
                    the greatest direct duress experienced by the ordinary adult is not
@@ -17242,7 +17206,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    would be regarded as owner both of the capital, and of the labour.
                    He would be owner, in short, of both instruments of production: and
                    the whole of the produce, without participation, would be his own.
-355 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                    “What is the diﬀerence, in the case of the man, who operates by
                    means of labourers receiving wages? The labourer, who receives
                    wages, sells his labour for a day, a week, a month, or a year, as the
@@ -17292,7 +17256,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               deciding whether it is advantageous to rent or sell his or her property (their
               labour power) for use by another (and given that the alternative is, at best,
               poverty unsurprisingly people do consider it “advantageous” to “consent” to
-356 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               the contract). Yet what is rented or sold is not a piece of property but rather a
               self-governing individual. Once the contract is made and the property rights
               are transferred, they no longer have autonomy and are treated like any other
@@ -17341,7 +17305,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               divided. Thus the horse who draws our coaches … produce with us, but are
               not associated with us; we take their product but do not share it with them.
               The animals and labourers whom we employ hold the same relation to us.”
-357 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               [What is Property?, p. 226]
                  So while the capitalist Locke sees nothing wrong in comparing a person to
               an animal, the anarchist Proudhon objects to the fundamental injustice of a
@@ -17389,7 +17353,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    “They speak of ‘inherent rights’, ‘inalienable rights’, ‘natural rights,’
                    etc … Unless the material conditions for equality exist, it is worse
                    than mockery to pronounce men equal. And unless there is equality
-358 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                    (and by equality I mean equal chances for every one to make the
                    most of himself [or herself]) unless, I say, these equal changes exist,
                    freedom, either of though, speech, or action, is equally a mockery …
@@ -17435,7 +17399,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               so rightly points out, “the means of life must be taken for what they literally
               are: the means without which life is impossible. To deny them to people is
               more than ‘theft’ … it is outright homicide.” [Remaking Society, p. 187]
-359 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                David Ellerman has also noted that the past use of force has resulted in the
               majority being limited to those options allowed to them by the powers that be:
                    “It is a veritable mainstay of capitalist thought … that the moral
@@ -17481,7 +17445,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    any means for its possible realisation, and consequently it is only a
                    ﬁctitious liberty, an utter falsehood. The truth is that the whole life
                    of the worker is simply a continuous and dismaying succession of
-360 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                    terms of serfdom — voluntary from the juridical point of view but
                    compulsory from an economic sense — broken up by momentarily
                    brief interludes of freedom accompanied by starvation; in other
@@ -17529,7 +17493,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               paying such low wages for the products the companies charge such high
               prices in the developed world for.
                 And so, by the same strange co-incidence that marked the industrial
-361 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               revolution, capitalists today (in the form of multinational corporations)
               gravitate toward states with terrible human rights records. States where, at
               worse, death squads torture and “disappear” union and peasant co-operative
@@ -17578,7 +17542,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    market. [Ludwig Von] Mises justly argued that if workers ‘did not
                    act as trade unionists, but reduced their demands and changed their
                    locations and occupations according to the labour market, they
-362 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                    would eventually ﬁnd work.’ This sums up the position under a
                    system based on the postulate of the commodity character of labour.
                    It is not for the commodity to decide where it should be oﬀered for
@@ -17626,7 +17590,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               the hardships associated with it encourages workers to take any job and
               submit to their bosses demands and power while employed. Unemployment,
               in other words, serves to discipline labour. The higher the prevailing
-363 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               unemployment rate, the harder it is to ﬁnd a new job, which raises the cost of
               job loss and makes it less likely for workers to strike, join unions, or to resist
               employer demands, and so on.
@@ -17672,7 +17636,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               subject to it and, needless to say, the boss does not always win.
               B.4.4 But what about periods of high demand for
               labour?
-364 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                 Of course there are periods when the demand for labour exceeds supply, but
               these periods hold the seeds of depression for capitalism, as workers are in an
               excellent position to challenge, both individually and collectively, their allotted
@@ -17722,7 +17686,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               age, rank, status, expertise, character, or talent”.
                 This loosening of the bonds of compulsion and obedience led to “previously
               passive or unorganised groups in the population, blacks, Indians, Chicanos,
-365 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               white ethnic groups, students and women... embark[ing] on concerted eﬀorts
               to establish their claims to opportunities, rewards, and privileges, which they
               had not considered themselves entitled to before.”
@@ -17771,7 +17735,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               maintained indicates that it is not “natural”). Kalecki, we must point out, also
               correctly predicted the rise of “a powerful bloc” between “big business and
               the rentier interests” against full employment and that “they would probably
-366 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               ﬁnd more than one economist to declare that the situation was manifestly
               unsound.” The resulting “pressure of all these forces, and in particular big
               business” would “induce the Government to return to… orthodox policy.”
@@ -17817,7 +17781,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               manufacturing losses. As one union oﬀicial remarked two years later, ‘The fact
               that we broke down a traditional policy of GE [that the union could never have
               a hand in managing the business] was in itself satisfying, especially when we
-367 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               could throw success up to them to boot.’” [David Noble, Forces of
               Production, p. 295]
                 The project, after some initial scepticism, proved to be a great success with
@@ -17867,7 +17831,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               work then they will increase eﬀiciency and productivity (they know how to do
               their job the best) but you also erode authority structures within the
               workplace. Workers’ will seek more and more control (freedom naturally tries
-368 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               to grow) and this, as the Pilot Program worker clearly saw, implies a cooperative workplace in which workers’, not managers, decide what to do with
               the surplus produced. By threatening power, you threaten proﬁts (or, more
               correctly, who controls the proﬁt and where it goes). With the control over
@@ -17913,7 +17877,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                 Human interaction is an essential part of life. Anarchism proposes to
               eliminate only undesired social interactions and authoritarian impositions,
               which are inherent in capitalism and indeed in any hierarchical form of socioeconomic organisation (e.g. state socialism). Hermits soon become less than
-369 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               human, as social interaction enriches and develops individuality. Capitalism
               may attempt to reduce us to hermits, only “connected” by the market, but
               such a denial of our humanity and individuality inevitably feeds the spirit of
@@ -17960,7 +17924,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               “when you vote in the supermarket, you get precisely what you voted for and
               so does everyone else.” Such “voting” with one’s pocket is then claimed to be
               an example of the wonderful “freedom” people enjoy under capitalism (as
-370 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               opposed to “socialism,” always equated by right-wingers with state socialism,
               which will be discussed in section H). However, in evaluating this claim, the
               diﬀerence between customers and citizens is critical.
@@ -18010,7 +17974,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               while essential for a rational decision, the market does not and cannot
               provide).
                  Moreover, the “consumer” model fails to recognise that the decisions we
-371 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               make on the market to satisfy our “wants” are determined by social and
               market forces. What we are capable of wanting is relative to the forms of
               social organisation we live in. For example, people choose to buy cars because
@@ -18060,7 +18024,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               they shop. Do consumers who buy bleached newsprint and toilet paper really
               want tons of dioxins and other organochlorides in rivers, lakes and coastal
               waters? Do customers who buy cars really want traﬀic jams, air pollution,
-372 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               motorways carving up the landscape and the greenhouse eﬀect? And what of
               those who do not buy these things? They are also aﬀected by the decisions of
               others. The notion that only the consumer is aﬀected by his or her decision is
@@ -18109,7 +18073,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               [Radical Priorities, pp. 190–1]
                 The “citizen” model takes on board the fact that the sum of rational
               individual decisions may not yield a rational collective outcome (which, we
-373 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               must add, harms the individuals involved and so works against their selfinterest). Social standards, created and enriched by a process of discussion
               and dialogue can be eﬀective in realms where the atomised “consumer”
               model is essentially powerless to achieve constructive social change, never
@@ -18153,7 +18117,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               decisions have been made and their eﬀects felt can action be taken. But by
               then the damage has been done. Can suing a company really replace a fragile
               eco-system? In addition, the economic context has been signiﬁcantly altered,
-374 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               because investment decisions are often diﬀicult to unmake.
                 In other words, the operations of the market provide an unending source of
               examples for the argument that the aggregate results of the pursuit of private
@@ -18202,7 +18166,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               community decides upon policy (e.g. returnables over waste). Neither is it a
               case of electing people to decide for us, as the decentralised nature of the
               confederation of communities ensures that power lies in the hands of local
-375 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               people.
                 This process in no way implies that “society” decides what an individual is
               to consume. That, like all decisions aﬀecting the individual only, is left entirely
@@ -18250,7 +18214,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               consequently, their income is best thought of as a share of proﬁts rather than
               a wage). Much the same can be said of politicians and state bureaucrats
               whose power and inﬂuence does not derive from the ownership of the means
-376 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               of production but rather then control over the means of coercion. Moreover,
               many large companies are owned by other large companies, through pension
               funds, multinationals, etc. (in 1945, 93% of shares were owned by individuals;
@@ -18300,7 +18264,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               USA, such mystiﬁcation is to be expected).
                 So, there will be exceptions to this classiﬁcation scheme. However, most of
               society share common interests, as they face the economic uncertainties and
-377 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               hierarchical nature of capitalism.
                  We do not aim to ﬁt all of reality into this class scheme, but only to develop
               it as reality indicates, based on our own experiences of the changing patterns
@@ -18347,7 +18311,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               two, the distribution of wealth is the most important to understanding the
               class structure as this represents your assets, what you own rather than what
               you earn in a year. Given that wealth is the source of income, this represents
-378 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               the impact and power of private property and the class system it represents.
               After all, while all employed workers have an income (i.e. a wage), their
               actual wealth usually amounts to their personal items and their house (if they
@@ -18396,7 +18360,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               The “bottom half of the population claimed about 20% of all income in 2001 —
               but only 2% of non-residential wealth. The richest 5% of the population
               claimed about 23% of income, a bit more than the entire bottom half. But it
-379 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               owned almost two-thirds — 65% — of the wealth.” [After the New Economy,
               p. 122]
                 In terms of income, the period since 1970 has also been marked by
@@ -18443,8 +18407,6 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
 ## top 1%
 ## +115
 ## 7.3
-
-380 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
 
 ## 12.9
 ## +5.6
@@ -18495,7 +18457,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               other words, the beneﬁts of economic growth over nearly two decades have
               not trickled down to ordinary families. Median family income has risen only
               about 0.5% per year. Even worse, “just about all of that increase was due to
-381 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               wives working longer hours, with little or no gain in real wages.” [Paul
               Krugman, “For Richer”, Op. Cit.]
                 So if America does have higher average or per capita income than other
@@ -18544,7 +18506,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               Unequal for more details on the correlation of unemployment and inequality).
                 Of course, it could be objected that this relative measure of poverty and
               income ignores the fact that US incomes are among the highest in the world,
-382 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               meaning that the US poor may be pretty well oﬀ by foreign standards.
               Henwood refutes this claim, noting that “even on absolute measures, the US
               performance is embarrassing. LIS researcher Lane Kenworthy estimated
@@ -18592,7 +18554,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               weak, of those who own property over those who own nothing.” [quoted by
               Alan Ritter, The Political Thought of Pierre-Joseph Proudhon, p. 121]
               B.7.2 Does social mobility make up for class
-383 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               inequality?
                 Faced with the massive diﬀerences between classes under capitalism we
               highlighted in the last section, many supporters of capitalism still deny the
@@ -18639,7 +18601,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               capitalist society is pretty solid and “much of the movement up and down
               represents ﬂuctuations around a fairly ﬁxed long term distribution.” [Paul
               Krugman, Peddling Prosperity, p. 143]
-384 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                 Perhaps under a “pure” capitalist system things would be diﬀerent? Ronald
               Reagan helped make capitalism more “free market” in the 1980s, but there is
               no indication that income mobility increased signiﬁcantly during that time. In
@@ -18687,7 +18649,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               unable to sustain full-time employment.” He cites an OECD study which
               “conﬁrms the poor rates of relative upward mobility for very low-paid
               American workers; it also found that full-time workers in Britain, Italy and
-385 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               Germany enjoy much more rapid growth in their earnings than those in the
               US … However, downward mobility was more marked in the US; American
               workers are more likely to suﬀer a reduction in their real earnings than
@@ -18737,7 +18699,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                 The puzzle of why, given that there is no evidence of American
               exceptionalism or higher social mobility, the myth persists has an easy
               solution. It has utility for the ruling class in maintaining the system. By
-386 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               promoting the myth that people can ﬁnd the path to the top easy then the
               institutions of power will not be questioned, just the moral character of the
               many who do not.
@@ -18783,7 +18745,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               become rich if you’re born in a rich family than a poor one. Thus James W.
               Loewen reports that “ninety-ﬁve percent of the executives and ﬁnanciers in
               America around the turn of the century came from upper-class or uppermiddle-class backgrounds. Fewer than 3 percent started as poor immigrants
-387 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               or farm children. Throughout the nineteenth century, just 2 percent of
               American industrialists came from working-class origins” [in “Lies My
               Teacher Told Me” citing William Miller, “American Historians and the Business
@@ -18832,7 +18794,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               ignoring the diﬀerences between one set of people (the ruling class) and the
               others (the working class) in terms of social position, power and interests.
               This obviously helps those in power maintain it by focusing analysis away
-388 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               from that power and its sources (wealth, hierarchy, etc.).
                 It also helps maintain the class system by undermining collective struggle.
               To admit class exists means to admit that working people share common
@@ -18879,7 +18841,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                 That classes are in conﬂict can be seen from the post-war period in most
               developed countries. Taking the example of the USA, the immediate post-war
               period (the 1950s to the 1970s) were marked by social conﬂict, strikes and so
-389 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               forth. From the 1980s onwards, there was a period of relative social peace
               because the bosses managed to inﬂict a series of defeats on the working class.
               Workers became less militant, the trade unions went into a period of decline
@@ -18929,7 +18891,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               interests in society.” For anarchists, class consciousness means to recognise
               what the bosses already know: the importance of solidarity with others in the
               same class position as oneself and of acting together as equals to attain
-390 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               common goals. The diﬀerence is that the ruling class wants to keep the class
               system going while anarchists seek to end it once and for all.
                  It could therefore be argued that anarchists actually want an “anti-class”
@@ -18978,7 +18940,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               anarchists base their activity primarily on the working class (including
               peasants, self-employed artisans and so on) because the working class is
               subject to hierarchy and so have a real need to resist to exist. This process of
-391 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               resisting the powers that be can and does have a radicalising eﬀect on those
               involved and so what they believe in and what they do changes. Being
               subject to hierarchy, oppression and exploitation means that it is in the
@@ -19027,7 +18989,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               is not simply about inequalities of wealth or income but rather questioning all
               forms of domination, oppression and exploitation.
                 For anarchists, ”[t]he class struggle does not centre around material
-392 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               exploitation alone but also around spiritual exploitation, … [as well as]
               psychological and environmental oppression.” [Bookchin, Op. Cit., p. 151]
               This means that we do not consider economic oppression to be the only
@@ -19072,7 +19034,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               defend) a present class system and its inequalities and injustices. The lessons
               of a fairy tale about a society that has never existed are used as a guide for
               one which does and, by some strange co-incidence, they happen to justify the
-393 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               existing class system and its distribution of income. Hence the love of
               Robinson Crusoe in economics.
                 Ironically, this favouring of theory (ideology would be a better term) is
@@ -19119,8 +19081,8 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               capitalism, cutting through the ideological myths that supporters of the
               system have created around it. This will be a diﬀicult task, as the divergence
               of the reality of capitalism and the economics that is used to explain (justify,
-              more correctly) it is large. For example, the preferred model used in neo394 of 3436 10/1/25, 7:46 PM
-An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+              more correctly) it is large. For example, the preferred model used in neo
+
               classical economics is that of “perfect competition” which is based on a
               multitude of small ﬁrms producing homogenous products in a market which
               none of them are big enough to inﬂuence (i.e. have no market power). This
@@ -19170,7 +19132,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               capitalist economist, of course, when the same laws apply no matter what.
                  In our discussion, it is important to remember that capitalist economics is
               not the same as the capitalist economy. The latter exists quite independently
-395 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               of the former (and, ironically, usually ﬂourishes best when the policy makers
               ignore it). Dissident economist Steve Keen provides a telling analogy between
               economics and meteorology. Just as “the climate would exist even if there
@@ -19219,7 +19181,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    apart. GDP per head continued its inexorable rise, but the ISEW
                    started to decline as a result of lengthening dole queues, social
                    exclusion, the explosion in crime, habitat loss, environmental
-396 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                    degradation and the growth of environment- and stress-related
                    illness. By the start of the 1990s, the ISEW was almost back to the
                    levels at which it started in the early 1950s.” [Larry Elliot and Dan
@@ -19267,7 +19229,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               exploitation nor exploitation without domination. As Emma Goldman pointed
               out, under capitalism:
                    “wealth means power; the power to subdue, to crush, to exploit, the
-397 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                    power to enslave, to outrage, to degrade … Nor is this the only
                    crime … Still more fatal is the crime of turning the producer into a
                    mere particle of a machine, with less will and decision than his
@@ -19316,7 +19278,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               and defend capitalism. This can go from the extreme of free market capitalist
               economics (such as the so-called “Austrian” school and Monetarists) to those
               who advocate state intervention to keep capitalism going (Keynesian
-398 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               economists). We will not be discussing those economists who advocate state
               capitalism. As a default, we will take “capitalist economics” to refer to the
               mainstream “neoclassical” school as this is the dominant form of the ideology
@@ -19360,7 +19322,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               with the facts and simply makes the most appropriate assumptions necessary
               to justify the particular beliefs of the economists and, usually, the interests of
               the ruling class. This is the key problem with economics: it is not a science. It
-399 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               is not independent of the class nature of society, either in the theoretical
               models it builds or in the questions it raises and tries to answer. This is due, in
               part, to the pressures of the market, in part due to the assumptions and
@@ -19410,7 +19372,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    incalculable uncertainty in real time but only probabilistically
 ## calculable risk in logical time; only linearly homogeneous
                    production functions; no technical progress requiring embodied
-400 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                    capital investment, and so on, and so on — all these are not just
                    unrealistic but also unrobust assumptions. And yet they ﬁgure
                    critically in leading economic theories.” [“Disturbing Currents in
@@ -19457,7 +19419,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               textbook, then it must be true — particularly if it conﬁrms any initial
               prejudices. The opposite is usually the case.
                 The obvious fact that the real world is not like that described by economic
-401 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               text books can have some funny results, particularly when events in the real
               world contradict the textbooks. For most economists, or those who consider
               themselves as such, the textbook is usually preferred. As such, much of
@@ -19507,7 +19469,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               “the market” is not all-knowing as investors (like the experts) failed to see the
               statist policies so bemoaned by the ideologues of capitalism after 1997.
                  This is not to say that the models produced by neoclassical economists are
-402 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               not wonders of mathematics or logic. Few people would deny that a lot of very
               intelligent people have spent a lot of time producing some quite impressive
               mathematical models in economics. It is a shame that they are utterly
@@ -19556,7 +19518,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               others seek advancement to similar heights. Chicago School economist Gary
               Becker was on to something when he argued that economic motives explain a
               lot of actions frequently attributed to other forces. He of course never applied
-403 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               this idea to economics as a profession .. .” There are a great many well paying
               think tanks, research posts, consultancies and so on that create an ”‘eﬀective
               demand’ that should elicit an appropriate supply resource.”
@@ -19604,7 +19566,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               that the lessons of economics are just what the bosses and the wealthy would
               like to hear? As non-neoclassical economist John Kenneth Galbraith noted in
               1972:
-404 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                    “Economic instruction in the United States is about a hundred years
                    old. In its ﬁrst half century economists were subject to censorship
                    by outsiders. Businessmen and their political and ideological
@@ -19652,7 +19614,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               PR economists. The control of funds for research and teaching plays it part in
               keeping economics the “economics of the rich.” Analysing the situation in the
               1970s, Herman notes that the “enlarged private demand for the services of
-405 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               economists by the business community … met a warm supply response.” He
               stressed that “if the demand in the market is for speciﬁc policy conclusions
               and particular viewpoints that will serve such conclusions, the market will
@@ -19700,7 +19662,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    market economy to achieve full employment of available labour and
                    full utilisation of equipment; that the rate of accumulation is
                    determined by household saving; and that the rate of interest is
-406 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                    identical with the rate of proﬁt on capital. Similarly, Piero Sraﬀa’s
                    demolition of the neoclassical production function in labour and
                    ‘capital’ was admitted to be unanswerable, but it has not been
@@ -19747,7 +19709,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               theories rise to prominence, simply to disappear again (“See, the ‘science’
               happens to be a very ﬂexible one: you can change it to do whatever you feel
               like, it’s that kind of ‘science.’” [Chomsky, Op. Cit., p. 253]). Given our
-407 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               analysis that economics is a commodity and subject to demand, this comes as
               no surprise. Given that the capitalist class is always in competition within
               itself and diﬀerent sections have diﬀerent needs at diﬀerent times, we would
@@ -19796,7 +19758,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               Nicholas Kaldor who saw their predicted fears become true when it was
               applied — see section C.8). Hopefully by analysing the myths of capitalist
               economics we will aid those ﬁghting for a better world by giving them the
-408 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               means of counteracting those who claim the mantle of “science” to foster the
               “economics of the rich” onto society.
                 To conclude, neo-classical economics shows the viability of an unreal system
@@ -19846,7 +19808,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               not as economics would like it to be. It must be placed in historical context
               and key facts of capitalism, like wage labour, not taken for granted. It must
               not abstract from such key facts of life as economic and social power. In a
-409 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               word, economics must reject those features which turn it into a sophisticated
               defence of the status quo. Given its social role within capitalism (and the
               history and evolution of economic thought), it is doubtful it will ever become a
@@ -19890,7 +19852,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               crudely. Nowadays, the hidden persuaders are concealed behind scientiﬁc
               objectivity, carefully avoiding value judgements; they are persuading all the
               better so.” [Op. Cit., p. 129] The way which economic theory systematically
-410 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               says what bosses and the wealthy want to hear is just one of those strange coincidences of life, one which seems to befall economics with alarming
               regularity.
                  How does economics achieve this strange co-incidence, how does the “value
@@ -19938,7 +19900,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                    sacriﬁces required to produce them … with a partial exception in
                    the case of land … especially much land in old countries, if we could
                    trace its record back to their earliest origins. But the attempt would
-411 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                    raise controversial questions in history and ethics as well as in
                    economics; and the aims of our present inquiry are prospective
                    rather than retrospective.” [Principles of Economics, p. 832]
@@ -19984,7 +19946,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               labour market, particularly given that Marshall himself notes their results.
               This is a striking example of what Kropotkin deplored in economics, namely
               that in the rare situations when social conditions were “mentioned, they were
-412 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               forgotten immediately, to be spoken of no more.” Thus reality is mentioned,
               but any impact this may have on the distribution of income is forgotten for
               otherwise you would have to conclude, with the anarchists, that the
@@ -20034,7 +19996,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               necessary assumptions and abstractions required to reach the desired
               conclusions is just one of those co-incidences which seem to regularly befall
               economics.
-413 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
                 The strange thing about these ﬁctional stories is that they are given much
               more credence than real history within economics. Almost always, ﬁctional
               “history” will always top actual history in economics. If the actual history of
@@ -20083,7 +20045,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               Unemployment? Recession? Low growth? Wages are too high! Proudhon
               summed up capitalist economic theory well when he stated that “Political
               economy — that is, proprietary despotism — can never be in the wrong: it
-414 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               must be the proletariat.” [System of Economical Contradictions, p. 187]
               And little has changed since 1846 (or 1776!) when it comes to economics
               “explaining” capitalism’s problems (such as the business cycle or
@@ -20133,7 +20095,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               ﬂawed).
                 Which brings us to another key problem with the claim that economics is
               “value free,” namely the fact that it takes the current class system of
-415 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               capitalism and its distribution of wealth as not only a fact but as an ideal. This
               is because economics is based on the need to be able to diﬀerentiate between
               each factor of production in order to determine if it is being used optimally. In
@@ -20183,7 +20145,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               biases in a given economic system, its distribution of wealth and,
               consequently, its distribution of income between classes.
                 This abstracting of individuals from their social surroundings results in the
-416 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               generating economic “laws” which are applicable for all individuals, in all
               societies, for all times. This results in all concrete instances, no matter how
               historically diﬀerent, being treated as expressions of the same universal
@@ -20233,7 +20195,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               power which that system of production create.
                  This shift in terminology reﬂects a political necessity. It eﬀectively removes
               the role of wealth (capital) from the economy. Instead of the owners and
-417 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               manager of capital being in control or, at the very least, having signiﬁcant
               impact on social events, we have the impersonal activity of “the markets” or
               “market forces.” That such a change in terminology is the interest of those
@@ -20283,7 +20245,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               less than honest. Capitalist economic theory is rooted in very speciﬁc
               assumptions and concepts such as “economic man” and “perfect competition.”
               It claims to be “value-free” yet its preferred terminology is riddled with value
-418 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               connotations. For example, the behaviour of “economic man” (i.e., people who
               are self-interested utility maximisation machines) is described as “rational.”
               By implication, then, the behaviour of real people is “irrational” whenever
@@ -20332,7 +20294,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               “science” has nothing to do with the question of the justice of existing
               institutions, class structures or the current economic system. And some
               people seem surprised that this results in policy recommendations which
-419 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               consistently and systematically favour the ruling class.
               C.1.2 Is economics a science?
                 In a word, no. If by “scientiﬁc” it is meant in the usual sense of being based
@@ -20379,7 +20341,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               returns to scale, then large ﬁrms would have cost advantages against small
               ones and would drive them out of business in competition. This would destroy
               the concept of perfect competition. However, the invention of the average cost
-420 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               curve allowed the theory to work as “proved” that a competitive market could
               not become dominated by a few large ﬁrms, as feared.
                  The model, in other words, was adjusted to ensure that it produced the
@@ -20429,7 +20391,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
                  One study in 1952 showed ﬁrms a range of hypothetical cost curves, and
               asked ﬁrms which ones most closely approximated their own costs. Over 90%
               of ﬁrms chose a graph with a declining average cost rather than one showing
-421 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               the conventional economic theory of rising marginal costs. These ﬁrms faced
               declining average cost, and their marginal revenues were much greater than
               marginal cost at all levels of output. Unsurprisingly, the study’s authors
@@ -20477,7 +20439,7 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               economics is not a science.
                  This strange perspective makes sense once it is realised how key the notion
               of diminishing costs is to economics. In fact, if the assumption of increasing
-422 of 3436 10/1/25, 7:46 PM An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
+
               marginal costs is abandoned then so is perfect competition and “the basis of
               which economic laws can be constructed … is shorn away,” causing the
               “wreckage of the greater part of general equilibrium theory.” This will have “a
@@ -20525,4 +20487,3 @@ An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
               hand, in circumstances where supply and demand could justiﬁably be treated
               as independent, then it would be impossible for any factor of production to be
               ﬁxed. Hence the marginal costs of production would be constant.” He
-423 of 3436 10/1/25, 7:46 PM

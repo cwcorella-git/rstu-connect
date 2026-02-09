@@ -27,7 +27,6 @@ Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org
 ## one affiliated with a larger organization like the American
 ## Federation of Labor (AFL), which some attribute to concerns
 
-1 of 27 9/7/25, 11:58 AM Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 that unionized police would not protect the interest of city
 ## officials and business leaders. Attempts at reconciliation
                 between the Commissioner and the police officers, particularly
@@ -58,7 +57,6 @@ Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org
 ## president in 1923 upon President Warren Harding's death.
 
                 In 1895, the Massachusetts legislature transferred control of
-2 of 27 9/7/25, 11:58 AM Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## the Boston police department from Boston's mayor to the
 ## governor of Massachusetts, whom it authorized to appoint a
@@ -89,7 +87,7 @@ Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org
                 Police officers had an extensive list of grievances. They worked
                 ten-hour shifts and typically recorded weekly totals between
                 75 and 90 hours.[a] They were not paid for time spent on court
-3 of 27 9/7/25, 11:58 AM Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 appearances.[3] They also objected to being required to
                 perform such tasks as "delivering unpaid tax bills, surveying
 ## rooming houses, taking the census, or watching the polls at
@@ -119,7 +117,6 @@ Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org
                 file that they were not entitled to form their own union.[9] Curtis
 ## did not share his predecessor's or the mayor's sympathy for
 
-4 of 27 9/7/25, 11:58 AM Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 the police, but in February 1918 he offered a wage compromise
                 that the police rejected.[10] In May, Governor Coolidge
                 announced raises, which were also rejected.[11] When the
@@ -140,7 +137,6 @@ Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org
 ## Edwin U. Curtis
 ## Boston Police Commissioner
 
-5 of 27 9/7/25, 11:58 AM Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 The Boston police organized under an AFL charter in order to
                 gain support from other unions in their negotiations and any
                 strike that might ensue. On August 9, 1919, the Boston Social
@@ -171,7 +167,6 @@ Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org
 ## Union of Boston welcomed the police union and denounced
                 Curtis for his assertions that the police had no right to unionize.
                 [17] Curtis refused to meet with the eight members of the
-6 of 27 9/7/25, 11:58 AM Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## police union's committee. He suspended them and 11 others
 ## who held various union offices and scheduled trials to
@@ -203,7 +198,6 @@ Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org
                 have been irrevocable.[21] The police union members
 ## responded that same day by voting 1134 to 2 in favor of a
 
-7 of 27 9/7/25, 11:58 AM Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 strike and scheduled it to start at evening roll call the next day.
 ## Their stated grounds omitted wages and working conditions.
 ## They said the strike's rationale was to protest the
@@ -222,7 +216,7 @@ Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org
 
 ## On September 9, Boston Police Department officers went on
                 strike at 5:45 p.m.[22] Of the force's 1,544 officers and men,
-8 of 27 9/7/25, 11:58 AM Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 1,117 (72%) failed to report for work.[1] Coolidge assigned 100
                 members of the state's Metropolitan Park Police Department to
 ## replace the striking officers, but 58 of them refused to
@@ -252,7 +246,6 @@ Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org
                 Massachusetts State Guard worked when it came into the city. I
 ## cannot add anything to the universal chorus of commendation
                 that has greeted their work."[26] The morning papers following
-9 of 27 9/7/25, 11:58 AM Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## the first night's violence were full of loud complaints and
                 derogatory terms for the police: "deserters", "agents of Lenin".
@@ -282,7 +275,7 @@ Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org
                 auto parts dealer.[31] Passerby Arthur E. (or E.B.) McGill was
 ## shot to death in Howard Street. Three other men, Raymond L.
                 Barnen[32] (reported elsewhere as Bayers or Barros), Robert
-10 of 27 9/7/25, 11:58 AM Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 Sheehan, and Anthony Carr, were also killed on the 11th. The
                 final fatal casualty may have been 25-year-old Gustave Geist
                 on the 13th.[33] All but Reemts were shot by members of the
@@ -317,7 +310,6 @@ Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org
                  through shell fire so dense that four men fell and only the fifth
 ## got through.
 
-11 of 27 9/7/25, 11:58 AM Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                  Not one man of us ever disgraced the flag or his service. It is
                  bitter to come home and be called deserters and traitors. We
 ## are the same men who were on the French front.
@@ -350,7 +342,6 @@ Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org
                 workers have any right in the management of industry. ... The
 ## time has passed when any man can say he is the ruler of the
                 people in his employment."[38]
-12 of 27 9/7/25, 11:58 AM Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## AFL President Samuel Gompers, just returned from Europe,
 ## quickly assessed the situation and the strength of public
@@ -382,7 +373,6 @@ Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org
                 stating in a telegram to a labor convention, "I earnestly hope
 ## that circumstances may arise which will cause the police
 
-13 of 27 9/7/25, 11:58 AM Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 officers to be reinstated".[43] Over the objections of Mayor
 ## Peters, Commissioner Curtis announced on September 13 that
                 he planned to recruit a new force. He fired roughly 1,100 and
@@ -414,7 +404,6 @@ Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org
 
 ## A policeman has no more right to belong to a union than a
                  soldier or a sailor. He must be ready to obey orders, the orders
-14 of 27 9/7/25, 11:58 AM Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## of his superiors, not those of any outside body. One of his
 ## duties is the maintenance of order in the case of strike
@@ -445,7 +434,7 @@ Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org
                 the mercy of an army of thugs."[49] He said that "the obligation
                 of a policeman is as sacred and direct as the obligation of a
                 soldier. He is a public servant, not a private employee, and the
-15 of 27 9/7/25, 11:58 AM Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 whole honor of the community is in his hands. He has no right
                 to prefer any private advantage to the public safety."[50] Elihu
                 Root, a former Secretary of War and winner of the Nobel Peace
@@ -475,7 +464,7 @@ Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org
                 many policemen would not join.[53] By the end of the year the
                 strikers had formed a new organization called the Association
                 of Former Police of the City of Boston.[42]
-16 of 27 9/7/25, 11:58 AM Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 The strike gave momentum to Coolidge's political career,[54]
                 and a nationwide reputation for decisive action that was not in
                 keeping with his tendency toward deliberation. In 1918, he had
@@ -505,7 +494,7 @@ Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org
                 Vice Presidency" in 1920.[56] When he succeeded to the
                 presidency in 1923 upon the death of Warren Harding, the New
                 York Times headlined its biography: "Coolidge Firmness Won
-17 of 27 9/7/25, 11:58 AM Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
+
                 Recognition; His Suppression of the Boston Police Strike Made
                 Him a National Figure".[57] Coolidge's political rivals interpreted
                 his role differently. In 1925, U.S. Senator Robert La Follette of
@@ -535,7 +524,6 @@ Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org
 ## windows, committing robbery and stoning bystanders and
                 cars. It said that the northern, southern, and western areas of
                 the city were all taken over by armed gangs.[60]
-18 of 27 9/7/25, 11:58 AM Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## Legislation passed by the Massachusetts legislature in 1933
                 made it easier for police officers who had been off the force for
@@ -568,8 +556,6 @@ Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org
 
              - 1982 Boston arson spree
 
-19 of 27 9/7/25, 11:58 AM Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
              - Blue flu
 
              - Red Scare of 1919–20
@@ -600,7 +586,6 @@ Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org
 ## after round. We had no freedom, no home life at all. We
 ## couldn't even go to Revere Beach without the captain's
                 permission."[5]
-20 of 27 9/7/25, 11:58 AM Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
              1. ^ Jump up to: a b c d e f g h Murray, Robert K. (1955). Red
                 Scare: A Study in National Hysteria, 1919-1920. University of
@@ -636,8 +621,6 @@ Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org
 ## M.E. Sharpe, 2009), 239–51, esp. 245
 
            10. ^ Russell, City in Terror, p. 55
-
-21 of 27 9/7/25, 11:58 AM Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
            11. ^ Jump up to: a b Russell, City in Terror, p. 56
 
@@ -675,8 +658,6 @@ Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org
 
            23. ^ O'Connor, Thomas H. (1995). The Boston Irish: A Political
 ## History. Back Bay Books. p. 192. ISBN 0-316-62661-9.
-
-22 of 27 9/7/25, 11:58 AM Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
            24. ^ "Boston Police Force Out On Strike" (PDF). New York Times.
 ## September 10, 1919. Retrieved September 16, 2014.
@@ -718,8 +699,6 @@ Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org
 
            38. ^ "Says Unions Frown on Police Strikes" (PDF). New York
 
-23 of 27 9/7/25, 11:58 AM Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 ## Times. September 12, 1919. Retrieved August 9, 2017.
 
            39. ^ "Plan Proposed by Gompers to Suspend Strike Which Boston
@@ -756,8 +735,6 @@ Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org
 
            50. ^ "Wilson Denounces Police Strike That Left Boston a Prey to
 ## Thugs" (PDF). New York Times. September 12, 1919. Retrieved
-
-24 of 27 9/7/25, 11:58 AM Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## September 17, 2014.
 
@@ -797,8 +774,6 @@ Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org
 
            63. ^ Jack R. Greene, The Encyclopedia of Police Science, 3rd
 
-25 of 27 9/7/25, 11:58 AM Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
-
 ## edition, volume 1 (Routledge, 2007), 100, available online,
 ## accessed September 19, 2014
 
@@ -836,7 +811,6 @@ Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org
              - Thomas, Mark P., and Steven Tufts. "Blue solidarity: police
 ## unions, race and authoritarian populism in North America".
 
-26 of 27 9/7/25, 11:58 AM Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
                 Work, Employment and Society 34.1 (2020): 126-144.
                 doi:10.1177/0950017019863653.
 
@@ -850,5 +824,3 @@ Boston police strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org
 
              - "Official records of the Office of the Police Commissioner,
 ## Boston, MA, 1919"
-
-27 of 27 9/7/25, 11:58 AM

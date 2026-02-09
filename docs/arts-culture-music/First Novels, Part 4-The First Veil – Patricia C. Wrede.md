@@ -22,8 +22,6 @@ Once you've gotten started on your novel, you might think that all you have to d
 
 Whatever you call it, I don't know any writers (including the
 
-## 1 of 5 10/16/25, 12:06 AM
-
 burst writers) who don't recognize the effect. It's the point where the author suddenly can't seem to make any more progress. Much of the time, the writer knows, in a general sort of way, what happens next—the protagonist is going to sneak into the palace and steal the magic sword, or run across the next key clue to the murder, or have a conference with their team to plan their next move.
 
 But the writer doesn't know enough. They don't know exactly how the protagonist gets into the palace, let alone how they get out again, and they have a sinking feeling that it shouldn't be that easy—something ought to go wrong, but what? They aren't quite sure what the next key clue is—it was going to be discovering the blood-stained handkerchief, but after what happened in the last chapter, that's not just key, it's a dead give-away, and it's far too early for that. They hate writing planning scenes, especially when they aren't sure what the plan should be…but they can't see any way of skipping the scene entirely, much as I…er, they, want to.
@@ -51,5 +49,3 @@ On January 22, 2025 / [Writing](https://pcwrede.com/pcw-wp/category/writing/)
 ## ![](_page_4_Picture_4.jpeg)
 
 ## ![](_page_4_Picture_5.jpeg)
-
-## 5 of 5 10/16/25, 12:06 AM

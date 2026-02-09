@@ -8,7 +8,6 @@ tags:
   - theory
 ---
 
-An Anarchist Theory of Criminal Justice https://theanarchistlibrary.org/library/coy-mckinney-an-...
             Coy McKinney
             An Anarchist Theory of Criminal
             Justice
@@ -45,7 +44,7 @@ An Anarchist Theory of Criminal Justice https://theanarchistlibrary.org/library/
             concerned with actions deemed dangerous or harmful to society as a whole,
             and are prosecuted by the state.
               Relevant to this paper, the criminal justice system is the method by which
-1 of 18 10/9/25, 2:02 AM An Anarchist Theory of Criminal Justice https://theanarchistlibrary.org/library/coy-mckinney-an-...
+
             society deals with individuals who violate criminal laws. It is the means for
             society to “enforce the standards of conduct necessary to protect individuals
             and the community.”[1] This system is composed of three parts: (1) police
@@ -94,7 +93,7 @@ An Anarchist Theory of Criminal Justice https://theanarchistlibrary.org/library/
             providing rehabilitation to them so that they leave prison better than when
             they entered.
               In its entirety, the criminal justice system is structured to deliver justice in a
-2 of 18 10/9/25, 2:02 AM An Anarchist Theory of Criminal Justice https://theanarchistlibrary.org/library/coy-mckinney-an-...
+
             fair manner that upholds the ideals America holds for itself.
             The problem — the illusion
               Despite the stated intent of the criminal justice system, there are clear,
@@ -140,7 +139,7 @@ An Anarchist Theory of Criminal Justice https://theanarchistlibrary.org/library/
             justice, since it silences the only individuals that are truly capable of
             determining it.
               Although America’s legal system has determined that justice is most
-3 of 18 10/9/25, 2:02 AM An Anarchist Theory of Criminal Justice https://theanarchistlibrary.org/library/coy-mckinney-an-...
+
             eﬀectively administered through the adversarial system, the reality of the
             process shows that this is a contrived conclusion. The adversarial system
             relies on prosecutors to “do justice,” and for defense attorneys to be “zealous
@@ -187,7 +186,7 @@ An Anarchist Theory of Criminal Justice https://theanarchistlibrary.org/library/
             evidence of bias that should disqualify a [judicial] candidate from sitting in
             criminal cases.”[10] The same argument can be made for prosecutors as well.
             Thus, in order to show proﬁciency, prosecutors are often encouraged to
-4 of 18 10/9/25, 2:02 AM An Anarchist Theory of Criminal Justice https://theanarchistlibrary.org/library/coy-mckinney-an-...
+
             convict individuals. However, the argument that convictions equal justice is a
             fallacy. If this were true, the rate of recidivism would be decreasing, yet it is
             increasing. According to a 2006 report released by the bipartisan Commission
@@ -237,7 +236,7 @@ An Anarchist Theory of Criminal Justice https://theanarchistlibrary.org/library/
                   probation or parole. Imagine a country in which two-thirds of the
                   men can anticipate being arrested before they reach age thirty.
                   Imagine a country in which there are more young men in prison
-5 of 18 10/9/25, 2:02 AM An Anarchist Theory of Criminal Justice https://theanarchistlibrary.org/library/coy-mckinney-an-...
+
                   than in college.[21]
               The racial disparity is also present in death penalty cases. According to the
             Equal Justice Initiative, “[m]ore than half of the over 3300 people on death
@@ -281,7 +280,7 @@ An Anarchist Theory of Criminal Justice https://theanarchistlibrary.org/library/
                   backgrounds and political ideas of the ﬁfty-ﬁve men who gathered in
                   Philadelphia in 1787 to draw up the Constitution. He found that a
                   majority of them were lawyers by profession, that most of them
-6 of 18 10/9/25, 2:02 AM An Anarchist Theory of Criminal Justice https://theanarchistlibrary.org/library/coy-mckinney-an-...
+
                   were men of wealth, in land, slaves, manufacturing, or shipping,
                   that half of them had money loaned out at interest, and that 40 of
                   the 55 held government bonds, according to the records of the
@@ -328,7 +327,7 @@ An Anarchist Theory of Criminal Justice https://theanarchistlibrary.org/library/
             1865, 1868, and 1870, respectively (prohibiting slavery except as punishment
             for committing a crime, guaranteeing equal protection for all citizens, and
             prohibiting the denial of the right to vote based on race, respectively).
-7 of 18 10/9/25, 2:02 AM An Anarchist Theory of Criminal Justice https://theanarchistlibrary.org/library/coy-mckinney-an-...
+
             However, the intent in maintaining a racially divided society persisted, as
             state governments implemented “Jim Crow” laws that segregated Blacks to a
             separate, and second-class citizenship. The Supreme Court again did nothing
@@ -377,7 +376,7 @@ An Anarchist Theory of Criminal Justice https://theanarchistlibrary.org/library/
             the undisguised racist laws and policies that targeted Blacks after the
             formation of the Constitution have continued, just in a less overt fashion.
               The history of the plight of other minorities under oppressive laws and
-8 of 18 10/9/25, 2:02 AM An Anarchist Theory of Criminal Justice https://theanarchistlibrary.org/library/coy-mckinney-an-...
+
             governmental policies should not go unmentioned. Latinos have been targeted
             through anti-immigrant laws, termed “Juan Crow,” that have had similar, but
             diﬀerent eﬀects on Latinos as Jim Crow did on Blacks.[34] Native Americans
@@ -427,7 +426,7 @@ An Anarchist Theory of Criminal Justice https://theanarchistlibrary.org/library/
             Generally, “primitive” societies are distinguished from modern societies
             because of an absence of an institutionalized government-like authority. Due
             to this distinction, “primitive” societies are considered irrelevant to
-9 of 18 10/9/25, 2:02 AM An Anarchist Theory of Criminal Justice https://theanarchistlibrary.org/library/coy-mckinney-an-...
+
             discussions surrounding present-day social issues.
               Anarchist anthropologist, David Graeber, provides an alternative lens to
             view this dichotomy through his book, Fragments of An Anarchist
@@ -471,7 +470,7 @@ An Anarchist Theory of Criminal Justice https://theanarchistlibrary.org/library/
             societies, anarchism remains a relevant sociopolitical doctrine.
               While anarchism’s critics may concede that it is conceivable, they may still
             argue it is not the best way of structuring society. This position is exempliﬁed
-10 of 18 10/9/25, 2:02 AM An Anarchist Theory of Criminal Justice https://theanarchistlibrary.org/library/coy-mckinney-an-...
+
             by the thoughts of French Revolution thinker, Jacques-Pierre Brissot. Brissot,
             in denouncing his political rivals, the Enragés, accused them of advocating
             anarchy, warning that without the rule of law and government, there could be
@@ -519,7 +518,7 @@ An Anarchist Theory of Criminal Justice https://theanarchistlibrary.org/library/
             for governmental and state power is both harmful and unnecessary.
               In theory, the government is supposed to be of, for, and by the people, but
             the reality of its function has only ensured the existence of a ruling class,
-11 of 18 10/9/25, 2:02 AM An Anarchist Theory of Criminal Justice https://theanarchistlibrary.org/library/coy-mckinney-an-...
+
             whose power and interests are perpetually preserved by the system of
             governance. David Graeber describes the state as having a dual character,
             where it is viewed as an institutionalized form of extortion by communities
@@ -565,7 +564,6 @@ An Anarchist Theory of Criminal Justice https://theanarchistlibrary.org/library/
             ruling class of professionals. Kropotkin explains the manipulative justiﬁcation
             for law by saying:
                   Its origin is the desire of the ruling class to give permanence to
-12 of 18 10/9/25, 2:02 AM An Anarchist Theory of Criminal Justice https://theanarchistlibrary.org/library/coy-mckinney-an-...
 
 ## customs imposed by themselves for their own advantage. Its
                   character is the skilful commingling of customs useful to society,
@@ -612,7 +610,7 @@ An Anarchist Theory of Criminal Justice https://theanarchistlibrary.org/library/
                   form of stupidity to which it is almost impossible to come up with an
                   intelligent response. It is also of course the basis of the state.[58]
                Consequently, the manner in which we allow the state to enforce
-13 of 18 10/9/25, 2:02 AM An Anarchist Theory of Criminal Justice https://theanarchistlibrary.org/library/coy-mckinney-an-...
+
             compliance to the law is comparable to the rhetoric the American government
             uses to demonize “terrorist” groups and the countries labeled as their
             supporters. If terrorism is something we collectively admonish, our next step
@@ -659,7 +657,7 @@ An Anarchist Theory of Criminal Justice https://theanarchistlibrary.org/library/
             needs not being met for individuals. This method prevents individuals that
             have caused harm from being viliﬁed, which encourages others to participate,
             and also reveals any inadequacies within the individual’s community.
-14 of 18 10/9/25, 2:02 AM An Anarchist Theory of Criminal Justice https://theanarchistlibrary.org/library/coy-mckinney-an-...
+
               The second pillar is that restorative justice “emphasizes oﬀender
             accountability and responsibility.”[63] This means, rather than sending
             oﬀenders to jail, they confront the people that have been harmed by their
@@ -709,7 +707,7 @@ An Anarchist Theory of Criminal Justice https://theanarchistlibrary.org/library/
                   interdependent relationships. We tend to not view ourselves as
 ## connected in Western culture; we see ourselves primarily as
                   individuals. In this context, accountability is not as important as
-15 of 18 10/9/25, 2:02 AM An Anarchist Theory of Criminal Justice https://theanarchistlibrary.org/library/coy-mckinney-an-...
+
                   escaping blame or harm. However, if I value my relationship with
                   you more than my own willingness to avoid pain/consequences, I
                   will tell you that I broke your favorite possession, etc., because I
@@ -754,7 +752,7 @@ An Anarchist Theory of Criminal Justice https://theanarchistlibrary.org/library/
                   challenged) but from one or another strategy of slipping away from
                   its grasp, from ﬂight, desertion, the founding of new communities.
                   [68]
-16 of 18 10/9/25, 2:02 AM An Anarchist Theory of Criminal Justice https://theanarchistlibrary.org/library/coy-mckinney-an-...
+
                Critical for creating this new society is a belief that it is possible and that
             we have the power to do it.
                It is time to reaﬀirm what is already ours and reclaim our individual
@@ -813,7 +811,7 @@ An Anarchist Theory of Criminal Justice https://theanarchistlibrary.org/library/
               [28] Scott v. Sandford</em>, 60 U.S. 393 (U.S. 1857).
               [29] Brown v. Bd. of Educ., 347 U.S. 483 (U.S. 1954).
               [30] Michelle Alexander, The Age of Obama As A Racial Nightmare, (last visited Apr. 27, 2012).
-17 of 18 10/9/25, 2:02 AM An Anarchist Theory of Criminal Justice https://theanarchistlibrary.org/library/coy-mckinney-an-...
+
               [31] Alexander, supra note 30.
               [32] Jim Abrams, Congress Passes Bill To Reduce Disparity In Crack, Powder Cocaine
             Sentencing, (last visited Apr. 27, 2012).
@@ -867,4 +865,3 @@ An Anarchist Theory of Criminal Justice https://theanarchistlibrary.org/library/
               [69] Consent Withdrawn, We Must Marginalize The State And Capitalism, (last visited Apr. 27,
             2012).
             Original
-18 of 18 10/9/25, 2:02 AM

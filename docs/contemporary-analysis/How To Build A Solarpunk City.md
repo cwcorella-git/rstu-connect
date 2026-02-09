@@ -487,7 +487,6 @@ appearances from the incompleteness
 14:39
 and contradictions of social life." The problem with city planning that we must
 confront is that city planning alone is not enough. In fact, it can reinforce the
-##
 part as 14:55 a response to capitalists' utter inability to not generate unsanitary, inefficient, and
 
 ## 15:01

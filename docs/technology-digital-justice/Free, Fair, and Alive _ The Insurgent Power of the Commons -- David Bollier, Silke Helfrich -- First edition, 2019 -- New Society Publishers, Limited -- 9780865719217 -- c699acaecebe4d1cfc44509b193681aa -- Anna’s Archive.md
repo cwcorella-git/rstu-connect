@@ -199,7 +199,6 @@ Commoning Mushrooms: The Iriaiken Philosophy | 266
 Building Stronger Commons Through Relationalized Property | 273 Re-Introducing Meaning Making into Modern Law | 279
 
 9. State Power and Commoning | 283
-##
 ## "The State" and "The People" | 286
 
 ## Equal Under Law, Unequal in Reality | 288
@@ -3926,8 +3925,7 @@ bias,
 | partnership (CPP) | Deacon, Terrence, 48 |
 | CPR. see common-pool resources | de Blok, Jos, 20 |
 | (CPRs) | decentralized structures, 86, 192, |
-| Creative Commons Attribution | 202, 301, 320, 330, 341 |
-| Share Alike 4.0, 250 | decision making. see also custom; |
+4.0, 250 | decision making. see also custom; |
 | Creative Commons licenses, 69, | Peer Governance |
 | 70–71, 197, 258, 259, 374 | in Cecosesola, 142–143 |
 | creative destruction, metaphor of, | collaborative, 138–139 |

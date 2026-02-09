@@ -521,5 +521,4 @@ If the Belgian State, for quite ordinary political and financial reasons, itself
 1814 to £ 2,200,000,000,
 1865 to £ 6,100,000,000,
 1875 to £ 8,500,000,000.
-##
 As an instance of the squandering of means of production and of products during a crisis, the total loss in the German iron industry alone, in the crisis of 1873-78, was given at the second German Industrial Congress (Berlin, February 21, 1878), as 22,750,000 pounds.
