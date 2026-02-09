@@ -1,12 +1,12 @@
 ---
-title: "Libguides.mnhs.org"
+title: "Minneapolis Truckers' Strike of 1934"
+author: "Minnesota Historical Society"
 date: 1934
-category: contemporary-analysis
+category: labor
 tags:
   - strikes
-  - labor
-  - unions
-  - workers
+  - teamsters
+  - minneapolis
 ---
 
 ## **Lib Guides: Truckers' Strike of 1934: Overview**

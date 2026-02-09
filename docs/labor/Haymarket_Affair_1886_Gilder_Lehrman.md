@@ -1,11 +1,12 @@
 ---
-title: 'The Haymarket Affair, 1886'
-author: "Haymarket Affair"
+title: "The Haymarket Affair, 1886"
+author: "Gilder Lehrman Institute"
 date: 1886
-category: technology-digital-justice
+category: labor
 tags:
-  - technology
-  - digital rights
+  - history
+  - anarchism
+  - chicago
 ---
 
 ## Introduction
