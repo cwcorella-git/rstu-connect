@@ -1,10 +1,11 @@
 ---
-title: 'Greetings from Sweden: A dual-track syndicalism?'
-author: "libcom.org"
+title: "Greetings from Sweden: A dual-track syndicalism?"
+author: "Rasmus Hästbacka"
 date: 2021
-category: contemporary-analysis
+category: labor
 tags:
   - syndicalism
+  - SAC
   - Sweden
 ---
 

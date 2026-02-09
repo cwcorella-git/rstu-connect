@@ -1,10 +1,12 @@
 ---
-title: 'Poland: The Assault on Reproductive Rights Continues'
-author: "libcom.org"
-date: 1990
+title: "Poland: The Assault on Reproductive Rights Continues"
+author: "Communist Workers' Organisation"
+date: 2020
 category: feminist-theory
 tags:
-  - feminism
+  - abortion
+  - Poland
+  - reproductive rights
 ---
 
 ## Communist Workers' Organisation (CWO)
