@@ -1,11 +1,12 @@
 ---
-title: "beyond the affinity group af.qxd - beyond-affinity-group-organisational-challenge-anarchists-1"
-author: Affinity Group
-date: '1868'
+title: "Beyond the Affinity Group: The Organisational Challenge for Anarchists"
+author: "Workers Solidarity Movement"
+date: 2008
 category: theory
 tags:
   - anarchism
-  - theory
+  - organization
+  - strategy
 ---
 
 # beyond_the_affinity_group_af.qxd - beyond-affinity-group-organisational-challenge-anarchists-1.pdf

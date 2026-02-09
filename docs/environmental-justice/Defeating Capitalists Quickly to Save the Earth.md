@@ -2,9 +2,11 @@
 title: "Defeating Capitalists Quickly to Save the Earth"
 author: "James Herod"
 date: 2016
-category: arts-culture-music
+category: environmental-justice
 tags:
+  - climate
   - capitalism
+  - strategy
 ---
 
 ## James Herod

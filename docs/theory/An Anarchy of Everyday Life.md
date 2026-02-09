@@ -1,9 +1,12 @@
 ---
-title: Jeff Shantz
-date: 2004
-category: contemporary-analysis
+title: "An Anarchy of Everyday Life"
+author: "Jeff Shantz"
+date: 2012
+category: theory
 tags:
   - anarchism
+  - mutual-aid
+  - constructive-anarchy
 ---
 
 # **An Anarchy of Everyday Life**

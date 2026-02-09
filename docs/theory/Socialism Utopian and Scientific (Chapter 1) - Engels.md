@@ -1,10 +1,12 @@
 ---
-title: Utopian and Scientific (Chpt. 1)
+title: "Socialism: Utopian and Scientific (Chapter 1)"
+author: "Friedrich Engels"
 date: 1880
-category: contemporary-analysis
+category: theory
 tags:
   - socialism
-  - theory
+  - marxism
+  - philosophy
 ---
 
 ## [marxists.org](https://www.marxists.org/archive/marx/works/1880/soc-utop/ch01.htm)
