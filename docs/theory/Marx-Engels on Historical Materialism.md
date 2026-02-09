@@ -1,10 +1,12 @@
 ---
-title: "Broad Overview:"
+title: "Marx-Engels on Historical Materialism"
+author: "Marxists.org"
 date: 1999
-category: "contemporary-analysis"
+category: theory
 tags:
-  - analysis
-  - current-events
+  - marxism
+  - philosophy
+  - materialism
 ---
 
 ## **Marx-Engels Subject Archive**

@@ -1,11 +1,12 @@
 ---
-title: Murray Bookchin
+title: "Free Cities: Communalism and the Left"
 author: "Murray Bookchin"
-date: 2006
-category: contemporary-analysis
+date: 2008
+category: theory
 tags:
-  - urban
-  - Bookchin
+  - communalism
+  - municipalism
+  - bookchin
 ---
 
 # **Free Cities**
