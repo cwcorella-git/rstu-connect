@@ -1,11 +1,12 @@
 ---
-title: Peter Gelderloos
+title: "The Failure of Nonviolence"
+author: "Peter Gelderloos"
 date: 2013
-category: international-solidarity
+category: theory
 tags:
   - nonviolence
-  - technology
-  - digital rights
+  - tactics
+  - revolution
 ---
 
 # **The Failure of Nonviolence**
