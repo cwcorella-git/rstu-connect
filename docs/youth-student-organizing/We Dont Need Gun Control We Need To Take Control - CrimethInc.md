@@ -1,10 +1,13 @@
 ---
-title: "Full text of \"We Dont Need Gun Control We Need To Take Control\""
-date: 2015
-category: "contemporary-analysis"
+title: "We Don't Need Gun Control, We Need To Take Control"
+author: "CrimethInc"
+date: 2018
+category: "youth-student-organizing"
 tags:
-  - analysis
-  - current-events
+  - youth
+  - direct-action
+  - gun-violence
+  - Parkland
 ---
 
 #### [archive.org](https://archive.org/stream/anarchy_We_Dont_Need_Gun_Control_We_Need_To_Take_Control/We_Dont_Need_Gun_Control_We_Need_To_Take_Control_djvu.txt)

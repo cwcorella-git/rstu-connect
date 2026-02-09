@@ -1,12 +1,13 @@
 ---
-title: New Police Strategy in New York – Sexual Assault
-author: David Graeber
-date: 'May 8, 2014'
-category: contemporary-analysis
+title: "New Police Strategy in New York – Sexual Assault Against Protestors"
+author: "David Graeber"
+date: 2012
+category: abolition
 tags:
   - police
-  - Graeber
-  - New York
+  - Occupy
+  - sexual-assault
+  - protest
 ---
 
 A few weeks ago I was with a few companions from Occupy Wall Street in Union Square when an old friend — I’ll call her Eileen — passed through, her hand in a cast.

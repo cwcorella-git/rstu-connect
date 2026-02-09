@@ -1,11 +1,13 @@
 ---
-title: Why did Plane Stupid chain themselves to the runway at Stansted Airport?
-author: "Industrial Workers of the World"
+title: "Why Did Plane Stupid Chain Themselves to the Runway at Stansted Airport?"
+author: "Plane Stupid"
 date: 2017
 category: abolition
 tags:
-  - technology
-  - digital rights
+  - climate
+  - deportation
+  - direct-action
+  - anti-racism
 ---
 
 | Date: Mon, 04/03/2017 - 17:27 |
