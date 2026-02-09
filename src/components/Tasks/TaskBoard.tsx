@@ -10,6 +10,7 @@ import {
   getTasks,
   moveTask,
   initializeSeedTasks,
+  migrateTaskDocumentSlugs,
   TASK_STATUSES,
   TASK_PRIORITIES,
   TASK_TYPES,
@@ -64,6 +65,8 @@ export function TaskBoard({ campaignId, buildingId }: TaskBoardProps) {
   useEffect(() => {
     // Initialize seed tasks on first load
     initializeSeedTasks()
+    // Migrate old document slugs to new format
+    migrateTaskDocumentSlugs()
     loadTasks()
 
     // Listen for real-time updates

@@ -445,3 +445,41 @@ export function initializeSeedTasks(): void {
 
   localStorage.setItem(SEED_TASKS_KEY, 'true')
 }
+
+// ============================================================================
+// Migration: Fix document link slugs (Feb 2026)
+// Old format: 'washoe-eviction-data-request'
+// New format: 'data-requests-washoe-eviction-data-request'
+// ============================================================================
+
+const MIGRATION_SLUG_FIX_KEY = 'rstu-tasks-slug-migration-v1'
+
+const SLUG_MIGRATIONS: Record<string, string> = {
+  'washoe-eviction-data-request': 'data-requests-washoe-eviction-data-request',
+  'washoe-code-enforcement-request': 'data-requests-washoe-code-enforcement-request',
+}
+
+export function migrateTaskDocumentSlugs(): void {
+  if (typeof window === 'undefined') return
+  if (localStorage.getItem(MIGRATION_SLUG_FIX_KEY)) return
+
+  const tasks = getTasks()
+  let migrated = false
+
+  tasks.forEach(task => {
+    if (task.documentLinks) {
+      task.documentLinks.forEach(link => {
+        const newSlug = SLUG_MIGRATIONS[link.slug]
+        if (newSlug) {
+          link.slug = newSlug
+          migrated = true
+        }
+      })
+      if (migrated) {
+        saveTask(task)
+      }
+    }
+  })
+
+  localStorage.setItem(MIGRATION_SLUG_FIX_KEY, 'true')
+}
