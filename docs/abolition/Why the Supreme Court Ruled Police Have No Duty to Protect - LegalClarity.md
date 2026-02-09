@@ -1,12 +1,13 @@
 ---
-title: Why The Supreme Court Ruled Police Have No Duty To
-author: Protect Legalclarity
-date: '2025'
+title: "Why The Supreme Court Ruled Police Have No Duty to Protect"
+author: "Legal Clarity"
+date: 2025
 category: abolition
 tags:
   - police
-  - abolition
-  - prisons
+  - Supreme-Court
+  - constitutional-law
+  - DeShaney
 ---
 
 Search Legal Clarity...

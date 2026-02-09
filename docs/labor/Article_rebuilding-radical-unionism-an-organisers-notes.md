@@ -1,12 +1,13 @@
 ---
-title: Rebuilding Radical Unionism an Organisers Notes
-author: Industrial Workers of the World
-date: '2025'
+title: "Rebuilding Radical Unionism: An Organiser's Notes"
+author: "Anonymous Organiser"
+date: 2016
 category: labor
 tags:
-  - labor
   - unions
-  - workers
+  - organizing
+  - UK
+  - strategy
 ---
 
 ## By an Anonymous Organiser -

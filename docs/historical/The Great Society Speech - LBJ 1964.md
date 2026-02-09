@@ -1,10 +1,13 @@
 ---
-title: 'The Great Society, U. Michigan, 1964'
+title: "The Great Society Speech (University of Michigan, 1964)"
+author: "Lyndon B. Johnson"
 date: 1964
-category: contemporary-analysis
+category: historical
 tags:
-  - analysis
-  - current-events
+  - speeches
+  - US-history
+  - 1960s
+  - poverty
 ---
 
 ## [pbs.org](https://www.pbs.org/wgbh/americanexperience/features/lbj-michigan/)

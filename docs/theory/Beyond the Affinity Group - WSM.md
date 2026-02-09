@@ -1,12 +1,13 @@
 ---
 title: "Beyond the Affinity Group: The Organisational Challenge for Anarchists"
-author: "Workers Solidarity Movement"
-date: 2008
+author: "Andrew Flood"
+date: 2004
 category: theory
 tags:
   - anarchism
   - organization
   - strategy
+  - Bakunin
 ---
 
 # beyond_the_affinity_group_af.qxd - beyond-affinity-group-organisational-challenge-anarchists-1.pdf

@@ -1,12 +1,13 @@
 ---
-title: "Reforming Zeal: Jack Straw vs football fans"
-author: "libcom.org"
+title: "Reforming Zeal: Jack Straw vs Football Fans"
+author: "Black Flag"
 date: 2001
-category: "contemporary-analysis"
+category: abolition
 tags:
-  - analysis
-  - current-events
-  - libcom
+  - UK
+  - policing
+  - civil-liberties
+  - legislation
 ---
 
 Black Flag article from 2001 on New Labour's proposals for draconian legislation aimed at football fans.

@@ -1,11 +1,13 @@
 ---
-title: 'Social Ecology versus Deep Ecology: A Challenge for the Ecology Movement'
+title: "Social Ecology versus Deep Ecology: A Challenge for the Ecology Movement"
 author: "Murray Bookchin"
-date: 1933
+date: 1987
 category: environmental-justice
 tags:
-  - environment
-  - climate
+  - social-ecology
+  - deep-ecology
+  - critique
+  - Bookchin
 ---
 
 Murray Bookchin's critique of 'mystical' deep ecologists and his contribution to the development of a pro-working class environmentalism.
