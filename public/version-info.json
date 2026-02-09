@@ -1,8 +1,8 @@
 {
-  "commit": "b2ef200a",
-  "message": "Fix landing page deletion being undone by restore logic",
+  "commit": "4ef3a742",
+  "message": "Second sweep: Fix remaining PDF artifacts and broken titles",
   "author": "cwcorella-git",
-  "date": "2026-02-09 00:24:44 -0800",
+  "date": "2026-02-09 14:49:09 -0800",
   "branch": "main",
-  "buildTime": "2026-02-09T09:11:52.547Z"
+  "buildTime": "2026-02-09T22:56:28.599Z"
 }

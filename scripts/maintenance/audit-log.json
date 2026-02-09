@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-09",
     "last_updated": "2026-02-09",
-    "total_documents": 2357,
+    "total_documents": 2284,
     "audited_count": 0,
     "categories_audited": []
   },
@@ -35,12 +35,27 @@
         "missing_frontmatter": 1,
         "truncated_documents_deleted": 1
       }
+    },
+    {
+      "date": "2026-02-09",
+      "session": 3,
+      "action": "duplicate_removal",
+      "description": "Removed duplicate documents: 12MB Blog scrape, exact duplicates, Article_ prefix dupes",
+      "documents_affected": 73,
+      "issues_fixed": {
+        "blog_scrape_with_base64": 1,
+        "large_exact_duplicates": 9,
+        "article_prefix_duplicates": 47,
+        "liber3_suffix_duplicates": 16,
+        "exact_content_duplicates": 1
+      },
+      "space_saved_mb": 16.5
     }
   ],
   "remaining_issues": {
     "very_long": {
-      "count": 379,
-      "description": "Documents over 100k chars - full book scans",
+      "count": 306,
+      "description": "Documents over 100k chars - full book scans (after duplicate removal)",
       "severity": "info"
     },
     "wikipedia_scrape": {
