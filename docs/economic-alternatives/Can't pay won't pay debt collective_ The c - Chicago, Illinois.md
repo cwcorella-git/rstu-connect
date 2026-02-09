@@ -1,10 +1,12 @@
 ---
-title: Cant Mont the Case for Economic Disobedience
+title: "Can't Pay, Won't Pay: The Case for Economic Disobedience and Debt Abolition"
+author: "Debt Collective"
 date: 2020
 category: economic-alternatives
 tags:
   - debt
-  - Chicago
+  - economic-justice
+  - organizing
 ---
 
 ## AND DEBT ABOLITION

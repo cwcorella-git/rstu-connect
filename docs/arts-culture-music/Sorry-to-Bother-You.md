@@ -1,10 +1,12 @@
 ---
-title: 2 Int. Cassius's Studio Apartment- Morning 2
-date: 2003
-category: contemporary-analysis
+title: "Sorry to Bother You (Screenplay)"
+author: "Boots Riley"
+date: 2017
+category: arts-culture-music
 tags:
-  - analysis
-  - current-events
+  - film
+  - labor
+  - satire
 ---
 
 ### SORRY TO BOTHER YOU
