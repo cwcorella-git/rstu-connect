@@ -220,13 +220,37 @@ tests/                      # Root test directory
 └── e2e/                    # Playwright end-to-end tests
     ├── debug.spec.ts
     ├── features.spec.ts
-    └── smoke.spec.ts
+    ├── smoke.spec.ts
+    └── canvassing-mobile.spec.ts  # Mobile UI testing
 
 src/lib/__tests__/          # Co-located storage tests (Jest)
 src/components/__tests__/   # Co-located component tests (Jest)
 ```
 
 **Config:** `jest.config.js` (unit tests), `playwright.config.ts` (e2e tests)
+
+**Mobile Testing:** Use `canvassing-mobile.spec.ts` as a template for mobile viewport testing. Key pattern:
+```typescript
+// Set mobile viewport
+await page.setViewportSize({ width: 390, height: 844 })
+
+// Inject test profile for organizer access
+await page.evaluate(() => {
+  const profileState = {
+    currentProfile: { id: 'test', role: 'organizer', ... },
+    storedProfiles: [...],
+    ...
+  }
+  localStorage.setItem('rstu_profile_data', JSON.stringify(profileState))
+})
+
+// Use JavaScript clicks for elements behind overlays
+await page.evaluate(() => {
+  document.querySelectorAll('button').forEach(btn => {
+    if (btn.textContent?.includes('Tools')) btn.click()
+  })
+})
+```
 
 ### Data Types
 
@@ -408,6 +432,27 @@ Final Weight = min(Base × (1 + Activity Bonus), 100)  // capped at 100
 - 2-term limit per position
 - Positions: President, Vice President, Secretary, Treasurer
 
+## Onboarding Checklist
+
+**Location:** `src/components/Onboarding/OnboardingChecklist.tsx`, `src/contexts/OnboardingContext.tsx`
+
+The "Getting Started" checklist guides new users through initial setup:
+1. Create your profile
+2. Find your building
+3. Join building chat
+4. Explore the library
+5. Check mutual aid
+
+**Mobile behavior:** Auto-minimizes on mobile (<768px) to save screen space. Users can tap the header to expand. Preference is remembered for the session via `sessionStorage`.
+
+**State persistence:** `localStorage` key `rstu_onboarding_state` stores:
+- `checklistItems` - completion status for each item
+- `checklistDismissed` - permanently hidden
+- `checklistMinimized` - collapsed state
+- `toursCompleted` - feature tour completion
+
+**Dismissal:** Users can permanently dismiss via "Hide checklist" link, or it auto-hides when all items are complete.
+
 ## Canvassing & Unit Tracker
 
 **Location:** `src/lib/storage/canvassStorage.ts`
@@ -476,6 +521,18 @@ All presets include full i18n support (EN, ES, TL, ZH, VI).
 - `getLandingPages()` - Returns all pages, restores deleted presets
 - `setActiveLandingPage(id)` - Sets which page is displayed
 - `updateLandingPage(id, config)` - Saves customizations
+
+## Mobile Responsiveness
+
+**Breakpoints:** Standard Tailwind (`md:` = 768px, `lg:` = 1024px)
+
+**Key mobile patterns:**
+- **Navigation:** Hamburger menu on mobile, horizontal tabs on desktop
+- **Tools tabs:** Single row at all widths (no `flex-wrap` to prevent stacking)
+- **Onboarding checklist:** Auto-minimizes on mobile (<768px)
+- **Property view:** Full-width panels stack vertically on mobile
+
+**Testing mobile:** Run `tests/e2e/canvassing-mobile.spec.ts` to capture screenshots at 390x844 (iPhone 13) viewport. Screenshots save to `mobile-screenshots/`.
 
 ## Keyboard Shortcuts
 
