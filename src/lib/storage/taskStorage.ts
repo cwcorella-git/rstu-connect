@@ -391,10 +391,10 @@ export function initializeSeedTasks(): void {
 
   // Check if these tasks already exist
   const hasEvictionRequest = existingTasks.some(t =>
-    t.title.includes('Eviction Data') || t.documentLinks?.some(d => d.slug.includes('eviction-data-request'))
+    t.title.includes('Eviction Data') || t.documentLinks?.some(d => d.slug.includes('washoe-eviction-data-request'))
   )
   const hasCodeEnforcementRequest = existingTasks.some(t =>
-    t.title.includes('Code Enforcement') || t.documentLinks?.some(d => d.slug.includes('code-enforcement-request'))
+    t.title.includes('Code Enforcement') || t.documentLinks?.some(d => d.slug.includes('washoe-code-enforcement-request'))
   )
 
   if (!hasEvictionRequest) {
@@ -408,7 +408,7 @@ export function initializeSeedTasks(): void {
       assigneeIds: [],
       assigneeNames: [],
       documentLinks: [{
-        slug: 'washoe-eviction-data-request',
+        slug: 'data-requests-washoe-eviction-data-request',
         title: 'Public Records Request: Washoe County Eviction Data',
         category: 'data-requests',
       }],
@@ -431,7 +431,7 @@ export function initializeSeedTasks(): void {
       assigneeIds: [],
       assigneeNames: [],
       documentLinks: [{
-        slug: 'washoe-code-enforcement-request',
+        slug: 'data-requests-washoe-code-enforcement-request',
         title: 'Public Records Request: Code Enforcement & Housing Violations',
         category: 'data-requests',
       }],

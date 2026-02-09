@@ -284,12 +284,14 @@ export function TaskDetail({ task, onClose, onUpdate }: TaskDetailProps) {
                       {task.documentLinks.map((doc, i) => (
                         <a
                           key={i}
-                          href={`#reading/${doc.category}/${doc.slug}`}
+                          href={`?doc=${doc.slug}`}
                           onClick={(e) => {
                             e.preventDefault()
                             // Navigate to reading tab with this document
-                            window.location.hash = `reading/${doc.category}/${doc.slug}`
-                            onClose()
+                            // Use full page navigation to ensure doc param is processed
+                            const url = new URL(window.location.href)
+                            url.searchParams.set('doc', doc.slug)
+                            window.location.href = url.toString()
                           }}
                           className="flex items-center gap-2 p-2 bg-blue-50 hover:bg-blue-100 rounded-md text-sm text-blue-700 transition-colors"
                         >
