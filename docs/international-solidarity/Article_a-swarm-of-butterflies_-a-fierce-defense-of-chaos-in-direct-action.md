@@ -9,7 +9,6 @@ tags:
   - peace
 ---
 
-# A Swarm Of Butterflies  A Fierce Defense Of Chaos In Direct Action
             Curious George Brigade
             A Swarm of Butterﬂies: A Fierce
             Defense of Chaos in Direct Action

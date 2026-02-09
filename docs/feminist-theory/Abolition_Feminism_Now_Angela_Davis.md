@@ -8,8 +8,6 @@ tags:
   - abolition
 ---
 
-# ABOLITION. FEMINISM. NOW.
-
 Angela Y. Davis
 Gina Dent
 Erica R. Meiners

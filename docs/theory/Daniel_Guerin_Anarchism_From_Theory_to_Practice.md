@@ -8,8 +8,6 @@ tags:
   - theory
 ---
 
-# ANARCHISM **From Theory to** Practice **by Daniel** Guerin I ntroduction by Noam Chomsky Translated by Mary Klopper o
-
 ## Monthly Review Press New York
 
 ## Contents

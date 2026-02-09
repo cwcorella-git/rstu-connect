@@ -8,8 +8,6 @@ tags:
   - democracy
 ---
 
-# **Ludwig Hilberseimer at the Illinois Institute of Technology: Architectural Education, Organic Democracy and Colonization.**
-
 L udwig Hilberseimer's role at defining trends in architectural education in the United States is a relevant one, and deserves special attention due to its rigorous method. This article aims to cast light at his teaching experience at IIT, where he promoted an integration of urban theory and political ideals. Understood as an act of cultural colonization, architectural education appears as a powerful tool to reshape the territory in the United States and the world, as part of an ongoing process of Modern postwar globalization.
 
 ## By Plácido González Martínez

@@ -10,14 +10,6 @@ tags:
   - london
 ---
 
-## **Hipsterphobia - Cava Sundays**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/hipsterphobia-cava-sundays
-
-**Tags:** culture, racism, Class War Federation, LGBTQ+ (Lesbian Gay Bi Trans Queer +), London,
-
 ## United Kingdom, gentrification, Cava Sundays
 
 Interesting article on Class War attacking "hipsters" as part of their high-profile protest against gentrification in east London last month, pointing out its pitfalls, as well as pitfalls of populist anti-gentrification campaigning in general.

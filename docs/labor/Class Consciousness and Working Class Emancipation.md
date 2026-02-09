@@ -8,14 +8,6 @@ tags:
   - theory
 ---
 
-## **Class Consciousness and Working Class Emancipation**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/class-consciousness-and-working-class-emancipation
-
-**Tags:** Internationalist Communist Tendency, syndicalism, Leninism, operaismo, Communist Workers'
-
 Organisation (CWO), SI Cobas, base unions, Communist Left, Angry Workers of the World, organisation
 
 Discussion with the Angry Workers of the World (AWW)

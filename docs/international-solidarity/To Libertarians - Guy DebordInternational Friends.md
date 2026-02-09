@@ -8,14 +8,6 @@ tags:
   - solidarity
 ---
 
-## **To Libertarians - Guy Debord/International Friends**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/libertarians-guy-debordinternational-friends
-
-**Tags:** Guy Debord, repression, prisons, Spain, situationist, PDF
-
 A text on solidarity with libertarian prisoners in Spain, written by Guy Debord and circulated under the name "International Friends". This translation taken from Not Bored!,PDF version found at azinelibrary.org.
 
 ## "To libertarians"drafted by Guy Debord

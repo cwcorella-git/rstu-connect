@@ -7,8 +7,6 @@ tags:
   - current-events
 ---
 
-# How to Win Well
-
 Civil Resistance Breakthroughs and the Path to Democracy
 
 ## ![](_page_0_Picture_3.jpeg)

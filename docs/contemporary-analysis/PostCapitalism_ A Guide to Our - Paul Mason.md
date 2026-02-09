@@ -6,13 +6,9 @@ tags:
   - capitalism
 ---
 
-# MASON POSTCAPITALISM AGUIDE TOUR FUTURE
-
 ## ![](_page_1_Picture_0.jpeg)
 
 # Paul Mason
-
-# postcapitalism
 
 ## *A Guide to Our Future*
 

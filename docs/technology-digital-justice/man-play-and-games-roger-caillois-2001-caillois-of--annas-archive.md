@@ -12,8 +12,6 @@ tags:
 
 ## ![](_page_0_Picture_1.jpeg)
 
-## Man, Play and Games
-
 ## ◆§ ROGER CAILLOIS
 
 ## TRANSLATED FROM THE FRENCH BY Meyer Barash

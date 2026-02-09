@@ -8,12 +8,6 @@ tags:
   - labor
 ---
 
-## **Is the IWW all-sufficient for the workers needs? - Vincent St. John**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/iww-all-sufficient-workers-needs-vincent-st-john
-
 ## **Tags:** Vincent St. John, syndicalism
 
 An article by Vincent St. John, essentially defending the concepts of revolutionary syndicalism against leftist critics. Originally appeared in Solidarity(July 31, 1915)

@@ -8,14 +8,6 @@ tags:
   - strikes
 ---
 
-## **The 1926 general strike in Hackney**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/1926-general-strike-hackney
-
-**Tags:** strikes, general strikes, London, United Kingdom, Hackney, 1926 general strike, Barry Burke,
-
 ## PDF
 
 Barry Burke's account of the UK general strike of 1926 in the East London borough of Hackney.

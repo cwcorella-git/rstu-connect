@@ -9,8 +9,6 @@ tags:
 
 ## ![](_page_0_Picture_2.jpeg)
 
-## **Nano-diamond self-charging batteries could disrupt energy as we know it**
-
 NDB makes remarkable claims about its self-charging nano-diamond battery, here seen mocked up as a circuit board component NDB
 
 ## View 2 Images

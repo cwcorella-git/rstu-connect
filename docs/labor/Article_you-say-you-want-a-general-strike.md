@@ -8,9 +8,6 @@ tags:
   - strikes
 ---
 
-# You Say You Want a General Strike
-
-You say you want a general strike Date: Unknown Source: https://libcom.org/article/you-say-you-want-general-strike Tags: general strikes, Marianne Garneau, Organizing Work
 Marianne Garneau critiques recent calls for general strikes.This article first appeared on Organizing Work.
 There’s a lot of excitement on the left about the tactic of the general strike. People hope to use it for everything from overthrowing Trump tostopping restrictions on abortion. But so far, calls for general strikeshave been unsuccessful.
 You can tell how serious people are about organizing — general strikes or anything else — by how interested they are in specifics: the nuts and bolts of organizing strategy, hard data about the historical record, and an unflinching analysis of a tactic’s usefulness. The saying goes: “Amateurs talk strategy. Professionals talk logistics.” If someone just waxes poetic about the revolutionary importance of a particular form of action, or about the urgency of the current moment, or romanticizes the past in a way that doesn’t do much beyond conjuring sepia-toned images of worker militancy — then they are not serious.

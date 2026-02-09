@@ -9,17 +9,11 @@ tags:
 
 ## ![](_page_0_Picture_1.jpeg)
 
-# LAW AND THE UTOPIAN IMAGINATION
-
 Edited by Austin Sarat, Lawrence Douglas, and Martha Merrill Umphrey
-
-# Law and the Utopian imagination
 
 The Amherst Series in Law, Jurisprudence, and Social Thought e d i t e d b y
 
 Austin Sarat, Lawrence Douglas, and Martha Merrill Umphrey
-
-# Law and the Utopian Imagination
 
 ## Edited by
 

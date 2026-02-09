@@ -10,7 +10,7 @@ tags:
   - urban
   - Nevada
 ---
-# City of Reno adopts an updated ordinance that prohibits sitting, sleeping and camping in public places
+
 City of Reno adopts an updated ordinance that prohibits ...   about:reader?url=https%3A%2F%2Fwww.kolotv.com...
 kolotv.com
 City of Reno adopts an updated

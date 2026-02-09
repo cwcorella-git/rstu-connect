@@ -8,13 +8,7 @@ tags:
   - climate
 ---
 
-## **LIUNA Local passes message of support for Standing Rock**
-
-## **Date:** Wed, 11/09/2016 - 18:26
-
 ## **Source:** https://ecology.iww.org/node/1905
-
-**Tags:** Laborers' International Union of North America (LIUNA), LIUNA Local 23, green unionism, Labor for Standing Rock (L4SR), Labor Union Camp, North America's Building Trades Unions (NABTU), NoDAPL, pipelines, Dakota Access Pipeline (DAPL), indigenous
 
 ## By Richard Mellor -
 

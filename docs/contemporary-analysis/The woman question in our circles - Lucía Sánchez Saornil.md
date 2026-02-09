@@ -7,12 +7,6 @@ tags:
   - women
 ---
 
-## **The woman question in our circles - Lucía Sánchez Saornil**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/woman-question-our-circles-lucia-sanchez-saornil**Tags:** Lucia Sanchez Saornil, Solidaridad Obrera, Spain, Mujeres Libres, anarchism, anarcho-syndicalism, feminism, Confederación Nacional del Trabajo (CNT)
-
 These are the first three in a series of five articles published by L. S. Saornil in the CNT newspaper "Solidaridad Obrera"(Sept/Oct 1935), under the title "La cuestión femenina en nuestros medios". Translation by J. B. fromhere(pg. 29). All notes by the translator. Originally posted: April 21, 2023 at Medium
 
 I am grateful to M. R. Vázquez who, with his article published in these same columns, "Woman, a revolutionary factor"1■ very well focused, by the way ■ has given me the opportunity to deal with this subject again.

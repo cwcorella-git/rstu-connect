@@ -8,14 +8,6 @@ tags:
   - organizing
 ---
 
-## **A gigantic network of narrow streams: ditching the formal IWW and building the real - Tyler Zee**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/gigantic-network-narrow-streams-ditching-formal-iww-and-building-real-tyler-zee
-
-**Tags:** Tyler Zee, Industrial Workers of the World (IWW), Twin Cities IWW, direct unionism, organisation, General Defense Committee
-
 A 2017 critique of the Industrial Workers of the World (IWW) by some members about the formalism and grounds for debate of the union at the time.
 
 by Tyler Zee with contributions to conversation from Chino, Adela, Kei, and others

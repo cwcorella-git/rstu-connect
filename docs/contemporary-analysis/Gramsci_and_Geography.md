@@ -10,8 +10,6 @@ tags:
 
 ## ![](_page_0_Picture_4.jpeg)
 
-# **Gramsci and Geography**
-
 ## **Jordan Camp**
 
 **LAST MODIFIED: 21 FEBRUARY 2022 DOI: 10.1093/OBO/9780199874002-0241**

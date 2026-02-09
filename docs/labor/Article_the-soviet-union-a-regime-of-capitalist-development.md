@@ -8,9 +8,7 @@ tags:
   - capitalism
 ---
 
-# The Soviet Union a Regime of Capitalist Development
-
-The Soviet Union: A Regime of Capitalist Development Date: Unknown Source: https://libcom.org/article/soviet-union-regime-capitalist-development Tags: Matthew Crossin, Soviet Union, state capitalism, Russia, USSR, anarchism, Marxism
+Crossin, Soviet Union, state capitalism, Russia, USSR, anarchism, Marxism
 An anarchist communist analysis of the political economy of the Soviet Union. Originally published on anarchistworker.substack.com
 
 ## Inadequate Theories of State Capitalism

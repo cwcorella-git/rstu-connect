@@ -8,14 +8,6 @@ tags:
   - theory
 ---
 
-## **Marxism and Sexuality**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/marxism-and-sexuality
-
-**Tags:** Internationalist Communist Tendency, Marxism, sex and sexuality, LGBTQ+ (Lesbian Gay Bi
-
 Trans Queer +), feminism, Communist Workers' Organisation (CWO), historical materialism,
 
 ## Communist Left, identity politics

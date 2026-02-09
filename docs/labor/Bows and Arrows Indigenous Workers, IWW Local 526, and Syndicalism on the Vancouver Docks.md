@@ -10,13 +10,7 @@ tags:
   - indigenous
 ---
 
-## **Bows and Arrows: Indigenous Workers, IWW Local 526, and Syndicalism on the Vancouver Docks**
-
-## **Date:** Wed, 02/17/2021 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/4185
-
-**Tags:** indigenous, marine transport workers, Industrial Workers of the World (IWW), green syndicalism, green unionism, revolutionary unions, libertarian-socialism, unions, movements, unions, and organizations, movement politics
 
 ## By Jeff Shantz -
 

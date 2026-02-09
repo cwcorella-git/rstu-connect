@@ -7,14 +7,6 @@ tags:
   - Bookchin
 ---
 
-## **On spontaneity and organisation - Murray Bookchin**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/spontaneity-and-organisation-murray-bookchin
-
-**Tags:** Murray Bookchin, organisation, Solidarity, PDF
-
 A lecture given by Bookchin at a conference in November 1971.
 
 It was published in Liberation(New York) (March, 1972) and Anarchos(No. 4 1973). Solidarity (London) reprinted it as a pamphlet in December 1975. (Solidarity pamphlet 49).

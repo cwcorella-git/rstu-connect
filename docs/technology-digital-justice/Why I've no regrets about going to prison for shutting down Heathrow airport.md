@@ -9,10 +9,6 @@ tags:
   - digital rights
 ---
 
-## **Why I've no regrets about going to prison for shutting down Heathrow airport**
-
-## **Date:** Tue, 02/23/2016 - 19:46
-
 | Source: https://ecology.iww.org/node/1536|
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Tags: Plane Stupid, blockadia, Heathrow, climate justice, Ella Gilbert, Bec Sanderson, Kara Moses,

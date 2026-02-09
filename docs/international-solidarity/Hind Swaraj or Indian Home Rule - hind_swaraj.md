@@ -9,15 +9,11 @@ tags:
   - peace
 ---
 
-# Hind Swaraj or Indian Home Rule
-
 ## M. K. Gandhi
 
 ## ![](_page_0_Picture_2.jpeg)
 
 ## ![](_page_1_Picture_0.jpeg)
-
-# HIND SWARAJ OR INDIAN HOME RULE
 
 ## By : M. K. Gandhi
 

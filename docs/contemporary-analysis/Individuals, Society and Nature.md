@@ -12,13 +12,7 @@ tags:
   - ecosocialism
 ---
 
-## **Individuals, Society and Nature**
-
-## **Date:** Wed, 04/12/2023 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/5564
-
-**Tags:** Peter Kropotkin, libertarian-socialism, anarchism, anarcho-communism, green-anarchism, ecosocialism
 
 ## By Leonard Mortensen -
 

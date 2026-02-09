@@ -7,8 +7,6 @@ tags:
   - digital rights
 ---
 
-# **Against His-story, Against Leviathan**
-
 ## Fredy Perlman
 
 # **Contents**

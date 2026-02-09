@@ -9,8 +9,6 @@ tags:
 
 [jerryjenkins.com](https://jerryjenkins.com/subtext-examples/)
 
-# **Got Subtext? Writing Better Dialogue**
-
 ## Jerry B. Jenkins
 
 6–7 minutes

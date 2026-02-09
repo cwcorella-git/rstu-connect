@@ -8,14 +8,6 @@ tags:
   - anti-war
 ---
 
-## **No peace in Europe ? lWMA call to the workers of the world**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/no-peace-europe-lwma-call-workers-world
-
-**Tags:** International Workers' Association (IWA), World War II, antimilitarism, syndicalism, anarcho-syndicalism
-
 A statement released by the revolutionary syndicalist International Workingman's Association (today the International Workers Association) around the time the European theater of the Second World War came to an end. Originally appeared in the Anarchist Federation of Britain's Direct Action(June 1945).
 
 Two world wars within thirty years: that is the result of the present world order. The European War has ended, but peace is by no means secure. On the contrary, new conflicts of clashing interests are being prepared between the victorious powers; conflicts that may produce new armed strife.

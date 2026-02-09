@@ -11,14 +11,6 @@ tags:
   - socialist-party-of-great-britain
 ---
 
-## **An afterthought: 'extra-parliamentary electoralism'**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/afterthought-extra-parliamentary-electoralism
-
-**Tags:** anarchism, Class War Federation, United Kingdom, elections, Socialist Party of Great Britain
-
 ## (SPGB), UK elections 2015
 
 As a post script to the series on 'tactical voting' strategies and election narratives, a critical look at two different parties at the more radical end of radical electoralism.

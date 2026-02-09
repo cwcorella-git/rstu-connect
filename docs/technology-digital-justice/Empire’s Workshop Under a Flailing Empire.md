@@ -7,8 +7,6 @@ tags:
   - digital rights
 ---
 
-# **Empire's Workshop Under a Flailing Empire**
-
 ## BY
 
 #### [HILARY GOODFRIEND](https://jacobin.com/author/hilary-goodfriend)

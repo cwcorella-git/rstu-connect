@@ -6,8 +6,6 @@ tags:
   - anarchism
 ---
 
-# **ANARCHY 43**
-
 ## **TWO SHILLINGS THIRTY CENTS**
 
 # **PARENTS AND TEACHERS**

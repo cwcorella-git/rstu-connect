@@ -10,13 +10,7 @@ tags:
   - john-zerzan
 ---
 
-# **Fascist Entryism: Ad Busters and the Problem of Hazy Politics**
-
-## **Date:** Sun, 03/06/2016 - 11:56
-
 ## **Source:** https://ecology.iww.org/node/1553
-
-**Tags:** anti-fascism, ecofascism, green-anarchism, John Zerzan
 
 ## By Antifascist Front -
 

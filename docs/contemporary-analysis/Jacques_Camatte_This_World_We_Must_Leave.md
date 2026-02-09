@@ -8,15 +8,11 @@ tags:
   - current-events
 ---
 
-# THIS WORLD WE MUST LEAVE
-
 ## AND OTHER ESSAYS
 
 ## ![](_page_0_Picture_2.jpeg)
 
 ## JACQUES CAMATTE
-
-# THIS WORLD WE MUST LEAVE AND OTHER ESSAYS
 
 #### NEW AUTONOMY SERIES Jim Fleming & Peter Lamborn Wilson, Editors
 

@@ -12,11 +12,7 @@ tags:
 
 ## **Unions, Environmental Justice Advocates Say "No!" To Coal Transport through Oakland**
 
-## **Date:** Wed, 10/28/2015 - 15:23
-
 ## **Source:** https://ecology.iww.org/node/1359
-
-**Tags:** International Longshore and Warehouse Union (ILWU), ILWU Local 6, ILWU Local 10, ILWU Local 34, Alameda County Central Labor Council, coal, exports, Phil Tagami, Oakland, West Oakland Environmental Indicators Project (WOEIP)
 
 ## By Staff -
 

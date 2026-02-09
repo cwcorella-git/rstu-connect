@@ -8,8 +8,6 @@ tags:
   - current-events
 ---
 
-# MICHE L FOUCAULT
-
 ## ![](_page_0_Picture_1.jpeg)
 
 # DISCIPLINE & PUNISH

@@ -8,19 +8,11 @@ tags:
   - digital rights
 ---
 
-# **Against the Logic of Submission - Wolfi Landstreicher**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/against-logic-submission-wolfi-landstreicher**Tags:** sex and sexuality, feminism, intellectuals, Wolfi Landstreicher, PDF
-
 A series of essays investigating the role of social relationships.
 
 ## Introduction
 
 Submission to domination is enforced not solely, nor even most significantly, through blatant repression, but rather through subtle manipulations worked into the fabric of everyday social relationships. These manipulations — ingrained in the social fabric not because domination is everywhere and nowhere, but because the institutions of domination create rules, laws, mores and customs that enforce such manipulations — create a logic of submission, an often unconscious tendency to justify resignation and subservience in one's everyday relations in the world. For this reason, it is necessary for those who are serious about developing an anarchist insurrectional project to confront this tendency wherever it appears — in their lives, their relationships and the ideas and practices of the struggles in which they participate. Such a confrontation is not a matter of therapy, which itself partakes of the logic of submission, but of defiant refusal. It requires a subversion of the existent, a development of different ways of relating to ourselves, each other, the world and our struggles, ways that clearly reflect our determination to refuse all domination and to reappropriate our lives here and now. I am talking here of a real revolution of everyday life as the necessary basis for a social revolution against this civilization founded on domination and exploitation. The following essays appeared in Willful Disobedience as the series "Against the Logic of Submission". By no means do they exhaust the question, but I think they provide a basis for discussion as to how we can create ourselves, our relationships and our struggle as our own in defiance of all domination.
-
-## Against the Logic of Submission
 
 A distinguishing factor of the anarchist idea of revolution is the importance of the individual in bringing this about. Although collectivist ideology has dulled this realization even in most anarchist circles, it still manifests in such choices as abstention from voting and military service. But for those seeking to develop an insurrectional practice, this realization needs to go much further than a few abstentions. No revolutionary anarchist denies the necessity of a large-scale uprising of the exploited to destroy the state, capital and every institution of power and privilege. But revolution is not a gift that falls from the sky or is granted by an abstract History. Actions of individuals help to build the circumstance which can make uprisings occur and can push them in the direction of generalized revolt.
 

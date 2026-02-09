@@ -9,8 +9,6 @@ tags:
   - digital rights
 ---
 
-## **Anarchist Federation**
-
 ## **Aims and Principles**
 
 - **1.** The Anarchist Federation is an organisation of revolutionary class struggle anarchists. We aim for the abolition of all hierarchy, and work for the creation of a world-wide classless society: anarchist communism.

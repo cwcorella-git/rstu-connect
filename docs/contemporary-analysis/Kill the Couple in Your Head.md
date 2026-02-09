@@ -7,8 +7,6 @@ tags:
   - current-events
 ---
 
-## **Anonymous**
-
 ## **Kill the Couple in Your Head**
 
 ## **May 2021**

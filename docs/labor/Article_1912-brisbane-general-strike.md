@@ -8,9 +8,6 @@ tags:
   - strikes
 ---
 
-# 1912 Brisbane General Strike
-
-1912: Brisbane General Strike Date: Unknown Source: https://libcom.org/article/1912-brisbane-general-strike Tags: general strikes, Australia, trams, Brisbane, Jeewon Kim, PDF
 Union busting at the Brisbane Tramway led to a municipal general strike and the setting up of an alt
 The Brisbane tramways, located in Queensland, Australia, were owned by General Electric Company, a private British company. Joseph Stillman Badger, an American, was its manager. He refused to allow the formation of any industrial union among the company employees. In other parts of Australia, tramway employees in Melbourne and Adelaide faced similar opposition and they were forbidden to wear any sign of membership of the union. The higher authority claimed the wearing of badges by unionists would intimidate the non-badge-wearers. After complaints, Melbourne allowed the wearing of the badge, and Adelaide soon followed. Badger was particularly against the idea of unions and refused to allow his employees from forming any industrial unions. The issue of not only the wearing of badges but also the right to join a union heightened in Brisbane, for neither Badger nor the workers would give in.
 On the 18th of January, 1912, a large crowd of sightseers appeared in Queens Street. The tramway employees donned the union badges at an appointed time. Badger addressed the wearers at the depot, and gave them the choice of removing the badges or not working. Most who were confronted chose the right to wear the badges. The company was left short of trained staff.

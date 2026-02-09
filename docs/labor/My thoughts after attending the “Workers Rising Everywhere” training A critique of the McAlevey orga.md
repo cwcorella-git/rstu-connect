@@ -9,14 +9,6 @@ tags:
   - workers
 ---
 
-## **My thoughts after attending the "Workers Rising Everywhere" training: A critique of the Mc Alevey organising model**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/my-thoughts-after-attending-workers-rising-everywhere-training-critique-mcalevey-organising
-
-**Tags:** workplace activity, unions, syndicalism, Organizing Work, Jane Mc Alevey, X362014, Industrial Workers of the World (IWW)
-
 A grocery store worker reflects on his experience attending the latest installment of Jane Mc Alevey's "Organizing for Power" series. This article was first published by Organizing Work.
 
 Over the course of late May and June, I attended a training entitled "Workers Rising Everywhere," part of the Organizing for Power(O4P) series, developed by Jane Mc Alevey and hosted/funded by the Rosa Luxemburg Stiftung. The training billed itself as "focus[ed] on building large (super!) majorities in settings such as workplaces, unions, and housing complexes in order to win the toughest campaigns and organizing battles." As a non-unionized retail worker for Canada's largest grocery chain, the pitch was certainly appealing.

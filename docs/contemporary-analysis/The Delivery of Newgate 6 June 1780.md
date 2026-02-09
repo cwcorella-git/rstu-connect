@@ -14,14 +14,6 @@ tags:
   - 1700s
 ---
 
-# **The Delivery of Newgate 6 June 1780**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/delivery-newgate-6-june-1780
-
-**Tags:** Midnight Notes Collective, riots, prisons, London, United Kingdom, legal, security industry, 1700s
-
 An entertaining account of The Gordon Riots, 18th Century black culture in London - and the invention of toothbrushes and locks.
 
 By Midnight Notes Collective, 1985.

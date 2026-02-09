@@ -9,9 +9,7 @@ tags:
   - workers
 ---
 
-# On the Revolutionary Union Movement Faction in the Iww
-
-On the Revolutionary Union Movement Faction in the IWW Date: Unknown Source: https://libcom.org/article/revolutionary-union-movement-faction-iww Tags: Industrial Unionist Caucus, Wobblies For A Revolutionary Union Movement, Industrial Workers
+Unionist Caucus, Wobblies For A Revolutionary Union Movement, Industrial Workers
 ## of the World (IWW), General Defense Committee
 
 A response by the Industrial Unionist Caucus to polemics levelled against it by the Wobblies For A Revolutionary Union caucus.

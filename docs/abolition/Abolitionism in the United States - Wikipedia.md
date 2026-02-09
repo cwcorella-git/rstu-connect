@@ -11,8 +11,6 @@ tags:
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Abolitionism_in_the_United_States)
 
-# **Abolitionism in the United States**
-
 ## Contributors to Wikimedia projects
 
 132–168 minutes

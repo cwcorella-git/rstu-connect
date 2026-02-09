@@ -11,15 +11,7 @@ tags:
   - jeremy-hammond
 ---
 
-## **Jeremy Hammond's statement on the plea and sentencing of his brother, Jason Hammond**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/jeremy-hammonds-statement-plea-and-sentencing-his-brother-jason-
-
 hammond
-
-**Tags:** United States, police, repression, Chicago, Jeremy Hammond
 
 Imprisoned anarchist hacker Jeremy Hammond's response to his twin brother's sentencing for participation in a militant direct action against white supremacists. Jason Hammond has since been released after serving his sentence, but the statement is still noteworthy as a summary of Jeremy's ideology.
 

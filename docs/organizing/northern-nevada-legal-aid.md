@@ -8,8 +8,6 @@ tags:
   - Nevada
 ---
 
-# Northern Nevada Legal Aid: Supporting Housing Security in Reno
-
 Legal aid organizations play a crucial role in protecting tenant rights and ensuring housing security for our community members. Northern Nevada Legal Aid (NNLA) stands as one of our most important allies in the fight for housing justice.
 
 ## What Northern Nevada Legal Aid Does

@@ -8,10 +8,6 @@ tags:
   - liberty
 ---
 
-## [towardfreedom.org](https://towardfreedom.org/story/archives/environment/social-ecology-and-the-greening-of-our-cities/)
-
-## **Social Ecology and the Greening of Our Cities**
-
 ## Brian Tokar
 
 18–22 minutes

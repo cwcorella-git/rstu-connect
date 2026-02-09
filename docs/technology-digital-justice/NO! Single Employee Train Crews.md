@@ -9,10 +9,7 @@ tags:
   - digital rights
 ---
 
-## **NO! Single Employee Train Crews**
-
-**Date:** Thu, 07/28/2016 - 19:19 **Source:** https://ecology.iww.org/node/1719**Tags:** Railroad Workers United (RWU), railroad workers, health and safety, crude-by-rail, green unionism, Lac-Mégantic By Karl (Fritz) Edler - Railroad Music , July 15, 2016 Oral comments on Train Crew Staffing Docket Number FRA-2014-0033 RIN 2130-AC48 Good Morning,
-
+Railroad Workers United (RWU), railroad workers, health and safety, crude-by-rail, green unionism, Lac-Mégantic By Karl (Fritz) Edler - Railroad Music , July 15, 2016 Oral comments on Train Crew Staffing Docket Number FRA-2014-0033 RIN 2130-AC48 Good Morning,
 My name is Fritz Edler. I recently retired after more than 37 years working for railroads, the last 25 years on the engine. I'm here for the literally millions of passengers who entrusted their safety to me and the other members of my train crews. I'm also here as a Special Representative for Railroad Workers United, an international cross-craft solidarity and advocacy organization. Our membership extends over most major and many lessor railroad systems in North America, passenger and freight. Nobody cares more about train safety than the men and women who work on the railroad.
 
 I feel obliged to mention a third group as well. I just returned from the small town of Lac-Mégantic, Quebec. I was one of the speakers at the 3rd anniversary commemoration of the rail tragedy. Three years ago this month, 47 people died when a runaway oil train crashed and burned. I can't presume to speak for them, or for the 27 Lac-Mégantic orphans.

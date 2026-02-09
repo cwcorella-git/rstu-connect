@@ -10,14 +10,6 @@ tags:
   - workers
 ---
 
-## **Review: don't throw Lucy Parsons' anarchism under the liberal bus**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/review-dont-throw-lucy-parsons-anarchism-under-liberal-bus
-
-**Tags:** Jon Bekken, Lucy Parsons, anarchism, book reviews, Jacqueline Jones
-
 Lucy Parsons remains an under recognized yet powerful figure of American radicalism. New scholarship into her life and background is welcome but as this review suggests the recently published Goddess of Anarchyby Jacqueline Jones has a number of critical flaws.
 
 Despite her central role in the Haymarket events and five decades as a leading activist in the anarchist movement, Lucy Parsons has received little attention from historians. Until this volume, there was only Carolyn Ashbaugh's Lucy Parsons: An American Revolutionary(1976/2013) and Gail Ahren's anthology of her writings,Lucy Parsons: Freedom, Equality & Solidarity—Writings & Speeches, 1878-1937(2004). Jacqueline Jones, professor of women's and southern history at the University of Texas at Austin, has done extensive research into Parsons's life and written what will likely be the definitive biography for years to come. Yet despite her impressive scholarship and extensive citations, Jones does not fully grasp the nuances of the radical and labor movements—and especially the anarchist movement—of the time.

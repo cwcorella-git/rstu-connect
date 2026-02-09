@@ -11,8 +11,6 @@ tags:
 
 ## ![](_page_0_Picture_0.jpeg)
 
-# **Cenotaph**
-
 A **cenotaph** is an empty [grave,](https://en.wikipedia.org/wiki/Grave) [tomb](https://en.wikipedia.org/wiki/Tomb) or a [monument](https://en.wikipedia.org/wiki/Monument) erected in honor of a person or group of people whose remains are elsewhere or have been lost. It can also be the initial tomb for a person who has since been reinterred elsewhere. Although the majority of cenotaphs honor individuals, many noted cenotaphs are also dedicated to the [memories](https://en.wikipedia.org/wiki/Memorialization) of groups of individuals, such as the lost soldiers of a country or of an empire.
 
 # **Etymology**

@@ -6,8 +6,6 @@ tags:
   - feminism
 ---
 
-## FEMINIST INTERPRETATIONS Of john rawls
-
 ### r e - r e a d i n g t h e c a n o n
 
 #### NANCY TUANA, GENERAL EDITOR

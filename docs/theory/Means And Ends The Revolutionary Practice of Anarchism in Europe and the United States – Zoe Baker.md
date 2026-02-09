@@ -9,12 +9,6 @@ tags:
   - history
 ---
 
-## **Means And Ends: The Revolutionary Practice of Anarchism in Europe and the United States – Zoe Baker**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/means-and-ends-revolutionary-practice-anarchism-europe-and-unite d-states-zoe-baker
-
 ## **Tags:** Zoe Baker, anarchism
 
 Means and Ends is a new overview of the revolutionary strategy of anarchism in Europe and the United States between 1868 and 1939. Zoe Baker clearly and accessibly explains the ideas that historical anarchists developed in order to change the world. This includes their views on direct action, revolution, organization, state socialism, reforms, and trade unions. Throughout, she demonstrates that the reasons anarchists gave for supporting or opposing particular strategies were grounded in a theoretical framework—a theory of practice—which maintained that, as people engage in activity, they simultaneously change the world and themselves. This theoretical framework was the foundation for the anarchist commitment to the unity of means and ends: the means that revolutionaries propose to achieve social change have to involve forms of activity which transform people into individuals who are capable of, and driven to, both overthrow capitalism and the state and build a free society. The consistent heart of anarchism was the idea that anarchist ends can only be achieved through anarchist means. Cutting through misconceptions and historical inaccuracies, Baker draws upon a vast assortment of examples to show how this simple premise underpinned anarchist attempts to put theory into action.

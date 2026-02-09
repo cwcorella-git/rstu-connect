@@ -9,12 +9,6 @@ tags:
   - workers
 ---
 
-## **Ph**■**ng v**■**n Xuân Rayne: ng**■■**i lao** ■■**ng tình d**■**c vô tr**■ **ng**■■**i Vi**■**t**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/phong-van-xuan-rayne-nguoi-lao-dong-tinh-duc-vo-tri-nguoi-viet**Tags:** anarchism, United States, Vietnam, anarchists, sex industry, homelessness, Mèo Mun, Xuân Rayne, police, migration
-
 Nhân ngày Qu■c t■ Ng■■i Lao ■■ng Tình d■c 2/6, Mèo Mun ■ã ph■ng v■n Xuân Rayne m■t ng■■i vô tr■ và lao ■■ng tình d■c phi nh■ nguyên gi■i (non-binary) g■c Vi■t hi■n ■ang s■ng t■i M■. Qua bài ph■ng v■n này, chúng mình mu■n tìm hi■u góc nhìn c■a Xuân v■ s■ giao thoa c■a nh■ng danh tính này, v■ con ■■■ng cho tình ■oàn k■t gi■a nh■ng ng■■i lao ■■ng tình d■c trên toàn th■ gi■i, và cách ng■■i lao ■■ng trong các ngành ngh■ khác có th■ ■■u tranh cùng ng■■i lao ■■ng tình d■c. Xuân dùng m■i ■■i t■ nhân x■ng (anh ■y/cô ■y/b■n ■y). (English original).
 
 Mèo Mun: Chào b■n! K■ chúng mình nghe m■t chút v■ b■n thân b■n ■i. B■n ■■n M■ b■ng con ■■■ng nào, và m■i quan h■ c■a b■n v■i Vi■t Nam hi■n ra sao?

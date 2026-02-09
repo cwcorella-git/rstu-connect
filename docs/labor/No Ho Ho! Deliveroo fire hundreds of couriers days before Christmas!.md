@@ -9,14 +9,6 @@ tags:
   - workers
 ---
 
-## **No Ho Ho! Deliveroo fire hundreds of couriers days before Christmas!**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/no-ho-ho-deliveroo-fire-hundreds-couriers-days-christmas
-
-**Tags:** Industrial Workers of the World (IWW), United Kingdom, food service, couriers, Deliveroo, gig economy
-
 The IWW Couriers Network condemns Deliveroo's recent spate of mass terminations in cities across the UK leaving at least 100 couriers without work before Christmas.
 
 Over the last week a wave of immediate terminations has swept across towns and cities as far apart as Leicester, Sheffield and Glasgow. Couriers have reported that they and their colleagues have received identical emails accusing them of fraudulent activity and immediately terminating their agreement to deliver with the popular food delivery company.

@@ -11,8 +11,6 @@ tags:
 
 ## James Herod
 
-## Interview about Liberated Guardian
-
 ## September 2014
 
 Interview with James Herod, by the Italian Group, Yes Alternative Press, September 2014, about his Participation in the Liberated Guardian.

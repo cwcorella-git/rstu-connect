@@ -10,14 +10,6 @@ tags:
   - france
 ---
 
-## **Lachez Tout - Annie Le Brun**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/lachez-tout-annie-le-brun
-
-**Tags:** Annie Le Brun, feminism, David Wise, France
-
 English translation of "Let it all go" or rather more to the point, "Abandon Everything" by French feminist and surrealist Annie Le Brun. Translation by David and Stuart Wise.
 
 The following book / text should be read in conjunction with The Chicago Surrealists (A modicum of explanation around Annie Le Brun's Lachez Tout)by David Wise

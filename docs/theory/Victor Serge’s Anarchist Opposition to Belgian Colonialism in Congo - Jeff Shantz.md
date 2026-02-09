@@ -8,13 +8,7 @@ tags:
 author: Jeff Shantz
 ---
 
-## **Victor Serge's Anarchist Opposition to Belgian Colonialism in Congo - Jeff Shantz**
-
-## **Date:** Unknown
-
 ## **Source:**
-**Tags:** Jeff Shantz, Victor Serge, Congo, Belgium, colonialism, Anti-colonialism, anarchism
-
 The recent course of imperialism, and debates within anarchist movements over contemporary atrocities, reveal a certain lack of familiarity with anarchist positions on colonialism and imperialism. The positions of historic anarchists have been overlooked, forgotten, or largely lost to time.
 
 Towards the end of revisiting and highlighting historic anarchist positions I want to reflect on some of that overlooked work. I begin with this short presentation of Victor Serge's opposition to the colonization of Congo by the Belgian state and its social democratic leadership of the day.

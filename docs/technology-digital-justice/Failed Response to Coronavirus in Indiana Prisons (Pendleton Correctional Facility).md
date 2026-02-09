@@ -6,13 +6,7 @@ tags:
   - India
 ---
 
-# **Failed Response to Coronavirus in Indiana Prisons (Pendleton Correctional Facility)**
-
-## **Date:** Unknown
-
 #### **Source:**
-**Tags:** United States, prisons, Indiana, Kevin 'Rashid' Johnson, Covid-19
-
 An article by Kevin "Rashid" Johnson exposing how Indiana prisons have responded to the pandemic. Since this article was first written, a hunger strike has broken out over the conditions described here.
 
 Prisoners at Pendleton Correctional Facility have begun to refuse meals, as of April 30th. Their actions are in response to the failure of Pendleton to take action to safeguard the health and nutrition of prisoners during the pandemic.

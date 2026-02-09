@@ -9,12 +9,6 @@ tags:
   - riots
 ---
 
-## **Lansing Correctional: Prison uprising put down as US inmates demand protection from coronavirus :**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/lansing-correctional-prison-uprising-put-down-us-inmates-demand-pr otection-coronavirus
-
 ## **Tags:** Kansas, prisons, Covid-19
 
 Inmates riot after over a dozen cases of COVID-19 infections are confirmed, and authorities do nothing.

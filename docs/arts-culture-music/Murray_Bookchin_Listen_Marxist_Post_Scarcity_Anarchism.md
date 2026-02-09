@@ -9,8 +9,6 @@ tags:
   - Bookchin
 ---
 
-# **Post-Scarcity Anarchism**
-
 ## Murray Bookchin
 
 ## ![](_page_0_Picture_2.jpeg)

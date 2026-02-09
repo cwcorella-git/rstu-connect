@@ -11,8 +11,6 @@ tags:
 
 ## ![](_page_0_Picture_1.jpeg)
 
-# Fostering a Fourth Democratic Wave:
-
 ## A PLAYBOOK FOR COUNTERING THE AUTHORITARIAN THREAT
 
 ## by Hardy Merriman, Patrick Quirk, and Ash Jain

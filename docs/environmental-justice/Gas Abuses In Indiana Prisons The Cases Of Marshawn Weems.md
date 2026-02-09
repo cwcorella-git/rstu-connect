@@ -9,14 +9,6 @@ tags:
   - India
 ---
 
-## **Gas Abuses In Indiana Prisons: The Cases Of Marshawn Weems**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/gas-abuses-indiana-prisons-cases-marshawn-weems
-
-**Tags:** United States, repression, prisons, Kevin 'Rashid' Johnson
-
 A report from Kevin "Rashid" Johnson on the use of tear gas against inmates in Indiana prisons.
 
 ## Prison Abuse of Tear Gas

@@ -8,13 +8,7 @@ tags:
   - socialism
 ---
 
-## **Socialist Rifle Association Staff Join the IWW**
-
-## **Date:** Sat, 03/13/2021 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/4211
-
-**Tags:** Industrial Workers of the World (IWW), unions, movements, unions, and organizations, revolutionary unions, rural communities
 
 ## By Staff -
 

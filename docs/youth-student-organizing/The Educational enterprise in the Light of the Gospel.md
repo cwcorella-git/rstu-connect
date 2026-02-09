@@ -10,8 +10,6 @@ tags:
 
 ## **Ivan Illich**
 
-# **The Educational enterprise in the Light of the Gospel**
-
 ## **The spectacles of Holy Writ**
 
 ### **1988**

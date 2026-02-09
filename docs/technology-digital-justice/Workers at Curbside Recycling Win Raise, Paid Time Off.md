@@ -9,13 +9,7 @@ tags:
   - digital rights
 ---
 
-## **Workers at Curbside Recycling Win Raise, Paid Time Off**
-
-## **Date:** Wed, 09/22/2021 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/4521
-
-**Tags:** recycling workers, recycling, Bay Area IWW, Industrial Workers of the World (IWW), California, green unionism
 
 ## By Elise Brehob -
 

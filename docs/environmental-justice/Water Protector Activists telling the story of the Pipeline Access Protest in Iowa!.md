@@ -8,13 +8,7 @@ tags:
   - fossil fuels
 ---
 
-## **Water Protector Activists telling the story of the Pipeline Access Protest in Iowa!**
-
-## **Date:** Thu, 10/20/2016 - 15:23
-
 ## **Source:** https://ecology.iww.org/node/1872
-
-**Tags:** NoDAPL, Deep Roots Jessica, Dakota Access Pipeline (DAPL), pipelines, blockadia, green unionism, green syndicalism, Industrial Workers of the World (IWW)
 
 ## By Ahmed Tharwat -
 

@@ -10,14 +10,6 @@ tags:
   - united-kingdom
 ---
 
-## **Revolution - an unfinished business**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/revolution-unfinished-business
-
-**Tags:** Anarchist Federation, Class War Federation, groups, United Kingdom
-
 The Anarchist Federation on the 1997 disbanding of Class War Federation, and their analysis of the strengths and weaknesses of the organisation.
 
 Most active anarchists will surely have heard by now of the dissolving of Class War Federation, and publication of the 'last ever' paper:"Class War is dead... long live the class war - an open letter to the revolutionary movement". In the aftermath of this, the October 1997 Anarchist Bookfair revealed a trinity of approaches: the handing out of a discussion document "Smash Hits" produced by those looking for a new direction, a new issue of Class War, "Get Rid of the Posh", by those determined to hang on to the paper, and those promoting an anti-monarchy movement. The latter two factions also appear to be involved with the paper Animal. The sentiments expressed in the open letter have been broadly welcomed for their openness and honesty. The Bookfair meeting, organised by the 'new direction' faction, which took place straight after the ACF's meeting on revolutionary organisation, was well attended. The need to look to the future, not at past failures, was put forward strongly and passionately.

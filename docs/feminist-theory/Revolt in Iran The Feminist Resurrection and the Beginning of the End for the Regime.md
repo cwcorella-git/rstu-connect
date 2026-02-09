@@ -8,14 +8,6 @@ tags:
   - feminism
 ---
 
-## **Revolt in Iran: The Feminist Resurrection and the Beginning of the End for the Regime**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/revolt-iran-feminist-resurrection-and-beginning-end-regime
-
-**Tags:** Crimeth Inc., Collective 98, Iran, Kurdistan, feminism, Iran protests 2022
-
 On September 16, 2022, Guidance Patrol police in Tehran murdered a 22-year-old woman; allegedly, she was not wearing the hijab in accordance with Iranian state policy. In response, people across Iran have taken to the streets for almost two weeks, confronting police and opening up spaces of ungovernable freedom. For many in Iran, it appears that a revolutionary process is underway. This analysis was first published by Crimethinc in association with Collective 98.
 
 Collaborating with Collective 98, an anti-capitalist and anti-authoritarian group focused on struggles in Iran, we were able to interview Iranian and Kurdish feminists about the situation. Collective 98 derives its name from "Aban" 98, the uprising that spread across Iran in November 2019—year 1398 according to the Iranian calendar. In the following text, they explore the historical significance of this wave of revolt and the forces that set it in motion.

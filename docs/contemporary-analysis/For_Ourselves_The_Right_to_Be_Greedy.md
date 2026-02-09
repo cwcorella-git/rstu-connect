@@ -6,8 +6,6 @@ tags:
   - current-events
 ---
 
-# **The Right To Be Greedy**
-
 **Theses On The Practical Necessity Of Demanding Everything**
 
 ## For Ourselves

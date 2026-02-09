@@ -9,13 +9,7 @@ tags:
   - climate
 ---
 
-## **Confronting the Carbon Capitalists**
-
-## **Date:** Tue, 11/20/2018 - 20:42
-
 ## **Source:** https://ecology.iww.org/node/2992
-
-**Tags:** climate change, green syndicalism, capitalism, capital blight, fossil fuel capitalism, disaster capitalism
 
 ## By Seattle IWW -
 

@@ -6,8 +6,6 @@ tags:
   - Kropotkin
 ---
 
-## **Anarchist Morality**
-
 ## Pëtr Kropotkin
 
 # **Contents**

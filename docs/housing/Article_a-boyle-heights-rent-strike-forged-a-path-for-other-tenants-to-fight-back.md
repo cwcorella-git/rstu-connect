@@ -10,8 +10,6 @@ tags:
   - housing
 ---
 
-# A Boyle Heights Rent Strike Forged a Path For Other Tenants To Fight Back
-
 A Boyle Heights Rent Strike Forged a Path for Other Te... about:reader?url=https%3A%2F%2Fthelandmag.com...
 
 ## thelandmag.com

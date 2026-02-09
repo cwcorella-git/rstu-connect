@@ -9,10 +9,7 @@ tags:
   - tenants
 ---
 
-# Direct Unionism a Different Approach To Union Activity
-
-Direct Unionism: A Different Approach to Union Activity Date: Thu, 08/31/2023 - 00:00 Source: https://ecology.iww.org/node/5873 Tags: Industrial Workers of the World (IWW), strategy and tactics, class struggle, solidarity unionism, anti-capitalism
-
+Workers of the World (IWW), strategy and tactics, class struggle, solidarity unionism, anti-capitalism
 ## By Allan Hansen -
 
 ## Industrial Worker

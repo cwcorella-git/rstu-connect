@@ -7,13 +7,7 @@ tags:
   - boycotts
 ---
 
-## **Boycott Sakuma Berries!**
-
-## **Date:** Thu, 01/28/2016 - 22:00
-
 ## **Source:** https://ecology.iww.org/node/1486
-
-**Tags:** agricultural workers and peasants, Industrial Workers of the World (IWW), Skagit-Whatcom IWW
 
 ## By A Abraham Chakur -
 

@@ -7,14 +7,6 @@ tags:
   - feminism
 ---
 
-## **Wayward Notes on Feminism: A little bit of backwardness? - Stuart Wise**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/wayward-notes-feminism-little-bit-backwardness-stuart-wise
-
-**Tags:** Stuart Wise, Annie Le Brun, feminism, Nina Power, sex and sexuality, David Wise
-
 On French surrealist writer and poet Annie Le Brun, via some recent books, Blake, De Sade and Engels. Originally published on the Revolt Against Plenty site.
 
 Above: The impoverished reality of virtual reality

@@ -9,13 +9,7 @@ tags:
   - environment
 ---
 
-## **Worker Solidarity with Camp Makwa and the Movement for Environmental Justice**
-
-## **Date:** Tue, 12/19/2017 - 18:50
-
 ## **Source:** https://ecology.iww.org/node/2696
-
-**Tags:** Industrial Workers of the World (IWW), Twin Cities IWW, green unionism, green bans, Line 3, green syndicalism, North America's Building Trades Unions (NABTU), International Brotherhood of Teamsters (IBT), Enbridge
 
 ## By the Twin Cities GDC -
 

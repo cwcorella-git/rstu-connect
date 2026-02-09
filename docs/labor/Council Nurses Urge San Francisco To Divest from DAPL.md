@@ -9,8 +9,6 @@ tags:
   - workers
 ---
 
-## **Council Nurses Urge San Francisco To Divest from DAPL**
-
 | Date: Mon, 03/20/2017 - 17:28 |
 |----------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/2145|

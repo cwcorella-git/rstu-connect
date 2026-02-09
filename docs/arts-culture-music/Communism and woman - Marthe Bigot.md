@@ -7,12 +7,6 @@ tags:
   - women
 ---
 
-## **Communism and woman - Marthe Bigot**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/communism-and-woman-marthe-bigot
-
 ## **Tags:** Marthe Bigot, feminism, USSR
 
 Feminist, long-time Socialist, Zimmerwald Conference attendee, founder of the French Communist Party, and early (later readmitted) Left Oppositionist Marthe Bigot with an article translated for the IWW's One Big Union Monthly. The article reflects the optimism many on the left had with the emergence of the Russian Revolution.

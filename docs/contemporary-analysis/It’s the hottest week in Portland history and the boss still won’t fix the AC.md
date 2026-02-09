@@ -15,13 +15,7 @@ tags:
   - green-unionism
 ---
 
-## **It's the hottest week in Portland history and the boss still won't fix the AC**
-
-## **Date:** Thu, 06/24/2021 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/4351
-
-**Tags:** Industrial Workers of the World (IWW), Portland IWW, Portland, Oregon, climate change, health and safety, service workers, global warming, class struggle, green unionism
 
 ## By CF Ivanovic -
 

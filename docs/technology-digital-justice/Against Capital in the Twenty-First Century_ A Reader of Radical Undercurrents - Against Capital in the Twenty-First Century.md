@@ -14,8 +14,6 @@ EDITED BY JOHN ASIMAKOPOULOS AND RICHARD GILMAN-OPALSKY
 
 ### Praise for
 
-## Against Capital in the Twenty-First Century
-
 "In Against Capital in the Twenty-First Century, Asimakopoulos and Gilman-Opalsky have assembled a collection of texts that traverses the borders of Marxism, feminist radicalisms, anarchism, and the interstices existing between them. This will be the leading collection for contemporary students of radical thought and practitioners of freedom for decades to come."
 
 —Dr Sannn, editor of The End of the World as We Know It? Crisis, Resistance, and the Age of Austerity and coauthor of Political Sociology: Oppression, Resistance, and the State

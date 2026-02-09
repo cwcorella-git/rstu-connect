@@ -12,14 +12,6 @@ tags:
   - meanjin
 ---
 
-## **Intersectional Identity and the Path to Progress**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/intersectional-identity-and-path-progress
-
-**Tags:** Australia, feminism, Moishe Postone, intersectionality, Eleanor Robertson, Meanjin
-
 Eleanor Robertson looks at the debate over intersectionality and identity politics, and what these concepts can offer for a renewed version of class politics. This article originally appeared in Meanjin.
 
 Nobody knows what intersectionality means. I certainly don't, and the more I read about it the more confused I become. There are a few things I think I know: it's something to do with oppression, especially multiple oppressions; if you run in certain feminist circles, especially online, it's bad to not be it (intersectional); if you run in certain socialist circles, it's something to make fun of. Every time I feel I'm getting closer to an acceptable definition I find someone using a different one, usually to defend or condemn their particular version of the concept.

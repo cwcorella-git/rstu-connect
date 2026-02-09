@@ -8,14 +8,6 @@ tags:
   - Kurdistan
 ---
 
-## **A statement by leftist feminists from Kurdistan on the 2022 feminist insurrection in Iran**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/statement-leftist-feminists-kurdistan-2022-feminist-insurrection-iran
-
-**Tags:** Slingers Collective, feminism, Kurdistan, Iran protests 2022, Iran
-
 A translation of a statement from Kurdish feminists, previously published by the Slingers Collective.
 
 You are hearing our voice from Kurdistan. This is a collective voice of leftists and marginalized feminists from a geography whose history is marked by discrimination, imprisonment, torture, execution, and exile. This has been the case since the early days of the 1979 Revolution. We are Kurdish women and queers who inherited a history that is not only full of violence but also of struggle and resistance. We have always had to fight against multiple fronts: in one battleground, against the patriarchy of Kurdish and non-Kurdish men, and in the other one, against the regime's Islamist fundamentalism and the imposition of its gendered hierarchy. Against the chauvinist feminists, we have been fighting so hard to articulate gender oppression in its intersectionality with various forms of domination imposed upon us as ethnic-national minority.

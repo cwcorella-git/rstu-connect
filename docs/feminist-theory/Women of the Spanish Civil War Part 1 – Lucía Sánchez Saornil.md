@@ -9,14 +9,6 @@ tags:
   - Spain
 ---
 
-## **Women of the Spanish Civil War: Part 1 – Lucía Sánchez Saornil**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/women-spanish-civil-war-part-1-lucia-sanchez-saornil
-
-**Tags:** Caroline Angus, Lucia Sanchez Saornil, Confederación Nacional del Trabajo (CNT), anarchism, feminism, anarcho-syndicalism, Mujeres Libres, Spanish civil war
-
 A biography by Caroline Angus of anarcho-syndicalist militant Lucía Sánchez Saornil.
 
 Originally posted: January 19, 2017 at Caroline Angus

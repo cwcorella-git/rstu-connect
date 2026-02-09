@@ -7,8 +7,6 @@ tags:
   - feminism
 ---
 
-# **What I Believe**
-
 ## Emma Goldman
 
 # **Contents**

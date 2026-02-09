@@ -13,13 +13,7 @@ tags:
   - iww
 ---
 
-## **Together we're unstoppable: why this is the year to turn the tide**
-
-## **Date:** Sat, 02/13/2016 - 08:27
-
 ## **Source:** https://ecology.iww.org/node/1498
-
-**Tags:** Plane Stupid, blockadia, Heathrow, climate justice, Ella Gilbert, Bec Sanderson, IWW
 
 Environmental Unionism Caucus, green unionism, green syndicalism, direct action
 

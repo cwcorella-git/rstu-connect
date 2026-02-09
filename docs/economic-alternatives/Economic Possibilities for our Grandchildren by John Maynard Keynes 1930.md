@@ -7,8 +7,6 @@ tags:
   - alternatives
 ---
 
-## **John Maynard Keynes 1930**
-
 ## **Economic Possibilities for our Grandchildren**
 
 Keynes on the accumulation of capital vs. shorter work time and the possibilities for freedom during the Great Depression...

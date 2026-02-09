@@ -9,14 +9,6 @@ tags:
   - digital rights
 ---
 
-## **The March Intifada - Bahrain, 1965**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/march-intifada-bahrain-1965
-
-**Tags:** strikes, general strikes, uprisings, Bahrain
-
 The March Intifada in Bahrain, 1965 began with the laying off of hundreds of workers at the Bahrain Petroleum Company, school students protested, were suppressed by the military, and things developed into a general strike against British rule. Bahrain joined the UAE in 1968, and annual protests continued until 1972.
 
 libcom editor's note: Retrieved analwaqt.comin arabic and lightly corrected from a machine translation. The article is written mainly from the perspective of the national liberation leadership and the colonial government, but includes many historical details of the uprising, which is barely documented in English.

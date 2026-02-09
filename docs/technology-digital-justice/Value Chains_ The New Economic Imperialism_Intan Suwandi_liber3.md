@@ -13,8 +13,6 @@ tags:
 
 Established in 2014, this award honors the contributions of the founders of the Monthly Review tradition: Paul M. Sweezy, Paul A. Baran, and Harry Magdo. It supports the publication in English of distinguished monographs focused on the political economy of imperialism. It also applies to writings previously unpublished in English, and includes translations of new work rst published in languages other than English. Please visit monthlyreview.org for complete details of the award.
 
-#### **PRAISE FOR VALUE CHAINS**
-
 "Demonstrates how global value chains are based upon, and deepen, the exploitation of labor by capital and the geographical transfer of value from global South to global North. Suwandi illuminates how lead rms use mechanisms of value chain governance to enhance the control of geographically distant labour. is work stands in, and contributes to, the monopoly capital tradition of Magdo, Sweezy, and Foster. An important and valuable contribution to emancipatory social science."
 
 **BENJAMIN SELWYN**, Professor of International Development, Department of International Relations, University of Sussex, UK; author, e Struggle for Development

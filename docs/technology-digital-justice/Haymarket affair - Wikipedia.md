@@ -8,15 +8,9 @@ tags:
   - digital rights
 ---
 
-#### [en.wikipedia.org](https://en.wikipedia.org/wiki/Haymarket_affair)
-
-# **Haymarket affair**
-
 ## Contributors to Wikimedia projects
 
 62–79 minutes
-
-#### **Haymarket affair**
 
 Part of the [Great Upheaval](https://en.wikipedia.org/wiki/Great_Railroad_Strike_of_1877)
 

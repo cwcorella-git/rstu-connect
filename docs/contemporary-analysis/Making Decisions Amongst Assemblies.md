@@ -10,8 +10,6 @@ tags:
 
 # James Herod
 
-# Making Decisions Amongst Assemblies
-
 ## October 2010
 
 Decision Making amongst Assemblies Federation and Other Delusions A Note on the Distinction between a Federation and a Network

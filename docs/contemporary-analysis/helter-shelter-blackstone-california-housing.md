@@ -14,8 +14,6 @@ tags:
 source: "Private Equity Stakeholder Project"
 ---
 
-# Helter Shelter: How Blackstone Contributes To and Profits From California's Broken Housing System
-
 *Private Equity Stakeholder Project Report — August 2024*
 
 This comprehensive report documents how Blackstone, the nation's largest landlord with nearly 350,000 rental units, systematically exploits California's affordable housing crisis for profit while actively working to prevent solutions.

@@ -11,8 +11,6 @@ tags:
 
 ## **08**
 
-# **Revolution or Reification? A Critique of FRSO's Political Program 2024**
-
 **A Marxist Party of a New \(Old\) Type Building an Edifice on Weak Foundations Real Problems and False Solutions** *Stuck at Bird's-Eye*
 
 **Class Divisions and the "National Question" Question**

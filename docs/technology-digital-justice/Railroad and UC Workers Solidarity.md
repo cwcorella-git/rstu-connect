@@ -9,10 +9,6 @@ tags:
   - railroads
 ---
 
-## **Railroad and UC Workers Solidarity**
-
-## **Date:** Tue, 12/06/2022 - 00:00
-
 | Source: https://ecology.iww.org/node/5282|
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Tags: railroad workers, Railroad Workers United (RWU), Joe Biden, union busting, class struggle,

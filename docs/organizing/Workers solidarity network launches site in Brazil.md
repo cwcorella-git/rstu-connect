@@ -8,14 +8,6 @@ tags:
   - labor
 ---
 
-## **Workers solidarity network launches site in Brazil**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/workers-solidarity-network-launches-site-brazil
-
-**Tags:** education, Brazil, Invisiveis, solidarity networks
-
 This was produced by ordinary workers who believe in the importance of organizing in way of autonomous, solidary and day-to-day action. We are small workers of public and private companies. We have a facebook page, printed bulletins and now a site to publicize our problems and strengthen our struggles.
 
 Hello, dear reader.

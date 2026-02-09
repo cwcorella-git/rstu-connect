@@ -14,14 +14,6 @@ tags:
   - sitsirya
 ---
 
-## **Alienation and Mass Organization**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/alienation-and-mass-organization
-
-**Tags:** activism, education, schools, students, universities, Philippines, Sitsirya
-
 A personal reflection on alienation experienced within National Democratic mass organizations.
 
 Written by Sitsirya.

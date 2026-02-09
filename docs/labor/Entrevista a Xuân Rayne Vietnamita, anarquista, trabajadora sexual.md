@@ -9,14 +9,6 @@ tags:
   - workers
 ---
 
-## **Entrevista a Xuân Rayne: Vietnamita, anarquista, trabajadora sexual**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/entrevista-xuan-rayne-vietnamita-anarquista-trabajadora-sexual
-
-**Tags:** anarchism, United States, Vietnam, anarchists, sex industry, homelessness, Español, Mèo Mun,
-
 ## Xuân Rayne, police
 
 Entrevistamos a Xuân Rayne, una anarquista vietnamita y trabajadora sexual no binaria afincada en Estados Unidos, para que nos explique la intersección de sus identidades, los caminos de la solidaridad internacional entre los trabajadores del sexo y cómo los trabajadores en general pueden estar con los trabajadores del sexo. Xuân utiliza cualquier/todos los pronombres. A translation ofour interview with Xuân Rayneinto Spanish. Translated by Grupo Anarquista Aurora.

@@ -9,8 +9,6 @@ tags:
   - prisons
 ---
 
-# 91723 Police Collective Bargaining and Police Violence Final
-
 POLICE COLLECTIVE BARGAINING AND POLICE VIOLENCE
 ## SEPTEMBER 2023
 

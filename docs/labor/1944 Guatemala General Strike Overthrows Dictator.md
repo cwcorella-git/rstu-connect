@@ -8,14 +8,6 @@ tags:
   - strikes
 ---
 
-## **1944: Guatemala General Strike Overthrows Dictator**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/1944-guatemala-general-strike-overthrows-dictator
-
-**Tags:** general strikes, repression, Guatemala, Aurora Muñoz, PDF
-
 Workers and students in neighbouring El Salvador had driven out their dictator by using a general strike to cripple the regime. That same year Guatemalan workers and students also made use of strikes and mass demonstrations to oust their Dictator.
 
 ## Guatemalans overthrow a dictator, 1944

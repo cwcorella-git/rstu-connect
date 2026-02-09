@@ -11,13 +11,7 @@ tags:
   - industrial
 ---
 
-## **An Obituary for Tortuguita**
-
-## **Date:** Fri, 02/24/2023 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/5474
-
-**Tags:** Atlanta Forest, mobilizations and uprisings, anti-capitalism, libertarian-socialism, Industrial
 
 ## Workers of the World (IWW), Tortuguita
 

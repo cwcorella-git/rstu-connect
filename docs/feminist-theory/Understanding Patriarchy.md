@@ -6,8 +6,6 @@ tags:
   - feminism
 ---
 
-## **bell hooks**
-
 ## **Understanding Patriarchy**
 
 ## **December 2004**

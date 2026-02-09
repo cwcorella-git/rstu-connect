@@ -8,13 +8,7 @@ tags:
   - France
 ---
 
-## **Paris climate agreement: a terror attack on Africa**
-
-## **Date:** Mon, 12/21/2015 - 16:20
-
 ## **Source:** https://ecology.iww.org/node/1443
-
-**Tags:** COP21, greenwashing, climate justice, Big Green, extractivism
 
 ## By Patrick Bond -
 

@@ -8,13 +8,7 @@ tags:
   - labor
 ---
 
-## **On The Line In The Fight For Justice: USW 5 Chevron Richmond Refinery Workers Strike**
-
-## **Date:** Mon, 03/28/2022 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/4915
-
-**Tags:** USW Local 5, refineries, refinery workers, strikes, Chevron, union busting, Occupational Safety and Health Administration (OSHA), Chemical Safety Board (CSB), health and safety, class struggle
 
 ## By Steve Zeltser -
 

@@ -9,10 +9,7 @@ tags:
   - police
 ---
 
-## **While There Is A Soul In Prison**
-
-**Date:** Thu, 09/08/2016 - 10:06 **Source:** https://ecology.iww.org/node/1780**Tags:** IWOC, Industrial Workers of the World (IWW), Collin Bossen, green syndicalism, general strikes, direct action, class struggle, class war prisoners By Colin Bossen - Colin Bossen: Writer, Preacher, Organizer , August 28, 2016 Note: I recently have become involved with the Industrial Workers of the World's Incarcerated Workers Organizing Committee . I am serving as their contact person for faith-based organizing. It is a volunteer role and one of things that I am doing as part of it is preaching some in support of the September 9, 2016 National Prisoner Strike. The following sermon was the first I preached in support of the movement. I presented it at the First Parish in Needham, Unitarian Universalist , on August 28, 2016.
-
+IWOC, Industrial Workers of the World (IWW), Collin Bossen, green syndicalism, general strikes, direct action, class struggle, class war prisoners By Colin Bossen - Colin Bossen: Writer, Preacher, Organizer , August 28, 2016 Note: I recently have become involved with the Industrial Workers of the World's Incarcerated Workers Organizing Committee . I am serving as their contact person for faith-based organizing. It is a volunteer role and one of things that I am doing as part of it is preaching some in support of the September 9, 2016 National Prisoner Strike. The following sermon was the first I preached in support of the movement. I presented it at the First Parish in Needham, Unitarian Universalist , on August 28, 2016.
 It is a pleasure to be with you this morning. Your congregation features prominently in one of my favorite books of contemporary Unitarian Universalist theology,
 
 ## A House for Hope

@@ -6,10 +6,6 @@ tags:
   - capitalism
 ---
 
-#### [medium.com](https://medium.com/@re. Marx/inflation-is-how-the-system-restores-the-primacy-of-capital-9a795036b154)
-
-# **Inflation is How the System Restores the Primacy of Capital**
-
 ## re. Marx
 
 16–21 minutes

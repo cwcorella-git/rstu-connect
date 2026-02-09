@@ -8,8 +8,6 @@ tags:
   - current-events
 ---
 
-# HOW FASCISM WORKS
-
 ## THE POLITICS OF US AND THEM
 
 ## JASON STANLEY

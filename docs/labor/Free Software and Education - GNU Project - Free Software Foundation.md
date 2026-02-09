@@ -11,8 +11,6 @@ tags:
 
 [gnu.org](https://www.gnu.org/education/education.html)
 
-## **Free Software and Education - GNU Project**
-
 2–3 minutes
 
 ## **How Does Free Software Relate to Education?**

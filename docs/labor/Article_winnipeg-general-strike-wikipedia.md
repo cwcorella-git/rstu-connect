@@ -8,8 +8,6 @@ tags:
   - strikes
 ---
 
-# Winnipeg General Strike Wikipedia
-
 Winnipeg general strike - Wikipedia https://en.wikipedia.org/wiki/Winnipeg_general_strike
           Winnipeg general strike
           The Winnipeg General Strike of 1919 was one

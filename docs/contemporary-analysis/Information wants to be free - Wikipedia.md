@@ -11,8 +11,6 @@ tags:
 
 [en.m.wikipedia.org](https://en.m.wikipedia.org/wiki/Information_wants_to_be_free)
 
-# Information wants to be free
-
 ## Contributors to Wikimedia projects
 
 8–10 minutes

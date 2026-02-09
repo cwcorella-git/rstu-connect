@@ -7,8 +7,6 @@ tags:
   - theory
 ---
 
-## [relationship-anarchy.com](https://relationship-anarchy.com/2016-6-20-do-relationship-anarchists-commit/)
-
 ## **Do Relationship Anarchists Commit? | Relationship Anarchy**
 
 ## Kale Gossen

@@ -13,13 +13,7 @@ tags:
   - health-and-safety
 ---
 
-## **Well, If You Ask Me: Flint**
-
-## **Date:** Sat, 01/23/2016 - 17:18
-
 ## **Source:** https://ecology.iww.org/node/1480
-
-**Tags:** Dano T Bob, Flint, water pollution, disaster capitalism, privatization, toxics, health and safety
 
 ## By
 

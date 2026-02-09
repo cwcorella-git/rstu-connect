@@ -8,10 +8,6 @@ tags:
   - culture
 ---
 
-## [versobooks.com](https://www.versobooks.com/blogs/news/5001-decommodification-in-the-twenty-first-century)
-
-## **Decommodification in the twentyfirst century**
-
 ## Ursula Huws
 
 13–17 minutes

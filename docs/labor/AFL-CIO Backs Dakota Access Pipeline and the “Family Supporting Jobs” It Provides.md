@@ -8,13 +8,7 @@ tags:
   - fossil fuels
 ---
 
-## **AFL-CIO Backs Dakota Access Pipeline and the "Family Supporting Jobs" It Provides**
-
-## **Date:** Fri, 09/30/2016 - 17:17
-
 ## **Source:** https://ecology.iww.org/node/1803
-
-**Tags:** AFL-CIO, trade unions, North America's Building Trades Unions (NABTU), International Brotherhood of Teamsters (IBT), Laborers' International Union of North America (LIUNA), yellow unionism, green unionism, NoDAPL, Dakota Access Pipeline (DAPL), National Nurses United
 
 ## By Kate Aronoff -
 

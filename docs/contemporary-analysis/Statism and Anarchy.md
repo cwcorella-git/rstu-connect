@@ -7,8 +7,6 @@ tags:
   - Bakunin
 ---
 
-# **Mikhail Bakunin**
-
 # **Statism and Anarchy**
 
 # **The Struggle of the Two Parties in the International Working Men's Association**

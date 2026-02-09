@@ -9,13 +9,7 @@ tags:
   - climate
 ---
 
-## **Coal River Mountain Watch Workers Ratify First Collective Agreement**
-
-## **Date:** Fri, 01/28/2022 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/4836
-
-**Tags:** Industrial Workers of the World (IWW), Coal River Mountain Watch, green unionism, NGOs, movements, unions, and organizations, ecological movements and organizations
 
 ## By Communications Department -
 

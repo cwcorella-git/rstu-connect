@@ -8,8 +8,6 @@ tags:
   - digital rights
 ---
 
-# Early LLM-based Tools for Enterprise Information Workers Likely Provide Meaningful Boosts to Productivity
-
 A first update from Microsoft's research initiative on AI and Productivity
 
 Alexia Cambon1 , Brent Hecht1 , Ben Edelman, Donald Ngwe, Sonia Jaffe, Amy Heger, Mihaela Vorvoreanu, Sida Peng, Jake Hofman, Alex Farach, Margarita Bermejo-Cano, Eric Knudsen, James Bono, Hardik Sanghavi, Sofia Spatharioti, David Rothschild, Daniel G. Goldstein, Eirini Kalliamvakou, Peter Cihon, Mert Demirer, Michael Schwarz, and Jaime Teevan

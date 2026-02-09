@@ -9,8 +9,6 @@ tags:
   - workers
 ---
 
-# You Create $78 of Value With Each Hour of Labor _ Medium.pdf
-
 You Create $78 of Value With Each Hour of Labor | Medium https://medium.com/@re.Marx/you-create-78-of-value-w...
                                     Search
           You Create $78 of Value With Each Hour of

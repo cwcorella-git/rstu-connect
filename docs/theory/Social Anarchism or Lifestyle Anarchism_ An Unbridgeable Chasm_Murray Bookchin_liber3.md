@@ -8,8 +8,6 @@ tags:
   - Bookchin
 ---
 
-# SOCIAL ANARCHISM OR LIFESTYLE ANARCHISM
-
 ## AN UNBRIDGEABLE CHASM
 
 ## Murray Bookchin

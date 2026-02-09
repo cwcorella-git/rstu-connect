@@ -8,15 +8,9 @@ tags:
   - digital rights
 ---
 
-#### [archdaily.com](https://www.archdaily.com/1004405/viglostasi-residence-block722)
-
-# Viglostasi Residence / block722
-
 ## Curated by Paula Pintos
 
 5-6 minutes
-
-#### Viglostasi Residence / block722
 
 ## ![](_page_0_Picture_7.jpeg)
 

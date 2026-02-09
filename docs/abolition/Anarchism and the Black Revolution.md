@@ -10,8 +10,6 @@ tags:
 
 # **Lorenzo Kom'boa Ervin**
 
-# **Anarchism and the Black Revolution**
-
 ### **1993**
 
 Dedication For the second edition of Anarchism and the Black Revolution

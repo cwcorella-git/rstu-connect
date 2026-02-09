@@ -7,14 +7,6 @@ tags:
   - prisons
 ---
 
-## **The Pandemic Inside: COVID-19 in Michigan Prisons**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/pandemic-inside-covid-19-michigan-prisons
-
-**Tags:** United States, prisons, Michigan Abolition and Prisoner Solidarity, Covid-19, 2020s, PDF
-
 A compilation of writing by prisoners in Michigan covering the first year of the pandemic. This publication was collected by Michigan Abolition and Prisoners Solidarity (MAPS).
 
 Michigan Abolition and Prisoner Solidarity (MAPS) is pleased to announce the release of a new zine,The Pandemic Inside: COVID-19 in Michigan Prisons. This zine is a compilation of writings by prisoners that were shared with us during the first year or so of the pandemic. Their letters and essays expose the deplorable conditions and routine abuses to which those incarcerated in this state are continually subjected—forms of disposability that were only intensified, often with deadly results, by the pandemic. But these pieces also highlight some of the many ways that prisoners pushed back against this condemnation to premature death: from letters and lawsuits to mutual aid and uprisings.

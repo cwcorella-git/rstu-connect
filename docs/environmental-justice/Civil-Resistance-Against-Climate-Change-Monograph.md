@@ -7,8 +7,6 @@ tags:
   - climate
 ---
 
-# Civil Resistance Against Climate Change
-
 Robyn Gulliver, Kelly S. Fielding, Winnifred R. Louis
 
 ## ![](_page_0_Picture_3.jpeg)
@@ -21,15 +19,11 @@ Robyn Gulliver, Kelly S. Fielding, Winnifred R. Louis
 
 Description: Protesters form a human sign that reads "Break Free." Taken on May 8, 2016. By: Jeremy Buckingham.
 
-Source: https://www.ickr.com/photos/62459458@N08/26871119756. This image is licensed under Creative Commons Attribution 2.0 Generic (CC BY 2.0). This image has been modied by cropping.
-
 Link to license: https://creativecommons.org/licenses/by/2.0/
 
 #### **Front cover image (center)**
 
 Description: The Climate Guardians use candles to spell out "Reef Not Coal" in a demonstration putting pressure on Australian government ocials. Taken on August 31, 2016. By: John Englart.
-
-Source: https://www.ickr.com/photos/takver/29327547216/. This image is licensed under Creative Commons Attribution Share Alike 2.0 Generic (CC BY-SA 2.0). This image has been modied by cropping.
 
 Link to license: https://creativecommons.org/licenses/by-sa/2.0/
 

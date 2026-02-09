@@ -8,14 +8,6 @@ tags:
   - alternatives
 ---
 
-## **Free Alabama Movement launches 30-Day Economic Blackout**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/free-alabama-movement-launches-30-day-economic-blackout
-
-**Tags:** United States, prisons, Alabama, Free Alabama Movement
-
 Prisoners call for boycott and work strike due to continued human rights violations and mounting deaths by the Alabama Department of Corrections (ADOC). This story was first published by the San Francisco Bay View.
 
 The Alabama Department of Corrections, under the leadership of embattled and controversial commissioner Jefferson Dunn, continues to be in the news as the death toll within the prison system continues to rise. The failed prison system is set to reach another historic high in preventable deaths due to violence, as well as continuing to rank among national leaders in suicides and drug overdose deaths. At the same time, the ADOC's lack of a plan, testing or effective response to COVID-19 is causing additional deaths.

@@ -8,13 +8,10 @@ tags:
   - democracy
 ---
 
-# Anarchism and Democracy the Anarchist Library
-
 Anarchism and Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## theanarchistlibrary.org
 
-## Anarchism and Democracy
                Author: Zoe Baker
 
 ## 40–51 minutes

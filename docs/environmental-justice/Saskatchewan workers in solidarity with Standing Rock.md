@@ -8,13 +8,7 @@ tags:
   - labor
 ---
 
-## **Saskatchewan workers in solidarity with Standing Rock**
-
-## **Date:** Mon, 12/05/2016 - 21:10
-
 ## **Source:** https://ecology.iww.org/node/1955
-
-**Tags:** Labor for Standing Rock (L4SR), green unionism, NoDAPL, Labor Union Camp, Saskatchewan
 
 ## By Denise Leduc -
 

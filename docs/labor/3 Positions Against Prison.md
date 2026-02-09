@@ -12,8 +12,6 @@ tags:
 
 ## **August O'Clairre**
 
-# **3 Positions Against Prison**
-
 - 1. There are no political prisoners, only prisoners of war.
 - 2. There is no prison, only imprisonment.
 - 3. Prisons cannot be abolished, only destroyed.

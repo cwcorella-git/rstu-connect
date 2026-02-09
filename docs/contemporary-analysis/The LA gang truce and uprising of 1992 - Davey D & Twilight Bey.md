@@ -8,14 +8,6 @@ tags:
   - Los Angeles
 ---
 
-## **The LA gang truce and uprising of 1992 - Davey D & Twilight Bey**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/la-gang-truce-and-uprising-1992-davey-d-twilight-bey
-
-**Tags:** racism, United States, riots, LA riots, gangs, Davey D, Twilight Bey, police
-
 An interview with Twilight Bey, a former gang member involved in negotiating the truce, on the LA gang truce and uprising of 1992. This interview was first conducted on the 10-year anniversary of the uprising in April 2002, and was archived at indybay.org.
 
 Davey D:Ten years ago the city of Los Angeles erupted in reaction to the acquittal of 4 white police officers who were on trial for the beating of Rodney King. More then 50 fires burned throughout LA as all sorts of people looted stores. Numerous people were killed and hundreds were injured. The National Guard was called in. A state of emergency was declared and all sorts of drama unfolded. One of the underplayed stories surrounding the LA Uprisings was the resulting Gang Truce. First it was between the Crips and Bloods, and the truce later spread between rival Mexican Gangs.

@@ -12,14 +12,6 @@ tags:
   - united-kingdom
 ---
 
-## **Curing The English Disease**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/curing-english-disease
-
-**Tags:** activism, community activity, Black Flag, claimants and unpaid, 2000s, United Kingdom,
-
 ## revolutionary unionism, Labour Party
 
 In 1976, the Labour Prime Minister James Callaghan declared that the "English disease" of indiscipline and labour militancy was undermining the profitability of UK capital. Curing the "English disease" became the raison d'etre of the ruling class.

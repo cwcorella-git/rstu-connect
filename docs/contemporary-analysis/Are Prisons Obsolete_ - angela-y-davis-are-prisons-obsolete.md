@@ -7,8 +7,6 @@ tags:
   - prisons
 ---
 
-## Are Prisons Obsolete?
-
 ## Angela Y. Davis
 
 # Contents

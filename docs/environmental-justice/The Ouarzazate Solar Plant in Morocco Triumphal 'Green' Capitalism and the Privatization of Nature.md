@@ -9,8 +9,6 @@ tags:
   - climate
 ---
 
-# **The Ouarzazate Solar Plant in Morocco: Triumphal 'Green' Capitalism and the Privatization of Nature**
-
 | Date: Tue, 03/29/2016 - 18:21 |
 |--------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/1580|

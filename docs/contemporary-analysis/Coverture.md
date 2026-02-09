@@ -11,8 +11,6 @@ tags:
 
 ## ![](_page_0_Picture_0.jpeg)
 
-# **Coverture**
-
 **Coverture** was a [legal doctrine](https://en.wikipedia.org/wiki/Legal_doctrine) in English [common law](https://en.wikipedia.org/wiki/Common_law) under which a married woman's legal existence was considered to be merged with that of her husband. Upon marriage, she had no independent legal existence of her own, in keeping with society's expectation that her husband was to provide for and protect her. Under coverture a woman became a *feme covert*, whose legal rights and obligations were mostly subsumed by those of her husband. An unmarried woman, or *feme sole*, retained the right to own property and make contracts in her own name.
 
 Coverture became well-established in the common law for several centuries and was inherited by many other [common-law jurisdictions,](https://en.wikipedia.org/wiki/Common_law_jurisdiction) including the [United States](https://en.wikipedia.org/wiki/United_States). According to historian [Arianne Chernock,](https://en.wikipedia.org/wiki/Arianne_Chernock) coverture did not apply in [Scotland](https://en.wikipedia.org/wiki/Scotland); whether it applied in [Wales](https://en.wikipedia.org/wiki/Wales) remains unclear. [\[1\]](#page-8-0)

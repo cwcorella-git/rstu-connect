@@ -10,8 +10,6 @@ tags:
 
 #### [research.com](https://research.com/universities-colleges/should-college-be-free)
 
-# **Should College Be Free? The Economic Impact of Free College for 2025**
-
 ## Imed Bouchrika
 
 36–46 minutes

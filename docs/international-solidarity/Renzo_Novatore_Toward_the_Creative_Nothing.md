@@ -8,8 +8,6 @@ tags:
   - peace
 ---
 
-# **Toward the Creative Nothing**
-
 ## Renzo Novatore
 
 ## **Contents**

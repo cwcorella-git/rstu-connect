@@ -9,13 +9,7 @@ tags:
   - United Kingdom
 ---
 
-# **Beating the Climate Clock: Workers, citizens and state action in the UK**
-
-## **Date:** Wed, 02/21/2024 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/6341
-
-**Tags:** green syndicalism, Lucas Plan, climate change, United Kingdom (UK), ecological movements and organizations, movements, unions, and organizations, strategy and tactics, Extinction Rebellion (XR), Fridays for the Future, Andreas Malm
 
 ## By Hillary Wainright -
 

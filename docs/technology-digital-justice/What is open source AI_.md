@@ -7,10 +7,6 @@ tags:
   - digital rights
 ---
 
-#### [github.com](https://github.com/resources/articles/what-is-open-source-ai)
-
-# **What is open source AI?**
-
 ## Git Hub
 
 17–21 minutes

@@ -10,12 +10,6 @@ tags:
   - workers
 ---
 
-## **Revolutionary syndicalism**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/revolutionary-syndicalism
-
 ## **Tags:** Agent of the International, syndicalism
 
 An introductory summary of revolutionary syndicalism.

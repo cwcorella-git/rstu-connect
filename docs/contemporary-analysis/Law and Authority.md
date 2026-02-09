@@ -6,11 +6,7 @@ tags:
   - Kropotkin
 ---
 
-# **Pëtr Kropotkin Law and Authority 1886**
-
 I II III IV
-
-#### **I**
 
 "When ignorance reigns in society and disorder in the minds of men, laws are multiplied, legislation is expected to do everything, and each fresh law being a fresh miscalculation, men are continually led to demand from it what can proceed only from themselves, from their own education and their own morality." It is no revolutionist who says this, nor even a reformer. It is the jurist, [Joseph] Dallois, author of the Collection of French law known as "Repertoire de la Legislation." And yet, though these lines were written by a man who was himself a maker and admirer of law, they perfectly represent the abnormal condition of our society.
 

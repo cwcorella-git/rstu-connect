@@ -11,14 +11,6 @@ tags:
   - teachers
 ---
 
-## **Hijos de Campesinos: Teachers' Struggles in Chiapas - Monty Neill and Peter Linebaugh**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/hijos-de-campesinos-teachers-struggles-chiapas-monty-neill-and-peter-linebaugh
-
-**Tags:** Midnight Notes Collective, 1980s, education, schools, Mexico, Chiapas, Peter Linebaugh, Monty Neill
-
 Monty Neill and Peter Linebaugh of Midnight Notes interviewed Susan Street about the struggles of teachers, campesinos, ejidatarios and urban dwellers (colonos) in the Mexican state of Chiapas. Susan, who has been living in Mexico since 1977, has become active in supporting these struggles. Guillermo Orozco, a Mexican national and resident of Mexico City, but not active in Chiapas, also participated. The first interview took place in Boston on October 27, 1986. A second interview, also in Boston, was done exactly one year later, October 27, 1987, and further discussions occurred in ensuing months. "Hijos de Campesinos" means 'children of the campesinos.'
 
 Susan (S): Chiapas is located in southern Mexico. It borders the Pacific and shares borders with Guatemala and other Mexican states. The capital is Tuxtla Gutierrez.

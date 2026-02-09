@@ -9,8 +9,6 @@ tags:
 
 ## **Crimeth Inc.**
 
-# **The Irrepressible Anarchists**
-
 # **Federal Infiltration and Repression — What It Means, What to Do, What Not to Fear**
 
 ### **August 11, 2006**

@@ -8,10 +8,7 @@ tags:
   - current-events
 ---
 
-## **Following up on the FTP 2017 Convergence**
-
-**Date:** Tue, 07/04/2017 - 17:01 **Source:** https://ecology.iww.org/node/2331**Tags:** Prison Ecology Project, prison labor, IWOC, toxics By staff - The Campaign to Fight Toxic Prisons , June 29, 2017 [The following letter was sent to all who registered for the 2017 FTP Convergence, but we felt there was pertinent info in here for the rest of you as well. Have a look, take some action, write some prisoners to tell them about it, and pass it on.] Greetings Toxic Prison Fighters, Earlier this month we held our second annual national convergence
-
+Prison Ecology Project, prison labor, IWOC, toxics By staff - The Campaign to Fight Toxic Prisons , June 29, 2017 [The following letter was sent to all who registered for the 2017 FTP Convergence, but we felt there was pertinent info in here for the rest of you as well. Have a look, take some action, write some prisoners to tell them about it, and pass it on.] Greetings Toxic Prison Fighters, Earlier this month we held our second annual national convergence
 For those who were able to support the convergence with your attendance and/or donations,
 
 , bringing together environmental activists with the community of people involved in prisoner advocacy and prison abolition. We also addressed issues which surround this intersection related to labor, immigration, race, gender, sexuality and economics.

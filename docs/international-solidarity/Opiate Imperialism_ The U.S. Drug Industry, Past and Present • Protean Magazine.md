@@ -8,8 +8,6 @@ tags:
   - peace
 ---
 
-## [SUPPORT US](https://proteanmag.com/donate)
-
 ## ![](_page_1_Picture_2.jpeg)
 
 ## ![](_page_2_Picture_2.jpeg)

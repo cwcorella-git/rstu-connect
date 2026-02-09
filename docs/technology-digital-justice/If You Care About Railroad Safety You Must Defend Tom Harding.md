@@ -9,13 +9,7 @@ tags:
   - digital rights
 ---
 
-## **If You Care About Railroad Safety You Must Defend Tom Harding**
-
-## **Date:** Fri, 02/26/2016 - 17:37
-
 ## **Source:** https://ecology.iww.org/node/1542
-
-**Tags:** Lac-Mégantic, Tom Harding, Railroad Workers United (RWU), railroad workers, Richard La Brie, crude-by-rail, green unionism, health and safety
 
 ## Editorial -
 

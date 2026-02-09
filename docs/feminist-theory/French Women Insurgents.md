@@ -8,14 +8,6 @@ tags:
   - France
 ---
 
-## **French Women Insurgents**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/french-women-insurgents
-
-**Tags:** France, 1800s, feminism, 1848 French Revolution, D. H. Barry
-
 An article documenting several important insurgents in the street battles and insurrections of 19th Century France.
 
 French Women Insurgents - June 1848 The involvement of Frenchwomen in popular insurgency dates back to the Middle Ages. The histor y of France since 1789 alone furnished many examples: in October 1789 women had marched to Versailles to bring back the royal family to Paris, and in the 1789 Revolution women's demonstrations against shortages of food and high food prices were often the catalyst for a moments' political upheaval.

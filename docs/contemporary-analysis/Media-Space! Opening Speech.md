@@ -7,8 +7,6 @@ tags:
   - current-events
 ---
 
-## **Peter Lamborn Wilson Media-Space! Opening Speech 28th February 1997**
-
 Up till a few years ago—no, up till last year, well, up till ten minutes ago there was a very religious feeling surrounding the Internet. I call it the mumbo-jumbo factor, a kind of magical aura that surrounds any new technology. There is an old saying that any technology that you don't understand is like magic. In other words, how many people could fix that television if it broke? Maybe there are actually a few people here who could do that. But, by and large, it is magic. The Internet is so new, the computer itself is so new that it has this kind of magic aura, a halo around it. Out of that feeling, there came certain expectations that were almost messianic: the feeling that the Internet was going to save us, that the Internet was out of control (that's the title of a very popular book). Because it was out of control, that no government could control it, just by existing it was going to be a factor for liberation. Over the last few of years, there were a number of conferences and a number of publications and quite a lot of thinking along these lines.
 
 It turns out that that there were two different kinds of people who had these expectations. One is what we call in America "extropians," people who think that the machine is the next stage of evolution, and that the intelligent machine will somehow replace human intelligence. This is science fiction. It might be; one never likes to make predictions about technology. Maybe someday there will be artificial intelligence. But there certainly isn't any now. In fact, the question is whether there is any un-artificial intelligence.

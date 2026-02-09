@@ -8,8 +8,6 @@ tags:
   - Nevada
 ---
 
-# Reno-Sparks apartment rent reaches another record high.pdf
-
 Reno-Sparks apartment rent reaches another record high https://www.rgj.com/story/news/money/business/2022/07/29/reno-sparks-... Sparks neighborhoods posted higher rents but industry watchers expect the uble-digit increases.
                    Reno Gazette Journal
          July 29, 2022, 7:00 a.m. PT

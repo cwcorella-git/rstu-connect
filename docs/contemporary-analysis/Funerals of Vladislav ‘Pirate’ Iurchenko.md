@@ -12,14 +12,6 @@ tags:
   - ukraine
 ---
 
-## **Funerals of Vladislav 'Pirate' Iurchenko**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/funerals-vladislav-pirate-iurchenko
-
-**Tags:** Solidarity Collectives, anarchism, internationalism, anti-fascism, Anti-colonialism, Ukraine,
-
 ## Russia-Ukraine war
 
 On Saturday 10.05.2025 comrades gathered to honor the life and struggle of anarchist-internationalist fighter Vladislav 'Pirate' Iurchenko.

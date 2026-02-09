@@ -9,12 +9,6 @@ tags:
   - solidarity
 ---
 
-## **Camillo Berneri, Decolonization, and the Spanish Revolution - Jeff Shantz**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/camillo-berneri-decolonization-and-spanish-revolution-jeff-shantz**Tags:** Jeff Shantz, Spain, Spanish civil war, Camillo Berneri, Anti-colonialism, colonialism, Morocco, anarchism
-
 This article gives a brief, accessible examination of Camillo Berneri's perspectives on anti-colonialism in the context of the Spanish Revolution. His experiences in Spain cemented in Berneri's mind the fundamental, inextricable, connection between imperialism and colonialism and the revolution. This conclusion made him especially critical of the Republican indifference, even spiritlessness, regarding Moroccan independence, and the failure of anarchists to confront it. Berneri's hard gained perspective placed what we would today call decolonization at the very heart of social revolution. And at the center of material strategies and tactics for victory.
 
 The present period of imperialist atrocities, and associated debates within anarchist movements over anti-imperialism and anti-colonialism, land back, and national liberation, show both a need to engage with historic anarchist positions on colonialism and imperialism, and a certain lack of familiarity with them. Many important historic anarchist arguments have been overlooked or forgotten.

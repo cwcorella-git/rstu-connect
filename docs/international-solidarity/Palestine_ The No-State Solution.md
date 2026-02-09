@@ -11,8 +11,6 @@ tags:
 
 ## James Herod
 
-# Palestine: The No-State Solution
-
 ### February 2009
 
 Palestine: The No-State Solution By James Herod, February 2009

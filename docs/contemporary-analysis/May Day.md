@@ -7,8 +7,6 @@ tags:
   - current-events
 ---
 
-## **Albert Libertad**
-
 ## **May Day**
 
 ## **1st May 1905**

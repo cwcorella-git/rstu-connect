@@ -8,8 +8,6 @@ tags:
   - youth
 ---
 
-## [thekeep.eiu.edu](https://thekeep.eiu.edu/civilrights_slavery_genocide/)
-
 ## The Impossibility of Freedom in a Country Founded on Slavery and Genocide | For All the World to See: Photo Galleries
 
 2–3 minutes

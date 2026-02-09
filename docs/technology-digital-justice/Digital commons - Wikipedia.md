@@ -11,8 +11,6 @@ tags:
 
 ## ![](_page_0_Picture_2.jpeg)
 
-# **Digital commons**
-
 The **digital commons** refers to shared [digital resources—](https://en.wikipedia.org/wiki/Information_technology)such as software, knowledge, data, and cultural content—that are collectively produced and governed by a community and intended for public use.[\[1\]](#page-4-0)[\[2\]](#page-4-1) These [commons](https://en.wikipedia.org/wiki/Commons) are distinguished by open access, participatory management, and licensing practices that preserve reuse and redistribution. Digital commons play a vital role in areas such as education, research, software development, and civic engagement.
 
 Examples of the digital commons include [wikis,](https://en.wikipedia.org/wiki/Wiki) [open-source software,](https://en.wikipedia.org/wiki/Open-source_software) and [open-source licensing.](https://en.wikipedia.org/wiki/Open-source_license) The distinction between digital commons and other digital resources is that the community of people building them can intervene in the governing of their interaction processes and of their shared resources[.\[3\]](#page-4-2)

@@ -10,13 +10,7 @@ tags:
   - environment
 ---
 
-## **Labour and Climate Activists Protest Against Anti-union Laws**
-
-## **Date:** Wed, 10/12/2022 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/5176
-
-**Tags:** class struggle, green unionism, climate justice, United Kingdom (UK), union busting, Industrial Workers of the World (IWW), IWW WISERA, Earth Strike, Public and Commerical Services Union (PCS), National Union of Rail, Maritime and Transport Workers (RMT)
 
 ## By staff -
 

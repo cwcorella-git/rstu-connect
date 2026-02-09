@@ -7,12 +7,6 @@ tags:
   - capitalism
 ---
 
-## **Capital and the Left - Nicole Cox and Silvia Federici**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/capital-and-left-nicole-cox-and-silvia-federici**Tags:** Nicole Cox, Silvia Federici, housework, anti-work, 1970s, feminism
-
 Against the pro-work left. Published by Falling Wall Press, 1975.
 
 With its traditional blindness to the dynamics of class movements, the left has interpreted the end of a phase within the women's movement as the end of the movement itself. Thus, slowly but surely, they are trying to regain the political terrain which in the sixties they had been forced to relinquish. Now that the ground appears to be clear, we increasingly see them drop their 'feminist' mask and pour out those dearest beliefs which, though stifled by the movement's power, were never really snuffed out.

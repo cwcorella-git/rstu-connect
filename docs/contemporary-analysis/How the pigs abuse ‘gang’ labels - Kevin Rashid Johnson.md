@@ -11,14 +11,6 @@ tags:
   - police
 ---
 
-## **How the pigs abuse 'gang' labels - Kevin "Rashid" Johnson**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/how-pigs-abuse-gang-labels-kevin-rashid-johnson
-
-**Tags:** racism, United States, prisons, Kevin 'Rashid' Johnson, police
-
 An article by Kevin "Rashid" Johnson on the abuse of "gang" labels to censor dissent. This article was previously published by the San Francisco Bay View, and readers who find it useful may wish todonate to their fundraiser.
 
 ## Using racism to create political bogey men

@@ -7,8 +7,6 @@ tags:
   - Palestine
 ---
 
-# Resource Mobilization in Palestinian Nonviolent Campaigns
-
 ## Mahmoud Soliman
 
 ## ![](_page_0_Picture_3.jpeg)

@@ -8,8 +8,6 @@ tags:
   - environment
 ---
 
-# Deep Eology & Anarcism
-
 ## A Polemi
 
 ## Various Auhors

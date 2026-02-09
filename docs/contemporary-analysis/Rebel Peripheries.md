@@ -15,14 +15,6 @@ tags:
   - communisation
 ---
 
-## **Rebel Peripheries**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/rebel-peripheries
-
-**Tags:** Simoun Magsalin, Muntjac Magazine, Bandilang Itim, guerrilla, Philippines, Maoism, Maoists, anarchism, communisation
-
 The Communist Party of the Philippines (CPP), its armed wing the New People's Army (NPA), and its front the National Democratic Front (NDF) have been waging Maoist armed struggle in the Philippines since 1969. In doing so, it has created a number of rebel peripheries in the countryside that exist outside the control of the Philippine State—in the anarchy of the peripheries. However, the longstanding second communist rebellion in the Philippines has to be placed in the historical context of anarchic and rebel peripheries in the archipelago. Once we move past and sublate the experiences of the Maoists for the revolutionary project of anarchism, we can then move on understanding the insurrectionary project of mamundok-in-place.
 
 Dedicated to the anarchists and abolitionists in the Philippines that we've met along the way, including those who have moved on or fallen out of touch

@@ -9,14 +9,6 @@ tags:
   - workers
 ---
 
-## **The Proletarian (1909-1910) - IWW Japanese-English Bilingual Newspaper**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/proletarian-1909-1910-iww-japanese-english-bilingual-newspaper
-
-**Tags:** Industrial Workers of the World (IWW), United States, 1910s, Japan, newspapers, 1900s,
-
 ## Chicago, ■■■, publications, The Proletarian
 
 Digital scans of the first four issues of the 1909-1910 IWW newspaper The Proletarian, a Japanese-English bilingual publication out of Chicago.

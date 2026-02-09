@@ -8,8 +8,6 @@ tags:
   - digital rights
 ---
 
-# **Peter Gelderloos**
-
 # **The Failure of Nonviolence**
 
 # **From the Arab Spring to Occupy**

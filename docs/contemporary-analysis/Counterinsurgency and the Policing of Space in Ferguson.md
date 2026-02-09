@@ -7,14 +7,6 @@ tags:
   - police
 ---
 
-# **Counterinsurgency and the Policing of Space in Ferguson**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/counterinsurgency-and-policing-space-ferguson
-
-**Tags:** United States, police, repression, urban planning, 2014 Ferguson unrest, Edge City Collective
-
 This article will briefly document and analyze the various methods and techniques through which the St. Louis Metropolitan Police, the National Guard, and several other local law enforcement formations were able to gradually achieve a kind of 'total spatial dominance' over this small region and its residents.
 
 For the last month or so we've all no doubt become familiar with the spectacular images of the 'militarized' policing of the Ferguson, MO uprisings following the murder of Mike Brown. We've seen the voluminous streams of tear gas cascading down upon protestors, the roving Armored Personnel Carriers (APCs) carrying platoons of Battle Dress Uniform (BDU) clad officers, and the furtively stationed sniper posts dotting the diminutive strip-mall rooftops of West Florissant.

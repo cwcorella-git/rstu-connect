@@ -9,8 +9,6 @@ tags:
 
 ## ![](_page_0_Picture_2.jpeg)
 
-# *Haymarket Martyrs' Monument*
-
 The *Haymarket Martyrs' Monument* is a funeral monument and sculpture located at [Forest Home Cemetery](https://en.wikipedia.org/wiki/German_Waldheim_Cemetery) in [Forest Park, Illinois,](https://en.wikipedia.org/wiki/Forest_Park,_Illinois) a suburb of Chicago. Dedicated in 1893, it commemorates the defendants involved in labor unrest who were blamed, convicted, and executed for the still unsolved bombing during the [Haymarket A](https://en.wikipedia.org/wiki/Haymarket_Affair)ffair (1886). The monument's bronze sculptural elements are by artist [Albert Weinert.](https://en.wikipedia.org/wiki/Albert_Weinert) On February 18, 1997, the monument was designated a [National Historic Landmark.](https://en.wikipedia.org/wiki/National_Historic_Landmark)
 
 #### **History and description**

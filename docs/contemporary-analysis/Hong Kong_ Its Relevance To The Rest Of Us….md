@@ -8,8 +8,6 @@ tags:
   - wikipedia
 ---
 
-## **Sam Fanto Samotnaf**
-
 ## **Hong Kong: Its Relevance To The Rest Of Us…**
 
 ## **…its resistance to the science & technology of social control**

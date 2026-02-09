@@ -8,8 +8,6 @@ tags:
   - Emma Goldman
 ---
 
-# **Emma Goldman Anarchism and Other Essays**
-
 ## **Table of Context:**
 
 | Biographical Sketch |

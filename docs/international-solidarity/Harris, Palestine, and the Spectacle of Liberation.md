@@ -8,12 +8,6 @@ tags:
   - solidarity
 ---
 
-## **Harris, Palestine, and the Spectacle of Liberation.**
-
-## **Date:** 2024-08-01
-
-**Source:** https://www.threadings.io/harris-palestine-and-the-spectacle/
-
 a series of musings nearly entitled, "
 
 I am frightened by the way people tire of the world.

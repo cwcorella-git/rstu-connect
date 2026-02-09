@@ -14,8 +14,6 @@ tags:
 
 ## ![](_page_2_Picture_0.jpeg)
 
-#### Chronicling Civil Resistance
-
 ## by Deborah Mathis and Hailey Grace Allen 2021
 
 ## Published by ICNC Press

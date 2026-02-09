@@ -8,9 +8,7 @@ tags:
   - theory
 ---
 
-# Liverpool Anarchist 20
-
-Liverpool Anarchist #20 Date: Unknown Source: https://libcom.org/article/liverpool-anarchist-20 Tags: couriers, Liverpool, feminism, poetry, Ukraine, May Picqueray
+Liverpool, feminism, poetry, Ukraine, May Picqueray
 A feminist-themed issue produced for International Women's Day, which is twice as long as the standard issues. Contains articles on feminist theory, class struggle and a short biography of May Picqueray.
 Steven.
 3 years 7 months ago

@@ -7,14 +7,6 @@ tags:
   - Chicago
 ---
 
-## **Chicago Teachers Take Wildcat Action in the Face of Unsafe COVID Conditions**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/chicago-teachers-take-wildcat-action-face-unsafe-covid-conditions
-
-**Tags:** workplace activity, Industrial Workers of the World (IWW), United States, education, schools,
-
 ## wildcat strikes, health and safety, CTU, Covid-19
 
 Report from Chicago IWW about recent wildcat strike actions by Chicago area teachers in the face of unsafe working conditions.

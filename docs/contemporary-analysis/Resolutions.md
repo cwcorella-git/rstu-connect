@@ -9,14 +9,6 @@ tags:
   - phil-dickens
 ---
 
-## **Resolutions**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/resolutions
-
-**Tags:** general strikes, United Kingdom, Phil Dickens
-
 If there's one thing, politically, that I want to happen in 2014 it's for leftists to drop the demand for a 24 hour general strike from above and start building for an all out general strike from below.
 
 First, let's get this clear: the TUC is not going to call a general strike of any kind. Aside from being tied into the electoral fortunes of Labour and the moderation of class struggle as social partners with the bosses, the only reason that they would ever call a strike is if they felt that they were being outflanked from below (which they aren't as things stand) and then only as an exercise in letting off steam.

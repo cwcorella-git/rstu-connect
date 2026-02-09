@@ -8,8 +8,6 @@ tags:
   - environment
 ---
 
-## **If it's jobs they want, Labour and the unions must back renewables, not Hinkley C!**
-
 | Date: Tue, 08/30/2016 - 18:53 |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/1767|

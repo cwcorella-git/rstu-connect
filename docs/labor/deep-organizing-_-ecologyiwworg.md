@@ -8,14 +8,8 @@ tags:
   - environment
 ---
 
-# Deep Organizing Ecologyiwworg
-
 deep organizing | ecology.iww.org about:reader?url=https%3A%2F%2Fecology.iww.org%...
 
-## ecology.iww.org
-
-## deep organizing |
-## ecology.iww.org
 ## 4–5 minutes
 
 ## By staff - Black Rose, January 29, 2024

@@ -9,13 +9,7 @@ tags:
   - fossil fuels
 ---
 
-## **Pipelines, Pandemics and Capital's Death Cult: A Green Syndicalist View**
-
-## **Date:** Mon, 03/29/2021 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/4214
-
-**Tags:** green syndicalism, green unionism, Jeff Shantz, pipelines, extractivism, fossil fuel capitalism, Unist'ot'en, Coastal Gaslink Pipeline (CGL), sacrifice zones, capital blight
 
 ## By Jeff Shantz -
 

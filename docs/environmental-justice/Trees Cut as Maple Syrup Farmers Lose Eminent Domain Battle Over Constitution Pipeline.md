@@ -8,8 +8,6 @@ tags:
   - fossil fuels
 ---
 
-## **Trees Cut as Maple Syrup Farmers Lose Eminent Domain Battle Over Constitution Pipeline**
-
 | Date: Sun, 03/06/2016 - 11:45 |
 |---------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/1552|

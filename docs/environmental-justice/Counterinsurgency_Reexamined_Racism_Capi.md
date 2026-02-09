@@ -8,8 +8,6 @@ tags:
   - capitalism
 ---
 
-# Counterinsurgency Reexamined: Racism, Capitalism, and US Military Doctrine
-
 # Jordan T. Camp
 
 *The Center for Place, Culture and Politics, The Graduate Center of the City University of New York, New York, NY, USA; jcamp@gc.cuny.edu*

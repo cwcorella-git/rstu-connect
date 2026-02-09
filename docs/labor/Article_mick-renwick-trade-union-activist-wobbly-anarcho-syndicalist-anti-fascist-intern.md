@@ -10,9 +10,7 @@ tags:
   - antifascism
 ---
 
-# Mick Renwick Trade Union Activist Wobbly Anarcho Syndicalist Anti Fascist Intern
-
-Mick Renwick: trade union activist, Wobbly, anarcho-syndicalist, anti-fascist, internationalist, Geordie working-class hero - David Douglass Date: Unknown Source: https://libcom.org/article/mick-renwick-trade-union-activist-wobbly-anarcho-syndicalist-anti-fas cist-internationalist Tags: David Douglass, Mick Renwick, obituaries, CND, Industrial Workers of the World (IWW),
+Douglass, Mick Renwick, obituaries, CND, Industrial Workers of the World (IWW),
 ## Socialist Workers Party UK (SWP)
 
 An obituary by David Douglass of Mick Renwick, a leftist activist who involved in the Campaign for Nuclear Disarmament (CND), Socialist Workers Party (UK) and the Industrial Workers of the World (IWW) . Appeared in theIndustrial Worker(January/February 2014).

@@ -8,8 +8,6 @@ tags:
   - organizing
 ---
 
-## **Teleseminar Transcript: "Just Transition" with Mateo Nube of Movement Generation**
-
 | Date: Wed, 03/02/2016 - 18:53 |
 |-----------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/1549|

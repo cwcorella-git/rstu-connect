@@ -9,13 +9,7 @@ tags:
   - environment
 ---
 
-## **#Shut ItDown: Organizing to Strike for Climate Justice**
-
-## **Date:** Sun, 07/14/2019 - 16:28
-
 ## **Source:** https://ecology.iww.org/node/3316
-
-**Tags:** green bans, Earth Strike, Climate Strike, Industrial Workers of the World (IWW), IWW Environmental Unionism Caucus, green syndicalism, green unionism, Extinction Rebellion (XR), Fridays for the Future
 
 ## By Patrick Young -
 

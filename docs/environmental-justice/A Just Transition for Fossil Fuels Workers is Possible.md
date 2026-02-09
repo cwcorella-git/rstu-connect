@@ -9,10 +9,7 @@ tags:
   - just transition
 ---
 
-## **A Just Transition for Fossil Fuels Workers is Possible**
-
-**Date:** Wed, 10/26/2016 - 17:11 **Source:** https://ecology.iww.org/node/1881**Tags:** just transition, oil workers, mine workers, green unionism, green jobs, Donald Trump, Hillary Clinton Robert Pollin interviewed by Sharmini Peries - The Real News Network , October 24, 2016
-
+just transition, oil workers, mine workers, green unionism, green jobs, Donald Trump, Hillary Clinton Robert Pollin interviewed by Sharmini Peries - The Real News Network , October 24, 2016
 It's the Real News Network. I'm Sharmini Peries coming to you from Baltimore. You may have noticed that energy policy and climate change, one of the greatest issues facing human survival today, have not been at the forefront of this year's presidential election. It is only over the issue of jobs where energy policy did get a brief mention during the second presidential debate. This is when Donald Trump and Hillary Clinton were asked about their energy policies and they both chose to focus in on how to save dying coal industry jobs but did not provide much detail on what they would actually do to solve the problem. A major new report from the political economy research institute titled The Economics of Just Transition: A Framework for Supporting Fossil Fuel Dependent Workers and Communities in the United States by Robert
 
 Sharmini Peries:

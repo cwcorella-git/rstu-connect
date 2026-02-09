@@ -9,13 +9,7 @@ tags:
 author: Jeff Shantz
 ---
 
-## **Green Syndicalist Basics: Ecological Struggle is Class Struggle - Jeff Shantz**
-
-## **Date:** Unknown
-
 ## **Source:**
-**Tags:** Jeff Shantz, anarcho-syndicalism, syndicalism, ecological crisis, ecology, class struggle, Working Class, commons, direct action
-
 A micro primer on green syndicalism. Originally published in the Salish Sea Anarcha Network zine, issue 1 ("Spring Forward," 2025).
 
 Green syndicalism is, at its most basic, the convergence of radical ecology and revolutionary unionism (syndicalism). It starts from a recognition that the destruction of nature and the exploitation of nature go hand in hand—they are the twin pillars of capitalism. These foundations of capitalism are inextricably connected and essential for the system's existence and expansion. This means, too, that ending the destruction of nature means ending the exploitation of labor and vice versa.

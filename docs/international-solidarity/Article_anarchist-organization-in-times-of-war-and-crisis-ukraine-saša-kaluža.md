@@ -9,9 +9,6 @@ tags:
   - Ukraine
 ---
 
-# Anarchist Organization in Times of War and Crisis Ukraine Saša Kaluža
-
-Anarchist Organization in Times of War and Crisis (Ukraine) – Saša Kaluža Date: Unknown Source: https://libcom.org/article/anarchist-organization-times-war-and-crisis-ukraine-sasa-kaluza Tags: Saša Kaluža, Russia-Ukraine war, Ukraine, anarchism, Russia
 Article by Ukrainian anarchist Saša Kaluža on the situation following the 2022 Russian invasion of Ukraine.
 Originally published byTelegra.ph. Translated byRiot Turtlewith the help of tranlation tools.
 On February 24, Russian Federation troops began a so-called operation in Ukraine with the officially stated goal of demilitarizing and denazifying the country and overthrowing the current president and the rest of the top brass of the current government in Ukraine. It is worth noting that the Russian Federation does not use the word war in official statements, instead using the concept of operation, while the Ukrainian authorities call it war, but nevertheless have not officially declared war on Russia. Both sides use the concepts of war, occupation, invasion, liberation, demilitarization, and others against each other for propaganda, disinformation, and to raise patriotic and nationalist sentiments. This is a modern way of falsifying concepts and engaging in false rhetoric about war. If it is an operation and not a war, the figures provided about military losses or civilian casualties may no longer sound so scary. If it is an occupation, it sounds scarier than just an attack, it means that the attack does not end in defeat, but is followed by something even more lasting. The terms fascism and nazism sound here and there, losing any of their original meaning.

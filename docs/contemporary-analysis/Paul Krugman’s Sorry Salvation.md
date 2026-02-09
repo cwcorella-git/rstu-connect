@@ -8,12 +8,6 @@ tags:
   - current-events
 ---
 
-## **Paul Krugman's Sorry Salvation**
-
-## **Date:** Fri, 03/11/2016 - 14:13
-
-**Source:** https://ecology.iww.org/node/1554**Tags:** Industrial Workers of the World (IWW), green syndicalism, IWW Environmental Unionism Caucus, Dan Fischer, green capitalism, reformism, direct action, Dragonfly Collective (Capitalism versus the Climate) By Dan Fischer - Counter Punch , March 8, 2016 Paul Krugman has been writing about "salvation". When it comes to global warming, the normally hard-headed economist puts aside his skepticism and awaits the fall of solar panels from heaven. Or rather, from Democratic politicians and polluting industries that dominate their climate policies. In a 2014 piece " Salvation Gets Cheap ," Krugman contended that thanks to price drops in renewable energy, small policy changes could put salvation "within fairly easy reach." In last month's " Planet on the Ballot ," Krugman argued that electing Hillary Clinton president would mean "salvation is clearly within our grasp". "So is the climate threat solved? Well, it should be." The progressive pundit offers countless feel-good predictions along these lines. A deeper look at Krugman's words, however, reveals a disturbing indifference to the loss of millions of lives, livelihoods, and homes. Currently, an estimated
-
 400,000 people die each year from climate change, 98 percent of them in the Global South, according to the
 
 ## Climate Vulnerability Monitor

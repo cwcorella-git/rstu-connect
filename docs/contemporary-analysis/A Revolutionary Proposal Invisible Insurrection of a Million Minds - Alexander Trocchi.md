@@ -9,10 +9,6 @@ tags:
   - revolution
 ---
 
-## **A Revolutionary Proposal: Invisible Insurrection of a Million Minds - Alexander Trocchi**
-
-## **Date:** Unknown
-
 ## **Source:**
 ## **Tags:** Alexander Trocchi, art, education
 

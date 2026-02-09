@@ -9,10 +9,6 @@ tags:
 
 ## ![](_page_0_Picture_0.jpeg)
 
-# Anarchy Works
-
-## Anarchy Works by Peter Gelderloos
-
 ## Ardent Press, 2010
 
 ## No copyright

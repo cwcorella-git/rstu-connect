@@ -7,14 +7,6 @@ tags:
   - Bookchin
 ---
 
-## **Bookchin on Technology**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/bookchin-technology
-
-**Tags:** Murray Bookchin, Canada, reviews, Tom Mc Laughlin
-
 Review of Murray Bookchin's Post-Scarcity Anarchism.
 
 Murray Bookchin's collection of essays,Post-Scarcity Anarchism, provides an important challenge to Marxists who want a living Marxism.

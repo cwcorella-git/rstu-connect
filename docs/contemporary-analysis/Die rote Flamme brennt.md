@@ -9,14 +9,6 @@ tags:
   - deutsch
 ---
 
-## **Die rote Flamme brennt**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/die-rote-flamme-brennt
-
-**Tags:** Pete Davies, Spuren der Solidarität, Deutsch, Industrial Workers of the World (IWW)
-
 Pete Davies beschreibt die Erfolge und Erkenntnisse aus der Kampagne beim Lieferdienst Deliveroo im Vereinigten Königreich.
 
 Das Netzwerk der Kuriere(englisch: "Courier Network") der Industrial Workers of the World (IWW) wurde im Januar 2018 gegründet, um prekäre Arbeiter\*innen in der Gig-Economyzu unterstützen. Der Gedanke hinter dem Netzwerk war, dass es eine lockere Struktur sein würde, die Kuriere als Arbeiterinnen und Arbeiter organisieren könnte. Ohne dass sie der IWW beitreten und Gewerkschaftsbeiträge zahlen müssten.

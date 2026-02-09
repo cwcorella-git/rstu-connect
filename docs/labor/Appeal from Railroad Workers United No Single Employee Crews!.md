@@ -8,13 +8,7 @@ tags:
   - railroads
 ---
 
-## **Appeal from Railroad Workers United: No Single Employee Crews!**
-
-## **Date:** Mon, 05/30/2016 - 08:31
-
 ## **Source:** https://ecology.iww.org/node/1662
-
-**Tags:** Railroad Workers United (RWU), railroad workers, crude-by-rail, health and safety,
 
 ## Lac-Mégantic, green unionism
 

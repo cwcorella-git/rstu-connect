@@ -8,8 +8,6 @@ tags:
 
 0:00 Introduction We stand opposed to capitalism, the state, 0:09 colonialism, patriarchy, and white supremacy. 0:11 And wes a spooky word with authoritarian, manipulative connotations for some, but the concept itself 0:38 is neutral, just referring to communication meant to influence. 0:43 Advertising is a type of propaganda, meant to promote a particular product, brand, service, 0:49 or idea, that appeals to the personal, shares information, follows trends, and creates **and 0:57 They seek whatevert be ignored, cuz propaganda is everywhere we go. 1:16 Which can be kinda sickening. 1:17 Our views are obstructed and our personal space is violated as the machine pushes itself 1:22 down our throats. 1:24 I hate it. 1:26 Which is almost ironic, as someone about to secure their BA in Mass Communication. 1:30 Regardless, we still need to be able to communicate with folks on a larger scale. 1:36 First of all, because of all the narratives and biases that colour this world, whether 1:40 capitalist realism, statist realism, white supremacy, patriarchy, etc, we need to raise 1:45 our voices to combat them, to counter the monopoly on the discourse, and to create a 1:49 culture of resistance against those narratives.**
 
-## **1:52**
-
 **Second of all, because we need to get our information and alternatives out there.**
 
 ## **1:56**

@@ -6,14 +6,6 @@ tags:
   - feminism
 ---
 
-## **Wrath Over Pride: A call-out post to "radical" cis (het) men and their inadequacy in gender struggles**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/wrath-over-pride-call-out-post-radical-cis-het-men-and-their-inadequa cy-gender-struggles
-
-**Tags:** LGBTQ+ (Lesbian Gay Bi Trans Queer +), feminism, Philippines, Adrienne Onday
-
 "Radical" cis (het) men—you need to step the fuck up. Your silence is literally harming us. If you were truly for liberation, you must also be actively forourliberation as women and LGBTQIA+, because liberation is not a monolith, assumed to be the same thing for everyone; it is nuanced and attuned to the different needs and desires of different people.
 
 Written by Adrienne Onday andoriginally published at friendship anarchy.

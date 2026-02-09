@@ -8,13 +8,7 @@ tags:
   - climate
 ---
 
-## **Unify Fights Against Austerity and Climate Change**
-
-## **Date:** Sun, 01/03/2016 - 20:01
-
 ## **Source:** https://ecology.iww.org/node/1456
-
-**Tags:** COP21, Paris, climate justice, global warming, green unionism, Trade Unions for Energy
 
 ## Democracy (TUED), movement politics
 

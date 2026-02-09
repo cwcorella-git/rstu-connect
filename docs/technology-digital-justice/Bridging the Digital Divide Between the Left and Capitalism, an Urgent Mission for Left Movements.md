@@ -9,14 +9,6 @@ tags:
   - digital rights
 ---
 
-## **Bridging the Digital Divide Between the Left and Capitalism, an Urgent Mission for Left Movements**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/bridging-digital-divide-between-left-and-capitalism-urgent-mission-left-movements
-
-**Tags:** Rezgar Akrawi, Electronic Left, E-Left, capitalism, artificial intelligence, Digital Left, Socialist Transformation, class struggle, Technology and Society, Digital Divide
-
 The left today faces a deep digital gap against a technologically advanced capitalism that uses artificial intelligence and data to control consciousness and dominate society. The digital sphere is no longer neutral; it has become a class battlefield. Overcoming this challenge requires the left to develop new organizational and intellectual tools and adopt a clear digital vision. Artificial intelligence is not a threat in itself, but its monopolization by capitalist powers reinforces exploitation. The task is to transform technology into a tool of liberation that serves justice, equality, democracy, and socialist transformation.
 
 The struggle for socialist liberation in the 21st century cannot rely on the tools of the previous century. In a time when algorithms dominate, public consciousness is managed through artificial intelligence, and policies and visions are shaped by big data, the left faces a fundamental question: how can movements still organized with traditional logic and outdated field tools confront a digitally advanced capitalism that has reached unprecedented technological levels?

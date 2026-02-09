@@ -7,8 +7,6 @@ tags:
   - theory
 ---
 
-## **Paul Goodman**
-
 ## **The Black Flag of Anarchism**
 
 ## **July 14, 1968**

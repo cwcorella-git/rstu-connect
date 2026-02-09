@@ -8,14 +8,6 @@ tags:
   - organizing
 ---
 
-## **"The Rank and File Strategy": A Syndicalist View - Tom Wetzel**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/rank-and-file-strategy-syndicalist-view-tom-wetzel
-
-**Tags:** United States, unions, syndicalism, Tom Wetzel, Workers Solidarity Alliance, Kim Moody, Black
-
 ## Rose Anarchist Federation
 
 Veteran activist and writer Tom Wetzel enters the wide ranging debate on the left around the "rank and file strategy" orientation to the labor movement. This piece is based on material in his forthcoming book from AK Press, Overcoming Capitalism, and wasfirst published by the Black Rose Anarchist Federation.

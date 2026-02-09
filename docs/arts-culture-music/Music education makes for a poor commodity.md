@@ -7,14 +7,6 @@ tags:
   - education
 ---
 
-## **Music education makes for a poor commodity**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/music-education-makes-poor-commodity
-
-**Tags:** education, privatisation, students, music, Mark Fisher, Soapy
-
 The privatization of music education has turned it into a commodity, and with students becoming increasingly addicted to instant stimulation and gratification, a pretty bad one
 
 When I first started teaching piano lessons I decided to ask my 7-13 year old students to practice 15 minutes 3 times a week. At the time I worried that my demands were so low that I sounded ridiculous to parents. Since then, each week I whip out, polish, and refine my "why didn't you practice" speech for the 50+% of my students who either couldn't do all 3 practice sessions or didn't do any practice period.

@@ -12,12 +12,6 @@ tags:
 
 ## **Class War 15/2023: The Voice of Wrath is being heard from Iran**
 
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/class-war-152023-voice-wrath-being-heard-iran
-
-**Tags:** Class War Group, Iran protests 2022, Russia-Ukraine war, anarchism
-
 The Voice of Wrath is being heard from Iran Against Capital – Anticapitalist Workers' Tribune Ukraine – What's new in "anarchism"?
 
 Once again, the eyes of the communist militants all around the world have turned towards Iran, as a battleground of the gigantic proletarian upheaval, another one in the series of class confrontations that had shaken Iran and the surrounding region in the last decade.

@@ -9,12 +9,6 @@ tags:
   - France
 ---
 
-## **From Minneapolis to France, F\*ck the Police!: The Revolt Spreads from the US to Paris and Beyond**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/minneapolis-france-fck-police-revolt-spreads-us-paris-and-beyond**Tags:** Crimeth Inc., riots, France, Black Lives Matter movement, racism, police, George Floyd protests
-
 Crimethinc report from France on the mass mobilisations demanding justice for Adama Traoré and showing solidarity with the US uprising.
 
 As we explored in a previous analysis, theCOVID-19 pandemicabruptly interrupted social and political unrest worldwide, from Chileto Hong Kong. The situation took a grim turn as governments worldwide seized the opportunity to experiment with new authoritarian strategies of control. France hurried into this alongside Greeceand Italy.

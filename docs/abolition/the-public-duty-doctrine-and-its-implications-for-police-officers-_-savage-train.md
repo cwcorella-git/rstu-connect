@@ -9,14 +9,10 @@ tags:
   - prisons
 ---
 
-# The Public Duty Doctrine and Its Implications For Police Officers Savage Train
-
 The Public Duty Doctrine and Its Implications for Police ... about:reader?url=https%3A%2F%2Fsavagetraininggro...
 
 ## savagetraininggroup.com
 
-## The Public Duty Doctrine and Its
-## Implications for Police Officers
 ## Scott Savage
 
 ## 5–6 minutes

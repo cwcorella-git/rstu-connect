@@ -14,15 +14,7 @@ tags:
   - police
 ---
 
-## **Ending the cycle of violence: the youth-led bike movements of London challenging gang culture today**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/ending-cycle-violence-youth-led-bike-movements-london-challenging
-
 -gang-culture-today
-
-**Tags:** crime, racism, London, youth, United Kingdom, welfare, Rosa Soros, police
 
 A look at the recent surge in levels of gang related violence and deaths of young people in working class, BME areas of London , and the youth-led movements growing in response to it.
 

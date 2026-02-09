@@ -9,8 +9,6 @@ tags:
 
 ## **Annwen**
 
-# **Herbal Abortion a woman's d.i.y. guide**
-
 ## **2002**
 
 ## **Introduction**

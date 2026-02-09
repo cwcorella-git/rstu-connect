@@ -6,10 +6,6 @@ tags:
   - police
 ---
 
-#### [theconversation.com](https://theconversation.com/the-racist-roots-of-american-policing-from-slave-patrols-to-traffic-stops-112816)
-
-# **The racist roots of American policing: From slave patrols to traffic stops**
-
 ## Connie Hassett-Walker
 
 7–9 minutes

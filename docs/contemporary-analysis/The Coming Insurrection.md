@@ -7,8 +7,6 @@ tags:
   - current-events
 ---
 
-# **comité invisible**
-
 # **The Coming Insurrection**
 
 ### **2007**

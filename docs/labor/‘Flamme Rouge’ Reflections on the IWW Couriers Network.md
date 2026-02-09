@@ -9,12 +9,6 @@ tags:
   - workers
 ---
 
-## **'Flamme Rouge': Reflections on the IWW Couriers Network**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/flamme-rouge-reflections-iww-couriers-network**Tags:** Industrial Workers of the World (IWW), United Kingdom, couriers, gig economy
-
 A reflection on the IWW Couriers Network by one of its key organisers
 
 The Industrial Workers of the World (IWW) Couriers Network was formed in January 2018 to support precarious workers in the gig economy. The thinking behind the network was that it would be a loose structure that could unite couriers as workers without them having to formally join the IWW and pay union dues. As these workers were classed as "self-employed" and would not get the normal benefits of union membership – such as individual representation or legal support to defend employment rights – this seemed to us to be quite reasonable.

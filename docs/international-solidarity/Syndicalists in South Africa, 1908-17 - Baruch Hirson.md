@@ -9,14 +9,6 @@ tags:
   - solidarity
 ---
 
-## **Syndicalists in South Africa, 1908-17 - Baruch Hirson**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/syndicalists-south-africa-1908-17-baruch-hirson
-
-**Tags:** South Africa, unions, syndicalism, Baruch Hirson, International Socialist League, PDF
-
 Baruch Hirson, South African Trotskyist, provides some insight into the South African syndicalists of the early twentieth century recovering the history of South African left traditions ignored or caricatured in the South African Communist Party and academic accounts. Although his interest was in the Communist Party and the Trotskyists that emerged subsequently, his work also touched on the anarchist and syndicalist tradition, as this interesting paper shows.
 
 The following 1993 text by the late Baruch Hirson, South African Trotskyist, provides some insight into the South African syndicalists of the early twentieth century. A reader can quibble over the focus on Archie Crawford and Mary Fitzgerald (whose ideas were always rather mixed), as well as regret the closing in 1917 (many of the most important developments took place in the late 1910s). But credit must be given where credit is due: Hirson played an unmatched role, over many years, in recovering the history of South African left traditions ignored or caricatured in the South African Communist Party and academic accounts. Although his interest was in the Communist Party and the Trotskyists that emerged subsequently, his work also touched on the anarchist and syndicalist tradition, as this interesting paper shows.
@@ -24,8 +16,6 @@ The following 1993 text by the late Baruch Hirson, South African Trotskyist, pro
 University of London Institution of Historical Research Postgraduate SeminarCOMPARATIVE LABOUR & WORKING CLASS HISTORY
 
 Paper for discussion on 12th November [1993] at 5.0 p.m.
-
-## Baruch Hirson
 
 The early socialists in South Africa (at the turn of the 20th century) were predominantly persons who had brought their ideas of social change with them from Europe. There were (Jewish) Bundists from Russia, social democrats and anarchists from Britain and the European continent, and others from as far afield as New Zealand,1and Australia. The transmission from 'foreign' socialist circles to wider local groups inside South Africa does not seem to have been explored in any depth and there are few available memoirs (or other documents) in which the work of early socialist groups are discussed. When, eventually, indigenous socialist groupings emerged in the major urban centres, they absorbed some members of the immigrant groups and selectively adapted aspects of their political programmes. Most of the early immigrant groups collapsed with the demise of their early members, and only the Jewish groups, fed by continued immigration from eastern Europe survived. The prominence of such Jewish group in the post WWI period led to the formation of Yiddish speaking branches of existing groups like International Socialist League(ISL). They established theatres and cultural clubs and spoke Yiddish at both internal and public meetings.2
 

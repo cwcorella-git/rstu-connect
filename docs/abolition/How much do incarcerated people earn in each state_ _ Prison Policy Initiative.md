@@ -10,8 +10,6 @@ tags:
 
 [prisonpolicy.org](https://www.prisonpolicy.org/blog/2017/04/10/wages/)
 
-## **How much do incarcerated people earn in each state?**
-
 ## Prison Policy Initiative
 
 8–10 minutes

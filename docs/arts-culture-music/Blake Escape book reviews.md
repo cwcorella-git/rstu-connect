@@ -15,14 +15,6 @@ tags:
   - michael
 ---
 
-## **Blake Escape: book reviews**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/blake-escape-book-reviews
-
-**Tags:** Solidarity, 1960s, 1990s, prisons, Cold War, book reviews, George Blake, Pat Pottle, Michael
-
 ## Randle
 
 Reviews of books by Geroge Blake and the two libertarian activists who helped him to escape from prison in 1966.

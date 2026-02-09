@@ -9,8 +9,6 @@ tags:
 
 ## **Rudolf Rocker**
 
-# **Anarcho-syndicalism: Theory and Practice**
-
 # **An Introduction to a Subject Which the Spanish War Has Brought into Overwhelming Prominence**
 
 #### **1938**

@@ -8,13 +8,7 @@ tags:
   - alternatives
 ---
 
-## **A New Economic System for a World in Rapid Disintegration**
-
-## **Date:** Thu, 09/08/2016 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/1812
-
-**Tags:** green syndicalism, ecosocialism, social ecology, revolutionary ecology
 
 ## By C. J. Polychroniou and Lily Sage -
 

@@ -8,8 +8,6 @@ tags:
   - peace
 ---
 
-## **The Science of Revolutionary Warfare**
-
 ## Johann Most
 
 # Contents

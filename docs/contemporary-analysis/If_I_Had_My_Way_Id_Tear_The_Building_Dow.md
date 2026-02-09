@@ -9,8 +9,6 @@ tags:
 
 ## ![](_page_0_Picture_1.jpeg)
 
-## **If I Had My Way I'd Tear The Building Down: Political Economy, Regional History, and Landscape Transformations in Greater New Orleans**
-
 Journal of Urban History 1 –6 © The Author(s) 2022 Article reuse guidelines: sagepub.com/journals-permissions journals.sagepub.com/home/juh
 
 ## ![](_page_0_Picture_4.jpeg)

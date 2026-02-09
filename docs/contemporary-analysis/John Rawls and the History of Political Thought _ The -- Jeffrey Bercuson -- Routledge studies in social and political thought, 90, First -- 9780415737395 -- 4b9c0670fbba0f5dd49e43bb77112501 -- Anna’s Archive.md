@@ -9,8 +9,6 @@ tags:
   - history
 ---
 
-# John Rawls and the History of Political Thought
-
 The Rousseauvian and Hegelian Heritage of Justice as Fairness
 
 ## Jeffrey Bercuson

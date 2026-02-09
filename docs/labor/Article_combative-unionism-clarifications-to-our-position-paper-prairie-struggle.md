@@ -9,9 +9,6 @@ tags:
   - workers
 ---
 
-# Combative Unionism Clarifications To Our Position Paper Prairie Struggle
-
-Combative Unionism: Clarifications to our position paper - Prairie Struggle Date: Unknown Source: https://libcom.org/article/combative-unionism-clarifications-our-position-paper-prairie-struggle Tags: organisation, unions, syndicalism, Prairie Struggle
 Shortly after the release of our position paper on “combative unionism” which sparked much criticism and legitimate questioning, members of Prairie Struggle set about reviewing the critiques and debating the position paper and its legitimacy. Though the process of creating this position paper entailed much debate and thought, the process is a continu- ous one.
 The sentiment that theory and prac- tice is always evolving to better adapt to its conditions is one all members of Prairie Struggle share. It is in this spirit that most if not all critics and questions where received; with enthusiasm, as we feel that the question of involvement within the labour movement and its labour organizations is one that is too often dis- missed by a broad bass within the anarchist movement.
 Though many of the debates surrounding the paper developed online and face to face, we were very grateful that one of our comrades, Klas Batalo, took the time to critique and review the document. Klas Batalo illustrates in great detail many elements that are confusing and perhaps wrong about the paper. Though we feel that much of the confusing elements can be explained due in part to geographic reasons, we also feel that that Klas Batalo’s review serves as a good review for us to clarify our positions in this paper. This is the reason why we will be using Klas Batalo’s review as a starting point to the debates surrounding the paper. You can also find attached in full Klas Batalo’s review.

@@ -8,8 +8,6 @@ tags:
 
 ## ![](_page_0_Picture_0.jpeg)
 
-# BRIEF HISTORY EQUALITY THOMAS PIKETTY
-
 ## Author of the *New York Times* Bestsellers
 
 Capital and Ideology and Capital in the Twenty-First Century

@@ -9,10 +9,7 @@ tags:
   - workers
 ---
 
-# Green Unionism Against Precarity
-
-Green Unionism against Precarity Date: Sat, 01/01/2022 - 23:00 Source: https://ecology.iww.org/node/4639 Tags: green unionism, green syndicalism, ecosocialism, Porto Marghera Workerist Group, Lucas Plan, green bans, Green New Deal (GND), Robert Pollin, Political Economy Research Institute (PERI), climate change
-
+Porto Marghera Workerist Group, Lucas Plan, green bans, Green New Deal (GND), Robert Pollin, Political Economy Research Institute (PERI), climate change
 ## By That Green Union Guy -
 
 ## IWW Environmental Union Caucus

@@ -9,13 +9,7 @@ tags:
   - climate
 ---
 
-## **Green Syndicalism in the Arctic**
-
-## **Date:** Sat, 03/20/2021 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/4213
-
-**Tags:** green syndicalism, Canada, Alaska, Yukon Territory, Nunavut, British Columbia, Black,
 
 Indigenous, and People of Color (BIPOC), indigenous, green unionism, green bans
 

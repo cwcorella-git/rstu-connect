@@ -9,8 +9,6 @@ tags:
 
 ## [blog.brockh.at](https://blog.brockh.at/2025/09/24/stop-using-discord-for-community/)
 
-## **Stop Using Discord for Community – Brock's Blog**
-
 ## by Brock
 
 2–3 minutes

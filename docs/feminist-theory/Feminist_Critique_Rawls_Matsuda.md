@@ -13,8 +13,6 @@ tags:
 
 ## Summer 1986
 
-## Liberal Jurisprudence and Abstracted Visions of Human Nature: A Feminist Critique of Rawls' Theory of Justice
-
 ## Mari J. Matsuda
 
 ## Recommended Citation

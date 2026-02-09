@@ -11,14 +11,6 @@ tags:
   - pdf
 ---
 
-## **Fascism's tightening grip in the So Cal desert**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/fascisms-tightening-grip-socal-desert
-
-**Tags:** Burt Lancaster, California, anti-fascism, police, PDF
-
 A report on recent developments in far right radicalisation and the entrenchment of the surveillance state in California.
 
 Tucked away in the sand, surrounded by luscious mountains and rolling hills of all sizes holding the earth with their Stoney fingers, under the ocean of blue sky, is Coachella Valley. World famous Palm Springs with all its history of a multitude of Hollywood celebrities, U. S. presidents, secretive and not so secret international meetings, the legacy of Modernism architecture, pro-LGBTQ+ acceptance with caveats, and more, including a history of racist progroms against Black people that have long made the city home, is the first landmark of this place. The Festivals of Coachella Fest and Stagecoache, the two next most well known to people who may have never heard a word or seen a sight of this valley. However, beyond these, beyond the obscene wealth of a city like Indian Wells, sits cities far less known in the dusty desert, and to the wider world, yet just as important.

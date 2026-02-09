@@ -9,14 +9,6 @@ tags:
   - workers
 ---
 
-## **History of a workers' revolution in Catalonia - Raymond S. Solomon**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/history-workers-revolution-catalonia-raymond-s-solomon
-
-**Tags:** Raymond S. Solomon, Spanish civil war, Confederación Nacional del Trabajo (CNT), Federación
-
 Anarquista Ibérica (FAI), anarchism, anarcho-syndicalism
 
 An article by Raymond S. Solomon about the Spanish Revolution of 1936. Originally appeared in the Industrial Worker(May 2014).

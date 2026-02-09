@@ -9,19 +9,11 @@ tags:
   - United Kingdom
 ---
 
-## **Bristol IWW affiliates with Earth Strike UK**
-
-## **Date:** Wed, 03/30/2022 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/4913
-
-**Tags:** Bristol IWW, Industrial Workers of the World (IWW), IWW Environmental Unionism Caucus, green syndicalism, green unionism, green bans, Earth Strike, climate change, climate justice, United
 
 ## Kingdom (UK)
 
 ## By staff -
-
-## Earth Strike UK
 
 ## , March 30, 2022
 

@@ -10,8 +10,6 @@ tags:
 
 # Emma Goldman
 
-# Anarchism and Other Essays
-
 #### 1910
 
 ## Biographical Sketch

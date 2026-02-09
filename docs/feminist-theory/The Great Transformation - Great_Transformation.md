@@ -8,8 +8,6 @@ tags:
   - feminism
 ---
 
-## Karl Polanyi
-
 ## The C^reat Transformation
 
 ## The Political and Economic Origins of Our Time

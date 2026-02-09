@@ -10,8 +10,6 @@ tags:
 
 # **Kevin Carson**
 
-# **Studies in Mutualist Political Economy**
-
 ## **March 2007**
 
 #### **Preface**

@@ -11,7 +11,6 @@ tags:
   - labor
   - political-economy
 ---
-# Protection or Free Trade
 
 **An Examination of the Tariff Question, with Especial Regard to the Interests of Labor**
 

@@ -14,8 +14,6 @@ tags:
 
 ## ![](_page_1_Picture_3.jpeg)
 
-# WORK IN PROGRESS
-
 # MAKING ALICE ASY LUM A R EALIT Y. THE STORY SO FAR.
 
 ## ![](_page_1_Picture_9.jpeg)

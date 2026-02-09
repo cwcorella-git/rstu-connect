@@ -8,13 +8,7 @@ tags:
   - feminism
 ---
 
-# **妇女的位置 (The Place of Women)**
-
 ## **Author:** Selma James
-
-**Source:** https://libcom.org/article/funudeweizhi
-
-**Tags:** Selma James, United States, feminism, housework, 世界之窗
 
 ## 关于美国二战后无产阶级家庭主妇的集体反抗、女权意识初步形成的反思。马克思主义女权理 论的经典作品。
 

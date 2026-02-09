@@ -7,14 +7,6 @@ tags:
   - theory
 ---
 
-# **Eleven blind leaders or "practical socialism" and "revolutionary tactics" from an I. W. W.standpoint – B. H. Williams**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/eleven-blind-leaders-or-practical-socialism-and-revolutionary-tactics-iwwstandpoint-bh
-
-**Tags:** Industrial Workers of the World (IWW), syndicalism, reformism, Socialist Party of America, B. H. Williams, revolutionary unionism
-
 This is a pamphlet from the IWW Publishing Bureau in 1910 about intellectual Socialist Party leaders with their "practical socialism" advocating co-operatives, government ownership, and reformism, and the revolutionary tactics of the IWW. It argues that the working class must organise industrially to bring about revolution rather than expect a revolution to come about through the capitalist state.
 
 "INTELLECTUALS" AND WORKERS IN THEPARIS COMMUNE.

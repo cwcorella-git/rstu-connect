@@ -9,8 +9,6 @@ tags:
   - workers
 ---
 
-# The Sociology of Emotional Labor **Source**: ./The_Sociology_of_Emotional_Labor.pdf ## Content See discussions, stats, and author profiles for this publication at: The Sociology of Emotional Labor Article in Annual Review of Sociology · August 2009 DOI: 10.1146/annurev-soc-070308-115944 CITATIONS READS 663 43,598 1 author: Amy S. Wharton Washington State University 50 PUBLICATIONS 4,568 CITATIONS SEE PROFILE All content following this page was uploaded by Amy S. Wharton on 07 August 2014. The user has requested enhancement of the downloaded file.  -- ## Page 2
-
 , a ref- formulated in The Managed Heart, I discuss two erence to how people actively shape and di- broad thematic areas of research that account rect their feelings, and a recognition that social for most of the literature on this topic. These in- structure and institutions impose constraints on clude studies of interactive work and individual- these efforts. Hochschild uses the term “feel- level research on expressed emotions and ing rules” to describe societal norms about the emotion management. My discussion of these appropriate type and amount of feeling that 148 Wharton  -- ## Page 4
 
 , of control between workers, customers, and 150 Wharton  -- ## Page 6

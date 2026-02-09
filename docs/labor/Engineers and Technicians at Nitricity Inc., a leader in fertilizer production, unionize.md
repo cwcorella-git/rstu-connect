@@ -9,13 +9,7 @@ tags:
   - workers
 ---
 
-## **Engineers and Technicians at Nitricity Inc., a leader in fertilizer production, unionize**
-
-## **Date:** Sat, 04/30/2022 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/4970
-
-**Tags:** Nitricity, Industrial Workers of the World (IWW), Bay Area IWW, agricultural workers and peasants, fertilizer, green unionism
 
 ## By Max Baru -
 

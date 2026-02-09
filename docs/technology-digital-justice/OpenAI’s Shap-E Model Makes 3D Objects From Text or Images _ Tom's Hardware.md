@@ -8,8 +8,6 @@ tags:
 
 ## [tomshardware.com](https://www.tomshardware.com/news/openai-shap-e-creates-3d-models)
 
-## **OpenAI's Shap-E Model Makes 3D Objects From Text or Images**
-
 ## *Avram Piltch*
 
 10–13 minutes

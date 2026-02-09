@@ -9,13 +9,7 @@ tags:
   - fossil fuels
 ---
 
-## **IWW Stands in Solidarity with Resistance to Dakota Access Pipeline**
-
-## **Date:** Thu, 09/08/2016 - 10:43
-
 ## **Source:** https://ecology.iww.org/node/1781
-
-**Tags:** Industrial Workers of the World (IWW), IWW Environmental Unionism Caucus, green unionism, green syndicalism, indigenous, Dakota Access Pipeline (DAPL), pipelines, NoDAPL
 
 By the elected delegates to the 2016 IWW Convention -
 

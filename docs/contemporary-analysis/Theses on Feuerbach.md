@@ -7,8 +7,6 @@ tags:
   - current-events
 ---
 
-## **Theses On Feuerbach**
-
 ## **[Download PDF](https://www.marxists.org/archive/marx/works/1845/theses/theses.pdf)**
 
 **Written:** by Marx in the Spring of 1845, but slightly edited by
@@ -18,8 +16,6 @@ Engels;
 **First Published:** As an appendix to [Ludwig Feuerbach and the End](https://www.marxists.org/archive/marx/works/1886/ludwig-feuerbach/index.htm)
 
 [of Classical German Philosophy](https://www.marxists.org/archive/marx/works/1886/ludwig-feuerbach/index.htm) in 1888;
-
-**Source:** Marx/Engels Selected Works, Volume One, p. 13 – 15. Note that this version differs from the version of Engels' edition published in MECW Volume 5, pp. 6-8;
 
 **Publisher:** Progress Publishers, Moscow, USSR, 1969;
 

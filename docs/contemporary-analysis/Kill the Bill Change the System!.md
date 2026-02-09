@@ -9,14 +9,6 @@ tags:
   - communist-workers
 ---
 
-## **Kill the Bill? Change the System!**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/kill-bill-change-system
-
-**Tags:** Internationalist Communist Tendency, repression, United Kingdom, Communist Workers'
-
 ## Organisation (CWO), police
 
 Leaflet distributed by the CWO at various Kill the Bill protests happening around the UK.

@@ -8,8 +8,6 @@ tags:
   - climate
 ---
 
-# **Inside The Green Economy: Promises And Pitfalls In 9 Theses**
-
 | Date: Wed, 07/20/2016 - 17:12 |
 |----------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/1716|

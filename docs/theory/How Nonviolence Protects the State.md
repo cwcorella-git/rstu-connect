@@ -10,8 +10,6 @@ tags:
 
 ## **Peter Gelderloos**
 
-# **How Nonviolence Protects the State**
-
 #### **2007**
 
 **Introduction Nonviolence is Ineffective Nonviolence is Racist Nonviolence is Statist Nonviolence is Patriarchal Nonviolence is Tactically and Strategically Inferior Nonviolence is Deluded The Alternative: Possibilities for Revolutionary Activism**

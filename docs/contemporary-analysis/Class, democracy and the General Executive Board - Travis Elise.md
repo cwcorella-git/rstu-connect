@@ -8,12 +8,6 @@ tags:
   - class
 ---
 
-## **Class, democracy and the General Executive Board - Travis Elise**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/class-democracy-and-general-executive-board-travis-elise**Tags:** Travis Elise, Industrial Workers of the World (IWW), Wobblies For A Revolutionary Union
-
 ## Movement, organisation
 
 A piece by Travis Elise arguing that the North American IWW's General Executive Board structure is undemocratic and proposing an organizational restructuring.

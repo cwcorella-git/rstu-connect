@@ -10,8 +10,6 @@ tags:
 
 ### CHAPTER 18
 
-# **Understanding Emotion**
-
 ## ![](_page_0_Picture_2.jpeg)
 
 ### Paul L. Harris

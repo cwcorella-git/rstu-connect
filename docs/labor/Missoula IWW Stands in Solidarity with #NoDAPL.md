@@ -8,13 +8,7 @@ tags:
   - solidarity
 ---
 
-## **Missoula IWW Stands in Solidarity with #NoDAPL**
-
-## **Date:** Tue, 09/06/2016 - 22:53
-
 ## **Source:** https://ecology.iww.org/node/1775
-
-**Tags:** green unionism, green syndicalism, NoDAPL, Missoula IWW
 
 By Erica Johnson, Branch Secretary, Davis Ritsema, Branch Treasurer, C. W. Copeland, Branch Delegate - Missoula IWW, September 6, 2016
 

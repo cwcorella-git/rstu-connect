@@ -8,13 +8,7 @@ tags:
   - digital rights
 ---
 
-## **Airport expansion is a racist policy**
-
-## **Date:** Tue, 11/22/2016 - 18:21
-
 ## **Source:** https://ecology.iww.org/node/1926
-
-**Tags:** Plane Stupid, Black Lives Matter, Heathrow, climate justice, direct action, green unionism,
 
 Industrial Workers of the World (IWW), United Kingdom (UK)
 

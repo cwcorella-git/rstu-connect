@@ -9,13 +9,7 @@ tags:
   - william-benbow
 ---
 
-## **Grand National Holiday, and Congress of the Productive Classes: William Benbow**
-
-## **Date:** Unknown
-
 ## **Source:**
-**Tags:** general strikes, 1800s, 1830s, William Benbow
-
 Published in 1832 this pamphlet is possibly the earliest published advocacy for a general strike as a means for dismantling inequality and the oppression of the ruling class. Self published by William Benbow an unconventional preacher and 19th century radical, the "Sacred Month" was adopted by the Chartists in 1839though Benbow was arrested before it started.
 
 "Go to now, ye rich men, weep and howl... Behold, the hire of the labourers who have reaped down your fields, which is of you kept back by fraud, crieth; and the cries of them which have reaped are entered into the ears of the Lord of Sabaoth. Ye have condemned and killed the just; and they do not resist you." JAMES, c.v.

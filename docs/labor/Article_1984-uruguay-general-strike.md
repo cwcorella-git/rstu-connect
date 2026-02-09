@@ -8,9 +8,6 @@ tags:
   - strikes
 ---
 
-# 1984 Uruguay General Strike
-
-1984: Uruguay General Strike Date: Unknown Source: https://libcom.org/article/1984-uruguay-general-strike Tags: general strikes, Uruguay, Meghan Auker Becker, PDF
 In 1984 a series of on day General Strikes paralysed the country and forced the ruling Junta to give up power and restore civilian rule.
 Uruguayans general strike against the military government, 1984
 Before 1973, Uruguay had been one of few countries in South America with a near perfect record of political stability and a strong democracy (others included Chile and Costa Rica). The military coup in 1973 came as a profound shock to Uruguay. To make matters worse, this once peaceful nation was now living under a regime that used fear, threat, and intimidation to keep control of its populace. Many people were arrested and jailed as political prisoners, people “disappeared” or were tortured, political parties were banned, parliament closed, trade unions repressed, income concentrated, and the media censored. General Gregorio Conrado Álvarez served both as the head of the armed forces and as the self-proclaimed president.

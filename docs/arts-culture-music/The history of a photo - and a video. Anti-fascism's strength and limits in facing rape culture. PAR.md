@@ -7,14 +7,6 @@ tags:
   - antifascism
 ---
 
-## **The history of a photo - and a video. Anti-fascism's strength and limits in facing rape culture. PART 2**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/history-photo-and-video-anti-fascisms-strength-and-limits-facing-rape-culture-part-2
-
-**Tags:** fascism, Italy, feminism, sexual violence, Nicoletta Bourbaki
-
 An analysis of how rape culture permeates yesterday and today's right-wing narrative, and of how anti-fascism sometimes failed to face it, with violent consequences. Part 2 of an article by the Nicoletta Bourbaki collective, published on Wu Ming's website.
 
 To read the first part of this piece, seehere.

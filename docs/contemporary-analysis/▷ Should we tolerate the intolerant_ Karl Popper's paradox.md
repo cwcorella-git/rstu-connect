@@ -9,8 +9,6 @@ tags:
 
 #### [psychology-spot.com](https://psychology-spot.com/karl-popper-paradox-tolerate-intolerance/)
 
-# **Should we tolerate the intolerant? Karl Popper's paradox**
-
 ## Jennifer Delgado
 
 7–9 minutes

@@ -12,14 +12,6 @@ tags:
   - kurdistan
 ---
 
-## **The Iraqi Left Ahead of the 2025 Elections: Between Unity and Renewal**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/iraqi-left-ahead-2025-elections-between-unity-and-renewal
-
-**Tags:** Rezgar Akrawi, ■■■■■ ■■■■■■, leftist unity, elections, Iraqi Communist Party, Kurdistan
-
 Communist Party, Worker-Communist Party, socialism, democracy, progressive politics
 
 The article analyzes the Iraqi left's stance ahead of the 2025 elections, emphasizing the need to unite traditional and digital forms of struggle. It supports participation in elections as a legitimate arena of class and political struggle, highlighting the importance of internal democracy through referendums and collective decision-making. It praises the Iraqi and Kurdistan Communist Parties for engaging electorally, and the Worker-Communist Parties for their evolving, pragmatic approach. The text calls for a unified leftist list across Iraq, stressing that unity and renewal are essential for countering sectarianism, corruption, and neoliberal domination, and for rebuilding Iraq on foundations of justice, equality, and socialism.

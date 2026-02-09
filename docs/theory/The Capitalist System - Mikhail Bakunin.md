@@ -8,8 +8,6 @@ tags:
   - Bakunin
 ---
 
-## THE CAPITALIST SYSTEM
-
 ## by Michael Bakunin
 
 This pamphlet is an excerpt from The Knouto-Germanic Empire and the Social Revolution and included in The Complete Works of Michael Bakunin under the title "Fragment." Parts of the text were originally translated into English by G. P. Maximoff for his anthology of Bakunin's writings, with missing paragraphs translated by Jeff Stein from the Spanish edition, Diego Abad de Santillan, trans. (Buenos Aires 1926) vol. III, pp. 181-196.

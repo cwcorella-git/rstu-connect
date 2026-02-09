@@ -8,13 +8,7 @@ tags:
   - democracy
 ---
 
-## **Restoring the Heartland and Rustbelt through Clean Energy Democracy: an Organizing Proposal**
-
-## **Date:** Sat, 04/29/2017 - 17:27
-
 ## **Source:** https://ecology.iww.org/node/2220
-
-**Tags:** just transition, green unionism, energy democracy, jobs versus environment, green jobs, green syndicalism, Donald Trump, Democratic Party, Resistance, climate justice
 
 ## By That Green Union Guy -
 

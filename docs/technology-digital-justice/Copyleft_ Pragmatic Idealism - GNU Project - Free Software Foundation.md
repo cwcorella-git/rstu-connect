@@ -10,8 +10,6 @@ tags:
 
 [gnu.org](https://www.gnu.org/philosophy/pragmatic.html)
 
-## **Copyleft: Pragmatic Idealism - GNU Project**
-
 ## by Richard Stallman
 
 7–8 minutes

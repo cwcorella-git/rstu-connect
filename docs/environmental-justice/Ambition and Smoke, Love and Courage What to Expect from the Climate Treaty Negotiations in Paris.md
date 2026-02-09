@@ -8,8 +8,6 @@ tags:
   - France
 ---
 
-## **Ambition and Smoke, Love and Courage: What to Expect from the Climate Treaty Negotiations in Paris**
-
 | Date: Sat, 11/28/2015 - 17:50 |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/1405|

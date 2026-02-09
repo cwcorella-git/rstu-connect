@@ -9,8 +9,6 @@ tags:
 
 ## **Charlotte Wilson**
 
-# **Anarchism and Outrage**
-
 ### **December, 1893**
 
 *I — Is homicidal outrage the logical outcome of Anarchist\\* convictions II —Though Anarchist principles do not in themselves logically lead to the commission of homicidal outrages, do they practically drive the active Anarchist into this course by closing other means of action?*

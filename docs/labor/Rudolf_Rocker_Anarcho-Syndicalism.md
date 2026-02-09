@@ -10,8 +10,6 @@ tags:
 
 ## RUDOLF ROCKER
 
-# anarchosyndicalism
-
 ## preface by NOAM CHOMSKY
 
 ## introduction by Nicolas Walter

@@ -14,14 +14,6 @@ tags:
   - chinese
 ---
 
-## **The Chinese revolution 1925-1927**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/chinese-revolution-1925-1927
-
-**Tags:** nationalism, revolutions, strikes, general strikes, uprisings, China, state socialism, Chinese
-
 ## Revolution, Hong Kong, Shanghai
 
 A short account of the mass struggles in China from 1925 up to the Shanghai insurrection of 1927 and its crushing by the nationalist forces of Chiang Kai-shek. Chiang Kai-Shek's Kuomintang was supported by the USSR, and was in a united front with the Chinese Communist Party up until the point of the massacre.

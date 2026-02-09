@@ -8,14 +8,6 @@ tags:
   - digital rights
 ---
 
-## **Haitians overthrow regime, 1984-1986**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/haitians-overthrow-regime-1984-1986
-
-**Tags:** education, general strikes, students, Haiti, Alison Roseberry-Polier, PDF
-
 Article on the two year long campaign of demonstrations and strikes that toppled the Dictatorship of Jean Claude "Baby Doc" Duvalier.
 
 In 1957, Haitian elections put Francois "Papa Doc" Duvalier in power as "president-for-life." When he died in 1971, his son, Jean-Claude "Baby Doc" Duvalier took over. There were no elections during either regime, and both presidents used force to keep the populace subservient. Papa Doc was dependent on his secret police, the Ton-Ton Macoutes (Haitian Creole for Bogeymen), to use violence against the people. Although Baby Doc formally disbanded the Macoutes, the group continued throughout his regime as the Volunteers for National Security, and maintained the same violent presence. Haiti was the poorest country in the Western Hemisphere, with widespread problems of starvation and rampant unemployment.

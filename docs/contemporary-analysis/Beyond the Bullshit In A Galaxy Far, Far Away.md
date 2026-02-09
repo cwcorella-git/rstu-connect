@@ -8,12 +8,6 @@ tags:
   - libcom
 ---
 
-## **Beyond the Bullshit: In A Galaxy Far, Far Away...**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/beyond-bullshit-galaxy-far-far-away
-
 ## **Tags:** Class War Federation, United Kingdom
 
 The back page of Class War Issue 73, looking at the future beyond the dissolution of the Class War Federation

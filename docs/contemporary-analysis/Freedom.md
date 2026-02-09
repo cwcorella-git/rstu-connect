@@ -8,8 +8,6 @@ tags:
 
 ## **Alex Prichard**
 
-# **Freedom**
-
 ## **2019**
 
 Abstract Introduction The Philosophical Context of Anarchist Accounts of Freedom Freedom From Freedom To Freedom In or Freedom With? Anarchism and the Question of Institutions Against Empowerment, Autonomy and Independence Conclusions

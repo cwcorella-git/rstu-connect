@@ -13,10 +13,6 @@ The problem is not police training, police diversity, or police methods. The pro
 
 ## Alex S. Vitale
 
-### The End of Policing
-
-# The End of Policing
-
 ## Alex S. Vitale
 
 ## ![](_page_2_Picture_2.jpeg)

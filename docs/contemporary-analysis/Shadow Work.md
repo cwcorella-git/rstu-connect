@@ -8,8 +8,6 @@ tags:
   - current-events
 ---
 
-# **Ivan Illich**
-
 # **Shadow Work**
 
 ### **1981**

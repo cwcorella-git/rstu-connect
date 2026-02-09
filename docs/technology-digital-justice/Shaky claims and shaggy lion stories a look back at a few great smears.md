@@ -8,12 +8,6 @@ tags:
   - digital rights
 ---
 
-## **Shaky claims and shaggy lion stories: a look back at a few great smears**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/shaky-claims-and-shaggy-lion-stories-look-back-few-great-smears
-
 ## **Tags:** repression, mainstream media, police
 
 A review of a few particularly memorable inventions from the imagination of police, media, and far-right trolls.

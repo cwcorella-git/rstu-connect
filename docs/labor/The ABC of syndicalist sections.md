@@ -10,14 +10,6 @@ tags:
   - workers
 ---
 
-## **The ABC of syndicalist sections**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/abc-syndicalist-sections
-
-**Tags:** Rasmus Hästbacka, syndicalism, anarcho-syndicalism, SAC, Sweden
-
 Article written for workers new to on-the-job organizing. Translated from the Swedish magazine Syndikalisten. Also published on Znetwork. The English version (below) contains more examples of successful syndicalist sections. It also sheds more light on the so-called dual function of sections. The author is a member of the Swedish syndicalist unionSAC.
 
 ## Illustration: Fanny Hökby

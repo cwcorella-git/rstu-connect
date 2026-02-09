@@ -9,15 +9,9 @@ tags:
   - wikipedia
 ---
 
-#### [en.wikipedia.org](https://en.wikipedia.org/wiki/Sherman_Antitrust_Act)
-
-# **Sherman Antitrust Act**
-
 ## Contributors to Wikimedia projects
 
 50–64 minutes
-
-#### Sherman Antitrust Act
 
 ## ![](_page_0_Picture_7.jpeg)
 

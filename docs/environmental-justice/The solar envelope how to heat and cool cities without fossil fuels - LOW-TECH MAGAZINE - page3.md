@@ -9,8 +9,6 @@ tags:
 
 #### [lowtechmagazine.com](https://www.lowtechmagazine.com/2012/03/solar-oriented-cities-3-housing-density.html)
 
-# The solar envelope: how to heat and cool cities without fossil fuels
-
 11-14 minutes
 
 [1](https://www.lowtechmagazine.com/2012/03/solar-oriented-cities-1-the-solar-envelope.html) / [2](https://www.lowtechmagazine.com/2012/03/solar-oriented-cities-2-solar-access-in-19th-century-cities.html) / 3

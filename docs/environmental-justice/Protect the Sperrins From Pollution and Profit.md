@@ -8,13 +8,7 @@ tags:
   - climate
 ---
 
-## **Protect the Sperrins From Pollution and Profit**
-
-## **Date:** Tue, 11/20/2018 - 20:55
-
 ## **Source:** https://ecology.iww.org/node/2993
-
-**Tags:** Industrial Workers of the World (IWW), Derry IWW, Ireland, mining, capital blight, green unionism
 
 ## By
 

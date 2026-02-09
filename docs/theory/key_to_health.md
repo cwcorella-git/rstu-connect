@@ -9,8 +9,6 @@ tags:
 
 ## ![](_page_0_Picture_0.jpeg)
 
-# Key To Health
-
 ## Written by: M. K. Gandhi
 
 ## Translated by: Sushila Nayar

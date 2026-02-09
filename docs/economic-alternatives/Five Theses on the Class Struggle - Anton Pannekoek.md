@@ -8,17 +8,7 @@ tags:
   - alternatives
 ---
 
-## **Five Theses on the Class Struggle - Anton Pannekoek**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/five-theses-class-struggle-anton-pannekoek
-
-**Tags:** Anton Pannekoek, class struggle, council communism
-
 Anton Pannekoek's classic manifesto against state socialism (democratic or otherwise) and for council communism, an industrial society governed by a democracy of workers' councils
-
-## I
 
 Capitalism in one century of growth has enormously increased its power, not only through expansion over the entire earth, but also through development into new forms. With it the working class has increased in power, in numbers, in concentrated mass, in organization. Its fight against capitalist exploitation, for mastery over the means of production, is also continually developing and has to develop into new forms. The development of capitalism led to concentration of power over the chief branches of production in the hands of big monopolist concerns. They are intimately connected with State power and dominate it; they control the main part of the press, they direct public opinion. Middle class democracy has proved the best camouflage of this political dominance of big capital. At the same time there is a growing tendency in most countries to use the organized power of the State in concentrating the management of the key industries in its hands, as a beginning of planned economy. In Nazi Germany, a State-directed economy united political leadership and capitalist management into one combined-exploiting class. In Russian State-capitalism, the bureaucracy is collective master over the means of production, and by dictatorial government keeps the exploited masses in submission.
 

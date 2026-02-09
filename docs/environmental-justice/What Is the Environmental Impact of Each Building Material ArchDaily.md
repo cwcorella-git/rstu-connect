@@ -8,15 +8,9 @@ tags:
   - climate
 ---
 
-#### [archdaily.com](https://www.archdaily.com/984663/what-is-the-environmental-impact-of-each-building-material)
-
-# What Is the Environmental Impact of Each Building Material?
-
 ## Written by Eduardo Souza
 
 6-8 minutes
-
-### What Is the Environmental Impact of Each Building Material?
 
 ## ![](_page_0_Figure_7.jpeg)
 

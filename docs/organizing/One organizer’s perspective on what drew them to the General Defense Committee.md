@@ -7,13 +7,7 @@ tags:
   - organizing
 ---
 
-## **One organizer's perspective on what drew them to the General Defense Committee**
-
-## **Date:** Unknown
-
 ## **Source:**
-**Tags:** x382089, General Defense Committee, Industrial Workers of the World (IWW), anti-fascism
-
 A piece by x382089, who writes approvingly of the IWW's General Defense Committee. This was written and published within the context of internal conflict in the North American IWW over the GDC's anti-fascist efforts. Originally appeared in the Industrial Worker(Summer 2017).
 
 The election of Donald Trump was a shock for me. I had visions of state power accelerating its assault against immigrants, of police violence escalating, and of anemboldened far right attacking people onthe streets.

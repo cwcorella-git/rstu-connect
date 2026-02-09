@@ -7,13 +7,7 @@ tags:
   - feminism
 ---
 
-## **Monkeywrenching the Misogynists in our Movements: A historical exploration of call-outs and anti-feminist backlash in Cascadia**
-
-## **Date:** Wed, 12/23/2015 - 18:28
-
 ## **Source:** https://ecology.iww.org/node/1448
-
-**Tags:** Earth First!, Cascadia Forest Defenders, movement politics, sexism
 
 ## By Kiera Loki Anderson -
 

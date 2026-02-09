@@ -9,12 +9,6 @@ tags:
   - libcom
 ---
 
-# **Five Houses - Dora Schemme and Barbara Rosenberg**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/five-houses-dora-schemme-and-barbara-rosenberg**Tags:** 1980s, Germany, squatting, feminism, Berlin, Dora Schemme, Barbara Rosenberg
-
 Profiles of five squatted houses in West Berlin in the early 1980s, including quotes from the female occupants.
 
 Interviews by Dora Schemme and Barbara Rosenberg. Originally published in German feminist magazine Courage(#4 April 1981): "Frauen Besetzer Hausen"

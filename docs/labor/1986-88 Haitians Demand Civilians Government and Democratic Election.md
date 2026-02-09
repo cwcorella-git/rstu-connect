@@ -10,13 +10,7 @@ tags:
   - workers
 ---
 
-## **1986-88: Haitians Demand Civilians Government and Democratic Election**
-
-## **Date:** Unknown
-
 ## **Source:**
-**Tags:** education, general strikes, students, buses, elections, Haiti, blockades, Alison Roseberry-Polier,
-
 ## PDF
 
 After the downfall of Baby Doc Duvalier Haiti was ruled by a US supported Junta. The campaign that toppled Duvalier continued to oppose the Junta and its campaign of violence and economic policies.

@@ -10,14 +10,6 @@ tags:
   - activism
 ---
 
-## **Students Lead the Militancy!**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/students-lead-militancy
-
-**Tags:** education, schools, universities, school students, Philippines, student strikes, Laya
-
 On the student strikes against the Duterte administration in the Philippines.
 
 Written by Laya.

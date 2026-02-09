@@ -9,12 +9,6 @@ tags:
   - digital rights
 ---
 
-## **Make economic democracy popular again!**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/make-economic-democracy-popular-again**Tags:** Rasmus Hästbacka, syndicalism, anarcho-syndicalism, SAC, Sweden
-
 First published in the Swedish union paper Arbetarenin 2020. Therafter published by Znetwork. The author is a member of the Swedish syndicalist unionSAC.
 
 Photo above: SAC Demonstration in Stockholm 2013 (photographer: the news agency TT).

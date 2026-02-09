@@ -9,8 +9,6 @@ tags:
   - revolution
 ---
 
-## **Evolution and Revolution**
-
 ## Elisée Reclus
 
 ## 1891

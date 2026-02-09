@@ -10,15 +10,11 @@ tags:
 
 ## Alexander Berkman
 
-# ABC of Anarchism
-
 # Freedom
 
 ## ANARCHIST CLASSICS
 
 ## ![](_page_1_Picture_0.jpeg)
-
-### A. B. C. of ANARCHISM
 
 ## ![](_page_3_Picture_0.jpeg)
 

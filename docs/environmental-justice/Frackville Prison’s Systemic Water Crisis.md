@@ -9,13 +9,7 @@ tags:
   - climate
 ---
 
-## **Frackville Prison's Systemic Water Crisis**
-
-## **Date:** Mon, 11/06/2017 - 18:34
-
 ## **Source:** https://ecology.iww.org/node/2596
-
-**Tags:** Prison Ecology Project, prison labor, IWOC, green unionism, green syndicalism, Appalachia,
 
 ## Pennsylvania, fracking
 

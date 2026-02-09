@@ -6,10 +6,6 @@ tags:
   - theory
 ---
 
-### [itsgoingdown.org](https://itsgoingdown.org/fighting-collective-amnesia-recovering-our-memory-and-staying-alert/)
-
-# **Fighting Collective Amnesia: Recovering Our Memory and Staying Alert**
-
 ## Anonymous Contributor
 
 30–38 minutes

@@ -7,13 +7,7 @@ tags:
   - labor
 ---
 
-## **Earthworkers Unite!**
-
-## **Date:** Wed, 01/17/2024 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/6209
-
-**Tags:** Industrial Workers of the World (IWW), Earthworks, green unionism, NGOs, ecological movements and organizations, Sierra Club, Food and Water Watch, League of Conservation Voters (LCV), Friends of the Earth (FOE), climate justice
 
 ## By members -
 

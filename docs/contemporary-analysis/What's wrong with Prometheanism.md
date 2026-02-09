@@ -11,14 +11,6 @@ tags:
   - philosophy
 ---
 
-# **What's wrong with Prometheanism?**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/whats-wrong-prometheanism
-
-**Tags:** Murray Bookchin, environment, technology, climate change, philosophy
-
 Simple questions of technological progress abound in metaphysical subtleties and theological niceties.
 
 In response to our introduction to Murray Bookchin's philosophy of technology, a commenter asked:

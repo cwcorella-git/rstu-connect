@@ -8,13 +8,7 @@ tags:
   - feminism
 ---
 
-## **IWW supports UCU HE action on pay, anti-casualisation and gender pay gap**
-
-## **Date:** Unknown
-
 ## **Source:**
-**Tags:** education, schools, United Kingdom, universities, Scotland, Glasgow, Edinburgh, Edinburgh
-
 ## IWW, Clydeside IWW, IWW Scotland
 
 A statement from the Scottish IWW in support of the UCU strikes across Scotland in 2016.

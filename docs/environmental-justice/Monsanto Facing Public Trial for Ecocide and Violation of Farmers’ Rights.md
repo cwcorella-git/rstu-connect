@@ -8,13 +8,7 @@ tags:
   - justice
 ---
 
-## **Monsanto Facing Public Trial for Ecocide and Violation of Farmers' Rights**
-
-## **Date:** Sun, 10/16/2016 - 14:51
-
 ## **Source:** https://ecology.iww.org/node/1859
-
-**Tags:** agribusiness, agriculture, agricultural workers and peasants, Vandana Shiva, La Via Campesina
 
 ## By Staff -
 

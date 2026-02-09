@@ -6,8 +6,6 @@ tags:
   - theory
 ---
 
-# PAULO FREIRE
-
 # PEDAGOGY of the OPPRESSED
 
 - 30TH ANNIVERSARY EDITION •

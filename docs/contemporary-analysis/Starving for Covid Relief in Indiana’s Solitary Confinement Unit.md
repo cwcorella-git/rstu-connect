@@ -7,14 +7,6 @@ tags:
   - India
 ---
 
-## **Starving for Covid Relief in Indiana's Solitary Confinement Unit**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/starving-covid-relief-indianas-solitary-confinement-unit
-
-**Tags:** United States, prisons, Indiana, Kevin 'Rashid' Johnson, food
-
 Kevin "Rashid" Johnson reports on starvation conditions in the Indiana prison system.
 
 ## WEIGHING ME DOWN

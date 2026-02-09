@@ -7,8 +7,6 @@ tags:
   - theory
 ---
 
-# **Donna Haraway**
-
 # **A Cyborg Manifesto**
 
 # **Science, Technology, and Socialist-Feminism in the Late Twentieth Century**

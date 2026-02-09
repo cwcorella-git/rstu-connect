@@ -11,8 +11,6 @@ tags:
 
 ## [en.wikipedia.org](https://en.wikipedia.org/wiki/Donald_L._Cox)
 
-## **Donald L. Cox**
-
 ## Contributors to Wikimedia projects
 
 9–11 minutes

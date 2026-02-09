@@ -8,14 +8,6 @@ tags:
   - abolition
 ---
 
-## **Prisoners Justice Day at 50: Grassroots Abolition**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/prisoners-justice-day-50-grassroots-abolition
-
-**Tags:** Jeff Shantz, prisons, Abolition, strikes, Canada, Vancouver
-
 This year marked the 50th annual Prisoners Justice Day (PJD, also Prison Justice Day) which is held every August 10. A day of solidarity among prisoners and between prisoners and people on the outside, Over the years it has been marked by work strikes, fasting, and noise demos, involving people on the inside (who drive it always) and the outside of prison walls. This article provides an overview of PJD and report on the event in Vancouver, Canada.
 
 This year marked the 50th annual Prison Justice Day (PJD, also Prisoners Justice Day) which is held every August 10. A day of solidarity among prisoners and between prisoners and people on the outside, PJD is both memorialization, a day to remember those who have died in prison, and resistance. Over the years it has been marked by work strikes, fasting, and noise demos, involving people on the inside (who drive it always) and the outside of prison walls.

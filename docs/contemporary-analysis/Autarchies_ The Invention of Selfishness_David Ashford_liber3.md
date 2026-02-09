@@ -9,8 +9,6 @@ tags:
 
 ## ![](_page_0_Picture_0.jpeg)
 
-# **Autarchies**
-
 # The Invention of Selfishness
 
 ## David Ashford

@@ -7,10 +7,6 @@ tags:
   - democracy
 ---
 
-# **Greece: The Lockdown Resumes - New Democracy and Pandemic Opportunism**
-
-## **Date:** Unknown
-
 ## **Source:**
 
 https://libcom.org/article/greece-lockdown-resumes-new-democracy-and-pandemic-opportunism**Tags:** Crimeth Inc., prisons, food service, universities, Greece, squatting, Athens, Radio Fragmata

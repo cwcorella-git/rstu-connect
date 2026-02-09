@@ -12,8 +12,6 @@ tags:
 source: "KC Tenants"
 ---
 
-# KC Tenants: A Model for 21st Century Tenant Unionism
-
 KC Tenants has emerged as one of the most successful tenant organizing efforts in the United States, winning concrete victories for members while building a model that tenant organizations nationwide are now replicating.
 
 ## Founding and Structure

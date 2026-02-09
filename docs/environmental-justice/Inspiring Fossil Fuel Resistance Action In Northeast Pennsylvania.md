@@ -9,13 +9,7 @@ tags:
   - climate
 ---
 
-## **Inspiring Fossil Fuel Resistance Action In Northeast Pennsylvania**
-
-## **Date:** Mon, 02/08/2016 - 21:16
-
 ## **Source:** https://ecology.iww.org/node/1493
-
-**Tags:** Alex Lotorto, Energy Justice Network, Constitution Pipeline, fracking, green unionism, pipelines,
 
 Industrial Workers of the World (IWW), IWW Environmental Unionism Caucus
 

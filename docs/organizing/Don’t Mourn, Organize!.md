@@ -7,13 +7,7 @@ tags:
   - organizing
 ---
 
-## **Don't Mourn, Organize!**
-
-## **Date:** Tue, 11/15/2016 - 16:38
-
 ## **Source:** https://ecology.iww.org/node/1911
-
-**Tags:** Anne Petermann, Global Justice Ecology Project, Donald Trump, movement politics, anti-fascism
 
 ## By Anne Petermann, Executive Director -
 

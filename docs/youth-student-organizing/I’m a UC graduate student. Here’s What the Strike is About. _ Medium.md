@@ -7,10 +7,6 @@ tags:
   - education
 ---
 
-#### [medium.com](https://medium.com/@re. Marx/im-a-uc-graduate-student-here-s-what-the-strike-is-about-4ad250900c9a)
-
-# **I'm a UC graduate student. Here's What the Strike is About.**
-
 ## re. Marx
 
 19–24 minutes

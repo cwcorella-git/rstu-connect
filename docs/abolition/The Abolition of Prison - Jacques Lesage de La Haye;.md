@@ -9,8 +9,6 @@ tags:
   - Los Angeles
 ---
 
-# THE ABOLITION OF PRISON
-
 # Jacques Lesage de La Haye translated by Scott Branson
 
 ## ![](_page_0_Picture_2.jpeg)

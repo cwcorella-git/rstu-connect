@@ -7,10 +7,6 @@ tags:
   - current-events
 ---
 
-## **State of the Constituency 2024**
-
-**Date:** 2024-12-31 **Source:** https://www.threadings.io/state-of-the-constituency-2024/In which we discuss what happens in the next stage of expansion. Welcome to Threadings, the newsletter and podcast where I contemplate world making and I look at the things that are keeping and collecting my life at the seams. My name is ismatu. State of the constituency 2024 0:00 / 2256.7444897959185 1×
-
 ## Orientation to Purpose
 
 I have a few processes I employ on Threadings which allow me to examine the systems that I have in place, and the systems that I wade through. I am a system within and among other systems. The substance and the maintenance of my systems: that's what I call my stitches. Those are the things that keep this plush bear, ismatu, together. Think like one of those little teddy bears that's holding a heart that you get for Valentine's Day, right? One of those. My process of exploring what goes on around me is something that literally keeps my plush little stuffing from popping right out.

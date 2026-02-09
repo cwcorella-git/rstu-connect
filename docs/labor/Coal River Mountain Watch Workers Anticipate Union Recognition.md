@@ -8,10 +8,7 @@ tags:
   - labor
 ---
 
-## **Coal River Mountain Watch Workers Anticipate Union Recognition**
-
-**Date:** Wed, 08/18/2021 - 00:00 **Source:** https://ecology.iww.org/node/4409**Tags:** Coal River Mountain Watch, Industrial Workers of the World (IWW), NGOs, green unionism, ecological movements and organizations, movements, unions, and organizations, class struggle By Christian Prince - Industrial Worker , August 18, 2021 In late July, workers at Coal River Mountain Watch in Naoma, West Virginia, requested voluntary union recognition from the environmental nonprofit organization's board of directors. They anticipate full recognition of the Coal River Mountain Watch Union, organized with the Industrial Workers of the World , by month's end. The campaign to unionize CRMW is being led by Junior Walker, a longtime employee. CRMW workers had considered forming a union previously, but only committed after witnessing the campaign at another West Virginia-based environmental nonprofit,
-
+Coal River Mountain Watch, Industrial Workers of the World (IWW), NGOs, green unionism, ecological movements and organizations, movements, unions, and organizations, class struggle By Christian Prince - Industrial Worker , August 18, 2021 In late July, workers at Coal River Mountain Watch in Naoma, West Virginia, requested voluntary union recognition from the environmental nonprofit organization's board of directors. They anticipate full recognition of the Coal River Mountain Watch Union, organized with the Industrial Workers of the World , by month's end. The campaign to unionize CRMW is being led by Junior Walker, a longtime employee. CRMW workers had considered forming a union previously, but only committed after witnessing the campaign at another West Virginia-based environmental nonprofit,
 , which is also organized with the IWW. Workers at OVEC, a larger nonprofit that has collaborated with CRMW in the past, faced significant resistance to union recognition from
 
 ## the Ohio Valley Environmental Coalition both management and their board of directors. Walker began speaking with

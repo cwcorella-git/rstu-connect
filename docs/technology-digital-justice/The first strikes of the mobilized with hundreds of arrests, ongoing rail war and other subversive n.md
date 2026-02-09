@@ -9,14 +9,6 @@ tags:
   - digital rights
 ---
 
-## **The first strikes of the mobilized with hundreds of arrests, ongoing rail war and other subversive news. Part 16**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/first-strikes-mobilized-hundreds-arrests-ongoing-rail-war-and-other-subversive-news-part-16
-
-**Tags:** assembly.org.ua, Russia-Ukraine war, war, Ukraine, Russia, sabotage, strikes, prisons, Belarus
-
 Anti-invasion direct action througout Russia and its borderlands over last month. The front line on the border of Kharkiv, Lugansk and Belgorod regions is bursting at the seams due to the decay and demoralization of Russian recruits sent there en masse.
 
 Please support our online newsletter for continuous work on this international rubric or the campaign to restore local community of shelled Kharkiv neighbourhoods through joiningthis fundraising. A couple of cups of coffee in your country even before the war could be equivalent in price to the daily wage of a worker in Ukraine. Many thanks everyone in advance!

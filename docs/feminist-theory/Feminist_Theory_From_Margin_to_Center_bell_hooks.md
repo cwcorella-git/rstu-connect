@@ -7,8 +7,6 @@ tags:
   - feminism
 ---
 
-# FEMINIST THEORY from margin to center bell hooks south end press
-
 ### Copyright © 1984 by bell hooks
 
 Copyrights are still required for book production in the United States. However, in our case it is a disliked necessity. Thus, in any properly footnoted quotation of up to 500 sequential words may be used without permission, as long as the total number of words quoted does not exceed 2000. For longer quotations or for greater volume of total words, authors should write for permission to South End Press.

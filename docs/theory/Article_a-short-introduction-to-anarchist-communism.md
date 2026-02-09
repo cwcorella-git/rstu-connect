@@ -8,8 +8,6 @@ tags:
   - theory
 ---
 
-# A Short Introduction To Anarchist Communism
-
 A Short Introduction to Anarchist Communism https://theanarchistlibrary.org/library/anarchist-federat...
            Anarchist Federation (of Britain)
            A Short Introduction to Anarchist

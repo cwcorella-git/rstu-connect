@@ -8,10 +8,6 @@ tags:
   - urban
 ---
 
-#### [shelterforce.org](https://shelterforce.org/2022/12/12/all-tenants-get-right-to-counsel-in-kansas-city/)
-
-# **All Tenants Get Right to Counsel in Kansas City**
-
 ## Sandra Larson
 
 11–14 minutes

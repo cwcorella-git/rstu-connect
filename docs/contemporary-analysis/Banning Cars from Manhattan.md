@@ -8,8 +8,6 @@ tags:
   - current-events
 ---
 
-# **Paul and Percival Goodman Banning Cars from Manhattan 1961**
-
 Peripheral Parking Roads Means, etc. Conclusion
 
 We propose banning private cars from Manhattan Island. Permitted motor vehicles would be buses, small taxis, vehicles for essential services (doctor, police, sanitation, vans, etc.), and the trucking used in light industry.

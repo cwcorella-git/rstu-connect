@@ -9,13 +9,7 @@ tags:
   - iww-environmental-unionism
 ---
 
-## **Defend Our Sperrins Not Toxic Gold Mining**
-
-## **Date:** Sat, 05/11/2019 - 11:58
-
 ## **Source:** https://ecology.iww.org/node/3613
-
-**Tags:** Industrial Workers of the World (IWW), IWW WISERA, Ireland, IWW Environmental Unionism
 
 Caucus, green syndicalism, green unionism, extractivism, mining
 

@@ -8,12 +8,9 @@ tags:
   - police
 ---
 
-## **Activists Demand Independent Investigation After Cops Kill Protester in Atlanta**
-
 | Date: Thu, 01/19/2023 - 00:00                                                                                                                      |
 |----------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/5308
-Tags: Atlanta Forest, mobilizations and uprisings, anti-capitalism, libertarian-socialism, Tortuguita |
 |                                                                                                                                                    |
 | By Mike Ludwig -                                                                                                                                   |
 |                                                                                                                                                    |

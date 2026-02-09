@@ -10,8 +10,6 @@ tags:
 
 ## [savagetraininggroup.com](https://savagetraininggroup.com/public-duty-doctrine-implications-police-officers/)
 
-## **The Public Duty Doctrine and Its Implications for Police Officers**
-
 ## Scott Savage
 
 5–6 minutes

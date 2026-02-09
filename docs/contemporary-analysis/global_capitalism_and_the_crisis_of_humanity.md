@@ -6,15 +6,11 @@ tags:
   - capitalism
 ---
 
-# Global Capitalism and the Crisis of Humanity
-
 #### WILLIAM I. ROBINSON
 
 ## University of California, Santa Barbara
 
 ## ![](_page_0_Picture_3.jpeg)
-
-## Global Capitalism and the Crisis of Humanity
 
 This exciting new study provides an original and provocative exposé of the crisis of global capitalism in its multiple dimensions - economic, political, social, ecological, military, and cultural. Building on his earlier works on globalization, William I. Robinson discusses the nature of the new global capitalism, the rise of a globalized production and financial system, a transnational capitalist class, and a transnational state and warns of the rise of a global police state to contain the explosive contradictions of a global capitalist system that is crisis-ridden and out of control. Robinson concludes with an exploration of how diverse social and political forces are responding to the crisis and alternative scenarios for the future
 

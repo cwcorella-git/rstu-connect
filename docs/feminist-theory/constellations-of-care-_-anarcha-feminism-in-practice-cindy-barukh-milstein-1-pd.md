@@ -9,7 +9,7 @@ tags:
   - anarchism
   - feminism
 ---
-# Constellations of Care _ Anarcha-Feminism in Practice -- Cindy Barukh Milstein -- 1 (PDF), 2024 -- Pluto Press -- 9780745349954 -- 58a57a50b8f18ef694387c498cd6f00b -- Anna’s Archive
+
 —Kai Cheng Thom, author of Falling Back in Love
 with Being Human
 With rare candor and rigorous insight, Cindy Barukh Milstein’s anthologies oer the conversations we need to sustain the communal possibility of anarchist, feminist, and queer world-making in the ruins of everyday brutality.

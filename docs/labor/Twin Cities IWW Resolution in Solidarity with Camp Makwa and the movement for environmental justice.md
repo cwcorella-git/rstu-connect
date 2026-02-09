@@ -10,13 +10,7 @@ tags:
   - urban
 ---
 
-## **Twin Cities IWW Resolution in Solidarity with Camp Makwa and the movement for environmental justice**
-
-## **Date:** Wed, 12/06/2017 - 17:50
-
 ## **Source:** https://ecology.iww.org/node/2666
-
-**Tags:** Industrial Workers of the World (IWW), Twin Cities IWW, green unionism, green bans, Line 3, green syndicalism, North America's Building Trades Unions (NABTU), International Brotherhood of Teamsters (IBT), Enbridge
 
 Adopted Unanimously by the Twin Cities IWW General Membership Branch - December 5, 2017
 

@@ -9,10 +9,7 @@ tags:
   - workers
 ---
 
-# Ecounionist News 74
-
-EcoUnionist News #74 Date: Mon, 11/02/2015 - 18:01 Source: https://ecology.iww.org/node/1365 Tags: Eco Unionist News, green unionism, labor and environment
-
+Unionist News, green unionism, labor and environment
 ## Compiled by x344543 -
 
 ## IWW Environmental Unionism Caucus

@@ -10,13 +10,7 @@ tags:
   - anarchism
 ---
 
-## **결혼과 사랑 (Marriage and Love)**
-
 ## **Author:** Emma Goldman
-
-**Source:** https://libcom.org/article/gyeolhongwa-salang
-
-**Tags:** Emma Goldman, Anarchist Yondae, feminism, anarchism
 
 결혼과 사랑에 관한 일반관념은 그것이 동의어이고 같은 동기로부터 생겨나며, 같은 인간의 욕구를 커 버한다는 것이다. 대개의 통속관념과 같이 이 역시 사실이 아니라 미신에 근거하고 있다.
 

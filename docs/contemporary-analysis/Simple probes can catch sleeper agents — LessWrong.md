@@ -7,8 +7,6 @@ tags:
   - current-events
 ---
 
-# [Simple probes can](https://www.lesswrong.com/posts/gknc6NWCNuTCe8ekp/simple-probes-can-catch-sleeper-agents-1) [catch sleeper](https://www.lesswrong.com/posts/gknc6NWCNuTCe8ekp/simple-probes-can-catch-sleeper-agents-1) [agents](https://www.lesswrong.com/posts/gknc6NWCNuTCe8ekp/simple-probes-can-catch-sleeper-agents-1)
-
 by **[Monte M,](https://www.lesswrong.com/users/monte-m?from=post_header) [Carson Denison,](https://www.lesswrong.com/users/carson-denison?from=post_header) Zac Hat[eld-Dodds,](https://www.lesswrong.com/users/zac-hatfield-dodds?from=post_header) [David Duvenaud,](https://www.lesswrong.com/users/david-duvenaud?from=post_header) [Sam](https://www.lesswrong.com/users/sbowman?from=post_header) [Bowman,](https://www.lesswrong.com/users/sbowman?from=post_header) [Ethan Perez,](https://www.lesswrong.com/users/ethan-perez?from=post_header) [evhub](https://www.lesswrong.com/users/evhub?from=post_header)**
 
 23rd Apr 2024 [AI Alignment Forum](https://alignmentforum.org/posts/gknc6NWCNuTCe8ekp/simple-probes-can-catch-sleeper-agents-1)

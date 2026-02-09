@@ -7,8 +7,6 @@ tags:
   - class
 ---
 
-# **Martin Glaberman The Working Class and Social Change**
-
 ## **Preface**
 
 The question of the working class, as Martin Glaberman notes in this pamphlet, is an old and honoured one on the left. But actual class analysis, as opposed to its mere invocation, one might add, is a practice that has tended to be more honoured in the breach than in the observance. It is therefore a welcome sign that the question is being looked at with renewed critical interest by at least parts of a socialist movement which needs to seriously re-examine traditional assumptions and ways of looking at society. Welcome, also, because it is unfortunately true that many of the conceptions of the left have hardened into dogmas that now function more as barriers to creative thought than as flexible guides for developing radical analysis and strategy.

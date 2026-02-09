@@ -10,8 +10,6 @@ tags:
 
 [archives.gov](https://www.archives.gov/publications/prologue/2001/spring/lbj-and-white-backlash-1)
 
-# **LBJ Fights the White Backlash**
-
 59–75 minutes
 
 # **The Racial Politics of the 1964 Presidential Campaign**

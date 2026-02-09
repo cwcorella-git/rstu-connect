@@ -10,13 +10,9 @@ tags:
 
 #### [ecology.iww.org](https://ecology.iww.org/texts/John Bellamy Foster/The Meaningof Work)
 
-# **The Meaning of Work in a Sustainable Society**
-
 William Shakespeare, Henry IV, Part I, Act II, Scene IV
 
 42–53 minutes
-
-# **By John Bellamy Foster -** [Monthly Review](https://monthlyreview.org/2017/09/01/the-meaning-of-work-in-a-sustainable-society/)**, September 2017**
 
 ## ![](_page_0_Figure_7.jpeg)
 

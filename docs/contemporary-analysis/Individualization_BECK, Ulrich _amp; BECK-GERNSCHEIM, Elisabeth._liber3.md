@@ -9,8 +9,6 @@ tags:
 
 ## ![](_page_0_Picture_1.jpeg)
 
-## Individualization
-
 ## ![](_page_1_Picture_0.jpeg)
 
 ## **Theory, Culture & Society**

@@ -8,18 +8,12 @@ tags:
   - theory
 ---
 
-# The Anarchist Library Anarwiki
-
 The Anarchist Library - AnarWiki about:reader?url=https%3A%2F%2Fanarwiki.org%2Fw...
 
 ## anarwiki.org
 
-## The Anarchist Library - AnarWiki
-## AnarWiki
-
 ## 8–11 minutes
 
-## The Anarchist Library is an online anarchist library and
 ## archive founded around 2007 by Aragorn!, Marco and other
                anarchists. The project is donation driven, volunteer run and no
                element of the site is pay-walled. The far-reaching goal is to

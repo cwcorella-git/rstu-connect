@@ -8,8 +8,6 @@ tags:
   - current-events
 ---
 
-# Raúl Zibechi
-
 # CONSTRUCTING WORLDS OTHERWISE
 
 Societies in Movement and Anticolonial Paths in Latin America

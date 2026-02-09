@@ -7,8 +7,6 @@ tags:
   - current-events
 ---
 
-## **A letter on Metacognition [ft. a social experiment]**
-
 | Date: 2025-08-26 |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://www.threadings.io/a-letter-on-metacognition-ft-a-social-experiment/|

@@ -9,12 +9,6 @@ tags:
   - libcom
 ---
 
-## **The Challenor Case Thirty Years On - Donald Rooum**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/challenor-case-thirty-years-donald-rooum
-
 ## **Tags:** Donald Rooum, police, corruption
 
 Anarchist Donald Rooum reflects on a groundbreaking case he was involved in during 1963, which led to the downfall of a corrupt senior police officer.

@@ -10,8 +10,6 @@ tags:
 
 ## ![](_page_0_Picture_0.jpeg)
 
-# **Philosophical Review**
-
 7ZR &RQFHSWV RI 5XOHV \$XWKRUV -RKQ 5DZOV 5HYLHZHG ZRUNV
 
 6RXUFH 7KH 3KLORVRSKLFDO 5HYLHZ 9RO 1R -DQ SS 3XEOLVKHG E\ Duke University Press RQ EHKDOI RI Philosophical Review

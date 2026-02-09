@@ -9,13 +9,7 @@ tags:
   - movement-politics
 ---
 
-## **Why We Withdrew Sponsorship from the Sierra Club's Rally in Hartford, CT: Comfort Letter, Censorship, and Compromise!**
-
-## **Date:** Sun, 04/24/2016 - 11:35
-
 ## **Source:** https://ecology.iww.org/node/1620
-
-**Tags:** Dragonfly Collective (Capitalism versus the Climate), Sierra Club, Big Green, movement politics
 
 ## A Statement by
 

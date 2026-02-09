@@ -9,12 +9,6 @@ tags:
   - libcom
 ---
 
-## **Review: Can neuroscience change our minds? - Hilary and Steven Rose**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/review-can-neuroscience-change-our-minds-hilary-and-steven-rose**Tags:** education, reviews, science, Choccy, psychology, Steven Rose, Hilary Rose, book reviews
-
 A review of the new book by Hilary and Steven Rose which presents both a scientific and political critique of the growth of 'neuro' disciplines.
 
 Hilary and Steven Rose have spent the best part of five decades skewering the co-option of science under capitalism and Can Neuroscience Change Our Minds?continues in this vein. Anyone familiar with Steven Rose knows he's no anti-science relativist. As a neurobiologist he acknowledges that 'neuroscience is dramatically increasing our understanding of the brain' (p.2). What the Roses object to isn't neuroscience itself, but its encroachment outside its appropriate domain of application. They note the growth of 'neuro' prefixes like neuroaesthetics, and neuromarketing, alongside the proliferation of 'neuro' book titles and steady rise in newspaper headlines about the brain, as well as the growth of 'brain training' gadgets and games.

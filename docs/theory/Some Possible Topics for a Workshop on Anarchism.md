@@ -9,8 +9,6 @@ tags:
 
 ## James Herod
 
-# Some Possible Topics for a Workshop on Anarchism
-
 ### December 2000
 
 (Note: These topics are not in any particular order. There are references and source materials on many of these topics in the bibliography I compiled last month, "A Bibliographical Guide to Anarchism in English". If not, I sometimes give some references here.)

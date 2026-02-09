@@ -9,10 +9,7 @@ tags:
   - workers
 ---
 
-## **One Big Union, One Long Fight**
-
-**Date:** Wed, 11/01/2017 - 19:17 **Source:** https://ecology.iww.org/node/2716**Tags:** Industrial Workers of the World (IWW) By Robert Young - Monthly Review , November 2017 The Wobblies , a film directed by Stewart Bird and Deborah Shaffer (1979; Docurama, 2006), 89 minutes, color, DVD. Fred W. Thompson and Jon Bekken, The Industrial Workers of the World: Its First Hundred Years (Cincinnati: IWW, 2006), 247 pages, \$15, paperback.
-
+Industrial Workers of the World (IWW) By Robert Young - Monthly Review , November 2017 The Wobblies , a film directed by Stewart Bird and Deborah Shaffer (1979; Docurama, 2006), 89 minutes, color, DVD. Fred W. Thompson and Jon Bekken, The Industrial Workers of the World: Its First Hundred Years (Cincinnati: IWW, 2006), 247 pages, \$15, paperback.
 In recent decades, both the U. S. and global economy have become mired in a prolonged stagnation. As a shrinking number of large corporations dominate a greater share of industries and sectors, business investment has slowed and wage growth has stalled. Although the economy has been on this trajectory for quite some time, a series of financial bubbles has obscured the trend. The collapse of the most recent of these, and the subsequent Great Recession of 2007–09, has laid bare this overall macroeconomic condition, to the point that even mainstream economists such as Larry Summers openly recognize "secular stagnation"
 
 as the economy's dominant course.

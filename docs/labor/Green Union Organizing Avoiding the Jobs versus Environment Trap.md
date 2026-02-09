@@ -9,13 +9,7 @@ tags:
   - environment
 ---
 
-# **Green Union Organizing: Avoiding the "Jobs versus Environment" Trap**
-
-## **Date:** Mon, 02/07/2022 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/4835
-
-**Tags:** green unionism, Industrial Workers of the World (IWW), IWW Environmental Unionism Caucus, Earth First! - IWW Local 1, Judi Bari, labor and environment, jobs versus environment, strategy and tactics, North America's Building Trades Unions (NABTU), No Coal in Oakland (NCIO)
 
 ## By That Green Union Guy -
 

@@ -9,14 +9,6 @@ tags:
   - police
 ---
 
-# **The unforgettable life of prison rebel Martin Sostre - William C Anderson**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/unforgettable-life-prison-rebel-martin-sostre-william-c-anderson
-
-**Tags:** United States, 1970s, prisons, black power, Martin Sostre, William C Anderson
-
 A short biography of the Black anarchist and prison rebel Martin Sostre. Originally published at Roar Magazine and thenrepublished by Offshoot Journal.
 
 "The burden of a long sentence would be lightened by the satisfaction of knowing that the mission set out for me, that of helping my people free themselves from the oppressor, is being accomplished."— Martin Sostre

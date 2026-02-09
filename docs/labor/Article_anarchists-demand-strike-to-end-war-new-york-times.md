@@ -10,14 +10,10 @@ tags:
   - New York
 ---
 
-# Anarchists Demand Strike To End War New York Times
-
-Anarchists Demand Strike To End War - New York Times Date: Unknown Source: https://libcom.org/article/anarchists-demand-strike-end-war-new-york-times Tags: Emma Goldman, Alexander Berkman, World War I, Leonard D. Abbott, Harry Weissberger,
+Goldman, Alexander Berkman, World War I, Leonard D. Abbott, Harry Weissberger,
 ## Industrial Workers of the World (IWW)
 
 Article by the New York Times detailing a meeting held by Anarchists and members of the Industrial Workers of the World to build resistance to the American participation in the First World War.
-
-## ANARCHISTS DEMAND STRIKE TO END WAR
 
 Great Gathering of I. W. W. and Other Agitators Rails Against Selective Draft.
 

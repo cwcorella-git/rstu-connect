@@ -11,8 +11,6 @@ tags:
 
 ## ![](_page_0_Picture_0.jpeg)
 
-# Focus Time for well-being and Work Engagement of Information Workers
-
 # [Koustuv Saha](https://orcid.org/0000-0002-8872-2934)
 
 Microsoft Research Montreal, Quebec, Canada koustuv.saha@gmail.com

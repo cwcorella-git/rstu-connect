@@ -7,8 +7,6 @@ tags:
   - current-events
 ---
 
-# **TERMINATOR 2: JUDGMENT DAY**
-
 **by**
 
 ## **James Cameron**

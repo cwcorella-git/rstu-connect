@@ -8,14 +8,6 @@ tags:
   - New York
 ---
 
-## **Jalil Muntaqim tests positive for COVID-19 and is hospitalized in New York**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/jalil-muntaqim-tests-positive-covid-19-and-hospitalized-new-york
-
-**Tags:** United States, prisons, New York, Black Panthers, Covid-19, Jalil Muntaqim
-
 An update on Jalil Muntaqim, an elderly Black Liberation prisoner and former Black Panther who has been infected with Covid-19 in prison after the New York Attorney General deliberately blocked his court-ordered release on medical/humanitarian grounds. This story was first published by the San Francisco Bay View.
 
 Jalil Muntaqim (Anthony Bottom) is a Black elder and former member of the Black Panther Party who has been in prison since 1971. He had been experiencing early symptoms of COVID-19 over the last few days and was tested by staff at Sullivan Correctional Facility in New York.

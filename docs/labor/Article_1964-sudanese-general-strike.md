@@ -8,9 +8,6 @@ tags:
   - strikes
 ---
 
-# 1964 Sudanese General Strike
-
-1964: Sudanese General Strike Date: Unknown Source: https://libcom.org/article/1964-sudanese-general-strike Tags: general strikes, Sudan, Yein Pyo, PDF
 A general strike successfully defeated the ruling military Junta and temporarily halted a campaign of discrimination against the countries southern population. This event is known as the October Revolution.
 Sudanese bring down dictator Abbud (October Revolution), 1964
 By October of 1964, an issue called the “Southern Problem” had formed in Sudan. This Southern Problem was essentially a dispute between the Arabized Muslim North and Christian South of Sudan. The northern “Sudanization” of southern administrative positions and ethnic, cultural, and religious differences began to manifest in discrimination against southern Sudanese, planting the seeds for this problem. The Southern Problem grew with the rapid Arabization of Southern Sudan, in which Arabic replaced English as the language used in schools, and Christian missionaries were forbidden from founding new schools or practicing their religion outside of their churches. Ibrahim Abbud, the first president of Sudan, led a military government for six years in which his military regime voiced confusion over the Southern Problem, and thus permitted public discussion of the problem at Khartoum University.

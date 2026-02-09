@@ -7,14 +7,6 @@ tags:
   - Bookchin
 ---
 
-## **Between the 30s and the 60s - Murray Bookchin**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/between-30s-and-60s-murray-bookchin
-
-**Tags:** Murray Bookchin, United States, 1960s, 1930s
-
 In this article, appearing in the book The Sixties, Without Apology, Murray Bookchin traces American radical thought from the 1930s to the 1960s.
 
 I strongly doubt if we will ever understand—and fully evaluate—the 60s without placing it against the background of another radical decade, the 30s. Having lived out both periods up to the hilt, I find that my older contemporaries as well as the younger people with whom I worked twenty years ago have seldom been able to distance themselves sufficiently from their time to draw these crucial comparisons adequately. Recent biographies by old New York socialists and communists who lived with such nostalgic exhilaration in the era climaxed by the Spanish Civil War and CIO organizing drives seem utterly estranged and uncomprehending in their attitudes toward the "new left" and counterculture. By the same token, the younger people of '68 and of New York's Lower Eastside and San Francisco's Haight-Ashbury have either romanticized the era of their elders or disdained it as completely irrelevant.

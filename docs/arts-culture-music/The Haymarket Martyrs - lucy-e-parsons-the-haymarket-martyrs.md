@@ -8,8 +8,6 @@ tags:
   - culture
 ---
 
-## Te Haymarket Martyrs
-
 ## Lucy E. Parsons
 
 ## November 1926

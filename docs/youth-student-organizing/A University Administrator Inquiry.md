@@ -8,14 +8,6 @@ tags:
   - youth
 ---
 
-## **A University Administrator Inquiry**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/university-administrator-inquiry
-
-**Tags:** education, United Kingdom, universities, workers inquiry, Notes from Below, Thomas Litterick
-
 An article examining the field of university administration, first published by Notes from Below.
 
 Every year the UK's Higher Education Statistics Authority (HESA) release a report on the number of people employed in British universities and the kinds of work that they are engaged in. Known as the "census", every higher education institution in the United Kingdom is obliged to report this data to HESA on the 31st August each year. This data is then compiled and published as a report and a series of charts and tables on the HESA website a few months later.

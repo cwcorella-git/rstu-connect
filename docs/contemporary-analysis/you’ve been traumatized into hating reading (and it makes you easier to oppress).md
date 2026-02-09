@@ -7,10 +7,7 @@ tags:
   - current-events
 ---
 
-## **you've been traumatized into hating reading (and it makes you easier to oppress).**
-
 | Date: 2024-02-15
-Source: https://www.threadings.io/youve-been-traumatized-into-hating/|
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | introduction: |
 | We begin with a morsel from Toni Morrison, great Black American author: |

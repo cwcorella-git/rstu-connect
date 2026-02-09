@@ -10,8 +10,6 @@ tags:
 
 ## ![](_page_0_Figure_0.jpeg)
 
-# ABOLITION DEMOCRACY
-
 ## BEYOND EMPIRE, PRISONS, AND TORTURE
 
 ## ![](_page_0_Picture_3.jpeg)

@@ -11,15 +11,11 @@ tags:
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/International_Workers%27_Day)
 
-# **International Workers' Day**
-
 ## Contributors to Wikimedia projects
 
 100-127 minutes
 
 This article is about a holiday sometimes called May Day. For the traditional spring holiday, see [May Day.](https://en.wikipedia.org/wiki/May_Day) For other labourrelated holidays, see [Labour Day \(disambiguation\).](https://en.wikipedia.org/wiki/Labour_Day_(disambiguation))
-
-## **International Workers' Day**
 
 ## ![](_page_0_Picture_8.jpeg)
 

@@ -8,14 +8,6 @@ tags:
   - strikes
 ---
 
-## **1957: Colombian General Strike**
-
-**Date:** Unknown
-
-**Source:** https://libcom.org/article/1957-colombian-general-strike
-
-**Tags:** mutinies, general strikes, 1950s, students, elections, democracy, Colombia, Max Rennebohm,
-
 PDF
 
 A series of protest demonstration and a General Strike led to the downfall of the Dictator Gustavo Rojas Pinilla and the restoration of free elections. Unfortunately this left Colombia still in the hands of the Oligarchy

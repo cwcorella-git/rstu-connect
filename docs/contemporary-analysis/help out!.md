@@ -8,12 +8,6 @@ tags:
   - libcom
 ---
 
-## **help out!**
-
-## **Date:** Unknown
-
-## **Source:** https://libcom.org/article/help-out
-
 Like what we do? Want to help out? Here are some easy ways to lend a hand with libcom.org.
 
 If you like what we do and think that libcom.org is a worthwhile project, we'd love you to help us out. The site is maintained and funded entirely by volunteers. As such we appreciate any assistance anyone can give.

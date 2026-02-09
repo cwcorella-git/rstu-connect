@@ -8,14 +8,6 @@ tags:
   - strikes
 ---
 
-## **2005: Tonga Public Servants General Strike**
-
-**Date:** Unknown
-
-**Source:** https://libcom.org/article/2005-tonga-public-servants-general-strike
-
-**Tags:** education, health and medicine, public and third sector, general strikes, wildcat strikes, civil
-
 servants, Tonga, Hannah Jones, PDF
 
 In 2005 civil servants in Tonga began a wildcat strike for higher wages, the strike grew to include many other public sector workers and took on political reforms.

@@ -11,8 +11,6 @@ tags:
 
 ## ![](_page_0_Picture_2.jpeg)
 
-# **August Spies**
-
 **August Vincent Theodore Spies** [\(/spi](https://en.wikipedia.org/wiki/Help:IPA/English)[ː](https://en.wikipedia.org/wiki/Help:IPA/English)[s/,](https://en.wikipedia.org/wiki/Help:IPA/English) *[SPEES](https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key)*; December 10, 1855 – November 11, 1887) was an American [upholsterer,](https://en.wikipedia.org/wiki/Upholstery) radical [labor activist,](https://en.wikipedia.org/wiki/Union_organizer) and [newspaper editor.](https://en.wikipedia.org/wiki/Newspaper_editor) An [anarchist,](https://en.wikipedia.org/wiki/Anarchism) Spies was found guilty of [conspiracy](https://en.wikipedia.org/wiki/Criminal_conspiracy) to commit murder following a bomb attack on police in an event remembered as the [Haymarket a](https://en.wikipedia.org/wiki/Haymarket_affair)ffair. Spies was one of four who were executed in the aftermath of this event.
 
 ### **Background**

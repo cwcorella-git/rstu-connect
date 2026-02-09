@@ -8,8 +8,6 @@ tags:
   - theory
 ---
 
-# Book the Irrepressible Anarchists
-
 The Irrepressible Anarchists https://usa.anarchistlibraries.net/library/crimethinc-the-...
             CrimethInc.
             The Irrepressible Anarchists

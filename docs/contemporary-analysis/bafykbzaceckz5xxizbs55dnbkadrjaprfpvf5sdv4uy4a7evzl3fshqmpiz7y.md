@@ -15,8 +15,6 @@ tags:
 
 ## ![](_page_2_Picture_0.jpeg)
 
-# Take Back the Economy
-
 # a etil Guid fr Trsfrig our cuitis
 
 ## J. . Gibs-Gr Jy cr d Stp hly

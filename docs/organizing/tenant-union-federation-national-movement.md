@@ -13,8 +13,6 @@ tags:
 source: "KCUR"
 ---
 
-# Tenant Union Federation: Building the First National Tenant Movement Since the 1970s
-
 *KCUR — August 8, 2024*
 
 In August 2024, tenant unions from across the country formed the **Tenant Union Federation (TUF)**—the largest campaign of tenant unionism since the National Tenants Union of the late 1970s and 80s.

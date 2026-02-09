@@ -8,13 +8,7 @@ tags:
   - theory
 ---
 
-## **Statement of the Hospital and the Refinery**
-
-## **Date:** Tue, 09/10/2019 - 17:40
-
 ## **Source:** https://ecology.iww.org/node/3363
-
-**Tags:** Philadelphia IWW, Philadelphia, green unionism, just transition
 
 ## By John Kalwaic -
 

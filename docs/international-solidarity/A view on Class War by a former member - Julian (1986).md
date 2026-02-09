@@ -8,12 +8,6 @@ tags:
   - class
 ---
 
-## **A view on "Class War" by a former member - Julian (1986)**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/view-class-war-former-member-julian-1986**Tags:** Flamethrower, Class War Federation, 1980s, United Kingdom, PDF
-
 Written by a young Frenchman just after he left Class War (CW) and published in the one-off Flamethrowerinsurrectional anarchist magazine. The 1986 article was influenced by the optimism of the times; the recent nationwide waves of intense rioting in 1981 and 1985, the recently ended year-long Miners Strike, the then-ongoing printers strike at Wapping (the TNT lorries mentioned were scab delivery vehicles) etc. Few could see the dramatic downturn in class struggle that was soon to begin ...
 
 (The AFA Affair referred to was an alleged attempt by the anti-fascist Searchlight group to smear CW with false claims that they had links to fascist organisations.)

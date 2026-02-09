@@ -8,8 +8,6 @@ tags:
   - fossil fuels
 ---
 
-## **Oil Refineries Don't Just Pollute; They Also Kill Workers**
-
 | Date: Thu, 12/15/2016 - 19:51 |
 |----------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/1974|

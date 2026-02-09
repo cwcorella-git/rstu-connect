@@ -8,14 +8,6 @@ tags:
   - strikes
 ---
 
-## **1985: Sudanese General Strike Against Dictatorship**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/1985-sudanese-general-strike-against-dictatorship
-
-**Tags:** general strikes, students, universities, Sudan, Samia Abbass, PDF
-
 In 1985 workers and students protested and struck against worsening living conditions and greater repression, in particular the imposition of Sharia and conflict in the south.
 
 Sudanese students, workers bring down Numeiri dictatorship, 1985

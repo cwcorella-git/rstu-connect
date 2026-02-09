@@ -6,8 +6,6 @@ tags:
   - current-events
 ---
 
-# [Philosophy Terms](https://philosophyterms.com/) Search for a term **Enter**
-
 #### Lastest Philosophers Entries
 
 [William Faulkner](https://philosophyterms.com/william-faulkner/)

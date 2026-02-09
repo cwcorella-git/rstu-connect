@@ -7,8 +7,6 @@ tags:
   - climate
 ---
 
-## [pv-magazine.com](https://www.pv-magazine.com/2024/02/01/energy-vault-signs-gravity-storage-deal-covering-southern-africa/)
-
 ## Energy Vault signs gravity storage deal covering southern Africa
 
 ## Patrick Jowett

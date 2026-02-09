@@ -10,8 +10,6 @@ tags:
 
 ## ![](_page_0_Picture_0.jpeg)
 
-# I Have No Words & I Must Design: Toward a Critical Vocabulary for Games
-
 Greg Costikyan 355 South End Ave #2B New York, NY 10280, USA (646) 489-8609 costik@costik.com
 
 I first heard the term "gameplay" when I interviewed for a job at Atari in 1982. It was used by someone who had just played a new arcade game, Zaxxon, I think. "It has good gameplay."

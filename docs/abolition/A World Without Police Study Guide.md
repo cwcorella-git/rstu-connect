@@ -9,12 +9,6 @@ tags:
   - prisons
 ---
 
-# **A World Without Police: Study Guide**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/world-without-police-study-guide
-
 ## **Tags:** police, For a World Without Police
 
 This study guide is intended to help activists understand the police and craft strategies to abolish them.

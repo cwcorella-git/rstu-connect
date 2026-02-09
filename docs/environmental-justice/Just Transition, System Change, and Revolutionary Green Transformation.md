@@ -8,13 +8,7 @@ tags:
   - feminism
 ---
 
-## **Just Transition, System Change, and Revolutionary Green Transformation**
-
-## **Date:** Thu, 04/21/2016 - 16:55
-
 ## **Source:** https://ecology.iww.org/node/1619
-
-**Tags:** just transition, energy democracy, green unionism, green jobs, labor and environment, green syndicalism, x344543, highly recommended
 
 ## By That Green Union Guy -
 

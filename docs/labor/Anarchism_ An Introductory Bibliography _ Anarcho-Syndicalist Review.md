@@ -10,8 +10,6 @@ tags:
 
 #### [syndicalist.us](https://syndicalist.us/theory/anarchism-an-introductory-bibliography/)
 
-# **Anarchism: An Introductory Bibliography | Anarcho-Syndicalist Review**
-
 70–89 minutes
 
 # **Anarchy: An Introductory Bibliography in English**

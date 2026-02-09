@@ -8,8 +8,6 @@ tags:
   - current-events
 ---
 
-# VINTAGE e Books
-
 ### **Black Power**
 
 ## THE POLITICS OF LIBERATION IN AMERICA

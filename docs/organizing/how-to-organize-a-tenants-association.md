@@ -4,8 +4,6 @@ author: "Reno Sparks Tenants Union"
 date: 2025
 ---
 
-# How to Organize a Tenants Association
-
 **The best time to organize a Tenants Association is before you have problems.**
 
 ## What is a Tenants Association?

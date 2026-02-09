@@ -8,13 +8,7 @@ tags:
   - digital rights
 ---
 
-## **Greetings from Ukraine: "We need to think together about self-defence and security"**
-
-## **Date:** Unknown
-
 ## **Source:**
-**Tags:** Solidarity Collectives, Ukraine, anti-fascism, anarchism
-
 In December 2024, a Solidarity Collectives activist told Takku about the organisation of anarchists in Ukraine and their views on the challenges of the broader movement.
 
 My name is Sergei. Currently I am fully dedicated to Solidarity Collectives. Before the war, I was involved in a wide range of left-wing projects, perhaps the most successful of which was student union "Direct Action". I have also done left-wing media work, as well as monitoring far-right movements in Ukraine. I still do that, but at the moment almost all my time is spent on Solidarity Collectives' volunteer work.

@@ -8,14 +8,6 @@ tags:
   - labor
 ---
 
-## **Striking workers imprisoned in Iran**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/striking-workers-imprisoned-iran
-
-**Tags:** Industrial Workers of the World (IWW), repression, Iran, steel industry, truckers, Iran protests
-
 ## 2017/18
 
 A statement from the IWW on the recent arrests of striking workers in Iran.

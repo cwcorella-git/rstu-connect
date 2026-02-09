@@ -8,8 +8,6 @@ tags:
   - theory
 ---
 
-# DAVID GRAEBER
-
 ## INTERNATIONAL BESTSELLING AUTHOR OF DEBT
 
 ## ![](_page_0_Picture_2.jpeg)
@@ -17,8 +15,6 @@ tags:
 ## A THEORY
 
 #### PENGUIN BOOKS
-
-#### BULLSHIT JOBS
 
 'Why do so many people have to squeeze doing the things they love into their free time, while spending grim hours under the fluorescent lights of an office doing pointless tasks? This book asks readers whether there might be a better way to organize the world' Alana Semuels, The New York Times
 

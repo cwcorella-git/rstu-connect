@@ -7,14 +7,6 @@ tags:
   - riots
 ---
 
-## **Extinction Rebellion: Not the Struggle we Need, Pt. 1**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/extinction-rebellion-not-struggle-we-need-pt-1
-
-**Tags:** Out of the Woods, climate change, United Kingdom, Extinction Rebellion, police
-
 The first of a three-part critique of Extinction Rebellion, focussing on their attitudes towards the police, legal system and prison.
 
 Content note: police brutality, institutional sexual violence, incarceration

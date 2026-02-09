@@ -7,8 +7,6 @@ tags:
   - organizing
 ---
 
-# The leftwing deadbeat – Organizing.work.pdf
-
 The leftwing deadbeat – Organizing.work https://organizing.work/2020/05/the-leftwing-deadbeat/
                                                                                                  
            The leftwing deadbeat

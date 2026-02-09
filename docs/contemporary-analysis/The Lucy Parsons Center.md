@@ -10,8 +10,6 @@ tags:
 
 ## James Herod
 
-## The Lucy Parsons Center
-
 ## January 1999
 
 The Red Book Store (now the Lucy Parsons Center) began in 1970 in Central Square, Cambridge. It moved a time or two in the first couple of years, before settling into what would be its home until 1983 in a large space on the corner of River and Pleasant streets in Cambridge. In 1983 the project moved to Jamaica Plain, Boston. It stayed there until May 1994, returning to Central Square, where it stayed four years until it was evicted so the building could be demolished. In May 1998 it moved into a temporary space in Davis Square, Somerville.

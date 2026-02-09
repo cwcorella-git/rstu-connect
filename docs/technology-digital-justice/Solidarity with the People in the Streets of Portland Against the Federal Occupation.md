@@ -8,14 +8,6 @@ tags:
   - solidarity
 ---
 
-## **Solidarity with the People in the Streets of Portland: Against the Federal Occupation**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/solidarity-people-streets-portland-against-federal-occupation
-
-**Tags:** Crimeth Inc., United States, police, repression, Portland, Black Lives Matter movement, Oregon,
-
 ## It's Going Down
 
 A joint statement by It's Going Down and Crimethinc, discussing the ongoing police and DHS actions in Portland, Oregon.

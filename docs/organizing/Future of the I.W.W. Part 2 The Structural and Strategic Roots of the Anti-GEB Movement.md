@@ -7,14 +7,6 @@ tags:
   - organizing
 ---
 
-## **Future of the I. W. W. Part 2: The Structural and Strategic Roots of the Anti-GEB Movement**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/future-iww-part-2-structural-and-strategic-roots-anti-geb-movement
-
-**Tags:** Anton Johannsen, Industrial Workers of the World (IWW), anti-fascism, General Defense
-
 ## Committee, Industrial Unionist Caucus
 
 An August 2017 article by Anton Johannsen of the IWW union caucus, the Industrial Unionists. It the piece, he criticizes the anti-fascist activity of the General Defense Committee and anti-contractual and anti-paid staff sentiments in the IWW.

@@ -8,13 +8,7 @@ tags:
   - syndicalism
 ---
 
-## **Helge Döhring with DC: Anarcho-Syndicalism Under and Against the Nazis, an Interview**
-
-## **Date:** Unknown
-
 ## **Source:**
-**Tags:** Helge Döhring, DC, FAUD, Germany, anarcho-syndicalism, Nazism, World War II, Rudolf
-
 ## Rocker, syndicalism
 
 The publication of the revised and enlarged second edition of Anarcho-Syndikalismus in Deutschland 1933 -1945 [Anarcho-Syndicalism in Germany, 1933-1945] occassioned the following interview with historian Helge Döhring . The interview was conducted over email in German during November and December 2023. It was then translated into English and edited by DC. Translator's comments appear in brackets []. Appearing in its first edition in 2013, Döhring's book presents a rare account of anarchist resistance to fascism in Germany. It has not yet appeared in English translation. For more information about the book (in German):here Helge Döhring is a historian and literary scholar born in 1972 and currently based in Bremen, Germany. In addition to Anarcho-Syndikalismus in Deutschland 1933 -1945, his books about the syndicalist and anarchist labor movement include Syndikalismus in Deutschland 1914-1918 (Syndicalism in Germany, 1914-1918) (2013), Organisierter Anarchismus in Deutschland von 1918 bis 1933 [Organized Anarchism in Germany: 1914-1918] (three volumes, 2018-2020), Syndikalistisch-Anarchistischen Jugend Deutschlands [Anarcho-Syndicalist Youth of Germany] (2011), Schwarzen Scharen [Black Bands], and an annotated bibliography of the syndicalist press in Germany (2010). He is an employee and co-founder of the Institut für Syndikalismusforschung (Institute for Syndicalism Research) and co-editor of the yearbook "Syfo – Forschung & Bewegung".

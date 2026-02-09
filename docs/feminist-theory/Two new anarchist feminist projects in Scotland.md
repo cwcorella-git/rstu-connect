@@ -8,14 +8,6 @@ tags:
   - feminism
 ---
 
-## **Two new anarchist feminist projects in Scotland**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/two-new-anarchist-feminist-projects-scotland
-
-**Tags:** Anarchist Federation, United Kingdom, Scotland, feminism, Ramona, Edinburgh Anarchist
-
 ## Federation
 
 A quick blog in which I'm very optimistic about the Edinburgh Anarchist Feminist Bookfair, and a new class struggle self-education project in Edinburgh

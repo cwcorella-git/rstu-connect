@@ -9,10 +9,6 @@ tags:
   - wikipedia
 ---
 
-#### [en.wikipedia.org](https://en.wikipedia.org/wiki/Instant-runoff_voting)
-
-# **Instant-runoff voting**
-
 ## Contributors to Wikimedia projects
 
 57–73 minutes

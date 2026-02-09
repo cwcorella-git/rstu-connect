@@ -8,13 +8,7 @@ tags:
   - railroads
 ---
 
-## **Railroaders' Group Supports Rule to Ban Single Employee Train Operations**
-
-## **Date:** Fri, 03/18/2016 - 18:14
-
 ## **Source:** https://ecology.iww.org/node/1564
-
-**Tags:** Railroad Workers United (RWU), railroad workers, crude-by-rail, Lac-Mégantic, health and
 
 ## safety, Ron Kaminkow, green unionism, Railcon15
 

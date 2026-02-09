@@ -7,14 +7,6 @@ tags:
   - Chicago
 ---
 
-## **Chicago Replies To Moscow!**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/chicago-replies-moscow
-
-**Tags:** Industrial Workers of the World (IWW), USSR, Stalinism, 1940s
-
 Exchange from the Industrial Worker newspaper with a Soviet official from 1945.
 
 The 1945 January 27th issue of the Industrial Worker carried a letter sent by the Editor to Russia in reply to a request for a free copy of the paper. It was not intended as an indictment of the Communist policy—that would need volumes—but merely mentioned a few cases of Communist murders of members of the I. W. W.

@@ -9,10 +9,7 @@ tags:
   - fossil fuels
 ---
 
-# Labor Rallies Against Fossil Fuel At Climate Rally in Oakland On November 21 201
-
-Labor Rallies Against Fossil Fuel At Climate Rally In Oakland on November 21, 2015 Date: Sat, 11/28/2015 - 17:55 Source: https://ecology.iww.org/node/1406 Tags: green unionism, COP21, System Change not Climate Change (SCnCC), IWW Environmental Unionism Caucus, National Nurses United, Service Employees International Union (SEIU), International Brotherhood of Electrical Workers (IBEW), Sunflower Alliance, climate justice
-
+System Change not Climate Change (SCnCC), IWW Environmental Unionism Caucus, National Nurses United, Service Employees International Union (SEIU), International Brotherhood of Electrical Workers (IBEW), Sunflower Alliance, climate justice
 ## By Steve Zeltser -
 
 ## Labor Video Project

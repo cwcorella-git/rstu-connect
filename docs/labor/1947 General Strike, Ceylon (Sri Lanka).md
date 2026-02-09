@@ -8,12 +8,6 @@ tags:
   - strikes
 ---
 
-## **1947 General Strike, Ceylon (Sri Lanka)**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/1947-general-strike-ceylon-sri-lanka
-
 ## **Tags:** general strikes, Sri Lanka, colonialism
 
 An account by T. B. Dissanayake of the 1947 general strike in Ceylon, now Sri Lanka

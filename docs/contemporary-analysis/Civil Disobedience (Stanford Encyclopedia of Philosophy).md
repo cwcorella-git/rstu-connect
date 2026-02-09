@@ -8,8 +8,6 @@ tags:
 
 ## ![](_page_0_Picture_2.jpeg)
 
-# **Civil Disobedience**
-
 *First published Thu Jan 4, 2007; substantive revision Wed Jun 2, 2021*
 
 From the Boston Tea Party to Mahatma Gandhi's Salt March, and from suffragists' illegally casting their ballots to whites-only lunch counter sit-ins, civil disobedience has often played a crucial role in bending the proverbial arc of the moral universe toward justice. But what, if anything, do these acts, and countless others which we refer to as *civil disobedience* have in common? What distinguishes them from other forms of conscientious and political action?

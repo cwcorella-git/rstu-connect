@@ -9,19 +9,11 @@ tags:
   - fossil fuels
 ---
 
-# **Richmond IWW Stands in Solidarity with Virginia Pipeline Resisters**
-
-## **Date:** Wed, 03/14/2018 - 18:44
-
 ## **Source:** https://ecology.iww.org/node/2845
-
-**Tags:** Industrial Workers of the World (IWW), Richmond IWW, green unionism, green syndicalism,
 
 Atlantic Coast Pipeline (ACP), Mountain Valley Pipeline (MVP), Virginia, Appalachia
 
 ## By Joe Sabo -
-
-## Richmond IWW
 
 ## , March 12, 2018
 

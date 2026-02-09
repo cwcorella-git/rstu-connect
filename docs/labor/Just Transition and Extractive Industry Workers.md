@@ -8,13 +8,7 @@ tags:
   - just transition
 ---
 
-## **Just Transition and Extractive Industry Workers**
-
-## **Date:** Tue, 01/26/2021 - 16:06
-
 ## **Source:** https://ecology.iww.org/node/4153
-
-**Tags:** just transition, green unionism, decarbonization, green jobs, jobs, oil, coal, fossil fuel capitalism, refinery workers, refineries
 
 ## By That Green Union Guy -
 

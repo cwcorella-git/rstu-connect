@@ -10,8 +10,6 @@ tags:
 
 ## ![](_page_0_Picture_0.jpeg)
 
-# **Beyond Blame:**
-
 # How Cities Can Learn From Crashes To Create Safer Streets Today
 
 - 2 Executive Summary

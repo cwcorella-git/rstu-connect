@@ -14,8 +14,6 @@ tags:
 source: "Federal Housing Administration Underwriting Manual, 1938"
 ---
 
-# The FHA Underwriting Manual of 1938: Government-Mandated Segregation
-
 The Federal Housing Administration's 1938 Underwriting Manual stands as one of the most consequential documents in American housing history. It codified racial discrimination into federal policy, creating the framework for residential segregation that persists to this day.
 
 ## Historical Context

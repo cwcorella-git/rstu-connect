@@ -8,8 +8,6 @@ tags:
   - Bookchin
 ---
 
-# **Murray Bookchin**
-
 # **Free Cities**
 
 # **Communalism and the Left**

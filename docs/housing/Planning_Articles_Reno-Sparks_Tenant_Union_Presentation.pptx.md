@@ -9,8 +9,6 @@ tags:
   - Nevada
 ---
 
-# Reno-Sparks Tenant Union Presentation.pptx.pdf
-
 Reno-Sparks Tenants Union
        Town Hall
 

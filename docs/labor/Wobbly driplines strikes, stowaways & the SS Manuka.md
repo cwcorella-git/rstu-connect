@@ -9,14 +9,6 @@ tags:
   - workers
 ---
 
-## **Wobbly driplines: strikes, stowaways & the SS Manuka**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/wobbly-driplines-strikes-stowaways-ss-manuka
-
-**Tags:** anarchism, syndicalism, New Zealand, Australia, shipping, Sydney, Jared Davidson, Philip
-
 ## Josephs, Noel Lyons
 
 Built in 1903 and wrecked off New Zealand's southern coast in 1929, the Manukawas a floating fragment of class society—and of class warfare. This article uses the Manukato tell the wider story of syndicalism, transnationalism, anti-militarism, and the IWW in Aotearoa New Zealand.

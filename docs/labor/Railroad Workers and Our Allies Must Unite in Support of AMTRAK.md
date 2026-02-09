@@ -8,13 +8,7 @@ tags:
   - railroads
 ---
 
-## **Railroad Workers and Our Allies Must Unite in Support of AMTRAK**
-
-## **Date:** Tue, 04/25/2017 - 18:08
-
 ## **Source:** https://ecology.iww.org/node/2217
-
-**Tags:** railroad workers, Railroad Workers United (RWU), Ron Kaminkow, green unionism, just transition, public transit, Amtrak, climate justice, Donald Trump, Teamsters for a Democratic Union (TDU)
 
 ## By Ron Kaminkow -
 

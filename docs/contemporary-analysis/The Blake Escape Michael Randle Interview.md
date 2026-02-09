@@ -14,14 +14,6 @@ tags:
   - cold-war
 ---
 
-## **The Blake Escape: Michael Randle Interview**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/blake-escape-michael-randle-interview
-
-**Tags:** Black Flag, Nicolas Walter, 1980s, 1960s, prisons, United Kingdom, interviews, Cold War,
-
 ## Committee of 100, Mike Hughes
 
 Black Flag interviews Mike Randle, one of the activists who freed George Blake from Wormwood Scrubs in 1966. (Interview from 1989)

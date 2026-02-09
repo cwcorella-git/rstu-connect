@@ -9,8 +9,6 @@ tags:
 
 The Wayback Machine - https://web.archive.org/web/20250914133216/https://www.whatgamesare.com/2011/01/you-need-a-marketing-story-mar…
 
-# **[What Games Are](https://web.archive.org/web/20250914133216/https://www.whatgamesare.com/)**
-
 ## ![](_page_0_Picture_2.jpeg)
 
 [Featured](https://web.archive.org/web/20250914133216/https://www.whatgamesare.com/featured-posts.html) [Glossary](https://web.archive.org/web/20250914133216/https://www.whatgamesare.com/glossary.html) [About](https://web.archive.org/web/20250914133216/https://www.whatgamesare.com/about.html) [Consulting](https://web.archive.org/web/20250914133216/https://www.whatgamesare.com/consulting.html)

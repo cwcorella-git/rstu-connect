@@ -9,13 +9,7 @@ tags:
   - fossil fuels
 ---
 
-## **Indigenous Property Rights and the Dakota Access Pipeline**
-
-## **Date:** Tue, 09/06/2016 - 23:15
-
 ## **Source:** https://ecology.iww.org/node/1776
-
-**Tags:** Industrial Workers of the World (IWW), NoDAPL, indigenous, green syndicalism
 
 ## By Logan Glitterbomb -
 

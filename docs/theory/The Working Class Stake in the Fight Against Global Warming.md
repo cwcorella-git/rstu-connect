@@ -8,13 +8,7 @@ tags:
   - theory
 ---
 
-# **The Working Class Stake in the Fight Against Global Warming**
-
-## **Date:** Tue, 08/22/2023 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/5875
-
-**Tags:** green syndicalism, green unionism, class struggle, strategy and tactics, libertarian-socialism, anti-capitalism, anarcho-syndicalism, Green New Deal (GND), climate change, movements, unions, and organizations
 
 ## By Tom Wetzel -
 

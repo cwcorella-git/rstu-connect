@@ -11,8 +11,6 @@ tags:
 
 ## **David Graeber**
 
-# **Debt: The First Five Thousand Years**
-
 ### **2009**
 
 Debt and Violence Towards a History of Virtual Money I. Age of the First Agrarian Empires \(3500–800 BCE\) Dominant money form: virtual credit money II. Axial Age \(800 BCE — 600 CE\) Dominant money form: coinage and metal bullion III. The Middle Ages \(600 CE — 1500 CE\) The return to virtual credit-money IV. Age of European Empires \(1500–1971\) The return of precious metals V. Current Era \(1971 onwards\) The empire of debt

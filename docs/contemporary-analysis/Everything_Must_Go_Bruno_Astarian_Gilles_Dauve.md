@@ -10,13 +10,9 @@ tags:
 
 ## ![](_page_0_Picture_0.jpeg)
 
-# Everything Must Go!
-
 ## The Abolition of Value
 
 ## Bruno Astarian Gilles Dauve
-
-# Everything Must Go!
 
 ## The Abolition of Value
 

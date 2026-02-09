@@ -8,12 +8,6 @@ tags:
   - Sweden
 ---
 
-## **Greetings from Sweden: A dual-track syndicalism?**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/greetings-sweden-dual-track-syndicalism**Tags:** Rasmus Hästbacka, syndicalism, anarcho-syndicalism, SAC, Sweden
-
 The author advocates building a popular movement union that creates bothsyndicalist sectionsand cross-union cohesion among workers. Originally published inASRin the summer of 2021. After areply, a short follow up was publishedhere.
 
 In 2022, the Swedish syndicalist union SAC holds a congress. Some say that SAC is at a crossroads. But what exactly are the choices? In the following essay, Rasmus Hästbacka argues that the choice is between building a popular movement union or a "revolutionary" cadre union. Hästbacka believes in a popular movement that progresses on dual tracks, i.e. a movement that builds both syndicalist sectionsandcross-union cohesion among workers.

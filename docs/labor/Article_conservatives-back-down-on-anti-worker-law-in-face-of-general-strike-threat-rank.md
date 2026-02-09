@@ -9,9 +9,7 @@ tags:
   - labor
 ---
 
-# Conservatives Back Down On Anti Worker Law in Face of General Strike Threat Rank
-
-Conservatives back down on anti-worker law in face of general strike threat. Rank and file resolute. Date: Unknown Source: https://libcom.org/article/conservatives-back-down-anti-worker-law-face-general-strike-threat-r ank-and-file-resolute Tags: Jeff Shantz, general strikes, wildcat strikes, strikes, education, schools, unions, Ontario, Canada
+Shantz, general strikes, wildcat strikes, strikes, education, schools, unions, Ontario, Canada
 Ontario’s Conservative government officially repealed its anti-worker, anti-union legislation, known as Bill 28, on November 14.
 The Keeping Students in Class Act suspended human rights in an effort to prevent education workers in the province from striking. The government had introduced the bill only two weeks earlier — on October 31 — sparking a wave of union mobilisations and protests.
 When word began to circulate about cross-union plans to launch a general strike across Ontario — with a tentative start date, coincidentally, of November 14, the government backed down.

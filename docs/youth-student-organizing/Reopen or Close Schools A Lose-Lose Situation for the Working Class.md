@@ -8,14 +8,6 @@ tags:
   - class
 ---
 
-## **Reopen or Close Schools: A Lose-Lose Situation for the Working Class**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/reopen-or-close-schools-lose-lose-situation-working-class
-
-**Tags:** Internationalist Communist Tendency, United States, education, Internationalist Workers' Group,
-
 ## Covid-19, schools
 
 Article from 1919 (mcmxix.org), the new journal of the North American affiliates of the ICT.

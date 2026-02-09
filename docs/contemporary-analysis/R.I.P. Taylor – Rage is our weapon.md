@@ -9,12 +9,6 @@ tags:
   - libcom
 ---
 
-## **R. I. P. Taylor – Rage is our weapon**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/rip-taylor-rage-our-weapon**Tags:** Bristol Anarchist Black Cross, prisons, United Kingdom
-
 A statement from Bristol Anarchist Black Cross on the death of trans prisoner and IWW member Taylor. Content warning – suicide (graphic), prison, violence, self harm, abuse, homophobia, transphobia.
 
 Taylor is dead. He was pronounced dead in prison at 10.37pm on Saturday 9th July after cutting his neck. He was meant to be on suicide watch but the prison failed him. We were informed by the prison governor at 3.30am on Sunday. His cell has been sealed by police and we await news of the autopsy. We will announce news of his funeral in the coming days and weeks.

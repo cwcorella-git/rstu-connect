@@ -8,12 +8,6 @@ tags:
   - libcom
 ---
 
-## **In memory of Cooper Andrews, Finbar Cafferkey and Dimitri Petrov**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/memory-cooper-andrews-finbar-cafferkey-and-dimitri-petrov**Tags:** Solidarity Collectives, anarchism, anti-fascism, anti-imperialism, Anti-colonialism, Ukraine,
-
 ## Russia-Ukraine war
 
 Today has been 2 years since our three comrades, Cooper Andrews, Finbar Cafferkey and Dimitri Petrov, are missing in Action after participating in a battle near Bakhmut on the infamous "road of life".

@@ -9,15 +9,9 @@ tags:
   - wikipedia
 ---
 
-#### [en.wikipedia.org](https://en.wikipedia.org/wiki/Charles_Sumner)
-
-# **Charles Sumner**
-
 ## Contributors to Wikimedia projects
 
 60–77 minutes
-
-#### **Charles Sumner**
 
 ## ![](_page_0_Picture_7.jpeg)
 

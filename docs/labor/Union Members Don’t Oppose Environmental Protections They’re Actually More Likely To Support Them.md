@@ -8,13 +8,7 @@ tags:
   - environment
 ---
 
-## **Union Members Don't Oppose Environmental Protections: They're Actually More Likely To Support Them**
-
-## **Date:** Thu, 05/26/2016 - 13:39
-
 ## **Source:** https://ecology.iww.org/node/1658
-
-**Tags:** green unionism, labor and environment, jobs versus environment, just transition
 
 ## By Jeremy Brecher and Todd Vachon -
 

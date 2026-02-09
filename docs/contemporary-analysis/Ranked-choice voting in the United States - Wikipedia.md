@@ -9,10 +9,6 @@ tags:
   - wikipedia
 ---
 
-#### [en.wikipedia.org](https://en.wikipedia.org/wiki/Ranked-choice_voting_in_the_United_States)
-
-# **Ranked-choice voting in the United States**
-
 ## Contributors to Wikimedia projects
 
 72–92 minutes

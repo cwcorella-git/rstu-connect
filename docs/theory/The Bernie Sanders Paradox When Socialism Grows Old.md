@@ -7,14 +7,6 @@ tags:
   - theory
 ---
 
-## **The Bernie Sanders Paradox: When Socialism Grows Old**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/bernie-sanders-paradox-when-socialism-grows-old
-
-**Tags:** Murray Bookchin, United States, Bernie Sanders, PDF
-
 Murray Bookchin's 1986 article analyzing Bernie Sanders' Burlington Vermont mayoral campaign and the aftermath is equally relevant in relation to his 2016 presidential campaign. Also includes a response from Brian Higgins and rejoinder from Murry Bookchin from the next issue.
 
 The posters that appeared all over Burlington — Vermont's largest city (pop: 37,000) in the winter of 1980-81 were arresting and provocative. They showed an old map of the city with a label slapped across it that read: "For Sale." A bold slogan across the top, in turn, proclaimed that "Burlington Is Not for Sale," and smiling amiably in the right-hand corner was the youngish, fairly well-known face of Bernard Sanders, sans tie, open-collared, almost endearingly shy and unpretentious. The onlooker was enjoined to rescue Burlington by voting for "Bernie" Sanders for mayor. Sanders, the long-time gubernatorial candidate of Vermont's maverick Liberty Union, was now challenging "Gordie" Paquette, an inert Democratic fixture in City Hall, who had successfully fended off equally inert Republican opponents for nearly a decade.

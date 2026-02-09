@@ -7,10 +7,6 @@ tags:
   - youth
 ---
 
-## HOW PROPAGANDA WORKS
-
-# HOW
-
 ## WORKS
 
 PRINCETON UNIVERSITY PRESS JASON STANLEY Princeton Oxford

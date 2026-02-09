@@ -8,13 +8,7 @@ tags:
   - solidarity
 ---
 
-## **Socialism and the Principles of the International Working Men's Association - Rudolf Rocker**
-
-## **Date:** Unknown
-
 ## **Source:**
-**Tags:** Rudolf Rocker, International Workers' Association (IWA), state socialism, syndicalism
-
 An article by Rudolf Rocker about what he sees as the bankruptcy of the socialist and Communist parties and the revolutionary syndicalist International Working Men's Association (IWMA, now IWA) as the only real alternative for a liberatory future in the face of fascism. Originally appeared in Vanguard(Vol. 1, No. 8, May-June 1933)
 
 The development of the labor movement in most of the countries following the dissolution of the First International places into sharp relief the baneful influence – tactical and political – which authoritarian socialism – whether reformist or pseudo-revolutionist – exercised over the proletarian movement. Taking part in the politics of the bourgeois state has not brought the working class one inch nearer to true socialism, but on the contrary, it lost in dynamic power and importance because of it. The old saying, "he who dines with the Pope dies from it," has been fully confirmed in this case. One who is drawn in by the gear of the state machinery is destroyed by it, parliamentary activity having gradually undermined the labor and the socialist movement, destroying in the first place its faith in the necessity of creative and independent action, and imbuing it with the belief that its salvation may come from above. The consequences of this delusion have become clear more than ever since the war, especially in Germany, where it struck deep roots. So that even a bourgeois paper like the Frankfurter Zeitungcould write with reason that until now no revolution was so poverty-stricken in its ideas as the November revolution of Germany. There was not the slightest tinge of any great ideas – economic or political; it was a collapse of a labor movement in spite of the millions of workers organized politically and in the trade unions, and the slow but ceaseless process of sliding down toward the present Fascism, against which it did not even make an attempt to defend itself. The engrafting of the labor movement upon the state and its sinking to the position of a mere tool of the latter could not but lead to these results.

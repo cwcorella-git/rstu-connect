@@ -14,14 +14,6 @@ tags:
   - eme
 ---
 
-# **El Manifesto de Aceleracionismo de Género**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/el-manifesto-de-aceleracionismo-de-genero
-
-**Tags:** Español, feminism, gender, housework, historical materialism, transgender, Vikky Storm, Eme
-
 ## Flores
 
 ¡Muerte al género que nos da muerte! ¡Libertad para lxs cuirs! Pero el género muere al engullir su propia cola. El género ya está muriendo. Su último aliento está cerca, pero aún tiene tiempo para salvarse. En nosotrxs está el apresurar a su fin. Impulsarlo, darle rapidez, hacerlo…

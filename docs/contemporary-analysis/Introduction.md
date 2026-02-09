@@ -9,12 +9,6 @@ tags:
   - libcom
 ---
 
-## **Introduction**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/introduction-14**Tags:** Class War Federation, United Kingdom
-
 Introduction to Class War number 73, the final issue of Class War explaining why the organisation decided to dissolve itself.
 
 Welcome to Class War number 73. This is the last issue of Class War that will be produced by the existing Class War Federation. But before you rush off and top yourself in despair, let us explain why this is, and give you an idea of how we see the future. We have always said that Class War is different from all the other political outfits in Britain. The biggest difference between us and them is that in Class War we have never had any intention of setting ourselves up as leaders; we were never some vanguard wanting to seize power. Most other political groups only really want one thing - that is the power to tell you what to do for their benefit, not yours. In these pages you will find a no-nonsense, sometimes tough analysis of our failings. We are doing this because we feel our class needs a far better political perspective than those currently on offer from the Left - including Class War.

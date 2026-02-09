@@ -8,14 +8,6 @@ tags:
   - Italy
 ---
 
-## **General strike in Italy: new date and follow-up assembly**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/general-strike-italy-new-date-and-follow-assembly
-
-**Tags:** strikes, general strikes, Italy, COBAS, SI Cobas, base unions, International Confederation of
-
 ## Labour, USI-CIT
 
 Base and grassroots unions in Italy have called a general strike in October, which has now been moved forward to October 11th. This article was previously published by the International Confederation of Labour.

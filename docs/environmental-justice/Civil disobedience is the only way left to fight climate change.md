@@ -8,8 +8,6 @@ tags:
   - environment
 ---
 
-## **Civil disobedience is the only way left to fight climate change**
-
 | Date: Tue, 01/16/2018 - 18:44 |
 |------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/2748|

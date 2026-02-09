@@ -9,8 +9,6 @@ tags:
   - youth
 ---
 
-# A CASE FOR REVOLUTION
-
 Michael J. Robillard - Timothy J. Gordon M. A., M. A., Ph. D.
 
 ## M. A., Ph. L., J. D

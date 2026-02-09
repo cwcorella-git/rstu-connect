@@ -8,13 +8,7 @@ tags:
   - climate
 ---
 
-## **Jobs, justice, climate: The struggle continues**
-
-## **Date:** Sun, 01/17/2016 - 18:16
-
 ## **Source:** https://ecology.iww.org/node/1470
-
-**Tags:** green unionism, just transition, energy democracy, COP21, labor and environment
 
 ## By Martin Empson -
 

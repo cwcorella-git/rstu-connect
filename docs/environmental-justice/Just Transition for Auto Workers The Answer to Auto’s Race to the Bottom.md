@@ -8,13 +8,7 @@ tags:
   - just transition
 ---
 
-## **Just Transition for Auto Workers: The Answer to Auto's Race to the Bottom**
-
-## **Date:** Fri, 10/06/2023 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/5996
-
-**Tags:** strikes, United Auto Workers (UAW), automobile manufacturers, auto workers, Stellantis,
 
 General Motors (GM), class struggle, green unionism, trade unions, AFL-CIO
 

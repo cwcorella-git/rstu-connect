@@ -10,8 +10,6 @@ tags:
 
 ## ![](_page_0_Picture_2.jpeg)
 
-## REVIEW BY JORDAN T CAMP
-
 **HOME / UNCATEGORIZED / REVIEW BY JORDAN T CAMP**
 
 This essay is a part of the forum on Police: A Field Guide

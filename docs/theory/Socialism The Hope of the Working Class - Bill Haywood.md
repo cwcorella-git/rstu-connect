@@ -8,14 +8,6 @@ tags:
   - theory
 ---
 
-## **Socialism: The Hope of the Working Class - Bill Haywood**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/socialism-hope-working-class-bill-haywood
-
-**Tags:** Bill Haywood, direct action, reformism, electoralism, Industrial Workers of the World (IWW),
-
 United States, sabotage, Socialist Party of America
 
 Speech given by IWW co-founder "Big Bill" Haywood at the Cooper Union in New York City on 21 December 1911. While not eschewing political action, Haywood notably criticized the reformism of certain socialists within the Socialist Party of America and IWW, criticisms which would eventually lead to his recall from the National Executive Committee of the Socialist Party in 1913 and his exit from the same organization shortly thereafter.

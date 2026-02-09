@@ -13,8 +13,6 @@ tags:
 
 ## ![](_page_1_Picture_0.jpeg)
 
-## **Arcology: The City in the Image of Man**
-
 **Paolo Soleri** The MIT Press Cambridge, Massachusetts and London, England
 
 **Copyright (c ) 1969 by The Massachusetts Institute of Technology**

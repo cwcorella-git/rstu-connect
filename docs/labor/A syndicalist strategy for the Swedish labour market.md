@@ -9,14 +9,6 @@ tags:
   - Sweden
 ---
 
-## **A syndicalist strategy for the Swedish labour market**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/syndicalist-strategy-swedish-labour-market
-
-**Tags:** Jenny Stendahl, Erik Bonk, Rasmus Hästbacka, syndicalism, anarcho-syndicalism, SAC,
-
 ## Sweden
 
 About offensive union strategies despite contemporary anti-strike legislation. First published on the Counter Punchwebsite on May 19, 2021. Before that, it was published in the Swedish union paper Arbetaren.

@@ -9,13 +9,7 @@ tags:
 author: Miguel Amorós
 ---
 
-## **Origins and Development of Workers Autonomy in Spain (1970-1976) – Miguel Amorós**
-
-## **Date:** Unknown
-
 ## **Source:**
-**Tags:** strikes, general strikes, repression, Spain, assemblies, Miguel Amorós
-
 A chronicle of the rise and fall of the fortunes of the assembly movement in Spain during the early 1970s, with brief accounts of strike movements all over Spain, the rise of assemblies as forms of autonomous organization of the struggle, and the subsequent repression and police violence, highlighting the nefarious role played by the Communist Party and its trade union front organization at a time when it seemed that Spain was on the verge of a social revolution and that only the Communist Party and its allies could effectively prevent the workers' assemblies from associating, organizing their self-defense, and becoming a system of workers councils.
 
 Origins and Development of Workers Autonomy in Spain (1970-1976) – Miguel Amorós

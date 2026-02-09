@@ -8,12 +8,6 @@ tags:
   - feminism
 ---
 
-## **Women & the Covid-19 Crisis in South Africa**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/women-covid-19-crisis-south-africa
-
 ## **Tags:** South Africa, feminism
 
 These two statements from the women's organisation in Abahlali base Mjondolo, the largest popular movement to have emerged in post-apartheid South Africa, give a searing account of the experience of impoverished black women during the Covid-19 crisis in South Africa.

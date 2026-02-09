@@ -8,12 +8,6 @@ tags:
   - class
 ---
 
-## **Solidarity and Class War meet uptown – Andy Brown**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/solidarity-and-class-war-meet-uptown-andy-brown**Tags:** Andy Brown, Solidarity, Class War Federation, 1980s, United Kingdom, interviews
-
 On the face of it, the arrival of a new anarchist group with a newspaper which outsells other libertarian papers several times over is a promising thing. But Class War's other tactics include organising 'Bash the Rich' outings and disrupting CND meetings. While Fleet Street brands them 'political nutters', some sections of the Left have reproved their behaviour as 'fascist'. What is their own view?
 
 Andy Brown talked to three of the most active members of the London group. Two want only to be identified here as 'Janet' and 'John'. The third, Ian Bone, was also later coaxed into talking frankly about his personal history and convictions for a second interview. Here is what they have to say.

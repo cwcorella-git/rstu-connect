@@ -10,8 +10,6 @@ tags:
 
 ## **Anarchist Communist Federation**
 
-# **The Information Revolution and the Class Struggle**
-
 ## **1997**
 
 **Ultimate Agenda American Views 'Revolution' References**

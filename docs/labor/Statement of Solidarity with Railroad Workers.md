@@ -9,13 +9,7 @@ tags:
   - railroads
 ---
 
-## **Statement of Solidarity with Railroad Workers**
-
-## **Date:** Fri, 12/23/2022 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/5284
-
-**Tags:** railroad workers, Railroad Workers United (RWU), Joe Biden, union busting, class struggle, green unionism, education workers, strikes, anti-capitalism, climate change
 
 ## By Staff -
 

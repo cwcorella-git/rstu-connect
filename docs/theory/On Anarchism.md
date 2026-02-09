@@ -10,15 +10,11 @@ tags:
 
 # **Noam Chomsky**
 
-# **On Anarchism**
-
 ## **2013**
 
 #### **Introduction**
 
 **Anarcho-Curious? or, Anarchist Amnesia**
-
-#### **On Anarchism**
 
 - **1. Notes on Anarchism**
 - **2. Excerpts from Understanding Power**

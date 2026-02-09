@@ -6,11 +6,7 @@ tags:
   - riots
 ---
 
-# POSSIBILITIES
-
 ## Essays on Hierarchy, Rebellion, and Desire
-
-# POSSIBILITIES
 
 ## Essays on Hierarchy, Rebellion, and Desire
 

@@ -8,14 +8,6 @@ tags:
   - peace
 ---
 
-## **"Judge Lynch, you have the floor!" The murder of Farion amid the decay processes in the warring armies**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/judge-lynch-you-have-floor-murder-farion-amid-decay-processes-warring-armies
-
-**Tags:** assembly.org.ua, Russia-Ukraine war, war, Ukraine, Crimea, Russia, sabotage, police, prisons
-
 The long hot summer continues!
 
 Cover photo: Italian translation ofspring Assembly's materials reviewat anarchist anti-war mid-July event in Northern Italy. More general issues were covered last week in thisinterview for the WSWS. And you are welcome to join thisfundraisingto support further activities. Many thanks everyone in advance!

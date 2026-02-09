@@ -10,8 +10,6 @@ tags:
 
 MAY 28, 2010, 8:45 P. M.
 
-## Racism, shmacism. Get a rope and let's go hang us one.
-
 Anonymous comment on news story about Andrew Ramseur's capital case, www.statesville.com (Statesville Record & Landmark)
 
 ## **ENDURING INJUSTICE**

@@ -8,8 +8,6 @@ tags:
   - theory
 ---
 
-# The Haymarket Martyrs _ The Anarchist Library.pdf
-
 The Haymarket Martyrs | The Anarchist Library https://theanarchistlibrary.org/library/lucy-e-parsons-th...
            Title: The Haymarket Martyrs
            Author: Lucy E. Parsons (https://theanarchistlibrary.org/category/author/lucy-e-parsons)

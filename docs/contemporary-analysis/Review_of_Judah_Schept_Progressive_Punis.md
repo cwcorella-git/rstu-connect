@@ -11,8 +11,6 @@ tags:
 
 ## ![](_page_0_Picture_1.jpeg)
 
-## **Book review**
-
 https://doi.org/10.1177/1741659018815946Crime Media Culture 1 –3 © The Author(s) 2018 Article reuse guidelines: sagepub.com/journals-permissions DOI: 10.1177/1741659018815946 journals.sagepub.com/home/cmc
 
 ## ![](_page_0_Picture_4.jpeg)

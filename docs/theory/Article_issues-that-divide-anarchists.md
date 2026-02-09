@@ -8,12 +8,9 @@ tags:
   - theory
 ---
 
-# Issues That Divide Anarchists
-
 Issues That Divide Anarchists https://theanarchistlibrary.org/library/james-herod-issues-that-divide-ana...
 
 ## James Herod
-## Issues That Divide Anarchists
 ## in the United States
 ## July 2006
 ## 1. Lifestyle versus Social Anarchists

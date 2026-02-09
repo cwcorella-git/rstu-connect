@@ -10,8 +10,6 @@ tags:
   - railroads
 ---
 
-## **Washington State Labor AFL-CIO Resolutions On Mass Public Transit, Railroad Health and Safety**
-
 | Date: Tue, 10/04/2016 - 19:17 |
 |------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/1842|

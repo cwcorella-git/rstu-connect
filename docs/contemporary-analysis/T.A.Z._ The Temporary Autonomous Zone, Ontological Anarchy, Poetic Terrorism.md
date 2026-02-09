@@ -7,8 +7,6 @@ tags:
   - autonomy
 ---
 
-# **Hakim Bey**
-
 # **T. A. Z.: The Temporary Autonomous Zone, Ontological Anarchy, Poetic Terrorism**
 
 ### **1985**

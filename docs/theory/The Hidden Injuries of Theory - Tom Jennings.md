@@ -7,14 +7,6 @@ tags:
   - theory
 ---
 
-## **The Hidden Injuries of Theory - Tom Jennings**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/hidden-injuries-theory-tom-jennings
-
-**Tags:** Class War Federation, 1990s, film, United Kingdom, BM Blob, Tom Jennings, Here and Now
-
 Tom Jennings talks about the real contradictions in Class War and questions whether revolutionary theorising doesn't disguise more particular interests behind its all-embracing eloquence.
 
 Despite readers' criticisms and editorial self-doubts,Here and Nowis steering a fruitful path between academicism and the risks of self-marginalisation and ritualistic ultra-leftism. Assessing the power of middle class ideology (eg managerialism, professionalism, bureaucracy) is long overdue, given that middle class groups and agendas are instrumental in making quite fundamental decisions in the running of capitalism and the disposition of State resources; control of resources and personal ownership of capital no longer necessarily correspond; and when the course of so much of our day to day experience follows directions moulded by scientific and professional power.

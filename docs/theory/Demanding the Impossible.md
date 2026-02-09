@@ -7,8 +7,6 @@ tags:
   - theory
 ---
 
-# **Peter H. Marshall Demanding the Impossible A History of Anarchism**
-
 # **1993**
 
 #### **Introduction**

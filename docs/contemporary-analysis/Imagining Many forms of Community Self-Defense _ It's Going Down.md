@@ -7,8 +7,6 @@ tags:
 
 ## [itsgoingdown.org](https://itsgoingdown.org/imagining-many-forms-community-self-defense/)
 
-## **Imagining Many forms of Community Self-Defense**
-
 ## Anonymous Contributor
 
 ~4 minutes

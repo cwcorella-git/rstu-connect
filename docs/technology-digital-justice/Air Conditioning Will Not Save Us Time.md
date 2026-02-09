@@ -8,10 +8,6 @@ tags:
   - digital rights
 ---
 
-## [time.com](https://time.com/6199353/air-conditioning-will-not-save-us/)
-
-## Air Conditioning Will Not Save Us
-
 ## By Eric Dean Wilson
 
 21-27 minutes

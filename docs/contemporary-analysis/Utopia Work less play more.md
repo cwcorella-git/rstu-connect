@@ -8,10 +8,6 @@ tags:
   - current-events
 ---
 
-## **Utopia: Work less play more**
-
-## **Date:** Sun, 01/22/2017 - 17:50
-
 ## **Source:** https://ecology.iww.org/node/2032
 
 ## **Tags:** green unionism

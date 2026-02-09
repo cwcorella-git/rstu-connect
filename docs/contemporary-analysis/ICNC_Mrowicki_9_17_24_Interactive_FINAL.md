@@ -9,8 +9,6 @@ tags:
 
 #### ICNC MONOGRAPH SERIES
 
-# All Rise
-
 ## Judicial Resistance in Poland
 
 ## Marcin Mrowicki

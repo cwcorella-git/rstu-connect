@@ -8,13 +8,7 @@ tags:
   - food
 ---
 
-## **NEPA IWW Delivers A Message to Wendy's: We Want Fair Food**
-
-## **Date:** Mon, 06/06/2016 - 16:33
-
 ## **Source:** https://ecology.iww.org/node/1670
-
-**Tags:** Industrial Workers of the World (IWW), Coalition of Immokalee Workers, agricultural workers and
 
 ## peasants, green unionism, Alex Lotorto
 

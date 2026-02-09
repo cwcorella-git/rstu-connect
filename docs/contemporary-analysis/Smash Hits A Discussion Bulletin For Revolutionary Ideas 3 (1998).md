@@ -10,8 +10,6 @@ tags:
   - libcom
 ---
 
-## **Smash Hits: A Discussion Bulletin For Revolutionary Ideas 3 (1998)**
-
 | Date: Unknown |
 |---------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://libcom.org/article/smash-hits-discussion-bulletin-revolutionary-ideas-3-1998|

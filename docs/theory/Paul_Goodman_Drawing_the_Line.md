@@ -8,8 +8,6 @@ tags:
   - theory
 ---
 
-## **Redrawing The Line: The Anarchist Writings of Paul Goodman**
-
 ## Paul Comeau
 
 ## Spring, 2012

@@ -9,12 +9,6 @@ tags:
   - workers
 ---
 
-## **The "Left-Wingers" and the IWW**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/left-wingers-and-iww
-
 ## **Tags:** Socialist Party of America, syndicalism
 
 An article, possibly by editor John Sandgren, directed to the recently expelled 'left-wing' of the Socialist Party of America. The piece essentially warns this grouping that, despite their sympathies with the IWW, the union was a revolutionary syndicalist organization that is hostile to parliamentary efforts. Originally appeared in the One Big Union Monthly(July 1919)

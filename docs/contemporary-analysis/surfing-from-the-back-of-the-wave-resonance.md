@@ -9,8 +9,6 @@ tags:
 
 The Wayback Machine - https://web.archive.org/web/20250915112307/https://www.whatgamesare.com/2011/01/surfing-from-the-back-of-the-wa…
 
-# **[What Games Are](https://web.archive.org/web/20250915112307/https://www.whatgamesare.com/)**
-
 ## ![](_page_0_Picture_2.jpeg)
 
 [Featured](https://web.archive.org/web/20250915112307/https://www.whatgamesare.com/featured-posts.html) [Glossary](https://web.archive.org/web/20250915112307/https://www.whatgamesare.com/glossary.html) [About](https://web.archive.org/web/20250915112307/https://www.whatgamesare.com/about.html) [Consulting](https://web.archive.org/web/20250915112307/https://www.whatgamesare.com/consulting.html)

@@ -7,14 +7,6 @@ tags:
   - alternatives
 ---
 
-# **Not a single wheel can turn: Further thoughts on organising and mobilising in the "gig" economy**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/not-single-wheel-can-turn-further-thoughts-organising-and-mobilisinggig-economy
-
-**Tags:** Industrial Workers of the World (IWW), retail and food, distribution, United Kingdom, food service, fast food, Manchester, restaurants, New Syndicalist, Deliveroo
-
 A report on Deliveroo riders in Manchester taking their second day of strike action. Originally published on the New Syndicalist.
 
 The below article, originally published on the New Syndicalist, describes an IWW organiser's attempts helping to organise Deliveroo riders in Manchester for their second strike. You can read an earlier article here on how we organised our first strike. Since our strike on Valentine's Day, riders in Dublin had been on strike over similar issues, as well as concerns over health and safety, after a video of a Dublin Deliveroo rider being attacked on the street went viral earlier that week. I hope the lessons I've learned and noted here can be of help in your organising, or encourage you to take that first step in building power for working people. If they have, get in touch – we all need all the help we can get!

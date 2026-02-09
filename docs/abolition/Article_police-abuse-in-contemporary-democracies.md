@@ -8,14 +8,10 @@ tags:
   - democracy
 ---
 
-# Police Abuse in Contemporary Democracies
-
 POLICE ABUSE IN CONTEMPORARY DEMOCRACIES
 ## Edited by
 Michelle D. Bonner, Guillermina Seri,
 ## Mary Rose Kubal, and Michael Kempa
-
-## Police Abuse in Contemporary Democracies
 
 Michelle D. Bonner · Guillermina Seri Mary Rose Kubal · Michael Kempa
 ## Editors

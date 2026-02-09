@@ -9,8 +9,6 @@ tags:
   - youth
 ---
 
-## **Storytelling on the Road to Socialism: Episode 16: A Teacher Speaks**
-
 | Date: Tue, 07/04/2023 - 00:00 |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/5803|

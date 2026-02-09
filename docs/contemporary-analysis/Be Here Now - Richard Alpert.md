@@ -11,8 +11,6 @@ tags:
 
 ## ![](_page_1_Picture_0.jpeg)
 
-## ENHANCED EDITION
-
 ## ![](_page_2_Picture_0.jpeg)
 
 ## ![](_page_2_Picture_1.jpeg)

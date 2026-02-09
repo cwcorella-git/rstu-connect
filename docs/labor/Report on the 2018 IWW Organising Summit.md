@@ -9,14 +9,6 @@ tags:
   - workers
 ---
 
-## **Report on the 2018 IWW Organising Summit**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/report-2018-iww-organising-summit
-
-**Tags:** organisation, Industrial Workers of the World (IWW), unions, syndicalism, United Kingdom,
-
 ## Sheffield, Reddebrek
 
 My notes on the UK IWW's organising summit in Sheffield.

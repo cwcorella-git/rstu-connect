@@ -7,14 +7,6 @@ tags:
   - liberty
 ---
 
-## **We Demand freedom for Azat Miftakhov**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/we-demand-freedom-azat-miftakhov
-
-**Tags:** Russia, Azat Miftakhov, prisons, anarchists
-
 News about the condition of Azat Miftakhov a Mathematician and Anarchist political prisoner who has been in persecuted since 2019.
 
 Translated into English from an Esperanto language article hosted at Neniammilitointerni.

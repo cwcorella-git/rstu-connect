@@ -11,8 +11,6 @@ tags:
 
 ## [en.wikipedia.org](https://en.wikipedia.org/wiki/United_States_v._Bhagat_Singh_Thind)
 
-## **United States v. Bhagat Singh Thind**
-
 ## Contributors to Wikimedia projects
 
 15–18 minutes

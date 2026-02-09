@@ -8,14 +8,6 @@ tags:
   - LGBTQ+
 ---
 
-# **Queer Anarcho Communism: An Atemporal Approach**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/queer-anarcho-communism-atemporal-approach
-
-**Tags:** Mother Earth, Max Stirner, anarchism, anarcho-communism, Fredy Perlman, queer anarcho communism
-
 This is a collection of an essay, the Queer Anarchist Communist Manifesto, and the writings created to go along with it. The sectionsare as follows: the Queer Anarchist Communist Manifesto; page by page summary of Against His-Story, Against Leviathan by Fredy Perlman; re-writes of Emma Goldman's Mother Earthmagazine into summaries and commentary; page-by-page summary of Baeden's "Against The Gendered Nightmare" essay, from the Journal of Queer Heresy, and several more summaries andcommentaries of essays from Ian Mc Kay's Libertarian Reader volumes 1 and 2 used in thepaper.
 
 In this essay, I hope to put forward a queer anarchist communism for the 21st century and beyond through various lenses, particularly of Fredy Perlman, Walt Whitman, Bæden's Journal of Queer Heresy, and the authors of the anarchist magazine Mother Earth. A queer anarchism: an event gives rise to multiplicities of duplication that emerge from the singularity of each event. Queer anarchism: like the Tom Vague's The Boy Scout's Guide to the Situationist International says, there is no situationism, there are only situationists (3). Queerness is something someone can take up at any time; queerness is analogous to Plato's instant, which he speaks about in Appendix to Dialogs 1 and 2 of the Parmenides - the moment outside of time, which allows for change. The instant is called a "queer thing" in the Gill and Ryan translation (Plato 163). It is the indestructible chaos of timeless things, as Molloy describes of the moon in Samuel Beckett's Molloy (41). Queerness is authenticity, in that queerness is the Platonic instant outside of time. This is like immemorial time for Deleuze, which is everything in sense that sense produces in consciousness, which is prior to the time experienced by consciousness phenomenologically. This is why authenticity has an unconscious basis, as it is the unconscious which returns as a geological, unconscious phenomena. It is the instant of the break with the socius. Queerness is escape from capture, and straightness is the capture into the Leviathan, the eternal undead superorganism which is, as Perlman says, a locus of death, in that it is the death which captures our potentiality and makes us stiffen in accordance with its artificial life (68). The Leviathan is contrary to what

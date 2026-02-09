@@ -8,8 +8,6 @@ tags:
   - Bookchin
 ---
 
-# **Social Ecology versus Deep Ecology: A Challenge for the Ecology Movement**
-
 #### **Contents**
 
 | Two Conflicting Tendencies | 4 |

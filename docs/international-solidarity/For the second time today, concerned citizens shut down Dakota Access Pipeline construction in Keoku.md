@@ -9,13 +9,7 @@ tags:
   - solidarity
 ---
 
-## **For the second time today, concerned citizens shut down Dakota Access Pipeline construction in Keokuk**
-
-## **Date:** Wed, 10/12/2016 - 17:58
-
 ## **Source:** https://ecology.iww.org/node/1853
-
-**Tags:** NoDAPL, green unionism, direct action, Deep Roots Jessica, Industrial Workers of the World (IWW), pipelines, Dakota Access Pipeline (DAPL), Iowa
 
 ## By Aaron Murphy, Ruby Montoya, and Jim Arenz -
 

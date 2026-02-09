@@ -12,13 +12,7 @@ tags:
   - sean
 ---
 
-# **Corporations Call for "Net Zero" Emissions: Do They Know How to Get There?**
-
-## **Date:** Fri, 08/19/2016 - 17:10
-
 ## **Source:** https://ecology.iww.org/node/1749
-
-**Tags:** renewable energy, green capitalism, ecosocialism, green unionism, just transition, Sean
 
 ## Sweeney
 

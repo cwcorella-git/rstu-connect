@@ -7,12 +7,6 @@ tags:
   - current-events
 ---
 
-## **There are a great many springtimes: notes on Bethann Hardison's Invisible Beauty**
-
-## **Date:** 2024-09-12
-
-**Source:** https://www.threadings.io/there-are-a-great-many-springtimes/
-
 an essay nearly entitled, "a story which returns me to my own brilliance."
 
 The strangest part about terminal illness is how often death comes for a peck on the lips and nothing more. A few weeks ago, I flew home to attend my mother's final affairs. Now we sit, smoothies and champagne glasses, watching a movie to spend time together. It's sunny this Tuesday. Here are reflections from

@@ -7,10 +7,6 @@ tags:
   - commons
 ---
 
-#### [eurozine.com](https://www.eurozine.com/the-commons-versus-capitalism/)
-
-# **The commons versus capitalism**
-
 26–33 minutes
 
 Although every proprietor knows his own, … all things, so long as they will last, are used in common amongst them.

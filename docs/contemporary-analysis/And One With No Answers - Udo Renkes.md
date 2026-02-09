@@ -12,14 +12,6 @@ tags:
   - udo-renkes
 ---
 
-## **And One With No Answers - Udo Renkes**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/and-one-no-answers-udo-renkes
-
-**Tags:** 1980s, police, Germany, squatting, Berlin, Udo Renkes
-
 As part of our feature on squatting we had reserved space for an interview with the Berlin Police. However, our numerous attempts to get this interview were unsuccessful.
 
 Originally appeared in Bar Fax, August 1981.

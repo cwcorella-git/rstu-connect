@@ -13,13 +13,7 @@ tags:
   - health-and-safety
 ---
 
-## **The Revolution Will Be On Rail, Part I**
-
-## **Date:** Mon, 06/20/2016 - 15:51
-
 ## **Source:** https://ecology.iww.org/node/1689
-
-**Tags:** green unionism, railroad workers, Railroad Workers United (RWU), crude-by-rail, Railcon15, Brotherhood of Locomotive Engineers and Trainmen (BLET), Industrial Workers of the World (IWW), J. P. Wright, just transition, health and safety
 
 ## By Matt Stannard -
 

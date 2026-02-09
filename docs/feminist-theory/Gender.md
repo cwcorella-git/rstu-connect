@@ -6,8 +6,6 @@ tags:
   - feminism
 ---
 
-# **Ivan Illich**
-
 # **Gender**
 
 ## **1973**

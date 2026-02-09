@@ -7,12 +7,6 @@ tags:
   - digital rights
 ---
 
-## **Reclaiming Libertarianism**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/reclaiming-libertarianism
-
 ## **Tags:** Anonymous, anarchism
 
 ## An expression of what genuine libertarianism is

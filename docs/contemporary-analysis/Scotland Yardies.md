@@ -12,14 +12,6 @@ tags:
   - 1990s
 ---
 
-## **Scotland Yardies**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/scotland-yardies
-
-**Tags:** Black Flag, drugs, police, Brixton, Jamaica, 1990s
-
 An article on the corruption and ineptitude of the Metropolitan Police's Drug Related Violence Intelligence Unit and the crack cocaine trade. From Black Flag#212 (1997)
 
 Content warning:sexual violence, rape.

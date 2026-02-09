@@ -8,10 +8,6 @@ tags:
   - feminism
 ---
 
-## **What kind of "just transition"?**
-
-## **Date:** Tue, 12/01/2015 - 18:07
-
 ## **Source:** https://ecology.iww.org/node/1410
 
 | Tags: just transition, energy democracy, System Change not Climate Change (SCnCC), Trade Unions

@@ -11,14 +11,6 @@ tags:
   - India
 ---
 
-## **Anarchism, Mutual Aid, and Self-Organization: From the George Floyd Uprising to India's Farmer Rebellion**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/anarchism-mutual-aid-and-self-organization-george-floyd-uprising-indias-farmer-rebellion
-
-**Tags:** general strikes, India, agriculture, Narendra Modi, It's Going Down, Pranav Jeevan P, Shaheen Bagh
-
 The following essay examines the explosion of mass struggles in India under the far-Right Modi government while comparing them to the George Floyd uprising in the United States, highlighting the role that mutual aid and self-organization played in each. This article was first published by It's Going Down.
 
 India witnessed the rise of two large protest movements in last 2 years which saw millions taking to streets against the oppressive laws passed by the government. These were the Anti-CAA protests against the discriminative Citizenship Amendment Act (CAA), and the farmers protests against a series of pro-corporate farm laws. During the Anti-CAA protests, the loudest voices of dissent have been the women; from housewives to grandmothers, lawyers to students, women across India have been at the forefront of this struggle. This female-driven political awakening has been most jubilantly epitomized by the sit-in protest located in Shaheen Bagh a neighborhood in New Delhi, drawing a cross-generational, largely female crowd never seen before seen in India1. Then came the farmer protests, where millions of farmers took to streets to fight the anti-farmer legislation that was passed in the Indian parliament and to highlight the issues of agrarian crisis which has been growing in India for the last few decades. In these protests, there is an unprecedented solidarity being displayed in the daily rallies that draw out thousands of people all over Indian cities. There are no visible leaders calling out to people to protest in one mode or another, yet the country has found a way to speak truth to power2.

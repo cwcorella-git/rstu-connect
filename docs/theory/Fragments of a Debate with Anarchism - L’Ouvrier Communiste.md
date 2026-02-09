@@ -8,14 +8,6 @@ tags:
   - socialism
 ---
 
-## **Fragments of a Debate with Anarchism - L'Ouvrier Communiste**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/fragments-debate-anarchism-louvrier-communiste-0
-
-**Tags:** L'Ouvrier Communiste, anarchism, communism, debates
-
 [The following is our English translation of two written responses from L'Ouvrier Communiste to the anarchists of Lotta Anarchica.]
 
 ## Response to Lotta Anarchica

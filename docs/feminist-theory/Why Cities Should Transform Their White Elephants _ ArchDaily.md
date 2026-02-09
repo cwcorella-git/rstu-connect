@@ -8,10 +8,6 @@ tags:
   - feminism
 ---
 
-#### [archdaily.com](https://www.archdaily.com/949159/why-cities-should-transform-their-white-elephants?ad_campaign=special-tag)
-
-# **Why Cities Should Transform Their White Elephants**
-
 Written by Fabian Dejtiar | Translated by Maggie Johnson
 
 8–10 minutes

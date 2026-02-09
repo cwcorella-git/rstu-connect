@@ -11,8 +11,6 @@ tags:
 
 # **Pierre-Joseph Proudhon**
 
-# **What is Property?**
-
 # **An Inquiry into the Principle of Right and of Government**
 
 ### **1840**

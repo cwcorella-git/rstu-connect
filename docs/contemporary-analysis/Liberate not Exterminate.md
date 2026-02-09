@@ -7,8 +7,6 @@ tags:
   - current-events
 ---
 
-# **Curious George Brigade Liberate not Exterminate 2005**
-
 Why did we write this Zine? We Love the City and We Believe in Anarchy Cities Need Liberation Not Extermination Save the Earth, Reinvent the City! Preserving Both Biodiversity and Cultural Diversity: Deep Urbanism Beneath the Paving Stones is Chaos The Coming Apocalypse: Anti-Civilization Bunk Oasis Or Reform The Anarchy of Abundance
 
 #### **Why did we write this Zine?**

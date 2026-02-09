@@ -6,8 +6,6 @@ tags:
   - culture
 ---
 
-# **Episode 21: Martin Luther And Descartes/**
-
 #### **Source:**
 Welcome back to Awakening from the Meaning Crisis. Last time we took a look at the advent of the Scientific Revolution and we looked at the work of Copernicus and how the important advent of a scientific description of reality had with it the consequence that most of our experience, our sensory experience, was questionable as illusory in nature. Galileo also developed that idea of the math as the language of reality, and used that with the new experimental method — a method also born out of the idea that most of our cognition is deceptive and biasing in nature — and he used that to discover inertial motion and that changed the notion of matter into something that exists and resists our will. But that had the effect of killing the universe and making it purposeless in nature. And thus, we become odd islands of meaning and purpose in a vast ocean of meaningless purposeless material motion.
 

@@ -9,14 +9,6 @@ tags:
   - workers
 ---
 
-## **Durham Teaching Assistants – Not Finished Yet?**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/durham-teaching-assistants-not-finished-yet
-
-**Tags:** Internationalist Communist Tendency, education
-
 The solidarity and determination of the Durham Teaching Assistants has been an inspiration to other workers throughout the North East and beyond. More than once they refused to accept a deal which would have meant a complete cave-in.
 
 Like so many workers in the North East, we have been following the doughty fight put up by the Durham TAs against the attempt by Labour-controlled Durham County Council to cut their earnings. In a period when one section of workers after another has been pushed back their example has been an encouragement to many. Over the two years of this struggle we have spoken to many TAs from different schools in the various events they have organised and participated in their admirably open mass meetings. However, after seeing the discontent at the supposed "overwhelming" acceptance of the latest Unison-negotiated "final offer" we decided to issue a leaflet with our own comments which we gave out during the demonstration/picket of Durham Council's County Hall on October 26.

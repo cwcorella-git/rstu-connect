@@ -9,13 +9,7 @@ tags:
   - workers
 ---
 
-## **Utopia: Industrial Workers Taking the Wheel**
-
-## **Date:** Thu, 01/12/2017 - 16:35
-
 ## **Source:** https://ecology.iww.org/node/2018
-
-**Tags:** Lucas Plan, green syndicalism, green unionism, ecosocialism, just transition
 
 ## By Hilary Wainwright -
 

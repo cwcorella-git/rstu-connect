@@ -9,8 +9,6 @@ tags:
 
 ## ![](_page_0_Picture_0.jpeg)
 
-# **"We Know This Place": Neoliberal Racial Regimes and the Katrina Circumstance**
-
 ## Jordan T. Camp
 
 American Quarterly, Volume 61, Number 3, September 2009, pp. 693-717 (Article)

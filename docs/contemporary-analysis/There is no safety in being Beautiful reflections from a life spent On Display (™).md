@@ -7,12 +7,6 @@ tags:
   - current-events
 ---
 
-# **There is no safety in being Beautiful: reflections from a life spent On Display (™)**
-
-## **Date:** 2023-04-09
-
-**Source:** https://www.threadings.io/24-there-is-no-safety-in-being-beautiful/
-
 An essay that was previously published as "Being Ugly is a sin I am happy to commit."
 
 Ismatu Gwendolyn (in the red dress) walks in her first fashion show at 12 years old. She stands next to her sister (far right) and two friends.

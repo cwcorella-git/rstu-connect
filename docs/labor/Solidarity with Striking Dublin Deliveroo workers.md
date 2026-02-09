@@ -8,14 +8,6 @@ tags:
   - gig economy
 ---
 
-## **Solidarity with Striking Dublin Deliveroo workers**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/solidarity-striking-dublin-deliveroo-workers
-
-**Tags:** workplace activity, Industrial Workers of the World (IWW), retail and food, strikes, distribution,
-
 Ireland, food service, fast food, wildcat strikes, Deliveroo
 
 This week has seen strike action throughout Dublin in the middle of a pandemic by Deliveroo workers. The workers, who have enough of being treated so badly, are asking Deliveroo for better working conditions, security, delivery fees & value standards. A member of the Industrial Workers of the World did the following interview with one Deliveroo striker to find out more and how people can effectively support their actions.

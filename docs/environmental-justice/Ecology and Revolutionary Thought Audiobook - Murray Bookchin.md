@@ -8,14 +8,6 @@ tags:
   - Bookchin
 ---
 
-## **Ecology and Revolutionary Thought Audiobook - Murray Bookchin**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/ecology-and-revolutionary-thought-audiobook-murray-bookchin
-
-**Tags:** Murray Bookchin, audio, ecology, Audible Anarchist
-
 Audiobook of Murray Bookchin's Ecology and Revolutionary Thought.
 
 ## Part 1: The Critical Nature of Ecology

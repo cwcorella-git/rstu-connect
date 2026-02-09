@@ -8,14 +8,6 @@ tags:
   - workers
 ---
 
-## **Humanitarian aid is brought only by volunteers: a refugee about self-organization in occupied Kherson**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/humanitarian-aid-brought-only-volunteers-refugee-about-self-organization-occupied-kherson
-
-**Tags:** assembly.org.ua, Russia, Russia-Ukraine war, war, police, Ukraine
-
 In this region of southern Ukraine, people are dying more from medicament shortages than from bombs. This was told by Stefan, the coordinator of grassroots volunteer movement of Nova Kakhovka, managed to go to Georgia. Title photo is from his town. Our publication about radical popular resistance in the totalitarian hell you can readhere.
 
 Please support the online media center covering this war from the social struggle positions forcommunity rebuilding campaignin destroyed frontline Kharkov. To donate you are welcome to jointhis fundraising.

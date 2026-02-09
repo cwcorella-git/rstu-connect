@@ -6,12 +6,6 @@ tags:
   - feminism
 ---
 
-## **Reproductive justice is economic justice.**
-
-## **Date:** 2023-02-19
-
-**Source:** https://www.threadings.io/19-a-love-letter-to-my-seven-year/
-
 Capitalism has brainwashed us into thinking children are burdensome by design.
 
 Children of my tribe, who work in school with no desks (2022).

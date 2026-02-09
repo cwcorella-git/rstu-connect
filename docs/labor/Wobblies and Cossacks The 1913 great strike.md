@@ -8,14 +8,6 @@ tags:
   - unions
 ---
 
-## **Wobblies and Cossacks: The 1913 great strike**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/wobblies-and-cossacks-1913-great-strike
-
-**Tags:** Industrial Workers of the World (IWW), strikes, general strikes, docks, New Zealand, Ciaran
-
 ## Doolin, PDF
 
 A short history of the 1913 New Zealand general strike by Ciaran Doolin.

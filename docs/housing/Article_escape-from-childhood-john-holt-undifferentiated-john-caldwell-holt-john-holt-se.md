@@ -8,11 +8,7 @@ tags:
   - tenants
 ---
 
-# Escape From Childhood John Holt Undifferentiated John Caldwell Holt John Holt Se
-
 ## ESCAPE FOR CHILDHOOD
-## JOHN HOLT
-
 ## 1. THE PROBLEM OF CHILDHOOD
 THIS IS a book about young people and their place, or lack of place, in modern society. It is about the institution of modern childhood, the attitudes, customs and taws that define and locate children in modern life and determine, to a large degree, what their lives are like and how we, their elders, treat them. And it is about the many ways in which modern childhood seems to me to be bad for most of those who live within it and how it should and might be changed. For a long time it never occurred to me to question this institution. Only in recent years did I begin to wonder whether there might be other or better ways for young people to live. By now I have come to feel that the fact of being a ‘child’, of being wholly subservient and dependent, of being seen by older people as a mixture of expensive nuisance, slave and super-pet, does most young people more harm than good. I propose instead that the rights, privileges, duties and responsibilities of adult citizens be made available to any young person, of whatever age, who wants to make use of them. These would include, among others:
    1. The right to equal treatment at the hands of the law i. e. the right, in any situation, to

@@ -9,13 +9,7 @@ tags:
   - workers
 ---
 
-## **What if the workers were in control?**
-
-## **Date:** Tue, 11/01/2016 - 19:11
-
 ## **Source:** https://ecology.iww.org/node/1925
-
-**Tags:** Lucas Plan, green unionism, green syndicalism, green jobs, United Kingdom (UK), just transition
 
 ## By Hillary Wainwright -
 

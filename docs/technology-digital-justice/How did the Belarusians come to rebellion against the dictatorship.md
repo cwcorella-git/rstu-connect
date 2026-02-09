@@ -9,14 +9,6 @@ tags:
   - digital rights
 ---
 
-## **How did the Belarusians come to rebellion against the dictatorship**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/how-did-belarusians-come-rebellion-against-dictatorship
-
-**Tags:** military and law enforcement, Belarus, elections, pramen.io, Lukaschenka, uprising, police
-
 If you had asked people in Belarus how long the dictatorship of Lukashenko was left in early 2020, they would have looked at you like a fool. In a respected dictatorship, such questions are not asked, because you know what can happen. And in general, it so happens that the reign of the great leader is timeless. But the situation has changed so radically over the last 8 months that Belarusians took to the streets and for the first time in the new history of Belarus they fought back the police in at least 33 different cities of the country.
 
 Today Belarusians have woken up in a new country. In it, people openly talk about hatred for the government and prepare for a violent confrontation with the police and state. They discuss online and live effective methods of struggle. Several factories went on strike the day after the elections.

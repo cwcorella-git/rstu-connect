@@ -8,14 +8,6 @@ tags:
   - class
 ---
 
-## **November 15: Class war, memory war! - Proletarios Revolucionarios**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/november-15-class-war-memory-war-proletarios-revolucionarios
-
-**Tags:** strikes, general strikes, uprisings, massacres, repression, Ecuador, Proletarios Revolucionarios,
-
 ## Guayaquil
 
 Translated text from Proletarios Revolucionarios ("Revolutionary Proletarians") from Ecuador, about the memory of the 15 November workers' uprising in Guayaquil in 1922, which was crushed by the state.

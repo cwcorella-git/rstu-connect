@@ -10,8 +10,6 @@ tags:
 
 ## ![](_page_0_Picture_0.jpeg)
 
-# WOMEN'S RIGHTS AND FEMINIST MOVEMENTS IN IRAN1
-
 #### **Nayereh Tohidi**
 
 **•** *An overview of how the Iranian women's movement* **•** *has emerged in the face of unique contexts*

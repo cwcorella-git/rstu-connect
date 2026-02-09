@@ -7,8 +7,6 @@ tags:
   - organizing
 ---
 
-# Organizing Materials and Activities
-
 **Date**: September 8, 2025
 **Purpose**: Comprehensive documentation of RSTU's organizing strategies, meeting notes, campaigns, and community building activities
 

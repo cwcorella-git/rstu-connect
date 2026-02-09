@@ -8,12 +8,6 @@ tags:
   - Nevada
 ---
 
-## **"Now and then the flame dies down, but solidarity is a stream of sparks"**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/now-and-then-flame-dies-down-solidarity-stream-sparks
-
 ## **Tags:** Russia, Antifa, anti-fascism, prisons
 
 Ilya Shakursky, an antifascist political prisoner in Russia, appeals to people to write to him, and to others imprisoned in the infamous "Network" case. See a note at the end about where to send messages

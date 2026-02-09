@@ -9,10 +9,6 @@ tags:
   - wikipedia
 ---
 
-#### [en.wikipedia.org](https://en.wikipedia.org/wiki/Globalize_the_intifada)
-
-# **Globalize the intifada**
-
 ## Contributors to Wikimedia projects
 
 15–18 minutes

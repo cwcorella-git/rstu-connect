@@ -8,15 +8,9 @@ tags:
   - digital rights
 ---
 
-#### [archdaily.com](https://www.archdaily.com/977508/natural-house-ideo-arquitectura)
-
-# Natural House / Ideo arquitectura
-
 ## Curated by Agustina Coulleri
 
 6-8 minutes
-
-#### Natural House / Ideo arquitectura
 
 ## ![](_page_0_Picture_8.jpeg)
 

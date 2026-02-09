@@ -8,14 +8,6 @@ tags:
   - feminism
 ---
 
-## **The Origins and Capture of International Working Women's Day**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/origins-and-capture-international-working-womens-day
-
-**Tags:** Internationalist Communist Tendency, women, internationalism, feminism, Internationalist
-
 ## Communists Oceania, Australia
 
 We know that the bourgeois state can provide us no genuine or lasting protections and we know that women will never be safe for as long as class society and the social construct of gender exists.

@@ -9,14 +9,6 @@ tags:
   - organizing-work
 ---
 
-# **Pushing: On the U in AEIOU**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/pushing-u-aeiou
-
-**Tags:** workplace activity, Industrial Workers of the World (IWW), MK Lees, Organizing Work
-
 MK Lees describes the psychological dimensions of organizing. This article first appeared on the Organizing Workblog.
 
 I have seen so much misunderstanding in the IWW when it comes to the "U" in AEIOU. Some people think it's AEIO = U. You Agitate,Educate,Inoculate, and Organize and then you get a Union. This is not the way I learned organizing, and so I want to talk about an idea that I feel has gotten lost, and humbly offer up some advice.

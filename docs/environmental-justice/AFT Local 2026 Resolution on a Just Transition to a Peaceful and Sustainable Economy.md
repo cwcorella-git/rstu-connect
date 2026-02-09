@@ -8,11 +8,7 @@ tags:
   - feminism
 ---
 
-## **AFT Local 2026 Resolution on a Just Transition to a Peaceful and Sustainable Economy**
-
 | Date: Wed, 06/08/2016 - 18:20
-Source: https://ecology.iww.org/node/1675
-Tags: just transition, green unionism, American Federation of Teachers (AFT), teachers |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Passed by the |
 | Representative Council of AFT Local 2026 |

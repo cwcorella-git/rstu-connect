@@ -9,8 +9,6 @@ tags:
 
 ## James Herod
 
-## Defeating Capitalists Quickly to Save the Earth
-
 ## December 2016
 
 How can we defeat capitalists quickly? Why quickly? Because we have run out of time. Capitalists are on the verge of killing most life on earth, including humans, with global warming. This essay will present some exploratory thoughts on this dire situation we find ourselves in, especially with regard to our anti-capitalist struggles, our hopes for anarchy, and our prospects for cooling the earth. This is only a sketch; it will take a lot of work to flesh it out, probably more than I will be able to do.

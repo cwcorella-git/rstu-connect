@@ -9,17 +9,11 @@ tags:
   - wikipedia
 ---
 
-#### [en.wikipedia.org](https://en.wikipedia.org/wiki/Ozawa_v._United_States)
-
-# **Ozawa v. United States**
-
 ## Contributors to Wikimedia projects
 
 10–13 minutes
 
 ## From Wikipedia, the free encyclopedia
-
-#### **Takao Ozawa v. United States**
 
 ## ![](_page_0_Picture_8.jpeg)
 

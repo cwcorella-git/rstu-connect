@@ -8,8 +8,6 @@ tags:
   - theory
 ---
 
-# The Anarchist Library Wikipedia
-
 The Anarchist Library - Wikipedia https://en.wikipedia.org/wiki/The_Anarchist_Library
          The Anarchist Library
          The Anarchist Library is an online anarchist library and The Anarchist Library

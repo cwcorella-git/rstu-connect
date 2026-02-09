@@ -9,12 +9,6 @@ tags:
   - libcom
 ---
 
-## **Because we want ourselves alive, together we are disrupting everything: Notes for thinking about the paths of social transformation today**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/because-we-want-ourselves-alive-together-we-are-disrupting-everythi ng-notes-thinking-about
-
 ## **Tags:** feminism, Raquel Gutiérrez Aguilar
 
 Raquel Gutiérrez Aguilar on popular feminisms in Latin America.

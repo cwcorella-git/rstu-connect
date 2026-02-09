@@ -7,14 +7,6 @@ tags:
   - theory
 ---
 
-## **ABC Irkutsk: support the revolutionary prisoners of Siberia!**
-
-**Date:** Unknown
-
-**Source:** https://libcom.org/article/abc-irkutsk-support-revolutionary-prisoners-siberia
-
-**Tags:** assembly.org.ua, Russia-Ukraine war, war, Ukraine, Russia, prisons
-
 Just spreading what the Irkutsk Anarchist Black Cross tells about their activity.
 
 Although the winter cold in Ukraine is already coming to an end and the worst blackouts are behind us, our team still needs funds to work on this international column and offline volunteer activities. Welcome to join the fundraising if you haven't alreadyat this link. Many thanks everyone in advance!

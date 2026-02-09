@@ -9,21 +9,13 @@ tags:
   - digital rights
 ---
 
-# **Crude Awakening: A new air district rule might prevent increased Canadian tar sands production at Bay Area refineries**
-
-## **Date:** Wed, 06/15/2016 - 12:11
-
 ## **Source:** https://ecology.iww.org/node/1679
-
-**Tags:** Big Oil, Communities for a Better Environment (CBE), Asian Pacific Environmental Network (APEN), Movement Generation, Sunflower Alliance, Bay Area, Bay Area Refinery Corridor Coalition (BARCC), refineries, USW Local 5, United Steelworkers of America (USW)
 
 ## By Will Parrish -
 
 ## North Bay Bohemian
 
 ## , June 8, 2016
-
-## I
 
 n recent years, oil corporations have intensified their push to make the San Francisco Bay Area and other areas of the West Coast into international hubs for refining and shipping of one of the world's most carbon-intensive and polluting fuel sources: the Canadian tar sands.
 

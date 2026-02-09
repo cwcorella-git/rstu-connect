@@ -10,13 +10,9 @@ tags:
 
 ## GUY DEBORD
 
-# THE SOCIETY OF THE SPECTACLE
-
 ## Translated and annotated by Ken Knabb
 
 ### GUY DEBORD
-
-## THE SOCIETY OF THE SPECTACLE
 
 ## Translated and annotated by Ken Knabb
 

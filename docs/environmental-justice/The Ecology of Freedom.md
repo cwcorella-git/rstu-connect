@@ -9,8 +9,6 @@ tags:
   - Bookchin
 ---
 
-# **Murray Bookchin**
-
 # **The Ecology of Freedom**
 
 # **The Emergence and Dissolution of Hierarchy**

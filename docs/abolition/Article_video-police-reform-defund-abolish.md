@@ -8,9 +8,6 @@ tags:
   - abolition
 ---
 
-# Video Police Reform Defund Abolish
-
-[VIDEO] Police: Reform? Defund? Abolish? Date: Unknown Source: https://libcom.org/article/video-police-reform-defund-abolish Tags: police
 Should police be reformed, defunded, or abolished?
 
 [youtube]ik2xZEgoReE[/youtube]

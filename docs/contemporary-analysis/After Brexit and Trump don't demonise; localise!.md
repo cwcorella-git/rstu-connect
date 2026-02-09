@@ -14,13 +14,7 @@ tags:
   - neoliberalism
 ---
 
-## **After Brexit and Trump: don't demonise; localise!**
-
-## **Date:** Sun, 11/27/2016 - 18:03
-
 ## **Source:** https://ecology.iww.org/node/1932
-
-**Tags:** Donald Trump, green syndicalism, green unionism, ecosocialism, climate justice, globalization, movement politics, neoliberalism
 
 ## By Helena Norberg-Hodge & Rupert Read -
 

@@ -8,8 +8,6 @@ tags:
   - alternatives
 ---
 
-## **Our Poisonous Economic System Needs A Grassroots Intervention**
-
 | Date: Tue, 11/08/2016 - 09:55 |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/1899|

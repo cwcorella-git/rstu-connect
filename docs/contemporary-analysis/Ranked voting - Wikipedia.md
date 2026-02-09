@@ -9,10 +9,6 @@ tags:
   - wikipedia
 ---
 
-#### [en.wikipedia.org](https://en.wikipedia.org/wiki/Ranked_voting)
-
-# **Ranked voting**
-
 ## Contributors to Wikimedia projects
 
 19–24 minutes
@@ -20,8 +16,6 @@ tags:
 ## From Wikipedia, the free encyclopedia
 
 For the voting system often called ranked-choice voting in the United States, see [Instant-runoff voting.](https://en.wikipedia.org/wiki/Instant-runoff_voting)
-
-## Various types of ranked voting ballot
 
 **Ranked voting** is any [voting system](https://en.wikipedia.org/wiki/Voting_system) that uses voters' [rankings](https://en.wikipedia.org/wiki/Ordinal_utility) of candidates to choose a single winner or multiple winners. More formally, a ranked system is one that depends only on which of two candidates is preferred by a voter, and as such does not incorporate any information about [intensity of](https://en.wikipedia.org/wiki/Rated_voting) [preferences](https://en.wikipedia.org/wiki/Rated_voting). Ranked voting systems vary dramatically in how preferences are tabulated and counted, which gives them [very](https://en.wikipedia.org/wiki/Comparison_of_voting_rules) [different properties.](https://en.wikipedia.org/wiki/Comparison_of_voting_rules) In [instant-runoff voting](https://en.wikipedia.org/wiki/Instant-runoff_voting) (IRV) and the [single](https://en.wikipedia.org/wiki/Single_transferable_vote) [transferable vote](https://en.wikipedia.org/wiki/Single_transferable_vote) system (STV), lower preferences are used as contingencies (back-up preferences) and are only applied when all higher-ranked preferences on a ballot have been eliminated or when the vote has been cast for a candidate who has been elected and surplus votes need to be transferred.
 

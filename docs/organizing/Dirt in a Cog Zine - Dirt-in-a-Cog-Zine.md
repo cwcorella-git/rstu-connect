@@ -10,8 +10,6 @@ tags:
 
 SMALL WAYS TO RESIST FASCISM THAT MAKE A BIG DIFFERENCE
 
-# What does dirt in a cog mean?
-
 Dirt in a cog refers to the way machinery cogs (gears) will slow, jam up, go crooked, and otherwise not work right if they're dirty. It may not totally shut down the machine, but it will make it a hell of a lot harder to run.
 
 That's what this zine is. Of course protests, community organizing, and large acts of resistance are critical to fight against fascist and authoritarian regimes. This is not a way to avoid that. We must engage in those. BUT there are also ways we can resist in our everyday lives.

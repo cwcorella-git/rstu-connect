@@ -8,9 +8,7 @@ tags:
   - strikes
 ---
 
-# General Strike in South Africa
-
-General Strike in South Africa Date: Unknown Source: https://libcom.org/article/general-strike-south-africa Tags: general strikes, South Africa, National Union of Metal Workers of South Africa, South African
+South Africa, National Union of Metal Workers of South Africa, South African
 ## Federation of Trade Unions
 
 Cities and rural towns across South Africa were shut down today as the new South African Federation of Trade Unions, which is independent of the ruling ANC, and driven by the militant National Union of Metal Workers, held a successful general strike. The strike was strongly supported by popular organisations organised outside of the factory floor, such as Abahlali baseMjondolo. It is being understood as a clear indication that the ANC has lost its hold over the organised working class.

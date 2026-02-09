@@ -8,13 +8,7 @@ tags:
   - France
 ---
 
-# **Is the Paris Climate Conference Designed to Fail?**
-
-## **Date:** Fri, 11/13/2015 - 18:55
-
 ## **Source:** https://ecology.iww.org/node/1382
-
-**Tags:** COP21, climate justice, Brian Tokar, movement politics, greenwashing
 
 ## By Brian Tokar -
 

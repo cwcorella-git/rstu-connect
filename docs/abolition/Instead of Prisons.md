@@ -7,8 +7,6 @@ tags:
   - education
 ---
 
-# **Prison Research Education Action Project Instead of Prisons**
-
 ## **A Handbook for Abolitionists**
 
 ## **1976**

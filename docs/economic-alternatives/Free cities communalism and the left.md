@@ -9,14 +9,6 @@ tags:
   - alternatives
 ---
 
-## **Free cities: communalism and the left**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/free-cities-communalism-and-left
-
-**Tags:** Murray Bookchin, anarchism, libertarian socialism, city, ecology, Eirik Eiglad
-
 The last collection of essays written by Murray Bookchin before he died.
 
 Editor's preface: Creating Free Cities Introduction, by Murray Bookchin The Ecological Crisis and the Need to Remake Society Nationalism and the "National Question"The Historical Importance of the City Anarchism as Individualism Anarchism, Power, and Government The Revolutionary Politics of Libertarian Municipalism The Future of the Left Toward a Communalist Approach

@@ -8,14 +8,6 @@ tags:
   - peace
 ---
 
-## **Refusals to fight from both sides of the front: entering the second autumn of war**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/refusals-fight-both-sides-front-entering-second-autumn-war
-
-**Tags:** assembly.org.ua, Russia-Ukraine war, war, Ukraine, Russia, sabotage, prisons
-
 Just a modest local view from the Kharkiv region on the increase in fatigue among the Russian and Ukrainian frontline troops during summer 2023.
 
 Welcome to join thefundraisingof our team for to work on this international column and offline volunteer activities. A couple of cups of coffee in your country, even before the war, could be equivalent to a day's earnings of a worker in Ukraine. Many thanks everyone in advance!

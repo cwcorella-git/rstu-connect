@@ -9,10 +9,6 @@ tags:
   - wikipedia
 ---
 
-#### [en.wikipedia.org](https://en.wikipedia.org/wiki/Standpoint_theory)
-
-# **Standpoint theory**
-
 ## Contributors to Wikimedia projects
 
 28–36 minutes

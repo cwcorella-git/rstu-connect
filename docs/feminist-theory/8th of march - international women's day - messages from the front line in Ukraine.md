@@ -9,14 +9,6 @@ tags:
   - Ukraine
 ---
 
-## **8th of march - international women's day - messages from the front line in Ukraine**
-
-**Date:** Unknown
-
-**Source:** https://libcom.org/article/8th-march-international-womens-day-messages-front-line-ukraine
-
-**Tags:** Solidarity Collectives, feminism, Russia-Ukraine war, colonialism, imperialism
-
 Statement from Solidarity Collectives in Ukraine on International Women's Day.
 
 "Solidarity Collectives" is an anti-authoritarian volunteer network formed before the full-scale Russian invasion of Ukraine to help comrades on the front line and civilians affected by the war. "Collectives" isn't merely a name but the essence of our initiative which was joined by various organizations and groups from Ukraine, Germany, Poland, France, US, Netherlands, Canada, and many other countries.

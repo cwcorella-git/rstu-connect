@@ -8,14 +8,6 @@ tags:
   - Bookchin
 ---
 
-## **Listen, Marxist! - Murray Bookchin**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/listen-marxist-murray-bookchin
-
-**Tags:** Murray Bookchin, Marxism, state socialism, Maoism, Leninism, Trotskyism, SDS, Progressive
-
 ## Labor Party
 
 Murray Bookchin's best-known leaflet, Listen, Marxist! was aimed predominantly at students influenced by the Maoist Progressive Labor Party which was heavily (and highly destructive) active in the mass Students for a Democratic Society movement in 1960s and 70s America. His criticisms of "Marxism" and Marxist terminology are not applicable to Marxism as a whole, but some do apply to the crude politics of the PLP. Despite this significant shortcoming, we reproduce the document here due to its importance in terms of the left and libertarian left in the US

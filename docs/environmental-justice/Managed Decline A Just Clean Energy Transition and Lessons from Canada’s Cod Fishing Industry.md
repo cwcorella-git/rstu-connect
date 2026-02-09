@@ -8,13 +8,7 @@ tags:
   - feminism
 ---
 
-## **Managed Decline: A Just Clean Energy Transition and Lessons from Canada's Cod Fishing Industry**
-
-## **Date:** Fri, 09/30/2016 - 16:01
-
 ## **Source:** https://ecology.iww.org/node/1794
-
-**Tags:** just transition, jobs versus environment, green jobs, coal, mine workers, mining, oil, tar sands,
 
 ## Canada, fisherfolk
 

@@ -9,14 +9,6 @@ tags:
   - libertarian-communist
 ---
 
-## **Is this the end?: as the CNT crumbles**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/end-cnt-crumbles
-
-**Tags:** Terry Sheen, Billy Williams, Confederación Nacional del Trabajo (CNT), Libertarian Communist,
-
 Libertarian Communist (publication), Federación Anarquista Ibérica (FAI), anarchism, anarcho-syndicalism, International Workers' Association (IWA), Spain 1970s
 
 An article by Terry Sheen & Billy Williams documenting the conflict in the Spanish anarcho-syndicalist union, the CNT, that eventually resulted in a split, litigation and the establishment of the CGT. Originally appeared in Libertarian Communist#8 (1980)

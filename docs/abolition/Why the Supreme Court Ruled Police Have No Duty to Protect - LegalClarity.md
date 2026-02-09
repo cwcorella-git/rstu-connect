@@ -13,8 +13,6 @@ Search Legal Clarity...
 
 [CIVIL RIGHTS LAW](https://legalclarity.org/category/civil-rights-law/)
 
-# Why the Supreme Court Ruled Police Have No Duty to Protect
-
 Learn the constitutional distinction between limiting state power and guaranteeing individual protection, and how this shapes the legal duties of the police.
 
 ## ![](_page_0_Picture_6.jpeg)

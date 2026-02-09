@@ -9,8 +9,6 @@ tags:
 
 #### **Murray Bookchin**
 
-# **Listen, Marxist!**
-
 ## **1969**
 
 **Published:** as brochure by Anarchos for the SDS conference in 1969.

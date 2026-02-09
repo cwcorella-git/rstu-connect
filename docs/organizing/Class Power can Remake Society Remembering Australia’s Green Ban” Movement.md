@@ -8,13 +8,7 @@ tags:
   - Australia
 ---
 
-## **Class Power can Remake Society: Remembering Australia's "Green Ban" Movement**
-
-## **Date:** Wed, 03/24/2021 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/4212
-
-**Tags:** green syndicalism, green unionism, strategy and tactics, class struggle, Industrial Workers of the World (IWW), green bans, Builders Labourers' Federation, revolutionary unions, Jack Mundey, Australia
 
 ## By Ben Purtill -
 

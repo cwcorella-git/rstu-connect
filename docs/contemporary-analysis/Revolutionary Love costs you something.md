@@ -9,12 +9,6 @@ tags:
   - revolution
 ---
 
-## **Revolutionary Love costs you something.**
-
-## **Date:** 2023-07-30
-
-**Source:** https://www.threadings.io/revolutionary-love-costs-you-something/
-
 If you told me my life would be like this, I wouldn't have believed you.
 
 PRE-ESSAY PRAYERS AT THE END OF JULY 2023: How do I say this without yelling

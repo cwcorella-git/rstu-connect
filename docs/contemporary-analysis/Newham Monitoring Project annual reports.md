@@ -9,8 +9,6 @@ tags:
   - libcom
 ---
 
-## **Newham Monitoring Project annual reports**
-
 | Date: Unknown |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://libcom.org/article/newham-monitoring-project-annual-reports|

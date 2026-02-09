@@ -7,8 +7,6 @@ tags:
   - capitalism
 ---
 
-## **Peter Gelderloos Commoning and Scarcity a manifesto against capitalism June 2012**
-
 The commons are a world apart from capitalism. They are a source of livelihood that people share. Before the spread of capitalism, most of the planet was commons. Cultures that treated the commons as a gift from nature that had to be treated with respect, tended to have the most bountiful commons and therefore the fewest problems of survival. Cultures that treated the commons as property or an exploitable resource generally exhausted them, and either brought about their own collapse or had to resort to warfare and conquest to survive. Some of these cultures would eventually form capitalism.
 
 Capitalism theorizes and creates scarcity. Capitalism has thrived by destroying or privatizing the commons wherever they arise. As long as people have access to the commons, they can enjoy a measure of self-sufficiency and cannot be forced to sell their labor to the wealthy in order to survive. For common people, capitalism is a blackmail: work or starve. The commons offer another option: self-sufficiency by harvesting the gifts of nature. Because the basis of the commons is the spontaneous gift, people who live in or of the commons often recreate the gift economy; sharing, cooperating, and helping each other out in order to attain a high standard of living. Also for this reason, the commons are the enemy of capitalism.

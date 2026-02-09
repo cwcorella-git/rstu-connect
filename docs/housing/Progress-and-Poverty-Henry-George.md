@@ -12,7 +12,6 @@ tags:
   - poverty
   - political-economy
 ---
-# Progress and Poverty
 
 **An Inquiry into the Cause of Industrial Depressions and of Increase of Want with Increase of Wealth: The Remedy**
 
@@ -28,15 +27,11 @@ tags:
   No. 4
 
 
-
-
   MEMORIAL EDITION
   OF THE WRITINGS
   OF HENRY GEORGE
 
   VOL. I.
-
-
 
 
 Make for thyself a definition or description of the thing which is
@@ -57,8 +52,6 @@ Antoninus._
 
 [Illustration: _Henry George when writing “Progress and Poverty” San
 Francisco, 1879_]
-
-
 
 
   THE WRITINGS OF
@@ -84,14 +77,10 @@ Francisco, 1879_]
   1898
 
 
-
-
   Copyright, 1891, by
   HENRY GEORGE
 
   THE DE VINNE PRESS.
-
-
 
 
   TO THOSE WHO,
@@ -102,8 +91,6 @@ Francisco, 1879_]
   AND WOULD STRIVE FOR ITS ATTAINMENT
 
   SAN FRANCISCO, March, 1879.
-
-
 
 
             There must be refuge! Men
@@ -127,8 +114,6 @@ Francisco, 1879_]
     Reap the harvests yellow.
 
     _Whittier._
-
-
 
 
 PREFACE TO FOURTH EDITION.
@@ -324,8 +309,6 @@ preface added, this edition is the same as previous ones.
   NEW YORK, _November_, 1880.
 
 
-
-
 CONTENTS.
 
 
@@ -467,14 +450,10 @@ CONTENTS.
   The problem of individual life                                     553
 
 
-
-
 INTRODUCTORY.
 
 
 THE PROBLEM.
-
-
 
 
     Ye build! ye build! but ye enter not in,
@@ -483,8 +462,6 @@ THE PROBLEM.
     Ere its verdure gleams forth on your wearied eye.
 
     _—Mrs. Sigourney._
-
-
 
 
 INTRODUCTORY.
@@ -807,8 +784,6 @@ prejudices, let us not flinch; if they challenge institutions that have
 long been deemed wise and natural, let us not turn back.
 
 
-
-
 BOOK I.
 
 WAGES AND CAPITAL.
@@ -825,12 +800,8 @@ CHAPTER IV.—THE MAINTENANCE OF LABORERS NOT DRAWN FROM CAPITAL.
 CHAPTER V.—THE REAL FUNCTIONS OF CAPITAL.
 
 
-
-
   He that is to follow philosophy must be a freeman in mind.
           —_Ptolemy_.
-
-
 
 
 CHAPTER I.
@@ -1257,8 +1228,6 @@ Similar citations might be made from all the standard economists.
 best for the sake of simplicity to confine the inquiry. Any question
 which may arise in the reader’s mind as to wages for unproductive
 services had best therefore be deferred.
-
-
 
 
 CHAPTER II.
@@ -1844,8 +1813,6 @@ covered by this distinction, and would be substantially correct. In
 speaking of money in this connection, I am of course speaking of coin,
 for although paper money may perform all the functions of coin, it is
 not wealth, and cannot therefore be capital.
-
-
 
 
 CHAPTER III.
@@ -2461,8 +2428,6 @@ receiver, who may, perhaps, be in another quarter of the globe and at
 the end of a series of exchanges numbering hundreds.
 
 
-
-
 CHAPTER IV.
 
 THE MAINTENANCE OF LABORERS NOT DRAWN FROM CAPITAL.
@@ -2766,8 +2731,6 @@ Chap. III, p. 25.
 in standard works.
 
 
-
-
 CHAPTER V.
 
 THE REAL FUNCTIONS OF CAPITAL.
@@ -3044,8 +3007,6 @@ FOOTNOTES:
 1855. Chap. XXI.
 
 
-
-
 BOOK II.
 
 POPULATION AND SUBSISTENCE.
@@ -3060,16 +3021,12 @@ CHAPTER III.—INFERENCES FROM ANALOGY.
 CHAPTER IV.—DISPROOF OF THE MALTHUSIAN THEORY.
 
 
-
-
     Are God and Nature then at strife,
       That Nature lends such evil dreams?
       So careful of the type she seems,
     So careless of the single life.
 
     —_Tennyson._
-
-
 
 
 CHAPTER I.
@@ -3450,8 +3407,6 @@ Report U. S. Department of Agriculture, 1873.
 [17] Origin of Species, Chap. III.
 
 [18] Note IV. to Wealth of Nations.
-
-
 
 
 CHAPTER II.
@@ -4277,8 +4232,6 @@ not interest in the economic sense of the term.
 settled districts.
 
 
-
-
 CHAPTER III.
 
 INFERENCES FROM ANALOGY.
@@ -4591,8 +4544,6 @@ them now. If I have succeeded in maintaining a negative—in showing that
 the Malthusian theory is not proved by the reasoning by which it is
 supported—it is enough for the present. In the next chapter I propose
 to take the affirmative and show that it is disproved by facts.
-
-
 
 
 CHAPTER IV.
@@ -4938,8 +4889,6 @@ FOOTNOTES:
 [31] The rate up to 1860 was 35 per cent. each decade.
 
 
-
-
 BOOK III.
 
 THE LAWS OF DISTRIBUTION.
@@ -4964,8 +4913,6 @@ THE LAWS OF DISTRIBUTION.
  CHAPTER VIII.—THE STATICS OF THE PROBLEM THUS EXPLAINED.
 
 
-
-
  The machines that are first invented to perform any particular
  movement are always the most complex, and succeeding artists generally
  discover that with fewer wheels, with fewer principles of motion
@@ -4978,8 +4925,6 @@ THE LAWS OF DISTRIBUTION.
  discordant phenomena that occur in a whole species of things.—_Adam
  Smith_, _Essay on the Principles which Lead and Direct Philosophical
  Inquiries, as Illustrated by the History of Astronomy_.
-
-
 
 
 CHAPTER I.
@@ -5345,8 +5290,6 @@ if Tom and Dick were the original partners, and Harry came in but as an
 assistant to and sharer with Dick.
 
 
-
-
 CHAPTER II.
 
 RENT AND THE LAW OF RENT.
@@ -5602,8 +5545,6 @@ Mr. Ricardo.
 [35] Buckle (Chap. II., History of Civilization) recognizes the
 necessary relation between rent, interest, and wages, but evidently
 never worked it out.
-
-
 
 
 CHAPTER III.
@@ -6098,8 +6039,6 @@ FOOTNOTES:
 returns to capital.
 
 
-
-
 CHAPTER IV.
 
 OF SPURIOUS CAPITAL AND OF PROFITS OFTEN MISTAKEN FOR INTEREST.
@@ -6282,8 +6221,6 @@ there is nothing unjust or unnatural in the wide gulf between rich and
 poor; that wealth is but the reward of industry, intelligence, and
 thrift; and poverty but the punishment of indolence, ignorance, and
 imprudence.
-
-
 
 
 CHAPTER V.
@@ -6545,8 +6482,6 @@ and sought the law which divides the produce between rent and wages;
 that is to say, between the possessors of the two factors, natural
 substances and powers, and human exertion—which two factors by their
 union produce all wealth.
-
-
 
 
 CHAPTER VI.
@@ -6961,8 +6896,6 @@ accounts for the high wages of successful lawyers, physicians,
 contractors, actors, etc.
 
 
-
-
 CHAPTER VII.
 
 THE CORRELATION AND CO-ORDINATION OF THESE LAWS.
@@ -7032,8 +6965,6 @@ center, no mutual relation; they are not the correlating divisions of
 a whole, but measures of different qualities. In the statement we have
 given, they spring from one point, support and supplement each other,
 and form the correlating divisions of a complete whole.
-
-
 
 
 CHAPTER VIII.
@@ -7156,8 +7087,6 @@ land is yet worth nothing, but to the great cities, where the ownership
 of a little patch of ground is a fortune.
 
 
-
-
 BOOK IV.
 
 EFFECT OF MATERIAL PROGRESS UPON THE DISTRIBUTION OF WEALTH.
@@ -7172,8 +7101,6 @@ EFFECT OF MATERIAL PROGRESS UPON THE DISTRIBUTION OF WEALTH.
  OF WEALTH.
 
  CHAPTER IV.—EFFECT OF THE EXPECTATION RAISED BY MATERIAL PROGRESS.
-
-
 
 
  Hitherto, it is questionable if all the mechanical inventions yet made
@@ -7193,8 +7120,6 @@ EFFECT OF MATERIAL PROGRESS UPON THE DISTRIBUTION OF WEALTH.
         In the country of the free.
 
     —_Mrs. Browning._
-
-
 
 
 CHAPTER I.
@@ -7278,8 +7203,6 @@ That Ricardo’s law of rent does not depend upon the direction of the
 extension of cultivation, but upon the proposition that if land of a
 certain quality will yield something, land of a better quality will
 yield more.
-
-
 
 
 CHAPTER II.
@@ -7693,8 +7616,6 @@ has been given by political economists, is really the more important.
 But this, in our inquiry, is not a matter of moment.
 
 
-
-
 CHAPTER III.
 
 THE EFFECT OF IMPROVEMENTS IN THE ARTS UPON THE DISTRIBUTION OF WEALTH.
@@ -8027,8 +7948,6 @@ economy, the effect would simply be to increase the value of land, not
 to raise either wages or interest.
 
 
-
-
 CHAPTER IV.
 
 EFFECT OF THE EXPECTATION RAISED BY MATERIAL PROGRESS.
@@ -8202,8 +8121,6 @@ I think, shown by recurring seasons of industrial paralysis—a matter
 which will be more fully examined in the next book.
 
 
-
-
 BOOK V.
 
 THE PROBLEM SOLVED.
@@ -8213,8 +8130,6 @@ THE PROBLEM SOLVED.
  DEPRESSION.
 
  CHAPTER II.—THE PERSISTENCE OF POVERTY AMID ADVANCING WEALTH.
-
-
 
 
  To whomsoever the soil at any time belongs, to him belong the fruits
@@ -8228,8 +8143,6 @@ THE PROBLEM SOLVED.
  seigneur, delicately lounging in the Œil de Bœuf, hath an alchemy
  whereby he will extract from her the third nettle, and call it
  rent.—_Carlyle._
-
-
 
 
 CHAPTER I.
@@ -8824,8 +8737,6 @@ a new period of activity has commenced, as above predicted, and in New
 York and Chicago real estate prices have already begun to recover.
 
 
-
-
 CHAPTER II.
 
 THE PERSISTENCE OF POVERTY AMID ADVANCING WEALTH.
@@ -9274,14 +9185,10 @@ FOOTNOTES:
 [43] Systems of Land Tenure, published by the Cobden Club.
 
 
-
-
  This Memorial Edition of the Writings of Henry George is limited to
  one thousand numbered copies, of which this is
 
  No. 4
-
-
 
 
   MEMORIAL EDITION
@@ -9289,8 +9196,6 @@ FOOTNOTES:
   OF HENRY GEORGE
 
   VOL. II.
-
-
 
 
   THE WRITINGS OF
@@ -9316,15 +9221,11 @@ FOOTNOTES:
   1898
 
 
-
-
   Copyright, 1891, by
   HENRY GEORGE
 
 
   THE DE VINNE PRESS.
-
-
 
 
 BOOK VI.
@@ -9337,8 +9238,6 @@ THE REMEDY.
  CHAPTER II.—THE TRUE REMEDY.
 
 
-
-
  A new and fair division of the goods and rights of this world
  should be the main object of those who conduct human affairs.—_De
  Tocqueville._
@@ -9348,8 +9247,6 @@ THE REMEDY.
  When the object is to raise the permanent condition of a people, small
  means do not merely produce small effects; they produce no effect at
  all.—_John Stuart Mill._
-
-
 
 
 CHAPTER I.
@@ -10251,8 +10148,6 @@ concentration. To resist it successfully we must throttle steam and
 discharge electricity from human service.
 
 
-
-
 CHAPTER II.
 
 THE TRUE REMEDY.
@@ -10339,8 +10234,6 @@ dine with him, but the pig being brought in before the company arrived,
 Keimer could not resist the temptation and ate it all himself.
 
 
-
-
 BOOK VII.
 
 JUSTICE OF THE REMEDY.
@@ -10358,13 +10251,9 @@ JUSTICE OF THE REMEDY.
  CHAPTER V.—PROPERTY IN LAND IN THE UNITED STATES.
 
 
-
-
  Justice is a relation of congruity which really subsists between two
  things. This relation is always the same, whatever being considers it,
  whether it be God, or an angel, or lastly a man.—_Montesquieu._
-
-
 
 
 CHAPTER I.
@@ -10821,8 +10710,6 @@ obliged to step in and settle the matter by buying land for a tribal
 annuity, in which every child that is born acquires a share.
 
 
-
-
 CHAPTER II.
 
 THE ENSLAVEMENT OF LABORERS THE ULTIMATE RESULT OF PRIVATE PROPERTY IN
@@ -11160,8 +11047,6 @@ of maintenance for a slave. He quickly discovered that to many of his
 hearers it was an anti-climax.
 
 
-
-
 CHAPTER III.
 
 CLAIM OF LAND OWNERS TO COMPENSATION.
@@ -11473,8 +11358,6 @@ Social Statics, with what he considers valid answers to himself as
 given in “Justice,” 1891. This has also been reprinted by D. Appleton &
 Co., and constitutes, I think, the very funniest answer to himself ever
 made by a man who claimed to be a philosopher.
-
-
 
 
 CHAPTER IV.
@@ -12001,8 +11884,6 @@ rent to the nation, disputes the statement of Blackstone that a
 knight’s service was but for 40 days, and says it was during necessity.
 
 
-
-
 CHAPTER V.
 
 OF PROPERTY IN LAND IN THE UNITED STATES.
@@ -12306,8 +12187,6 @@ common schools will be in vain; our discoveries and inventions will but
 add to the force that presses the masses down!
 
 
-
-
 BOOK VIII.
 
 APPLICATION OF THE REMEDY.
@@ -12321,8 +12200,6 @@ APPLICATION OF THE REMEDY.
  CHAPTER III.—THE PROPOSITION TRIED BY THE CANONS OF TAXATION.
 
  CHAPTER IV.—INDORSEMENTS AND OBJECTIONS.
-
-
 
 
     Why hesitate? Ye are full-bearded men,
@@ -12339,8 +12216,6 @@ APPLICATION OF THE REMEDY.
     That all the angels will applaud the deed.
 
     —_E. R. Taylor._
-
-
 
 
 CHAPTER I.
@@ -12508,8 +12383,6 @@ FOOTNOTES:
 $55,000 a year, with a payment of $2.62½ on each skin, which on
 100,000 skins, to which the take is limited, amounts to $262,500—a
 total rent of $317,500.
-
-
 
 
 CHAPTER II.
@@ -12684,8 +12557,6 @@ let me ask him to follow me somewhat further, that we may try the
 remedy I have proposed by the accepted canons of taxation. In doing
 so, many incidental bearings may be seen that otherwise might escape
 notice.
-
-
 
 
 CHAPTER III.
@@ -13115,8 +12986,6 @@ prohibition, though given for the purpose of stimulating discovery and
 invention, really in the long run operates as a check upon them.
 
 
-
-
 CHAPTER IV.
 
 INDORSEMENTS AND OBJECTIONS.
@@ -13363,8 +13232,6 @@ the masses, it is easy to see how a union of political forces strong
 enough to carry it into practice becomes possible.
 
 
-
-
 BOOK IX.
 
 EFFECTS OF THE REMEDY.
@@ -13380,8 +13247,6 @@ EFFECTS OF THE REMEDY.
  ORGANIZATION AND SOCIAL LIFE.
 
 
-
-
  I cannot play upon any stringed instrument; but I can tell you how of
  a little village to make a great and glorious city.—_Themistocles._
 
@@ -13393,8 +13258,6 @@ EFFECTS OF THE REMEDY.
  And they shall build houses and inhabit them; and they shall plant
  vineyards and eat the fruit of them. They shall not build and another
  inhabit; they shall not plant and another eat.—_Isaiah._
-
-
 
 
 CHAPTER I.
@@ -13584,8 +13447,6 @@ which paralyze industry would cease; every wheel of production would
 be set in motion; demand would keep pace with supply, and supply with
 demand; trade would increase in every direction, and wealth augment on
 every hand.
-
-
 
 
 CHAPTER II.
@@ -13799,8 +13660,6 @@ activities now devoted to scraping together riches would be translated
 into far higher spheres of usefulness.
 
 
-
-
 CHAPTER III.
 
 OF THE EFFECT UPON INDIVIDUALS AND CLASSES.
@@ -14002,8 +13861,6 @@ be seen from the calculations that have been made as to the sewage of
 our cities, and its practical result is to be seen in the diminishing
 productiveness of agriculture in large sections. In a great part of the
 United States we are steadily exhausting our lands.
-
-
 
 
 CHAPTER IV.
@@ -14560,8 +14417,6 @@ which arise. I can but suggest some thoughts, which may, perhaps, serve
 as hints for further thought.
 
 
-
-
 BOOK X.
 
 THE LAW OF HUMAN PROGRESS.
@@ -14578,8 +14433,6 @@ THE LAW OF HUMAN PROGRESS.
  CHAPTER V.—THE CENTRAL TRUTH.
 
 
-
-
                     What in me is dark
     Illumine, what is low raise and support;
     That to the height of this great argument
@@ -14587,8 +14440,6 @@ THE LAW OF HUMAN PROGRESS.
     And justify the ways of God to men.
 
     —_Milton._
-
-
 
 
 CHAPTER I.
@@ -15032,8 +14883,6 @@ come?”
 
 [60] Herbert Spencer’s definition of Evolution, “First Principles,” p.
 396.
-
-
 
 
 CHAPTER II.
@@ -15533,8 +15382,6 @@ highly poetical form alluded to this influence:
     “Quell the Scot,” exclaims the lance;
     “Bear me to the heart of France,”
     Is the longing of the shield.
-
-
 
 
 CHAPTER III.
@@ -16200,8 +16047,6 @@ their strength and valor. And this seems to be the general origin of
 eating prisoners of war.
 
 
-
-
 CHAPTER IV.
 
 HOW MODERN CIVILIZATION MAY DECLINE.
@@ -16728,8 +16573,6 @@ superior to the latest State Constitutions, the most recent of which is
 that of California—a piece of utter botchwork.
 
 
-
-
 CHAPTER V.
 
 THE CENTRAL TRUTH.
@@ -17007,13 +16850,9 @@ Christianity—the City of God on earth, with its walls of jasper and its
 gates of pearl! It is the reign of the Prince of Peace!
 
 
-
-
 CONCLUSION.
 
 THE PROBLEM OF INDIVIDUAL LIFE.
-
-
 
 
     The days of the nations bear no trace
@@ -17026,8 +16865,6 @@ THE PROBLEM OF INDIVIDUAL LIFE.
       And this is all that our watcher said.
 
     —_Frances Brown._
-
-
 
 
 CONCLUSION.
@@ -17381,8 +17218,6 @@ which do not relate to self—
     “It seems a story from the world of spirits,
     When any one obtains that which he merits,
     Or any merits that which he obtains.”
-
-
 
 
 INDEX.
@@ -18003,6 +17838,5 @@ in hyphenation have been standardised but all other spelling and
 punctuation remains unchanged.
 
 Italics are represented thus _italic_.
-
 
 

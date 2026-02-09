@@ -11,14 +11,6 @@ tags:
   - football
 ---
 
-## **Crime And Punishment**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/crime-and-punishment
-
-**Tags:** BM Blob, police, 1980s, prisons, football
-
 BM Blob on policing, prisons and the 1981 riots...
 
 'Modern prisoners are imperfectable since they are perfect. There is nothing left to do but to destroy them'. Victor Serge: 'Men in Prison'. (1914)

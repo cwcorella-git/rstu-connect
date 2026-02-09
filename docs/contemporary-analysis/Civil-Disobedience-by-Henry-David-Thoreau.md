@@ -6,8 +6,6 @@ tags:
   - civil disobedience
 ---
 
-## *Civil Disobedience*
-
 ## **By Henry David Thoreau**
 
 ## **1849**

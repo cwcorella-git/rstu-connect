@@ -12,14 +12,6 @@ tags:
   - industrial-and-commercial-workers
 ---
 
-## **The Rise and Fall of the ICU: a Case of Self-Destruction? - Phil Bonner**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/rise-and-fall-icu-case-self-destruction-phil-bonner
-
-**Tags:** racism, South Africa, unions, syndicalism, Phil Bonner, Industrial and Commercial Workers
-
 ## Union of Africa, PDF
 
 This essay, which first appeared in the South African Labour Bulletin, sought to draw the lessons of the spectacular rise and fall of the Industrial and Commercial Workers Union of Africa (ICU) in South Africa, which in the 1920s was the biggest black protest movement in the country.

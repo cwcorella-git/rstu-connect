@@ -9,12 +9,6 @@ tags:
   - digital rights
 ---
 
-## **Ukraine's Voiceless Army: Ukrainian Deserters Speak Out**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/ukraines-voiceless-army-ukrainian-deserters-speak-out**Tags:** assembly.org.ua, Russia-Ukraine war, war, Ukraine, sabotage, migration, prisons
-
 "Let's talk about SZCh": a reference to the TV show "16 and Pregnant." From an Instagram page selling chevrons, April 2024
 
 The development and continuation of our media depends solely on its audience. Please support our work onthis fundraising pagefor further coverage of topics that are forbidden or invisible to the pro-capitalist press. Many thanks everyone!

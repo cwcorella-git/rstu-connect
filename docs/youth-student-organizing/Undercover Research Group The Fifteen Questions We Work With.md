@@ -8,14 +8,6 @@ tags:
   - youth
 ---
 
-## **Undercover Research Group: The Fifteen Questions We Work With**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/undercover-research-group-fifteen-questions-we-work
-
-**Tags:** police, repression, United Kingdom, Undercover Research Group, Peter Salmon, Eveline
-
 ## Lubbers
 
 A short guide from the Undercover Research Group listing some of the key questions that they ask when investigating suspected undercover officers.

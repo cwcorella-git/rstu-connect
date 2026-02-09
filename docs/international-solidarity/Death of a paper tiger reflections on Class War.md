@@ -8,14 +8,6 @@ tags:
   - class
 ---
 
-## **Death of a paper tiger: reflections on Class War**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/death-paper-tiger-reflections-class-war
-
-**Tags:** Aufheben, Class War Federation, endangered phoenix, groups, United Kingdom, PDF
-
 Class War's attempt to break out of the anarchist ghetto, which had been dominated by eccentrics and liberal pacifists, has had a profound impact on many anarchists and revolutionaries. In this issue's Intakes we have a piece written in response to the disbanding of Class War which looks at the fundamental problems of Class War's populist approach.
 
 The Class War Federation have recently announced their decision to dissolve themselves. The last issue of their paper (Summer 1997) gives some reasons why and also serves as a post mortem on the history of Class War. This prompted the following reflection by some comrades, which we have included as the Intakes article for this issue. [Note from libcom editors: many members of Class War Federation decided to keep the group going. They still publish the paper, and have active groups, for example http://www.londonclasswar.org]

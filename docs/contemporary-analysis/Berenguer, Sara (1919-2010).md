@@ -12,14 +12,6 @@ tags:
   - confederación-nacional-del-trabajo
 ---
 
-## **Berenguer, Sara (1919-2010)**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/berenguer-sara-1919-2010
-
-**Tags:** Nick Heath, women, anarchists, biographies, feminism, Confederación Nacional del Trabajo
-
 ## (CNT), Spain
 
 A short biography of Sara Berenguer, Spanish anarchist

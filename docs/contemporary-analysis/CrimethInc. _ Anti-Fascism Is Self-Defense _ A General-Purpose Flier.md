@@ -7,10 +7,6 @@ tags:
   - antifascism
 ---
 
-## [crimethinc.com](https://crimethinc.com/2017/09/13/antifascism-is-self-defense-a-general-purpose-flier)
-
-## **Anti-Fascism Is Self-Defense**
-
 ## Crimeth Inc. Ex-Workers Collective
 
 3–4 minutes

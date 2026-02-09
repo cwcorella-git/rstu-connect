@@ -8,8 +8,6 @@ tags:
   - climate
 ---
 
-## **From Climate Crisis to Solar Communism**
-
 socialist solution look like?
 
 | Date: Fri, 12/04/2015 - 16:26 |

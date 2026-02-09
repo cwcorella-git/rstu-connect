@@ -8,12 +8,6 @@ tags:
   - Ukraine
 ---
 
-## **War resistance in Ukraine amidst the hype about peace talks**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/war-resistance-ukraine-amidst-hype-about-peace-talks**Tags:** assembly.org.ua, Russia-Ukraine war, war, Ukraine, Russia, sabotage, police, prisons
-
 "By refusing to be controlled, you take control of your life." Archival poster from early 2013
 
 Special thanks to our French comrades from the Solidarity Initiative Olga Taratutain preparing this material

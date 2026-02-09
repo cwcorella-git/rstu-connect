@@ -8,13 +8,7 @@ tags:
   - education
 ---
 
-## **Workplace Heat: Guidance for Language School Workers**
-
-## **Date:** Thu, 07/14/2022 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/5040
-
-**Tags:** Industrial Workers of the World (IWW), IWW WISERA, green unionism, climate change, health and safety, global warming, United Kingdom (UK), education workers, heat stress
 
 ## By Ryan -
 

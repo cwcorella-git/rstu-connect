@@ -8,14 +8,6 @@ tags:
   - gig economy
 ---
 
-## **The Intellectuals and Working Class Socialism by Hubert Lagardelle**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/intellectuals-and-working-class-socialism-hubert-lagardelle
-
-**Tags:** Hubert Lagardelle, intellectuals, syndicalism
-
 The translator's introduction to this text:It is well in reading this exceedingly clever presentation of one phase of the "syndicalist" movement, that is now playing so great a part in Europe to remember that "intellectuals" may juggle phrases in support of "syndicalism" as well as of capitalism or socialism, that assertion of the functionless character of these "intellectuals" does not alter the fact that they are still playing an important role in just that scientific and mechanical develop ment from which socialism proceeds, and finally that the mere fact that Lagardelle, Arturo Labrioda, and indeed practically all the "syndicalist" writers, spokesmen and leaders are members of this same despised class of "intellectuals," and this to an even greater extent than the "parliamentarians" at whom they hurl such fine scorn, should not prejudice us too strongly against giving ear to what they have to say.
 
 \* First published: Lagardelle, H., 1907. The Intellectuals and Working Class Socialism. The International Socialist Review, VII(12), pp. 721-730.

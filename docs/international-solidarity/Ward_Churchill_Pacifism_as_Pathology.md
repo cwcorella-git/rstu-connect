@@ -8,8 +8,6 @@ tags:
   - peace
 ---
 
-# PACIFISM as PATHOLOGY
-
 Reflections on the Role of Armed Struggle in North America
 
 ## ![](_page_0_Picture_2.jpeg)

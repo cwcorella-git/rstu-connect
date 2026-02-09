@@ -8,14 +8,6 @@ tags:
   - solidarity
 ---
 
-## **[GCI-ICG] Theory of decadence, decadence of theory. The worst product of imperialism: anti-imperialism**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/gci-icg-theory-decadence-decadence-theory-worst-product-imperialism-anti-imperialism
-
-**Tags:** GCI-ICG, internationalism, Anti-Capitalism, Leninism, Bolsheviks, anti-imperialism
-
 Source in French: Groupe Communiste Internationaliste, Le Communiste No.25, November 1986
 
 As a part of our critique of "decadentism", which we grasp as a set of ideologies that disguise/break the historical antagonism between proletariat and bourgeoisie, we wanted to address one of its variants, particularly defended by leftists (Trotskyists, Stalinists, Bordigists, Maoists…): the theory of imperialism as the "highest stage of capitalism". It's not a matter of criticizing anti-imperialism as a category of political economy including the danger of leading proletarians astray from the path of revolution. The issue is to see it as a material force leading workers to their atomization and destruction in the competitive struggles between bourgeois fractions. Defining imperialism as the highest stage of capitalism, as does any decadentism worthy of its name, means to bring about a rupture in the program of capital, both in time and space. Theorizing about an imperialist stage in the development of capital, while proposing to assume "new" tasks justified by the opening of a "new" period, is above all to endorse the "old" practice… In 1914, the most radical of the social-democrats, faced with the existence of the counter-revolutionary program of the Second International, wanted to "start afresh", but without taking stock of the previous years, without critically examining their own activity within the counter-revolutionary organization. To avoid this critical assessment, they elaborated a series of theses showing that capitalism have reached its "highest stage" in order to theorize a new orientation in assuming the proletarian tasks from or around the sacrosanct year 1914: for revolution through reform (!) before 1914, for revolution against reform after 1914!!! Social-democrats can thus continue to claim the "glorious past" of the Second International, asserting that pre-1914 reformism was merely a means to an end: communism. But the reality is the opposite of what it seemed: communism – grasped here as an ideology – was merely the means to bring workers to fulfill the reformist agenda of the bourgeoisie. Not making that critique results in not breaking with social-democratic practice!

@@ -8,10 +8,7 @@ tags:
   - environment
 ---
 
-## **Floods, climate change and job cuts**
-
-**Date:** Wed, 12/30/2015 - 15:23 **Source:** https://ecology.iww.org/node/1450**Tags:** green jobs, climate justice, just transition, COP21, climate change, green unionism, United Kingdom (UK) By Martin Empson - One Million Climate Jobs , December 28, 2015
-
+green jobs, climate justice, just transition, COP21, climate change, green unionism, United Kingdom (UK) By Martin Empson - One Million Climate Jobs , December 28, 2015
 In 2015 Britain has seen repeated flooding causing large-scale damage. Tens of thousands of people have had to evacuate their homes, suffered days without power and seen their homes and businesses destroyed as storms repeatedly hit the country. In the latest bout of flooding, thousands of people in Manchester, Leeds and York have been hit, sometimes with the worst floods ever, as rivers broke banks.
 
 Trade unions that represent workers in the emergency services have repeatedly warned of the impacts of austerity measures on their ability to deal with flooding and other severe weather.

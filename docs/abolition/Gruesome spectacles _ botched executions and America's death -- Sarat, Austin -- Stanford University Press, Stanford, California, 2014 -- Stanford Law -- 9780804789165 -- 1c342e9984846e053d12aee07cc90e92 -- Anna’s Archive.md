@@ -9,15 +9,9 @@ tags:
 
 ## ![](_page_0_Picture_0.jpeg)
 
-# GRUESOME SPECTACLES
-
 ## BOTCHED EXECUTIONS AND AMERICA'S DEATH PENALTY
 
 ## AUSTIN SARAT
-
-# G
-
-# GRUESOME SPECTACLES
 
 # Botched Executions and America's Death Penalty
 

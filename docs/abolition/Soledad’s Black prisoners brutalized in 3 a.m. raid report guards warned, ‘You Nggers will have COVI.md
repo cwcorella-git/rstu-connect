@@ -8,14 +8,6 @@ tags:
   - police
 ---
 
-## **Soledad's Black prisoners brutalized in 3 a.m. raid report guards warned, 'You N\*ggers will have COVID-19!'**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/soledads-black-prisoners-brutalized-3-am-raid-report-guards-warnedyou-nggers-will-have
-
-**Tags:** United States, California, repression, prisons, Covid-19, Tasha Williams, racism
-
 A report from Soledad prisoners on a recent brutal raid that took place at 3 in the morning. This report was originally published by the San Francisco Bay View.
 
 In letters addressed to myself, anonymous Soledad prisoners in a group known as "PHERM" detailed very unsettling facts about the violent 3 a.m. raid July 20 on about 200 prisoners – all Black – at the Central Training Facility in Soledad, California. Here are the words of these victims verbatim:

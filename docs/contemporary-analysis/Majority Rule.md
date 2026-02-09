@@ -10,8 +10,6 @@ tags:
 
 ## James Herod
 
-## Majority Rule
-
 ## January 2001
 
 Majority rule is just a voting procedure for resolving disagreements within a deliberative assembly. Sometimes it might be combined with other rules, like those requiring unanimous or twothirds votes on certain issues. But what voting procedures were used to select the voting procedures? That is, what rule was used for the vote to select majority rule? - majority rule, unanimity, two-thirds, or what? And how was that decision made? We are clearly in an infinite regress here.

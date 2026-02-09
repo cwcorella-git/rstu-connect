@@ -8,17 +8,9 @@ tags:
   - racial justice
 ---
 
-## **Plane Stupid stands in solidarity with #Black Lives Matter's #Shut Down**
-
-## **Date:** Tue, 08/09/2016 - 16:08
-
 ## **Source:** https://ecology.iww.org/node/1735
 
-**Tags:** Plane Stupid, Black Lives Matter, intersectionality, green unionism, green syndicalism, direct action, United Kingdom (UK), Industrial Workers of the World (IWW)
-
 ## By Paula -
-
-## Plane Stupid
 
 ## , August 6, 2016
 

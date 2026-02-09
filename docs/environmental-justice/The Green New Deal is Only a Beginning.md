@@ -8,13 +8,7 @@ tags:
   - climate
 ---
 
-## **The Green New Deal is Only a Beginning**
-
-## **Date:** Fri, 06/21/2019 - 17:18
-
 ## **Source:** https://ecology.iww.org/node/3362
-
-**Tags:** green unionism, green syndicalism, just transition, Green New Deal (GND), Extinction Rebellion
 
 ## (XR)
 

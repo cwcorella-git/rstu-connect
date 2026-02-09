@@ -10,13 +10,7 @@ tags:
   - green-unionism
 ---
 
-## **A Sierra Club love story: Remembering Bay Chapter hiking leader Louis Prisco**
-
-## **Date:** Sun, 02/14/2016 - 11:52
-
 ## **Source:** https://ecology.iww.org/node/1501
-
-**Tags:** Industrial Workers of the World (IWW), Bay Area IWW, Sierra Club, Louis Prisco, green unionism
 
 ## By Staff -
 

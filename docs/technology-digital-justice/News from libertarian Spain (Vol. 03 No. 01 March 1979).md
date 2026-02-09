@@ -8,10 +8,7 @@ tags:
   - Spain
 ---
 
-## **News from libertarian Spain (Vol. 03 No. 01 March 1979)**
-
-**Date:** Unknown **Source:** https://libcom.org/article/news-libertarian-spain-vol-03-no-01-march-1979**Tags:** Abe Bluestein, Sam Dolgoff, Confederación Nacional del Trabajo (CNT), Sidney Solomon, CCOO, UGT, feminism, Spain, Israel The March 1979 issue of News from libertarian Spain. Contents include: -Urgent: To all our readers, all lovers of freedom by The Editors -CNT plenums outline program by Sam Dolgoff -Great debate continues in Barcelona CNT by Abe Bluestein -The CNT on national independence by Sam Dolgoff -Peasants leave political movement, join CNT (Translated by Abe Bluestein) -Osuna olive workers strike for local negotiations -Barcelona fish market closed by strike
-
+Abe Bluestein, Sam Dolgoff, Confederación Nacional del Trabajo (CNT), Sidney Solomon, CCOO, UGT, feminism, Spain, Israel The March 1979 issue of News from libertarian Spain. Contents include: -Urgent: To all our readers, all lovers of freedom by The Editors -CNT plenums outline program by Sam Dolgoff -Great debate continues in Barcelona CNT by Abe Bluestein -The CNT on national independence by Sam Dolgoff -Peasants leave political movement, join CNT (Translated by Abe Bluestein) -Osuna olive workers strike for local negotiations -Barcelona fish market closed by strike
 -CNT fisherman resist contract signed by CCOO and UGT
 
 | -CNT teamsters call for open meetings of all workers, reject meetings with union leaders only |

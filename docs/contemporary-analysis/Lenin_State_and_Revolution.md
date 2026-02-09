@@ -9,8 +9,6 @@ tags:
   - revolution
 ---
 
-# THE STATE & REVOLUTION:
-
 UNION RATES RATES RATES RATES RATES RATES RATES RATES
 
 Marxist Teaching on the State and the Task of the Proletariat in the Revolution

@@ -8,14 +8,6 @@ tags:
   - Spain
 ---
 
-## **The tragic week, Spain 1909 - Murray Bookchin**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/tragic-week-spain-1909-murray-bookchin
-
-**Tags:** Murray Bookchin, strikes, general strikes, uprisings, repression, Spain, Barcelona, Solidaridad
-
 ## Obrera, PDF
 
 Murray Bookchin's history of the "tragic week": a spontaneous workers' uprising in Catalonia, Spain, which was isolated and crushed by the government, leaving hundreds dead.

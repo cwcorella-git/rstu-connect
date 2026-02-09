@@ -10,8 +10,6 @@ tags:
 
 ## **Yavor Tarinski**
 
-# **The Commons**
-
 ## **Beyond the State and the Market**
 
 ## **7 January 2016**

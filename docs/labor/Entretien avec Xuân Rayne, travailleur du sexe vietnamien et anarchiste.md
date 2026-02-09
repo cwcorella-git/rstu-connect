@@ -9,13 +9,7 @@ tags:
   - workers
 ---
 
-## **Entretien avec Xuân Rayne, travailleur du sexe vietnamien et anarchiste**
-
-## **Date:** Unknown
-
 ## **Source:**
-**Tags:** anarchism, United States, Vietnam, anarchists, sex industry, Français, homelessness, Mèo Mun,
-
 ## Xuân Rayne, police
 
 Nous avons interviewéXuân Rayne, un anarchiste vietnamien et un travailleur du sexe non binaire basé aux États-Unis, pour connaître leurs points de vue sur l'intersection de leurs identités, les voies de la solidarité internationale entre les travailleurs du sexe et la façon dont les travailleurs en général peuvent se tenir aux côtés des travailleurs du sexe. Xuân utilise tous les pronoms. A translation of ourinterview with Xuân Rayneinto French. Translated by Al Raven.

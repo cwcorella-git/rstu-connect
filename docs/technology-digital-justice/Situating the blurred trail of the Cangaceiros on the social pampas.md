@@ -8,14 +8,6 @@ tags:
   - digital rights
 ---
 
-## **Situating "the blurred trail of the Cangaceiros on the social pampas"**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/situating-blurred-trail-cangaceiros-social-pampas
-
-**Tags:** David Wise, Os Cangaceiros, France, prisons, direct action
-
 Three introductory texts to Os Cangaceiros - a European direct action group originating in France in the 1980s. Originally published on the Revolt Against Plenty website.
 
 Throughout the 1980s and the early years of the 1990s we were friendly with some of the people who made up the French group Os Cangaceiros, which had evolved out of Les Fossoyeurs du Vieux Monde(The Gravediggers of the Old World). The original Cangaceiros were Robin Hood style bandits - robbing the rich to give to the poor - in 19th century Brazil. The newly-minted 'Frog' French group (as we collectively called them in a bout of put-on chauvinism) had come to Britain excited by the bout of urban rioting throughout the early 1980s and its increasing overlap with bitter strikes, especially that of the miners between 1984-5 to which the 'Froggies' added their own ingredients. Befriending some of the most wild, headstrong and remarkable individuals in the Yorkshire mining community they tried to create more enduring international link-ups in the hope that increasing immiseration throughout the 1980s would be a cloud with a silver lining, perhaps one with a rainbow - a rainbow coalition - an inter-ethnic coming togetherness expressed through open revolt in Britain as the decade gave way to the nineties. Alas it was not to be as reaction went from bad to worse to the nigh on impossible.

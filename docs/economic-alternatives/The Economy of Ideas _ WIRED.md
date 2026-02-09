@@ -9,8 +9,6 @@ tags:
 
 #### [web.archive.org](https://web.archive.org/web/20190223232929/https://www.wired.com/1994/03/economy-ideas/)
 
-# **The Economy of Ideas**
-
 ## John Perry Barlow
 
 51–65 minutes

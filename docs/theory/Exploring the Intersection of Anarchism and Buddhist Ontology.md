@@ -7,12 +7,6 @@ tags:
   - theory
 ---
 
-## **Exploring the Intersection of Anarchism and Buddhist Ontology**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/exploring-intersection-anarchism-and-buddhist-ontology
-
 ## **Tags:** Buddhism, anarchism, state
 
 This essay aims to investigate the potential for mutual enrichment between anarchist political philosophy and Buddhist ontology. Anarchism advocates for the elimination of hierarchical power structures and prioritizes individual liberty, whereas Buddhist ontology aims to comprehend the nature of reality and the self. By exploring the intersections between these two philosophies, one might identify how they may come to complement each other in one sense and lead to a more nuanced understanding of the human experience, and the way humans come together to form decision-making structures. The divergent manifestations of anarchism and its teachings across various regions of the world signify its adaptability to distinct cultural and historical contexts. This article does not assert that Buddhism and anarchism are inherently intertwined due to their perceived similarities. Rather, it highlights the capacity of anarchism as a mechanism for autonomous decision-making within communities of diverse backgrounds, which is integrated with their respective cultural and historical narratives. Furthermore, the approach of Buddhism towards the reality of the world may exhibit compatibility with the principles of anarchism, which resist certain aspects of societal norms.

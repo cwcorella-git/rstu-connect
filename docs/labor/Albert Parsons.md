@@ -11,8 +11,6 @@ tags:
 
 ## ![](_page_0_Picture_0.jpeg)
 
-# **Albert Parsons**
-
 **Albert Richard Parsons** (June 20, 1848 – November 11, 1887) was a pioneering American [socialist](https://en.wikipedia.org/wiki/Socialist) and later [anarchist](https://en.wikipedia.org/wiki/Anarchism_in_the_United_States) newspaper editor, orator, and labor activist. As a teenager, he served in the military force of the [Confederate States of America](https://en.wikipedia.org/wiki/Confederate_States_of_America) in Texas, during the [American Civil War.](https://en.wikipedia.org/wiki/American_Civil_War) After the war, he settled in [Texas](https://en.wikipedia.org/wiki/Texas), and became an activist for the rights of former slaves, and later a [Republican](https://en.wikipedia.org/wiki/Republican_party_(United_States)) official during [Reconstruction](https://en.wikipedia.org/wiki/Reconstruction_era). With his wife [Lucy Parsons,](https://en.wikipedia.org/wiki/Lucy_Parsons) he then moved to [Chicago](https://en.wikipedia.org/wiki/Chicago) in 1873 and worked in newspapers. There he became interested in the rights of workers. In 1884, he began editing *[The Alarm](https://en.wikipedia.org/wiki/The_Alarm_(newspaper))* newspaper. Parsons was one of four Chicago radical leaders controversially convicted of conspiracy and hanged following a bomb attack on police remembered as the [Haymarket affair.](https://en.wikipedia.org/wiki/Haymarket_affair)
 
 ### **Early years**

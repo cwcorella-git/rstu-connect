@@ -10,10 +10,6 @@ tags:
   - workers
 ---
 
-## **The Industrial Syndicalist newspaper 1910-1911**
-
-## **Date:** Unknown
-
 | Source: https://libcom.org/article/industrial-syndicalist-newspaper-1910-1911|
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Tags: Tom Mann, Guy Bowman, syndicalism, 1910s, Geoff Brown, publications, PDF |

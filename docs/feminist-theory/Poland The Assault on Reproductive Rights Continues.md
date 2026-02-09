@@ -7,14 +7,6 @@ tags:
   - feminism
 ---
 
-## **Poland: The Assault on Reproductive Rights Continues**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/poland-assault-reproductive-rights-continues
-
-**Tags:** Internationalist Communist Tendency, nationalism, women, religion, Poland, abortion, feminism,
-
 ## Communist Workers' Organisation (CWO)
 
 On 22 October 2020, the Constitutional Tribunal (Trybuna■ Konstytucyjny, TK) of Poland, stacked by justices from the conservative ruling party Law and Justice (Prawo i Sprawiedliwo■■, PiS), ruled that termination of pregnancies is unconstitutional even when prenatal testing or other medical rationales show a large likelihood of severe and irreversible foetal impairment or an incurable life-threatening disease of the future child.

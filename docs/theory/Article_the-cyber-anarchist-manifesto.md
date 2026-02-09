@@ -8,8 +8,6 @@ tags:
   - theory
 ---
 
-# The Cyber Anarchist Manifesto
-
 The Cyber-Anarchist Manifesto https://theanarchistlibrary.org/library/anarchist-federat...
             Anarchist Federation of Cyber
             Communes (AF2C)

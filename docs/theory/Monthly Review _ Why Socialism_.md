@@ -9,13 +9,9 @@ tags:
 
 [Navigation](https://monthlyreview.org/2009/05/01/why-socialism/#navigation)
 
-## [MONTHLY REVIEW](https://monthlyreview.org/)
-
 ## AN INDEPENDENT SOCIALIST MAGAZINE
 
 Dear Reader, we make this and other articles available for free online to serve those unable to aord or access the print edition of *Monthly Review*. If you read the magazine online and can aord a print subscription, we hope you will consider purchasing one. [Please visit the MR store for subscription options.](https://monthlyreview.org/press/subscriptions/) Thank you very much. --EDS.
-
-## **[REPRISE](https://monthlyreview.org/section/reprise/)**
 
 ## **Why Socialism?**
 

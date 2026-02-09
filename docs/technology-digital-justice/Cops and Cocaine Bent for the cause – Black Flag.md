@@ -9,14 +9,6 @@ tags:
   - digital rights
 ---
 
-## **Cops and Cocaine: Bent for the cause – Black Flag**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/cops-and-cocaine-bent-cause-black-flag
-
-**Tags:** Black Flag, police, Los Angeles, United Kingdom, Hackney, drugs, Cleveland, gangs, Labour
-
 ## Party
 
 In Black Flag issue 212, in the article "Scotland Yardies" we argued that "police strategy is in reality about the confinement of crime within working class areas" and that "whether for political purposes or private gain, some police are actively involved in the drug trade in inner cities." This article attempts to further substantiate that contention.

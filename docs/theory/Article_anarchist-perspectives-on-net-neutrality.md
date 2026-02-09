@@ -8,8 +8,6 @@ tags:
   - theory
 ---
 
-# Anarchist Perspectives On Net Neutrality
-
 Anarchist Perspectives on Net Neutrality https://theanarchistlibrary.org/library/crimethinc-anarch...
             CrimethInc.
             Anarchist Perspectives on Net

@@ -9,10 +9,6 @@ tags:
   - wikipedia
 ---
 
-#### [en.wikipedia.org](https://en.wikipedia.org/wiki/Webb_Miller_(journalist))
-
-# **Webb Miller (journalist)**
-
 ## Contributors to Wikimedia projects
 
 13–16 minutes

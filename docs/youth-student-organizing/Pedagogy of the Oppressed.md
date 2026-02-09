@@ -7,12 +7,6 @@ tags:
   - theory
 ---
 
-## **Pedagogy of the Oppressed**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/pedagogy-oppressed
-
 ## **Tags:** Paulo Freire, education, PDF, Brazil
 
 First published in Portuguese in 1968 Paulo Freire's Pedagogy of the Oppressedis a classic text in the field of radical pedagogy.

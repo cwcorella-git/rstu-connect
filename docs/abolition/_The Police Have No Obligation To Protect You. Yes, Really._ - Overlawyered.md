@@ -9,8 +9,6 @@ tags:
   - prisons
 ---
 
-# "The Police Have No Obligation To Protect You. Yes, Really."
-
 ### By [Walter Olson](https://www.cato.org/people/walter-olson) **December 28, 2011**
 
 ## 14 Comments

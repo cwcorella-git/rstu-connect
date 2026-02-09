@@ -10,8 +10,6 @@ tags:
 
 ## ![](_page_0_Figure_0.jpeg)
 
-# UTOPIA FOR REALISTS
-
 ## HOW WE CAN BUILD THE IDEAL WORLD
 
 # RUTGER BREGMAN

@@ -10,8 +10,6 @@ author: Hakim Bey
 
 ## [hermetic.com](https://hermetic.com/bey/seduct)
 
-## **Seduction of the Cyber Zombies - Hakim Bey**
-
 16–20 minutes
 
 ## (For Konrad and Marie)

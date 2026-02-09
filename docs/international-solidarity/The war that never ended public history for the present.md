@@ -8,14 +8,6 @@ tags:
   - peace
 ---
 
-## **The war that never ended: public history for the present**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/war-never-ended-public-history-present
-
-**Tags:** state, Palestine, capitalism, mutinies, World War I, New Zealand, United Kingdom, Belgium,
-
 ## Jared Davidson, white supremacy
 
 A critical look at New Zealand's official First World War centennial programme and its lack of engagement with the war's root causes, namely capitalism and white supremacy.

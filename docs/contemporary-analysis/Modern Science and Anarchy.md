@@ -7,8 +7,6 @@ tags:
   - Kropotkin
 ---
 
-# **Pëtr Kropotkin**
-
 # **Modern Science and Anarchy**
 
 ### **1913**

@@ -12,13 +12,7 @@ tags:
   - iww
 ---
 
-## **Doing Away With Private Utilities Is a Matter of Life and Death**
-
-## **Date:** Thu, 01/31/2019 - 17:19
-
 ## **Source:** https://ecology.iww.org/node/3118
-
-**Tags:** disaster capitalism, green syndicalism, just recovery, collectivization, Ryan Smith, IWW
 
 Environmental Unionism Caucus, Jerry Brown, Gavin Newsom, California
 

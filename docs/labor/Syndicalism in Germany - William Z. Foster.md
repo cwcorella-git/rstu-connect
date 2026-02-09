@@ -8,14 +8,6 @@ tags:
   - Germany
 ---
 
-## **Syndicalism in Germany - William Z. Foster**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/syndicalism-germany-william-z-foster
-
-**Tags:** William Z. Foster, syndicalism, Germany, FVdG
-
 An article by William Z. Foster documenting the German syndicalist movement. Originally appeared in the Industrial Worker Vol. 3 No. 25. September 14, 1911
 
 Revolutionary Industrial Unionism or "Syndicalism" in Germany finds its expression in "Die Freie Vereinigung Deutscher Gewerkschaften" (F. D. G.), or "The Free Union of German Unions." This organization is inspired by the same ideals that uses the same tactics 'that distinguish Syndicalist organizations the world over. With its program of "direct action" tactics, it is in sharp contrast with the balance of the German labor movement, to whom these modern tactics are practically unknown. It is a comparatively small organization, numbering some 20,000 members, whilst the conservative unions–Socialist, Christian, etc.–number about 2,500,000. Yet it possesses an influence entirely out of proportion to its size. It is an object of almost horror, to the political leaders of the great Socialist sick and death benefit societies, misnamed unions, who see in its violent agitation of the general strike and direct action tactics generally a threatening menace to their policy of working class non resistance to its oppressors, which is so indispensable to the success of their insurance, labor and political organizations. They leave no stone unturned to discredit the organization and its officers and use it as a general bugaboo to scare any of their own disobedient unions back into the straight and narrow path. In Germany any union that dares to exhibit the slightest degree of independence is promptly insulted by being called "localist," the reigning central committee rattles the "Freie Vereinigung Deutscher Gewerkschaften" skeleton, and the frightened and repentant union promptly submits.

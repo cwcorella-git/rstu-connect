@@ -6,8 +6,6 @@ tags:
   - class
 ---
 
-# Race & Class http://rac.sagepub.com/
-
 Listening to Revolt: the selected writings of George Rawick
 
 Jordan T. Camp Race Class 2012 53: 95 DOI: 10.1177/0306396811426519

@@ -10,8 +10,6 @@ tags:
 
 ## Alexander Berkman
 
-# Prison Memoirs of an Anarchist
-
 ## **Contents**
 
 | Part I | 7 |

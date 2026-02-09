@@ -8,10 +8,6 @@ tags:
   - fossil fuels
 ---
 
-## **Paperwrenching Prisons and Pipelines**
-
-## **Date:** Tue, 10/31/2017 - 18:30
-
 | Source: https://ecology.iww.org/node/2576|
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Tags: Prison Ecology Project, green unionism, NoDAPL, prison labor, class war prisoners, pipelines,

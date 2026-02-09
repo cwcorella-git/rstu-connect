@@ -9,12 +9,6 @@ tags:
   - Russia
 ---
 
-## **To front line or to jail. Russian offensive is disrupted by boycott? Part 11**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/front-line-or-jail-russian-offensive-disrupted-boycott-part-11**Tags:** assembly.org.ua, Russia, Russia-Ukraine war, war, sabotage, prisons, police, Ukraine
-
 While the front mostly froze in anticipation of the main blows, direct action continues to exhaust the forces of the aggressor. A banner with Z-swastika on the wall of the sports complex set on fire on the night of July 22 in the town of Gulkevichi near Krasnodar. But the anti-war guerrilla is just the tip of the iceberg!
 
 Please support this online newsletter forhumanitarian aid to civilian populationin Kharkiv or the campaign to restore community social fabric via collective rebuilding of our neighbourhoods. You can donate for ithere.

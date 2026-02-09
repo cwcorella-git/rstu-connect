@@ -11,13 +11,9 @@ tags:
 
 ## ![](_page_1_Picture_0.jpeg)
 
-# Concerning Violence
-
 ## ![](_page_3_Picture_0.jpeg)
 
 ## ![](_page_4_Picture_0.jpeg)
-
-# Concerning Violence
 
 Fanon, Film, and Liberation in Africa, Selected Takes 1965–1987
 

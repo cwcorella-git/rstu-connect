@@ -8,8 +8,6 @@ tags:
   - tenants
 ---
 
-# Common Tactics Of Landlords - Google Docs.pdf
-
 View notes from original meeting: Educational Material Planning 6/20/25
 
 - From “how has your landlord screwed you over” tabling display:

@@ -10,14 +10,6 @@ tags:
   - internationalist-communists
 ---
 
-## **On an Island Watch House Bed, A Black Man's Lying Dead**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/island-watch-house-bed-black-mans-lying-dead
-
-**Tags:** Internationalist Communist Tendency, Australia, indigenous, Internationalist Communists
-
 ## Oceania, racism, police
 
 We are publishing this article to commemorate last year's shooting in Yuendumu, shortly before the 5th year anniversary of the Sydney Long Bay Jail Killing, and for the 16th anniversary of the Palm Island Riots. Its content is largely reflective of these events and other deaths in custody. We wish to advise Indigenous readers that this piece mentions the names and stories of people who have died at the hands of the bourgeois state.

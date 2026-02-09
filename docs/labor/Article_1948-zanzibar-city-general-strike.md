@@ -9,9 +9,7 @@ tags:
   - urban
 ---
 
-# 1948 Zanzibar City General Strike
-
-1948: Zanzibar City General Strike Date: Unknown Source: https://libcom.org/article/1948-zanzibar-city-general-strike Tags: Olivia Ensign, racism, general strikes, Tanzania, Zanzibar, PDF
+Ensign, racism, general strikes, Tanzania, Zanzibar, PDF
 In 1948 dock workers in Zanzibar struck for higher pay, the use of force by the British Colonial authorities lead to other workers coming out in sympathy making the strike a general one.
 Zanzibar workers general strike in Zanzibar City, Tanzania, 1948
 Zanzibar, a former colony of Great Britain, is an island off the coast of Tanzania, located in East Africa. Under British rule the population of Zanzibar was divided between small but influential groups of Arabs, Indians, and Europeans and the two larger, primary groups on the island: those Africans born on Zanzibar itself and those born on the mainland of Tanzania, who later immigrated.

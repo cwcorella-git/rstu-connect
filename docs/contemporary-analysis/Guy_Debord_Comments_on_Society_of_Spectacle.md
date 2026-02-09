@@ -8,13 +8,9 @@ tags:
   - current-events
 ---
 
-# **Comments on the Society of the Spectacle**
-
 ## Guy Debord
 
 # **Contents**
-
-## **I**
 
 | II. | |
 |--------|--|

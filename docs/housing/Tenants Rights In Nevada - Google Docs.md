@@ -9,7 +9,7 @@ tags:
   - tenants
   - Nevada
 ---
-# Tenants Rights In Nevada - Google Docs
+
 Jump to zine draft →
 Notes
 -     Split into “what are your rights” vs. “what’s missing” — or do this per

@@ -7,8 +7,6 @@ tags:
   - current-events
 ---
 
-## **Simone Weil**
-
 ## **The Iliad, or The Poem of Force 1945**
 
 The true hero, the true subject, the center of the Iliad is force. Force employed by man, force that enslaves man, force before which man's flesh shrinks away. In this work, at all times, the human spirit is shown as modified by its relations with force, as swept away, blinded, by the very force it imagined it could handle, as deformed by the weight of the force it submits to. For those dreamers who considered that force, thanks to progress, would soon be a thing of the past, the Iliad could appear as an historical document; for others, whose powers of recognition are more acute and who perceive force, today as yesterday, at the very center of human history, the Iliad is the purest and the loveliest of mirrors.

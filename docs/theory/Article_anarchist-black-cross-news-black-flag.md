@@ -8,9 +8,6 @@ tags:
   - theory
 ---
 
-# Anarchist Black Cross News Black Flag
-
-Anarchist Black Cross news - Black Flag Date: Unknown Source: https://libcom.org/article/anarchist-black-cross-news-black-flag Tags: Black Flag, 1990s, prisons, United Kingdom
 Prisoner news and support from Black Flag #213 1998.
 
 ## Sekou Kambui

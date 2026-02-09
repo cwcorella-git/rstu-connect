@@ -9,8 +9,6 @@ tags:
   - wikipedia
 ---
 
-# JEAN M. TWENGE, PhD
-
 "Lucid and entertaining . . . bold . . . refreshing."
 
 —Chris Colin,

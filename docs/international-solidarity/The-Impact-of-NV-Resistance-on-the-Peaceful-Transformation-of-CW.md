@@ -7,8 +7,6 @@ tags:
   - anti-war
 ---
 
-# The Impact of Nonviolent Resistance on the Peaceful Transformation of Civil War
-
 ## Luke Abbs
 
 ## ![](_page_0_Picture_3.jpeg)
@@ -22,8 +20,6 @@ Description: Activist Shreedeep Rayamajhi, of Youth Facebook Group Nepal, speaks
 #### **Front cover image (center)**
 
 Description: Anti-apartheid protestors in South Africa in the 1980s. By: Paul Weinberg.
-
-Source: https://commons.wikimedia.org/w/index.php?curid=26754890. This image is licensed under Creative Commons Attribution-Sharealike 3.0 Unported (CC BY-SA 3.0). This image has been modied by cropping.
 
 Link to license: https://creativecommons.org/licenses/by-sa/3.0/deed.en
 

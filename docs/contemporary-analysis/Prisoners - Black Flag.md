@@ -7,14 +7,6 @@ tags:
   - prisons
 ---
 
-## **Prisoners - Black Flag**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/prisoners-black-flag
-
-**Tags:** Black Flag, United States, prisons, USSR, United Kingdom
-
 Round up of prisoner solidarity from Black Flag #218, 1999.
 
 MARK BARNSLEY UPDATEThe Sheffield Star was one of the papers that carried lies about Liverpool fans in the wake of the Hillsborough tragedy. It continues its tradition - printing lies about ordinary people from Big Issue sellers to Mark Barnsley. The Star claimed Mark was a madman who attacked fifteen students with a knife. Now it attacks the campaign to free him saying that it is adding fresh agony to his "victims". Well one campaign achievement for a start!

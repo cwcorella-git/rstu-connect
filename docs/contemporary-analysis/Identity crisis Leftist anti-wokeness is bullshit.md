@@ -11,14 +11,6 @@ tags:
   - intersectionality
 ---
 
-# **Identity crisis: Leftist anti-wokeness is bullshit**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/identity-crisis-leftist-anti-wokeness-bullshit
-
-**Tags:** class, racism, feminism, Adolph L. Reed Jr., intersectionality
-
 When criticism of 'identity politics' is just an argument for class representation under capitalism.
 
 This piece is a response to the wider debates continually raging around identity politics and class. It tackles the writing of Adolph Reed Jr., not because he's the worst example identity politics critique, but because he's one of the best.

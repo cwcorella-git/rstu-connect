@@ -8,14 +8,6 @@ tags:
   - class
 ---
 
-## **Class War and the Media**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/class-war-and-media
-
-**Tags:** Class War Federation, media and culture, United Kingdom
-
 An article from Class War issue 73 looking at Class War's populism and relationship to the mainstream media.
 
 Class War has been criticised for being populist or even media whores. But what does 'populist' mean, apart from wanting our ideas to be popular, and aiming to make them that way? We've even been criticised for selling our paper: apparently it's a 'Trotskyist' tactic. But why produce a paper if you just want it to gather dust in someone's back room?

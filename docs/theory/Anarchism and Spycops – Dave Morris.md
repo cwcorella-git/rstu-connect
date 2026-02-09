@@ -8,12 +8,6 @@ tags:
   - theory
 ---
 
-## **Anarchism and Spycops – Dave Morris**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/anarchism-and-spycops-dave-morris
-
 ## **Tags:** Dave Morris, police
 
 An excerpt from the transcript of the UK's Undercover Policing Inquiry in which anarchism is explained to its Chair, Sir John Mitting.

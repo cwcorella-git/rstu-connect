@@ -8,13 +8,9 @@ tags:
   - socialism
 ---
 
-# Seeing the Inadequacies of the Strategy Proposals of the Anarchist Communist Fed
-
 Seeing the Inadequacies of the Strategy Proposals of the Anarchist Co... https://theanarchistlibrary.org/library/james-herod-seeing-the-inadequac...
 
 ## James Herod
-## Seeing the Inadequacies of the Strategy
-## Proposals of the Anarchist Communist
 ## Federation (UK)
 ## An Anarchist Revolutionary Strategy Sketched Briefly
 ## Postscript (January, 2001)

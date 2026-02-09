@@ -10,8 +10,6 @@ tags:
 
 ## ![](_page_0_Picture_2.jpeg)
 
-# How Western Mental Health Reinforces Capitalism b[y Christian Arnold](https://hoodcommunist.org/author/carnold/)
-
 Published [Thursday - February 12, 2025](https://hoodcommunist.org/2025/02/13/how-western-mental-health-reinforces-capitalism/)
 
 ### Thoughts from an African Graduate Student in Clinical Mental Health Counseling

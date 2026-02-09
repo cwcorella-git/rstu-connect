@@ -9,8 +9,6 @@ tags:
   - prisons
 ---
 
-# ferguson_police_department_report.pdf
-
 Investigation of the
 Ferguson Police Department United States Department of Justice
        Civil Rights Division

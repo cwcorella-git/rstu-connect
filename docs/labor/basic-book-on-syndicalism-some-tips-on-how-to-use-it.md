@@ -9,7 +9,7 @@ tags:
   - unions
   - syndicalism
 ---
-# Basic book on syndicalism – some tips on how to use it
+
 Buy the printed bookhereor download a free PDF. The article below is translated from the Swedish magazineSyndikalisten, printed issue #3 2023. The author is a member of the Swedish syndicalist unionSAC.
 Image above: the book's front cover. Below: back cover.
 In 2024, SAC and Federativ Publishing House released the bookSwedish syndicalism, written by Rasmus Hästbacka. The book is available in both English and Swedish. Here, the author gives suggestions on how the book can be used in local trade unions.

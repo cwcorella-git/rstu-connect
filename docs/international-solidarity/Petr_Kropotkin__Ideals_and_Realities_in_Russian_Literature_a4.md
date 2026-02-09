@@ -10,8 +10,6 @@ tags:
 
 #### *Pëtr Kropotkin*
 
-# **Ideals and Realities in Russian Literature**
-
 # **Contents**
 
 | 1 | The Russian Language

@@ -10,8 +10,6 @@ tags:
 
 ## ![](_page_0_Picture_0.jpeg)
 
-# **Agrivoltaics**
-
 **Agrivoltaics** (also called **agrophotovoltaics**, **agrisolar**, or **dual-use solar**) is the dual use of land for [solar energy](https://en.wikipedia.org/wiki/Solar_energy) and [agriculture](https://en.wikipedia.org/wiki/Agriculture). [\[2\]](#page-6-1)[\[3\]](#page-6-2)[\[4\]](#page-6-3)
 
 Many agricultural activities can be combined with solar, including [crops,](https://en.wikipedia.org/wiki/Crop) [livestock](https://en.wikipedia.org/wiki/Livestock), [greenhouses](https://en.wikipedia.org/wiki/Greenhouse), and [wild plants](https://en.wikipedia.org/wiki/Wild_plants) to support [pollinators.](https://en.wikipedia.org/wiki/Pollinator) [\[5\]](#page-7-0) Agrivoltaic systems can include [solar](https://en.wikipedia.org/wiki/Solar_panels) [panels](https://en.wikipedia.org/wiki/Solar_panels) between crops, elevated above crops, or on greenhouses.

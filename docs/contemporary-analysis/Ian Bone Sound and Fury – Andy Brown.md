@@ -13,14 +13,6 @@ tags:
   - ian-bone
 ---
 
-## **Ian Bone: Sound and Fury – Andy Brown**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/ian-bone-sound-and-fury-andy-brown
-
-**Tags:** Andy Brown, Solidarity, Class War Federation, 1980s, United Kingdom, interviews, Ian Bone
-
 Today Ian Bone is a leading activist of Class War, the group he helped to found. But surprisingly, or not, he was once a member of Swansea Solidarity. Andy Brown gets the man the 'Sunday People' says has "a degree in sociology... and a heart overflowing with hate" to tell the story of what happened in between.
 
 Could you tell us how you first became an anarchist, socialist or whatever label you would apply to yourself? How did you become politicised?IAN: All sorts of reasons. My old man was a socialist and he was a butler, and I inherited my class hatred from seeing the way the upper class lives. But as regards why I became an anarchist I don't know really.

@@ -11,8 +11,6 @@ ities for experience and adventure, frightened by the nihilistic depths to which
 
 Shortly after I finished this book, my dear son Marc, five years old, was taken from me. I dedicate All That Is Solid Melts into Air to him. His life and death bring so many of its ideas and themes close to home: the idea that those who are most happily at home in the modern world, as he was, may be most vulnerable to the demons that haunt it; the idea that the daily routine of playgrounds and bicycles, of shopping and eating and cleaning up, of ordinary hugs and kisses, may be not only infinitely joyous and beautiful but also infinitely precarious and fragile; that it may take desperate and heroic struggles to sustain this life, and sometimes we lose. Ivan Karamazov says that, more than anything else, the death of children makes him want to give back his ticket to the universe. But he does not give it back. He keeps on fighting and loving; he keeps on keeping on.
 
-## New York City January 1981
-
 ## Introduction
 
 ## Modernity-Yesterday, Today and Tomorrow

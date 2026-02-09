@@ -9,14 +9,6 @@ tags:
   - Sweden
 ---
 
-## **Swedish syndicalists organizing at Zalando**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/swedish-syndicalists-organizing-zalando
-
-**Tags:** Jon Bekken, syndicalism, anarcho-syndicalism, SAC, Sweden
-
 This article was originally published on the website ofUS labor magazine ASRon July 13, 2021. The warehouse connected to Zalando, which is run by Ingram Micro, is similar to the Amazon hell holes.
 
 More than 100 workers at Europe's leading online store for fashion and shoes, Zalando, have turned to the SAC, the Central Organization of Workers in Sweden, to battle the "new Swedish model," which many workers describe as modern slavery. After workers demanded their own union agreement and safety representatives, management announced plans to fire several SAC members.

@@ -8,14 +8,6 @@ tags:
   - urban
 ---
 
-## **Five "I"s for a city beyond policing: a message to defense groups in Minneapolis**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/five-city-beyond-policing-message-defense-groups-minneapolis
-
-**Tags:** Workers Defense Alliance, Minneapolis, George Floyd protests, police
-
 An article from the Workers Defense Alliance advising armed self-defense groups that sprung up in Minneapolis after the 2020 George Floyd protests and riots saw police retreat from certain neighborhoods.
 
 Originally posted: August 27, 2020 at Workers Defense Alliance

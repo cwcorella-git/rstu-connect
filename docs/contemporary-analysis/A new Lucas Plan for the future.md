@@ -11,13 +11,7 @@ tags:
   - just-transition
 ---
 
-## **A new Lucas Plan for the future**
-
-## **Date:** Sat, 11/26/2016 - 18:13
-
 ## **Source:** https://ecology.iww.org/node/1992
-
-**Tags:** Lucas Plan, green syndicalism, green unionism, ecosocialism, just transition
 
 ## By David King -
 

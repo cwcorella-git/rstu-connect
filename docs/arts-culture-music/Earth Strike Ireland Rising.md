@@ -8,13 +8,7 @@ tags:
   - Ireland
 ---
 
-## **Earth Strike Ireland Rising**
-
-## **Date:** Sun, 09/22/2019 - 19:19
-
 ## **Source:** https://ecology.iww.org/node/3350
-
-**Tags:** green bans, Climate Strike, Earth Strike, green syndicalism, green unionism, Fridays for the Future, Greta Thunberg, Green New Deal (GND), Industrial Workers of the World (IWW), Extinction
 
 ## Rebellion (XR)
 

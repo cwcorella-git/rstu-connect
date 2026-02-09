@@ -8,10 +8,6 @@ tags:
   - tenants
 ---
 
-## IN DEFENSE OF HOUS ING
-
-# IN DEFENSE OF HOUS ING
-
 *The Politics of Crisis* DAV ID MADDEN PETER MARCUSE
 
 ## ![](_page_1_Picture_2.jpeg)

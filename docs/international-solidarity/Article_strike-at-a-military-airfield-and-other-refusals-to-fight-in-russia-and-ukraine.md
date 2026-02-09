@@ -8,9 +8,6 @@ tags:
   - Russia
 ---
 
-# Strike At A Military Airfield And Other Refusals To Fight In Russia And Ukraine
-
-Strike at a military airfield and other refusals to fight in Russia and Ukraine. Mid-autumn 2023 Date: Unknown Source: https://libcom.org/article/strike-military-airfield-and-other-refusals-fight-russia-and-ukraine-midautumn-2023 Tags: assembly.org.ua, Russia-Ukraine war, war, Ukraine, Russia, sabotage, strikes, wildcat strikes, prisons
 Updates on refusals to fight or join armies in Ukraine and Russia amidst the Russian invasion.
 Pictured: Caricature by unknown author "On the offensive" (circa 1917) is relevant for both sides of the war....Welcome to join thefundraisingof our team for to work on this international column and offline volunteer activities. A couple of cups of coffee in your country, even before the war, could be equivalent to a day's earnings of a worker in Ukraine. Many thanks everyone in advance!
 According to the National Police of Ukraine, since the beginning of the full-scale Russian invasion, about 8 thousand criminal proceedings have been opened in the country for evading mobilization. As of the middle of this month, the list of leading regions looks like this: in Transcarpathian there are 936, in Dnipropetrovsk – 669, Mykolayiv – 583, Lviv – 528, Volyn – 460, Vinnytsya – 460, Chernivtsi – 424, Kharkiv – 389, Rivne – 360, Ternopil – 342, Sumy –

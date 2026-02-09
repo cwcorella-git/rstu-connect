@@ -8,13 +8,7 @@ tags:
   - feminism
 ---
 
-## **妇女的力量与社会翻转 (The Power of Women and Social Subversion)**
-
 ## **Author:** Mariarosa Dalla Costa
-
-**Source:** https://libcom.org/article/funudeliliangyushehuifanzhuan
-
-**Tags:** Mariarosa Dalla Costa, Selma James, Silvia Federici, women, Italy, feminism, Italy 60s-70s,
 
 ## housework, operaismo, Patrick Cuninghame
 

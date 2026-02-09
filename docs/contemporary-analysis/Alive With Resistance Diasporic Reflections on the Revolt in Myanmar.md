@@ -7,14 +7,6 @@ tags:
   - riots
 ---
 
-## **Alive With Resistance: Diasporic Reflections on the Revolt in Myanmar**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/alive-resistance-diasporic-reflections-revolt-myanmar
-
-**Tags:** general strikes, Myanmar, The Final Straw Radio, Geoff Aung
-
 A conversation with Geoff Aung, a Burmese American Marxist anthropology Phd candidate at Columbia University living abroad, about the current uprising, repression and revolutionary potentials in Myanmar. This interview was first broadcast by The Final Straw.
 
 This is a conversation with Geoff Aung (@Rgnhardlineron twitter), a Burmese American Marxist anthropology Phd candidate at Columbia University living abroad, about the current uprising, repression and revolutionary potentials in Myanmar. We discuss the evolution of tactics on the ground as revolutionaries adapt to the brutal murders of protesters by the state. Geoff also talks about the ways in which this movement is different from similar current movements in Asia and some of the historical context of struggle in Myanmar.

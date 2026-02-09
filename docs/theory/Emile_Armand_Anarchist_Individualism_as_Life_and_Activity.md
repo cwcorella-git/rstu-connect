@@ -8,8 +8,6 @@ tags:
   - theory
 ---
 
-## **Anarchist Individualism as a Life and Activity**
-
 ## Émile Armand
 
 ## 1907

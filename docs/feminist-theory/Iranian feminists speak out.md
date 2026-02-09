@@ -7,14 +7,6 @@ tags:
   - feminism
 ---
 
-## **Iranian feminists speak out**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/iranian-feminists-speak-out
-
-**Tags:** Feminist Liberation Group, Iran, Israel, feminism, war, anti-war
-
 Three statements released by feminists in Iran rejecting both the Islamic Republic of Iran and US/Israel military strikes.
 
 Originally posted: June 20, 2024 at Anarchist Communist Group

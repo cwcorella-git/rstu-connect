@@ -6,8 +6,6 @@ tags:
   - solidarity
 ---
 
-## **A Delivery Driver in Manhattan**
-
 ## **For a Solidarity of Condition and Position**
 
 ## **April 13, 2020**

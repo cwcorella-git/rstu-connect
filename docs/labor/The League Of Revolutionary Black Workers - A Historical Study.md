@@ -9,8 +9,6 @@ tags:
   - workers
 ---
 
-# **The League of Revolutionary Black Workers: A Historical Study**
-
 ## By A. Muhammad Ahmad
 
 #### **INTRODUCTION**

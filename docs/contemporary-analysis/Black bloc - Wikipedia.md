@@ -9,10 +9,6 @@ tags:
   - wikipedia
 ---
 
-#### [en.wikipedia.org](https://en.wikipedia.org/wiki/Black_bloc)
-
-# **Black bloc**
-
 ## Contributors to Wikimedia projects
 
 30–38 minutes

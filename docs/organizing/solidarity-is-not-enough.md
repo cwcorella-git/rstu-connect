@@ -9,7 +9,7 @@ tags:
   - direct-action
   - solidarity
 ---
-# Solidarity is Not Enough
+
 By Northumbria IWW -
 Organise!
 , May 26, 2023

@@ -9,15 +9,9 @@ tags:
 
 ## ![](_page_0_Picture_0.jpeg)
 
-# Teaching Community
-
 ## A Pedagogy of Hope
 
 ## bell hooks
-
-## Teaching **Community**
-
-### T e a c h i n g Community
 
 ## A Pedagogy of Hope
 

@@ -8,10 +8,7 @@ tags:
   - climate
 ---
 
-## **#Climate Change and the fight for #Climate Jobs**
-
-**Date:** Fri, 12/04/2015 - 16:08 **Source:** https://ecology.iww.org/node/1411**Tags:** green unionism, climate justice, just transition, renewable energy, green jobs, jobs versus environment, labor and environment By the Admin - A Green Trade Unionist in Bristol , December 1, 2015 Author's Note:
-
+green unionism, climate justice, just transition, renewable energy, green jobs, jobs versus environment, labor and environment By the Admin - A Green Trade Unionist in Bristol , December 1, 2015 Author's Note:
 This is a talk I prepared for a NEON (the New Economy Organising Network) event to prepare for Bristol Climate March:
 
 Climate change as we know is the most serious long-term challenge facing both our society, and our planet in general. We are on the verge of reaching the point of no return, the tipping point beyond which catastrophic warming of the planet will be unavoidable, and the habitability of our world serverely undermined.

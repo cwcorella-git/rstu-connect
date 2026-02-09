@@ -10,8 +10,6 @@ tags:
 
 # **Judith Suissa**
 
-## **Anarchism and Education**
-
 ## **A Philosophical Perspective**
 
 ### **2006**

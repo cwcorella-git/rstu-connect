@@ -6,8 +6,6 @@ tags:
   - digital rights
 ---
 
-## SCHINDLER'S LIST
-
 ## Screenplay by
 
 ## Steven Zaillian

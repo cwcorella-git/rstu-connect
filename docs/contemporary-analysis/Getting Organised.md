@@ -9,14 +9,6 @@ tags:
   - united-kingdom
 ---
 
-## **Getting Organised**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/getting-organised
-
-**Tags:** organisation, Class War Federation, United Kingdom
-
 Article from Class War Issue 73 looking at revolutionary organisation.
 
 When Class War started, we saw ourselves as standing in opposition to virtually every other political organisation existing in the UK. Arrogant? Maybe. But we stood in total opposition to the Left's traditional hierarchical way of doing things and we wanted some new form of organisation to match our politics. We weren't setting out to 'save' the working class - how could we when we saw ourselves as part of that class? Our message has always been the same: our class does not need organisations to lead it to salvation - do-it-yourself! As we saw it, this meant entering uncharted territory, as we tried to bypass the perverted crap that passes for most 'revolutionary' politics, and develop something new.

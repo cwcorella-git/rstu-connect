@@ -9,10 +9,7 @@ tags:
   - climate
 ---
 
-## **Rank-and-File Union Members Speak Out at Standing Rock Camp**
-
-**Date:** Mon, 10/31/2016 - 12:53 **Source:** https://ecology.iww.org/node/1890**Tags:** Labor for Standing Rock (L4SR), NoDAPL, green unionism, indigenous, Labor for Palestine, United Food and Commercial Workers (UFCW), Industrial Workers of the World (IWW), Laborers' International Union of North America (LIUNA), Cliff Willmeng, Liam Cain By staff - Indian Country Today , October 30, 2016 Image by Karen Pomer Despite escalating police violence and AFL-CIO leadership of pipeline, a delegation of union members from around the U. S. are spending the weekend of October 29 at Standing Rock camp to join Sioux water protectors against Dakota Access
-
+Labor for Standing Rock (L4SR), NoDAPL, green unionism, indigenous, Labor for Palestine, United Food and Commercial Workers (UFCW), Industrial Workers of the World (IWW), Laborers' International Union of North America (LIUNA), Cliff Willmeng, Liam Cain By staff - Indian Country Today , October 30, 2016 Image by Karen Pomer Despite escalating police violence and AFL-CIO leadership of pipeline, a delegation of union members from around the U. S. are spending the weekend of October 29 at Standing Rock camp to join Sioux water protectors against Dakota Access
 ## ![](_page_1_Figure_0.jpeg)
 
 ## ![](_page_2_Figure_0.jpeg)

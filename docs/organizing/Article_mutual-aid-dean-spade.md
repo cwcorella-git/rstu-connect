@@ -8,8 +8,6 @@ tags:
   - organizing
 ---
 
-# Mutual Aid Dean Spade
-
 Mutual Aid https://theanarchistlibrary.org/library/dean-spade-mutua...
              Dean Spade
              Mutual Aid

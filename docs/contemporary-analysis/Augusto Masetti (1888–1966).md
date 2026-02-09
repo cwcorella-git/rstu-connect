@@ -12,14 +12,6 @@ tags:
   - ivan-illich
 ---
 
-## **Augusto Masetti (1888–1966)**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/augusto-masetti-1888-1966
-
-**Tags:** Fiorenza Tarozzi, Psychiatry, Anti-colonialism, R. D. Laing, Thomas Szasz, Ivan Illich
-
 A short biography of Augusto Masetti who opposed colonial European encroachment in Africa (Libya) by shooting a commanding officer, and accidently a fellow soldier in the ranks. Rather than sentence Masetti to death, military court appointed psychiatrists declared him to be 'unbalanced' and 'irreducibly unfit for regular social coexistence and permanently dangerous to himself and others'. Subsequently, civil authorities applied various other psychiatric labels for which he was also incarcerated. He himself, at the time of the first offence, proclaimed, 'long live anarchy'.
 
 Birth place: Bolognese Hall Date of birth: April 12 1888Place of death: Imola

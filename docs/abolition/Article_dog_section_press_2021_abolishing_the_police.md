@@ -8,11 +8,7 @@ tags:
   - abolition
 ---
 
-# Dog Section Press 2021 Abolishing the Police
-
 ABOLISHING
-## THE POLICE
-
 ## CONTENTS
 
 Glossary 6 Statues and gangs: fascist panic and policing 95 Introduction 7 Becka Hudson Koshka Duff Black lives and the state of distraction 107 Martial politics, police power: Eddie Bruce-Jones abolition, war and the arms trade 29 Police abolition and radical democracy 117 Chris Rossdale Daniel Loick We are all police now: resisting everyday Policing and coercion: bordering and the hostile environment 39 what are the alternatives? 133 Arianne Shahvisi Guy Aitchison Why borders and prisons, Practising everyday abolition 147 border guards and police? 52 Sarah Lamble Tom Kemp & Phe Amis

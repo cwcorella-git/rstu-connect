@@ -9,12 +9,6 @@ tags:
   - libcom
 ---
 
-## **Why Miss World? (1971)**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/why-miss-world-1971
-
 ## **Tags:** London, direct action, feminism, 1970s
 
 Text of a pamphlet produced by women who participated in the mass disruption of the Miss World beauty competition in London in 1971. Contributors included Sue Finch, Jenny Fortune, Jane Grant, Jo Robinson, and Sarah Wilson.

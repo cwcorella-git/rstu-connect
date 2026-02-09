@@ -8,14 +8,6 @@ tags:
   - Los Angeles
 ---
 
-## **Striking For The Future of Education: Interview with a Los Angeles Teacher**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/striking-future-education-interview-los-angeles-teacher
-
-**Tags:** United States, education, strikes, schools, California, Los Angeles, Black Rose Anarchist
-
 ## Federation, United Teachers Los Angeles
 
 More than 30,000 educators in the country's second-biggest school district of Los Angeles are poised to strike Monday, January 12 for the first time since 1989. In the aftermath of the inspiring wave of teacher strikes and actions in 2018, LA teachers are preparing to fight not just for their own jobs, but to defend a vision of democratic and equitable public education against the attack from neoliberal corporate privatizers.

@@ -11,8 +11,6 @@ tags:
 
 ## **William Gillis**
 
-## **Debt: The Possibilities Ignored**
-
 ## **October 7th, 2014**
 
 It's no secret that economists and libertarians have developed a bad habit of assuming things about history and other societies on first principle without actually checking archaeological or anthropological findings. On occasion the divide can be quite stark. David Graeber's *Debt: The First 5000 Years* gets a lot of momentum by attacking a widely circulated economic fable purporting to explain the origin of currency wherein coinage precedes credit. It shouldn't be a surprise that the "I need a blanket and all I have to barter with are five chickens but everyone in my village likes cowry shells" dilemma at the start of elementary economics textbooks has no clear historical basis; there's little evidence small tribes or villages needed to invent physical currency to facilitate market exchange internally because reputation and credit are far more natural and flexible.

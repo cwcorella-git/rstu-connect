@@ -8,9 +8,7 @@ tags:
   - France
 ---
 
-# The Cia Reads French Theory On the Intellectual Labor of Dismantling the Cultura
-
-The CIA reads French theory: on the intellectual labor of dismantling the cultural Left - Gabriel Rockhill Date: Unknown Source: https://libcom.org/article/cia-reads-french-theory-intellectual-labor-dismantling-cultural-left-gab riel-rockhill Tags: Marxism, culture, state, United States, education, repression, France, military and law enforcement, universities, surveillance
+United States, education, repression, France, military and law enforcement, universities, surveillance
 Notwithstanding its limitations, an interesting historical look at the state's utilisation of academia and the cultural sphere in the struggle to discredit Marxism. First published 28/02/17 in 'The Philosophical Salon' of the 'LA Review of Books'.
 It is often presumed that intellectuals have little or no political power. Perched in a privileged ivory tower, disconnected from the real world, embroiled in meaningless academic debates over specialized minutia, or floating in the abstruse clouds of high-minded theory, intellectuals are frequently portrayed as not only cut off from political reality but as incapable of having any meaningful impact on it. The Central Intelligence Agency thinks otherwise.
 As a matter of fact, the agency responsible for coups d’état, targeted assassinations and the clandestine manipulation of foreign governments not only believes in the power of theory, but it dedicated significant resources to having a group of secret agents pore over what some consider to be the most recondite and intricate theory ever produced. For inan intriguing research paperwritten in 1985, and recently released with minor redactions through the Freedom of Information Act, the CIA reveals that its operatives have been studying the complex, international trend-setting French theory affiliated with the names of Michel Foucault, Jacques Lacan and Roland Barthes.

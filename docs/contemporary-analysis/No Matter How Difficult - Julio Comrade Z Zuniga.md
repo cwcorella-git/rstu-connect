@@ -11,16 +11,6 @@ tags:
   - julio-comrade-z
 ---
 
-## **No Matter How Difficult - Julio "Comrade Z" Zuniga**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/no-matter-how-difficult-julio-comrade-z-zuniga
-
-**Tags:** United States, prisons, Texas, Incarcerated Workers Organizing Committee, Julio 'Comrade Z'
-
-## Zuniga
-
 Texas anarchist prisoner and IWOC member Julio "Comrade Z" Zuniga writes on the struggle against the Texas prison system. This article was first published by Mongoose Distro.
 
 Direct action means industrial action directly by, for, and of the workers themselves, without the treacherous aid of labor misleaders or scheming politicians; a strike that is initiated, controlled and settled by the workers directly affected is direct action. Direct action is combined action, directly on the job to secure better job conditions. Direct action is industrial democracy.

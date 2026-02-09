@@ -13,14 +13,6 @@ tags:
   - repression
 ---
 
-## **Strength of the street: Karachi 1972 - Kamran Asdar Ali**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/strength-street-karachi-1972-kamran-asdar-ali
-
-**Tags:** manufacturing and materials, strikes, general strikes, textiles, Pakistan, massacres, repression,
-
 ## killings, Karachi, Kamran Asdar Ali
 
 A short history of the mass strike in Karachi in June, 1972 following the killings of three striking factory workers by police.

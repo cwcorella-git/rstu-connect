@@ -13,8 +13,6 @@ tags:
 source: "428 F.2d 1071 (D.C. Cir. 1970)"
 ---
 
-# Javins v. First National Realty Corp.
-
 **428 F.2d 1071 (D.C. Cir.), cert. denied 400 U.S. 925 (1970)**
 
 *Argued January 16, 1970 — Decided May 7, 1970*

@@ -9,8 +9,6 @@ tags:
 
 [senate.gov](https://www.senate.gov/artandhistory/history/common/civil_war/Victory Tragedy Reconstruction.htm)
 
-## **U. S. Senate: The Civil War: The Senate's Story**
-
 15–19 minutes
 
 ## Victory, Tragedy, and Reconstruction

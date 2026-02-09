@@ -9,14 +9,6 @@ tags:
   - workers
 ---
 
-# **Mass Sackings at Deliveroo – What can I do about it?**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/mass-sackings-deliveroo-what-can-i-do-about-it
-
-**Tags:** Industrial Workers of the World (IWW), United Kingdom, food service, couriers, Deliveroo, gig economy
-
 An update from the IWW Couriers' Network about the mass sackings at Deliveroo.
 
 During the week leading up to Christmas 2018Deliveroo took it upon themselves to sack (or 'terminate' in Roo Speak) hundreds of couriers, sending out identical emails alleging fraud on the part of the sacked couriers. No notice was given, and no opportunity for appeal. When challenged to give specific evidence of these fraud allegations Deliveroo has so far flat out refused. We can only speculate on why Deliveroo would choose to make such an audacious attack on their workforce, so close to Christmas. Perhaps it was a cynical ploy to increase staff turnover, weakening our collective power, or perhaps a bug in their terminator algorithm caused some overzealous culling.

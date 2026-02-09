@@ -7,8 +7,6 @@ tags:
   - anarchism
 ---
 
-# NESTOR MAKHNO
-
 ## Anarchy's Cossack
 
 ## ![](_page_0_Picture_2.jpeg)

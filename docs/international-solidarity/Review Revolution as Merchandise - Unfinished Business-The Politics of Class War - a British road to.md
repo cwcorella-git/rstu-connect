@@ -9,15 +9,7 @@ tags:
   - United Kingdom
 ---
 
-## **Review: Revolution as Merchandise - "Unfinished Business-The Politics of Class War" - a British road to Anarchism**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/review-revolution-merchandise-unfinished-business-politics-class-war
-
 -british-road-anarchism
-
-**Tags:** 1980s, 1990s, United Kingdom, Here and Now, book reviews, Class War Federation
 
 A review by "Nat Turner" of Class War's book Unfinished Businessfrom Here & Nowissue 13 (1992).
 

@@ -9,8 +9,6 @@ tags:
 
 ## **Wayne Price**
 
-# **Anarchism: Utopian or scientific**
-
 ### **2006**
 
 Marxism and Utopianism The Limits of Marxist Inevitablism The Rejection of Scientific Socialism A Revival of Utopian Socialism and Its Class Limitations Utopianism or Science...or Both? References

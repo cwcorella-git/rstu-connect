@@ -8,25 +8,13 @@ tags:
   - United Kingdom
 ---
 
-## **Education Strikes from West Virginia and Kenya to the UK**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/education-strikes-west-virginia-and-kenya-uk
-
-**Tags:** Internationalist Communist Tendency, education
-
 On Sunday March 25 the CWO held a meeting in Newcastle focussing on the recent educational strikes across the world. It was attended by students, academics and other university workers (some in the CWO, some not) who had participated in the recent pickets of Newcastle, York and Durham universities. A CWO comrade gave the following introduction.
 
 I will start off with a short introduction to the recent wave of strike action that we have seen internationally in the education sector in February and March. I will talk a bit about Kenya, but primarily focus on West Virginia and the UK on which we have more information. I'll finish off with some observations on the class composition of the strikes, solidarity (or lack of it) with other sections of the working class, as well as the role of unions. And then hopefully we can have a bit of a discussion.
 
-## Kenya
-
 The nationwide lecturer's strike in Kenya came in the aftermath of previous strike action in December of 2017. In December the two unions involved in the dispute: the Universities' Academic Staff Union (UASU) – a kind of equivalent of the UCU in the UK – and the Kenya Medical Practitioners, Pharmacists and Dentists Union (KMPDU) – similar to the BMA, ended the strike after the government promised to negotiate a new collective bargaining agreement. That promise however was non-binding and realising they may be getting shafted, the workers resumed the strike on the 1st of March. The demands of the strike remained the same – a pay raise, but also access to services available to other public servants (such as car loans) as well as higher quality medical insurance. In addition there is the issue of pension benefits owed to retired staff which allegedly amount to around \$34 million.
 
 27,000 university staff together with 9,000 lecturers are said to have joined the strike which paralysed nearly all of the 31 public universities in the country. Among them are medical student interns and professors. In response, the universities have petitioned the government to stop the strike. On 16th of March the Kenyan Labour Court declared the strike illegal. Rather than give in however and despite threats from VCs that striking staff will be fired, the workers continue the strike which has now entered its fourth week.
-
-## West Virginia
 
 Turning our attention to the United States, on February 22nd workers in West Virginia walked out over a proposed pay raise of 2%, followed by 1% increases in 2020 and 2021, which they deemed not enough. Over 20,000 teachers, bus drivers, office workers, and cooks, took to the picket lines shutting down schools across all 55 counties. All this in West Virginia, a state which in 2016 overwhelmingly voted for Donald Trump and has been deemed by commentators part of the so called 'Trump country'. What initially started as a strike called by three trade unions, the American Federation of Teachers, the National Education Association, and the School Service Personnel Association, grew into a real movement when the unions tried to sell out the strike on February 27th. Governor Jim Justice reached a compromise with the unions which promised a 5% pay increase to teachers. Not only was this a non-binding agreement, again like the one in Kenya, lawmakers also agreed to knock it down to 4% and it left out other sectors of the workforce altogether.
 

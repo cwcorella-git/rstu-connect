@@ -8,13 +8,7 @@ tags:
   - capitalism
 ---
 
-## **A Real Extinction Rebellion Means the End of Colonialism, Imperialism, and Capitalism**
-
-## **Date:** Wed, 09/25/2019 - 20:06
-
 ## **Source:** https://ecology.iww.org/node/3343
-
-**Tags:** Deep Roots Jessica, green syndicalism, IWW Environmental Unionism Caucus, Extinction Rebellion (XR), capitalism, colonialism, and fascism, imperialism, capitalism, Black Lives Matter, Labor for Standing Rock (L4SR), Line 3
 
 ## By Jessica Garraway -
 

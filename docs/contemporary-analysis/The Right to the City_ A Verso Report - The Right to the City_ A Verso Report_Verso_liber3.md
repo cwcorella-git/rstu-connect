@@ -7,13 +7,9 @@ tags:
   - urban
 ---
 
-# The Right to the City
-
 # A Verso Report
 
 ## ![](_page_0_Picture_2.jpeg)
-
-## The Right to the City A Verso Report
 
 ## ![](_page_4_Picture_1.jpeg)
 

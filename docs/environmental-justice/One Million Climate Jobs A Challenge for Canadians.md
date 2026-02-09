@@ -8,17 +8,9 @@ tags:
   - Canada
 ---
 
-## **One Million Climate Jobs: A Challenge for Canadians**
-
-## **Date:** Tue, 01/05/2016 - 20:32
-
 ## **Source:** https://ecology.iww.org/node/1459
 
-**Tags:** green unionism, climate justice, just transition, energy democracy, renewable energy workers, public transit
-
 ## By Jonathan Neale -
-
-## One Million Climate Jobs
 
 ## , January 5, 2016
 

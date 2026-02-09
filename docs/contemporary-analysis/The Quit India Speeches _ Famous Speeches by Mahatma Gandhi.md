@@ -9,8 +9,6 @@ tags:
 
 #### [mkgandhi.org](https://www.mkgandhi.org/speeches/qui.php)
 
-# **The Quit India Speeches | Famous Speeches by Mahatma Gandhi**
-
 44–55 minutes
 
 ## ![](_page_0_Picture_5.jpeg)

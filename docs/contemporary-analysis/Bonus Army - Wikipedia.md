@@ -9,19 +9,11 @@ tags:
   - wikipedia
 ---
 
-#### [en.wikipedia.org](https://en.wikipedia.org/wiki/Bonus_Army)
-
-# **Bonus Army**
-
 ## Contributors to Wikimedia projects
 
 30–38 minutes
 
-### **Bonus Army**
-
 ## ![](_page_0_Picture_7.jpeg)
-
-## Bonus Army marchers (left) clash with the police
 
 | Date | July
 28, 1932; 93 years ago |

@@ -10,8 +10,6 @@ tags:
 
 #### [southsideweekly.com](https://southsideweekly.com/just-get-to-know-your-neighbors/)
 
-# **"Just Get to Know Your Neighbors"**
-
 ## Emeline Posner
 
 17–21 minutes

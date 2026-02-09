@@ -14,13 +14,7 @@ tags:
   - movement-politics
 ---
 
-# **Collapsing the levels, Consolidating Our efforts**
-
-## **Date:** Thu, 12/17/2015 - 17:24
-
 ## **Source:** https://ecology.iww.org/node/1440
-
-**Tags:** Industrial Workers of the World (IWW), libertarian-socialism, anarcho-syndicalism, green syndicalism, anarchism, ecosocialism, green unionism, class struggle, movement politics
 
 By SN Nappalos - Recomposition , December 11, 2015 Recomposition Introduction:
 

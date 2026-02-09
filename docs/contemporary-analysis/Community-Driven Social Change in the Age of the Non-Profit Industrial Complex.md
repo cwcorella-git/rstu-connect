@@ -7,11 +7,7 @@ tags:
   - community
 ---
 
-## **Community-Driven Social Change in the Age of the Non-Profit Industrial Complex**
-
 | Date: Wed, 12/07/2016 - 17:05
-Source: https://ecology.iww.org/node/1956
-Tags: movement politics, NGO-industrial complex, greenwashing, green syndicalism, social ecology |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | By staff - |
 | Murphy Institute |

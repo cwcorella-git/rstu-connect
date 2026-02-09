@@ -7,8 +7,6 @@ tags:
   - riots
 ---
 
-# **From Riot to Insurrection**
-
 **Analysis for an anarchist perspective against post-industrial capitalism**
 
 ## Alfredo M. Bonanno

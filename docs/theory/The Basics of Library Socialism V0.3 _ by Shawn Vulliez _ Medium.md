@@ -10,8 +10,6 @@ tags:
 
 ## ![](_page_0_Picture_4.jpeg)
 
-# The Basics of Library Socialism V0.3
-
 ## ![](_page_0_Picture_6.jpeg)
 
 [Shawn Vulliez](https://medium.com/@wrong_shon?source=post_page---byline--1c3f00a7c94f---------------------------------------) · [Follow](https://medium.com/m/signin?action Url=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2F11325ecc4fec&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40wrong_shon%2Fthe-basics-of-library-socialism-wip-1c3f00a7c94f&user=Shawn+Vulliez&user Id=11325ecc4fec&source=post_page-11325ecc4fec--byline--1c3f00a7c94f---------------------post_header------------------) 11 min read · Mar 21, 2023

@@ -8,17 +8,9 @@ tags:
   - gig economy
 ---
 
-# **Richmond IWW May Day Platform**
-
-## **Date:** Mon, 04/30/2018 - 12:07
-
 ## **Source:** https://ecology.iww.org/node/2864
 
-**Tags:** Industrial Workers of the World (IWW), green syndicalism, green unionism, green industrial unionism, Richmond IWW, May Day, intersectionality, Buen Vivir
-
 ## By Joe Sabo -
-
-## Richmond IWW
 
 ## , April 25, 2018
 

@@ -6,14 +6,6 @@ tags:
   - anarchism
 ---
 
-## **Subscribe to Anarcho Agony Aunts**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/subscribe-anarcho-agony-aunts
-
-**Tags:** fascism, United Kingdom, feminism, Anarcho Agony Aunts, sex and sexuality
-
 The struggle against fascism begins with the struggle against toxic masculinity
 
 Have you ever wondered how to talk dirty without reinforcing the patriarchy? Or what all the fuss is about polyamory? These are just two of the many topics tackled by the Anarcho Agony Aunts(AAA), an anarcha-feminist duo offering anonymous sex and relationship advice via their You Tube channel. The pair see what they're doing as having a dual-pronged strategy: helping to tackle issues with dating on the left while also reaching out to young men who are preyed on by men's rights activists and the alt-right.

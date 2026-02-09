@@ -9,8 +9,6 @@ tags:
 
 ## ![](_page_0_Figure_2.jpeg)
 
-# On Emancipation
-
 Trinidad & Tobago, how free are we?
 
 ## ![](_page_0_Picture_5.jpeg)

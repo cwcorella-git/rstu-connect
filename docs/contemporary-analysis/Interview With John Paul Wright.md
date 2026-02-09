@@ -10,15 +10,9 @@ tags:
   - march-26
 ---
 
-## **Interview With John Paul Wright**
-
-## **Date:** Sat, 03/26/2016 - 19:22
-
 Zone of Louisville.
 
 ## **Source:** https://ecology.iww.org/node/1575
-
-**Tags:** J. P. Wright, railroad workers, Railroad Workers United (RWU), green unionism By John Carico - Fifth Column , March 26, 2016 John Carico : What got you involved in social justice and labor organizing? John Paul Wright : I got involved in social justice activism as a result of my mother going to college late in life. In my teens my mother went to the University Of Louisville and found herself. She joined an organization called The Progressive Student Leauge. I looked up to her new friends. They had organizing meetings in our home while they were fighting to have the university divest funds from companies that supported South African Apartheid. I joined a group at my high school called Youth for Peace at this time and also got involved in another group called Nuclear Free
 
 My union work started when I became a member of The United Transportation Union when I was hired on with the railroad. I grew up in a very union family. My father is an IBEW 369
 

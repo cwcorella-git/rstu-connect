@@ -10,13 +10,7 @@ tags:
   - california
 ---
 
-## **Energy Democracy: Inside Californians' Game-Changing Plan for Community-Owned Power**
-
-## **Date:** Thu, 03/31/2016 - 19:07
-
 ## **Source:** https://ecology.iww.org/node/1582
-
-**Tags:** Al Weinrub, just transition, green jobs, green unionism, community choice aggregation (CCA)
 
 ## Al Weinrub -
 

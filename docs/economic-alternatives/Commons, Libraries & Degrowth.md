@@ -10,8 +10,6 @@ tags:
 
 ## **Andrewism**
 
-# **Commons, Libraries & Degrowth**
-
 The Real Tragedy of the Commons We Need A Library Economy How Degrowth Can Save The World
 
 #### **The Real Tragedy of the Commons**

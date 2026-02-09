@@ -7,13 +7,7 @@ tags:
   - healthcare
 ---
 
-## **A healthy planet for our children to inherit, or destroying the earth for jobs? Join Thousands of Workers in Saying: We Will No Longer Accept This Choice!**
-
-## **Date:** Sun, 02/26/2017 - 12:31
-
 ## **Source:** https://ecology.iww.org/node/2108
-
-**Tags:** Labor for Standing Rock (L4SR), green unionism, North America's Building Trades Unions (NABTU), International Brotherhood of Teamsters (IBT), trade unions, Laborers' International Union of North America (LIUNA), AFL-CIO, yellow unionism, pipelines, Dakota Access Pipeline (DAPL)
 
 ## By Labor for Standing Rock -
 

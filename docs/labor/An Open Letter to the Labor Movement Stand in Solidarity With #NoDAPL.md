@@ -8,8 +8,6 @@ tags:
   - labor
 ---
 
-## **An Open Letter to the Labor Movement: Stand in Solidarity With #NoDAPL**
-
 | Date: Fri, 09/02/2016 - 15:36 |
 |------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/1769|

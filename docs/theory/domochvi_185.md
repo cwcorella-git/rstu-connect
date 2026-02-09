@@ -6,8 +6,6 @@ tags:
   - theory
 ---
 
-## Ledare och ledda – ett naturfenomen?
-
 Om klass i arbetsliv och värdegrundsretorik
 
 Lena Martinsson, docent i etnologi

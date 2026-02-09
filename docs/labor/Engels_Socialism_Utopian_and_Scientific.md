@@ -9,13 +9,9 @@ tags:
   - marxism
 ---
 
-# Socialism: Utopian and Scientific
-
 # Frederick Engels
 
 ## ![](_page_0_Picture_2.jpeg)
-
-# **Socialism: Utopian and Scientific**
 
 # **Frederick Engels**
 

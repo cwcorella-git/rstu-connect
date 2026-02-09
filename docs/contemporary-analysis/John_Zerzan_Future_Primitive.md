@@ -8,15 +8,11 @@ tags:
   - current-events
 ---
 
-# **FUTURE PRIMITIVE**
-
 ## AND OTHER ESSAYS
 
 ## ![](_page_0_Picture_2.jpeg)
 
 ## JOHN ZERZAN
-
-# **Future Primitive and Other Essays**
 
 ## By John Zerzan Anti-Copyright
 

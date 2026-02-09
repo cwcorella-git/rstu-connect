@@ -9,14 +9,6 @@ tags:
   - 1700s
 ---
 
-## **Mary Wollstonecraft: Two sexes, yet one truth - Liz Willis**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/mary-wollstonecraft-two-sexes-yet-one-truth-liz-willis
-
-**Tags:** Liz Willis, Mary Wollstonecraft, feminism, 1700s
-
 Mary Wollstonecraft had few illusions: women's emancipation would be as difficult to live up to as it would be to achieve. On the eve of the 200th anniversary of the first feminist manifesto, Liz Willis discovers what its author actually expected of her fellow sex.
 
 Mary Wollstonecraft (1759-97), rejected both marriage and the available 'suitable' jobs for women, to earn her living by writing and win fame or notoriety in her public and private life as "English miscellaneous writer", "hyena in petticoats", pioneer of sexual liberation, champion of women's rights, wife to William Godwin, and mother of Mary Shelley. While Godwin has always had a secure place in the history of (pre)-anarchist political thought, liber-tarians have tended to neglect or be ambivalent towards Wollstonecraft.

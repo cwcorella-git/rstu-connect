@@ -9,12 +9,6 @@ tags:
   - libcom
 ---
 
-## **A Reply to Death of a Paper Tiger by Animal**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/reply-death-paper-tiger-animal**Tags:** Animal, activism, Aufheben, anarchism, Class War Federation
-
 A reply from a Class War member to "Intakes: Death of a Paper Tiger... Reflections on Class War" in Aufheben #6.
 
 This is a reply to "Intakes: Death of a Paper Tiger... Reflections on Class War" found on the Aufheben website on Feb. 21st 2000, but printed in 1997, Autumn no.6, in their magazine.

@@ -10,18 +10,13 @@ tags:
   - workers
 ---
 
-# 1912 Lawrence Textile Strike Wikipedia
-
 1912 Lawrence textile strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## en.wikipedia.org
 
-## 1912 Lawrence textile strike
 ## Contributors to Wikimedia projects
 
 ## 29–37 minutes
-
-## 1912 Lawrence textile strike
 
 ## Massachusetts militiamen with fixed bayonets surround a
 ## group of strikers

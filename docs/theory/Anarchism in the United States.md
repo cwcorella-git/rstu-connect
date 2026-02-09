@@ -7,15 +7,11 @@ tags:
   - theory
 ---
 
-# **Ronald Creagh, Gabriel Kuhn, Jesse Cohn**
-
 # **Anarchism in the United States 2009**
 
 Anarchism in the United States to 1945 Anarchism at Large Communal Experiments The 1848 Revolutions Prelude to the Civil War The International Workingmen's Association The Social Revolutionaries Immigrant Circles The International Impact References And Suggested Readings Anarchism in the United States, 1946–Present Partial Revival of Anarchism in the 1960s and 1970s Second Revival: The 1980s and 1990s References And Suggested Readings
 
 # **Anarchism in the United States to 1945**
-
-## Ronald Creagh
 
 Historians have adopted two approaches in their study of anarchism in the United States. Some narratives concentrate on individuals and grassroots movements with relatively well-defined connections to a historical anarchist movement. Others seek traces of anarchism in a broader sense, in fields such as art or philosophy or in some independent group or personality. There is indeed no single "essence" of anarchism but a wealth of perspectives as well as unexpected rebirths.
 

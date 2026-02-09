@@ -10,12 +10,6 @@ tags:
   - libcom
 ---
 
-## **What is Libertarian History? Part 1: The History of History Itself - Liz Willis**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/what-libertarian-history-part-1-history-history-itself-liz-willis
-
 ## **Tags:** Liz Willis, United Kingdom, feminism
 
 From Black Flag, Issue 232, 2010/11, pp.28-29.

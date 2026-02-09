@@ -11,8 +11,6 @@ tags:
 
 ## ![](_page_0_Picture_0.jpeg)
 
-# **Chandra**
-
 **Chandra** [\(Sanskrit](https://en.wikipedia.org/wiki/Sanskrit_language): चन्द्र, [romanized](https://en.wikipedia.org/wiki/Romanization_of_Sanskrit): *Chandra*, [lit.](https://en.wikipedia.org/wiki/Literal_translation) 'shining' or 'moon'), also known as **Soma** [\(Sanskrit:](https://en.wikipedia.org/wiki/Sanskrit_language) सो म), is the [Hindu god](https://en.wikipedia.org/wiki/Hindu_god) [of the Moon](https://en.wikipedia.org/wiki/Lunar_deity), and is associated with the night, plants and vegetation. He is one of the [Navagraha](https://en.wikipedia.org/wiki/Navagraha) (nine planets of Hinduism) and [Dikpala](https://en.wikipedia.org/wiki/Dikpala) (guardians of the directions).[\[5\]](#page-5-3)
 
 ## **Etymology and other names**

@@ -7,12 +7,6 @@ tags:
   - New York
 ---
 
-## **Diggers Declare the End of Money at the New York Stock Exchange**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/diggers-declare-end-money-new-york-stock-exchange**Tags:** Abbie Hoffman, Diggers, Youth International Party, 1960s, Anti-Capitalism, money
-
 Abbie Hoffman's account of the Diggers' guerrilla-theater performance at the New York Stock Exchange on 24 August 1967. Hoffman and some other future Yippies infiltrated the heart of American capitalism and began showering \$1 bills on the trading floor below, in addition to tearing, eating, and burning money. Prior to forming the Youth International Party in December 1967, Hoffman and his associates identified as the New York branch of the Diggers, who were a San Francisco-based group of radical activists and guerrilla-theater performers. The account appeared in Hoffman's 1980 autobiography Soon to Be a Major Motion Picture, which was posthumously republished as The Autobiography of Abbie Hoffmanin 2000.
 
 ## Museum of the Streets

@@ -8,14 +8,6 @@ tags:
   - Russia
 ---
 
-## **In the long hot summer, Ukrainian and Russian soldiers broke records for the growth of desertions**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/long-hot-summer-ukrainian-and-russian-soldiers-broke-records-growt h-desertions
-
-**Tags:** assembly.org.ua, Russia-Ukraine war, war, Ukraine, Crimea, Russia, sabotage, police, prisons
-
 Historical processes are happening right before our eyes
 
 Donations to support the authors are possible at thislink. Many thanks everyone for such a great contribution!

@@ -7,10 +7,6 @@ tags:
   - capitalism
 ---
 
-# **THE WAR IS NOT A METAPHOR: The Capitalist, the Defector, the Traitor, and the Revolutionary**
-
-**Date:** 2025-05-18 **Source:** https://www.threadings.io/the-war-is-not-a-metaphor-the-capitalist-the-defector-the-traitor-andthe-revolutionary/Disclaimer: This was my first live essay, meaning that I taught it with a diagram I drew out for a live audience. If you are one that typically reads or listen to the essays, I would actually recommend giving this one a watch! While screenshots are included throughout the text, I believe it ' s also helpful to watch the board fill as we move through these ideas. Thesis upfront: I believe art making constructs worlds, both in the ways art shapes our minds and in the tokens of power art affords us as artists. I am, thus, dedicating book sales to building public infrastructure, starting with a library in Freetown, Sierra Leone. You can support this initiative in the following ways! weeeee!
-
 ## ![](_page_1_Figure_0.jpeg)
 
 ## Phase One: Library Infrastructure

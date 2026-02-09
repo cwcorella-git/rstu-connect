@@ -8,13 +8,7 @@ tags:
   - climate
 ---
 
-## **Can the Climate Movement Break Free From the 'Jobs vs. Environment' Debate?**
-
-## **Date:** Wed, 05/04/2016 - 18:36
-
 ## **Source:** https://ecology.iww.org/node/1633
-
-**Tags:** green unionism, United Steelworkers of America (USW), 350, refineries, oil workers, just transition, Breaking Free, movement politics, labor and environment
 
 ## By Kate Aronoff -
 

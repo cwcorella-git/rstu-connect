@@ -8,8 +8,6 @@ tags:
   - theory
 ---
 
-# An Anarchist Theory of Criminal Justice
-
 An Anarchist Theory of Criminal Justice https://theanarchistlibrary.org/library/coy-mckinney-an-...
             Coy McKinney
             An Anarchist Theory of Criminal

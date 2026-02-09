@@ -7,12 +7,6 @@ tags:
   - Bookchin
 ---
 
-## **Were we wrong? - Murray Bookchin**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/were-we-wrong-murray-bookchin**Tags:** Murray Bookchin, Marxism, anarchism, capitalism, PDF
-
 An essay in which Murray Bookchin argues against the dominant Marxist and anarchist view of capitalist development and revolutionary change. Published in Telos,Vol. 65, Fall, 1985, pp. 59-74.
 
 ## [b][size=20]Were We Wrong?[/size][/b]

@@ -8,8 +8,6 @@ tags:
 
 [snopes.com](https://www.snopes.com/fact-check/the-origins-of-policing-in-the-united-states/)
 
-# **The Origins of Policing in the United States**
-
 ## Brooke Binkowski
 
 8–10 minutes

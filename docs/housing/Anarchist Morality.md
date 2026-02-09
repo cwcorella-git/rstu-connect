@@ -9,13 +9,9 @@ tags:
   - tenants
 ---
 
-# **Pëtr Kropotkin Anarchist Morality 1897**
-
 Note For *Anarchist Morality* I II III IV V VI VII VIII
 
 ## IX
-
-## **Note For** *Anarchist Morality*
 
 This study of the origin and function of what we call "morality" was written for pamphlet publication as a result of an amusing situation. An anarchist who ran a store in England found that his comrades in the movement regarded it as perfectly right to take his goods without paying for them. "To each according to his need" seemed to them to justify letting those who were best able foot the bills. Kropotkin was appealed to, with the result that he not only condemned such doctrine, but was moved to write the comrades this sermon.
 

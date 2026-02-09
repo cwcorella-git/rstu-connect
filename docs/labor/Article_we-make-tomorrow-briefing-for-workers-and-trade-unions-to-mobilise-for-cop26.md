@@ -9,12 +9,7 @@ tags:
   - workers
 ---
 
-# We Make Tomorrow Briefing For Workers and Trade Unions To Mobilise For Cop26
-
-We Make Tomorrow: Briefing for Workers and Trade Unions To Mobilise for COP26 Date: Mon, 09/20/2021 - 00:00 Source: https://ecology.iww.org/node/4511 Tags: COP26, COP21, green unionism, green syndicalism, jobs, green jobs, climate change, climate justice, just transition, International Trade Union Confederation (ITUC) By Workers Action: Cop26 Coalition Trade Union Caucus -
-
-## We Make Tomorrow
-
+International Trade Union Confederation (ITUC) By Workers Action: Cop26 Coalition Trade Union Caucus -
 , Septmber 20, 2021 Introduction Briefing for Workers and Trade Unions
 
 ## View this briefing as a

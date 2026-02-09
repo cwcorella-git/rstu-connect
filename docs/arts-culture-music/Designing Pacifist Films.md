@@ -6,8 +6,6 @@ tags:
   - anti-war
 ---
 
-# **Paul Goodman**
-
 ## **Designing Pacifist Films**
 
 ### **1961**

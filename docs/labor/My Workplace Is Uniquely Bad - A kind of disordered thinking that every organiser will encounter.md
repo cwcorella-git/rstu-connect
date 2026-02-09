@@ -8,15 +8,7 @@ tags:
   - workers
 ---
 
-## **"My Workplace Is Uniquely Bad" - A kind of disordered thinking that every organiser will encounter.**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/my-workplace-uniquely-bad-kind-disordered-thinking-every-organiser
-
 -will-encounter
-
-**Tags:** Matilda Dow, Industrial Workers of the World (IWW), Edinburgh IWW, Organizing Work
 
 Every workplace is unique, and yours is the same. An essay on how to talk to workers who believe that organising is impossible at work, because of unique challenges that make it unlike any other workplace.
 

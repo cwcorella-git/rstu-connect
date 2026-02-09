@@ -9,14 +9,6 @@ tags:
   - education
 ---
 
-## **Education workers announce wildcat action after Ontario suspends human rights to crush their union**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/education-workers-announce-wildcat-action-after-ontario-suspends-human-rights-crush-their
-
-**Tags:** Jeff Shantz, strikes, wildcat strikes, unions, human rights, education, Ontario, Canada
-
 The Conservative government in Canada's largest province, Ontario, took the extraordinary step of introducing legislation suspending fundamental human rights on October 31, in an effort to preemptively stop an education workers' strike.
 
 The heavy-handed attack on workers' rights, which circumvents Canada's Charter of Rights and Freedoms, poses a serious threat to labour movements and could set a precedent for dismantling the foundations of collective bargaining.

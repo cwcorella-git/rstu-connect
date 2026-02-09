@@ -7,14 +7,6 @@ tags:
   - feminism
 ---
 
-## **Why misogynists make great Informants: How gender violence on the left enables state violence in radical movements**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/why-misogynists-make-great-informants-how-gender-violence-left-en ables-state-violence
-
-**Tags:** organisation, repression, feminism, Courtney Desiree Morris
-
 Courtney Desiree Morris on the disruptive role of misogynists in radical organisations, and how it opens the door to state violence both indirectly and in some cases via police informants.
 
 In January 2009, activists in Austin, Texas, learned that one of their own, a white activist named Brandon Darby, had infiltrated groups protesting the Republican National Convention (RNC) as an FBI informant. Darby later admitted to wearing recording devices at planning meetings and during the convention. He testified on behalf of the government in the February 2009 trial of two Texas activists who were arrested at the RNC on charges of making and possessing Molotov cocktails, after Darby encouraged them to do so. The two young men, David Mc Kay and Bradley Crowder, each faced up to fifteen years in prison. Crowder accepted a plea bargain to serve three years in a federal prison; under pressure from federal prosecutors, Mc Kay also pled guilty to being in possession of "unregistered Molotov cocktails" and was sentenced to four years in prison. Information gathered by Darby may also have contributed to the case against the RNC 8, activists from around the country charged with "conspiracy to riot and conspiracy to damage property in the furtherance of terrorism." Austin activists were particularly stunned by the revelation that Darby had served as an informant because he had been a part of various leftist projects and was a leader at Common Ground Relief, a New Orleans–based organization committed to meeting the short-term needs of community members displaced by natural disasters in the Gulf Coast region and dedicated to rebuilding the region and ensuring Katrina evacuees' right to return.

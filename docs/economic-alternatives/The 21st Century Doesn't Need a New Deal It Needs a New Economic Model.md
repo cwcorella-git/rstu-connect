@@ -8,13 +8,7 @@ tags:
   - alternatives
 ---
 
-## **The 21st Century Doesn't Need a New Deal: It Needs a New Economic Model**
-
-## **Date:** Tue, 08/09/2016 - 16:16
-
 ## **Source:** https://ecology.iww.org/node/1736
-
-**Tags:** green capitalism, ecosocialism, libertarian-socialism, social ecology, green syndicalism
 
 ## By C. J. Polychroniou -
 

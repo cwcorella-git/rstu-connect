@@ -16,13 +16,7 @@ tags:
   - blockadia
 ---
 
-## **Reflections on Sentencing**
-
-## **Date:** Wed, 03/02/2016 - 18:07
-
 ## **Source:** https://ecology.iww.org/node/1547
-
-**Tags:** Plane Stupid, Heathrow, Ella Gilbert, Bec Sanderson, Kara Moses, climate justice, green syndicalism, green unionism, direct action, blockadia
 
 ## By The Heathrow 13 -
 

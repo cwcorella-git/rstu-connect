@@ -8,14 +8,6 @@ tags:
   - climate
 ---
 
-## **Green Syndicalism – A Very Brief Introduction**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/green-syndicalism-very-brief-introduction
-
-**Tags:** Jeff Shantz, anarcho-syndicalism, syndicalism, ecology, environment, sabotage, blockades,
-
 ## climate change, Climate Strike
 
 The exploitation of labor and the exploitation of land under capitalism have always been integrally connected – one does not occur without the other. From the violence of enclosures of commons, expanded across the globe through colonialism – ongoing acts that are the bedrock of capitalist property relations. Through the dispossession, displacement, and social control of the enclosed upon, in the service of capitalist property and labor markets. Violent expropriation of land, and the means of the sustenance of life, are the very conditions for forced production for profit. Labor is rendered exploitable by destruction of its conditions of autonomous survival.

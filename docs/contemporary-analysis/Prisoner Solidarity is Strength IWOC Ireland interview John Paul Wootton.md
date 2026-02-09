@@ -8,14 +8,6 @@ tags:
   - Ireland
 ---
 
-## **Prisoner Solidarity is Strength: IWOC Ireland interview John Paul Wootton**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/prisoner-solidarity-strength-iwoc-ireland-interview-john-paul-wootton
-
-**Tags:** Industrial Workers of the World (IWW), prisons, Northern Ireland, Incarcerated Workers
-
 Organizing Committee, John Paul Wootton, Craigavon Two
 
 As part of a series of articles and interviews IWOC Ireland talks with political prisoner John Paul Wootton, of the Craigavon Two. As an anarchist and political prisoner, John Paul talks here briefly on how prisoners campaign and fight back on the inside.

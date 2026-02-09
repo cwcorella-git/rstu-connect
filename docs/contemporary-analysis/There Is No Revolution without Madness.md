@@ -9,12 +9,6 @@ tags:
   - revolution
 ---
 
-## **There Is No Revolution without Madness.**
-
-## **Date:** 2023-11-08
-
-**Source:** https://www.threadings.io/there-is-no-revolution-without-madness-2/
-
 this is an essay once entitled, "revolutionary love costs you your sanity, at minimum. are we sincerely prepared for it to cost us our life?"
 
 Hello and welcome to threadings., the newsletter and podcast where we consider the bits of my politic that stitch me together like a patchwork quilt. Today, I am bound together at the seams by the thought of a new world//what it might cost us//what we stand to gain. I write to you bereaved from watching the avalanches of death manufactured by the United States, via their bloodchildren (the United Nations, the so-called state of Israel, the existence of the US Dollar, and more). I am bereaved from the war in Sudan, knowing that a war of similar groundings burned my grandmother's home to the ground. I write to you feeling grief bloom in my bones.

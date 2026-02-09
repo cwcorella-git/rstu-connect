@@ -8,14 +8,6 @@ tags:
   - solidarity
 ---
 
-## **Short reflection on a Solidarity Network / IWW case**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/short-reflection-solidarity-network-iww-case
-
-**Tags:** Industrial Workers of the World (IWW), solidarity networks, Angry Workers of the World
-
 In spring 2019 our local solidarity network was approached by a building worker, originally from Punjab, who had worked on a shop conversion of a beauty parlour for a female boss from the same background. His English is pretty weak, he had arrived some years back, whereas she and her family is well established and own various properties in the area. They didn't sign any contractual agreements before he started working. He worked on the site for two weeks, after which he was paid £420 in cash. He was promised further payments, of which he had proof in form of text messages, but they payments were never made. He contacted the solidarity network during one of our weekly drop-ins in Southall. The only proof of the fact that he had worked for the boss were photos he took of the work in progress (plastering, tiling, painting, fixing of mirror units etc.). We wrote an IWW Union letter to the store address, asking the boss to pay the outstanding £1,600. She replied by saying that the builder was a family friend, that he never gave an estimate and that his work was not up to standards. She also said that he was employed through a contractor, not by her directly. We asked her to give us an estimate of how many hours the builder had worked and the contact of the building contractor, for which the builder allegedly had worked for. She did not want to give us this information.
 
 After another letter we visited the store with two comrades from the RMT, the builder and a friend who the solidarity network had helped during a previous case. We spoke to the people inside the shop, but the boss was not on site. The people inside were beauticians who hire their seats from the boss. We said that we will unfortunately have to tell people to boycott the store as long as the outstanding wages were not paid - and that we understand that this will also impact on the beauticians income. We asked them to put pressure on their landlady to cough up the money. We set up a short picket at the shop, but primarily in order to send a picture to the boss, together with a copy of the leaflet we intended to distribute. The boss reacted by phoning the builder and threatening him with the police, accusing him of harassment. She also mentioned during a phone conversation that the builder and his family "actually live in my aunts house and I could have them kicked out". She also said that she is

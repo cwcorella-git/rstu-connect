@@ -7,8 +7,6 @@ tags:
   - current-events
 ---
 
-# **Subcomandante Marcos**
-
 # **Our Word Is Our Weapon**
 
 # **2002**

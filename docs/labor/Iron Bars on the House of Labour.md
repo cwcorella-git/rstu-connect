@@ -9,14 +9,6 @@ tags:
   - workers
 ---
 
-## **Iron Bars on the House of Labour**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/iron-bars-house-labour
-
-**Tags:** culture, health and medicine, media and culture, public and third sector, schools, police, prisons,
-
 Canada, military and law enforcement, local government
 
 How accepting surveillance officers and other parts of the repressive state into trade unions is a threat to organizers across so-called Canada...

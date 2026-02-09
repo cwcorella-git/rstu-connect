@@ -8,14 +8,6 @@ tags:
   - aragorn-eloff
 ---
 
-## **Book Review | Beyond the Periphery of the Skin**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/book-review-beyond-periphery-skin
-
-**Tags:** Silvia Federici, feminism, Aragorn Eloff
-
 Aragorn Eloff reviews Silvia Federici's new book,Beyond the Periphery of the Skinwhich shows how capitalism has captured our bodies and proposes possibilities for reclaiming and recreating them to resist the present and prefigure the future.
 
 In a time of ecological crisis, it is unsurprising that questions of the body have become a focal point within contemporary radical politics. One of the great strengths of Silvia Federici's peerless work in this regard is to remind us that the body – or bodies, in all their difference – have multiple histories.

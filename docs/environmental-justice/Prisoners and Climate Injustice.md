@@ -8,13 +8,7 @@ tags:
   - environment
 ---
 
-## **Prisoners and Climate Injustice**
-
-## **Date:** Fri, 08/11/2017 - 16:49
-
 ## **Source:** https://ecology.iww.org/node/2379
-
-**Tags:** prisons, prison labor, Prison Ecology Project, 350, IWOC, green unionism, climate justice, climate change, heat stress
 
 ## By Natalia Cardona -
 

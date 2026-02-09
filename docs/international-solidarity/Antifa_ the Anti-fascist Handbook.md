@@ -10,13 +10,9 @@ tags:
 
 # **Mark Bray**
 
-# **Antifa: the Anti-fascist Handbook**
-
 ## **August 2017**
 
 **Introduction What is Anti-Fascism?**
-
-#### **Antifa**
 
 **One: ¡No Pasarán!: Anti-Fascism Through 1945**
 

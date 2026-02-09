@@ -8,8 +8,6 @@ tags:
   - Bookchin
 ---
 
-# Post-Scarcity Anarchism
-
 ## Murray Bookchin
 
 ## **WORKING CLASSICS SERIES (3**
@@ -17,8 +15,6 @@ tags:
 ## ![](_page_0_Picture_3.jpeg)
 
 ## ![](_page_0_Picture_6.jpeg)
-
-# Post-Scarcity Anarchism
 
 ## Murray Bookchin
 

@@ -11,13 +11,7 @@ tags:
   - United Kingdom
 ---
 
-## **London IWW Statement of Solidarity with UK Rail Workers**
-
-## **Date:** Mon, 08/01/2022 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/5140
-
-**Tags:** Industrial Workers of the World (IWW), IWW WISERA, London, National Union of Rail, Maritime and Transport Workers (RMT), strikes, class struggle, green unionism, railroad workers, public transit workers, public transit
 
 ## By branch - London IWW, August 1, 2022
 

@@ -11,8 +11,6 @@ tags:
 
 ## James Herod
 
-## Breaking Out of the Cage and Destroying Our Jailers
-
 ## June 1999
 
 ## June 1999

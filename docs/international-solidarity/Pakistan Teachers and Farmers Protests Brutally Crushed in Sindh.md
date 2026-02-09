@@ -9,12 +9,6 @@ tags:
   - education
 ---
 
-## **Pakistan: Teachers and Farmers Protests Brutally Crushed in Sindh**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/pakistan-teachers-and-farmers-protests-brutally-crushed-sindh
-
 ## **Tags:** education, Pakistan, South Asia
 
 A report on the crack down on teachers and farmers protests currently taking place in the Pakistani province of Sindh. Once again, the state's vicious response to working class protests has differed greatly from its hands-off approach to similar demonstrations and movements of Muslim extremists.

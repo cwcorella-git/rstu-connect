@@ -9,9 +9,7 @@ tags:
   - workers
 ---
 
-# The Union On Our Own Terms Alexis Buss
-
-The union on our own terms - Alexis Buss Date: Unknown Source: https://libcom.org/article/union-our-own-terms-alexis-buss Tags: Alexis Buss, Industrial Workers of the World (IWW), organisation, workplace activity
+Buss, Industrial Workers of the World (IWW), organisation, workplace activity
 A 2006 pamphlet produced by the IWW of Alexis Buss’ writings on ‘minority unionism’, which was the base of which later became what the IWW would call ‘solidarity unionism’.
 Fellow Workers,
 This pamphlet is a compilation of the writings of Alexis Buss, who served as General Secretary-treasurer of the Industrial Workers of the World from 2000 until 2005. These columns concerning minority unionism were originally written as articles for the IWW’s newspaper, the Industrial Worker. Fellow Worker Joe Berry, an instructor at the University of Illinois in the Chicago Labor Education Program, put together the list of supplemental references.

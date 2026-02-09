@@ -9,11 +9,7 @@ tags:
 
 [re-des.org](https://www.re-des.org/es/a-solarpunk-manifesto/)
 
-## **A Solarpunk Manifesto (English) – Re Des – Regenerative Design**
-
 5–6 minutes
-
-## **Solarpunk**
 
 Many people have written about Solarpunk during the last 10+ years. Mostly after 2014.
 

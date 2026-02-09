@@ -11,8 +11,6 @@ tags:
 
 ## **Bob Black**
 
-# **The Abolition of Work and Other Essays**
-
 ## **1986**
 
 Foreward by Ed Lawrence Introduction by Ivan Stang

@@ -11,7 +11,7 @@ tags:
   - gig economy
   - Nevada
 ---
-# Building a Comprehensive Tenant Organizing Platform for Reno-Sparks
+
 Building a comprehensive tenant organizing platform for RenoSparks
 This report synthesizes extensive research on technical architecture, privacy systems, mapping
 solutions, and successful organizing platforms to provide an implementable blueprint for the RenoSparks Tenants Union. The recommendations prioritize practical solutions that a single developer can

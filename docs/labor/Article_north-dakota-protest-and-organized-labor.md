@@ -9,10 +9,7 @@ tags:
   - labor
 ---
 
-# North Dakota Protest and Organized Labor
-
-North Dakota Protest and Organized Labor Date: Tue, 09/13/2016 - 19:04 Source: https://ecology.iww.org/node/1787 Tags: yellow unionism, North America's Building Trades Unions (NABTU), trade unions, capitalism, Dakota Access Pipeline (DAPL), indigenous, International Brotherhood of Teamsters (IBT)
-
+North America's Building Trades Unions (NABTU), trade unions, capitalism, Dakota Access Pipeline (DAPL), indigenous, International Brotherhood of Teamsters (IBT)
 ## By John Reimann -
 
 ## Oakland Socialist

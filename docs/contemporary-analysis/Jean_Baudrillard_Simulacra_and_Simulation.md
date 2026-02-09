@@ -8,8 +8,6 @@ tags:
   - current-events
 ---
 
-# JEAN BAUDRILLARD
-
 ## ![](_page_0_Picture_1.jpeg)
 
 ## Translated by Sheila Faria Glaser

@@ -10,8 +10,6 @@ tags:
 
 ## ![](_page_0_Figure_0.jpeg)
 
-# Situationist International Anthology
-
 ## Revised and Expanded Edition
 
 The Situationist International Antholog;y was originally published in 1981 and reprinted in 1989 and 1995. This revised and expanded version is published December 2006. Edited and translated from the French by Ken Knabb.

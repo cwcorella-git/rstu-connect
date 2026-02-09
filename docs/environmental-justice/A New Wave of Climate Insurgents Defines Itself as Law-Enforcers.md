@@ -8,10 +8,6 @@ tags:
   - climate
 ---
 
-# **A New Wave of Climate Insurgents Defines Itself as Law-Enforcers**
-
-## **Date:** Wed, 03/02/2016 - 18:22
-
 | Source: https://ecology.iww.org/node/1548|
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Tags: climate justice, green unionism, green syndicalism, just transition, Jeremy Brecher, 350,

@@ -10,8 +10,6 @@ tags:
 
 # **Alexander Berkman**
 
-# **What Is Communist Anarchism?**
-
 # **1929**
 
 ## Foreword Introduction

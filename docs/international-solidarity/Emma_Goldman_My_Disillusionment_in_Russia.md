@@ -8,8 +8,6 @@ tags:
   - Russia
 ---
 
-# **Emma Goldman My Disillusionment in Russia**
-
 #### **Table of Contents**
 
 **[Preface To First Volume of American](http://theanarchistlibrary.org/library/emma-goldman-my-disillusionment-in-russia#toc1) [Edition](http://theanarchistlibrary.org/library/emma-goldman-my-disillusionment-in-russia#toc1)**

@@ -12,8 +12,6 @@ tags:
 
 ## ![](_page_0_Picture_2.jpeg)
 
-# **Critical Resistance**
-
 **Critical Resistance (CR)** is a U. S. based organization with the stated goal of abolishing the [prison-industrial](https://en.wikipedia.org/wiki/Prison-industrial_complex) [complex](https://en.wikipedia.org/wiki/Prison-industrial_complex) (PIC).[\[1\]](#page-4-0) Critical Resistance's national office is in [Oakland,](https://en.wikipedia.org/wiki/Oakland) California, with three additional chapters in New York City, Los Angeles, and Portland, Oregon[.\[2\]](#page-4-1) Despite claims of being an internationalist organization, CR has not led any abolitionist campaigns outside of the USA, though individual members have built relationships abroad (mostly in the West).
 
 Critical Resistance has worked towards abolition of the PIC since its first conference in 1998. It considers the prison-industrial complex to be a response to societal issues including but not limited to homelessness, immigration, and gender-based violence.[\[3\]](#page-4-2) Since 1998 it has taken part in numerous campaigns and projects to close prisons, stop new prisons from being built, address the root cause of interpersonal harm, and promote restorative practices.

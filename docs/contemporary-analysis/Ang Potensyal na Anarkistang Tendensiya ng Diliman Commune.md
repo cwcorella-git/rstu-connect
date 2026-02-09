@@ -13,14 +13,6 @@ tags:
   - randy
 ---
 
-## **Ang Potensyal na Anarkistang Tendensiya ng Diliman Commune**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/ang-potensyal-na-anarkistang-tendensiya-ng-diliman-commune-0
-
-**Tags:** education, uprisings, students, universities, school students, Philippines, Gasera Journal, Randy
-
 ## Nobleza, Jong Pairez, Filipino
 
 An analysis of the potential for anarchist tendencies in the Diliman Commune, a student uprising against the Marcos Administration.

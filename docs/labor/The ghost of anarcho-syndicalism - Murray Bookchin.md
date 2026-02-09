@@ -9,12 +9,6 @@ tags:
   - Bookchin
 ---
 
-## **The ghost of anarcho-syndicalism - Murray Bookchin**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/ghost-anarcho-syndicalism-murray-bookchin
-
 ## **Tags:** Murray Bookchin, anarcho-syndicalism
 
 Murray Bookchin's critique of anarcho-syndicalism. We do not necessarily agree with it but reproduce it for reference.

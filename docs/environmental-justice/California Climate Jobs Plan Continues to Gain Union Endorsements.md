@@ -8,10 +8,7 @@ tags:
   - environment
 ---
 
-## **California Climate Jobs Plan Continues to Gain Union Endorsements**
-
-**Date:** Fri, 03/11/2022 - 00:00 **Source:** https://ecology.iww.org/node/4886**Tags:** green unionism, just transition, COVID-19, Green New Deal (GND), United Steelworkers of America (USW), USW Local 5, USW Local 675, Service Employees International Union (SEIU), SEIU Local 721, SEIU Local 1021 By That Green Union Guy - IWW Environmental Union Caucus - March 11, 2022 The California Climate Jobs Plan , popularly known as "the Pollin Report"--which has been described as a "sholvel ready just transition/Green New Deal" plan--and was immediately endorsed by nineteen California based labor unions, including three United Staeelworkers Union locals which primarily represent refinery workers upon its unveiling has since gained the support of many additional unions. The following unions (so far) have since endorsed the plan (knowing that while the plan isn't perfect, it's at least a step in a positive direction): November 2021:
-
+green unionism, just transition, COVID-19, Green New Deal (GND), United Steelworkers of America (USW), USW Local 5, USW Local 675, Service Employees International Union (SEIU), SEIU Local 721, SEIU Local 1021 By That Green Union Guy - IWW Environmental Union Caucus - March 11, 2022 The California Climate Jobs Plan , popularly known as "the Pollin Report"--which has been described as a "sholvel ready just transition/Green New Deal" plan--and was immediately endorsed by nineteen California based labor unions, including three United Staeelworkers Union locals which primarily represent refinery workers upon its unveiling has since gained the support of many additional unions. The following unions (so far) have since endorsed the plan (knowing that while the plan isn't perfect, it's at least a step in a positive direction): November 2021:
 Inland Boatmen's Union (IBU), SF Bay Region (an affiliate of the ILWU)
 
 | Railroad Workers United |

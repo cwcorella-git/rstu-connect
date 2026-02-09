@@ -5,8 +5,6 @@ date: 2026
 category: organizing
 ---
 
-# Rent Strike History and Tactics
-
 The historical record is unambiguous: rent strikes work when tenants move together.
 
 ## Rent Strikes Built the Tenant Protections Americans Take for Granted

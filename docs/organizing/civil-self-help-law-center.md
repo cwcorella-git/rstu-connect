@@ -8,8 +8,6 @@ tags:
   - organizing
 ---
 
-# Civil Self-Help Law Center Provides Legal Information, Resources for Tenants
-
 When facing housing legal issues, many tenants feel overwhelmed by the complexity of laws, court procedures, and paperwork. The Civil Self-Help Law Center at the Washoe County Courthouse provides free resources to help people navigate the legal system, including tenant-landlord disputes.
 
 ## What is the Civil Self-Help Law Center?

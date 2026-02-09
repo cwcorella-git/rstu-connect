@@ -8,9 +8,6 @@ tags:
   - strikes
 ---
 
-# 1947 General Strike Ceylon Sri Lanka
-
-1947 General Strike, Ceylon (Sri Lanka) Date: Unknown Source: https://libcom.org/article/1947-general-strike-ceylon-sri-lanka Tags: general strikes, Sri Lanka, colonialism
 An account by T. B. Dissanayake of the 1947 general strike in Ceylon, now Sri Lanka
 I remember the day when the remains of our dear departed colleague Velupillai. Kandasamy, a fellow striker, were taken in a massive procession of workers from the General Hospital, Borella to the Fort Railway Station.
 The route along McCallum Road (now Wijewardena Mawatha) was thronged with crowds. Workers from offices, factories and workshops from the capital and its suburbs - Ratmalana and Kolonnawa had joined the vast concourse of people to pay their homage to a martyr, a government clerk who hailed from Jaffna. The coffin was borne aloft by strikers. In batches they took their turn as pall-bearers. Kandasamy's final journey began on the train to Jaffna.

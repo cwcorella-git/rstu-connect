@@ -11,8 +11,6 @@ tags:
 
 [gnu.org](https://www.gnu.org/philosophy/rms-pavia-doctoral-address.html)
 
-## **Pavia Doctoral Address: Innovation Is Secondary When Freedom Is at Stake - GNU Project**
-
 ## by Richard Stallman
 
 12–15 minutes

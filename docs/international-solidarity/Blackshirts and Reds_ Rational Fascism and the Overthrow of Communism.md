@@ -9,8 +9,6 @@ tags:
 
 ## MICHAEL PARENTI
 
-# **BLACKSHIRTS** &
-
 ## Rational Fascism
 
 ## & the Overthrow

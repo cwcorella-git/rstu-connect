@@ -8,12 +8,6 @@ tags:
   - digital rights
 ---
 
-# **Against the (new and old) familism down with the family! - humanaesfera**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/against-new-and-old-familism-down-family-humanaesfera
-
 ## **Tags:** education
 
 A critique of the family as well as of the ideas of reforming it. The article also deals with the changes of the family in capitalist society, in which there is an increasingly real subsumption of human reproduction to capital.

@@ -11,10 +11,6 @@ tags:
 
 ## DANIEL W. BROMLEY
 
-### Possessive Individualism
-
-# Possessive Individualism
-
 ## *A Crisis of Capitalism*
 
 ## DANIEL W. BROMLEY

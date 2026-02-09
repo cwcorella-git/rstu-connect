@@ -9,13 +9,7 @@ tags:
   - class
 ---
 
-## **Class War 16/2024: Proletarian revolt in Kenya – Against all bourgeois falsifications!**
-
-## **Date:** Unknown
-
 ## **Source:**
-**Tags:** Tridni Valka, internationalism, class struggle, Kenya, Class War Group
-
 The text we present here on the very recent wave of class struggle that swept Kenya (and is still sweeping it at the time of writing) does not pretend to be "complete" or "objective" analysis of the situation. We are not here to make just a diagnose of the ills of Capital; we are here to participate in digging its grave! We have nothing to do with analyses of bourgeois political economy, so prized by all the colors and shades of the prism of capital's left and far left, analyses which crush beneath the weight of their figures, their percentages, their graphs, their curves, their logorrhea… any expression of the life of our class and its struggle, any manifestation of the living. As far as we are concerned, we simply and modestly address a warm and vibrant greeting to our class brothers and sisters in struggle in Kenya, as everywhere else in this capitalist hell that imposes itself on our humanity, and we call on them to stand up, after having raised their heads, to get organized ever more powerfully for the struggles to come…
 
 On 18th of June 2024 the protests started in Nairobi, that included the occupation of the square in front of the National Parliament and since the beginning included confrontations with the repressive forces of the State. The original trigger for the protests was the proposal of the so-called Finance Bill 2024 by the Kenya's president Ruto. Its adoption would mean increase of prices on wide range of basic goods from bread, eggs, vegetables and cooking oil to petrol and hygienic necessities for women and children.

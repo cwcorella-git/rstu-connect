@@ -8,13 +8,7 @@ tags:
   - environment
 ---
 
-## **Earth Srike: Intersecting Labour and Environmental Movements**
-
-## **Date:** Mon, 07/01/2019 - 16:08
-
 ## **Source:** https://ecology.iww.org/node/3534
-
-**Tags:** Earth Strike, IWW Environmental Unionism Caucus, Climate Strike, green syndicalism, green unionism, intersectionality, fossil fuel capitalism, green capitalism, IWW WISERA, just transition
 
 ## By various -
 

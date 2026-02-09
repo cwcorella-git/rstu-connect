@@ -10,8 +10,6 @@ tags:
 
 ## ![](_page_0_Picture_0.jpeg)
 
-# **Blues Geographies and the Security Turn: Interpreting the Housing Crisis in Los Angeles**
-
 ## Jordan T. Camp
 
 American Quarterly, Volume 64, Number 3, September 2012, pp. 543-570 (Article)

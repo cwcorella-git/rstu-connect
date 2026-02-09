@@ -8,13 +8,6 @@ tags:
   - class
 ---
 
-## **A Class War Against State War – IWW Istanbul's Statement on the Turkish Invasion of Syria**
-
-**Date:** Unknown
-
-**Source:**
-**Tags:** Industrial Workers of the World (IWW), Syria, imperialism, Turkey, Syria conflict
-
 Istanbul Industrial Workers of the World's statement against the invasion of Syria. The following statement was originally published onYeryüzü Postas■.
 
 We call on all workers — workers who are exploited under this system, workers who have become increasingly impoverished and who are being sent to die — not to join this war, but to unite against it.

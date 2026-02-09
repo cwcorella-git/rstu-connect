@@ -8,10 +8,6 @@ tags:
   - digital rights
 ---
 
-## **Ismatu Gwendolyn: Class Traitor**
-
-**Date:** 2025-02-26 **Source:** https://www.threadings.io/ismatu-gwendolyn-class-traitor-2/Ig class traitor audio 0:00 / 2296.398367346939 1× Show Notes: Twenty Enemies by James Forman twenty enemies james forman twenty enemies james forman.pdf 4 MB download-circle the role of the artist is to load the gun
-
 | you've been traumatized into hating reading (and it's making you easier to oppress): |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Information Anarchy: The Case Against Sponsorships |

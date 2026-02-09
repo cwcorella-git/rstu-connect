@@ -9,14 +9,9 @@ tags:
   - workers
 ---
 
-# Labor Wars in the Us American Experience Official Site Pbs
-
 Labor Wars in the U.S. | American Experience | Oﬀicial S... about:reader?url=https%3A%2F%2Fwww.pbs.org%2F...
 
 ## pbs.org
-
-## Labor Wars in the U.S.
-## American Experience
 
 ## 15–18 minutes
 

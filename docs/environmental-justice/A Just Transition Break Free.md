@@ -8,12 +8,6 @@ tags:
   - feminism
 ---
 
-## **A Just Transition: Break Free**
-
-**Date:** Wed, 05/18/2016 - 19:38 **Source:** https://ecology.iww.org/node/1653
-
-**Tags:** J. P. Wright, green unionism, railroad workers, Railroad Workers United (RWU), Industrial Workers of the World (IWW), Brotherhood of Locomotive Engineers and Trainmen (BLET), just transition, carbon bubble, Breaking Free, coal
-
 ## Railroad Music. Org , May 17, 2016
 
 ## By John Paul Wright -

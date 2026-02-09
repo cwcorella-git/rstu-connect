@@ -8,7 +8,7 @@ tags:
   - political-theory
   - peter-kropotkin
 ---
-# An Appeal to the Young
+
 Pëtr Kropotkin
 An Appeal to the Young
 1880

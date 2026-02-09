@@ -7,13 +7,7 @@ tags:
   - organizing
 ---
 
-## **Laid-off Sierra Club Staffers: 'We Can't Give Up on United Fronts'**
-
-## **Date:** Tue, 08/08/2023 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/5808
-
-**Tags:** Brooke Anderson, Sierra Club, Black, Indigenous, and People of Color (BIPOC), combating racism, NGO-industrial complex, NGOs, green unionism, ecological movements and organizations, movement politics, intersectionality
 
 By Brooke Anderson, Hop Hopkins, and, Michelle Mascarenhas -
 

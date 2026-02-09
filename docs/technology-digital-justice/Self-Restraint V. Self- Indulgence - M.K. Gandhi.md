@@ -7,8 +7,6 @@ tags:
   - digital rights
 ---
 
-# SELF-RESTRAINT SELF-INDULGENCE
-
 ## M. K. GANDHI
 
 ## ![](_page_0_Picture_2.jpeg)

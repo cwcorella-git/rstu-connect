@@ -8,14 +8,6 @@ tags:
   - women
 ---
 
-# **Fascism and the Women's Cause: Gender Critical Feminism, Suffragettes and the Women's KKK**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/fascism-and-womens-cause-gender-critical-feminism-suffragettes-and-womens-kkk
-
-**Tags:** Michael Richmond, Alex Charnley, fascism, women, feminism, gender, transgender, LGBTQ+ (Lesbian Gay Bi Trans Queer +), sex and sexuality, Suffragettes
-
 While the links between the anti-trans moral panic and the far-right are well-documented, 'Gender Critical' feminists are able shield themselves from that connection because of the common assumption that feminism and fascism are polar opposites. But, at many points in history, the distinction between feminism and fascism has been far from clear cut.
 
 Michael Richmond and Alex Charnley provide a historical study of significant moments of interaction between fascism and the women's cause. The article comes from a section which had to be cut from their book,Fractured: Race, Class, Gender and the Hatred of Identity Politics, which contains a fuller historical study of feminist politics in Britain and the US.

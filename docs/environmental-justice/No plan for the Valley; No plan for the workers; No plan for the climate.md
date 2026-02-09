@@ -8,13 +8,7 @@ tags:
   - environment
 ---
 
-## **No plan for the Valley; No plan for the workers; No plan for the climate**
-
-## **Date:** Mon, 03/20/2017 - 17:01
-
 ## **Source:** https://ecology.iww.org/node/2141
-
-**Tags:** green unionism, just transition, coal, Hazelwood, Australia
 
 ## By IWW Melbourne -
 

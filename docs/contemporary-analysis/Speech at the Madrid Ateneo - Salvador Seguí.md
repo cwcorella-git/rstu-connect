@@ -12,14 +12,6 @@ tags:
   - confederación-nacional-del
 ---
 
-## **Speech at the Madrid Ateneo - Salvador Seguí**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/speech-madrid-ateneo-salvador-segui
-
-**Tags:** Spain, syndicalism, anarcho-syndicalism, Madrid, speeches, Confederación Nacional del
-
 ## Trabajo (CNT), Salvador Seguí
 
 A speech delivered by Salvador Seguí in 1919 in Madrid in which the CNT leader denounces Catalonian separatism as an alibi for the repression of the workers movement, denies that socialist parties or anarchist groups are capable of assuming responsibility for production, calls upon the unions to focus on an educational program to prepare the Trade Unions, based on occupational categories, to guarantee the normalization of production and consumption after the revolution (so that "all the material needs of life for all humans will be assured"), and claims that this preparation ("We have to read a lot, and discuss even more") is an indispensable precondition for communism.

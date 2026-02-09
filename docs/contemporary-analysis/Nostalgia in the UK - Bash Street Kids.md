@@ -7,14 +7,6 @@ tags:
   - United Kingdom
 ---
 
-# **Nostalgia in the UK - Bash Street Kids**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/nostalgia-uk-bash-street-kids
-
-**Tags:** Bash Street Kids, activism, anarchism, Class War Federation, 1980s, United Kingdom, unemployment, punk
-
 An article by the Bash Street Kids looking at the history of UK anarchism in the 1980s. This article was first published as part of Smash Hits Bulletin #3, andwas subsequently made available on the internet by uncarved.org.
 
 As we write, in this month's (May's)GQmagazine there's a nice little nostalgia piece on Eighties protest, complete with quaint little photos of earnest crusties on Poll Tax riots which are no doubt suitable for home framing. Such indications of our own irrelevance might be easier to stomach if we were up to bold new adventures. However Smash Hits, created as a forum for new ideas, has largely the same old saws in it - syndicalism, localism, why we should all join the ACF and even an article by Colin Ward!

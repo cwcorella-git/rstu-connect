@@ -8,12 +8,6 @@ tags:
   - theory
 ---
 
-# **Anarchism: arguments for and against [2023 edition]**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/anarchism-arguments-and-against-2023-edition
-
 ## **Tags:** Albert Meltzer, anarchism
 
 First published in 1981, Anarchism: Arguments for and against is the most reprinted of Albert's writings. The roots of this text lie in this 1968 pamphlet Aims and principles of Anarchism: an essay at defining what the Anarchist Movement is and how wide a field it covers, the book he co-wrote with Stuart Christie The Floodgates of Anarchy (published in 1970) and a series of articles on 'objectionsto Anarchism' in Black Flag in the early seventies. This final edition shows how Albert responded as the movement changed around him….

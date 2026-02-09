@@ -7,15 +7,9 @@ tags:
   - climate
 ---
 
-# **Arne Næss and George Sessions Basic Principles of Deep Ecology 1984**
-
-## Basic Principles
-
 In April 1984, during the advent of Spring and John Muir's birthday, George Sessions and Arne Næss summarized fifteen years of thinking on the principles of deep ecology while camping in Death Valley, California. In this great and special place, they articulated these principles in a literal, somewhat neutral way, hoping that they would be understood and accepted by persons coming from different philosophical and religious positions.
 
 Readers are encouraged to elaborate their own versions of deep ecology, clarify key concepts and think through the consequences of acting from these principles.
-
-# **Basic Principles**
 
 1. **The well-being and flourishing of human and nonhuman Life on Earth have value in themselves (synonyms: intrinsic value, inherent value). These values are independent of the usefulness of the non-human world for human purposes.**
 

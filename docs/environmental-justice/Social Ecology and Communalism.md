@@ -8,8 +8,6 @@ tags:
   - Bookchin
 ---
 
-# **Murray Bookchin Social Ecology and Communalism 2006**
-
 #### **An Introduction to Social Ecology and Communalism What is Social Ecology?**
 
 Nature and Society Social Hierarchy and Domination The Idea of Dominating Nature "Grow or Die" An Ecological Society

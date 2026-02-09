@@ -10,14 +10,6 @@ tags:
   - deutsch
 ---
 
-## **Was die Solidaritätsgewerkschaft ist und was nicht**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/was-die-solidaritatsgewerkschaft-ist-und-was-nicht
-
-**Tags:** Don White, MK Lees, Spuren der Solidarität, Deutsch, Industrial Workers of the World (IWW)
-
 Don White und MK Lees diskutieren über das Konzept der Solidaritätsgewerkschaft und deren Vereinbarkeit mit Verträgen. Zu den Fachbegriffen siehe das Glossar unten.
 
 Die Definition von Solidaritätsgewerkschaft ist ziemlich verwirrend. Wenn ich mit Leuten spreche, auch mit langjährigen IWW-Mitgliedern, scheint es die Annahme zu geben, dass Solidaritätsgewerkschaftsbewegung und direkte Aktion dasselbe sind. Das sind sie aber nicht. Ich möchte den Unterschied klarstellen, weil ich glaube, dass diese Verwirrung die tatsächliche Organisierung behindert, und ich hoffe, dass ich den Menschen helfen kann, ihren Kolleg\*innen das Konzept der Solidaritätsgewerkschaft zu vermitteln.

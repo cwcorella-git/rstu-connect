@@ -8,15 +8,11 @@ tags:
   - current-events
 ---
 
-# loneliness
-
 ## Human Nature and the Need for Social Connection
 
 ## John T. Cacioppo & William Patrick
 
 "One of the most important books about the human condition to appear in a decade." —Daniel Gilbert, author of Stumbling on Happiness
-
-## loneliness
 
 ## Human Nature and the Need for Social Connection
 

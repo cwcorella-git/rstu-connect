@@ -8,8 +8,6 @@ tags:
   - Nevada
 ---
 
-# New Anti-Homeless Policies Proposed in Reno and Washoe County
-
 Local governments across the Reno-Sparks area are considering a wave of ordinances that would further criminalize homelessness and make it harder for people experiencing housing instability to survive and find stable housing.
 
 ## The Regional Push

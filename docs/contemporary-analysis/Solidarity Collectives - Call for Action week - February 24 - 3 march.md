@@ -7,12 +7,6 @@ tags:
   - solidarity
 ---
 
-## **Solidarity Collectives - Call for Action week - February 24 - 3 march**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/solidarity-collectives-call-action-week-february-24-3-march
-
 ## **Tags:** Ukraine, anarchism, anti-fascism
 
 We need your voices, your solidarity, and your actions to amplify our actions for justice and resistance.

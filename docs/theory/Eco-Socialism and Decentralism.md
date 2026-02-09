@@ -7,13 +7,7 @@ tags:
   - theory
 ---
 
-## **Eco-Socialism and Decentralism**
-
-## **Date:** Fri, 03/11/2016 - 16:33
-
 ## **Source:** https://ecology.iww.org/node/1555
-
-**Tags:** green-anarchism, ecosocialism, Murray Bookchin, Wayne Price, green syndicalism, social ecology, libertarian-socialism
 
 ## Wayne Price - Infoshop.org , January 11, 2016
 

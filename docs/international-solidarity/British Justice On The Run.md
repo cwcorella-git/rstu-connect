@@ -9,12 +9,6 @@ tags:
   - solidarity
 ---
 
-## **British Justice On The Run**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/british-justice-run**Tags:** Wildcat (UK), 1990s, prisons, United Kingdom
-
 Wildcat article from 1992 on the implications of recent successful campaigns to free victims of miscarrianges of justice.
 
 Plus prisoner support including, controversially, Albert Dryden who shot dead a local council employee.

@@ -8,13 +8,7 @@ tags:
   - theory
 ---
 
-# Jessica Moran To Spread the Revolution Anarchist Archives and Libraries
-
 o Spread the Revolution: Anarcist Arcives
-## and Libraries
-
-## Jessica Moran
-
 ## May 2016
 
 Contents Anarchis libraries oday . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4 Surveying anarchis archives and libraries . . . . . . . . . . . . . . . . . . . . . . . . . 6 Te Kae Sharpley Library . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7 Qesions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9 Reerences . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10

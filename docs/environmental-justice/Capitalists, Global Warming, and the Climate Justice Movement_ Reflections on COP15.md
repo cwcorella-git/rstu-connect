@@ -9,8 +9,6 @@ tags:
 
 ## James Herod
 
-# Capitalists, Global Warming, and the Climate Justice Movement: Reflections on COP15
-
 ### 2010
 
 Further Reflections on Stopping Global Warming Recommended Essays A Short Bibliography

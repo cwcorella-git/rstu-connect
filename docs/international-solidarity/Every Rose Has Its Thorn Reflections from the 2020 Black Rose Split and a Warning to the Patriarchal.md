@@ -8,14 +8,6 @@ tags:
   - peace
 ---
 
-# **Every Rose Has Its Thorn: Reflections from the 2020 Black Rose Split and a Warning to the Patriarchal Revolutionary Left**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/every-rose-has-its-thorn-reflections-2020-black-rose-split-and-warning-patriarchal
-
-**Tags:** United States, feminism, platformism, Black Rose Anarchist Federation, Thistle Writing Collective, racism
-
 Article published on March 1st 2021 about a split away from the Black Rose Anarchist Federation.
 
 The Black Rose Anarchist Federation / Federación Anarquista Rosa Negra (BRRN) faced a massive wave of resignations beginning in late 2019, 59 in total, with two-thirds taking place in the fall of 2020. Those who left were disproportionally women, queer, trans, non-binary, and/or POC. Rather than reacting to a singular traumatic event, as is so often the case within leftist organizations, resignees described a variety of factors that led to their decisions. However, it was clear from the dozens of resignation letters that many of us were deeply impacted by issues with accountability, poor feminist praxis, tokenization, and the abuse of soft power within the organization. BRRN had ceased to be a healthy or productive vehicle through which we could grow our political work, feminism in particular.

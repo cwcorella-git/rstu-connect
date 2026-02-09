@@ -8,12 +8,6 @@ tags:
   - class
 ---
 
-## **Class War's guide to the Seventies – John Casey**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/class-wars-guide-seventies-john-casey**Tags:** John Casey, Class War Federation, 1970s, winter of discontent
-
 An article on the politics, economics and culture of the UK in the 1970s. From The Heavy Stuff#3 (late 1980s / early 1990s).
 
 Places like China are not the only countries where history is rewritten. It happens every day here in Britain. What follows is one person's account and impressions of the 1970's, how does it match yours?

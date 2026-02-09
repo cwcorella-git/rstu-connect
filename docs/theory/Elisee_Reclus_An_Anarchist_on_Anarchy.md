@@ -7,8 +7,6 @@ tags:
   - theory
 ---
 
-## **An Anarchist on Anarchy**
-
 ## *by Elisée Reclus*
 
 *"It is a pity that such men as Elisée Reclus cannot be promptly shot." – Providence Press*

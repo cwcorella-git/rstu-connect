@@ -7,8 +7,6 @@ tags:
   - digital rights
 ---
 
-# **Free Software Is Even More Important Now**
-
 *by [Richard Stallman ](https://www.stallman.org/)*
 
 Since 1983, the Free Software Movement has campaigned for computer users' freedom—for users to control the software they use, rather than vice versa. When a program respects users' freedom and community, we call it "free software."

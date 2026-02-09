@@ -8,8 +8,6 @@ tags:
 
 ## Andie Nordgren
 
-# The short instructional manifesto for relationship anarchy
-
 ## 2006
 
 Love is abundant, and every relationship is unique Love and respect instead of entitlement Find your core set of relationship values Heterosexism is rampant and out there, but don't let fear lead you Build for the lovely unexpected Fake it til' you make it Trust is better Change through communication Customize your commitments

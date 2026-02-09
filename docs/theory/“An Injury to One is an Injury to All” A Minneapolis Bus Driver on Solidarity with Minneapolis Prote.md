@@ -6,13 +6,7 @@ tags:
   - theory
 ---
 
-## **"An Injury to One is an Injury to All": A Minneapolis Bus Driver on Solidarity with Minneapolis Protesters**
-
-## **Date:** Unknown
-
 ## **Source:**
-**Tags:** workplace activity, United States, transport, buses, accounts, Minneapolis, Minnesota, Black Lives Matter movement, Hard Crackers, racism
-
 An interview from Hard Crackers with Adam, a Minneapolis bus driver who refused to let the police use his vehicle and encouraged other drivers to do the same.
 
 Adam is a bus driver in Minneapolis and a member of ATU Local 1005 and Socialist Alternative MN. In the midst of the ongoing protests in Minneapolis, he made the decision to refuse police officers' request to use his bus to transport arrested people to the precinct. As a consequence of this and other pressure, ATU International has recently released a statement calling for an independent investigation into the death of George Floyd and supports the right of its members to refuse transporting police officers and arrested demonstrators. We caught up with him to discuss the ongoing protests in Minneapolis and how union members can support the fight against racist police brutality.

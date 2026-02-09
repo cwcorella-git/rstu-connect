@@ -5,8 +5,6 @@ date: 2026
 category: organizing
 ---
 
-# Nevada Tenant Rights Guide
-
 Housing rights aren't radical demands—they're already established in American law. This guide covers your rights under Nevada's Residential Landlord and Tenant Act (NRS Chapter 118A).
 
 ## What Landlords Must Provide Under Nevada Law

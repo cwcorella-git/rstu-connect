@@ -8,8 +8,6 @@ tags:
   - digital rights
 ---
 
-## **Peter Lamborn Wilson Islam and the Internet Net-religion, a War in Heaven October 6, 1995**
-
 I don't even own a computer. Is there anybody else in here who doesn't own a computer? It's interesting to watch the net and to approach media ecology, and the internet, specifically from the point of view of what I do.
 
 Which is essentially the study of the history of religions, or histories of religion. It is extremely obvious to me that the internet is a religious phenomenon. This may not have occured to everyone who is closer to it than I am. First of all, all technology can be analized according to religious principles. When I speak about religion, I am not speaking from the point of view of religion. In fact, I prefer to be an outsider there as well. However, in some points, unavoidably, I will express myself as if I were thinking from a religious point of view.

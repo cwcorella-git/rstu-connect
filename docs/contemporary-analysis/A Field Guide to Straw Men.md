@@ -12,8 +12,6 @@ tags:
 
 ## **A Field Guide to Straw Men**
 
-# **Sadie and Exile, Esoteric Fascism, and Olympia's Little White Lies**
-
 ## **February 2016**
 
 OVERTURE BACKGROUND Julius Evola PREMISES

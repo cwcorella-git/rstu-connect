@@ -15,8 +15,6 @@ tags:
 
 Hans Rosling with Ola Rosling and Anna Rosling Rönnlund
 
-# About the Author
-
 **Hans Rosling** was a medical doctor, professor of international health, and renowned public educator. He was an adviser to the World Health Organization and UNICEF, and he cofounded Médecins Sans Frontières in Sweden and the Gapminder Foundation. His TED talks have been viewed more than thirty-five million times, and he was listed as one of Time magazine's one hundred most influential people in the world. Hans died in 2017, having devoted the last years of his life to writing this book.
 
 **Ola Rosling and Anna Rosling Rönnlund**, Hans's son and daughter-in-law, are cofounders of the Gapminder Foundation, and Ola its director from 2005 to 2007 and from 2010 to the present day. After Google acquired Trendalyzer, the bubblechart tool invented and designed by Anna and Ola, Ola became head of Google's Public Data Team and Anna became the team's senior user-experience (UX) designer. They have both received international awards for their work.

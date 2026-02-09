@@ -12,8 +12,6 @@ tags:
 
 ## Phil M Jones
 
-# EXACT LY WHAT TO SAY
-
 ## The Magic Words for Influence and Impact
 
 ## ![](_page_1_Figure_0.jpeg)

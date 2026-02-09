@@ -9,14 +9,6 @@ tags:
   - alternatives
 ---
 
-## **Stealing the Commons from the Goose: Fighting the Real Grocery Store Thieves**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/stealing-commons-goose-fighting-real-grocery-store-thieves
-
-**Tags:** Jeff Shantz, unions, Working Class Self Organisation, crime, OCAP, police
-
 Capitalist law has always existed to protect capitalist enclosers and exploiters and to punish working class people simply trying to survive. Right from the beginning of capitalism. The real violence is capitalist hoarding of necessities of life for interests of value and profit. A violence protected and sustained by the same state forces chasing after working class people needing food. So how might we respond to the shoplifting panics and targeting of especially poor working-class people, while also building collective strength and challenging grocery capital?
 
 In late August, multiple corporate media outlets circulated pictures supplied to them by the RCMP of two women wanted by police for stealing food items from a Real Canadian Superstore in Nanaimo, British Columbia. Police claim the women stole less than \$300 worth of items, but the case was a high priority for them anyway. Never mind that Superstore, owned by the Weston family billionaires, is one of the most profitable corporations in Canada.

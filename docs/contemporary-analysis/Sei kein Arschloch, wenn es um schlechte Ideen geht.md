@@ -8,12 +8,6 @@ tags:
   - libcom
 ---
 
-## **Sei kein Arschloch, wenn es um schlechte Ideen geht**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/sei-kein-arschloch-wenn-es-um-schlechte-ideen-geht**Tags:** John O'Reilly, Spuren der Solidarität, Deutsch, Industrial Workers of the World (IWW)
-
 John O'Reilly beschreibt die Schwierigkeit sich als Organizer\*innen gegenseitig zu kritisieren und zu unterstützen.
 
 Es wäre schön, wenn wir in einer Welt leben würden, in der alle Ideen zum Organizingrichtig wären, aber es ist eine Tatsache, dass Menschen mit wirklich guten Absichten manchmal ihre Zeit verschwenden. Oder - schlimmer noch - der Organisation, die sie aufzubauen versuchen, schaden. Wir alle haben irgendwann einmal zurückgeschaut und gesagt: "Ich kann nicht glauben, dass ich so viel Zeit in dieses Projekt gesteckt habe. Obwohl man im Nachhinein immer klüger ist, sagen wir bei gescheiterten Projekten oft: "Wow, Kollege X ist wirklich klug und erfahren und hätte mir sagen müssen, dass das Projekt scheitern würde." Leider gibt es zwei häufige und schlechte Arten, wie erfahrene Wobbliesso auf so eine Situation reagieren: Erstens ein Idiot sein und zweitens zögern. Dies sind zwei Fehler im Umgang mit diesen Problemen, die wir oft aus Versehen machen.

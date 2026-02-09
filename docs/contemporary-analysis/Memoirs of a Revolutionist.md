@@ -6,8 +6,6 @@ tags:
   - Kropotkin
 ---
 
-# **Pëtr Kropotkin Memoirs of a Revolutionist 1899**
-
 Author's Note
  Introduction by Georg Brandes
 Chapter 1: Childhood

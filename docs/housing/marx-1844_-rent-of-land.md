@@ -10,7 +10,7 @@ tags:
   - karl-marx
   - tenants
 ---
-# Marx 1844_ Rent of Land
+
 Karl Marx
 Economic and Philosophic Manuscripts of 1844
 Rent of Land

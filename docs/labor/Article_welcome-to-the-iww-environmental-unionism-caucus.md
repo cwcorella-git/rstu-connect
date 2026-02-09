@@ -8,15 +8,10 @@ tags:
   - environment
 ---
 
-# Welcome To the Iww Environmental Unionism Caucus
-
-Welcome to the IWW Environmental Unionism Caucus Date: Sun, 06/28/2020 - 18:42 Source: https://ecology.iww.org/node/2849 Tags: IWW Environmental Unionism Caucus "Judi Bari did something that I believe is unparalleled in the history of the environmental movement. She is an Earth First! activist who took it upon herself to organize Georgia Pacific sawmill workers into the IWW…Well guess what friends, environmentalists and rank and file timber workers becoming allies is the most dangerous thing in the world to the timber industry!"
-
+Environmental Unionism Caucus "Judi Bari did something that I believe is unparalleled in the history of the environmental movement. She is an Earth First! activist who took it upon herself to organize Georgia Pacific sawmill workers into the IWW…Well guess what friends, environmentalists and rank and file timber workers becoming allies is the most dangerous thing in the world to the timber industry!"
 --Darryl Cherney, June 20, 1990.
 
 ## To contact us or locate an active
-
-## IWW Environmental Unionism Caucus
 
 (EUC) group (which report to their nearest chartered IWW branch), select " contact us " and you'll find a (more or less) current list of active EUC groups and/or one of our members will contact you.
 

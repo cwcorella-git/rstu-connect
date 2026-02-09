@@ -8,14 +8,6 @@ tags:
   - digital rights
 ---
 
-## **"If Gezi never happened, the anger at mass murder at Soma could not have burst forth from the people"**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/if-gezi-never-happened-anger-mass-murder-soma-could-not-have-burst-forth-people
-
-**Tags:** Industrial Workers of the World (IWW), strikes, general strikes, mining, demonstrations, interviews, coal, Turkey, Occupy Gezi, Yusuf Cemal
-
 In keeping with tradition, the following is an interview with Turkish IWW member Yusuf Cemal about the Soma mining disaster.
 
 1) Can you describe the general atmosphere in Turkey at the moment? Where do you see the protests going from here? Any predictions for what the summer might hold?

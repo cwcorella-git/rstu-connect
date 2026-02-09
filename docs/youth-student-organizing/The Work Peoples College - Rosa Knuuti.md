@@ -9,14 +9,6 @@ tags:
   - youth
 ---
 
-# **The Work Peoples College - Rosa Knuuti**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/work-peoples-college-rosa-knuuti
-
-**Tags:** United States, education, schools, Minnesota, Duluth, Work Peoples College, Rosa Knuuti
-
 An article by Rosa Knuuti about the courses offered by Work Peoples College, an IWW run school in Duluth, Minnesota that operated until the 1940s. Originally appeared in the Industrial Pioneer, October 1921 (Vol. 1, No. 9, Serial No. 9)
 
 AMONG the millions of foreigners that have crossed the waters to this side of the world, are the Finns numbering nearly 300,000. Ignorant of the customs and language of the country, they with other immigrants were easily liable to become cheap slaves for the American labor market.

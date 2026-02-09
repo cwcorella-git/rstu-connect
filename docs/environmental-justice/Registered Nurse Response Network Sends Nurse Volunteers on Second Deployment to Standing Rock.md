@@ -8,13 +8,7 @@ tags:
   - climate
 ---
 
-## **Registered Nurse Response Network Sends Nurse Volunteers on Second Deployment to Standing Rock**
-
-## **Date:** Mon, 11/14/2016 - 19:25
-
 ## **Source:** https://ecology.iww.org/node/1909
-
-**Tags:** Labor for Standing Rock (L4SR), NoDAPL, green unionism, North America's Building Trades Unions (NABTU), indigenous, National Nurses United, healthcare workers
 
 ## By Charles Idelson -
 

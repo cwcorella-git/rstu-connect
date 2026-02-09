@@ -8,14 +8,6 @@ tags:
   - syndicalism
 ---
 
-## **Revolutionary Syndicalism, or Anarcho-syndicalism - René Berthier**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/revolutionary-syndicalism-or-anarcho-syndicalism-rene-berthier
-
-**Tags:** syndicalism, anarcho-syndicalism, René Berthier
-
 René Berthier writes about the difference between Revolutionary Syndicalism and Anarcho-syndicalism
 
 The following text is a quick overview for a comrade according to whom revolutionary syndicalism and anarcho-syndicalism are synonymous. It is in my opinion a mistake if we consider things from a historical point of view, that is if we base ourselves on facts, documents, etc. Of course, if we approach the question from an ideological point of view, i.e. on the idea we have of a historical phenomenon, or on the desire we project on this phenomenon, we can indulge in all the interpretations we want. However, revolutionary syndicalism and anarcho-syndicalism are obviously very similar and their confusion is quite understandable.

@@ -8,12 +8,9 @@ tags:
   - theory
 ---
 
-# Anarchists Getting Ourselves Together
-
 Anarchists Getting Ourselves Together https://theanarchistlibrary.org/library/james-herod-anarchists-getting-ou...
 
 ## James Herod
-## Anarchists Getting Ourselves Together
 ## A Proposal
 ## March 2007
 ## Name

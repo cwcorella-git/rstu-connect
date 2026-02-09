@@ -9,8 +9,6 @@ tags:
 
 ## Henry David Thoreau
 
-# **Table of Contents**
-
 | LIFE WITHOUT PRINCIPLE | 1 |
 |-------------------------------|---|
 ## | Henry David Thoreau | 2 |

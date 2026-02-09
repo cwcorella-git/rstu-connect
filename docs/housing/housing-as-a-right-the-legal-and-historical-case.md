@@ -4,8 +4,6 @@ author: "Reno-Sparks Tenants Union"
 date: 2026
 ---
 
-# Housing as a Right: The Legal and Historical Case for Collective Responsibility
-
 ## A Foundational Document for the Reno-Sparks Tenants Union
 
 ---

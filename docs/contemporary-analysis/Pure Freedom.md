@@ -6,8 +6,6 @@ tags:
   - liberty
 ---
 
-# **Horst Stowasser**
-
 # **Pure Freedom**
 
 # **The Idea of Anarchy, History and Future**

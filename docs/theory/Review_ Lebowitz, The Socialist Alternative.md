@@ -10,11 +10,7 @@ tags:
 
 ## James Herod
 
-## Review: Lebowitz, The Socialist Alternative
-
 ## February 2011
-
-## Review
 
 Michael A. Lebowitz, The Socialist Alternative: Real Human Development New York: Monthly Review Press, 2010, 191 pages.
 

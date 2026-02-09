@@ -11,8 +11,6 @@ tags:
 
 # James Herod
 
-# Seeing the Inadequacies of the Strategy Proposals of the Anarchist Communist Federation (UK)
-
 An Anarchist Revolutionary Strategy Sketched Briefly Postscript \(January, 2001\) Notes Further Comments on The Role of the Revolutionary Organisation \(2003 version\), by the Anarchist Federation, England Introductory Paragraphs From Workplace to Revolution Class Spontaneity Why Should We Be Organized? Creating a Revolutionary Structure Questions of Consciousness Tasks of the Organisation
 
 ## With additions on January 2001 and June 2003

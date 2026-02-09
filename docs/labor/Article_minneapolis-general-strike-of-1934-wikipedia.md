@@ -8,18 +8,13 @@ tags:
   - strikes
 ---
 
-# Minneapolis General Strike of 1934 Wikipedia
-
 Minneapolis general strike of 1934 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## en.wikipedia.org
 
-## Minneapolis general strike of
 ## Contributors to Wikimedia projects
 
 ## 15–19 minutes
-
-## Minneapolis general strike of 1934
 
 ## Part of The Great Depression
 

@@ -11,14 +11,6 @@ tags:
   - francisco-franco
 ---
 
-## **Notes on the Death of Franco (Part I)**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/notes-death-franco-part-i
-
-**Tags:** Murray Bookchin, fascism, 1970s, Spain, Francisco Franco
-
 Murray Bookchin's assessment of the Spanish strongman Francisco Franco after his death. Published in Fifth Estate#268, January, 1976.
 
 Death normally invites eulogy–even for a Mafia capo. Accordingly it is not surprising that the death of Francisco Franco summoned up the usual tribute from the acolytes of "relevancy"–a genre of people who are likely to praise any dictator from Stalin to Franco for "modernizing" their countries and ushering them into the "industrial age." In the case of El Caudillo, Nixon happened to lead the pack. He praised Franco as "a loyal friend and ally of the United States…who brought Spain back to economic recovery and "unified a divided nation through a policy of firmness and fairness toward those who had fought against him." At the other end of the spectrum, according to some press accounts, unmeasured numbers on both sides of the Spanish frontier opened their wine flasks and got drunk. I suspect that immense section of Spanish public opinion is reflected by those young Madrilenos who, when asked by American television interviewers why they filed past the coffin, bluntly declared that they wanted to see if the "old fascist" was really dead.

@@ -9,14 +9,8 @@ tags:
   - workers
 ---
 
-# The Death of Reconstruction Race Labor and Politics in Heather Cox Richardson
-
-## The Death of Reconstruction
-
 The Death of Reconstruction Race, Labor, and Politics in the
 ## Post–Civil War North, 1865–1901
-
-## Heather Cox Richardson
 
 ## HARVARD UNIVERSITY PRESS
 ## Cambridge, Massachusetts

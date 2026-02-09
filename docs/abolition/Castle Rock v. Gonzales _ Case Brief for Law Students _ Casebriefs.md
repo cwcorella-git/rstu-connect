@@ -11,8 +11,6 @@ tags:
 
 #### [casebriefs.com](https://www.casebriefs.com/blog/law/constitutional-law/constitutional-law-keyed-to-brest/the-constitution-in-the-modern-welfare-state/castle-rock-v-gonzales/)
 
-# **Castle Rock v. Gonzales | Case Brief for Law Students**
-
 admin
 
 9–12 minutes

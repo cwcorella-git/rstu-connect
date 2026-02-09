@@ -8,14 +8,6 @@ tags:
   - education
 ---
 
-## **West Virginia Walkout Beats Back Neoliberal Education Bill**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/west-virginia-walkout-beats-back-neoliberal-education-bill
-
-**Tags:** United States, education, strikes, schools, West Virginia, Black Rose Anarchist Federation,
-
 ## Michael Mochaidean
 
 A #55Strong Update on the Omnibus Bill Walkouts From a West Virginia Teacher. This story was first published by the Black Rose Anarchist Federation.

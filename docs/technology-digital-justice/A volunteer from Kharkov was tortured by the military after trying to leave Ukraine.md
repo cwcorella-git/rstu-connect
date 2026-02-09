@@ -9,14 +9,6 @@ tags:
   - digital rights
 ---
 
-## **A volunteer from Kharkov was tortured by the military after trying to leave Ukraine**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/volunteer-kharkov-was-tortured-military-after-trying-leave-ukraine
-
-**Tags:** assembly.org.ua, Russia-Ukraine war, war, Ukraine, Russia, prisons, migration
-
 Calling on media in other countries not to keep silence on this story!
 
 Welcome to join thefundraisingof our team for to work on this international column and offline volunteer activities. A couple of cups of coffee in your country, even before the war, could be equivalent to a day's earnings of a worker in Ukraine. Many thanks everyone in advance!

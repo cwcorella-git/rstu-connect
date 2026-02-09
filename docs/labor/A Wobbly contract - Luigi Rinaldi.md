@@ -9,14 +9,6 @@ tags:
   - workers
 ---
 
-## **A Wobbly contract - Luigi Rinaldi**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/wobbly-contract-luigi-rinaldi
-
-**Tags:** Lou Rinaldi, Industrial Workers of the World (IWW), contracts, Industrial Unionist Caucus
-
 A piece by Luigi Rinaldi (aka Lou Rinaldi) where he argues there is the possibility of using contracts in IWW organizing, if they are used to set a gold standard.
 
 Originally posted: August 2, 2017 at Industrial Unionists

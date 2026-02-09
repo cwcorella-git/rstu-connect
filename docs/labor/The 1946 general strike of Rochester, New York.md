@@ -9,14 +9,6 @@ tags:
   - New York
 ---
 
-## **The 1946 general strike of Rochester, New York**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/1946-general-strike-rochester-new-york-0
-
-**Tags:** United States, strikes, general strikes, local government, New York, job losses, Jon Garlock,
-
 ## Rochester, Rochester general strike
 
 A short history of the general strike in May 1946 in Rochester against the sacking of hundreds of municipal workers, written by Jon Garlock.

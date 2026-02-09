@@ -7,8 +7,6 @@ tags:
   - theory
 ---
 
-# *Anarchism Triumphant*: Free Software and the Death of Copyright
-
 ## Eben Moglen
 
 ## May 17, 1999

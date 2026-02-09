@@ -9,14 +9,6 @@ tags:
   - labor
 ---
 
-## **Ovambo migrant workers general strike for rights, Namibia: 1971-72**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/ovambo-migrant-workers-general-strike-rights-namibia-1971-72
-
-**Tags:** racism, strikes, general strikes, South Africa, mining, wildcat strikes, migration, apartheid,
-
 ## Namibia, Max Rennebohm
 
 In the winter of 1971-72 the economy of South West Africa (Namibia) was shutdown by a general strike of contract labourers challenged the economic system emplaced by Apartheid South Africa. The strike led to the scrapping of the contract system and is seen as a watershed moment, encouraging a rapid growth of opposition movements.

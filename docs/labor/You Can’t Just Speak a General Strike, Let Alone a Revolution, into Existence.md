@@ -8,13 +8,7 @@ tags:
   - strikes
 ---
 
-## **You Can't Just Speak a General Strike, Let Alone a Revolution, into Existence**
-
-## **Date:** Wed, 07/30/2025 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/6574
-
-**Tags:** general strikes, The General Strike, William (Big Bill) Haywood, strategy and tactics, deep organizing, green syndicalism, Industrial Workers of the World (IWW), United Auto Workers (UAW), Sunrise Movement, May Day
 
 ## By That Green Union Guy -
 

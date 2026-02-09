@@ -10,14 +10,6 @@ tags:
   - workers
 ---
 
-## **Let's Build Class Unions**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/lets-build-class-unions
-
-**Tags:** Rasmus Hästbacka, syndicalism, anarcho-syndicalism, SAC, Sweden, class
-
 This article was first published in the US magazine Industrial Worker(on January 27, 2023). Also in Spanish. The article is based on a longer essay on the website Znetwork.
 
 Photo above: Stockholm, May 1, 2022. Banner held by members in the local industrial branch of construction workers (photographer Julia Lindblom)

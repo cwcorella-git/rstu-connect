@@ -8,13 +8,7 @@ tags:
   - France
 ---
 
-# **We'll always have Paris: The tragedy of global climate politics**
-
-## **Date:** Fri, 11/13/2015 - 19:52
-
 ## **Source:** https://ecology.iww.org/node/1385
-
-**Tags:** COP21, climate justice, greenwashing, movement politics, green syndicalism, ecosocialism
 
 ## By Tadzio Müller -
 

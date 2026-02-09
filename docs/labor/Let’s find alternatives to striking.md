@@ -8,14 +8,6 @@ tags:
   - solidarity
 ---
 
-## **Let's find alternatives to striking**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/lets-find-alternatives-striking
-
-**Tags:** Kristian Falk, Rasmus Hästbacka, syndicalism, anarcho-syndicalism, SAC, Sweden
-
 Article from the US labor union site Organizing Work, published on November 8, 2021. Also in French. A different version was originally published in the Swedish union paper Arbetaren.
 
 Image above: SAC poster from the 1970s, reads "You are doing the work! You should participate in decision-making!"

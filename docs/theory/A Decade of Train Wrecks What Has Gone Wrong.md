@@ -7,14 +7,6 @@ tags:
   - theory
 ---
 
-# **A Decade of Train Wrecks: What Has Gone Wrong?**
-
-**Date:** Thu, 01/25/2018 - 17:25
-
-**Source:** https://ecology.iww.org/node/2781
-
-**Tags:** Tom Harding, Richard LaBrie, Railroad Workers United (RWU), railroad workers, health and
-
 safety, crude-by-rail, Lac-Mégantic, green unionism, Railcon15, J.P.Wright
 
 By J.P. Wright -

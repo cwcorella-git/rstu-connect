@@ -15,8 +15,6 @@ tags:
 
 No portion of this script may be performed, reproduced, or used by any means, or quoted or published in any medium without the prior written consent of the Producers.
 
-# INT. UNKNOWN SPACE
-
 Close on THEODORE'S face (30s). We hold on him for a long time. He's looking at something off camera, deep in thought. He starts quietly dictating a love letter into a small microphone.
 
 # THEODORE

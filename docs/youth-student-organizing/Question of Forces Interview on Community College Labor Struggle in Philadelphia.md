@@ -11,10 +11,6 @@ tags:
   - philadelphia
 ---
 
-## **Question of Forces: Interview on Community College Labor Struggle in Philadelphia**
-
-## **Date:** Unknown
-
 ## **Source:**
 
 https://libcom.org/article/question-forces-interview-community-college-labor-struggle-philadelphia**Tags:** workplace activity, United States, education, strikes, accounts, Philadelphia, It's Going Down

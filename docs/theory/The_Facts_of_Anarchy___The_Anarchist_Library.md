@@ -8,14 +8,11 @@ tags:
   - theory
 ---
 
-# The Facts of Anarchy _ The Anarchist Library.pdf
-
 The Facts of Anarchy | The Anarchist Library https://theanarchistlibrary.org/library/ito-noe-the-facts-o...
             Title: The Facts of Anarchy
             Author: Itō Noe (https://theanarchistlibrary.org/category/author/ito-noe)
             Topics: Japan (https://theanarchistlibrary.org/category/topic/japan), Japanese anarchism (https://
             theanarchistlibrary.org/category/topic/japanese-anarchism)
-            Date: 1921
             Source: From Robert Graham (Ed.), Anarchism: A Documentary History of Libertarian Ideas; Volume
             One: From Anarchy to Anarchism (300 CE to 1939). libcom.org (https://libcom.org/library/anarchism-
             documentary-history-libertarian-ideas-volume-1-2)

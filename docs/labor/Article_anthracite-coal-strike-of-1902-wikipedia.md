@@ -10,18 +10,14 @@ tags:
   - workers
 ---
 
-# Anthracite Coal Strike of 1902 Wikipedia
-
 Anthracite coal strike of 1902 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## en.wikipedia.org
 
-## Anthracite coal strike of 1902
 ## Contributors to Wikimedia projects
 
 ## 20–25 minutes
 
-## Coal strike of 1902
                                               (Anthracite coal strike)
 
 ## John Mitchell, President of the UMWA, arriving in

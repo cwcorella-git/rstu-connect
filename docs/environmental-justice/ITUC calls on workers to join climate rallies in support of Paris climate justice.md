@@ -9,13 +9,7 @@ tags:
   - France
 ---
 
-## **ITUC calls on workers to join climate rallies in support of Paris climate justice**
-
-## **Date:** Fri, 11/20/2015 - 19:46
-
 ## **Source:** https://ecology.iww.org/node/1394
-
-**Tags:** International Trade Union Confederation (ITUC), green unionism, COP21, climate justice, Paris,
 
 ## ISIS
 

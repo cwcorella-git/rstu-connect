@@ -8,14 +8,6 @@ tags:
   - class
 ---
 
-## **Class War 14/2022: War & Revolution!?**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/class-war-142022-war-revolution
-
-**Tags:** internationalism, class struggle, No War but the Class War, Russia-Ukraine war, Lebanon, Iran protests 2022, Colombia, Sri Lanka, Peru, Covid-19
-
 It seems like yesterday when we finally left the "Covid-19 pandemic crisis" (although some say we will never leave it) and there is already a new "crisis". According to the dominant bourgeois narrative the war in Ukraine is a new reason for the proletariat to put aside the satisfaction of their needs. Instead, we should join the united front with the forces of "our" bourgeoisie and sacrifice ourselves for a "greater good" of either "defense of territorial integrity of Ukraine" or its "denazification" – depending on where we live.
 
 It seems like yesterday when we finally left the "Covid-19 pandemic crisis" (although some say we will never leave it) and there is already a new "crisis". According to the dominant bourgeois narrative the war in Ukraine is a new reason for the proletariat to put aside the satisfaction of their needs. Instead, we should join the united front with the forces of "our" bourgeoisie and sacrifice ourselves for a "greater good" of either "defense of territorial integrity of Ukraine" or its "denazification" – depending on where we live.

@@ -10,10 +10,7 @@ tags:
   - workers
 ---
 
-# Extinction Rebellion Trade Unionists a Timely Initiative
-
-Extinction Rebellion Trade Unionists: a Timely Initiative Date: Tue, 04/19/2022 - 00:00 Source: https://ecology.iww.org/node/4959 Tags: Extinction Rebellion (XR), green unionism, movements, unions, and organizations, just transition, green syndicalism, United Kingdom (UK), refinery workers, climate change, climate justice
-
+Rebellion (XR), green unionism, movements, unions, and organizations, just transition, green syndicalism, United Kingdom (UK), refinery workers, climate change, climate justice
 ## By Rob Marsden -
 
 ## Red-Green Labour

@@ -8,13 +8,9 @@ tags:
   - Nevada
 ---
 
-# Hold Your Landlord Accoutable Repairs and Rental Fees in Nevada
-
 TENANTS
             TALK BACK
 Hold Your Landlord Accountable: Repairs and
-## Rental Fees in Nevada
-
 COMMUNITY AGREEMENTS INTRODUCE YOURSELF WHEN SPEAKING “ONE MIC” LAND THE PLANE
 ## CHALLENGE THE IDEA, NOT THE PERSON
 

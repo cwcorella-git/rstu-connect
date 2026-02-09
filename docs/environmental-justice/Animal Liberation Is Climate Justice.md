@@ -8,13 +8,7 @@ tags:
   - climate
 ---
 
-# **Animal Liberation Is Climate Justice**
-
-## **Date:** Sun, 10/15/2023 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/6003
-
-**Tags:** animal rights, concentrated animal feeding operation (CAFO), veganism, vegetarianism, green-anarchism, libertarian-socialism, agribusiness, agriculture, agricultural workers and peasants, green unionism
 
 ## By Laura Schleifer and Dan Fischer -
 

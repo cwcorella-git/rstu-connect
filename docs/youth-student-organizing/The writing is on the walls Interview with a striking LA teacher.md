@@ -8,14 +8,6 @@ tags:
   - Los Angeles
 ---
 
-## **"The writing is on the walls": Interview with a striking LA teacher**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/writing-walls-interview-striking-la-teacher
-
-**Tags:** United States, education, strikes, schools, California, Los Angeles, United Teachers Los
-
 ## Angeles, Salvo
 
 At the time of this writing, members of United Teachers Los Angeles (UTLA) have been on strike for a total of six school days. The school district for which these teachers work, Los Angeles Unified, is the second largest in the United States. Salvo, a working-class paper for the greater LA area, spoke with Claire, a member of UTLA, about why teachers are striking over much more than a simple pay raise…

@@ -8,14 +8,6 @@ tags:
   - theory
 ---
 
-## **Anarchism and revolutionary defeatism – K. C. Sinclair**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/anarchism-and-revolutionary-defeatism-kc-sinclair
-
-**Tags:** K. C. Sinclair, imperialism, colonialism, revolutionary defeatism, anarchism, Leninism, Manifesto
-
 ## of the Sixteen
 
 A piece by K. C. Sinclair about the concept of 'revolutionary defeatism' and similar anarchist conclusions to it.

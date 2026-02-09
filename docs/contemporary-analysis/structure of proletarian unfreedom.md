@@ -9,8 +9,6 @@ tags:
 
 ## ![](_page_0_Picture_0.jpeg)
 
-## The Structure of Proletarian Unfreedom
-
 ## Author(s): G. A. Cohen
 
 Source: Philosophy and Public Affairs, Vol. 12, No. 1 (Winter, 1983), pp. 3-33

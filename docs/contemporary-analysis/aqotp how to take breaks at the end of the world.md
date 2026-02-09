@@ -7,10 +7,7 @@ tags:
   - current-events
 ---
 
-## **aqotp: how to take breaks at the end of the world**
-
 | Date: 2024-03-20
-Source: https://www.threadings.io/aqotp-how-to-take-breaks-at-the-end/|
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | i am in my pajamas. my pen feels like it has ice in it so enjoy my attempts at defrosting. |
 | a quarry of thoughtless ponderments entitled: how to take breaks at the end of the (or, at

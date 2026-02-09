@@ -7,14 +7,6 @@ tags:
   - anti-war
 ---
 
-## **Jailed for anti-war rally announcement. The case of Javid Mamedov**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/jailed-anti-war-rally-announcement-case-javid-mamedov
-
-**Tags:** assembly.org.ua, war, Russia-Ukraine war, Russia, police, Ukraine
-
 "Putin's Russia: the police - tortures, the FSB - poisons, the oligarchs - rule, we are getting poorer". Yesterday big review of Russian anti-invasion actions is waiting for youhere. To donate this media group from Kharkiv for help the civilian population please jointhe crowdfunding campaign.
 
 After the start of the war with Ukraine, supporters of the Socialist Alternative were constantlysubjected to pressure from the police and special services. Since February 24, they have served six administrative arrests for a total of 97 days, two supporters were convicted under the article on "discrediting the Armed Forces of the Russian Federation". Before the anti-military protests, the district police officers visited their houses according to some "SA lists" and even tried to preventively detain their former comrade.

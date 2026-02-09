@@ -9,13 +9,7 @@ tags:
   - teachers
 ---
 
-## **Strike in West London: Richmond upon Thames College staff fight 'Fire and Rehire'**
-
-## **Date:** Unknown
-
 ## **Source:**
-**Tags:** Anonymous, strikes, London, education, UCU
-
 On the week of 23rd May, UCU members at Richmond upon Thames College, a Further Education college in Twickenham, West London, will be on strike against a proposal by the College leadership to fire and rehire the entire teaching staff body onto an inferior contract that deprives teaching staff of 10 days' holiday.
 
 On the 8th March 2022, the leadership of Richmond upon Thames College (RuTC) began an open consultation on a proposal to reduce teaching staff holiday allowance by 10 days. But the day before open consultation on the changes to teaching staff contracts commenced, RuTC issued a Section 188 notice[1], essentially invoking the threat of 'fire and rehire' even before consultations had begun. The invitation to the consultation contained the following appeal: "we shall be meeting regularly through the consultation period with your UCU union representatives, but we would also like to invite you all to a series of Contract Change Surgeries giving you the opportunity to speak directly to members of the Senior Leadership Team", it was clear from the outset that the leadership of RuTC were trying to undermine UCU by encouraging negotiation with staff on an individual and unrepresented basis. Thus the leadership of the College had initiated the hostile tone for this dispute.

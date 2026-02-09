@@ -6,10 +6,6 @@ tags:
   - education
 ---
 
-## **SOS CEPI Sudoeste - School Community Struggles Against Oppression in Goiás**
-
-## **Date:** Unknown
-
 ## **Source:**
 ## **Tags:** education, Brazil, Invisiveis
 

@@ -10,8 +10,6 @@ tags:
 
 ## [pcwrede.com](https://pcwrede.com/pcw-wp/first-novels-part-2-prewriting/)
 
-## **First novels Part 2-Prewriting – Patricia C. Wrede**
-
 6–8 minutes
 
 ## ![](_page_0_Picture_5.jpeg)

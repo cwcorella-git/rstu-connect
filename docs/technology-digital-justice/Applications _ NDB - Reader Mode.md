@@ -7,8 +7,6 @@ tags:
   - digital rights
 ---
 
-# Applications | NDB
-
 Universal applicability for countless opportunities
 
 #### Automotive

@@ -9,11 +9,7 @@ tags:
   - tenants
 ---
 
-# Against Capital in the Twenty First Century a Reader of Radical Undercurrents a
-
 ## Praise for
-## Against Capital in the Twenty-First Century
-
 “In Against Capital in the Twenty-First Century, Asimakopoulos and GilmanOpalsky have assembled a collection of texts that traverses the borders of Marxism, feminist radicalisms, anarchism, and the interstices existing between them. This will be the leading collection for contemporary students of radical thought and practitioners of freedom for decades to come.” —Dr Sannn, editor of The End of the World as We Know It? Crisis, Resistance, and the Age of Austerity and coauthor of Political Sociology: Oppression, Resistance, and the State
 “Against Capital in the Twenty-First Century is more than just a reader. Drawing upon a vast body of theoretical, scholarly, and political literature, ranging from the theoretical ideas of Cornelius Castoriadis to the transformative analysis of Staughton Lynd, this book generates stunning insights into the continuity and transformation of radical thought. It deserves the widest possible readership.” —Andrj Grbačć, Professor and Chair of the Department of Anthropology and Social Change at the California Institute of Integral Studies
 “In this extremely timely volume, Asimakopoulos and Gilman-Opalsky do an excellent job of weaving together the loose and disparate ends of transformative theory into a unified, mutually reinforcing whole. Against Capital in the Twenty-First Century is essential reading for anyone seeking to understand the theoretical and practical trajectory of radical thought in today’s world.” —Naan J. Jn, Associate Professor of Philosophy, Midwestern State University

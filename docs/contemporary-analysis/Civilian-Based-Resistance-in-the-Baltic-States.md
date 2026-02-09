@@ -12,8 +12,6 @@ tags:
 
 ## ANIKA BINNENDIJK, MARTA KEPE
 
-# Civilian-Based Resistance in the Baltic States
-
 ## Historical Precedents and Current Capabilities
 
 ## ![](_page_0_Picture_4.jpeg)

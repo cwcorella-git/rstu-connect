@@ -8,10 +8,7 @@ tags:
   - blockades
 ---
 
-## **Protesters blockade mock runway outside Parliament to oppose airport expansion**
-
-**Date:** Tue, 10/25/2016 - 17:37 **Source:** https://ecology.iww.org/node/1877**Tags:** Plane Stupid, Heathrow, direct action, climate justice, blockadia By staff - Plane Stupid and Reclaim the Power , October 25, 2016 Activists have blockaded a mock runway outside Parliament to oppose airport expansion and highlight the inequality of catastrophic climate impacts on the day a government
-
+Plane Stupid, Heathrow, direct action, climate justice, blockadia By staff - Plane Stupid and Reclaim the Power , October 25, 2016 Activists have blockaded a mock runway outside Parliament to oppose airport expansion and highlight the inequality of catastrophic climate impacts on the day a government
 This morning, 40 Activists locked together using 'arm tubes' on a mock runway outside Parliament to signal their intent to continue fighting airport expansion. Air traffic controllers with "STOP" paddles lined the runway highlighting the need to stop climate change as well as noise and air pollution. Other campaigners and local residents held a banner reading "Climate Change Kills, No New Runways."
 
 announcement is expected.

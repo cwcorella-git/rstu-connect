@@ -8,14 +8,6 @@ tags:
   - syndicalism
 ---
 
-## **European syndicalism and the IWW**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/european-syndicalism-and-iww
-
-**Tags:** Industrial Workers of the World (IWW), syndicalism, anarcho-syndicalism, Confederación
-
 ## Nacional del Trabajo (CNT), Ralph Chaplin
 
 A 1933 reply by Ralph Chaplin to, seemingly, Spanish anarchist Maximiliano Olay, about the differences between the Spanish anarcho-syndicalist union, the CNT and the IWW. Originally appeared in the Industrial Worker January 31, 1933, Vol. 14, No. 107, Whole No. 840

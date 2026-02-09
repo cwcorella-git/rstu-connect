@@ -8,8 +8,6 @@ tags:
   - theory
 ---
 
-# **Robert Paul Wolff In Defense of Anarchism**
-
 ## **1970**
 
 #### **Preface**

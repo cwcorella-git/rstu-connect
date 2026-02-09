@@ -8,13 +8,7 @@ tags:
   - feminism
 ---
 
-## **Getting Serious About Keeping Fossil Fuels in the Ground Means Getting Serious About a Just Transition**
-
-## **Date:** Sun, 04/24/2016 - 11:54
-
 ## **Source:** https://ecology.iww.org/node/1621
-
-**Tags:** just transition, green capitalism, green unionism, green syndicalism, ecosocialism, solar communism, jobs versus environment, labor and environment, greenwashing
 
 ## By Patrick Young
 

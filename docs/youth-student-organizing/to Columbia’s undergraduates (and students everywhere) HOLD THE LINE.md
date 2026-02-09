@@ -8,12 +8,6 @@ tags:
   - youth
 ---
 
-## **to Columbia's undergraduates (and students everywhere): HOLD THE LINE.**
-
-## **Date:** 2024-04-23
-
-**Source:** https://www.threadings.io/to-columbias-undergraduates-and-students/
-
 This is a letter specifically to the college student dissenters. It was nearly entitled:
 
 Grief is the most political thing that has ever happened to me.

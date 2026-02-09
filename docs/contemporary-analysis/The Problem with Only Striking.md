@@ -9,12 +9,6 @@ tags:
   - deep-organizing
 ---
 
-## **The Problem with Only Striking**
-
-**Date:** Wed, 04/26/2023 - 00:00 **Source:** https://ecology.iww.org/node/5667
-
-**Tags:** Industrial Workers of the World (IWW), strategy and tactics, class struggle, deep organizing,
-
 ## strikes, general strikes, France
 
 ## By IWW Bruxelles -

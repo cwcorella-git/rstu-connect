@@ -9,10 +9,6 @@ tags:
 
 ## ![](_page_0_Picture_0.jpeg)
 
-#### **Bookchin**
-
-# **Bookchin**
-
 ### **A Critical Appraisal**
 
 ## DAMIAN F. WHITE

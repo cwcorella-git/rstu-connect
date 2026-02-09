@@ -6,14 +6,6 @@ tags:
   - prisons
 ---
 
-## **Coming out of isolation stronger: advice from a long-term prisoner**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/coming-out-isolation-stronger-advice-long-term-prisoner
-
-**Tags:** prisons, The Final Straw Radio, Covid-19, Sean Swain
-
 Advice from long-term anarchist prisoner Sean Swain about strategies for coping with isolation during quarantine. This was originally broadcast bythe Final Straw Radio Showand is also available at Sean Swain's site.
 
 More advice on coping with isolation, from Lucasville Uprising prisoner Bomani Shakur/Keith La Mar, can be found here.

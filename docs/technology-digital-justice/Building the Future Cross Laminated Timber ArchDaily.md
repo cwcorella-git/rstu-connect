@@ -8,15 +8,9 @@ tags:
   - digital rights
 ---
 
-#### [archdaily.com](https://www.archdaily.com/977834/building-the-future-cross-laminated-timber)
-
-# Building the Future: Cross Laminated Timber
-
 ## Written by Eric Baldwin
 
 5-6 minutes
-
-## Building the Future: Cross Laminated Timber
 
 ## ![](_page_0_Picture_8.jpeg)
 

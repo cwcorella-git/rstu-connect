@@ -8,8 +8,6 @@ tags:
 
 ## ![](_page_0_Figure_0.jpeg)
 
-# The Art of Relationship Anarchy
-
 A Revolutionary Approach to Love, Intimacy, and Connection.
 
 ## DEANNE MEYERS

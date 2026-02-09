@@ -9,17 +9,11 @@ tags:
   - wikipedia
 ---
 
-#### [en.wikipedia.org](https://en.wikipedia.org/wiki/Dangerfield_Newby)
-
-# **Dangerfield Newby**
-
 ## Contributors to Wikimedia projects
 
 9–11 minutes
 
 #### From Wikipedia, the free encyclopedia
-
-# **Dangerfield Newby Born** c. 1820 [Culpeper County, Virginia](https://en.wikipedia.org/wiki/Culpeper_County,_Virginia) **Died** October 17, 1859 (aged 43–44) [Harpers Ferry,](https://en.wikipedia.org/wiki/Harpers_Ferry,_West_Virginia) [Virginia](https://en.wikipedia.org/wiki/Virginia)
 
 | Known
 for | Raid on Harpers Ferry |

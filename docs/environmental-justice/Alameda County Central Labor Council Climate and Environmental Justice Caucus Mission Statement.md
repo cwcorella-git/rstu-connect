@@ -8,13 +8,7 @@ tags:
   - environment
 ---
 
-## **Alameda County Central Labor Council Climate and Environmental Justice Caucus Mission Statement**
-
-## **Date:** Wed, 06/29/2016 - 18:37
-
 ## **Source:** https://ecology.iww.org/node/1699
-
-**Tags:** Alameda County Central Labor Council, green unionism, climate justice, just transition
 
 ## Resolution Adopted June 13, 2016
 

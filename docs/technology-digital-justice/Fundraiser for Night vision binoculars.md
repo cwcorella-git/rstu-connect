@@ -7,14 +7,6 @@ tags:
   - digital rights
 ---
 
-## **Fundraiser for Night vision binoculars**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/fundraiser-night-vision-binoculars
-
-**Tags:** Solidarity Collectives, anarchism, internationalism, Ukraine, Russia-Ukraine war
-
 We recently received a request for a night vision device from our anarchist internationalist comrade Lev, who is currently serving as a medic.
 
 In her own words, you can learn about her combat path and why this equipment is crucial and needed for advantage and survival.

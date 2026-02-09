@@ -16,8 +16,6 @@ tags:
 
 Davies, Glyn. A History of Money: From Ancient Times to the Present Day [1994]. Cardiff: University of Wales Press, 2003, third revised edition, 720 pages. This is an esteemed, comprehensive, scholarly, general history.
 
-## The Nature of Money
-
 Ingham, Geoffrey. The Nature of Money. Cambridge, UK: Polity Press, 2004, 254 pages.
 
 Next. Ingham (together with a small group of economists clustered mostly at the University of Missouri in Kansas City) has been revolutionizing the study of money. They have proved that money did not originate from barter, but was instead invented by states, as a means of collecting taxes. This casts an entirely new light on the prospects of getting rid of money: if you get rid of states you might be able to get rid of money too (although they do not draw this conclusion themselves; they argue that since money reflects the power relations in the society, if you equalize the power, money would not be a problem -- to which I raise a very skeptical eye.) This book presents an excellent overview of the debate, as well as being a good introduction to various theories of money.

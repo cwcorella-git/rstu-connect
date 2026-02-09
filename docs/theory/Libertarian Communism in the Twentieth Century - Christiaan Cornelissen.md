@@ -7,14 +7,6 @@ tags:
   - theory
 ---
 
-## **Libertarian Communism in the Twentieth Century - Christiaan Cornelissen**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/libertarian-communism-twentieth-century-christiaan-cornelissen
-
-**Tags:** Christiaan Cornelissen, libertarian communism, anarchism
-
 An article by Christiaan Cornelissen which attempts to sketch out a constructive program for libertarian communism. Originally appeared in Vanguard(Vol. 2, No. 3, May-June 1935).
 
 EDIT. NOTE:The emergence of the anarcho syndicalist movement of Spain as a first-rate revolutionary power brought to the foreground the question of working out a constructive program for the libertarian movement. A powerful organization like the C. N. T., which may soon be placed in the position of responsibility, cannot confine itself to slogans of a mere negative nature. It has to envisage the problems of revolutionary construction for the very near future. And what faces the anarchist movement of Spain as a present day actuality may emerge as such in the not too distant future for the libertarian movement of other countries where the bankruptcy of the authoritarian communists is bound to result in an active effort to solve the revolutionary problems along the road of libertarian communism.

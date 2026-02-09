@@ -7,13 +7,7 @@ tags:
   - solidarity
 ---
 
-## **Solidarity is the new I love you**
-
-## **Date:** Sun, 12/13/2015 - 15:01
-
 ## **Source:** https://ecology.iww.org/node/1435
-
-**Tags:** coal, Oakland, Phil Tagami, West Oakland Environmental Indicators Project (WOEIP), Black Lives Matter, Sunflower Alliance, green unionism, ILWU Local 10, SEIU Local 1021, Service
 
 ## Employees International Union (SEIU)
 

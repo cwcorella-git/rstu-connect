@@ -9,19 +9,9 @@ tags:
   - Russia
 ---
 
-## **State capitalism in Russia - Murray Bookchin**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/state-capitalism-russia-murray-bookchin
-
-**Tags:** Murray Bookchin, economics, capitalism, state socialism, USSR, Stalinism, state capitalism,
-
 ## PDF
 
 Murray Bookchin's critique of the USSR's economy as state capitalist. Published in Contemporary Issues 7,Autumn 1950 (under pseudonym M. S. Shiloh).
-
-## State Capitalism in Russia
 
 The problems of the social system in Russia have often been compared with those created by revolutionary France more than a century and a half ago. An understanding of both, it is said, requires perspective. Historians are reminded that the years have dissolved the acrimony heaped on the events of the Great French Revolution — that more 'good' than 'harm' was done. Much the same is implied for Russia. Supporters, even mild critics, of the Stalin regime tell us that so 'new' a phenomenon requires the test of many generations, that the judgement nourished by immediate events, by 'passing' abuses, must be suspended until lasting outlines appear. In place of the years and of abuses engendered by 'expediency', a vast theoretical corpus has been brought to the support of the Russian social system. We are invited to equate the nationalization of industry to progress; economic planning to the elimination of crises; mounting indices in steel, coal and petroleum production to the well-being of the Russian people. In the meantime, fact progressively contravenes theory. The nationalization of Russian industry has not been marked by any sort of social progress. Russian economic planning — such as it is — has sharpened crises known to the capitalist world. And the mounting indices in heavy industry (little as we are actually permitted to know about them) have been accompanied by abject misery and worsening of conditions for the Russian people. To anyone informed of Russian social life, the contradiction between theory and reality has reached nightmarish proportions.
 

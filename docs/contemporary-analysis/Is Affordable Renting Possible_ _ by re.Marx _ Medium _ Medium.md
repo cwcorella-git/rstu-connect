@@ -8,10 +8,6 @@ tags:
   - rent
 ---
 
-#### [medium.com](https://medium.com/@re. Marx/is-affordable-renting-possible-68a883ade30e)
-
-# **Is Affordable Renting Possible?**
-
 ## re. Marx
 
 23–29 minutes

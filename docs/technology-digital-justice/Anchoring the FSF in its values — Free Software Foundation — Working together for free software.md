@@ -7,8 +7,6 @@ tags:
   - digital rights
 ---
 
-## **Anchoring the FSF in its values**
-
 This article was edited on January 18, 2025 to make it clear that this article was written by the board of the FSF, not the founders.
 
 [The founders of the FSF,](https://static.fsf.org/nosvn/fsf-incorporate.pdf) started the Free Software Foundation (FSF) in 1985, with the moral goal of giving users control over their computing, what we call [software freedom](https://www.fsf.org/about/what-is-free-software) -- and specifically to support developing the GNU operating system that would make software freedom a practical possibility. The crucial first significant decision the five founders faced was how the new organization would be governed so as to protect its goal and principles.

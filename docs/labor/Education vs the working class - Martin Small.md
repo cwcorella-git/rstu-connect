@@ -8,14 +8,6 @@ tags:
   - class
 ---
 
-## **Education vs the working class - Martin Small**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/education-vs-working-class-martin-small
-
-**Tags:** class, education, United Kingdom, reviews, Martin Small, Brian Jackson, Dennis Marsden, book reviews
-
 A review of Education and the Working Class, by Brian Jackson and Dennis Marsden (Routledge and Kegan Paul, 1962, 28s.).
 
 THIS BOOK IS SUBTITLED "Some general themes raised by a study of 88 working class children in a northern industrial city" — that is all such children who have reached a certain standard of grammar school education between the years 1946 and 1954 (girls) and between 1949 and 1952 (boys),1 — most of them went on to university: though "there was a diversion of gifted girls to the training colleges, and amongst those at university were some who were undercut by social doubts which, playing upon a sensitive or flawed personality, could have distressing results", most of them "completed their education happily and successfully. There had been moments of stress, but most grew through this and accepted both the way they had been trained, and the world for which they were being prepared. They are now middle-class citizens."

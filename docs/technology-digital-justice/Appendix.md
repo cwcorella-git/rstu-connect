@@ -8,12 +8,6 @@ tags:
   - digital rights
 ---
 
-## **Appendix**
-
-## **Date:** Unknown
-
-## **Source:** https://libcom.org/article/appendix
-
 ## **Tags:** Class War Federation
 
 Appendix to the Class War Federation's book Unfinished Businesscovering:

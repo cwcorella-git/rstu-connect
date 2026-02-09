@@ -10,14 +10,6 @@ tags:
   - police
 ---
 
-## **Copwatching in Chattanooga - Lorenzo Komboa Ervin**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/copwatching-chattanooga-lorenzo-komboa-ervin
-
-**Tags:** Lorenzo Kom'boa Ervin, United States, Chattanooga, police
-
 Article from Black Flag #214 1998.
 
 Brothers and Sisters:

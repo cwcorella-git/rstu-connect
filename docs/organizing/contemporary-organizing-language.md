@@ -5,8 +5,6 @@ date: 2026
 category: organizing
 ---
 
-# Contemporary Organizing Language Guide
-
 The language of effective organizing has transformed radically since 2022. Successful tenant unions, labor strikes, and political mobilizations now share distinct characteristics: explicit class conflict framing, material specificity over abstract ideology, social media transparency, and personal narrative grounding systemic analysis.
 
 ## The Tenant Movement Has Invented Its Own Language

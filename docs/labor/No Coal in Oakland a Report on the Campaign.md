@@ -9,17 +9,9 @@ tags:
   - workers
 ---
 
-# **No Coal in Oakland: a Report on the Campaign**
-
-## **Date:** Mon, 08/01/2016 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/1843
 
-**Tags:** Oakland, coal, exports, green unionism, yellow unionism, Phil Tagami, Industrial Workers of the World (IWW), Service Employees International Union (SEIU), Amalgamated Transit Union (ATU), International Longshore and Warehouse Union (ILWU)
-
 ## By Margaret Rossoff -
-
-## No Coal in Oakland
 
 ## , August 2016; image by Brooke Anderson
 

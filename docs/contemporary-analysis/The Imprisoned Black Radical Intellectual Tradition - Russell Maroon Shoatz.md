@@ -6,14 +6,6 @@ tags:
   - prisons
 ---
 
-## **The Imprisoned Black Radical Intellectual Tradition - Russell Maroon Shoatz**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/imprisoned-black-radical-intellectual-tradition-russell-maroon-shoatz
-
-**Tags:** Russell Maroon Shoatz, racism, United States, prisons, black power
-
 A short article by anti-authoritarian Black Power prisoner Russell Maroon Shoatz, first published by In The Belly: An Abolitionist Journaland then republished by Abolition Media Worldwide.
 
 We can date the imprisoned Black radical intellectual tradition from when Marcus Garvey, from a US federal prison in the early nineteen hundreds, spurred his followers on by writing… "look for me in the whirlwind." A political prisoner, Garvey was already a world renowned intellectual and organizer, and remained one until his death as a free man.

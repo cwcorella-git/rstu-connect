@@ -9,13 +9,7 @@ tags:
   - climate
 ---
 
-## **Justice 4 Jackson. Help us Fix Jackson's Water System and Build More Autonomy and People Power in the City**
-
-## **Date:** Mon, 09/05/2022 - 02:00
-
 ## **Source:** https://ecology.iww.org/node/5093
-
-**Tags:** Cooperation Jackson, Kali Akuno, climate change, climate justice, disaster collectivism, libertarian-socialism, social ecology, Mississippi, Black, Indigenous, and People of Color (BIPOC)
 
 ## By Kali Akuno -
 

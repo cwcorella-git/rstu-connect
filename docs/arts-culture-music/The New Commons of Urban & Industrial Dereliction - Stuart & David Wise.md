@@ -8,14 +8,6 @@ tags:
   - commons
 ---
 
-## **The New Commons of Urban & Industrial Dereliction - Stuart & David Wise**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/new-commons-urban-industrial-dereliction-stuart-david-wise
-
-**Tags:** David Wise, Stuart Wise, psychogeography, nature conservancy, feminism
-
 A Freewheeling Interpretation of Classic Derive, Grand Projects, Subtopian Pornography, Workers' Councils, Nature Reserves versus Wilding.
 
 By Stuart & David Wise, originally published 2012 on the Revolt Against Plenty site.

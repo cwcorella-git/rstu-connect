@@ -8,10 +8,6 @@ tags:
   - capitalism
 ---
 
-#### [en.wikipedia.org](https://en.wikipedia.org/wiki/Racial_capitalism#)
-
-# **Racial capitalism**
-
 ## Contributors to Wikimedia projects
 
 31–40 minutes

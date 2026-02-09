@@ -8,14 +8,6 @@ tags:
   - Sweden
 ---
 
-## **Swedish syndicalism – An outline of its ideology and practice**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/swedish-syndicalism-outline-its-ideology-and-practice
-
-**Tags:** Rasmus Hästbacka, syndicalism, anarcho-syndicalism, SAC, Sweden
-
 A simple PDF version of a forthcoming book, aimed at readers new to Swedish syndicalism. It will be published in printed form and as a free ebook, both in English and Swedish by SAC's publishing house. A free audio book will also be released in Swedish. The PDF is availablehereand the other formats will be available via the same link.
 
 In 2021, a member meeting in the Umeå Local of SAC decided to publish this book. Rasmus Hästbackais the author of the text. Hästbacka is a lawyer. The afterword is written by Niklas Averstad Rydand Jonas Hammarbäck. Averstad Ryd is a primary school teacher and Hammarbäck is a care worker. The translation into English is done by Tobias Hübinetteand Nicklas Hållén. Hübinette is an Associate Professor and Lecturer in intercultural studies. Hållén is an Associate Professor and Lecturer in English literature. The original title of the book in Swedish is Vad vill syndikalismen? En ideologisk grundskiss.
@@ -29,8 +21,6 @@ The book consists of four parts. Part 1 presents guidelines for successful organ
 The book does not touch on the details of trade union work. These are instead treated in SAC's organizer courses and in study groups that are open to all members. At the end of the book, a proposed plan for study groups can be found.
 
 SAC is not a trade union in the narrow sense: an association for only one craft or one industry. SAC is an organization for all workers as a social class. It is a class organization with a dual function. SAC is a tool in the struggle for daily demandsandfor fundamentally changing society as a whole. In labour struggles, syndicalists strive for the widest possible solidarity across organizational boundaries.
-
-## DOWNLOAD PDFHERE klas batalo 3 years 8 months ago In reply to Welcomebylibcom.org Thank you for this book and all of your writing on these matters, I'm an IWW member and it's been super useful to understand debates in Swedish unionism!
 
 ## Joakim
 

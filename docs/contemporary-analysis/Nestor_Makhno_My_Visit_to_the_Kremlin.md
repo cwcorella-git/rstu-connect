@@ -8,8 +8,6 @@ tags:
   - current-events
 ---
 
-# **My Visit to the Kremlin**
-
 ## Nestor Makhno
 
 # **Contents**

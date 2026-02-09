@@ -9,10 +9,7 @@ tags:
   - digital rights
 ---
 
-## **Information Anarchy: The Case Against Sponsorships**
-
 | Date: 2023-10-13
-Source: https://www.threadings.io/care-infrastructure-online-wikipedia/|
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | an essay I wanted to title, "If you see me hold up skinny tummy tea smilin for a Nikon, gon'
 head and |

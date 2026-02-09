@@ -8,14 +8,6 @@ tags:
   - women
 ---
 
-## **A 79 year old woman who bowls: an interview with Diva Agostinelli, anarchist**
-
-**Date:** Unknown
-
-**Source:** https://libcom.org/article/79-year-old-woman-who-bowls-interview-diva-agostinelli-anarchist
-
-**Tags:** Rebecca Dewitt, Diva Agostinelli, Why?, Resistance (publication), anarchism, David Thoreau
-
 Wieck, David Koven, interviews
 
 An interview by Rebecca DeWitt of Diva Agostinelli. Agostinelli was an Italian-American anarchist who was involved in the groups around theWhy?andResistancepublications. She was also married toDavid Thoreau Wieck. Originally appeared in Perspectives on Anarchist Theory 5, no. 1 (Spring, 2001).

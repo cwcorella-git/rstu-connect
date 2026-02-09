@@ -10,14 +10,6 @@ tags:
   - jair-bolsonaro
 ---
 
-## **Dissecting the right's "free speech" rhetoric**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/dissecting-rights-free-speech-rhetoric
-
-**Tags:** Industrial Workers of the World (IWW), United Kingdom, Brazil, free speech, Jair Bolsonaro,
-
 ## ACLU, Carl Schmitt
 
 An analysis of the reactionary co-option of the term "freedom of speech" in the age of Trump and Bolsonaro, and discussion of how best to respond to it.

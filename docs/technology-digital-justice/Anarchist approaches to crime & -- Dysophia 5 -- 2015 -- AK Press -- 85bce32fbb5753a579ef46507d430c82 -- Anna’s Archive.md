@@ -8,8 +8,6 @@ tags:
   - digital rights
 ---
 
-# what about the rapists?
-
 anarchist approaches to crime & justice
 
 ## ![](_page_0_Picture_2.jpeg)

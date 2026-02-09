@@ -9,14 +9,6 @@ tags:
   - workers
 ---
 
-## **The Battle for Bread at Lawrence - Mary Marcy**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/battle-bread-lawrence-mary-marcy
-
-**Tags:** Mary Marcy, United States, textiles, Massachusetts, New England, strikes, Bill Haywood,
-
 Industrial Workers of the World (IWW), nationalism, internationalism
 
 A contemporary account of the 1912 Lawrence Textile Strike, appearing in the International Socialist Review, by the socialist writer Mary Marcy.

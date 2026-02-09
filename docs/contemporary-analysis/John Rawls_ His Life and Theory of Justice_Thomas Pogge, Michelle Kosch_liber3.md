@@ -8,17 +8,11 @@ tags:
   - current-events
 ---
 
-# John Rawls
-
 ## HIS LIFE AND THEORY OF JUSTICE
 
 ## ![](_page_0_Picture_2.jpeg)
 
-# J O H N R A W L S
-
 ## ![](_page_2_Picture_0.jpeg)
-
-# JOHN RAWLS
 
 # His Life and Theory of Justice thomas pogge
 

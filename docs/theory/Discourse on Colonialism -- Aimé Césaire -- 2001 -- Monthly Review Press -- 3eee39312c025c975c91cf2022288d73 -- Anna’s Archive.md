@@ -9,13 +9,7 @@ tags:
 
 ## DISCOURSEON
 
-# COLONIALISM
-
 ## TRANSLATED EN JOAN PINKHAM
-
-## 'A POETICS OF ANTICOLONIALISM'
-
-# Discourse on Colonialism
 
 #### Aimé Césaire
 

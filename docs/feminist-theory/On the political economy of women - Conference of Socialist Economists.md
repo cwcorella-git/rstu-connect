@@ -8,14 +8,6 @@ tags:
   - women
 ---
 
-## **On the political economy of women - Conference of Socialist Economists**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/political-economy-women-conference-socialist-economists
-
-**Tags:** Conference of Socialist Economists, PDF, feminism
-
 CSE Pamphlet 2, 1976.
 
 The papers in this pamphlet were written by members of the Political Economy of Women group. This group was started ip 1973 by some women within the Conference of Socialist Economists, though it quickly grew to include other women (and occasionally men) from outside the C. S. E., and from outside the field of 'economics'. Nevertheless the group's orientation has been towards the study of women at the economic level ■perhaps the area of theory which had at that time been most neglected within the women's movement.

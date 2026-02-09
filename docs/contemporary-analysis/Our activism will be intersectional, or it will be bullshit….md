@@ -8,10 +8,7 @@ tags:
   - current-events
 ---
 
-## **Our activism will be intersectional, or it will be bullshit…**
-
-**Date:** Mon, 04/24/2017 - 16:41 **Source:** https://ecology.iww.org/node/2207**Tags:** intersectionality, Black Lives Matter, Plane Stupid, NGO-industrial complex, Big Green By Ali Tamlit - Red Pepper
-
+intersectionality, Black Lives Matter, Plane Stupid, NGO-industrial complex, Big Green By Ali Tamlit - Red Pepper
 To begin this story, cast your mind back a few months…
 
 ## , April 23, 2017

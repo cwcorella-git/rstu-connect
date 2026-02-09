@@ -14,8 +14,6 @@ tags:
 
 ## MOBILIZED 4 MOVEMENT
 
-# **Challenging the Terms of Order**
-
 Representations of the Detroit Rebellions, 1967–1968
 
 ## Jordan T. Camp

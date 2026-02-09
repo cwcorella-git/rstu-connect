@@ -8,14 +8,6 @@ tags:
   - class
 ---
 
-## **On Minneapolis: Police Brutality & Class Struggle**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/minneapolis-police-brutality-class-struggle
-
-**Tags:** Internationalist Communist Tendency, United States, riots, Minneapolis, Black Lives Matter movement, Internationalist Workers' Group, Klasbatalo, racism, police, George Floyd protests
-
 Flyer distributed by comrades and sympathisers at protests over the murder of George Floyd.
 
 - 1. Watts in 1965, LA in 1992, Ferguson in 2014. Rodney King, Mike Brown, Sandra Bland, Tamir Rice. The events in Minneapolis are yet another addition to a historical and systemic problem. In addition to suffering unemployment at twice the rate of their white counterparts (a consistent number since the 1950s), the black proletariat is disproportionately targeted by police violence, with seemingly no end in sight to the death toll. Yet, the class shows itself, again, to be combative in those dire moments. The black workers of America, along with the rest of the proletariat standing in solidarity, took to the streets and pushed back against state repression. Nothing has changed. In 1965, just like in 2020, the police kill, and the class responds in defiance to the crooked social order they murder for. The struggle continues.

@@ -9,12 +9,6 @@ tags:
   - police
 ---
 
-## **Prison Peninsula. About Guerrilla Attacks in Occupied Crimea**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/prison-peninsula-about-guerrilla-attacks-occupied-crimea**Tags:** assembly.org.ua, Crimea, Russia, Russia-Ukraine war, war, sabotage, police, Ukraine
-
 This is the special issue of our survey concerning grassroots sabotage to disrupt ongoing Russian aggression in Ukraine. You also can seethe newest general overviewof radical popular resistance in various regions of the totalitarian hell. And please support the anarchist online magazine forrestoration of the community social fabricin injured frontline Kharkiv. To donate you are welcome to jointhis fundraising. A couple of cups of coffee in your country even before the war could be equivalent in price to the daily wage of a worker in Ukraine!
 
 The gloomy reality of total police despotism and criminal repression with the least disloyalty, took shape for Russia with the beginning of full-scale aggression the 24th of February this year, has been a daily occurrence for this annexed land since 2014. From the very first months in neo-tsarist empire, Crimea began to turn into one huge military base. No life prospects except for state service. Wages, quite high at the beginning of the occupation, graduallydecline more and more. The inflow of anti-social elements from the mainland led to an increase in crime. Rigid bureaucracy, taxes on almost everything, permits are required everywhere (of course, with a corruption component). A completely deadening atmosphere for people with at least a little lively aspirations immediately led to a large flow of emigrants. We recently wrote how all of this isbeing imposed to the neighboring Kherson region- and even despite 8 years of eradicating any dissent, the occupying authorities fail to completely suppress subversive acts.

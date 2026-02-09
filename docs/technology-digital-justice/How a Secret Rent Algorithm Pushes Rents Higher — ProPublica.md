@@ -10,8 +10,6 @@ tags:
 
 #### [propublica.org](https://www.propublica.org/article/yieldstar-rent-increase-realpage-rent)
 
-# **Rent Going Up? One Company's Algorithm Could Be Why.**
-
 ## Ryan Little
 
 33–41 minutes

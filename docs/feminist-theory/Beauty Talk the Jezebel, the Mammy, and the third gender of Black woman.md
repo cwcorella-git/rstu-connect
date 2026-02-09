@@ -7,10 +7,7 @@ tags:
   - feminism
 ---
 
-## **Beauty Talk: the Jezebel, the Mammy, and the third gender of "Black woman."**
-
 | Date: 2022-11-06
-Source: https://www.threadings.io/beauty-talk-the-jezebel-the-mammy/|
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | an essay formerly entitled, "T |
 | he (un)intentional making of the Black woman." |

@@ -8,8 +8,6 @@ tags:
 
 ## [britannica.com](https://www.britannica.com/topic/fascism)
 
-## **Fascism | Definition, Meaning, Characteristics, Examples, & History**
-
 ## Robert Soucy
 
 9–11 minutes

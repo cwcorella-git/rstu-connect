@@ -8,8 +8,6 @@ tags:
 
 ## ![](_page_0_Picture_0.jpeg)
 
-## HOST CITY CONTRACT
-
 ## Games of the XXXII Olympiad in 2020
 
 ## ![](_page_0_Picture_3.jpeg)

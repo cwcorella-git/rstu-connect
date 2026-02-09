@@ -9,14 +9,6 @@ tags:
   - anti-war
 ---
 
-## **Anarchism on the periphery: struggle under conditions of emigration and war**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/anarchism-periphery-struggle-under-conditions-emigration-and-war
-
-**Tags:** pramen.io, anarchism, Russia-Ukraine war, Russia
-
 This text was written by a small group of Russian anarchists. We are not in Russia and are actively engaged in revolutionary struggle in another country. In this article we examine the current situation of the anarchist movement in the Russian Federation and in emigration, draw conclusions about its readiness for revolutionary events, and share our thoughts on what should be done now.
 
 Today Russian anarchist movement is in bad situation. But this is not a reason to give up, quite the contrary. There are advantageous circumstances in all difficult situations, and we must use them. Right now the Russian emigration has such an opportunity. We are convinced that revolution in Russia is possible and necessary. The anarchist movement must participate in taking down the regime and join processes of social changes under political regimes that will come after.

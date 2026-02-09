@@ -9,8 +9,6 @@ tags:
   - Bakunin
 ---
 
-# Marxism Freedom and the State
-
 #### Translated and Edited with a Biographical Sketch by
 
 ## K. J. Kenafick

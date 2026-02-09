@@ -8,13 +8,7 @@ tags:
   - France
 ---
 
-## **Who Wins From "Climate Apartheid"?: African Climate Justice Narratives About the Paris COP21**
-
-## **Date:** Tue, 02/23/2016 - 18:36
-
 ## **Source:** https://ecology.iww.org/node/1533
-
-**Tags:** COP21, greenwashing, extractivism, climate justice, ESKOM
 
 ## By Patrick Bond -
 

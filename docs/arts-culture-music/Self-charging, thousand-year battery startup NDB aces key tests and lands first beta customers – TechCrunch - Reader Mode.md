@@ -7,8 +7,6 @@ tags:
   - culture
 ---
 
-## Self-charging, thousand-year battery startup NDB aces key tests and lands rst beta customers – Tech Crunch
-
 [Darrell Etherington](https://techcrunch.com/author/darrell-etherington/)[@etherington](https://twitter.com/etherington) / 5:00 AM PDT•August 25, 2020 Comment
 
 ## ![](_page_0_Picture_5.jpeg)

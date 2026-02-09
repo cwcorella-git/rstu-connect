@@ -7,8 +7,6 @@ tags:
   - Proudhon
 ---
 
-# **What is Property?**
-
 **An Inquiry into the Principle of Right and of Government**
 
 ## Pierre-Joseph Proudhon

@@ -9,13 +9,7 @@ tags:
   - Canada
 ---
 
-## **RWU Statement Upon the Acquittal of Canadian Railroad Workers**
-
-## **Date:** Mon, 01/22/2018 - 16:04
-
 ## **Source:** https://ecology.iww.org/node/2759
-
-**Tags:** Tom Harding, Richard La Brie, Railroad Workers United (RWU), railroad workers, health and safety, crude-by-rail, Lac-Mégantic, green unionism, Railcon15
 
 ## By Ron Kaminkow -
 

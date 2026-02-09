@@ -9,8 +9,6 @@ tags:
 
 #### [americanbar.org](https://www.americanbar.org/groups/crsj/resources/human-rights/archive/how-you-start-how-you-finish-slave-patrol-jim-crow-origins-policing/)
 
-# **How You Start is How You Finish? The Slave Patrol and Jim Crow Origins of Policing**
-
 ## Connie Hassett-Walker
 
 13–17 minutes

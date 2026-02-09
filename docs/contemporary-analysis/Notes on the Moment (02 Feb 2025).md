@@ -7,10 +7,6 @@ tags:
   - current-events
 ---
 
-## **Notes on the Moment (02 Feb 2025)**
-
-**Date:** 2025-02-03 **Source:** https://www.threadings.io/notes-on-the-moment-02-feb-2025/Audio file, or the Spotify link if you nasty: Notes on the moment feb 2025 0:00 / 1034.0310204081632
-
 ## 1×
 
 Hello. I have like… the tail end of a rooibos blend that's cold now. It's the middle of the night in Sierra Leone, there's a small and lovely gecko in my room with me keeping very unrepentant company with me, and I do relish that this teeny being does not fear me. I killed a beetle last night in my sleep because it fell on my face and I reacted immediately, and I am still sad about it today. I want to consider life sacred, even when I am frightened and don't understand.

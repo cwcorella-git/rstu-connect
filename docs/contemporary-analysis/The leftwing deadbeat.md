@@ -9,8 +9,6 @@ tags:
 
 ### **MK Lees & Marianne Garneau**
 
-# **The leftwing deadbeat**
-
 # *MK Lees and Marianne Garneau look at leftists' poor track record in workplace organizing campaigns.*
 
 ### **May 2023**

@@ -8,8 +8,6 @@ tags:
   - peace
 ---
 
-# **James C. Scott**
-
 # **Weapons of the Weak**
 
 # **Everyday Forms of Peasant Resistance**

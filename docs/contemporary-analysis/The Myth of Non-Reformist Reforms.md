@@ -8,8 +8,6 @@ tags:
 
 ## [blackrosefed.org](https://www.blackrosefed.org/myth-non-reformist-reforms/)
 
-## **The Myth of Non-Reformist Reforms**
-
 ## Admin100
 
 5–7 minutes

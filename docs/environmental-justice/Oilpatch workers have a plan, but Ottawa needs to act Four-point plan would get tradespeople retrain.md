@@ -8,13 +8,7 @@ tags:
   - fossil fuels
 ---
 
-## **Oilpatch workers have a plan, but Ottawa needs to act: Four-point plan would get tradespeople retrained and back to work in clean energy**
-
-## **Date:** Wed, 11/02/2016 - 18:02
-
 ## **Source:** https://ecology.iww.org/node/1893
-
-**Tags:** Iron and Earth, green unionism, just transition, renewable energy workers, tar sands, oil workers, green jobs, Canada
 
 ## By
 

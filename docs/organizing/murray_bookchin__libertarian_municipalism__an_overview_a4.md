@@ -11,7 +11,7 @@ tags:
   - urban
   - Bookchin
 ---
-# Murray_Bookchin__Libertarian_Municipalism__An_Overview_a4
+
 Libertarian Municipalism: An Overview
 1991
 The Anarchist Library

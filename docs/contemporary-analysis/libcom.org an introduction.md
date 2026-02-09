@@ -9,12 +9,6 @@ tags:
   - libcom
 ---
 
-## **libcom.org: an introduction**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/libcomorg-introduction
-
 ## **Tags:** libcom.org, libertarian communism libcom.org is a resource for all people who wish to fight to improve their lives, their communities and their working conditions. We want to discuss, learn from successes and failures of the past and develop strategies to increase the power we, as ordinary people, have over our own lives.
 
 This article in:Bahasa Indonesia|Deutsch|Español|Français|Italiano|Kurdi|■■■■■|Polski|Port uguês|Svenska|■■|Nederlands

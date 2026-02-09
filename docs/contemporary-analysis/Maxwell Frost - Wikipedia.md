@@ -11,8 +11,6 @@ tags:
 
 ## ![](_page_0_Picture_2.jpeg)
 
-# **Maxwell Frost**
-
 **Maxwell Alejandro Frost** (born January 17, 1997[\)\[1\]](#page-4-0) is an American politician and activist serving as the [U. S. representative](https://en.wikipedia.org/wiki/U. S._representative) for [Florida's 10th](https://en.wikipedia.org/wiki/Florida%27s_10th_congressional_district) [congressional district](https://en.wikipedia.org/wiki/Florida%27s_10th_congressional_district) since 2023. A member of the [Democratic Party,](https://en.wikipedia.org/wiki/Democratic_Party_(United_States)) he was previously the national organizing director for [March for Our Lives.](https://en.wikipedia.org/wiki/March_for_Our_Lives_Action_Fund) Elected at age 25[,\[2\]](#page-4-1) Frost is the youngest member and the first [Generation](https://en.wikipedia.org/wiki/Generation_Z) [Z](https://en.wikipedia.org/wiki/Generation_Z) member of the [United States Congress.](https://en.wikipedia.org/wiki/United_States_Congress)
 
 ## **Early life**

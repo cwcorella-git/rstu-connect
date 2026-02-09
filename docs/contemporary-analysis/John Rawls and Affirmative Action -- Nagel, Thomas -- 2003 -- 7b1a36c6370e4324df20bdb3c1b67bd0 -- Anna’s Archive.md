@@ -10,8 +10,6 @@ tags:
 
 ## ![](_page_0_Picture_0.jpeg)
 
-## John Rawls and Affirmative Action
-
 ## Thomas Nagel
 
 The Journal of Blacks in Higher Education, No. 39. (Spring, 2003), pp. 82-84.

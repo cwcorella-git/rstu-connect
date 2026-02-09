@@ -13,8 +13,6 @@ tags:
 
 ## ![](_page_0_Picture_6.jpeg)
 
-# **Broad Overview:**
-
 # **[The German Ideology](https://www.marxists.org/archive/marx/works/1845/german-ideology/index.htm)**
 
 "The first premise of all human history is, of course, the existence of living human individuals. Thus the first fact to be established is the physical organisation of these individuals and their consequent relation to the rest of nature.... Men can be distinguished from animals by consciousness, by religion or anything else you like. They themselves begin to distinguish themselves from animals as soon as they begin to produce their means of subsistence, a step which is conditioned by their physical organisation. By producing their means of subsistence men are indirectly producing their actual material life.

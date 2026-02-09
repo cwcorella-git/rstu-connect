@@ -12,14 +12,6 @@ tags:
   - pdf
 ---
 
-## **A Tilted Guide to Being a Defendant: A Guide to the Criminal Legal System for Radicals**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/tilted-guide-being-defendant-guide-criminal-legal-system-radicals
-
-**Tags:** United States, repression, prisons, legal, Tilted Scales Collective, PDF
-
 A guide to navigating the legal system from the Tilted Scales Collective. A print version can be bought from AK Press.
 
 This version is a PDF. Contact the authors at tiltedscales(A)riseup.net or tiltedscales(A)protonmail.com for an ebook reader version.

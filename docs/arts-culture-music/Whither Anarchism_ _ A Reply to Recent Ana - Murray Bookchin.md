@@ -12,8 +12,6 @@ tags:
 
 ## ![](_page_1_Picture_0.jpeg)
 
-# Whither Anarchism?
-
 ## A Reply to Recent Anarchist Critics by
 
 # Murray Bookchin

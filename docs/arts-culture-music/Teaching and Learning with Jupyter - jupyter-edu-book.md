@@ -8,8 +8,6 @@ tags:
   - wikipedia
 ---
 
-# Teaching and Learning with Jupyter
-
 Lorena A. Barba, Lecia J. Barker, Douglas S. Blank, Jed Brown, Allen B. Downey, Timothy George, Lindsey J. Heagy, Kyle T. Mandli, Jason K. Moore, David Lippert, Kyle E. Niemeyer, Ryan R. Watkins, Richard H. West, Elizabeth Wickes, Carol Willing, and Michael Zingale
 
 ## 2019-05-08

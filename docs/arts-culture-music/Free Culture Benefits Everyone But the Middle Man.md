@@ -7,8 +7,6 @@ tags:
   - culture
 ---
 
-## **Kevin Carson**
-
 ## **Free Culture Benefits Everyone But the Middle Man**
 
 ## **18 August 2016**

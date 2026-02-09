@@ -7,8 +7,6 @@ tags:
   - current-events
 ---
 
-# **[What Games Are](https://web.archive.org/web/20250913094130/https://www.whatgamesare.com/)**
-
 ## ![](_page_0_Picture_2.jpeg)
 
 - [Featured](https://web.archive.org/web/20250913094130/https://www.whatgamesare.com/featured-posts.html)

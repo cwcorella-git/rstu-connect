@@ -7,14 +7,6 @@ tags:
   - sam-dolgoff
 ---
 
-## **I. W. W. Convention - S. W. (Sam Dolgoff)**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/iww-convention-sw-sam-dolgoff
-
-**Tags:** Sam Dolgoff, Industrial Workers of the World (IWW), International Workers' Association (IWA)
-
 An account by S. W. (Sam Dolgoff) of the 1938 IWW Convention in which he expresses support for the potential decision of the IWW to allow collective bargaining agreements and regret for the decision to not affiliate with the International Workingmens Association. Dolgoff was a longtime IWW member who also participated in a number of anarchist and anarcho-syndicalist groups and publications. Originally appeared in Vanguard(November 1938).
 
 The 23rd General Convention of the Industrial Workers of the World took place on Sept. 12-17th. Space does not permit a lengthy discussion or report of the proceedings, which were marked by serious discussions on vital problems. The principal business of the convention revolved around the question of adjusting the policies of the organization to the changed conditions in the American Labor Movement in an effort to secure the gains which the organization had made during the past year in the field of metal and machinery, maritime and W. P. A.

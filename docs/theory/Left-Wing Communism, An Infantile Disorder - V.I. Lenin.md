@@ -7,8 +7,6 @@ tags:
   - theory
 ---
 
-# LITTLE LENIN LIBRARY VOLUME 20
-
 "LEFT-WING"
 COMMUNISM,
 AN INFANTILE

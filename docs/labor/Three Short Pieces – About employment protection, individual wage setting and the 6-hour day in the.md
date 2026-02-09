@@ -9,14 +9,6 @@ tags:
   - workers
 ---
 
-## **Three Short Pieces – About employment protection, individual wage setting and the 6-hour day in the Swedish labor market**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/three-short-pieces-about-employment-protection-individual-wage-sett ing-and-6-hour-day
-
-**Tags:** Rasmus Hästbacka, syndicalism, anarcho-syndicalism, SAC, Sweden
-
 Three polemical texts written from a syndicalist point of view. Originally published in various Swedish newspapers in 2024 (using the web tool Insändarmaskinen). More articles by the same authorhere.
 
 ## Published on October 22, 2024

@@ -7,8 +7,6 @@ tags:
   - digital rights
 ---
 
-## [today.wayne.edu](https://today.wayne.edu/news/2020/09/09/detroit-revolutionary-movements-records-now-available-online-39127)
-
 ## **Detroit Revolutionary Movements Records now available online**
 
 ## Wayne State University

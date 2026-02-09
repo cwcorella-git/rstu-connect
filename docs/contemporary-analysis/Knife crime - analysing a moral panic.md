@@ -9,12 +9,6 @@ tags:
   - libcom
 ---
 
-## **Knife crime - analysing a moral panic**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/knife-crime-analysing-moral-panic
-
 ## **Tags:** violence, police, United Kingdom
 
 Knife violence is highly emotive and traumatic, whether it's the images of youthful victims or bereaved parents conducting marches to end street violence. This week, a majority of Labourlist readers believe that the Labour Party should back stop and searchand all Labour London MPs are lobbying government for more police to deal with knife crime. Everyone wants something to do be done but what must be done and how do we get it?

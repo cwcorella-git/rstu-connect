@@ -7,13 +7,7 @@ tags:
   - prisons
 ---
 
-## **Keep Us Alive and Vibrant Out There: An Interview with Political Prisoner Eric King**
-
-## **Date:** Unknown
-
 ## **Source:**
-**Tags:** United States, anarchists, repression, prisons, Eric King, Black & Pink
-
 An interview with anarchist political prisoner Eric King from the Seattle-Tacoma chapter of Black and Pink. This article was first published by It's Going Down.
 
 In this time when authorities refuse to keep people safe from COVID-19, when rebellion is a fresh on our minds, and when the abolition of police and prisons is becoming a clear necessity to more and more people, we've got something to learn from an anarchist political prisoner like Eric King. Eric vandalized the office of a government official in Kansas City, MO, in solidarity with the Ferguson uprising, was arrested in September 2014, and then was sentenced to ten years for the window he broke in June 2016. Such a sentence is horrible, but not shocking. Prisons, after all, do more to keep hierarchies safe than people.

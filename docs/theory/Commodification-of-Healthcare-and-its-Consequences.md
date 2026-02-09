@@ -7,8 +7,6 @@ tags:
   - theory
 ---
 
-# COMMODIFICATION OF HEALTHCARE AND ITS CONSEQUENCES
-
 ## Isaac Christiansen
 
 Isaac Christiansen is an Assistant Professor of Sociology at Midwestern State University. His dissertation "Resource Distribution, Accessibility and Health Equity: From Global Analyses to the Cuban Case" examines various facets of health and development. His primary research interests are social, economic and health inequalities, social change and development, and the dynamics of economic crises. He has taught various classes in sociology including Introduction to Sociology, Social Problems, Race and Ethnic Relations, and Sociology of Work. He is a member of the Midwest Sociological Society, the American Sociological Association and Jewish Voice for Peace. Email: isaacc@iastate.edu

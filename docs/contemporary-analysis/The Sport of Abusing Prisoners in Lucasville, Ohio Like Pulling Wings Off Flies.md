@@ -7,14 +7,6 @@ tags:
   - prisons
 ---
 
-## **The Sport of Abusing Prisoners in Lucasville, Ohio: Like Pulling Wings Off Flies**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/sport-abusing-prisoners-lucasville-ohio-pulling-wings-flies
-
-**Tags:** repression, prisons, Kevin 'Rashid' Johnson, racism
-
 Incarcerated writer Kevin "Rashid" Johnson, recently transferred to Ohio, describes abusive conditions at the infamous Lucasville prison. Content warning for descriptions of violence.
 
 ## The Psychosis of Torture

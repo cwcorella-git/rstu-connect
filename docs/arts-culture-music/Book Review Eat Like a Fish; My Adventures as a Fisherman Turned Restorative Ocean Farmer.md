@@ -7,10 +7,7 @@ tags:
   - food
 ---
 
-## **Book Review: Eat Like a Fish; My Adventures as a Fisherman Turned Restorative Ocean Farmer**
-
-**Date:** Thu, 08/11/2022 - 00:00 **Source:** https://ecology.iww.org/node/5074**Tags:** green unionism, Bren Smith, oceans, 3D Ocean Farming, water, fisherfolk, Labor Network for Sustainability (LNS), Blue New Deal (BND), Green New Deal (GND), climate change By x344543 - IWW Environmental Union Caucus , August 11, 2022 Eat Like a Fish: My Adventures as a Fisherman Turned Restorative Ocean Farmer ( 2019: Knopf Publishing ), is a personal, autobiographical account by Bren Smith
-
+green unionism, Bren Smith, oceans, 3D Ocean Farming, water, fisherfolk, Labor Network for Sustainability (LNS), Blue New Deal (BND), Green New Deal (GND), climate change By x344543 - IWW Environmental Union Caucus , August 11, 2022 Eat Like a Fish: My Adventures as a Fisherman Turned Restorative Ocean Farmer ( 2019: Knopf Publishing ), is a personal, autobiographical account by Bren Smith
 , a one time, working class fisherman and native of Newfoundland turned pioneer of regenerative ocean agriculture.
 
 In his early adult and working life, Smith experienced all the horrors of capitalist fishing industry, including its deeply detrimental effects on workers, the environment, and consumers. After much trial and error, mostly error, and after many wrong turns in life, he learned methods of regenerative ocean farming.

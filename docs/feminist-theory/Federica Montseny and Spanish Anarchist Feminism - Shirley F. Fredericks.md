@@ -9,13 +9,7 @@ tags:
   - Spain
 ---
 
-## **Federica Montseny and Spanish Anarchist Feminism - Shirley F. Fredericks**
-
-## **Date:** Unknown
-
 ## **Source:**
-**Tags:** Shirley F. Fredericks, Federica Montseny, feminism, anarchism, anarcho-syndicalism,
-
 Confederación Nacional del Trabajo (CNT), Mujeres Libres
 
 An article by Shirley F. Fredericks about Federica Montseny, a Spanish anarchist and CNT militant. Originally appeared in Frontiers: A Journal of Women Studies Vol. 1, No. 3 (Winter, 1976).

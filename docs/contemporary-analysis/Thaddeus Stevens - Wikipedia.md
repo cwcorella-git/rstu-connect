@@ -9,15 +9,9 @@ tags:
   - wikipedia
 ---
 
-#### [en.wikipedia.org](https://en.wikipedia.org/wiki/Thaddeus_Stevens)
-
-# **Thaddeus Stevens**
-
 ## Contributors to Wikimedia projects
 
 91–115 minutes
-
-### **Thaddeus Stevens**
 
 ## ![](_page_0_Picture_7.jpeg)
 

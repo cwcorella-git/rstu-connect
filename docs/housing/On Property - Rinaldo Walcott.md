@@ -11,10 +11,6 @@ tags:
 
 ## ![](_page_0_Figure_0.jpeg)
 
-## On Property
-
-## Rinaldo Walcott
-
 Biblioasis Windsor, Ontario "Enter *On Property* into humanity's tome of world-shifting ideas. In these concise pages, Rinaldo Walcott makes his unequivocal case for an abolitionist approach to the collective care and well-being of this world. His offering of ethical, political and philosophical clarity allows us to begin to renew our attention to the conditions and priorities of how we live together. Walcott's subtle genius is in how he brings this large idea to the street corner. Along with a host of vital thinkers born out of the catastrophe of the modern world, he imagines the future for this precarious planet as not only possible, but with a fullness of relation. This vision of the abolition of property brings with it a view of the commons as it is located in Black history and Black Life. So, it sees the whole world. Urgent, far-reaching and with a profound generosity of care, the wisdom in *On Property* is absolute. We cannot afford to ignore or defer its teachings. Now is the time for us—collectively—to take up the challenge in this undeniable gift of a book."
 
 —Canisia Lubrin, *The Dyzgraphxst* and *Voodoo Hypothesis*

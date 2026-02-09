@@ -8,14 +8,6 @@ tags:
   - education
 ---
 
-## **1919: Costa Rican Women Teachers Defy Dictator**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/1919-costa-rican-women-teachers-defy-dictator
-
-**Tags:** women, education, strikes, schools, repression, universities, Costa Rica, Susana Medeiros,
-
 ## Maria Isabel Carvajal, PDF
 
 The attacks on education and educators by the Tinoco dictatorship in Costa Rica led to an opposition movement led by female students and teachers.

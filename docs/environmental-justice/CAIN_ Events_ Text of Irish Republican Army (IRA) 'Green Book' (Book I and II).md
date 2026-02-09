@@ -12,8 +12,6 @@ tags:
 
 #### CAIN Web Service
 
-# **Text of Irish Republican Army (IRA) 'Green Book' (Book I and II)**
-
 [\[CAIN\\_Home\]](https://cain.ulster.ac.uk/index.html)
 
 **[\[KEY\\_EVENTS\]](https://cain.ulster.ac.uk/events/index.html)** [\[Key\\_Issues\]](https://cain.ulster.ac.uk/issues/index.html) [Confl[ict\\_Background\]](https://cain.ulster.ac.uk/othelem/index.html)

@@ -8,13 +8,7 @@ tags:
   - climate
 ---
 
-## **One of the Best Places to Fight for the Environment Is in Your Workplace**
-
-## **Date:** Wed, 02/24/2021 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/4186
-
-**Tags:** green syndicalism, green unionism, strategy and tactics, class struggle, Industrial Workers of the
 
 World (IWW), green bans, Builders Labourers' Federation, revolutionary unions
 

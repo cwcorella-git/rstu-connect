@@ -8,14 +8,6 @@ tags:
   - theory
 ---
 
-# **Connollism – Solidarity**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/connollism-solidarity
-
-**Tags:** nationalism, Solidarity, Ireland, United Kingdom, book reviews, revolutionary unionism, James
-
 ## Connolly, PDF
 
 A review in Solidarity for Workers' Powervol. 7, no. 11of James Connolly: Selected Writingsedited by P. Berresford Ellis and published by Pelican Books in 1973.

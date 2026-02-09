@@ -8,13 +8,7 @@ tags:
   - climate
 ---
 
-## **How can we save Liverpool's green spaces?**
-
-## **Date:** Sun, 05/01/2016 - 16:55
-
 ## **Source:** https://ecology.iww.org/node/1627
-
-**Tags:** Industrial Workers of the World (IWW), green unionism, IWW Environmental Unionism Caucus, green urbanism
 
 ## By staff -
 

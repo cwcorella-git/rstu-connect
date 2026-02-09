@@ -7,8 +7,6 @@ tags:
   - current-events
 ---
 
-# **Punch Up \* Kick Down Distro Hope in the Collapse 2025**
-
 Never Ending End Times Capitalism and Collapse Dialectic of Hope and Grief Letting Go Liberation Through Relation Conclusion Addendum: Faith
 
 All really tested hope, and all really militant optimism must go through the ever more searching and destructive experience of the historical process

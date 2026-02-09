@@ -8,8 +8,6 @@ tags:
 
 [imixwhatilike.org](https://imixwhatilike.org/2018/12/18/vernon-philosophy/)
 
-## **The Vernon Philosophy Of Black Media Avoidance**
-
 ## Jared Ball
 
 8–10 minutes

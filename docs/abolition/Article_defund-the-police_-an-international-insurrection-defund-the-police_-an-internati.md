@@ -9,15 +9,11 @@ tags:
   - prisons
 ---
 
-# Defund the Police an International Insurrection Defund the Police an Internati
-
 An International Insurrection
 
 ## Chris Cunneen
 
 DEFUND THE POLICE
-## An International Insurrection
-
         Chris Cunneen
 
 ## First published in Great Britain in 2023 by

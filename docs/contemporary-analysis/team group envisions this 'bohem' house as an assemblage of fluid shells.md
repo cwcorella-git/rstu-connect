@@ -9,8 +9,6 @@ tags:
 
 ## [designboom.com](https://www.designboom.com/architecture/bohem-project-iran-team-group-03-05-2022/)
 
-## iran-based team group envisions this 'bohem' house as an assemblage of fluid shells
-
 ## kat barandy I designboom
 
 2 minutes

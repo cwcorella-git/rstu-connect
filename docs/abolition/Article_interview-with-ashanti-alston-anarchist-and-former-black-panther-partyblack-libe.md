@@ -8,9 +8,7 @@ tags:
   - theory
 ---
 
-# Interview With Ashanti Alston Anarchist and Former Black Panther Partyblack Libe
-
-Interview with Ashanti Alston, anarchist and former Black Panther Party/Black Liberation Army member Date: Unknown Source: https://libcom.org/article/interview-ashanti-alston-anarchist-and-former-black-panther-partybla ck-liberation-army Tags: United States, prisons, black power, Black Panthers, Ashanti Alston, Black Liberation Army,
+States, prisons, black power, Black Panthers, Ashanti Alston, Black Liberation Army,
 ## Treyf podcast
 
 Ashanti Alston is a father, an anarchist, a prison abolitionist, and a former member of the Black Panther Party and Black Liberation Army. He was a political prisoner for over a decade and continues to work with the Jericho Movement to free all political prisoners.Treyf Podcast talked with Ashanti about his life, his political work with the BPP & BLA, state repression, prison abolition, and his thoughts on the current political moment.

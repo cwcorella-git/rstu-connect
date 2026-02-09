@@ -7,10 +7,6 @@ tags:
   - culture
 ---
 
-# **Episode 37: Reverse Engineering Enlightenment Part 2/**
-
-**Source:** https://www.meaningcrisis.co/ep-37-awakening-from-the-meaning-crisis-reverse-engineeringenlightenment-part-2/
-
 Welcome back to Awakening from the Meaning Crisis. So last time we were taking a look at a proposal that we could now understand the sacred that which causes the experience of sacredness in terms of a transjective inexhaustibility and kind of deep Anagoge between the no-thingness of your ever evolving Relevance Realization and it's mysterious depths and the no-thingness of reality that is ultimately combinatorially explosive and dynamically changing itself.
 
 And that we can acknowledge the important role of the symbolic. The way it helps us to engage and activate the primordial aspects of Religio and go through processes of re-exaptation causing new emergent abilities so that as we are opening up the world, we are also opening up ourselves in response to that. But I cautioned against confusing indispensability – your own, or our collective, at times, indispensability with any kind of claims of metaphysical necessity or an absolute essence. And that was part of the larger critique that relevance can't have an absolute essence. And therefore we shouldn't think of the sacred ultimately as a supernaturally endowed, absolutely essential form of relevance.

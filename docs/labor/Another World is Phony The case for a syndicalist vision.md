@@ -10,14 +10,6 @@ tags:
   - workers
 ---
 
-## **Another World is Phony? The case for a syndicalist vision**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/another-world-phony-case-syndicalist-vision
-
-**Tags:** Rasmus Hästbacka, syndicalism, anarcho-syndicalism, SAC, Sweden, Federalism
-
 The first in a series of three essays about syndicalistvision, strategyandmovement building. First published in the summer of 2022 on the website of US labor magazineASR. In a fourth bonus article, the author relates these themes to makingplans for action on the job. The fourth article was first published on the US union site Organizing Work. A previous version of the essay below was published in the Swedish union paper Arbetaren. The author is a member of the Swedish unionSAC.
 
 Photos of Swedish syndicalists above: Food production workers (2019), Lumberjacks (1975), University employees (2019), Construction worker (1976).

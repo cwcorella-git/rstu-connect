@@ -10,14 +10,6 @@ tags:
   - donald
 ---
 
-## **To kick ICE out requires action, to keep them out requires organization**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/kick-ice-out-requires-action-keep-them-out-requires-organization
-
-**Tags:** Black Rose Anarchist Federation, Immigration and Customs Enforcement, migration, Donald
-
 ## Trump, anarchism
 
 This past weekend in Los Angeles provocative ICE raids sparked fierce protest as community members turned out to disrupt the kidnapping and terrorizing of their neighbors and loved ones. As the situation in LA appears to be deepening with Trump's mobilization of the National Guard and protests expanding to other cities, our California Bay Area local, along with members in Los Angeles and San Diego, have drafted this statement on what the moment calls for.

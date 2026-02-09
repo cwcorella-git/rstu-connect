@@ -8,8 +8,6 @@ tags:
   - theory
 ---
 
-# Fragments of an Anarchist Anthropology - Fragments of an Anarchist Anthropology.pdf
-
 Fragments of an Anarchist Anthropology David Graeber
           PRICKLY PARADIGM PRESS
                  CHICAGO

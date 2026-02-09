@@ -8,13 +8,7 @@ tags:
   - environment
 ---
 
-## **IWW WISERA Environmental Committee and NARA IWW EUC Reading Group 1: Judi Bari, "Revolutionary Ecology"**
-
-## **Date:** Wed, 01/18/2023 - 12:22
-
 ## **Source:** https://ecology.iww.org/node/5296
-
-**Tags:** Judi Bari, revolutionary ecology, green syndicalism, ecosocialism, green-anarchism, Karl Marx,
 
 Marxism, biocentrism, Earth First! - IWW Local 1, green unionism
 

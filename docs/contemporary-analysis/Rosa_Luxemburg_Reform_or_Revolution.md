@@ -9,8 +9,6 @@ tags:
   - revolution
 ---
 
-# Reform or Revolution? Rosa Luxemburg
-
 ## ![](_page_0_Picture_1.jpeg)
 
 ## ![](_page_2_Picture_0.jpeg)

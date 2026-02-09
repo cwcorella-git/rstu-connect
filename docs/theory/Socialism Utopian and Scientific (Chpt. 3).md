@@ -8,8 +8,6 @@ tags:
 
 #### [marxists.org](https://www.marxists.org/archive/marx/works/1880/soc-utop/ch03.htm)
 
-# Utopian and Scientific (Chpt. 3)
-
 ## Frederick Engels
 
 47-59 minutes

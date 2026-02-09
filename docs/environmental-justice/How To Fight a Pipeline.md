@@ -9,13 +9,7 @@ tags:
   - climate
 ---
 
-## **How To Fight a Pipeline**
-
-## **Date:** Thu, 02/18/2016 - 22:08
-
 ## **Source:** https://ecology.iww.org/node/1502
-
-**Tags:** Alex Lotorto, Industrial Workers of the World (IWW), Energy Justice Network, pipelines,
 
 Constitution Pipeline, fracking, Pennsylvania, green unionism
 

@@ -8,14 +8,6 @@ tags:
   - education
 ---
 
-## **Students, Activists, and Communists in Movement Politics**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/students-activists-and-communists-movement-politics
-
-**Tags:** education, schools, students, universities, Philippines, communism, Patricio N. Abinales
-
 An introduction to the history of student struggles in the Philippines and the communist and national democratic participation in student struggles.
 
 Comparatively speaking, Philippine student activism exhibits features comparable to that of Thailand. Like their Thai counterparts, Filipino activists have seen the struggles for student rights and welfare or campus democratization as battles not simply for the benefit of the student masses. They have also regarded these struggles as components of a quest for radical democracy or as part of a project to propel one to national office. This outlook has strong historical foundations: student leaders from all shades of the political spectrum regard themselves as legatees of antistate movements whose roots go back to the 1860s, when young Filipinos demanded reforms from the Spanish colonial regime.1Student activism—particularly when it made an impact—was something that cannot be segregated from the larger narrative of state-versus-opposition relations. This is not to say that there were no school protests in pursuit of strictly student concerns. There were indeed student strikes over school-specific grievances, but the more historically decisive mass actions were protests over national issues (Santiago 1972).2

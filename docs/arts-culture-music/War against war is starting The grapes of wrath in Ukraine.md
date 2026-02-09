@@ -8,14 +8,6 @@ tags:
   - Ukraine
 ---
 
-## **War against war is starting? The grapes of wrath in Ukraine**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/war-against-war-starting-grapes-wrath-ukraine
-
-**Tags:** assembly.org.ua, Russia-Ukraine war, war, Ukraine, Russia, sabotage, strikes, wildcat strikes, prisons
-
 This yellow Niva has become in Ukraine a truly popular meme of resistance to state terror
 
 If you like the work of the authors of this rubric, please join thefundraisingto support it. A couple of cups of coffee in your country, even before the war, could be equivalent to a day's earnings of a worker in Ukraine. Let's finally cross the 5,000 mark! Many thanks everyone in advance!

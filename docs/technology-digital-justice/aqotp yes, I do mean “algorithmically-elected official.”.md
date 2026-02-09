@@ -7,8 +7,6 @@ tags:
   - digital rights
 ---
 
-## **aqotp: yes, I do mean "algorithmically-elected official."**
-
 | Date: 2025-07-12 |
 |-------------------------------------------------------------------------------------------------------------|
 | Source: https://www.threadings.io/aqotp-yes-i-do-mean-algorithmically-elected-official/|

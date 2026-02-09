@@ -7,13 +7,7 @@ tags:
   - peace
 ---
 
-## **Peace Off!**
-
-## **Date:** Unknown
-
 ## **Source:** https://libcom.org/article/peace
-
-**Tags:** Class War Federation, violence, United Kingdom, lifestylism
 
 Article from Class War issue 73 on pacifism, lifestylism and the 1990s anti-roads movement.
 

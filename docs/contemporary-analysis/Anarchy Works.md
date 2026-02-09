@@ -6,8 +6,6 @@ tags:
   - anarchism
 ---
 
-# **Peter Gelderloos**
-
 # **Anarchy Works**
 
 # **2010**

@@ -9,14 +9,6 @@ tags:
   - Seattle
 ---
 
-## **The Seattle general strike, 1919 - Jeremy Brecher**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/seattle-general-strike-1919-jeremy-brecher
-
-**Tags:** Jeremy Brecher, Industrial Workers of the World (IWW), United States, strikes, general strikes,
-
 ## docks, workers control, Seattle, restaurants, AFL
 
 Jeremy Brecher's historical account of the general strike and takeover of the city by workers in Seattle in 1919.

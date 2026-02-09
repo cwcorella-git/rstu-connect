@@ -10,14 +10,6 @@ tags:
   - brazil
 ---
 
-## **FOB unanimously agree to ICL membership!**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/fob-unanimously-agree-icl-membership
-
-**Tags:** International Confederation of Labour, FOB (Brazil), anarcho-syndicalism, syndicalism, Brazil
-
 A brief article announcing that the Federação das Organizações Sindicalistas Revolucionárias do Brasil (FOB) has affiliated with the revolutionary syndicalist/anarcho-syndicalist International Confederation of Labor.
 
 What a best way to start a new year than welcoming a new member to our expanding family of revolutionaries and working-class activists! As such, we are happy and proud to learn that the latest national congress of FOB (Federação das Organizações Sindicalistas Revolucionárias do Brasil, Federation of Syndicalist Revolutionary Organisations of Brazil) have unanimously voted in favour of requesting formal membership to our international. Full details can be found here (in

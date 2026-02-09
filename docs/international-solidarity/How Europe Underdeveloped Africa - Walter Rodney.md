@@ -12,8 +12,6 @@ tags:
 
 ## ![](_page_1_Picture_0.jpeg)
 
-# how europe underdeveloped AFRICA
-
 How Europe Underdeveloped Africa Copyright © 1972 by Walter Rodney Published 2011 by Black Classic Press.
 
 All Rights Reserved. No part of this publication may be reproduced in whole or in part, stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, recording, or otherwise, without the written permission of the publisher. For information regarding permission, please send an email to:

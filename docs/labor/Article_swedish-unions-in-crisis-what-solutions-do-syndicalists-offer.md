@@ -8,9 +8,6 @@ tags:
   - Sweden
 ---
 
-# Swedish Unions in Crisis What Solutions Do Syndicalists Offer
-
-Swedish Unions in Crisis – What Solutions Do Syndicalists Offer? Date: Unknown Source: https://libcom.org/article/swedish-unions-crisis-what-solutions-do-syndicalists-offer Tags: Rasmus Hästbacka, syndicalism, anarcho-syndicalism, SAC, Sweden
 Article from the websitesZnetworkandCounterpunch. Another version of the article was first published inSwedish. Both versions published in 2024.
 Illustration above by Fanny Hökby.
 Swedish unions are governed from the top down and are therefore bad at serving workers' interests. So writes Rasmus Hästbacka of the syndicalist union SAC. Based on his new book, he suggests how worker-led unions can be rebuilt.

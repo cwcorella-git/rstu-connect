@@ -10,8 +10,6 @@ tags:
 
 ## **James Herod**
 
-## **The Conference on Money**
-
 ## **A Response From an Onlooker**
 
 (Comments on *The Nature, Origins, and Role of Money*, a conference held on March 31 and April 1, 2004 at the University of Missouri at Kansas City, which was organized by the Center for Full Employment and Price Stability, a nonpartisan, nonprofit policy institute at the University. This is a memorandum addressed to the staff, faculty, and guest speakers at the Center's conference.)

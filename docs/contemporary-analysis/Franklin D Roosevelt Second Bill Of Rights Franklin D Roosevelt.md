@@ -9,8 +9,6 @@ tags:
 
 #### [aboutfranklindroosevelt.com](https://www.aboutfranklindroosevelt.com/the-2nd-bill-of-rights/486/)
 
-# Franklin D Roosevelt Second Bill Of Rights
-
 ## Patricia Truslow, Contributor
 
 5-7 minutes

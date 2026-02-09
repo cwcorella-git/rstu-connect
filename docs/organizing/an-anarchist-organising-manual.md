@@ -4,8 +4,6 @@ author: "Zabalaza"
 date: 2001
 ---
 
-# An Anarchist Organising Manual
-
 This pamphlet is a collection of essays taken from various sources. The first is taken from the War Resisters League and is available on the Struggle (struggle.ws) website. The following three are taken from the organising section of the Workers Solidarity Movements website. And lastly, the fifth is taken from a book called Rules for Radicals by Saul Alinsky, pp. 126-140.
 
 > "I'm somewhat ambivalent [unsure] about Alinsky, and if you read his books, you'll see why I say that; but I can't deny that he was a successful organiser, and thus think that anarchists can benefit from some of his ideas."

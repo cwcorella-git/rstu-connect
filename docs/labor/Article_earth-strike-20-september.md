@@ -10,9 +10,7 @@ tags:
   - workers
 ---
 
-# Earth Strike 20 September
-
-Earth Strike – 20 September Date: Wed, 08/14/2019 - 17:33 Source: https://ecology.iww.org/node/3331 Tags: green bans, Earth Strike, Climate Strike, Industrial Workers of the World (IWW), IWW Environmental Unionism Caucus, green syndicalism, green unionism, Extinction Rebellion (XR),
+Earth Strike, Climate Strike, Industrial Workers of the World (IWW), IWW Environmental Unionism Caucus, green syndicalism, green unionism, Extinction Rebellion (XR),
 ## Fridays for the Future
 
 ## By EUC Dan -

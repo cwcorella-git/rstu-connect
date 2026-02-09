@@ -8,14 +8,6 @@ tags:
   - alternatives
 ---
 
-## **Does working from home weaken the working class? - Bluebirdbeta**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/does-working-home-weaken-working-class-bluebirdbeta
-
-**Tags:** workplace activity, Industrial Workers of the World (IWW), United Kingdom, information technology (IT), New Syndicalist, gig economy, Bluebirdbeta, working from home
-
 An article about the challenges of workplace organising when working from home, first published by New Syndicalist. This piece came about from conversations withinIWW Cymru, and we hope that it kicks off discussion in the wider labour movement.
 
 A quick note, while many forms of labour take place at home, such as unemployed and unpaid caring, in this piece "work from home" is used to refer to employed and "self-employed" workers who carry out computer-based work, or former office work.

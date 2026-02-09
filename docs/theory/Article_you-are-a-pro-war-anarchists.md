@@ -8,9 +8,7 @@ tags:
   - anti-war
 ---
 
-# You Are a Pro War Anarchists
-
-“You are a pro-war anarchists.” Date: Unknown Source: https://libcom.org/article/you-are-pro-war-anarchists Tags: Solidarity Collectives, anarchism, anti-fascism, anti-imperialism, Anti-colonialism,
+Collectives, anarchism, anti-fascism, anti-imperialism, Anti-colonialism,
 ## Russia-Ukraine war, Ukraine
 
 We’ve heard this so many times. So many times we’ve had to explain that the war is a horrible tragedy for everyone living in Ukraine, and more than anything we want to achieve peace. Sustainable and fair peace. But here’s the key reason that prevents that: the Russian Federation, which continues to capture Ukrainian territories and wipe entire cities off the face of the earth. And today, the whole world can witness that.

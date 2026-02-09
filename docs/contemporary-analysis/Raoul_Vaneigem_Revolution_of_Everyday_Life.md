@@ -9,8 +9,6 @@ tags:
   - revolution
 ---
 
-## **The Revolution of Everyday Life**
-
 ## Raoul Vaneigem
 
 ## 1963–1965

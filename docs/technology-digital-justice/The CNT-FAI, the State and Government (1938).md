@@ -8,8 +8,6 @@ tags:
   - digital rights
 ---
 
-## **Albert Jensen**
-
 ## **The CNT-FAI, the State and Government (1938)**
 
 ## **2005 (1938)**

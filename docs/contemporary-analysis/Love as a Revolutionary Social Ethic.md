@@ -8,8 +8,6 @@ tags:
   - revolution
 ---
 
-# **Punch Up \* Kick Down Distro Love as a Revolutionary Social Ethic**
-
 # **2024**
 
 Love in the Time of Capitalist Hegemony Beyond Romance Radical Compassion & Universal Liberation Love & Grief & Crisis Love Wins Addendum: In Defense of Polyamory

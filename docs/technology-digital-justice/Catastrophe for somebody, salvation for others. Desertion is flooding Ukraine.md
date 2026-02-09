@@ -9,14 +9,6 @@ tags:
   - digital rights
 ---
 
-## **Catastrophe for somebody, salvation for others. Desertion is flooding Ukraine**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/catastrophe-somebody-salvation-others-desertion-flooding-ukraine
-
-**Tags:** assembly.org.ua, Russia-Ukraine war, war, Ukraine, Russia, sabotage, police, prisons
-
 "Imagine: the rulers start a war, and no one goes to it!" (on the poster)
 
 Donations to support the authors are possible at thislink. Many thanks everyone for such a great contribution!

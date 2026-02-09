@@ -11,14 +11,6 @@ tags:
   - monty
 ---
 
-## **Montague "Monty" Miller - 1831 -1920**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/montague-monty-miller-1831-1920
-
-**Tags:** anarchism, Industrial Workers of the World (IWW), World War I, Australia, biographies, Monty
-
 ## Miller, Joe Toscano
 
 Biographical information on the life and death of Montague "Monty" Miller, Australian anarchist and IWW member.

@@ -14,8 +14,6 @@ tags:
 source: "Private Equity Stakeholder Project"
 ---
 
-# Blackstone Comes to Collect
-
 *How America's Largest Landlord and Wall Street's Highest Paid CEO Are Jacking Up Rents and Ramping Up Evictions*
 
 This report from the Private Equity Stakeholder Project (PESP) and Alliance of Californians for Community Empowerment (ACCE) documents Blackstone's aggressive rental practices following the pandemic, focusing on San Diego County.

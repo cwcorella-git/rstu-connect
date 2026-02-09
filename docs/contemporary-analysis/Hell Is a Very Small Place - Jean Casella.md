@@ -9,8 +9,6 @@ tags:
 
 OICES from SOLITARY CONFINEMENT Jean Casella James Ridge Word Edited Sarah Shourd
 
-# Hell Is a Very Small Place
-
 #### VOICES FROM SOLITARY CONFINEMENT
 
 Edited by Jean Casella, James Ridgeway, and Sarah Shourd

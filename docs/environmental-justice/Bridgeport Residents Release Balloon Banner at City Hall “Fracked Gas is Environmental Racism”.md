@@ -10,13 +10,7 @@ tags:
   - fossil fuels
 ---
 
-## **Bridgeport Residents Release Balloon Banner at City Hall: "Fracked Gas is Environmental Racism"**
-
-## **Date:** Mon, 02/08/2016 - 20:36
-
 ## **Source:** https://ecology.iww.org/node/1492
-
-**Tags:** environmental racism, fracking, green unionism, intersectionality, Dragonfly Collective
 
 ## (Capitalism versus the Climate)
 

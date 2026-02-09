@@ -11,14 +11,6 @@ tags:
   - police
 ---
 
-## **Mumia Abu-Jamal on "outside agitators" and the meaning of Ferguson**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/mumia-abu-jamal-outside-agitators-and-meaning-ferguson
-
-**Tags:** United States, 2014 Ferguson unrest, Black Lives Matter movement, Mumia Abu-Jamal, police
-
 A selection of writings by Mumia Abu-Jamal on the Ferguson uprising of August 2014 and the accusation that "outside agitators" were behind the unrest. This collection was first published by the San Francisco Bay View.
 
 Written Aug. 31, 2014–Before recent days, who among us had ever heard of Ferguson, Missouri?

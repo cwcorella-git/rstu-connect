@@ -8,8 +8,6 @@ tags:
   - Kropotkin
 ---
 
-# **Mutual Aid: A Factor of Evolution By Peter Kropotkin**
-
 ## **Converted to PDF by Stephen De Meulenaere**
 
 **Kropotkin, P. (1972a), Mutual Aid: A Factor of Evolution, New York, New York University Press.**

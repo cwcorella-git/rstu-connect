@@ -7,16 +7,6 @@ tags:
   - Los Angeles
 ---
 
-## **Innocent on Death Row: An interview with Bomani Shakur/Keith La Mar**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/innocent-death-row-interview-bomani-shakurkeith-lamar
-
-**Tags:** racism, United States, prisons, Ohio, legal, Lucasville, Black Lives Matter movement, Bomani
-
-## Shakur
-
 An interview with Lucasville Uprising prisoner Bomani Shakur/Keith La Mar, carried out by JR Valrey for Block Report Radio. This transcript was first published by the San Francisco Bay View.
 
 Today our guest on Block Report Radio is Bomani, formally known as Keith La Mar. He is an Ohio death row political prisoner and survivor of the Lucasville Rebellion 23 years ago. He will talk to us about the history of that rebellion, his recent hunger strike, the state of Ohio planning to set his execution date and more.

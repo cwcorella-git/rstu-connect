@@ -8,8 +8,6 @@ tags:
 
 [naacp.org](https://naacp.org/find-resources/history-explained/origins-modern-day-policing)
 
-# **The Origins of Modern Day Policing**
-
 6–7 minutes
 
 ## ![](_page_0_Picture_5.jpeg)

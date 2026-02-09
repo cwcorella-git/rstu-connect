@@ -8,15 +8,11 @@ tags:
   - New York
 ---
 
-# HOOD FEMINISM
-
 ## NOTES FROM THE WOMEN THAT
 
 ## A MOVEMENT FORGOT
 
 ## MIKKI KENDALL
-
-# HOOD FEMINISM
 
 Notes from the Women
 That a Movement

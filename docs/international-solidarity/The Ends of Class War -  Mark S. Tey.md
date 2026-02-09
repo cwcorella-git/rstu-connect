@@ -8,14 +8,6 @@ tags:
   - class
 ---
 
-## **The Ends of Class War - Mark S. Tey**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/ends-class-war-mark-s-tey
-
-**Tags:** Class War Federation, United Kingdom, Anarchist Communist Federation
-
 A review article about the "final" issue 73 of Class War and related strands of the UK Anarchist movement in the late 1990s.
 
 Originally appeared in issue 4 of Transgressions: A Journal of Urban Exploration(Newcastle, 1998)

@@ -10,13 +10,7 @@ tags:
   - iww-general
 ---
 
-## **Refusing the Fascist Future: An Interview with Shane Burley**
-
-## **Date:** Wed, 12/20/2017 - 16:35
-
 ## **Source:** https://ecology.iww.org/node/2697
-
-**Tags:** Alt Right, anti-fascism, Shane Burley, Industrial Workers of the World (IWW), IWW General
 
 Defense Committee (GDC), Redneck Revolt, green syndicalism
 

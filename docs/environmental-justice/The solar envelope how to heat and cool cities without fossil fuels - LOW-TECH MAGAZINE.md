@@ -9,8 +9,6 @@ tags:
 
 ### [lowtechmagazine.com](https://www.lowtechmagazine.com/2012/03/solar-oriented-cities-1-the-solar-envelope.html)
 
-# The solar envelope: how to heat and cool cities without fossil fuels
-
 14-18 minutes
 
 Passive solar design requires the knowledge to design and orientate buildings so that they can be heated by the sun. Coupled with other low-tech solutions such as [thermal underwear,](https://www.lowtechmagazine.com/2011/02/body-insulation-thermal-underwear.html) [heated](https://www.lowtechmagazine.com/2013/11/heat-your-clothes-not-your-house.html) [clothing](https://www.lowtechmagazine.com/2013/11/heat-your-clothes-not-your-house.html) and [tile stoves,](https://www.lowtechmagazine.com/2008/12/tile-stoves.html) passive solar design could all but eliminate the use of fossil fuels and biomass for heating buildings throughout large parts of the world. Indirectly, a passive solar house can also cancel the energy requirements for cooling and ventilation (passive cooling), and for lighting during the day. Of course, passive solar buildings can be outfitted with solar water heaters and PV solar panels, further reducing the use of unsustainable energy resources.

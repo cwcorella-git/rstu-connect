@@ -14,13 +14,7 @@ tags:
   - greenwashing
 ---
 
-## **COP26: We Only Want the Earth**
-
-## **Date:** Sun, 11/07/2021 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/4651
-
-**Tags:** Industrial Workers of the World (IWW), IWW Environmental Unionism Caucus, IWW WISERA, United Kingdom (UK), Ireland, green syndicalism, green unionism, COP26, green capitalism, greenwashing
 
 ## By IWW Ireland -
 

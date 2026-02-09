@@ -11,8 +11,6 @@ tags:
 
 ## ![](_page_0_Picture_0.jpeg)
 
-# **Lumad**
-
 The **Lumad** are a group of [Austronesian](https://en.wikipedia.org/wiki/Austronesian_peoples) [indigenous peoples](https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Philippines) in the southern [Philippines](https://en.wikipedia.org/wiki/Philippines). It is a [Cebuano](https://en.wikipedia.org/wiki/Cebuano_language) term meaning 'native' or 'indigenous'. The term is short for **Katawhang Lumad** (lit. 'indigenous people'), the [autonym](https://en.wikipedia.org/wiki/Autonym_(semantics)) officially adopted by the delegates of the Lumad Mindanao Peoples Federation (LMPF) founding assembly on 26 June 1986 at the Guadalupe Formation Center, Balindog, [Kidapawan,](https://en.wikipedia.org/wiki/Kidapawan) [Cotabato.](https://en.wikipedia.org/wiki/Cotabato) [\[1\]](#page-8-0) Usage of the term was accepted in Philippine jurisprudence when [President](https://en.wikipedia.org/wiki/President_of_the_Philippines) [Corazon Aquino](https://en.wikipedia.org/wiki/Corazon_Aquino) signed into law [Republic Act 6734](https://en.wikipedia.org/wiki/Autonomous_Region_in_Muslim_Mindanao), where the word was used in Art. XIII sec. 8(2) to distinguish Lumad ethnic communities from the islands of [Mindanao.](https://en.wikipedia.org/wiki/Mindanao) [\[2\]](#page-8-1)
 
 Mindanao is home to a substantial part of the country's indigenous population, comprising around 15% of the Philippine population.[\[3\]](#page-8-2)

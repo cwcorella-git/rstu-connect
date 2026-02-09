@@ -10,8 +10,6 @@ tags:
 
 ## [pcwrede.com](https://pcwrede.com/pcw-wp/endings-are-beginnings-and-vice-versa/)
 
-## **Endings are Beginnings (and Vice Versa) – Patricia C. Wrede**
-
 6–7 minutes
 
 ## ![](_page_0_Picture_5.jpeg)

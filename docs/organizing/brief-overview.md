@@ -7,7 +7,7 @@ tags:
   - organizing
   - direct-action
 ---
-# brief-overview
+
 What is a Tenants
 Talk to your                      I don't personally have any
 pressing issues with my

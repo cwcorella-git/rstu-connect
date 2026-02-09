@@ -8,17 +8,9 @@ tags:
   - labor
 ---
 
-## **On cyber syndicalism: From Hacktivism to Workers' Control**
-
-## **Date:** Sat, 01/09/2016 - 09:31
-
 ## **Source:** https://ecology.iww.org/node/1460
 
-**Tags:** Jeff Shantz, green syndicalism, movement politics
-
 ## By Jeff Shantz -
-
-## Workers Control
 
 ## , January 1, 2016
 

@@ -7,12 +7,6 @@ tags:
   - theory
 ---
 
-## **Branches of anarchism**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/branches-anarchism
-
 ## **Tags:** Agent of the International, anarchism
 
 This article seeks to provide an explanation of the three main branches or traditions of anarchism: individualist anarchism, mutualism, and socialist anarchism.

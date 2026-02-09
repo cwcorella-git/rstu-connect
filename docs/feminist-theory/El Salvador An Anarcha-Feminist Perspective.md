@@ -8,14 +8,6 @@ tags:
   - feminism
 ---
 
-## **El Salvador: An Anarcha-Feminist Perspective**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/el-salvador-anarcha-feminist-perspective
-
-**Tags:** anarchism, El Salvador, feminism, The Final Straw Radio, Agrupación Conciencia Anarquista, caribbean
-
 An interview with an anarcha-feminist organizer from El Salvador, conducted bythe Final Straw Radio Show. An audio version of this interview can be heard here.
 
 We are happy to present a conversation with an anarcha-feminist comrade, Elisa, in San Salvador, El Salvador. Elisa shares her perspectives on the neo-liberal regime of Nayib Bukele's GANA party which took the presidency last February, El Salvador's relation to the US, the former FMLN government, immigration and anarchist organizing. We generally only produce our weekly podcast and radio show in English but, thanks to community support in translation and transcription, we present this conversation in Spanish here. The full script follows in both English and Spanish as well. More information on the projects Elisa mentions can be found at Conciencia Anarquista. No Blogs. Org, the Libertarian Youth Communeandthe San Jacinto Kollective(Comuna Estudiantil Libertaria and Kolectivo San Jacinto).

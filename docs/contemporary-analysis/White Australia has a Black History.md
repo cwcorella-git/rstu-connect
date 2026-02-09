@@ -7,11 +7,7 @@ tags:
   - Australia
 ---
 
-## **White Australia has a Black History**
-
 | Date: Fri, 05/13/2016 - 16:24
-Source: https://ecology.iww.org/node/1640
-Tags: Australia, environmental racism, combating racism |
 |---------------------------------------------------------------------------------------------------------------------------------------|
 | By Patricia Olive Corowa - |
 | IWW Environmental Unionism Caucus |

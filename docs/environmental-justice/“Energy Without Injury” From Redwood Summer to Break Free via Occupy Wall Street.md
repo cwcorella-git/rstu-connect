@@ -9,13 +9,7 @@ tags:
   - climate
 ---
 
-## **"Energy Without Injury": From Redwood Summer to Break Free via Occupy Wall Street**
-
-## **Date:** Thu, 05/26/2016 - 13:14
-
 ## **Source:** https://ecology.iww.org/node/1657
-
-**Tags:** green unionism, just transition, Breaking Free, Redwood Summer, Judi Bari, labor and
 
 ## environment, Occupy, refineries
 

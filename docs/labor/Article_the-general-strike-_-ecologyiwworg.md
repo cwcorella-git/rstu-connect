@@ -9,14 +9,8 @@ tags:
   - environment
 ---
 
-# The General Strike Ecologyiwworg
-
 The General Strike | ecology.iww.org about:reader?url=https%3A%2F%2Fecology.iww.org%...
 
-## ecology.iww.org
-
-## The General Strike |
-## ecology.iww.org
 ## 3–4 minutes
 
 ## By That Green Union Guy - IWW Eco Union Caucus, July 27,

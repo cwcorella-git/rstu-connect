@@ -7,7 +7,7 @@ tags:
   - organizing
   - direct-action
 ---
-# Palaces for the People_ How Social Infrast - Eric Klinenberg
+
 Praise for
 Palaces for the People
 “[A] sweeping work…[Eric Klinenberg] posits that a community’s resilience correlates strongly with the robustness of its social infrastructure.”

@@ -8,13 +8,7 @@ tags:
   - feminism
 ---
 
-## **Beyond Rhetoric – What Does the "Just Transition" Mean for DAPL?**
-
-## **Date:** Tue, 09/27/2016 - 16:12
-
 ## **Source:** https://ecology.iww.org/node/1821
-
-**Tags:** green unionism, yellow unionism, NoDAPL, trade unions, AFL-CIO, North America's Building Trades Unions (NABTU), International Brotherhood of Teamsters (IBT), Laborers' International Union of North America (LIUNA), National Nurses United, Communication Workers of America (CWA)
 
 ## By Emily Llyn Williams -
 

@@ -8,14 +8,6 @@ tags:
   - India
 ---
 
-## **Torment in Indiana Prisons: The Abuse, the Lawsuit, the Death of Phillip Littler**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/torment-indiana-prisons-abuse-lawsuit-death-phillip-littler
-
-**Tags:** United States, prisons, undefined, Kevin 'Rashid' Johnson
-
 Kevin 'Rashid' Johnson, currently held in the Indiana prison system, reports on a particularly brutal case of abuse.
 
 I want you to wrap your mind around this story if you will...or rather if you can.

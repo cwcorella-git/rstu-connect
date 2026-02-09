@@ -9,12 +9,6 @@ tags:
   - libcom
 ---
 
-## **Reforming Zeal: Jack Straw vs football fans**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/reforming-zeal-jack-straw-vs-football-fans**Tags:** Black Flag, 2000s, United Kingdom, football, police, Labour Party
-
 Black Flag article from 2001 on New Labour's proposals for draconian legislation aimed at football fans.
 
 In a recent interview with the Sunday Times, Jack Straw pondered whether he would be celebrated in history as as great a 'reforming' Home Secretary as Roy Jenkins.

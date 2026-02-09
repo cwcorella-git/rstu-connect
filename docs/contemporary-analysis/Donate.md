@@ -8,12 +8,6 @@ tags:
   - libcom
 ---
 
-## **Donate**
-
-## **Date:** Unknown
-
-## **Source:** https://libcom.org/article/donate
-
 This website is built and maintained purely by volunteers and costs are paid for out of our own pockets. If you like what you find here and want to see the project continue to grow please consider donating.
 
 The money you donate will be used to keep the site in working order (paying bandwidth costs etc.). As our traffic continues to grow, our hosting costs continue to grow so please do consider making a donation to enable us to continue our work. You can do so in the following ways:

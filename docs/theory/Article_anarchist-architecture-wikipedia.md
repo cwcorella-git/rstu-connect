@@ -8,8 +8,6 @@ tags:
   - theory
 ---
 
-# Anarchist Architecture Wikipedia
-
 Anarchist architecture - Wikipedia https://en.wikipedia.org/wiki/Anarchist_architecture
          Anarchist architecture
          Anarchist architecture, also known as anarchitecture, is a

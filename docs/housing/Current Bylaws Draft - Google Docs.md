@@ -9,7 +9,7 @@ tags:
   - rent
   - tenants
 ---
-# Current Bylaws Draft - Google Docs
+
 Reno-Sparks Tenants Union Constitution
 Mission Statement
 We are a tenant organization fighting for safe and secure housing for all in the Reno-Sparks

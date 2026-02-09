@@ -7,14 +7,6 @@ tags:
   - t-bone-slim
 ---
 
-## **Starving amidst too much - T-Bone Slim**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/starving-amidst-too-much-t-bone-slim
-
-**Tags:** T-Bone Slim, Industrial Workers of the World (IWW)
-
 Pamphlet from American Wobbly and humorist T-Bone Slim, put out in 1923, containing the texts 'Starving Amidst Too Much' (excerpts), 'Poets and Pearls' and 'Recipes for Health'.
 
 ## Poets and Pearls

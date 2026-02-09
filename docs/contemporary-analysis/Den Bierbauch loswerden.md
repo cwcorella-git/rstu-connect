@@ -9,14 +9,6 @@ tags:
   - deutsch
 ---
 
-## **Den Bierbauch loswerden**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/den-bierbauch-loswerden
-
-**Tags:** Daniel Bovart-Katz, Spuren der Solidarität, Deutsch, Industrial Workers of the World (IWW)
-
 Die Reise einer allgemeinen Ortsgruppe der IWW von einem Klub alter Herren zur produktiven gewerkschaftlichen Organisierung.
 
 Vor etwa 5 Jahren, nicht lange, nachdem ich der IWW beigetreten war, postete jemand eine Frage in einer der Unmengen inoffizieller IWW-Facebook-Gruppen – So im Stil von: "Welche Probleme hat eure Ortsgruppe?". Ein Mitglied unserer Ortsgruppe antwortete, dass wir alle männlich seien. Das stimmte zwar nicht ganz. Aber es war nahe genug an der Wahrheit, dass ein aktives Mitglied unserer Ortsgruppe den Fehler in gutem Glauben gemacht hatte. Es folgte eine Diskussion, aber es wurden nur wenige feuerfeste Lösungen vorgeschlagen. Ein Mitglied aus einer anderen Ortsgruppe meldete sich zu Wort und sagte: "Es ist schwer, den Bierbauch wieder loszuwerden, wenn man ihn einmal bekommen hat." Ungefähr vier Jahre später saß ich auf dem Treffen unserer Ortsgruppe und war der einzige Weißeund einer von insgesamt nur zwei Männern, die anwesend waren. Die Versammlung hatte mich auch nicht für die Beschlussfähigkeit gebraucht. Einige Monate später fanden in unserer Ortsgruppe Wahlen statt, bei denen von insgesamt elf Personen fünf verschiedene Frauen in offizielle Positionen gewählt wurden, darunter auch unsere Ortsgruppensekretärin, Finanzer\*in sowie die stellvertretende Finanzer\*in. Nachdem wir diese Fortschritte gemacht haben, lohnt es sich, darüber nachzudenken, was in der Entwicklung funktioniert hat und was nicht.

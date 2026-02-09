@@ -7,8 +7,6 @@ tags:
   - Bookchin
 ---
 
-# **Murray Bookchin**
-
 # **Re-enchanting Humanity**
 
 # **A Defense of the Human Spirit Against Antihumanism, Misanthropy, Mysticism, and Primitivism**

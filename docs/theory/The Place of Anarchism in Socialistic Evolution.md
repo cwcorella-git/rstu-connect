@@ -9,8 +9,6 @@ tags:
 
 ## Pëtr Kropotkin
 
-# The Place of Anarchism in Socialistic Evolution
-
 #### 1884
 
 ## Part 1

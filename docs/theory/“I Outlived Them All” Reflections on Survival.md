@@ -7,14 +7,6 @@ tags:
   - theory
 ---
 
-## **"I Outlived Them All": Reflections on Survival**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/i-outlived-them-all-reflections-survival
-
-**Tags:** Tana Ganeva, anarchism, Bulgaria, Tsvetana Dhermanova, state socialism
-
 Article by Tana Ganeva about the life and experiences of 93 year old Bulgarian anarchist, Tsvetana Dhermanova.
 
 On a scorching day in mid-August, I drove to Leskovets, Bulgaria, a small mountain village 50 miles from Sofia, to meet with 93-year-old Tsvetana Dzhermanova, the last woman survivor of the brutal and (officially nonexistent) forced-labor camps of the 1940s and 1950s. We spoke in her childhood home—the same spot where more than 70 years earlier, she was dragged away by police for having anarchist literature.

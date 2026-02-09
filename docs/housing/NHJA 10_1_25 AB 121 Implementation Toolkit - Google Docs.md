@@ -9,8 +9,6 @@ tags:
 
 ## ![](_page_0_Picture_0.jpeg)
 
-# **NHJA NEW Protections for Tenants!**
-
 **AB 121: Fee Transparency Implementation Toolkit**
 
 #### **Overview**

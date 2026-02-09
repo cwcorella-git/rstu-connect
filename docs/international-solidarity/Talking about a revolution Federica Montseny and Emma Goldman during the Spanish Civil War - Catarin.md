@@ -9,14 +9,6 @@ tags:
   - Spain
 ---
 
-## **Talking about a revolution: Federica Montseny and Emma Goldman during the Spanish Civil War - Catarina von Wedemeyer**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/talking-about-revolution-federica-montseny-and-emma-goldman-during-spanish-civil-war
-
-**Tags:** Catarina von Wedemeyer, Federica Montseny, Emma Goldman, anarchism, Spanish civil war, Confederación Nacional del Trabajo (CNT), anarcho-syndicalism
-
 A chapter from Untold Stories of the Spanish Civil War, Catarina von Wedemeyer's "Talking about a revolution: Federica Montseny and Emma Goldman during the Spanish Civil War" compares the two anarchists in relation to the Spanish Civil War.
 
 For the anarchists, the outbreak of the Spanish Civil War signifed the long-awaited realization of a worldwide revolution. In this regard, the Russian-Lithuanian-American-English anarchist and activist Emma Goldman (1869–1940) and Spanish anarchist and politician Federica Montseny (1905–94) agreed. The story of their intra-anarchist controversy, however, is yet to be told. The two comrades had been in touch ever since Max Nettlau introduced them during Goldman's frst trip to Spain (December 1928–January 1929), but they disagreed on too many points to establish a friendship. One disagreement was the ideological impossibility of political collaboration: Goldman judged Montseny for serving as Minister of Health in the Republican government (November 1936–May 1937), while Montseny condemned Goldman for being too detached from the reality of the Spanish Civil War.

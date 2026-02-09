@@ -8,8 +8,6 @@ tags:
   - Kropotkin
 ---
 
-# **Anarchist Communism: Its Basis and Principles**
-
 ## Contents
 
 | Ι | | • | • |

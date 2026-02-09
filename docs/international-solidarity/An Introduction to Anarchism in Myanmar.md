@@ -8,12 +8,6 @@ tags:
   - theory
 ---
 
-## **An Introduction to Anarchism in Myanmar**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/introduction-anarchism-myanmar
-
 ## **Tags:** Hein Htet Kyaw, Myanmar, anarchism
 
 In Myanmar, anarchism was a catch-all term used by communists and leftists to disparage others until the 2000s. The Communist Party of Burma murdered their Bengali founder, comrade Hamendrnath Goshal (Thakin Ba Tin), and other members of the politburo, using ""anarchists" as a slur and racist slurs such as "Kalar" in the process. Comrade Hamendrnath Goshal was, in a technical sense, supporting the "Mass Strike" method of orthodox Marxism over the Maoist guerilla strategy of the CPB. Ironically, that explains an obvious fact that the leadership of CPB in 1960s didn't even know the differences between "Mass Strike", "anarchism", and "Maoist People's war".

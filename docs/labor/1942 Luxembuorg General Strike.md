@@ -8,14 +8,6 @@ tags:
   - strikes
 ---
 
-## **1942: Luxembuorg General Strike**
-
-**Date:** Unknown
-
-**Source:** https://libcom.org/article/1942-luxembuorg-general-strike
-
-**Tags:** manufacturing and materials, general strikes, postal service, steel industry, metals, WWII
-
 resistance, Luxembourg, Zein Nakhoda
 
 Luxembourgers general strike against Nazi occupation, 1942

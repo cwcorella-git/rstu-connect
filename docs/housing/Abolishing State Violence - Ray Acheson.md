@@ -13,17 +13,9 @@ tags:
 
 ## A WORLD BEYOND BOMBS, BORDERS, AND CAGES
 
-# RAY ACHESON
-
-# ABOLISHING STATE VIOLENCE
-
 ## A WORLD BEYOND BOMBS, BORDERS, AND CAGES
 
-# RAY ACHESON
-
 ## ![](_page_3_Picture_0.jpeg)
-
-# Abolishing State Violence
 
 # *A World Beyond Bombs, Borders, and Cages*
 

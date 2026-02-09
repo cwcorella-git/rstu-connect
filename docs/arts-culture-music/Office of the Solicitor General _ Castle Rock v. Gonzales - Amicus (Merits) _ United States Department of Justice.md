@@ -8,10 +8,6 @@ tags:
   - culture
 ---
 
-#### [justice.gov](https://www.justice.gov/osg/brief/castle-rock-v-gonzales-amicus-merits)
-
-# **Castle Rock v. Gonzales - Amicus (Merits)**
-
 66–84 minutes
 
 ### **Type**

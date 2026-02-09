@@ -9,13 +9,7 @@ tags:
   - workers
 ---
 
-## **Bonzo goes to Oslo: Christian fundamentalists and the far-right strike a new pose**
-
-## **Date:** Unknown
-
 ## **Source:**
-**Tags:** feminism, gender, conspiracy theories, Third Position, antisemitism, transgender, LGBTQ+ (Lesbian Gay Bi Trans Queer +)
-
 A look at recent attempts by religious fundamentalist reactionaries and conspiracy theorists to build coalitions with "gender critical" feminists.
 
 Over the last few years, antifascists have repeatedly warned of the danger of a "red-brown convergence", where forces on the far-right attempt to spread their message and gain legitimacy by forging tactical alliances with parts of the left.

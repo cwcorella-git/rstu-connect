@@ -12,14 +12,6 @@ tags:
   - greece-against
 ---
 
-## **Greek public broadcasting shutdown**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/greek-public-broadcasting-shutdown
-
-**Tags:** strikes, general strikes, Greece, occupations, job losses, television (tv), radio, Greece against
-
 ## austerity, ERT
 
 The surprise closure of the public broadcaster ERT provokes anger and a general strike as thousands are fired.

@@ -8,8 +8,6 @@ tags:
 
 ## ![](_page_0_Picture_0.jpeg)
 
-# **Internet Histories**
-
 ## ![](_page_0_Picture_2.jpeg)
 
 ## **Digital Technology, Culture and Society**

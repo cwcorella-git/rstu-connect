@@ -10,8 +10,6 @@ tags:
 
 ## ![](_page_0_Figure_0.jpeg)
 
-# ENDING RAPE CULTURE ACTIVITY ZINE
-
 ## ![](_page_0_Picture_2.jpeg)
 
 ## ![](_page_0_Picture_3.jpeg)

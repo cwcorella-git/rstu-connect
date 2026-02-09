@@ -9,8 +9,6 @@ tags:
 
 # **FC**
 
-# **Industrial Society and Its Future**
-
 # **1995**
 
 **Introduction The Psychology of Modern Leftism Feelings of Inferiority Oversocialization The Power Process Surrogate Activities Autonomy Sources of Social Problems Disruption of the Power Process in Modern Society How Some People Adjust The Motives of Scientists The Nature of Freedom Some Principles of History Industrial-Technological Society Cannot Be Reformed Restriction of Freedom is Unavoidable in Industrial Society The "Bad" Parts of Technology Cannot Be Separated from the "Good" Parts Technology is a More Powerful Social Force than the Aspiration for Freedom Simpler Social Problems Have Proved Intractable Revolution is Easier than Reform Control of Human Behavior Human Race at a Crossroads**

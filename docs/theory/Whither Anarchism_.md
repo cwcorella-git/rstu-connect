@@ -8,8 +8,6 @@ tags:
   - Bookchin
 ---
 
-# **Murray Bookchin Whither Anarchism? A Reply to Recent Anarchist Critics 1998**
-
 **Sorting Out the Issues The Long, Dark Road Back Civilization and Progress Technophobia Primitivism Reason and Irrationalism The "Dialectics" of Distortion David Watson, One Year Later The World According to Clark/Cafard The Future of Anarchism**
 
 Liberty without socialism is privilege and injustice. Socialism without liberty is slavery and brutality.

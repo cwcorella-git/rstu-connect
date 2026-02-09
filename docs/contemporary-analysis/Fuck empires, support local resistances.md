@@ -11,14 +11,6 @@ tags:
   - ukraine
 ---
 
-## **Fuck empires, support local resistances.**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/fuck-empires-support-local-resistances
-
-**Tags:** Solidarity Collectives, anarchism, anti-fascism, anti-imperialism, Ukraine
-
 The Solidarity Collectives call on you to fight for mutual aid against imperialist and reactionary state or para-state policies. (design of picture with trump from ecoplatform)
 
 Today, we see the US administration implementing far-right policies and using Ukraine as a bargaining chip in domestic games. The freezing of military aid is not an anti-war move or a promise of peace for Ukrainians but a threat by a wannabe dictator to use our country as a bargaining chip that plays into the hands of those who seek the defeat of the Ukrainian resistance.

@@ -16,8 +16,6 @@ tags:
 
 ## CLASSICS
 
-# TSANGNYÖN HERUKA
-
 ## The Life of Milarepa
 
 #### **Table of Contents**

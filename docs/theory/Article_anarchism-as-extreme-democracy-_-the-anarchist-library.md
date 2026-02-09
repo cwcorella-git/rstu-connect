@@ -8,14 +8,10 @@ tags:
   - democracy
 ---
 
-# Anarchism As Extreme Democracy the Anarchist Library
-
 Anarchism as Extreme Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## theanarchistlibrary.org
 
-## Anarchism as Extreme
-## Democracy
                Author: Wayne Price
 
 ## 27–34 minutes

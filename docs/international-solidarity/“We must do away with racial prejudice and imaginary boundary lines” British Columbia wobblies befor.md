@@ -9,14 +9,6 @@ tags:
   - United Kingdom
 ---
 
-## **"We must do away with racial prejudice and imaginary boundary lines": British Columbia wobblies before the First World War – Mark Leier**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/we-must-do-away-racial-prejudice-and-imaginary-boundary-lines-british-columbia-wobblies
-
-**Tags:** racism, United States, syndicalism, Canada, internationalism, Mark Leier, revolutionary unionism, Industrial Workers of the World (IWW)
-
 Labour historian Mark Leier's chapter from Wobblies of the World: A Global History of the IWW, in which he examines the transnationalism of the IWW, particularly across the US-Canadian border.
 
 Transnationalism may seem an odd concept to apply to people moving back and forth across the US-Canadian border. As settler-colonial states largely populated by immigrants from around the world, neither country is a "nation-state" in the sense of a community sharing a common language, heritage, economy, and culture, especially during the years of the Wobblies' greatest influence. "American" and "Canadian" were formal, legal labels signifying citizenship rather than a national identity, and citizenship did not erase privileges and stigmas of race and ethnicity. Furthermore, capital and workers flowed easily across the border, and the two countries developed in broadly similar economic and political ways, making national differences less obvious. As Samuel Gompers, longtime head of American Federation of Labor (AFL), put it, "when the Yankee capitalist" crossed the border to "oppress Canadian workingmen … it was but natural that the Yankee 'agitator' should follow."[1]

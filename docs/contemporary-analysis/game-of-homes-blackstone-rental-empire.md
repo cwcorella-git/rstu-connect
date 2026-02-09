@@ -14,8 +14,6 @@ tags:
 source: "In These Times"
 ---
 
-# Game of Homes: How Blackstone Became America's Biggest Slumlord
-
 *In These Times Investigation — March 31, 2014*
 
 This investigative report examines how Blackstone, the world's largest private equity firm, transformed from Wall Street investor to America's biggest single-family home landlord—and the devastating consequences for tenants.

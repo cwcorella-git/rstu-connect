@@ -11,8 +11,6 @@ tags:
 
 [nps.gov](https://www.nps.gov/blrv/learn/historyculture/200-labor-events.htm)
 
-# **200 Years of Labor History - Blackstone River Valley National Historical Park (U. S. National Park Service)**
-
 84–106 minutes
 
 # **"All that harms labor is treason to America." - Abraham Lincoln**

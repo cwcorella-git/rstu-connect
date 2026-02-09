@@ -6,8 +6,6 @@ tags:
   - anarchism
 ---
 
-## **Itō Noe**
-
 ## **The Facts of Anarchy**
 
 ## **1921**

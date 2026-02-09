@@ -7,12 +7,9 @@ tags:
   - liberty
 ---
 
-## **Lenin on 'freedom of love' as a bourgeois demand**
-
 | Date: Unknown |
 |------------------------------------------------------------------------------------------------------------------|
 | Source: https://libcom.org/article/lenin-freedom-love-bourgeois-demand
-Tags: Vladimir Lenin, feminism, gender |
 | |
 | Letters from Lenin to Inessa Armand Written on 1915 where he describes 'freedom of love' as |
 | a bourgeois demand. Furthermore freedom of love is described as 'freedom from the serious |

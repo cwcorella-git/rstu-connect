@@ -13,8 +13,6 @@ National Guardsman patrol the corner of Hazelwood and Linwood with weapons drawn
 
 The Tony Spina Collection, Walter P. Reuther Library, Archives of Labor and Urban Affairs, Wayne State University
 
-## Detroit's Rebellion and the Rise of the Neoliberal State: 1967: Dialectics of Insurgency By Jordan T. Camp
-
 THE FOLLOWING ACCOUNT of the Detroit uprising of 1967 is occasioned by the 50th anniversary of the events. It describes the suppression of the revolt as being symptomatic of a broader counterinsurgency against radical social movements in the United States. In turn, it considers how the repression accelerated punitive and authoritarian carceral policies. Through an examination of the cultural products of these social movements, it also suggests that alternative outcomes have been and continue to be possible. This account is excerpted from Incarcerating the Crisis.
 
 IN 1967 HUNDREDS of uprisings circulated across U. S. cities with unprecedented power and intensity. Almost always the provocation was racist police violence — ranging from arrests to beatings to shootings. The expanding geography of the 1960s urban insurrections amid growing resistance to the U. S. war in Vietnam focused increased attention on the material conditions of the poor, working class, and people of color both at home and abroad.

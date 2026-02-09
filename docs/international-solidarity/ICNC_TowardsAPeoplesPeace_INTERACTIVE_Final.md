@@ -8,8 +8,6 @@ tags:
   - peace
 ---
 
-# Towards a PEOPLE'S PEACE
-
 ## A Task, for Activists, Peacebuilders, and Affies
 
 Hardy Merriman Ola Ibrahim Gino Govender Hanyea Mohammed Véronique Dudouet Steward Muhindo Shreen Saroor

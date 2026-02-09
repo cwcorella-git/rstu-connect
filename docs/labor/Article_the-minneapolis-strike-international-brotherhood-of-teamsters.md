@@ -10,14 +10,9 @@ tags:
   - workers
 ---
 
-# The Minneapolis Strike International Brotherhood of Teamsters
-
 The Minneapolis Strike - International Brotherhood of ... about:reader?url=https%3A%2F%2Fteamster.org%2Fa...
 
 ## teamster.org
-
-## The Minneapolis Strike
-## International Brotherhood of Teamsters
 
 ## 8–10 minutes
 

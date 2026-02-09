@@ -11,8 +11,6 @@ tags:
 
 ## [barneslawllp.com](https://www.barneslawllp.com/blog/police-not-required-protect/)
 
-## **The Police are Not Required to Protect You — Barnes Law**
-
 ## Barnes LawLLP
 
 7–8 minutes

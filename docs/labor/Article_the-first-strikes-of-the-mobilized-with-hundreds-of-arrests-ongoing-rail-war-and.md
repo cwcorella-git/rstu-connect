@@ -10,9 +10,6 @@ tags:
   - workers
 ---
 
-# The First Strikes Of The Mobilized With Hundreds Of Arrests Ongoing Rail War And
-
-The first strikes of the mobilized with hundreds of arrests, ongoing rail war and other subversive news. Part 16 Date: Unknown Source: https://libcom.org/article/first-strikes-mobilized-hundreds-arrests-ongoing-rail-war-and-other-s ubversive-news-part-16 Tags: assembly.org.ua, Russia-Ukraine war, war, Ukraine, Russia, sabotage, strikes, prisons, Belarus
 Anti-invasion direct action througout Russia and its borderlands over last month. The front line on the border of Kharkiv, Lugansk and Belgorod regions is bursting at the seams due to the decay and demoralization of Russian recruits sent there en masse.
 Please support our online newsletter for continuous work on this international rubric or the campaign to restore local community of shelled Kharkiv neighbourhoods through joiningthis fundraising. A couple of cups of coffee in your country even before the war could be equivalent in price to the daily wage of a worker in Ukraine. Many thanks everyone in advance!
 A little more than a month passed between the beginning of open mobilization in Russia on September 21 and the first mass refusals of those drafted into the army to go into battle. There are already a ton of mass expressions of dissatisfaction among soldiers with the quality of provision, training and equipment, however in this review we will not talk about simple criticism of superiors, but only aboutcases of refusal to fight at all, covered in more detail on our own resource.

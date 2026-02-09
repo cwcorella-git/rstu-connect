@@ -6,12 +6,6 @@ tags:
   - anarchism
 ---
 
-## **Against the Logic of Submission Audio book - Audio Anarchy**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/against-logic-submission-audio-book-audio-anarchy**Tags:** sex and sexuality, feminism, audio, Wolfi Landstreicher, Audio Anarchy, video
-
 An audio book of Wolfi Landstreicher's essay Against the Logic of Submission. Created by the group Audio Anarchy.
 
 https://www.youtube.com/watch?v=Usp Uwg MnzrQ

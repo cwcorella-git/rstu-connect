@@ -8,13 +8,7 @@ tags:
   - climate
 ---
 
-## **News: Air District Commits to Studying Refinery Pollution Caps**
-
-## **Date:** Wed, 06/29/2016 - 18:46
-
 ## **Source:** https://ecology.iww.org/node/1700
-
-**Tags:** Bay Area Air Quality Management District (BAAQMD), Richmond, Communities for a Better Environment (CBE), Sunflower Alliance, Asian Pacific Environmental Network (APEN), USW Local 5, Chevron, refineries, health and safety, green unionism
 
 ## By Shoshana Wechsler -
 

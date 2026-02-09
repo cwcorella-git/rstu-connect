@@ -8,14 +8,6 @@ tags:
   - alternatives
 ---
 
-## **No Love for Deliveroo! A reflection on organising and mobilising in the "gig" economy.**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/no-love-deliveroo-reflection-organising-and-mobilising-gig-economy
-
-**Tags:** Industrial Workers of the World (IWW), distribution, United Kingdom, food service, restaurants,
-
 ## New Syndicalist, Deliveroo, gig economy
 
 A report from the New Syndicalist blog, discussing the recent Deliveroo riders' strike in Manchester.

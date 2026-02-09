@@ -8,10 +8,6 @@ tags:
   - current-events
 ---
 
-# **Getting Free**
-
-# *Getting Free*
-
 ### *Creating an Association of Democratic Autonomous Neighborhoods*
 
 ## By James Herod

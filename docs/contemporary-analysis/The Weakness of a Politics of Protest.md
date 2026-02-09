@@ -9,8 +9,6 @@ tags:
 
 ## James Herod
 
-# The Weakness of a Politics of Protest
-
 ### June 2000
 
 ## Expanded slightly November 2000 and January 2001

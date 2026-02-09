@@ -8,8 +8,6 @@ tags:
   - environment
 ---
 
-## **IWW WISERA Environmental Committee and NARA IWW EUC Reading Group 2: Notes from Hell**
-
 | Date: Mon, 02/20/2023 - 16:19 |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/5388|

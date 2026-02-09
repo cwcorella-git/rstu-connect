@@ -9,15 +9,7 @@ tags:
   - organizing
 ---
 
-## **About the organization of anarchists in Ukraine: point of view of a member of a local action collective**
-
-**Date:** Unknown
-
-**Source:** https://libcom.org/article/about-organization-anarchists-ukraine-point-view-member-local-actio
-
 n-collective
-
-**Tags:** Solidarity Collectives, Ukraine, anarchism, anti-fascism
 
 (This interview was originally published in Kapinatyöläinen magazine issue 61 in Finnish language. English translation was done later for Takku website)
 

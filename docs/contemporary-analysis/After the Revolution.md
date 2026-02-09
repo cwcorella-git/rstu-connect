@@ -10,8 +10,6 @@ tags:
 
 ## Anark
 
-# After the Revolution
-
 ## Nov. 11th, 2019
 
 Introduction Preface Goals Proposal Process Individual Workplace Community Municipality Region Collective Conclusion

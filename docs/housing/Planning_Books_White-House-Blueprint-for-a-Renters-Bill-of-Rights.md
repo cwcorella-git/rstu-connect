@@ -8,8 +8,6 @@ tags:
   - housing
 ---
 
-# White-House-Blueprint-for-a-Renters-Bill-of-Rights.pdf
-
 . The federal actions announced at the same time as this Blueprint will promote those principles. This Blueprint sets out five common-sense principles that create a shared baseline for fairness for renters in the housing market, which include the need for renters to have access to:
     • Safe, Quality, Accessible and Affordable Housing;
     • Clear and Fair Leases;

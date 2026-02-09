@@ -8,11 +8,7 @@ tags:
 ---
 
 characteristics have been changed.; Interior design by Carly Loman; Jacket design by David L Itman
-#cover d-g-david-graeber-bullshit-jobs-1.jpg
-
 *To anyone who would rather be doing something useful with themselves.*
-
-## Preface: On the Phenomenon of Bullshit Jobs
 
 In the spring of 2013, I unwittingly set off a very minor international sensation.
 

@@ -6,14 +6,6 @@ tags:
   - class
 ---
 
-## **Middle Class? Fuck Off!**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/middle-class-fuck
-
-**Tags:** Class War Federation, class, United Kingdom, middle class
-
 Article from Class War issue 73 on the role of the middle class in revolutionary politics, and acknowledging some of the shortcomings in the Class War Federation's understanding of class.
 
 The relationship between revolutionary politics and middle class people has been a perennial problem on the Left/anarcho-scene and a problem that sometimes borders on obsession with some working class revolutionaries. Marx said that the emancipation of the working class is the task of the working class itself - if we want to be free, we've got to do it ourselves. It is a statement we take literally. Despite what some people may say, Class War has always been overwhelmingly composed of people from working class backgrounds. Middle class people have been - and still are - involved, but they have always been in a minority and this is how it should be. If you have a revolutionary organisation and it is comprised predominantly of middle class people, and they hold the positions of power as a result of their better education, greater confidence, and so on, then clearly this is a big problem. Most of the Left is like this the SWP are a prime example.

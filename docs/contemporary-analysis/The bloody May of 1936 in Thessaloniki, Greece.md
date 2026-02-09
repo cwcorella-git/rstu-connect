@@ -14,14 +14,6 @@ tags:
   - 8-hour-day
 ---
 
-## **The bloody May of 1936 in Thessaloniki, Greece**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/bloody-may-1936-thessaloniki-greece
-
-**Tags:** welcometospace, strikes, general strikes, massacres, repression, pensions, Greece, 8-hour day,
-
 ## tobacco industry, Thessaloniki
 
 A general strike of the tobacco workers and other unions on May 8th 1936 led to the bloody events of May 9th. The police confronted the massive strike by opening fire on the protesters. 12 dead and hundreds of wounded in one of the most important days in greek working class history.

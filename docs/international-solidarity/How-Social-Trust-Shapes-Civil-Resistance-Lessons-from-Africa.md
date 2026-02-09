@@ -10,8 +10,6 @@ tags:
 
 ## ICNC MONOGRAPH SERIES
 
-# How Social Trust Shapes Civil Resistance
-
 ## Lessons from Africa
 
 ## Jacob S. Lewis
@@ -27,8 +25,6 @@ tags:
 #### **Front cover image (left)**
 
 Description: Protesters in Nigeria make a stand against the extrajudicial killings done by the Special Anti-Robbery Squad of the Nigerian Police in the End SARS campaign. Taken on October 11, 2020. By: Tobi James Candids.
-
-Source: https://commons.wikimedia.org/wiki/File:Protesting\_the\_extrajudicial\_killings\_by\_the\_Special\_Anti\_Robbery\_Squad\_in\_Nigeria.jpg. This image is licensed under Creative Commons Attribution-Share Alike 4.0 International (CC BY-SA 4.0). This image has been modied by cropping. Link to license: https://creativecommons.org/licenses/by-sa/4.0/deed.en
 
 #### **Front cover image (center)**
 

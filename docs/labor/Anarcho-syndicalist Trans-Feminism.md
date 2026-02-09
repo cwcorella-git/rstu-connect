@@ -10,14 +10,6 @@ tags:
   - LGBTQ+
 ---
 
-# **Anarcho-syndicalist Trans-Feminism**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/anarcho-syndicalist-trans-feminism
-
-**Tags:** lvysyn, anarchism, LGBTQ+ (Lesbian Gay Bi Trans Queer +), transgender, sex and sexuality, feminism
-
 Cobbling together a linking up of Anarcho-syndicalism and Trans-Feminism.
 
 Anarcho-syndicalism is a movement which seeks the liberation of all people oppressed by capitalism through the struggle of those people to abolish capitalism and create a libertarian socialist, or Anarchist society. One of the groups of people oppressed by capitalism are transgender people, something I know well as a trans-women myself. Trans people are people who do not identify with the gender classification they were given at birth. Our society determines what gender identity people can have when they are born based on what reproductive organs they posses, accordingly people are assigned as either "male", or "female". Trans people are people who reject the gender identities assigned to them and attain/create new gender identities for themselves. These people may identify as men, or women, both, or neither.

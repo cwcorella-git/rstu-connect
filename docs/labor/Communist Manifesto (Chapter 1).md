@@ -9,8 +9,6 @@ tags:
 
 #### [marxists.org](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/ch01.htm)
 
-# **Communist Manifesto (Chapter 1)**
-
 ## Karl Marx and Frederick Engels
 
 29–36 minutes

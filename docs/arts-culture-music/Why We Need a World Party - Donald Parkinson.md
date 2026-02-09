@@ -11,14 +11,6 @@ tags:
   - communist-league-of-tampa
 ---
 
-## **Why We Need a World Party - Donald Parkinson**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/why-we-need-world-party-donald-parkinson
-
-**Tags:** organisation, syndicalism, left communism, Donald Parkinson, Communist League of Tampa
-
 As a long-term goal communists should work towards a world party organized around a minimum/maximum programme that can tolerate factionalism while maintaining independence from bourgeois and reformist parties.
 
 …it is inevitable that the growing proletariat should resist exploitation, and that it should organize industrially, co-operatively and politically to secure for itself better conditions of life and labor, and greater political influence. Everywhere the proletariat develops these phases of activity whether it is socialistically minded or not. It is the mission of the Socialist movement to bring all these various activities of the proletariat against its exploitation into one conscious and unified movement, that will find its climax in the great final battle for the conquest of political power.

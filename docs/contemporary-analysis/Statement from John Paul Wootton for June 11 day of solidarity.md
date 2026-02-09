@@ -7,14 +7,6 @@ tags:
   - solidarity
 ---
 
-## **Statement from John Paul Wootton for June 11 day of solidarity**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/statement-john-paul-wootton-june-11-day-solidarity
-
-**Tags:** nationalism, anarchism, prisons, Northern Ireland, national liberation, John Paul Wootton
-
 A statement from John Paul Wootton, an anarchist prisoner and former Irish Republican, forthe June 11 day of solidarity with long-term anarchist prisoners.
 
 I suppose my story is far from usual. It begins as a teenager, not yet 18 years old and angry at socio-economic conditions within his community.

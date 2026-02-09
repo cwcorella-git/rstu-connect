@@ -9,17 +9,7 @@ tags:
   - português
 ---
 
-# **Educação Crítica - Fredy Perlman**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/educacao-critica-fredy-perlman
-
-**Tags:** Fredy Perlman, education, universities, Português
-
 "A água jamais teria se convertido na força de uma máquina a vapor para uso humano se o cientista natural começasse sua análise aceitando a imutabilidade de substâncias criadas por Deus e considerando a sua transformação para uso humano como magia negra inspirada por Satã. Entretanto o adaptacionista tenta aceitar a imutabilidade da propriedade privada das capacidades industriais e considerando a transformação da riqueza mundial como uma ideologia inspirada por magia negra."
-
-#### Educação Crítica / Fredy Perlman
 
 Alguns dos fatores que limitam o campo de debates de um curso introdutório sobre instituições sociais são: as políticas educacionais da universidade, a flexibilidade dada aos professores, e os compromissos políticos e sociais dos professores.
 

@@ -9,14 +9,6 @@ tags:
   - prisons
 ---
 
-## **Police Station Support Guide**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/police-station-support-guide
-
-**Tags:** police, United Kingdom, legal, Activist Court Aid Brigade, Green and Black Cross, Queercare
-
 ## Network
 
 Being arrested and held in police custody is unpleasant. People often appreciate being met by a friendly face when they are released. This is a guide to doing effective police station support. This guide is an updated version of the Activist's Legal Project guide to arrestee support, created collectively by GBC Resources, Activist Court Aid Brigade (ACAB) and Queercare.

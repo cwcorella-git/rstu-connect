@@ -8,8 +8,6 @@ tags:
   - digital rights
 ---
 
-# **The Divergent Anarcho-utopian Discourses of the Open Source Software Movement**
-
 # Dale A. Bradley *Brock University*
 
 *Abstract:* The discourse informing open source programming is important for many reasons, not the least of which is the way in which its ideological positions are translated into practical actions. It is argued that the initial anarcho-utopian move initiated by Richard Stallman's GNU Project and Free Software Foundation is currently being transformed into an organizational utopia in the form of the largely Linux-based open source movement. The utopian impulse evident in open source software development is therefore addressed from the perspective that the promises of liberation that inform its anarchy-inspired politics may be undermined by efforts to integrate its communal programming practices into existing market hegemonies.

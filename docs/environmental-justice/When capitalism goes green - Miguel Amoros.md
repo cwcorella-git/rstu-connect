@@ -9,19 +9,9 @@ tags:
   - climate
 ---
 
-## **When capitalism goes green - Miguel Amoros**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/when-capitalism-goes-green-miguel-amoros
-
-**Tags:** Murray Bookchin, Situationist International, environment, technology, climate change, reformism,
-
 ## Encyclopedie des Nuisances, Miguel Amorós
 
 A former member of the Encyclopedie des Nuisances discusses the current reformist environmentalism of capitalism, the fashionable support for "curtailing economic growth", and the growing role of the State and NGOs in enforcing a new framework for the continued survival of capitalist social relations, and concludes that "a libertarian society can only be created by way of a libertarian revolution".
-
-## When Capitalism Goes Green – Miguel Amorós
 
 Presentation delivered at La Mistelera(Dènia) and Casa els Flares(Alcoy) on December 28 and 29, 2007.
 

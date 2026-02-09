@@ -9,14 +9,6 @@ tags:
   - workers
 ---
 
-## **Brazilian outsourced workers struggle to survive in UFG and UERJ: We are all Emmanuel!**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/brazilian-outsourced-workers-struggle-survive-ufg-and-uerj-we-are-all-emmanuel
-
-**Tags:** education, Invisiveis Goiânia, outsourced, solidarity networks, universities, cleaners
-
 These universities spend a lot of money, staff, and actions to say that they are fighting the pandemic. But the treatment displayed for the world is not applied to workers – they need to struggle and organize themselves.
 
 Last week (April 26 – May 1), Goias Federal University (UFG) and the companies that handle cleaning and security tried to fire workers. We fought against these companies and now the struggle continues at UFG. Workers at the security company Guardiã who are in the risk group (for Covid – 19) struggled to be released from work and then were called to be fired. The company manager said that it would be just a "temporary furlough" and threw the responsibility of rehiring on UFG lap.

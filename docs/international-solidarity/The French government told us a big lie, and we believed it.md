@@ -9,13 +9,7 @@ tags:
   - solidarity
 ---
 
-## **The French government told us a big lie, and we believed it**
-
-## **Date:** Thu, 12/10/2015 - 13:43
-
 ## **Source:** https://ecology.iww.org/node/1424
-
-**Tags:** green unionism, COP21, climate justice, green jobs, climate change, global warming, Paris,
 
 ## France
 

@@ -7,8 +7,6 @@ tags:
   - prisons
 ---
 
-## **Forum**
-
 Brett Story, *The Prison in Twelve Landscapes* (documentary, 87 min., 2016)
 
 ## **Brett Story, Jack Norton, Jordan T. Camp, & Annie Spencer Edited and moderated by Christina Heatherton Introduced by Kanishka Goonewardena\***

@@ -9,14 +9,6 @@ tags:
   - youth
 ---
 
-## **Ten Years Since the Financial Crash: What Price Education?**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/ten-years-financial-crash-what-price-education
-
-**Tags:** Internationalist Communist Tendency, education
-
 Ever since the post-war principle of free education was abandoned in 1998 by Blair's New Labour government, fees for higher education have risen steeply and expanded to include maintenance charges.
 
 ## 1

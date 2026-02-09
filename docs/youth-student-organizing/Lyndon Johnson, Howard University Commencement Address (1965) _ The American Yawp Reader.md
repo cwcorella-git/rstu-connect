@@ -7,10 +7,6 @@ tags:
   - youth
 ---
 
-## [americanyawp.com](https://www.americanyawp.com/reader/27-the-sixties/lyndon-johnson-howard-university-commencement-address-1965/)
-
-## **Lyndon Johnson, Howard University Commencement Address (1965)**
-
 3–4 minutes
 
 On June 4, 1965, President Johnson delivered the commencement address at Howard University, the nation's most prominent historically black university. In his address, Johnson explained why "opportunity" was not enough to ensure the civil rights of disadvantaged Americans.

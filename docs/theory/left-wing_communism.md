@@ -10,8 +10,6 @@ tags:
 
 ## **Resistance Marxist Library**
 
-# **'Left-Wing' Communism: An Infantile Disorder**
-
 ## **V. I. Lenin**
 
 | 2

@@ -7,10 +7,6 @@ tags:
   - current-events
 ---
 
-#### [uisjournal.com](https://uisjournal.com/the-paradox-of-tolerance-do-we-have-to-tolerate-intolerant/)
-
-# **The paradox of tolerance: do we have to tolerate intolerant?**
-
 ## Alexander Marchall
 
 6–8 minutes

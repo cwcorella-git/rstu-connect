@@ -8,14 +8,6 @@ tags:
   - abolition
 ---
 
-## **Black Cross: A Proposal for an Abolitionist Prisoner Support Group**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/black-cross-proposal-abolitionist-prisoner-support-group
-
-**Tags:** prisons, Philippines, Bandilang Itim, Simoun Magsalin
-
 A proposal for a Black Cross, an abolitionist prisoner support group that seeks to abolish prisons and police.
 
 Proposal by Simoun Magsalin.

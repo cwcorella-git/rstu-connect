@@ -14,13 +14,7 @@ tags:
   - elizabeth-gurley-flynn
 ---
 
-## **Mistaken Identity: the Tortured History of Sabotage, Part 1**
-
-## **Date:** Wed, 03/02/2016 - 19:15
-
 ## **Source:** https://ecology.iww.org/node/1546
-
-**Tags:** x344543, Industrial Workers of the World (IWW), green unionism, green syndicalism, sabotage, direct action, Earth First!, Ralph Chaplin, William (Big Bill) Haywood, Elizabeth Gurley Flynn
 
 ## By x344543 -
 

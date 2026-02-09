@@ -13,13 +13,7 @@ tags:
   - 350
 ---
 
-## **To The CEOs of General Motors, Ford, and Stellantis:**
-
-## **Date:** Wed, 08/16/2023 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/5807
-
-**Tags:** automobile manufacturers, Ford, General Motors (GM), Stellantis, United Auto Workers (UAW), green unionism, electric vehicles, just transition, Labor Network for Sustainability (LNS), 350
 
 ## By various -
 

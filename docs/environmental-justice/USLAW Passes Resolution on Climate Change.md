@@ -8,13 +8,7 @@ tags:
   - climate
 ---
 
-## **USLAW Passes Resolution on Climate Change**
-
-## **Date:** Tue, 04/26/2016 - 17:33
-
 ## **Source:** https://ecology.iww.org/node/1625
-
-**Tags:** green unionism, anti-militarism, US Labor Against the War
 
 Resolution passed by US Labor Against the War - April 17, 2016
 

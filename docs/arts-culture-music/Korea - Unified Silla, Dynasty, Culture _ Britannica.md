@@ -9,8 +9,6 @@ tags:
 
 #### [britannica.com](https://www.britannica.com/place/Korea/Unified-Silla)
 
-# **Kolp'um | Confucianism, Hierarchy, Caste System**
-
 ## The Editors of Encyclopaedia Britannica
 
 8–11 minutes

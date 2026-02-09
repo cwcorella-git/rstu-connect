@@ -8,14 +8,6 @@ tags:
   - strikes
 ---
 
-## **1947: Mombasa General Strike**
-
-**Date:** Unknown
-
-**Source:** https://libcom.org/article/1947-mombasa-general-strike
-
-**Tags:** general strikes, docks, taxis, Kenya, colonialism, Emily Kluver, Mombasa, PDF
-
 In 1947 the city of Mombasa was paralysed by a general strike by its black African workforce in an attempt to end pay disparities, especially along colour lines.
 
 15,000 workers strike, win wage increases in Mombasa, Kenya Colony January 1947

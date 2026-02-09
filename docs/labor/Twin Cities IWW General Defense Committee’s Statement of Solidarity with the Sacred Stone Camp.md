@@ -9,13 +9,7 @@ tags:
   - urban
 ---
 
-## **Twin Cities IWW General Defense Committee's Statement of Solidarity with the Sacred Stone Camp**
-
-## **Date:** Tue, 09/06/2016 - 22:47
-
 ## **Source:** https://ecology.iww.org/node/1774
-
-**Tags:** green unionism, NoDAPL, Industrial Workers of the World (IWW), IWW General Defense
 
 Committee (GDC), GDC Local 14, Twin Cities IWW, green syndicalism
 

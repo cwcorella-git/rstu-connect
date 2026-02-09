@@ -7,8 +7,6 @@ tags:
   - current-events
 ---
 
-## ON TYRANNY
-
 TWENTY LESSONS
 FROM THE
 ## TWENTIETH CENTURY

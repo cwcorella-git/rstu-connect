@@ -8,14 +8,6 @@ tags:
   - class
 ---
 
-## **Yanggongju as an allegory of the nation: Images of working-class women in popular and radical texts**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/yanggongju-allegory-nation-images-working-class-women-popular-and-radical-texts
-
-**Tags:** Hyun Sook Kim, nationalism, United States, imperialism, sex industry, fiction, South Korea, feminism, PDF
-
 Hyun Sook Kim's essay examining representations of working-class South Korean sex workers for U. S. military in popular and radical texts, both of which fix the identities of the women as "bad"/"good" and treat the female body as a metaphorical map of the Korean nation.
 
 | Published in Dangerous Women: Gender and Korean Nationalism(2012). |

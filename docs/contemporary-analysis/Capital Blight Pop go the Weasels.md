@@ -7,13 +7,7 @@ tags:
   - capitalism
 ---
 
-## **Capital Blight: Pop go the Weasels**
-
-## **Date:** Tue, 04/05/2016 - 18:09
-
 ## **Source:** https://ecology.iww.org/node/1604
-
-**Tags:** capital blight, x344543, coal, mine workers, mining, carbon bubble, just transition
 
 ## Compiled by x344543 -
 

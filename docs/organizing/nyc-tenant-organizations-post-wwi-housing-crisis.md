@@ -14,8 +14,6 @@ tags:
 source: "libcom.org"
 ---
 
-# NYC Tenant Organizations and the Post-WWI Housing Crisis
-
 *How Rent Strikes Won America's First Rent Control (1917-1929)*
 
 This history documents the massive tenant organizing wave that swept New York City following World War I—a movement that achieved America's first rent control laws through direct action, rent strikes, and political organizing.

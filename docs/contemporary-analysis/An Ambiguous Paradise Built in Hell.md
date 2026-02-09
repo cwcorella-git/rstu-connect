@@ -8,10 +8,6 @@ tags:
   - current-events
 ---
 
-## **An Ambiguous Paradise Built in Hell**
-
-## **Date:** Sat, 01/07/2023 - 00:00
-
 | Source: https://ecology.iww.org/node/5283|
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Tags: Kurdistan, libertarian-socialism, libertarian municipalism, social ecology, Murray Bookchin, book

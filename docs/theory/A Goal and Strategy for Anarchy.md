@@ -9,8 +9,6 @@ tags:
 
 ## James Herod
 
-# A Goal and Strategy for Anarchy
-
 ### April 2008
 
 [The Goal](#page-0-0) [Historical Strategies](#page-3-0) [Strategies, Explicit or Implied, of Contemporary Anarchist Currents](#page-4-0) [The Actual Practices Prevailing in the Present Day Anarchist Movement](#page-5-0) [The Way Forward](#page-6-0) [Notes](#page-6-1)

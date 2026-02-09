@@ -9,13 +9,7 @@ tags:
   - climate
 ---
 
-## **Standing Rock and Beyond: Big Oil's Corporate Dislocations and Extortions**
-
-## **Date:** Tue, 11/08/2016 - 10:35
-
 ## **Source:** https://ecology.iww.org/node/1900
-
-**Tags:** NoDAPL, Dakota Access Pipeline (DAPL), indigenous, carbon bubble, just transition, pipelines, tar sands, renewable energy
 
 ## By Wendell G Bradley -
 

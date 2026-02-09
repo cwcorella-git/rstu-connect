@@ -11,8 +11,6 @@ tags:
 
 ## ![](_page_0_Picture_2.jpeg)
 
-# *Town of Castle Rock v. Gonzales*
-
 *Castle Rock v. Gonzales*, 545 U. S. 748 (2005), is a [United](https://en.wikipedia.org/wiki/United_States_Supreme_Court) [States Supreme Court](https://en.wikipedia.org/wiki/United_States_Supreme_Court) case in which the Court ruled, 7–2, that a town and its police department could not be sued under [42 U. S. C. § 1983](https://en.wikipedia.org/wiki/Civil_Rights_Act_of_1871) for refusing to enforce a [restraining order,](https://en.wikipedia.org/wiki/Restraining_order) even though the refusal led to the murders of a woman's three children by her estranged husband[.\[1\]](#page-3-0)[\[2\]](#page-3-1) This decision affirmed the controversial principle that state and local government officials have no affirmative duty to protect the public from harm it did not create; a similar ruling was made in *[De Shaney v.](https://en.wikipedia.org/wiki/De Shaney_v._Winnebago_County) [Winnebago County](https://en.wikipedia.org/wiki/De Shaney_v._Winnebago_County)* which involves Child Protective Services (called the Department of Social Services in the case) failing to protect a child from a violent parent[.\[3\]](#page-3-2) The decision has since become [infamous](https://en.wikipedia.org/wiki/Infamy) and condemned by several human rights groups and is frequently cited among the worst Supreme Court decisions in modern history[.\[4\]](#page-3-3)[\[5\]](#page-3-4) [\[6\]](#page-3-5)[\[7\]](#page-3-6)
 
 # **Background**

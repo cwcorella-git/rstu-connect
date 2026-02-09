@@ -9,12 +9,6 @@ tags:
   - libcom
 ---
 
-## **Citizens for better science**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/citizens-better-science
-
 ## **Tags:** education
 
 The left should advocate for free access to not only scientific literature and data but also the means of production of science.

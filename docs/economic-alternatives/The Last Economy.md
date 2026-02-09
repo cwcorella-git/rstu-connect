@@ -7,8 +7,6 @@ tags:
   - alternatives
 ---
 
-# THE LAST ECONOMY
-
 ## A Guide to the Age of Intelligent Economics
 
 ## **EMAD MOSTAQUE**

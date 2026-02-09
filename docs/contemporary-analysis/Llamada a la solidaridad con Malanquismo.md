@@ -7,14 +7,6 @@ tags:
   - Los Angeles
 ---
 
-## **Llamada a la solidaridad con Malanquismo**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/llamada-la-solidaridad-con-malanquismo
-
-**Tags:** Malangchism, hotels, South Korea, syndicalism, Español
-
 ## 12 de marzo del 2023, Seúl, Corea
 
 ## Estimades camaradas:

@@ -10,12 +10,7 @@ tags:
   - workers
 ---
 
-# West Virginia Extend the Strike Build Long Term Power
-
-West Virginia: Extend the Strike, Build Long Term Power Date: Unknown Source: https://libcom.org/article/west-virginia-extend-strike-build-long-term-power Tags: education
 What follows is a proposal for how to extend the strike unfolding in West Virginia.To hear an interview with a striking teacher, go here.This post first appeared on It's Going Down.
-
-## Donate HereDownload and Print PDF Here
 
 The statewide strike of teachers in West Virginia that started on February 22nd is a model for teachers and other working-class people across the US of how we can struggle together for what we need. It is a desperately needed example of mass working-class solidarity in a time when the rich are attempting to fracture us even more. It is also an important model of the kinds of strikes we can wage when we realize that the existing labor laws (the same ones that the rich are trying to destroy anyways) are traps designed by the rich to tie our arms behind our backs and hold us back.
 Some teachers and supporters in West Virginia are organizing through the IWWto spread a revolutionary unionist perspective in the current strike, to expand the strike and strengthen the militant mood of the teachers, and to build for long-term organization that is not reliant on politicians or bureaucrats. They will begin by distributing a leaflet to encourage teachers and other members of the working class to extend and expand the current struggle, and they will be looking for openings to expand on that organizing.

@@ -8,14 +8,6 @@ tags:
   - class
 ---
 
-## **A Class Perspective on the 'Women Question'**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/class-perspective-women-question
-
-**Tags:** Internationalist Communist Tendency, Marxism, women, feminism, gender, Battaglia Comunista
-
 We cannot talk about proletarian and communist revolution if it does not express both the emancipation of the proletariat from class exploitation, and, on the same basis, the emancipation of women from gender oppression.
 
 The issues facing women have made an urgent political reappearance in recent years, ranging from the horrific numbers of women killed by their partners to the scourge of wage differences and harassment at work.

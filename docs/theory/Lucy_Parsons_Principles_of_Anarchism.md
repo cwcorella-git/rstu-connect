@@ -8,8 +8,6 @@ tags:
   - theory
 ---
 
-# **The Principles of Anarchism**
-
 ## Lucy E. Parsons
 
 ## 1905

@@ -11,8 +11,6 @@ tags:
 
 ## Virtual Event / 13-16 Oct 2021
 
-# **MAPPING DISCORD'S DARKSIDE: DISTRIBUTED HATE NETWORKS ON DISBOARD**
-
 ## Daniel G. Heslep University of Alabama
 
 ## PS Berge University of Central Florida

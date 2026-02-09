@@ -8,14 +8,6 @@ tags:
   - strikes
 ---
 
-## **1994: Wallis and Futuna General Strike**
-
-**Date:** Unknown
-
-**Source:** https://libcom.org/article/1994-wallis-and-futuna-general-strike
-
-**Tags:** education, schools, general strikes, France, Catholicism, Force Ouvriere, Danny Hirschel-Burns,
-
 Wallis and Futuna, PDF
 
 Grievances over working conditions and a lack of state primary schools lead to several strikes in 1994 on the two pacific islands.

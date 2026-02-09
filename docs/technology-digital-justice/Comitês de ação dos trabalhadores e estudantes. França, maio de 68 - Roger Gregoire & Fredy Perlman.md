@@ -8,14 +8,6 @@ tags:
   - digital rights
 ---
 
-## **Comitês de ação dos trabalhadores e estudantes. França, maio de 68 - Roger Gregoire & Fredy Perlman**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/comites-de-acao-dos-trabalhadores-e-estudantes-franca-maio-de-68roger-gregoire-fredy
-
-**Tags:** Fredy Perlman, Roger Gregoire, education, universities, situationist, France 1968, Português, Guy Debord
-
 "Os revolucionários franceses romperam a psicologia da derrota, a perspectiva de perdedores, e começaram a lutar."
 
 Comitês de ação dos trabalhadores e estudantes. França, maio de 68 - Roger Gregoire & Fredy Perlman

@@ -6,12 +6,6 @@ tags:
   - anarchism
 ---
 
-## **A Modern Anarchism (Part 2): Anarchy**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/modern-anarchism-part-2-anarchy
-
 ## **Tags:** Daniel Baryon, anarchism
 
 This essay is part 2 in a series wherein I develop a modern anarchist synthesis, taking into account the progress of the sciences and the results of the revolutionary experiments of the past. Just as in part 1 (https://libcom.org/article/modern-anarchism-part-1-anarchist-analysis) I laid out a holistic analysis of the kyriarchal-mega-machine utilizing a broad array of theoretical and sociological insights, here I will lay out an analysis of the meaning of 'anarchy,' by first inspecting some of the historical conceptions of this idea by the anarchists, then combining insights from fields such as physics, complexity theory, systems analysis, emergence theory, chaos theory, and social ecology to understand it more completely.

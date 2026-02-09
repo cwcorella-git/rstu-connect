@@ -4,8 +4,6 @@ author: "Reno-Sparks Tenants Union"
 date: 2026
 ---
 
-# Research for the Reno-Sparks Tenants Union May Day Rent Strike Call
-
 The historical record is unambiguous: rent strikes work when tenants move together, and May 1st carries 140 years of worker defiance in its bones. This research compiles the tactical history, hard data, psychological triggers, and moral language you need to write a homepage that mobilizes—not informs.
 
 The numbers are damning: **20 vacant homes exist for every homeless person in America**, Wall Street firms spent $9.6 billion buying foreclosed family homes after 2008, and in Washoe County, 1,760 people sleep without stable shelter while rents have climbed 50% in five years. History shows that when tenants refuse to pay together, they win. The question is whether enough people in Reno-Sparks will decide that May 1st, 2026 is the day they stop submitting.

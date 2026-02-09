@@ -9,14 +9,6 @@ tags:
   - digital rights
 ---
 
-## **Never Dormant on Death Row: Siddique Hasan and Bomani Shakur on Ferguson & movements against police violence**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/never-dormant-death-row-siddique-hasan-and-bomani-shakur-ferguson-movements-against-police
-
-**Tags:** United States, repression, prisons, Ohio, Lucasville, 2014 Ferguson unrest, Black Lives Matter movement, Siddique Abdullah Hasan, Bomani Shakur, police
-
 A conversation between Lucasville Uprising prisoners Bomani Shakur and Siddique Hasan about the Ferguson uprising and related anti-police violence movements, taken fromthe Lucasville Amnesty siteand formatted as a pamphlet by Sacramento Prisoner Support.
 
 Siddique Abdullah Hasan and Keith La Mar (aka Bomani Shakur) have been locked in solitary confinement for over two decades, while they struggle against death sentences wrongfully imposed upon them following the Lucasville Uprising. After years of struggle and repeated hunger strikes, they've recently won the ability to spend their scant hours outside their cells together. From inside the super max, they've been paying close attention to all the fierce and inspiring protests that have exploded against police terrorism. They've typed up a reconstruction of some of their conversations for us, which we're pleased to share with our readers.

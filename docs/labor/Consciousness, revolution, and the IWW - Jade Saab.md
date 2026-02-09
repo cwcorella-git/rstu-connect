@@ -9,16 +9,6 @@ tags:
   - workers
 ---
 
-## **Consciousness, revolution, and the IWW - Jade Saab**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/consciousness-revolution-and-iww-jade-saab
-
-**Tags:** Jade Saab, Marianne Garneau, Organizing Work, syndicalism, Industrial Workers of the World
-
-## (IWW)
-
 A critique by Jade Saab, a member of the Industrial Workers of the World (IWW) in the UK, of Marianne Garneau's "Workplace Struggles Are Political", which was published by Organizing Work.
 
 I wrote this article two years ago (August 2021) in response to Marianne Garneau's article titled"Workplace struggles are political"which was published on organising.work. At the time, I tried to get the article published as a response on the same website only to find out that Garneau was its editor and refused the retort. The IWW's magazine Industrial Workeralso refused it based on its length and on the grounds that it does not appeal to its target audience: "readers who are interested in organizing their workplace, but not in debate over socialist theory" — ironically, a position I just so happened to critique in the first few lines of the piece. Following these rejections, I put the piece to bed and forgot about it only to come across it a few weeks ago. I decided to reproduce it here, with minor alterations, as a small contribution to a continuous debate and, because, contrary to what anyone may believe, you cannot separate organisational practice from theory.

@@ -9,10 +9,6 @@ tags:
   - wikipedia
 ---
 
-#### [en.wikipedia.org](https://en.wikipedia.org/wiki/Matrix_of_domination)
-
-# **Matrix of domination**
-
 ## Contributors to Wikimedia projects
 
 36–46 minutes

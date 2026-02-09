@@ -14,8 +14,6 @@ tags:
 source: "Jacobin"
 ---
 
-# Shawn Fain and the UAW: Class Struggle Leadership in Action
-
 *Jacobin — September 2023*
 
 Shawn Fain's leadership of the 2023 UAW strike against Ford, General Motors, and Stellantis represented a watershed moment in American labor politics. His approach offers lessons for all organizers building working-class power.

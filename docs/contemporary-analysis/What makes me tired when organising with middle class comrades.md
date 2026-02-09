@@ -7,10 +7,7 @@ tags:
   - class
 ---
 
-## **What makes me tired when organising with middle class comrades**
-
-**Date:** Wed, 06/15/2016 - 12:36 **Source:** https://ecology.iww.org/node/1682**Tags:** class struggle, movement politics, Industrial Workers of the World (IWW), green unionism By Nicole Vosper - The Guardian , June 8, 2016
-
+class struggle, movement politics, Industrial Workers of the World (IWW), green unionism By Nicole Vosper - The Guardian , June 8, 2016
 have many middle class friends and comrades whom I adore, this post certainly isn't directed at everyone. But after years and years of organising, coming up against similar frustrations, and after lots of conversations between working class mates, I want to write about what is draining about working with some middle class activists.
 
 It's important to flag up that I'm writing this as a white, cis woman in England and I'm aware of the privilege that carries. I'm worried this piece will ignite a backlash, so I'm asking middle class folks that are triggered by this to perhaps talk to other middle class people and not email me about it. For once, please, just listen and reflect.

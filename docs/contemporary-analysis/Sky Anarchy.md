@@ -7,14 +7,6 @@ tags:
   - anarchism
 ---
 
-## **Sky Anarchy**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/sky-anarchy-2
-
-**Tags:** aviation, climate change, anarchism, Transportation, Solarpunk, technology, affinity groups
-
 Sky Anarchy is a new adventure. It's part of a wider project of addressing the issues of aviation and its relationship with anarchy and the left in general. Through this I hope to open up our movement to the possibilities and hopefully to educate our comrades on aviation past, present, and it's hypothetical future. All feedback is welcome.
 
 ## Jacob Hutchison

@@ -9,12 +9,6 @@ tags:
   - Russia
 ---
 
-## **Russian anti-war direct action in the second war spring. Part 21**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/russian-anti-war-direct-action-second-war-spring-part-21**Tags:** assembly.org.ua, Russia-Ukraine war, war, Ukraine, Russia, sabotage, prisons
-
 Let's see what interesting things happened last weeks in the Russian radical underground, except for the much more sensational operations of the Ukrainian special services. The title photo from mid-April shows how in three cities at once - Ulyanovsk, Rostov and Yekaterinburg - somebody hacked billboards and postedanti-war statementsfrom mobilized soldiers or their relatives.
 
 Welcome to join thefundraisingof our team for to work on this international column and offline volunteer activities. A couple of cups of coffee in your country, even before the war, could be equivalent to a day's earnings of a worker in Ukraine. Many thanks everyone in advance!

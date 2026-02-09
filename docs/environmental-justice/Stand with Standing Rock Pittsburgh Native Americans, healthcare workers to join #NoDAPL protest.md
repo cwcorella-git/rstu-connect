@@ -10,14 +10,6 @@ tags:
   - healthcare
 ---
 
-## **Stand with Standing Rock: Pittsburgh Native Americans, healthcare workers to join #NoDAPL protest**
-
-**Date:** Wed, 11/02/2016 - 17:52 **Source:** https://ecology.iww.org/node/1891
-
-**Tags:** Labor for Standing Rock (L4SR), NoDAPL, green unionism, indigenous, healthcare workers,
-
-## Pittsburgh
-
 ## By Sarah Anne Hughes -
 
 ## The Incline

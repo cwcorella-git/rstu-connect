@@ -9,13 +9,7 @@ tags:
   - climate
 ---
 
-## **Communities Unite to Fight Coal in Oakland**
-
-## **Date:** Thu, 03/24/2016 - 14:40
-
 ## **Source:** https://ecology.iww.org/node/1572
-
-**Tags:** coal, exports, Oakland, Phil Tagami, Bowie, ILWU Local 6, ILWU Local 10, ILWU Local 34,
 
 National Nurses United, Service Employees International Union (SEIU)
 

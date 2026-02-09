@@ -8,14 +8,6 @@ tags:
   - socialism
 ---
 
-## **The Trade Union Unity League: American Communists and the transition to industrial unionism: 1928-1934**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/trade-union-unity-league-american-communists-and-transition-industrial-unionism-1928-1934
-
-**Tags:** Edward P. Johanningsmeier, Communist Party (USA), TUUL, Industrial Workers of the World (IWW), Third International, Profintern
-
 A paper by Edward P. Johanningsmeier detailing mostly developments in the Communist International and Communist Party USA (CPUSA) leadership that led to the establishment of the Trade Union Unity League (TUUL), a labor federation affiliated with the CPUSA. Originally appeared in Labor History, Vol. 42, No. 2, 2001
 
 We do not share the CPUSA's politics, but reproduce this for historical reference and discussion.

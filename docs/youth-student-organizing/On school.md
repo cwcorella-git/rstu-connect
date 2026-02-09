@@ -7,10 +7,6 @@ tags:
   - theory
 ---
 
-## **On school**
-
-## **Date:** Unknown
-
 ## **Source:** https://libcom.org/article/school
 
 ## **Tags:** education

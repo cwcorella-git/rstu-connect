@@ -9,13 +9,7 @@ tags:
   - workers
 ---
 
-# **Bay Area IWW Resolution Defending the West Berkeley Shellmound**
-
-## **Date:** Sat, 01/07/2017 - 20:27
-
 ## **Source:** https://ecology.iww.org/node/2005
-
-**Tags:** Bay Area IWW, indigenous, green unionism
 
 ## Passed by the
 

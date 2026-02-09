@@ -8,13 +8,7 @@ tags:
   - New York
 ---
 
-## **NYC-IWOC Stands in Solidarity with Standing Rock**
-
-## **Date:** Wed, 09/14/2016 - 18:37
-
 ## **Source:** https://ecology.iww.org/node/1799
-
-**Tags:** Industrial Workers of the World (IWW), green unionism, green syndicalism, IWOC, New York
 
 (state), NoDAPL, pipelines, Dakota Access Pipeline (DAPL), indigenous
 

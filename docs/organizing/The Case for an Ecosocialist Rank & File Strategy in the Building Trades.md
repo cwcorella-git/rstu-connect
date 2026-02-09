@@ -8,13 +8,7 @@ tags:
   - organizing
 ---
 
-## **The Case for an Ecosocialist Rank & File Strategy in the Building Trades**
-
-## **Date:** Thu, 11/28/2019 - 17:17
-
 ## **Source:** https://ecology.iww.org/node/3367
-
-**Tags:** green unionism, Green New Deal (GND), ecosocialism, North America's Building Trades Unions (NABTU), Texas AFL-CIO, International Brotherhood of Electrical Workers (IBEW), IBEW Local 520, Ryan Pollock, Jonathan Guy, highly recommended
 
 ## By Ryan Pollock -
 

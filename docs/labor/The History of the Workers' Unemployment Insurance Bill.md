@@ -9,14 +9,6 @@ tags:
   - workers
 ---
 
-## **The History of the Workers' Unemployment Insurance Bill**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/history-workers-unemployment-insurance-bill
-
-**Tags:** Marxism, class, United States, Great Depression, revolutionary unionism, unemployment, Chris
-
 ## C. Wright
 
 In this article I tell the story of the Workers' Unemployment Insurance Bill, both to fill a gap in our historical knowledge and because it resonates in our own time of troubles and struggles.

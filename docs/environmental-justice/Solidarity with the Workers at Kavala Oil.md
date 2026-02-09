@@ -9,13 +9,7 @@ tags:
   - fossil fuels
 ---
 
-## **Solidarity with the Workers at Kavala Oil**
-
-## **Date:** Sun, 05/08/2022 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/4973
-
-**Tags:** Earth Strike, Industrial Workers of the World (IWW), IWW Environmental Unionism Caucus, green unionism, Greece, just transition, oil, refineries, refinery workers, fossil fuel capitalism
 
 ## By Staff -
 

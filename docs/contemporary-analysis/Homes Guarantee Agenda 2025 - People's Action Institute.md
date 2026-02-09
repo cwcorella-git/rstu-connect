@@ -7,10 +7,6 @@ tags:
   - current-events
 ---
 
-#### [peoplesactioninstitute.org](https://peoplesactioninstitute.org/homes-guarantee-agenda-2025/)
-
-# **Homes Guarantee Agenda 2025**
-
 twilkins
 
 10–13 minutes

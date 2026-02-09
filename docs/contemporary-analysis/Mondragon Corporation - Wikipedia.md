@@ -9,17 +9,11 @@ tags:
   - wikipedia
 ---
 
-#### [en.wikipedia.org](https://en.wikipedia.org/wiki/Mondragon_Corporation)
-
-# **Mondragon Corporation**
-
 ## Contributors to Wikimedia projects
 
 29–37 minutes
 
 This article needs to be **updated**. The reason given is: The numbers are obsolete after the departure of Ulma and Orona. Please help update this article to reflect recent events or newly available information. (December 2022)
-
-#### Mondragon Corporation
 
 ## ![](_page_0_Figure_8.jpeg)
 

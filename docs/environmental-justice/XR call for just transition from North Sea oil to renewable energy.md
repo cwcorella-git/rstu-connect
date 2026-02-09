@@ -9,8 +9,6 @@ tags:
   - just transition
 ---
 
-## **XR call for just transition from North Sea oil to renewable energy**
-
 | Date: Wed, 09/25/2019 - 20:29 |
 |---------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/3344|

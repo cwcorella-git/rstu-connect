@@ -8,14 +8,6 @@ tags:
   - solidarity
 ---
 
-## **Another solidarity network/IWW case - A potential for a strategic leap**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/another-solidarity-networkiww-case-potential-strategic-leap
-
-**Tags:** Industrial Workers of the World (IWW), United Kingdom, truckers, solidarity networks, Angry
-
 ## Workers of the World
 
 The following case reveals the strategical potential of solidarity networks: to create links between individual proletarians in structurally weak positions and the world of workers' power in big workplaces.

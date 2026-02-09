@@ -9,10 +9,7 @@ tags:
   - digital rights
 ---
 
-## **Hundreds at Heathrow 'die-in' protest against airport expansion**
-
-**Date:** Mon, 10/03/2016 - 17:42 **Source:** https://ecology.iww.org/node/1834**Tags:** Plane Stupid, Heathrow, climate justice, direct action, green unionism By staff - Reclaim the Power , October 1, 2016 Hundreds of activists stage 'die-in' and disruptive 'critical mass' bike ride at Heathrow to protest aviation expansion and highlight injustice of climate change impacts. ecology.iww.org editor's note: IWW members particopated in organizing this action.
-
+Plane Stupid, Heathrow, climate justice, direct action, green unionism By staff - Reclaim the Power , October 1, 2016 Hundreds of activists stage 'die-in' and disruptive 'critical mass' bike ride at Heathrow to protest aviation expansion and highlight injustice of climate change impacts. ecology.iww.org editor's note: IWW members particopated in organizing this action.
 This afternoon, over 100 people took part in a 'die-in' flashmob inside Heathrow terminal 2. Protesters wearing gas masks lay on the floor, as testimonies from communities already affected by climate change were read [1].
 
 Simultaneously, a 'critical mass' bike ride with 150 riders wearing red [2] circled the area, visiting Harmondsworth Detention Centre to highlight the link between climate impacts and migration, and obstructing traffic by circling the main roundabout on Bath Road and dropping banners.

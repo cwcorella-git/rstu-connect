@@ -5,8 +5,6 @@ date: 2026
 category: theory
 ---
 
-# Housing as a Right: The Legal and Historical Case
-
 The housing crisis in America is not a market failure—it is a policy success. For nearly a century, the federal government deliberately constructed a system that treats shelter as a commodity rather than a fundamental human need.
 
 ## The Government Declared Housing a Right—Then Abandoned It

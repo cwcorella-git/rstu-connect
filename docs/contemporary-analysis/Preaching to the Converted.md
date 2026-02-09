@@ -8,12 +8,6 @@ tags:
   - libcom
 ---
 
-## **Preaching to the Converted?**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/preaching-converted
-
 ## **Tags:** Class War Federation, United Kingdom
 
 Short article from the final issue of Class War.

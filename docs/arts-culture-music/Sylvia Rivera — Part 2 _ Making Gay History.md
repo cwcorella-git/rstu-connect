@@ -8,10 +8,6 @@ tags:
   - culture
 ---
 
-#### [makinggayhistory.org](https://makinggayhistory.org/podcast/sylvia-rivera-part-2/)
-
-# **Sylvia Rivera — Part 2**
-
 ## Eric Marcus
 
 16–20 minutes

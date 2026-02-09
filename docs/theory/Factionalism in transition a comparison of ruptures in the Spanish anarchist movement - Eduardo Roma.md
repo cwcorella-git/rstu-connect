@@ -9,14 +9,6 @@ tags:
   - France
 ---
 
-# **Factionalism in transition: a comparison of ruptures in the Spanish anarchist movement - Eduardo Romanos**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/factionalism-transition-comparison-ruptures-spanish-anarchist-movement-eduardo-romanos
-
-**Tags:** Eduardo Romanos, Spain, Spain 1970s, Spanish civil war, Spanish resistance, Confederación Nacional del Trabajo (CNT), CGT (Spain), anarchism, anarcho-syndicalism, Federación Anarquista Ibérica (FAI)
-
 A paper by Eduardo Romanos analyzing the major splits of 1931, 1945 and 1979 in the Spanish anarcho-syndicalist union, the CNT.
 
 Abstract The three most important ruptures in Spanish anarchism in the 20thcentury (1931, 1945 and 1979) occurred during political transitions towards more open and democratic systems. How did the political context influence these processes of factionalism and rupture? This article attempts to answer this question by means of a qualitative comparison of the three episodes. The results highlight the role played by two environmental factors: the isolation imposed by the previousrepression, which encouraged the growth of divergent groups; and the growth in resources associated with the start of the political transition, which encouraged the transformation of symbolic conflict into political competition for control of the movement. Moreover, the results show how certain organizational procedures and features of the movement accelerated the internal conflict. They show in particular how the calling of congresses in the new context of visibility served to catalyze political competition; and how the symbolic capital of the movement became reduced to two antagonistic and mutually destructive strategic positions. At the theoretical level this case study examines the scope of two different models. On the one hand , it extends the viability of the alternating phases of latency and visibility model by applying it outside the context of new social movements. On the other, it questions two biases of the protest cycle model by dissociating innovation and internal competition in social movements from the initial and final phases of the cycle, respectively.

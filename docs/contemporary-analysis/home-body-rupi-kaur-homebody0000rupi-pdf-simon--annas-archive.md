@@ -11,8 +11,6 @@ tags:
 
 Digitized by the Internet Archive in 2022 with funding from Kahle/Austin Foundation
 
-# home body rupi kaur
-
 ### after feeling disconnected for so long my mind and body are finally coming back to each other
 
 - home body

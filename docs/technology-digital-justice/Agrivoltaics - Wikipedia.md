@@ -10,8 +10,6 @@ tags:
 
 ## ![](_page_0_Picture_2.jpeg)
 
-# [Agrivoltaics](https://en.wikipedia.org/wiki/Main_Page)
-
 Agrivoltaics (agrophotovoltaics, agrisolar, or dual-use solar) is the dual use of land for [solar energy](https://en.wikipedia.org/wiki/Solar_energy) production and [agriculture.](https://en.wikipedia.org/wiki/Agriculture)[\[2\]](https://en.wikipedia.org/wiki/Agrivoltaics#cite_note-:1-2)[\[3\]](https://en.wikipedia.org/wiki/Agrivoltaics#cite_note-agriPV-3) The technique was conceived by [Adolf Goetzberger](https://en.wikipedia.org/wiki/Adolf_Goetzberger) and Armin Zastrow in 1981[.\[4\]](https://en.wikipedia.org/wiki/Agrivoltaics#cite_note-:3-4) Agrivoltaics includes multiple methods of combining agriculture with photovoltaics, according to the agricultural activity, including plants, livestock, greenhouses, and pollinator support.[\[5\]](https://en.wikipedia.org/wiki/Agrivoltaics#cite_note-:4-5)
 
 Because the sunlight is shared[,\[6\]](https://en.wikipedia.org/wiki/Agrivoltaics#cite_note-Eco Watch-6) system design requires trading off objectives such as optimizing [crop](https://en.wikipedia.org/wiki/Crop_yield) [yield,](https://en.wikipedia.org/wiki/Crop_yield) crop quality, and energy production. Some crops benefit from the increased shade, lessening or even eliminating the trade-off. [\[7\]](https://en.wikipedia.org/wiki/Agrivoltaics#cite_note-7)

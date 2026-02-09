@@ -11,8 +11,6 @@ tags:
 
 #### THE COLLECTED WORKS OF
 
-# **F. A. Hayek**
-
 ## VOLUME II
 
 # **THE ROAD TO SERFDOM**

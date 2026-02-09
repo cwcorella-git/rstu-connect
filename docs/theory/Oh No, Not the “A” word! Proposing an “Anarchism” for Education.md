@@ -7,8 +7,6 @@ tags:
   - education
 ---
 
-# **Abraham De Leon**
-
 # **Oh No, Not the "A" word! Proposing an "Anarchism" for Education**
 
 ## **2008**

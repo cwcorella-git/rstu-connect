@@ -8,13 +8,7 @@ tags:
   - food
 ---
 
-## **Hog Farms, Toxic Water, and Toxic Prisons in Texas**
-
-## **Date:** Tue, 05/15/2018 - 15:52
-
 ## **Source:** https://ecology.iww.org/node/2871
-
-**Tags:** IWOC, Industrial Workers of the World (IWW), prison labor, Prison Ecology Project, green syndicalism, capital blight
 
 ## By Comrade Malik -
 

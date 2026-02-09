@@ -10,14 +10,6 @@ tags:
   - george-floyd-protests
 ---
 
-# **Racist Murder In America And The Bifurcation Of The Modern World System**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/racist-murder-america-and-bifurcation-modern-world-system
-
-**Tags:** capitalism, racism, police, George Floyd protests
-
 Analysis of racism as a division of labor upholding the capitalist world system and recent uprisings against police brutality as evidence of that world system's terminal crises.
 
 ## Intro

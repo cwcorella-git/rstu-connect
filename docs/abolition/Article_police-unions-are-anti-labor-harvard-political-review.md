@@ -8,13 +8,10 @@ tags:
   - labor
 ---
 
-# Police Unions Are Anti Labor Harvard Political Review
-
 Police Unions Are Anti-Labor - Harvard Political Review about:reader?url=https%3A%2F%2Fharvardpolitics.c...
 
 ## harvardpolitics.com
 
-## Police Unions Are Anti-Labor
 ## Ria Modak
 
 ## 6–7 minutes

@@ -8,12 +8,6 @@ tags:
   - feminism
 ---
 
-## **Women and sex in China - Flora Chan**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/women-and-sex-china-flora-chan**Tags:** China, women, sex industry, feminism, sex and sexuality
-
 On gender roles. inequality and sex in China in the 1970s. Text from Revolt Against Plenty where it formed part of the "China 4" page.
 
 Chinese women have long been subjugated to the authority of men throughout history. Traditionally under the bondage of Confucian ideology women were deprived of the right to participate in political, social and economic activities. At home, it was men who played the dominating role. Women had to bear all the burden of the housework relegated to a position of subservience. Marriages were arbitrarily arranged by parents and women were bought and sold as commodities.

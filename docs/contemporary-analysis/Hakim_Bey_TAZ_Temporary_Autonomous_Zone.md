@@ -8,8 +8,6 @@ tags:
   - autonomy
 ---
 
-# **T. A. Z.: The Temporary Autonomous Zone, Ontological Anarchy, Poetic Terrorism**
-
 ## Hakim Bey
 
 # **Contents**

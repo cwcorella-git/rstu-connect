@@ -7,8 +7,6 @@ tags:
   - anarchism
 ---
 
-# **Juan Carlos Pérez Cortés Relationship Anarchy Occupy Intimacy!**
-
 # **December 2022**
 
 **Foreword Introduction to the English Edition Preface Introduction**

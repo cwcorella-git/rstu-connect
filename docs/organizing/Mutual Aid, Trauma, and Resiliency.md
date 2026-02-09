@@ -8,8 +8,6 @@ tags:
   - organizing
 ---
 
-# **The Jane Addams Collective Mutual Aid, Trauma, and Resiliency**
-
 **Introduction The Jane Addams Collective Trauma**
 
 ## **Trauma & PTSD**

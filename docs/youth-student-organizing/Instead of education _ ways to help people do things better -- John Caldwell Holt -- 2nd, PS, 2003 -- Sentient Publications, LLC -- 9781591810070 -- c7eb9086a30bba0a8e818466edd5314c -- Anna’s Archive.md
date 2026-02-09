@@ -7,8 +7,6 @@ tags:
   - theory
 ---
 
-# INSTEAD OF E-DUCATION
-
 # JOHN HOLT
 
 Most people (particularly discerning parents) are convinced that our present educational system is not only mindless, but harmful as well. It damages children and ruthlessly suppresses their creative urges and individual identities. The most successful students are also the most dull and unimaginative, as efficiency in learning is exclusively identified with cramming.

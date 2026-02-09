@@ -13,8 +13,6 @@ tags:
 
 ## ![](_page_0_Picture_2.jpeg)
 
-# bell hooks
-
 ## Author of Salvation: Black People and Love
 
 ## "A warm affirmation that love is possible."

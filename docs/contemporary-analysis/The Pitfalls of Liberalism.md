@@ -7,10 +7,6 @@ tags:
   - current-events
 ---
 
-## [redsails.org](https://redsails.org/the-pitfalls-of-liberalism/)
-
-## **The Pitfalls of Liberalism**
-
 ## Kwame Ture
 
 15–19 minutes

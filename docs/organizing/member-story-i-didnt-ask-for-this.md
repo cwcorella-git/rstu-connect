@@ -7,8 +7,6 @@ tags:
   - organizing
 ---
 
-# Member Stories: "I Didn't Ask For This"
-
 *The following story was submitted anonymously by an RSTU member. Names and identifying details have been changed to protect privacy.*
 
 ---

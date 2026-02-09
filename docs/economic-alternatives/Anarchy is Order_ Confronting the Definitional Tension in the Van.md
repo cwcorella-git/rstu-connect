@@ -7,10 +7,6 @@ tags:
   - commons
 ---
 
-#### University of Memphis University of Memphis
-
-# University of Memphis Digital Commons University of Memphis Digital Commons
-
 ## Electronic Theses and Dissertations
 
 ## 4-22-2015

@@ -9,13 +9,7 @@ tags:
   - Kurdistan
 ---
 
-## **The Kurdish Women and Youth Committee of Neighborhoods Call for Nationwide Strike**
-
-## **Date:** Unknown
-
 ## **Source:**
-**Tags:** Slingers Collective, Iran, Kurdistan, general strikes, Iran protests 2022
-
 A call for a general strike from the 2022 uprising in Iran. This article was previously published in English by the Slingers Collective.
 
 The First Statement of the Women and Youth Committee of Sanandaj Neighborhoods:

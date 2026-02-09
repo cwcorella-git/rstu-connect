@@ -9,9 +9,6 @@ tags:
   - labor
 ---
 
-# A E I O U Agitate Educate Inoculate Organize Union Push From Wages So Low Youll
-
-A-E-I-O-U: Agitate, Educate, Inoculate, Organize, Union / pUsh (from "Wages So Low You’ll Freak" by Mike Pudd'nhead) Date: Unknown Source: https://libcom.org/article/e-i-o-u-agitate-educate-inoculate-organize-union-push-wages-so-lowyoull-freak-mike Tags: education
 A concise summary of the AEIOU model of organizing: Agitate, Educate, Inoculate, Organize, Unionize.
 This is extracted from Mike Pudd'nhead's bookWages So Low You’ll Freakabout his experience working at Jimmy Johns in the Twin Cities, Minnesota and attempting to organize a union with the Industrial Workers of the World (IWW) from 2007-2011.
 His full book can be found here https://libcom.org/library/wages-so-low-youll-freak-mike-puddnhead

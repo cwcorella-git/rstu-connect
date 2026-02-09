@@ -8,12 +8,6 @@ tags:
   - organizing
 ---
 
-## **What is (organized) anarchism? - Federación Anarquista Rosario (FAR)**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/what-organized-anarchism-federacion-anarquista-rosario-far**Tags:** Federación Anarquista Rosario, anarchism, especifismo, Black Rose Anarchist Federation
-
 A translation of a booklet produced by the Argentine organization Federación Anarquista Rosario (FAR) as a basic introduction to the especifismo tradition within the anarchist movement.
 
 ## Translation by Enrique Guerrero López

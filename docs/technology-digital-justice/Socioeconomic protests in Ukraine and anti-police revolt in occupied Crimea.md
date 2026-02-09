@@ -9,15 +9,7 @@ tags:
   - Ukraine
 ---
 
-## **Socioeconomic protests in Ukraine and anti-police revolt in occupied Crimea**
-
-## **Date:** Unknown
-
 ## **Source:**
-**Tags:** assembly.org.ua, Russia, Russia-Ukraine war, war, Crimea, police, wildcat strikes, strikes,
-
-## Ukraine
-
 As the sensless armed conflict becomes more and more of a protracted positional character, the discontent of the population is growing on both sides of the front line. That's why we ask you to donate our online newsletter for continuous media support of social struggle in the both warring countries or campaignto restore local community of half-destroyed Kharkov neighbourhoodsthrough joiningthis fundraising. A couple of cups of coffee in your country even before the war could be equivalent in price to the daily wage of a worker in Ukraine. Many thanks everyone in advance!
 
 The current month began with the incident on the first evening of autumn, when residents of the Kiev outskirts of Sofiyivska Borshchagovka blocked the street due to water cuts to 60 houses. The water supply was stopped due to debt of several million hryvnias, the local sewage pumping station was cutted. The management company, which regularly collected money from consumers, did bot transfer them to energy companies since the fall of last year, and then went bankrupt. After two days without water, a crowd of peopleblocked the busy roadwith chanting "Water! Water!" This has not happened in a long time! At 23:00, the protesters were forced to disperse because of the curfew. But at 00:07, the water supply to the houses resumed. The next day, a meeting of all representatives was announced to discuss the problem.

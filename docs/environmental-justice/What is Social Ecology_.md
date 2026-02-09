@@ -8,8 +8,6 @@ tags:
   - Bookchin
 ---
 
-# **Murray Bookchin What is Social Ecology? 1993**
-
 Nature and Society Social Hierarchy and Domination The Idea of Dominating Nature "Grow or Die!" An Ecological Society
 
 Murray Bookchin has long been a major figure in anarchlst and utopian political theory, theory of technology, urbanism, and the philosophy of nature. He is the cofounder and director emeritus of the Institute for Social Ecology. His many books include Toward an Ecological Society, The Ecology of Freedom, The Rise of Urbanization and the Decline of Citizenship, Remaking Society, and The Philosophy of Social Ecology.

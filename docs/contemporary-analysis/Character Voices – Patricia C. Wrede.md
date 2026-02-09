@@ -10,8 +10,6 @@ tags:
 
 ## [pcwrede.com](https://pcwrede.com/pcw-wp/character-voices-2/)
 
-## **Character Voices – Patricia C. Wrede**
-
 6–7 minutes
 
 ## ![](_page_0_Picture_5.jpeg)

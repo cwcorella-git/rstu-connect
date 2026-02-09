@@ -8,8 +8,6 @@ tags:
   - theory
 ---
 
-# DATA GRAB
-
 ## ![](_page_0_Picture_1.jpeg)
 
 THE NEW COLONIALISM

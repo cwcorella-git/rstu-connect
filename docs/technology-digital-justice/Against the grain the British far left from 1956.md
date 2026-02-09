@@ -9,14 +9,6 @@ tags:
   - digital rights
 ---
 
-## **Against the grain: the British far left from 1956**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/against-grain-british-far-left-1956
-
-**Tags:** Mark Hayes, Evan Smith, Matthew Worley, Solidarity, Class War Federation, United Kingdom,
-
 ## Direct Action Movement (DAM), Red Action, PDF
 
 A general history of the post-1956 British far-left. Its contents cover a range of organisations beyond the Labour Party, bringing together leading experts to examine issues of class, race and gender from 1956 to the present day. The essays collected here are designed to highlight the impact made by the far left on British politics and society.

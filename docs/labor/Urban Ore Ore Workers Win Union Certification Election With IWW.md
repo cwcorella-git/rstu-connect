@@ -9,13 +9,7 @@ tags:
   - urban
 ---
 
-## **Urban Ore Ore Workers Win Union Certification Election With IWW**
-
-## **Date:** Mon, 04/10/2023 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/5565
-
-**Tags:** Industrial Workers of the World (IWW), Bay Area IWW, recycling, recycling workers, reuse, green unionism, class struggle, green industrial unionism, Bay Area, COVID-19
 
 ## By Comms Officer - Bay Area IWW, April 10, 2023
 

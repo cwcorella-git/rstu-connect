@@ -7,8 +7,6 @@ tags:
   - Kropotkin
 ---
 
-## **Pëtr Kropotkin**
-
 ## **Anarchism: its philosophy and ideal**
 
 ## **1898**

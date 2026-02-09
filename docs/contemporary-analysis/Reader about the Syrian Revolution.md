@@ -11,14 +11,6 @@ tags:
   - rojava
 ---
 
-## **Reader about the Syrian Revolution**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/reader-about-syrian-revolution
-
-**Tags:** revolutions, Arab Spring, Syria, anarchism, Rojava
-
 Compilation of texts about the 21st-century Syrian revolution.
 
 On the 8th of December 2024 the pale doctor, dictator and butcher Bashar al-Assad whose regime unleashed uncountable atrocities on the Syrian people, fled the country. Half a century of repressive family rule has ended with him. After the crushed revolution of 2011 and more than a decade of war, relentless violent oppression of dissident voices, the Syrians are finally are able to witness the fall of this regime. These are truly weeks in that decades happen and many stand in bewilderment, joyful, hopeful yet also worried of what is to come. What way will the power change go, how will life be in the years to come?

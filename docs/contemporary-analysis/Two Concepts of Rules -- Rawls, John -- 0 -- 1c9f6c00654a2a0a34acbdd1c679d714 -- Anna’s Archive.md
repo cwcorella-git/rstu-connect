@@ -10,8 +10,6 @@ tags:
 
 ## ![](_page_0_Picture_0.jpeg)
 
-# **Two Concepts of Rules**
-
 ## John Rawls
 
 The Philosophical Review, Vol. 64, No. 1. (Jan., 1955), pp. 3-32.

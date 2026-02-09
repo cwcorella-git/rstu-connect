@@ -9,11 +9,7 @@ tags:
   - labor
 ---
 
-## **Union Advocates for Socialist Rifle Association Workers, Volunteers and Members**
-
 | Date: Fri, 03/04/2022 - 00:00
-Source: https://ecology.iww.org/node/4884
-Tags: Industrial Workers of the World (IWW), movements, unions, and organizations |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | By Meggie Kessler - |
 | Industrial Worker |

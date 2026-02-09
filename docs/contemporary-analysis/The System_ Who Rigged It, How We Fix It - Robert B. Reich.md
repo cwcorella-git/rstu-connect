@@ -8,8 +8,6 @@ tags:
   - current-events
 ---
 
-# THE SYSTEM
-
 ## ![](_page_0_Picture_1.jpeg)
 
 WHO RIGGED IT,

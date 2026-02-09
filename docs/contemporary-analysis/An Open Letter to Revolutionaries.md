@@ -10,12 +10,6 @@ tags:
   - libcom
 ---
 
-# **An Open Letter to Revolutionaries**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/open-letter-revolutionaries
-
 ## **Tags:** Class War Federation, United Kingdom
 
 An open letter to the revolutionary movement from the final issue of Class War.

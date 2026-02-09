@@ -10,13 +10,7 @@ tags:
   - workers
 ---
 
-## **(Deportation The (די דעפּאָרטאַציאָן**
-
 ## **Author:** Industrial Workers of the World (IWW)
-
-**Source:** https://libcom.org/article/dy-dpartazyan
-
-**Tags:** Industrial Workers of the World (IWW), Russia, United States, anarchists, United Kingdom, deportations, migration
 
 איינע פון די זיעגע אין דעם קאַמף צו מאַכען אונזער זאָגענאַנטע "פרייע רעפּובליק" פאַר אַן[right[ אמת'ע סאָוועטען רעפּובליק, איז געווען די בעפרייאונג פון די 12 חברים וועלכע זיינען געווען [right/[.פערהאַלטען אין עליס איילאַנד, דעפּארטירט צו ווערען מיט די אַנדערע
 

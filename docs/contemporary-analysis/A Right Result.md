@@ -11,14 +11,6 @@ tags:
   - police
 ---
 
-## **A Right Result**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/right-result
-
-**Tags:** fascism, 1990s, United Kingdom, Anti Fascist Action (AFA), Hertfordshire, police
-
 We have devoted a relatively large amount of space in this issue of Fighting Talk. to the following account of the trial of a group of fascists, after a race attack in the village of Bungtingford, Herts. The article highlights just how much the state is prepared to let the fascists get away with and poses important questions to those who feel that reliance on the police, rather than militant action, is the key to success.
 
 After a series of inexplicable delays and postponements, four members of the neo-Nazi British National Party finally stood trial at St. Albans Crown Court during the week Monday 14th June - Friday 18th June. They were charged in connection with an armed assault on five Bengali restaurant workers in Buntingford, Herts. The attack took place late at night during November 1991.

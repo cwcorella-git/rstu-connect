@@ -9,10 +9,7 @@ tags:
   - workers
 ---
 
-## **GE Tree Company Arbor Gen Found Guilty of Defrauding Workers, Fined \$53.5M**
-
-**Date:** Sat, 01/09/2016 - 19:29 **Source:** https://ecology.iww.org/node/1463**Tags:** timber workers, health and safety, Global Justice Ecology Project, Anne Petermann By Kip Doyle - Global Justice Ecology Project , January 7, 2015 New York (8 January 2015) –
-
+timber workers, health and safety, Global Justice Ecology Project, Anne Petermann By Kip Doyle - Global Justice Ecology Project , January 7, 2015 New York (8 January 2015) –
 Biotech firm Arbor Gen, a leader in the research and development of genetically engineered trees (GE trees), has been fined \$53.5 million in compensation and punitive damages after a court ruled that it acted to use "trickery and deceit" to "defraud" employees.
 
 Just before the holidays a judge issued the 180 page ruling (linked below) on the case in favor of ten Arbor Gen workers, and against the company, as well as its timber company founders, International Paper, Mead Westvaco (now West Rock) and New Zealand-based Rubicon, plus several of their Board members.

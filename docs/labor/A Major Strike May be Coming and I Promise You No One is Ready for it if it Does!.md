@@ -10,13 +10,7 @@ tags:
   - workers
 ---
 
-## **A Major Strike May be Coming and I Promise You No One is Ready for it if it Does!**
-
-## **Date:** Thu, 07/14/2022 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/5039
-
-**Tags:** Railroad Workers United (RWU), railroad workers, Federal Railroad Administration (FRA), crude-by-rail, transportation workers, transportation, class struggle, green unionism, Brotherhood of Locomotive Engineers and Trainmen (BLET), United Transportation Union (UTU)
 
 ## By Xaxnar -
 

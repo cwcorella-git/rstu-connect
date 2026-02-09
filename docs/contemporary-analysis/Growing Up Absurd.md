@@ -7,8 +7,6 @@ tags:
   - current-events
 ---
 
-# **Paul Goodman**
-
 # **Growing Up Absurd**
 
 # **Problems of Youth in the Organized Society**

@@ -11,14 +11,6 @@ tags:
   - sport
 ---
 
-## **From the clinker to cleats: the story of Nicolaas Steelink - Matthew Hart**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/clinker-cleats-story-nicolaas-steelink-matthew-hart
-
-**Tags:** Matthew Hart, Nicolaas Steelink, Enness Ellae, Industrial Workers of the World (IWW), football, sport
-
 An article by Matthew Hart about Nicolaas Steelink a.k.a. Enness Ellae, a member of the Industrial Workers of the World (IWW) who was important in the development of association football in the United States.
 
 Springtime marks the beginning of an annual tradition throughout the United States. Children put on their uniforms and cleats and begin to practice their soccer drills. Parents begin their end-of-the-week excursions to the local soccer fields hoping to witness their children score the winning goal of the game. Soccer, as much as any sport, has become part of the American fabric. Even the phrase "soccer moms" has come to symbolize, in many ways, the idealized suburban middle-class American dream. However, lost in this scene of modern Americana is the story of a man named Nicolaas Steelink. To most familiar with the name, Steelink symbolizes the very meaning of soccer in California. To history, his name represents agitation, strikes, and even revolution.

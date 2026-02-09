@@ -8,12 +8,6 @@ tags:
   - digital rights
 ---
 
-## **How To Set Up An Anti-Raids Group**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/how-set-anti-raids-group**Tags:** Haringey Anti-Raids, police, United Kingdom, migration
-
 ## A zine produced by Haringey Anti-Raids in 2018
 
 About this Zine Since September 2016, Haringey Antiraids has been organising to challenge immigration raids in our area, as one small step towards a world without borders and prisons, where no one is illegal.

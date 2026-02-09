@@ -8,8 +8,6 @@ tags:
   - current-events
 ---
 
-## [supreme.justia.com](https://supreme.justia.com/cases/federal/us/545/748/)
-
 ## **Castle Rock v. Gonzales, 545 U. S. 748 (2005)**
 
 89–113 minutes

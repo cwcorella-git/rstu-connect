@@ -8,13 +8,7 @@ tags:
   - United Kingdom
 ---
 
-## **More Farmers, Better Food: A framework for British Agricultural Policy**
-
-## **Date:** Tue, 08/02/2016 - 18:55
-
 ## **Source:** https://ecology.iww.org/node/1729
-
-**Tags:** United Kingdom (UK), food sovereignty movement, La Via Campesina, agricultural workers and peasants, climate justice, green unionism
 
 ## By the
 

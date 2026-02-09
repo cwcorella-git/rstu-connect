@@ -11,14 +11,6 @@ tags:
   - feminism
 ---
 
-## **Monthly London Meetings: 'Social Histories of Revolution: the Long 1960s'**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/monthly-london-meetings-social-histories-revolution-long-1960s
-
-**Tags:** 1960s, Vietnam war, social movements, France 1968, feminism
-
 'Social Histories of Revolution: the Long 1960s' explores this period from the perspectives of those whose strikes, demonstrations and other forms of struggle shook the world.
 
 We hope to emphasise history as made and lived by the 'ordinary' people who entered the political stage in collective struggle. Each session will be opened by speakers whose research as academics or experience as activists gives them a unique perspective on these events. The session will then be given over to open debate, and we encourage people of all ages and experiences to attend and contribute. Through collective discussion, we hope to reach a deeper understanding of revolution as the active participation of millions of people in changing history.

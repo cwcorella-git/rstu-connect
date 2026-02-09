@@ -8,13 +8,7 @@ tags:
   - environment
 ---
 
-## **Ohio Valley Environmental Coalition Staff Joins the IWW**
-
-## **Date:** Tue, 03/16/2021 - 19:27
-
 ## **Source:** https://ecology.iww.org/node/4195
-
-**Tags:** Industrial Workers of the World (IWW), NGOs, green unionism, ecological movements and organizations, movements, unions, and organizations, Ohio Valley Environmental Coalition (OVEC)
 
 ## By Staff -
 

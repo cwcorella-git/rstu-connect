@@ -8,8 +8,6 @@ tags:
   - class
 ---
 
-# L.A.'s Class Struggle Looks Like This The Tenants Mo... aboutreaderurl= **Source**: ./L.A.'s Class Struggle Looks Like This_ The Tenants Movement.pdf ## Content L.A.'s Class Struggle Looks Like This: The Tenants Mo... blackrosefed.org L.A.’s Class Struggle Looks Like This: The Tenants Movement Admin100 18-23 minutes Tenants in Los Angeles Chinatown rally against 200% increases. We reprint this piece from our comrades at Salvo Newspaper highlighting the powerful fights against displacement that tenants are waging in Los Angeles, fighting for their homes and building popular power. It’s well know that L.A.’s housing market is one of the 1 of 18 10/29/25, 11:47 PM  -- ## Page 2
-
 --
 
 --

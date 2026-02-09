@@ -8,13 +8,9 @@ tags:
   - theory
 ---
 
-## **The Conquest of Bread**
-
 #### **Peter Kropotkin**
 
 **Published:** Originally published in French in 1892 as La Conquête du Pain after appearing as a series of articles in Le Révolté. Between 1892 and 1894, the book was serialized in English in Freedom, with the English-language book appearing in 1907.
-
-**Source:** [Project Gutenberg](http://www.gutenberg.org/ebooks/23428)'s digitization of the 1926 Vanguard Press edition.
 
 **Markup for MIA:** [Micah Muer,](https://www.marxists.org/admin/volunteers/steering.htm#mmuer) 2021.
 

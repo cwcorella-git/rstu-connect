@@ -8,13 +8,7 @@ tags:
   - digital rights
 ---
 
-## **Why I Choose Optimism Over Despair: An Interview With Noam Chomsky (excerpt)**
-
-## **Date:** Thu, 02/25/2016 - 17:38
-
 ## **Source:** https://ecology.iww.org/node/1538
-
-**Tags:** Noam Chomsky, climate justice, green syndicalism, jobs versus environment, labor and environment
 
 ## Noam Chomsky interviewed by C. J. Polychroniou -
 

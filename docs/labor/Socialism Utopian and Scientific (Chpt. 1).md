@@ -9,8 +9,6 @@ tags:
 
 ## [marxists.org](https://www.marxists.org/archive/marx/works/1880/soc-utop/ch01.htm)
 
-## Utopian and Scientific (Chpt. 1)
-
 ## Frederick Engels
 
 29-37 minutes

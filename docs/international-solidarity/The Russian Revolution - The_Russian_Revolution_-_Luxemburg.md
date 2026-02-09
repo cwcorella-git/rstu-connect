@@ -9,13 +9,9 @@ tags:
   - solidarity
 ---
 
-# The Russian Revolution
-
 ## ![](_page_0_Picture_1.jpeg)
 
 ## Rosa Luxemburg
-
-## THE RUSSIAN REVOLUTION
 
 ### By Rosa Luxemburg
 

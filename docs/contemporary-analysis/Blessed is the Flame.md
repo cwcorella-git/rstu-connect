@@ -7,8 +7,6 @@ tags:
   - current-events
 ---
 
-# **Serafinski**
-
 # **Blessed is the Flame**
 
 # **An introduction to concentration camp resistance and anarcho-nihilism**

@@ -10,14 +10,6 @@ tags:
   - anarchism
 ---
 
-## **A letter to the libertarian left**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/letter-libertarian-left
-
-**Tags:** Libertarian Socialist Caucus, Democratic Socialists of America (DSA), especifismo, libertarian socialism, anarchism
-
 A piece that seeks to expand upon the Democratic Socialists of America's Libertarian Socialist Caucus' vision for the anarchist movement in the aftermath of LSC's post-2023 reorganization, explain how DSA-LSC and Horizon fit into that vision, and summarize their short and long-term goals toward strengthening the cause of libertarian socialism.
 
 Originally posted: August 8, 2024 atDSA Libertarian Socialist Caucus

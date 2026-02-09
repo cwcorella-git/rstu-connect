@@ -8,8 +8,6 @@ tags:
   - education
 ---
 
-# Educational Resources and Tenant Rights Materials
-
 **Date**: September 8, 2025
 **Purpose**: Comprehensive catalog of educational materials, tenant rights resources, and knowledge-sharing tools developed by and for RSTU members
 

@@ -9,14 +9,6 @@ tags:
   - digital rights
 ---
 
-## **"Give me my job back, say sorry, and don't do it again" – Interview with a worker sacked for being trans**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/give-me-my-job-back-say-sorry-and-dont-do-it-again-interview-worker-sacked-being-trans
-
-**Tags:** Industrial Workers of the World (IWW), LGBTQ+ (Lesbian Gay Bi Trans Queer +), United Kingdom, interviews, Sheffield, Red and Black Leeds
-
 An interview with a British trans IWW member who was fired for using the toilet at work, but after the company was picketed by the Sheffield section, got their job back.
 
 On trans day of visibilty, Red And Black Leeds distributed a leaflet making reference to the case and were kindly sent the interview that was done with the worker during the campaign, before they got their job back, but was never published. RABL reproduced it to illustrate the impact of transphobia on workers and the importance of sticking up for each other:

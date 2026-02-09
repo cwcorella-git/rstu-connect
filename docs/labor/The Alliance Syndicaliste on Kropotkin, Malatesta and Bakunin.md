@@ -10,14 +10,6 @@ tags:
   - Malatesta
 ---
 
-## **The Alliance Syndicaliste on Kropotkin, Malatesta and Bakunin**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/alliance-syndicaliste-kropotkin-malatesta-and-bakunin
-
-**Tags:** Peter Kropotkin, Errico Malatesta, Mikhail Bakunin, anarchism, syndicalism, Alliance syndicaliste révolutionnaire et anarcho-syndicaliste, ASRAS, René Berthier
-
 A three-part series of articles from 1975/6, written by the Alliance syndicaliste révolutionnaire et anarcho-syndicaliste (ASRAS), published in their newspaper Solidarité Ouvrière. The articles take a critical approach to aspects of Kropotkin and Malatesta, whilst offering forward parts of Bakunin as a remedy to their faults.
 
 Translated by Daniel Rashid February 2021Sourced from http://1libertaire.free.fr/Brochure Alliance05.html

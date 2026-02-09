@@ -8,10 +8,6 @@ tags:
   - digital rights
 ---
 
-#### [en.wikipedia.org](https://en.wikipedia.org/wiki/Approval_voting)
-
-# **Approval voting**
-
 ## Contributors to Wikimedia projects
 
 39–49 minutes

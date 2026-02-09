@@ -13,14 +13,6 @@ tags:
   - valerie
 ---
 
-# **Shulamith Firestone: The Fire / The Fury / The Madness**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/shulamith-firestone-fire-fury-madness
-
-**Tags:** David Wise, Stuart Wise, feminism, New York, Herbert Marcuse, Friedrich Engels, Valerie
-
 ## Solanas
 
 On the Inspirational Magnanimous Despair of Shulamith Firestone. A fulsome detonation by Stuart & David Wise along with our profound English / Palestinian friend, Samia - up and at 'em........ but always ready at one and the same time for a good laugh.

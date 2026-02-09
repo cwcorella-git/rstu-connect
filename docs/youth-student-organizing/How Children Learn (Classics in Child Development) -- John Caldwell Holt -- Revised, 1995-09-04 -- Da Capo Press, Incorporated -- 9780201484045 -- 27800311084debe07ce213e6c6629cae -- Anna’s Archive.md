@@ -6,8 +6,6 @@ tags:
   - theory
 ---
 
-# How Children Learn
-
 # John Holt
 
 ### Contents

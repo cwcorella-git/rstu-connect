@@ -9,14 +9,6 @@ tags:
   - Ireland
 ---
 
-# **Northern Ireland, the IRA and Class War**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/northern-ireland-ira-and-class-war
-
-**Tags:** nationalism, Class War Federation, Subversion, Northern Ireland, IRA, national liberation
-
 A debate between Subversion and a member of Class War over support for the Irish Republican Army (IRA), in issues 21 and 22 of Subversion in 1997.
 
 Open Letter to Subversion Subversion: you can't tell the difference between tactical interventions in the working class i.e. the Class War paper, our political beliefs. You also try to grossly simplify a really complicated situation, & never attempt to see any positive actions (in e.g. the IRA) because this upsets your ideological purity. You also never comment on loyalism its loyalty to the British capitalist state.

@@ -9,13 +9,7 @@ tags:
   - prisons
 ---
 
-# Police Behavior a Sociological Perspective Police Behavior a Sociological Pers
-
-## POLICE BEHAVIOR
-
 POLICE BEHAVIOR
-## A Sociological Perspective
-
 Richard J. Lundman
 ## The Ohio State University
 

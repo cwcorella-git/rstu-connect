@@ -11,8 +11,6 @@ tags:
 
 ## [britannica.com](https://www.britannica.com/event/Boston-Police-Strike)
 
-## **Boston Police Strike | Labor Unrest, Unionization & Strike**
-
 ## The Editors of Encyclopaedia Britannica
 
 2–3 minutes

@@ -8,14 +8,6 @@ tags:
   - liberty
 ---
 
-## **Hong Kong, a struggle for bourgeois freedoms trapped within the limits of capitalism and political submission to US/UK imperialism - Mouvement Communiste/Kolektivn**■ **proti Kapit**■**lu**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/hong-kong-struggle-bourgeois-freedoms-trapped-within-limits-capitalism-and-political
-
-**Tags:** strikes, riots, China, demonstrations, communications, transport, Hong Kong, democracy, Mouvement Communiste, Kolektivne Proti Kapitalu
-
 Text analysing the recent, and continuing, democracy protests in Hong Kong.
 
 In 2014, during the last demonstration of OCLP (Occupy Central with Love and Peace), the "Umbrella Movement"1, activists carried a banner on which was written the promise,"We will be back". A promise kept, and then some, as demonstrations against a legal change aimed at allowing extraditions to China gathered up to 2 million participants. A significant figure for Hong Kong, where the population is only 7.5 million.

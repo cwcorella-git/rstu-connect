@@ -8,13 +8,7 @@ tags:
   - feminism
 ---
 
-## **아나르카 페미니스트 선언 (Anarcha-Feminist Manifesto)**
-
 ## **Author:** Anonymous
-
-**Source:** https://libcom.org/article/analeuka-peminiseuteu-seoneon
-
-**Tags:** Anonymous, Anarchist Yondae, feminism, women, anarchism
 
 ● 이 글은 익명에 의해 작성되어 Anarchist Library에 개재된 [Anarchafeminist Manifest]를 번 역한 것이다. Anarchafeminist Manifesto
 

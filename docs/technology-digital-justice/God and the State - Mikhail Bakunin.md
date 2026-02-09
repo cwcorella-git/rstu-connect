@@ -11,8 +11,6 @@ tags:
 
 ## ![](_page_0_Picture_0.jpeg)
 
-# BAKUNIN
-
 ## God and the State
 
 ## HERAKLION PRESS

@@ -7,8 +7,6 @@ tags:
   - current-events
 ---
 
-## **G. Ogo, Drica Dejerk**
-
 ## **Soma**
 
 ## **an anarchist play therapy**

@@ -10,14 +10,6 @@ tags:
   - workers
 ---
 
-## **(R)evolution in the 21st Century: The case for a syndicalist strategy**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/revolution-21st-century-case-syndicalist-strategy
-
-**Tags:** Rasmus Hästbacka, syndicalism, anarcho-syndicalism, SAC, Sweden, Federalism
-
 The second in a series of three essays about syndicalistvision, strategyandmovement building. First published in the summer of 2022 on the website of US labor magazineASR. In a fourth bonus article, the author relates these themes to makingplans for action on the job. The fourth article was first published on the US union site Organizing Work. The text below has also been published as a standalone article on Znetwork. A short version of the text was previously published in the Swedish union paper Arbetaren. The author is a member of the Swedish unionSAC.
 
 "Those who work in the mills ought to own them, not have the status of machines ruled by private despots."

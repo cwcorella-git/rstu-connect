@@ -9,9 +9,6 @@ tags:
   - workers
 ---
 
-# Some Strikes Are More General Than Others
-
-Some strikes are more general than others Date: Unknown Source: https://libcom.org/article/some-strikes-are-more-general-others Tags: general strikes, Marianne Garneau, Organizing Work
 A critique ofa recent article from the Organizing Work blog, "You Say You Want A General Strike", examining recent general strike calls in slightly more depth.
 Marianne Garneau’s recent article, “You say you want a general strike”, is a well-written and welcome contribution to current discussions around general strikes and movement strategies. It is also, I think, limited in important ways, and so I want to try expanding on some of the points it skips over.
 The most important omission, I think, is one that Garneau touches on, but doesn’t fully explore. She writes “When picturing “general strikes,” a lot of people in North America may be looking at Europe, at these stunning mobilizations, but they are likely imagining things like the Seattle General Strike or Winnipeg General Strike of a hundred years ago – times when cities were shut down for long periods of time because enormous swaths of the workforce had walked off the job and refused to go back.” If people who are calling for a general strike have these sorts of strikes in mind, rather than the Euro-union-confederation-one-day-walkout model, it might be worth considering them further, but Garneau doesn’t explore these kinds of strikes beyond this one sentence.

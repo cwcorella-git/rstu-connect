@@ -8,8 +8,6 @@ tags:
 
 ## ![](_page_0_Picture_0.jpeg)
 
-## **Soil Solidarity**
-
 A Register Nevada Non-profit info@soilsolidarity.org Katie 775-842-2545
 
 Subject: **Collaborative Support for Housing Solutions**

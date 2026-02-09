@@ -13,14 +13,6 @@ tags:
   - pdf
 ---
 
-## **United We Stood: Writings and Analysis from the Vaughn 17**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/united-we-stood-writings-and-analysis-vaughn-17
-
-**Tags:** United States, riots, repression, prisons, Pennsylvania, Delaware, PDF
-
 A collection of new writings and analysis from the Vaughn 17, a group of prisoners who faced charges following an uprising at the James T. Correctional Center in Delaware. Most of the Vaughn 17 are still being held indefinitely in solitary confinement in Pennsylvania. This zine was first posted at It's Going Down.
 
 On February 1, 2017, prisoners in C–building at James T. Vaughn Correctional Center in Delaware took control of the building and held guards hostage in an uprising that lasted over 18 hours. That morning, several prisoners had put on masks and rushed the guards who were letting them back into the building from yard, while another prisoner ensured that the counselor on duty was kept safe and held off a CERT team that sought to retake the building.

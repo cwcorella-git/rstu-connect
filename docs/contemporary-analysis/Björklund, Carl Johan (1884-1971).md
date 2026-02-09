@@ -10,14 +10,6 @@ tags:
   - anarchism
 ---
 
-## **Björklund, Carl Johan (1884-1971)**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/bjorklund-carl-johan-1884-1971
-
-**Tags:** Nick Heath, Sweden, antimilitarism, anarchism
-
 A short biography of Carl Johan Björklund, Swedish anarchist and antimilitarist.
 
 Carl Johan Björklund was born in the old university town, Upsala in Sweden on August 7th 1884. His father was a machinist at the local waterworks.

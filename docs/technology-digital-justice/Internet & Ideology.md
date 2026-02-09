@@ -11,8 +11,6 @@ tags:
 
 ## **Internet & Ideology**
 
-# **Against the Nationalist Fragmentation of Cyberspace & Against "Astroturf Activism"**
-
 ## **May 31, 2013**
 
 Nationalist fragmentation in Russia? Nationalist fragmentation in China The Arab Spring & "Astroturf Activism"

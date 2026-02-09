@@ -9,13 +9,7 @@ tags:
   - green-syndicalism
 ---
 
-## **Do treeplanters suffer from Stockholm syndrome?**
-
-## **Date:** Thu, 03/01/2018 - 16:55
-
 ## **Source:** https://ecology.iww.org/node/2842
-
-**Tags:** Industrial Workers of the World (IWW), timber workers, green unionism, green syndicalism
 
 ## By x377547 -
 

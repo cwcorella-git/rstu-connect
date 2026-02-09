@@ -8,14 +8,6 @@ tags:
   - prisons
 ---
 
-## **Krasnoyarsk anti-fascist prisoners in Siberia sentenced to probation**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/krasnoyarsk-anti-fascist-prisoners-siberia-sentenced-probation
-
-**Tags:** assembly.org.ua, Russia-Ukraine war, war, Ukraine, Russia, prisons
-
 Just wonderful news from Russia!
 
 Welcome to join thefundraisingof our team for to work on this international column and offline volunteer activities. A couple of cups of coffee in your country, even before the war, could be equivalent to a day's earnings of a worker in Ukraine. Many thanks everyone in advance!

@@ -9,14 +9,10 @@ tags:
   - prisons
 ---
 
-# The Police Are Not Required To Protect You Barnes Law
-
 The Police are Not Required to Protect You — Barnes Law about:reader?url=https%3A%2F%2Fwww.barneslawllp...
 
 ## barneslawllp.com
 
-## The Police are Not Required to
-## Protect You — Barnes Law
 ## BarnesLawLLP
 
 ## 7–8 minutes

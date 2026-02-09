@@ -7,12 +7,6 @@ tags:
   - capitalism
 ---
 
-## **[VIDEO] Power to End Capitalism: The Case for Workplace Organizing**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/video-power-end-capitalism-case-workplace-organizing**Tags:** organisation, general strikes, Lucky Black Cat, Industrial Workers of the World (IWW)
-
 Organizing as workers gives us the power to improve our lives in the short-term and abolish capitalism in the long-term. So to say this is an important topic is an understatement! And that's what this video is all about.
 
 See below for a bit more info on what this video is about.

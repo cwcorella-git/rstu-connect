@@ -9,19 +9,11 @@ tags:
   - mine-workers
 ---
 
-## **NUMSA statement on Eskom CEO's resignation**
-
-## **Date:** Tue, 11/22/2016 - 18:33
-
 ## **Source:** https://ecology.iww.org/node/1928
-
-**Tags:** National Union of Metalworkers of South Africa (NUMSA), privatization, coal, mine workers,
 
 ## green unionism, ESKOM
 
 ## By Irvin Jim and Patrick Craven -
-
-## NUMSA
 
 ## , November 16, 2016
 

@@ -8,12 +8,6 @@ tags:
   - theory
 ---
 
-## **Anarchism - Encyclopedia Britannica**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/anarchism-encyclopedia-britannica
-
 ## **Tags:** Peter Kropotkin, anarchism
 
 Kropotkin's definition of Anarchism, written for the Encyclopedia Britannica and published in its 1911 edition.

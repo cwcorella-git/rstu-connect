@@ -8,8 +8,6 @@ tags:
   - theory
 ---
 
-# Fragments of an Anarchist Anthropology
-
 Fragments of an Anarchist Anthropology https://theanarchistlibrary.org/library/david-graeber-fr...
             David Graeber
             Fragments of an Anarchist

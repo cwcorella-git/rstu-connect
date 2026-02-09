@@ -12,14 +12,6 @@ tags:
   - revolutionary-unionism
 ---
 
-# **Beyond May Day: From Ritual to Resistance**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/beyond-may-day-ritual-resistance
-
-**Tags:** general strikes, direct action, unions, May Day, Jeff Shantz, revolutionary unionism
-
 The present period offers some new and encouraging openings—windows of opportunity for radical perspectives and movements against and beyond states and capital. To take advantage of this moment it is necessary to take a hard look at the ingrained rituals that have come to dominate movements.
 
 ## Jeff Shantz

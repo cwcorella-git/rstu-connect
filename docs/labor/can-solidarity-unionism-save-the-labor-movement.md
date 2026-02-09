@@ -9,7 +9,7 @@ tags:
   - unions
   - solidarity
 ---
-# Can “solidarity unionism” save the labor movement
+
 By Eric Dirnbach -
 Waging Nonviolence
 , November 4, 2015

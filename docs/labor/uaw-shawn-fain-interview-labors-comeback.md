@@ -14,8 +14,6 @@ tags:
 source: "CBS News"
 ---
 
-# Shawn Fain on Labor's Comeback: "This Is What Happens When Workers Get Power"
-
 *CBS News Interview*
 
 In this interview following the successful 2023 UAW strike, President Shawn Fain articulated his vision for worker power and responded directly to critics who accused him of waging class warfare.

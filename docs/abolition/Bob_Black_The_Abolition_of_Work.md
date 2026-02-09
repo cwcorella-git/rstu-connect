@@ -9,8 +9,6 @@ tags:
   - prisons
 ---
 
-# **The Abolition of Work**
-
 ## Bob Black
 
 ### 1991

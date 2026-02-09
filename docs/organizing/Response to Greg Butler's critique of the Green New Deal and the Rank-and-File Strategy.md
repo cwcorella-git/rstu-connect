@@ -7,13 +7,7 @@ tags:
   - organizing
 ---
 
-## **Response to Greg Butler's critique of the Green New Deal and the Rank-and-File Strategy**
-
-## **Date:** Sun, 02/07/2021 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/4154
-
-**Tags:** Green New Deal (GND), Kim Moody, just transition, labor and environment, jobs versus environment, green jobs, green unionism, offshore wind, wind power, Ørsted
 
 ## By x344543 -
 

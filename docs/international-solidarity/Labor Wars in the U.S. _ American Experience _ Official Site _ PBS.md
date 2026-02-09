@@ -10,8 +10,6 @@ tags:
 
 [pbs.org](https://www.pbs.org/wgbh/americanexperience/features/theminewars-labor-wars-us/)
 
-# **Labor Wars in the U. S.**
-
 ## American Experience
 
 15–18 minutes

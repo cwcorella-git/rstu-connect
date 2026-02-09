@@ -11,14 +11,6 @@ tags:
   - jose-mario-de-vega
 ---
 
-## **An Open Letter of a Part-Time Instructor from PUP**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/open-letter-part-time-instructor-pup
-
-**Tags:** education, universities, Philippines, Simoun Magsalin, Jose Mario De Vega
-
 A disgruntled worker formally employed at a state university writes an open letter detailing the absurdity of unpaid labor they were forced to do.
 
 A submitted open letter by Jose Mario De Vega with a foreword and afterword by Simoun Magsalin.

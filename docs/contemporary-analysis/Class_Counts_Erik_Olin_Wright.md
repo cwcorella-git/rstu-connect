@@ -7,8 +7,6 @@ tags:
   - class
 ---
 
-# **Class Counts**
-
 ## **Student Edition**
 
 ## Erik Olin Wright

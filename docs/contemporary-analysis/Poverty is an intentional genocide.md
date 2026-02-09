@@ -8,12 +8,6 @@ tags:
   - current-events
 ---
 
-## **Poverty is an intentional genocide.**
-
-## **Date:** 2023-02-08
-
-**Source:** https://www.threadings.io/17-poverty-is-an-intentional-genocide/
-
 Yes, that's right. I said genocide.
 
 Because it is.

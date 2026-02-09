@@ -9,10 +9,7 @@ tags:
   - climate
 ---
 
-## **'We need social ownership and democratic control of energy'**
-
-**Date:** Thu, 12/17/2015 - 17:39 **Source:** https://ecology.iww.org/node/1441**Tags:** Trade Unions for Energy Democracy (TUED), COP21, green unionism, just transition, labor and environment, green jobs By Tabby Spence - New Internationalist , December 16, 2015
-
+Trade Unions for Energy Democracy (TUED), COP21, green unionism, just transition, labor and environment, green jobs By Tabby Spence - New Internationalist , December 16, 2015
 The dust has settled in Paris, where hundreds of thousands of delegates, journalists and activists spent the last two weeks buzzing around on little sleep and carrying heavy agendas. Despite the news of a 'historic, world-saving agreement' flooding the airwaves, tens of thousands flooded the streets on Saturday to express grief, despair, anger, defiance, and a commitment to continue strengthening the climate justice movement. According to the activists, who were literally drawing massive red lines through central Paris (and in other places around the world), the Paris Agreement permits governments to cross many important red lines representing the basic requirements for a just and liveable planet (you can see more detailed analysis on just how bad the deal really is here
 
 ).

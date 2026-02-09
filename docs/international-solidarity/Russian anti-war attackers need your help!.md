@@ -8,14 +8,6 @@ tags:
   - Russia
 ---
 
-## **Russian anti-war attackers need your help!**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/russian-anti-war-attackers-need-your-help
-
-**Tags:** assembly.org.ua, Russia, Russia-Ukraine war, war, sabotage, prisons, police, Ukraine
-
 Even one in the field can be a warrior. Title photo with the arson of the riot cops HQ is from Komsomolsk-on-Amur in the Far East of the Russian Federation. International Week of Solidarity with Anarchist Prisoners 23-30 August is coming to an end but these brave resisters deserve to be supported even if they are not anarchists!
 
 Please support the authors of this rubric for humanitarian aid to civilian population in Kharkiv or campaignto restore local community of our neighbourhoodsthrough joiningthis fundraising. Many thanks in advance!

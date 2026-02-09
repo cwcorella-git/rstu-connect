@@ -6,13 +6,7 @@ tags:
   - organizing
 ---
 
-## **Popular Front. A volunteer group in occupied Melitopol is under persecution for their aid**
-
-## **Date:** Unknown
-
 ## **Source:**
-**Tags:** assembly.org.ua, Russia, Russia-Ukraine war, war, police, Ukraine
-
 This is the story from a resident of another southern Ukrainian town, taken by Russian troops in the first day of spring. Life is half-starving there, but this guy decided to save those who cannot survive in the occupation at all, and now is detained in unknown place.
 
 You are welcome to support the authors forrestoration of their communityin Kharkiv still being under daily Russian missile strikes all this days. Please jointhis fundraising.

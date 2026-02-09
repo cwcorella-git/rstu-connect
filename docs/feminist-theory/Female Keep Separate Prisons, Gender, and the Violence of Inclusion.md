@@ -7,14 +7,6 @@ tags:
   - feminism
 ---
 
-# **Female Keep Separate: Prisons, Gender, and the Violence of Inclusion**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/female-keep-separate-prisons-gender-and-violence-inclusion
-
-**Tags:** LGBTQ+ (Lesbian Gay Bi Trans Queer +), prisons, Canada, gender, North Shore Counter-Info,
-
 ## transgender, PDF
 
 A text, originally submitted to North Shore Counter-Info, exploring how gender is experienced in prison, arguing that "we also have to be able to critique [liberal ideas of inclusion] to continue working towards a world without prison and the violence of gender" and that "adopting the state's purely positive understanding of gender identity can lead us to... end up defending the state's projects from reactionaries when we should be attacking them on our own terms."

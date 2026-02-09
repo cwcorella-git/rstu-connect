@@ -6,8 +6,6 @@ tags:
   - class
 ---
 
-## Race & Class http://rac.sagepub.com/
-
 Review: The Darker Nations: a people's history of the Third World By VIJAY PRASHAD (New York and London, The New Press, 2007), 384 pp. Cloth \$26.95, Paper \$19.95
 
 Jordan T. Camp Race Class 2009 50: 100 DOI: 10.1177/03063968090500040702

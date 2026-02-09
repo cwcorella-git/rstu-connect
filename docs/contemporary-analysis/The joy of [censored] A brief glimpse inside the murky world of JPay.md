@@ -8,12 +8,6 @@ tags:
   - libcom
 ---
 
-## **The joy of [censored]: A brief glimpse inside the murky world of JPay**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/joy-censored-brief-glimpse-inside-murky-world-jpay
-
 ## **Tags:** prisons, communications, telecoms
 
 A brief look at the absurdities of a public-private censorship partnership.

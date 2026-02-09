@@ -10,14 +10,6 @@ tags:
   - workers
 ---
 
-## **FAQ on syndicalism**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/faq-syndicalism
-
-**Tags:** Rasmus Hästbacka, syndicalism, anarcho-syndicalism, SAC, Sweden
-
 22 online questions and answers. Launched by the syndicalist union SAC in Sweden, more precisely by its Local in the city of Umeå (Northern Sweden).
 
 Based on the first part of the book Swedish syndicalism – An outline of its ideology and practice, written by Rasmus Hästbacka.

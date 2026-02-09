@@ -9,8 +9,6 @@ tags:
 
 ## [pbs.org](https://www.pbs.org/wgbh/americanexperience/features/lbj-michigan/)
 
-## **The Great Society, U. Michigan, 1964**
-
 ## American Experience
 
 10–12 minutes

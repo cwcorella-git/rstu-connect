@@ -9,8 +9,6 @@ tags:
 
 #### [thecreativepenn.com](https://www.thecreativepenn.com/2021/04/05/dialogue-character-voice/)
 
-# **Writing Dialogue And Character Voice With Jeff Elkins**
-
 ## Joanna Penn
 
 38–49 minutes

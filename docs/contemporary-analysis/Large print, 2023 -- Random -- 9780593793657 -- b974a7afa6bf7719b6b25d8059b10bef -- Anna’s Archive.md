@@ -10,8 +10,6 @@ tags:
 
 ## Bestselling author of The Road to Character
 
-# BROOKS
-
 # HOW TO KINOW A PERSON
 
 The Art of Seeing Others Deeply and Being Deeply Seen

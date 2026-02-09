@@ -9,9 +9,6 @@ tags:
   - prisons
 ---
 
-# Why Oppose Police Unions
-
-Why oppose police unions? Date: Unknown Source: https://libcom.org/article/why-oppose-police-unions Tags: police, General Defense Committee
 A discussion document written by a member of the Twin Cities General Defense Committee on why police unions should be opposed by the labor movement.
 Originally posted: December 4, 2015 atTwin Cities General Defense Committee
 This is a discussion piece written by an individual member of the Twin Cities GDC. It does not represent an official document or position of the GDC, or the IWW.

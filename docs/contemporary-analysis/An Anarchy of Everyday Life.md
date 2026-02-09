@@ -6,8 +6,6 @@ tags:
   - anarchism
 ---
 
-# **Jeff Shantz**
-
 # **An Anarchy of Everyday Life**
 
 ## **2012**

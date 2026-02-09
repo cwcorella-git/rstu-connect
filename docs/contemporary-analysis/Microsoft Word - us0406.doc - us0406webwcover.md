@@ -11,8 +11,6 @@ tags:
 
 ## United States
 
-# So Long as They Die
-
 ## Lethal Injections in the United States
 
 ## **H U M A N R I G H T S W A T C H**

@@ -7,14 +7,6 @@ tags:
   - democracy
 ---
 
-## **"Black" anger shakes the rotten pillars of bourgeois and democratic "civilization" - Bordiga, 1965**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/black-anger-shakes-rotten-pillars-bourgeois-and-democratic-civilizati on-bordiga-1965
-
-**Tags:** Amadeo Bordiga, United States, 1960s, California, slavery, Urban Riots, racism, police
-
 I'm not a Bordigist, but... This text by Bordiga on the Watts Rebellion of 1965 seems somehow relevant to recent protests against racism. I discovered the French translation and realised that there was no decent English translation of the text available. Plus, the French edition had some relevant footnotes, including one quite harshly criticising Bordiga for being soft on the American Antebellum slave economy...
 
 1Once the outburst of the "black revolt" in California2had passed, international conformism buried the "embarrassing" event under a thick cloak of silence! While the "enlightened" bourgeois was still anxiously seeking to discover the "mysterious" causes that had hindered the operation of the "regular and peaceful" mechanisms of democracy, any observer on either side of the Atlantic could be consoled by recalling that, after all, explosions of collective violence by "colored people" are nothing new in America and that, for example, an equally serious explosion occurred in Detroit in 1943, without any significant follow-up3.

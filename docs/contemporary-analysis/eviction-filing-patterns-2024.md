@@ -13,8 +13,6 @@ tags:
 source: "Eviction Lab, Princeton University"
 ---
 
-# Eviction Filing Patterns in 2024: A National Analysis
-
 *Eviction Lab — 2024*
 
 The Eviction Lab's Eviction Tracking System (ETS) documented over one million eviction cases filed across monitored jurisdictions in 2024. This report analyzes patterns, trends, and disparities in eviction filings nationally.

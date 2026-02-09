@@ -8,12 +8,6 @@ tags:
   - digital rights
 ---
 
-## **Right and Left against the state: education without classes**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/right-and-left-against-state-education-without-classes**Tags:** Comrade Motopu, United States, education, Global Center for Advanced Studies
-
 Education reform, whether promoted by the Left or Right, often fails to deeply address the class-based issues driving the alleged "failure" of the educational system.
 
 "...we used to have all these individual performers who would sing before we had pre-recorded music and it's very sad now that you just listen to this performance that's a hundred times better." --Bill Gates1

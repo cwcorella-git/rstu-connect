@@ -10,8 +10,6 @@ tags:
 
 ## [harvardpolitics.com](https://harvardpolitics.com/police-unions-are-anti-labor/)
 
-## **Police Unions Are Anti-Labor**
-
 ## Ria Modak
 
 6–7 minutes

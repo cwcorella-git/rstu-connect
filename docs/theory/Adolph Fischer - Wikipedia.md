@@ -7,17 +7,11 @@ tags:
   - theory
 ---
 
-#### [en.wikipedia.org](https://en.wikipedia.org/wiki/Adolph_Fischer)
-
-# **Adolph Fischer**
-
 Contributors to Wikimedia projects
 
 6–8 minutes
 
 #### From Wikipedia, the free encyclopedia
-
-## **Adolph Fischer**
 
 ![](_page_0_Picture_8.jpeg)
 

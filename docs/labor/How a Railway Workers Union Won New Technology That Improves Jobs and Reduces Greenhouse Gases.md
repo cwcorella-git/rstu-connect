@@ -9,13 +9,7 @@ tags:
   - railroads
 ---
 
-## **How a Railway Workers Union Won New Technology That Improves Jobs and Reduces Greenhouse Gases**
-
-## **Date:** Mon, 12/19/2016 - 13:35
-
 ## **Source:** https://ecology.iww.org/node/1978
-
-**Tags:** Railroad Workers United (RWU), railroad workers, transportation workers, transportation, green
 
 ## unionism, Fritz Edler, just transition
 

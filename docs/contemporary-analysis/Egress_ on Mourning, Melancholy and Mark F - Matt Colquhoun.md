@@ -8,15 +8,11 @@ tags:
   - wikipedia
 ---
 
-# egress: on mourning, melancholy and Mark Fisher
-
 # MATT COLQUHOUN
 
 "A moving, deeply human act of mourning, as well as a call-to-arms to bring forward the future that Mark's writings make possible."
 
 ## ![](_page_0_Picture_3.jpeg)
-
-# egress: on mourning, melancholy and Mark Fisher MATT COLQUHOUN
 
 "A moving, deeply human act of mourning, as well as a call-to-arms to bring forward the future that Mark's writings make possible."
 

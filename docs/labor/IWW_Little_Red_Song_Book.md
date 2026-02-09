@@ -11,8 +11,6 @@ tags:
 
 ## ![](_page_0_Picture_0.jpeg)
 
-# WHAT IS THE IWW?
-
 The Industrial Workers of the World is a union open to wage and salary workers in all industries, and to members of the working class in all countries. Its aim is to enable workers to resist being used against each other either to undermine each other's jobs in peacetime or kill each other in war. Its hope is to make this planet a good place for all of us. We seek to build a new world in the shell of the old through direct control of industry by workers on the job.
 
 The IWW was founded in 1905 by unions in North America concerned mainly at the time with industrial organizing to prevent each trade union from being used against the others. Its history has been a notable one of skirmishes mainly in industries and occupations where unionism at the time had not become taken for granted. In these areas it has left behind enduring improvements in job safety and in other working and living conditions. The lWW has called for a shorter work day and work week, both to reduce unemployment and to bring leisure to the overworked. It has been particularly concerned with workers outside the traditional unions - women, Third World, low-skilled and low-paid workers. The IWW has always resisted discrimination whether for sex or color or language or religion, and was one of the first unions to resist discrimination for sexual preference. Its membership has always included a substantial number of workers active in other unions who see the need for the IWW and for greater solidarity between unions and between workers everywhere.

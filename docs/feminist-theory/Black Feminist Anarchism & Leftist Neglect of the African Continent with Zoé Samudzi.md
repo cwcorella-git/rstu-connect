@@ -8,13 +8,7 @@ tags:
   - feminism
 ---
 
-## **Black Feminist Anarchism & Leftist Neglect of the African Continent with Zoé Samudzi**
-
-## **Date:** Unknown
-
 ## **Source:**
-**Tags:** Zimbabwe, feminism, colonialism, Zoé Samudzi, Millenials are Killing Capitalism
-
 Transcript of an interview with Zoé Samudzi from the second episode of Millenials are Killing Capitalism.
 
 This week we're excited to bring you a conversation with Zoe Samudzi. Zoé is a freelance writer and doctoral student at the University of California, San Francisco. Her work is broadly around different aspects of race and coloniality, specifically through a black feminist lens.

@@ -8,8 +8,6 @@ tags:
   - theory
 ---
 
-# An Anarchist Faq
-
 An Anarchist FAQ https://theanarchistlibrary.org/library/the-anarchist-faq-...
             The Anarchist FAQ Editorial Collective
             An Anarchist FAQ

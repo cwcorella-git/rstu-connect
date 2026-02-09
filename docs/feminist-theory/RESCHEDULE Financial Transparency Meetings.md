@@ -6,12 +6,6 @@ tags:
   - feminism
 ---
 
-## **RESCHEDULE: Financial Transparency Meetings**
-
-## **Date:** 2025-07-14
-
-**Source:** https://www.threadings.io/financial-transparency-meetings-today/
-
 ## Peace all—
 
 Yeah, my laptop is busted. All the local files I was working on to analyze data for this meeting, I cannot currently see! I am bummed about this. My sincerest apologies. I was hoping to get things fixed over the weekend but it's looking like I need an entirely new screen :(

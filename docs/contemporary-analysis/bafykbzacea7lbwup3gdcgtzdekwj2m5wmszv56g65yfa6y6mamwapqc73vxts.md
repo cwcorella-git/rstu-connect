@@ -7,8 +7,6 @@ tags:
   - current-events
 ---
 
-# FRAGILITY
-
 ## WHY IT'S SO HARD
 
 ## FOR WHITE PEOPLE TO

@@ -8,8 +8,6 @@ tags:
   - current-events
 ---
 
-# COATES
-
 ## BETWEEN for THE WORLD ANDME
 
 ## ely Me- the nvi-
@@ -17,8 +15,6 @@ tags:
 ing
 
 # Between the World and Me
-
-## Ta-Nehisi Coates
 
 ## ![](_page_1_Figure_2.jpeg)
 

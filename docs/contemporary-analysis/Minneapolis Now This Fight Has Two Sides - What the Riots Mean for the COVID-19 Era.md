@@ -7,14 +7,6 @@ tags:
   - riots
 ---
 
-## **Minneapolis: Now This Fight Has Two Sides - What the Riots Mean for the COVID-19 Era**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/minneapolis-now-fight-has-two-sides-what-riots-mean-covid-19-era
-
-**Tags:** Crimeth Inc., United States, riots, Minneapolis, Minnesota, Black Lives Matter movement, police,
-
 ## George Floyd protests
 
 Crimethinc analyse the riots in Minneapolis, the first large-scale revolt in the US since the start of the Covid pandemic.

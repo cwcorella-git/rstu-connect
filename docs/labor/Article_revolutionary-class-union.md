@@ -8,9 +8,6 @@ tags:
   - class
 ---
 
-# Revolutionary Class Union
-
-Revolutionary Class Union Date: Unknown Source: https://libcom.org/article/revolutionary-class-union Tags: James P. Thompson, Industrial Workers of the World (IWW)
 James P Thompson writes on the necessity of workers to form revolutionary unions.
 "In order to understand the social movement it must be looked at as a process of natural history, governed by laws not only independent of the human will, consciousness and intelligence, but rather, on the contrary, determining that will, consciousness and intelligence."*1)
 "Just as the real reason why people dress differently in winter than in summer is to be found in the different climatic conditions, so, the real causes of all social changes and revolutions are to be sought, not in men's brains, not in their more or less confused ideas of right and wrong or of truth and justice, not in the philosophy but in the economics of each particular epoch."*2)

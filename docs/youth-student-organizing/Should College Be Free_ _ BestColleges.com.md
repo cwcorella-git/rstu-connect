@@ -9,10 +9,6 @@ tags:
   - youth
 ---
 
-#### [bestcolleges.com](https://www.bestcolleges.com/news/analysis/should-college-be-free/)
-
-# **Should College Be Free?**
-
 Mark J. Drozdowski, Ed. D.
 
 10–13 minutes

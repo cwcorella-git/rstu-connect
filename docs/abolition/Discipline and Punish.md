@@ -9,8 +9,6 @@ tags:
   - police
 ---
 
-# **Michel Foucault Discipline and Punish The Birth of the Prison**
-
 # **May 1995**
 
 **About the Author List of Plates Translator's Note**

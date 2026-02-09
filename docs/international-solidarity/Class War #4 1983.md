@@ -8,12 +8,6 @@ tags:
   - class
 ---
 
-## **Class War #4 1983**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/class-war-4-1983
-
 ## **Tags:** Class War Federation, PDF
 
 The notorious "autonomist" issue, including: class and class antagonism, socialism and its leftovers, press cuttings on shoplifting etc.

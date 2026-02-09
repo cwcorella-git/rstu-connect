@@ -11,8 +11,6 @@ tags:
 
 ## **Bob Black**
 
-## **The Abolition of Work**
-
 ## **1991**
 
 No one should ever work.

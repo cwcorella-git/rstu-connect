@@ -9,14 +9,6 @@ tags:
   - Russia
 ---
 
-## **Strike at a military airfield and other refusals to fight in Russia and Ukraine. Mid-autumn 2023**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/strike-military-airfield-and-other-refusals-fight-russia-and-ukraine-midautumn-2023
-
-**Tags:** assembly.org.ua, Russia-Ukraine war, war, Ukraine, Russia, sabotage, strikes, wildcat strikes, prisons
-
 Updates on refusals to fight or join armies in Ukraine and Russia amidst the Russian invasion.
 
 Pictured: Caricature by unknown author "On the offensive" (circa 1917) is relevant for both sides of the war.... Welcome to join thefundraisingof our team for to work on this international column and offline volunteer activities. A couple of cups of coffee in your country, even before the war, could be equivalent to a day's earnings of a worker in Ukraine. Many thanks everyone in advance!

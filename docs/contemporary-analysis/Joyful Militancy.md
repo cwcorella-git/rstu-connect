@@ -8,8 +8,6 @@ tags:
   - wikipedia
 ---
 
-# **carla bergman and Nick Montgomery Joyful Militancy**
-
 # **Building Thriving Resistance in Toxic Times**
 
 ### **2017**

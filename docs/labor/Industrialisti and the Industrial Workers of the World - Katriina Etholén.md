@@ -9,12 +9,6 @@ tags:
   - workers
 ---
 
-## **Industrialisti and the Industrial Workers of the World - Katriina Etholén**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/industrialisti-and-industrial-workers-world-katriina-etholen**Tags:** Katriina Etholén, Industrial Workers of the World (IWW), Industrialisti, Minnesota
-
 A writing by Katriina Etholén about the Finnish-language newspaper of the Industrial Workers of the World (IWW),Industrialisti.
 
 Originally posted: June 27, 2020 at Tales From The Brazier's Grotto

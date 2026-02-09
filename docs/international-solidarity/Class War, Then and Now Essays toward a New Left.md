@@ -8,14 +8,6 @@ tags:
   - class
 ---
 
-## **Class War, Then and Now: Essays toward a New Left**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/class-war-then-and-now-essays-toward-new-left
-
-**Tags:** Chris C. Wright, Marxism, Labor Battles, anarchism, Jimmy Hoffa, identity politics, class struggle, neoliberalism
-
 PDF compendium of essays from a book published in 2025, by Chris Wright.
 
 Nearly fifty years of outright class war against America's working and middle classes have brought the country to the brink of social and political collapse. According to some sources, 60 percent of Americans live paycheck to paycheck. Since 1975, \$80 trillion have been transferred from the bottom 90 percent of earners to the top 1 percent. Meanwhile, little action is being taken to mitigate global warming and ecological destruction, while military budgets, used in part to wage disastrous wars and genocides, climb annually.

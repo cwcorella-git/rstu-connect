@@ -8,13 +8,7 @@ tags:
   - climate
 ---
 
-## **An Open Letter to Our Allies in the Fight for Safe Rails and a Sustainable Environment**
-
-## **Date:** Fri, 06/09/2017 - 14:34
-
 ## **Source:** https://ecology.iww.org/node/2294
-
-**Tags:** Lac-Mégantic, Tom Harding, Richard La Brie, crude-by-rail, health and safety, railroad workers, Railroad Workers United (RWU), green unionism
 
 ## Open Letter - By
 

@@ -10,8 +10,6 @@ tags:
 
 ## James Herod
 
-## A Brief Critique of Anarcho-Syndicalism
-
 ## October 2010
 
 [Prefatory note: March 2017. This brief critique needs to be expanded, qualified, and rewritten with more nuance. I still hope to do that. Maybe I will, but if I don't, here it is as it was read out during my Imagining Anarchy talk at the Wooden Shoe Book Store in Philadelphia on October 15, 2010. That talk is available on YouTube. As I declared firmly immediately after reading it, the critique does not mean that I am against organizing at the workplace. It is just that I think the focus should be on establishing assemblies at the workplace and then networking these assemblies across workplaces, thus bypassing unions. So this separates my critique from Murray Bookchin's strident rejections of anarcho-syndicalism, which practically eliminated any role at all for workplace organizing. My position also puts me at odds with groups like the Workers Solidarity Movement in Ireland, and with the strategy of the Wobblies, both of which concentrate on building revolutionary unions.-- jh]

@@ -8,8 +8,6 @@ tags:
   - libcom
 ---
 
-## **Organise**
-
 | Date: Unknown |
 |------------------------------------------------------------------------------------------|
 | Source: https://libcom.org/article/organise|

@@ -7,10 +7,6 @@ tags:
   - wikipedia
 ---
 
-## [hackernoon.com](https://hackernoon.com/why-teslas-optimus-is-a-big-step-on-the-way-to-agi/)
-
-## Why Tesla's Optimus Is a Big Step on the Way to AGI
-
 ## Laszlo Fazekas
 
 4-5 minutes

@@ -7,8 +7,6 @@ tags:
   - culture
 ---
 
-# European Regulators Approve Sales of First Articial Heart
-
 - CE mark in 10 years 'a record' but production is complex: CEO
 - Articial heart has blockbuster sales potential: Portzamparc
 

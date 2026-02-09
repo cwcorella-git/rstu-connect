@@ -7,13 +7,7 @@ tags:
   - capitalism
 ---
 
-## **Capital Blight: The Two Bums**
-
-## **Date:** Wed, 04/13/2016 - 18:53
-
 ## **Source:** https://ecology.iww.org/node/1609
-
-**Tags:** capital blight, x344543, Don Blankenship, coal, mine workers, health and safety, carbon bubble, climate change, climate justice, just transition
 
 ## By x344543 -
 

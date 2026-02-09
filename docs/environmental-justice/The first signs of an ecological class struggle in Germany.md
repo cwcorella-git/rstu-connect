@@ -9,13 +9,7 @@ tags:
   - Germany
 ---
 
-## **The first signs of an ecological class struggle in Germany**
-
-## **Date:** Fri, 03/31/2023 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/5534
-
-**Tags:** general strikes, strikes, climate change, Climate Strike, Earth Strike, Fridays for the Future, green syndicalism, green unionism, transportation infrastructure, transportation workers
 
 ## By Franziska Heinisch and Julia Kaiser -
 

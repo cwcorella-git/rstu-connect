@@ -9,10 +9,6 @@ tags:
   - wikipedia
 ---
 
-#### [en.wikipedia.org](https://en.wikipedia.org/wiki/Coverture)
-
-# **Coverture**
-
 ## Contributors to Wikimedia projects
 
 27–34 minutes

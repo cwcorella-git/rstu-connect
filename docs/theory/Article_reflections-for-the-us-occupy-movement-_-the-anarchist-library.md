@@ -8,14 +8,10 @@ tags:
   - anarchism
 ---
 
-# Reflections For the Us Occupy Movement the Anarchist Library
-
 Reﬂections for the US Occupy Movement | The Anarchis... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## theanarchistlibrary.org
 
-## Reflections for the US Occupy
-## Movement
                Author: Peter Gelderloos
 
 ## 26–33 minutes

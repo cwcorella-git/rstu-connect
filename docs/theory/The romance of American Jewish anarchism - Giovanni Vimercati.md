@@ -8,12 +8,6 @@ tags:
   - theory
 ---
 
-## **The romance of American Jewish anarchism - Giovanni Vimercati**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/romance-american-jewish-anarchism-giovanni-vimercati**Tags:** Giovanni Vimercati, Jewish, anarchism, reviews, New York, Freie Arbeiter Stimme
-
 A review by Giovanni Vimercati of the 1980 documentary Free Voice of Labor: The Jewish Anarchists. Originally posted: February 16, 2021 at Vashti
 
 The folklore of American capitalism is replete with tales of self-made men who climbed the social ladder to leave behind the proverbial rags and enjoy the riches of a society that granted you anything in return for hard work. But the land of opportunity was never exactly so, not for everyone at least. Free Voice of Labor: The Jewish Anarchists(1980), a documentary by Steven Fischler and Joel Sucher recently restored by Harvard Film Archive and Indie Collect, chronicles the stories of those who, instead of chasing the American Dream and its chimaeras, fought the injustices upon which its enduring myth rests.

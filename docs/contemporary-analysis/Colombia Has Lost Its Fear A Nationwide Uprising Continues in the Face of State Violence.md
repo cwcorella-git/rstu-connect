@@ -6,13 +6,7 @@ tags:
   - riots
 ---
 
-## **Colombia Has Lost Its Fear: A Nationwide Uprising Continues in the Face of State Violence**
-
-## **Date:** Unknown
-
 ## **Source:**
-**Tags:** Crimeth Inc., general strikes, social movements, Colombia, Medios Libres Cali
-
 After decades of armed conflict and paramilitary violence, Colombia has seen protest movements return in strength over the past year and a half. The forceful demonstrations of the past week exceed even the high points of the nationwide uprising of November and December 2019. In response, the most heavily armed government in Latin America has carried out a brutal crackdown. This article was first published by Crimethinc.
 
 The COVID-19 pandemic and its social and economic consequences have hit Colombia hard. The country is reaching a breaking point as the ruling class attempts to squeeze the last drops of profit out of an already suffering populace kept in line via intense police violence. Although these conditions are especially extreme, they are not unique to Colombia—they resemble similar situations in Greece,Brazil, and elsewhere around the world. These are not coincidences, but parallel manifestations of global phenomena. Everywhere, the pandemic has intensified disparities in wealth, power, and access to the means of survival, while serving as an excuse for increasing state repression. In learning from and extending solidarity to those who face state and paramilitary violence in Latin America—much of which is supported and directed by the United States and other governments and capitalist institutions—we are confronting the same global forces that threaten our own freedom and well-being.

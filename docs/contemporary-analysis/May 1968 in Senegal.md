@@ -14,14 +14,6 @@ tags:
   - senegal
 ---
 
-## **May 1968 in Senegal**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/may-1968-senegal
-
-**Tags:** Lassou, strikes, schools, general strikes, students, universities, school students, Senegal,
-
 ## International Communist Current, PDF
 
 This is the last part of our series of five articles on the class struggle in French West Africa, centred in particular on Senegal. The series covers the period from the end of the 18th century up to 1968 and began publication in International Review n°145.

@@ -11,14 +11,6 @@ tags:
   - athens
 ---
 
-## **Hot Summer in Greece: The Lockdown Abates—the Struggle Continues**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/hot-summer-greece-lockdown-abates-struggle-continues
-
-**Tags:** Crimeth Inc., repression, prisons, Greece, Athens
-
 In this update, our correspondents in Greece describe the state of the anarchist movement following the easing of the lockdown and review the court cases that remain from the last year of struggle. This report was first published by Crimethinc. Content warning: this article contains mentions of domestic and sexual violence.
 
 The transition out of the lockdown is surreal. Are we refreshed, relieved, or simply desensitized? We continue to face the same uncertainty that COVID-19 has imposed on humanity for the past year and a half.

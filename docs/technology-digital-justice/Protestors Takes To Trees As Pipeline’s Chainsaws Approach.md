@@ -8,8 +8,6 @@ tags:
   - fossil fuels
 ---
 
-## **Protestors Takes To Trees As Pipeline's Chainsaws Approach**
-
 | Date: Thu, 03/31/2016 - 18:46 |
 |---------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/1581|

@@ -7,8 +7,6 @@ tags:
   - Mexico
 ---
 
-# Praise for Wobblies & Zapatistas
-
 *"There's no doubt that we've lost much of our history. It's also very clear that those in power in this country like it that way. Here's a book that shows us why. It demonstrates not only that another world is possible, but that it already exists, has existed, and shows an endless potential to burst through the artificial walls and divisions that currently imprison us. An exquisite contribution to the literature of human freedom, and coming not a moment too soon."*
 
 —David Graeber, **Author of** *Fragments of an Anarchist Anthropology* **and** *Direct Action: an Ethnography*

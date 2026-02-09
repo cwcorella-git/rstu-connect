@@ -8,8 +8,6 @@ tags:
   - theory
 ---
 
-# **Anarchism and the Black Revolution**
-
 ## Lorenzo Kom'boa Ervin
 
 # **Contents**

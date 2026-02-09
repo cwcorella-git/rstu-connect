@@ -7,14 +7,6 @@ tags:
   - feminism
 ---
 
-## **Falling star: Countering gender essentialism with sex essentialism**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/falling-star-countering-gender-essentialism-sex-essentialism
-
-**Tags:** feminism, gender, Red and Black Leeds, PDF
-
 Red and Black Leeds on the limitations of both gender essentialism and sex essentialism as a way to understand gender expression and identity.
 
 The Morning Star recently published a couple of articles about the phenomenon that is "transgenderism", claiming that it is at odds with feminism. As trans feminists we would like to express our fundamental disagreement with these articles, as we feel they are irresponsible and damaging. Not only are the articles misinformed and politically incoherent, they incite prejudice and animosity towards us.

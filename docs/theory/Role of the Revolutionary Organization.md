@@ -8,8 +8,6 @@ tags:
   - theory
 ---
 
-# **Black Rose Anarchist Federation**
-
 # **Role of the Revolutionary Organization**
 
 ## **July 13, 2019**

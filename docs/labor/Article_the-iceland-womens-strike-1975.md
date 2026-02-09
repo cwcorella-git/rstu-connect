@@ -8,9 +8,7 @@ tags:
   - women
 ---
 
-# The Iceland Womens Strike 1975
-
-The Iceland women’s strike, 1975 Date: Unknown Source: https://libcom.org/article/iceland-womens-strike-1975 Tags: Steven Johns, women, strikes, schools, general strikes, finance, feminism, Iceland, housework,
+Johns, women, strikes, schools, general strikes, finance, feminism, Iceland, housework,
 ## Reykjavik
 
 A short history of the strike, or day off, by 90% of women in Iceland for equality with men on 24 October, 1975, written by Steven Johns.

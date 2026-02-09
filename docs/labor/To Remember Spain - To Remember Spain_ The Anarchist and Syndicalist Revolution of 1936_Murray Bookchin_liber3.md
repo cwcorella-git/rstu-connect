@@ -12,8 +12,6 @@ tags:
 
 ## ![](_page_0_Figure_0.jpeg)
 
-## The Anarchist and Syndicalist Revolution of 1936
-
 ## Essays by Murray Bookchin
 
 ## IYXXX

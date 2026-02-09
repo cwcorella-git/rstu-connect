@@ -9,13 +9,7 @@ tags:
   - climate
 ---
 
-## **Report on Oil Train Response 2015 Crude Awakening Network Founding Conference**
-
-## **Date:** Sun, 12/13/2015 - 14:54
-
 ## **Source:** https://ecology.iww.org/node/1434
-
-**Tags:** Lac-Mégantic, Railcon15, railroad workers, Railroad Workers United (RWU), crude-by-rail, Marilaine Sevard, Stand Earth (Forest Ethics), green unionism, labor and environment
 
 ## By Fritz Edler -
 

@@ -9,10 +9,6 @@ tags:
   - United Kingdom
 ---
 
-## **Operation Sold Out II: The Failed General Strike in British Columbia in 2004 – Paul Finch**
-
-## **Date:** Unknown
-
 ## **Source:**
 
 https://libcom.org/article/operation-sold-out-ii-failed-general-strike-british-columbia-2004-paul-finch**Tags:** organisation, NEFAC, strikes, general strikes, Canada, The Northeastern Anarchist, Paul Finch

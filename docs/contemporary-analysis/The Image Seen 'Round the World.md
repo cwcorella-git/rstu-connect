@@ -8,10 +8,7 @@ tags:
   - current-events
 ---
 
-## **The Image Seen 'Round the World**
-
-**Date:** Mon, 08/21/2017 - 18:30 **Source:** https://ecology.iww.org/node/2385**Tags:** anti-fascism, Earth First!, Headwaters Forest, Green is the New Red, Humboldt County By Judy Hodgson - North Coast Journal , December 1997; with contemporary IWW EUC Commentary by the Ramblin' Dude [ Trigger Warning! - the embedded video depicts scenes of young women being tortured by police] We present this retrospective article and video to illustrate a point:
-
+anti-fascism, Earth First!, Headwaters Forest, Green is the New Red, Humboldt County By Judy Hodgson - North Coast Journal , December 1997; with contemporary IWW EUC Commentary by the Ramblin' Dude [ Trigger Warning! - the embedded video depicts scenes of young women being tortured by police] We present this retrospective article and video to illustrate a point:
 You know what's really HILARIOUS about these self-shot videos of neo nazi assholes reacting to being pepper sprayed as though they had received grievous trauma wounds in battle?
 
 Twenty years ago, a group of protesters, most of them small, young women, peacefully occupied (Republican Congressman, Frank Riggs's) office (in Eureka, California). Police were called, and eventually they swabbed law enforcement grade pepper spray directly in to the eyes of the peaceful protesters. The protesters held on. Many of them were swabbed multiple times. They held on. Even while their eyes were being pried open and swabbed, they didn't flail, kick, or bite. They held on. Several did not release until they had been picked up and carried outside.

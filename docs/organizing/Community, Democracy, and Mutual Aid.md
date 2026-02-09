@@ -11,8 +11,6 @@ tags:
 
 ## **Symbiosis Research Collective**
 
-# **Community, Democracy, and Mutual Aid**
-
 ## **Toward Dual Power and Beyond**
 
 ## **April 2017**

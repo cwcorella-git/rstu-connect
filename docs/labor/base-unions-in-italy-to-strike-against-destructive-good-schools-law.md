@@ -9,9 +9,6 @@ tags:
   - Italy
 ---
 
-# Base Unions in Italy To Strike Against Destructive Good Schools Law
-
-Base unions in Italy to strike against destructive “good schools” law Date: Unknown Source: https://libcom.org/article/base-unions-italy-strike-against-destructive-good-schools-law Tags: education, Italy, Freedom Press, base unions, CGIL
 A nationwide strike called by base unions against implementation ofLaw 107, better known as the “good school” law, is set to happen tomorrow, Friday 17th, writes Patrizia of Umanita Nova.
 The education sector is already experiencing the devastating effects of reforms desired by the Renzi government and former education minister Stefania Giannini, extending the powers of principals, the introduction of the “merit award,” extensions of the school-work system, the use of personnel in fictitious, precarious roles instead of full-time places which could help lower the number of pupils per class.
 The disaster is obvious, but is not yet complete. Parliament, when it voted for Law 107 in the summer of 2015, gave the Giannini powers to legislate directly, without parliamentary procedures, on implementation of its nine decrees. Enactment had been postponed until after thereferendumlast December (although Renzi's slip up has not served much) and in January, the last possible day, new Education Minister Paolo Gentiloni, issued eight out of nine decrees, the final piece of implementation of 107.

@@ -10,8 +10,6 @@ tags:
   - organizing
 ---
 
-# How to Organize a Tenants Association
-
 **The best time to organize a Tenants Association is *before* you have problems.**
 
 ---

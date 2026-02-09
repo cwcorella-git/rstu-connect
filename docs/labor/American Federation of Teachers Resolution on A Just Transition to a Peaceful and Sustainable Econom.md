@@ -8,13 +8,7 @@ tags:
   - just transition
 ---
 
-## **American Federation of Teachers Resolution on A Just Transition to a Peaceful and Sustainable Economy**
-
-## **Date:** Wed, 02/08/2017 - 14:31
-
 ## **Source:** https://ecology.iww.org/node/2065
-
-**Tags:** American Federation of Teachers (AFT), Philadelphia, green unionism, just transition, education workers
 
 Passed by the Executive Council of the American Federation of Teachers on February 3, 2017:
 

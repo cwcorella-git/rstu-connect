@@ -8,10 +8,6 @@ tags:
   - wikipedia
 ---
 
-#### [en.wikipedia.org](https://en.wikipedia.org/wiki/Proportional_representation)
-
-# **Proportional representation**
-
 ## Contributors to Wikimedia projects
 
 116–147 minutes

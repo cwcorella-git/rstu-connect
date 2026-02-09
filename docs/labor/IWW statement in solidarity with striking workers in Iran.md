@@ -9,12 +9,6 @@ tags:
   - labor
 ---
 
-## **IWW statement in solidarity with striking workers in Iran**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/iww-statement-solidarity-striking-workers-iran**Tags:** Industrial Workers of the World (IWW), repression, Iran, distribution, truckers
-
 The IWW union expresses its solidarity with Iranian truckers, currently striking against the government. See alsothis report from Freedom News.
 
 The IWW has received the following report from inside the country on the latest of a series of actions by truckers and other workers inside Iran:

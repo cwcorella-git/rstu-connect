@@ -8,10 +8,7 @@ tags:
   - cooperatives
 ---
 
-## **Union co-operatives: what they are and why we need them**
-
-**Date:** Sun, 01/15/2017 - 16:40 **Source:** https://ecology.iww.org/node/2019**Tags:** green unionism, cooperatives, green syndicalism, United Steelworkers of America (USW), social ecology, just transition By Simon Taylor - New Internationalist , January 12, 2017 Trade unionist Jimmy Reid described alienation as 'the frustration of ordinary people excluded from the process of decision-making'. This frustration is endemic in contemporary neoliberalised economies, and according to commentators, including George Monbiot , it contributes to the rise of populist backlashes and disempowerment. Unions play a vital role in counter-balancing alienation and frustration, responding to organizations imposing alienating practices on their workers. However, neoliberal policies have contributed to a long-term decline of union membership and influence in the Anglosphere and
-
+green unionism, cooperatives, green syndicalism, United Steelworkers of America (USW), social ecology, just transition By Simon Taylor - New Internationalist , January 12, 2017 Trade unionist Jimmy Reid described alienation as 'the frustration of ordinary people excluded from the process of decision-making'. This frustration is endemic in contemporary neoliberalised economies, and according to commentators, including George Monbiot , it contributes to the rise of populist backlashes and disempowerment. Unions play a vital role in counter-balancing alienation and frustration, responding to organizations imposing alienating practices on their workers. However, neoliberal policies have contributed to a long-term decline of union membership and influence in the Anglosphere and
 | elsewhere |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | |

@@ -13,8 +13,6 @@ tags:
 'Dazzling'
 ## Daniel Finkelstein
 
-# WILL STORR
-
 ## The Sunday Times Bestseller
 
 #

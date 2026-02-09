@@ -8,10 +8,7 @@ tags:
   - environment
 ---
 
-## **Ohio Valley Environmental Coalition Workers Stand Firm Despite Management Offensive**
-
-**Date:** Mon, 06/14/2021 - 00:00 **Source:** https://ecology.iww.org/node/4329**Tags:** Ohio Valley Environmental Coalition (OVEC), Industrial Workers of the World (IWW), NGOs, green unionism, ecological movements and organizations, movements, unions, and organizations, class struggle, union busting By staff - IWW , June 14, 2021 HUNTINGTON, WV — While public concern for urgent action on the environment remains high, one of West Virginia's most prestigious environmental organizations, the Ohio Valley Environmental Coalition (OVEC), is poised to miss crucial organizing opportunities this summer as it enters into the fourth month of a brutal dispute over their employee's right to unionize
-
+Ohio Valley Environmental Coalition (OVEC), Industrial Workers of the World (IWW), NGOs, green unionism, ecological movements and organizations, movements, unions, and organizations, class struggle, union busting By staff - IWW , June 14, 2021 HUNTINGTON, WV — While public concern for urgent action on the environment remains high, one of West Virginia's most prestigious environmental organizations, the Ohio Valley Environmental Coalition (OVEC), is poised to miss crucial organizing opportunities this summer as it enters into the fourth month of a brutal dispute over their employee's right to unionize
 In March 2021, workers of the Ohio Valley Environmental Coalition organized with majority support as the OVEC Union (OVECU) under the IWW, requesting voluntary recognition.
 
 .

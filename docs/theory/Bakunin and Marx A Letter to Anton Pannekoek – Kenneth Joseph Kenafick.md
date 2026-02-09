@@ -8,14 +8,6 @@ tags:
   - theory
 ---
 
-## **Bakunin and Marx: A Letter to Anton Pannekoek – Kenneth Joseph Kenafick**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/bakunin-and-marx-letter-anton-pannekoek-kenneth-joseph-kenafick
-
-**Tags:** Kenneth Joseph Kenafick, anarchism, Marxism, Mikhail Bakunin, Karl Marx, dialectics, Anton
-
 ## Pannekoek, PDF, Australia
 
 Australian anarchist Kenneth Joseph Kenafick's letter to Dutch council communist Anton Pannekoek (12 February, 1949) on the former's book Michael Bakunin and Karl Marx, Marxian dialectics, and the need for a synthesis of Marxist and anarchist ideas. Part of Pannekoek's reply can be readhere. Attached is Kenafick's handwritten copy, obtained from the Association Archives Antonie Pannekoek (Map-016).

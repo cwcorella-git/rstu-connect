@@ -8,14 +8,11 @@ tags:
   - theory
 ---
 
-# Anarchy Vs Archy No Justified Authority the Anarchist Library
-
 Anarchy Vs. Archy: No Justiﬁed Authority | The Anarchis... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## theanarchistlibrary.org
 
                 Anarchy Vs. Archy: No Justified
-## Authority
                 Author: ziq
 
 ## 18–23 minutes

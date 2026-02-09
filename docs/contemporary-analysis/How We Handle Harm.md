@@ -7,8 +7,6 @@ tags:
   - current-events
 ---
 
-# **Punch Up \* Kick Down Distro How We Handle Harm**
-
 ## **Contextualizing Harmful Behavior Understanding Accountability & Exploring Community Response to Interpersonal Violence**
 
 ## **2025**

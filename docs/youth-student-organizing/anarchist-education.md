@@ -8,8 +8,6 @@ tags:
   - education
 ---
 
-# Anarchist Education
-
 Anarchist Education https://theanarchistlibrary.org/library/judith-suissa-anar...
             Judith Suissa
             Anarchist Education

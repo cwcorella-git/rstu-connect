@@ -11,8 +11,6 @@ Project Gutenberg's Third class in Indian railways, by Mahatma Gandhi
 
 This e Book is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this e Book or online at www.gutenberg.net
 
-## Title: Third class in Indian railways
-
 ## Author: Mahatma Gandhi
 
 ## Release Date: January 31, 2008 [EBook #24461]

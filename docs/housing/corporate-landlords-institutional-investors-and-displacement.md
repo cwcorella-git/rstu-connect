@@ -14,8 +14,6 @@ tags:
 source: "Federal Reserve Bank of Atlanta Community and Economic Development Discussion Paper No. 2016-04"
 ---
 
-# Corporate Landlords, Institutional Investors, and Displacement: Eviction Rates in Single-Family Rentals
-
 *Federal Reserve Bank of Atlanta Community and Economic Development Discussion Paper No. 2016-04*
 
 This foundational research from the Federal Reserve Bank of Atlanta documents the relationship between corporate ownership of single-family rentals and eviction rates, providing empirical evidence that institutional landlords evict tenants at significantly higher rates than small landlords.

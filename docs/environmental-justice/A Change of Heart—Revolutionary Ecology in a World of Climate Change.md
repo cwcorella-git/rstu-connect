@@ -8,14 +8,6 @@ tags:
   - climate
 ---
 
-## **A Change of Heart—Revolutionary Ecology in a World of Climate Change**
-
-**Date:** Thu, 06/22/2017 - 11:09
-
-**Source:** https://ecology.iww.org/node/2314
-
-**Tags:** Judi Bari, Darryl Cherney, Judi Bari Bombing (May 24 1990), Industrial Workers of the World (IWW), Earth First!, Earth First! - IWW Local 1, green unionism, green syndicalism, timber workers, jobs versus environment
-
 By Rob DiPerna - Wild California , June 22, 2017 "The earth is not dying, it is being killed, and the people responsible have names and addresses."
 
 — U. Utah Phillips

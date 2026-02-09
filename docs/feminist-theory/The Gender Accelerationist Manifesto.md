@@ -6,8 +6,6 @@ tags:
   - feminism
 ---
 
-# **Vikky Storm and Eme Flores**
-
 # **The Gender Accelerationist Manifesto**
 
 # **4/24/2019**

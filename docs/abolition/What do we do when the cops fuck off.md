@@ -9,12 +9,6 @@ tags:
   - prisons
 ---
 
-# **What do we do when the cops fuck off?**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/what-do-we-do-when-cops-fuck
-
 ## **Tags:** Class War Federation, 1980s, riots
 
 An article from Class War looking at the experiences of London riots in the early-mid 1980s and the questions that would have to be solved to make police-free zones sustainable. Content note for discussion of sexual violence.

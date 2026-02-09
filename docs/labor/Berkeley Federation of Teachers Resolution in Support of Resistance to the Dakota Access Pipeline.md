@@ -8,13 +8,7 @@ tags:
   - fossil fuels
 ---
 
-## **Berkeley Federation of Teachers Resolution in Support of Resistance to the Dakota Access Pipeline**
-
-## **Date:** Tue, 11/22/2016 - 18:28
-
 ## **Source:** https://ecology.iww.org/node/1927
-
-**Tags:** Labor for Standing Rock (L4SR), Labor Union Camp, green unionism, NoDAPL, pipelines, Dakota Access Pipeline (DAPL), indigenous, Berkeley Federation of Teachers, teachers
 
 Resolution Passed ca. November 17, 2016, by the Berkeley Federation of Teachers, AFT local 1078
 

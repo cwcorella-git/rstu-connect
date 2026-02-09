@@ -8,8 +8,6 @@ tags:
   - climate
 ---
 
-## **It's happening: 2016 is the year of climate disobedience**
-
 | Date: Fri, 06/17/2016 - 17:30 |
 |---------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/1687|

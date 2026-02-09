@@ -8,14 +8,6 @@ tags:
   - class
 ---
 
-## **Capitalism is the Virus - Class Solidarity is the Cure!**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/capitalism-virus-class-solidarity-cure
-
-**Tags:** Ireland, Industrial Workers of the World (IWW)
-
 Statement from IWW Ireland on a class response to Covid-19
 
 The Covid-19 crisis has clearly shown how our society is constructed to operate for the benefit of the few, not the many. We have seen our creaking health and care services, North and South, facing unprecedented demand with governments belatedly realising that those to whom they recently denied a living wage are in fact 'heroes'... Sadly the Southern government's new found concern regarding health does not extend to those people living in Direct Provision, who remain in extremely cramped (and therefore life threatening) conditions.

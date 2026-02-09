@@ -9,10 +9,6 @@ tags:
   - workers
 ---
 
-# Why We Need Unions Heartunions
-
-Why we need unions! #HeartUnions Date: Mon, 02/08/2016 - 20:12 Source: https://ecology.iww.org/node/1490 Tags: green unionism, climate justice, just transition
-
 ## By Admin -
 
 ## A Green Trade unionist in Bristol

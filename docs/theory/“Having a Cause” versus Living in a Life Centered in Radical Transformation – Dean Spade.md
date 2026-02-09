@@ -9,8 +9,6 @@ tags:
 
 ## [deanspade.net](https://www.deanspade.net/2018/11/23/having-a-cause-versus-living-in-a-life-centered-in-radical-transformation/)
 
-## **"Having a Cause" versus Living in a Life Centered in Radical Transformation – Dean Spade**
-
 11–13 minutes
 
 Today is a horrifying holiday dedicated to false narratives that attempt to cover over colonialism and genocide, and also a day when many people make an effort to "give back" by volunteering somewhere. Images of friendly upper class people volunteering at soup kitchens to feed homeless people articulate charity narratives that hide the actual causes and consequences of wealth and poverty.

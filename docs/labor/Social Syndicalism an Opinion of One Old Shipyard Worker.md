@@ -8,13 +8,7 @@ tags:
   - labor
 ---
 
-# **Social Syndicalism: an Opinion of One Old Shipyard Worker**
-
-## **Date:** Tue, 11/17/2015 - 13:58
-
 ## **Source:** https://ecology.iww.org/node/1387
-
-**Tags:** Arthur Miller, Industrial Workers of the World (IWW), green syndicalism, movement politics
 
 ## By Arthur J Miller -
 

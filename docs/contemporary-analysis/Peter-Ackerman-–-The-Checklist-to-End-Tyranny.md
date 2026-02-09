@@ -10,8 +10,6 @@ tags:
 
 ## ![](_page_0_Picture_0.jpeg)
 
-# The Checklist to End Tyranny
-
 ## HOW DISSIDENTS WILL WIN
 
 ## 21ST CENTURY

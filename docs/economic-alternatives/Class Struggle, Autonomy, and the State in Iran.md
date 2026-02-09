@@ -8,14 +8,6 @@ tags:
   - class
 ---
 
-## **Class Struggle, Autonomy, and the State in Iran**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/class-struggle-autonomy-and-state-iran
-
-**Tags:** Arya Zahedi, Ill Will Editions, Iran, Iranian revolution, workers councils, class struggle,
-
 ## Autonomy, Marxism, Iran protests 2022
 
 Traversing a century of revolution, counter-revolution, and regime change in Iran, Arya Zahedi traces out the social, political, and ideological tensions that continuously push the country toward the brink of insurrection. Originally published in Ill Will Editions. www.illwill.com/iran

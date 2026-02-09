@@ -8,12 +8,6 @@ tags:
   - labor
 ---
 
-## **Workers Solidarity Movement closing statement**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/workers-solidarity-movement-closing-statement**Tags:** Workers Solidarity Movement, groups, Ireland, anarchism, platformism
-
 This is the promised detailed analysis of the end of the WSM following on from our very brief announcement of December 7th, 2021 titled 'WSM has come to an end - we look forward to new anarchist beginnings'. Developed over a couple of dozen meeting since it outlines our collective reflections on why we have taken this decision. It outlines the WSM's achievements, the challenges we have encountered, and the lessons we feel can be drawn for the future. We are writing for our comrades, friends and supporters who have worked with the WSM in the past. We are also writing for fellow anarchists internationally and all those who struggle in our social movements and wish to see a world without bosses. We hope this statement will be useful to those who wish to start new conversations and discussions about the kinds of movements and organisations we need to win.
 
 - 1.1 The Workers Solidarity Movement is no more. At a meeting in October 2021, we the members voted to dissolve our organisation. While we are each committed to continuing the cause of anarchism in some capacity, we have collectively agreed that the WSM is no longer the best vehicle to achieve that aim. We do not wish to keep repeating the same actions when we no longer believe they will yield different results.

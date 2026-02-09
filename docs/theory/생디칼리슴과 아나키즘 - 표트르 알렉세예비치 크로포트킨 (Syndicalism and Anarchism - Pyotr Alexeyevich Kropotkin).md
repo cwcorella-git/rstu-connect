@@ -9,13 +9,7 @@ tags:
   - Kropotkin
 ---
 
-## **생디칼리슴과 아나키즘 - 표트르 알렉세예비치 크로포트킨 (Syndicalism and Anarchism - Pyotr Alexeyevich Kropotkin)**
-
 ## **Author:** Peter Kropotkin
-
-**Source:** https://libcom.org/article/saengdikalliseumgwa-anakijeum-pyoteuleu-allegseyebichikeulopoteukin
-
-**Tags:** Peter Kropotkin, Anarchist Yondae, syndicalism, anarchism, anarcho-syndicalism
 
 다음은, 알려진 바 이 기사의 첫 번째 영어 번역본으로, 1908년 〈데어 생디칼리스트〉가 〈Les Temps Noveaux〉의 원고를 바탕으로 펴낸 것을 1977년 "북北 독일 아나키스트 조합"이 다시 펴낸 판본에 근거한다. J. Goddard가 이를 번역하였으며, L. Guenther가 이를 검토하였다. 이 문건은 오 래되었음에도, 많은 시사점을 가진다.
 

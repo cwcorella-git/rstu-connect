@@ -10,14 +10,6 @@ tags:
   - anarchism
 ---
 
-## **¡Ya Basta! The Call for a Latine Libertarian Socialism (Part 2): The Latine People Within the United States of America**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/ya-basta-call-latine-libertarian-socialism-part-2-latine-people-within-u nited-states
-
-**Tags:** Zapagon, Latin America, United States, libertarian socialism, anarchism
-
 Part 2 of a pamphlet concerning the formation of a Latine libertarian socialist/anarchist movement in the United States of America. This part will focus on the history of the formation of the Latine people due to European colonialism as well as the history of the Latine people in the US and Latine socialist organizations during the radical social movements of the 1960s and their downfall or neutralization.
 
 ## Part 1

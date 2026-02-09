@@ -9,10 +9,6 @@ tags:
   - climate
 ---
 
-## **Berkeley Protest of Arrests at Standing Rock**
-
-## **Date:** Mon, 10/31/2016 - 11:42
-
 | Source: https://ecology.iww.org/node/1886|
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Tags: Labor for Standing Rock (L4SR), NoDAPL, green unionism, Industrial Workers of the World

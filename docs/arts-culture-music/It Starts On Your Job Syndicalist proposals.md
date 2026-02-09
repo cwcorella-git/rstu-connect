@@ -8,12 +8,6 @@ tags:
   - labor
 ---
 
-## **It Starts On Your Job: Syndicalist proposals**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/it-starts-your-job-syndicalist-proposals**Tags:** Rasmus Hästbacka, syndicalism, anarcho-syndicalism, SAC, Sweden
-
 A fourth bonus article after a series of three articles about syndicalistvision, strategy, andmovement building. The fourth article is about making plans for action in individual workplaces. Thus, these articles start off on the macro level of class struggle and move down to the micro level on the job.
 
 The fourth article was first published on the US labor union website Organizing Work. Also in French. The other articles were first published in the summer of 2022 on the website of US labor magazineASR. A longer version of the text below was previously published in the Swedish union paper Arbetaren.

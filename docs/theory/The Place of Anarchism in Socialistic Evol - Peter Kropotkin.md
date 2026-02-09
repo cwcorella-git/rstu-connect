@@ -9,8 +9,6 @@ tags:
   - Kropotkin
 ---
 
-# PETER KROPOTKIN
-
 PLACE
 ANARCHISM
 SOCIALISTIC

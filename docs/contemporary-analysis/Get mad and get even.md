@@ -10,14 +10,6 @@ tags:
   - gender
 ---
 
-## **Get mad and get even**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/get-mad-and-get-even
-
-**Tags:** sex and sexuality, LGBTQ+ (Lesbian Gay Bi Trans Queer +), Australia, feminism, gender,
-
 ## Germaine Greer, Eleanor Robertson, Meanjin
 
 Eleanor Robertson critiques liberal forms of feminism, and offers some suggestions for what a class-struggle approach could look like. This article first appeared in Meanjin Quarterly.

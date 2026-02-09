@@ -9,13 +9,7 @@ tags:
   - fossil fuels
 ---
 
-## **Amid Price Plunge, North American Oil and Gas Workers Seek Transition to Renewable Sector**
-
-## **Date:** Sun, 04/03/2016 - 20:42
-
 ## **Source:** https://ecology.iww.org/node/1601
-
-**Tags:** green unionism, just transition, Iron and Earth, tar sands, carbon bubble, renewable energy, United Steelworkers of America (USW), renewable energy workers
 
 ## By Candice Bernd -
 

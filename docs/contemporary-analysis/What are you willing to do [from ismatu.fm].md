@@ -7,10 +7,6 @@ tags:
   - current-events
 ---
 
-## **What are you willing to do? [from ismatu.fm]**
-
-**Date:** 2025-01-25 **Source:** https://www.threadings.io/what-are-you-willing-to-do-from-ismatu-fm/What are you willing to do 0:00 / 610.4816326530612 1× Prelude:
-
 Hello, all. I recorded the following for ismatu.fm, a site I am utilizing to garner increased funds for my various projects (namely, rice farming). The money from threadings has been laying the groundwork for rice production in Sierra Leone for about a year now, and I am seeing the (literal!) fruits of that work this fall. I could just die. To reward those choosing to pay for essays, as well as create a place of accountability for regular project and system updates, I made ismatu.fm. The site is still under construction and also not for the public, hence the password protection; only for those paying \$10/month or more via Ghost or Patreon subscriptions can access right now. This is because project updates have knowledge about where I am and what I am doing in a way that would be straight up unwise to make accessible to everybody. However, in the interest of including people outside of the Western world (who cannot afford ten USD a month on some silly internet person), all of the paywalled items will be released to the public after (about) a calendar year. Should you be a paid subscriber here, you gain access to that website.
 
 | This is a supplemental piece I wrote for ismatu.fm; I thought it was a good bridge for the next |

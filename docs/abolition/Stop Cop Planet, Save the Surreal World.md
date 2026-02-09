@@ -9,13 +9,7 @@ tags:
   - prisons
 ---
 
-# **Stop Cop Planet, Save the Surreal World**
-
-## **Date:** Tue, 08/01/2023 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/5805
-
-**Tags:** Atlanta Forest, mobilizations and uprisings, anti-capitalism, libertarian-socialism, Industrial Workers of the World (IWW), Tortuguita, anarchism, green-anarchism, post scarcity anarchism, ecological movements and organizations
 
 ## By Dan Fischer -
 

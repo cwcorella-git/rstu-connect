@@ -8,13 +8,7 @@ tags:
   - class
 ---
 
-## **Black Awakening, Class Rebellion**
-
-## **Date:** Tue, 12/27/2016 - 17:52
-
 ## **Source:** https://ecology.iww.org/node/1991
-
-**Tags:** anti-fascism, combating racism, Black Lives Matter, class struggle, green unionism
 
 Keeanga-Yamahtta Taylor interviewed by George Ciccariello-Maher -
 

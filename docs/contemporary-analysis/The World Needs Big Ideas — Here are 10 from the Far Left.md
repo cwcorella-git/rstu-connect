@@ -13,13 +13,7 @@ tags:
   - just-transition
 ---
 
-# **The World Needs Big Ideas — Here are 10 from the Far Left**
-
-## **Date:** Mon, 03/06/2017 - 18:38
-
 ## **Source:** https://ecology.iww.org/node/2128
-
-**Tags:** green syndicalism, anarchism, anarcho-syndicalism, ecosocialism, green unionism, solar communism, just transition
 
 ## By Mary Lorax -
 

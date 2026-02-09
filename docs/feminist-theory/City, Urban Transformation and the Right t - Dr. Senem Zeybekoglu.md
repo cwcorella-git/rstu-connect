@@ -13,8 +13,6 @@ tags:
 
 ## 2020, Volume 4, Number 1, pages 1-10
 
-# City, Urban Transformation and the Right to the City
-
 ## \* Dr. SENEM ZEYBEKOGLU O
 
 ## ![](_page_0_Picture_5.jpeg)

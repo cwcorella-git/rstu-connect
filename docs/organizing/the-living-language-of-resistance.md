@@ -4,8 +4,6 @@ author: null
 date: 2026
 ---
 
-# The Living Language of Resistance: How Movements Speak in 2026
-
 The language of effective organizing has transformed radically since 2022. Successful tenant unions, labor strikes, and political mobilizations now share a distinct rhetorical DNA: explicit class conflict framing, material specificity over abstract ideology, social media transparency, and personal narrative grounding systemic analysis.
 
 The tenant movement in particular has developed a powerful vocabulary—"My rent is my power," "Every eviction is an act of violence," "Stay dangerous"—that sounds nothing like historical labor rhetoric and everything like the anger of people who've stopped asking for permission.

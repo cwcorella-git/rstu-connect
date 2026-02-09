@@ -7,14 +7,6 @@ tags:
   - antifascism
 ---
 
-## **Stjepan Filipovi**■**: everlasting symbol of anti-fascism**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/stjepan-filipovic-everlasting-symbol-anti-fascism
-
-**Tags:** fascism, culture, education, World War II, journalism, Yugoslavia, Serbia, Croatia, biographies,
-
 ## WWII resistance
 
 Short account of the execution of Croatian communist partisan Stjepan Filipovi■ by the Nazis in 1942, which was made famous by his final act of defiance.

@@ -10,8 +10,6 @@ tags:
 
 ## ![](_page_0_Figure_0.jpeg)
 
-### Folk Devils and Moral Panics
-
  **'. . . a brilliant and subtle exercise in "grounded theory".'** *Stuart Hall, Emeritus Professor, The Open University*
 
  **'Richly documented and convincingly presented'** *New Society*

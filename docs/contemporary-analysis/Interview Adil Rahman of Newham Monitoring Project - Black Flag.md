@@ -14,14 +14,6 @@ tags:
   - newham
 ---
 
-## **Interview: Adil Rahman of Newham Monitoring Project - Black Flag**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/interview-adil-rahman-newham-monitoring-project-black-flag
-
-**Tags:** Black Flag, 1990s, London, United Kingdom, interviews, Newham, Tower Hamlets, Newham
-
 ## Monitoring Project, racism, police
 
 Newham Monitoring Project has been fighting racial harassment and police harassment in East London for 18 years - consistently running an emergency advice line, offering practical support to individuals and running campaigns. NMP has always been a grassroots community organisation and funding has come and gone. The withdrawal of funding and loss of its office more than a year ago had lead to rumours of its demise but Black Flag found NMP still going strong when we interviewed Adil Rahman.

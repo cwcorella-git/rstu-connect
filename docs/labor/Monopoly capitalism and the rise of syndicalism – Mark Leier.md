@@ -8,14 +8,6 @@ tags:
   - capitalism
 ---
 
-## **Monopoly capitalism and the rise of syndicalism – Mark Leier**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/monopoly-capitalism-and-rise-syndicalism-mark-leier
-
-**Tags:** Industrial Workers of the World (IWW), United States, capitalism, syndicalism, Canada, Mark
-
 ## Leier, revolutionary unionism
 
 A portion of the first chapter of labour historian Mark Leier's 1990 book [em]Where the Fraser River Flows: The Industrial Workers of the World in British Columbia[/em], which may serve as an introduction to the IWW's syndicalist ideas and practices, as well as what conditions brought about the revolutionary union in the first place.

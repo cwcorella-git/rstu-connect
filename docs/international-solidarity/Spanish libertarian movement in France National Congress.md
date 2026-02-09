@@ -8,14 +8,6 @@ tags:
   - France
 ---
 
-## **Spanish libertarian movement in France National Congress**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/spanish-libertarian-movement-france-national-congress
-
-**Tags:** Confederación Nacional del Trabajo (CNT), International Workers' Association (IWA), anarchism
-
 An account of a Congress in France of the Spanish anarchist movement in exile. Originally appeared in the Anarchist Federation of Britain's Direct Action (June 1945, 2nd).
 
 Revolutionary history was made in France last month. For the first time a revolutionary movement in exile held a nation-wide Congress. "Delegates representing 35,000 anarcho-syndicalist militants of the Spanish Libertarian Movement from every corner of France assembled to consider the lines on which their future revolutionary activities should be based. The Congress was a great success and resulted in complete agreement on all points of discussion which ranged from an analysis of the part played by the Spanish Movement during the Civil War to the immediate future.

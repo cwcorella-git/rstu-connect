@@ -7,13 +7,7 @@ tags:
   - prisons
 ---
 
-## **June 11th: Interview with Panagioti from Fight Toxic Prisons**
-
-## **Date:** Tue, 05/15/2018 - 16:22
-
 ## **Source:** https://ecology.iww.org/node/2872
-
-**Tags:** IWOC, Industrial Workers of the World (IWW), prison labor, Prison Ecology Project, green syndicalism, capital blight, Marius Mason, Earth First!
 
 ## By June 11 -
 

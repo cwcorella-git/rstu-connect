@@ -11,8 +11,6 @@ tags:
 
 # **Robert H. Haworth**
 
-# **Anarchist Pedagogies**
-
 # **Collective Actions, Theories, and Critical Reflections on Education**
 
 # **2012**

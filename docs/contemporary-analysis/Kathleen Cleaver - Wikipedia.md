@@ -9,17 +9,11 @@ tags:
   - wikipedia
 ---
 
-#### [en.wikipedia.org](https://en.wikipedia.org/wiki/Kathleen_Cleaver)
-
-# **Kathleen Cleaver**
-
 ## Contributors to Wikimedia projects
 
 12–15 minutes
 
 ## From Wikipedia, the free encyclopedia
-
-### **Kathleen Cleaver**
 
 ## ![](_page_0_Picture_8.jpeg)
 

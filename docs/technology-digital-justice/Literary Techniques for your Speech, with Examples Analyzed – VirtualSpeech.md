@@ -9,8 +9,6 @@ tags:
 
 #### [virtualspeech.com](https://virtualspeech.com/blog/literary-techniques-for-a-speech)
 
-# **Literary Techniques for your Speech, with Examples Analyzed**
-
 ## November 8, 2022
 
 8–9 minutes

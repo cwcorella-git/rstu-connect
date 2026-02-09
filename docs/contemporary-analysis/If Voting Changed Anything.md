@@ -10,14 +10,6 @@ tags:
   - electoralism
 ---
 
-## **If Voting Changed Anything...**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/if-voting-changed-anything
-
-**Tags:** Black Flag, state, Murray Bookchin, Independent Working Class Association (IWCA), electoralism
-
 A critical article on the electoralism of Murray Bookchin and the Independent Working Class Association from Black Flag#207 (1995)
 
 The issue of elections to state bodies has once again become live. Anarchists today are presented with arguments for their use from two angles. Firstly, there is Murray Bookchin and his allies, the social ecologists who argue for "libertarian municipalism". Secondly, there is the agenda of some parts of the left who are seeking to create a new political force, against Labour and of the working class.

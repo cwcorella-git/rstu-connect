@@ -9,12 +9,6 @@ tags:
   - libcom
 ---
 
-## **Post-conspiracy: Notes from an Egoist Criminologist**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/post-conspiracy-notes-egoist-criminologist**Tags:** Itjang Djoedibarie, illegalism, egoism, anarchism, conspiracy theories
-
 Do not mistake this for a manifesto. This is a criminologist's autopsy report on a rotting social order. I have grown tired of the naive formulas of organizations and collectives, which inevitably replicate the very systems of control they claim to oppose. My disillusionment, born from a hypocritical discipline and a personal history of systemic violence, forced me to look outside the law and its false morality. What I found in the shadows was not a new ideology, but a pattern of action I call Post-conspiracy: a form of spontaneous, sequential illegalism driven by individual will, not collective hope. This text is not a blueprint for a better future; it is an analysis of how the sovereign Ego moves and disrupts the present. If you are looking for hope, look elsewhere.
 
 For years, I've wallowed in the mire of criminology—a discipline taught as if it were God's own truth: neutral, sterile, objective. They speak of victims with false empathy, as if crime were an anomaly born of a vacuum. It makes me puke. Science that pretends to be impartial is the most despicable intellectual whore. Criminality, my friend, is never born of nothing. It is the logical consequence of an oppressive social mechanism, of the system's teeth grinding the bones of those below. And if the system itself is a structured lie, then what they call "crime" is often the starkest honesty, the purest rebellion of the Ego refusing to be subdued.

@@ -10,11 +10,7 @@ tags:
   - workers
 ---
 
-## **No jobs on a dead planet: Why South African unions should stop investing in fossil fuels and lobby for a just, planned transition to a green economy**
-
 | Date: Mon, 02/06/2017 - 17:09
-Source: https://ecology.iww.org/node/2058
-Tags: just transition, labor and environment, green jobs, green unionism, South Africa |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | By David Le Page - |
 | Fossil Free South Africa |

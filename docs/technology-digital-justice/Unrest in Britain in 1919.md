@@ -9,14 +9,6 @@ tags:
   - digital rights
 ---
 
-## **Unrest in Britain in 1919**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/unrest-britain-1919
-
-**Tags:** mutinies, strikes, riots, police, United Kingdom, military and law enforcement, Anarchist
-
 ## Communist Group (ACG), UK, 1919
 
 A short account of unrest in Britain during the year 1919

@@ -6,8 +6,6 @@ tags:
   - Bakunin
 ---
 
-# **Michail Bakunin God and the State 1882**
-
 **Preface to the First French Edition I II III IV Credo quod absurdum**
 
 ### **Preface to the First French Edition**

@@ -9,13 +9,7 @@ tags:
   - prisons
 ---
 
-## **Rally to End Toxic Prison Slavery in Solidarity with September 9 Nationwide Prison Strike**
-
-## **Date:** Sun, 08/14/2016 - 14:24
-
 ## **Source:** https://ecology.iww.org/node/1741
-
-**Tags:** IWOC, Prison Ecology Project, prison labor, Industrial Workers of the World (IWW), Earth First!, green syndicalism, green unionism
 
 ## By staff -
 

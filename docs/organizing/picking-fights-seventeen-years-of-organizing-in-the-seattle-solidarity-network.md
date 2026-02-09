@@ -10,7 +10,7 @@ tags:
   - crimethinc
   - Seattle
 ---
-# Picking Fights Seventeen Years of Organizing in the Seattle Solidarity Network
+
 In the following reflections, which were originally published throughCrimethinc, participants in the Seattle Solidarity Network share what they have learned in the course of 17 years of experimenting with tactics to fight against bosses and landlords.
 Original link:https://crimethinc.com/SeaSol
 For an action-obsessed group like the Seattle Solidarity Network (SeaSol), pausing for reflection is a rare thing. Upon receiving the invitation to prepare this text, we embarked on a collective process that included written interviews with more than a dozen participants with different levels of involvement over the years—exactly the sort of inefficient endeavor that we work so hard to keep out of our regular organizing activities. It was a little embarrassing how high emotions were for people at times, but that also shows just how much SeaSol means to all of us, whether we were in it for a long or even a short period of time. What follows is our best effort to share with you who we are and what we’ve learned over the past seventeen years.

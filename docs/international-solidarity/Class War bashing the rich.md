@@ -8,8 +8,6 @@ tags:
   - class
 ---
 
-## **Class War "bashing the rich"**
-
 | Date: Unknown |
 |-----------------------------------------------------------------------------------------------------------|
 | Source: https://libcom.org/article/class-war-bashing-rich|

@@ -8,13 +8,9 @@ tags:
   - culture
 ---
 
-### **THINKING AHEAD:**
-
 ## PREPARING YOUNG MINDS FOR A FUTURE WORLD
 
 ## ![](_page_0_Picture_2.jpeg)
-
-# THINKING AHEAD:
 
 ## PREPARING YOUNG MINDS FOR A FUTURE WORLD
 

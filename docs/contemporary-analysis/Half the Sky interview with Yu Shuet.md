@@ -10,12 +10,6 @@ tags:
   - libcom
 ---
 
-## **Half the Sky: interview with Yu Shuet**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/half-sky-interview-yu-shuet
-
 ## **Tags:** Zero, Yu Shuet, China, feminism
 
 A former Cantonese Red Guard speaks to London-based anarchist-feminist magazine Zero on the conditions of women in China in 1977.

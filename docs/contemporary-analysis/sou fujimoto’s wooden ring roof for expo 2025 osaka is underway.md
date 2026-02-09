@@ -9,8 +9,6 @@ tags:
 
 #### [designboom.com](https://www.designboom.com/architecture/construction-starts-sou-fujimoto-700-meter-diameter-wooden-ring-roof-expo-2025-osaka-master-plan-09-04-2023/)
 
-# construction starts on sou fujimoto's 700m diameter wooden ring roof for expo 2025 osaka master plan
-
 ## lea zeitoun I designboom
 
 3–4 minutes

@@ -12,8 +12,6 @@ tags:
 
 ## ![](_page_0_Picture_0.jpeg)
 
-## **Black Radicalism, Marxism, and Collective Memory: An Interview with Robin D. G. Kelley**
-
 ## Jordan T. Camp
 
 American Quarterly, Volume 65, Number 1, March 2013, pp. 215-230 (Article)

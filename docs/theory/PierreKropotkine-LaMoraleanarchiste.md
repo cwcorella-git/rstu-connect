@@ -10,8 +10,6 @@ tags:
 
 ## ![](_page_0_Picture_0.jpeg)
 
-#### **La Morale anarchiste**
-
 ## Kropotkine, Pierre
 
 ## **Publication:** 1889

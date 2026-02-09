@@ -8,8 +8,6 @@ tags:
   - wikipedia
 ---
 
-# **A new modern Design of four-sided Windcatcher for Natural Ventilation in Residential Building in Saudi Arabia**
-
 # **Ali Alzaed1 and Ashraf Balabel2**
 
 *1 Faculty of Engineering, Taif University, Al-Haweiah, Taif, Saudi Arabia.*

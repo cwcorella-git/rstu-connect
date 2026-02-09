@@ -7,14 +7,6 @@ tags:
   - prisons
 ---
 
-## **The New Prisoner - Martin Sostre (with introduction by Garrett Felber)**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/new-prisoner-martin-sostre-introduction-garrett-felber-0
-
-**Tags:** United States, 1970s, prisons, Martin Sostre, Garrett Felber, PDF
-
 A 1970s article from the revolutionary prisoner Martin Sostre, responding to the Attica uprising.
 
 From his solitary cell at Auburn prison in 1972, political prisoner Martin Sostre warned that "if Attica fell to us in a matter of hours. . . so shall fall all your fortresses, inside and out. Revolutionary spirit conquers all obstacles."

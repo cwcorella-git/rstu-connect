@@ -7,8 +7,6 @@ tags:
   - theory
 ---
 
-# After Deschooling, What? Ivan Illich, et al. Edited by Alan Gartner, Collin Grange and Frank Riessman
-
 ## Colin Greer, and Frank Riessman
 
 ## ![](_page_0_Picture_3.jpeg)

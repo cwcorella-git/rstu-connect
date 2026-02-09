@@ -8,13 +8,7 @@ tags:
   - climate
 ---
 
-# **Motion to Face the Realities of Climate Change**
-
-## **Date:** Mon, 03/14/2016 - 18:55
-
 ## **Source:** https://ecology.iww.org/node/1558
-
-**Tags:** US Labor Against the War, climate justice, green unionism, anti-militarism
 
 ## Adopted by UA Local 393 in San Jose -
 

@@ -12,8 +12,6 @@ tags:
 
 ## —ANDREA LONG CHU
 
-# BEING NUMEROUS SSAYS ()/V
-
 ## NATASHA LENNARD
 
 ## "Compassionate and merciless."

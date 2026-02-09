@@ -7,17 +7,11 @@ tags:
   - alternatives
 ---
 
-# **EXPULSIONS**
-
 ## Brutality and Complexity in the Global Economy
 
 ## SASKIA SASSEN
 
 ## ![](_page_0_Picture_3.jpeg)
-
-# **EXPULSIONS**
-
-# E X P U L S I O N S
 
 # Brutality and Complexity in the Global Economy
 

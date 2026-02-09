@@ -11,8 +11,6 @@ tags:
 
 ## ![](_page_0_Picture_2.jpeg)
 
-# **Arts and Crafts movement**
-
 The **Arts and Crafts movement** was an international trend in the [decorative](https://en.wikipedia.org/wiki/Decorative_arts) and fi[ne arts](https://en.wikipedia.org/wiki/Fine_arts) that developed earliest and most fully in the [British](https://en.wikipedia.org/wiki/British_Isles) [Isles](https://en.wikipedia.org/wiki/British_Isles)[\[1\]](#page-19-0) and subsequently spread across the [British](https://en.wikipedia.org/wiki/British_Empire) [Empire](https://en.wikipedia.org/wiki/British_Empire) and to the rest of Europe and North America.[\[2\]](#page-19-1)
 
 Initiated in reaction against the perceived impoverishment of the decorative arts and the conditions in which they were produced[,\[3\]](#page-19-2) the movement flourished in Europe and North America between about 1880 and 1920. Some consider that it is the root of the [Modern Style,](https://en.wikipedia.org/wiki/Modern_Style_(British_Art_Nouveau_style)) a British expression of what later came to be called the [Art Nouveau](https://en.wikipedia.org/wiki/Art_Nouveau) movement[.\[4\]](#page-19-3) Others consider that it is the incarnation of Art Nouveau in England[.\[5\]](#page-19-4)

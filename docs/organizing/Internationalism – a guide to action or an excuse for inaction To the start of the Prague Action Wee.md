@@ -7,14 +7,6 @@ tags:
   - organizing
 ---
 
-## **Internationalism – a guide to action or an excuse for inaction? To the start of the Prague Action Week 20-26 May**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/internationalism-guide-action-or-excuse-inaction-start-prague-actionweek-20-26-may
-
-**Tags:** assembly.org.ua, Russia-Ukraine war, war, Ukraine, Russia, Czech Republic, sabotage, strikes, wildcat strikes, prisons
-
 Nine points for further discussion from the anarchist newsletter of Kharkov. In some very, very eastern geography of the country, which until 2022 many would not even find on the map.
 
 The French poster "They migrate, they squat, they herald spring" echoes the Afghan proverb that you can kill all the swallows, but you cannot stop the coming of spring. In our realities, these words take on a special meaning: the flight of serfs brings closer the collapse to the serfdom state, as hundreds of thousands of punishers, officials and deputies will have to go defend themselves

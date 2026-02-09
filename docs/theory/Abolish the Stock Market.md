@@ -10,8 +10,6 @@ tags:
 
 # James Herod
 
-# Abolish the Stock Market
-
 # A Brief Diagnosis of the Depression
 
 ### March 2009

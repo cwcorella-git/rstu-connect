@@ -7,8 +7,6 @@ tags:
   - theory
 ---
 
-# **James C. Scott**
-
 # **Two Cheers for Anarchism**
 
 # **Six Easy Pieces on Autonomy, Dignity, and Meaningful Work and Play**

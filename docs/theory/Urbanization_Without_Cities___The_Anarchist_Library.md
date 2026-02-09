@@ -8,8 +8,6 @@ tags:
   - urban
 ---
 
-# Urbanization Without Cities _ The Anarchist Library.pdf
-
 Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
                 theanarchistlibrary.org
                 Urbanization Without Cities

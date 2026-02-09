@@ -8,12 +8,6 @@ tags:
   - feminism
 ---
 
-## **When Women Stop - Everything Stops**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/when-women-stop-everything-stops**Tags:** Power of Women collective (UK), Iceland, feminism, general strikes
-
 Report on the women's general strike on October 24th 1974 in Iceland.
 
 On 24 October 1975 the women of Iceland stood together and proved a point to the whole world. For 24 hours they withdrew their labour, took a "day off"—to show everyone how important, how fundamental their work was in the home, on the farm, in factories and offices and schools. They showed how nothing could work unless they worked. They proved that when women stop, everything stops.

@@ -10,15 +10,11 @@ tags:
 
 # **Dean Spade**
 
-# **Mutual Aid**
-
 # **Building Solidarity During This Crisis (and the Next)**
 
 ## **2020**
 
 **Introduction: Crisis Conditions Require Bold Tactics**
-
-## **PART I. What is mutual aid?**
 
 - **1. Three Key Elements of Mutual Aid**
 - **2. Solidarity Not Charity!**

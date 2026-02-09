@@ -8,10 +8,6 @@ tags:
   - environment
 ---
 
-## **A Climate Plan that Works for Workers**
-
-**Date:** Wed, 06/15/2016 - 12:30 **Source:** https://ecology.iww.org/node/1681 **Tags:** green unionism, just transition, Iron and Earth, climate justice, green jobs, labor and environment By James Hutt - Our Times , Summer 2016
-
 For the first time in over a decade, Canada has a government that is not ideologically opposed to even talking about climate change. Instead of criminalizing environmentalists, muzzling scientists and actively lobbying on behalf of the oil industry, Trudeau has promised a new age of cooperation.
 
 Before the election, he committed to developing a national climate strategy by the end of 2016. Last March, all 13 provincial and territorial leaders met in Vancouver to develop that framework.

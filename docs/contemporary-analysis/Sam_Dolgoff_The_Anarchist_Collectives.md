@@ -7,8 +7,6 @@ tags:
   - anarchism
 ---
 
-## **The Anarchist Collectives**
-
 **Workers' Self-Management in the Spanish Revolution, 1936–1939**
 
 ## Sam Dolgoff (Editor)

@@ -9,10 +9,7 @@ tags:
   - workers
 ---
 
-## **IWW EUC Presents, Who Bombed Judi Bari?**
-
-**Date:** Wed, 04/26/2023 - 14:26 **Source:** https://ecology.iww.org/node/5603**Tags:** IWW Environmental Unionism Caucus Fellow Workers! You are invited to a Zoom meeting. When: May 28, 2023 07:00 PM Universal Time UTC In honor of Judi Bari Day (May 24), the WISERA IWW Environmental Committee and NARA IWW Eco Union Caucus present a showing of the documentary, "Who Bombed Judi Bari?" https://youtu.be/HWApxv SjMKY
-
+IWW Environmental Unionism Caucus Fellow Workers! You are invited to a Zoom meeting. When: May 28, 2023 07:00 PM Universal Time UTC In honor of Judi Bari Day (May 24), the WISERA IWW Environmental Committee and NARA IWW Eco Union Caucus present a showing of the documentary, "Who Bombed Judi Bari?" https://youtu.be/HWApxv SjMKY
 | and will follow that with a discussion about the film and its relevance to |
 |----------------------------------------------------------------------------------------------------------------------------------------------------|
 | Green Unionism |

@@ -8,13 +8,7 @@ tags:
   - capitalism
 ---
 
-## **The Poisoning of Flint: Capitalism and Environmental Sabotage**
-
-## **Date:** Sun, 02/21/2016 - 09:49
-
 ## **Source:** https://ecology.iww.org/node/1505
-
-**Tags:** Flint, privatization, disaster capitalism, green syndicalism, Ideas and Action
 
 ## By Mike Kolhoff -
 

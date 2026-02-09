@@ -9,8 +9,6 @@ tags:
 
 ## **Curious George Brigade**
 
-# **The Inefficient Utopia or How Consensus Will Change the World**
-
 ### **2003**
 
 Don't believe the hype. Political Inefficiency Inefficient Organization Inefficient Propaganda Tactical Inefficiency

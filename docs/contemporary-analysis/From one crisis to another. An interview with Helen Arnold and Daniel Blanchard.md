@@ -11,14 +11,6 @@ tags:
   - crisis
 ---
 
-## **From one crisis to another. An interview with Helen Arnold and Daniel Blanchard**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/one-crisis-another-interview-helen-arnold-and-daniel-blanchard
-
-**Tags:** Socialisme Ou Barbarie, Murray Bookchin, Daniel Blanchard, May 68, crisis
-
 This text is a translation of an article originally published in French in September 2021 on the websiteA contretemps:
 Helen Arnold and Daniel Blanchard introduced Murray Bookchin's thinking to France in 1976. In2019 they participated in the publication of a collection of that author's texts,Pouvoir de détruire, pouvoir de créer, along with Renaud Garcia and Vincent Gerber. The work of this libertarian thinker hasattracted increasing attention in France recently.
 

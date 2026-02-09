@@ -8,8 +8,6 @@ tags:
 
 Jennie Moore · Sahar Attia · Adel Abdel-Kader · Aparajithan Narasimhan Editors
 
-# I COCITIES NOW
-
 Building the Bridge to Socially Just and Ecologically Sustainable Cities
 
 ## ![](_page_0_Picture_3.jpeg)

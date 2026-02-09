@@ -9,13 +9,7 @@ tags:
   - gig economy
 ---
 
-# Work Without the Workerlabour in the Age of Platform Capitalism By Phil Jones 20
-
-## Work without the Worker
-
 Labour in the Age of
-## Platform Capitalism
-
        Phil Jones
 
 ## First published by Verso 2021

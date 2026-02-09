@@ -10,14 +10,6 @@ tags:
   - universities
 ---
 
-## **In the year 1968: on the nationwide strike and university occupation in Helsinki**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/year-1968-nationwide-strike-and-university-occupation-helsinki
-
-**Tags:** strikes, general strikes, Finland, transport, Helsinki, Suvi Auvinen
-
 Imagine the following situation. Due to a strike, public transportation is paralyzed all over the country. Some restaurants and shops shut their doors and 30,000 people are gathered in Helsinki to oppose the current cabinet's austerity measures, despite of wind and rain.
 
 This (18th of September - trans.) is the first joint demonstration by all the confederations of labor unions in Finland since the last depression 24 years ago. "And now we are here again" is said on stage at the demonstration. "It was so nice we should come back next Friday, am I right?" a speaker on the stage asks and tens of thousands of people reply with a roar: "Yes!"

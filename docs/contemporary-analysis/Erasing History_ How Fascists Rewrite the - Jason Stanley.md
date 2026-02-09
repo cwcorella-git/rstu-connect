@@ -8,13 +8,9 @@ tags:
   - history
 ---
 
-# ERASING HISTORY
-
 ## ![](_page_0_Picture_1.jpeg)
 
 ## JASON STANLEY BESTSELLING AUTHOR OF HOW FASCISM WORKS
-
-#### **Praise for** *Erasing History*
 
 "*Erasing History* is both sequel and prequel to Jason Stanley's invaluable *How Fascism Works*, a sweeping survey of this global fascist moment's anti-education tide. From India to Turkey, from Russia to Florida—and maybe soon in a classroom near you—gross declarations of supremacist nationalism are becoming awful substitutes for historical inquiry. *Erasing History*, fast-paced and up-to-the-minute, tells us how it's happening and why the past is a front line in the struggle for a future free of fascism."
 

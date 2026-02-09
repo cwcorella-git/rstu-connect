@@ -13,13 +13,7 @@ tags:
   - transportation-infrastructure
 ---
 
-## **RWU Urges Operating Crafts to "Vote No!" Defeat the Tentative Agreement**
-
-## **Date:** Wed, 10/05/2022 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/5174
-
-**Tags:** Railroad Workers United (RWU), railroad workers, class struggle, Joe Biden, strikes, transportation workers, transportation, transportation infrastructure
 
 ## By Railroad Workers United -
 

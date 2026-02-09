@@ -8,14 +8,6 @@ tags:
   - Russia
 ---
 
-## **Revolutionary prisoners Ruslan Abasov and Lev Skoryakin managed to leave Russia**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/revolutionary-prisoners-ruslan-abasov-and-lev-skoryakin-managed-le ave-russia
-
-**Tags:** assembly.org.ua, Russia-Ukraine war, war, Russia, police, prisons
-
 Happy twist in criminal case against Moscow activists of the Left Bloc. The inscription on the banner: "Happy Chekist Day!" (i.e. Russian political police).
 
 We also remind you that the civilian population and humanitarian groups in Ukraine this winter, with constant shutdowns in electricity and heating, especially need funds. You can donate to our online newsletter for continuous work on this international rubric and offline volunteer activities joiningthis fundraising. Many thanks in advance!
@@ -23,8 +15,6 @@ We also remind you that the civilian population and humanitarian groups in Ukrai
 Anarchist Lev Skoryakin and communist Ruslan Abasov were arrested in December 2021 because of a banner against political repression on the gate of the FSB headquarters and a smoke bomb allegedly thrown into the building. For almost 7 months, the guys were kept in a pre-trial detention center, where Ruslan almost died in hospital: at first he was not provided with medical care due to meningitis and lasted until brain inflammation and respiratory arrest; then kept in intensive care in handcuffs. However, the main witness for the prosecution, 16-year-old Umar, mysteriously disappeared, and in the middle of summer both guys were released on bail.
 
 In mid-October, Ruslan was evacuated to a neutral country, then Lev. We became aware of this two days ago. Now both of them are safe and intend to obtain political asylum to continue their struggle. Alas, we cannot disclose the details of the transfer for safety reasons.
-
-## Ruslan Abasov
 
 In aninterviewgiven shortly after their release from prison, they said, in part, the following:
 

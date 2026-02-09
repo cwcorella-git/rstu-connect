@@ -11,14 +11,6 @@ tags:
   - centre-for-research-on-the-social
 ---
 
-## **All things considered - Nadine Bloch**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/all-things-considered-nadine-bloch
-
-**Tags:** Nadine Bloch, situationist, feminism, Daniel Denevert, Centre for Research on the Social
-
 ## Question
 
 A situationist and feminist critique of situationists, from 1976.

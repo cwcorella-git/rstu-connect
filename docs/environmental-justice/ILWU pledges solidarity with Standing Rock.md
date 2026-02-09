@@ -9,13 +9,7 @@ tags:
   - climate
 ---
 
-## **ILWU pledges solidarity with Standing Rock**
-
-## **Date:** Sun, 01/15/2017 - 16:25
-
 ## **Source:** https://ecology.iww.org/node/2016
-
-**Tags:** International Longshore and Warehouse Union (ILWU), Labor for Standing Rock (L4SR), NoDAPL, Dakota Access Pipeline (DAPL), pipelines, indigenous, Labor Union Camp, ILWU Local 4, ILWU Local 10, ILWU Local 13
 
 ## By Staff -
 

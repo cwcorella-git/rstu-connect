@@ -8,14 +8,6 @@ tags:
   - theory
 ---
 
-# **George Barrett, anarchists and the Great Unrest**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/george-barrett-anarchists-and-great-unrest
-
-**Tags:** syndicalism, United Kingdom, Glasgow, Rob Ray, Iain Mc Kay, George Barrett, Great Unrest
-
 Freedom Press published a selection of essays by 1910s anarchist activist George Barrett,Our Masters Are Helpless, at the start of this month. Below is an edited and slightly expanded text of the launch event talk.
 
 Our Masters Are Helpless is a collection of writings by George Ballard (later known as George Barrett), who was one of the best-known and most active of the young anarchists to emerge in Britain around the time of the Great Unrest of 1910-14. Barrett was only active for eight or nine years before dying at the early age of 29, but had an extraordinary influence on the movement in Britain, inspiring Colin Wardamong others and impressing many of the British movement's most important figures, including Peter Kropotkin, George Cores,Alfred Marshand Mat Kavanagh.

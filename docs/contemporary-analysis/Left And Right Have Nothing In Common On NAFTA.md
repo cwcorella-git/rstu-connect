@@ -10,13 +10,7 @@ tags:
   - green-unionism
 ---
 
-## **Left And Right Have Nothing In Common On NAFTA**
-
-## **Date:** Mon, 10/16/2017 - 16:27
-
 ## **Source:** https://ecology.iww.org/node/2517
-
-**Tags:** North American Free Trade Agreement (NAFTA), globalization, green capitalism, capital blight, green unionism
 
 ## By Stephanie Basile -
 

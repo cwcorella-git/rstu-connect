@@ -10,11 +10,7 @@ tags:
 
 ## ![](_page_0_Figure_0.jpeg)
 
-## Police Abuse in Contemporary Democracies
-
 ## Michelle D. Bonner · Guillermina Seri Mary Rose Kubal · Michael Kempa Editors
-
-# Police Abuse in Contemporary Democracies
 
 ## ![](_page_2_Picture_2.jpeg)
 

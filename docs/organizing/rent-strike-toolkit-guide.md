@@ -9,8 +9,6 @@ tags:
   - housing
 ---
 
-# Rent Strike Toolkit: Complete User Guide
-
 ## What is the Rent Strike Toolkit?
 
 The Rent Strike Toolkit is a step-by-step guide that helps tenants organize a successful rent strike from start to finish. It enforces legal compliance with Nevada law, ensures sufficient participation, coordinates financial planning, and prepares legal defense **before** a strike is authorized.

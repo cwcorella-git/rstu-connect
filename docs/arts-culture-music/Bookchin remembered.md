@@ -7,14 +7,6 @@ tags:
   - Bookchin
 ---
 
-## **Bookchin remembered**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/bookchin-remembered
-
-**Tags:** Murray Bookchin, anarchism, United States, anarchists, obituaries
-
 Iain Mackay on the huge and enduring influence that was Murray Bookchin (1921-2006)
 
 Murray Bookchin died at home on the 30th of July at the age of 85, surrounded by his family. From the 1960s onwards, Bookchin was, rightly, considered one of the world's leading anarchist thinkers. His death, while not unexpected, is still a sad day for our movement.

@@ -8,10 +8,7 @@ tags:
   - Canada
 ---
 
-## **Canada's New Anti-Terrorism Act and the "Green Syndicalist Menace"**
-
-**Date:** Wed, 11/04/2015 - 15:47 **Source:** https://ecology.iww.org/node/1368**Tags:** class struggle, criminal syndicalism, Canada, green syndicalism, Jeff Shantz, green scare By Jeff Shantz - Anarcho Syndicalist Review , Summer 2015
-
+class struggle, criminal syndicalism, Canada, green syndicalism, Jeff Shantz, green scare By Jeff Shantz - Anarcho Syndicalist Review , Summer 2015
 This article was written before the results of the recent election in Canada, in which voters ousted the Conservative Party in favor of the (ostensibly centrist) Liberal Democrats.
 
 IWW EUC note:

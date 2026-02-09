@@ -8,14 +8,6 @@ tags:
   - Italy
 ---
 
-## **Dossier on torture and prison conditons in Italy 1979-1983 - CARII**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/dossier-torture-and-prison-conditons-italy-1979-1983-carii
-
-**Tags:** Committee Against Repression in Italy (CARII), PDF, prisons, Italy
-
 Committee Against Repression in Italy's publication on prisons, including testimonies on torture, statements by jurists, politicians and police etc.
 
 With thanks to Arlen Austin for making the scan available.

@@ -11,8 +11,6 @@ tags:
 
 ## ![](_page_0_Picture_2.jpeg)
 
-# **New Brandeis movement**
-
 The **New Brandeis** or **neo-Brandeis movement** is an [antitrust](https://en.wikipedia.org/wiki/Competition_law) academic and political movement in the [United States](https://en.wikipedia.org/wiki/United_States) which argues that excessively centralized private power is dangerous for [economical,](https://en.wikipedia.org/wiki/Economical) [political](https://en.wikipedia.org/wiki/Politics) and social reasons[.\[1\]](#page-3-0)[\[2\]](#page-3-1) Initially called **hipster antitrust** by its detractors, also referred to as the "Columbia school" or "Neo-Progressive antitrust," the movement advocates that [United States antitrust law](https://en.wikipedia.org/wiki/United_States_antitrust_law) return to a broader concern with private power and its negative effects on [market](https://en.wikipedia.org/wiki/Competition_(economics)) [competition,](https://en.wikipedia.org/wiki/Competition_(economics)) [income inequality,](https://en.wikipedia.org/wiki/Income_inequality) [consumer rights,](https://en.wikipedia.org/wiki/Consumer_protection) [unemployment,](https://en.wikipedia.org/wiki/Unemployment) and [wage growth.](https://en.wikipedia.org/wiki/Real_wages)
 
 The movement draws inspiration from the anti-monopolist work of [Louis Brandeis,](https://en.wikipedia.org/wiki/Louis_Brandeis) an early 20th century [United States Supreme](https://en.wikipedia.org/wiki/United_States_Supreme_Court_Justice) [Court Justice](https://en.wikipedia.org/wiki/United_States_Supreme_Court_Justice) who called high economic concentration "the Curse of Bigness" and believed monopolies were inherently harmful to the welfare of workers and business innovation.

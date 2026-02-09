@@ -8,14 +8,6 @@ tags:
   - labor
 ---
 
-## **Special Anti-Patriotic Issue of the Industrial Worker (March 1912)**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/special-anti-patriotic-issue-industrial-worker-march-1912
-
-**Tags:** Caroline Nelson, Walker C. Smith, Fred W. Heslewood, Justus Ebert, strikes, internationalism, nationalism, Industrial Workers of the World (IWW), New England, Massachusetts
-
 Extracts from the "Special Anti-Patriotic Issue" of the Industrial Worker magazine published in March 1912. The issue was partly a critical response to the flag-waving and other patriotic expressions that characterized both the Lawrence Textile Strike and the San Diego Free Speech Fight, whether coming from the strikers/protesters or their opponents. In Lawrence in particular, many of the striking textile workers had migrant backgrounds and constantly faced the accusation of being un-American, outside troublemakers. Hence many of the strikers waved the American flag to "prove their patriotism and loyalty."
 
 The Flag of the Free.

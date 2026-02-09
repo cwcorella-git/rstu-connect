@@ -9,8 +9,6 @@ tags:
   - Mexico
 ---
 
-# Militarization & Economic Transformation in Colombia & Mexico Drug War Capitalism By Dawn Paley
-
 IN BOTH THE United States and Canada there have been sustained grassroots efforts to spotlight the unjust mass incarceration and criminalization of poor people, and especially poor people of color, for drug-related arrests. But there has been too little analysis about the reasons behind and mechanisms of this war, and its economic impact on Mexico and beyond.
 
 Even before a withdrawal from Iraq or Afghanistan has been achieved, the United States has become involved in a series of intensifying conflicts taking place from Mexico's north border through Peru. Governments and mainstream media label it a "war on drugs." It is important to examine how the expanding "war on drugs" connects to the expansion of transnational corporate control over markets, labor and natural resources.

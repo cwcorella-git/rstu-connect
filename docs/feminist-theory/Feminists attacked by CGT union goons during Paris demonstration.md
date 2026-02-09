@@ -10,15 +10,7 @@ tags:
   - France
 ---
 
-## **Feminists attacked by CGT union goons during Paris demonstration**
-
-## **Date:** Unknown
-
 ## "
-
-**Source:** https://libcom.org/article/feminists-attacked-cgt-union-goons-during-paris-demonstration
-
-**Tags:** violence, women, repression, France, Paris, feminism, CGT (France)
 
 Communiqué following the violent attack on five women by the CGT Service d'Ordre at the demonstration on the 12th of September.
 

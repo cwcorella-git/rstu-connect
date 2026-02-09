@@ -10,8 +10,6 @@ tags:
   - Nevada
 ---
 
-# Reno Sparks Tenants Oppose 'Anti-Homeless' Ordinances at Reno City Council Meeting
-
 On August 26th, members of the Reno Sparks Tenants Union joined dozens of community advocates at a packed Reno City Council meeting to oppose a package of ordinances targeting people experiencing homelessness.
 
 ## The Proposed Ordinances

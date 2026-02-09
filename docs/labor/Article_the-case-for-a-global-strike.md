@@ -10,13 +10,10 @@ tags:
   - workers
 ---
 
-# The Case For a Global Strike
-
 The Case for a Global Strike about:reader?url=https%3A%2F%2Fwww.threadings....
 
 ## threadings.io
 
-## The Case for a Global Strike
 ## ismatu gwendolyn
 
 ## 18–23 minutes

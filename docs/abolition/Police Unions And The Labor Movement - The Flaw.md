@@ -10,8 +10,6 @@ tags:
 
 ## [theflaw.org](https://theflaw.org/articles/police-unions-and-the-labor-movement/)
 
-## **Police Unions And The Labor Movement**
-
 ## Haley Florsheim
 
 7–8 minutes

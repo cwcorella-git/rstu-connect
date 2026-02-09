@@ -13,14 +13,6 @@ tags:
   - solidaridad-obrera
 ---
 
-## **José Peirats: a comrade, a friend - Federico Arcos**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/jose-peirats-comrade-friend-federico-arcos
-
-**Tags:** Federico Arcos, José Peirats, Fifth Estate, anarchism, anarcho-syndicalism, obituaries, Confederación Nacional del Trabajo (CNT), Movimiento Libertario Español (MLE), Solidaridad Obrera
-
 An obituary written by Federico Arcos of Spanish anarcho-syndicalist José Peirats. Originally appeared in Fifth Estate # 333, Winter, 1990
 
 ## José Peirats Valls 1908-1989

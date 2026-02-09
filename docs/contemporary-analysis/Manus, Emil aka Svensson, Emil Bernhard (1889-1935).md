@@ -12,14 +12,6 @@ tags:
   - syndicalism
 ---
 
-## **Manus, Emil aka Svensson, Emil Bernhard (1889-1935)**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/manus-emil-aka-svensson-emil-bernhard-1889-1935
-
-**Tags:** Nick Heath, Sweden, Sveriges Arbetares Centralorganisation, anarchists, biographies, syndicalism, (1202)
-
 A short biography of the Swedish anarchist Emil Manus.
 
 "I am keen to emphasize that during the countless attacks directed against us at that time, we defended the movement and each other unitedly and in solidarity. Manus was always a reliable and good comrade in such situations." C. J. Björklund.

@@ -10,11 +10,7 @@ tags:
 
 ## ![](_page_0_Figure_0.jpeg)
 
-# Hauntology
-
 # Katy Shaw
-
-# Hauntology
 
 The Presence of the Past in Twenty-First Century English Literature
 

@@ -8,7 +8,7 @@ tags:
   - direct-action
   - community
 ---
-# Starting a community garden 101
+
 How to Start a Backyard Community Garden (Mutual Aid Style)
 Starting a community garden in your backyard isn’t just about growing food, it’s about growing
 trust, connection, and something beautiful together. Whether you’ve got a big yard or just a

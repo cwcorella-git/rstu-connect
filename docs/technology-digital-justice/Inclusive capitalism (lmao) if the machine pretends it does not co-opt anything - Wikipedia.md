@@ -8,10 +8,6 @@ tags:
   - capitalism
 ---
 
-#### [en.wikipedia.org](https://en.wikipedia.org/wiki/Inclusive_capitalism)
-
-# **Inclusive capitalism**
-
 ## Contributors to Wikimedia projects
 
 6–8 minutes

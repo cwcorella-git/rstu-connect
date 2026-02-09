@@ -9,8 +9,6 @@ tags:
   - climate
 ---
 
-# **Defending Abundance Everywhere: A Call to Every Community from the Weelaunee Forest**
-
 | Date: Thu, 03/02/2023 - 00:00 |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/5428|

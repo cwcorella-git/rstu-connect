@@ -9,9 +9,6 @@ tags:
   - prisons
 ---
 
-# Therapists Are Also the Police Sex Work Social Work and the Politics of Deservin
-
-Therapists Are Also the Police: Sex Work, Social Work, and the Politics of Deservingness Date: 2023-04-27 Source: https://www.threadings.io/therapists-are-also-the-police-sex/
 To begin: I think licensure does more to protect the clinician than it does the client.
 Listen to this essay right here!
 Threadings. is a reader-supported publication. To receive new posts and support my work, consider becoming a free or paid subscriber.

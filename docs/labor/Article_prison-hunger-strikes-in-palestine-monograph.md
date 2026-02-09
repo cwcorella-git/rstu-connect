@@ -9,8 +9,6 @@ tags:
   - Palestine
 ---
 
-# Prison Hunger Strikes in Palestine Monograph
-
 ## ICNC MONOGRAPH SERIES
 
          Prison

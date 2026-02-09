@@ -10,14 +10,6 @@ tags:
   - marxism
 ---
 
-## **Faridabad Majdoor Samachar : Communist Possibilities from Self-Critique - Friends of FMS (2025)**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/faridabad-majdoor-samachar-communist-possibilities-self-critique-friends-fms-2025
-
-**Tags:** Friends of FMS, Faridabad Majdoor Samachar, Kaam Se Chutti, Sher Singh Ji, Marxism, India, communism, class struggle
-
 Introduction from Kaam Se Chutti (https://kaamsechhutti.home.blog/):
 
 On January 25, 2025, Comrade Sher Singh Ji passed away. From 1982 to 2020, he was the editor of Faridabad Mazdoor Samachar, and during this period, the way he reflected on his experiences and repeatedly transformed his practice will be of interest to every communist, to every person who sees joy in transformations of the old and obsolete. He worked to displace the populist-demagogic category of the "working class" to confront its reality, to understand it on its own terms, and to turn the hidden potential for change and vibrant energy within it into a source of thought-practice. He shared this work with all of us.

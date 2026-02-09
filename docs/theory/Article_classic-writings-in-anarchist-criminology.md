@@ -8,8 +8,6 @@ tags:
   - theory
 ---
 
-# Classic Writings in Anarchist Criminology
-
 Classic Writings in Anarchist Criminology https://theanarchistlibrary.org/library/anthony-j-nocella-...
             Anthony J. Nocella II, Mark Seis, and
             Jeﬀ Shantz

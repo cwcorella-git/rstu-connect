@@ -9,8 +9,6 @@ tags:
 
 #### [marxists.org](https://www.marxists.org/archive/marx/works/1847/11/prin-com.htm)
 
-# The Principles of Communism
-
 ## Frederick Engels
 
 44-56 minutes

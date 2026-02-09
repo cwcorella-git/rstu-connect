@@ -7,8 +7,6 @@ tags:
   - current-events
 ---
 
-# **Cayden Mak**
-
 # **Building Online Power**
 
 ### **April 19, 2022**

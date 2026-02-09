@@ -10,18 +10,13 @@ tags:
   - workers
 ---
 
-# Homestead Strike Wikipedia
-
 Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## en.wikipedia.org
 
-## Homestead strike
 ## Contributors to Wikimedia projects
 
 ## 42–54 minutes
-
-## Homestead Strike
 
                  The Pennsylvania State Militia arrives to quell the hostilities,
 ## art by Thure de Thulstrup

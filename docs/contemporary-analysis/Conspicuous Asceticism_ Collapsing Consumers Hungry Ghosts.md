@@ -15,8 +15,6 @@ tags:
 
 ## 8-2022
 
-## Conspicuous Asceticism: Collapsing Consumers' Hungry Ghosts
-
 Ash Zareian The University of Texas Rio Grande Valley
 
 Follow this and additional works at: [https://scholarworks.utrgv.edu/etd](https://scholarworks.utrgv.edu/etd?utm_source=scholarworks.utrgv.edu%2Fetd%2F1082&utm_medium=PDF&utm_campaign=PDFCover Pages)

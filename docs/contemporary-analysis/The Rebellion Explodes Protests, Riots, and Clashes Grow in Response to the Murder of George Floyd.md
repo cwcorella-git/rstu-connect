@@ -7,15 +7,7 @@ tags:
   - riots
 ---
 
-# **The Rebellion Explodes: Protests, Riots, and Clashes Grow in Response to the Murder of George Floyd**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/rebellion-explodes-protests-riots-and-clashes-grow-response-murder-
-
 george-floyd
-
-**Tags:** United States, riots, Black Lives Matter movement, It's Going Down, police
 
 The country-wide rebellion that was kicked off by the police murder of George Floyd continues to grow, as across the US people hit the streets in solidarity. Mass demonstrations, freeway shut-downs, riots, looting, and clashes with law enforcement were widespread; as authorities rushed to call in the national guard. In many cities, large scale demonstrations that remained peaceful were also held. This round-up was originally published by It's Going Down.
 

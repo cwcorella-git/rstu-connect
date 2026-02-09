@@ -9,10 +9,6 @@ tags:
   - wikipedia
 ---
 
-#### [en.m.wikipedia.org](https://en.m.wikipedia.org/wiki/Sumak_kawsay)
-
-# **Sumak kawsay**
-
 ## Contributors to Wikimedia projects
 
 11–13 minutes

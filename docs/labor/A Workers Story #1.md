@@ -8,12 +8,6 @@ tags:
   - workers
 ---
 
-## **A Workers Story #1**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/workers-story-1
-
 ## **Tags:** education, New Zealand
 
 ## INTRODUCTION

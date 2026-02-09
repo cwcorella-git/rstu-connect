@@ -7,13 +7,7 @@ tags:
   - France
 ---
 
-## **More on the libertarian underground in France: legal assets and money-laundering**
-
-## **Date:** Unknown
-
 ## **Source:**
-**Tags:** Movimiento Libertario Español (MLE), Spain, France, Laureano Cerrada, anarchism,
-
 Confederación Nacional del Trabajo (CNT), Spanish civil war
 
 An article about the exiled Spanish anarchist movement in France and their attempts to fund the underground in Spain.

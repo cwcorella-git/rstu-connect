@@ -7,8 +7,6 @@ tags:
   - current-events
 ---
 
-# Length of human pregnancy and contributors to its natural variation
-
 # Abstract
 
 ### STUDY QUESTION

@@ -10,15 +10,11 @@ tags:
 
 ## ![](_page_0_Figure_0.jpeg)
 
-## THE ANARCHIST REVOLUTION
-
 , in
 
 ## ![](_page_2_Picture_0.jpeg)
 
 ## Errico Malatesta
-
-# THE ANARCHIST REVOLUTION Polemical Articles 1924-1931
 
 ## Edited and Introduced by Vernon Richards
 

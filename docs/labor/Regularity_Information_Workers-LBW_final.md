@@ -9,8 +9,6 @@ tags:
   - workers
 ---
 
-# Workplace Rhythm Variability and Emotional Distress in Information Workers
-
 [Subigya Nepal](https://orcid.org/0000-0002-4314-9505)∗ Dartmouth College Hanover, NH, USA sknepal@cs.dartmouth.edu
 
 Mehrab Bin Morshed Georgia Institute of Technology Atlanta, GA, USA mehrab.morshed@gatech.edu

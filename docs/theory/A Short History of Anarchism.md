@@ -9,8 +9,6 @@ tags:
 
 ## **Max Nettlau**
 
-# **A Short History of Anarchism**
-
 ### **1935**
 
 ## Preface

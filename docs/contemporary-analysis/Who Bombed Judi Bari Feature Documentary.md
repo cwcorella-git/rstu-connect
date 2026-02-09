@@ -14,13 +14,7 @@ tags:
   - mendocino-county
 ---
 
-## **Who Bombed Judi Bari? Feature Documentary**
-
-## **Date:** Tue, 02/07/2017 - 16:03
-
 ## **Source:** https://ecology.iww.org/node/2260
-
-**Tags:** Judi Bari, Darryl Cherney, Judi Bari Bombing (May 24 1990), Earth First!, Industrial Workers of the World (IWW), Earth First! - IWW Local 1, green unionism, green syndicalism, California, Mendocino County
 
 ## By Darryl Cherney -
 

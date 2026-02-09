@@ -7,8 +7,6 @@ tags:
   - Kropotkin
 ---
 
-# Fields, Factories and Workshops Tomorrow
-
 Pyotr Kropotkin Introduction by Kevin A. Carson Additional Material by Colin Ward Supplemental Material by Murray Bookchin
 
 ## ![](_page_0_Picture_2.jpeg)

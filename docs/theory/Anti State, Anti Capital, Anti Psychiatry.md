@@ -8,14 +8,6 @@ tags:
   - theory
 ---
 
-# **Anti State, Anti Capital, Anti Psychiatry**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/anti-state-anti-capital-anti-psychiatry
-
-**Tags:** health and medicine, prisons, legal, mental health, Michel Foucault, social care, psychology,
-
 ## antipsychiatry, R D Laing, David Cooper
 
 Anti-psychiatry is the belief that the psychiatric system is a system of social control masquerading behind made-up science. The Marxist anti-psychiatry movement failed because of its overly intellectual focus and the inability of its key thinkers to put theory into practice. However, with mental health very much on the political agenda, there are lessons that can be learned from the work of R D Laing and David Cooper.

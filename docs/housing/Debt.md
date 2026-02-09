@@ -11,10 +11,6 @@ tags:
 
 ## **David Graeber**
 
-# **Debt**
-
-# **The First 5,000 Years**
-
 ### **2011**
 
 **On the Experience of Moral Confusion The Myth of Barter Primordial Debts** State and Credit Theories of Money In Search of a Myth **Cruelty and Redemption**

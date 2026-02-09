@@ -8,14 +8,6 @@ tags:
   - capitalism
 ---
 
-## **The Murder of George Floyd: The End of Racism Starts with the Death of Capitalism**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/murder-george-floyd-end-racism-starts-death-capitalism
-
-**Tags:** Internationalist Communist Tendency, United States, capitalism, Communist Workers' Organisation (CWO), Black Lives Matter movement, racism, police, George Floyd protests
-
 The killing of George Floyd in plain sight by the Minneapolis police rightly shocked millions of people across the world. The killing of a black person by the police is not an unusual event, particularly in the US.
 
 Black Lives Matter was founded in 2013, after the acquittal of George Zimmerman, a Neighbourhood Watch volunteer, for the killing of black teenager, Trayvon Martin. However, it really took off in 2014 after the police killings of Mike Brown in Ferguson, and Eric Garner in New York. Garner was asphyxiated just like George Floyd who repeatedly told his cop killer "I can't breathe" as he held his knee on his neck for almost nine minutes. Numerous other black Americans have been killed since 2014 by the police including Tanisha Anderson, Breonna Taylor, Jonathan Ferrell, John Crawford, Ezell Ford, Laquan Mc Donald, Akai Gurley, Tamir Rice, Eric Harris, Walter Scott, Freddie Gray, Sandra Bland, Samuel Du Bose, Jeremy Mc Dole, Alton Sterling, and Philando Castile. There are many, many more. And there have been demonstrations and riots before against the monumental racist oppression of black workers in the US from Watts in 1965, through Los Angeles in 1992 (following the acquittal of cops who beat Rodney King to a pulp) to Ferguson in 2014.

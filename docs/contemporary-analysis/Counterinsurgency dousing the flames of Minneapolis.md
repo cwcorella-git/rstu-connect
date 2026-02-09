@@ -13,14 +13,6 @@ tags:
   - black
 ---
 
-## **Counterinsurgency: dousing the flames of Minneapolis**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/counterinsurgency-dousing-flames-minneapolis
-
-**Tags:** United States, pacifism, Minneapolis, Peter Gelderloos, conspiracy theories, ROAR mag, Black
-
 Lives Matter movement, police, George Floyd protests
 
 As people rise up against police violence and structural racism, what counterinsurgency techniques is the state deploying to attack and undermine the movement?This article by Peter Gelderloos was originally published by Roar Magazine.

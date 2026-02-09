@@ -8,9 +8,7 @@ tags:
   - strikes
 ---
 
-# The 18th January 1934 Portuguese General Strike Manuel Baptista
-
-The 18th January 1934 Portuguese General Strike - Manuel Baptista Date: Unknown Source: https://libcom.org/article/18th-january-1934-portuguese-general-strike-manuel-baptista Tags: Manuel Baptista, Portugal, general strikes, syndicalism, anarchism
+Baptista, Portugal, general strikes, syndicalism, anarchism
 An article by Manuel Baptista about the aborted Portuguese general strike of January 18, 1934, which the author considers the "final stand" of independent class-oriented, anarchist-inspired syndicalism in Portugal. Originally posted: January 16, 2008 at Anarkismo.
 18th January 1934 - the aborted general strike - was the "final stand" of independent class-oriented, anarchist-inspired syndicalism in Portugal. Portugal had been governed by a fascist dictatorship since the 28th May 1926 coup. This military coup put Salazar in power, first as finance minister, but very soon he took control of the whole government, becoming President of the Council of Ministers (Prime Minister) till his accidental fall from a reclining chair in his residence in the Summer 1968.
 Inspired by Catholic church doctrines (he was a very close friend of the Primate of Portugal, Archbishop Cerejeira, who blessed the regime and put the Catholic church at the service of the dictatorship) and by the most reactionary anti-democratic trends in Europe, such as Charles Maurras, Salazar aimed at a corporative regime, one where the bosses and workers collaborated in a "Corporations Chamber", under the paternalistic supervision of the government. This model is more or less the one we have nowadays with class conciliation mandatory in a "permanent board for social partnership", where leaders of the employers' federation, trade union leaders and government officials sit and discuss matters ranging from labour legislation to the fixing of minimum salaries, without any input from the rank-and-file of these unions, and generally to "implement" new laws and regulations that simply diminish or destroy the collective guarantees concerning labour contracts and workers' social rights.

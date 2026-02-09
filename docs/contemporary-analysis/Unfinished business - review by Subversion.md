@@ -8,12 +8,6 @@ tags:
   - libcom
 ---
 
-## **Unfinished business - review by Subversion**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/unfinished-business-review-subversion**Tags:** class, Class War Federation, Subversion, United Kingdom, reviews
-
 Class War Federation's book Unfinished business - the politics of Class War, is reviewed by the Subversion group which points out several important flaws, including on class and nationalism.
 
 This long awaited book represents a serious and welcome attempt by the Class War Federation to sort out its own politics and present them to the working class in a clear and comprehensible language.

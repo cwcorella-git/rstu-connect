@@ -9,14 +9,6 @@ tags:
   - justice
 ---
 
-## **Alabama Correctional Officers Respond to Mental Health Crisis With Deadly Force, Leaving at least Four Men Injured, Two in Critical Condition**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/alabama-correctional-officers-respond-mental-health-crisis-deadly-force-leaving-least-four
-
-**Tags:** United States, repression, prisons, mental health, Alabama, Free Alabama Movement, Kinetik Justice Amun
-
 A report from the Free Alabama Movement on an incident of staff brutality at the Donaldson Correctional Facility.
 
 On the morning of January 30, 2021, Mr. Ephan Moore, a man known to have a serious mental illness who is incarcerated at Donaldson Correctional Facility, experienced a mental health crisis resulting in an incident with Alabama Department of Corrections (ADOC) staff that correctional officers responded to with deadly and brutal force.

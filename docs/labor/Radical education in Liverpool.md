@@ -10,12 +10,6 @@ tags:
   - workers
 ---
 
-## **Radical education in Liverpool**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/radical-education-liverpool
-
 ## **Tags:** education
 
 A very brief look at some examples of radical schooling in Liverpool during the 20th century. A version of this article appeared in The Blast, a non-regular publication of Liverpool Class Action.

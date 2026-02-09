@@ -7,13 +7,7 @@ tags:
   - police
 ---
 
-## **Public Servants or Corporate Security? An Open Letter to Law Enforcement and National Guard in North Dakota**
-
-## **Date:** Wed, 11/02/2016 - 17:57
-
 ## **Source:** https://ecology.iww.org/node/1892
-
-**Tags:** green unionism, green bans, Labor for Standing Rock (L4SR), indigenous, Dakota Access
 
 ## Pipeline (DAPL), NoDAPL
 

@@ -7,8 +7,6 @@ tags:
   - current-events
 ---
 
-## IVAN ILLICH
-
 ## **Contents**
 
 | Introduction | xix |

@@ -7,14 +7,6 @@ tags:
   - Los Angeles
 ---
 
-## **Pri la historio de CNT-Francio - Ivo Peyraut**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/pri-la-historio-de-cnt-francio-ivo-peyraut
-
-**Tags:** France, syndicalism, CNT-F, SAT, Esperanto, Ivo Peyraut
-
 La historio de CNT-Francio. La plejparte de la pli poste informo en ■i tiu teksto estas pri la CNT-Francio (Vignoles).
 
 ## Enkonduko

@@ -9,14 +9,6 @@ tags:
   - climate
 ---
 
-## **Turkish miners: Soma workers murdered for profits**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/turkish-miners-soma-workers-murdered-profits
-
-**Tags:** strikes, general strikes, deaths, mining, health and safety, coal, Turkey, Devrim Valerian, DISK
-
 Hundreds of thousands of workers have taken part in a one-day strike, and clashes with police have broken out, after hundreds of coal miners died in Turkey's worst mining disaster, which was no "accident".
 
 It is not clear yet how many workers have been murdered in the mining disaster in Soma, Manisa in Western Turkey. At the time of writing the official death toll stands at 304 though workers in the town claim that they are being lied to about the numbers, and many more have been killed. What is clear is that it is not true that "these types of incidents are ordinary things" as Prime Minister Erdo■an is suggesting. He made a great show of in the immediate aftermath of these terrible events of demonstrating his knowledge of the history of disasters in the mining industry, stretching back to Northumberland in the UK, and placed particular stress on those that happened in the US, a country which has, to quote Erdo■an again "every kind of technology". The implication, of course, is that these sort of things just happen, they happen everywhere, and they can't be avoided.

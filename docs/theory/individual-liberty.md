@@ -8,7 +8,7 @@ tags:
   - political-theory
   - liberty
 ---
-# Individual Liberty
+
 Benjamin Tucker
 Individual Liberty
 1926

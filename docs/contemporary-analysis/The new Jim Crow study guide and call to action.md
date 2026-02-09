@@ -13,11 +13,7 @@ tags:
 
 ## ![](_page_1_Picture_0.jpeg)
 
-# The New Jim Crow Study Guide and Call to Action
-
 ## ![](_page_2_Picture_1.jpeg)
-
-#### The New Jim Crow Study Guide and Call to Action
 
 © 2013 by the Veterans of Hope Project. All rights reserved.
 

@@ -9,8 +9,6 @@ tags:
 
 ## SNCC
 
-# What We Want
-
 ## ![](_page_0_Picture_2.jpeg)
 
 ## STOKELY CARMICHAEL

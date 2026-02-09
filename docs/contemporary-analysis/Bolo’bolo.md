@@ -7,8 +7,6 @@ tags:
   - current-events
 ---
 
-# **P. M.**
-
 # **Bolo'bolo**
 
 # **1983**

@@ -7,8 +7,6 @@ tags:
 
 ## [nbcnews.com](https://www.nbcnews.com/news/us-news/fbi-says-man-killed-missouri-wanted-bomb-hospital-amid-coronavirus-n1169166)
 
-## **FBI says man killed in Missouri wanted to bomb hospital amid coronavirus epidemic**
-
 ## Michael Kosnar, Phil Helsel
 
 ~3 minutes

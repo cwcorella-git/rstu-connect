@@ -12,7 +12,6 @@ tags:
   - poverty
   - political-economy
 ---
-# Social Problems
 
 *By Henry George (1883)*
 

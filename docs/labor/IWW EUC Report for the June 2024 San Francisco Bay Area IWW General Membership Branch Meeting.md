@@ -9,13 +9,7 @@ tags:
   - workers
 ---
 
-# **IWW EUC Report for the June 2024 San Francisco Bay Area IWW General Membership Branch Meeting**
-
-## **Date:** Thu, 06/06/2024 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/6505
-
-**Tags:** IWW Environmental Unionism Caucus, Bay Area IWW
 
 ## By x344543 -
 

@@ -10,8 +10,6 @@ tags:
 
 ## James Herod
 
-# Critical Thoughts on Consensus Decision Making
-
 ## 2008
 
 ## (Two Memos and some Bibliographical References)

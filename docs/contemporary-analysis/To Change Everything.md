@@ -7,8 +7,6 @@ tags:
   - current-events
 ---
 
-# **Crimeth Inc.**
-
 # **To Change Everything An Anarchist Appeal**
 
 Start with Self-determination Start by Answering to Ourselves start by seeking power, not authority start with relationships built on trust start by reconciling the individual and the whole start with the liberation of desire start with revolt the problem is control the problem is hierarchy the problem is borders the problem is representation the problem is leaders the problem is government the problem is profit the problem is property the last crime

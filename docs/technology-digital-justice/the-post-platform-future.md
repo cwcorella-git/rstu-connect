@@ -10,8 +10,6 @@ tags:
 
 The Wayback Machine - https://web.archive.org/web/20250914121151/https://www.whatgamesare.com/2010/12/the-post-platform-future.html
 
-# **[What Games Are](https://web.archive.org/web/20250914121151/https://www.whatgamesare.com/)**
-
 ## ![](_page_0_Picture_2.jpeg)
 
 [Featured](https://web.archive.org/web/20250914121151/https://www.whatgamesare.com/featured-posts.html) [Glossary](https://web.archive.org/web/20250914121151/https://www.whatgamesare.com/glossary.html) [About](https://web.archive.org/web/20250914121151/https://www.whatgamesare.com/about.html) [Consulting](https://web.archive.org/web/20250914121151/https://www.whatgamesare.com/consulting.html)

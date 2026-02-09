@@ -8,9 +8,6 @@ tags:
   - Russia
 ---
 
-# Russian And Ukrainian Soldiers Refuse To Kill Each Other But On Different Sector
-
-Russian and Ukrainian soldiers refuse to kill each other, but on different sectors of the front Date: Unknown Source: https://libcom.org/article/russian-and-ukrainian-soldiers-refuse-kill-each-other-different-sectors-front Tags: assembly.org.ua, Russia-Ukraine war, war, Ukraine, Russia, sabotage, prisons
 Caricature by unknown author "On the offensive" (circa 1917) is becoming more and more relevant before our eyes...
 Welcome to join thefundraisingof our team for to work on this international column and offline volunteer activities. A couple of cups of coffee in your country, even before the war, could be equivalent to a day's earnings of a worker in Ukraine. Many thanks everyone in advance!
 The Verdun-style meat grinder in Bakhmut gradually got replaced by attempts of the Ukrainian army to break through to the Azov coast. According to Anna Malyar, Deputy Minister of Defense of Ukraine, during the 2 weeks of the southern counteroffensive, the Ukrainian troops recaptured only 8 villages. What such positional battles lead to is also well known since the First World War.

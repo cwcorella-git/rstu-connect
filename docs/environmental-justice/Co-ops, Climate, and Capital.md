@@ -9,13 +9,7 @@ tags:
   - capitalism
 ---
 
-## **Co-ops, Climate, and Capital**
-
-## **Date:** Tue, 03/01/2022 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/4938
-
-**Tags:** cooperatives, energy democracy, decarbonization, investor owned utilities (IOU), utility workers, strategy and tactics, public power, green unionism, green syndicalism, ecosocialism
 
 ## By RK Upadhya -
 

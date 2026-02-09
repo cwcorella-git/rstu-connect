@@ -9,13 +9,7 @@ tags:
   - green-syndicalism
 ---
 
-## **The Revolution in Work Calls for an Evolution in Living**
-
-## **Date:** Wed, 03/22/2017 - 18:34
-
 ## **Source:** https://ecology.iww.org/node/2152
-
-**Tags:** green economics, green unionism, green syndicalism
 
 ## By Graham Peebles -
 

@@ -7,14 +7,6 @@ tags:
   - feminism
 ---
 
-## **Interlinking our Struggles in Gender and Queer Issues**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/interlinking-our-struggles-gender-and-queer-issues
-
-**Tags:** anarchism, feminism, Philippines, gender, Bandilang Itim, transgender, LGBTQ+ (Lesbian Gay
-
 ## Bi Trans Queer +)
 
 Men in anarchist spaces need to step up to make our spaces safer and more inclusive. Lacking experience of being queer or women is no excuse to stay silent. Staying silent on oppression just contributes to that oppression.

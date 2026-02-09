@@ -8,11 +8,7 @@ tags:
   - theory
 ---
 
-## **What Solidarity Looks Like: Nearly 100 Unions Pitch In to Help Flint**
-
 | Date: Mon, 03/21/2016 - 14:16
-Source: https://ecology.iww.org/node/1567
-Tags: green unionism, Flint, water, privatization, disaster capitalism, water pollution |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | By Brandon Weber - |
 | The Progressive |

@@ -7,15 +7,9 @@ tags:
   - current-events
 ---
 
-## A THEORY OF JUSTICE
-
 Since it appeared in 1971, John Rawls's A Theory of Justice has become a classic. This revised edition clears up a number of difficulties he and others have found in the original book.
 
-## Learn more about A Theory of Justice »
-
 © Copyright 1971, 1999 by the President and Fellows of Harvard College
-
-# A THEORY OF JUSTICE
 
 ## Revised Edition
 

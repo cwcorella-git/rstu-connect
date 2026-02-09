@@ -8,13 +8,7 @@ tags:
   - climate
 ---
 
-## **Nurses join with partner environmental groups to demand climate justice now**
-
-## **Date:** Fri, 12/04/2015 - 18:53
-
 ## **Source:** https://ecology.iww.org/node/1418
-
-**Tags:** National Nurses United, climate justice, fracking, Los Angeles, California, green unionism,
 
 ## COP21
 

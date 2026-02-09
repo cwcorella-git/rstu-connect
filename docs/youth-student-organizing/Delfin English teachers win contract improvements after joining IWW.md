@@ -7,14 +7,6 @@ tags:
   - education
 ---
 
-## **Delfin English teachers win contract improvements after joining IWW**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/delfin-english-teachers-win-contract-improvements-after-joining-iww
-
-**Tags:** Industrial Workers of the World (IWW), United Kingdom, TEFL, London IWW, TEFL Workers'
-
 ## Union
 
 After joining theTEFL Workers Union, teachers at Delfin Language School in London have won paid meetings, paid CPDs, paid sick days, a pay policy, and an end to zero-hours contracts.

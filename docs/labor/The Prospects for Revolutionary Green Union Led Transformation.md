@@ -9,13 +9,7 @@ tags:
   - workers
 ---
 
-## **The Prospects for Revolutionary Green Union Led Transformation**
-
-## **Date:** Sat, 08/08/2020 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/3802
-
-**Tags:** green syndicalism, green bans, Lucas Plan, green unionism, just transition, just recovery, COVID-19, climate change, Climate Strike, Earth Strike
 
 ## By x344543 -
 

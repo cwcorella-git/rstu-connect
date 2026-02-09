@@ -9,10 +9,6 @@ tags:
   - workers
 ---
 
-# Review Trade Unions in the Green Economy
-
-Review – “Trade Unions in the Green Economy” Date: Mon, 04/24/2017 - 17:08 Source: https://ecology.iww.org/node/2210 Tags: x384117, green unionism, green syndicalism, just transition
-
 ## By x384117 -
 
 ## Environmental Unionism Caucus

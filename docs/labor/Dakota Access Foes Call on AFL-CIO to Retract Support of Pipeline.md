@@ -8,13 +8,7 @@ tags:
   - fossil fuels
 ---
 
-## **Dakota Access Foes Call on AFL-CIO to Retract Support of Pipeline**
-
-## **Date:** Thu, 09/22/2016 - 15:33
-
 ## **Source:** https://ecology.iww.org/node/1814
-
-**Tags:** green unionism, yellow unionism, NoDAPL, trade unions, AFL-CIO, North America's Building Trades Unions (NABTU), International Brotherhood of Teamsters (IBT), Laborers' International Union of North America (LIUNA), National Nurses United, Communication Workers of America (CWA)
 
 ## By Mark Hand -
 

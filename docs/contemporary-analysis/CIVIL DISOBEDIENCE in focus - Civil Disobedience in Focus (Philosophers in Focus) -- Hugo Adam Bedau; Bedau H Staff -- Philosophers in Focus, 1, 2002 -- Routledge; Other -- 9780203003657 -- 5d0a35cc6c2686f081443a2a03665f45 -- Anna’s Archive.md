@@ -7,8 +7,6 @@ tags:
   - civil disobedience
 ---
 
-# Civil Disobedience Focus
-
 ## \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
 ## **EDITED BY HUGO ADAM BEDAU**
@@ -16,8 +14,6 @@ tags:
 ## R
 
 Also available as a printed book see title verso for ISBN details
-
-## CIVIL DISOBEDIENCE in focus
 
 How can civil disobedience be defined and distinguished from revolution or lawful protest? What, if anything, justifies civil disobedience? Can nonviolent civil disobedience ever be effective?
 

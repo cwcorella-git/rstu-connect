@@ -8,10 +8,6 @@ tags:
   - culture
 ---
 
-#### [thesisdriven.com](https://www.thesisdriven.com/p/on-fire-departments)
-
-# **On Fire Departments**
-
 ## Brad Hargreaves
 
 17–22 minutes

@@ -8,8 +8,6 @@ tags:
   - tenants
 ---
 
-# The Truth About "The Truth About Rent Control"
-
 A report titled "The Truth About Rent Control" has been circulating among Nevada policymakers and media outlets, claiming to provide an "objective" analysis of rent stabilization policies. The report, funded by real estate industry groups, cherry-picks data and misrepresents research to oppose tenant protections.
 
 Let's examine the actual truth about this misleading document.

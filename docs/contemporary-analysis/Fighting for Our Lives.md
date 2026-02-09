@@ -9,8 +9,6 @@ tags:
 
 ## **Noam Deguerre, Crimeth Inc. Writers' Bloc**
 
-# **Fighting for Our Lives**
-
 ## **An Anarchist Primer**
 
 ## **2002-09-18**

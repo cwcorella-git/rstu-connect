@@ -8,10 +8,6 @@ tags:
   - digital rights
 ---
 
-#### [archdaily.com](https://www.archdaily.com/977782/under-the-same-sun-installation-stephanie-deumer)
-
-# Under the Same Sun Installation / Stephanie Deumer
-
 ## Curated by Hana Abdel
 
 3-4 minutes

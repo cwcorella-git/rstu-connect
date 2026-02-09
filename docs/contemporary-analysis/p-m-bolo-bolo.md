@@ -8,8 +8,6 @@ tags:
   - current-events
 ---
 
-## **Bolo'bolo**
-
 P. M.
 
 ## ![](_page_0_Picture_2.jpeg)

@@ -9,13 +9,9 @@ tags:
   - wikipedia
 ---
 
-# The Pashtun Protection Movement (PTM) in Pakistan
-
 ## Qamar Jafri
 
 ## ![](_page_0_Picture_3.jpeg)
-
-#### The Pashtun Protection Movement (PTM) in Pakistan by Qamar Jafri (2021) Published by ICNC Press
 
 Publication Disclaimer: The designations used and material presented in this publication do not indicate the expression of any opinion whatsoever on the part of ICNC. The authors hold responsibility for the selection and presentation of facts contained in this work, as well as for any and all opinions expressed therein, which are not necessarily those of ICNC and do not commit the organization in any way.
 

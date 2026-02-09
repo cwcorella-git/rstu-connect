@@ -9,14 +9,6 @@ tags:
   - workers
 ---
 
-## **About Wobblies For A Revolutionary Union Movement**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/about-wobblies-revolutionary-union-movement
-
-**Tags:** Wobblies For A Revolutionary Union Movement, Industrial Workers of the World (IWW), General
-
 ## Defense Committee
 
 A draft program from the Wobblies For A Revolutionary Union Movement (WRUM), a caucus that existed from 2017-2019 in the Industrial Workers of the World (IWW). Originally appeared: August 8, 2017 at Wobblies For A Revolutionary Union Movement

@@ -16,8 +16,6 @@ tags:
 
 ## January 9, 2018
 
-# The Postmodern Left and the Success of Neoliberalism
-
 ## ![](_page_0_Picture_11.jpeg)
 
 #### **By Scott Jay**

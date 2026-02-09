@@ -11,8 +11,6 @@ tags:
 
 ## ![](_page_0_Picture_0.jpeg)
 
-# **Frown**
-
 A **frown** (also known as a **scowl**) is a [facial expression](https://en.wikipedia.org/wiki/Facial_expression) in which the [eyebrows](https://en.wikipedia.org/wiki/Eyebrows) are brought together, and the forehead is wrinkled, usually indicating [displeasure](https://en.wikipedia.org/wiki/Displeasure), [sadness](https://en.wikipedia.org/wiki/Sadness) or [worry,](https://en.wikipedia.org/wiki/Worry) or less often [confusion](https://en.wikipedia.org/wiki/Confusion) or [concentration](https://en.wikipedia.org/wiki/Attentional_control). The appearance of a frown varies by culture. An alternative usage in [North](https://en.wikipedia.org/wiki/North_America) [America](https://en.wikipedia.org/wiki/North_America) is thought of as an expression of the [mouth.](https://en.wikipedia.org/wiki/Mouth) In those cases when used iconically, as with an emoticon, it is entirely presented by the curve of the lips forming a down-open curve. The mouth expression is also commonly referred to in the colloquial English phrase, especially in the United States, to "turn that frown upside down" which indicates changing from sad to happy.
 
 ## **Description**

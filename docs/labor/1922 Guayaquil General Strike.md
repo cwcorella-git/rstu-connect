@@ -8,14 +8,6 @@ tags:
   - strikes
 ---
 
-## **1922: Guayaquil General Strike**
-
-**Date:** Unknown
-
-**Source:** https://libcom.org/article/1922-guayaquil-general-strike
-
-**Tags:** general strikes, repression, electricity, trams, anarcho-syndicalism, Ecuador, killings, gas,
-
 Guayaquil, Hannah Jones
 
 Workers in the southern Ecuadorian city of Guayaquil struck due to increased economic pressures. The strike brought the city to a halt and gained several concessions but the violence from the police and military would set a precedent for other labour struggles.

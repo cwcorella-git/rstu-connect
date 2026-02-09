@@ -11,8 +11,6 @@ tags:
 
 ## ![](_page_0_Picture_0.jpeg)
 
-# **Freetown**
-
 **Freetown** [\(Krio:](https://en.wikipedia.org/wiki/Krio_language) *Frit*ɔ*un*) is the [capital](https://en.wikipedia.org/wiki/Capital_city) and largest city of [Sierra Leone.](https://en.wikipedia.org/wiki/Sierra_Leone) It is a major [port city](https://en.wikipedia.org/wiki/Port_city) on the [Atlantic Ocean](https://en.wikipedia.org/wiki/Atlantic_Ocean) and is located in the [Western](https://en.wikipedia.org/wiki/Western_Area) [Area](https://en.wikipedia.org/wiki/Western_Area) of the country. Freetown is Sierra Leone's major urban, economic, financial, cultural, educational and political centre, as it is the seat of the [Government of Sierra Leone.](https://en.wikipedia.org/wiki/Government_of_Sierra_Leone) The population of Freetown was 1,347,559 as of the 2024 census.[\[4\]](#page-9-0)
 
 The city's economy revolves largely around its [harbour,](https://en.wikipedia.org/wiki/Harbour) which occupies a part of the estuary of the [Sierra Leone River](https://en.wikipedia.org/wiki/Sierra_Leone_River) in one of the world's largest natural deep water harbours.

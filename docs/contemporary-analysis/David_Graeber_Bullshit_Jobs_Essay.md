@@ -7,8 +7,6 @@ tags:
   - Graeber
 ---
 
-## **On the Phenomenon of Bullshit Jobs: A Work Rant**
-
 ## David Graeber
 
 ## August 2013

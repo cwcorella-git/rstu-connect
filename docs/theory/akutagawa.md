@@ -6,8 +6,6 @@ tags:
   - theory
 ---
 
-## RYŪNOSUKE AKUTAGAWA
-
 ## Rashōmon and Seventeen Other Stories
 
 Selected and Translated with Notes by JAY RUBIN With an Introduction by HARUKI MURAKAMI

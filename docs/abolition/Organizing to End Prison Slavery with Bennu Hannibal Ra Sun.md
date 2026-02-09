@@ -8,14 +8,6 @@ tags:
   - prisons
 ---
 
-## **Organizing to End Prison Slavery with Bennu Hannibal Ra Sun**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/organizing-end-prison-slavery-bennu-hannibal-ra-sun
-
-**Tags:** United States, repression, prisons, Alabama, Free Alabama Movement, Bennu Hannibal
-
 ## Ra-Sun, The Final Straw Radio, PDF
 
 An interview from the Final Straw Radio with Bennu Hannibal Ra-Sun of the Free Alabama Movement, discussing the call for an economic blackout throughout January 2021 and more. This interview is also available as a PDF zine.

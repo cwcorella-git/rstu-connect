@@ -7,14 +7,6 @@ tags:
   - prisons
 ---
 
-## **Imprisoned for a day: a personal reflection**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/imprisoned-day-personal-reflection
-
-**Tags:** Marxism, crime, capitalism, neoliberalism, Chris C. Wright, police, prisons
-
 Your perspective on the world changes from inside a jail cell.
 
 In a worlddefined by social atomization, bureaucratization, and ant-like regimentation along institutionally sanctioned channels that exist but to uphold hierarchies of power, it is practically a moral obligation for anyone who wants to be fully human to seek empathic understanding of "the other." In particular, of those without a voice. If we privileged ones cannot literally shed our privilege, we ought at least to imaginatively inhabit other perspectives, say by readingprimary sourcesor watchingdocumentaries, or simply by talking to people from a different walk of life than our own. The result might be not only education but even, perhaps, inspiration.

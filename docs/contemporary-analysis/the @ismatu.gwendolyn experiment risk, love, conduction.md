@@ -7,12 +7,6 @@ tags:
   - current-events
 ---
 
-# **the @ismatu.gwendolyn experiment: risk, love, conduction.**
-
-## **Date:** 2025-06-22
-
-**Source:** https://www.threadings.io/the-ismatu-gwendolyn-experiment-risk-love-conduction/
-
 #### introductions
 
 I have never told this story from beginning to… middle (because here I am, in the thick of things). What a failing that is. Recently, I've understood that many of you all thought of my existence as a radical public scholar to be… inevitable? Somehow? So I have taken the time to detail all the little choices I made on the way to this middle bit, where I understand myself as someone who makes and re-makes the worlds around them. At no point in the past nor the present has anything been inevitable. I continue in my day to day with all these teeny choices that force me to pause, reassess, and recreate my internal bounds of possibility. This has inspired the necessity of review; we'll be going back through the evolving political thought of me (ismatu, the pen behind this essay) as I continued to choose paths that pulled me towards a life which demanded creativity, risk, and true love for the masses which touch and change me.
@@ -20,8 +14,6 @@ I have never told this story from beginning to… middle (because here I am, in 
 Video Transcript:
 
 I have been experimenting with my own life in front of you all (and with you all!) to live in and spread a new mode of being. I call this the
-
-## @ISMATU. GWENDOLYN EXPERIMENT
 
 It's come in three distinct parts:
 

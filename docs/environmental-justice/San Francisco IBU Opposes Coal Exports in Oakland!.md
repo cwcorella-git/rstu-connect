@@ -8,13 +8,7 @@ tags:
   - climate
 ---
 
-# **San Francisco IBU Opposes Coal Exports in Oakland!**
-
-## **Date:** Tue, 01/19/2016 - 22:10
-
 ## **Source:** https://ecology.iww.org/node/1473
-
-**Tags:** green unionism, Oakland, coal, exports, Phil Tagami, International Longshore and Warehouse
 
 Union (ILWU), IBU, Alameda County Central Labor Council
 

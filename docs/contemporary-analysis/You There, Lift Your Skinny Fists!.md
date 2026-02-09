@@ -8,14 +8,6 @@ tags:
   - class-struggle
 ---
 
-## **You There, Lift Your Skinny Fists!**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/you-there-lift-your-skinny-fists
-
-**Tags:** Kristin Supine, anti-fascism, class struggle
-
 It is times such as now, and the times of the foreseeable future, that are a radicalizing wave to those of us who not only feel overwhelmingly indignant over the state of our communities, our governing bodies which rule us, and some of the very individuals living next to us, but also to those of us feel the most petrifying horror and dread at what the coming years could hold. Let it be known, that while writing, panic and anxiety are the lone things now clouding and perverting the mind; and rightfully so. If some did not already agree with the view that the United States of America was and is definitively a fascist nation, then it should be bitterly clear and overwhelmingly certain as of now. With the re-election of Donald J. Trump as President of the U. S., the coming years are expected to be simply grim. Millions on top of millions of innocent people will be devastated, displaced, hurt, and even murdered - with the economy potentially in utter disaster, with thousands or millions of poor and working people's lives devastated, thousands of queer people, children, and allies suffocated under the boot of reactionaries and the state, and with even the potential widespread suppression and crushing of leftist sentiment, the next few years are going to be grim and disturbing to the core.
 
 As I stated, while writing, I feel nearly nothing but dread and terror at what is to come; truth be told, there is no way of knowing how severe and horrific this regime will be without experiencing it firsthand. Let it be clear that we are to take Trump and MAGA's promises, rhetoric, and terrorism with the absolute most sincerity, as it is most likely that they will attempt to make their regressive, anti-humanist vision a reality, seemingly no matter the cost. But let it also be made clear that we, the leftists, the workers, the trade unionists, the socialists, the anarchists, the progressives, hell even a couple of liberals, are all imbued with definite bravery – it is true that to be brave is to act, despite being afraid. There is going to be a lot of terror, pain, injustice, and wrong done by the state, by the ruling classes, by everyday reactionaries, by the MAGA crowds and the Neo-Nazi militias, and with that there must also be terror and conflict thrown their way – this is our self-defense. It is wholly needed and urgent to always speak out when malice, injustice, and immiseration occurs; and these moments can often be used to teach others, to radicalize others to our cause. We must also not be hesitant or shy in our opposition – not even the thought of modesty or should be considered when pushing back against fascist rule.

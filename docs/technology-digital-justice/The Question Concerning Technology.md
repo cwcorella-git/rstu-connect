@@ -8,8 +8,6 @@ tags:
 
 ## ![](_page_0_Picture_0.jpeg)
 
-## The Question Concerning Technology
-
 ## Martin Heidegger
 
 In what follows we shall be *questioning* concerning technology. Questioning builds a way. We would be advised, therefore, above all to pay heed to the way, and not to fix our attention on isolated sentences and topics. The way is one of thinking. All ways of thinking, more or less perceptibly, lead through language in a manner that is extraordinary. We shall be questioning concerning *technology*, and in so doing we should like to prepare a free relationship to it. The relationship will be free if it opens our human existence to the essence of technology. When we can respond to this essence, we shall be able to experience the technological within its own bounds.

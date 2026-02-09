@@ -8,9 +8,7 @@ tags:
   - police
 ---
 
-# Police Precinct Torched in Minneapolis As Government Buildings Stormed Riots Spr
-
-Police Precinct Torched in Minneapolis as Government Buildings Stormed & Riots Spread in Solidarity with Uprising Date: Unknown Source: https://libcom.org/article/police-precinct-torched-minneapolis-government-buildings-stormed-ri ots-spread-solidarity Tags: United States, riots, Minneapolis, Minnesota, Black Lives Matter movement, It's Going Down,
+States, riots, Minneapolis, Minnesota, Black Lives Matter movement, It's Going Down,
 ## police, George Floyd protests
 
 A report from It's Going Down on the uprising in Minneapolis and solidarity actions elsewhere.

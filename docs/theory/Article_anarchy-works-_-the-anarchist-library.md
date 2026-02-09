@@ -8,13 +8,10 @@ tags:
   - theory
 ---
 
-# Anarchy Works the Anarchist Library
-
 Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## theanarchistlibrary.org
 
-## Anarchy Works
                Author: Peter Gelderloos
 
 ## 497–632 minutes

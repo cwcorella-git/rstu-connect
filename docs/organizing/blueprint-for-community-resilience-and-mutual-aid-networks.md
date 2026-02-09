@@ -8,9 +8,6 @@ tags:
   - organizing
 ---
 
-# blueprint-for-community-resilience-and-mutual-aid-networks.pdf
-
-# Blueprint for Community Resilience and
 Mutual Aid Networks
 ## Foundation: Identifying and Mapping Resources
 - Survey existing community assets: skills, spaces, tools, knowledge

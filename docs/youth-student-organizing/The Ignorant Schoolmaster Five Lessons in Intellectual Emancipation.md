@@ -9,12 +9,6 @@ tags:
   - youth
 ---
 
-## **The Ignorant Schoolmaster: Five Lessons in Intellectual Emancipation**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/ignorant-schoolmaster-five-lessons-intellectual-emancipation
-
 ## **Tags:** education
 
 Rancière's classic book on education is committed to the idea of 'the equality of intelligence'.

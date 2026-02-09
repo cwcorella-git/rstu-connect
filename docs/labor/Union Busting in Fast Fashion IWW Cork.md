@@ -9,13 +9,7 @@ tags:
   - workers
 ---
 
-## **Union Busting in Fast Fashion: IWW Cork**
-
-## **Date:** Tue, 11/07/2023 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/6104
-
-**Tags:** Industrial Workers of the World (IWW), IWW WISERA, Ireland, sweatshops, textile workers, international solidarity, unions, movements, unions, and organizations
 
 ## By staff -
 

@@ -10,8 +10,6 @@ tags:
 
 #### **Anton Pannekoek**
 
-# **Workers' Councils**
-
 ## **1941-42 (-44, -47)**
 
 **Published:** The Dutch edition was published as "De arbeidersraaden" by the Communistenbond Spartacus in Amsterdam in 1946 under the pseudonym P. Aartsz. The first English edition was published by J. A. Dawson in 1950.

@@ -7,14 +7,6 @@ tags:
   - Malatesta
 ---
 
-## **Errico Malatesta (1853-1932) - Jeff Shantz**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/errico-malatesta-1853-1932-jeff-shantz
-
-**Tags:** Jeff Shantz, Errico Malatesta, anarchism, anarchist communism, theory, biographies, Biography
-
 Encyclopedia of Political Science (2011) entry on Errico Malatesta.
 
 Errico Malatesta was an Italian anarcho-communist whose writings remain influential within contemporary anarchist movements. Initially an advocate of an insurrectionary approach to social change, emphasizing the agitational work of small bands of activists in fomenting uprisings or revolution, Malatesta came to argue that anarchists should be most active mobilizing within working class communities. A writer and theorist, in addition to a militant organizer and revolutionary activist, Malatesta edited several popular anarchist newspapers, presenting his views on unions, revolution, farm work and peace.

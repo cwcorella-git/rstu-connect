@@ -9,8 +9,6 @@ tags:
   - digital rights
 ---
 
-## **Bay Area IWW General Membership Branch Endorses Resolution in Support of Public Ownership of the Railroads**
-
 | Date: Thu, 03/02/2023 - 00:00 |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/5441|

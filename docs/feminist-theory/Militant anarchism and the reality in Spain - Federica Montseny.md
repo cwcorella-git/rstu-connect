@@ -8,14 +8,6 @@ tags:
   - Spain
 ---
 
-## **Militant anarchism and the reality in Spain - Federica Montseny**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/militant-anarchism-and-reality-spain-federica-montseny
-
-**Tags:** Federica Montseny, Confederación Nacional del Trabajo (CNT), Federación Anarquista Ibérica (FAI), Spain, Spanish civil war, anarchism, anarcho-syndicalism, PDF, Anti-Parliamentary Communist
-
 ## Federation (APCF)
 
 A quote from a speech by Federica Montseny, at the time the Minister of Public Health of Spain, at a conference of the CNT and FAI, possibly in 1937.

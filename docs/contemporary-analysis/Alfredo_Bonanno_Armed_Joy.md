@@ -8,8 +8,6 @@ tags:
   - current-events
 ---
 
-# **Armed Joy**
-
 ## Alfredo M. Bonanno
 
 # **Contents**

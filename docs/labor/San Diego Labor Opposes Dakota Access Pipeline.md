@@ -8,13 +8,7 @@ tags:
   - fossil fuels
 ---
 
-## **San Diego Labor Opposes Dakota Access Pipeline**
-
-## **Date:** Mon, 12/19/2016 - 14:16
-
 ## **Source:** https://ecology.iww.org/node/1982
-
-**Tags:** San Diego, Labor for Standing Rock (L4SR), green unionism, yellow unionism, Labor Union Camp, NoDAPL, Dakota Access Pipeline (DAPL), Energy Transfer, pipelines, Laborers' International
 
 ## Union of North America (LIUNA)
 

@@ -8,10 +8,7 @@ tags:
   - environment
 ---
 
-## **Bay Area IWW Environmental Unionism Caucus: Three Years and Going Strong**
-
-**Date:** Thu, 05/05/2016 - 14:26 **Source:** https://ecology.iww.org/node/1631**Tags:** IWW Environmental Unionism Caucus, Bay Area IWW, green unionism, green syndicalism, Sunflower Alliance, Oakland, System Change not Climate Change (SCnCC), refineries, Railcon15, Railroad Workers United (RWU) By x344543 - IWW Environmental Unionism Caucus , May 3, 2016; image by Jon Flanders. The Bay Area IWW Environmental Unionism Caucus was cofounded in February 2013 by three members of the Bay Area IWW General Membership Branch . The group also helped launch the IWW EUC proper shortly after that. The Bay Area IWW EUC quickly launched as well as the EUC social media presence on Facebook & Twitter.
-
+IWW Environmental Unionism Caucus, Bay Area IWW, green unionism, green syndicalism, Sunflower Alliance, Oakland, System Change not Climate Change (SCnCC), refineries, Railcon15, Railroad Workers United (RWU) By x344543 - IWW Environmental Unionism Caucus , May 3, 2016; image by Jon Flanders. The Bay Area IWW Environmental Unionism Caucus was cofounded in February 2013 by three members of the Bay Area IWW General Membership Branch . The group also helped launch the IWW EUC proper shortly after that. The Bay Area IWW EUC quickly launched as well as the EUC social media presence on Facebook & Twitter.
 ecology.iww.org
 
 Initially, the group joined in anti-Keystone X-L protests in the Spring of 2013, but also played a minor role in helping organize a labor contingent at the August 6, 2013 "Summer Heat" protest against Chevron in Richmond, CA (on the one year anniversary of the refinery fire which injured several union workers and sent 15,000 residents to the hospital seeking medical care).

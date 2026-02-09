@@ -7,13 +7,9 @@ tags:
   - current-events
 ---
 
-# *We Need* PEOPLE POWER
-
 ## to Address a World In Peril
 
 ## Hardy Merriman
-
-# *We Need* PEOPLE POWER
 
 ## to Address a World In Peril
 

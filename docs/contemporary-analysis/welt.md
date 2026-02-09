@@ -11,8 +11,6 @@ tags:
 
 ## ![](_page_0_Picture_0.jpeg)
 
-## **Welt**
-
 **Welt**, **welts** or variants may refer to:
 
 ## **Media**

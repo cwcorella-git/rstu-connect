@@ -9,13 +9,7 @@ tags:
   - urban
 ---
 
-## **Community Hosts Teach-In on Environmental Justice as Oakland City Council Delays Action on Coal Exports**
-
-## **Date:** Thu, 12/10/2015 - 15:11
-
 ## **Source:** https://ecology.iww.org/node/1429
-
-**Tags:** coal, Oakland, Phil Tagami, West Oakland Environmental Indicators Project (WOEIP), Black Lives Matter, Sierra Club, Sunflower Alliance, green unionism, ILWU Local 10, SEIU Local 1021
 
 By April Thomas and Virginia Reinhart - Sierra Club Press Release, December 10, 2015; video by
 

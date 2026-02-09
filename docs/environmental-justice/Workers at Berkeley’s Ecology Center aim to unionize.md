@@ -8,13 +8,7 @@ tags:
   - environment
 ---
 
-## **Workers at Berkeley's Ecology Center aim to unionize**
-
-## **Date:** Tue, 02/28/2023 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/5430
-
-**Tags:** Industrial Workers of the World (IWW), Bay Area IWW, Bay Area, green unionism
 
 ## By Iris Kwok -
 

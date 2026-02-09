@@ -9,14 +9,6 @@ tags:
   - workers
 ---
 
-# **Industrial suicide: understanding the 1924 split of the Industrial Workers of the World - Cameron Molyneux**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/industrial-suicide-understanding-1924-split-industrial-workers-world-cameron-molyneux
-
-**Tags:** Cameron Molyneux, Industrial Workers of the World (IWW), Communist Party (USA), Industrial Worker, Industrial Solidarity, 1924, USSR, General Defense Committee
-
 A paper by Cameron Molyneux that blames infighting over Communism, organizational structure and strategies to deal with imprisoned members as the causes for the 1924 split, and subsequent decline, of the Industrial Workers of the World (IWW).
 
 The Industrial Workers of the World were, for a dozen years at the beginning of the 20th century, America's premier revolutionary leftist organization. Calling them "Beautiful Losers," anarchist historian Bob Black writes that "the IWW was by any standard as remarkable and radical an organization of any importance as the United States has ever produced. The Wobblies knew it and so did their enemies, who regarded the Wobblies with fear and loathing not unmixed with a certain fascination and grudging respect."1

@@ -8,14 +8,6 @@ tags:
   - syndicalism
 ---
 
-## **Syndicalism and Anarchism**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/syndicalism-and-anarchism
-
-**Tags:** Argentina, unions, syndicalism, anarcho-syndicalism, Federación Obrera Regional Argentina
-
 ## (FORA), Scott Nappalos, Emilio Lopez Arango, PDF
 
 This piece has a number of intriguing ideas that were circulating in the FORA. Lopez Arango counterposes a static view of unions and anarchism to one inherently grounded in trajectories of struggle, and puts the dynamics of change in struggle at the core of revolutionary work. Though this is only fragmentary, it provides a rare insight into another side of anarchism and unions, and one that gives a refreshing departure from more schematic and purely moralistic or ideological orientations.

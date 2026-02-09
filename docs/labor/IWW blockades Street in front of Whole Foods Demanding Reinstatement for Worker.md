@@ -9,13 +9,7 @@ tags:
   - labor
 ---
 
-## **IWW blockades Street in front of Whole Foods Demanding Reinstatement for Worker**
-
-## **Date:** Sun, 01/15/2017 - 17:11
-
 ## **Source:** https://ecology.iww.org/node/2023
-
-**Tags:** Industrial Workers of the World (IWW), Washington DC
 
 ## By DC Direct Action News -
 

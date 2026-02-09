@@ -9,10 +9,7 @@ tags:
   - digital rights
 ---
 
-## **The Campaign to Fight Toxic Prisons goes International!**
-
-**Date:** Tue, 09/19/2017 - 16:07 **Source:** https://ecology.iww.org/node/2448**Tags:** toxics, Prison Ecology Project, prison labor, class war prisoners, Earth First!, IWOC, Industrial Workers of the World (IWW), green unionism By Fight Toxic Prisons.org - Earth First! Newswire , September 16, 2017 We're Hitting the Road with the U. K. "End Toxic Prisons" Tour. Check out dates and details below. This Autumn, the Campaign to Fight Toxic Prisons will be touring the UK with Community Action on Prison Expansion.
-
+toxics, Prison Ecology Project, prison labor, class war prisoners, Earth First!, IWOC, Industrial Workers of the World (IWW), green unionism By Fight Toxic Prisons.org - Earth First! Newswire , September 16, 2017 We're Hitting the Road with the U. K. "End Toxic Prisons" Tour. Check out dates and details below. This Autumn, the Campaign to Fight Toxic Prisons will be touring the UK with Community Action on Prison Expansion.
 All over the world prisons are toxic environments causing social and ecological harm. Folks from the US have been organizing resistance at the intersection of mass incarceration and the environment, successfully delaying the only current Federal prison construction for over 2 years!
 
 Through grassroots organizing, advocacy and direct action they have been challenging the prison system which is putting prisoners at risk of dangerous environmental conditions, as well as impacting surrounding communities and ecosystems by their construction and operation. Learn about their strategy and tactics, as well as broader struggles of prison abolition, anti-racism, and environmental justice.

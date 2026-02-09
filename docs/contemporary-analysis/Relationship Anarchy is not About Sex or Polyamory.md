@@ -6,8 +6,6 @@ tags:
   - anarchism
 ---
 
-## **The Thinking Aro**
-
 ## **Relationship Anarchy is not About Sex or Polyamory**
 
 ## **June 6, 2016**

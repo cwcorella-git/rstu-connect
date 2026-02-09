@@ -8,13 +8,7 @@ tags:
   - prisons
 ---
 
-## **Wobblies Continue Lawsuits Against Texas Prison Authorities, Despite Retaliation**
-
-## **Date:** Unknown
-
 ## **Source:**
-**Tags:** Incarcerated Workers Organizing Committee, Industrial Workers of the World (IWW), Julio 'Comrade Z' Zuniga, Texas, United States, prisons
-
 An article by J Parampathu giving an update on the Industrial Workers of the World/Incarcerated Workers Organizing Committee's activity inside Texas prisons. This article was first published by the Industrial Worker.
 
 Julio "Comrade Z" Zuniga, of the Industrial Workers of the World Incarcerated Workers Organizing Committee, is currently suing prison officials in two lawsuits,Zuniga v. O'Daniel, et al. and Zuniga v. Armstrong, et al.

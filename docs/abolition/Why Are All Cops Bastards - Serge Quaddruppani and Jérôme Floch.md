@@ -9,12 +9,6 @@ tags:
   - prisons
 ---
 
-## **Why Are All Cops Bastards? - Serge Quaddruppani and Jérôme Floch**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/why-are-all-cops-bastards-serge-quaddruppani-and-jerome-floch
-
 ## **Tags:** police, France
 
 From Hong Kong to Buenos Aires, from Egyptian stadiums to French demonstrations, a message sumptuously graffitied on walls in Santiago and on railway cars in Britain, stenciled in Tunis and made on urinals with magic markers, spray-painted in Minneapolis, visible on a Turin crosswalk, and judiciously transformed to spell out words far more popular and universal than any expression of patriotism or any advertising slogan, ACAB is the rallying cry that proclaims, "All cops are bastards." As a hashtag, it accompanies more than 2.2 million posts on Instagram.

@@ -8,12 +8,9 @@ tags:
   - theory
 ---
 
-# Anarchist Revolutionary Strategy
-
 Anarchist Revolutionary Strategy https://theanarchistlibrary.org/library/james-herod-anarchist-revolutionar...
 
 ## James Herod
-## Anarchist Revolutionary Strategy
 ## April 2006
 ## European Historical Antecedents
 ## US Antecedents in the 18th, 19th, & 20th Centuries

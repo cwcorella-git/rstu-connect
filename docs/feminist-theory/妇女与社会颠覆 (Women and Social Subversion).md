@@ -8,13 +8,7 @@ tags:
   - feminism
 ---
 
-# **妇女与社会颠覆 (Women and Social Subversion)**
-
 ## **Author:** Mariarosa Dalla Costa
-
-**Source:** https://libcom.org/article/funuyushehuidianfu
-
-**Tags:** Mariarosa Dalla Costa, Italy, feminism, Italy 60s-70s, housework, operaismo, 世界之窗
 
 这篇马克思主义女权理论的经典作品,写于1971年意大利阶级斗争的高潮中,说明妇女的无偿 家务如何生产着资本主义积累过程中最昂贵的商品:劳动力(即工人每天去给老板打工的能 力),并探讨妇女如何能够利用这一知识去参与阶级斗争,促进能够真正解放妇女的共产主义 革命。
 

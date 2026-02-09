@@ -9,10 +9,6 @@ tags:
   - wikipedia
 ---
 
-#### [en.wikipedia.org](https://en.wikipedia.org/wiki/John_Reed_Clubs)
-
-# **John Reed Clubs**
-
 ## Contributors to Wikimedia projects
 
 21–26 minutes

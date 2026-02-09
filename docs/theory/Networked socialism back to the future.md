@@ -7,13 +7,7 @@ tags:
   - theory
 ---
 
-## **Networked socialism: back to the future**
-
-## **Date:** Sun, 09/25/2016 - 17:12
-
 ## **Source:** https://ecology.iww.org/node/1818
-
-**Tags:** solar communism, renewable energy, electrical workers, just transition, technology
 
 ## By Gabriel Levy -
 

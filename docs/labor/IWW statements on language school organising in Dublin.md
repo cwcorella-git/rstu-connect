@@ -8,12 +8,6 @@ tags:
   - education
 ---
 
-## **IWW statements on language school organising in Dublin**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/iww-statements-language-school-organising-dublin
-
 ## **Tags:** education
 
 Workers in Dublin's English language schools have been getting organised!

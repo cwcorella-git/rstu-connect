@@ -13,8 +13,6 @@ tags:
 
 ## Chris Cunneen
 
-# **DEFUND THE POLICE**
-
 ## An International Insurrection
 
 ## Chris Cunneen

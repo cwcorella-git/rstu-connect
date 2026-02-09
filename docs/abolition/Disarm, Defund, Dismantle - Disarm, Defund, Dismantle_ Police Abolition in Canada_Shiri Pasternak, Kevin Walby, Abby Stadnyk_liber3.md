@@ -17,8 +17,6 @@ Cover image for Disarm, Defund, Dismantle. The cover features an illustration of
 
 "All across the globe, poor communities are struggling against police power and for something radically different, but most abolitionist literature remains U. S.– centric. Disarm, Defund, Dismantle corrects this deficit by fusing abolition to decolonization, bringing together the diagnosis, strategy, and on-the-ground experiences needed to dismantle Canada's settler-police state."
 
-## **—Geo Maher, author of A World Without Police: How Strong Communities Make Cops Obsolete**
-
 "Both a powerful indictment of a criminal legal system that was never meant to protect us and a vision for safety rooted in empowerment, care, and solidarity."
 
 ## **—Alex S. Vitale, author of The End of Policing**

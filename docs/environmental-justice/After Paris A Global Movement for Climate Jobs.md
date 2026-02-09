@@ -8,13 +8,7 @@ tags:
   - France
 ---
 
-## **After Paris: A Global Movement for Climate Jobs**
-
-## **Date:** Mon, 12/21/2015 - 15:53
-
 ## **Source:** https://ecology.iww.org/node/1442
-
-**Tags:** green unionism, just transition, green jobs, renewable energy workers, renewable energy, Trade Unions for Energy Democracy (TUED), COP21
 
 ## By Jonathan Neale -
 

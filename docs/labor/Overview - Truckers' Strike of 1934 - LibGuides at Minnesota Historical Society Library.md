@@ -9,8 +9,6 @@ tags:
   - workers
 ---
 
-## [libguides.mnhs.org](https://libguides.mnhs.org/1934strike)
-
 ## **Lib Guides: Truckers' Strike of 1934: Overview**
 
 ## MNHS Reference Staff

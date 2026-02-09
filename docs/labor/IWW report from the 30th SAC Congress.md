@@ -9,12 +9,6 @@ tags:
   - workers
 ---
 
-## **IWW report from the 30th SAC Congress**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/iww-report-30th-sac-congress
-
 ## **Tags:** syndicalism, Sweden, SAC, x369425
 
 A reportback of the 30th Congress of the Swedish syndicalist union, SAC.

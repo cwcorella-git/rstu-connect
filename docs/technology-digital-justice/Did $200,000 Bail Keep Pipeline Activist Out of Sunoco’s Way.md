@@ -9,13 +9,7 @@ tags:
   - digital rights
 ---
 
-## **Did \$200,000 Bail Keep Pipeline Activist Out of Sunoco's Way?**
-
-## **Date:** Tue, 04/05/2016 - 17:16
-
 ## **Source:** https://ecology.iww.org/node/1603
-
-**Tags:** Sunoco, Alex Lotorto, direct action, Industrial Workers of the World (IWW), Pennsylvania, fracking
 
 ## By Anne Meador -
 

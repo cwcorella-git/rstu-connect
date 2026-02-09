@@ -10,8 +10,6 @@ tags:
 
 # **Edited By John Zerzan. Illustrated By R. L. Tubbesing.**
 
-# **Against Civilization**
-
 # **Readings and Reflections (Enlarged Edition)**
 
 #### **1 Jun. 2005**

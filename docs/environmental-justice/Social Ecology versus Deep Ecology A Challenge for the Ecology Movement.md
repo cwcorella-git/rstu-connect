@@ -8,14 +8,6 @@ tags:
   - climate
 ---
 
-# **Social Ecology versus Deep Ecology: A Challenge for the Ecology Movement**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/social-ecology-versus-deep-ecology-challenge-ecology-movement
-
-**Tags:** Murray Bookchin, primitivism, environment
-
 Murray Bookchin's critique of 'mystical' deep ecologists and his contribution to the development of a pro-working class environmentalism.
 
 ## by Murray Bookchin

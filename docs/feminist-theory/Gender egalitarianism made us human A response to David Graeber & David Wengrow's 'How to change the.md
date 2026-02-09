@@ -8,14 +8,6 @@ tags:
   - feminism
 ---
 
-## **Gender egalitarianism made us human: A response to David Graeber & David Wengrow's 'How to change the course of human history' - by Camilla Power**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/gender-egalitarianism-made-us-human-response-david-graeber-david-wengrows-how-change-course
-
-**Tags:** primitivism, women, sex and sexuality, evolution, feminism, hunter-gatherers, David Graeber
-
 In an ambitiousrecent article in Eurozine David Graeber and David Wengrow try to rewrite the narrative of human history. They attack the 'myth' that humans had once enjoyed equality and freedom in hunter-gatherer bands, until the invention of farming sent us down the road to social inequality.
 
 They claim that popular writers Francis Fukuyama and Jared Diamond as well as archaeologists Kent Flannery, Joyce Marcus and Ian Morris have swallowed this myth wholesale. As a result, these authors come up with dismal conclusions about social inequality: unless we can transport a small proportion of surviving humans back into a golden age, we can never again achieve political goals of social justice and proper sharing.

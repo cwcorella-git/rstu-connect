@@ -8,14 +8,6 @@ tags:
   - digital rights
 ---
 
-## **Detainment is Death in the Pandemic!**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/detainment-death-pandemic
-
-**Tags:** police, prisons, military and law enforcement, Philippines, Bandilang Itim, Simoun Magsalin
-
 Inmates and persons deprived of liberty are at high risk of dying due to COVID-19. The state's campaign of mass arrests and detainment of so-called quarantine violators risks spreading the disease to detainees. As it is the poor who bares the brunt of the state's policing and incarceration, prisons and police must be abolished as they mostly only target the poor.
 
 Written by Simoun Magsalin.

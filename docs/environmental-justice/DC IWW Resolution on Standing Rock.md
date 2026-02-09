@@ -9,13 +9,7 @@ tags:
   - climate
 ---
 
-## **DC IWW Resolution on Standing Rock**
-
-## **Date:** Tue, 11/22/2016 - 17:13
-
 ## **Source:** https://ecology.iww.org/node/1923
-
-**Tags:** NoDAPL, Industrial Workers of the World (IWW), Washington DC, Labor for Standing Rock (L4SR), green unionism, green syndicalism, indigenous, Energy Transfer, Dakota Access Pipeline
 
 ## (DAPL), pipelines
 

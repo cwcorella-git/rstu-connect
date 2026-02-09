@@ -15,14 +15,6 @@ tags:
   - rural
 ---
 
-## **New Battlefields - Phil Neel interview by e-Komite (2021)**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/new-battlefields-phil-neel-interview-e-komite-2021
-
-**Tags:** Phil Neel, anarchism, communism, organisation, suburbs, exurbs, hinterland, geography, rural
-
 American communist geographer and author Phil Neel was interviewed by the Turkish collectivee-Komitein September 2021, translated into English and published by Ill Willin 2022.
 
 Italicized chunks of text are interviewer questions.

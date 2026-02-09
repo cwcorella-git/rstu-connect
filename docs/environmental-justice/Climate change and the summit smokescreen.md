@@ -8,13 +8,7 @@ tags:
   - climate
 ---
 
-## **Climate change and the summit smokescreen**
-
-## **Date:** Fri, 12/04/2015 - 17:16
-
 ## **Source:** https://ecology.iww.org/node/1414
-
-**Tags:** Ian Angus, green unionism, ecosocialism, green-anarchism, green syndicalism, COP21, climate justice
 
 ## Ian Angus interviewed by Phil Gasper -
 

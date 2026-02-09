@@ -9,14 +9,6 @@ tags:
   - workers
 ---
 
-## **On "fundamentalism" in the IWW**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/fundamentalism-iww
-
-**Tags:** Wobblies For A Revolutionary Union Movement, General Defense Committee, Industrial
-
 Workers of the World (IWW), Industrial Unionist Caucus
 
 An article by Erik comparing a rival caucus in the Industrial Workers of the World (IWW), the Industrial Unionist Caucus to conservative religious fundamentalists.

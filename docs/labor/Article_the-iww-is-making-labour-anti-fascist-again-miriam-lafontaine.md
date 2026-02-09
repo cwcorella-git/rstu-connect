@@ -9,9 +9,7 @@ tags:
   - labor
 ---
 
-# The Iww Is Making Labour Anti Fascist Again Miriam Lafontaine
-
-The IWW is making labour anti-fascist again - Miriam Lafontaine Date: Unknown Source: https://libcom.org/article/iww-making-labour-anti-fascist-again-miriam-lafontaine Tags: Miriam Lafontaine, Industrial Workers of the World (IWW), General Defense Committee, anti-fascism
+Lafontaine, Industrial Workers of the World (IWW), General Defense Committee, anti-fascism
 An article by Miriam Lafontaine covering the Industrial Worker of the World's anti-fascist efforts through its General Defense Committee.
 Originally posted: April 3, 2018 atThe Link
 Back in the 1920s, the Industrial Workers of the World, the historic union known for its opposition to capitalism and demand for direct democracy in the workplace, was a vocal opponent of the Ku Klux Klan.

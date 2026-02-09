@@ -8,13 +8,7 @@ tags:
   - feminism
 ---
 
-## **여성해방의 비극 (The Tragedy of Women's Emancipation)**
-
 ## **Author:** Emma Goldman
-
-**Source:** https://libcom.org/article/yeoseonghaebangui-bigeug
-
-**Tags:** Emma Goldman, Anarchist Yondae, feminism, women, anarchism
 
 엠마 골드만이 1906년에 쓴 이 글은 아나키스트인 E. 아르망의 번역으로 2003년 잡지 〈아곤 Agone〉에 게재됐으며, 〈르몽드 디플로마티크〉의 자매지인 격월간 〈마니에르 드부아Manière de voir〉 2011년 8 · 9월호에 재수록 됐다.
 

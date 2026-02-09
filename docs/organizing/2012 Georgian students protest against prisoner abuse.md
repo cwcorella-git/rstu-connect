@@ -9,14 +9,6 @@ tags:
   - education
 ---
 
-## **2012: Georgian students protest against prisoner abuse**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/2012-georgian-students-protest-against-prisoner-abuse
-
-**Tags:** repression, Georgia, sexual violence, Juli Pham, police, PDF
-
 Leaked videos of prisoners being tortured and sexually assaulted sparked massive protests on the streets of Georgian cities in solidarity.
 
 CW: descripitions of graphic violence and sexual assault.

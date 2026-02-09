@@ -7,12 +7,6 @@ tags:
   - current-events
 ---
 
-## **I love my country//she looks like me.**
-
-## **Date:** 2023-10-16
-
-**Source:** https://www.threadings.io/i-love-my-countryshe-looks-like-me/
-
 I had this vision I had to walk people through how Palestine is my country and how I love my country. I sat on the ground and rocked myself and sang oshya. And practiced opening my veins and arteries. I had never been much of a countryman but I started seeing Micah behind my eyelids. Her pseudonym is Micah, and she is one of two surviving her family after Ebola and the day of our meeting she was eighteen. How she looks at me while I cry during her interview because I know now how Pablo Neruda wrote
 
 ## Sonnet XVII

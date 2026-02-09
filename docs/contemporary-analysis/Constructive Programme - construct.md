@@ -7,8 +7,6 @@ tags:
   - current-events
 ---
 
-# CONSTRUCTIVE PROGRAMME
-
 ## (Its Meaning and Place)
 
 ## By: M. K. Gandhi

@@ -8,13 +8,7 @@ tags:
   - education
 ---
 
-## **1968-1969: Pakistani students, workers, and peasants bring down a dictator**
-
-## **Date:** Unknown
-
 ## **Source:**
-**Tags:** manufacturing and materials, education, strikes, Pakistan, agriculture, peasants, student strikes,
-
 ## Aileen Eisenburg, PDF
 
 An account of the waves of strikes and protests against the inequality, brutality and corruption of Pakistans military dictatorship.

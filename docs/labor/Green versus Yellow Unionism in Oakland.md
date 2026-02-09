@@ -9,13 +9,7 @@ tags:
   - workers
 ---
 
-# **Green versus Yellow Unionism in Oakland**
-
-## **Date:** Wed, 11/11/2015 - 11:48
-
 ## **Source:** https://ecology.iww.org/node/1374
-
-**Tags:** coal, exports, Oakland, ILWU Local 10, ILWU Local 6, ILWU Local 4, ILWU Local 34, National
 
 Nurses United, Service Employees International Union (SEIU), UNITE-HERE
 

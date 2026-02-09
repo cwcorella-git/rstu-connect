@@ -7,8 +7,6 @@ tags:
   - digital rights
 ---
 
-# Read Write Own
-
 The internet is probably the most important invention of the twentieth century. It transformed the world much as earlier technological revolutions — the printing press, the steam engine, electricity — did before.
 
 Unlike many other inventions, the internet wasn't immediately monetized. Its early architects created the network not as a centralized organization but as an open platform that anyone — artists, users, developers, companies, and others — could access equally. At a relatively low cost and without needing approval, anyone anywhere could create and share code, art, writing, music, games, websites, startups, or whatever else people could dream up.

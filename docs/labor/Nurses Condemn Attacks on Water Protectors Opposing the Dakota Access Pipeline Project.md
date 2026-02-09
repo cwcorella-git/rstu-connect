@@ -10,13 +10,7 @@ tags:
   - workers
 ---
 
-## **Nurses Condemn Attacks on Water Protectors Opposing the Dakota Access Pipeline Project**
-
-## **Date:** Mon, 10/31/2016 - 12:10
-
 ## **Source:** https://ecology.iww.org/node/1888
-
-**Tags:** Labor for Standing Rock (L4SR), NoDAPL, green unionism, North America's Building Trades Unions (NABTU), indigenous, National Nurses United, healthcare workers
 
 ## By staff
 

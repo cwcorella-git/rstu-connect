@@ -8,9 +8,6 @@ tags:
   - strikes
 ---
 
-# 1961 62 Dominican General Strike Ends Dictatorship
-
-1961-62: Dominican General Strike Ends Dictatorship Date: Unknown Source: https://libcom.org/article/1961-62-dominican-general-strike-ends-dictatorship Tags: general strikes, US intervention, Dominican Republic, Aden Tedla, PDF
 In the aftermath of the assassination of the Dictator Trujillo a general strike was initiated to oust his remaining cronies.
 Dominican citizens general strike for free democratic elections, 1961-1962
 Through several decades in the 20th century, the Dominican Republic remained under the rule of the dictator Rafael Leonidas Trujillo Molina, nicknamed “El Jefe.” With major support from the United States, the Trujillo dictatorship remained intact for over thirty years, during which brutal oppression and secret killings of political dissidents were the norm. Newspapers and other media outlets were strictly censored and Trujillo’s gangs of secret police terrorized the public. During this time, it was not uncommon for a critic of the Trujillo regime to be kidnapped by thugs driving license-less black cars and to be found days later lying beaten, bloody, and broken in the sugarcane fields.

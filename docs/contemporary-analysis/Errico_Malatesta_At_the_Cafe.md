@@ -7,8 +7,6 @@ tags:
   - Malatesta
 ---
 
-# **At The Café**
-
 #### **Conversations on Anarchism**
 
 ## Errico Malatesta

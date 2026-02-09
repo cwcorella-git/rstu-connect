@@ -8,14 +8,6 @@ tags:
   - anti-war
 ---
 
-## **Are Anarchists Giving in to War Fever? – Wayne Price**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/are-anarchists-giving-war-fever-wayne-price
-
-**Tags:** Wayne Price, Russia-Ukraine war, war, nationalism, national liberation, Ukraine, anarchism
-
 Article by Wayne Price responding to British Anarchism Succumbs to War Fever.
 
 My response to an article, "British Anarchism Succumbs to War Fever" by Alex Alder. That article expresses dismay that many anarchists, in Britain and Eastern Europe and elsewhere have come to support the Ukrainian side of its war with Russian imperialism. It regards this perspective as a betrayal of anarchism, internationalism, and anti-militarism.

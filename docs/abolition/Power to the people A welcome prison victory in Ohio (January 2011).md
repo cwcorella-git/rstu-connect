@@ -9,14 +9,6 @@ tags:
   - police
 ---
 
-## **Power to the people: A welcome prison victory in Ohio (January 2011)**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/power-people-welcome-prison-victory-ohio-january-2011
-
-**Tags:** United States, prisons, Ohio, Lucasville, Denis O'Hearn, Bomani Shakur
-
 A pair of articles by Bomani Shakur and Denis O'Hearn reporting on the successful outcome of the 2011 hunger strike by Lucasville defendants. This story was first posted by the San Francisco Bay View.
 
 ## by Bomani Shakur, aka Keith La Mar

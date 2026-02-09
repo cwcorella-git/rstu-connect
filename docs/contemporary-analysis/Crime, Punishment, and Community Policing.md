@@ -8,19 +8,9 @@ tags:
   - police
 ---
 
-# **Crime, Punishment, and Community Policing**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/crime-punishment-and-community-policing
-
-**Tags:** crime, Workers Solidarity Movement, police, Ireland, Northern Ireland, drugs, Gregor Kerr
-
 The term 'community policing' has been much abused in recent times, most particularly in the North of Ireland where it has become shorthand for vicious punishment beatings and shootings. Inthis article Gregor Kerr takes a look at the issue of community policing - what it is and more importantly what it isn't.
 
 An audio version of this article can be found here.
-
-## Crime, Punishment & Community policing
 
 ".....the man who is called 'criminal' is simply unfortunate;....the remedy is not to flog him, to chain him up, or to kill him on the scaffold or in prison, but to help him by the most brotherly care, by treatment based on equality........"1
 

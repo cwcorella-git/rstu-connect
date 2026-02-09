@@ -9,10 +9,6 @@ tags:
   - workers
 ---
 
-# Rebuilding Radical Unionism an Organisers Notes
-
-Rebuilding Radical Unionism: An Organiser’s Notes Date: Mon, 02/08/2016 - 21:25 Source: https://ecology.iww.org/node/1494 Tags: green syndicalism, green unionism, solidarity unionism, United Kingdom (UK)
-
 ## By an Anonymous Organiser -
 
 ## Novara

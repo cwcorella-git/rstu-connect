@@ -9,8 +9,6 @@ tags:
 
 ## **Ivan Illich**
 
-# **Deschooling Society**
-
 ### **1970**
 
 #### **Introduction**

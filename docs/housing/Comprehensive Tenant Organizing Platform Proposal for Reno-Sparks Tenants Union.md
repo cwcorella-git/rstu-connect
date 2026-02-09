@@ -12,7 +12,7 @@ tags:
   - gig economy
   - Nevada
 ---
-# Comprehensive Tenant Organizing Platform Proposal for Reno-Sparks Tenants Union
+
 Comprehensive Tenant Organizing Platform Proposal for RenoSparks Tenants Union
 Building community power through collective digital infrastructure
 The Reno-Sparks Tenants Union stands at a pivotal moment as Nevada's first publicized tenant union,

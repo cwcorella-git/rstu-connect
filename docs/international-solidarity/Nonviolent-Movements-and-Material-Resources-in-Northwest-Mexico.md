@@ -8,8 +8,6 @@ tags:
   - Mexico
 ---
 
-# Nonviolent Movements and Material Resources in Northwest Mexico
-
 ## Chris Allan and A. Scott Du Pree
 
 ## ![](_page_0_Picture_3.jpeg)

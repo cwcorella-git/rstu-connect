@@ -8,14 +8,6 @@ tags:
   - labor
 ---
 
-## **Interview: IWW Shop Workers - Black Flag**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/interview-iww-shop-workers-black-flag
-
-**Tags:** Industrial Workers of the World (IWW), retail and food, United Kingdom, Hampshire
-
 We recently heard of that the Industrial Workers of the World (IWW) had managed to establish a job shop in Hampshire, and took the opportunity to interview Ray Carr, the IWW delegate involved, recently.
 
 From Black Flag #214 1998.

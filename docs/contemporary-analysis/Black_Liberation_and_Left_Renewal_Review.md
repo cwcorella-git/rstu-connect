@@ -8,8 +8,6 @@ tags:
   - current-events
 ---
 
-## Black Liberation and Left Renewal
-
 ## BY
 
 ## JORDAN T. CAMP

@@ -7,14 +7,6 @@ tags:
   - riots
 ---
 
-## **Long Live The Revolt!**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/long-live-revolt
-
-**Tags:** United States, riots, internationalism, Minneapolis, Covid-19, police
-
 After another night of revolt in the streets of The United States due to the killing of George Floyd, president Trump, from a bunker in the White House, announced that he would designate "Antifa" as a terrorist organization. This finger-pointing seeks to frame a spontaneous and manifold movement (without capitals) as an Organization, not only assigning it an ideology but also a functionality that is hierarchical and in consonance with state logic.
 
 Once again, terrorism is used as an alibi for the criminalization of wide sectors in the struggle, which at the same time completely exceed "anti-fascism". But beyond denouncing and fighting against the repressive advance that this signifies, it's necessary to reject the polarization that is sought to be introduced at the heart of the struggle.

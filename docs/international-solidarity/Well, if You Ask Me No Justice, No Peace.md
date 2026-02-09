@@ -8,13 +8,7 @@ tags:
   - peace
 ---
 
-## **Well, if You Ask Me: No Justice, No Peace**
-
-## **Date:** Thu, 12/10/2015 - 14:55
-
 ## **Source:** https://ecology.iww.org/node/1427
-
-**Tags:** Dano T Bob, Don Blankenship, Massey, Upper Big Branch, coal, mine workers, health and
 
 ## safety, If You Ask Me
 

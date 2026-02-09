@@ -8,8 +8,6 @@ tags:
 
 ## James Herod
 
-## Is Greed All that's Wrong With Capitalism?
-
 Is greed all that's wrong with capitalism? No. It is not enough to attack capitalists for being greedy, although this is a common tactic. I hope to explain why in this short essay.
 
 Consider a small business family who work longer hours than do their employees, who live frugally, keeping just enough of the income from the business to support their modest lifestyle, paying the rest out in wages to their employees. If greed were all that is wrong with capitalism then these capitalists would be considered exemplary and above criticism, because in no way are they greedy. But they are still in charge! As bosses or managers. And this is the crux of the matter. They still own the properties, the means of production. Their employees don't. They are buyers of waged-labor; their employees are sellers of waged-labor. Thus their employees are slaves, wageslaves. They are not. There is an inequality here, of power, status, class, and wealth, which is built into the system, and based on the private ownership of properties. So even if the annual financial return from the business is roughly the same for employers and employees, it is still an unjust social arrangement and must be morally condemned.

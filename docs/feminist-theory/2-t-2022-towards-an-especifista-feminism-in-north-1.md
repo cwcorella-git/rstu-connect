@@ -6,8 +6,6 @@ tags:
   - feminism
 ---
 
-# **TOWARDS AN ESPECIFISTA FEMINISM IN NORTH AMERICA**
-
 #### **INTRODUCTION**
 
 #### **TO BEGIN...**

@@ -10,8 +10,6 @@ tags:
 
 #### [archive.iww.org](https://archive.iww.org/history/library/Jackson/copinyourhead/)
 
-# **Authoritarian Leftists: Kill the Cop in Your Head**
-
 44–56 minutes
 
 ## **By Greg Jackson - Black Autonomy, April 1996.**

@@ -8,9 +8,7 @@ tags:
   - education
 ---
 
-# Picket Line Lessons the Utla Teacher Strike
-
-Picket Line Lessons: The UTLA Teacher Strike Date: Unknown Source: https://libcom.org/article/picket-line-lessons-utla-teacher-strike Tags: United States, education, strikes, schools, Los Angeles, Black Rose Anarchist Federation,
+States, education, strikes, schools, Los Angeles, Black Rose Anarchist Federation,
 ## United Teachers Los Angeles
 
 Members of Black Rose/Rosa Negra – Los Angeles who were involved in community mobilization in support of the strike and as members of UTLA provide their summary and analysis. The article highlights the community-worker nature of the strikes demands, the conditions of the settlement, the pitfalls of union leadership and labor law, as well as outlining next steps in the struggle.

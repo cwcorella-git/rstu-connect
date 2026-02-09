@@ -8,10 +8,6 @@ tags:
   - environment
 ---
 
-## [ecology.iww.org](https://ecology.iww.org/taxonomy/term/1788)
-
-## **strategy and tactics | ecology.iww.org**
-
 3–4 minutes
 
 **By That Green Union Guy -** [IWW Eco Union Caucus](https://ecology.iww.org/)**, July 27, 2025**

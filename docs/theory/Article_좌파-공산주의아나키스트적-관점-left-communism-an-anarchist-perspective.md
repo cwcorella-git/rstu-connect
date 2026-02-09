@@ -8,12 +8,7 @@ tags:
   - theory
 ---
 
-# 좌파 공산주의아나키스트적 관점 Left Communism an Anarchist Perspective
-
 좌파 공산주의―아나키스트적 관점 (Left Communism - An Anarchist Perspective) Author: Wayne Price
-Source: https://libcom.org/article/jwapa-gongsanjuui-anakiseuteujeog-gwanjeom
-Tags: Wayne Price, Anarchist Yondae, left communism, communism, anarchism, Marxism, Vladimir Lenin, Rosa Luxemburg, Amadeo Bordiga, fascism
-
 ## 아나키스트적 관점
 
 아나키스트들은 간혹 사회민주주의도 아니고 마르크스-레닌주의도 아닌 마르크스주의의 소수 경향 (혹은 경향들)에 관심을 가진다. 이 관점들은 “자유의지주의적 마르크스주의”, “자율적 마르크스주의”, “극좌파”, “자유의지주의적 공산주의”, 또는 “좌파 공산주의”라 불린다. 레닌은 그의 유명한 소책자 『좌파 공산주의, 유아적 혼란』을 통하여 이 관점을 반대한 바 있다.

@@ -9,13 +9,7 @@ tags:
   - climate
 ---
 
-## **Collectives in the Spanish Revolution by Gaston Leval (2018 Updated & Improved Edition)**
-
-## **Date:** Unknown
-
 ## **Source:**
-**Tags:** economics, libertarian communism, Spain, syndicalism, anarcho-syndicalism, Spanish civil war, peasants, Confederación Nacional del Trabajo (CNT), Buenaventura Durruti, Federación Anarquista Ibérica (FAI)
-
 A new, updated, and improved edition of a classic of anarcho-syndicalist economics -- a detailed eyewitness and analysis of the successes and struggles of a libertarian socialist economy
 
 Can anarchism work? People ask the question with reference to all sorts of things, but a common enough one is economics. The failure of the Soviet-style planned economies, in particular, is a dismissal of the idea that socialism of any kind (particularly the stateless variety) could ever work. How would anti-authoritarian socialists run an economy on the scale of a region or country?

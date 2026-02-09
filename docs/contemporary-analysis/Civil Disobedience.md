@@ -6,8 +6,6 @@ tags:
   - civil disobedience
 ---
 
-## ON THE DUTY OF CIVIL DISOBEDIENCE
-
 ## BY
 
 ## **HENRY DAVID THOREAU**

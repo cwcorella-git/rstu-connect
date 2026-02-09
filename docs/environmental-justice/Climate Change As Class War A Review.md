@@ -9,13 +9,7 @@ tags:
   - class
 ---
 
-# **Climate Change As Class War: A Review**
-
-## **Date:** Tue, 12/06/2022 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/5281
-
-**Tags:** green syndicalism, ecosocialism, movements, unions, and organizations, ecological movements and organizations, movement politics, strategy and tactics, climate justice, environmental justice, climate change, class struggle
 
 ## By Tom Wetzel -
 

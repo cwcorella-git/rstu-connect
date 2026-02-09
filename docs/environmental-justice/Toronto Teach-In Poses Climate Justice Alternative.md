@@ -8,13 +8,7 @@ tags:
   - indigenous
 ---
 
-## **Toronto Teach-In Poses Climate Justice Alternative**
-
-## **Date:** Wed, 06/15/2016 - 12:23
-
 ## **Source:** https://ecology.iww.org/node/1680
-
-**Tags:** green unionism, just transition, Iron and Earth, green jobs, climate justice, renewable energy, renewable energy workers, Leap Manifesto, Line 9, 350
 
 ## By John Riddell -
 

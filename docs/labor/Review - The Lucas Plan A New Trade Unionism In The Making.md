@@ -9,13 +9,7 @@ tags:
   - workers
 ---
 
-## **Review - The Lucas Plan: A New Trade Unionism In The Making?**
-
-## **Date:** Thu, 05/11/2023 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/5647
-
-**Tags:** Lucas Plan, green syndicalism, green unionism, strategy and tactics, movements, unions, and organizations, United Kingdom (UK), book reviews, just transition, just transformation, climate change
 
 ## By x344543 -
 

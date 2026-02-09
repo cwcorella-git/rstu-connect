@@ -10,14 +10,6 @@ tags:
   - independent-working-class-association
 ---
 
-# **The Party's Over: The State of the Left in the 1990s**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/partys-over-state-left-1990s
-
-**Tags:** Class War Federation, United Kingdom, Red Action, Independent Working Class Association
-
 ## (IWCA), Socialist Workers Party UK (SWP)
 
 Article from Class War issue 73 surveying the remains of the left

@@ -11,8 +11,6 @@ tags:
 
 ## ![](_page_0_Picture_2.jpeg)
 
-# **Manifest destiny**
-
 **Manifest destiny** was the imperialist belief in the [19th-century United States](https://en.wikipedia.org/wiki/19th_century_in_the_United_States) that [American settlers](https://en.wikipedia.org/wiki/American_pioneer) were destined to expand westward across [North](https://en.wikipedia.org/wiki/North_America) [America,](https://en.wikipedia.org/wiki/North_America) and that this belief was both obvious ("*manifest*") and certain ("*destiny*"). The belief is rooted in [American exceptionalism,](https://en.wikipedia.org/wiki/American_exceptionalism) [romantic](https://en.wikipedia.org/wiki/Romantic_nationalism) [nationalism,](https://en.wikipedia.org/wiki/Romantic_nationalism) and [white nationalism,](https://en.wikipedia.org/wiki/White_nationalism)[\[2\]](#page-20-1)[\[3\]](#page-20-2)[\[4\]](#page-20-3) implying the inevitable spread of [republicanism](https://en.wikipedia.org/wiki/Republicanism) and the [American way.](https://en.wikipedia.org/wiki/American_way)[\[5\]](#page-20-4) It is one of the earliest expressions of [American imperialism](https://en.wikipedia.org/wiki/American_imperialism)[.\[6\]](#page-20-5)[\[7\]](#page-21-0)[\[8\]](#page-21-1)
 
 According to historian William Earl Weeks, there were three basic tenets behind the concept:[\[5\]](#page-20-4)

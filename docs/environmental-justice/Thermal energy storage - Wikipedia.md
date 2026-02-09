@@ -10,8 +10,6 @@ tags:
 
 ## ![](_page_0_Picture_2.jpeg)
 
-# [Thermal energy storage](https://en.wikipedia.org/wiki/Main_Page)
-
 (Redirected from [Thermal battery\)](https://en.wikipedia.org/w/index.php?title=Thermal_battery&redirect=no)
 
 Thermal energy storage (TES) is the storage of [thermal energy](https://en.wikipedia.org/wiki/Thermal_energy) for later reuse. Employing widely different technologies, it allows surplus thermal energy to be stored for hours, days, or months. Scale both of storage and use vary from small to large – from individual processes to district, town, or region. Usage examples are the balancing of energy demand between daytime and nighttime, storing summer heat for winter heating, or winter cold for summer cooling [\(Seasonal thermal energy storage\)](https://en.wikipedia.org/wiki/Seasonal_thermal_energy_storage). Storage media include water or ice-slush tanks, masses of native earth or bedrock accessed with [heat exchangers](https://en.wikipedia.org/wiki/Heat_exchanger) by means of boreholes, deep [aquifers](https://en.wikipedia.org/wiki/Aquifer) contained between impermeable strata; shallow, lined pits filled with gravel and water and insulated at the top, as well as [eutectic](https://en.wikipedia.org/wiki/Eutectic) solutions and [phase-change materials](https://en.wikipedia.org/wiki/Phase-change_material)[.\[4\]](https://en.wikipedia.org/wiki/Thermal_energy_storage#cite_note-4)[\[5\]](https://en.wikipedia.org/wiki/Thermal_energy_storage#cite_note-5)

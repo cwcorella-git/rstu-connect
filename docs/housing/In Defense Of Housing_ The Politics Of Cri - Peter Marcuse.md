@@ -10,10 +10,6 @@ tags:
 
 ## ![](_page_0_Picture_0.jpeg)
 
-## IN DEFENSE OF HOUSING
-
-# IN DEFENSE OF HOUSING
-
 ## The Politics of Crisis
 
 ## DAVID MADDEN PETER MARCUSE

@@ -9,15 +9,7 @@ tags:
   - Germany
 ---
 
-## **"'Women of Peace' We Are Not": Feminist Militants in the West German Autonomen - Patricia Melzer**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/women-peace-we-are-not-feminist-militants-west-german-autonomen
-
 -patricia-melzer
-
-**Tags:** Patricia Melzer, Autonomen, Germany, feminism, non-violence, Hamburg
 
 Article on women activists in 1980s Germany who opposed both sexism in the autonomen movement and also gender essentialist ideas about non-violence in feminism.
 

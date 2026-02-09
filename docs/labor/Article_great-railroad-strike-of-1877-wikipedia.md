@@ -8,18 +8,13 @@ tags:
   - railroads
 ---
 
-# Great Railroad Strike of 1877 Wikipedia
-
 Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
 
 ## en.wikipedia.org
 
-## Great Railroad Strike of 1877
 ## Contributors to Wikimedia projects
 
 ## 36–46 minutes
-
-## Great Railroad Strike of 1877
 
                   Blockade of engines at Martinsburg, West Virginia on July 16,
 

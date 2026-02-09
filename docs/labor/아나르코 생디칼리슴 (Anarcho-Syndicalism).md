@@ -8,13 +8,7 @@ tags:
   - syndicalism
 ---
 
-## **아나르코 생디칼리슴 (Anarcho-Syndicalism)**
-
 ## **Author:** Rudolf Rocker
-
-**Source:** https://libcom.org/article/analeuko-saengdikalliseum
-
-**Tags:** Rudolf Rocker, Anarchist Yondae, anarcho-syndicalism, anarchism, syndicalism
 
 ## 루돌프 로커
 

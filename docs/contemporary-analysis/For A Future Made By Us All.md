@@ -6,8 +6,6 @@ tags:
   - urban
 ---
 
-# **Rebel City London**
-
 # **For A Future Made By Us All**
 
 # **Questions and answers about anarchism**

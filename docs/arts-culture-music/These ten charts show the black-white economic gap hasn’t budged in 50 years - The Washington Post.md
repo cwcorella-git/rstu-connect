@@ -9,8 +9,6 @@ tags:
 
 #### [washingtonpost.com](https://www.washingtonpost.com/news/wonk/wp/2013/08/28/these-seven-charts-show-the-black-white-economic-gap-hasnt-budged-in-50-years/)
 
-# **These ten charts show the blackwhite economic gap hasn't budged in 50 years**
-
 ## Brad Plumer
 
 6–7 minutes

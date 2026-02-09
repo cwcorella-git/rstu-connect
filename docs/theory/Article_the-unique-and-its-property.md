@@ -8,8 +8,6 @@ tags:
   - theory
 ---
 
-# The Unique and Its Property
-
 The Unique and Its Property https://theanarchistlibrary.org/library/max-stirner-the-u...
             Max Stirner
             The Unique and Its Property

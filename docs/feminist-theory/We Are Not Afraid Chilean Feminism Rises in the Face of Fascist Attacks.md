@@ -7,14 +7,6 @@ tags:
   - feminism
 ---
 
-## **We Are Not Afraid: Chilean Feminism Rises in the Face of Fascist Attacks**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/we-are-not-afraid-chilean-feminism-rises-face-fascist-attacks
-
-**Tags:** Chile, abortion, feminism, Black Rose Anarchist Federation
-
 A statement from the Black Rose/Rosa Negra Anarchist Federation opposing the fascist attacks and stabbings of three feminist activists in Chile.
 
 The Black Rose/Rosa Negra Anarchist Federation sends our unconditional solidarity to feminists across Chile fighting for free and legal abortion! We want to explicitly note our support to the Coordinadora Feminista 8 de Marzo, Coordinadora Feministas en Lucha, and the dozens of feminist collectives and other organizations leading this struggle.

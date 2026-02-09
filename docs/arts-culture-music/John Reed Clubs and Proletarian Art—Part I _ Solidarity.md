@@ -7,8 +7,6 @@ tags:
   - solidarity
 ---
 
-# **John Reed Clubs and Proletarian Art—Part I**
-
 ### **— Andrew Hemingway**
 
 **I WANT TO address the theme of Proletarian and Revolutionary Art in the United States between 1928 and 1935; that is to say in the years of the so-called Third Period line in the tactics of the international Communist movement. Although the terms "Proletarian Art" and "Revolutionary Art" were often used seemingly interchangeably at this time — or even used in combination — they are not synonymous, and I will argue that the distinction points up tensions between different forms of art practice produced in the Communist Party's orbit and to important intellectual confusions.**

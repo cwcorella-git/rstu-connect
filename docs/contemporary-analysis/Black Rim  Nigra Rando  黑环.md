@@ -12,14 +12,6 @@ tags:
   - japan
 ---
 
-# **Black Rim / Nigra Rando /** ■■
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/black-rim-nigra-rando-heihuan
-
-**Tags:** Killing King Abacus, Wildcat (Germany), Hsi Hsuan-Wou, DC, Asia, anarchism, Japan,
-
 ## publications, China, Hong Kong
 
 PDF archive of 2009 Asian anarchist publication, Black Rim. It was a product of the Beijing Anarchist Study Group and some members of the Asian Anarchist Network.

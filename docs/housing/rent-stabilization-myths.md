@@ -8,8 +8,6 @@ tags:
   - Nevada
 ---
 
-# Rent Stabilization MYTHS Nevada Realtors Want YOU to Believe
-
 As housing costs skyrocket in Reno and across Nevada, more tenants are calling for rent stabilization policies to protect them from devastating rent increases. But real estate interests and their allies are spreading myths to prevent these common-sense protections.
 
 Let's set the record straight.

@@ -7,8 +7,6 @@ tags:
   - Graeber
 ---
 
-# **David Graeber**
-
 # **There Never Was a West**
 
 # **Or, Democracy Emerges From the Spaces In Between**

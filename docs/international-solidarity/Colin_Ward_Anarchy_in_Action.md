@@ -9,13 +9,9 @@ tags:
   - peace
 ---
 
-# ANARCHY in ACTION
-
 ## COLIN WARD
 
 ## FREEDOM PRESS
-
-# ANARCHY in ACTION
 
 ## Colin Ward
 

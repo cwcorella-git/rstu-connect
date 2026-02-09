@@ -8,14 +8,10 @@ tags:
   - theory
 ---
 
-# Hatta Shūzō and Pure Anarchism in Interwar Japan the Anarchist Library
-
 Hatta Shūzō and Pure Anarchism in Interwar Japan | T... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## theanarchistlibrary.org
 
-## Hatta Shūzō and Pure Anarchism
-## in Interwar Japan
                 Author: John Crump
 
 ## 433–551 minutes

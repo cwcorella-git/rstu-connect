@@ -8,13 +8,7 @@ tags:
   - climate
 ---
 
-## **The Lucas Plan: how Greens and trade unionists can unite in common cause**
-
-## **Date:** Wed, 11/02/2016 - 18:12
-
 ## **Source:** https://ecology.iww.org/node/1894
-
-**Tags:** Lucas Plan, green unionism, green syndicalism, just transition, green bans, United Kingdom
 
 ## (UK)
 

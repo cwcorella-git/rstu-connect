@@ -7,8 +7,6 @@ tags:
   - current-events
 ---
 
-# MAN'S SEARCH FOR MEANING VIKTOR E. FRANKL
-
 ## OAROLES, KUSHNER
 
 ## MORE THAN 12 MILLION CORES IN PRINT WORLDWIDE
@@ -16,8 +14,6 @@ tags:
 ## ![](_page_1_Picture_0.jpeg)
 
 ## ![](_page_1_Picture_1.jpeg)
-
-#### Man's Search for Meaning
 
 ## THE CLASSIC TRIBUTE TO HOPE FROM THE
 

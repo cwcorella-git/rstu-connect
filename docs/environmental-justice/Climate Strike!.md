@@ -8,13 +8,7 @@ tags:
   - environment
 ---
 
-## **Climate Strike!**
-
-## **Date:** Wed, 04/13/2022 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/4958
-
-**Tags:** Travailleuses et Travailleurs pour la Justice Climatique (TJC), Climate Strike, green syndicalism, green unionism, climate change, climate justice, climate emergency, Québec, Montreal, Canada
 
 ## By Philly Metro Area WSA -
 

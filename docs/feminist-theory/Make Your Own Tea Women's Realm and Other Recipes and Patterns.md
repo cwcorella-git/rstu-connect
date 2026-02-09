@@ -8,14 +8,6 @@ tags:
   - feminism
 ---
 
-## **Make Your Own Tea: Women's Realm and Other Recipes and Patterns**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/make-your-own-tea-womens-realm-and-other-recipes-and-patterns
-
-**Tags:** women, Class War Federation, United Kingdom
-
 Article from issue 73 of Class War looking at the reasons why so few women joined Class War (and other revolutionary groups).
 
 This piece is written for all revolutionaries. This is not the token 'women's bit' that's stuck in for the sake of appearances. This is an attempt to look at how and why the Left, and Class War in particular, has not just failed to attract women, but alienated, patronised and looked upon them as a minority group. How can half the working class be treated as a minority? We're not claiming that we have solutions for the gender imbalance but we are saying that it's time to stop ignoring the problem. Any revolutionary movement which doesn't address why there are so few women in its ranks isn't a true revolutionary movement, just a complacent reflection of the status quo.

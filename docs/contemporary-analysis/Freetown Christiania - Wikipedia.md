@@ -9,15 +9,9 @@ tags:
   - wikipedia
 ---
 
-#### [en.wikipedia.org](https://en.wikipedia.org/wiki/Freetown_Christiania)
-
-# **Freetown Christiania**
-
 ## Contributors to Wikimedia projects
 
 25–32 minutes
-
-# **Freetown Christiania Fristaden Christiania (**[Danish](https://en.wikipedia.org/wiki/Danish_language)**)** [Micronation](https://en.wikipedia.org/wiki/Micronation) (unrecognised entity) **Location** [55°40](https://geohack.toolforge.org/geohack.php?pagename=Freetown_Christiania¶ms=55_40_25_N_12_35_59_E_type:city_region:DK)′25″[N](https://geohack.toolforge.org/geohack.php?pagename=Freetown_Christiania¶ms=55_40_25_N_12_35_59_E_type:city_region:DK) [12°35](https://geohack.toolforge.org/geohack.php?pagename=Freetown_Christiania¶ms=55_40_25_N_12_35_59_E_type:city_region:DK)′59″[E / 55.67361°N](https://geohack.toolforge.org/geohack.php?pagename=Freetown_Christiania¶ms=55_40_25_N_12_35_59_E_type:city_region:DK) [12.59972°E](https://geohack.toolforge.org/geohack.php?pagename=Freetown_Christiania¶ms=55_40_25_N_12_35_59_E_type:city_region:DK) **Area claimed** 34 hectares (0.34 km2)
 
 | Type | Anarchist commune/intentional
 community under a consensus |

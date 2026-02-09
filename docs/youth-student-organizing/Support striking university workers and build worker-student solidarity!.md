@@ -9,13 +9,7 @@ tags:
   - education
 ---
 
-## **Support striking university workers and build worker-student solidarity!**
-
-## **Date:** Unknown
-
 ## **Source:**
-**Tags:** Industrial Workers of the World (IWW), education, strikes, United Kingdom, universities, UCU,
-
 ## PDF
 
 Education workers with the University and College Union (UCU) are preparing for another battle around pensions, casualization, pay, and discrimination. This article was first published by the Industrial Workers of the World.

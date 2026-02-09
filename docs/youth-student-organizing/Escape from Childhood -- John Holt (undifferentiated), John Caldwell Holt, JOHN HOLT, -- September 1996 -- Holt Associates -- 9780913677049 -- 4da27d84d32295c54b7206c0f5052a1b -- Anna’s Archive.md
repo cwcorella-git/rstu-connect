@@ -6,8 +6,6 @@ tags:
   - theory
 ---
 
-# ESCAPE FOR CHILDHOOD
-
 # JOHN HOLT
 
 # 1. THE PROBLEM OF CHILDHOOD

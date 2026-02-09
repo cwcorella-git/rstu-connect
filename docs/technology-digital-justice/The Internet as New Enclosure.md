@@ -7,8 +7,6 @@ tags:
   - digital rights
 ---
 
-## **Crimeth Inc.**
-
 ## **The Internet as New Enclosure**
 
 ## **Digitized Capitalism, the Attention Economy, and the Surveillance State**

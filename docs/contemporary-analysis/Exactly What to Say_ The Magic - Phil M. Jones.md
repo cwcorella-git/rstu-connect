@@ -12,8 +12,6 @@ tags:
 Right from page 1, you're given the strategy to change the way you influence others."
 SCOTT STRATTEN, President of Un Marketing Inc. and best-selling author of the Un Marketing series
 
-# Phil M Jones
-
 # EXACT IN WHAT TO SAY
 
 ## The Magic Words for Influence and Impact

@@ -7,8 +7,6 @@ tags:
   - current-events
 ---
 
-# From the Hills to the Streets to the Table
-
 ## Civil Resistance and Peacebuilding in Nepal
 
 ## Subindra Bogati and Ches Thurber

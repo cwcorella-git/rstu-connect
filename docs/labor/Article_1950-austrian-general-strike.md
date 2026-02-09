@@ -8,9 +8,6 @@ tags:
   - strikes
 ---
 
-# 1950 Austrian General Strike
-
-1950: Austrian General Strike Date: Unknown Source: https://libcom.org/article/1950-austrian-general-strike Tags: general strikes, USSR, Austria, social democracy, Julio Alicea, PDF
 In post war Austria the rivalry between the Communist party and the Social Democrats came to ahead in 1950 with the Communist party initiated strike call out. The strike failed largely due to the resistance of the Social Democrat labour organisations.
 Austrian communist workers general strike for better wages, 1950
 Goals:The Communist Party of Austria did not view the fourth price and wage agreement as satisfactory. It was also upset that the agreement was discussed and developed completely in secret. Consequently, the Communist Party of Austria called for even higher wage increases and a freezing of the food prices.

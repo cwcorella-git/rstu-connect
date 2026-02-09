@@ -8,12 +8,6 @@ tags:
   - Ukraine
 ---
 
-## **Survival through solidarity. A few stories from the occupied South of Ukraine**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/survival-through-solidarity-few-stories-occupied-south-ukraine**Tags:** assembly.org.ua, Russia, Russia-Ukraine war, war, disaster, charity, police, prisons, Ukraine
-
 Over 3000 new graves seen by a French journalist Alexandra Dalsbaek at the beginning of summer in Mariupol, almost razed to the ground... But even in such a post-apocalyptic reality with North Korean social control, popular resistance and self-organization are possible!
 
 Please also support this online newsletter for humanitarian aid to civilian population orrestoration of community social fabricin injured neighbourhoods of frontline Kharkiv. You are welcome to donate viathis page. Many thanks in advance!

@@ -12,13 +12,7 @@ tags:
 author: Edições Antipáticas
 ---
 
-# **On the passage of a few thousand people through a brief period of time - Edições Antipáticas**
-
-## **Date:** Unknown
-
 #### **Source:**
-**Tags:** general strikes, social movements, demonstrations, Portugal, Portugal against austerity, Edições Antipáticas
-
 The deployment of austerity measures in Portugal gives the context to several resistance struggles and events that come under detailed description and analysis from a critical perspective.
 
 # To Tell a Story

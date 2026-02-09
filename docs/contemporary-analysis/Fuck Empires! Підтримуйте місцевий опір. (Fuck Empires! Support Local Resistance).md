@@ -12,13 +12,7 @@ tags:
   - russia-
 ---
 
-## **Fuck Empires! Підтримуйте місцевий опір. (Fuck Empires! Support Local Resistance)**
-
 ## **Author:** Solidarity Collectives
-
-**Source:** https://libcom.org/article/fuck-empires-pidtrimuyte-misceviy-opir
-
-**Tags:** Solidarity Collectives, anarchism, anti-fascism, anti-imperialism, Anti-colonialism, Russia-
 
 ## Ukraine war, Ukraine
 

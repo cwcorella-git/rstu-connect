@@ -7,13 +7,7 @@ tags:
   - Sweden
 ---
 
-## **New Declaration of Principles for Swedish Syndicalists? A proposal from the Umeå Local of SAC**
-
-## **Date:** Unknown
-
 ## **Source:**
-**Tags:** Umeå Local of SAC, Rasmus Hästbacka, syndicalism, anarcho-syndicalism, SAC, Sweden
-
 A proposal from the Umeå Local of SAC. First, a draft was made by the union member Rasmus Hästbacka and discussed at a national seminar on ideology. Then, a refined version was decided by the Umeå Local and submitted to the 2022 SAC Congress. After minor modifications, the text wasadopted. More texts by Hästbacka on Libcomhere.
 
 Thecurrent Declaration of principleshas two shortcomings: the language is unnecessarily complicated and the requirements for membership are unclear. It should be made clear that the SAC is a popular movement with low thresholds, not a group only for super active and convinced activists. We want the Congress to adopt a new and clear Declaration of principles without changing the syndicalist message. The text should be no longer than an A4 page, so that our colleagues can easily read the text at work and become members immediately.

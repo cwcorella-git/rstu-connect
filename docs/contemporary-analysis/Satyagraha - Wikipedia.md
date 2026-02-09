@@ -11,8 +11,6 @@ tags:
 
 ## [en.wikipedia.org](https://en.wikipedia.org/wiki/Satyagraha)
 
-## **Satyagraha**
-
 ## Contributors to Wikimedia projects
 
 21-26 minutes

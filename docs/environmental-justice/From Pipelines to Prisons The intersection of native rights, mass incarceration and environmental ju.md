@@ -10,13 +10,7 @@ tags:
   - fossil fuels
 ---
 
-## **From Pipelines to Prisons: The intersection of native rights, mass incarceration and environmental justice**
-
-## **Date:** Mon, 10/03/2016 - 18:18
-
 ## **Source:** https://ecology.iww.org/node/1836
-
-**Tags:** Prison Ecology Project, green unionism, NoDAPL, prison labor, class war prisoners, pipelines,
 
 Dakota Access Pipeline (DAPL), jobs versus environment, green syndicalism
 

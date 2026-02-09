@@ -10,13 +10,7 @@ tags:
   - brazil-protests-2017
 ---
 
-## **Coordenação Anarquista Brasileira analyse Brazil's political earthquake**
-
-## **Date:** Unknown
-
 ## **Source:**
-**Tags:** general strikes, Brazil, Freedom Press, Coordinación Anarquista Brasileña, Brazil protests 2017
-
 In the following essay members of Coordenação Anarquista Brasileira, a member group of the Anarkismo network, analyse the series of mass protests, riots and rebellions which have rocked the State and its elites in recent months.
 
 Brazil is experiencing a political earthquake, exposing the rottenness of the country's elite and further weakening the bonds that hold them in power. The orchestrated operation that led to a recording between President Michel Temer and owners of beef company JBS over hush money payoffs has altered the balance of forces in the country and pours gasoline on an already existing political and social crisis.

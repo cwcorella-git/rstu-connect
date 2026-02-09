@@ -8,13 +8,7 @@ tags:
   - environment
 ---
 
-# **Defend and Transform: Mobilizing Workers for Climate Justice**
-
-## **Date:** Wed, 09/08/2021 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/4432
-
-**Tags:** green unionism, green syndicalism, ecosocialism, just transition, labor and environment, jobs, green jobs, climate justice, climate change, Intergovernmental Panel on Climate Change (IPCC)
 
 ## By Jeremy Anderson -
 

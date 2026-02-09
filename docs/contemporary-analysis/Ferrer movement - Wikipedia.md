@@ -9,10 +9,6 @@ tags:
   - wikipedia
 ---
 
-#### [en.wikipedia.org](https://en.wikipedia.org/wiki/Ferrer_movement)
-
-# **Ferrer movement**
-
 ## Contributors to Wikimedia projects
 
 13–16 minutes

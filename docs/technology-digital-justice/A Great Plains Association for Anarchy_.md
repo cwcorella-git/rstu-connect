@@ -11,8 +11,6 @@ tags:
 
 # James Herod
 
-# A Great Plains Association for Anarchy?
-
 # A Proposal, with Discussion
 
 # November 2002; revised March 2007

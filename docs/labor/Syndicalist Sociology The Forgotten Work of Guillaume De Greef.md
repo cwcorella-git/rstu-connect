@@ -10,14 +10,6 @@ tags:
   - workers
 ---
 
-## **Syndicalist Sociology: The Forgotten Work of Guillaume De Greef**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/syndicalist-sociology-forgotten-work-guillaume-de-greef
-
-**Tags:** Jeff Shantz, syndicalism, Pierre-Joseph Proudhon, Elisée Reclus, sociology, International
-
 ## Working Men's Association (IWMA), Georges Sorel
 
 An overview of the largely forgotten work of syndicalist sociologist Guillaume De Greef. De Greef's perspective was greatly influenced by Proudhon. It is believed that De Greef prepared the program if the Belgian delegates to the International Workingmen's Association (IWMA, or First International) in the 1860s. As an academic he organized an exodus of scholars from the University of Brussels in response to the university's decision to dismiss the anarchist geographer Elisée Reclus.

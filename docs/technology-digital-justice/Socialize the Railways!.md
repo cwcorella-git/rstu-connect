@@ -9,13 +9,7 @@ tags:
   - digital rights
 ---
 
-## **Socialize the Railways!**
-
-## **Date:** Mon, 11/13/2023 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/6103
-
-**Tags:** Railroad Workers United (RWU), Labor Network for Sustainability (LNS), green unionism, railroad workers, Class I Railroads, transportation, transportation workers, transportation infrastructure, public transit, public transit workers
 
 ## By Tom Wetzel -
 

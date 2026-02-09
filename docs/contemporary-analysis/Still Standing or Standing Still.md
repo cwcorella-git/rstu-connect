@@ -12,13 +12,7 @@ tags:
   - capitalism
 ---
 
-# **Still Standing or Standing Still?**
-
-## **Date:** Thu, 09/08/2016 - 11:12
-
 ## **Source:** https://ecology.iww.org/node/1782
-
-**Tags:** green unionism, globalization, ecosocialism, green syndicalism, movement politics, capitalism
 
 ## By Robert Lambert -
 

@@ -10,8 +10,6 @@ tags:
 
 ## ![](_page_0_Picture_0.jpeg)
 
-# **Low-carbon economy**
-
 ## ![](_page_0_Figure_2.jpeg)
 
 Examples for methods to [transition](https://en.wikipedia.org/wiki/Energy_transition) towards a low-carbon economy: [Concentrated](https://en.wikipedia.org/wiki/Concentrated_solar_power) solar power with [molten](https://en.wikipedia.org/wiki/Thermal_energy_storage#Molten_salt_technology) salt heat [storage](https://en.wikipedia.org/wiki/Thermal_energy_storage#Molten_salt_technology) in Spain; wind [energy](https://en.wikipedia.org/wiki/Wind_energy) in South Africa; electrified public [transport](https://en.wikipedia.org/wiki/Public_transport) in Singapore; and [renewable](https://en.wikipedia.org/wiki/Renewable_energy) energy sources, especially solar [photovoltaic](https://en.wikipedia.org/wiki/Photovoltaic_system) and [wind](https://en.wikipedia.org/wiki/Wind_power), are providing an increasing share of electricity production.

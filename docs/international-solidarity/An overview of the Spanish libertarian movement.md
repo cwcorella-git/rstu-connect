@@ -9,14 +9,6 @@ tags:
   - solidarity
 ---
 
-## **An overview of the Spanish libertarian movement**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/overview-spanish-libertarian-movement
-
-**Tags:** Murray Bookchin, Spain, Spanish civil war, Confederación Nacional del Trabajo (CNT)
-
 Murray Bookchin provides a succinct and weighty overview of the dimensions and historical significance of the Spanish Civil War and Revolution of 1936-9.
 
 IN THE morning hours of July 18, 1936, General Francisco Franco issued the pronunciamiento from Las Palmas in Spanish North Africa that openly launched the struggle of Spain's reactionary military officers against the legally elected Popular Front government in Madrid.

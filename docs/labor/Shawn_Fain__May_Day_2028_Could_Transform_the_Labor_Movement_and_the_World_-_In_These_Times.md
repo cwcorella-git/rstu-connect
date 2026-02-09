@@ -126,7 +126,6 @@ Shawn Fain: May Day 2028 Could Transform the Labor... about:reader?url=https%3A%
 4 of 5 3/17/25, 11:08 PM Shawn Fain: May Day 2028 Could Transform the Labor... about:reader?url=https%3A%2F%2Finthesetimes.com...
                the undeniable fact that it is impossible to protect American
                jobs while ignoring the plight of everyone else.
-               Sign up for our weekend newsletter
                A weekly digest of our best coverage
                There’s been talk about a “general strike” for as long as I’ve
                been alive. But that’s all it has been: talk.

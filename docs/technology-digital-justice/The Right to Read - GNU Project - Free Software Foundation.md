@@ -10,8 +10,6 @@ tags:
 
 [gnu.org](https://www.gnu.org/philosophy/right-to-read.html)
 
-## **The Right to Read - GNU Project**
-
 ## by Richard Stallman
 
 14–18 minutes

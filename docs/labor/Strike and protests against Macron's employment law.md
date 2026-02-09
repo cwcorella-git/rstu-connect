@@ -8,14 +8,6 @@ tags:
   - labor
 ---
 
-## **Strike and protests against Macron's employment law**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/strike-and-protests-against-macrons-employment-law
-
-**Tags:** education, strikes, schools, general strikes, riots, France, demonstrations, Paris, occupations,
-
 ## Sud
 
 Four unions called a general strike for today against French President Macron's new employment law, this is often referred to as Macron 2 or Macron XXL, because he was behind the last revision referred to as the 'Loi El-Khomri' and this new law is even worse.

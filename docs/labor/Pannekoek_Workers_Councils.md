@@ -9,8 +9,6 @@ tags:
   - workers
 ---
 
-# WORKERS' COUNCILS
-
 ## ![](_page_0_Picture_1.jpeg)
 
 "An urgent message to the future - are we listening?

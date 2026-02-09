@@ -8,8 +8,6 @@ tags:
 
 [openaipublic.blob.core.windows.net](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html)
 
-# Language models can explain neurons in language models
-
 Steven Bills∗,
 
 63-79 minutes

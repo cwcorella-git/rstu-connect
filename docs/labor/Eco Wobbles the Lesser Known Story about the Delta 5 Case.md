@@ -9,13 +9,7 @@ tags:
   - workers
 ---
 
-## **Eco Wobbles: the Lesser Known Story about the Delta 5 Case**
-
-## **Date:** Wed, 01/20/2016 - 21:59
-
 ## **Source:** https://ecology.iww.org/node/1474
-
-**Tags:** Delta 5, Patrick Mazza, Abby Brockway, Lac-Mégantic, Railroad Workers United (RWU), railroad workers, green unionism, Railcon15, crude-by-rail, climate justice
 
 ## By x344543 -
 

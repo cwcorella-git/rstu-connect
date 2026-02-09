@@ -8,8 +8,6 @@ tags:
   - current-events
 ---
 
-## **What in the World is going on at CSX and Amtrak?**
-
 | Date: Wed, 02/07/2018 - 18:06 |
 |---------------------------------------------------------------------------------------------------------------|
 | Source: https://ecology.iww.org/node/2816|

@@ -10,14 +10,6 @@ tags:
   - labor
 ---
 
-## **Serenity Prayer socialism: An interview with Sean KB - Ed Remus of Platypus Affiliated Society (2024)**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/serenity-prayer-socialism-interview-sean-kb-ed-remus-platypus-affiliated-society-2024
-
-**Tags:** Sean KB, The Platypus Affiliated Society, Ed Remus, Marxism, class struggle, Independent Labor Club, trade unions, workerism, interviews
-
 On April 4, 2024, as part of its 16th annual International Convention, the Platypus Affiliated Society hosted a workshop at the University of Chicago in which Platypus member Ed Remus interviewed Sean KB, a member of the NYC District Council of Carpenters, a co-host of the podcast The Antifada, and a founder of the Independent Labor Club of New York. An edited transcript follows.1
 
 Ed Remus:When and how did you become politicized?

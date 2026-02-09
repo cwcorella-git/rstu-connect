@@ -8,14 +8,6 @@ tags:
   - education
 ---
 
-## **School for Syndicalism - Tom Brown**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/school-syndicalism-tom-brown
-
-**Tags:** Tom Brown, Syndicalist Workers Federation (SWF), manufacturing and materials, syndicalism,
-
 1910s
 
 An eyewitness account of the shop stewards' movement on Tyneside during the first world war.

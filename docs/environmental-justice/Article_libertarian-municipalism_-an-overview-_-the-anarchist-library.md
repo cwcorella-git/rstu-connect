@@ -9,14 +9,11 @@ tags:
   - urban
 ---
 
-# Libertarian Municipalism an Overview the Anarchist Library
-
 Libertarian Municipalism: An Overview | The Anarchist ... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
 
 ## theanarchistlibrary.org
 
                 Libertarian Municipalism: An
-## Overview
                 Author: Murray Bookchin
 
 ## 28–36 minutes

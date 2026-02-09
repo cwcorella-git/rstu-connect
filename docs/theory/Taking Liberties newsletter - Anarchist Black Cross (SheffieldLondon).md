@@ -8,14 +8,6 @@ tags:
   - theory
 ---
 
-## **Taking Liberties newsletter - Anarchist Black Cross (Sheffield/London)**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/taking-liberties-newsletter-anarchist-black-cross-sheffieldlondon
-
-**Tags:** Anarchist Black Cross, 1990s, prisons, United Kingdom, legal, publications, PDF
-
 Partial online archive of Taking Liberties, a 1990s newsletter of the Anarchist Black Cross covering prisons, prisoner solidarity, miscarriages of justice etc. Originally produced in Sheffield, later issues in London.
 
 At least 23 issues were published from 1991 until 1998.

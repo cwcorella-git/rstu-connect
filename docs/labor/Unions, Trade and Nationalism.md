@@ -9,13 +9,7 @@ tags:
   - workers
 ---
 
-## **Unions, Trade and Nationalism**
-
-## **Date:** Thu, 11/02/2017 - 15:19
-
 ## **Source:** https://ecology.iww.org/node/2581
-
-**Tags:** Industrial Workers of the World (IWW), AFL-CIO, trade unions, solidarity unionism, green unionism, green syndicalism, class struggle, anarcho-syndicalism
 
 ## By Tom Crofton -
 

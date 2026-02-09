@@ -8,11 +8,7 @@ tags:
   - theory
 ---
 
-# The Anarchist Before the Law Law Without Authority the Anarchist Before the Law
-
 ## 
-
-## The Anarchist Before the Law
 
 ENCOUNTERS IN LAW AND PHILOSOPHY SERIES EDITORS: Thanos Zartaloudis & Anton Schütz
 This series interrogates, historically and theoretically, the encounters between philosophy and law. Each volume published takes a unique approach and challenges traditional systemic approaches to law and philosophy. The series is designed to expand the environment for law and thought.

@@ -13,14 +13,6 @@ tags:
   - imperialism
 ---
 
-## **Jean Grave on Colonization – Jeff Shantz**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/jean-grave-colonization-jeff-shantz
-
-**Tags:** Jeff Shantz, colonialism, Anti-colonialism, Settler-Colonialism, Jean Grave, anarchism, imperialism
-
 This article examines Jean Grave's pamphlet "Colonization." "Colonization" remains a compelling, if problematic, polemic. It presents both a seething criticism of colonization and imperialist expansion while being limited by a Eurocentric developmentalist framework.
 
 The current period of imperialism, and the debates within anarchist movements over anti-imperialism and anti-colonialism, land back, and national liberation, show simultaneously the need to engage with historic anarchist positions on colonialism and imperialism, and a certain lack of familiarity with them. Many important, if imperfect, historic anarchist statements have been overlooked or forgotten.

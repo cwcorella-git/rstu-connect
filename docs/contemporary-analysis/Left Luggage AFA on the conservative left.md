@@ -9,14 +9,6 @@ tags:
   - socialist-workers-party-uk
 ---
 
-## **Left Luggage: AFA on the conservative left**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/left-luggage-afa-conservative-left
-
-**Tags:** Class War Federation, United Kingdom, Anti Fascist Action (AFA), Socialist Workers Party UK
-
 ## (SWP), Socialist Party
 
 From issue 17 of Anti-Fascist Action's Fighting Talk magazine (1997)

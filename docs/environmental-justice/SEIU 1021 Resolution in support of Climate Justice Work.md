@@ -8,13 +8,7 @@ tags:
   - climate
 ---
 
-## **SEIU 1021 Resolution in support of Climate Justice Work**
-
-## **Date:** Fri, 05/13/2016 - 16:33
-
 ## **Source:** https://ecology.iww.org/node/1641
-
-**Tags:** green unionism, climate justice, just transition, SEIU Local 1021, Service Employees
 
 ## International Union (SEIU), Bay Area
 

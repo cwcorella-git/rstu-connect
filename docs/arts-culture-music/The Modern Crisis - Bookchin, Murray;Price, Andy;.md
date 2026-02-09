@@ -9,8 +9,6 @@ tags:
 
 ## ![](_page_0_Picture_0.jpeg)
 
-# The Modern Crisis Murray Bookchin
-
 ## Foreword by Andy Price
 
 ## Also by Murray Bookchin

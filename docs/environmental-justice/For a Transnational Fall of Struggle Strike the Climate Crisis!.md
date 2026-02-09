@@ -8,13 +8,7 @@ tags:
   - environment
 ---
 
-## **For a Transnational Fall of Struggle: Strike the Climate Crisis!**
-
-## **Date:** Thu, 09/01/2022 - 01:00
-
 ## **Source:** https://ecology.iww.org/node/5094
-
-**Tags:** green syndicalism, class struggle, United Kingdom (UK), Russia, Ukraine, imperialism, anti-militarism, energy, strategy and tactics, direct action
 
 ## By TSS PLATFORM -
 

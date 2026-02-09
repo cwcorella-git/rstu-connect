@@ -6,13 +6,9 @@ tags:
   - current-events
 ---
 
-## Henry David Thoreau
-
 ## Life without Principle
 
 ## **Life Without Principle**
-
-## **Henry David Thoreau**
 
 AT A LYCEUM, not long since, I felt that the lecturer had chosen a theme too foreign to himself, and so failed to interest me as much as he might have done. He described things not in or near to his heart, but toward his extremities and superficies. There was, in this sense, no truly central or centralizing thought in the lecture. I would have had him deal with his privatest experience, as the poet does. The greatest compliment that was ever paid me was when one asked me what I thought, and attended to my answer. I am surprised, as well as delighted, when this happens, it is such a rare use he would make of me, as if he were acquainted with the tool. Commonly, if men want anything of me, it is only to know how many acres I make of their land – since I am a surveyor – or, at most, what trivial news I have burdened myself with. They never will go to law for my meat; they prefer the shell. A man once came a considerable distance to ask me to lecture on Slavery; but on conversing with him, I found that he and his clique expected seven eighths of the lecture to be theirs, and only one eighth mine; so I declined. I take it for granted, when I am invited to lecture anywhere – for I have had a little experience in that business – that there is a desire to hear what I think on some subject, though I may be the greatest fool in the country – and not that I should say pleasant things merely, or such as the audience will assent to; and I resolve, accordingly, that I will give them a strong dose of myself. They have sent for me, and engaged to pay for me, and I am determined that they shall have me, though I bore them beyond all precedent.
 

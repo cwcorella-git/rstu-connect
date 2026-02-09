@@ -8,12 +8,6 @@ tags:
   - urban
 ---
 
-## **Municipalization: Community Ownership of the Economy**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/municipalization-community-ownership-economy
-
 ## **Tags:** Murray Bookchin, economics, community
 
 Murray Bookchin's Libertarian Municipalism is an attempt to bring up to date the historical legacy of those directly democratic organs of self-management that were thrown up in times of struggle by the working class. It suggests the potential of moving towards a non-market economy with no separation between economic and political democracy.

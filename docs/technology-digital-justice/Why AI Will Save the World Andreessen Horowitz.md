@@ -9,8 +9,6 @@ tags:
 
 #### [a16z.com](https://a16z.com/2023/06/06/ai-will-save-the-world/)
 
-# Why AI Will Save the World
-
 ## Marc Andreessen
 
 43-55 minutes

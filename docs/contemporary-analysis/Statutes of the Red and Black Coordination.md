@@ -9,12 +9,6 @@ tags:
   - libcom
 ---
 
-## **Statutes of the Red and Black Coordination**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/statutes-red-and-black-coordination**Tags:** Red and Black Coordination, anarcho-syndicalism, syndicalism
-
 The statutes of the Red and Black Coordination, a international network of revolutionary syndicalist and anarcho-syndicalist union that existed in the 2010s. Text taken from Internet Archive
 
 The Red and Black Coordination is created to internationally co-ordinate the actions of the unions following the tradition of self-management, anti-authoritarian, anarchosyndicalist and federalist internationalist labor movement. This link stands in exchanging informations and developing analysis and projects to strenghten the self-organization of workers; the co-ordination of strikes or any other actions aimed at achieving common goals. Doing so in order to facilitate not only the immediate granting of material benefits and social rights but also to promote class consciousness.

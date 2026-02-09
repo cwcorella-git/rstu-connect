@@ -8,17 +8,9 @@ tags:
   - railroads
 ---
 
-## **Railroad Workers United Supports Public Ownership of the Rails**
-
-## **Date:** Wed, 10/05/2022 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/5173
 
-**Tags:** Railroad Workers United (RWU), railroad workers, green syndicalism, nationalization, anti-capitalism, transportation infrastructure, transportation workers, transportation, class struggle, supply chains
-
 ## By Railroad Workers United -
-
-## Railroad Workers United
 
 ## , October 5, 2022
 

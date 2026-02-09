@@ -9,10 +9,6 @@ tags:
   - workers
 ---
 
-## **Event: Bay Area IWW Celebrates Judi Bari Day**
-
-## **Date:** Tue, 05/13/2025 - 16:44
-
 | Source: https://ecology.iww.org/node/6571|
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Tags: Bay Area IWW, Judi Bari, Darryl Cherney, Judi Bari Bombing (May 24 1990), Earth First! - IWW

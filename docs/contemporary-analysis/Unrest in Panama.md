@@ -14,14 +14,6 @@ tags:
   - anarchist
 ---
 
-## **Unrest in Panama**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/unrest-panama
-
-**Tags:** education, strikes, riots, privatisation, internationalism, Panama, healthcare, Anarchist
-
 ## Communist Group (ACG), schools
 
 Born into a rich family in Panama, Juan Carlos Varela is an entrepreneur who is fiercely in favour of the free market. He led his conservative Panamenista Party into the elections in 2009, but was then bought off by his rival Ricardo Martinelli, who offered him the vice-presidency if he stopped running against him. In 2014 he won the presidential election, coming in on promises to develop the economic infrastructure of Panama and to proceed with urban renovation in the free trade zone city of Colon.

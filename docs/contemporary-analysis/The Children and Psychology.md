@@ -7,8 +7,6 @@ tags:
   - current-events
 ---
 
-# **Paul Goodman**
-
 # **The Children and Psychology**
 
 The family as battleground Being master with authority Salvation through sex-technique Success without achievement The psychology of abundance

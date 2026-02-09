@@ -10,8 +10,6 @@ tags:
 
 ## [theamericanscholar.org](https://theamericanscholar.org/affirmative-inaction/)
 
-## **Affirmative Inaction - The American Scholar**
-
 ## William M. Chace
 
 29–37 minutes

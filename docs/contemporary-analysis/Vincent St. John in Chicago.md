@@ -7,14 +7,6 @@ tags:
   - Chicago
 ---
 
-## **Vincent St. John in Chicago**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/vincent-st-john-chicago
-
-**Tags:** Vincent St. John, Chicago, Industrial Workers of the World (IWW)
-
 An article describing a speech Vincent St. John made at an IWW event at Uhlich's Hall in Chicago. Originally appeared in the Industrial Union Bulletin (August 3, 1907).
 
 The announcement that Vincent St. John would speak in Uhlich's Hall, Chicago, last Saturday night, drew together a large crowd anxious to hear, but owing to his not being able to reach the city before Sunday morning, they were for the time being disappointed. In his absence, the Saturday night gathering was addressed by General Secretary Trautmann on the form of organization and principles of the Industrial Workers of the World. This meeting was presided over by Henry Jager. On Sunday afternoon, at 2:30, Uhlich's Hall was comfortably filled. The chairman, A. S. Edwards, referred to the verdict rendered in the trial of Wm. D. Haywood and presented the following message, which, amid enthusiastic cheers, was ordered sent to Boise, Idaho:

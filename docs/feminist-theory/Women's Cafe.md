@@ -8,14 +8,6 @@ tags:
   - feminism
 ---
 
-## **Women's Cafe**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/womens-cafe
-
-**Tags:** 1980s, Germany, food service, social centres, feminism, Berlin
-
 A short article on the difficulties faced by Women's Cafe, a squatted social centre in Berlin in the early 1980s.
 
 Originally published in Frauenbewegung und Hauserkampf — unvorsohnlich?(Women's Movement and Squatting Movement -irreconcilable?)

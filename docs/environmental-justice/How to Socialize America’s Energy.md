@@ -8,13 +8,7 @@ tags:
   - climate
 ---
 
-# **How to Socialize America's Energy**
-
-## **Date:** Wed, 05/11/2016 - 11:23
-
 ## **Source:** https://ecology.iww.org/node/1608
-
-**Tags:** ecosocialism, solar communism, green unionism, just transition, energy democracy
 
 By Kate Arnoff,
 

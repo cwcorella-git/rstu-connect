@@ -10,15 +10,11 @@ tags:
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/It_Can%27t_Happen_Here)
 
-# **It Can't Happen Here**
-
 ## Contributors to Wikimedia projects
 
 24–31 minutes
 
 ## From Wikipedia, the free encyclopedia
-
-## It Can't Happen Here
 
 ## ![](_page_0_Picture_8.jpeg)
 

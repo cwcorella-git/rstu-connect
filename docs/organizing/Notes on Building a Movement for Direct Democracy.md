@@ -10,8 +10,6 @@ tags:
 
 # James Herod
 
-# Notes on Building a Movement for Direct Democracy
-
 ## June 2004
 
 On the Ground In the Movement In the Media In Theory

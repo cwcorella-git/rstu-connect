@@ -8,8 +8,6 @@ tags:
   - culture
 ---
 
-## Persuasive Affordance Design in "Mindful Meerkats"
-
 An interdisciplinary exploration of a smartphone game as a potential instrument for behavioural change towards happiness-inducing lifestyles
 
 ## ![](_page_0_Figure_2.jpeg)
@@ -17,8 +15,6 @@ An interdisciplinary exploration of a smartphone game as a potential instrument 
 ## Jonas Wolterstorff
 
 ## ![](_page_1_Figure_0.jpeg)
-
-## Persuasive Affordance Design
 
 ## in "Mindful Meerkats"
 

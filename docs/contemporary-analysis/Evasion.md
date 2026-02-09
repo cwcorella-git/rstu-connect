@@ -7,8 +7,6 @@ tags:
   - current-events
 ---
 
-# **Anonymous**
-
 # **Evasion**
 
 #### **2001**

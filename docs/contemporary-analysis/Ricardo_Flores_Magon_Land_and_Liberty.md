@@ -6,8 +6,6 @@ tags:
   - liberty
 ---
 
-# **Land and Liberty**
-
 ## Ricardo Flores Magón
 
 # **Contents**

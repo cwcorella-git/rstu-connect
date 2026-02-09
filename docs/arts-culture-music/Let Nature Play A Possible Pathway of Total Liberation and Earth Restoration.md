@@ -15,13 +15,7 @@ tags:
   - earth-first!---iww-local-1
 ---
 
-## **Let Nature Play: A Possible Pathway of Total Liberation and Earth Restoration**
-
-## **Date:** Sat, 04/02/2022 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/4939
-
-**Tags:** shorter work hours, green syndicalism, anti-productivism, autonomism, Industrial Workers of the World (IWW), IWW Environmental Unionism Caucus, Lucas Plan, Porto Marghera Workerist Group, La Via Campesina, Earth First! - IWW Local 1
 
 ## By Dan Fischer -
 

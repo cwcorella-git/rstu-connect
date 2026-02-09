@@ -9,13 +9,7 @@ tags:
   - climate
 ---
 
-## **A Look At the Miners' Blockade Stopping Coal in its Tracks**
-
-## **Date:** Wed, 08/14/2019 - 17:21
-
 ## **Source:** https://ecology.iww.org/node/3330
-
-**Tags:** coal, mine workers, Appalachia, Black Jewel, black lung, Industrial Workers of the World (IWW),
 
 Earth First!, green unionism, green syndicalism, green bans
 

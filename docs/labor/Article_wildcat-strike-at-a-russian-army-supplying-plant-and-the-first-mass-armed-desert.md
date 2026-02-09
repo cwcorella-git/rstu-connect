@@ -8,9 +8,6 @@ tags:
   - Russia
 ---
 
-# Wildcat Strike At A Russian Army Supplying Plant And The First Mass Armed Desert
-
-Wildcat strike at a Russian army-supplying plant and the first mass armed desertion in Donbass Date: Unknown Source: https://libcom.org/article/wildcat-strike-russian-army-supplying-plant-and-first-mass-armed-des ertion-donbass Tags: assembly.org.ua, Russia-Ukraine war, war, Ukraine, Russia, sabotage, strike, wildcat strike, prisons
 Very interesting incidents take place in Russia towards the end of spring. Let's hope this is just the beginning!
 Welcome to join thefundraisingof our team for to work on this international column and offline volunteer activities. A couple of cups of coffee in your country, even before the war, could be equivalent to a day's earnings of a worker in Ukraine. Many thanks everyone in advance!
 On May 17, reports appeared in the media about a strike and protests by several dozen workers at the Ulyanovsk Automobile Plant (UAZ). Plant workers gathered for a rally in the workshop and complained about low wages, according to the Baza Telegram channel, whichpublisheda video from within. Over the past month, the employees received an average of 20 thousand rubles each, the report says. According to the post, the workers demanded an increase in wages, but dispersed by the evening of the same day.

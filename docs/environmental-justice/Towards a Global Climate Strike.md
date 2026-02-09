@@ -8,13 +8,7 @@ tags:
   - environment
 ---
 
-## **Towards a Global Climate Strike**
-
-## **Date:** Mon, 07/13/2020 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/3790
-
-**Tags:** ecosocialism, green syndicalism, green unionism, Climate Strike, Earth Strike, COP26, green bans, climate emergency, climate justice, climate change
 
 ## By John Molyneux -
 

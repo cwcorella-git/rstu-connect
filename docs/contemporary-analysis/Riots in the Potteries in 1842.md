@@ -6,14 +6,6 @@ tags:
   - riots
 ---
 
-## **Riots in the Potteries in 1842**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/riots-potteries-1842
-
-**Tags:** general strikes, mining, Staffordshire, 1840s, Chartists, 1842 general strike
-
 The Potteries represent the peak of the general strike of 1842. In addition to shutting down most mines mills and workshops in the area, groups of workers attacked and successfully toppled much of the local government and capital. This account though hostile in every respect contains much historical information on the events.
 
 The Staffordshire potteries saw the worst of the 1842 general strike and the harshest crackdown. During the strike, which had been sparked by wage cuts, workers stopped the pumps that kept coal mines clear of water and closed down every factory that they could. But the strike leaders failed to keep control, and in the riots that followed police stations were raided for arms, prisoners were released, poor-rate books seized and destroyed, and the houses and offices of magistrates, coal mine owners, rate-collectors and parsons set on fire or pulled down. A detailed account of events is contained in the far from sympathetic account by John Ward in his The history of the Borough of Stoke-on-Trent, published in 1843.

@@ -7,8 +7,6 @@ tags:
   - culture
 ---
 
-## **when am I compelled to speak? (ft. Madleen flotilla, Booker, and necessary reorientation)**
-
 | Date: 2025-06-11 |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Source: https://www.threadings.io/when-am-i-compelled-to-speak-ft-madleen-flotilla-booker-and-neces

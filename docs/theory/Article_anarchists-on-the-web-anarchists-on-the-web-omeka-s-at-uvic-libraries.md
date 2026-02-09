@@ -8,18 +8,11 @@ tags:
   - theory
 ---
 
-# Anarchists On the Web Anarchists On the Web Omeka S At Uvic Libraries
-
 Anarchists on the Web · Anarchists on the Web · Omeka ... about:reader?url=https%3A%2F%2Fomekas.library.uvi...
 
 ## omekas.library.uvic.ca
 
-## Anarchists on the Web ·
-## Anarchists on the Web · Omeka S
-## at UVic Libraries
 ## 29–37 minutes
-
-## Anarchists on the Web
 
 ## This exhibit will examine the history of anarchist debate
                 surrounding the Internet, particularly in regards to the tension

@@ -8,10 +8,7 @@ tags:
   - current-events
 ---
 
-## **A few thoughts on studying the most radical social movement of the 21st century**
-
-**Date:** Fri, 03/18/2016 - 17:11 **Source:** https://ecology.iww.org/node/1562**Tags:** John Foran, climate justice, System Change not Climate Change (SCnCC), Naomi Klein, This Changes Everything, Paris, COP21 By John Foran - Resilience , March 14, 2016 Introduction
-
+John Foran, climate justice, System Change not Climate Change (SCnCC), Naomi Klein, This Changes Everything, Paris, COP21 By John Foran - Resilience , March 14, 2016 Introduction
 We are living through an unprecedented crisis, in a world beset by massive social problems – the obscene poverty and inequality that neoliberal capitalist globalization has wreaked on at least two-thirds of humanity, the immobility of the political elite almost everywhere, and cultures of violence that poison our lives from the most intimate relations to the mass murder of the world's wars.
 
 These interconnected problems are rooted in long-standing processes of inequality – patriarchy, racism, colonialism, capitalism, and now corporate-controlled globalization – whose ongoing, overlapping legacies are making the early twenty-first century a crucial hinge of history.

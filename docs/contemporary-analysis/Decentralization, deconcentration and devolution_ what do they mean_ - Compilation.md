@@ -7,8 +7,6 @@ tags:
   - current-events
 ---
 
-# **Decentralization, deconcentration and devolution: what do they mean?1**
-
 ## Compiled by Elizabeth Linda Yuliani2
 
 Decentralization with its various types has been implemented in many countries, and the terms have been widely used. However, the same word is often used to describe different things. Interpretations vary, and have led to different conceptual frameworks, programs, implementation and implications. Such differences have invited debates and discussion.
@@ -16,8 +14,6 @@ Decentralization with its various types has been implemented in many countries, 
 This document lists definitions of decentralization, deconcentration, devolution and other related terms used in papers presented at the Interlaken Workshop on Decentralization, 27-30 April 2004, Interlaken, Switzerland.
 
 As this is a work in progress, there may be many parts needing improvement/changes. We look forward to receiving your comments and suggestions (L.yuliani@cgiar.org).
-
-### **Decentralization**
 
 Definitions and descriptions of decentralization used in the papers include:
 

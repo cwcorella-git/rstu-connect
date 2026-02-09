@@ -7,8 +7,6 @@ tags:
   - capitalism
 ---
 
-# ITSOK TOBE ANGRY ABOUNT
-
 # CAPITALISM
 
 ## BERNIES

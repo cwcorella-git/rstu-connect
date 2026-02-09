@@ -8,13 +8,7 @@ tags:
   - feminism
 ---
 
-## **COP26 Corporate Sponsors: A Barrier To A Just Transition**
-
-## **Date:** Fri, 02/18/2022 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/4878
-
-**Tags:** COP26, green unionism, green syndicalism, greenwashing, green capitalism, capitalism, capitalism, colonialism, and fascism, anti-capitalism, ecosocialism, libertarian-socialism
 
 ## By Earth Strike UK -
 

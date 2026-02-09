@@ -8,13 +8,7 @@ tags:
   - railroads
 ---
 
-# **Railroad Shop Workers Vote No on Merging Jobs**
-
-## **Date:** Sun, 02/21/2016 - 10:06
-
 ## **Source:** https://ecology.iww.org/node/1507
-
-**Tags:** railroad workers, Railroad Workers United (RWU), Jon Flanders, International Association of Machinists and Aerospace Workers (IAM), International Association of Sheet Metal, Air, Rail and Transportation Workers (SMART), Lac-Mégantic, health and safety
 
 ## ![](_page_0_Figure_4.jpeg)
 

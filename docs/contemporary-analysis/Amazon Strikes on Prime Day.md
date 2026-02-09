@@ -11,14 +11,6 @@ tags:
   - uk
 ---
 
-## **Amazon Strikes on Prime Day**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/amazon-strikes-prime-day
-
-**Tags:** retail and food, strikes, Spain, Amazon, Germany, Anarchist Communist Group (ACG), UK,
-
 ## police, Poland
 
 Amazon warehouse workers came out on strike against appalling conditions for three days from July 16th in Madrid. 96% of the workers came out on strike. Many of these are temps. On the second day of the strike, workers were brutally attacked by riot police in an unprovoked attack resulting in several beatings.

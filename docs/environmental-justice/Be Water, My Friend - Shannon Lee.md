@@ -6,15 +6,11 @@ tags:
   - climate
 ---
 
-# Be Water, My Friend
-
 ## THE TEACHINGS OF
 
 ## BRUCE LEE
 
 ## SHANNON LEE
-
-# Be Water, My Friend
 
 ## The Teachings of BRUCE LEE
 

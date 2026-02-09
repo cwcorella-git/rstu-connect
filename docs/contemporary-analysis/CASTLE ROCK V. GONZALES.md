@@ -9,8 +9,6 @@ tags:
 
 #### [law.cornell.edu](https://www.law.cornell.edu/supct/html/04-278. ZO.html)
 
-# **CASTLE ROCK V. GONZALES**
-
 ## Scalia
 
 37–47 minutes

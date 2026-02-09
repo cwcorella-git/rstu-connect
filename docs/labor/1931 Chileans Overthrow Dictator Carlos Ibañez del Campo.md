@@ -9,14 +9,6 @@ tags:
   - workers
 ---
 
-## **1931: Chileans Overthrow Dictator Carlos Ibañez del Campo**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/1931-chileans-overthrow-dictator-carlos-ibanez-del-campo
-
-**Tags:** education, general strikes, Chile, students, universities, occupations, Max Rennebohm, PDF
-
 In response to economic depression the Chilean state became a Dictatorship. In response Chilean students and workers engaged in a general strike and occupation of universities demanding a return to civilian rule.
 
 In February 1931, in the face of an economic crisis, the Chilean Congress granted President Carlos Ibáñez Del Campo authority to enact any necessary measures to keep Chile from further depression. As the value of exports dropped and unemployment rose, Ibáñez increased taxes, stopped public works projects, and cut governmental wages. He also announced that he would maintain order with military force if necessary.

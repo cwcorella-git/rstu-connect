@@ -9,14 +9,6 @@ tags:
   - solidarity
 ---
 
-## **"Energize the Movement": Jailhouse Lawyers Speak on the Importance of the National Shut'Em Down Demonstrations**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/energize-movement-jailhouse-lawyers-speak-importance-national-sh utem-down-demonstrations
-
-**Tags:** United States, prisons, It's Going Down, Jailhouse Lawyers Speak
-
 A call has gone out from Jailhouse Lawyers Speak for National Shut'Em Down demonstrations across the so-called United States outside of prisons, jails, and detention facilities. It's Going Down caught up with Jailhouse Lawyers Speakto find out the thinking behind the call, how abolitionists on both sides of the walls can come together to better coordinate our struggles, and much more.
 
 At It's Going Down, we've been tracking, reporting, and interviewing people involved in the growing abolitionist and prisoner resistance movement since we began this project over 6 years ago. On May Day of 2016, we sawgrowing support among anarchist and autonomous anti-capitalist currents for a wave of strikes across Texas prisonsand in September of the same year, this energy exploded in variousprisoner-led uprisingsandthe first national prison strike across US prisons, which saw actions at dozens of facilities involving tens of thousands of prisoners, spreading into prisons in Greece and Mexico, asthe streets were flooded with solidarity demonstrations, noise demos, blockades, and more.

@@ -13,16 +13,6 @@ tags:
   - ronan
 ---
 
-## **Interview: Ronan Bennett - Black Flag**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/interview-ronan-bennett-black-flag
-
-**Tags:** Black Flag, media and culture, prisons, Northern Ireland, United Kingdom, interviews, Ronan
-
-## Bennett
-
 1998 interview with author Ronan Bennett, which touches on his time in prison in Northern Ireland and on remand in London (as one of the "Persons Unknown" suspects).
 
 From Black Flag#213.

@@ -9,8 +9,6 @@ tags:
 
 #### [journals.sagepub.com](https://journals.sagepub.com/doi/full/10.1177/14740222241313303)
 
-# **Fragments of anarchism in higher education critical art pedagogies**
-
 ## Connor Ashworth
 
 51–65 minutes

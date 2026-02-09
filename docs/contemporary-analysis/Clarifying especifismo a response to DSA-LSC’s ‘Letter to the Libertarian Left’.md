@@ -10,14 +10,6 @@ tags:
   - democratic
 ---
 
-## **Clarifying especifismo: a response to DSA-LSC's 'Letter to the Libertarian Left'**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/clarifying-especifismo-response-dsa-lscs-letter-libertarian-left
-
-**Tags:** Black Rose Anarchist Federation, especifismo, Libertarian Socialist Caucus, Democratic
-
 ## Socialists of America (DSA), anarchism
 
 A response to an article titled'A Letter to the Libertarian Left', published by the Libertarian Socialist Caucus of the Democratic Socialists of America (DSA-LSC) in August of 2024. Originally posted: February 11, 2025 at Black Rose/Rosa Negra Anarchist Federation

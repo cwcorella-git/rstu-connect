@@ -11,13 +11,9 @@ tags:
 
 #### [jstor.org](https://www.jstor.org/stable/27094596)
 
-# **Policing Race and Racing Police on JSTOR**
-
 ## Ben Brucato
 
 2–3 minutes journal article
-
-## Policing Race and Racing Police Social Justice
 
 Vol. 47, No. 3/4 (161/162), A Critical Theory of Police Power in the Twenty-First Century (2020) , pp. 115-136 (22 pages)
 

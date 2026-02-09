@@ -9,14 +9,6 @@ tags:
   - workers
 ---
 
-## **The Wobblies: a radical world history - Peter Cole**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/wobblies-radical-world-history-peter-cole
-
-**Tags:** Industrial Workers of the World (IWW), syndicalism, Peter Cole
-
 Peter Cole recalls the history of the Industrial Workers of the World. As capitalism continues to enact violence on workers worldwide, and politics takes a toxic turn, Cole asks: what use can the Wobblies be today?
 
 In recent years, it may seem that any and all challengers to neoliberalism have been utterly decimated as its grasp on the world economy continues to tighten. We created this book with that in mind, as we believe the history of the Industrial Workers of the World (IWW), whose members frequently were nicknamed and still proudly declare themselves Wobblies, provides lessons necessary for people today. That does not mean to say that we, historians who claim to know history's trajectory, could have predicted how chaotic and horrid the present moment would be. What with Donald Trump's presidency unleashing all sorts of fascist, racist, homophobic, and other hateful forces. With a narrow majority of British voters supporting Brexit to divorce themselves from fellow Europeans. With Turkey's leader, Recep Erdogan, doing the best he can to turn his nation into an authoritarian regime. With Jacob Zuma, in South Africa, utterly betraying the revolutionary potential of the struggle against apartheid. With Venezuela teetering and unrepentant sympathisers of fascism rising in Japan. Economic inequality soaring. Union density plummeting. The list of troubles and troublespots, the world over, can spin one's head around and make one wonder if we are, to quote AC/DC, 'on a highway to hell'.
@@ -34,5 +26,3 @@ Although IWW members, literature and ideas spread to the far corners of the eart
 Fortunately, historians—forever looking backward—do have the ability to change the present and, possibly, future. This book signals the dawning of a new era in the study of the IWW. While this statement may seem overly audacious, we believe it to be true. This anthology includes contributions from twenty people who live around the world and have researched the IWW in countries across the globe. Never before have so many different Wobbly histories been told in the same volume. Some chapters focus upon a single individual or group of Wobblies in a particular place. However, what quickly becomes apparent is how global the IWW truly was. Wobblies were footloose, as Americans sometimes said in the 1910s. That is, they moved around. They rode the rails (often without paying for their tickets) looking for work or to support an IWW strike, free speech fight, or other cause. They also boarded ships and sailed the seven seas. As they did so, they brought with them Wobbly newspapers published in more than a dozen languages (and contributors to this anthology read many of those).
 
 Wobblies and Wobbly publications delivered Wobbly ideals to fellow workers, men and women, in many lands. How else to explain the popularity of the IWW motto, 'An injury to one is an injury to all'? This most basic explanation of the Wobblies' core value, solidarity, is in direct opposition to capitalism which preaches individualism and encourages people to think of each other as competitors rather than fellow workers or even brothers and sisters. It's true, 112 years after the birth of the IWW, capitalism is still here—perhaps stronger than ever. But, then, so are the hopes and dreams of billions of people who want to share in the wealth they produce rather than allow it to be accumulated by the privileged class. For those people, the Wobblies offer both cautionary tales and useful lessons.
-
-Source: https://www.plutobooks.com/blog/wobblies-radical-world-history-iww/

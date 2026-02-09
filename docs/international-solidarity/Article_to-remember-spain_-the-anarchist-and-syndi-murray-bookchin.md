@@ -9,12 +9,6 @@ tags:
   - Spain
 ---
 
-# To Remember Spain the Anarchist and Syndi Murray Bookchin
-
-## Murray Bookchin
-
-## To Remember Spain: The Anarchist
-
 ## and Syndicalist Revolution of 1936
 
 ## Retrieved on April 27, 2009 from www.spunk.org

@@ -13,14 +13,6 @@ tags:
   - doug-richardson
 ---
 
-## **Interview with Esther and Sam Do Igoff – Doug Richardson**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/interview-esther-and-sam-doigoff-doug-richardson
-
-**Tags:** Sam Dolgoff, anarchism, Industrial Workers of the World (IWW), United States, anarcho-syndicalism, anarchist communism, Vanguard (publication), Esther Dolgoff, Doug Richardson
-
 An interview with longtime anarchists Esther and Sam Dolgoff on the anarchist movement in the United States from the 1920s to the 1970s, published in the Spring 1975 edition of the journal Black Rose.
 
 "To me, anarchism is a process," explains Sam Dolgoff. "There is no pure anarchism – there is only the application of anarchist principles to the realities of social living." With their 'credo' thus established, Sam and Esther Dolgoff go on in this interview to describe the American anarchist tradition of earlier in the century, and their experiences in that movement.

@@ -9,14 +9,6 @@ tags:
   - prisons
 ---
 
-## **Trump's executive order confirms US State Department has trained the Hong Kong police**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/trumps-executive-order-confirms-us-state-department-has-trained-ho ng-kong-police
-
-**Tags:** United States, police, China, Hong Kong, Lausan, Wilfred Chan
-
 An executive order by US President Donald Trump has shed light upon the extent of the United States' collaboration with the Hong Kong government — including that the State Department has been training the Hong Kong Police Force and other Hong Kong security officers for years. This article was originally published by Lausan, and is availablein Chinese here.
 
 Trump's sweeping "Executive Order on Hong Kong Normalization," issued July 14, orders the elimination of the United States' differential policies on Hong Kong in relation to the People's Republic of China. As part of the order, the State Department will now "take steps to end the provision of training to members of the Hong Kong Police Force or other security services at the Department of State's International Law Enforcement Academies [ILEA]."

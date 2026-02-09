@@ -9,10 +9,6 @@ tags:
   - crimethinc
 ---
 
-## [crimethinc.com](https://crimethinc.com/2013/09/09/after-the-crest-the-life-cycle-of-movements)
-
-## **After the Crest**
-
 ## Crimeth Inc. Ex-Workers Collective
 
 3–4 minutes

@@ -8,14 +8,6 @@ tags:
   - France
 ---
 
-## **Against the conceptual dumbing down of the 2016 "movement" in France - Mouvement Communiste/Kolektivn**■ **proti Kapit**■**lu**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/against-conceptual-dumbing-down-2016-movement-france-mouvement-communistekolektivne-proti
-
-**Tags:** manufacturing and materials, energy, public and third sector, strikes, general strikes, France, unions, refuse collection, transport, blockades
-
 This is a leaflet criticising the wildly inflated claims made about the recent "movement" against the new Labour Law in France and the accompanying degradation of political language. Also included PDFs of original french leaflet and English version.
 
 ## Bulletin #1122 June 2016

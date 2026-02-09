@@ -10,14 +10,6 @@ tags:
   - donald-parkinson
 ---
 
-## **Sorel's reflections on violence and the poverty of voluntarism - Donald Parkinson**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/sorels-reflections-violence-and-poverty-voluntarism-donald-parkinson
-
-**Tags:** violence, fascism, syndicalism, Donald Parkinson
-
 Article that discusses Sorel's Reflection On Violence, critiquing its voluntaristic ideas and exploring its relation to fascism.
 
 George Sorel's Reflections on Violence is a maddening work, giving the reader an insightful portrait of the chaotic and conflict ridden French workers movement. For this reason alone it is worth reading as a historical document, despite the authors dodgy politics. Sorel brilliantly depicts the tensions between revolutionaries and reformists, as well as the complexity created by the petty-bourgeoisie and religious institutions. This is actually quite surprising given his economistic vision of class struggle, where syndicates that are formed at the point of production will wage battle through strikes and then eventually a cataclysmic general strike (which Sorel likens to a Napoleonic battle). Sorel in many ways is simply responding to what is going on around him and the ongoing crisis of the French workers movement, in which divisions are increasingly antagonistic and old orthodoxies are being ruthlessly critiqued in a search for new ideas. I also found his vitriolic attacks on reformist figures quite entertaining and hard not to sympathize with.

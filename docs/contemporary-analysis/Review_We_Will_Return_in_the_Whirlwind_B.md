@@ -7,8 +7,6 @@ tags:
   - class
 ---
 
-## Race & Class http://rac.sagepub.com/
-
 Review: We Will Return in the Whirlwind: Black radical organizations, 1960—1975 By MUHAMMAD AHMAD (Chicago, Charles H. Kerr, 2007), 332 pp. Cloth \$35.00, Paper \$18.00: Liberated Territory: untold perspectives on the Black Panther Party By YOHURU WILLIAMS and JAMA LAZEROW (Durham and London, Duke University Press, 2008), 304 pp. Cloth \$84.95, Paper \$23.95
 
 Race Class 2010 51: 90 DOI: 10.1177/03063968100510030803

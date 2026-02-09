@@ -9,17 +9,11 @@ tags:
   - wikipedia
 ---
 
-#### [en.wikipedia.org](https://en.wikipedia.org/wiki/De Shaney_v._Winnebago_County)
-
-# **De Shaney v. Winnebago County**
-
 ## Contributors to Wikimedia projects
 
 14–17 minutes
 
 ## From Wikipedia, the free encyclopedia
-
-## **De Shaney v. Winnebago County Department of Social Services**
 
 ## ![](_page_0_Picture_8.jpeg)
 

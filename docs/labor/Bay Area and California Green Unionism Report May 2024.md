@@ -9,13 +9,7 @@ tags:
   - workers
 ---
 
-## **Bay Area and California Green Unionism Report: May 2024**
-
-## **Date:** Mon, 05/20/2024 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/6470
-
-**Tags:** green unionism, just transition, East Palestine, SEIU Local 1021, refinery workers, climate
 
 ## justice, Chevron
 

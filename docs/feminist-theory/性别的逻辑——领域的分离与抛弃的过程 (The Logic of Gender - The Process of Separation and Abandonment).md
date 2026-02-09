@@ -7,13 +7,7 @@ tags:
   - feminism
 ---
 
-# **性别的逻辑——领域的分离与抛弃的过程 (The Logic of Gender - The Process of Separation and Abandonment)**
-
 ## **Author:** Marxism
-
-**Source:** https://libcom.org/article/xingbiedeluoji-lingyudefenliyupaoqideguocheng
-
-**Tags:** Marxism, women, feminism, gender, Endnotes, 世界之窗, 尾注
 
 在性别去自然化、再生产劳动商品化的时代,借用马克思的价值理论重新思考21世纪的资本主 义为何仍然需要将人类"深深印刻着这种或那种性别"。这篇马克思主义女权理论的重要作品终 于翻译成中文。
 

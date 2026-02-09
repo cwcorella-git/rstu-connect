@@ -8,14 +8,6 @@ tags:
   - education
 ---
 
-## **West Virginia school employees sold out?**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/west-virginia-school-employees-sold-out
-
-**Tags:** Internationalist Communist Tendency, United States, education, Communications Workers of
-
 ## America, AFSCME, Internationalist Workers' Group
 
 West Virginia teachers who had taken the initiative to force their union into a strike demanding that the state pay their health insurance found out via a robocall last week that "their" union had accepted a promise of a 5% pay offer (which they did not demand) but with no settlement of their grievance.

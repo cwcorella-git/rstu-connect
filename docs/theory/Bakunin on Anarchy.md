@@ -10,8 +10,6 @@ tags:
 
 # **Sam Dolgoff (ed.)**
 
-# **Bakunin on Anarchy**
-
 # **Selected Works by the Activist-Founder of World Anarchism**
 
 ## **1971**

@@ -7,8 +7,6 @@ tags:
   - Bookchin
 ---
 
-# **Murray Bookchin and Dave Foreman Defending the Earth: A Debate 1991**
-
 **Foreword: Turning Debate Into Dialogue**
 
 **by David Levine, Founder and Director, The Learning Alliance**

@@ -7,8 +7,6 @@ tags:
   - current-events
 ---
 
-# **Zoe Baker**
-
 # **Means and Ends**
 
 # **The Revolutionary Practice of Anarchism in Europe and the United States**

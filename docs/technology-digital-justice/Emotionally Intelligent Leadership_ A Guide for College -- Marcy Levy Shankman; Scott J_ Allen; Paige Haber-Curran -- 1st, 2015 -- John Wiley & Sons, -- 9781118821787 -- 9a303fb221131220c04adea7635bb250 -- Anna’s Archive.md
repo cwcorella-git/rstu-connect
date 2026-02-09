@@ -10,8 +10,6 @@ tags:
 
 ## ![](_page_0_Picture_0.jpeg)
 
-# emotionally intelligent leadership
-
 ## A GUIDE FOR STUDENTS
 
 ## ![](_page_0_Picture_3.jpeg)

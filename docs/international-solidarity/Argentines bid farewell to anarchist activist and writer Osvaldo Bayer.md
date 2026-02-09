@@ -9,14 +9,6 @@ tags:
   - solidarity
 ---
 
-## **Argentines bid farewell to anarchist activist and writer Osvaldo Bayer**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/argentines-bid-farewell-anarchist-activist-and-writer-osvaldo-bayer
-
-**Tags:** Peoples Dispatch, Osvaldo Bayer, anarchism, Argentina, writers, obituaries
-
 An obituary for Argentine anarchist writer Osvaldo Bayer.
 
 Originally posted: December 29, 2018 at Peoples Dispatch

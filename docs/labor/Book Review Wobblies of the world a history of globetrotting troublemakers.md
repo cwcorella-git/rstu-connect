@@ -9,12 +9,6 @@ tags:
   - workers
 ---
 
-# **Book Review: Wobblies of the world: a history of globetrotting troublemakers**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/book-review-wobblies-world-history-globetrotting-troublemakers**Tags:** Eric Dirnbach, Industrial Workers of the World (IWW), book reviews, Kenyon Zimmer, Peter
-
 ## Cole, David Struthers
 
 A review by Eric Dirnbach of the book Wobblies of the World: A Global History of the IWW.

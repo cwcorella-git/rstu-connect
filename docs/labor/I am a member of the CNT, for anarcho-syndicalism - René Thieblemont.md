@@ -8,14 +8,6 @@ tags:
   - syndicalism
 ---
 
-## **I am a member of the CNT, for anarcho-syndicalism - René Thieblemont**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/i-am-member-cnt-anarcho-syndicalism-rene-thieblemont
-
-**Tags:** René Thieblemont, CNT-AIT (France), anarcho-syndicalism, syndicalism, France, Federation
-
 ## Anarchiste, Le Combat syndicaliste, PCF
 
 An article by René Thieblemont written in the context of internal debate in the French CNT-AIT union between revolutionary syndicalists and anarcho-syndicalists. Originally appeared in Le Combat syndicaliste#134 (July 1955).

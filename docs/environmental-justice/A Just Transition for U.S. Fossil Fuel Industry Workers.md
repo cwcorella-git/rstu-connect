@@ -9,21 +9,13 @@ tags:
   - just transition
 ---
 
-## **A Just Transition for U. S. Fossil Fuel Industry Workers**
-
-## **Date:** Wed, 07/06/2016 - 19:01
-
 ## **Source:** https://ecology.iww.org/node/1708
-
-**Tags:** just transition, green unionism, climate justice, Tony Mazzocchi, renewable energy, green jobs, labor and environment
 
 ## By Robert Pollin and Brian Callaci -
 
 ## American Prospect
 
 ## , July 6, 2016
-
-## A
 
 ccording to the U. S. National Oceanic and Atmospheric Administration, 2015 was the globe's warmest year since at least 1880, when such figures were first recorded. 2014 was the next warmest, and the hottest five years also include 2013, 2010, and 2005. Can it be any more obvious that we absolutely must stop playing Russian roulette with the global climate?
 

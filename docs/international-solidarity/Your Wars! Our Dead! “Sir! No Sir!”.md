@@ -8,14 +8,6 @@ tags:
   - peace
 ---
 
-## **Your Wars! Our Dead! "Sir! No Sir!"**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/your-wars-our-dead-sir-no-sir
-
-**Tags:** Tridni Valka, Russia-Ukraine war, internationalism, anarchism, class struggle
-
 ## / English / Français / ■estína / PDF /
 
 Class War's Presentation Theses on the war in Ukraine (ASI)Capital's war in Ukraine (Clandestina)Your wars – Our dead (FAO)Afterword: Revolutionary defeatism (Class War)

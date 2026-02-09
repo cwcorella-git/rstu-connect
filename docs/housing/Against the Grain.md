@@ -10,8 +10,6 @@ tags:
 
 # **James C. Scott**
 
-# **Against the Grain**
-
 # **A Deep History of the Earliest States**
 
 # **2017**

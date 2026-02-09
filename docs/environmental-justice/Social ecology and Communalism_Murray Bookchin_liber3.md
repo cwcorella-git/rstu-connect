@@ -8,17 +8,7 @@ tags:
   - Bookchin
 ---
 
-## **Murray Bookchin**
-
-# **Social Ecology and Communalism**
-
 ## ![](_page_0_Picture_2.jpeg)
-
-# **Social Ecology and Communalism**
-
-## **Murray Bookchin**
-
-# **Social Ecology and Communalism**
 
 ## ![](_page_3_Picture_2.jpeg)
 

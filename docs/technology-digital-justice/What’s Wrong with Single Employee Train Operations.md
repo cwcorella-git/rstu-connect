@@ -9,13 +9,7 @@ tags:
   - digital rights
 ---
 
-## **What's Wrong with Single Employee Train Operations?**
-
-## **Date:** Mon, 03/01/2021 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/4215
-
-**Tags:** Railroad Workers United (RWU), railroad workers, Ron Kaminkow, health and safety, Lac-Mégantic, crude-by-rail, capitalism, green unionism, labor and environment, class struggle
 
 ## By Ron Kaminkow -
 

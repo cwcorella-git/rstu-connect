@@ -7,8 +7,6 @@ tags:
   - justice
 ---
 
-# **Various Authors**
-
 # **Black Seed: Issue 7**
 
 # **A journal of indigenous anarchy**

@@ -9,14 +9,6 @@ tags:
   - solidarity
 ---
 
-## **Marie Lousie Berneri on Post-War Imperialism in East Asia - Jeff Shantz**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/marie-lousie-berneri-post-war-imperialism-east-asia-jeff-shantz
-
-**Tags:** Jeff Shantz, Marie Louise Berneri, imperialism, Indonesia, Asia, Anti-colonialism, anarchism,
-
 ## strikes, Resistance
 
 In the present period of imperialism, marked by debates within anarchist movements over anti-imperialism and anti-colonialism, land back, and national liberation, there is renewed urgency to engage with historic anarchist positions on colonialism and imperialism, and a certain contemporary lack of familiarity with them. Many useful, if imperfect, historic anarchist statements have been overlooked or forgotten. This article explores Marie Louise Berneri's writings on post-war imperialism in East Asia, particularly her concerns in Indonesia.

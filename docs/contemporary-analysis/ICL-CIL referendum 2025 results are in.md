@@ -8,14 +8,6 @@ tags:
   - federation-of-general-workers-myanmar
 ---
 
-## **ICL-CIL referendum 2025: results are in**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/icl-cil-referendum-2025-results-are
-
-**Tags:** CNT-F, Federation of General Workers Myanmar, Industrial Workers of the World (IWW),
-
 ## International Confederation of Labour
 
 A short article detailing recent decisions made by the anarcho-syndicalist/revolutionary syndicalist International Confederation of Labor.

@@ -8,8 +8,6 @@ tags:
   - Graeber
 ---
 
-# **David Graeber**
-
 # **Are You An Anarchist? The Answer May Surprise You!**
 
 #### **2000**

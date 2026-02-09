@@ -8,10 +8,6 @@ tags:
   - class
 ---
 
-## **Class Struggle Environmentalism, Degrowth, and Ecosocialism**
-
-## **Date:** Sat, 05/27/2023 - 00:00
-
 | Source: https://ecology.iww.org/node/5736|
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Tags: IWW Environmental Unionism Caucus, green syndicalism, ecosocialism, Lucas Plan, Political

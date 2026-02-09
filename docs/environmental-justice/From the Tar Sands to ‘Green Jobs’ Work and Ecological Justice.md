@@ -8,13 +8,7 @@ tags:
   - climate
 ---
 
-# **From the Tar Sands to 'Green Jobs'? Work and Ecological Justice**
-
-## **Date:** Wed, 07/20/2016 - 17:31
-
 ## **Source:** https://ecology.iww.org/node/1717
-
-**Tags:** just transition, green unionism, green jobs, jobs versus environment, labor and environment, climate justice, climate change
 
 ## By Greg Albo and Lilian Yap -
 

@@ -6,13 +6,7 @@ tags:
   - antifascism
 ---
 
-## **Siberian anti-fascists are arrested on suspicion of terrorism and making explosives**
-
-## **Date:** Unknown
-
 ## **Source:**
-**Tags:** assembly.org.ua, Russia, Russia-Ukraine war, war, prisons, police, Ukraine
-
 It seems the Russian punitive authorities want to mold another "terrorist" case out of nothing according to a well-established scheme after "The Network". Now they probably want to jail everyone who, even in theory, can pose a threat to the regime. And for very long terms. Information may not be complete, this is only what we currently have.
 
 Please support this online newsletter for continuous work on this international rubric or the campaignto restore local community of half-destroyed Kharkiv neighbourhoodsthrough joiningthis fundraising. Thanks everyone in advance.

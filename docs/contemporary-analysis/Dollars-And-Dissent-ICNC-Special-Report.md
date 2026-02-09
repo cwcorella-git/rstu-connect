@@ -8,8 +8,6 @@ tags:
   - current-events
 ---
 
-# Dollars and Dissent
-
 Donor Support for Grassroots Organizing and Nonviolent Movements
 
 ## ![](_page_0_Picture_3.jpeg)

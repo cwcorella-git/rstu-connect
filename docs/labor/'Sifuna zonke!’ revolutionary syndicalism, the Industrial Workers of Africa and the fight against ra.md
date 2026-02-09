@@ -8,14 +8,6 @@ tags:
   - labor
 ---
 
-## **'Sifuna zonke!': revolutionary syndicalism, the Industrial Workers of Africa and the fight against racial capitalism, 1915-1921 - Bikisha Media Collective**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/sifuna-zonke-revolutionary-syndicalism-industrial-workers-africa-andfight-against-racial
-
-**Tags:** racism, South Africa, unions, syndicalism, International Socialist League, Bikisha Media Collective, Industrial Workers of Africa, PDF
-
 Pamphlet from the Bikisha Media Collective on the development of revolutionary syndicalist organisations in South Africa, including the Industrial Workers of Africa.
 
 Revolutionary syndicalism – the strategy of bringing about a stateless socialist society through a revolutionary general strike in which organised labour, through its trade unions, seizes and places under self-management the means of production – played a central, but today, largely forgotten, role in the early twentieth-century South African labour movement.

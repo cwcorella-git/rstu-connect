@@ -6,8 +6,6 @@ tags:
   - theory
 ---
 
-# **Gilles Dauvé**
-
 # **Communisation**
 
 ## **2011**

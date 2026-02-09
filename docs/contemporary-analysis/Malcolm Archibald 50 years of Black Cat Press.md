@@ -12,14 +12,6 @@ tags:
   - freedom-press
 ---
 
-## **Malcolm Archibald: 50 years of Black Cat Press**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/malcolm-archibald-50-years-black-cat-press
-
-**Tags:** Malcolm Archibald, Edmonton, anarchism, Sean Patterson, Canada, Freedom Press
-
 In this interview conducted by Sean Patterson, the founder of Edmonton's anarchist publishing house, Malcolm Archibald looks back on its legacy.
 
 For the past five decades, Black Cat Press (BCP) in Edmonton, Canada, has served as a local hub for the city's radical community and as an important publisher of anarchist material. Over the years, BCP has produced many notable titles, including the first English translations of thecollected works of the Ukrainian anarchist Nestor Makhnoin five volumes. Other stand-out works from BCP include The Dossier of Subject No. 1218, the translated memoirs of Bulgarian anarchist Alexander Nakov; Lazar Lipotkin's The Russian Anarchist Movement in North America, a previously unpublished manuscript held at Amsterdam's International Institute of Social History; and Kronstadt Diary, a selection of Alexander Berkman's original diary entries from 1921.

@@ -14,11 +14,7 @@ tags:
 
 ## Archaeology of
 
-# EAST ASIA
-
 The Rise of Civilization in China, Korea and Japan
-
-# ARCHAEOLOGY OF EAST ASIA
 
 The Rise of Civilization in China, Korea and Japan
 

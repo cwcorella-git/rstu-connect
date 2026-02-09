@@ -7,13 +7,7 @@ tags:
   - peace
 ---
 
-## **The darkest hour is before the dawn? Assembly's view on another year of trench warfare in 2024**
-
-## **Date:** Unknown
-
 ## **Source:**
-**Tags:** assembly.org.ua, Russia-Ukraine war, war, Ukraine, Russia, sabotage, prisons
-
 In the picture: "War is a kind of action, thanks to which people who do not know each other kill each other for the sake of glory and benefit of people who know each other very well, but do not kill each other" (Paul Valéry)
 
 This is a shortened version of our Russian-language publications from Novemberand December. You can find there a lot of references, videos, etc.

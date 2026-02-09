@@ -6,19 +6,11 @@ tags:
   - capitalism
 ---
 
-# The Origin of Capitalism a longer view
-
 ## ![](_page_0_Picture_2.jpeg)
 
 ## Ellen Meiksins Wood
 
-### THE OR IG IN OF CAP ITAL ISM
-
 ## ![](_page_1_Picture_1.jpeg)
-
-# THE OR IG IN OF CAP ITAL ISM
-
-## *A Longer View*
 
 ## E L L E N M E I K S I N S W O O D
 

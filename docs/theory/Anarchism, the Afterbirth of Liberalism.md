@@ -8,14 +8,6 @@ tags:
   - theory
 ---
 
-## **Anarchism, the Afterbirth of Liberalism**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/anarchism-afterbirth-liberalism
-
-**Tags:** Kommunistische Arbeiter-Partei Deutschlands (KAPD), Communist Left, left communism, anarchism
-
 An article from the Kommunistische Arbeiter-Zeitung of the Berlin tendency, dated: 13-1932-011
 
 Many workers, who know little about anarchism, regard it as a movement related to communism or standing closest to it, standing to its left, and so on; it is therefore necessary to clarify these fatal errors.

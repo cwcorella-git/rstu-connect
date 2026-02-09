@@ -12,14 +12,6 @@ tags:
   - prisons
 ---
 
-## **They Call It Suicide, We Call It Murder - Black Flag**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/they-call-it-suicide-we-call-it-murder-black-flag
-
-**Tags:** Black Flag, deaths, Italy, Turin, police, prisons
-
 On 5 March 1998 the Italian police arrested 3 anarchists on serious charges of "subversive association for the purpose of constituting an armed gang". They were accused of various actions linked to the popular struggle against the construction of the high speed railway through the Val di Susa in Piemonte. Now only one of the 3 arrested anarchists remains alive.
 
 Article from Black Flag #215 1998.

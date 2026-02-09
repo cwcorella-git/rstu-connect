@@ -8,14 +8,6 @@ tags:
   - class
 ---
 
-## **Obituary of Class War - Radical Chains**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/obituary-class-war-radical-chains
-
-**Tags:** Class War Federation, groups, United Kingdom, Radical Chains, W Dixon
-
 Radical Chains on the demise and legacy of the UK anarchist organisation Class War Federation.
 
 ## radical chains Obituary: Class War

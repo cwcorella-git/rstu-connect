@@ -9,13 +9,7 @@ tags:
   - police
 ---
 
-## **Interview: Iranian Anarchists on Protests in Response to Police Murder of Mahsa Amini**
-
-## **Date:** Unknown
-
 ## **Source:**
-**Tags:** Black Rose Anarchist Federation, Federation of Anarchism Era, feminism, Iran, riots
-
 An interview with Federation of Anarchism Era, an organization with sections in Iran and Afghanistan, discussing the protests that have erupted in Iran after the police murder of Mahsa Amini/Jîna Emînî. This interview was first published by the Black Rose Anarchist Federation.
 
 ## Introduction

@@ -12,8 +12,6 @@ tags:
 
 ## With a new introduction
 
-### Murray Bookchin / Post-Scarcity Anarchism
-
 ### Second Edition / with a new introduction
 
 "Breaks new ground in its discussion of freedom in a society of technological abundance... Bookchin makes a trenchant analysis of modern society, and offers a pointed, provocative discussion of the ecological crisis."

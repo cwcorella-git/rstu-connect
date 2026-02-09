@@ -11,8 +11,6 @@ tags:
 
 ## ![](_page_0_Picture_0.jpeg)
 
-# **Satyagraha**
-
 **Satyāgraha** (from [Sanskrit](https://en.wikipedia.org/wiki/Sanskrit_language): सत्या ग्रह; *satya*: "truth", *āgraha*: "insistence" or "holding firmly to"), or "holding firmly to truth",[\[1\]](#page-6-0) or "truth force", is a particular form of [nonviolent](https://en.wikipedia.org/wiki/Nonviolent_resistance) [resistance](https://en.wikipedia.org/wiki/Nonviolent_resistance) or [civil resistance.](https://en.wikipedia.org/wiki/Civil_resistance) Someone who practises satyagraha is a **satyagrahi**.
 
 The term *satyagraha* was coined and developed by [Mahatma](https://en.wikipedia.org/wiki/Mahatma_Gandhi) [Gandhi](https://en.wikipedia.org/wiki/Mahatma_Gandhi) (1869–1948)[\[2\]](#page-6-1) as early as 1919.[\[3\]](#page-6-2) Gandhi practised satyagraha as part of the [Indian independence movement](https://en.wikipedia.org/wiki/Indian_independence_movement) and also during his earlier struggles in [South Africa](https://en.wikipedia.org/wiki/South_Africa) for [Indian](https://en.wikipedia.org/wiki/Indian_South_Africans) [rights](https://en.wikipedia.org/wiki/Indian_South_Africans). Satyagraha theory influenced [Martin Luther King Jr.'s](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.) and [James Bevel](https://en.wikipedia.org/wiki/James_Bevel)'s campaigns during the [Civil Rights](https://en.wikipedia.org/wiki/Civil_Rights_Movement) [Movement](https://en.wikipedia.org/wiki/Civil_Rights_Movement) in the United States, as well as [Nelson Mandela's](https://en.wikipedia.org/wiki/Nelson_Mandela)

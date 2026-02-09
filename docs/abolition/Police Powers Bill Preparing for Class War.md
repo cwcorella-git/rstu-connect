@@ -9,14 +9,6 @@ tags:
   - class
 ---
 
-## **Police Powers Bill: Preparing for Class War**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/police-powers-bill-preparing-class-war
-
-**Tags:** Internationalist Communist Tendency, repression, United Kingdom, Communist Workers'
-
 ## Organisation (CWO), police
 
 The Police, Crime Sentencing and Courts Bill has given rise to a wave of 'Kill the Bill' protests and demonstrations across the country, and has been criticised for the wider powers it gives to the state in general and more specifically to the police.

@@ -8,17 +8,9 @@ tags:
   - labor
 ---
 
-## **Edinburgh IWW statement on Scotrail/RMT railworkers strikes**
-
-## **Date:** Wed, 06/29/2016 - 18:28
-
 ## **Source:** https://ecology.iww.org/node/1698
 
-**Tags:** Scotland, Industrial Workers of the World (IWW), railroad workers, public transit, transportation workers
-
 ## By Staff -
-
-## Edinburgh IWW
 
 ## , June 28, 2016
 

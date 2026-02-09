@@ -10,8 +10,6 @@ tags:
 
 ## [pcwrede.com](https://pcwrede.com/pcw-wp/weaving-in-context/)
 
-## **Weaving in Context – Patricia C. Wrede**
-
 6–8 minutes
 
 ## ![](_page_0_Picture_5.jpeg)

@@ -8,14 +8,6 @@ tags:
   - feminism
 ---
 
-## **Clara Zetkin interviews Lenin on the women's question**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/clara-zetkin-interviews-lenin-womens-question
-
-**Tags:** Clara Zetkin, Vladimir Lenin, feminism, interviews
-
 Clara Zetkin's account of her 1920 discussions with Lenin on the Women's question. The interview is notable, for while Lenin supports women's involvement in the communist party, he also dismisses sex worker organising, and calls discussion of 'the sex question' bourgeois an early example of the attempts to subsume specific concerns for party building.
 
 Comrade Lenin repeatedly discussed with me the problem of women's rights. He obviously attached great importance to the women's movement, which was to him an essential component of the mass movement that in certain circumstances might become decisive. Needless to say he saw full social equality of women as a principle which no Communist could dispute.

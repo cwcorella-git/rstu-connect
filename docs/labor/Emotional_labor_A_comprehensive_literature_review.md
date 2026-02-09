@@ -9,7 +9,6 @@ tags:
   - workers
 ---
 
-# Emotional labor A comprehensive literature review **Source**: ./HSM0723.pdf ## Content See discussions, stats, and author profiles for this publication at: Emotional labor: A comprehensive literature review Article in Human Systems Management · December 2020 DOI: 10.3233/HSM-200937 CITATIONS READS 42 8,138 2 authors: Chunjiang Yang Aobo Chen Northwest University China Yanshan University 26 PUBLICATIONS 1,130 CITATIONS 7 PUBLICATIONS 486 CITATIONS SEE PROFILE SEE PROFILE All content following this page was uploaded by Chunjiang Yang on 23 July 2021. The user has requested enhancement of the downloaded file.  -- ## Page 2 ### Figures and Images (2 found) #### Figure: img-000.jpg
 --
 
 What is the future of emotional labor research?  -- ## Page 4

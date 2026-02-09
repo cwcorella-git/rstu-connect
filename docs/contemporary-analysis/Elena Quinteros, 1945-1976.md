@@ -14,14 +14,6 @@ tags:
   - uruguay
 ---
 
-## **Elena Quinteros, 1945-1976**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/elena-quinteros-1945-1976
-
-**Tags:** Edgar Rodrigues, women, education, repression, Venezuela, killings, biographies, Uruguay,
-
 ## Federación Anarquista Uruguaya, Elena Quinteros
 
 A short biography of Uruguayan anarchist teacher Elena Quinteros, who was disappeared by the US-backed military dictatorship, written by Edgar Rodrigues.

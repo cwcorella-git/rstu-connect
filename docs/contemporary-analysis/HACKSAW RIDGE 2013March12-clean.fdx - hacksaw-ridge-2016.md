@@ -8,8 +8,6 @@ tags:
   - current-events
 ---
 
-## HACKSAW RIDGE
-
 ## By
 
 ## ROBERT SCHENKKAN

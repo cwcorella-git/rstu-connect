@@ -9,13 +9,7 @@ tags:
   - climate
 ---
 
-## **Frontlines to Big Greens: Stand with us in calling for #Ceasefire now and Justice for Palestine**
-
-## **Date:** Tue, 10/31/2023 - 00:00
-
 ## **Source:** https://ecology.iww.org/node/6079
-
-**Tags:** Palestine, international solidarity, It Takes Roots, environmental justice, social justice, climate justice, Big Green, NGOs, ecological movements and organizations, movement politics
 
 ## By Hendrik Voss -
 

@@ -8,9 +8,6 @@ tags:
   - theory
 ---
 
-# Special Branch Report On Anarchists 1976
-
-Special Branch Report on Anarchists, 1976 Date: Unknown Source: https://libcom.org/article/special-branch-report-anarchists-1976 Tags: police
 Excerpt from the Special Branch Annual Report of 1976 on anarchists .
 Anarchist groups in London remained generally quiet during the year, due partly to their inability to bridge the gap between ideology and any kind of effective action, and partly to their noticeable attempts over the past year to present a more respectable image. Anarchist ideas have suffered in reputation from the criminal activities of groups such as the Angry Brigade , and the Baader-Meinhof Group, and there are currently no personalities in the anarchist field of sufficient standing to persuade the present student generation that anarchist principles have any relevance to today's political problems.
 Current anarchist thought can be divided into two factions; those who advocate 'libertarian communism', being a form of communism which emphasises personal liberty, and those who believe that anarchism and communism do not mix, preferring to rely on individual action to develop closer links with anarchists abroad. These elements are difficult to locate and assess in terms of strength, and they tend to operate in pressure groups such as claimants unions and squatter groups, where some of their revolutionary zeal is dissipated dealing with mundane domestic matters and associating with more moderate individuals. The largest anarchist group continues to be the Anarchist Workers Association, which adheres to the principle of 'libertarian communism'. Led by Ramsay MARGOLIS and Nicholas HEATH, the group numbers about 100 supporters and has six branches, two of which are in the Metropolis

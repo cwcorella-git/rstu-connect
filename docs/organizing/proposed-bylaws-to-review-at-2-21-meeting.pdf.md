@@ -7,7 +7,7 @@ tags:
   - rstu
   - organizing
 ---
-# proposed-bylaws-to-review-at-2-21-meeting.pdf
+
 Proposed Bylaws (2/21 Meeting)
 General Meetings
 ●   General meetings will be held at regular intervals as determined by the membership.

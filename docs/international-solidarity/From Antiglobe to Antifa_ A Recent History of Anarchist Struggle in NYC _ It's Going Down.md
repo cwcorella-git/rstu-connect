@@ -8,10 +8,6 @@ tags:
   - New York
 ---
 
-## [itsgoingdown.org](https://itsgoingdown.org/from-antiglobe-to-antifa-a-recent-history-of-anarchist-struggle-in-nyc/)
-
-## **From Antiglobe to Antifa: A Recent History of Anarchist Struggle in NYC**
-
 ## Anonymous Contributor
 
 ~3 minutes

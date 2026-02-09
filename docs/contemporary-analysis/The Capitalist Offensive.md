@@ -7,14 +7,6 @@ tags:
   - capitalism
 ---
 
-## **The Capitalist Offensive**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/capitalist-offensive
-
-**Tags:** Internationalist Communist Tendency, repression, United Kingdom, crisis, Communist Workers'
-
 ## Organisation (CWO), police
 
 The British state is no stranger to violence.

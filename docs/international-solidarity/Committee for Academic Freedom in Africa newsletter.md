@@ -9,14 +9,6 @@ tags:
   - solidarity
 ---
 
-## **Committee for Academic Freedom in Africa newsletter**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/committee-academic-freedom-africa-newsletter
-
-**Tags:** Silvia Federici, George Caffentzis, education, publications, Ousseina Alidou, Alamin Mazrui,
-
 Magbaily Fyle, Committee for Academic Freedom in Africa, PDF
 
 The eighteen newsletters published by the Committee for Academic Freedom in Africa between1991 and 2003.

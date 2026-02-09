@@ -8,12 +8,6 @@ tags:
   - Bookchin
 ---
 
-## **Radical agriculture - Murray Bookchin**
-
-## **Date:** Unknown
-
-**Source:** https://libcom.org/article/radical-agriculture-murray-bookchin**Tags:** Murray Bookchin, environment, agriculture, libertarian socialism
-
 An essay in which Murray Bookchin outlines his ideal system of food cultivation and criticizes the existing, capitalistic system. Appeared in Radical Agriculture(1972), ed. Richard Merrill.
 
 Agriculture is a form of culture. The cultivation of food is a social and cultural phenomenon unique to humanity. Among animals, anything that could remotely be described as food cultivation appear ephemerally, if at all; and even among humans, agriculture developed little more than ten thousand years ago. Yet, in an epoch when food cultivation is reduced to a mere industrial technique, it becomes especially important to dwell on the cultural implications of "modern" agriculture—to indicate their impact not only on public health, but also on humanity's relationship to nature and the relationship of human to human.

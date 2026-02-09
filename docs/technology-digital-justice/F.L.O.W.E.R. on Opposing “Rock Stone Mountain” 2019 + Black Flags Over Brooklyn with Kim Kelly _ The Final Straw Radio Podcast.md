@@ -7,10 +7,6 @@ tags:
   - digital rights
 ---
 
-#### [thefinalstrawradio.noblogs.org](https://thefinalstrawradio.noblogs.org/post/2019/01/13/f-l-o-w-e-r-on-opposing-rock-stone-mountain-2019-black-flags-over-brooklyn-with-kim-kelly/)
-
-# **F. L. O. W. E. R. on Opposing "Rock Stone Mountain" 2019 + Black Flags Over Brooklyn with Kim Kelly**
-
 6–8 minutes
 
 #### [Download Episode Here](http://traffic.libsyn.com/thefinalstrawradio/PODCASTtfsr-FLOWERBFOB-01132019.mp3)

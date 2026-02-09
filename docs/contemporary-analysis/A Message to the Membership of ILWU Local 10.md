@@ -14,17 +14,9 @@ tags:
   - thin-green-line
 ---
 
-## **A Message to the Membership of ILWU Local 10**
-
-## **Date:** Sun, 08/07/2016 - 13:52
-
 ## **Source:** https://ecology.iww.org/node/1731
 
-**Tags:** Oakland, coal, exports, ILWU Local 10, International Longshore and Warehouse Union (ILWU), jobs versus environment, labor and environment, green unionism, Thin Green Line
-
 ## By Derrick H Muhammad -
-
-## ILWU Local 10
 
 ## , August 4
 

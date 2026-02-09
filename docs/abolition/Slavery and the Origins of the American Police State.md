@@ -11,8 +11,6 @@ tags:
 
 [ibw21.org](https://ibw21.org/editors-choice/slavery-and-the-origins-of-the-american-police-state/)
 
-## **Slavery and the Origins of the American Police State**
-
 ## IBW21
 
 27–35 minutes
