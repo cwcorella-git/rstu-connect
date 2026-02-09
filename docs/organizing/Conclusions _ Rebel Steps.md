@@ -1,10 +1,12 @@
 ---
-title: 'Conclusions: Rebel Steps'
-date: 2008
-category: contemporary-analysis
+title: "Conclusions: Rebel Steps"
+author: "Rebel Steps Podcast"
+date: 2020
+category: organizing
 tags:
-  - analysis
-  - current-events
+  - podcasts
+  - organizing
+  - onboarding
 ---
 
 

@@ -1,11 +1,12 @@
 ---
-title: "Ivan Illich"
-author:
-date: 1980
-category: "contemporary-analysis"
+title: "Shadow Work"
+author: "Ivan Illich"
+date: 1981
+category: theory
 tags:
-  - analysis
-  - current-events
+  - economics
+  - labor
+  - critique
 ---
 
 # **Shadow Work**

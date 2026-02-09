@@ -1,10 +1,12 @@
 ---
-title: Blackshirts &
-author: Michael Parenti
-date: 1996
-category: contemporary-analysis
+title: "Blackshirts and Reds: Rational Fascism and the Overthrow of Communism"
+author: "Michael Parenti"
+date: 1997
+category: theory
 tags:
-  - theory
+  - fascism
+  - communism
+  - history
 ---
 
 ## MICHAEL PARENTI
