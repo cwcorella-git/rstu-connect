@@ -84,7 +84,6 @@ Radical agriculure brings all o hese possibiliies ino ocus, or we mus begin wih 
 
 ## Te Anarchis Library Ani-Copyrigh
 
-## ![](_page_7_Picture_1.jpeg)
 
 ## Murray Bookchin Radical Agriculure 1972
 

@@ -10,7 +10,6 @@ tags:
 
 ## AND OTHER ESSAYS
 
-## ![](_page_0_Picture_2.jpeg)
 
 ## JOHN ZERZAN
 

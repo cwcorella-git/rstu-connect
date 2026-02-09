@@ -11,9 +11,6 @@ tags:
 
 ## Contributors to Wikimedia projects
 
-91–115 minutes
-
-## ![](_page_0_Picture_7.jpeg)
 
 Portrait by [Brady](https://en.wikipedia.org/wiki/Mathew_Brady)[-Handy,](https://en.wikipedia.org/wiki/Levin_Corbin_Handy) c. 1860–1868
 
@@ -122,7 +119,6 @@ In September 1833, Stevens was elected to a one-year term in the Pennsylvania Ho
 
 Beginning with his early years in Gettysburg, Stevens advanced the cause of universal education. At the time, no state outside [New England](https://en.wikipedia.org/wiki/New_England) had free public education for all. In Pennsylvania, there was free education in [Philadelphia,](https://en.wikipedia.org/wiki/Philadelphia) but elsewhere in the state, those wishing to have their children educated without paying tuition had to swear a [pauper's oath.](https://en.wikipedia.org/wiki/Pauper%27s_oath) Stevens opened his extensive private library to the public and gave up his presidency of the borough council, believing his service on the [school board](https://en.wikipedia.org/wiki/School_board) more important[.\[24\]](#page-58-0) In 1825, he was elected by the voters of Adams County as a trustee of Gettysburg Academy. As the school was failing, Stevens got [county](https://en.wikipedia.org/wiki/County_(United_States)) voters to agree to pay its debt, allowing it to be sold as a Lutheran seminary. It was granted the right to award college degrees in 1831 as Pennsylvania College, and in 1921 became [Gettysburg College.](https://en.wikipedia.org/wiki/Gettysburg_College) Stevens gave the school land upon which a building could be raised and served as a trustee for many years[.\[25\]](#page-58-1)[\[26\]](#page-58-2)[\[27\]](#page-58-3)
 
-![](_page_10_Picture_3.jpeg)
 
 Portrait of Stevens by [Jacob Eichholtz](https://en.wikipedia.org/wiki/Jacob_Eichholtz) now owned by Gettysburg College
 
@@ -144,7 +140,6 @@ In the 1830s, few sought the immediate eradication of slavery.
 
 The [abolitionist movement](https://en.wikipedia.org/wiki/Abolitionism_in_the_United_States) was young and only recently had figures such as [William Lloyd Garrison](https://en.wikipedia.org/wiki/William_Lloyd_Garrison) taken on the fight[.\[34\]](#page-58-10) Stevens's reason for adopting slavery as a cause has been disputed among his recent biographers. [Richard N. Current,](https://en.wikipedia.org/wiki/Richard_N._Current) in 1942, suggested it was out of ambition; [Fawn Brodie,](https://en.wikipedia.org/wiki/Fawn_Brodie) in her controversial 1959 psychobiography of Stevens, suggested it was out of identification with the downtrodden, based on his handicap[.\[35\]](#page-58-11) Trefousse, in his 1997 work, also suggested that Stevens's feelings towards the downtrodden were a factor, combined with remorse over the Butler case, but that ambition was unlikely to have been a significant motivator, as Stevens's fervor in the anti-slavery cause inhibited his career.[\[36\]](#page-58-12)
 
-![](_page_13_Picture_3.jpeg)
 
 Stevens's home on Queen Street, Lancaster, Pennsylvania At the 1837 Pennsylvania constitutional convention, Stevens, who was a delegate, fought against the [disenfranchisement](https://en.wikipedia.org/wiki/Disenfranchisement) of African-Americans (see [Black suffrage in Pennsylvania\)](https://en.wikipedia.org/wiki/Black_suffrage_in_Pennsylvania)[.\[37\]](#page-58-13) According to historian [Eric Foner,](https://en.wikipedia.org/wiki/Eric_Foner) "When Stevens refused to sign the 1837 constitution because of its voting provision, he announced his commitment to a non-racial definition of American citizenship to which he would adhere for the remainder of his life.["\[38\]](#page-58-14) After he moved to Lancaster, a city not far from the [Mason–Dixon line,](https://en.wikipedia.org/wiki/Mason%E2%80%93Dixon_line) he became active in the [Underground Railroad,](https://en.wikipedia.org/wiki/Underground_Railroad) not only defending people believed to be fugitive slaves, but coordinating the movements of those seeking freedom[.\[39\]](#page-58-15) A 2003 renovation at his former home in Lancaster disclosed that there was a hidden cistern, attached to the main building by a concealed tunnel, in which escaped slaves hid[.\[40\]](#page-58-16)[\[41\]](#page-58-17)
 
@@ -180,7 +175,6 @@ Stevens took his seat in the [36th United States Congress](https://en.wikipedia.
 
 # [Barksdale](https://en.wikipedia.org/wiki/William_Barksdale) drew a knife on him, though no blood was spilled.[\[56\]](#page-59-13)
 
-## ![](_page_18_Picture_3.jpeg)
 
 Southern view of the proposed compromises of 1860 and 1861, with "Dr. North" (Stevens) proposing to cut the South's legs off using a constitutional amendment. Stevens actually opposed such measures.
 
@@ -244,7 +238,6 @@ Through late 1865, the southern states held white-only balloting and, in congres
 
 #### [\[edit\]](https://en.wikipedia.org/w/index.php?title=Thaddeus_Stevens&action=edit§ion=18)
 
-## ![](_page_29_Picture_5.jpeg)
 
 ## Stevens in a thoughtful pose
 
@@ -256,7 +249,6 @@ Amendment[.\[115\]](#page-62-19) He proposed and then co-chaired the [Joint](htt
 
 The Committee of Fifteen began to consider what would become the [Fourteenth Amendment.](https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution) Stevens had begun drafting versions in December 1865, before the Committee had even formed[.\[117\]](#page-63-1) In January 1866, a subcommittee including Stevens and [John Bingham](https://en.wikipedia.org/wiki/John_Bingham) proposed two amendments: one giving Congress the unqualified power to secure equal rights, privileges, and protections for all citizens; the other explicitly annulling all racially discriminatory laws. [\[118\]](#page-63-2) Stevens believed that the [Declaration of Independence](https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence) and [Organic Acts](https://en.wikipedia.org/wiki/Organic_Act) already bound the federal government to these principles, but that an amendment was necessary to allow enforcement against discrimination at the state level. [\[119\]](#page-63-3) The resolution providing for what would become the Fourteenth Amendment was watered down in Congress; during the closing debate, Stevens said these changes had shattered his lifelong dream in equality for all Americans.[\[120\]](#page-63-4) [\[121\]](#page-63-5) Nevertheless, stating that he lived among men, not angels, he supported the passage of the compromise amendment[.\[122\]](#page-63-6) Still, Stevens told the House: "Forty acres of land and a hut would be more valuable to [the African-American] than the immediate right to vote.["\[123\]](#page-63-7)
 
-![](_page_31_Picture_3.jpeg)
 
 Based on ill-considered exchanges between Johnson and hecklers during the [Swing Around the Circle,](https://en.wikipedia.org/wiki/Swing_Around_the_Circle) this excerpt from the [Thomas Nast](https://en.wikipedia.org/wiki/Thomas_Nast) cartoon [Andy's Trip](https://en.wikipedia.org/wiki/Andy%27s_Trip) shows Johnson delivering a pardon to Davis as Stevens and [Wendell Phillips](https://en.wikipedia.org/wiki/Wendell_Phillips) hang in the background.
 
@@ -288,21 +280,16 @@ Most of Johnson's Cabinet supported him, but Secretary of War Stanton did not, a
 
 When Congress met again, [on December 7, 1867](https://en.wikipedia.org/wiki/December_7,_1867_impeachment_vote_on_Andrew_Johnson) Stevens voted for an impeachment resolution that was heavily defeated[,\[147\]](#page-64-11) though the Judiciary Committee had voted 5–4 for impeachment[.\[148\]](#page-64-12)
 
-![](_page_36_Picture_4.jpeg)
 
 Color print of a [Harper's Weekly](https://en.wikipedia.org/wiki/Harper%27s_Weekly) woodcut by [Theodore R. Davis](https://en.wikipedia.org/wiki/Theodore_R._Davis) depicting Stevens making his final argument to the House during March 2, 1868, debate on the articles of impeachment Stevens was chairman of the [House Select Committee on](https://en.wikipedia.org/wiki/House_Select_Committee_on_Reconstruction) [Reconstruction,](https://en.wikipedia.org/wiki/House_Select_Committee_on_Reconstruction) [\[149\]](#page-64-13) which was tasked by the House on January 27, 1868, with running a [second impeachment inquiry.](https://en.wikipedia.org/wiki/Second_impeachment_inquiry_against_Andrew_Johnson) [\[150\]](#page-64-14) [\[151\]](#page-65-0) Only four of the nine members (three Republicans and a Democrat) had supported impeachment in December 1867. [\[147\]](#page-64-11)[\[149\]](#page-64-13)[\[152\]](#page-65-1) On February 13, 1868, Stevens presented to the committee a report accusing Johnson of actions that intended to violate the Tenure of Office Act. The committee [tabled](https://en.wikipedia.org/wiki/Table_(parliamentary_procedure)) it by a 5–4 vote[.\[153\]](#page-65-2)[\[154\]](#page-65-3)[\[155\]](#page-65-4)
 
 The prospects of impeachment took new life on February 21, 1868. The Senate had previously, on January 13, 1868, overturned Johnson's suspension of Stanton. Grant then resigned as Secretary of War, and Stanton reclaimed his place. [\[156\]](#page-65-5) However, on February 21, the president ousted Stanton from his position, appointing General [Lorenzo Thomas](https://en.wikipedia.org/wiki/Lorenzo_Thomas) in his place – though Stanton barricaded himself in his office.[\[157\]](#page-65-6) [\[158\]](#page-65-7) These actions caused great excitement in Washington, and in the House of Representatives, Stevens went from group to group on the floor, repeating, "Didn't I tell you so? What good did your moderation do you? If you don't kill the beast, it will kill you.["\[159\]](#page-65-8) On February 22, Stevens reported from the Select Committee on Reconstruction a resolution and a report opining that Johnson should be impeached for [high crimes and](https://en.wikipedia.org/wiki/High_crimes_and_misdemeanors) [misdemeanors.](https://en.wikipedia.org/wiki/High_crimes_and_misdemeanors) [\[150\]](#page-64-14)[\[160\]](#page-65-9)[\[161\]](#page-65-10)[\[162\]](#page-66-0) Stevens concluded the debate on the impeachment resolution on February 24, though due to his poor health, he could not complete his speech and gave it to the Clerk to read aloud. In the speech, he accused Johnson of usurping the powers of other branches of government and ignoring the people's will. He did not deny impeachment was a political matter, but "this is not to be the temporary triumph of a political party, but is to endure in its consequence until the whole continent shall be filled with a free and untrammeled people or shall be a nest of shrinking, cowardly slaves.["\[163\]](#page-66-1)[\[164\]](#page-66-2) The House voted 126–47 to impeach the president[.\[165\]](#page-66-3)
 
-![](_page_37_Picture_3.jpeg)
-
-## ![](_page_38_Picture_2.jpeg)
 
 Illustration from [Harper's Weekly](https://en.wikipedia.org/wiki/Harper%27s_Weekly) of Stevens (right) and [John A.](https://en.wikipedia.org/wiki/John_A._Bingham) [Bingham](https://en.wikipedia.org/wiki/John_A._Bingham) formally notifying the Senate of Johnson's impeachment
 
 Stevens led the delegation of House members sent the following day to inform the Senate of the impeachment, though he had to be carried to its doors by his bearers. Elected to the committee charged with drafting articles of impeachment, his illness limited his involvement. Nevertheless, dissatisfied with the committee's proposed articles, Stevens suggested another that would become Article XI. This grounded the various accusations in statements Johnson had made denying the legitimacy of Congress due to the exclusion of the southern states and stated that Johnson had tried to disobey the Reconstruction Acts[.\[166\]](#page-66-4) Stevens also urged [Benjamin Butler](https://en.wikipedia.org/wiki/Benjamin_Butler) to, independent of the committee, write his own impeachment article, which would ultimately be adopted as Article X[.\[167\]](#page-66-5)
 
-![](_page_38_Picture_5.jpeg)
 
 ## Johnson impeachment managers
 
@@ -322,9 +309,6 @@ Most radicals were confident that Johnson would be convicted and removed from of
 
 #### [\[edit\]](https://en.wikipedia.org/w/index.php?title=Thaddeus_Stevens&action=edit§ion=21)
 
-## ![](_page_40_Picture_5.jpeg)
-
-## ![](_page_41_Picture_2.jpeg)
 
 ## Stevens's grave in Lancaster
 
@@ -340,9 +324,6 @@ When Congress adjourned in late July, Stevens remained in Washington, too ill to
 
 President Johnson issued no statement upon the death of his enemy[.\[180\]](#page-67-1) Newspaper reaction was generally along partisan lines, though sometimes mixed. The Detroit Post stated that "if to die crowned with noble laurels, and ... secure of [recte in] the respect of the world ... is an end worthy the ambition of a well spent life, then the veteran Radical may lie down with the noblest of the fathers to a well contented sleep."[\[181\]](#page-67-2) [The New](https://en.wikipedia.org/wiki/The_New_York_Times) [York Times](https://en.wikipedia.org/wiki/The_New_York_Times) stated that Stevens had "discerned the expediency of emancipation, and urged it long before Mr. Lincoln issued his proclamation" but that after the war, "on the subject of Reconstruction, then, Mr. Stevens must be deemed the Evil Genius of the Republican Party[.\[182\]](#page-67-3) The [Franklin, Louisiana] Planter's Banner exulted, "The prayers of the righteous have at last removed the Congressional curse! May ... the fires of his new furnace never go out!["\[183\]](#page-67-4)
 
-![](_page_43_Picture_4.jpeg)
-
-## ![](_page_44_Picture_2.jpeg)
 
 Stevens's casket lying in state in the Capitol Rotunda, guarded by black soldiers.
 
@@ -350,9 +331,6 @@ Stevens's body was conveyed from his house to the Capitol by white and black pal
 
 Stevens never married, though there were rumors about his twenty-year relationship (1848–1868) with his widowed housekeeper, [Lydia Hamilton Smith](https://en.wikipedia.org/wiki/Lydia_Hamilton_Smith) (1813–1884)[.\[186\]](#page-67-7)[\[187\]](#page-67-8) She was a light-skinned [African American;](https://en.wikipedia.org/wiki/African_Americans) her husband Jacob and at least one of her sons were much darker than she was.[\[188\]](#page-67-9)
 
-![](_page_44_Picture_6.jpeg)
-
-## ![](_page_45_Picture_2.jpeg)
 
 ## Lydia Hamilton Smith
 
@@ -366,7 +344,6 @@ Under Stevens's will, Smith was allowed to choose between a lump sum of \$5,000 
 
 Stevens had taken custody of his two young nephews, Thaddeus (often called "Thaddeus Jr.") and Alanson Joshua Stevens, after their parents died in Vermont. Alanson was sent to work at Stevens's business, Caledonia Forge; Thaddeus Jr. was expelled from [Dartmouth College,](https://en.wikipedia.org/wiki/Dartmouth_College) though he subsequently graduated and was taken into his uncle's law practice[.\[196\]](#page-68-2) Alanson during the Civil War rose to be commanding captain of a [Pennsylvania Volunteers](https://en.wikipedia.org/wiki/Independent_Battery_B,_Pennsylvania_Light_Artillery) [field](https://en.wikipedia.org/wiki/Field_artillery_in_the_American_Civil_War) [artillery unit](https://en.wikipedia.org/wiki/Field_artillery_in_the_American_Civil_War) and was killed in action at [Chickamauga.](https://en.wikipedia.org/wiki/Battle_of_Chickamauga) [\[197\]](#page-68-3) After Alanson's death, his uncle used his influence to have Thaddeus Jr. made provost marshal of Lancaster[.\[198\]](#page-68-4)
 
-![](_page_46_Picture_5.jpeg)
 
 [Thaddeus Stevens School](https://en.wikipedia.org/wiki/Thaddeus_Stevens_School_(Washington,_D. C.)), also known as Thaddeus Stevens Elementary School, located at 1050 21st Street, NW in Washington, D. C. The building was added to the [National](https://en.wikipedia.org/wiki/National_Register_of_Historic_Places) [Register of Historic Places](https://en.wikipedia.org/wiki/National_Register_of_Historic_Places) in 1980.
 
@@ -382,7 +359,6 @@ Schools named after Stevens include [Thaddeus Stevens](https://en.wikipedia.org/
 
 As Stevens' biographer Richard N. Current put it, "to find out what really made the man go, the historian would need the combined aid of two experts from outside the profession – a psychoanalyst and a spiritualist.["\[202\]](#page-68-8) The historical view of Thaddeus Stevens has fluctuated widely since his death, generally in a manner inverse to that of Andrew Johnson. Early biographical works on Stevens were composed by men who knew him and reflected their viewpoints. Biographies at the turn of the twentieth century, such as those by [Samuel Mc Call](https://en.wikipedia.org/wiki/Samuel_Mc Call) in 1899 and by James Albert Woodburn in 1913, presented Stevens favorably, as a sincere man, motivated by principle. [\[203\]](#page-68-9) Early African-American historian [W. E. B. Du Bois](https://en.wikipedia.org/wiki/W._E._B._Du_Bois) called Stevens "a leader of the common people" and "a stern believer in democracy, both in politics and in industry."[\[204\]](#page-68-10) Pulitzer Prize-winning historian [James Ford Rhodes](https://en.wikipedia.org/wiki/James_Ford_Rhodes) argued that though Stevens had a "profound sympathy" towards the African-American, "coming straight from the heart," he also showed "virulence toward the South" and was "bitter and vindictive.["\[204\]](#page-68-10) This view of a vengeful Stevens originated during Reconstruction and persisted well into the 20th century. [\[205\]](#page-68-11)
 
-![](_page_48_Picture_3.jpeg)
 
 [Ralph Lewis](https://en.wikipedia.org/wiki/Ralph_Lewis_(actor)) as Austin Stoneman and [Mary Alden](https://en.wikipedia.org/wiki/Mary_Alden) as Lydia Brown, [The Birth of a Nation](https://en.wikipedia.org/wiki/The_Birth_of_a_Nation), 1915
 
@@ -735,7 +711,6 @@ Stevens," Journal of the Lancaster County Historical Society (1970) 74:33–71, 
 - Stevens, Thaddeus, et al. Report of the Joint Committee on Reconstruction, at the First Session ... by United States Congress. Joint Committee on Reconstruction, (1866) 791 pages; [online edition](https://books.google.com/books?id=d UgWAAAAYAAJ)
 - Memorial Addresses on the Life and Character of Thaddeus Stevens: Delivered ... by United States 40th Cong., 3d sess., 1868–1869. (1869) 84 pages; [online edition](https://books.google.com/books?id=WGsFAAAAQAAJ)
 
-## ![](_page_74_Picture_9.jpeg)
 
 - Media related to [Thaddeus Stevens](https://commons.wikimedia.org/wiki/Category:Thaddeus_Stevens) at Wikimedia Commons
 

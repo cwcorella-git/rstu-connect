@@ -397,7 +397,6 @@ Where W = well-being, G = glow (passion), Pb = bodily pains and Pm = menal pains
 
 Le A represen a living being in a ime-dimensional space having our vial needs o saisy… Te quadruple a 1/1 o a 1/4 symbolises he our sources o need saisacion… I he sources are a 2/1, a 2/3, a 2/5, a 2/7, and separated from A by interposed, qualitatively different parts a 1/1 to a 1/4 of the environment, the organism is vitally and normally dependent upon the control of these parts and also of a 2/2, a 2/4, a 2/8, the parts adjacent to the sources with another set of qualitatively different properties, (p.205)
 
-## ![](_page_27_Picture_1.jpeg)
 
 This convoluted discussion is simply - it seems - to illustrate the evident truism that 'the requirement of control increases with the remoteness of sources of satisfaction of needs'.
 
@@ -908,7 +907,6 @@ Weldon-Finn, R. (1973) The Domesday Book: A Guide Phillimore and Co. Wicks, J. H
 
 ## The Anarchist Library Anti-Copyright
 
-## ![](_page_54_Picture_1.jpeg)
 
 Various Authors Deep Ecology & Anarchism A Polemic 1993
 

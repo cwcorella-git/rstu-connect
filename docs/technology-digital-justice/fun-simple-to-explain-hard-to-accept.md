@@ -10,13 +10,11 @@ tags:
 
 The Wayback Machine - https://web.archive.org/web/20250914181500/https://www.whatgamesare.com/2011/09/fun-simple-to-explain-hard-to-ac…
 
-## ![](_page_0_Picture_2.jpeg)
 
 [Featured](https://web.archive.org/web/20250914181500/https://www.whatgamesare.com/featured-posts.html) [Glossary](https://web.archive.org/web/20250914181500/https://www.whatgamesare.com/glossary.html) [About](https://web.archive.org/web/20250914181500/https://www.whatgamesare.com/about.html) [Consulting](https://web.archive.org/web/20250914181500/https://www.whatgamesare.com/consulting.html)
 
 ## **Fun: Simple to Explain, Hard to Accept [Constants]**
 
-## ![](_page_0_Picture_5.jpeg)
 
 Game developers ask 'what is fun?' and academics often answer that fun is seemingly simple but actually fiendishly hard to explain. Everything is potentially fun and trying to encompass it all in one statement is impossible.
 
@@ -80,13 +78,11 @@ Posted on 21 September 2011 | [Permalink](https://web.archive.org/web/2025091418
 
 You can follow this conversation by subscribing to the [comment feed](https://web.archive.org/web/20250914181500/https://www.whatgamesare.com/2011/09/fun-simple-to-explain-hard-to-accept/comments/atom.xml) for this post.
 
-## ![](_page_2_Picture_0.jpeg)
 
 One counterexample that comes to mind is the slot machine. It doesn't seem to fit your fun constant. Winning is random. Mastery is an illusion. The whole system is perverse and exploitative. Yet the players play and "enjoy" themselves.
 
 Posted by: [Darrin Thompson](https://web.archive.org/web/20250914181500/https://profile.typepad.com/darrinthompson) | [21 September 2011 at 08:03 AM](https://web.archive.org/web/20250914181500/https://www.whatgamesare.com/2011/09/fun-simple-to-explain-hard-to-accept.html?cid=6a0120a8f8e2b8970b015391c5bbcc970b#comment-6a0120a8f8e2b8970b015391c5bbcc970b)
 
-## ![](_page_2_Picture_3.jpeg)
 
 Hi Darrin,
 
@@ -112,7 +108,6 @@ Does subverting and avoiding the formal rules of a game count as a 'win' too?
 
 Posted by: [Tony Coles](https://web.archive.org/web/20250914181500/https://profile.typepad.com/tonycoles) | [21 September 2011 at 08:08 AM](https://web.archive.org/web/20250914181500/https://www.whatgamesare.com/2011/09/fun-simple-to-explain-hard-to-accept.html?cid=6a0120a8f8e2b8970b014e8bb97c95970d#comment-6a0120a8f8e2b8970b014e8bb97c95970d)
 
-## ![](_page_2_Picture_16.jpeg)
 
 Hi Tony,
 
@@ -134,7 +129,6 @@ In fact, I think the more interesting aspects of modern games come from that fre
 
 Posted by: [Tony Coles](https://web.archive.org/web/20250914181500/https://profile.typepad.com/tonycoles) | [21 September 2011 at 09:19 AM](https://web.archive.org/web/20250914181500/https://www.whatgamesare.com/2011/09/fun-simple-to-explain-hard-to-accept.html?cid=6a0120a8f8e2b8970b015391c61986970b#comment-6a0120a8f8e2b8970b015391c61986970b)
 
-## ![](_page_2_Picture_27.jpeg)
 
 Oh, sorry Tony, I misunderstood you.
 
@@ -152,7 +146,6 @@ Thanks again.
 
 Posted by: [Tadhg](https://web.archive.org/web/20250914181500/https://profile.typepad.com/tiedtiger) | [21 September 2011 at 10:44 AM](https://web.archive.org/web/20250914181500/https://www.whatgamesare.com/2011/09/fun-simple-to-explain-hard-to-accept.html?cid=6a0120a8f8e2b8970b01543599e539970c#comment-6a0120a8f8e2b8970b01543599e539970c)
 
-## ![](_page_3_Picture_3.jpeg)
 
 What are you thought on horror games (Like Amnesia: The Dark Decent not action/horror like Resident evil 4 and 5)
 
@@ -162,7 +155,6 @@ What about Flower which also doesn't have a mechanic the player can master or ha
 
 Posted by: [Chaos\\_Alfa](https://web.archive.org/web/20250914181500/https://profile.typepad.com/chaosalfa) | [21 September 2011 at 01:06 PM](https://web.archive.org/web/20250914181500/https://www.whatgamesare.com/2011/09/fun-simple-to-explain-hard-to-accept.html?cid=6a0120a8f8e2b8970b015391c71990970b#comment-6a0120a8f8e2b8970b015391c71990970b)
 
-## ![](_page_3_Picture_8.jpeg)
 
 Thanks for another enjoyable article Tadhg. I continue to disagree with you on this "win" thing, but it might be semantic. I think of games as requiring end states, and I consider a win/loss binary to be one type of end state (one that is a key component of almost all competitive games, and many non-competitive ones as well).
 
@@ -172,7 +164,6 @@ The crucial piece in this is of course the player's perspective on the gaming ex
 
 Posted by: [Moses Wolfenstein](https://web.archive.org/web/20250914181500/https://profile.typepad.com/moseswolfenstein) | [21 September 2011 at 02:45 PM](https://web.archive.org/web/20250914181500/https://www.whatgamesare.com/2011/09/fun-simple-to-explain-hard-to-accept.html?cid=6a0120a8f8e2b8970b0154359af220970c#comment-6a0120a8f8e2b8970b0154359af220970c)
 
-## ![](_page_3_Picture_13.jpeg)
 
 With regard to constraints, you are right - although there's much resistance they are essential to actually engaging the topic. You can wander anywhere otherwise...
 
@@ -198,7 +189,6 @@ Food for thought. Thanks for this, and anyone looking to define fun is a winner 
 
 Posted by: [Chris Birke](https://web.archive.org/web/20250914181500/https://profile.typepad.com/birke) | [22 September 2011 at 12:48 PM](https://web.archive.org/web/20250914181500/https://www.whatgamesare.com/2011/09/fun-simple-to-explain-hard-to-accept.html?cid=6a0120a8f8e2b8970b014e8bc0fb5b970d#comment-6a0120a8f8e2b8970b014e8bc0fb5b970d)
 
-## ![](_page_3_Picture_25.jpeg)
 
 Oh, one more thing, as I'm a hopeless romantic, light speed travel to other worlds is not prohibited so long as we can exist in the form of light (and we can, theoretically.)
 
@@ -212,7 +202,6 @@ In any case, exploration is cool. =) You see how easy it is to wander off topic 
 
 Posted by: [Chris Birke](https://web.archive.org/web/20250914181500/https://profile.typepad.com/birke) | [22 September 2011 at 12:54 PM](https://web.archive.org/web/20250914181500/https://www.whatgamesare.com/2011/09/fun-simple-to-explain-hard-to-accept.html?cid=6a0120a8f8e2b8970b015435a0a69e970c#comment-6a0120a8f8e2b8970b015435a0a69e970c)
 
-## ![](_page_3_Picture_32.jpeg)
 
 Given that I used the example of c not two days ago, I find this ironic on a universal level.
 
@@ -238,4 +227,3 @@ As a final step before posting your comment, enter the letters and numbers you s
 
 Having trouble reading this image? View an alternate.
 
-## ![](_page_4_Picture_11.jpeg)

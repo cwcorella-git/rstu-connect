@@ -15,7 +15,6 @@ tags:
 
 Edited by Kiichiro Yagi, Nobuharu Yokokawa, Shinjiro Hagiwara and Gary A. Dymski
 
-## ![](_page_0_Picture_4.jpeg)
 
 ## **Crises of Global Economies and the Future of Capitalism**
 
@@ -457,7 +456,6 @@ Unique cases in Japanese rural regions *Makoto Hirano*
 
 **Edited by Kiichiro Yagi, Nobuharu Yokokawa, Shinjiro Hagiwara and Gary A. Dymski**
 
-## ![](_page_9_Picture_3.jpeg)
 
 First published 2013 by Routledge 2 Park Square, Milton Park, Abingdon, Oxon OX14 4RN
 
@@ -2091,7 +2089,6 @@ A second element of the global city/new empire circuit/global capitalism nexus i
 
 The point that needs emphasis here is that the global city serves as a central "field" in which real business and financial profits can be accumulated through global business linkages, and in which the global corporate wealth of the United States can be concentrated. At the same time, a key function of the global city is to attract substantial quantities of labor, including immigrants, by increasing the number of professional jobs in related specialized services and various other kinds of employment. Development of the global city, moreover, implies the provision of various urban public services and housing construction, and the employment and income flows created by these activities. In this way, the global city function has driven the expansion of domestic demand within the United States (see Figure 2.8).
 
-## ![](_page_64_Picture_0.jpeg)
 
 ## ©Tetsuji Kawamura, 2012, All right reserved
 
@@ -2099,7 +2096,6 @@ The point that needs emphasis here is that the global city serves as a central "
 
 *Figure 2.8* The U. S.-centered global growth nexus (source: © Tetsuji Kawamura, 2012. All rights reserved).
 
-## ![](_page_65_Picture_2.jpeg)
 
 ## *Figure 2.8* Continued
 
@@ -6544,13 +6540,11 @@ Over 23,000 e Book titles in the Humanities, Social Sciences, STM and Law from s
 
 Choose from a range of subject packages or create your own!
 
-## ![](_page_352_Picture_6.jpeg)
 
 - ► Free MARC records
 - ► COUNTER-compliant usage statistics
 - Flexible purchase and pricing options
 
-## ![](_page_352_Picture_10.jpeg)
 
 - ▶ Off-site, anytime access via Athens or referring URL
 - ▶ Print or copy pages or chapters
@@ -6564,9 +6558,6 @@ For more information, pricing enquiries or to order a free trial, contact your l
 
 US, Canada and Latin America: e-reference@taylorandfrancis.com www.ebooksubscriptions.com
 
-## ![](_page_352_Picture_20.jpeg)
-
-## ![](_page_352_Picture_21.jpeg)
 
 ## Taylor & Francis A: Taylor & Francis
 

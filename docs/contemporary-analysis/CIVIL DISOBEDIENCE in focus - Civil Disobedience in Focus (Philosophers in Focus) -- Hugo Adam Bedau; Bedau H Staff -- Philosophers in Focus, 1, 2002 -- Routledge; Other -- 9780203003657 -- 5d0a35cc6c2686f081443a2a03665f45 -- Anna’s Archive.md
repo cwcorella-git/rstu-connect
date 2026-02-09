@@ -47,7 +47,6 @@ JOHN LOCKE'S LETTER ON TOLERATION IN FOCUS Edited by John Horton and Susan Mendu
 
 ## Edited by Hugo Adam Bedau
 
-## ![](_page_3_Picture_2.jpeg)
 
 #### First published 1991 by Routledge 11 New Fetter Lane, London EC4P 4EE
 

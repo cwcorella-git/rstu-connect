@@ -9,7 +9,6 @@ tags:
   - wikipedia
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 A **frown** (also known as a **scowl**) is a [facial expression](https://en.wikipedia.org/wiki/Facial_expression) in which the [eyebrows](https://en.wikipedia.org/wiki/Eyebrows) are brought together, and the forehead is wrinkled, usually indicating [displeasure](https://en.wikipedia.org/wiki/Displeasure), [sadness](https://en.wikipedia.org/wiki/Sadness) or [worry,](https://en.wikipedia.org/wiki/Worry) or less often [confusion](https://en.wikipedia.org/wiki/Confusion) or [concentration](https://en.wikipedia.org/wiki/Attentional_control). The appearance of a frown varies by culture. An alternative usage in [North](https://en.wikipedia.org/wiki/North_America) [America](https://en.wikipedia.org/wiki/North_America) is thought of as an expression of the [mouth.](https://en.wikipedia.org/wiki/Mouth) In those cases when used iconically, as with an emoticon, it is entirely presented by the curve of the lips forming a down-open curve. The mouth expression is also commonly referred to in the colloquial English phrase, especially in the United States, to "turn that frown upside down" which indicates changing from sad to happy.
 
@@ -17,7 +16,6 @@ A **frown** (also known as a **scowl**) is a [facial expression](https://en.wiki
 
 [Charles Darwin](https://en.wikipedia.org/wiki/Charles_Darwin) described the primary act of frowning as the furrowing of the brow which leads to a rise in the upper lip and a down-turning of the corners of the mouth.[\[1\]](#page-2-0) While the appearance of a frown varies from culture to culture, there appears to be some degree of universality to the recognition of the frown as a negative facial expression.[\[2\]](#page-2-1) In fact, frowning as a component of anger or disgust is widely recognized as a universal expression easily recognized across
 
-## ![](_page_0_Picture_5.jpeg)
 
 In his 16th-century portrait of an unidentified man, [Albrecht](https://en.wikipedia.org/wiki/Albrecht_D%C3%BCrer) Dürer powerfully captures personality through facial [expression](https://en.wikipedia.org/wiki/Facial_expression), body [language](https://en.wikipedia.org/wiki/Body_language), and clothing. Work: *Bildnis eines unbekannten Mannes* (1521)
 
@@ -33,7 +31,6 @@ Photographs of frowning and crying children from *The [Expression](https://en.wi
 
 In social settings frowns are most frequently used to express a range of negative emotions including anger and displeasure. However there are social differences that dictate who is allowed to frown in any given social setting. Socially dominant individuals are more likely to frown than those of a lower social status. Individuals with a high social status are permitted to display their emotions more freely, while low dominance individuals are expected to show signs of [affiliation.](https://en.wikipedia.org/wiki/Tend_and_befriend) [\[10\]](#page-3-2) It is considered more socially acceptable for men to display negative emotions than women; women also tend to be less likely to frown than men.[\[11\]](#page-3-3) Unlike [smiling,](https://en.wikipedia.org/wiki/Smiling) frowns do not appear to be directly socially [contagious](https://en.wiktionary.org/wiki/contagious); seeing someone frown does not necessarily make you
 
-## ![](_page_1_Picture_3.jpeg)
 
 An example of a spontaneous frown used to express displeasure.
 
@@ -59,7 +56,6 @@ muscles) |
 muscles) | |
 | 11 muscles total | 12 muscles total |
 
-## ![](_page_2_Picture_2.jpeg)
 
 Illustration of facial [muscles](https://en.wikipedia.org/wiki/Facial_muscles) and other tissue of the lateral [human](https://en.wikipedia.org/wiki/Human_head) head and [neck](https://en.wikipedia.org/wiki/Neck)
 

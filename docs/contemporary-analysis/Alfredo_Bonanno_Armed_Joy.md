@@ -516,7 +516,6 @@ And for the first time life will triumph over death.
 
 ### The Anarchist Library Anti-Copyright
 
-## ![](_page_28_Picture_1.jpeg)
 
 ## Alfredo M. Bonanno Armed Joy 1977
 

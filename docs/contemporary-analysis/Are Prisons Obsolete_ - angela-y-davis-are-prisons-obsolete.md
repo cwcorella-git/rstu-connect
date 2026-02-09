@@ -478,7 +478,6 @@ Te Biehls, who had esablished he Amy Biehl Foundaion in he aermah o heir daugher
 
 ## The Anarchist Library Anti-Copyright
 
-## ![](_page_50_Picture_1.jpeg)
 
 ## Angela Y. Davis Are Prisons Obsolete? 2003
 

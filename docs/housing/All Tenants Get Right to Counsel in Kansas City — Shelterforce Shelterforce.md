@@ -10,7 +10,6 @@ tags:
 
 ## Sandra Larson
 
-11–14 minutes
 
 ## **This article is part of the Under the Lens series**
 
@@ -18,9 +17,6 @@ tags:
 
 In this series Shelterforce dives deep into the past, present, and future of tenant organizing. We take a closer look at the components of what many organizers call a tenants bill of rights and give you accessible ways to share them with others, plus lots more.
 
-## ![](_page_0_Picture_9.jpeg)
-
-## ![](_page_1_Picture_2.jpeg)
 
 Tiana Caldwell, an organizer at KC Tenants, speaks at a Dec. 2, 2021, rally for Right to Counsel. Photo by Patricia Bordallo Dibildox, courtesy of KC Tenants
 

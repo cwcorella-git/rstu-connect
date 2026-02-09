@@ -10,11 +10,9 @@ tags:
 
 As all movements inevitably reach limits, it is pointless to bewail their passing as if they would go on growing indenitely if only the participants were strategic enough.
 
-## ![](_page_0_Picture_1.jpeg)
 
 text liberated from crimethinc.com by oplopanax publishing
 
-## ![](_page_1_Picture_0.jpeg)
 
 ree Years since the Greek Insurrection, our interview with comrades in Athens about the months following the uprising of December 28
 

@@ -9,7 +9,6 @@ tags:
   - digital rights
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 ## God and the State
 

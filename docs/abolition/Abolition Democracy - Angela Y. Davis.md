@@ -12,7 +12,6 @@ tags:
 
 ## BEYOND EMPIRE, PRISONS, AND TORTURE
 
-## ![](_page_0_Picture_3.jpeg)
 
 ## Table of Contents
 

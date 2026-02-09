@@ -57,7 +57,6 @@ For a list of titles published in the series, please see end of book
 
 ## Merton College. Oxford
 
-## ![](_page_5_Picture_4.jpeg)
 
 #### PUBLISIIED BY THE PRESS SYNDICATE OF THE UN IVERSITY OF CAMBRIDGE The Pitt Building, Trumpington Street, Cambridge, United Kingdom
 
@@ -184,7 +183,6 @@ The First Part of The Ego and Its Own is concerned with an account of human hist
 
 Stirner's account of the historical development of modernity is essentially reduced to a single event, the Reformation, which punctuates the succession of Catholic to Protestant hegemony. His primary concern is to show that, from the perspective of the individual, this fracture constituted an extension and intensification of, rather than a break with, the domination by spirit. First, whereas the Middle Ages had maintained the distinction between the spiritual and the sensuous, the Reformation extended the religious principle to the sensuous (allowing its priests to marry, for example), thereby destroying the independence of the latter. Second, the Reformation bound the religious principle more effectively to the individual, by virtue of the more inward faith of Protestantism which established a constant 'tearing apart of man' into natural impulses and sacred
 
-## ![](_page_16_Picture_1.jpeg)
 
 'Max Stirner. Drawn from memory by Friedrich Engels, London 1892.'
 
@@ -218,7 +216,6 @@ Feuerbach's failure to escape from the religious is no isolated incident for Sti
 
 In contrast, Stirner 'will hear nothing of this cutting in two' (p. 32)
 
-## ![](_page_21_Picture_1.jpeg)
 
 Engels' caricature of 'die Freien'. Reading from left: 'Ruge, Buhl, Nauwerck, [Bruno] Bauer, Wigand, Edgar [Bauer], Stirner, Meyen, stranger, Koppen the Lieutenant'. The squirrel in the top left corner represents the Prussian minister Eichhorn.
 
@@ -419,7 +416,6 @@ This translation of The Ego and Its Own was made by the American anarchist intel
 
 ## MAX S TIRNER THE EGO AND ITS OWN
 
-## ![](_page_42_Picture_0.jpeg)
 
 ## To my sweetheart Marie Dahnharde
 
@@ -453,7 +449,6 @@ Nothing is more to me than myself !
 
 ## FIRST PART MAN
 
-## ![](_page_50_Picture_0.jpeg)
 
 'Man is to man the supreme being', says Feuerbach.5
 
@@ -1575,7 +1570,6 @@ I on my part start from a presupposition in presupposing myself, but my presuppo
 
 If the presuppositions that have hitherto been current are to melt away in a full dissolution, they must not be dissolved into a higher presupposition again - a thought, or thinking itself, criticism. For that dissolution is to be for my good; otherwise it would belong only in the series of the innumerable dissolutions which, in favour of others (as this very man, God, the state, pure morality, etc.), declared old truths to be untruths and did away with long-fostered presuppositions.
 
-## ![](_page_176_Picture_0.jpeg)
 
 # SECOND PART
 

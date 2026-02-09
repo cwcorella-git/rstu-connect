@@ -143,6 +143,5 @@ By clicking the Subscribe button, you agree to the Privacy Policy.
 
 ## [Disclosures](https://a16z.com/disclosures/)
 
-## ![](_page_14_Picture_5.jpeg)
 
 ## © 2024 Andreessen Horowitz

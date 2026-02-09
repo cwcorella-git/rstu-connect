@@ -30,7 +30,6 @@ Murray Bookchin has been a major spokesperson for more than twenty years for the
 
 Paperback ISBN 0-920057-39-X Hardcover ISBN 0-920057-41-1
 
-## ![](_page_1_Picture_11.jpeg)
 
 ### Books by Murray Bookchin
 
@@ -62,7 +61,6 @@ IN PREPARATION:
 
 ## With a new introduction
 
-## ![](_page_2_Picture_15.jpeg)
 
 #### Copyright 1986 © by Murray Bookchin
 

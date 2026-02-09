@@ -11,7 +11,6 @@ tags:
 
 ## Connie Hassett-Walker
 
-13–17 minutes
 
 #### **Human Rights Magazine**
 

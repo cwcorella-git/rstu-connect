@@ -6,15 +6,12 @@ tags:
   - capitalism
 ---
 
-## ![](_page_0_Picture_2.jpeg)
 
 ## Ellen Meiksins Wood
 
-## ![](_page_1_Picture_1.jpeg)
 
 ## E L L E N M E I K S I N S W O O D
 
-## ![](_page_2_Picture_3.jpeg)
 
 This edition first published by Verso 2002 © Ellen Meiksins Wood 2002 First published as *The Origin of Capitalism* © Monthly Review Press, 1999
 

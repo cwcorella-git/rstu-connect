@@ -187,7 +187,6 @@ We must nally take a stand on these issues — free of all Eco-la-la — or ackn
 
 #### The Anarchist Library October 17, 2009
 
-## ![](_page_20_Picture_1.jpeg)
 
 Anti-Copyright. http://theanarchistlibrary.org Author: Murray Bookchin Title: Social Ecology versus Deep Ecology: A Challenge for the Ecology Movement Publication date: 1987
 

@@ -8,7 +8,6 @@ tags:
   - current-events
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 ## HOW DISSIDENTS WILL WIN
 
@@ -38,9 +37,6 @@ H OW D I S S I D E N T S W I L L W I N 2 1 ST C E N T U RY C I V I L R E S I STA
 
 ## P E T E R A C K E R M A N
 
-## ![](_page_2_Picture_3.jpeg)
-
-## ![](_page_3_Picture_0.jpeg)
 
 The Checklist to End Tyranny: How Dissidents Will Win 21st Century Civil Resistance Campaigns
 
@@ -60,7 +56,6 @@ www.nonviolent-conict.org
 
 ## ISBN: 978-1-943271-50-4
 
-## ![](_page_4_Picture_0.jpeg)
 
 ## The Checklist to End Tyranny
 
@@ -86,7 +81,6 @@ List of Tables / 141 List of Figures / 142 Photo Credits / 143
 
 Photo: Early stages of the Jasmine Revolution that unseated President Ben Ali in Tunisia, 2010.
 
-## ![](_page_5_Picture_0.jpeg)
 
 #### **Acknowledgments**
 
@@ -234,7 +228,6 @@ Gene Sharp believed—and I still do—that civil resistance had been and would 
 
 Recognizing that our best option was to promote general knowledge and insights about how to eectively wage campaigns of civil resistance, we did not oer specic tactical advice. Telling dissidents
 
-## ![](_page_17_Picture_0.jpeg)
 
 From le-to-right: Peter Ackerman, Gene Sharp, and Lithuanian Minister of Defense Audrius Butkevičius in Vilnius, 1991.
 
@@ -301,7 +294,6 @@ Therefore it is vital to discover new ways to raise the skill levels of today's 
 
 At right: Orange Revolution demonstrators in Kyiv, Ukraine, 2004.
 
-## ![](_page_22_Picture_0.jpeg)
 
 **Nonviolent conflicts are best understood as competitions for power between dissidents and tyrants. When a civil resistance campaign is finished, there will be one winner and one loser determined by which side has superior skills.**
 
@@ -366,7 +358,6 @@ Signed by Lech Walesa, Thomas Schelling, Larry Diamond, James Stavridis, James L
 
 **Indonesia Iran Iraq Israel Italy Jordan Kazakhstan Kenya Kosovo**
 
-## ![](_page_28_Picture_0.jpeg)
 
 | Kuwait |
 |------------|
@@ -580,7 +571,6 @@ death issues such as with aviation and emergency medicine—checklists have prov
 
 Just as with other disciplines in which checklists are used, the stakes in nonviolent conflict are high. Those engaged in civil resistance are under profound stress as they risk life, property, and whatever slivers of freedom currently exist. The information that must be processed to make effective decisions can feel overwhelmingly complex. The Checklist will focus attention on critical long-term variables in the conflict and reduce reliance on less important, but often highly visible and emotional, short-term factors.
 
-## ![](_page_43_Picture_2.jpeg)
 
 Students holding a sit-in at segregated lunch counters in Nashville, United States, 1960.
 
@@ -707,7 +697,6 @@ campaign challenges a tyrant's demand for domestic tranquility and legitimacy. T
 
 In Figure 12, tactics of civil resistance disrupt the status quo, and double thinkers move from latent to revealed. As this trend
 
-## ![](_page_52_Picture_3.jpeg)
 
 accelerates it becomes more dicult for tyrants to maintain their aura of invincibility.
 
@@ -1319,7 +1308,6 @@ This extraordinary encyclopedia of information allows pro-democracy activists to
 
 24 Chenoweth and Stephan, The Role of External Support, 1–3.
 
-## ![](_page_78_Picture_0.jpeg)
 
 Anti-Marcos farmers protest during the People Power Movement in the Philippines, 1986.
 
@@ -1813,7 +1801,6 @@ As the psychological need for certainty about the future inevitably grows, it wi
 
 45 Pinckney, When Civil Resistance Succeeds, 38.
 
-## ![](_page_110_Picture_0.jpeg)
 
 Gandhi arrives in Britain for negotiations after the successful Salt March for Indian Independence, 1931.
 
@@ -2194,7 +2181,6 @@ At right: Lech Walesa, leader of Solidarity, celebrates the establishment of the
 
 65 Chenoweth and Stephan, The Role of External Support, 67.
 
-## ![](_page_138_Picture_0.jpeg)
 
 ## ![](_page_139_Figure_0.jpeg)
 
@@ -2539,7 +2525,6 @@ Aside from the image of the author and Gene Sharp in Lithuania, all photographs 
 
 Following page: Otpor uniting opposition against Slobodan Milosevic, Serbia, 2000.
 
-## ![](_page_149_Picture_0.jpeg)
 
 ## THE CHECKLIST TO END TYRANNY:
 

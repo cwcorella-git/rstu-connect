@@ -7,7 +7,6 @@ tags:
   - riots
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 National Guardsman patrol the corner of Hazelwood and Linwood with weapons drawn as residents look on with a mixture of emotions.
 
@@ -87,7 +86,6 @@ As an instance of independent filmmaking, the film delineates a distinct way of 
 
 In the opening vignette, set to a dramatic drumbeat, Finally Got the News presents a series of historical documents illustrating how the surplus produced by Black workers under
 
-## ![](_page_2_Picture_14.jpeg)
 
 National Guardsman trains his rifle on four African-American men under arrest.
 
@@ -95,7 +93,6 @@ The Tony Spina Collection, Walter P. Reuther Library, Archives of Labor and Urba
 
 Inspired by the historical and theoretical frameworks in Karl Marx's Capital and W. E. B. Du Bois' **Black Reconstruction** in America, it provides a cinematic representation of how the self-activity of Black workers quickened the step of the working class as a whole. As the intensity of a drumbeat increases, the audience is
 
-## ![](_page_3_Picture_2.jpeg)
 
 Katrina Bryant, 2, holds onto her mother as she drinks milk outside of Grace Episcopal Church's food station," established to feed displaced families during the July days.
 

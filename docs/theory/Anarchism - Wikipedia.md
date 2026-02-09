@@ -8,7 +8,6 @@ tags:
   - theory
 ---
 
-## ![](_page_0_Picture_2.jpeg)
 
 **Anarchism** is a [political philosophy](https://en.wikipedia.org/wiki/Political_philosophy) and [movement](https://en.wikipedia.org/wiki/Political_movement) that seeks to abolish all institutions that perpetuate [authority,](https://en.wikipedia.org/wiki/Authority) [coercion,](https://en.wikipedia.org/wiki/Coercion) or [hierarchy,](https://en.wikipedia.org/wiki/Social_hierarchy) primarily targeting the [state](https://en.wikipedia.org/wiki/State_(polity)) and [capitalism](https://en.wikipedia.org/wiki/Capitalism)[.\[1\]](#page-15-0) Anarchism advocates for the replacement of the state with [stateless societies](https://en.wikipedia.org/wiki/Stateless_society) and voluntary [free associations.](https://en.wikipedia.org/wiki/Free_association_(communism_and_anarchism)) A historically [left-wing](https://en.wikipedia.org/wiki/Left-wing_politics) movement, anarchism is usually described as the [libertarian](https://en.wikipedia.org/wiki/Libertarian) wing of the [socialist movement](https://en.wikipedia.org/wiki/Socialist_movement) [\(libertarian](https://en.wikipedia.org/wiki/Libertarian_socialism) [socialism\)](https://en.wikipedia.org/wiki/Libertarian_socialism).
 
@@ -26,7 +25,6 @@ While the term *libertarian* has been largely synonymous with anarchism[,\[13\]]
 
 While [opposition to the state](https://en.wikipedia.org/wiki/Anti-statism) is central to anarchist thought, defining *anarchism* is not an easy task for scholars, as there is a lot of discussion among scholars and anarchists on the matter, and various currents perceive anarchism slightly differently.[\[26\]](#page-16-14)[\[nb 3\]](#page-15-8) Major
 
-## ![](_page_1_Picture_4.jpeg)
 
 [Pierre-Joseph Proudhon](https://en.wikipedia.org/wiki/Pierre-Joseph_Proudhon) – the first political philosopher to call himself an anarchist[\[2\]](#page-15-4)[\[3\]](#page-15-5)[\[4\]](#page-15-6)
 
@@ -48,13 +46,9 @@ Renewed interest in antiquity during the [Renaissance](https://en.wikipedia.org/
 
 During the [French Revolution,](https://en.wikipedia.org/wiki/French_Revolution) partisan groups such as the [Enragés](https://en.wikipedia.org/wiki/Enrag%C3%A9s) and the *[sans-culottes](https://en.wikipedia.org/wiki/Sans-culottes)* saw a turning point in the fermentation of anti-state and federalist sentiments.[\[39\]](#page-16-25) The first anarchist currents developed throughout the 19th century as [William Godwin](https://en.wikipedia.org/wiki/William_Godwin) espoused [philosophical](https://en.wikipedia.org/wiki/Philosophical_anarchism) [anarchism](https://en.wikipedia.org/wiki/Philosophical_anarchism) [in England,](https://en.wikipedia.org/wiki/Anarchism_in_the_United_Kingdom) morally delegitimising the state, [Max](https://en.wikipedia.org/wiki/Max_Stirner) [Stirner'](https://en.wikipedia.org/wiki/Max_Stirner)s thinking paved the way to [individualism](https://en.wikipedia.org/wiki/Individualist_anarchism) and [Pierre-](https://en.wikipedia.org/wiki/Pierre-Joseph_Proudhon)[Joseph Proudhon'](https://en.wikipedia.org/wiki/Pierre-Joseph_Proudhon)s theory of [mutualism](https://en.wikipedia.org/wiki/Mutualism_(economic_theory)) found fertile soil [in](https://en.wikipedia.org/wiki/Anarchism_in_France) [France](https://en.wikipedia.org/wiki/Anarchism_in_France)[.\[40\]](#page-16-26) By the late 1870s, various anarchist schools of thought had become well-defined and a wave of thenunprecedented [globalisation](https://en.wikipedia.org/wiki/Globalisation) occurred from 1880 to 1914[.\[41\]](#page-16-27) This era of [classical anarchism](https://en.wikipedia.org/wiki/Classical_anarchism) lasted until the end of the [Spanish](https://en.wikipedia.org/wiki/Spanish_Civil_War) [Civil War](https://en.wikipedia.org/wiki/Spanish_Civil_War) and is considered the golden age of anarchism[.\[40\]](#page-16-26)
 
-## ![](_page_2_Picture_7.jpeg)
-
-## ![](_page_2_Picture_8.jpeg)
 
 [Zeno of Citium](https://en.wikipedia.org/wiki/Zeno_of_Citium) (c. 334 – c. 262 BC), whose [Republic](https://en.wikipedia.org/wiki/Republic_(Zeno)) inspired [Peter](https://en.wikipedia.org/wiki/Peter_Kropotkin) [Kropotkin](https://en.wikipedia.org/wiki/Peter_Kropotkin)[\[30\]](#page-16-19)
 
-## ![](_page_2_Picture_10.jpeg)
 
 The [Paris Commune](https://en.wikipedia.org/wiki/Paris_Commune) one of the earliest experiments of anarchism
 
@@ -64,13 +58,11 @@ During this time, a minority of anarchists adopted tactics of revolutionary [pol
 
 By the turn of the 20th century, the terrorist movement had died down, giving way to [anarchist communism](https://en.wikipedia.org/wiki/Anarchist_communism) and [syndicalism,](https://en.wikipedia.org/wiki/Syndicalism) while anarchism had spread all over the world.[\[51\]](#page-17-3)[\[52\]](#page-17-4) In [China,](https://en.wikipedia.org/wiki/Anarchism_in_China) small groups of students imported the [humanistic](https://en.wikipedia.org/wiki/Humanism) pro-science version of anarcho-communism.[\[53\]](#page-17-5) [Tokyo](https://en.wikipedia.org/wiki/Anarchism_in_Japan) was a hotspot for [rebellious](https://en.wikipedia.org/wiki/Rebellion) youth from East Asian countries, who moved to the Japanese capital to study.[\[54\]](#page-17-6) In Latin America, [Argentina](https://en.wikipedia.org/wiki/Anarchism_in_Argentina) was a stronghold for [anarcho-syndicalism,](https://en.wikipedia.org/wiki/Anarcho-syndicalism) where it became the most prominent left-wing ideology.[\[55\]](#page-17-7) Anarchists were involved in the [Strandzha Commune](https://en.wikipedia.org/wiki/Strandzha_Commune) and [Krusevo Republic](https://en.wikipedia.org/wiki/Krusevo_Republic) established in [Macedonia](https://en.wikipedia.org/wiki/Macedonia_(region)) in [Ilinden–Preobrazhenie Uprising](https://en.wikipedia.org/wiki/Ilinden%E2%80%93Preobrazhenie_Uprising) of 1903, and in the [Mexican Revolution](https://en.wikipedia.org/wiki/Mexican_Revolution) of 1910. The [revolutionary wave of 1917–23](https://en.wikipedia.org/wiki/Revolutions_of_1917%E2%80%931923) saw varying degrees of active participation by anarchists.[\[56\]](#page-17-8)
 
-## ![](_page_3_Picture_4.jpeg)
 
 Mikhail Bakunin opposed the Marxist aim of [dictatorship of the](https://en.wikipedia.org/wiki/Dictatorship_of_the_proletariat) [proletariat](https://en.wikipedia.org/wiki/Dictatorship_of_the_proletariat) and allied himself with the federalists in the First International before his expulsion by the Marxists.
 
 Despite concerns, [anarchists](https://en.wikipedia.org/wiki/Anarchism_in_Russia) enthusiastically participated in the [Russian Revolution](https://en.wikipedia.org/wiki/Russian_Revolution) in opposition to the [White movement,](https://en.wikipedia.org/wiki/White_movement) especially in the [Makhnovshchina.](https://en.wikipedia.org/wiki/Makhnovshchina) Seeing the victories of the [Bolsheviks](https://en.wikipedia.org/wiki/Bolsheviks) in the [October Revolution](https://en.wikipedia.org/wiki/October_Revolution) and the resulting [Russian](https://en.wikipedia.org/wiki/Russian_Civil_War) [Civil War,](https://en.wikipedia.org/wiki/Russian_Civil_War) many workers and activists turned to [Communist](https://en.wikipedia.org/wiki/Communist_parties) [parties,](https://en.wikipedia.org/wiki/Communist_parties) which grew at the expense of anarchism and other socialist movements. In France and the United States, members of major syndicalist movements such as the [General](https://en.wikipedia.org/wiki/General_Confederation_of_Labour_(France)) [Confederation of Labour](https://en.wikipedia.org/wiki/General_Confederation_of_Labour_(France)) and the [Industrial Workers of the World](https://en.wikipedia.org/wiki/Industrial_Workers_of_the_World) left their organisations and joined the [Communist International.](https://en.wikipedia.org/wiki/Communist_International) [\[57\]](#page-17-9) However, anarchists met harsh suppression after the [Bolshevik government](https://en.wikipedia.org/wiki/Bolshevik_government) had stabilised, including during the [Kronstadt rebellion.](https://en.wikipedia.org/wiki/Kronstadt_rebellion)[\[58\]](#page-17-10) Several anarchists from Petrograd and
 
-## ![](_page_3_Picture_7.jpeg)
 
 Nestor Makhno seen with members of the anarchist [Revolutionary](https://en.wikipedia.org/wiki/Revolutionary_Insurgent_Army_of_Ukraine) [Insurgent Army of Ukraine](https://en.wikipedia.org/wiki/Revolutionary_Insurgent_Army_of_Ukraine)
 
@@ -84,7 +76,6 @@ In the [Spanish Civil War](https://en.wikipedia.org/wiki/Spanish_Civil_War) of 1
 
 By the end of [World War II,](https://en.wikipedia.org/wiki/World_War_II) the anarchist movement had been severely weakened.[\[61\]](#page-17-13) The 1960s witnessed a revival of anarchism, likely caused by a perceived failure of [Marxism–](https://en.wikipedia.org/wiki/Marxism%E2%80%93Leninism) [Leninism](https://en.wikipedia.org/wiki/Marxism%E2%80%93Leninism) and tensions built by the [Cold War.](https://en.wikipedia.org/wiki/Cold_War)[\[62\]](#page-17-14) During this time, anarchism found a presence in other movements critical towards both capitalism and the state such as the [anti-nuclear,](https://en.wikipedia.org/wiki/Anti-nuclear_movement) [environmental,](https://en.wikipedia.org/wiki/Environmental_movement) and [peace movements,](https://en.wikipedia.org/wiki/Peace_movement) the [counterculture of the](https://en.wikipedia.org/wiki/Counterculture_of_the_1960s) [1960s,](https://en.wikipedia.org/wiki/Counterculture_of_the_1960s) and the [New Left.](https://en.wikipedia.org/wiki/New_Left)[\[63\]](#page-17-15) It also saw a transition from its previous revolutionary nature to provocative [anti-capitalist](https://en.wikipedia.org/wiki/Anti-capitalist_reform) [reformism](https://en.wikipedia.org/wiki/Anti-capitalist_reform)[.\[64\]](#page-17-16) Anarchism became associated with [punk](https://en.wikipedia.org/wiki/Punk_subculture) [subculture](https://en.wikipedia.org/wiki/Punk_subculture) as exemplified by bands such as [Crass](https://en.wikipedia.org/wiki/Crass) and the [Sex](https://en.wikipedia.org/wiki/Sex_Pistols) [Pistols.](https://en.wikipedia.org/wiki/Sex_Pistols)[\[65\]](#page-17-17) The established [feminist](https://en.wikipedia.org/wiki/Feminist) tendencies of [anarcha](https://en.wikipedia.org/wiki/Anarcha-feminism)[feminism](https://en.wikipedia.org/wiki/Anarcha-feminism) returned with vigour during the [second wave of](https://en.wikipedia.org/wiki/Second_wave_of_feminism) [feminism.](https://en.wikipedia.org/wiki/Second_wave_of_feminism)[\[66\]](#page-17-18) [Black anarchism](https://en.wikipedia.org/wiki/Black_anarchism) began to take form at this time
 
-## ![](_page_4_Picture_5.jpeg)
 
 [Rojava's](https://en.wikipedia.org/wiki/Autonomous_Administration_of_North_and_East_Syria) support efforts for workers to form cooperatives is exemplified in this sewing cooperative.
 
@@ -92,7 +83,6 @@ and influenced anarchism's move from a [Eurocentric](https://en.wikipedia.org/wi
 
 Around the turn of the 21st century, anarchism grew in popularity and influence within anti-capitalist, [anti-war](https://en.wikipedia.org/wiki/Anti-war_movement) and [anti](https://en.wikipedia.org/wiki/Anti-globalisation)[globalisation](https://en.wikipedia.org/wiki/Anti-globalisation) movements[.\[69\]](#page-17-21) Interest in the anarchist movement developed alongside momentum in the anti-globalisation movement[,\[70\]](#page-17-22) whose leading activist networks were anarchist in orientation.[\[71\]](#page-17-23) Anarchists became known for their involvement in protests against the [World Trade Organization](https://en.wikipedia.org/wiki/World_Trade_Organization) (WTO), the [Group of Eight](https://en.wikipedia.org/wiki/Group_of_Eight) and the [World Economic Forum.](https://en.wikipedia.org/wiki/World_Economic_Forum) During the [protests,](https://en.wikipedia.org/wiki/Protest) *ad hoc* [leaderless](https://en.wikipedia.org/wiki/Leaderless_resistance) anonymous cadres known as [black](https://en.wikipedia.org/wiki/Black_bloc) [blocs](https://en.wikipedia.org/wiki/Black_bloc) engaged in rioting, [property destruction](https://en.wikipedia.org/wiki/Property_destruction) and [violent](https://en.wikipedia.org/wiki/Violence) confrontations with the police. Other organisational tactics
 
-## ![](_page_4_Picture_9.jpeg)
 
 [Black bloc](https://en.wikipedia.org/wiki/Black_bloc) organizing during the [Battle of Seattle](https://en.wikipedia.org/wiki/Battle_of_Seattle)
 
@@ -112,7 +102,6 @@ Anarchism's emphasis on [anti-capitalism,](https://en.wikipedia.org/wiki/Anti-ca
 
 As anarchism does not offer a fixed body of [doctrine](https://en.wikipedia.org/wiki/Doctrine) from a single particular [worldview,](https://en.wikipedia.org/wiki/Worldview)[\[83\]](#page-18-0) many anarchist types and traditions exist and varieties of anarchy diverge widely[.\[84\]](#page-18-1) One
 
-## ![](_page_5_Picture_7.jpeg)
 
 Black bloc protesters parading anarcho-communism imagery such as the motto ["No War but the Class](https://en.wikipedia.org/wiki/No_War_but_the_Class_War) [War"](https://en.wikipedia.org/wiki/No_War_but_the_Class_War)
 
@@ -126,7 +115,6 @@ Inceptive currents among classical anarchist currents were [mutualism](https://e
 
 Mutualism is an 18th-century economic theory that was developed into anarchist theory by Pierre-Joseph Proudhon. Its aims include "abolishing the state",[\[95\]](#page-18-12) [reciprocity,](https://en.wikipedia.org/wiki/Reciprocity_(cultural_anthropology)) [free association,](https://en.wikipedia.org/wiki/Free_association_(Marxism_and_anarchism)) voluntary contract, federation and [monetary reform](https://en.wikipedia.org/wiki/Monetary_reform) of both credit and currency that would be regulated by a bank of the people.[\[96\]](#page-18-13) Mutualism has been retrospectively characterised as ideologically situated between individualist and collectivist forms of anarchism.[\[97\]](#page-18-14) In *[What Is Property?](https://en.wikipedia.org/wiki/What_Is_Property%3F)* (1840), Proudhon first characterised his goal as a "third form of society, the synthesis of communism and property.["\[98\]](#page-18-15) Collectivist anarchism is a [revolutionary](https://en.wikipedia.org/wiki/Revolutionary_socialist) [socialist](https://en.wikipedia.org/wiki/Revolutionary_socialist) form of anarchism[\[99\]](#page-18-16) commonly associated with [Mikhail](https://en.wikipedia.org/wiki/Mikhail_Bakunin) [Bakunin.](https://en.wikipedia.org/wiki/Mikhail_Bakunin)[\[100\]](#page-18-17) Collectivist anarchists advocate [collective ownership](https://en.wikipedia.org/wiki/Collective_ownership) of the [means of production](https://en.wikipedia.org/wiki/Means_of_production) which is theorised to be achieved through violent revolutio[n\[101\]](#page-18-18) and that workers be paid according to time worked, rather than goods being distributed according to need as in communism.
 
-## ![](_page_6_Picture_5.jpeg)
 
 [Pierre-Joseph Proudhon](https://en.wikipedia.org/wiki/Pierre-Joseph_Proudhon) is the primary proponent of [mutualism](https://en.wikipedia.org/wiki/Mutualism_(economic_theory)) and influenced many future [individualist](https://en.wikipedia.org/wiki/Individualist_anarchism) [anarchist](https://en.wikipedia.org/wiki/Individualist_anarchism) and [social](https://en.wikipedia.org/wiki/Social_anarchism) [anarchist](https://en.wikipedia.org/wiki/Social_anarchism) thinkers.[\[93\]](#page-18-10)
 
@@ -142,7 +130,6 @@ Anarchism has continued to generate many philosophies and movements, at times ec
 
 Various anarchist groups, tendencies, and schools of thought exist today, making it difficult to describe the contemporary anarchist movement[.\[116\]](#page-18-33) While theorists and activists have established "relatively stable constellations of anarchist principles", there is no consensus on which principles are core and commentators describe multiple *anarchisms*, rather than a singular *anarchism*, in which common principles are shared between schools of anarchism while each group prioritizes those principles differently. [Gender equality](https://en.wikipedia.org/wiki/Gender_equality) can be a common principle, although it ranks as a higher priority to anarchafeminists than anarcho-communists[.\[117\]](#page-18-34)
 
-## ![](_page_7_Picture_4.jpeg)
 
 Lawrence Jarach (left) and [John](https://en.wikipedia.org/wiki/John_Zerzan) [Zerzan](https://en.wikipedia.org/wiki/John_Zerzan) (right) are two prominent contemporary anarchist authors, with Zerzan being a prominent voice within [anarcho-primitivism](https://en.wikipedia.org/wiki/Anarcho-primitivism) and Jarach a notable advocate of [post](https://en.wikipedia.org/wiki/Post-left_anarchy)[left anarchy.](https://en.wikipedia.org/wiki/Post-left_anarchy)
 
@@ -162,7 +149,6 @@ Anarchist perspectives towards violence have always been controversial[.\[128\]]
 
 Anarchists took an active role in strike actions, although they tended to be antipathetic to formal [syndicalism,](https://en.wikipedia.org/wiki/Syndicalism) seeing it as [reformist.](https://en.wikipedia.org/wiki/Reformist) They saw it as a part of the movement which sought to overthrow the state and capitalism[.\[132\]](#page-19-11) Anarchists also
 
-## ![](_page_8_Picture_5.jpeg)
 
 The relationship between [anarchism](https://en.wikipedia.org/wiki/Anarchism_and_violence) [and violence](https://en.wikipedia.org/wiki/Anarchism_and_violence) is a controversial subject among anarchists as shown by anarchist [Leon Czolgosz](https://en.wikipedia.org/wiki/Leon_Czolgosz) [assassinating](https://en.wikipedia.org/wiki/Assassination_of_William_Mc Kinley) [William Mc Kinley.](https://en.wikipedia.org/wiki/William_Mc Kinley)
 
@@ -176,11 +162,9 @@ In the current era, [Italian anarchist](https://en.wikipedia.org/wiki/Anarchism_
 
 Overall, contemporary anarchists are much less violent and militant than their ideological ancestors. They mostly engage in confronting the police during demonstrations and riots, especially in countries such as [Canada,](https://en.wikipedia.org/wiki/Anarchism_in_Canada) [Greece,](https://en.wikipedia.org/wiki/Anarchism_in_Greece) and
 
-## ![](_page_9_Picture_4.jpeg)
 
 [Internationals](https://en.wikipedia.org/wiki/International_Freedom_Battalion) in the [IRPGF](https://en.wikipedia.org/wiki/IRPGF) battalion with text on revoultion
 
-## ![](_page_9_Picture_6.jpeg)
 
 [EZLN](https://en.wikipedia.org/wiki/EZLN) soldiers next to a captured bulldozer
 
@@ -190,7 +174,6 @@ Overall, contemporary anarchists are much less violent and militant than their i
 
 Anarchists commonly employ [direct action.](https://en.wikipedia.org/wiki/Direct_action) This can take the form of disrupting and protesting against unjust hierarchy, or the form of self-managing their lives through the creation of counterinstitutions such as [communes](https://en.wikipedia.org/wiki/Intentional_community) and non-hierarchical collectives. [\[121\]](#page-19-0) Decision-making is often handled in an anti-authoritarian way, with everyone having [equal say in each decision,](https://en.wikipedia.org/wiki/Group_decision-making) an approach known as [horizontalism.](https://en.wikipedia.org/wiki/Horizontalidad)[\[141\]](#page-19-20) Contemporary-era anarchists have been engaging with various [grassroots](https://en.wikipedia.org/wiki/Grassroots) movements that are more or less based on horizontalism, although not explicitly anarchist, respecting personal autonomy and participating in mass activism such as strikes and demonstrations. In contrast with the "big-A Anarchism" of the classical era, the newly coined term "small-a anarchism" signals their tendency not to base their thoughts and actions on classical-
 
-## ![](_page_9_Picture_11.jpeg)
 
 [Food not Bombs](https://en.wikipedia.org/wiki/Food_not_Bombs) poster with a [circle](https://en.wikipedia.org/wiki/Circle_A) [A](https://en.wikipedia.org/wiki/Circle_A) with thext reading "Free Soup for the Revolution"
 
@@ -212,7 +195,6 @@ As anarchism is a philosophy that embodies many diverse attitudes, tendencies, a
 
 Objection to the [state](https://en.wikipedia.org/wiki/State_(polity)) and its institutions is a *[sine qua non](https://en.wikipedia.org/wiki/Sine_qua_non)* of anarchism[.\[153\]](#page-19-32) Anarchists consider the state as a tool of domination and believe it to be illegitimate regardless of its political tendencies. Instead of people being able to control the aspects of their life, major decisions are taken by a small elite. Authority ultimately rests solely on power, regardless of whether that power is [open](https://en.wikipedia.org/wiki/Open_government) or [transparent,](https://en.wikipedia.org/wiki/Transparency_(behavior)) as it still has the ability to coerce people. Another anarchist argument against states is that the people constituting a government, even the most altruistic among officials, will unavoidably seek to gain more power, leading to corruption. Anarchists consider the idea that the state is the collective will of the people to be an unachievable fiction
 
-## ![](_page_10_Picture_9.jpeg)
 
 Anarchist protesters in [Boston](https://en.wikipedia.org/wiki/Boston) opposing state-waged war due to the fact that the [ruling class](https://en.wikipedia.org/wiki/Ruling_class) is distinct from the rest of society[.\[154\]](#page-19-33)
 
@@ -230,7 +212,6 @@ As [gender](https://en.wikipedia.org/wiki/Gender) and [sexuality](https://en.wik
 
 Sexuality was not often discussed by classical anarchists but the few that did felt that an anarchist society would lead to sexuality naturally developing[.\[160\]](#page-20-1) Sexual violence was a concern for anarchists such as [Benjamin](https://en.wikipedia.org/wiki/Benjamin_Tucker) [Tucker,](https://en.wikipedia.org/wiki/Benjamin_Tucker) who opposed [age-of-consent laws,](https://en.wikipedia.org/wiki/Age-of-consent_laws) believing they would benefit predatory men[.\[168\]](#page-20-10) A historical current that arose and flourished during 1890 and 1920 within anarchism was [free love.](https://en.wikipedia.org/wiki/Free_love) In contemporary anarchism, this current survives as a tendency to support [polyamory,](https://en.wikipedia.org/wiki/Polyamory) [relationship anarchy,](https://en.wikipedia.org/wiki/Relationship_anarchy) and [queer anarchism.](https://en.wikipedia.org/wiki/Queer_anarchism)[\[169\]](#page-20-11) Free love advocates were against marriage, which they saw as a way of men imposing authority over women, largely
 
-## ![](_page_12_Picture_4.jpeg)
 
 Collection of [anarcha-feminist](https://en.wikipedia.org/wiki/Anarcha-feminist) protests, symbols, and flags because marriage law greatly favoured the power of men. The notion of free love was much broader and included a critique of the established order that limited women's sexual freedom and pleasure[.\[170\]](#page-20-12) Those free love movements contributed to the establishment of communal houses, where large groups of travelers, anarchists and other activists slept in beds together[.\[171\]](#page-20-13) Free love had roots both in Europe and the United States; however, some anarchists struggled with the jealousy that arose from free love.[\[172\]](#page-20-14) Anarchist feminists were advocates of free love, against marriage, and [pro-choice](https://en.wikipedia.org/wiki/Abortion-rights_movement) (using a contemporary term), and had a similar agenda. Anarchist and non-anarchist feminists differed on suff[rage](https://en.wikipedia.org/wiki/Women%27s_suffrage) but were supportive of one another.[\[173\]](#page-20-15)
 
@@ -267,7 +248,6 @@ Other anarchists advocated for or used art as a means to achieve anarchist ends.
 
 Three overlapping properties made art useful to anarchists. It could depict a critique of existing society and hierarchies, serve as a prefigurative tool to reflect the anarchist ideal society and even turn into a means of direct action such as in protests. As it appeals to both emotion and reason, art could appeal to the whole human and have a powerful effect[.\[196\]](#page-20-37) The 19th-century [neo-](https://en.wikipedia.org/wiki/Neo-impressionist)
 
-## ![](_page_14_Picture_4.jpeg)
 
 Les chataigniers a Osny (1888) by anarchist painter [Camille Pissarro](https://en.wikipedia.org/wiki/Camille_Pissarro) is a notable example of blending anarchism and the arts.[\[188\]](#page-20-34)
 

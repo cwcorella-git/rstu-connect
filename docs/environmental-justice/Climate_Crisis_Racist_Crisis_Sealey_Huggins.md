@@ -8,7 +8,6 @@ tags:
   - climate
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 ## **Manuscript version: Published Version**
 

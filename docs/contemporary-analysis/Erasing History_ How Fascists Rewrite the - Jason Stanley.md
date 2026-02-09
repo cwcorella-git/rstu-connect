@@ -8,7 +8,6 @@ tags:
   - history
 ---
 
-## ![](_page_0_Picture_1.jpeg)
 
 ## JASON STANLEY BESTSELLING AUTHOR OF HOW FASCISM WORKS
 
@@ -50,7 +49,6 @@ Already a subscriber? Provide your email again so we can register this ebook and
 
 ### ERASING HISTORY
 
-## ![](_page_5_Picture_1.jpeg)
 
 ### JASON STANLEY
 
@@ -985,7 +983,6 @@ My two children, Emile and Alain, were a consistent source of joy during the wri
 
 #### **ABOUT THE AUTHOR**
 
-## ![](_page_138_Picture_1.jpeg)
 
 **J**ason Stanley is the Jacob Urowsky Professor of Philosophy at Yale University. He is the author of six books, including *How Fascism Works* and *How Propaganda Works*. Stanley is a member of the Justice Collaboratory at Yale Law School and serves on the advisory board of the Prison Policy Initiative. He writes frequently about authoritarianism, democracy, propaganda, free speech, and mass incarceration for the *New York Times*, the *Washington Post, The Guardian, Project Syndicate*, and many other publications.
 
@@ -2031,7 +2028,6 @@ World War I
 
 Zinn, Howard, 180–81
 Zinn Education Project, 181–82
-## ![](_page_177_Picture_0.jpeg)
 
 An Imprint of Simon & Schuster, LLC 1230 Avenue of the Americas New York, NY 10020
 

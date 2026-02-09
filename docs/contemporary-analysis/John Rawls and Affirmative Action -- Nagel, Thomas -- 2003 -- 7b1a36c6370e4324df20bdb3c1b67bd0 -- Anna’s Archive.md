@@ -8,7 +8,6 @@ tags:
   - current-events
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 ## Thomas Nagel
 
@@ -60,7 +59,6 @@ It is the first two principles that bear on race. Slavery, segregation, and raci
 
 ## 82 SPRING 2003
 
-## ![](_page_2_Picture_0.jpeg)
 
 In conversation he spoke of the importance of defending the constitutionality of affirmative action.
 
@@ -80,7 +78,6 @@ A just society would have no need for racial preferences, and if they were intro
 
 Thomas Nagel is Fiorello La Guardia Professor of Law, professor of philosophy, and University Professor at New York University.
 
-## ![](_page_3_Picture_9.jpeg)
 
 ## Affirmative Action: The Issue is Equality, Not Diversity
 

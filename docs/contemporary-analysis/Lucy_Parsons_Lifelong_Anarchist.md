@@ -13,7 +13,6 @@ ignacio hills
 
 ## 5 THEF
 
-## ![](_page_0_Picture_2.jpeg)
 
 The woman "more dangerous than a thousand rioters!"
 

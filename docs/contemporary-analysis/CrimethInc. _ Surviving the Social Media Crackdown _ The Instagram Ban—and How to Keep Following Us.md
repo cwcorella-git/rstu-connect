@@ -11,7 +11,6 @@ tags:
 
 ## Crimeth Inc. Ex-Workers Collective
 
-7–9 minutes
 
 In the early hours of Saturday, December 19, one day before their new terms of service took effect, Instagram shut down a page associated with Crimeth Inc. with no explanation or justification. The account had never been suspended before, nor received so much as a warning. Well over 40,000 people were following it. The issue was not a violation of the terms of service—rather, this is a political measure to suppress the voices of dissidents, expanding [Facebook's August 2020](https://crimethinc.com/2020/08/19/on-facebook-banning-pages-that-support-crimethinccom-and-the-digital-censorship-to-come) [decision](https://crimethinc.com/2020/08/19/on-facebook-banning-pages-that-support-crimethinccom-and-the-digital-censorship-to-come) to ban an array of pages associated with anarchist journalists and publishers.
 
@@ -25,13 +24,11 @@ Facebook's decision to ban pages associated with anarchism is a strategic step i
 
 Thousands of public figures including Noam Chomsky, David Graeber, Cory Doctorow, and Chelsea Manning came together to publish an [open letter](https://www.change.org/p/stand-with-anarchist-publishers-banned-by-facebook) protesting the banning of anarchist journalists from Facebook and rejecting the company's false equivalence between right-wing groups that organize violent attacks and anti-fascist groups that report on them. Yet controlling the largest monopoly in the history of interpersonal communication, Facebook has little incentive to be accountable to public opinion. It is especially telling that they are continuing this crackdown as we enter the Biden era, when they have no need to curry favor with the outgoing Trump administration.
 
-## ![](_page_2_Picture_3.jpeg)
 
 Profit-driven social media corporations have never had the best interests of the public at heart. With the exception of [Twitter,](https://twitter.com/crimethinc) where we have contacts among the original programmers, we shunned corporate social media platforms for the first two decades of our publishing. Four years ago, in recognition that a new generation was becoming politicized via social media and not wishing to cede the terrain entirely to authoritarians, Crimeth Inc. accounts appeared on Facebook, Instagram, and elsewhere. Today, we are rapidly entering a world in which doing without Facebook and Instagram will not be a question of boycotting, but rather the consequence of a widespread crackdown.
 
 If nothing else, this means that our efforts to establish other venues of communication will be relevant to many others as well. It's high time to foster our own resilient communication channels so that relying on corporate platforms will not be our Achilles heel.
 
-## ![](_page_3_Picture_4.jpeg)
 
 #### **Surviving the Crackdown**
 
@@ -53,7 +50,6 @@ There is [a Crimeth Inc. account](https://todon.eu/@Crimeth Inc) on the decentra
 
 Mastodon's format will be familiar to Twitter users. You can "favorite" or "boost" posts (unfortunately named "toots"), follow accounts, and the like.
 
-## ![](_page_5_Picture_3.jpeg)
 
 You can also go "old" school and subscribe to our [RSS feed,](https://crimethinc.com/feed) which will automatically send you our new articles as they appear. All you need is an RSS client, such as [Net News Wire on](https://ranchero.com/netnewswire) [macOS](https://ranchero.com/netnewswire) / [iOS.](https://apps.apple.com/us/app/netnewswire-rss-reader/id1480640210)
 
@@ -61,7 +57,6 @@ The people behind Wikipedia have formed another alternative to corporate-owned s
 
 We still passionately believe in [print media.](https://crimethinc.com/2019/08/08/the-importance-of-print-media-and-the-digital-censorship-to-come) [Books](https://crimethinc.com/books) and zines enable the reader to step out of the relentless flow of information to digest an idea or narrative; once a print project enters circulation, no corporation or government can easily suppress it. We aim to start a new initiative providing zines to those who are not able to print them themselves from our [online library.](https://crimethinc.com/zines) If you can help supply us with print materials for this purpose, please [contact us.](mailto:hello@crimethinc.com) Thank you!
 
-## ![](_page_6_Picture_3.jpeg)
 
 The networks offered by Facebook aren't new; what's new is that they seem external to us. We've always had social networks, but no one could use them to sell advertisements nor were they so easy to map. Now they reappear as something we have to consult. People corresponded with old friends, taught themselves skills, and heard about public events long before email, Google, and Twitter. Of course, these technologies are extremely helpful in a world in which few of us are close with our neighbors or spend more than a few years in any location. The forms assumed by technology and daily life influence each other, making it increasingly unthinkable to uncouple them.
 

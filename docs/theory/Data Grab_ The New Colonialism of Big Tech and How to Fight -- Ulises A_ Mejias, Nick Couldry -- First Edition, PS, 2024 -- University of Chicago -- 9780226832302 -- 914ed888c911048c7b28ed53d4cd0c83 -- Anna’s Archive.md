@@ -8,7 +8,6 @@ tags:
   - theory
 ---
 
-## ![](_page_0_Picture_1.jpeg)
 
 THE NEW COLONIALISM
 OF BIG TECH AND
@@ -66,7 +65,6 @@ LC record available at https://lccn.loc.gov/2023039003
 
 ⊕ This paper meets the requirements of ANSI/NISO Z39.48-1992 (Permanence of Paper).
 
-## ![](_page_5_Picture_0.jpeg)
 
 #### CONTENTS
 

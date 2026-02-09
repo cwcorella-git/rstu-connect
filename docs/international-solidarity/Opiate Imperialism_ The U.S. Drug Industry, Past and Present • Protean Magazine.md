@@ -8,9 +8,6 @@ tags:
   - peace
 ---
 
-## ![](_page_1_Picture_2.jpeg)
-
-## ![](_page_2_Picture_2.jpeg)
 
 ## OPIATE IMPERIALISM: THE U. S. DRUG INDUSTRY, PAST AND PRESENT
 
@@ -102,7 +99,6 @@ These are philosophical digressions, if interesting ones, and there are other, l
 
 *Sohel Sarkar is a freelance journalist, editor, and feminist researcher-writer.*
 
-## ![](_page_12_Picture_4.jpeg)
 
 [JOIN US](https://www.patreon.com/be Patron?u=15778646&redirect_uri=https%3A%2F%2Fproteanmag.com%2Fdonate%2F%3Fcustomize_changeset_uuid%3Dd71d7cd0-8da2-4f7f-9a11-90be98ca8d43%26customize_theme%3Dveni%26customize_messenger_channel%3Dpreview-45%26customize_autosaved%3Don&utm_medium=widget)
 
@@ -124,4 +120,3 @@ These are philosophical digressions, if interesting ones, and there are other, l
 
 ## [Poetry](https://proteanmag.com/category/poetry/)
 
-## ![](_page_13_Picture_2.jpeg)

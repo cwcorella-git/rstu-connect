@@ -7,7 +7,6 @@ tags:
   - commons
 ---
 
-26–33 minutes
 
 Although every proprietor knows his own, … all things, so long as they will last, are used in common amongst them.
 
@@ -23,13 +22,6 @@ Since then, the concept has been researched and applied in all kinds of spheres.
 
 In short, the attention the commons has received is accompanied by a confusion of concepts, whereby the critical power of the commons is in danger of disappearing. When, or why, is something a commons? What is the difference between the 'communal' and the 'public', and how does it relate to capitalism? Two recent books attempt to answer these questions.
 
-## ![](_page_2_Picture_4.jpeg)
-
-## ![](_page_2_Picture_5.jpeg)
-
-## ![](_page_3_Picture_2.jpeg)
-
-## ![](_page_3_Picture_3.jpeg)
 
 Montage of two book covers. L: Pierre Dardot and Christian Laval, Common: On Revolution in the 21st Century, Translated by Matthew Mac Lellan (New York: Bloomsbury Academic, 2019). R: Re-enchanting the World: Feminism and the Politics of the Commons by Silvia Federici, Oakland, PM Press, 2019
 
@@ -83,7 +75,6 @@ Numerous examples in the book show that such expropriation practices are still t
 
 of 'investing in entrepreneurship' – which in practice often has a harmful effect on the commons, but also how the inability to repay debts, whatever the circumstances, is often used to publicly shame and exclude women, like a new witch hunt. It is not without reason that anti-debt movements have already emerged in several African countries.
 
-## ![](_page_11_Picture_3.jpeg)
 
 Pathani,(green sari) a dedicated manager of the urban micro credit scheme for women is proud of Dhay, the centre's first ever client to receive PPAF credit in 2002. With the loan she started a general dealer shop and has since added a quilt and material shop, which she runs with her son. Pakistan. Photo: Caroline Suzman / World Bank via [Flickr.](https://www.flickr.com/photos/worldbank/8000989429/)
 
@@ -111,7 +102,6 @@ the so-called "realization" of the common in the form of state property can only
 
 While this criticism is justified, it is too easy to brush aside the state and its institutions as an arena for ideological struggle and an instrument for progressive politics. There is a risk of playing into the hands of the capitalist encapsulation and instrumentalization of the commons, as was the case with David Cameron's 'Big Society' or Balkenende's 'participation society', in which dismantling the welfare state went hand in hand with passing on costs to 'the community'.
 
-## ![](_page_16_Picture_3.jpeg)
 
 Former Dutch Prime Minister Jan Peter Balkenende and tycoon John de Mol. Photo by Thomas van de Weerd from Utrecht, The Netherlands, CC BY 2.0, via [Wikimedia Commons.](https://commons.wikimedia.org/wiki/File:Balkenende_en_John_de_Mol_jr.jpg)
 

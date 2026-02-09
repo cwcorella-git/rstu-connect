@@ -9,9 +9,6 @@ tags:
 
 # A Verso Report
 
-## ![](_page_0_Picture_2.jpeg)
-
-## ![](_page_4_Picture_1.jpeg)
 
 First published by Verso 2017 Collection © Verso 2017
 

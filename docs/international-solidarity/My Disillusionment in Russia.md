@@ -102,7 +102,6 @@ XXXII: The Socialist Republic Resorts to Deportation
 
 #### Uncopyright
 
-## ![](_page_2_Picture_3.jpeg)
 
 This ebook is the product of many hours of hard work by vol‐ unteers for [Standard Ebooks,](https://standardebooks.org/) and builds on the hard work of other literature lovers made possible by the public domain.
 
@@ -1737,7 +1736,6 @@ It cannot be sufficiently emphasized that revolution is in vain un‐ less inspi
 - 30. *Succour*. ↩
 - 31. About sixty-six miles. ↩
 
-## ![](_page_251_Picture_7.jpeg)
 
 *My Disillusionment in Russia* was published in 1924 by [EMMA GOLDMAN.](https://en.wikipedia.org/wiki/Emma_Goldman)
 

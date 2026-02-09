@@ -990,7 +990,6 @@ Learning goals: Reduce stress, build condence, connect onto their personal lives
 
 Audience(s): Beginning students.
 
-## ![](_page_37_Picture_2.jpeg)
 
 Figure 4.1: Figure: a rst sketch using Calysto Processing, a Java-based language designed or creating art.
 
@@ -1086,7 +1085,6 @@ The rst and most salient component o the notebook is the cell. Indeed, the entir
 
 Code cells are composed o three areas: the input area, the display area, and the output area. The input area is identied by the In []: prompt to the let o the cell. Between the brackets o the In prompt can be one o three items: a number, an asterisk, or a blank. A number indicates that this cell has been executed and the value o the number indicates the order o execution. For example, normally, ater you execute the rst cell ater opening a notebook, its prompt will read In [1]:.
 
-## ![](_page_40_Picture_9.jpeg)
 
 ## Pro Tip
 
@@ -1102,7 +1100,6 @@ x = 2434 + 33476
 x
 In this example, you wouldn't actually see the value computed unless you print it to the display area, or return the value. Here, we return it as the last value o the cell.
 
-## ![](_page_41_Picture_8.jpeg)
 
 Keep in mind that the bottom portion o the notebook on the screen or monitor may not be visible to students in the back o the room. Make sure that the ont size is large enough, and that you don't go too ast when demonstrating code that students don't have access to. We also recommend that you hide the Jupyter toolbar and header to get more room or the actual notebook (select Toggle Header and Toggle View under the Jupyter View menu).
 
@@ -1157,7 +1154,6 @@ begin with either a single % or single-line commands or with %% or applying a co
 
 A good example o a magic operating on the entire contents o cell is the %%HTML magic, orcing the cell to be interpreted as HTML and rendered appropriately. You can also use magics to call other languages while running the IPython kernel. For example, you can run R code rom within an IPython notebook by using the %%R magic.
 
-## ![](_page_44_Picture_13.jpeg)
 
 #### Pro Tip
 
@@ -1169,7 +1165,6 @@ Keeping notebooks under version control is a great way to not only keep track o 
 
 We should mention a ew caveats to keeping notebooks under version control. The code output, including images, is stored in the repository, unless you clear the output beore committing changes. This can make reviewing changes difcult, as changes in output will be detected even when nothing has actually changed content-wise. The tracked notebooks also can become large i output is tracked. Even when clearing the output, reviewing changes can be awkward due to the ormat o the notebook (notebooks are plain-text les and the le ormat is represented as JSON). The community is actively developing tools to make it easier to use version control with Jupyter notebooks; one such tool is nbdime (see box).
 
-## ![](_page_45_Picture_6.jpeg)
 
 nbdime nbdime.readthedocs.io/
 
@@ -1250,7 +1245,6 @@ How much code should you put in a cell? You will develop your own style o writin
 
 Specically, messing up the dependencies between cells is where most o the conusion using notebooks comes rom with new users. For example, i you change a variable's name (without restarting the notebook), then the ollowing code cells may continue to use the old variable's name (and value). Later, when running the notebook again, the notebook may ail in unexpected ways because the old variable no longer exists. This is sometimes reerred to as "the hidden state problem." This is an open research problem, and researchers are exploring various possible solutions. For example, trying searching the internet or "jupyter dependency graph" or "jupyter dataow notebook."
 
-## ![](_page_48_Picture_13.jpeg)
 
 ## Pro Tip
 
@@ -1305,7 +1299,6 @@ You have several options on how to get Jupyter notebooks to your students. You c
 
 A popular sotware distribution that includes Jupyter is Anaconda, which is easy to install on Windows, Mac, and Linux. Because it can install everything with user level permissions, it does not require the user to have administrator (or root) access to the computer. Anaconda includes over 1500 sotware packages providing most, i not all, needed sotware or learners. Jupyter notebooks can be opened by launching Jupyter or by opening them through the Spyder IDE. These attributes make it attractive or both personal use and or installation on institution controlled computers.
 
-## ![](_page_52_Picture_6.jpeg)
 
 #### What is Anaconda?
 
@@ -1378,7 +1371,6 @@ However, there are some limitations to these services:
 - These services run notebooks in a temporary environment that disappears i it is let idle. So they might not be suitable or managing student work.
 - Some o these services do not guarantee a level o service and may not be as reliable as you need or a class or workshop.
 
-## ![](_page_54_Picture_21.jpeg)
 
 #### Binder mybinder.org
 
@@ -1461,7 +1453,6 @@ Some tools and workows are being actively developed to connect the Jupyter ecosy
 
 Notebooks can be publicly hosted on any website, so students can download the les by clicking on a link. Most webhosting sotware is not notebook-aware, but you can use nbviewer to share public notebooks, rendered as a static web page.
 
-## ![](_page_57_Picture_17.jpeg)
 
 nbviewer nbviewer.jupyter.org nbviewer is a web service provided by Project Jupyter. You can enter the URL o any publicly hosted notebook, and get a web page with the content o the notebook ully rendered. Some browser extensions and add-ons let you open a notebook in nbviewer with a button click. See: Open in nbviewer.
 
@@ -1481,7 +1472,6 @@ The deault git tools or comparing les and merging changes do not work well with 
 
 I your students are using Jupyter Hub, you can place notebooks and any related les directly into the students' directories manually or via a script. I nbgrader is available on your Jupyter Hub instance you can use it to collect and distribute notebooks (whether or not you choose to use nbgrader's assessment eatures). This allows you to develop the notebooks and incrementally make them visible to the students or them to "etch". They can then edit the notebooks or create new ones in the directory created in their storage space, and then publish their notebooks back to you or downloading, viewing, or assessing with the nbgrader tools (see the next section or details on this tool).
 
-## ![](_page_58_Picture_7.jpeg)
 
 #### nbgrader nbgrader is a tool or creating, handling, and automatically grading assignments based on Jupyter notebooks. It works as a Jupyter extension that the course creator installs on their computer. nbgrader is a exible project in the Jupyter ecosystem that allows the distribution and collection o materials. As its name implies, it also can grade assignments; it can be used in a distributed manner where each student is running Jupyter on their own computers, or in a centralized manner, or example, i the students each have an account on a Jupyter Hub installation. (More details in the Assessment section.) https://nbgrader.readthedocs.io
 
@@ -1503,7 +1493,6 @@ Many educators develop course-assessment activities as Jupyter notebooks. This i
 
 Simple ways to handle the assessment o a notebook-based submission: have students either print them out, email them, submit them as a standard electronic document (say, into the LMS), or drop them into a shared older. At that point, the instructor can mark and grade them in a traditional manner, or example by writing comments on a printout or adding annotations to a PDF.
 
-## ![](_page_59_Picture_3.jpeg)
 
 #### Pro Tip
 
@@ -1511,7 +1500,6 @@ Printing out a notebook can sometimes result in wasted space on pages, especiall
 
 nbgrader allows code cells in a notebook to be marked to be auto-graded or manually graded. An instructor can then create an assignment that can be completely auto-graded, requiring little work ater the notebook has been created. This makes grading much easier and scales well with large class sizes. However, creating such an auto-graded notebook in nbgrader can be quite time-consuming. In addition, pedagogically a completely auto-graded notebook may have serious downsides. For example, studies suggest that students learn better when they can actively connect a topic to their own interests [CITATION NEEDED]. One method o encouraging this is to have a "reection" question on each submission. Such a reection question can encourage students to comment on the material in a personal way, but it cannot be auto-graded. Another downside is that simply autograding code with unit tests is unlikely to assess many o the learning objectives you might have or an assignment, e.g., ability to use specic sotware-design patterns. To address this, you can create manually graded cells or a portion o an assignment and provide written eedback to the student.
 
-## ![](_page_59_Picture_7.jpeg)
 
 #### Caution
 
@@ -1551,7 +1539,6 @@ In the last ew years, educators using Jupyter have been creating and sharing all
 
 very denition o OER), under an open model. But open-source culture also promotes a culture o collaboration. In this regard, engaging in teaching with Jupyter opens new possibilities or educators to engage in open development and collaborate with others in producing lessons, tutorials, courses, and even books.
 
-## ![](_page_61_Picture_3.jpeg)
 
 #### Pro Tip
 

@@ -11,7 +11,6 @@ tags:
 
 ## Patricia Truslow, Contributor
 
-5-7 minutes
 
 ## The 2nd Bill Of Rights
 

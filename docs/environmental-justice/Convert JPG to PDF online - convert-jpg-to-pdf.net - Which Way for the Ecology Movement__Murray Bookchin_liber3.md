@@ -13,27 +13,23 @@ tags:
 Essays by
 ## Murray Bookchin
 
-## ![](_page_0_Picture_2.jpeg)
 
 - The Future of the Ecology Movement
 - Will Ecology Become "the Dismal Science"?
 - The Population Myth
 - Sociobiology or Social Ecology?
 
-## ![](_page_0_Picture_7.jpeg)
 
 # Which Way for the Ecology Movement?
 
 ## Essays by Murray Bookchin
 
-## ![](_page_1_Picture_2.jpeg)
 
 - The Future of the Ecology Movement
 - Will Ecology Become "the Dismal Science"?
 - · The Population Myth
 - Sociobiology or Social Ecology?
 
-## ![](_page_1_Picture_7.jpeg)
 
 #### Copyright: 1994 Murray Bookchin
 
@@ -588,4 +584,3 @@ Murray Bookchin's writings have profoundly influenced ecological thinking over t
 
 ## ![](_page_80_Figure_5.jpeg)
 
-## ![](_page_80_Picture_6.jpeg)

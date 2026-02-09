@@ -11,7 +11,6 @@ tags:
 
 ## Contributors to Wikimedia projects
 
-57–73 minutes
 
 For the proportional electoral system applying ranked ballots to multi-member constituencies, see [Single transferable vote.](https://en.wikipedia.org/wiki/Single_transferable_vote)
 
@@ -78,7 +77,7 @@ Tactical voting in instant-runoff voting seeks to alter the order of elimination
 
 Proponents of instant-runoff voting claim that instant-runoff voting eliminates the spoiler effect, since instant-runoff voting makes it safe to vote honestly for marginal parties. Under a plurality method, voters who sympathize most strongly with a marginal candidate are strongly encouraged to instead vote for a more popular candidate who shares some of the same principles, since that candidate has a much greater chance of being elected, and a vote for the marginal candidate will not result in the marginal candidate's election. Instant-runoff voting reduces this problem, since the voter can rank the marginal candidate first and the mainstream candidate second; in the likely event that the fringe candidate is eliminated, the vote is not wasted but is transferred to the second preference.
 
-However, when the third-party candidate is more competitive, they can still act as a spoiler under instant-runoff voting,[\[29\]](#page-39-0)[\[30\]](#page-39-1) [\[31\]](#page-39-2) by taking away first-choice votes from the more mainstream candidate until that candidate is eliminated, and then that candidate's second-choice votes helping a moredisliked candidate to win. In these scenarios, it would have been better for the third party voters if their candidate had not run at all (spoiler effect), or if they had voted dishonestly, ranking their second-favorite first and their favorite second, rather than first (favorite betrayal)[.\[32\]\[](#page-39-3)better source [needed](https://en.wikipedia.org/wiki/Wikipedia:NOTRS)] This is the same bracketing effect exploited by Robinette and
+However, when the third-party candidate is more competitive, they can still act as a spoiler under instant-runoff voting,[\[29\]](#page-39-0)[\[30\]](#page-39-1) [\[31\]](#page-39-2) by taking away first-choice votes from the more mainstream candidate until that candidate is eliminated, and then that candidate's second-choice votes helping a moredisliked candidate to win. In these scenarios, it would have been better for the third party voters if their candidate had not run at all (spoiler effect), or if they had voted dishonestly, ranking their second-favorite first and their favorite second, rather than first (favorite betrayal)[.\[32\]\better source [needed](https://en.wikipedia.org/wiki/Wikipedia:NOTRS)] This is the same bracketing effect exploited by Robinette and
 
 Tideman in their research on strategic campaigning, where a candidate alters their campaign to cause a change in voter honest choice, resulting in the elimination of a candidate who nevertheless remains more preferred by voters.
 
@@ -256,7 +255,7 @@ Conversely, a practical benefit of 'contingent voting' is expediency and confide
 
 Instant-runoff voting may also be part of a larger runoff process:
 
-- Some jurisdictions that hold [runoff elections](https://en.wikipedia.org/wiki/Two-round_system) allow absentee (only) voters to submit ranked ballots, because the interval between rounds of balloting is too short for a second round of absentee voting. Ranked ballots enable absentee votes to count in the second (general) election round if their first choice does not make the second round runoff. [Arkansas,](https://en.wikipedia.org/wiki/Arkansas) [South](https://en.wikipedia.org/wiki/South_Carolina) [Carolina](https://en.wikipedia.org/wiki/South_Carolina) and [Springfield, Illinois](https://en.wikipedia.org/wiki/Springfield,_Illinois) adopt this approach[.\[75\]](#page-45-0) Louisiana uses it only for members of the United States Service or who reside overseas[.\[76\]\[](#page-45-1)better source [needed](https://en.wikipedia.org/wiki/Wikipedia:NOTRS)][[needs update](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Chronological_items)]
+- Some jurisdictions that hold [runoff elections](https://en.wikipedia.org/wiki/Two-round_system) allow absentee (only) voters to submit ranked ballots, because the interval between rounds of balloting is too short for a second round of absentee voting. Ranked ballots enable absentee votes to count in the second (general) election round if their first choice does not make the second round runoff. [Arkansas,](https://en.wikipedia.org/wiki/Arkansas) [South](https://en.wikipedia.org/wiki/South_Carolina) [Carolina](https://en.wikipedia.org/wiki/South_Carolina) and [Springfield, Illinois](https://en.wikipedia.org/wiki/Springfield,_Illinois) adopt this approach[.\[75\]](#page-45-0) Louisiana uses it only for members of the United States Service or who reside overseas[.\[76\]\better source [needed](https://en.wikipedia.org/wiki/Wikipedia:NOTRS)][[needs update](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Chronological_items)]
 
 - Under some [exhaustive ballot](https://en.wikipedia.org/wiki/Exhaustive_ballot) runoff systems, instant-runoff voting may be used to quickly eliminate some weak candidates in early rounds, using rules to leave a desired number of candidates for further balloting.
 - Instant-runoff voting elections that require a majority of cast ballots but not that voters rank all candidates may require more than a single instant-runoff voting contest due to exhausted ballots.[[citation needed](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed)] (Most IRV systems require a winner to have only a majority of votes still in play, not a majority of votes cast.)
@@ -410,9 +409,6 @@ City Choice | 1st |
 
 If one of the cities had achieved a majority vote (more than half), the election would end there. If this were a first-past-thepost election, Memphis would win because it received the most votes. But instant-runoff voting does not allow a candidate to win on the first round without having an absolute majority of the active votes. Since no city has won yet, the city with the least first-place support (Chattanooga) is eliminated from consideration. The ballots that listed Chattanooga as first choice are added to the totals of the second-choice selection on each ballot.
 
-## ![](_page_27_Picture_9.jpeg)
-
-## ![](_page_27_Picture_10.jpeg)
 
 **Round 2** – In the second round of tabulation, Chattanooga's 15% of the total votes have been added to the second choices selected by the voters for whom that city was first-choice (in this example Knoxville):
 
@@ -428,9 +424,6 @@ In the first round, Memphis was first, Nashville was second and Knoxville was th
 
 #### **Round 3**
 
-## ![](_page_28_Picture_7.jpeg)
-
-## ![](_page_28_Picture_8.jpeg)
 
 As Memphis and Knoxville are the only two cities remaining in the contest, this round will be the final round. In this example the second-choice of the Nashville voters is Chattanooga, which is already eliminated. Therefore, the votes are added to their third-choice: Knoxville. The third round of tabulation yields the following result:
 

@@ -9,7 +9,6 @@ tags:
   - wikipedia
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 **Wisconsin**[\[a\]](#page-18-6) is a [state](https://en.wikipedia.org/wiki/U. S._state) in the [Upper Midwest](https://en.wikipedia.org/wiki/Upper_Midwest) and [Great Lakes regions](https://en.wikipedia.org/wiki/Great_Lakes_region) of the [United](https://en.wikipedia.org/wiki/United_States) [States](https://en.wikipedia.org/wiki/United_States). It borders [Minnesota](https://en.wikipedia.org/wiki/Minnesota) to the west, [Iowa](https://en.wikipedia.org/wiki/Iowa) to the southwest, [Illinois](https://en.wikipedia.org/wiki/Illinois) to the south, [Lake Michigan](https://en.wikipedia.org/wiki/Lake_Michigan) to the east, [Michigan](https://en.wikipedia.org/wiki/Michigan) to the northeast, and [Lake Superior](https://en.wikipedia.org/wiki/Lake_Superior) to the north. With a population of about 6 million[\[2\]](#page-18-7) and an area of about 65,500 square miles, Wisconsin is the [20th-largest state by population](https://en.wikipedia.org/wiki/List_of_U. S._states_and_territories_by_population) and the [23rd-largest by area](https://en.wikipedia.org/wiki/List_of_U. S._states_and_territories_by_area). It has [72](https://en.wikipedia.org/wiki/List_of_counties_in_Wisconsin) [counties.](https://en.wikipedia.org/wiki/List_of_counties_in_Wisconsin) The state's [most populous city](https://en.wikipedia.org/wiki/List_of_municipalities_in_Wisconsin_by_population) is [Milwaukee](https://en.wikipedia.org/wiki/Milwaukee). Its capital and second-most populous city is [Madison](https://en.wikipedia.org/wiki/Madison,_Wisconsin); other urban areas include [Green Bay](https://en.wikipedia.org/wiki/Green_Bay,_Wisconsin) and the [Fox Cities](https://en.wikipedia.org/wiki/Fox_Cities).
 
@@ -27,9 +26,6 @@ The [Algonquian](https://en.wikipedia.org/wiki/Algonquian_languages) word for Wi
 
 ### **[State](https://en.wikipedia.org/wiki/U. S._state)**
 
-## ![](_page_0_Picture_10.jpeg)
-
-## ![](_page_0_Picture_11.jpeg)
 
 [Nicknames:](https://en.wikipedia.org/wiki/List_of_U. S._state_and_territory_nicknames) Badger State, America's [\[5\]](#page-18-0)[\[6\]](#page-18-1)[\[7\]](#page-18-2)[\[8\]](#page-18-3)[\[9\]](#page-18-4)
 
@@ -37,9 +33,6 @@ Dairyland [Motto](https://en.wikipedia.org/wiki/List_of_U. S._state_and_territor
 
 ## 0:00 / 0:00
 
-## ![](_page_0_Picture_15.jpeg)
-
-## ![](_page_0_Picture_16.jpeg)
 
 ## Location of Wisconsin within the United States
 
@@ -90,7 +83,6 @@ Tammy [Baldwin](https://en.wikipedia.org/wiki/Tammy_Baldwin) [\(D](https://en.wi
 
 # **Early history**
 
-## ![](_page_1_Picture_2.jpeg)
 
 [Aztalan](https://en.wikipedia.org/wiki/Aztalan_State_Park) State Park marks the site of an ancient [Mississippian](https://en.wikipedia.org/wiki/Mississippian_culture) culture settlement that flourished during the 10th to 13th centuries.
 
@@ -148,7 +140,6 @@ abbreviation | Wis., Wisc. |
 ttps://www.wisconsin.
 gov) |
 
-## ![](_page_1_Picture_10.jpeg)
 
 Jean [Nicolet](https://en.wikipedia.org/wiki/Jean_Nicolet), depicted in a 1910 painting by Frank Rohrbeck, was probably the first European to explore Wisconsin. The mural is located in the Brown County [Courthouse](https://en.wikipedia.org/wiki/Brown_County_Courthouse_(Wisconsin)) in Green Bay.
 
@@ -160,7 +151,6 @@ Joseph Roi built the [Tank Cottage](https://en.wikipedia.org/wiki/Tank_Cottage) 
 
 Wisconsin became a territorial possession of the United States in 1783 after the [American](https://en.wikipedia.org/wiki/American_Revolutionary_War) [Revolutionary War.](https://en.wikipedia.org/wiki/American_Revolutionary_War) In 1787, it became part of the [Northwest Territory](https://en.wikipedia.org/wiki/Northwest_Territory). As territorial boundaries subsequently developed, it was then part of [Indiana Territory](https://en.wikipedia.org/wiki/Indiana_Territory) from 1800 to 1809, [Illinois](https://en.wikipedia.org/wiki/Illinois_Territory) [Territory](https://en.wikipedia.org/wiki/Illinois_Territory) from 1809 to 1818, and [Michigan Territory](https://en.wikipedia.org/wiki/Michigan_Territory) from 1818 to 1836. However, the British remained in control until after the [War of 1812](https://en.wikipedia.org/wiki/War_of_1812), the outcome of which finally established an American presence in the area.[\[43\]](#page-20-5) Under American control, the economy of the territory shifted from fur trading to lead mining. The prospect of easy mineral wealth drew immigrants from throughout the U. S. and Europe to the lead deposits at [Mineral Point,](https://en.wikipedia.org/wiki/Mineral_Point,_Wisconsin) [Dodgeville,](https://en.wikipedia.org/wiki/Dodgeville,_Wisconsin) and nearby areas. Some miners found shelter in the holes they had dug, and earned the nickname "badgers", leading to Wisconsin's identity as the "Badger State".[\[44\]](#page-20-6) The sudden influx of white miners prompted tension with the local Native American population. The [Winnebago War](https://en.wikipedia.org/wiki/Winnebago_War) of 1827 and
 
-## ![](_page_2_Picture_3.jpeg)
 
 The Francois [Vertefeuille](https://en.wikipedia.org/wiki/Francois_Vertefeuille_House) House in [Prairie](https://en.wikipedia.org/wiki/Prairie_du_Chien,_Wisconsin) du [Chien](https://en.wikipedia.org/wiki/Prairie_du_Chien,_Wisconsin) was built in the 1810s by fur traders.
 
@@ -182,7 +172,6 @@ On May 29, 1948, the U. S. Post Office issued a [commemorative](https://en.wikip
 
 ## **Civil War era and economic growth**
 
-## ![](_page_2_Picture_14.jpeg)
 
 The Little White [Schoolhouse](https://en.wikipedia.org/wiki/Little_White_Schoolhouse) in [Ripon](https://en.wikipedia.org/wiki/Ripon,_Wisconsin) held the nation's first meeting of the [Republican](https://en.wikipedia.org/wiki/Republican_Party_(United_States)) Party.
 
@@ -196,7 +185,6 @@ Wisconsin's economy also diversified during the early years of statehood. While 
 
 Beginning in the 1890s, farmers in Wisconsin shifted from wheat to dairy production to make more sustainable and profitable use of their land. Many immigrants carried cheese-making traditions that, combined with the state's suitable geography and dairy research led by Stephen
 
-## ![](_page_3_Picture_2.jpeg)
 
 The Daniel E. Krause Stone Barn in Chase was built in 1903, as dairy farming spread across the state.
 
@@ -208,7 +196,6 @@ The early 20th century was notable for the emergence of progressive politics cha
 
 During World War I, due to the neutrality of Wisconsin and many of its Republicans, Progressives, and Conservatives, including Germans and Scandinavians who were a significant proportion of the state's population, Wisconsin began to be accused of being the "Traitor State" by many "hyper patriots." [65][66][67][68]
 
-## ![](_page_3_Picture_8.jpeg)
 
 Suffragists campaigning, 1916. Wisconsin was among the earliest states to ratify the Nineteenth Amendment.[61]
 
@@ -218,7 +205,6 @@ The progressive Wisconsin Idea also promoted the statewide expansion of the Univ
 
 After La Follette died, his sons Philip and Robert Jr. took over the Wisconsin Republican Party, later founding the Wisconsin Progressive Party as a successor to their father's Progressive Party. It gained momentum in the mid-1930s with support from President Franklin D. Roosevelt and progressive Democrats, winning offices statewide and in Congress. The party declined after Philip, facing scandal and accusations of authoritarianism, lost reelection in 1938, to Julius P. Heil and left politics to serve in World War II. The National Progressives of America, an organization Philip had hoped would precede a national realignment, then faltered, and the Wisconsin Progressives eventually voted to dissolve. [75][76]
 
-## ![](_page_3_Picture_13.jpeg)
 
 Governor Philip La Follette announces formation of the National Progressives of America, 1938
 
@@ -232,7 +218,6 @@ Wisconsin took part in several political extremes in the mid- to late 20th centu
 
 In 2011, Wisconsin became the focus of some controversy when newly elected governor [Scott](https://en.wikipedia.org/wiki/Scott_Walker_(politician)) [Walker](https://en.wikipedia.org/wiki/Scott_Walker_(politician)) proposed and then passed and enacted [2011 Wisconsin Act 10](https://en.wikipedia.org/wiki/2011_Wisconsin_Act_10), which made large changes in the areas of collective bargaining, compensation, retirement, health insurance, and sick leave of public sector employees, among other changes.[\[79\]](#page-21-15) A [series of major protests](https://en.wikipedia.org/wiki/2011_Wisconsin_protests) by union
 
-## ![](_page_4_Picture_3.jpeg)
 
 In the 20th century, [Superior](https://en.wikipedia.org/wiki/Superior,_Wisconsin) was a major hub for shipping iron ore across the Great Lakes via lake [freighters](https://en.wikipedia.org/wiki/Lake_freighter).
 
@@ -246,7 +231,6 @@ Wisconsin is in the [Midwestern United States](https://en.wikipedia.org/wiki/Mid
 
 Lying between the [Great Lakes](https://en.wikipedia.org/wiki/Great_Lakes) and the Mississippi River, Wisconsin has a wide variety of geographical features. The state is divided into five distinct regions. In the north, the [Lake](https://en.wikipedia.org/wiki/Lake_Superior_Lowland) [Superior Lowland](https://en.wikipedia.org/wiki/Lake_Superior_Lowland) occupies a belt of land along Lake Superior. Just to the south, the [Northern](https://en.wikipedia.org/wiki/Northern_Highland) [Highland](https://en.wikipedia.org/wiki/Northern_Highland) has massive mixed hardwood and coniferous forests including the 1,500,000-acre (610,000-hectare) [Chequamegon–Nicolet National Forest,](https://en.wikipedia.org/wiki/Chequamegon%E2%80%93Nicolet_National_Forest) as well as thousands of glacial lakes, and the state's highest point, [Timms Hill.](https://en.wikipedia.org/wiki/Timms_Hill) In the middle of the state, the [Central Plain](https://en.wikipedia.org/wiki/Central_Plain_(Wisconsin)) has some unique [sandstone](https://en.wikipedia.org/wiki/Sandstone) formations like the [Dells of the Wisconsin River](https://en.wikipedia.org/wiki/Dells_of_the_Wisconsin_River) in addition to rich farmland. The [Eastern Ridges and Lowlands](https://en.wikipedia.org/wiki/Eastern_Ridges_and_Lowlands) region in the southeast is home to many of Wisconsin's largest
 
-## ![](_page_4_Picture_10.jpeg)
 
 ## Wisconsin geographic regions cities. The ridges include the [Niagara Escarpment](https://en.wikipedia.org/wiki/Niagara_Escarpment) that stretches from New York, the [Black River Escarpment](https://en.wikipedia.org/wiki/Black_River_Escarpment_(Wisconsin)) and the [Magnesian](https://en.wikipedia.org/wiki/Magnesian_Escarpment) [Escarpment.](https://en.wikipedia.org/wiki/Magnesian_Escarpment) [\[85\]](#page-21-21)[\[86\]](#page-21-22) In the southwest, the [Western Upland](https://en.wikipedia.org/wiki/Western_Upland) is a rugged landscape with a mix of forest and farmland, including many bluffs on the Mississippi River, and the [Baraboo Range.](https://en.wikipedia.org/wiki/Baraboo_Range) This region is part of the [Driftless Area](https://en.wikipedia.org/wiki/Driftless_Area), which also includes parts of Iowa, Illinois, and Minnesota. Overall, 46% of Wisconsin's land area is covered by forest.
 
@@ -254,11 +238,9 @@ Wisconsin has geologic formations and deposits that vary in age from over three 
 
 The state has more than 12,000 named rivers and streams, totaling 84,000 miles (135,000 km) in length.[\[91\]](#page-22-3) It has over 15,000 named lakes, totaling about 1 million acres (4,000 km2 ). [Lake Winnebago](https://en.wikipedia.org/wiki/Lake_Winnebago) is the largest inland lake, with over 137,700 acres (557 km2 ), and 88 miles (142 km) of shoreline.
 
-## ![](_page_4_Picture_15.jpeg)
 
 The [Driftless](https://en.wikipedia.org/wiki/Driftless_Area) Area is characterized by bluffs carved in [sedimentary](https://en.wikipedia.org/wiki/Sedimentary) rock by water from melting Ice [age](https://en.wikipedia.org/wiki/Ice_age) glaciers.
 
-## ![](_page_4_Picture_17.jpeg)
 
 Sea [caves](https://en.wikipedia.org/wiki/Sea_caves) are located on the shorelines of the [Apostle](https://en.wikipedia.org/wiki/Apostle_Islands) [Islands](https://en.wikipedia.org/wiki/Apostle_Islands) in Lake [Superior.](https://en.wikipedia.org/wiki/Lake_Superior)
 
@@ -319,7 +301,6 @@ Over two-thirds of Wisconsin residents live in urban areas.[\[99\]](#page-22-11)
 
 Medium-size cities dot the state. The largest of these is [Green Bay](https://en.wikipedia.org/wiki/Green_Bay,_Wisconsin) in northeastern Wisconsin, with approximately 320,000 people in the metro area. Other metropolitan cities in the state include [Appleton,](https://en.wikipedia.org/wiki/Appleton,_Wisconsin) [Racine,](https://en.wikipedia.org/wiki/Racine,_Wisconsin) [Oshkosh](https://en.wikipedia.org/wiki/Oshkosh,_Wisconsin), [Eau Claire,](https://en.wikipedia.org/wiki/Eau_Claire,_Wisconsin) [Janesville,](https://en.wikipedia.org/wiki/Janesville,_Wisconsin) [Wausau](https://en.wikipedia.org/wiki/Wausau,_Wisconsin), [La Crosse](https://en.wikipedia.org/wiki/La_Crosse,_Wisconsin), [Sheboygan,](https://en.wikipedia.org/wiki/Sheboygan,_Wisconsin) and [Fond du Lac.](https://en.wikipedia.org/wiki/Fond_du_Lac,_Wisconsin) Furthermore, another 12 cities function as centers of [micropolitan statistical areas](https://en.wikipedia.org/wiki/Micropolitan_statistical_areas) which typically anchor a network of working farms surrounding them. As of 2011, there were 12 cities in Wisconsin with a population of 50,000 or more, accounting for 73% of the state's employment.[\[102\]](#page-22-14)
 
-## ![](_page_6_Picture_5.jpeg)
 
 Wisconsin [Municipalities](https://en.wikipedia.org/wiki/Administrative_divisions_of_Wisconsin) map of [counties](https://en.wikipedia.org/wiki/List_of_counties_in_Wisconsin), [cities](https://en.wikipedia.org/wiki/List_of_cities_in_Wisconsin), [villages](https://en.wikipedia.org/wiki/List_of_villages_in_Wisconsin), and [towns](https://en.wikipedia.org/wiki/List_of_towns_in_Wisconsin).
 
@@ -494,7 +475,6 @@ A large part of the state's manufacturing sector includes commercial food proces
 
 The development and manufacture of healthcare devices and software is a growing sector of the state's economy, with key players such as GE Healthcare, Epic Systems, and Tomo Therapy.
 
-## ![](_page_10_Picture_10.jpeg)
 
 The U. S. Bank Center in downtown Milwaukee is home to the main headquarters of Baird, Foley & Lardner, and Sensient Technologies, as well as regional headquarters for U. S. Bank and IBM.
 
@@ -514,13 +494,9 @@ The [Dells of the Wisconsin River](https://en.wikipedia.org/wiki/Dells_of_the_Wi
 
 The [Door Peninsula](https://en.wikipedia.org/wiki/Door_Peninsula), which extends off the eastern coast of the state, contains [Door County](https://en.wikipedia.org/wiki/Door_County,_Wisconsin), a popular destination for boaters due to the large number of natural harbors and boat launches on both the Green Bay and Lake Michigan sides of the peninsula. The area draws more than two million visitors yearly to its quaint villages, seasonal cherry picking, and [fish boils.](https://en.wikipedia.org/wiki/Fish_boil) [\[163\]](#page-25-8)[\[164\]](#page-25-9)
 
-## ![](_page_11_Picture_6.jpeg)
-
-## ![](_page_11_Picture_7.jpeg)
 
 Dairy cows at a [Wisconsin](https://en.wikipedia.org/wiki/Wisconsin_dairy_industry) dairy farm
 
-## ![](_page_11_Picture_9.jpeg)
 
 The Dells of the [Wisconsin](https://en.wikipedia.org/wiki/Dells_of_the_Wisconsin_River) River form a tourism region focused on river features and nearby [theme](https://en.wikipedia.org/wiki/Theme_park) parks.
 
@@ -552,7 +528,6 @@ Residents of Wisconsin are referred to as Wisconsinites. The traditional promine
 
 Numerous [ethnic](https://en.wikipedia.org/wiki/Ethnic) festivals are held throughout Wisconsin to celebrate the heritage of its citizens. Such festivals include [Summerfest,](https://en.wikipedia.org/wiki/Summerfest) [Oktoberfest](https://en.wikipedia.org/wiki/Oktoberfest_celebrations), [Polish Fest](https://en.wikipedia.org/wiki/Polish_Fest), [Festa Italiana,](https://en.wikipedia.org/wiki/Festa_Italiana) [Irish Fest,](https://en.wikipedia.org/wiki/Irish_Fest) Bastille Days, [Syttende Mai](https://en.wikipedia.org/wiki/Syttende_Mai) (Norwegian Constitution Day), Brat(wurst) Days in [Sheboygan](https://en.wikipedia.org/wiki/Sheboygan,_Wisconsin), [Polka Days,](https://en.wikipedia.org/wiki/Pulaski,_Wisconsin#Pulaski_Polka_Days) Cheese Days in [Monroe](https://en.wikipedia.org/wiki/Monroe,_Wisconsin) and [Mequon](https://en.wikipedia.org/wiki/Mequon), African World Festival, Indian Summer, Arab Fest, Wisconsin Highland Games, and many others.[\[172\]](#page-25-17)
 
-## ![](_page_12_Picture_5.jpeg)
 
 [Cheesehead](https://en.wikipedia.org/wiki/Cheesehead) hats at the 2024 [Summer](https://en.wikipedia.org/wiki/2024_Summer_Olympics) [Olympics](https://en.wikipedia.org/wiki/2024_Summer_Olympics)
 
@@ -564,7 +539,6 @@ The [Milwaukee Art Museum](https://en.wikipedia.org/wiki/Milwaukee_Art_Museum) i
 
 [Frank Lloyd Wright](https://en.wikipedia.org/wiki/Frank_Lloyd_Wright), an architect known as the pioneer of [Prairie School](https://en.wikipedia.org/wiki/Prairie_School) architecture and the [Usonian](https://en.wikipedia.org/wiki/Usonia) home concept, was raised in Wisconsin. Wright's home and studio in the 20th century was at [Taliesin,](https://en.wikipedia.org/wiki/Taliesin_(studio)) south of [Spring Green, Wisconsin](https://en.wikipedia.org/wiki/Spring_Green,_Wisconsin). Taliesin and the Usonian [Jacobs I House](https://en.wikipedia.org/wiki/Herbert_and_Katherine_Jacobs_First_House) in Madison are listed as [UNESCO](https://en.wikipedia.org/wiki/UNESCO) [World Heritage Sites](https://en.wikipedia.org/wiki/World_Heritage_Site) as part of "[The 20th-Century Architecture](https://en.wikipedia.org/wiki/The_20th-Century_Architecture_of_Frank_Lloyd_Wright) [of Frank Lloyd Wright](https://en.wikipedia.org/wiki/The_20th-Century_Architecture_of_Frank_Lloyd_Wright)".[\[24\]](#page-19-9) Other notable works of Wright in Wisconsin include the
 
-## ![](_page_12_Picture_11.jpeg)
 
 [Taliesin](https://en.wikipedia.org/wiki/Taliesin_(studio)) was the studio of architect [Frank](https://en.wikipedia.org/wiki/Frank_Lloyd_Wright) Lloyd [Wright.](https://en.wikipedia.org/wiki/Frank_Lloyd_Wright)
 
@@ -574,7 +548,6 @@ The [Milwaukee Art Museum](https://en.wikipedia.org/wiki/Milwaukee_Art_Museum) i
 
 Drinking has long been considered a significant part of Wisconsin culture, and the state ranks at or near the top of national measures of per-capita alcohol consumption, consumption of alcohol per state, and proportion of drinkers. Consumption per-capita per-event, however, ranks low among the nation; number of events (number of times alcohol is involved) is significantly higher or highest, but consumption at each event smaller, marking Wisconsin's consumption as frequent and moderate.[\[176\]](#page-25-21) Factors such as cultural identification with the state's heritage of German immigration, the long-standing presence of major breweries in Milwaukee, and a cold climate are often associated with the prevalence of drinking in Wisconsin.
 
-## ![](_page_12_Picture_16.jpeg)
 
 The Miller [Brewery](https://en.wikipedia.org/wiki/Miller_Brewing_Company) in Milwaukee
 
@@ -590,7 +563,6 @@ Wisconsin's cuisine is famous for [its cheese](https://en.wikipedia.org/wiki/Wis
 
 Wisconsin is the nation's top producer of [cheese](https://en.wikipedia.org/wiki/Cheese), the state's official dairy product. It is also a leading producer of [cranberries](https://en.wikipedia.org/wiki/Cranberries), the state's official fruit, and [ginseng.](https://en.wikipedia.org/wiki/Ginseng) [\[184\]](#page-26-4) [Dane County Farmers'](https://en.wikipedia.org/wiki/Dane_County_Farmers%27_Market) [Market](https://en.wikipedia.org/wiki/Dane_County_Farmers%27_Market) in Madison is the nation's largest producers-only farmer's market.[\[185\]](#page-26-5)[\[186\]](#page-26-6)
 
-## ![](_page_13_Picture_3.jpeg)
 
 Fried [cheese](https://en.wikipedia.org/wiki/Cheese_curd) curds
 
@@ -606,7 +578,6 @@ The [butter burger](https://en.wikipedia.org/wiki/Butter_burger) originated in W
 
 Milwaukee hosts [Summerfest,](https://en.wikipedia.org/wiki/Summerfest) dubbed "The World's Largest Music Festival", every year[\[194\]](#page-26-14)[\[195\]](#page-26-15) The festival is held at the lakefront [Henry Maier Festival Park](https://en.wikipedia.org/wiki/Henry_Maier_Festival_Park) just south of downtown, as are a summer-long array of [ethnic](https://en.wikipedia.org/wiki/Ethnic) musical festivals. The [Wisconsin Area Music Industry](https://en.wikipedia.org/wiki/Wisconsin_Area_Music_Industry) hosts an annual awards show for top Wisconsin artists.[\[196\]](#page-26-16) The [Mile of Music](https://en.wikipedia.org/wiki/Mile_of_Music) in [Appleton](https://en.wikipedia.org/wiki/Appleton,_Wisconsin) is an annual all-original music festival of varying styles. It focuses on undiscovered touring musicians and bands.[\[197\]](#page-26-17) Other music festivals include [Hoofbeat](https://en.wikipedia.org/wiki/Hoofbeat_(festival)) country fest, Country Jam USA, the [Hodag](https://en.wikipedia.org/wiki/Hodag_Country_Festival) [Country Festival](https://en.wikipedia.org/wiki/Hodag_Country_Festival), [Lifest,](https://en.wikipedia.org/wiki/Lifest) Porterfield Country Music Festival, Country Thunder USA in Twin Lakes,[\[198\]](#page-26-18) and Country USA.
 
-## ![](_page_13_Picture_11.jpeg)
 
 [Summerfest](https://en.wikipedia.org/wiki/Summerfest) is an annual music festival in downtown Milwaukee.
 
@@ -628,7 +599,6 @@ The [Milwaukee Mile](https://en.wikipedia.org/wiki/Milwaukee_Mile), an oval trac
 
 [Lambeau](https://en.wikipedia.org/wiki/Lambeau_Field) Field is home to the publicly owned Green Bay [Packers](https://en.wikipedia.org/wiki/Green_Bay_Packers) of the [National](https://en.wikipedia.org/wiki/National_Football_League) Football League.
 
-## ![](_page_14_Picture_5.jpeg)
 
 Road [America](https://en.wikipedia.org/wiki/Road_America), near [Elkhart](https://en.wikipedia.org/wiki/Elkhart_Lake,_Wisconsin) Lake, has hosted [motorsport](https://en.wikipedia.org/wiki/Motorsport) races since the 1950s.
 
@@ -646,7 +616,6 @@ The [Constitution of Wisconsin](https://en.wikipedia.org/wiki/Constitution_of_Wi
 
 The executive branch is headed by the [Governor of Wisconsin](https://en.wikipedia.org/wiki/Governor_of_Wisconsin). The current governor, [Tony](https://en.wikipedia.org/wiki/Tony_Evers) [Evers](https://en.wikipedia.org/wiki/Tony_Evers), assumed office on January 7, 2019. The Wisconsin Constitution grants the governor a veto on bills passed by the state legislature as well as a [line-item veto](https://en.wikipedia.org/wiki/Line-item_veto) on appropriation bills. A [lieutenant governor](https://en.wikipedia.org/wiki/Lieutenant_Governor_of_Wisconsin) succeeds the governor in the event of any removal from office and performs any duties assigned by the governor. The current lieutenant governor is [Sara Rodriguez.](https://en.wikipedia.org/wiki/Sara_Rodriguez) The other elected constitutional offices in the executive branch are the [secretary of state](https://en.wikipedia.org/wiki/Secretary_of_State_of_Wisconsin) [\(Sarah](https://en.wikipedia.org/wiki/Sarah_Godlewski) [Godlewski\)](https://en.wikipedia.org/wiki/Sarah_Godlewski), [treasurer](https://en.wikipedia.org/wiki/State_Treasurer_of_Wisconsin) [\(John Leiber](https://en.wikipedia.org/wiki/John_Leiber)), [attorney general](https://en.wikipedia.org/wiki/Attorney_General_of_Wisconsin) ([Josh Kaul\)](https://en.wikipedia.org/wiki/Josh_Kaul), and the non-partisan [superintendent of public instruction](https://en.wikipedia.org/wiki/Superintendent_of_Public_Instruction_of_Wisconsin) [\(Jill Underly](https://en.wikipedia.org/wiki/Jill_Underly)).[\[216\]](#page-27-13)[\[217\]](#page-27-14)
 
-## ![](_page_14_Picture_14.jpeg)
 
 The [Wisconsin](https://en.wikipedia.org/wiki/Wisconsin_State_Capitol) State Capitol is located on the [isthmus](https://en.wikipedia.org/wiki/Isthmus) between Lake [Mendota](https://en.wikipedia.org/wiki/Lake_Mendota) and Lake [Monona,](https://en.wikipedia.org/wiki/Lake_Monona) in the city of [Madison.](https://en.wikipedia.org/wiki/Madison,_Wisconsin)
 
@@ -654,7 +623,6 @@ The [Wisconsin State Legislature](https://en.wikipedia.org/wiki/Wisconsin_State_
 
 Wisconsin's court system has four levels: municipal courts, circuit courts, the Court of Appeals, and the Supreme Court. Municipal courts typically handle cases involving [local ordinance](https://en.wikipedia.org/wiki/Local_ordinance) matters. The [circuit courts](https://en.wikipedia.org/wiki/Wisconsin_Circuit_Court) are Wisconsin's [trial courts,](https://en.wikipedia.org/wiki/Trial_courts) they have [original jurisdiction](https://en.wikipedia.org/wiki/Original_jurisdiction) in all civil and criminal cases within the state. Challenges to circuit court rulings are heard by the [Wisconsin](https://en.wikipedia.org/wiki/Wisconsin_Court_of_Appeals) [Court of Appeals](https://en.wikipedia.org/wiki/Wisconsin_Court_of_Appeals), consisting of sixteen judges who typically sit in three-judge panels. As the state's highest appellate court, the [Wisconsin Supreme Court](https://en.wikipedia.org/wiki/Wisconsin_Supreme_Court) may hear both appeals from lower courts and original actions. In addition to deciding cases, the Supreme Court is responsible for administering the state's court system and regulating the practice of law in Wisconsin.[\[220\]](#page-27-17)
 
-## ![](_page_15_Picture_1.jpeg)
 
 The Senate [Chamber](https://en.wikipedia.org/wiki/Wisconsin_State_Senate) of the Wisconsin State Capitol
 
@@ -680,7 +648,6 @@ During the [American Civil War,](https://en.wikipedia.org/wiki/American_Civil_Wa
 
 Wisconsin's political history is broad in scope, encompassing [Robert La Follette](https://en.wikipedia.org/wiki/Robert_La_Follette) and the [Progressive movement](https://en.wikipedia.org/wiki/Progressive_movement) to prominent anti-communist [Joseph Mc Carthy](https://en.wikipedia.org/wiki/Joseph_Mc Carthy). From the early 20th century, the [Socialist Party of America](https://en.wikipedia.org/wiki/Socialist_Party_of_America) had a base in Milwaukee. The phenomenon was referred to as "[sewer socialism"](https://en.wikipedia.org/wiki/Sewer_socialism) because the elected officials were more concerned with public works and reform than with revolution (although
 
-## ![](_page_16_Picture_0.jpeg)
 
 The 2011 [Wisconsin](https://en.wikipedia.org/wiki/2011_Wisconsin_Act_10) Act 10 led to large protests around the state capitol building in Madison.
 
@@ -702,7 +669,6 @@ The [Wisconsin Department of Public Instruction](https://en.wikipedia.org/wiki/W
 
 Public [post-secondary education](https://en.wikipedia.org/wiki/Post-secondary_education) in Wisconsin consists of two organizations. The [University of](https://en.wikipedia.org/wiki/University_of_Wisconsin_System) [Wisconsin System](https://en.wikipedia.org/wiki/University_of_Wisconsin_System) comprises the state's two tier 1 [research universities](https://en.wikipedia.org/wiki/Research_universities) as classified by the [Carnegie Foundation](https://en.wikipedia.org/wiki/Carnegie_Foundation_for_the_Advancement_of_Teaching): the flagship [University of Wisconsin–Madison](https://en.wikipedia.org/wiki/University_of_Wisconsin%E2%80%93Madison), and the [University of](https://en.wikipedia.org/wiki/University_of_Wisconsin%E2%80%93Milwaukee)
 
-## ![](_page_16_Picture_13.jpeg)
 
 The University of [Wisconsin–Madison](https://en.wikipedia.org/wiki/University_of_Wisconsin%E2%80%93Madison) is the flagship campus of the [University](https://en.wikipedia.org/wiki/University_of_Wisconsin_System) of [Wisconsin](https://en.wikipedia.org/wiki/University_of_Wisconsin_System) System.
 
@@ -718,7 +684,6 @@ Wisconsin is served by multiple [intercity bus](https://en.wikipedia.org/wiki/In
 
 Wisconsin is served by eight Interstate Highways, consisting of five primary routes and three auxiliary routes. The first part of this system was constructed in 1956, and its most recent expansion took place in 2015, with the addition of I-41 to the system. Wisconsin's longest Interstate Highway is I-94. There are also fourteen United States Numbered Highways in the state of Wisconsin, which were designated beginning in 1926 and ending in the mid-1930s. There are also several business routes, usually maintained by local governments. The Wisconsin Department of Transportation maintains 158 state trunk highways, ranging from two-lane rural roads to limited-access freeways. These highways are paid for by the state's Transportation Fund, which is considered unique among state highway funds because it is kept entirely separate from the general fund, therefore, revenues received from transportation services are required to be used on transportation. The majority of state highway funding comes from gas taxes and vehicle registration fees. [253]
 
-## ![](_page_17_Picture_1.jpeg)
 
 ## Wind Point Lighthouse on Lake Michigan
 
@@ -755,7 +720,6 @@ State tree: sugar maple
 
 ## ![](_page_17_Figure_27.jpeg)
 
-## ![](_page_17_Picture_28.jpeg)
 
 The American badger is the state animal of Wisconsin.
 

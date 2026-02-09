@@ -8,7 +8,6 @@ tags:
 
 ## Anonymous Contributor
 
-30–38 minutes
 
 **After many late night conversations reflecting on how our movement has changed in the last decades, both locally and internationally, some long-time Milwaukee anarchists thought it would be a good idea to write these thoughts down to share with other people.**
 

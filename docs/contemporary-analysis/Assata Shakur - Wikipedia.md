@@ -9,7 +9,6 @@ tags:
   - wikipedia
 ---
 
-## ![](_page_0_Picture_2.jpeg)
 
 **Assata Olugbala Shakur** [\(/](https://en.wikipedia.org/wiki/Help:IPA/English)[əˈ](https://en.wikipedia.org/wiki/Help:IPA/English)[s](https://en.wikipedia.org/wiki/Help:IPA/English)[ɑː](https://en.wikipedia.org/wiki/Help:IPA/English)[t](https://en.wikipedia.org/wiki/Help:IPA/English)[ə](https://en.wikipedia.org/wiki/Help:IPA/English) [ʃəˈ](https://en.wikipedia.org/wiki/Help:IPA/English)[k](https://en.wikipedia.org/wiki/Help:IPA/English)[ʊə](https://en.wikipedia.org/wiki/Help:IPA/English)[r/](https://en.wikipedia.org/wiki/Help:IPA/English) *[ə](https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key)[-SAH](https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key)tə [sh](https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key)ə[-KOOR](https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key)*; born **Jo Anne Deborah Byron**, July 16, 1947[\[a\]](#page-22-0) – September 25, 2025) was an American political activist, [revolutionary,](https://en.wikipedia.org/wiki/Revolutionary) and [fugitive](https://en.wikipedia.org/wiki/Fugitive) who was a member of the [Black Liberation Army](https://en.wikipedia.org/wiki/Black_Liberation_Army) (BLA).[\[3\]](#page-22-2) In 1977, she was convicted of the first-degree murder of New Jersey State Trooper Werner Foerster during a shootout on the [New Jersey Turnpike](https://en.wikipedia.org/wiki/New_Jersey_Turnpike) in 1973. She escaped from prison in 1979 and was wanted by the [FBI,](https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation) with a \$1 million reward for information leading to her capture, and an additional \$1 million reward offered by the [New Jersey attorney general.](https://en.wikipedia.org/wiki/New_Jersey_attorney_general)[\[4\]](#page-23-0)
 
@@ -17,7 +16,6 @@ Born in [Flushing, Queens,](https://en.wikipedia.org/wiki/Flushing,_Queens) Shak
 
 Between 1971 and 1973, Shakur was charged with several crimes, leading to a multi-state manhunt. On May 2, 1973, Shakur, along with BLA members Zayd Malik Shakur and [Sundiata Acoli,](https://en.wikipedia.org/wiki/Sundiata_Acoli) were stopped on the New Jersey Turnpike. The incident escalated into a shootout with State Troopers Werner Foerster and James Harper. Foerster was killed and Harper was wounded; Zayd Shakur was killed, and both Assata Shakur and Acoli were wounded. At her 1977 trial, Shakur was convicted on multiple charges, including the murder of Foerster and the assault of Harper, and was sentenced to life plus 26 to 33 years in prison. Shakur maintained that she could not have fired the shots that wounded Harper and killed Foerster, as her right arm had been injured by police
 
-## ![](_page_0_Picture_8.jpeg)
 
 ## Shakur in the 1970s
 
@@ -123,11 +121,9 @@ On December 21, 1971, Shakur was named by the [New York City Police](https://en.
 
 Shakur was wanted for questioning for wounding a police officer on January 26, 1972, who was attempting to serve a traffic summons in [Brooklyn](https://en.wikipedia.org/wiki/Brooklyn)[.\[37\]](#page-25-6) After an \$89,000 Brooklyn bank robbery on March 1, 1972, a *[Daily News](https://en.wikipedia.org/wiki/New_York_Daily_News)* headline asked: "Was that Jo Anne?" Shakur was identified as wanted for questioning after a September 1, 1972, bank robbery in [the](https://en.wikipedia.org/wiki/The_Bronx) [Bronx.](https://en.wikipedia.org/wiki/The_Bronx)[\[37\]](#page-25-6)
 
-## ![](_page_3_Picture_7.jpeg)
 
 [New York City Police](https://en.wikipedia.org/wiki/New_York_City_Police_Department) [Department](https://en.wikipedia.org/wiki/New_York_City_Police_Department) mugshot of Shakur, April 1971
 
-## ![](_page_3_Picture_9.jpeg)
 
 Police stand next to the patrol car that was destroyed by a hand grenade attack on December 20, 1971.
 
@@ -315,7 +311,6 @@ The nine-week trial was widely publicized and was even reported on by the [Teleg
 
 Following the 13-minute opening statement by Edward J. Barone, the first assistant Middlesex County prosecutor (directing the case for the state), [William Kunstler](https://en.wikipedia.org/wiki/William_Kunstler) (the chief of Shakur's defense staff) moved immediately for a mistrial, calling the eight-count grand jury indictment "adversary proceeding solely and exclusively under the control of the prosecutor",
 
-## ![](_page_11_Picture_8.jpeg)
 
 Shakur's murder trial for the Turnpike shootout took place in [New Brunswick,](https://en.wikipedia.org/wiki/New_Brunswick,_New_Jersey) [Middlesex County, New](https://en.wikipedia.org/wiki/Middlesex_County,_New_Jersey) [Jersey,](https://en.wikipedia.org/wiki/Middlesex_County,_New_Jersey) not far from the [East Brunswick](https://en.wikipedia.org/wiki/East_Brunswick,_New_Jersey) site of the gunfight.
 
@@ -341,7 +336,6 @@ Shakur's defense attorneys were [William Kunstler](https://en.wikipedia.org/wiki
 
 Her attorneys, in particular Lennox Hinds, were often held in [contempt of](https://en.wikipedia.org/wiki/Contempt_of_court) [court,](https://en.wikipedia.org/wiki/Contempt_of_court) which the [National Conference of Black Lawyers](https://en.wikipedia.org/wiki/National_Conference_of_Black_Lawyers) cited as an example of systemic bias in the judicial system.[\[143\]](#page-33-7) The New Jersey Legal Ethics Committee also investigated complaints against Hinds for comparing Shakur's murder trial to "legalized lynching"[\[144\]](#page-33-8) undertaken by a ["kangaroo court"](https://en.wikipedia.org/wiki/Kangaroo_court).[\[65\]](#page-27-11)[\[145\]](#page-33-9) Hinds' disciplinary proceeding reached the
 
-## ![](_page_12_Picture_11.jpeg)
 
 [William Kunstler,](https://en.wikipedia.org/wiki/William_Kunstler) the chief of Shakur's defense staff.
 
@@ -409,7 +403,6 @@ On November 22, 1977, Shakur pleaded not guilty to an attempted armed robbery in
 
 After the Turnpike shootings, Shakur was briefly held at the [Garden State Youth Correctional Facility](https://en.wikipedia.org/wiki/Garden_State_Youth_Correctional_Facility)[\[169\]](#page-34-15) in Yardville, [Burlington County, New Jersey,](https://en.wikipedia.org/wiki/Burlington_County,_New_Jersey) and later moved to [Rikers Island](https://en.wikipedia.org/wiki/Rikers_Island) [Correctional Institution for Women](https://en.wikipedia.org/wiki/Rikers_Island) in New York City[\[11\]](#page-23-7) where she was kept in solitary confinement[\[170\]](#page-34-16)[\[171\]](#page-34-17) for 21 months. Shakur's only daughter, Kakuya Shakur, was conceived with Kamau Sadiki during Shakur's trial.[\[172\]](#page-34-18)[\[110\]](#page-31-0) Kakuya was born on September 11, 1974, in the "fortified psychiatric ward" at
 
-## ![](_page_16_Picture_8.jpeg)
 
 Shakur was kept in [solitary](https://en.wikipedia.org/wiki/Solitary_confinement) confi[nement](https://en.wikipedia.org/wiki/Solitary_confinement) on [Rikers Island](https://en.wikipedia.org/wiki/Rikers_Island) for 21 months.
 
@@ -435,7 +428,6 @@ At the time of the escape, Kunstler had just started to prepare her appeal[.\[16
 
 For years after Shakur's escape, the movements, activities and phone calls of her friends and relatives—including her daughter walking to school in upper Manhattan—were monitored by investigators in an attempt to ascertain her whereabouts.[\[198\]](#page-36-9) In July 1980, FBI director [William H. Webster](https://en.wikipedia.org/wiki/William_H._Webster) said that the search for Shakur had been frustrated by residents' refusal to cooperate, and a *New York Times* editorial opined that the department's
 
-## ![](_page_18_Picture_4.jpeg)
 
 A photo of fugitive Assata Shakur, distributed by the [FBI](https://en.wikipedia.org/wiki/FBI) in 1982.
 

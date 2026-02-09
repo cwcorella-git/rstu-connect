@@ -8,9 +8,6 @@ tags:
   - solidarity
 ---
 
-## ![](_page_0_Picture_0.jpeg)
-
-## ![](_page_1_Picture_0.jpeg)
 
 How Europe Underdeveloped Africa Copyright © 1972 by Walter Rodney Published 2011 by Black Classic Press.
 
@@ -40,7 +37,6 @@ To review or purchase Black Classic Press books, please visit: [www.blackclassic
 
 ## **Black Classic Press** Baltimore
 
-## ![](_page_6_Picture_0.jpeg)
 
 # **THE WALTER RODNEY FOUNDATION**
 

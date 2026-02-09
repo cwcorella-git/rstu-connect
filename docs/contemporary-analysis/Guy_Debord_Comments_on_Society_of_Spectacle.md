@@ -547,7 +547,6 @@ Its principal present contradiction, finally, is that it is surveilling, infiltr
 
 3 Likely candidates for manipulated theories would have to include those advanced by the "doctrinaires of 'armed struggle'" (see footnote [22]); and such "new philosophers" as Bernard-Henri Levy. Note as well that, in his 1975 film, Refutation of All the Judgments, Pro or Con, Thus Far Rendered on the Film "The Society of the Spectacle," Debord refers to "the desolate walls of Vincennes University," and goes on to say: "Within living memory no Vincennes student has ever come up with a single theory. This is no doubt why we are currently seeing some of them advocate 'anti-theory.' What else could they parlay into an assistant professorship in that neo-university?" Debord's dislike of Vincennes theorists was in part a response to their theories, but also to their means of supporting themselves. Michel Foucault "undertook a number of research projects for the Ministere de l'Equipment in the 1970s […] Many well known sociologists and philosophers participated in research financed by this Ministry, such as Deleuze and Guattari who also undertook contract research […] Lefebvre points out that recuperation has taken a specific form in the years after 1968 in that technocrats got the critics themselves to work out what would be applicable out of the radical critique. Many Marxists sociologists at this time accepted contracts from State ministries." Eleonore Kofman
 
-## ![](_page_55_Picture_0.jpeg)
 
 # **XXXI.**
 
@@ -579,7 +578,6 @@ It is also said that someone has worked *vainly* when he has not been rewarded f
 
 ### The Anarchist Library Anti-Copyright
 
-## ![](_page_60_Picture_1.jpeg)
 
 ### Guy Debord Comments on the Society of the Spectacle 1988
 

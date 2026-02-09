@@ -12,31 +12,24 @@ tags:
 
 [View](https://philosophyterms.com/category/philosopher/) [all](https://philosophyterms.com/category/philosopher/)
 
-## ![](_page_0_Picture_8.jpeg)
 
 [Euripides](https://philosophyterms.com/euripides/)
 
-## ![](_page_0_Picture_10.jpeg)
 
 [Epicurious](https://philosophyterms.com/epicurious/)
 
-## ![](_page_0_Picture_12.jpeg)
 
 [Ralph Waldo Emerson](https://philosophyterms.com/ralph-waldo-emerson/)
 
-## ![](_page_0_Picture_14.jpeg)
 
 [John Dewey](https://philosophyterms.com/john-dewey/)
 
-## ![](_page_0_Picture_16.jpeg)
 
 [Dante Alighieri](https://philosophyterms.com/dante-alighieri/)
 
-## ![](_page_0_Picture_18.jpeg)
 
 [Confucius](https://philosophyterms.com/confucius/)
 
-## ![](_page_0_Picture_20.jpeg)
 
 # Paradox of Tolerance
 
@@ -64,11 +57,9 @@ Understanding the Paradox of Tolerance is important because it shows us that in 
 
 ### Where Do We Draw the Line?
 
-## ![](_page_1_Picture_2.jpeg)
 
 ## [Comte](https://philosophyterms.com/comte/)
 
-## ![](_page_1_Picture_4.jpeg)
 
 [Philosophers](https://philosophyterms.com/category/philosopher/)
 

@@ -14,7 +14,6 @@ AN INFANTILE
 
 ## By V. I. Lenin
 
-## ![](_page_0_Picture_3.jpeg)
 
 INTERNATIONAL PUBLISHERS
 ## 381 FOURTH AVENUE, NEW YORK 16
@@ -30,13 +29,11 @@ A POPULAR ESSAY
 
 ## NEW TRANSLATION
 
-## ![](_page_2_Picture_4.jpeg)
 
 ## INTERNATIONAL PUBLISHERS, NEW YORK
 
 # COPYRIGHT, 1940, BY INTERNATIONAL PUBLISHERS CO., INC. PRINTED IN THE U. S. A.
 
-## ![](_page_3_Picture_1.jpeg)
 
 #### CONTENTS
 

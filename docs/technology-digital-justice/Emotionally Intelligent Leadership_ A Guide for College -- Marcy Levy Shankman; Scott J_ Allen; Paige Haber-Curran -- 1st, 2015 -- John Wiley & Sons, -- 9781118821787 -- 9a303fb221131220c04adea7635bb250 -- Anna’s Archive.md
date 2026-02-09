@@ -8,17 +8,14 @@ tags:
   - digital rights
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 ## A GUIDE FOR STUDENTS
 
-## ![](_page_0_Picture_3.jpeg)
 
 ## IR IOSSEY-BASS
 
 ## A Wiley Brand
 
-## ![](_page_2_Picture_0.jpeg)
 
 ### Praise for Emotionally Intelligent Leadership for Students: A Guide for Students, Second Edition
 
@@ -30,9 +27,6 @@ tags:
 
 —Kevin W. Bailey, vice president for student affairs and program coordinator, College Student Affairs Administration Program, University of West Florida
 
-## ![](_page_4_Picture_0.jpeg)
-
-## ![](_page_4_Picture_1.jpeg)
 
 ## A GUIDE FOR STUDENTS
 
@@ -40,7 +34,6 @@ Marcy Levy Shankman, Scott J. Allen, and Paige Haber-Curran
 
 ## Foreword by Susan R. Komives
 
-## ![](_page_4_Picture_5.jpeg)
 
 ## Cover design by Wiley
 
@@ -232,7 +225,6 @@ To contact the authors:
 
 ## Paige Haber-Curran: paige.haber@gmail.com
 
-## ![](_page_18_Picture_0.jpeg)
 
 ### Chapter 1 Introduction
 
@@ -250,7 +242,6 @@ After three years as an orientation leader, John was happy to accept the positio
 
 Ty has always been an extremely sociable person, and he feeds off of relationships. His passion for working with others inspired him to lead a service immersion trip to Latin America. He adapts to the lifestyle well, but not knowing the language creates a barrier. He always viewed himself as having great interpersonal and social skills, but nds he has to adapt and quickly build relationships in a new way. Likewise, he has to inuence others to do so as well. How
 
-## ![](_page_22_Picture_2.jpeg)
 
 does Ty remain exible and inspire others given the language barrier?
 
@@ -269,7 +260,6 @@ This book will help you enhance your ability to lead and think more critically a
 - someone who intentionally practices leadership on and off campus;
 - someone who reects and consistently looks inward as a way to develop and grow;
 
-## ![](_page_24_Picture_2.jpeg)
 
 - someone who is open to giving and receiving feedback;
 - someone who develops relationships with ease and builds coalitions;
@@ -289,7 +279,6 @@ Before introducing you to emotionally intelligent leadership (EIL), we provide s
 - 4. Leadership does not require a title or position. Thankfully, the world is lled with people who have made a difference even though they did not have the formal authority to do so. Take a minute to see whether you can name ten people who engaged in leadership without having the formal title of leader. Many people think a rule of leadership is that you need to have a position of authority or a title to make a difference. That just simply isn't true. Although having a formal leadership role can have its benets and can help you inuence others, this is not a prerequisite to leading. One of the great benets of recognizing that leadership does not require a title is knowing that you can immediately start making a difference. Join a committee, start a club, ll a need that you see, volunteer in your community, and make a difference.
 - 5. Leadership is more than the leader. Early research on leadership focused primarily on men in positions of authority. The paradigm was that leaders held prominent positions (e.g., president, king, emperor) and were considered something special (they were born leaders). Today, this thinking has expanded because of what we have learned about leadership. In fact, leadership is a complex process and involves the interplay of the individual, the group, and the context. To reduce the study of leadership only to
 
-## ![](_page_26_Picture_2.jpeg)
 
 the leader is limiting, incomplete, and misleading. In fact, each of us move in and out of the role of leader and follower—often without noticing. Much like a dance, one can step up and take on leadership and then move back into a follower's role based on the situation (Chaleff, 2011).
 
@@ -308,7 +297,6 @@ Leadership can feel dangerous because you have to put yourself out there for peo
 
 Built upon our ten truths of leadership is our model of emotionally intelligent leadership. EIL is integrative in nature (Boyer, 1990). In other words, we have combined what we feel is the best thinking on emotional intelligence and leadership into one model. For a more academic and theoretical introduction to the model see Allen, Shankman, and Miguel (2012). In the development of EIL, we have drawn upon three sources: our own experiences, the experiences of students with whom we have worked,
 
-## ![](_page_28_Picture_2.jpeg)
 
 and the literature and scholarship on emotional intelligence and leadership.
 
@@ -334,7 +322,6 @@ Central to our denition of EIL are the three facets: consciousness of self, cons
 - 2. Consciousness of Others: Demonstrating emotionally intelligent leadership involves awareness of the abilities, emotions, and perceptions of others. Consciousness of others is about intentionally working with and inuencing individuals and groups to bring about positive change.
 - 3. Consciousness of Context: Demonstrating emotionally intelligent leadership involves awareness of the setting and situation. Consciousness of context is about paying attention to how environmental factors and internal group dynamics affect the process of leadership.
 
-## ![](_page_30_Picture_2.jpeg)
 
 Although these denitions provide a clean and simple explanation, in the real world, this is not always the case. Following is a brief student case study to help explain how the three facets play out.
 
@@ -344,7 +331,6 @@ As Rosalee begins her term, she realizes she will need to navigate the facets of
 
 When discussing the three facets, we use the metaphor of "signal strength" (see Figure 1.1). In the context of cellular communication and Wi-Fi networking, signal strength is something many of us are attuned to each day—after all, the strength of our signal determines our ability to connect and communicate with others to accomplish our desired tasks and goals.
 
-## ![](_page_31_Picture_2.jpeg)
 
 ## Figure 1.1 Signal Strength
 
@@ -354,7 +340,6 @@ Now, just like the Wi-Fi network signal strength changes, so does our capacity t
 
 As you think about leadership, and EIL in particular, remember this simple image and metaphor. Are you working at full signal strength, or are you only focused on self? Leadership is best demonstrated when working at full signal strength. Your ability to monitor all three facets intentionally will help you to lead effectively. Anyone committed to leadership must be aware of oneself (one's knowledge, skills, and abilities); the needs, interests, and abilities of others involved; and factors from the larger environment and the group that come into play.
 
-## ![](_page_32_Picture_2.jpeg)
 
 ### The Nineteen Capacities of EIL
 
@@ -402,7 +387,6 @@ Managing conict: Identifying and resolving conict Facilitating change: Working t
 
 Analyzing the group: Interpreting group dynamics Assessing the environment: Interpreting external forces and trends
 
-## ![](_page_34_Picture_2.jpeg)
 
 At the other extreme, if building teams is ignored, people can feel alienated. This often results in one person from the group doing all the work.
 
@@ -420,7 +404,6 @@ Another purpose of this book is to get you thinking about how strengths in one c
 
 Finally, we suggest talking with close friends, colleagues, or mentors about what you read. If you have these conversations, we believe you will receive feedback that will help you identify existing areas of strength and opportunities for growth. We also encourage you to discuss the content with individuals whom you believe to have different or even critical perspectives. After all, a family member knows you in a different way than your volleyball coach does. Each has valuable information to contribute toward your development and growth. We wish you an enjoyable and insightful ride as you engage with this material and consider ways to apply EIL in your life.
 
-## ![](_page_36_Picture_2.jpeg)
 
 ### References
 
@@ -434,7 +417,6 @@ Finally, we suggest talking with close friends, colleagues, or mentors about wha
 - Meissen, G. (2010). Leadership lexicon. Journal of Kansas Civic Leadership Development, 2(1), 78–81.
 - Salovey, P., & Mayer, J. D. (1990). Emotional intelligence. Imagination, Cognition, and Personality, 9(3), 185–211.
 
-## ![](_page_38_Picture_0.jpeg)
 
 ## Part One: Consciousness of Self
 
@@ -460,7 +442,6 @@ So where do you begin? First, you need to decide that selfawareness is a priorit
 
 ual reection. This takes deliberate practice. If you are not working to better understand your motives, values, and inner workings,
 
-## ![](_page_42_Picture_2.jpeg)
 
 who will? It is not important that this introspection results in concrete answers—it is the process of introspection that is important (Avolio, 2004). To begin this process we suggest developing reection as a habit and seeking feedback to support you in this process.
 
@@ -482,7 +463,6 @@ Self-awareness can be developed simply by acknowledging that you have a place in
 
 In addition to seeking feedback, we also have many opportunities to learn more about ourselves through reection. These opportunities are occasions for enhancing our self-understanding; however, we often miss these moments. We are too busy or we dwell on situations rather than seek to learn from them. We look ahead rather than reect on
 
-## ![](_page_44_Picture_2.jpeg)
 
 what is happening in the present or what happened in the past. We can get so caught up in "doing" that we do not realize that thinking and feeling are just as important.
 
@@ -509,7 +489,6 @@ We suggest you can learn and enhance each of these capacities. You can continual
 
 As you read, think about recent experiences with family, friends, and others. As you do so, you will begin the process of reecting with an increased level of intentionality. When you do this, you uncover greater understanding of the successes, failures, and struggles you have encountered along the way. Likewise, talk with others and learn more about their perspectives. All of this will help you further develop consciousness of self.
 
-## ![](_page_46_Picture_2.jpeg)
 
 ### Student Voices
 
@@ -541,7 +520,6 @@ By pushing your limits and trying new things, you discover what you can truly ac
 - Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How difculties in recognizing one's own incompetence lead to inated self-assessments. Journal of Personality and Social Psychology, 77(6), 1121–1134.
 - Webber, A. M. (1996, June/July). Destiny and the job of the leader. www.fast company.com
 
-## ![](_page_48_Picture_2.jpeg)
 
 ### Reection Questions
 
@@ -567,7 +545,6 @@ Jose is the leader of the university programming board, and the ofcers are prepa
 
 This scenario is not all that uncommon. It happens in student organizations at all levels (high school, college, and graduate school) and group projects for class all too frequently. In our experience, students who take on leadership roles are generally achievement oriented and expect a lot from themselves and others—sometimes too much. So how does this situation relate to emotional self-perception? In large part, Jose lacked the awareness that his approach was not working and, as such, he and others became more and more frustrated. His frustrations got the best of him, and he became ineffective. His lack of emotional self-perception was a barrier for him. For whatever reason, his message or style was not connecting with others. He ignored
 
-## ![](_page_52_Picture_2.jpeg)
 
 his feelings, turned away from the real issues, and instead just dealt with the tasks on his own, which left him feeling burnt out and angry. In this scenario, Jose was, in fact, a big part of the dysfunction of the group.
 
@@ -591,7 +568,6 @@ Letting your emotions control you can lead to quick, rash decisions that don't h
 
 Emotional self-perception means you have the ability to be acutely aware of how you are feeling in real time. In other words, you are aware that anger levels are rising as they are rising. This is also known as reection in action (Torbert, 2004). With this being said, Ashkanasy (2003) suggests that at times some emotions (e.g., anger or fear) may be only "partially under our control" (p. 14). This makes emotional self-perception very difcult and complex, but being aware of our emotions is crucial. The more we focus on being in tune with our emotions, the easier it becomes, and the better we can then become at controlling our emotions and reactions (see chapter 4 on emotional self-control).
 
-## ![](_page_54_Picture_2.jpeg)
 
 ### Emotional Insight When I nd myself in emo-
 
@@ -619,7 +595,6 @@ A leader who understands his or her emotions will set an example for the team to
 
 When you know yourself and how you think and act, you can use that to look at yourself and how you affect other people. When
 
-## ![](_page_56_Picture_2.jpeg)
 
 you can see your effect on a group and their reactions, you can change your way of thought and actions to better lead the group.
 
@@ -639,7 +614,6 @@ you can see your effect on a group and their reactions, you can change your way 
 
 - Brainstorm twelve emotions you have felt in the past week. Which were most powerful? When did you experience them? What patterns do you notice, if any?
 
-## ![](_page_58_Picture_2.jpeg)
 
 - When have you used your emotions to positively inuence others? When have your emotions negatively affected others?
 
@@ -662,7 +636,6 @@ M. Scott Peck, a famous psychologist, wrote the book The Road Less Traveled. He 
 - 1. Situational stressors: These sources of stress are often brought on by unfavorable working conditions and rapid change. Leaders and followers work long hours under crisis, and it is not uncommon that dynamics change quickly. In others words, leaders and followers have little control over their situation. Each of us knows a number of student leaders working to manage this source of stress. Perhaps they are overextended, there is a family emergency, or a professor has given a last-minute assignment.
 - 2. Encounter stressors: These stressors stem from personal disagreements on issues. Encounter stressors usually occur between individuals or differing factions in the group (e.g., one group
 
-## ![](_page_62_Picture_2.jpeg)
 
 in the organization wants to haze members, while another does not). It is likely you have experienced this type of stress on more than one occasion. For instance, resident advisors (RAs) navigate these kinds of stressors on a daily basis when seeking to serve the residents, larger department, and school—all of whom may have conicting desires and needs.
 
@@ -685,7 +658,6 @@ In order to effectively manage my emotions, I have learned to gather many perspe
 
 What topics or issues cause your heart to race? Are there certain subjects about which you feel intense passion? Are there people who elicit a strong emotional response in you that is difcult to manage or control? Knowing your hot buttons and anticipating when they might be pushed are important steps toward mastering the capacity of emotional self-control. Identifying these triggers enables you to prevent instinctive reactions as your default responses. You cannot control the trigger and may not be able to control the emotional impulse, but you can regulate your thoughts, decisions, and behaviors that stem from these triggers and impulses. For example, emotional self-control means that you know yourself well enough to prevent yourself from exploding with rage, and instead, you rationally navigate
 
-## ![](_page_64_Picture_2.jpeg)
 
 the situation that triggers you. This is a crucial skill for all of us. When you manage your emotions, you are demonstrating a core capacity of emotionally intelligent leadership.
 
@@ -707,7 +679,6 @@ Managing your emotions is not as easy as turning a switch and saying that they a
 
 —Guadalupe Arce Jimenez, North Carolina State University senior, involved in a Latino/a cultural organization and the diversity commission for student government
 
-## ![](_page_66_Picture_2.jpeg)
 
 Managing emotions is crucial for a student leader. You need to know how to respond to pressure-lled situations, and if you are emotionally unstable, you could snap and ruin a relationship. It is crucial to reach out to other leaders for advice and help in managing your hectic life. By talking to people who are going through similar things, it helps you realize you're not alone.
 
@@ -733,7 +704,6 @@ As a PhD student in biomedical science, I am constantly dealing with failed expe
 - Whetten, D. A., & Cameron, K. S. (2010). Developing management skills (8th ed.). Upper Saddle River, NJ: Prentice Hall.
 - Yukl, G. (2010). Leadership in organizations (7th ed.). Upper Saddle River, NJ: Prentice Hall.
 
-## ![](_page_68_Picture_2.jpeg)
 
 ### Reection Questions
 
@@ -767,7 +737,6 @@ Your values are your foundation. It doesn't matter what you build or who you're 
 
 Authenticity also takes courage and dedication. It takes courage to know yourself well enough to choose the right path, which often is more difcult and time consuming than the "quick and easy" wrong path. Further, authenticity requires doing so in all aspects of your life—not just when you are in a specic situation or with certain people. The courage to be authentic could show
 
-## ![](_page_72_Picture_2.jpeg)
 
 itself in voicing an opinion that is different than the opinion of others or standing for something you believe strongly about. Being authentic may entail going against the grain and publicly expressing your beliefs and values.
 
@@ -789,7 +758,6 @@ Allowing yourself to be vulnerable in a group involves exposing your aws and adm
 
 Vulnerability is the birthplace of love, belonging, joy, courage, empathy, and creativity. It is the source of hope, empathy, accountability, and authenticity. If we want greater clarity in our purpose
 
-## ![](_page_74_Picture_2.jpeg)
 
 or deeper and more meaningful spiritual lives, vulnerability is the path. (p. 33)
 
@@ -821,7 +789,6 @@ Authenticity means vulnerability when it comes to leadership. When you are able 
 
 —Gregory Rokisky II, Michigan State University senior, involved in the residence hall association and food services
 
-## ![](_page_76_Picture_2.jpeg)
 
 ### References
 
@@ -838,7 +805,6 @@ Authenticity means vulnerability when it comes to leadership. When you are able 
 
 - In what situations has your authenticity been compromised? Why you do think this was the case? What was the outcome?
 
-## ![](_page_78_Picture_2.jpeg)
 
 - In what ways have you demonstrated vulnerability in a group? Did it help or hinder the group process?
 
@@ -865,7 +831,6 @@ Think of a time when you were part of a group that made you feel great just by b
 
 Just as important as strengthening your self-esteem is learning how to keep yourself in check. This is why we assert "healthy" as part of this capacity. Although showing appreciation and recognition is important, overuse can lead to exaggerated egos and an unrealistic view of hard work and success (Twenge, 2006).
 
-## ![](_page_82_Picture_2.jpeg)
 
 If any of us continuously hear praise without critique, we might experience feelings of superiority. This can lead to demeaning, exploiting, or dismissing others; narcissism; and disappointment or even depression from unmet expectations (Baumeister, Campbell, Krueger, & Vohs, 2003; Twenge, 2006). Clearly,
 
@@ -894,7 +859,6 @@ ference. You have the condence to take risks. This state of mind sets up the act
 
 While writing the rst edition of this book, Marcy's seven-year-old daughter said, "You know Mommy, it's really important to love yourself rst." When asked why, she said, "Well, you know, if you don'tlove yourselfrst, then how can youlove anyone else?" Sometimes the wisdom of a child is overwhelming. She identied one of the rst steps of developing leadership—believing in and loving yourself. This is a step toward developing resilience as well.
 
-## ![](_page_84_Picture_2.jpeg)
 
 Now, Marcy's daughter is in her early teenage years and has begun to demonstrate healthy self-esteem. The rst really bad grade she received, after years of doing all "A" work in school, was a shock to her system, yet she bounced back quickly. In middle school, she encountered peer pressure and strong social pressures. Watching her daughter manage setbacks, arguments,
 
@@ -912,7 +876,6 @@ These questions get at the overarching question of "When is enough, enough?" Cer
 
 Scott has struggled with this notion of not saying "No" much of his adult life; as a result he takes on too much, which affects his health, his family life, his relationships with friends, and at times, his overall mental state. The source of why Scott feels compelled to say "Yes" is an interesting concept for exploration. Is it simply his love for the work? Or, is it to please others? Does it help him feel accepted and prove his worth to receive external validation from others? These are some big questions that he has been
 
-## ![](_page_86_Picture_2.jpeg)
 
 working on for years, and although he is better at saying "No," he still has work to do in this realm. This all revolves around the challenges of healthy self-esteem.
 
@@ -981,7 +944,6 @@ Consider a student who takes charge of a group project in class because she feel
 
 As the previous example suggests, exibility is about more than just changing your leadership style. It also means being open
 
-## ![](_page_92_Picture_2.jpeg)
 
 to different ideas, perspectives, and opinions. Being exible from the standpoint of EIL means being willing to change your mind based on new information or experiences. In fact, EIL demands that we continually examine situations to broaden our perspective and see our environment through different lenses. Can you think of a coach, teacher, supervisor, or coworker who exemplies this capacity? How does it affect others?
 
@@ -1007,7 +969,6 @@ This is just one example of how we all experience situations differently and not
 
 When we seek out others' perspectives and learn from them, we develop a more holistic view of the situation. This results in more informed decisions and solutions. In addition, gathering input and ideas from other people helps them feel more involved
 
-## ![](_page_94_Picture_2.jpeg)
 
 in the process of leadership. When others feel their ideas and feedback are taken into consideration, they are more likely to support the nal outcome or decision. Even if their course of action is not always chosen, they will likely be more invested in the process because they felt they were heard.
 
@@ -1033,7 +994,6 @@ Before, during, and after every meeting, my team knows they are encouraged to gi
 
 Blanchard, K. H., Zigarmi, D., & Nelson, R. B. (1993). Situational leadership after 25 years: A retrospective. Journal of Leadership Studies, 1(1), 21–36. Goleman, D. (2001). An EI-based theory of performance. In C. Cherniss & D. Goleman (Eds.), The emotionally intelligent workplace: How to select for, measure, and improve emotional intelligence in individuals, groups, and organizations (pp. 27–44). San Francisco, CA: Jossey-Bass.
 
-## ![](_page_96_Picture_2.jpeg)
 
 ### Reection Questions
 
@@ -1073,7 +1033,6 @@ Think about your own experiences. Have you had the opportunity to be part of a g
 
 So what tone do you set when leading others? Do people enjoy working with you? Do people choose to spend time with you? Are you a positive inuence on the organization or an energy drain?
 
-## ![](_page_100_Picture_2.jpeg)
 
 These questions can help you identify your attitude and abilities as they relate to optimism. According to research,
 
@@ -1099,7 +1058,6 @@ If a student leader lacks optimism, it can be like an airborne virus, infecting 
 
 —Jade Sydney Alexis Kendle, University of North Texas senior, involved in Greek life, the progressive Black student organization, and as a campus life ambassador be dangerous, risky, and extremely difcult, yet that side of leadership is seldom revealed. Leadershipis rarelyfreefrom con ict, challenge, and stress. Being optimistic does not mean that you are oblivious to real issues, blind to the challenges facing the group, or insincerely positive. In fact, emotionally intelligent leadership often means being the catalyst for the conict. In concertwith other EIL capacitieslike managing conict, analyzing the group, and assessing the environment, emotionally intelligent
 
-## ![](_page_102_Picture_2.jpeg)
 
 leaders see complexities and problems as inherent in all organizations. While sometimes this means actively working to overcome them, at other times it may mean making the tough decision. Realistic optimism helps us approach situations and relationships in a different manner by which we understand, and even expect, that challenges are part of the work. Thus, you are better prepared to engage with others to move through or past them without dwelling on the negatives. Realistic optimism means you see the possibilities without overlooking the realities.
 
@@ -1117,7 +1075,6 @@ Optimism is the key to a great leader! No one wants to be a member of an organiz
 
 In looking at these two scenarios, the former is certainly favorable. We all know, though, that the organizations and groups in which we are involved will not always experience success. Every organization has issues. A key question is: Are you willing to be part of the solution? Addressing this question from the perspective of EIL means understanding the challenges, seeing opportunities, and being willing to work toward a resolution. In effect, this means we recognize the challenges but choose our attitude (Lundin, Paul, & Christensen, 2000). By choosing our attitude, we take responsibility for our attitude and make adjustments as needed. If we succumb to pessimism, we see how negative energy sucks the life out of an organization—similar to a Dementor in the Harry Potter series. We are reminded of the words of Remus Lupin to Harry, "Dementors are among the foulest creatures that walk this earth … They drain peace, hope, and happiness out of the air around them … Get too near a Dementor and every good feeling, every happy memory will be sucked out of you" (Rowling, 1999, p. 187). Ever known a person like that?
 
-## ![](_page_104_Picture_2.jpeg)
 
 ### Tough Questions …
 
@@ -1139,7 +1096,6 @@ Leaders should have a clear view of the goal that they want to reach. If they la
 
 —Nicole Olson, Central Michigan University graduate student, involved in Greek life, a leadership organization, and a health organization
 
-## ![](_page_106_Picture_2.jpeg)
 
 A leader without optimism creates animosity and a hostile environment. Those who work with the leader can lose interest in things they once were interested in and often nd the leader unapproachable, which encroaches on the foundation of a working group.
 
@@ -1162,7 +1118,6 @@ A leader without optimism creates animosity and a hostile environment. Those who
 
 - When have you seen optimism affect organizations? How about a lack of optimism?
 
-## ![](_page_108_Picture_2.jpeg)
 
 - What specic behaviors do you employ to breathe life and energy into your organization(s)?
 
@@ -1194,7 +1149,6 @@ A teacher once told us, "If you want to do something great, put yourself in a po
 
 In each and every organization there are problems. Whether it is a fraternity that hazes its new members, a student government bogged down by gridlock, or a new organization trying to recruit members and develop traditions, leadership can move an organization past its challenges and unhealthy behaviors. This only happens, however, when someone takes the rst step and speaks out against the norm or takes an unknown path. This can be risky business. Thus, initiative takes courage because
 
-## ![](_page_112_Picture_2.jpeg)
 
 leadership can be dangerous. Simply look at the names mentioned earlier in this chapter and you will see what we mean. Think about your own organizations. The thought of losing friends, not being cool, looking foolish, or not succeeding are enough to stop many people from taking initiative. Fear of failure causes many of us to stall, hold off, or choose a safer path. EIL helps us take that rst, difcult step.
 
@@ -1216,7 +1170,6 @@ So what does a healthy level of initiative look like? In our work, ve major acti
 
 First, taking initiative means seeing a gap or opportunity and acting to ll it. For example, within a student organization you may see an opportunity to grow your organization and actively seek ways to enhance the group. In your personal life, you may see a friend with an eating disorder and try to help. Taking initiative means you are actively engaged; you see an opportunity
 
-## ![](_page_114_Picture_2.jpeg)
 
 to act and do so. Taking action and pushing through challenges are key components of initiative.
 
@@ -1238,7 +1191,6 @@ We love the following quote from our friend Denny Roberts (2007): "To envision i
 
 Initiative means that when you discover a closed door, you see it as just that—a closed door, waiting to be opened. Of course this
 
-## ![](_page_116_Picture_2.jpeg)
 
 can be taken to an unhealthy extreme, so it is important to turn to others for feedback, guidance, and support. After all, it is just as important to know when not to take initiative, hold off, take a more measured approach, or look for opportunities elsewhere.
 
@@ -1268,7 +1220,6 @@ Kouzes, J., & Posner, B. (2007). The leadership challenge: How to keep getting e
 
 Roberts, D. (2007). Deeper learning in leadership: Helping college students nd the potential within. San Francisco, CA: Jossey-Bass.
 
-## ![](_page_118_Picture_2.jpeg)
 
 ### Reection Questions
 
@@ -1306,7 +1257,6 @@ To connect this concept to you, think about your past academic year. Which subje
 
 When engaging in activities you love, it is not difcult to set high standards and tap into your internal drive to succeed. Because leadership is difcult, taking on the responsibilities and the risks of leadership is made easier when you love what you
 
-## ![](_page_122_Picture_2.jpeg)
 
 are doing. Finding your passion, however, may take some time. Getting involved by joining organizations or clubs, getting an internship or job, serving on a board, or volunteering in the community helps you develop as a leader. Research shows holding a formal leadership role is positively associated with developing student leadership capacity (Haber, Allen, Facca, & Shankman, 2012; Haber & Komives, 2009; Posner & Rosenberger, 1997). By afliating with organizations for which you have a passion, you will be intrinsically motivated. This means you are naturally driven to perform in that realm. No one needs to motivate you to work hard or be committed to your responsibilities.
 
@@ -1334,7 +1284,6 @@ A student leader is too focused on achievement when, at the end of their term as
 
 Remember, leadership is about influencing others to
 
-## ![](_page_124_Picture_2.jpeg)
 
 achieve results—not doing everything yourself. If you are consistently the only person working above and beyond expectations, you may be focused on the wrong objective and may not be providing opportunity for others to contribute. One objective of leadership is getting others to work above and beyond with you. Otherwise, you are not leading anything; you are just doing a lot of stuff, and no one is following or working alongside you.
 
@@ -1365,7 +1314,6 @@ A student has a healthy level of achievement when failure does not paralyze him 
 - Haber, P., & Komives, S. R. (2009). Predicting the individual values of the social change model of leadership development: The role of college students' leadership and involvement experiences. Journal of Leadership Education, 7(3), 123–156.
 - Posner, B. Z., & Rosenberger, J. (1997). Effective orientation advisors are also leaders. NASPA Journal, 35(1), 46–56.
 
-## ![](_page_126_Picture_2.jpeg)
 
 ### Reection Questions
 
@@ -1377,7 +1325,6 @@ A student has a healthy level of achievement when failure does not paralyze him 
 
 - What achievement(s) in your life are you most proud of?
 
-## ![](_page_128_Picture_0.jpeg)
 
 ## Part Two: Consciousness of Others
 
@@ -1411,7 +1358,6 @@ None of us is as smart as all of us.
 
 ## —Ken Blanchard, leadership author within consciousness of others encompass skills, abilities, and other characteristics that are essential when working with others.
 
-## ![](_page_132_Picture_2.jpeg)
 
 ### The Interpersonal Dimension of Leadership
 
@@ -1447,7 +1393,6 @@ No single individual is capable of covering all the bases and thinking outside a
 
 —William Lehman, Michigan Technological University senior, involved in Greek life, a LGBT pride group, an a cappella group, and a psychology association
 
-## ![](_page_134_Picture_2.jpeg)
 
 I often ask people who tend to be a little quieter what they think; they tend to have perspectives that not everyone had thought of.
 
@@ -1504,7 +1449,6 @@ We think it is important to discuss this four-step process in greater depth. As 
 
 One way to move empathy from an intangible idea to a practical skill is to think about empathy in the context of communication. For example, when you listen empathetically, you hear people's words using your ears, eyes, and heart. In other words, you hear
 
-## ![](_page_140_Picture_2.jpeg)
 
 what is said along with how those words are spoken. You listen for the tone used and the emotions that may exist behind the words. You notice body language. You focus on what they are saying, not on what you want them to be saying or what you want to say back. Many people are familiar with Stephen Covey's quote, "Seek rst to understand, then be understood."
 
@@ -1526,7 +1470,6 @@ As you better understand the other person's perspective and discover differences
 
 Finally, be sure you explore the limitations of your own thinking and behavior. Knowing your ownlimitations strengthens your ability to display empathy. Seeing that you have limited points of view is challenging because ego and emotions will cloud your judgment and perspective. So, it is important to look within and explore what you may not see (your blind spots) or what you do not see fully because of bias, past experiences, or limited knowledge. Your willingness to examine your own limitations will diffuse a tense situation and help you identify with the other individual. Again, you
 
-## ![](_page_142_Picture_2.jpeg)
 
 may not agree, but you may examine the situation better because of a more empathetic approach.
 
@@ -1560,7 +1503,6 @@ When leaders lack empathy, it becomes highly difcult for them to collaborate wit
 
 —Zabebah Mohamed, College of Staten Island - CUNY graduate student, involved in a leadership program
 
-## ![](_page_144_Picture_2.jpeg)
 
 ### References
 
@@ -1604,7 +1546,6 @@ The most genuine way to inspire others is to be the most accurate representation
 
 —Alexandria Whittler, Loyola University Chicago sophomore, involved in the Black cultural center
 
-## ![](_page_150_Picture_2.jpeg)
 
 A second challenge associated with energizing others is that it can take a lot of energy out of you. Leadership scholar Bernard Bass (1990) suggested, "The inspirational leader has to have insight into what will be challenging to a follower and for what reasons" (p. 207). This can be an exhausting process. Not only do you have to manage your own emotions (emotional self-perception and emotional self-control), inspiring others means you are also expected to inuence the emotional state of others. This is at the heart of emotional intelligence.
 
@@ -1625,7 +1566,6 @@ In the introduction to this chapter we suggest that inspiring others can be acco
 - 3. Relationships: A strong connection with others is the glue that holds organizations, teams, and groups together. Your ability to develop relationships will support your leadership efforts. Through building relationships, you can understand the people you are working with as peers or colleagues, not a random group of strangers. Your ability to develop meaningful relationships can inspire others.
 - 4. Ideas: Your thoughts and ideas can be a source of inspiration. Innovative thinking is highly valued in many groups, and your ability to create and share novel ideas can inspire others, particularly if you can help them become invested in your ideas. Kouzes and Posner (2012) call this inspiring a shared vision, which can serve as a great source of motivation among a group. Many thought leaders have transformed our world and inspired millions through innovative ideas—think about Albert Einstein, W. E. B. Du Bois, Margaret Mead, Thomas Edison, and Marie Curie.
 
-## ![](_page_152_Picture_2.jpeg)
 
 Finally, one of the best ways to inspire others is to make them feel heard and valued. Emotionally intelligent leaders understand that inspiring others includes caring about them, their interests, their successes, and where they t into the organization. It means showing that you understand what they need and want, which reects the EIL capacity of displaying empathy.
 
@@ -1653,7 +1593,6 @@ My passion and love for my ethnicity helped me make my vision of creating a Jewi
 
 —Tashiko Osiyo Del Toro Weinstein, Portland State University sophomore, involved in the resident housing association and the Jewish student union
 
-## ![](_page_154_Picture_2.jpeg)
 
 Inspiration happens when you can tap into individuals' emotions and the emotions of the group.
 
@@ -1677,7 +1616,6 @@ Zenger, J., & Folkman, J. (2013). What inspiring leaders do. HBR Blog Network. h
 
 - Do you consider yourself inspirational? If so, in what way(s)? If not, what have you learned in this chapter that could help you become more inspirational?
 
-## ![](_page_156_Picture_2.jpeg)
 
 - How do you know what is inspiring to others? How do you know what others are looking for in a leader?
 
@@ -1711,7 +1649,6 @@ Coaching is not one-directional. It involves mutual respect and reciprocity. Eff
 
 In the examples listed, helping someone learn a skill or acquire new knowledge is a priority. Coaching serves the essential function of creating a pipeline in which others become more procient, adept, knowledgeable, and effective in their own leadership. Helping others develop skills and talents translates into greater capacity for not only that person, but also any group or organization to which they belong. This is often referred to
 
-## ![](_page_160_Picture_2.jpeg)
 
 as succession planning. When leaders help others develop, they are demonstrating other EIL capacities like achievement and citizenship, thus enabling others to maximize their contributions.
 
@@ -1736,7 +1673,6 @@ The rst key skill, listening, allows us to assess another person's strengths and
 
 In coaching, the biggest difference you can make is to encourage others to talk about their needs, interests, passions, concerns, and hopes. When listening at this level, you can focus on knowing others well enough to help them enhance their knowledge and abilities. Hearing this perspective from others helps you create opportunities and make specic suggestions for them to learn and develop. From personal experience, when Marcy coaches others, she listens intently for what they need and where they are, and then she tailors her response appropriately. Marcy has found that
 
-## ![](_page_162_Picture_2.jpeg)
 
 only after this careful listening can she know whether to offer suggestions when someone is not stretching enough or, the opposite, to offer support if the person is reaching too far.
 
@@ -1760,7 +1696,6 @@ Effective coaching is all about challenging students to think about how the work
 
 —Daniel De Hollander, University of Arizona graduate student, involved in the Disney College Program alumni association, as a Greek Life graduate intern, and a student affairs outreach graduate assistant
 
-## ![](_page_164_Picture_2.jpeg)
 
 Coaching others involves two learners. One person is learning some material or skill, and the other person is learning the best way to motivate this person to be the best that they can be. A good coach recognizes that he or she will always be learning on the job and that each new person will present a new lesson.
 
@@ -1788,7 +1723,6 @@ Mc Cauley, C. D., & Van Velsor, E. (Eds.). (2003). The Center for Creative Leade
 
 - Have you seen coaching in your organization or workplace? If so, how have you experienced it? If not, how could coaching help?
 
-## ![](_page_166_Picture_2.jpeg)
 
 - What do you think you do well that would make you an effective coach? What might you need to improve so you could be more effective as a coach?
 
@@ -1820,7 +1754,6 @@ It may sound trite, but there is great truth in the statement that the world is 
 
 Research suggests a person's values and practices, which are linked to society and culture, affect what leaders do and how they interact with others; they also affect the culture and practices of their organizations (House, Javidan, Hanges, & Dorfman,
 
-## ![](_page_170_Picture_2.jpeg)
 
 2002). Thus, it is important to understand how our values and perspectives inuence our approach to leadership. When we recognize that we might not only see the world differently or possess different skills but also have different core values, then we uncover the reason why we may struggle to nd common ground or shared goals with another person. As you get involved in leadership, you also recognize how and why other people may differ in their approaches to leadership (Ayman & Korabik, 2010).
 
@@ -1848,7 +1781,6 @@ status |
 | physical
 appearance | upbringing |
 
-## ![](_page_172_Picture_2.jpeg)
 
 The outermost realm, experience, reects how we are also inuenced by what we have done and what we are currently doing. We develop through education, acquired knowledge, work experience, employment level, eld of employment, hobbies, area of
 
@@ -1872,7 +1804,6 @@ Strengths are another way of recognizing difference. As the circles of differenc
 
 Capitalizing on difference is a capacity that challenges each of us on a variety of levels. We may feel most comfortable by sticking with what or whom we know—focusing on our similarities. But in today's world, this choice is getting harder to make and proving to be less and less benecial. Although difference may challenge us and lead to discomfort and conict, it also offers untapped potential. When difference is understood and effectively leveraged, new opportunities, creative problem solving, broader understanding, and the possibility of transformative change are more likely. This is evident in many contexts across the globe, in our communities, on our campuses, in our organizations, and in ourselves.
 
-## ![](_page_174_Picture_2.jpeg)
 
 Like leadership development, capitalizing on difference is a lifelong process. There will be situations and people that may make us uncomfortable or take us outside of our comfort zone. Think of these as opportunities to continue to develop the capacity of capitalizing on difference. By developing other EIL capacities such as emotional self-perception, empathy, authenticity, developing relationships, and building teams, we can successfully move past viewing difference as a hindrance and see it as a great opportunity.
 
@@ -1904,7 +1835,6 @@ Differences allow things to move on from status quo. They are what drive the soc
 - Shriberg, D., & Shriberg, A. (2011). Practicing leadership: Principles and applications. Hoboken, NJ: Wiley.
 - Terrell, R. D., & Lindsey, R. B. (2009). Culturally procient leadership: The personal journey begins within. Thousand Oaks, CA: Corwin Press.
 
-## ![](_page_176_Picture_2.jpeg)
 
 ### Reection Questions
 
@@ -1982,7 +1912,6 @@ Through networking, individuals are able to go beyond their own experiences and 
 
 —Scott Willis, John Carroll University junior, involved in the student alumni association, intramural sports, and as a tour guide, orientation leader, and student athletic trainer
 
-## ![](_page_184_Picture_2.jpeg)
 
 Networking leads to relationships with people who have different backgrounds and much advice to offer. Never pass up an opportunity to network—you never know how you will grow as a person by meeting someone new.
 
@@ -2030,7 +1959,6 @@ It is also likely that you have witnessed the challenges that ensue when teamwor
 
 Building teams from a leadership perspective means focusing on the essential building block: the individual. Individuals bring unique experiences, skills, and perspectives to a team. Teams are comprised of differentiated roles, both formal (e.g., president, marketing director, community service chair) and informal
 
-## ![](_page_190_Picture_2.jpeg)
 
 (e.g., motivator, devil's advocate, spokesperson). Being aware of and clarifying these roles is important for a group to work together effectively.
 
@@ -2056,7 +1984,6 @@ Teams experience these stages at different rates during their development. Not a
 
 In addition to Tuckman's stages, Patrick Lencioni (2002), author of The Five Dysfunctions of a Team, identies ve dysfunctions that can negatively affect a team's performance. Through examining these dysfunctions, we can identify key commitments team members can make to help build an effective team. These dysfunctions, and resulting commitments to combat these dysfunctions, follow:
 
-## ![](_page_192_Picture_2.jpeg)
 
 | Five
 Dysfunctions
@@ -2137,7 +2064,6 @@ Communication is an essential process for building teams. When communication is 
 
 Consider the ways in which you communicate within a group or team. Do you voice your ideas and opinions when it's important to do so? Do you build on and add to others' ideas? Do you take time to listen, and we mean really listen, to what others are saying? Are you comfortable with silence? Are you aware of what messages your nonverbal cues may be
 
-## ![](_page_194_Picture_2.jpeg)
 
 communicating to the group? We cannot stress enough the signicant role communication plays in building teams and emotionally intelligent leadership.
 
@@ -2168,7 +2094,6 @@ Everyone on the team has an asset to contribute for the betterment of the team. 
 - Tuckman, B. (1965). Developmental sequence in small groups. Psychological Bulletin, 63(6), 384–399.
 - Wheatley, M. (2002). Turning to one another: Simple conversations to restore hope to the future. San Francisco, CA: Berrett-Koehler.
 
-## ![](_page_196_Picture_2.jpeg)
 
 ### Reection Questions
 
@@ -2210,7 +2135,6 @@ How an individual lives each of these statements depends, in large measure, on w
 - Resident assistant/advisor: Being available to your residents, building a sense of community within the residence hall, working collaboratively with your fellow resident assistants, fullling your formal responsibilities, and having a commitment to the larger residential life organization
 - Student government: Conducting work with your constituents' interests in mind, modeling ethical behavior, supporting the
 
-## ![](_page_200_Picture_2.jpeg)
 
 - values of the institution, serving as an ambassador to administrators, setting policy, and following through on commitments
 - Tour guide/Orientation leader: Staying current on campus issues, maintaining a positive attitude when meeting prospective students and families, supporting the values of the institution, providing trustworthy information, and serving as a good role model
@@ -2236,7 +2160,6 @@ As a member of a group or organization, you can play an important role in encour
 
 Taking everything on yourself, however, is not sustainable for you or the organization. It is important to examine your organization to ensure that members have multiple ways to be engaged, involved, and committed. Is everyone aware of the mission and values of the organization? Does everyone know what it
 
-## ![](_page_202_Picture_2.jpeg)
 
 means to act in line with the mission and values? Are expectations set for what it means to be an active member in the organization? Do people feel appreciated and recognized for their contributions? Are there ways for members to have a voice?
 
@@ -2266,7 +2189,6 @@ Giving group members tasks and responsibilities early and trusting them to compl
 
 Kelley, R. E. (1995). In praise of followers. In J. T. Wren (Ed.), The leader's companion (pp. 193–204). New York, NY: Free Press.
 
-## ![](_page_204_Picture_2.jpeg)
 
 ### Reection Questions
 
@@ -2306,7 +2228,6 @@ Conict arises for many different reasons. In formal and informal groups as well 
 - 4. Conicting goals: Although the overall mission and purpose may be the same, individual goals and benchmarks for success can vary dramatically. Likewise, people may have different viewpoints on priorities or even objectives related to goals.
 - 5. Conicting pressures: Because of different roles and responsibilities in groups and organizations, each of us experiences differing levels of pressure. An impending deadline for the leader of a program will be felt more intensely than individual members of the team.
 
-## ![](_page_208_Picture_2.jpeg)
 
 - 6. Conicting roles: Whether the group is formal and informal, no two individuals play the same role. This source of conict may result from conicting needs and goals.
 - 7. Conicting values: Similar to conicting styles, conict can result from a difference of values. If our personal values con ict with another's, we can experience struggles over what is right or the correct course of action.
@@ -2326,7 +2247,6 @@ To address the different sources of conict, consider the following approaches to
 - Avoiding: You are willing to give in to the situation or give up before a conict starts. This may mean you postpone dealing with the issue or you simply withdraw from any conversation. The downside of this approach is that issues fester and are not resolved.
 - Accommodating: You sacrice what you want to help the situation get resolved. You put the other person's needs ahead of your own and work to nd a solution to satisfy that person more than yourself. The downside of this approach is that you put the
 
-## ![](_page_210_Picture_2.jpeg)
 
 others' needs in front of your own and as a result may become disinvested in the situation.
 
@@ -2354,7 +2274,6 @@ People are more willing to listen if they feel that they have been heard. You ca
 
 —Kacie Nice, Purdue University senior, involved in residence life, student newspaper, and student government
 
-## ![](_page_212_Picture_2.jpeg)
 
 It is important to be calm when handling conict. Your own agenda should not be pushed, but rather an agenda of compromise and resolution.
 
@@ -2403,7 +2322,6 @@ Facilitating change involves demonstrating innovative thinking, seeking opportun
 
 One widespread myth about facilitating change is that all you need is a great idea, and people will buy in and follow you. In reality, facilitating change requires more than having the idea. To bring change about, you "recognize the need for change and
 
-## ![](_page_218_Picture_2.jpeg)
 
 remove barriers, challenge the status quo … enlist others" to assist in making change happen (Goleman, 2011, p. 193). Thus, you must work in concert with others in the context of a situation, which brings together all of the facets of EIL. Consciousness of self, consciousness of others, and consciousness of context are essential and interconnected when facilitating change.
 
@@ -2461,7 +2379,6 @@ Persistence and condence are two essential elements a leader needs if they hope 
 
 —Marc Jeremy Cohen, University at Albany, State University of New York sophomore, involved in student government, a law fraternity, and as a student delegate to the university faculty senate
 
-## ![](_page_222_Picture_2.jpeg)
 
 ### References
 
@@ -2484,13 +2401,11 @@ Persistence and condence are two essential elements a leader needs if they hope 
 
 - If you could have \_\_\_\_\_\_ any way you would like it to be, what would it look like? Fill in the blank with an area for change—a familiar context, setting, relationship, or a cause or an issue about which you are passionate. Once you've lled in the blank, think about what change you would want to see.
 
-## ![](_page_224_Picture_2.jpeg)
 
 - Referring to the previous question, think through how you can begin to make the changes happen. What are some important rst steps? Who can help? When is the right time to initiate that change process?
 
 - What type of change agent are you? What situations may call for a different way of facilitating change?
 
-## ![](_page_226_Picture_0.jpeg)
 
 ## Part Three: Consciousness of Context
 
@@ -2523,7 +2438,6 @@ The context for leadership provides many challenges and opportunities; however, 
 
 Think about a soccer team for a moment. You have the formal leader (the coach), the followers (team members), and the context (eld conditions, weather, time of day, country, level of competition). The coach may use a certain leadership style one year and experience great success given who is on the team, how they respond to her, and the quality of play in the league. However, the following season, many of the factors change. As
 
-## ![](_page_230_Picture_2.jpeg)
 
 such, the coach will likely need to change her motivational style, the workouts and practice, and her approach to bringing out the best in the team to remain successful. If the coach is unable to understand and adapt to the needs of each player and the overall context, she will not be effective or successful in achieving the desired outcomes.
 
@@ -2547,7 +2461,6 @@ EIL involves inspiring and meeting the needs of a group or community in a dynami
 
 Think of a time when you experienced great success in leadership. Now think of a time when you failed. In all likelihood little about you changed; however, your context probably did.
 
-## ![](_page_232_Picture_2.jpeg)
 
 Being aware of context is vitally important to EIL. Consciousness of context requires the ability to look within your organization as well as outside of it to understand what may be inuencing your organization or your role, what opportunities may exist, and what challenges may arise. Thus, the two consciousness of context capacities are:
 
@@ -2573,7 +2486,6 @@ Being involved in a leadership position with my fraternity really meant I had to
 - Fiedler, F. (1972). The effects of leadership training and experience: A contingency model interpretation. Administrative Science Quarterly, 17(4), 453–470.
 - Liden, R. C., & Antonakis, J. (2009). Considering context in psychological leadership research. Human Relations, 62(11), 1587–1605.
 
-## ![](_page_234_Picture_2.jpeg)
 
 ### Reection Questions
 
@@ -2605,7 +2517,6 @@ Edgar Schein (1999) introduces an onion as a metaphor for understanding the comp
 
 However, there are many layers, and getting involved and spending time in the organization or group exposes the different layers of organizational life. Who is actually in charge and inuences the group? We have all been part of a group where the person with the title is not the most inuential person in
 
-## ![](_page_238_Picture_2.jpeg)
 
 the group. What are the values of the group that drive decisions? Who forms the in-group, and who are the outsiders? When you ask these questions and discover the answers, you are analyzing the group, which helps you become more informed in your actions and decisions.
 
@@ -2637,7 +2548,6 @@ Usually the values of a group reflect the values of participants. If a leader ca
 
 Many of the skills that support your ability to analyze the group develop over time and develop with experience. You learn how to navigate a group by being involved and active. You develop your capacity to perceive and read social dynamics and networks of influence by becoming part of the networks themselves. Heifetz, Grashow, and Linsky (2009) describe the strategy of "being on the balcony" as
 
-## ![](_page_240_Picture_2.jpeg)
 
 one of the hallmarks of effective leadership. For instance, if you are on the balcony at a dance, you gain perspective and understanding of what is going on more easily than if you were on the dance oor itself. You can see the bigger picture by being on the balcony. With group dynamics, this means you see patterns of behavior—who is opting out of the activity, who holds the power, who is building coalitions, and so forth.
 
@@ -2668,7 +2578,6 @@ Values set the standard for effective leadership. By following a set of establis
 
 Organizations divide workloads differently. I think it's important to remember that the leaders who make the largest impact are servant leaders. Understanding that serving others will
 
-## ![](_page_242_Picture_2.jpeg)
 
 make them more likely to follow your example will help an organization to grow.
 
@@ -2692,7 +2601,6 @@ The values of an organization are essentially the heart of an organization. Thos
 
 - Think about a time when you were part of a group and discovered the unwritten rules for that group. What were these rules, and how did they affect the group and its members? How did they affect you?
 
-## ![](_page_244_Picture_2.jpeg)
 
 - How can you develop your awareness of the elements of organizational culture (symbolic, role, interactive, and context)?
 
@@ -2722,7 +2630,6 @@ Now, imagine this tree is an organization. Similar external factors can affect i
 
 Organizations of all types face a number of external forces that affect their ability to thrive. Assessing the environment means we
 
-## ![](_page_248_Picture_2.jpeg)
 
 are aware of these forces (e.g., positive and negative, opportunities and threats), determine the inuence of these forces, and lead the organization accordingly. On campus, for instance, assessing the environment includes:
 
@@ -2753,7 +2660,6 @@ To get a sense of how to recognize the inuence of the environment on leadership,
 
 As you reect on these questions (and others), imagine yourself as an external consultant or anthropologist trying to observe the organization and these dynamics from the outside. Notice but do not engage. What conclusions can you draw about the organization through this perspective? How can you use these conclusions to inform your actions? Assessing the environment means you observe and diagnose so that when you take action, you are more informed. Taking this to the next level, the real challenge lies in being able to observe the organization from a broader perspective while also engaging within the organization. Leadership scholar Donald Schön (1984) calls this "reection in action," which is similar to getting on the balcony, as discussed in the previous chapter (Heifetz, 1994).
 
-## ![](_page_250_Picture_2.jpeg)
 
 This difcult, yet crucial, skill for emotionally intelligent leadership must be practiced intentionally. Why? For most of us, it is easiest to jump in and react to stimuli or default to preprogrammed responses rather than observe. It is also easy to lose sight of the big picture and focus on only what is in front of you. Learning how and what to observe comes with experience and deliberate practice. What can you do to boost your capacity to assess the environment? Try to notice how the larger community affects an organization's events or leaders' decisions. Leaders who are aware of their environment use that knowledge of key external forces to determine a course of action. Where do you see this happening?
 
@@ -2781,7 +2687,6 @@ Clampitt, P. G., & De Koch, R. J. (2001). Embracing uncertainty: The essence of 
 
 Heifetz, R. A. (1994). Leadership without easy answers. Cambridge, MA: Harvard University Press.
 
-## ![](_page_252_Picture_2.jpeg)
 
 - Schön, D. A. (1984). The reective practitioner: How professionals think in action. New York, NY: Better Books.
 - Western, S. (2008). Leadership: A critical text. London, England: Sage.
@@ -2794,7 +2699,6 @@ Heifetz, R. A. (1994). Leadership without easy answers. Cambridge, MA: Harvard U
 
 - What external forces can you anticipate affecting your organization or workplace in the future?
 
-## ![](_page_254_Picture_2.jpeg)
 
 - If you're involved in a student organization, what school or campus dynamics do you see as providing opportunities or threats to your organization's future?
 
@@ -2825,7 +2729,6 @@ After all, it is in reection that learning occurs. Think about it—football pla
 
 Surround yourself with people who want to support your growth and development. Let friends, family members, mentors, coaches, and co-workers know you want to improve and develop. By
 
-## ![](_page_258_Picture_2.jpeg)
 
 doing so, you will invite them to help you, and they can help hold you accountable to the goals you have identied. Sharing with others that you want to improve yourself can be challenging because it places you in a vulnerable position. However, when others know you are trying to learn something new, they tend to be more understanding of mistakes and perhaps more interested in helping you learn.
 
@@ -2841,7 +2744,6 @@ Finally, remember that you will never be nished with this work. The process of d
 
 In the end, all of us have an opportunity to engage in leadership. Some of us will monitor this process intentionally and some will not. This book is a guide to help you identify the critical capacities necessary for becoming more effective. EIL is about combining your natural abilities with greater awareness and hard work. You have your own unique set of talents and capacities. And you have the potential to develop more. We wish you the best on
 
-## ![](_page_260_Picture_2.jpeg)
 
 your path and hope you are successful in making your dreams, and the dreams of others, a reality.
 
@@ -3275,7 +3177,6 @@ and
 openness |
 ## | | |
 
-## ![](_page_268_Picture_2.jpeg)
 
 to, 72–73; ideas and openness to, 72–73; leader for positive, 7; leadership and importance of, 7, 198; reection questions on, 204–205; resistance to, 201; students on, 202; timing in, 201 Charisma: inspiration of others and, 130; leadership and, 7 Choice: of attitude, 85; change through, 202 Cimino, Victor, 141 Citizenship: denition and nature of, 179, 180; enabling group, 182–183; examples of, 180–181; "greater whole" recognized in, 179–181; by group, 180–181; leadership demonstrated through, 181–182; practicing, 180; reection questions on, 185–186; students on, 183–184 Clampitt, Phillip, 231 Clar, Ken, 105 Classroom, citizenship in, 181 Clements, Rebecca, 95 Clinton, Hillary Rodham, 46, 80 Coaching others: approach found in, 144; assessing, challenging, and supporting in, 142; denition and nature of, 139, 140–141; developing others in, 139–140; essential skills in, 142–144; examples of, 139–140, 142–144; feedback in, 143; goal setting in, 143; lasting results and relationships in, 141; listening in, 142–143; new knowledge or skills in, 140–141; reection questions on, 146–147; students on, 144–145 Cohen, Mark Jeremy, 202 Collaboration, 190 Colleagues, friends, and mentors, 16–17 Communication: in EIL, 238–239; in team building, 174–175 Competition, 190 Compromise, 190 Conchie, B., 153–154 Condence, initiative and, 95 Conict and conict management : approaches in, 190–191; awareness of others in, 191; denition and nature of, 187–188; energy harnessed in, 187–188; examples of,
 
@@ -3283,7 +3184,6 @@ to, 72–73; ideas and openness to, 72–73; leader for positive, 7; leadership 
 
 Conict and conict management (continued) 189–190, 191; goals and, 188; harmony maintained in, 191–192; inaction and inability of, 94; leadership and, 187; needs and, 188; optimism regarding, 83; perceptions and, 188; reection questions on, 194–195; roles and, 189; sources of, 188–190; stress and, 188; students on, 192–193; styles and, 188; values and, 189 Connectors, in leadership, 161 Consciousness of context, 10–11, 14; change and, 210–211; context in, 209–210, 212–213; denition and nature of, 209; examples of, 209–212; reection questions on, 215–216; setting and situation in, 209–210; students on, 213; work-based scenario for, 211–212. See also Environment and environment assessment; Group analysis Consciousness of others, 10, 14; capacities of, 113–114; in EIL, 111–114; leadership as team effort and, 111–112; reection questions on, 116–117; students on, 114–115. See also Change; Citizenship; Coaching others; Conict and conict management; Difference; Empathy, displaying; Inspiration, of others; Relationships; Team building Consciousness of self, 10, 14; in EIL, 21–22, 25–26; feedback sought in, 23–24; intrapersonal leadership in, 21–22; questions regarding, 29–30; reection in, 24–25, 26, 29–30; self-awareness in, 22–23, 25–26; student voices in, 26–27. See also Achievement; Authenticity; Emotional self-control; Emotional self-perception; Flexibility or adaptability; Initiative; Optimism; Self-esteem, healthy Context: in consciousness of context, 209–210, 212–213; in EIL, 9–10, 14; strength or limitation
 
-## ![](_page_270_Picture_2.jpeg)
 
 depending on, 16. See also Consciousness of context "Core," difference and, 151 Courage, 52–53 Couto, D., 159, 188 Covey, S., 121 Credibility. See Trustworthiness and credibility Crosby, Philip, 71 Curie, Marie, 132 D Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead (Brown), 54 Darnell, Maggie Rachelle, 160 Day, D. V., 22 Dedication, 52–53 De Hollander, Daniel, 44, 144 De Koch, Robert, 231 Development. See Learning and development Difference, 197–198; as assets, not barriers, 153–155; challenge chosen in, 154–155; circles of, 151–153; "core" and, 151; embracing, 149–150; empathy and recognizing, 121–122; of experience, 153; in global world, 150; importance of, 150–151; leadership and understanding, 150–151; of motivation in inspiration, 131; "other identities" and, 152; reection questions on, 157–158; self-awareness for capitalizing on, 151; of "social identities," 151–152; strength in, 150, 154; students on, 155–156 Dills, Nathan, 145 "The Dream," team building for, 169–170 Driskill, G. W., 219 Du Pont, Katherine, 96 Du Bois, W. E. B., 132 Duncan, Tess, 98, 104 Dunning-Kruger effect, 22 E Eberlein, Maring, 36, 220 Ecology, metaphor of, 228–229 Edge experiences, 239 Edison, Thomas, 132 EI. See Emotional intelligence EIL. See Emotionally intelligent leadership Einstein, Albert, 132 Eitman, Saige, 183 Eken, S., 159, 188 Ekman, Paul, 34 Elson, Rachel, 67
 
@@ -3473,7 +3373,6 @@ Consciousness |
 
 ## of others; Consciousness example of, 32;
 
-## ![](_page_272_Picture_2.jpeg)
 
 of self; Self and self-awareness Emotionally Intelligent Leadership for Students: Facilitation and Activities Guide, 16 Emotionally Intelligent Leadership for Students: Inventory, 16, 240 Emotionally Intelligent Leadership for Students: Student Workbook, 16, 240 Emotions: basic, 34; emotional insight and others', 35; in emotional self-control, 45–46; inspiration of others and, 132; optimism and contagious, 83–84; self-perception and, 34 Empathy, displaying: action and, 123; assumptions recognized in, 122; behaviors, 120; change and, 199–200; difference recognized in, 121–122; listening in, 120–121; nature and function of, 119–120; point of view as limited and, 122–123; process of, 120–123; reection questions on, 126–127; social perspective and, 120–123; students on, 124; sympathy compared to, 119–120 Encounter stressors, 42–43 Energy: conict management and harnessing, 187–188; inspiration of others and needed, 130–131; optimism and generating, 79–80 Environment and environment assessment: "being or getting on balcony" in, 230; denition and nature of, 227; ecology as metaphor in, 228–229; in EIL development, 239; examples of, 229; experiment, 230; external factors in, 228–229; interpretation as key in, 227–228; reection questions on, 234–235; scanning in, 230–231; students on, 232; uncertainty embraced in, 231–232 Experience, 9, 153, 239 F Fabijanczyk, Patricia, 156, 202 Failure, fear of, 92–93 Faust, Lindsay Amanda, 134 Feedback: for behavior, 74; challenging aspects of, 23; in coaching others, 143; from colleagues,
 
@@ -3669,7 +3568,6 @@ of,
 217;
 elements |
 
-## ![](_page_274_Picture_2.jpeg)
 
 Heifetz, R. A., 220–221 Hernandez, Monica, 33, 212 Hickman, Gill Robinson, 198
 
@@ -3845,7 +3743,6 @@ of,
 management
 in, |
 
-## ![](_page_276_Picture_2.jpeg)
 
 187; connectors in, 161; dangers and difculties of, 7–8, 82–83; difference understood in, 150–151; EIL as synthesis of EI and, 9; group analysis and active, 221; in groups, 218–219; internal work needed for, 8; as interpersonal activity, 7, 111–114; intrapersonal, 21–22; leader as part of, 6–7; as learned and developed, 5–6, 21; mavens in, 161; need for, 1; optimism from perspective of, 85; passion in, 102–103; potential, 1; through practice, 6; qualities of good, 4–5; responsibilities in, 103; salesmen in, 161; school for practicing, 1–4; stories, 2–4; team building from perspective of, 170–171; theories of, 7; titles, positions, and, 6; truths, 5–8. See also Emotionally intelligent leadership; Intrapersonal leadership Leadership, team: consciousness of others in, 111–112; example of, 112 The Leadership Challenge (Kouzes and Posner), 198 Learning and development: of EIL capacities, 26; of emotional insight, 35; environment in EIL, 239; leadership, 5–6, 21; through reection, 238; of relationships, 159–160; of self-awareness, 23, 237–238 Lehman, William, 114 Leigh, Dylan, 228 Lencioni, Patrick, 54, 172–174 Liden, R. C., 211 Limits or limitations: context in, 16; empathy and point of view, 122–123; to exibility or adaptability, 73–74; of own behavior, 122 Lincoln, Abraham, 91 Linsky, M., 220–221 Listening : in coaching others, 142–143; empathy displayed through, 120–121 "Living out loud," authenticity through, 52 Lombardi, Vince, 170 Looby, Melissa, 112 Love. See Passion or love Luthans, F., 81
 
@@ -3853,7 +3750,6 @@ in, |
 
 Lyons, Samantha, 27, 53 Lyubomirsky, Alexander, 56, 75 M Mandela, Nelson, 91 Martin, Jeff, 24 Martin, Khaliq, 229 Martinez, Jonathan, 191, 232 Mattar, Dianne, 115 Mavens, in leadership, 161 Mc Cauley, C. D., 45 Mc Gauley, Colin Christopher, 27 Mc Tigue, Ty, 67, 175 Mead, Margaret, 132 Meir, Golda, 91 Mentors. See Colleagues, friends, and mentors Merkel, Angela, 210 Miguel, R., 8 Mills, Elizabeth, 113 Mimura, Aya, 124 Mission statement, 129–130 Mohamed, Zabebah, 124, 192 Mood linkage, 83–84 Motivation, 131 Muniz, Reynaldo, III, 86 Munoz, Michelle, 119 Myers, Alex, 114, 193 N Nedoshytko, Volodymyr, 192 Needs, conicting, 188 Neidert, Colin, 35, 154 Networking: benets of, 162; internet, 163; in relationships, 162–163 Nguyen, Dr. Quyen, 111 Nice, Kacie, 124, 192 Norming, in team building, 172 Nuo-Si Lei, 123 O Oberski, Karly, 55 Odomore, Adam, 75 O'Donnell, Ryan, 56, 76 Olmstead, Sean, 213 Olson, Nicole, 86 Openness, 54, 72–73 Opinions. See Ideas and opinions Optimism: in action, 80–82; regarding challenges, 84; regarding conict, 83; contagious emotions and, 83–84; denition and nature of, 79; emotional tone and, 80, 81; energy generation and, 79–80; groups and opportunities for, 81–82; identication of, 80–81; from leadership perspective, 85; opportunities for, 81–82; realistic, 82–83; reection questions on, 88–89; resilience and, 81; students on, 85–86 Orientation leader. See Tour guide or orientation leader, for citizenship example of, 162–163;
 
-## ![](_page_278_Picture_2.jpeg)
 
 Orientation programs, 217–218 "Other identities": difference and, 152; elements of, 152 Others: change and working with, 198–199; in EIL, 9–10, 14; emotional insight and emotions of, 35. See also Coaching others; Consciousness of others O'Toole, James, 198 P Pankau, Brooke, 27, 84 Park, Katelyn, 73, 86 Passion or love: in achievement, 104–105; through feedback, 23; in leadership, 102–103 Peck, M. Scott, 42 Perceptions, conicting, 188 Performing, in team building, 172 Personal experience, 9 Perspective and perspective taking: empathy and social, 120–123; exibility and, 72–73, 74–75; initiative from broader, 91; optimism from leadership, 85; in response regulation, 45; building from leadership, 170–171 Point of view, limitations of, 122–123 Policies, inconsistent, 189 Popularity: behavior driven by, 93; inaction from, 93–94 Positions. See Titles or positions Posner, Barry, 91, 132, 198 Potential, leadership, 1 Powell, Colin, 103 Power: group analysis and question, 220–222; of initiative, 91; of introverts, 159 The Power of Vision (Barker), 91 Practice and practicing: achievement and, 102–104; citizenship, 180; common, 16; deliberate, 6, 103–104; EIL, 237, 239; emotional self-perception, 35; inspiration of others, 132–133; leadership through, 6; school for leadership, 1–4 Pressure. See Stress and stress navigation Q Quiet: The Power of Introverts in a World That Can't
 
@@ -3875,7 +3771,6 @@ Relationships: authenticity in, 161–162; coaching others and lasting, 141; con
 
 Renner, Bo, 52, 74 Repetition, 103–104 Resident assistant or advisor, for citizenship, 180
 
-## ![](_page_280_Picture_2.jpeg)
 
 Resilience: emotional "bank account" and, 66; in healthy self-esteem, 64–67; in modern world, 65; optimism and, 81; self-knowledge in, 65 Response regulation: in emotional self-control, 45–46; perspective taking compared to reacting in, 45 Responsibilities, leadership and, 103 Riley, Tracey, 72 The Road Less Traveled (Peck), 42 Robbins, Anthony, 159 Roberts, Denny, 96 Rokisky, Gregory, II, 56, 86 Roles, conicting, 189 Roth, Stephen, 56 Rowling, J. K., 84 Rutledge, Cody, 47, 210 Ruvalcaba, Vanessa, 75 Ryan, Sean, 22 S Saiget, Trent, 156 Salesmen, in leadership, 161 "Saying no," 66–67 Schein, Edgar, 218 Schön, Donald, 230 School, leadership practice, 1–4 Schulz, Madeline Mariana, 183 Science, leadership as, 5 Self and self-awareness: consciousness of self and, 22–23, 25–26; developing, 23, 237–238; difference capitalized upon through, 151; in EIL, 9–10, 14; feedback in, 23, 237–238; understanding abilities in, 22. See also Consciousness of self; Emotional self-control; Emotional self-perception Self-condence, 61–62 Self-efcacy: denition and nature of, 63; factors inuencing, 63–64; in healthy balance, 63–64; time in, 64 Self-esteem, healthy: as abstract, 61; balance in, 62–64; constant pressure and, 66; denition and nature of, 61–62; humility in, 62–63; as ongoing process, 65–66; reection questions regarding, 69–70; resilience in, 64–67; "saying no" to maintain, 66–67; self-condence in, 61–62; students on, 67 Self-knowledge, 65 Self-perception, 34
 
@@ -3883,7 +3778,6 @@ Resilience: emotional "bank account" and, 66; in healthy self-esteem, 64–67; i
 
 Self-regulation, 41–42 Senge, Peter, 227 Setting, in consciousness of context, 209–210 Shah, Brenda, 175, 182 Shankman, M. L., 8 Shannon, Cicely, 181 Shea, Michael, 175, 184 "Signal strength": denition and nature of, 12; as EIL metaphor, 11–12 Situation, in consciousness of context, 209–210 Situational stressors, 42 "Social identities," difference of, 151–152 Social perspective, 120–123 Social-media sites, 35 Steinem, Gloria, 91 Stelfox, Rebecca, 67 Stone, Hannah E., 63 Storming, in team building, 172 Strength: context in, 16; in difference, 150, 154; "signal,"11–12 Stress and stress navigation: awareness of stressors in, 43–44; conicting, 188; in emotional self-control, 42–44; healthy self-esteem and constant, 66; stressor types in, 42–43 Strozeski, Sarah, 171 Student government, for citizenship, 180–181 Students: on achievement, 105–106; on authenticity, 55–56; on change, 202; citizenship for, 183–184; coaching others for, 144–145; on conict management, 192–193; on consciousness of context, 213; consciousness of others for, 114–115; on consciousness of self, 26–27; difference for, 155–156; on emotional self-control, 46–47; on emotional self-perception, 36–37; on empathy, 124; environment assessment for, 232; exibility for, 75–76; on group analysis, 222–223; healthy self-esteem for, 67; on initiative, 97–98; on inspiration of others, 134–135; optimism for, 85–86; relationship building for, 164–165; team building for, 175–176 Styles, conicting, 188 Sullivan, Hannah, 64, 172 Sumarli, Anderson, 170
 
-## ![](_page_282_Picture_2.jpeg)
 
 ## 149–150
 
@@ -3915,21 +3809,17 @@ Emotionally Intelligent Leadership for Students: Student Workbook, 2nd Edition b
 
 Emotionally Intelligent Leadership for Students: Facilitation and Activity Guide, 2nd Edition by Marcy Levy Shankman, Scott J. Allen, Paige Haber-Curran ISBN: 9781118821770
 
-## ![](_page_284_Picture_5.jpeg)
 
 Emotionally Intelligent Leadership for Students: Inventory, 2nd Edition by Marcy Levy Shankman, Scott J. Allen, Rosanna Miguel ISBN: 9781118821664
 
 # Want to connect?
 
-## ![](_page_285_Picture_1.jpeg)
 
 Like us on Facebook https://www.facebook.com/JBHigher Ed
 
-## ![](_page_285_Picture_3.jpeg)
 
 Follow us on Twitter https://twitter.com/JBHigher Ed
 
-## ![](_page_285_Picture_5.jpeg)
 
 ### WILEY END USER LICENSE AGREEMENT
 

@@ -9,7 +9,6 @@ tags:
   - wikipedia
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 **Freetown** [\(Krio:](https://en.wikipedia.org/wiki/Krio_language) *Frit*ɔ*un*) is the [capital](https://en.wikipedia.org/wiki/Capital_city) and largest city of [Sierra Leone.](https://en.wikipedia.org/wiki/Sierra_Leone) It is a major [port city](https://en.wikipedia.org/wiki/Port_city) on the [Atlantic Ocean](https://en.wikipedia.org/wiki/Atlantic_Ocean) and is located in the [Western](https://en.wikipedia.org/wiki/Western_Area) [Area](https://en.wikipedia.org/wiki/Western_Area) of the country. Freetown is Sierra Leone's major urban, economic, financial, cultural, educational and political centre, as it is the seat of the [Government of Sierra Leone.](https://en.wikipedia.org/wiki/Government_of_Sierra_Leone) The population of Freetown was 1,347,559 as of the 2024 census.[\[4\]](#page-9-0)
 
@@ -33,29 +32,17 @@ The area around the [Sierra Leone estuary](https://en.wikipedia.org/wiki/Sierra_
 
 #### **[Capital](https://en.wikipedia.org/wiki/Capital_city) city and [municipality](https://en.wikipedia.org/wiki/Municipality)**
 
-## ![](_page_0_Picture_13.jpeg)
 
 ## Aerial view
 
-## ![](_page_0_Picture_15.jpeg)
-
-## ![](_page_0_Picture_16.jpeg)
 
 ## Freetown Court and Cotton Tree Downtown Freetown
 
-## ![](_page_0_Picture_18.jpeg)
-
-## ![](_page_0_Picture_19.jpeg)
 
 Sierra Leone [National](https://en.wikipedia.org/wiki/National_Stadium_(Sierra_Leone)) [Stadium](https://en.wikipedia.org/wiki/National_Stadium_(Sierra_Leone))
 
 Sierra [Leone](https://en.wikipedia.org/wiki/State_House,_Sierra_Leone) State [House](https://en.wikipedia.org/wiki/State_House,_Sierra_Leone)
 
-## ![](_page_0_Picture_22.jpeg)
-
-## ![](_page_0_Picture_23.jpeg)
-
-## ![](_page_0_Picture_26.jpeg)
 
 #### Province of Freedom (1787–1789)
 
@@ -69,7 +56,6 @@ In 1791, Thomas Peters, an African American who had served in the Black Pioneers
 
 During his visit, Peters met with the directors of the Sierra Leone Company and learned of proposals for a new settlement at Sierra Leone. Despite the collapse of the 1787 colony, the directors were eager to recruit settlers to Sierra Leone. Lieutenant John Clarkson, RN, who was an abolitionist, was sent to Nova Scotia in British North America to register immigrants to take to Sierra Leone for a new settlement.
 
-## ![](_page_1_Picture_6.jpeg)
 
 | Country | Sierra
 Leone |
@@ -118,15 +104,11 @@ In 1800, the Nova Scotians rebelled. The colonial authorities used the arrival o
 
 From 1808 to 1874, the city served as the capital of [British West Africa](https://en.wikipedia.org/wiki/British_West_Africa). It also served as the base for the [Royal Navy](https://en.wikipedia.org/wiki/Royal_Navy)'s [West Africa Squadron,](https://en.wikipedia.org/wiki/West_Africa_Squadron) which was charged with enforcing the ban on the slave trade. When the squadron liberated slaves on trading ships, they brought most to Sierra Leone, and Freetown in particular; thus, the population grew to include descendants of many different peoples from all over the west coast of Africa. The British also situated three of their [Mixed Commission](https://en.wikipedia.org/wiki/Mixed_Commission_Court) [Courts](https://en.wikipedia.org/wiki/Mixed_Commission_Court) in Freetown.[\[17\]](#page-10-6)
 
-## ![](_page_2_Picture_7.jpeg)
 
 ## Freetown in 1803
 
 The liberated Africans established the suburbs of Freetown Peninsula. They were the largest group of immigrants to make up the Creole people of Freetown. The city expanded rapidly. The freed slaves were joined by West Indian and African soldiers, who had fought for Britain in the [Napoleonic Wars](https://en.wikipedia.org/wiki/Napoleonic_Wars) and settled here afterwards. Descendants of the freed slaves who settled in Sierra Leone between 1787 and around 1885, are called the [Creoles](https://en.wikipedia.org/wiki/Sierra_Leone_Creole_people). The Creoles play a leading role in the city, although they are a minority of the overall Sierra Leone population.
 
-## ![](_page_2_Picture_10.jpeg)
-
-## ![](_page_2_Picture_11.jpeg)
 
 ## Freetown in 1856
 
@@ -148,7 +130,6 @@ On 5 November 2021, a fuel tank truck collided with another truck in Freetown, r
 
 # **Geography**
 
-## ![](_page_3_Picture_7.jpeg)
 
 Freetown borders the Atlantic Ocean and the [Western Area Rural District](https://en.wikipedia.org/wiki/Western_Area_Rural_District). Freetown municipality is politically divided into three regions: East End, Central and West End of Freetown. The wards in the East End of Freetown (East I, East II, and East III) contain the city's largest population centre and generally the poorest part of the city. The [Queen Elizabeth II Quay](https://en.wikipedia.org/wiki/Queen_Elizabeth_II_Quay) is located within East End. The [Lion Mountains](https://en.wikipedia.org/wiki/Lion_Mountains) sit southeast to Freetown.
 
@@ -340,7 +321,6 @@ Among the [places of worship,](https://en.wikipedia.org/wiki/Places_of_worship) 
 
 Freetown is the economic and financial centre of Sierra Leone. The country's state television and radio station, the [Sierra Leone Broadcasting Corporation](https://en.wikipedia.org/wiki/Sierra_Leone_Broadcasting_Corporation), is primarily based in Freetown. The other national broadcasters, such as AYV (African Young Voices) and [Capital Radio,](https://en.wikipedia.org/wiki/Capital_Radio_Sierra_Leone) are also based in Freetown. Many of the national headquarters of the country's largest corporations, as well as the majority of international companies, are located in Freetown - predominately in Central Freetown.
 
-## ![](_page_7_Picture_4.jpeg)
 
 ## A local market street in Central Freetown
 
@@ -356,23 +336,14 @@ In almost every neighborhood of Freetown there are a number of high streets with
 
 #### **Some other notable places in Freetown**
 
-## ![](_page_7_Picture_12.jpeg)
 
 ## Law Courts Building, Siaka Stevens
 
 ## Street
 
-## ![](_page_7_Picture_14.jpeg)
-
-## ![](_page_7_Picture_16.jpeg)
 
 neighbourhoo d – which was hit hard during the 2014 Ebola crisis
 
-## ![](_page_7_Picture_18.jpeg)
-
-## ![](_page_7_Picture_20.jpeg)
-
-## ![](_page_7_Picture_22.jpeg)
 
 Lumley area Aberdeen Night view of Central Freetown
 
@@ -388,7 +359,6 @@ Primary school pupils are usually aged 6 to 12, and secondary schools are usuall
 
 [Freetown International Airport](https://en.wikipedia.org/wiki/Freetown_International_Airport) is the international airport which serves Freetown and the rest of the country. It is located in the town of [Lungi,](https://en.wikipedia.org/wiki/Lungi,_Sierra_Leone) about 17 km north-east of Freetown across the sea. It serves as the primary airport for domestic and international travel to and from Sierra Leone. The airport is operated by Sierra Leone Airports Authority. There is a frequent commercial fast boat, [bus,](https://en.wikipedia.org/wiki/Buses) and [ferry](https://en.wikipedia.org/wiki/Ferry) service to Freetown and other parts of the country. [Hastings Airport](https://en.wikipedia.org/wiki/Hastings_Airport_(Sierra_Leone)) provides secondary service, but can only handle small aircraft because of its short runway. It is located about 14 km south-east of downtown Freetown (nearly 22 km by road).[\[46\]](#page-12-1)
 
-## ![](_page_8_Picture_4.jpeg)
 
 A normal day Freetown street with "Keke", regular taxis and private vehicles on the road
 
@@ -429,7 +399,6 @@ State | Country | Year | Ref |
 | Kingston upon Hull | England | | 1979 | [51] |
 ## | New Haven | Connecticut | | | [52] |
 
-## ![](_page_9_Picture_4.jpeg)
 
 ## The National Stadium
 

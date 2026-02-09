@@ -9,13 +9,6 @@ tags:
 
 ## Mahmoud Soliman
 
-## ![](_page_0_Picture_3.jpeg)
-
-## ![](_page_0_Picture_4.jpeg)
-
-## ![](_page_0_Picture_5.jpeg)
-
-## ![](_page_0_Picture_6.jpeg)
 
 #### **Front cover image (left)**
 
@@ -49,7 +42,6 @@ ICNC MONOGRAPH SERIES EDITOR: Dr. Maciej Bartkowski VOLUME EDITOR: Bruce Pearson
 
 ## Mahmoud Soliman
 
-## ![](_page_2_Picture_3.jpeg)
 
 ### Contents
 
@@ -549,7 +541,6 @@ a daily basis People who are subject to an occupation acquire a deep knowledge o
 
 In the absence of material resources, social capital plays an enabling role that helps communities to launch eective campaigns It is a facilitating factor that enables activists to harness material resources In other words, non-material resources are often used to recruit or deploy material resources to meet campaign's goals (see Figure 2)
 
-## ![](_page_24_Picture_2.jpeg)
 
 ## FIGURE 2. Material and Non-material Resources
 
@@ -1288,7 +1279,6 @@ settlements |
 | Number of campaign events | 79 |
 ## | Scope of study | 2013â€“2015 |
 
-## ![](_page_56_Picture_2.jpeg)
 
 ## FIGURE 6. RV Campaign Geographical Locations
 
@@ -1891,7 +1881,6 @@ Similarly, non-monetary materials enhanced the campaign's ability to acquire ski
 
 37 Interview with the head of Al Mufaqara, one of the SHH communities, 5 May 2019.
 
-## ![](_page_87_Picture_0.jpeg)
 
 FIGURE 8. Relationships Between Material Resources Acquired by the SHH Campaign and In-Kind Contributions (Homes)
 
@@ -1899,7 +1888,6 @@ resources was made possible through the non-material resources of the communityâ
 
 In the JVS campaign, in-kind contributions from JV residents laid the ground for activists to mobilize primary building materials and equipment such as hay-and-clay bricks These enabled activists to build community centers at the early stages of the campaign in 2003 Later, these community centers were oered as an in-kind contribution enabling women to make food and oer services to visitors, which in turn securednancial support Moreover, community centers enabled activists to generate non-monetary materials In return, non-monetary materials andnancial donations encouraged activists to keep planning and working
 
-## ![](_page_87_Picture_4.jpeg)
 
 FIGURE 9. Relationships Between Material Resources Acquired by the JVS Campaign and In-Kind Contributions (Community Centers)
 
@@ -3682,7 +3670,6 @@ witnessed the eviction of her community in 1999. |
 
 ### About the Author
 
-## ![](_page_163_Picture_1.jpeg)
 
 **Mahmoud Soliman** is a Palestinian nonviolent activist and academic. He has more than 15 years of experience in organizing nonviolent campaigns and nonviolent collective actions against building the Segregation Wall and the Israeli illegal settlements in occupied Palestine. He is one of the founders of Palestinian nonviolent grassroots networks and the co-founder of the popular nonviolent resistance committees in occupied Palestine. He completed his PhD in Peace and Conict Resolution Studies with a focus on mobilization of Palestinian society towards nonviolent resistance in the period from 2004 to 2014.
 
@@ -3692,7 +3679,6 @@ It has only been possible for me to conduct this research due to the support and
 
 I would like to oer my appreciation to all the Palestinian activists who engaged in this research in Occupied Palestine They gave me their time and opened their minds and hearts to answer the research questions and to give me their feedback for the ndings of the research A deep thanks to the people who helped me in translations and oered me technical assistance I would like to express my deepest thanks to the residents of the Palestinian marginalized communities for their generous hospitality and their cooperation during the conducting of this research
 
-## ![](_page_164_Picture_0.jpeg)
 
 **The ICNC Monograph Series aims to bridge research and practice. Drawing on scholarly literature and high quality analytical and empirical analyses, ICNC Monographs enrich public discourse by expanding scientic knowledge in the eld of civil resistance and providing recommendations for practitioners such as activists, organizers, journalists, and members of INGOs and the policy community.**
 
@@ -3752,4 +3738,3 @@ International Center on Nonviolent Conict 600 New Hampshire Ave NW, Suite 1010 W
 
 www.nonviolent-conflict.org
 
-## ![](_page_165_Picture_8.jpeg)

@@ -11,14 +11,12 @@ tags:
 
 ## Joanna Penn
 
-38–49 minutes
 
 ## Audio Player
 
 Podcast: [Download](https://media.blubrry.com/thecreativepenn/content.blubrry.com/thecreativepenn/Podcast_Jeff Elkins3.mp3) (Duration: 1:04:44 — 52.6MB)
 **How can we write authentic and engaging character dialogue? How can we incorporate sub-text that deepens our writing?** Jeff Elkins, The Dialogue Doctor explains more in this interview.
 
-## ![](_page_0_Picture_10.jpeg)
 
 In the intro, the [new Audible Gate site;](https://www.audiblegate.com/) scammers using big publisher names [\[Writer Beware\]](https://accrispin.blogspot.com/2021/03/scammers-taking-big-5-publishers-names.html); Vellum update for Ingram PDF [\[Vellum software;](https://www.thecreativepenn.com/vellum) my [tools and tutorials\]](https://www.thecreativepenn.com/tools/) ; Do Book Bub
 
@@ -26,15 +24,6 @@ deals on a permafree first in series work multiple times? [\[Book Bub blog\]](ht
 
 Today's show is sponsored by [Ingram Spark,](https://selfpub.is/2qL4aTQ) who I use to print and distribute my print-ondemand books to 39,000 retailers including independent bookstores, schools and universities, libraries and more. **It's your content – do more with it** through [Ingram Spark.com.](https://selfpub.is/2qL4aTQ)
 
-## ![](_page_1_Picture_5.jpeg)
-
-## ![](_page_1_Picture_6.jpeg)
-
-## ![](_page_1_Picture_7.jpeg)
-
-## ![](_page_1_Picture_8.jpeg)
-
-## ![](_page_1_Picture_9.jpeg)
 
 [Jeff Elkins](https://dialoguedoctor.com/) is the author of 12 thriller and mystery novels, as well as over 100 short stories. He's also a ghostwriter, dialogue editor, and a podcaster at the Dialogue Doctor Podcast.
 

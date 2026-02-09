@@ -11,7 +11,6 @@ tags:
 
 [gnu.org](https://www.gnu.org/education/education.html)
 
-2–3 minutes
 
 ## **How Does Free Software Relate to Education?**
 

@@ -7,7 +7,6 @@ tags:
   - theory
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 ## A Pedagogy of Hope
 

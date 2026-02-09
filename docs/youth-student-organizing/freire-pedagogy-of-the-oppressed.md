@@ -14,7 +14,6 @@ tags:
 
 ## With an Introduction by Donaldo Macedo
 
-## ![](_page_0_Picture_5.jpeg)
 
 **The Continuum International Publishing Group Inc 15 East 26, h Street, New York, NY 10010**
 
@@ -48,7 +47,6 @@ tags:
 
 *To the oppressed, and to those who suffer with them and fight at their side*
 
-## ![](_page_3_Picture_0.jpeg)
 
 # *Contents*
 

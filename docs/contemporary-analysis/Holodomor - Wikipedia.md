@@ -9,7 +9,6 @@ tags:
   - wikipedia
 ---
 
-## ![](_page_0_Picture_2.jpeg)
 
 The **Holodomor**, [\[a\]](#page-29-0) also known as the **Ukrainian famine**, [\[8\]](#page-32-4)[\[9\]](#page-32-5)[\[b\]](#page-29-1) was a mass [famine](https://en.wikipedia.org/wiki/Famine) in [Soviet Ukraine](https://en.wikipedia.org/wiki/Ukrainian_Soviet_Socialist_Republic) from 1932 to 1933 that killed millions of [Ukrainians.](https://en.wikipedia.org/wiki/Ukrainians) The Holodomor was part of the wider [Soviet famine of 1930–1933](https://en.wikipedia.org/wiki/Soviet_famine_of_1930%E2%80%931933) which affected the major grain-producing areas of the [Soviet](https://en.wikipedia.org/wiki/Soviet_Union) [Union.](https://en.wikipedia.org/wiki/Soviet_Union)
 
@@ -21,7 +20,6 @@ Public discussion of the famine was banned in the Soviet Union until the *[glasn
 
 #### **Holodomor** Голодомор
 
-## ![](_page_0_Picture_9.jpeg)
 
 Starved peasants on a street in [Kharkiv,](https://en.wikipedia.org/wiki/Kharkiv) 1933, Ukraine's capital at the time
 
@@ -101,7 +99,6 @@ Due to factional struggles with the [Bukharin](https://en.wikipedia.org/wiki/Buk
 
 In this vein, by the summer of 1930, the government instituted a program of food requisitioning, ostensibly to increase grain exports. According to Natalya Naumenko, [collectivization in the Soviet Union](https://en.wikipedia.org/wiki/Collectivization_in_the_Soviet_Union) and lack of favored industries were primary contributors to famine mortality (52% of excess deaths), and some evidence shows there was discrimination against ethnic Ukrainians and Germans. In Ukraine
 
-## ![](_page_4_Picture_5.jpeg)
 
 Postcard commemorating the 15th anniversary of the Holodomor, which shows Stalin looking at his kolkhoz built on a pile of starved Ukrainians. Published in 1948 by the [Ukrainian Youth](https://en.wikipedia.org/wiki/Ukrainian_Youth_Association) [Association.](https://en.wikipedia.org/wiki/Ukrainian_Youth_Association)
 
@@ -218,7 +215,6 @@ In order to make up for unfulfilled grain procurement quotas in Ukraine, reserve
 
 In Ukraine, there was a widespread purge of Communist party officials at all levels. According to Oleh Wolowyna, 390 "anti-
 
-## ![](_page_11_Picture_6.jpeg)
 
 A "Red Train" of carts from the "Wave of Proletarian Revolution" collective farm in the village of Oleksiyivka, Kharkiv oblast in 1932. "Red Trains" took the first harvest of the season's crop to the government depots. During the Holodomor, these brigades were part of the Soviet Government's policy of taking away food from the peasants.
 
@@ -272,7 +268,6 @@ During the [German occupation of Ukraine,](https://en.wikipedia.org/wiki/Reichsk
 
 In the [post-war](https://en.wikipedia.org/wiki/Post-war) period, the [Ukrainian diaspora](https://en.wikipedia.org/wiki/Ukrainian_diaspora) disseminated information about the Holodomor in Europe and North America. At first, the public attitude was rather cautious, as the information came from people who had lived in the occupied territories, but it gradually changed in the 1950s. Scientific study of the Holodomor, based on the growing number of memoirs published by survivors, began in the 1950s.
 
-## ![](_page_15_Picture_5.jpeg)
 
 A print from a postcard designed by Zofia Nalepińska-Bojczuk, referring to the Holodomor, 1935
 
@@ -326,7 +321,6 @@ the estimations made concerning unregistered mortality and natality, these figur
 
 A 2002 study by French demographer Jacques Vallin and colleague[s\[158\]](#page-40-9)[\[159\]](#page-40-10)[\[160\]](#page-40-11) utilising some similar primary sources to Kulchytsky, and performing an analysis with more sophisticated demographic tools with forward projection of expected growth from the 1926 census and backward projection from the 1939 census estimates the number of direct deaths for 1933 as 2.582 million. This number of deaths does not reflect the total demographic loss for Ukraine from these events as the fall of the birth rate during the crisis and the out-migration contribute to the latter as well. The total population shortfall from the expected value between 1926 and 1939 estimated by Vallin amounted to 4.566 million.[\[158\]](#page-40-9)[\[161\]](#page-40-12)
 
-## ![](_page_17_Picture_10.jpeg)
 
 Starvation during the Holodomor, [Kharkivshchyna,](https://en.wikipedia.org/wiki/Kharkiv_Oblast) 1933. Photo by [Alexander Wienerberger](https://en.wikipedia.org/wiki/Alexander_Wienerberger)
 
@@ -336,7 +330,6 @@ Of this number, 1.057 million is attributed to the birth deficit,
 
 According to Snyder in 2010, the recorded figure of excess deaths was 2.4 million. However, Snyder claims that this figure is "substantially low" due to many deaths going unrecorded. Snyder states that demographic calculations carried out by the Ukrainian government provide a figure of 3.89 million dead, and opined that the actual figure is likely between these two figures, approximately 3.3 million deaths to starvation and disease related to the starvation in Ukraine from 1932 to 1933. Snyder also estimates that of the million people who died in the [Russian](https://en.wikipedia.org/wiki/Russian_Soviet_Federative_Socialist_Republic) [Soviet Federative Socialist Republic](https://en.wikipedia.org/wiki/Russian_Soviet_Federative_Socialist_Republic) from famine at the same time, approximately 200,000 were ethnic Ukrainians due to Ukrainian-inhabited regions being particularly hard hit in Russia. [\[76\]](#page-35-13)
 
-## ![](_page_18_Picture_3.jpeg)
 
 Passers-by and the corpse of a starved man on a street in [Kharkiv,](https://en.wikipedia.org/wiki/Kharkiv) 1932
 
@@ -360,7 +353,6 @@ Scholars continue to debate whether the human-made Soviet famine was a central a
 
 Scholarly positions are diverse. [Raphael Lemkin](https://en.wikipedia.org/wiki/Raphael_Lemkin) (a pioneer of genocide studies who coined the term *genocide*, and an initiator of the [Genocide Convention\)](https://en.wikipedia.org/wiki/Genocide_Convention), called the famine an intentional genocide[.\[173\]](#page-40-24) [James Mace](https://en.wikipedia.org/wiki/James_Mace) and [Norman Naimark](https://en.wikipedia.org/wiki/Norman_Naimark) have written
 
-## ![](_page_19_Picture_6.jpeg)
 
 [Chicago American](https://en.wikipedia.org/wiki/Chicago%27s_American)'s front page that the Holodomor was a genocide and the intentional result of Soviet policies under Stalin[.\[174\]](#page-40-25)[\[175\]](#page-41-0) According to Lemkin, Ukraine was "perhaps the classic example of Soviet genocide, its longest and broadest experiment in Russifi[cation](https://en.wikipedia.org/wiki/Russification) – the destruction of the Ukrainian nation". Lemkin stated that, because Ukrainians were very sensitive to the racial murder of its people and way too populous, the Soviet regime could not follow a pattern of total extermination (as in the [Holocaust\)](https://en.wikipedia.org/wiki/Holocaust). Instead the genocidal effort consisted of four steps: 1) extermination of the Ukrainian national elite, 2) liquidation of the [Ukrainian Autocephalous](https://en.wikipedia.org/wiki/Ukrainian_Autocephalous_Orthodox_Church) [Orthodox Church,](https://en.wikipedia.org/wiki/Ukrainian_Autocephalous_Orthodox_Church) 3) extermination of a significant part of the Ukrainian peasantry as "custodians of traditions, folklore and music, national language and literature", and 4) populating the territory with other nationalities with intent of mixing Ukrainians with them, which would eventually lead to the dissolution of the Ukrainian nation.[\[176\]](#page-41-1)[\[177\]](#page-41-2) Because of these four factors, Lemkin considered the Holodomor an attempt to destroy the whole Ukrainian nation, not just the Ukrainian peasantry[.\[178\]](#page-41-3) The "rediscovery" of his 1953 address about the Holodomor has influenced Holodomor scholars, especially his view of genocide as a complex process targeting institutions, culture, and economic existence of a group and not necessarily meaning its "immediate destruction".[\[173\]](#page-40-24)
 
@@ -386,11 +378,9 @@ On 10 November 2003 at the [United Nations](https://en.wikipedia.org/wiki/United
 
 In the former Soviet Union millions of men, women and children fell victims to the cruel actions and policies of the totalitarian regime. The Great Famine of 1932–1933 in Ukraine (Holodomor), took from 7 million to 10 million innocent lives and became a national tragedy for the Ukrainian people. In this regard, we note activities in observance of the seventieth anniversary of this Famine, in particular organized by the [Government of Ukraine.](https://en.wikipedia.org/wiki/Government_of_Ukraine) Honouring the seventieth anniversary of the Ukrainian tragedy, we also commemorate the memory of millions of Russians, [Kazakhs](https://en.wikipedia.org/wiki/Kazakhs) and representatives of other nationalities who died of starvation in the [Volga River region,](https://en.wikipedia.org/wiki/Volga_River_region) [Northern](https://en.wikipedia.org/wiki/Northern_Caucasus) [Caucasus,](https://en.wikipedia.org/wiki/Northern_Caucasus) Kazakhstan and in other parts of the former Soviet Union, as a result of civil war and forced collectivisation, leaving deep scars in the consciousness of future generations. [\[206\]](#page-42-13)
 
-## ![](_page_21_Picture_7.jpeg)
 
 [Daily Express](https://en.wikipedia.org/wiki/Daily_Express), 6 August 1934
 
-## ![](_page_21_Picture_9.jpeg)
 
 [Lazar Kaganovich](https://en.wikipedia.org/wiki/Lazar_Kaganovich) (left) played a role in enforcing Stalin's policies that led to the Holodomor.[\[202\]](#page-42-3)
 
@@ -473,7 +463,6 @@ Since 1998, Ukraine has officially observed the [Holodomor](https://en.wikipedia
 
 As of 2009, Ukrainian schoolchildren take a more extensive course of the history of the Holodomor[.\[271\]](#page-50-1)
 
-## ![](_page_23_Picture_28.jpeg)
 
 Candles and wheat as a symbol of remembrance during the Holodomor Remembrance Day 2013 in [Lviv](https://en.wikipedia.org/wiki/Lviv)
 
@@ -487,7 +476,6 @@ In a November 2021 poll, 85% agreed that the Holodomor was a genocide of Ukraini
 
 On 19 October 2022, Russian occupation authorities dismantled a Holodomor monument in the destroyed city of Mariupol on the basis that it was not a monument but a symbol of "disinformation at the state level".[\[276\]](#page-50-6) Ukrainian culture minister [Oleksandr](https://en.wikipedia.org/wiki/Oleksandr_Tkachenko_(journalist)) [Tkachenko](https://en.wikipedia.org/wiki/Oleksandr_Tkachenko_(journalist)) said "such acts signifies that the current Russian regime is a true successor to the one guilty of crimes against humanity and the Ukrainian people"[.\[277\]](#page-50-7)
 
-## ![](_page_24_Picture_6.jpeg)
 
 One of the interpretations of The Running Man painting by [Kazimir](https://en.wikipedia.org/wiki/Kazimir_Malevich) [Malevich,](https://en.wikipedia.org/wiki/Kazimir_Malevich) also known as Peasant Between a Cross and a Sword, is the artist's indictment of the Great Famine.[\[262\]](#page-49-12) "Kasimir Malevich's haunting 'The Running Man' (1933– 34), showing a peasant fleeing across a deserted landscape, is eloquent testimony to the disaster."[\[263\]](#page-49-13)
 
@@ -517,7 +505,6 @@ A monument to the Holodomor has been erected on Calgary's [Memorial Drive,](http
 
 Ukrainian President [Viktor](https://en.wikipedia.org/wiki/Viktor_Yanukovych) [Yanukovych](https://en.wikipedia.org/wiki/Viktor_Yanukovych) (right) and Russian President [Dmitry Medvedev](https://en.wikipedia.org/wiki/Dmitry_Medvedev) (left) near Memorial to the Holodomor Victims in Kyiv on 17 May 2010. Russia has since changed its policy and started downplaying or denying the Holodomor.
 
-## ![](_page_25_Picture_11.jpeg)
 
 Ukraine's Commander-in-Chief [Valerii Zaluzhnyi](https://en.wikipedia.org/wiki/Valerii_Zaluzhnyi) at an event to mark the 90th anniversary of the Holodomor, 25 November 2023
 
@@ -559,35 +546,24 @@ On 23 November 2022, [Pope Francis](https://en.wikipedia.org/wiki/Pope_Francis) 
 
 #### **Holodomor memorials**
 
-## ![](_page_27_Picture_8.jpeg)
 
 First in the world: 1983 Holodomor Monument in [Edmonton,](https://en.wikipedia.org/wiki/Edmonton) Canada
 
-## ![](_page_27_Picture_10.jpeg)
 
 Touring van devoted to Holodomor education, seen in Hamilton, Ontario, Canada, 2017
 
-## ![](_page_27_Picture_12.jpeg)
 
 "Light the candle" event at a Holodomor memorial in Kyiv
 
-## ![](_page_27_Picture_14.jpeg)
 
 Plaque in [Grand](https://en.wikipedia.org/wiki/Grand_Park) [Park,](https://en.wikipedia.org/wiki/Grand_Park) [Los Angeles,](https://en.wikipedia.org/wiki/Los_Angeles) [California,](https://en.wikipedia.org/wiki/California) United States
 
-## ![](_page_28_Picture_2.jpeg)
-
-## ![](_page_28_Picture_3.jpeg)
-
-## ![](_page_28_Picture_4.jpeg)
 
 ## Stamp of Ukraine, 1993
 
-## ![](_page_28_Picture_6.jpeg)
 
 Monument dedicated to victims of years 1932–1933 famine in Vyshhorod, Ukraine. The authors are [Boris](https://en.wikipedia.org/wiki/Boris_Krylov) [Krylov](https://en.wikipedia.org/wiki/Boris_Krylov) and Oles Sydoruk
 
-## ![](_page_28_Picture_8.jpeg)
 
 Holodomor Memorial to Victims of the Ukrainian Famine-Genocide of 1932– 1933, Washington DC.
 
@@ -637,7 +613,6 @@ The play *Holodomor* premiered in Tehran, Iran in February 2021.[\[315\]](#page-
 - a. [Ukrainian:](https://en.wikipedia.org/wiki/Ukrainian_language) Голодомор, [romanized:](https://en.wikipedia.org/wiki/Romanization_of_Ukrainian) Holodomor, IPA: [ɦ[olodo](https://en.wikipedia.org/wiki/Help:IPA/Ukrainian)ˈmɔr];[\[7\]](#page-32-17) derived from морити голодом, moryty holodom, 'to kill by starvation'); Also literally known as "Extermination by Hunger" or "Hunger-extermination"
 - b. [Ukrainian:](https://en.wikipedia.org/wiki/Ukrainian_language) великий український голод, [romanized:](https://en.wikipedia.org/wiki/Romanization_of_Ukrainian) velykyi ukrainskyi holod
 
-## ![](_page_29_Picture_22.jpeg)
 
 - c. Marples 2009. "Ukrainian scholars who write most regularly on the famine, such as Yurii Shapoval ([35]), Stanislav Kul'chyts'kyi ([15], [16], [17], [18]), Vasyl Marochko ([22], [23]) and Petro Panchenko et al. ([28]), place emphasis on several factors that appear to elucidate the true causes of the famine: the rapid introduction of collectivisation in Ukraine compared to other regions; the unreasonable grain quotas placed upon Ukraine; the closure of the borders of Ukraine and the North Caucasus according to Stalin's directive of 22 January 1933 to prevent the migration of starving peasants; the fact that Ukrainian officials informed Moscow of the situation in Ukraine and the imminence of famine as early as 1932 but without any results; Stalin's letter to Kaganovich of 11 August 1932 that outlined his suspicions of the Ukrainian peasantry and his fear of 'losing Ukraine' (Davies et al.[ 4]); the fact that the Extraordinary Commission in Ukraine led by Molotov took draconian measures, with its decree of 18 November 1932, confiscating not only grain, but also meat and vegetables, ensuring the inevitability of the peasants starving; the lack of such starvation in other republics, and most specifically Russia and Byelorussia; the link between the famine and the assault on the Ukrainian nation, as manifested by terror and deportations; the purge of cultural and national leaders; and the cessation of the earlier policy of Ukrainisation.
 - d. UN signatory nations, 2003. "In the former Soviet Union millions of men, women and children fell victims to the cruel actions and policies of the totalitarian regime. The Great Famine of 1932–1933 in Ukraine (Holodomor), which took from 7 million to 10 million innocent lives and became a national tragedy for the Ukrainian people. ... [A]s a result of civil war and forced collectivization, leaving deep scars in the consciousness of future generations. ... [W]e deplore the acts and policies that brought about mass starvation and death of millions of people. We do not want to settle scores with the past, it could not be changed, but we are convinced that exposing violations of human rights, preserving historical records and restoring the dignity of victims through acknowledgement of their suffering, will guide future societies and help to avoid similar catastrophes in the future. ...

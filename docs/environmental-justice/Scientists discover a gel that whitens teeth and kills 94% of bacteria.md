@@ -11,7 +11,6 @@ tags:
 
 ## Peter Rogers
 
-5–7 minutes
 
 When scientists tested this hydrogel on mice, they had cleaner teeth than most humans.
 
@@ -27,7 +26,6 @@ countries and territories. According to this study, the most common health condi
 
 The first step toward preventing tooth decay is removing these acidic plaques. Brushing your teeth is a good start, but it can't remove all the bacteria. Eventually, ultra-sticky plaque will cover your teeth and need to be removed by a professional.
 
-## ![](_page_1_Picture_4.jpeg)
 
 [Credit](https://pubs.acs.org/doi/10.1021/acsami.2c00887): (Li et al. ACS Applied Materials & Interfaces. 2022)
 
@@ -41,9 +39,6 @@ A few years ago, oral health bioengineers began exploring the possibility of rem
 
 Xiaolei Wang and his colleagues at Nanchang University wanted to figure out a way to make the bismuth oxychloride nanoparticles adhere to teeth longer. Their solution was to add another nanoparticle. Cuprous oxide (Cu2O) has [broad-spectrum](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7170629/) [antibacterial properties,](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7170629/) is activated by green light, and forms a hydrogel when mixed with bismuth oxychloride and calcium.
 
-## ![](_page_2_Picture_7.jpeg)
-
-## ![](_page_3_Picture_2.jpeg)
 
 Xiaolei Wang and his colleagues hypothesized that applying a hydrogel of nanoparticles to a tooth would remove the stains and plaques. [Credit:](https://pubs.acs.org/doi/10.1021/acsami.2c00887) Li et al. ACS Applied Materials & Interfaces, 2022.
 

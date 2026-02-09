@@ -10,7 +10,6 @@ tags:
 
 ## Written by Eduardo Souza
 
-6-8 minutes
 
 ## ![](_page_0_Figure_7.jpeg)
 
@@ -22,7 +21,6 @@ If we are what we eat, is it possible to also replicate this in the construction
 
 The digital tool makes it possible to compare the impacts of materials in different categories or between types of materials in the same category. This way, architects can be fully informed about each material or product specification decision in a project. "The goal is for it to provide a simple way to get a quick overview of the relative sustainability of individual construction materials." Through clear and intuitive language, it offers an interactive and tangible calculation tool and at the same time opens the dialogue on more detailed studies of the position of each material in the pyramid and its place in project design.
 
-## ![](_page_2_Picture_2.jpeg)
 
 [Keepex Corporate Building / LAGAR Arquitectos. Image © Nico](https://www.archdaily.com/984663/what-is-the-environmental-impact-of-each-building-material/62be17f300682f06f2700c8c-what-is-the-environmental-impact-of-each-building-material-photo) [Saieh](https://www.archdaily.com/984663/what-is-the-environmental-impact-of-each-building-material/62be17f300682f06f2700c8c-what-is-the-environmental-impact-of-each-building-material-photo)
 
@@ -32,7 +30,6 @@ All items are evaluated from the information in their respective Environmental P
 
 The GWP is also what is called a product's "carbon footprint". Since global warming is heightened through the accumulation of gases in the atmosphere, such as carbon dioxide and methane, the GWP calculates how much heat a certain amount of gas can retain in the atmosphere, compared to the same mass as CO2. The higher the value of the GWP, the greater the impact on global warming. In this case, while metal sheets occupy the highest level, organic materials have negative rates, which means they absorb more greenhouse gases than they produce during their manufacturing.
 
-## ![](_page_3_Picture_3.jpeg)
 
 [Casa Escondida / Studiohuerta. Image © Roland Halbe](https://www.archdaily.com/984663/what-is-the-environmental-impact-of-each-building-material/62be17fe00682f06f2700c8e-what-is-the-environmental-impact-of-each-building-material-photo)
 
@@ -44,9 +41,6 @@ Certain gases released from materials during their production can degrade the oz
 
 The Photochemical Ozone Creation Potential (POCP) quantifies the relative skills of volatile organic compounds (VOS) to produce ozone at soil level. In high concentrations, ozone can affect the health of humans and nature and may even affect breathing. The POCP is measured using ethylene equivalents (C2H4EQ) as an indicator unit. While wood-based materials remain at the lowest level, EPS insulators and structural steel are the largest emitters.
 
-## ![](_page_4_Picture_5.jpeg)
-
-## ![](_page_5_Picture_2.jpeg)
 
 [Art House / Buttrick Projects Architecture+Design. Image © Joe](https://www.archdaily.com/984663/what-is-the-environmental-impact-of-each-building-material/62be17f100682f06f2700c8b-what-is-the-environmental-impact-of-each-building-material-photo) [Fletcher](https://www.archdaily.com/984663/what-is-the-environmental-impact-of-each-building-material/62be17f100682f06f2700c8b-what-is-the-environmental-impact-of-each-building-material-photo)
 
@@ -58,9 +52,6 @@ Acidification can cause damage to the ecosystem and especially to plants. This c
 
 In this case, phosphate is the reference substance, calculated in its equivalents. Eutrophization is the increase in nutrient concentration in ecosystems, which can cause imbalances such as desertification or super fertilization. Steel production, for example, emits large amounts of nitrogen oxides. While this chemical element is vital to soils, too much concentration can affect soil biodiversity and aquatic environments.
 
-## ![](_page_5_Picture_8.jpeg)
-
-## ![](_page_6_Picture_2.jpeg)
 
 [% Arabica, Wide & Narrow Alley in Chengdu / B. L. U. E.](https://www.archdaily.com/984663/what-is-the-environmental-impact-of-each-building-material/62be17f600682f06f2700c8d-what-is-the-environmental-impact-of-each-building-material-photo) [Architecture Studio. Image © Zhi Xia](https://www.archdaily.com/984663/what-is-the-environmental-impact-of-each-building-material/62be17f600682f06f2700c8d-what-is-the-environmental-impact-of-each-building-material-photo)
 

@@ -10,7 +10,6 @@ author: Hakim Bey
 
 ## [hermetic.com](https://hermetic.com/bey/seduct)
 
-16–20 minutes
 
 ## (For Konrad and Marie)
 

@@ -9,7 +9,6 @@ tags:
   - wikipedia
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 A **cenotaph** is an empty [grave,](https://en.wikipedia.org/wiki/Grave) [tomb](https://en.wikipedia.org/wiki/Tomb) or a [monument](https://en.wikipedia.org/wiki/Monument) erected in honor of a person or group of people whose remains are elsewhere or have been lost. It can also be the initial tomb for a person who has since been reinterred elsewhere. Although the majority of cenotaphs honor individuals, many noted cenotaphs are also dedicated to the [memories](https://en.wikipedia.org/wiki/Memorialization) of groups of individuals, such as the lost soldiers of a country or of an empire.
 
@@ -30,7 +29,6 @@ The [cenotaph in Whitehall,](https://en.wikipedia.org/wiki/The_Cenotaph,_Whiteha
 
 Lutyens' cenotaph was chosen as a deliberately secular monument.[\[4\]](#page-10-2)
 
-## ![](_page_0_Picture_11.jpeg)
 
 The statue of Archbishop [Makarios](https://en.wikipedia.org/wiki/Makarios_III) III near the Kykkos [Monastery](https://en.wikipedia.org/wiki/Kykkos_Monastery) in [Cyprus](https://en.wikipedia.org/wiki/Cyprus)
 
@@ -38,7 +36,6 @@ The [Church of Santa Engrácia,](https://en.wikipedia.org/wiki/Church_of_Santa_E
 
 The [Basilica di Santa Croce](https://en.wikipedia.org/wiki/Basilica_di_Santa_Croce) in [Florence](https://en.wikipedia.org/wiki/Florence), [Italy,](https://en.wikipedia.org/wiki/Italy) contains a number of cenotaphs, including one for [Dante](https://en.wikipedia.org/wiki/Dante_Alighieri) [Alighieri,](https://en.wikipedia.org/wiki/Dante_Alighieri) who is buried in [Ravenna](https://en.wikipedia.org/wiki/Ravenna).
 
-## ![](_page_0_Picture_15.jpeg)
 
 # **Regional**
 
@@ -50,21 +47,17 @@ The [Basilica di Santa Croce](https://en.wikipedia.org/wiki/Basilica_di_Santa_Cr
 
 [Gqeberha](https://en.wikipedia.org/wiki/Gqeberha) (its former name [Port Elizabeth](https://en.wikipedia.org/wiki/Port_Elizabeth)) has a cenotaph. Located on the edge of [St George's Park](https://en.wikipedia.org/wiki/St_George%27s_Park,_Port_Elizabeth) in Rink Street, it was designed by Elizabeth Gardner to commemorate the men who died in the First World War (1914–1918) and was erected by the monumental mason firm of Pennachini Bros. On either side of the central sarcophagus are statues by Technical College Art School principal, James Gardner, who served in the trenches during the war. One depicts St George and the Dragon, the other depicts the sanctity of family life. Surrounding the sarcophagus are a number of bas-relief panels depicting scenes and people during the First World War. It was unveiled by Mrs W F Savage and dedicated by Canon Mayo on 10 November 1929. A surrounding memorial wall commemorates the men and women killed during World War II.
 
-## ![](_page_1_Picture_5.jpeg)
 
 In Livingstone there is a cenotaph at the Eastern Cataract of The [Victoria Falls](https://en.wikipedia.org/wiki/Victoria_Falls) with the names of the men of Northern Rhodesia who died during the Great War 1914–18. It was unveiled by [Prince Arthur of Connaught](https://en.wikipedia.org/wiki/Prince_Arthur_of_Connaught) on 1 August 1923.
 
 There is also a cenotaph in [Lusaka](https://en.wikipedia.org/wiki/Lusaka) at Embassy Park, opposite the Cabinet Office along Independence Avenue, and commemorates those Zambians who fought and died in World Wars I & II. The cenotaph was commemorated in 1977.[\[6\]](#page-10-4)
 
-## ![](_page_1_Picture_8.jpeg)
 
 Cenotaph headstone for [Joshua](https://en.wikipedia.org/wiki/Joshua_Huddy) Huddy, [Manalapan,](https://en.wikipedia.org/wiki/Manalapan,_New_Jersey) New Jersey
 
-## ![](_page_1_Picture_10.jpeg)
 
 Cenotaph for [Louis](https://en.wikipedia.org/wiki/Louis_XVI) XVI and [Marie](https://en.wikipedia.org/wiki/Marie_Antoinette) [Antoinette,](https://en.wikipedia.org/wiki/Marie_Antoinette) Basilique [Saint-Denis](https://en.wikipedia.org/wiki/Basilique_Saint-Denis), [France](https://en.wikipedia.org/wiki/France)
 
-## ![](_page_1_Picture_12.jpeg)
 
 The [Limyra](https://en.wikipedia.org/wiki/Limyra) cenotaph for Gaius [Caesar,](https://en.wikipedia.org/wiki/Gaius_Caesar) [Turkey](https://en.wikipedia.org/wiki/Turkey)
 
@@ -80,7 +73,6 @@ Another cenotaph, which is a replica of the [Argentine](https://en.wikipedia.org
 
 A limestone replica of the Cenotaph at Whitehall in London was erected outside the Cabinet Building in [Hamilton,](https://en.wikipedia.org/wiki/Hamilton,_Bermuda) [Bermuda](https://en.wikipedia.org/wiki/Hamilton,_Bermuda) (with the cornerstone laid in 1920, and the completed monument unveiled in 1925).[\[7\]](#page-10-5)
 
-## ![](_page_2_Picture_3.jpeg)
 
 *[Monumento](https://en.wikipedia.org/wiki/Monumento_a_los_ca%C3%ADdos_en_Malvinas) a los caídos en Malvinas* (Monument for the fallen in the [Falklands](https://en.wikipedia.org/wiki/Falklands_War) [War\)](https://en.wikipedia.org/wiki/Falklands_War) is located in Plaza San Martin.
 
@@ -94,7 +86,6 @@ In the [Falkland Islands](https://en.wikipedia.org/wiki/Falkland_Islands), there
 
 Services are held at the Memorial each year on 14 June [\(Liberation Day](https://en.wikipedia.org/wiki/Liberation_Day_(Falkland_Islands))) [\[8\]](#page-10-6) and on [Remembrance Sunday,](https://en.wikipedia.org/wiki/Remembrance_Sunday) with [wreaths](https://en.wikipedia.org/wiki/Remembrance_poppy#United_Kingdom) being laid at the foot of the Memorial.[\[9\]](#page-10-7)
 
-## ![](_page_2_Picture_10.jpeg)
 
 The Liberation Memorial situated in front of the Secretariat Building in [Stanley,](https://en.wikipedia.org/wiki/Stanley,_Falkland_Islands) [Falkland](https://en.wikipedia.org/wiki/Stanley,_Falkland_Islands) Islands, overlooking [Stanley](https://en.wikipedia.org/wiki/Stanley_Harbour) [Harbour](https://en.wikipedia.org/wiki/Stanley_Harbour)
 
@@ -104,7 +95,6 @@ In the [United States](https://en.wikipedia.org/wiki/United_States), a cenotaph 
 
 The [Battle Monument](https://en.wikipedia.org/wiki/Battle_Monument) in [Baltimore, Maryland](https://en.wikipedia.org/wiki/Baltimore,_Maryland) commemorates the [Battle of Baltimore](https://en.wikipedia.org/wiki/Battle_of_Baltimore), the [Battle of North](https://en.wikipedia.org/wiki/Battle_of_North_Point) [Point](https://en.wikipedia.org/wiki/Battle_of_North_Point) on 12 September 1814, the [Bombardment of Fort Mc Henry](https://en.wikipedia.org/wiki/Fort_Mc Henry) on 13–14 September, and the stand-off on Loudenschlager's Hill (now Hampstead Hill in [Patterson Park](https://en.wikipedia.org/wiki/Patterson_Park)). It has an [Egyptian Revival](https://en.wikipedia.org/wiki/Egyptian_Revival) cenotaph base, surmounted by a fasces bound together with ribbons bearing the names of the dead. It was designed by French émigré architect [Maximilian Godefroy](https://en.wikipedia.org/wiki/Maximilian_Godefroy) in 1815, and construction was completed in 1827. It is
 
-## ![](_page_3_Picture_0.jpeg)
 
 The Indiana World War [Memorial](https://en.wikipedia.org/wiki/Indiana_World_War_Memorial_Plaza#Cenotaph_Square) contains a public cenotaph to honor James Bethel [Gresham](https://en.wikipedia.org/wiki/James_Bethel_Gresham), perhaps the first member of the American [Expeditionary](https://en.wikipedia.org/wiki/American_Expeditionary_Force) [Force](https://en.wikipedia.org/wiki/American_Expeditionary_Force) killed in [World](https://en.wikipedia.org/wiki/World_War_I) War I.
 
@@ -122,7 +112,6 @@ In [New London, Texas,](https://en.wikipedia.org/wiki/New_London,_Texas) a cenot
 
 ### **Asia**
 
-## ![](_page_3_Picture_9.jpeg)
 
 [Hannibal'](https://en.wikipedia.org/wiki/Hannibal)s cenotaph in [Kocaeli](https://en.wikipedia.org/wiki/Kocaeli_Province) [Province,](https://en.wikipedia.org/wiki/Kocaeli_Province) [Turkey](https://en.wikipedia.org/wiki/Turkey)
 
@@ -130,7 +119,6 @@ In Asia, the [Cenotaph](https://en.wikipedia.org/wiki/Cenotaph_(Hong_Kong)) in [
 
 [Allenby Square,](https://en.wikipedia.org/wiki/Allenby_Square) [Romema](https://en.wikipedia.org/wiki/Romema), [Jerusalem](https://en.wikipedia.org/wiki/Jerusalem)–were erected as memorials to the war dead of World War I.
 
-## ![](_page_3_Picture_13.jpeg)
 
 Cenotaph on Mount [Takamagahara](https://en.wikipedia.org/wiki/Mount_Takamagahara), Gunma [Prefecture,](https://en.wikipedia.org/wiki/Gunma_Prefecture) [Japan](https://en.wikipedia.org/wiki/Japan), built as a memorial to the victims of the crash of [Japan](https://en.wikipedia.org/wiki/Japan_Air_Lines_Flight_123) Air Lines Flight 123
 
@@ -156,7 +144,6 @@ In the [Museum of Aquitaine,](https://en.wikipedia.org/wiki/Museum_of_Aquitaine)
 
 On the cenotaph, next to the coat of arms, there are two epitaphs, in Greek and in Latin. The one in Latin begins: "To Michel de Montaigne, son of Pierre, grandson of Grimond, great-grand-son of Raymond, knight of Saint-Michel, exmayor of the city of Bordeaux, a man born for glory, with gentle manners, a witty mind ...".[\[15\]](#page-10-13)
 
-## ![](_page_4_Picture_8.jpeg)
 
 Cenotaph of Michel de [Montaigne](https://en.wikipedia.org/wiki/Michel_de_Montaigne), Museum of [Aquitaine](https://en.wikipedia.org/wiki/Museum_of_Aquitaine), Bordeaux
 
@@ -190,7 +177,6 @@ In [Inishmore,](https://en.wikipedia.org/wiki/Inishmore) one of the [Aran Island
 
 In India, cenotaphs are a basic element of [Hindu](https://en.wikipedia.org/wiki/Hindu) architecture, later used by Moghuls as seen in most of the mausoleums of [Mughal Emperors](https://en.wikipedia.org/wiki/Mughal_Emperor) which have two burial chambers, the upper one with a cenotaph, as in [Humayun's Tomb, Delhi](https://en.wikipedia.org/wiki/Humayun%27s_Tomb,_Delhi), or the [Taj Mahal,](https://en.wikipedia.org/wiki/Taj_Mahal) [Agra](https://en.wikipedia.org/wiki/Agra), while the real tomb often lies exactly below it, or further removed. The term *[chhatri](https://en.wikipedia.org/wiki/Chhatri)*, used for these canopylike structures, comes from [Hindustani](https://en.wikipedia.org/wiki/Hindustani_language) word literally meaning umbrella, and are found throughout the northwestern region of [Rajasthan](https://en.wikipedia.org/wiki/Rajasthan) as well as in [Madhya Pradesh](https://en.wikipedia.org/wiki/Madhya_Pradesh) and [Maharashtra](https://en.wikipedia.org/wiki/Maharashtra). In the [Shekhawati](https://en.wikipedia.org/wiki/Shekhawati) region of Rajasthan, *chhatri*s are built on the cremation sites of wealthy or distinguished individuals. *Chhatri*s in Shekhawati may consist of a simple structure of one dome raised by four pillars to a building containing many domes and a basement with several rooms. In some places, the interior of the *chhatri* is painted in the same manner as the *haveli*.
 
-## ![](_page_6_Picture_1.jpeg)
 
 ## Moosi Rani ki Chatri, Alwar
 
@@ -212,99 +198,75 @@ On 13 January 2016, Belgian amateur astronomers at MIRA Public Observatory dedic
 
 # **Gallery**
 
-## ![](_page_7_Picture_1.jpeg)
 
 [Remembrance](https://en.wikipedia.org/wiki/Remembrance_Day) Day parade, at the Cenotaph in the [City](https://en.wikipedia.org/wiki/Hamilton,_Bermuda) of [Hamilton](https://en.wikipedia.org/wiki/Hamilton,_Bermuda) in the [British](https://en.wikipedia.org/wiki/British_Overseas_Territory) [Overseas](https://en.wikipedia.org/wiki/British_Overseas_Territory) Territory of [Bermuda](https://en.wikipedia.org/wiki/Bermuda)
 
-## ![](_page_7_Picture_3.jpeg)
 
 State War Memorial, [Kings](https://en.wikipedia.org/wiki/Kings_Park,_Western_Australia) [Park](https://en.wikipedia.org/wiki/Kings_Park,_Western_Australia), [Perth,](https://en.wikipedia.org/wiki/Perth) [Australia](https://en.wikipedia.org/wiki/Australia)
 
-## ![](_page_7_Picture_5.jpeg)
 
 Cenotaph, Port of [Spain,](https://en.wikipedia.org/wiki/Port_of_Spain) [Trinidad](https://en.wikipedia.org/wiki/Trinidad_and_Tobago) and Tobago
 
-## ![](_page_7_Picture_7.jpeg)
 
 Cenotaph, [Flesherton,](https://en.wikipedia.org/wiki/Flesherton,_Ontario) [Ontario,](https://en.wikipedia.org/wiki/Flesherton,_Ontario) [Canada](https://en.wikipedia.org/wiki/Canada)
 
-## ![](_page_7_Picture_9.jpeg)
 
 Port Arthur Cenotaph, [Waverley](https://en.wikipedia.org/wiki/Waverley_Park_(Thunder_Bay)) Park, [Thunder](https://en.wikipedia.org/wiki/Thunder_Bay) Bay, Ontario
 
-## ![](_page_7_Picture_11.jpeg)
 
 Cenotaph, [Victoria](https://en.wikipedia.org/wiki/Victoria_Park,_London,_Ontario) Park, [London,](https://en.wikipedia.org/wiki/Victoria_Park,_London,_Ontario) Ontario
 
-## ![](_page_7_Picture_13.jpeg)
 
 Great War Memorial, [Niagara](https://en.wikipedia.org/wiki/Niagara_Falls,_Ontario) Falls, [Ontario](https://en.wikipedia.org/wiki/Niagara_Falls,_Ontario)
 
-## ![](_page_7_Picture_15.jpeg)
 
 Old City Hall [Cenotaph,](https://en.wikipedia.org/wiki/Old_City_Hall_Cenotaph,_Toronto) [Toronto,](https://en.wikipedia.org/wiki/Toronto) Ontario
 
-## ![](_page_7_Picture_17.jpeg)
 
 Cenotaph (Victoria), [Victory](https://en.wikipedia.org/wiki/Victory_Square,_Vancouver) [Square,](https://en.wikipedia.org/wiki/Victory_Square,_Vancouver) [Vancouver,](https://en.wikipedia.org/wiki/Vancouver) [British](https://en.wikipedia.org/wiki/British_Columbia) [Columbia](https://en.wikipedia.org/wiki/British_Columbia)
 
-## ![](_page_8_Picture_0.jpeg)
 
 [Cenotaph,](https://en.wikipedia.org/wiki/Cenotaph_(Montreal)) Place du [Canada](https://en.wikipedia.org/wiki/Place_du_Canada), [Montreal](https://en.wikipedia.org/wiki/Montreal), [Quebec](https://en.wikipedia.org/wiki/Quebec)
 
-## ![](_page_8_Picture_2.jpeg)
 
 [Cenotaph](https://en.wikipedia.org/wiki/Cenotaph_(Saskatchewan)), Victoria Park, Regina, [Saskatchewan](https://en.wikipedia.org/wiki/Regina,_Saskatchewan)
 
-## ![](_page_8_Picture_4.jpeg)
 
 Bruce Park [Cenotaph,](https://en.wikipedia.org/wiki/Bruce_Park#Bruce_Park_Cenotaph) [Winnipeg](https://en.wikipedia.org/wiki/Winnipeg), [Manitoba](https://en.wikipedia.org/wiki/Manitoba)
 
-## ![](_page_8_Picture_6.jpeg)
 
 Glorious Dead Cenotaph, [Kolkata,](https://en.wikipedia.org/wiki/Kolkata) [India](https://en.wikipedia.org/wiki/India)
 
-## ![](_page_8_Picture_8.jpeg)
 
 The Cenotaph located in [Donegall](https://en.wikipedia.org/wiki/Donegall_Square) Square in [Belfast](https://en.wikipedia.org/wiki/Belfast)
 
-## ![](_page_8_Picture_10.jpeg)
 
 [Étienne-Louis](https://en.wikipedia.org/wiki/%C3%89tienne-Louis_Boull%C3%A9e) Boullée, fantasy sketch *Cénotaphe a Newton* (1784)
 
-## ![](_page_8_Picture_12.jpeg)
 
 Kuala Lumpur cenotaph, National [Monument,](https://en.wikipedia.org/wiki/National_Monument_(Malaysia)) [Kuala](https://en.wikipedia.org/wiki/Kuala_Lumpur) [Lumpur](https://en.wikipedia.org/wiki/Kuala_Lumpur), [Malaysia](https://en.wikipedia.org/wiki/Malaysia)
 
-## ![](_page_8_Picture_14.jpeg)
 
 [Cenotaph](https://en.wikipedia.org/wiki/Alamo_Cenotaph) at The [Alamo](https://en.wikipedia.org/wiki/Alamo_Mission_in_San_Antonio), *Spirit of Sacrifice*, San [Antonio,](https://en.wikipedia.org/wiki/San_Antonio,_Texas) [Texas](https://en.wikipedia.org/wiki/San_Antonio,_Texas)
 
-## ![](_page_8_Picture_16.jpeg)
 
 Cenotaph in [Aldershot](https://en.wikipedia.org/wiki/Aldershot) in the UK, 'Home of the [British](https://en.wikipedia.org/wiki/British_Army) Army'
 
-## ![](_page_9_Picture_0.jpeg)
 
 National [Monument](https://en.wikipedia.org/wiki/National_Monument_(Amsterdam)), [Amsterdam,](https://en.wikipedia.org/wiki/Amsterdam) The Netherlands
 
-## ![](_page_9_Picture_2.jpeg)
 
 The [Cenotaph](https://en.wikipedia.org/wiki/The_Cenotaph,_Cape_Town), Cape [Town,](https://en.wikipedia.org/wiki/Cape_Town) [South](https://en.wikipedia.org/wiki/South_Africa) Africa
 
-## ![](_page_9_Picture_4.jpeg)
 
 The [Cenotaph](https://en.wikipedia.org/wiki/The_Cenotaph,_Durban), [Durban,](https://en.wikipedia.org/wiki/Durban) [South](https://en.wikipedia.org/wiki/South_Africa) [Africa](https://en.wikipedia.org/wiki/South_Africa)
 
-## ![](_page_9_Picture_6.jpeg)
 
 [Interallied](https://en.wikipedia.org/wiki/Interallied_Memorial_of_Cointe) Memorial of Cointe, [Liège,](https://en.wikipedia.org/wiki/Li%C3%A8ge) [Belgium](https://en.wikipedia.org/wiki/Belgium)
 
-## ![](_page_9_Picture_8.jpeg)
 
 Cenotaph, New [Plymouth,](https://en.wikipedia.org/wiki/New_Plymouth) New [Zealand](https://en.wikipedia.org/wiki/New_Zealand)
 
-## ![](_page_9_Picture_10.jpeg)
 
 The [Cenotaph,](https://en.wikipedia.org/wiki/The_Cenotaph,_Bulawayo) [Bulawayo](https://en.wikipedia.org/wiki/Bulawayo), [Zimbabwe](https://en.wikipedia.org/wiki/Zimbabwe)
 

@@ -12,9 +12,6 @@ tags:
 
 ## Ben Dickson
 
-10-12 minutes
-
-## ![](_page_0_Picture_6.jpeg)
 
 Just as it seemed big tech companies were going to dominate the market for large language models [\(LLM\)](https://bdtechtalks.com/tag/large-language-models/), a new wave of [open](https://bdtechtalks.com/2023/04/17/open-source-chatgpt-alternatives/)[source LLMs](https://bdtechtalks.com/2023/04/17/open-source-chatgpt-alternatives/) proved them wrong. The open-source community has put great efforts into creating models that can meet a wide range of computation, privacy, and data demands. These models are an alternative to ChatGPT and other LLMs that are only accessible through API interfaces.
 
@@ -28,7 +25,6 @@ Until recently, there was a tremendous amount of publication and information-sha
 
 The race to [dominate the market for generative AI](https://bdtechtalks.com/2023/02/13/google-vs-microsoft-ai-competition/) incentivizes big tech companies and their associated labs to keep their research secret to gain an advantage over their competitors, especially as training and testing very large models is [very costly.](https://bdtechtalks.com/2020/09/21/gpt-3-economy-business-model/) Blackbox APIs and apps gradually became the de facto model for releasing new models.
 
-## ![](_page_2_Picture_2.jpeg)
 
 But in recent months, we have seen the release of a wave of open-source models that provide alternatives to closed commercial products such as DALL-E 2 and [ChatGPT.](https://bdtechtalks.com/2022/12/05/openai-chatgpt/) The LLM community has been especially active with the release of models such as Alpaca, Vicuna, Dolly 2, MPT-7B, and Cerebras-GPT. These models enable organizations to have more options to explore when [deploying LLMs in their applications.](https://bdtechtalks.com/2023/05/08/open-source-llms-moats/)
 
@@ -40,7 +36,6 @@ Having control over the model, its training data, and its applications is one of
 
 ### How open-source LLMs became successful
 
-## ![](_page_3_Picture_5.jpeg)
 
 ## Andrew Feldman, CEO at Cerebras
 

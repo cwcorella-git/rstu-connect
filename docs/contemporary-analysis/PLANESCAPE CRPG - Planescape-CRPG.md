@@ -90,7 +90,6 @@ Set in the TSR world of *Planescape*, *Last Rites* will be using the *Bioware Fo
 
 The brief story summary's below, followed by a list of all the cool shit we plan to include in the game.
 
-## ![](_page_3_Picture_12.jpeg)
 
 "Sheesh. Can this guy write any *more* text?
 ## I'm already bored, and *I'm* fucking dead."
@@ -103,7 +102,6 @@ The game begins with the character waking up on a cold stone slab in the Mortuar
 
 A detailed plot summary has been provided after the vision statement. Now for a list of the cool features of this game:
 
-## ![](_page_4_Picture_5.jpeg)
 
 "The point dipshit"s trying to make is that this will be a kick-ass game."
 
@@ -125,7 +123,6 @@ Imagine exploring a painted landscape. That"s what this game does.
 
 No more repetitious dungeon tiles used to construct generic dungeons where you"ve memorized the location of every secret button in every wall texture of the cube by cube dungeon. In this game, every inch of the game world will be sculpted by an artist. It"s going be unique, and it"s going to make our competitors cry.
 
-## ![](_page_5_Picture_5.jpeg)
 
 ## "How can it not be a kick ass game? I"m in it."
 
@@ -141,7 +138,6 @@ You define yourself through your actions, not through pushing a set of numbers a
 
 #### THE INFLICT PAIN IN WAYS YOU WON'T BELIEVE
 
-## ![](_page_6_Picture_5.jpeg)
 
 "These headers are stupid.
 'Inflict Pain in Ways you won't believe.' Sheesh.
@@ -169,7 +165,6 @@ The player can have horrible, flesh-rending things happen to his character on-sc
 
 ### TIT'S A GAME, NOT A THIRST SIMULATOR
 
-## ![](_page_7_Picture_9.jpeg)
 
 "The best part about Ultima 7 was that you're guys were always hungry. There's nothing like spoon-feeding your companions to make you feel like a hero. Hellloooo, fun!"
 
@@ -181,7 +176,6 @@ But you do get to manage a party of allies – though they will always have some
 
 ### THERE AIN'+ A GAME WORLD LIKE I+
 
-## ![](_page_8_Picture_6.jpeg)
 
 "Blah blah blah Planescape blah blah blah it's so special blah blah blah we're so pretentious blah blah."
 
@@ -195,7 +189,6 @@ No more high-fantasy-ride-across-the-land-and-uphold-the-good-by-killing-the-evi
 
 ### ## EG# MASTURBATI#N
 
-## ![](_page_9_Picture_4.jpeg)
 
 "Oooooh.
 Masturbation. Now there's something you can't do at home."
@@ -220,7 +213,6 @@ There's always somewhere to go and something to do to advance the plot. The adve
 
 This theme runs through the game and carries over to scenario design and tricks and traps – there is always more than one way to skin a cat for every obstacle the player encounters, and should the player wish to leave a puzzle and come back to it, there will always be other avenues and adventures for them to embark on.
 
-## ![](_page_10_Picture_6.jpeg)
 
 "We were initially worried that a game with a severed head in it wouldn't sell. So we said, 'well, Interplay might go for it,' so here we are."
 
@@ -234,7 +226,6 @@ This theme runs through the game and carries over to scenario design and tricks 
 
 On the other hand, the player can build friendships and relationships. He can build trust with skeptics, help out those in need, or romance those he meets. We will work hard to try and include positive relationships within the game – relationships that the player may not have in real life or may desire from watching movies. The player can have buddies that will lay down their life for the character, Betsies and Veronicas/Gingers and Mary Anns fighting over his affections, mentors, loyal servants, and so on. They will thank the player for his help or fawn for his attention, giving the player additional ego-stroking.
 
-## ![](_page_11_Picture_4.jpeg)
 
 "Sometimes I wonder why my eyeballs don't dry out."
 
@@ -248,7 +239,6 @@ There are no "right" and "wrong" courses of action – more often than not, ther
 
 ### ⊕ S⊕ME+HING BIG IS G⊕ING D⊕WN
 
-## ![](_page_12_Picture_4.jpeg)
 
 ## "I've got your BIG right here."
 
@@ -266,7 +256,6 @@ Some of your weapons yodel, get jealous, and are even cowardly when drawn from t
 
 ### O "BABES," AS IN, "TRUCKLOADS OF."
 
-## ![](_page_13_Picture_4.jpeg)
 
 "I don't wear pants! Now, *that's* entertainment."
 
@@ -296,7 +285,6 @@ By the end of the game, we hope to give the player an overall feel for Planescap
 
 In essence, as many aspects of the world of Planescape will be touched upon as possible, enough to give the feeling of a well-rounded universe, but only certain facets will be explored in detail. It is hoped that the touches will help set the stage for future games and spark player interest in both future games and TSR support material.
 
-## ![](_page_14_Picture_6.jpeg)
 
 "This is what I would look like if I was punched in the face."
 
@@ -358,7 +346,6 @@ aka, "the nameless one, " "The Restless One, " "The Deathless one, " "The lost o
 
 Our Seemingly-Immortal, Horribly Scarred (Physically and Emotionally) Amnesia-Ridden Protagonist. This is the brutally scarred puppet that the player uses to interact with the Planescape world. This walking scab can"t die, which insures hours of deathless (but not painless) gaming enjoyment. His most notable bullet points is his scarred, corpse-like appearance, his ability to shrug off traumatic damage and decapitation, and his inability to remember who or what he is.
 
-## ![](_page_18_Picture_6.jpeg)
 
 "If there"s some higher Power that controls my fate, I would like to meet him, shake his hand, then crack open his ribcage and tear out his heart. "
 
@@ -366,7 +353,6 @@ Our Seemingly-Immortal, Horribly Scarred (Physically and Emotionally) Amnesia-Ri
 
 **Morte's a floating, sarcastic skull that was so abrasive his own body walked off and left him.** Morte is the player's first ally in *Last Rites*. He's a floating sarcastic skull that helps the character out by answering questions about the Planescape universe, insulting other NPCs, and hitting on female zombies. He's basically a bitter, abrasive sounding board (and cluebook) for the character. He has a tendency to bite people he doesn't like.
 
-## ![](_page_19_Picture_5.jpeg)
 
 "IT'S YOU AND ME, BERK - WE'RE IN THIS TOGETHER. UNTIL THIS THING'S OVER, I STICK LIKE YOUR LEG."
 
@@ -392,7 +378,6 @@ Our Seemingly-Immortal, Horribly Scarred (Physically and Emotionally) Amnesia-Ri
 
 A puritan succubus with the wealth of a thousand experiences in her head. Sold into slavery by her abyssal mother, Fall-from-Grace spent many long centuries in servitude to various masters across the Planes. She won her freedom in a contest of improvisation and promptly fled to Sigil, where she became the hostess of the Brothel for Slating Intellectual Lusts. Her intense dislike of her succubus mother has caused Fall-from-Grace to forsake all sexual contact and innuendoes, seeing them as contemptible qualities.
 
-## ![](_page_22_Picture_5.jpeg)
 
 "HER EYES WERE LIKE WINDOWS TO HELL, BUT SHE HAD A BODY THAT MADE ME WANT TO KICK IN THE DOOR. "
 
@@ -402,7 +387,6 @@ A puritan succubus with the wealth of a thousand experiences in her head. Sold i
 
 A book-smart metal cube with arms, legs, big eyes and a voice like a Speak-and-Spell on crack. A clunky mechanical cube with arms, legs, and large expressive eyes (that usually register only confusion), Nordom is a rogue modron from Mechanus. He is a straight man for many jokes and the ultimate puzzle-breaker for any conundrum the player encounters. He acts like a cubic R2D2 unit that speaks bad English.
 
-## ![](_page_23_Picture_5.jpeg)
 
 "NORDOM. IT RHYMES WITH 'BOREDOM.' NEXT TIME, WE SHOULD HIRE A CASH REGISTER OR A TOASTER TO HELP US OUT INSTEAD."
 
@@ -414,7 +398,6 @@ A book-smart metal cube with arms, legs, big eyes and a voice like a Speak-and-S
 
 A suit of Mercykiller armor inhabited by the ghost of a dead Sigil cop. Start with a "Nazgul," slap some tank armor on it, add a voice that sounds like it"s coming from within a boiler, and you have Vhailor. An intricate (and frightening) suit of armor haunted by the spirit of its owner, Vhailor"s devotion to justice was such that he refused to die until the sentences of all who had committed crimes during his lifetime were punished. Kept alive only by his devotion to justice, the armor will serve the character and help him reach his goals…as long as it does not interfere with Vhailor"s own goals.
 
-## ![](_page_24_Picture_5.jpeg)
 
 "I HAVE WAITED MILLENIA TO DISPENSE JUSTICE. I WILL WAIT ANOTHER MILLENIA TO SEE THE SENTENCES OF THE CONDEMNED CARRIED OUT."
 
@@ -456,7 +439,6 @@ Then the cycle will begin again.
 
 A wererat lawyer-wizard that serves as a mouthpiece for a hive mind of cranium rats. Take Gollum and/or Smigal Wormtounge from Lord of the Rings, add a peculiar brand of lycanthropy that allows him to change into a giant humanoid rat, and you have Mantuok. A sniveling, obsequious diplomat for the hive of cranium rats that live in the Weeping Stone catacombs, Mantuok makes up for his various physical deficiencies with his magical prowess and social backstabbing skills.
 
-## ![](_page_27_Picture_6.jpeg)
 
 "Why have you come TO OUR KINGDOM, human? This is not A PLACE for MaN… no PLACE for man at All. "
 
@@ -466,7 +448,6 @@ A wererat lawyer-wizard that serves as a mouthpiece for a hive mind of cranium r
 
 A batty, lecherous Night Hag that tinkers with arcane abstracts. Ravel is imprisoned in an extraplanar barbed-black maze for conducting arcane research that threatened Sigil. Obsessed with the idea that the Lady of Pain is herself a prisoner in Sigil, Ravel was promptly hurled into a prison of her own midway through her attempt to "free" her. Gifted with the ability to fashion artifacts endowed with bizarre abstract powers, Ravel was responsible for peeling the player"s mortality from his body and leaving him the immortal wreck he is today. Ravel is tremendously powerful but slow to anger…the player"s main challenge will be finding a way to politely fend off her lustful advances while picking her brain for information.
 
-## ![](_page_28_Picture_5.jpeg)
 
 "MY PRETTY THING, I CAN TRAVEL THE PLANES, BUT I CANNOT CHANGE THE NATURE OF MAN. "
 
@@ -478,7 +459,6 @@ A deva who betrayed the Upper Planes to the Blood War. Trias is a political "vis
 
 The player encounters Trias in the prison town of Curst, where he is attempting to gain new recruits to his cause.
 
-## ![](_page_29_Picture_6.jpeg)
 
 "IF ONE TRULY BELIEVES IN A CAUSE, ONE MUST BE WILLING TO BETRAY IT. "
 
@@ -517,7 +497,6 @@ Interplay is the only company ever to have this license. The exclusiveness could
 - Your items have personality. Some of them even talk to you. In the game, the player comes across new party members that sit in his inventory. Cowardly swords, hate-filled axes and slow-witted yodeling hammers all can have conversations with the player and throw in their two cents when they have something to say.
 - Your companions in the game. The uniqueness of the companions the player can discover in the game can also be played up to differentiate from other computer games…a smart-assed sarcastic floating skull, a teen-aged demon-girl with a lashing tail, a puritan succubus, a talking speak-and-spell cube, a self-exiled samurai, a pyromaniacal mage that is a living conduit to the elemental plane of fire, and a suit of living armor can all join your party.
 
-## ![](_page_31_Picture_8.jpeg)
 
 "Of all the player"s companions though, Morte, the floating skull, is the best."
 
@@ -593,11 +572,9 @@ The player escapes the Mortuary and finds himself on the streets of Sigil's slum
 - Find some "journal" that was supposed to be with his body (but seems to be missing).
 - Find out how he died/who killed him.
 
-## ![](_page_34_Picture_9.jpeg)
 
 "Throughout the game, I dispense advice, abuse, and even hints when the player asks. I keep track of what the player's learned and what he's forgotten. I'm a skull, a compass, an encyclopedia, and the player's best friend."
 
-## ![](_page_35_Picture_3.jpeg)
 
 ### PHAROD: RAGPICKER"s SQUARE AND BELOW
 
@@ -641,7 +618,6 @@ A battered siege tower sitting in the middle of Sigil's upper class ward hides a
 
 The purpose of this area is to allow players to customize their own weapons and armor. They can modify weapons they like to use and give the weapons abilities more suited to their style of play.
 
-## ![](_page_38_Picture_3.jpeg)
 
 ### THE BLACK-BARBED MAZE
 
@@ -651,7 +627,6 @@ Ravel informs the player that he is immortal because his mortality was split fro
 
 Ravel cannot remember why the player and his mortality were split. She claims there was some reason for it, but she can"t recall what it was.
 
-## ![](_page_39_Picture_3.jpeg)
 
 ### PRISON GATE-TOWN OF CURST
 
@@ -663,7 +638,6 @@ While the player is gone from Curst, Trias (who is really quite a bastard past h
 
 9 Devas are the Planescape equivalent of angels.
 
-## ![](_page_40_Picture_3.jpeg)
 
 ### FORKED-TOUNGE"S CRATER
 
@@ -675,7 +649,6 @@ Forked-Tounge (gritting his teeth as he gives something for nothing) provides th
 
 10 A "baatezu" is the Planescape equivalent of a devil. The reason they don"t just use "angel, devil, heaven" and "hell" is so they don"t give various religious groups any (more) ammo for lawsuits or crusades.
 
-## ![](_page_41_Picture_3.jpeg)
 
 ## BAATOR: A CHAT WITH THE PILLAR OF SKULLS
 

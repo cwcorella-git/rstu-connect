@@ -78,7 +78,6 @@ Every effort has been made to trace all copyright holders, but if any have been 
 
 For further information on Polity, visit our website: politybooks.com
 
-## ![](_page_7_Picture_16.jpeg)
 
 For more than three decades, the New Economics Foundation's mission has been to transform the economy so it works for people and the planet. We work with people igniting change from below and combine this with rigorous research to fight for change at the top.
 

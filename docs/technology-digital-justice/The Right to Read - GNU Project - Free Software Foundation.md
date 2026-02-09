@@ -12,7 +12,6 @@ tags:
 
 ## by Richard Stallman
 
-14–18 minutes
 
 From The Road To Tycho, a collection of articles about the antecedents of the Lunarian Revolution, published in Luna City in 2096.
 

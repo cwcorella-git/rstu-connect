@@ -9,7 +9,6 @@ tags:
   - workers
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 The Industrial Workers of the World is a union open to wage and salary workers in all industries, and to members of the working class in all countries. Its aim is to enable workers to resist being used against each other either to undermine each other's jobs in peacetime or kill each other in war. Its hope is to make this planet a good place for all of us. We seek to build a new world in the shell of the old through direct control of industry by workers on the job.
 
@@ -19,7 +18,6 @@ To co-operate with us, look up the IWW in your locality or write to: IWW, 103 We
 
 Together we can do things we can't do alone.
 
-## ![](_page_0_Picture_6.jpeg)
 
 ## ![](_page_0_Figure_7.jpeg)
 
@@ -27,7 +25,6 @@ Together we can do things we can't do alone.
 
 ## ![](_page_0_Figure_9.jpeg)
 
-## ![](_page_1_Picture_0.jpeg)
 
 # What Is A Boss?
 
@@ -79,13 +76,11 @@ These conditions can be changed and the interests of the working class upheld on
 
 Instead of the conservative motto, "A fair day's wage for a fair day's work," we must inscribe on our banner the revolutionary watchword, "Abolition of the wage system." It is the historic mission of the working class to do away with capitalism. The army of production must be organized, not only for everyday struggle with the capitalists, but also to carry on production when capitalism shall have been overthrown. By organizing industrially we are forming the structure of the new society within the shell of the old
 
-## ![](_page_2_Picture_27.jpeg)
 
 ©^ typwrtti Tu, paete-^p tod printing by mbgo later, (rafted en recycled paper
 
 SOLIDARITY CENTER 1119 MASSACHUSETS LAWRENCE. KS 66044 785=8650 374
 
-## ![](_page_3_Picture_0.jpeg)
 
 # DEDICATION
 
@@ -121,7 +116,6 @@ Killed in the Columbine, Colorado massacre November 21, 1927
 
 the unnamed and unsung workers who struggle for a world united in peace and free from the exploitation of labor. Our struggle will succeed
 
-## ![](_page_3_Picture_18.jpeg)
 
 # There Is Power In A Union
 
@@ -687,7 +681,6 @@ Fierce and long the battle rages, but we will not Tear. Help will come whene'er 
 
 Aboul 1870 "Hold (he Fort" was written by Bliss as a U S gospel sung, based on an incident in the U S Civil War Itwas made into a labor song by the Knights of Labor (the Knights advocated an alliance of producer and consumer cooperatives as an alternative to industrial capitalism.) The song was casl into ns present form by the Bnhsh Transport Workers about 1890
 
-## ![](_page_6_Picture_10.jpeg)
 
 # Solidarity Forever
 
@@ -823,7 +816,6 @@ Eugene Polbei wrote the original lyrics of the Inlema Uonjk in June, ! 87 1, lo 
 
 By the start of the 20th century, the Intemauonalc was sung by socialists, anarchists Lind communists all over the world in dozens of languages The communists claimed the song and until 1943 it was the national anthem of the Soviet Union, but itwas never theirs. FW Bragg, sought lo put the song's vision of communal freedom into new words, lo commemorate the Chinese students in Tinanamen Square in 1989 who sang the Intemauonalc before they were massacred.
 
-## ![](_page_8_Picture_30.jpeg)
 
 # Hijos del Pueblo
 
@@ -1079,7 +1071,6 @@ You ran out the hookers who worked on the street, And you built a big hall where
 
 Now I'm finding out there's just one kind of war; It's one going on 'tween the rich and the poor. I don't know a lot about what you'd call class, But the upper and middle can all kiss my ass.
 
-## ![](_page_13_Picture_22.jpeg)
 
 # Mister Block
 
@@ -1402,7 +1393,6 @@ First appearance, 3rd Australian Edition of IWW Songbook (c.1920).
 
 ## ![](_page_19_Figure_16.jpeg)
 
-## ![](_page_19_Picture_17.jpeg)
 
 Rock-a-bye baby, on the tree top, When you grow up, you'll work in a shop; When you are married, your spouse will work too, So that the rich will have nothing to do.
 
@@ -1551,7 +1541,6 @@ As we come marching, marching, we bring the greater days. For the rising of the 
 
 These words were inspired by picket signs earned by sinkers in the 1912 [WW
 
-## ![](_page_22_Picture_8.jpeg)
 
 At meetings of miners forms of action were proposed. And thirty-one of the fittest miners they chose For a sit-in strike deep within Kernira mine And those thirty-one started moving down the line. At four in the morning Mister Pratt from B. H. P. Sacked them and told them that very soon they'd see Where the strength lay for he was turning off the power. "Do what you will," they said, "You won't see miners cower,"
 
@@ -1617,7 +1606,6 @@ It's fun to work on holidays, or when the day is done; Why should they pay us ov
 
 The folks who own the industries, they own no bonds and stocks, They own no yachts and limousines, or gems the size of rocks. They own no big estates with pools, or silken B. V. D.'s, Because they pay the working folk such fancy salaries. Ohhh
 
-## ![](_page_23_Picture_21.jpeg)
 
 ## ![](_page_24_Figure_0.jpeg)
 
@@ -1702,7 +1690,6 @@ Onward, Christian soldiers! Rip and tear and smite!
 
 Let the gentle Jesus bless your dynamite. Splinter skulls with shrapnel, fertilize the sod; Folks who do not speak your tongue deserve the curse of God. Smash the doors of every home, pretty maidens seize; Use your might and sacred right to treat them as you please. Onward, Christian soldiers! Blighting all you meet; Trample human freedom under pious feet. Praise the Lord whose dollar sign dupes his favored race! Make the foreign trash respect your bullion brand of grace. Trust in mock salvation, serve as tyrants' tools; History will say of you: "That pack of god - damned fools!"
 
-## ![](_page_25_Picture_8.jpeg)
 
 # The Picket Boogie
 
@@ -1722,7 +1709,6 @@ They rake the profits in until their pockets bulge out, Then they say our kids a
 
 This song came out of the 18-month strike against Hormel Meat Products in Austin, Minnesota, U. S. A., starting in August 1985. The strike was broken when the workers' union, the United Food and Commercial Workers, threw the striking P-9 Local into receivership. The song was collected from Judy Mc Callen.
 
-## ![](_page_26_Picture_9.jpeg)
 
 ## ![](_page_26_Figure_10.jpeg)
 
@@ -1748,7 +1734,6 @@ Now ev-'ry citizen will tell you We must have food to eat. But when you live for
 
 ## © 1991 Dreams of Peace Music
 
-## ![](_page_26_Picture_19.jpeg)
 
 (I'm a) women who speaks in a voice And I must be heard. (Some)times I can be quite difficult, I'll bow to no man's word.
 
@@ -1938,7 +1923,6 @@ The Union's standing tall All for one and one for all. (repeat 2x's) All for one
 
 This song came out of the 1989 strike by the machinists, flight attendants and pilots against Eastern Airlines. The airline went into bankruptcy as a union busting ploy, refused several attempts by the unions to buy it and went out of business. This song was collected from Joanne Delaplaine.
 
-## ![](_page_29_Picture_14.jpeg)
 
 # Babylon Updated
 
@@ -1992,7 +1976,6 @@ These days we're getting organized, this time we won't be beaten, It's you lend 
 
 Written for the Women's Theater group for a play for school leavers "Work to Role."
 
-## ![](_page_31_Picture_12.jpeg)
 
 # A World To Win
 
@@ -2106,9 +2089,6 @@ Now Judi Bari is an Earthist organizer The California Redwoods are her home. She
 
 On May 24, 1990, a bomb exploded under FW Judi Bari's car seat as she and FW Darryl Chemey drove through Oakland, California, to a "Redwood Summer" organizing event. Two years later, Bari sill suffered from a shattered pelvis and a paralyzed leg. Rather than conducting an investigation, the police and the FBI (under Special Agent Richard Held) engaged in a coverup, named Ban and Chemey as the only suspects and made sure the real bomber wasn't found. "Redwood Summer" was a non-violent campaign to stop the cutting of redwood forests near Ukiah by the Georgia Pacific, Louisiana-Pacific and MAXXAM lumber companies. The union is a local of the United Woodworkers of America, headed by Don Nelson, that did not take action when PCB was spilled in a saw mill and the workers turned to the IWW. The FBI's COINTELPRO (Counter Intelligence Program) was formed to "disrupt, misdirect, discredit or otherwise neutralize" the anti-war and civil rights movements in the 1960's. In 1971 COINTELPRO was officially discontinued, however, the same techniques and operations continue to be used against any discontinued, however, the same techniques and operations continue to be used against any US group deemed threatening to the current power structure. Held is an FBI agent who in the 1970's was involved in COINTELPRO-style actions against the Black Panther Party, the American Indian Movement and the Puerto Rican Independentista Movement. Willits, CA, was where Bari was living.
 
-## ![](_page_34_Picture_11.jpeg)
-
-## ![](_page_34_Picture_12.jpeg)
 
 #### Joe Hill
 
@@ -2159,7 +2139,6 @@ When I die don't bury me deep, Bury me down on 600 Street, Place a bobbin in eac
 
 A spool is a reel for winding yam; a knotter is a little gadget used for tying the ends of the yam together; a doffer is a worker who takes filled bobbins from the spinning frames. Most of this sort of work was done by women.
 
-## ![](_page_35_Picture_20.jpeg)
 
 ## Which Side Are You On?
 
@@ -2286,7 +2265,6 @@ When you think of union what comes to your mind, A guy driving a truck or workin
 
 ## O 1!NW Tom Juravich
 
-## ![](_page_37_Picture_26.jpeg)
 
 # Legal - Illegal
 
@@ -2465,7 +2443,6 @@ Jack London tells the story: God was working in his lab, And with some hateful s
 
 ## O 1913. Put Mc Kcnni
 
-## ![](_page_39_Picture_27.jpeg)
 
 #### This Little Scab
 
@@ -2475,7 +2452,6 @@ Words by Chicago Branch IWW and Local 329, Service Employees Int'l, U. S. A. Tun
 
 ## ![](_page_40_Figure_3.jpeg)
 
-## ![](_page_40_Picture_4.jpeg)
 
 This little scab, s/he plays one, S/he is scabbing just for fun.
 
@@ -2691,7 +2667,6 @@ In the 20's and 30's, large numbers of southern U. S. hill farmers, adults and c
 
 ## O 1962, Hedy West
 
-## ![](_page_43_Picture_13.jpeg)
 
 # Song of My Da Words and music by Paul O'Brien, Ireland. First appearance, 36th edition.
 
@@ -2713,7 +2688,6 @@ The "big man" is James Larkin, founder of the Irish Transport and General Worker
 
 ## O Paul O'Brien
 
-## ![](_page_43_Picture_23.jpeg)
 
 # Rise Again
 

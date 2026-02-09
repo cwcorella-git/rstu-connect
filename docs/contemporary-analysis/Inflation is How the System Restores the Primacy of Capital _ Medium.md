@@ -8,11 +8,6 @@ tags:
 
 ## re. Marx
 
-16–21 minutes
-
-## ![](_page_0_Picture_6.jpeg)
-
-12 min read
 
 ## Dec 1, 2021
 
@@ -20,7 +15,6 @@ It pushes labor back towards proletarianism, and capital back towards industrial
 
 ## Press enter or click to view image in full size
 
-## ![](_page_0_Picture_11.jpeg)
 
 Industrial Capital remains buried just beneath the surface. Image source
 

@@ -9,11 +9,6 @@ tags:
 
 Robyn Gulliver, Kelly S. Fielding, Winnifred R. Louis
 
-## ![](_page_0_Picture_3.jpeg)
-
-## ![](_page_0_Picture_4.jpeg)
-
-## ![](_page_0_Picture_5.jpeg)
 
 #### **Front cover image (left)**
 
@@ -57,7 +52,6 @@ ICNC MONOGRAPH SERIES EDITOR: Dr. Maciej Bartkowski VOLUME EDITORS: Steve Chase,
 
 Robyn Gulliver, Kelly S. Fielding, Winnifred R. Louis
 
-## ![](_page_2_Picture_3.jpeg)
 
 # Contents
 
@@ -836,7 +830,6 @@ In the previous section we considered the characteristics of groups engaging in 
 
 Many researchers have used dierent approaches to analyze the outcomes of conventional tactics in general, or civil resistance in particular For example, some researchers use statistical analysis to ascertain whether social or environmental groups have an impact on the policy process (Burstein and Linton 2002) Other researchers have used content analysis of media coverage to compare the outcomes of violent versus nonviolent protest and provide substantial evidence that civil resistance movements advance democratization (Bartkowski
 
-## ![](_page_48_Picture_3.jpeg)
 
 FIGURE 12. Climate Angels at Extinction Rebellion Declaration Day.
 
@@ -1057,7 +1050,6 @@ Climate Change | 25 | - | 16 | 2 | 1 | 44 | | | |
 
 We next consider the type of civil resistance tactics used in the Stop Adani campaign (see Table 13) Following Beer's (2021) categorization, we reviewed each of the 725 unique civil resistance tactics promoted by the involved groups and identied which category they t best
 
-## ![](_page_61_Picture_1.jpeg)
 
 FIGURE 14. Stop Adani Logos at the School Strike for Climate Event.
 
@@ -1098,7 +1090,6 @@ celed events were planned bus trips up to Camp Binbee to blockade the coal mine
 
 Campaigns target holders of power (Tilly 1999), including political entities, corporations, and individuals It is helpful to also distinguish between primary and secondary targets, particularly when considering sustained campaigns directed toward large multinational companies like Adani The primary target is the entity that is able to meet activists' demands, which in this case study is the Adani corporation itself Secondary targets constitute the primary target's pillars of support, such as banks, other businesses, and politicians These secondary targets may be more accessible to activist agitation than the primary target itself (Bobo, et al 2001) In addition, secondary targets may hold power over the primary target For example, banks hold signicant power over corporations through their ability to fund projects In this case study we investigate the extent to which the
 
-## ![](_page_63_Picture_5.jpeg)
 
 ## FIGURE 15. Human Sign Action
 
@@ -2004,4 +1995,3 @@ International Center on Nonviolent Conflict 600 New Hampshire Ave NW, Suite 710 
 
 www.nonviolent-conflict.org
 
-## ![](_page_119_Picture_11.jpeg)

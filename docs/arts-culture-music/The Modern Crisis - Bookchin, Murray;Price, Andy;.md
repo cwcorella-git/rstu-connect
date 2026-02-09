@@ -7,7 +7,6 @@ tags:
   - Bookchin
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 ## Foreword by Andy Price
 
@@ -814,7 +813,6 @@ Email friendsofak@akpress.org for more info, or visit the website: https://www.a
 
 There are always great book projects in the works—so sign up now to become a Friend of AK Press, and let the presses roll!
 
-## ![](_page_137_Picture_4.jpeg)
 
 # Copyright
 

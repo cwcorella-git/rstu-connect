@@ -11,11 +11,9 @@ tags:
 
 ## Frederick Engels
 
-44-56 minutes
 
 #### Frederick Engels 1847
 
-## ![](_page_0_Picture_7.jpeg)
 
 Written: October-November 1847;
 

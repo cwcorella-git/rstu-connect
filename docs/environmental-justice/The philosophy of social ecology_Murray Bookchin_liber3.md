@@ -9,7 +9,6 @@ tags:
   - Bookchin
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 #### Te Phlosopy of Socal Eolog
 
@@ -43,13 +42,9 @@ Decades ago when the concern over the ecology centred around the problems of con
 
 ## Paperback 1-551640-18-X Hardcover 1-551640-19-8
 
-## ![](_page_1_Picture_13.jpeg)
 
 ## Montréal/New York London ISBN 1-551640-18-X
 
-## ![](_page_1_Picture_16.jpeg)
-
-## ![](_page_2_Picture_0.jpeg)
 
 ## The Philosophy of Social Ecology
 
@@ -83,7 +78,6 @@ Our Synthetic Environment (1962) Crisis in Our Cities (1965)
 
 ## Murray Bookchin
 
-## ![](_page_3_Picture_13.jpeg)
 
 ## Copyright © 1996 MURRAY BOOKCHIN
 
@@ -105,7 +99,6 @@ I. Human ecology. I. Title.
 
 ## 3rd Printing 1996
 
-## ![](_page_4_Picture_9.jpeg)
 
 250 Sonwil Drive Buffalo, New York 14225 USA Succ. Place du Parc Montréal, Québec H2W 2R3 Canada C. P. 1258
 
@@ -841,7 +834,6 @@ M a v wd , w v N dm A a a a ad dad a a a d vy W ad a a a a a a da a a ad ad v aa
  - 27. Nor did we, by the late 1940s, regard the workers' movement--indeed, "workers' countils" or "workers' control of industry"--as revolutionary, especially with the sequelae of the great strike movements of the late 1940s, which directly affected my own life as a worker.
 - 28. The notion of an "institute for freedom," touted by many radical theorists, is a sheer oxymoron. The compelling, indeed necessitarian character of institute makes it the very antithesis of freedom, whose liberating dimensions are grounded in choice and self-consciousness.
 
-## ![](_page_105_Picture_0.jpeg)
 
 # has also published the following books of related interest
 

@@ -4648,7 +4648,6 @@ If any one country undertook such measures, the CIA would probably begin immedia
 
 With the serious political divisions between international capital, such a movement might even attract the support of a great power rival to the U. S. The Europeans, Russians or Chinese would be quite likely to ignore any U. S. attempt to impose trade sanctions. Any would-be rival "Eurasian bloc" of such powers might, indeed, welcome the movement as a form of strategic leverage, the same way the USSR welcomed the old nonaligned movement.
 
-![](_page_244_Picture_0.jpeg)
 
 ### **Chapter Nine: Ends and Means**
 
@@ -5564,7 +5563,6 @@ George Orwell. *1984*. Signet Classics reprint (New York: Harcourt Brace Jovanov
 
 #### The Anarchist Library Anti-Copyright
 
-## ![](_page_285_Picture_1.jpeg)
 
 #### Kevin Carson Studies in Mutualist Political Economy March 2007
 

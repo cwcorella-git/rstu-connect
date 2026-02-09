@@ -11,7 +11,6 @@ tags:
 
 ## Wayne State University
 
-3–4 minutes
 
 ## ![](_page_0_Figure_6.jpeg)
 

@@ -15,7 +15,6 @@ tags:
 
 ## Murray Bookchin
 
-## ![](_page_0_Picture_3.jpeg)
 
 ### **Contents**
 
@@ -1645,7 +1644,6 @@ This "vision," if such it can be called, is still sufficiently removed from our 
 
 #### The Anarchist Library Anti-Copyright
 
-## ![](_page_190_Picture_1.jpeg)
 
 Murray Bookchin Urbanization Without Cities The Rise and Decline of Citizenship 1992
 

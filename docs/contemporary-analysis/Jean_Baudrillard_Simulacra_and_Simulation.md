@@ -8,13 +8,9 @@ tags:
   - current-events
 ---
 
-## ![](_page_0_Picture_1.jpeg)
 
 ## Translated by Sheila Faria Glaser
 
-## ![](_page_1_Picture_0.jpeg)
-
-## ![](_page_3_Picture_0.jpeg)
 
 # SIMULACRA AND SIMULATION
 

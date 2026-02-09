@@ -7,7 +7,6 @@ tags:
   - youth
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 ## BOTCHED EXECUTIONS AND AMERICA'S DEATH PENALTY
 

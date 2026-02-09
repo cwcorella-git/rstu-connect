@@ -11,7 +11,6 @@ tags:
 
 ## **EMAD MOSTAQUE**
 
-## ![](_page_0_Picture_3.jpeg)
 
 | © Emad Mostaque, 2025. All rights reserved. | |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
@@ -339,7 +338,6 @@ Eor ten thousand years, all labor was performed by metabolic engines called huma
 
 This is why this fourth inversion is Fnal. Ahen hands became obsolete, we pivoted to our minds. 4ut when our minds are out0competed by a form of labor that does not need to eat, sleep, or live, there is nowhere left to pivot. Ae are not just facing a more e"cient competitor; we are facing a di Serent category of economic life.
 
-## ![](_page_16_Picture_0.jpeg)
 
 ### The Mathematics of Obsolescence ere is the brutal math that no politician will speak aloudq for a growing majority of cognitive tasks, the economic value of a human is not just lower than an :I. It is negative.
 
@@ -846,7 +844,6 @@ Gondon, the heart of a continental networz. For centuries, it thrived on qow. Th
 
 These three laws have direct, measurable ejpressions. The Gaw of Flow governs the health of a system Es Material and Intelligence capitals. The Law of Openness is embodied in its Network capital. Mnd the Gaw of Resilience is measured by its Diversity capital. To measure a system Es adherence to these laws is to measure its vitality. This is the Tripod of Justice.
 
-## ![](_page_57_Picture_2.jpeg)
 
 # From Nnference to GenerationL A deI Scienti:c Metho
 
@@ -917,7 +914,6 @@ This is the variety of approaches, perspectives, and possibilities maintained by
 - The Incan Lesson, Revisited: While the global banana industry collapsed with its single, fragile variety, the Inca thrived. They cultivated three thousand varieties of potato in the Andes. When one failed, others survived. They did not optimize for global export; they optimized for persistence. Their system was not just resilient; it was antifragile, learning and strengthening from the constant small shocks of local blights and weather events.
 - The Modern Mistake: We have created a global monoculture in the name of efficiency and act surprised when it proves catastrophically fragile. We have systematically traded the antifragility that comes from diversity for the brittle illusion of short-term optimization.
 
-## ![](_page_63_Picture_1.jpeg)
 
 # The Multiplication Principle
 
@@ -967,7 +963,6 @@ This reframes the foundational problem of microeconomics: the goal is not to sat
 
 In ancient India, six blind scholars were brought before an elephant. The krst, touching the trun", declared, A!n elephant is li"e a thic" sna"eNA The second, feeling a leg, insisted, Ayo, it is li"e a mightY treeNA The third, grasping the tail, proclaimed, AEou are both fools, it is clearlY a ropeNA vach scholar ga6e a perfect, empiricallY 6erikable description of the part theY touched. vach was completelY right about their piece, catastrophicallY wrong about the whole, and readY to die defending their partial truth.
 
-## ![](_page_67_Picture_0.jpeg)
 
 This is the secret history of economic thought.
 
@@ -989,11 +984,6 @@ The Hodge Decomposition theorem, a crown jewel of 20th century mathematics, prov
 
 This is not a model of economics. This is the deep structure of economic reality. Recognizing this allows us to see the entire history of economic thought not as a series of ideological battles, but as a slow, painful, and partial discovery of this complete system.
 
-## ![](_page_69_Picture_1.jpeg)
-
-## ![](_page_69_Picture_2.jpeg)
-
-## ![](_page_69_Picture_3.jpeg)
 
 #### Gradient Flow: The Gospel of Adam Smith
 

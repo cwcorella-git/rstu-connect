@@ -9,7 +9,6 @@ tags:
 
 ## **Remarks by the President at LBJ Presidential Library Civil Rights Summit**
 
-16–20 minutes
 
 Lyndon B. Johnson Presidential Library Austin, Texas
 

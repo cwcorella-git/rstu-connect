@@ -51,7 +51,6 @@ This book has been composed in Arno Pro with Futura display
 
 ## 10 9 8 7 6 5 4 3 2 1
 
-## ![](_page_5_Picture_0.jpeg)
 
 #### **CONTENTS**
 

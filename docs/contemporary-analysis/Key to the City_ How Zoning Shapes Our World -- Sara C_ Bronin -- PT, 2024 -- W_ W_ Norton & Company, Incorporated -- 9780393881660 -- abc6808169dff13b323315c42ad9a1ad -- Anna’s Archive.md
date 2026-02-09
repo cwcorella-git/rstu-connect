@@ -19,11 +19,9 @@ HOW ZONING SHAPES
 
 ## SARA C. BRONIN
 
-## ![](_page_1_Picture_3.jpeg)
 
 ## Independent Publishers Since 1923
 
-## ![](_page_3_Picture_0.jpeg)
 
 ## Contents
 
@@ -58,7 +56,6 @@ HOW ZONING SHAPES
 
 # KEY to the CITY
 
-## ![](_page_6_Picture_1.jpeg)
 
 # Introduction
 

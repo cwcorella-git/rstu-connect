@@ -435,7 +435,6 @@ The discovery of a system of absolute equality in which all existing institution
 
 A work so vast requires, I am aware, the united efforts of twenty Montesquieus; nevertheless, if it is not given to a single man to finish, a single one can commence, the enterprise. The road that he shall traverse will suffice to show the end and assure the result.
 
-![](_page_27_Picture_0.jpeg)
 
 *Adversus hostem æterna auctertas esto*. Against the enemy, revendication is eternal.
 
@@ -2620,7 +2619,6 @@ And you, sad victims of an odious law! — you, whom a jesting world despoils an
 
 O God of liberty! God of equality! Thou who didst place in my heart the sentiment of justice, before my reason could comprehend it, hear my ardent prayer! Thou hast dictated all that I have written; Thou hast shaped my thought; Thou hast directed my studies; Thou hast weaned my mind from curiosity and my heart from attachment, that I might publish Thy truth to the master and the slave. I have spoken with what force and talent Thou hast given me: it is Thine to finish the work. Thou knowest whether I seek my welfare or Thy glory, O God of liberty! Ah! perish my memory, and let humanity be free! Let me see from my obscurity the people at last instructed; let noble teachers enlighten them; let generous spirits guide them! Abridge, if possible, the time of our trial; stifle pride and avarice in equality; annihilate this love of glory which enslaves us; teach these poor children that in the bosom of liberty there are neither heroes nor great men! Inspire the powerful man, the rich man, him whose name my lips shall never pronounce in Thy presence, with a horror of his crimes; let him be the first to apply for admission to the redeemed society; let the promptness of his repentance be the ground of his forgiveness! Then, great and small, wise and foolish, rich and poor, will unite in an ineffable fraternity; and, singing in unison a new hymn, will rebuild Thy altar, O God of liberty and equality!
 
-![](_page_166_Picture_0.jpeg)
 
 # **A Letter to M. Blanqui.**
 
@@ -3724,7 +3722,6 @@ P. S. During the session of April 2, the Chamber of Deputies rejected, by a very
 
 #### The Anarchist Library Anti-Copyright
 
-## ![](_page_247_Picture_1.jpeg)
 
 Pierre-Joseph Proudhon What is Property? An Inquiry into the Principle of Right and of Government 1840
 

@@ -10,15 +10,11 @@ tags:
 
 ## HIS LIFE AND THEORY OF JUSTICE
 
-## ![](_page_0_Picture_2.jpeg)
-
-## ![](_page_2_Picture_0.jpeg)
 
 # His Life and Theory of Justice thomas pogge
 
 ## Translated by Michelle Kosch
 
-## ![](_page_3_Picture_4.jpeg)
 
 # 3
 
@@ -54,7 +50,6 @@ Printed in the United States of America on acid-free paper
 
 ## For Sidney Morgenbesser, Mensch
 
-## ![](_page_6_Picture_0.jpeg)
 
 #### PREFACE
 
@@ -414,11 +409,9 @@ Kant
 
 ## Index 215
 
-## ![](_page_16_Picture_0.jpeg)
 
 # J O H N R A W L S
 
-## ![](_page_18_Picture_0.jpeg)
 
 #### One
 
@@ -444,9 +437,6 @@ The most important events in Jack's childhood were the loss of two younger broth
 
 Jack recovered from the diphtheria, but the very next winter, while recovering from a tonsillectomy, caught a severe pneumonia, which
 
-## ![](_page_22_Picture_1.jpeg)
-
-## ![](_page_22_Picture_2.jpeg)
 
 ## Figure 1.1. Jack and Bobby Rawls soon infected his brother Tommy. The tragedy of the previous year repeated itself. While Jack was recovering slowly, his little brother died in February of 1929.
 
@@ -458,7 +448,6 @@ Jack started his education in the private Calvert School, where he completed a y
 
 The boarding school Jack attended from 1935 to 1939 was the Kent School in western Connecticut, a strictly religious boys' school in the High Church Episcopal tradition headed by a monk of the Poughkeepsie-based Order of the Holy Cross. This principal was a severe and dogmatic man, who left little freedom to his teachers and students. Except for vacations, the students were not allowed to leave the school grounds to visit the shops in the nearby village or to see a movie. All students had to do house chores and attend religious services six days a week, and there were two mandatory church services on Sundays. Jack was certainly a success at Kent: high marks, senior prefect, a place on the football and wrestling teams, and advertising manager on the yearbook board. He also played hockey, baseball, tennis, and chess, as well as the trumpet for the school's jazz orchestra. Nonetheless, Jack did not much enjoy his years at Kent. The school offered him little intellectual stimulation, so it is not surprising that he remembers his time there as unhappy and unproductive.
 
-## ![](_page_24_Picture_2.jpeg)
 
 Figure 1.2. Rawls with parents and brothers in Maine
 
@@ -492,7 +481,6 @@ Rawls, by contrast, was deeply impressed by this class. It rekindled in him a la
 
 Rawls received his AB in January 1943, after completing the special summer term in 1942 that had been added on account of the war. He graduated summa cum laude in philosophy, an accomplishment he (not untypically) credits to his good memory, enhanced through his habit of taking accurate and detailed notes. In February, Rawls entered the army as an enlisted man and, after basic infantry training, completed a course in the Signal Corps. He was then sent to the Pacic theater for two years, where he served in New Guinea, in the Philippines, and finally for four months among the forces occupying Japan (where his troop train went through the recently devastated city of Hiroshima). During his time overseas, Rawls belonged to the 128th Infantry Regiment of the 32nd Infantry ("Red Arrow") Division. He served both in the regimental headquarters company and in an intelligence and reconnaissance (I&R) unit that, in squads of seven or eight men, reconnoitered enemy positions. He claims not to have seen much combat, but his division was in heavy fighting in Leyte, and he was awarded the Bronze Star for his radio work behind enemy lines along the treacherous Villa Verde Trail in Luzon toward the end of the war. His only wound came about when he removed his helmet to drink from a stream and was grazed by a sniper's bullet. He had gradually worked his way up to sergeant during his time in the Pacific but was busted back to private in Japan for refusing to punish a soldier as ordered by a first lieutenant whom this soldier had insulted. Having declined the opportunity to become an officer at the end of the war because he did not want to stay longer than necessary in what he considered a "dismal institution," Rawls left the army in January 1946. He was still an enlisted man, and once more a private. As he wrote in a little autobiographical sketch (composed for a Kent School reunion fifty years after his graduation), he viewed his army career as "singularly undistinguished." And so it may have appeared to him in comparison to that of his brother Bill, who had volunteered for the air force even before Pearl Harbor and had piloted four-engine Liberator
 
-## ![](_page_28_Picture_3.jpeg)
 
 ## Figure 1.3. Rawls leaves the Army bombers, ying many sorties from Italy over southern Germany, Austria, and Poland.
 
@@ -530,7 +518,6 @@ Though professionally content at Cornell, Rawls considered the university's loca
 
 The opportunity to leave Ithaca at least temporarily arose in 1959, when Rawls, who had meanwhile published several important essays, was invited to a one-year visiting professorship at Harvard (where his former colleague Albritton had taken up a permanent position). Rawls impressed many local philosophers during this year (1959–60), and MIT subsequently offered him a professorship with tenure. MIT was then heavily concentrated in the sciences and economics but also beginning to build a presence in philosophy, with one associate professor, Irving Singer, and two assistant professors, Hubert Dreyfus and Samuel Todes. There was no separate department, however, and the philosophers were part of a much larger humanities faculty. Rawls
 
-## ![](_page_34_Picture_2.jpeg)
 
 Figure 1.4. Rawls with wife Mardy and their children, Ithaca, N. Y., 1959
 
@@ -550,7 +537,6 @@ In regard to the second question, Rawls deems it important to foster a public cu
 
 It was the second question that confronted Rawls most immediately. Many young people were unwilling to perform their military service, which was compulsory for men up to the age of twenty-six. The Department of Defense had decided not to conscript students in good standing, thereby giving professors an unusual power and responsibility: One failing grade could cause a student to be called up. Rawls thought that these ''2-S deferments'' for students were unjust (cf. JFR 47), quite apart from the injustice of the war itself. Why should students be treated better than others—especially when rich parents have a signicant advantage in securing a place for their sons at some educational establishment or another? If young men are to be forced to participate in the war at all, then at least the sons of the rich and the well-connected should share this fate equally with the rest. If not all t young men are needed for the war, then the requisite number
 
-## ![](_page_36_Picture_3.jpeg)
 
 ## Figure 1.5. Rawls's passport photograph ca. 1963
 
@@ -580,7 +566,6 @@ Rawls also supervised dissertations and has trained an impressive group of philo
 
 This list shows that Rawls has done much to make a professional career in philosophy possible and attractive for women. It also shows that most good philosophy departments in the United States now have at least one prominent Rawls student. It is remarkable how many of these students have produced not only creative and original texts in moral and political philosophy but also excellent works of historical scholarship. Although Rawls himself has published only some of his many historical writings late in his life (Lectures on the History of Moral Philosophy, 2000), he has done much to broaden and improve the study of the history of moral and political philosophy in the United States. This achievement of his teaching is celebrated in a volume of essays by his students, Reclaiming the History of Ethics: Essays for John Rawls, which his students presented to him for his seventy-fth birthday.
 
-## ![](_page_41_Picture_2.jpeg)
 
 ## Figure 1.6. Rawls in retirement
 

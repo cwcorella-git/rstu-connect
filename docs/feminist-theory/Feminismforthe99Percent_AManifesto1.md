@@ -10,7 +10,6 @@ tags:
 
 **1 author:**
 
-## ![](_page_0_Picture_5.jpeg)
 
 [Soma Mandal](https://www.researchgate.net/profile/Soma-Mandal-3?enrich Id=rgreq-5cb8bb01873d53b0c8f864581e244990-XXX&enrich Source=Y292ZXJQYWdl OzM1MDk1MDcx NztBUzoxMDEz NjgwNTczNTM4MzA3QDE2MTg2OTE2OTA4NzY%3D&el=1_x_5&_esc=publication Cover Pdf) [Indian Institute of Technology Delhi](https://www.researchgate.net/institution/Indian-institute-of-technology-Delhi?enrich Id=rgreq-5cb8bb01873d53b0c8f864581e244990-XXX&enrich Source=Y292ZXJQYWdl OzM1MDk1MDcx NztBUzoxMDEz NjgwNTczNTM4MzA3QDE2MTg2OTE2OTA4NzY%3D&el=1_x_6&_esc=publication Cover Pdf)
 
@@ -18,7 +17,6 @@ tags:
 
 [SEE PROFILE](https://www.researchgate.net/profile/Soma-Mandal-3?enrich Id=rgreq-5cb8bb01873d53b0c8f864581e244990-XXX&enrich Source=Y292ZXJQYWdl OzM1MDk1MDcx NztBUzoxMDEz NjgwNTczNTM4MzA3QDE2MTg2OTE2OTA4NzY%3D&el=1_x_7&_esc=publication Cover Pdf)
 
-## ![](_page_1_Picture_0.jpeg)
 
 # [Journal of International Women's Studies](https://vc.bridgew.edu/jiws)
 
@@ -32,7 +30,6 @@ Book title: F Book title: Feminism for the 99 P eminism the 99 Percent: A Manif 
 
 Follow this and additional works at: [https://vc.bridgew.edu/jiws](https://vc.bridgew.edu/jiws?utm_source=vc.bridgew.edu%2Fjiws%2Fvol22%2Fiss1%2F33&utm_medium=PDF&utm_campaign=PDFCover Pages)
 
-## ![](_page_1_Picture_7.jpeg)
 
 Part of the [Women's Studies Commons](http://network.bepress.com/hgg/discipline/561?utm_source=vc.bridgew.edu%2Fjiws%2Fvol22%2Fiss1%2F33&utm_medium=PDF&utm_campaign=PDFCover Pages)
 

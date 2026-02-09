@@ -9,11 +9,9 @@ tags:
 
 ## Crimeth Inc. Ex-Workers Collective
 
-3–4 minutes
 
 In response to an epidemic of fascist rallies and recruitment drives around the US, we have prepared this general-purpose flier. You can mass-produce this to distribute at anti-fascist mobilizations and everywhere else it is necessary to explain the importance of confronting fascists.
 
-## ![](_page_0_Picture_7.jpeg)
 
 ## Click image for PDF
 

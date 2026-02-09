@@ -9,9 +9,6 @@ tags:
 
 ## **Marx-Engels Subject Archive**
 
-## ![](_page_0_Picture_3.jpeg)
-
-## ![](_page_0_Picture_6.jpeg)
 
 # **[The German Ideology](https://www.marxists.org/archive/marx/works/1845/german-ideology/index.htm)**
 

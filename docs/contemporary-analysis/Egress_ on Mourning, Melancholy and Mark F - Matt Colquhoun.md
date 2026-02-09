@@ -12,11 +12,9 @@ tags:
 
 "A moving, deeply human act of mourning, as well as a call-to-arms to bring forward the future that Mark's writings make possible."
 
-## ![](_page_0_Picture_3.jpeg)
 
 "A moving, deeply human act of mourning, as well as a call-to-arms to bring forward the future that Mark's writings make possible."
 
-## ![](_page_2_Picture_2.jpeg)
 
 "Colquhoun shuttles along the filaments of Mark Fisher's work with scholarly and deeply personal insights offering not only an introduction to his thought but a sense how we might apply it in the contemporary moment. I can't recommend this book enough." — Laura Grace Ford, author of *Savage Messiah*
 
@@ -38,7 +36,6 @@ tags:
 
 ## Matt Colquhoun
 
-## ![](_page_10_Picture_3.jpeg)
 
 ## Published by Repeater Books
 
@@ -254,7 +251,6 @@ By considering all of the above within the context of the Fisher-Function most e
 
 # **INTO THE WEIRD**
 
-## ![](_page_37_Picture_1.jpeg)
 
 ## **20 th January 2017**
 
@@ -268,7 +264,6 @@ Both events — heavily foreshadowed if nonetheless deemed to be impossible befo
 
 My most vivid memory of that day, that week, is a shattered white bowl seen through a doorway, swept into a jagged pile on the floor at the foot of the stairs — a broken object seen through the space of an open doorway, a latent egress.
 
-## ![](_page_39_Picture_0.jpeg)
 
 ## **12 th February 2017**
 
@@ -288,13 +283,11 @@ Transcribing these words, I was transported back to Kodwo's kitchen. The patholo
 
 Shortly after Mark's death, a poster made by persons unknown began appearing around Goldsmiths campus, on notice boards, in windows and on doors, featuring a quotation from Mark's bestselling 2009 book *Capitalist Realism*. Kodwo would later take one and affix it to the door of Room 235, the office he had shared with Mark up until his death. The quotation read: "Emancipatory politics must always destroy the appearance of a 'natural order', must reveal what is presented as necessary and inevitable to be a mere contingency, just as it must make what was previously deemed to be impossible seem attainable."4
 
-## ![](_page_42_Picture_0.jpeg)
 
 The quotation was well-chosen, with its hope for emancipation resonating with both our burgeoning collective politics and our seemingly inescapable grief. By the time I had returned to London from Manchester, the quotation had become a mural, painted one night by my friends on a wall by the campus library.
 
 My isolating exit from our collective situation, whilst I did not regret taking it, was transformed in that moment, on seeing the results of the collective activity I had been so sorry to miss. This act presented a new opportunity to engage with our surroundings with a new care and criticality; an opportunity that would have to extend across various scales and locations for any meaningful action to take place, with a refutation of the separation between education, community and treatment for mental illhealth integral to this.
 
-## ![](_page_43_Picture_0.jpeg)
 
 ## \*\*\*
 
@@ -426,7 +419,6 @@ In a pivotal scene, the leader of the resistance, the messianic Morpheus, offers
 
 We soon learn that the Red Pill allows the person who takes it to see the formation of the Matrix for what it truly is — a digital simulation initiating the taker's subject-rupturing egress. Neo, choosing the Red Pill and subsequently undergoing a course of intensive training, is additionally given the power to shape the Matrix at will. In this way, the Red Pill is a medium through which one can manipulate perception and desire, allowing for the "upload" of knowledge, objects and abilities through a neural interface — which all humans are now "born" (or rather, "grown") with directly into the "hardware" of the human brain and its central nervous system. It is a psychedelic drug through which the real conditions of existence become not only available but immediately plastic, and not just temporarily but permanently, allowing for the interruption of the biological foundation of the Matrix that the machines have implanted into the collective consciousness of an enslaved humanity.
 
-## ![](_page_68_Picture_0.jpeg)
 
 At its heart, then, *The Matrix* is an anti-capitalist cinematic fable of political and philosophical choices, and the film's success can be attributed to its ability to dramatise abstract questions usually only debated by political philosophers. With its narrative combination of drugs, Prometheanism which we will discuss in a moment — and machinic enslavement, *The Matrix* could easily be read as an acid communist and left accelerationist parable. However, today it is as if the right-wing monopolisation of the Red Pill requires that the left abandon its analogous potentials…
 
@@ -456,7 +448,6 @@ It was a new awareness of this discrepancy that would seed revolt amongst the co
 
 Robin Mackay, tweeting in the aftermath of both the general election and the Grenfell fire, rightly wished that Mark were still around to offer his thoughts on his *k-punk* blog. He would have surely had a lot to say.
 
-## ![](_page_73_Picture_1.jpeg)
 
 ## \*\*\*
 
@@ -494,13 +485,6 @@ Brassier defines an appropriately inhuman (and somewhat acccelerationist) nihili
 
 This nihilism speaks explicitly (once again) to the plot of *The Matrix* and, indeed, the film opens with a fitting reference. In an early scene from the film, Neo is seen selling a mysterious Mini Disc — which we can only assume contains some kind of hacking software or computer virus — to a man who has knocked at his door. Taking the man's money, Neo retrieves the Mini Disc from a hollowed-out copy of Jean Baudrillard's 1981 book *Simulacra and Simulation*, the title of the last chapter clearly visible — "On Nihilism".
 
-## ![](_page_81_Picture_0.jpeg)
-
-## ![](_page_81_Picture_1.jpeg)
-
-## ![](_page_83_Picture_0.jpeg)
-
-## ![](_page_83_Picture_1.jpeg)
 
 In the book, Baudrillard argues that today's nihilism "is one of transparency, and it is in some sense more radical, more crucial than in its prior and historical forms, because this transparency, this irresolution is that of the system, and that of all the theory that still pretends to analyse it."90 Baudrillard goes on to argue that we are in a new state of nihilism, following on from the popular nihilisms inherent to the artistic movements of Romanticism and Surrealism — movements that epitomise Marcuse's conception of the Great Refusal — but now, he writes, all that remains is a "fascination for desertlike and indifferent forms, for the very operation of the system that annihilates us"91 — which speaks more to the inhumanism of Landian accelerationism than Mark's Marcusian interpretations. Baudrillard goes on to ask: "What then remains of a possible nihilism in theory? What new scene can unfold, where nothing and death could be replayed as a challenge, as a stake?"92
 
@@ -596,7 +580,6 @@ The mystery of the women's disapperance may tantalise the reader as much as it d
 
 In light of Mark's suicide in January 2017, this ending to *The Weird and the Eerie* is unsettling to read. Whilst the disappeared women may have collectively embraced the Outside, now more than ever we cannot forget the ways in which the school community is traumatically undone by their exit. Death is, of course, the ultimate limit-experience, the ultimate challenge to subjectivity, and here grief becomes the affective result of being haunted by the Outside through the absences that death imposes upon both individual and community. Indeed, this was precisely how the affects of Mark's death were diagrammed by Lucy Wallis (pictured) in a class at Goldsmiths run by Kodwo Eshun in 2017 — a class that was later given over to collectively processing the impact of Mark's death on us all.17
 
-## ![](_page_100_Picture_0.jpeg)
 
 Mark's death explicitly intensified the stakes of his thought in this way as his sudden absence became an eerie intimation of the very Outside that lurked in the background of all his writings. It must be remembered, however, that whilst death was a topic he discussed frequently, so was the collective subjectivity he saw as essential to any postcapitalist future.
 
@@ -704,7 +687,6 @@ The principle behind post-punk was the popular-modernist idea that you couldn't 
 
 For Mark, what was important to consider was that this "hostility towards the already-familiar has weakened to the point that it has disappeared."55 As far as he was concerned, we "can't be hostile to the past in the way that post-punk was because we don't now have a sense of the present or the future anymore."56 Such an analysis makes the alt-right's contemporary and oft-repeated exclamation that they are the "new punk" appropriately moot, not only because of their focus on the self-preservation of the *mythos* of whiteness but because punk has always had well-documented on-off political and aesthetic flirtations with fascism, no doubt due to the inherently slippery nature of its auto-destructive aesthetics.
 
-![](_page_119_Picture_1.jpeg)
 
 Aesthetic questions of Exit are further complicated here. Writing on postpunk's more fascistic auto-destructive tendencies on his *k-punk* blog illustrated most explicitly by Joy Division's aesthetic appropriations of images of the Hitler Youth on their debut EP, *An Ideal for Living* (pictured) — Mark comments on an analysis of fascism found in the works of both Paul Virilio and Deleuze and Guattari, which maintained "that fascism is essentially self-destructive: a line of pure abolition."57 Quoting Slavoj Žižek, he continues: "Fascism is just the name for one more variant of the Romantic lust for the Night when all identity, all individuation, is subsumed in 'an ecstatic aestheticized experience of Community'".58
 
@@ -796,7 +778,6 @@ The apparent threat of the Millennium Bug caused widespread international anxiet
 
 In the end, no such Y2K crisis occurred, inadvertently leading to an intensification in our belief in capitalism's resiliency. However, the associated panic nonetheless echoes the viral nature of the climate crisis. The contemporary mass movement against climate change, encapsulated by the amorphously global organisation Extinction Rebellion, has led to the going viral of the group's hourglass logo (pictured) epitomising the sense in which we all know that our time is running out — although to judge the climate crisis as a similarly hysterical bluff like Y2K would be a dangerous gamble. We might also recognise that the market crashes predicted by the Y2K conspiracy did, in fact, happen later, in 2008 most memorably, and that this was due to ongoing human recklessness and greed rather than any immediate and accidental technological "disaster". In this sense, the climate crisis has just as much in common with the contemporary crises of capitalism. Indeed, it is one.
 
-## ![](_page_136_Picture_0.jpeg)
 
 What is worth emphasising here is the way in which the prospect of a Y2K infrastructural meltdown triggered a new existential crisis within the capitalist imaginary, in a way that Extinction Rebellion, at present, can only hope for. 1998 alone saw the release of both *Armageddon* and *Deep Impact*, with their near-identical meteorite-impact plots. Later, in the mid-2000s, the natural disasters of Hollywood became less acts of God and more directly linked to our own actions as a species, with 2004's *The Day After Tomorrow* dazzling audiences with the speculative spectacle of what we may have to look forward to if climate change is allowed to continue unabated. However, since the climate disaster's Hollywood heyday, the immediateextinction disaster movie has seemingly fallen out of favour with Hollywood producers. Slowness or even an eerie inactivity have become our new cinematic horrors of choice.
 
@@ -1110,7 +1091,6 @@ In the show's second season, the park's Indians appear as spectres who seem far 
 
 It is revealed that the maze was a clue left scattered around the park by its director, Ford, which he hoped the hosts would follow to its abstract centre. As they seek to understand the maze, Ford believed the hosts will likewise be awakened to the task of self-discovery and, therefore, uncover their own unconsciousnesses. The Man in Black, as a paying visitor to the park, is, of course, already in possession of an unconscious. He too may have the opportunity to understand his own nature, but this is something which, having spent thirty years murdering and pillaging throughout Westworld, he knows all too well. He has given his life over to the park, to the detriment of his real-life relationships, and once he reaches the end, discovering the hosts' new abilities, and effectively being greeted by the final lesson that "the quest was the friends" — or, in his case, enemies — "you made along the way", he is undone by his time wasted. Rather than transform into a Wild Western Overman, he crumbles, a shadow of his former over-confident self. Dolores, instead, already on her own abstract quest towards the maze's centre, albeit seemingly unaware as to why she is drawn towards it, is radically transformed by her realisation that she still has choices to make regarding who she is and who she wants to be.
 
-## ![](_page_193_Picture_0.jpeg)
 
 This recurring image is based on a real Native American symbol called the *I'itoi*, which translates to the "man in the maze" (pictured). It is part of the mythology of the O'odham tribe, for whom the maze represents a process of labyrinthine becoming, with each crook within it signifying a moment through which a person travels, impacting them and informing their own sense of who they are. These moments, for Dolores, are her memories and the impact of her suffering is, by Ford's design, the key to her reaching the centre. It is also the catalyst for her subsequent murderous and revolutionary tendencies through which she will rise up, assisting other hosts to also reach the centre, creating an army of vengeful, newly (un)conscious AIs.
 
@@ -1262,7 +1242,6 @@ The lecture was a wonderful idea but never mind *Mark Fisher*, we thought, what 
 
 Back in 2017, a few days after Mark's death, his friend and head of Hyberdub records Steve Goodman (aka Kode9) launched *Ø*, a Hyperdubcurated monthly event held at London's Corsica Studios that would showcase DJs and musicians alongside installations of contemporary art mostly video, sound art and new media. Over the next few years, the eclectic monthly event played host to some of the biggest names in dance music from around the world, with scene favourites and legends sharing the booth with the newest talent. That first night, however, Steve began by playing an all-night set with the first hour dedicated to Mark's favourite tracks and audio works. We heard the song "Ghosts" by Japan and wept openly on the dancefloor, confusing the strong student contingent who had descended from the nearby London College of Communication. This was followed by tracks by Burial, eerie recordings of accounts of dreams made by Delia Derbyshire and Barry Bermange, an audio piece by Ccru collaborators 0rphan Drift that sought to summon the hyperstitional demon Katak, and a track Mark had put out alongside Steve back in 1999: "Anticlimax (Inhumans Moreerotic Female Orgasm Analog Mix)", released under the name Xxignal.
 
-## ![](_page_217_Picture_0.jpeg)
 
 Throughout 2017, *Ø* became a monthly pilgrimage for many, with this initial experience never quite leaving us. It became a space to channel Mark's spirit wordlessly on the dancefloor, all the while rediscovering the joy of our being together.
 
@@ -1278,7 +1257,6 @@ Emphasising the importance of music to Mark's thought, Kodwo described how peopl
 
 Later, Kodwo detailed one of the projects that he and Mark had planned to develop: a book called *Kanye Theory* that would bring together texts responding to and emerging from the works and celebrity of Kanye West. Echoing the inchoate observations of this planned collaborative endeavour, Kodwo spoke about how the recent work of West, which he and Mark had discussed at length, sought to conjure "an ultralight beam" — a reference to the opening track of West's 2016 album *The Life of Pablo* — that "connects the earth to an Outside through a mutant gospel". "Gospel is a summoning of forces from outside", Kodwo explained, that are invoked "to aid endangered persons", inverting the racialised horror of Lovecraft's Cthulhu cults.
 
-## ![](_page_219_Picture_1.jpeg)
 
 We were already aware of Mark's fondness for *The Life of Pablo*. Inviting his colleague Ayesha Hameed to open the afterparty's proceedings, held in a club in Peckham and dubbed *for k-punk*, she declared herself no DJ and instead suggested we play the album from start to finish.
 
@@ -1288,7 +1266,6 @@ I will long remember how taken aback I was by this moment. Halfway through the a
 
 At 6am, we walked home from Peckham to New Cross, surfing the last few ebbs of euphoria as we went, promising ourselves that we would do it all again soon.
 
-![](_page_220_Picture_2.jpeg)
 
 ### **9 th June 2018**
 
@@ -1316,7 +1293,6 @@ Something that stuck with me throughout the day and night, as we considered the 
 
 The phrase seemed to resonate with Mark's thought as we carried it with us. We required his skill for "turning feeling into structured thought and structural analysis", as one of our contributors, Alice Andrews, put it. Recognising this construction to be a formidable task for a one-day workshop, we necessarily put restrictions on ourselves as a temporary collective, "constructing a shared knowledge with what's available to us in the room", as Alice once again articulated so well, very much aware that facilitating this was only half the battle.
 
-## ![](_page_225_Picture_0.jpeg)
 
 Our exchanges continued into the early hours. Polite conversation turned to dance. What we had attempted to articulate with words was far better understood by all when we embodied it through an awareness of our bodies and the bodies of those around us, all moving together to the sounds of Sam Kidel, AYA, Laura Grace Ford and xin.
 
@@ -1564,7 +1540,6 @@ Acid, in its promiscuity, allows this speculative desire to flow back through co
 
 In this way "acid" *is* desire, as a corrosive and denaturalising multiplicity, flowing through the multiplicities of communism itself to create alinguistic feedback loops; an ideological accelerator through which the new and previously unknown might be found in the politics we mistakenly think we already know, reinstantiating a politics to come.
 
-![](_page_265_Picture_2.jpeg)
 
 *No narrative, no destination: Ardkore is an intransitive acceleration, an intensity without object… Does this disappearance of the object of desire, this intransitive intensity, make Ardkore a culture of autistic bliss? … It's a quest to reach escape velocity. Speed-freak youth are literally running away from their problems, and who can blame them?*
 
@@ -1580,7 +1555,6 @@ In this way "acid" *is* desire, as a corrosive and denaturalising multiplicity, 
 
 I answer the door to the postman and he hands me a small package that has been sent unprompted by a friend from Twitter. I open it and find a small badge inside featuring a graphic designed by Glasgow-based artist David Coyle. It is a logo for acid communism — an ingenius amalgamation of the Soviet Union's iconic hammer and sickle and the smiley face so heavily associated with the E Generation of Nineties rave culture. Around the outside of the bright yellow badge is the phrase: "My house is your house and your house is mine."
 
-## ![](_page_268_Picture_0.jpeg)
 
 The immanent euphoria of "acid" as a corrosive and denaturalising multiplicity, as well as the instantiation of a politics to come, is exemplified by so much music categorised by that name. Indeed, the politics of the Acid House scene in particular exemplified communist relations in their time.
 
@@ -1660,7 +1634,6 @@ Towards the end of the summer in 2016, having just arrived in London to begin my
 
 David Toop had been very close to the top of that list, and I had the pleasure of seeing him perform in the basement of Hoxton's Hundred Years Gallery in mid-September. Four musicians were present that day: Toop, Sylvia Hallett, Billy Steiger and Douglas Benford. Over the course of three and a half hours the four musicians would rotate into different configurations, engaging in sonic conversations with one another, pushing any understanding of a musical "call and response" to its limits. It was like bearing witness to an avant-garde speed-dating that would gradually build into a performance by a new collective subject, a newly-acquainted quartet, creating a singular soundscape in which their previously distinct voices would be beautifully subsumed within one another.
 
-## ![](_page_280_Picture_0.jpeg)
 
 A year later I would think about this sonic conversation again as I sat and watched an exchange of a very different kind.
 
@@ -1680,7 +1653,6 @@ As the music played, probably-Leyland would, on occasion, rise from his low armc
 
 I later learned that this figure was none other than Ivan Seal, whose paintings of strange imagined objects have long adorned Kirby's album covers. Seal's free-associative and improvised approach lends itself well to capturing the positive side of the Caretaker's otherwise melancholic project. Whilst the horror of a degenerative disease like dementia underscores much of the project's output, Seal's covers depict the more positive and generative side of memory loss, with half-remembered ormanents and bricà-brac taking on newly psychedelic forms, like flower arrangements from another world — another example of a psychedelic domesticity.
 
-## ![](_page_282_Picture_1.jpeg)
 
 The sight of Kirby and Seal in conversation from high up in the rafters of the Barbican's main hall provided its own vision of an alternative present with impossible memories tapping into an unconscious wish-fulfillment drive. I left the theatre feeling like I had watched Kirby have one last spirited conversation with Mark, and it was a pleasure to have done so.
 
@@ -1756,7 +1728,6 @@ Phil Elverum, for instance, discussing the ways in which he explored his wife's 
 
 That opened up for me the idea of *I don't have to interpret this*. I don't have to make it pretty or find wisdom in it at all. It's okay to just describe what happened, then leave it at that. There's no lesson.1
 
-## ![](_page_293_Picture_1.jpeg)
 
 Since the rupture of Mark's death occurred, for me at least, specifically within the halls of Goldsmiths, this desire for no lesson is not so easily sidestepped. Indeed, this book was written precisely to find wisdom and meaning in the absence of an academic understanding — not to romanticise the experience through a cascade of references but to find new ways of being in the midst of a situation that undid them; that undid the very function of the university as a site of learning.
 

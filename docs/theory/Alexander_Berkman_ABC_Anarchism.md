@@ -14,9 +14,6 @@ tags:
 
 ## ANARCHIST CLASSICS
 
-## ![](_page_1_Picture_0.jpeg)
-
-## ![](_page_3_Picture_0.jpeg)
 
 ### A. B. C. of ANARCHISM
 
@@ -102,7 +99,6 @@ became absolute pacifists. In ABC of Anarchism Berkman devotes a whole chapter (
 
 PETER E. NEWELL.
 
-## ![](_page_15_Picture_0.jpeg)
 
 #### **Author's Foreword**
 
@@ -522,7 +518,6 @@ It is to them that anarchism makes the strongest appeal; it is they who, first a
 
 "A splendid thing," you remark; "but will it work? And how shall we attain it?"
 
-## ![](_page_37_Picture_0.jpeg)
 
 # 5: Will Communist Anarchism Work?
 
@@ -1447,8 +1442,5 @@ No revolution has yet tried the true way of liberty. None has had sufficient fai
 
 Only liberty can make the social revolution effective and wholesome. It alone can pave the way to greater heights and prepare a society where well-being and joy shall be the heritage of all. Then will dawn the day when man shall for the first time have full opportunity to grow and expand in the free and generous sunshine of anarchy.
 
-## ![](_page_106_Picture_0.jpeg)
-
-## ![](_page_107_Picture_1.jpeg)
 
 "Our social institutions are founded on certain ideas; as long as the latter are generally believed, the institutions built on them are safe. Government remains strong because people think political authority and legal compulsion necessary. Capitalism will continue as long as such an economic system is considered adequate and just. The weakening of the ideas which support the evil and ressive present-day conditions means the ultimate breakdown of government and capitalism. Progress consists in abolishing what man has outlived and substituting in its place a more suitable environment."

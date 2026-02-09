@@ -1,7 +1,5 @@
 ---
-title: >-
-  Shawn Fain May Day 2028 Could Transform the Labor Movement—and the World - In
-  These Times
+title: "Shawn Fain May Day 2028 Could Transform the Labor Movement—and the World - In These Times"
 author: May Day
 date: '1886'
 category: labor
@@ -18,7 +16,6 @@ Shawn Fain: May Day 2028 Could Transform the Labor... about:reader?url=https%3A%
                Shawn Fain: May Day 2028 Could
                Transform the Labor Movement—
                and the World
-               7–9 minutes
                Members of the United Auto Workers courageously fought
                corporate greed at Ford, General Motors and Stellantis last fall
                during the historic six-week Stand-Up Strike. Because of their

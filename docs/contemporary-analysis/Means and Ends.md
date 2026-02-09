@@ -1126,7 +1126,6 @@ Based on diagram in Ackelsberg, Free Women of Spain, 230, and the accounts cited
 
 General Assembly of every member of the single union.
 
-## ![](_page_130_Picture_8.jpeg)
 
 #### **LOCAL FEDERATION**
 
@@ -1138,7 +1137,6 @@ Composed of delegates from every single union in the local area.
 
 General assembly of delegates from each administrative committee of every single union in the local area.
 
-## ![](_page_130_Picture_14.jpeg)
 
 # REGIONAL CONFEDERATION OF LABOR
 
@@ -1154,7 +1152,6 @@ Composed of delegates from every single union in the region.
 
 General assembly of delegates from each local committee.
 
-## ![](_page_130_Picture_22.jpeg)
 
 # NATIONAL CONFEDERATION OF LABOR
 

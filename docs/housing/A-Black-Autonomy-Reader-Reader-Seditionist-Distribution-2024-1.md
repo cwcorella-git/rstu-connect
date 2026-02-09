@@ -4631,7 +4631,6 @@ Black Anarchism isn't an academic discipline (even though there are a handful of
 
 **Anarchism isn't white, nor will it ever be again.**
 
-## ![](_page_479_Picture_0.jpeg)
 
 ## FUCK COPYRIGHT REPRODUCE AND SHARE
 

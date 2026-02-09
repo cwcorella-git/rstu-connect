@@ -9,14 +9,10 @@ tags:
   - prisons
 ---
 
-## ![](_page_0_Picture_0.jpeg)
-
-## ![](_page_0_Picture_2.jpeg)
 
 ABOLITION
 ## From slavery to free labour
 
-## ![](_page_1_Picture_0.jpeg)
 
 #### EDITOR'S NOTE
 
@@ -44,7 +40,6 @@ Academic Editorial Board Carlos Magno Castelo Branco Fortaleza Henrique Nunes de
 
 ## Translated by R. Jackson Wilson
 
-## ![](_page_6_Picture_4.jpeg)
 
 #### © 2008 Editora Unesp
 
@@ -75,9 +70,6 @@ Abolition: from slavery to free labour / Emília Viotti da Costa; tradução R. 
 
 #### Affiliated publishers:
 
-## ![](_page_7_Picture_15.jpeg)
-
-## ![](_page_7_Picture_16.jpeg)
 
 #### [5] To
 
@@ -353,7 +345,6 @@ After the law was approved, the authorities redoubled their efforts in the pursu
 
 On January 11, 1851, a representative of the English Crown, Sir James Hudson, wrote to Minister Paulino de Souza, denouncing the presence of various unpunished slave traders and complaining about the existence of large sheds prepared to receive consignments of illicit slaves. He even specified numerous points along the coast where these crude warehouses were located: Cabo Frio, Rio de São João, Rio das Ostras, Macaé, Campos, Manguinho, Marambaia, Mangaratiba, Dois Rios, Mambucaba, Fazenda do Alegrete, Perequê, and others. He stated that, in light of this flagrant disrespect for the law, the English would resume the inspection of vessels they had suspended earlier at the request of the Brazilian government.
 
-## ![](_page_33_Picture_0.jpeg)
 
 ## "Conservative Party."
 
@@ -445,7 +436,6 @@ The number of organized abolitionist groups was growing in the nation's urban ar
 
 At the opening of Parliament on May 22, 1867, the Emperor's Speech from the Throne raised the question of emancipation: "The servile element of the Empire cannot fail to deserve your consideration". The legislators, he continued, should attempt to "attend to the elevated interests that are tied to emancipation" — but in a way that respected property rights and did not damage "our primary industry, Agriculture". The point was, clearly, to be phrased with extreme caution, so as not to provoke irate opposition. The Emperor merely called parliament's attention to the need to consider the question when it might be opportune to do so, that is, when and if they themselves found it convenient to do so. He made it perfectly clear that he had no intention of asking the legislators to interfere with the slaveowners' property rights, or with the smooth functioning of Brazilian agriculture.
 
-## ![](_page_46_Picture_1.jpeg)
 
 ## "Congresso Internacional."
 
@@ -593,7 +583,6 @@ Even as conditions increasingly favored free labor, the prices of slaves continu
 
 #### [64/65]
 
-## ![](_page_65_Picture_1.jpeg)
 
 "Every day, the train of progress is taking on more passengers. In many places, and above all in the province of São Paulo, the laborers themselves do not hesitate to get aboard private initiative always beating the official. What ridiculous figures these statesmen make, with their Law of September 28, 1885, which prolonged the life of slavery to the end of the century, when three years later it would be entirely extinct." Revista Ilustrada, year 12, n.462, p.4-5. August 13, 1887.
 
@@ -617,7 +606,6 @@ In the Agricultural Congress organized in 1878 by the imperial government, a num
 
 Both these points of view were amply discussed in the Provincial Assembly of São Paulo. Some representatives argued that the Chinese were good workers, and that this had been shown by successful experiments in British Guiana, California, and Cuba. They also claimed that the Chinese were less demanding than Europeans, and so would be a cheaper labor force. Others argued that earlier Brazilian experiments with coolie labor proved that Chinese immigrants would be a disaster: they had quickly converted themselves into either fishmongers or thieves! [69] Those who opposed chinese immigration also spoke of the danger of mongolization of brazilian population.
 
-## ![](_page_68_Picture_1.jpeg)
 
 "Well, if the planters want Chinese, let them have Chinese." Revista Ilustrada, year 8, n.358, p.4. October 20, 1883.
 
@@ -667,11 +655,9 @@ In addition to everything else, abolitionism was a generous and Christian cause 
 
 When the 1880s began, abolitionism took on new energy, especially in urban centers. In various provinces, people carrying placards in favor of emancipation paraded through the streets of the capitals and other cities. Everywhere, meetings and conferences were held and collections of money made to help the cause. Some abolitionists reached the point of actively inciting slaves to violence and rebellion. Informal tribunals were held in public squares, pamphlets were distributed preaching that slavery was a crime, and property in slaves was theft. The agitation would reach a peak during the ministry presided over by Manuel Pinto de Sousa Dantas, when the cabinet would propose a plan to free all slaves over sixty years of age.
 
-## ![](_page_75_Picture_0.jpeg)
 
 "If the slavers of the Parliament will not deal with the liberation of these poor sixty-yearold slaves, then we, the people, will set them free. (Such is the current attitude of the people of Rio de Janeiro.)" Revista Ilustrada, year 10, n.409, p.1. April 11, 1885.
 
-## ![](_page_76_Picture_1.jpeg)
 
 "At the head of the jangadeiros of the Northeast, [Francisco José de] Nascimento blockades shipments of slaves from Ceará to the South." Revista Ilustrada, year 9, n.376, p.1. 1884.
 
@@ -717,7 +703,6 @@ Crimes and slave revolts became constant themes in the press. Articles full of s
 
 It was in this tense setting that the proposal to emancipate slaves over sixty years of age was presented to the Chamber of Deputies by the ministry of Souza Dantas. Despite the limited [82] impact of such a proposal, which would not actually free very many slaves, and most of them not very useful as workers, it provoked great resistance from slaveowners and their representatives in Parliament. Antonio Moreira Barros, who represented São Paulo coffee planters, resigned in protest from his position as president of the Chamber, unleashing a parliamentary crisis. To justify his gesture, he lamented the fact that the ministry had embraced the principle of emancipation without compensation for masters, a position he viewed as a direct threat against all slave property.
 
-## ![](_page_81_Picture_0.jpeg)
 
 "These unfortunates will probably be handed over to their masters, who, imitating the ferocious Dr. Davino, will take effective steps to ensure that they will not run away again." Revista Ilustrada, year 12, n.469, p.8. October 29, 1887.
 
@@ -727,7 +712,6 @@ A number of Deputies spoke in the ministry's defense. Rui Barbosa, a famous orat
 
 The parliamentary movement for emancipation does not retreat at all. There is no majority powerful enough to deter it. Your seeming victories rebound against you. Out of each one of them, the liberating spirit rises again, even more powerful, more insistent, more daring. . . . The moderate concessions you refuse to make today, will satisfy no one tomorrow.
 
-## ![](_page_82_Picture_1.jpeg)
 
 "The opposition went so low, showed itself so small, that it only accomplished one thing, making Conselheiro Dantas into a giant." Revista Ilustrada, year 10, n.407, p.1. April 18, 1885.
 
@@ -747,11 +731,9 @@ In fact, the new project stipulated that any slaves over sixty who might be libe
 
 Predictably, the revised proposal provoked repudiation by the more extreme abolitionists. At the same time, it found new support among many who had opposed the original Dantas project. The opposition of the more radical abolitionist members of the Liberal Party weakened it, and the justinaugurated ministry was unable to sustain itself. José Antônio Saraiva, head of the Cabinet, stepped down. Conscious of the difficulties the Liberals were having in getting a law passed, the Emperor decided to call on a Conservative to form a new ministry. This time, he selected a very skillful representative of the agricultural sector, [86] the Bahian João Maurício Wanderley, Baron of Cotegipe, an old and very experienced Conservative leader. Thanks to his efforts, and to the compromises and concessions he was able to make, the revised project became law in 1885. It became known as the Saraiva-Cotegipe Law, or the Over Sixty Law [Lei dos Sexagenários].
 
-## ![](_page_85_Picture_0.jpeg)
 
 "After fighting against it so hard, today they embrace this law with enthusiasm! What ridiculous incoherence!" Revista Ilustrada, year 9, n.387, p.4. July 31, 1884.
 
-## ![](_page_86_Picture_1.jpeg)
 
 "The gravedigger of the sexagenarians, says Joaquim Nabuco in his first speech to the Chamber of Deputies. Poor old things! [Manuel Pinto de Sousa] Dantas gave them hope that they might die in freedom. But [José Antônio] Saraiva wants to bury them in their chains." Revista Ilustrada, year 10, n.413, p.1. June 30, 1885.
 
@@ -763,13 +745,11 @@ Many slaveowners had evolved since 1871, when the bare mention of any step that 
 
 The Over Sixty Law was actually a desperate rear-guard attempt by the proponents of slavery to slow the march of emancipation. But it was too late. The people had wrung from the hands of the elite the control of the movement. Abolition had become a popular cause and had the support not only of ample numbers of the common people, but also of important sectors of the middle classes, and even of some representatives of the elites. It also had the endorsement of the Princess and the Emperor. The movement was now uncontrollable. Nothing could deter it. [89] The last hopes of those who still thought they could resist this devastating march could only sink to earth when, in 1887, officers belonging to the Clube Militar sent to Princess Isabel a petition asking that they be relieved of the dishonorable duty of pursuing runaway slaves.
 
-## ![](_page_88_Picture_1.jpeg)
 
 "Political party is no more. Neither Liberals nor Conservatives. Now it is abolitionists or slavers! Senhores Paulino [de Souza] and [Antonio] Moreira de Barros are trying to hold on to the miserable slave; Senhores [Antonio] Prado and Leoncio de Carvalho are struggling to free him from the cruel clutches of the slaveocrats. Where do we go from here?" Revista Ilustrada, year 12, n.472, p.5. November 19, 1887.
 
 The final blow to the institution of slavery would be struck by the slaves themselves, who, with some help from abolitionists and with the sympathetic support of most of the free population, had begun to simply abandon the plantations, disrupting work, and making the planters' situation untenable. The rebellion of the slave quarters was the culminating point of the abolitionist movement.
 
-## ![](_page_89_Picture_1.jpeg)
 
 "Get out of the way or you'll be crushed!
 
@@ -777,7 +757,6 @@ The final blow to the institution of slavery would be struck by the slaves thems
 
 Certainly not, and they will be sure to jump aside and it will be you that has to withstand the shock. So get ready to save yourself. Safety died of old age." Revista Ilustrada, year 9, n.385, p.1. June 30, 1884.
 
-## ![](_page_90_Picture_1.jpeg)
 
 "Didn't I tell you, poor Agriculture, that they would not be able to hold it back. Where will it stop now?" Revista Ilustrada, year 9, n.387, p.1. July 31, 1884.
 
@@ -876,7 +855,6 @@ The defenders of slavery would not forgive Nabuco this ardent identification wit
 
 Desolated by the election results, Nabuco once more set out for London, where he remained for some time as a correspondent [104] of the Jornal do Commercio, Pernambuco's most important newspaper. In his free time, he worked on the book that would bring him fame, O abolicionismo, published in 1883 and received with great fanfare by the abolitionist press, especially the Gazeta da Tarde and the Gazeta de Notícias, where several of his friends had positions. The book was a vilification of slavery. Forty years earlier, a forgotten writer named Francisco Cesar Burlamaque, had attacked slavery in almost identical terms, but without attracting much attention. Now, everything had changed, and Nabuco's book was a resounding success among the abolitionists.
 
-## ![](_page_102_Picture_0.jpeg)
 
 "Abolition.
 
@@ -888,11 +866,9 @@ No retreating, no stopping, no precipitation.
 
 While Nabuco remained in London, the abolitionist campaign moved forward in Brazil. André Rebouças, Joaquim Serra, João Clapp and many others set up conferences, organized rallies, wrote pamphlets and articles in favor of abolition. In all the capital cities of the country, abolitionist groups and associations were formed. In some of the provinces, the movement was [105] gaining momentum rapidly, especially in Ceará, Amazonas, and Rio Grande do Sul.
 
-## ![](_page_103_Picture_0.jpeg)
 
 "Abolition in the province of Rio Grande do Sul is running at a full gallop! No wonder. In this enthusiastic province no one moves any other way. Hurra! The people of Rio Grande! Hurraaah!" Revista Ilustrada, year 9, n.389, p.1. August 31, 1884.
 
-## ![](_page_104_Picture_0.jpeg)
 
 "The abolitionist movement grows more and more remarkable, and the Club of Libertos [freed men and women] of Niterói, headed by the patriotic citizen [João F.] Clapp, provided another obvious proof that the idea is on the move, not only in the streets but also in the heads of many people." Revista Ilustrada, year 7, n.292, p.4. March 25, 1882.
 
@@ -946,7 +922,6 @@ In the nineteenth century, the situation was very different. Abolitionism lent a
 
 Abolition lent energy to the slave, and also provided him with tools he had never had before. Thanks to the abolitionist campaign, it became possible for slaves to discover magistrates who were willing to judge them fairly, lawyers ready to defend them, and a population inclined to treat them with sympathy, give them support and protection. Finally, abolitionism provided [113] slaves with an ideology that both justified their resistance and condemned its repression.
 
-## ![](_page_111_Picture_0.jpeg)
 
 "While in Parliament there's only talk and nothing gets settled, the blacks are very speedily scampering away from the plantations. The planters can scarcely hold them back." Revista Ilustrada, year 12, n.466. p.4. September 30, 1887.
 
@@ -954,7 +929,6 @@ But the abolitionist campaign itself was possible only because of the transforma
 
 In the 1880s, instigated by the abolitionists, slaves began to flee their plantations in ever-increasing numbers. This phenomenon was particularly significant in the coffee areas of São Paulo, exactly the province where the abolitionists were most active.
 
-## ![](_page_112_Picture_1.jpeg)
 
 "Agriculture and the freedman.
 
@@ -974,7 +948,6 @@ As time wore on, it became more and more difficult to contain mass demonstration
 
 A typical case occurred in Campinas. At a planter's request, a captain named Colatino, well-known for his harsh actions [116] against slaves, sent a detachment of thirty-four troopers with loaded arms to a nearby plantation to put down a slave uprising. On the road, the soldiers encountered a large number of slave men, women and children who were the property of Antônio Pinto Ferraz. They had abandoned his plantation, complaining of mistreatment. The soldiers immediately seized the slaves and took them to the jail in Campinas under the cover of darkness, probably to avoid an abolitionist protest.
 
-## ![](_page_114_Picture_2.jpeg)
 
 "The police corps of the province of... Sr. Paulino, in the service of rural slaveowners, savagely attack the print shop of the abolitionist newspaper Vinte Cinco de Março [March 25], destroying all the equipment. The abolitionists defended themselves against the vandals with complete courage and fought a grand fight, with wounded on both sides." Revista Ilustrada, year 12, n.469, p.8. October 29, 1887.
 
@@ -998,7 +971,6 @@ As a result, starting in 1886, the number of manumissions grew very rapidly. In 
 
 manumissions — not counting many others that had not been formalized. Runaway slaves should be added to these numbers to produce an adequate [119] measure of the grave predicament of the São Paulo planters. It was becoming increasingly obvious that their position could not be sustained.
 
-## ![](_page_117_Picture_1.jpeg)
 
 "Fortunately, abolitionism is producing the best possible results! There are numberless mass liberations, which daily bring honor upon the masters who concede them." Revista Ilustrada, year 13, n.495, p.4. April 28, 1888.
 
@@ -1012,7 +984,6 @@ At the same time that Andrade Figueira laid this statement before the Chamber of
 
 In 1887, the Republican Party of São Paulo, fearful of losing what support it had among the planters, had avoided taking a clear stand on the question of emancipation, always arguing that the problem belonged entirely to the monarchist parties. Now it changed its strategy. It decided to publicly support a proposed law that would liberate all slaves by July 14, 1889 — the one-hundredth anniversary of the Fall of the Bastile, a grand symbol of the French Revolution. Similarly, the Church now openly manifested its support for abolition. In November 1887, some planters met in São Paulo to create an association promoting the emancipation of the slaves. A little later, an even larger number of landowners returned to the provincial capital, proposing the end of slavery in three years.
 
-## ![](_page_119_Picture_1.jpeg)
 
 "At last, the bishops of the Empire can no longer contain their indignation at the tortures inflicted on the miserable enslaved." Revista Ilustrada, year 12, n.471, p.6. November 12, 1887.
 
@@ -1020,7 +991,6 @@ And so began the year 1888. Many people still doubted that abolition would come 
 
 ## [122]
 
-## ![](_page_120_Picture_2.jpeg)
 
 [122] "The Abolitionist Confederation, not knowing what piece of ground they could apply for, chose the Campo do Acclamação, and invited the public in broad daylight. The government wished to demonstrate its respect for the right of assembly by using horses' hooves to order the people to disperse. Long live the Constitution!" Revista Ilustrada, year 12, n.462, p.8. August 13, 1887.
 
@@ -1034,9 +1004,6 @@ Christianity and liberalism, which had coexisted with slavery for a very long ti
 
 Ten days later, on May 13, 1888, the princess would sign the measure that put an end to slavery in Brazil. But as the president of the province of São Paulo would observe, the law only "sealed an accomplished fact".
 
-## ![](_page_121_Picture_2.jpeg)
-
-## ![](_page_121_Picture_3.jpeg)
 
 "In view of the Speech from the Throne (which says 'I trust that you will not hesitate to erase from our public law the unfortunate inheritance, etc., etc.') we expect the Parliament to use all its enthusiasm, a good sponge, and all the ingredients necessary to make this shameful stain disappear forever." Revista Ilustrada, year 13, n.496, p.1. May 5, 1888.
 
@@ -1068,7 +1035,6 @@ These, however, did not write their own history. That was told by others. The hi
 
 Abolition did not bring about either the fears of the slaveowners or the expectations of the abolitionists. It was neither catastrophe nor redemption. Gregório Bezerra, in his memoirs, tells the story of a black man who had been a foreman on a plantation in the Northeast, where Bezerra had worked as a child during the first years of the twentieth century. "He had been a [128] slave, and continued to be worse than a slave", Bezerra wrote. "And he was wistful for slavery because, according to him, in those times he ate all the meat, meal and beans he wanted, and now ate hardly anything more than a plate of corn mush with water and salt."
 
-## ![](_page_126_Picture_0.jpeg)
 
 "The Revista during the festive commemorations of Abolition.
 

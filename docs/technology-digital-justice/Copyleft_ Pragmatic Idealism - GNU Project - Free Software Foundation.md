@@ -12,7 +12,6 @@ tags:
 
 ## by Richard Stallman
 
-7–8 minutes
 
 Every decision a person makes stems from the person's values and goals. People can have many different goals and values; fame, profit, love, survival, fun, and freedom, are just some of the goals that a good person might have. When the goal is a matter of principle, we call that idealism.
 

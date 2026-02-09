@@ -268,7 +268,6 @@ losing weight, getting a fashion makeover, or meeting Mr. or Ms. Right. The pain
 
 I have been working for more than thirty years to unravel how our brain and body are intertwined with our social responses. I teach psychology at the University of Chicago, and I direct the Center for Cognitive and Social Neuroscience there. I am also fortunate to be part of a widespread network of
 
-## ![](_page_31_Picture_3.jpeg)
 
 partners in this research. These include present and former colleagues at The University of Chicago and the Ohio State University, as well as a team of psychologists and psychiatrists, sociologists and biostatisticians, cardiologists and endocrinologists, behavioral geneticists and neuroscientists called the Mac Arthur Mind-Body Network; a similarly diverse team called the Mac Arthur Aging Society Network; and the Templeton–University of Chicago Research Network, whose members, ranging from neurologists to theologians, from biostatisticians to philosophers, work together to try to understand the links between our physiological responses and our social and even spiritual strivings.
 
@@ -551,7 +550,6 @@ attention, perception, memory, language, and intelligence—were intact, he coul
 
 Phineas Gage died penniless twelve years after his accident. I doubt that loneliness alone has ever accounted for such a dramatic disruption of personality, but the psychologists Roy Baumeister and Jean Twenge have
 
-## ![](_page_64_Picture_3.jpeg)
 
 demonstrated that feeling socially excluded can get in the way of our exercising some of the human characteristics we value the most. These researchers provided the first experimental proof of what anyone who ever went to middle school might reasonably suspect—that feeling left out can reduce executive function sufficiently to impair mental performance.
 
@@ -667,7 +665,6 @@ The most useful lesson we learn from the chimps is this: If you want to reestabl
 
 Being humans rather than chimps, each of us has the remarkable capacity to reframe representations of stimuli within our own heads. This is both imminently doable, and, of course, easier said than done. It takes practice, and the primary difficulty of successful reframing is rooted in the peculiar architecture of our brain. Humans have more complex brains than apes, with new capacities that emerged very late in our own distinct evolutionary progression. These new features allow us to, among other things, manipulate numbers far beyond the range from zero to six. These new capacities, located in the part of the brain called the neocortex, allow us to write symphonies, discuss which actor made the best James Bond, and plan trips to Mars. However, all the more recent and more sophisticated wiring that makes us so smart did not replace the much older and more primitive neural processes that we share with monkeys or even mice. The older systems are still running beneath the newer ones, and often quite independently. In computer jargon, this progressive layering of function would be called a layered upgrade rather than a download and overwrite. In psychology it is called a re-representation, and it is distributed widely across different levels of the spinal cord and the brain. What this layered upgrade means, in practical terms, is that the neocortex is not the undisputed captain of the ship. The neocortex is up on the bridge, observing and aware, planning and making decisions, but there is always grumbling below deck from the more primitive and emotional layers of the brain that were on board long before the neocortex showed up (see Figure 4).
 
-## ![](_page_77_Picture_1.jpeg)
 
 FIGURE 4. The triune brain, a model proposed by the neurologist Paul Mac Lean in the early 1950s to describe the evolution of the structure of the brain. According to Mac Lean, the oldest part of the brain, the reptilian brain, consists of the lowest portions of the brain as it emerges from the spinal cord (e.g., brain stem, medulla, pons, cerebellum) and controls instinctual survival behaviors, autonomic functions (e.g., blood pressure, breathing), and balance. The paleomammalian or limbic brain (e.g., hypothalamus, amygdala, hippocampus) evolved next; it controls responses to basic motivations and emotions such as feeding, drinking, fighting, fleeing, and sexual reproduction. The neomammalian brain, also known as the cerebral cortex (e.g., cerebrum, cortex, neocortex), evolved most recently and controls higher-order processes such as thinking, reasoning, language, problem solving, emotional regulation, and self-control.
 
@@ -1361,7 +1358,6 @@ Over the next several hundred million years, in the vertebrate brain, neural cel
 
 But even among creatures with computational skills and a little knowledge of philosophy, primitive signaling through chemicals and other hard-wired behavior was never completely replaced; it was merely supplanted. This overlay of sophisticated over primitive further complicated our selfregulatory challenges—including those induced by loneliness. Having multiple operating systems made it not just possible but highly likely that, in the manner of Sheba the chimp facing down a dish of candies, we would be forced to process simultaneous messages that were quite contradictory. "I want to eat that entire lemon meringue pie. I want to look good in my swimsuit when we go to
 
-## ![](_page_158_Picture_0.jpeg)
 
 ## Cancun."
 
@@ -1393,7 +1389,6 @@ Given that successful propagation of the genes requires survival of offspring, a
 
 In 1958, in a now-legendary, perhaps infamous experiment, the psychologist Harry Harlow of the University of Wisconsin removed newborn rhesus monkeys from their mothers. He presented these newborns instead with two surrogates, one made of wire and one made of cloth (see Figure 9). Either stand-in could be rigged with a milk bottle, but regardless of which "mother" provided food, infant
 
-## ![](_page_161_Picture_2.jpeg)
 
 monkeys spent most of their time clinging to the one made of cloth, running to it immediately when startled or upset. They visited the wire mother only when that surrogate provided food, and then, only for as long as it took to feed.2
 
@@ -1509,7 +1504,6 @@ Hormones generally circulate throughout the entire body via the bloodstream. Ind
 
 The closeness inspired by oxytocin releases more oxytocin, which can serve to further reinforce group cohesion. Working up a sweat through exercise can promote the release of this bonding chemical, which may be one of the reasons that elated members of the winning chess team rarely hug each other and slap each other on the butt quite so enthusiastically as elated members of the winning hockey team.
 
-## ![](_page_174_Picture_1.jpeg)
 
 FIGURE 10. The hypothalamus and the pituitary gland are located next to each other deep within the middle of the brain.
 
@@ -1629,7 +1623,6 @@ This simulation, or "action representation," triggers activity in brain regions 
 
 Circuits in your brain inhibit you from actually moving while you mentally simulate the actions of others, but meanwhile, your neural experience of the
 
-## ![](_page_187_Picture_2.jpeg)
 
 movement creates a template in your brain. This may help explain how children learn to write or to tie their shoes, how young athletes, dancers, or musicians benefit from observing the grand masters, and why millions of people enjoy watching golf on television.
 
@@ -1677,7 +1670,6 @@ By engendering fearful, negative cognitions, it allows the mind to interfere wit
 
 These several varieties of prelinguistic communication—simulation, resonance, motor mimicry—serve as the basis for socially shared representations, as well as for what we call social cognition. They also serve as the basis for automatic
 
-## ![](_page_192_Picture_1.jpeg)
 
 coordination and co-regulation among individuals. But they also can form the basis for that deeper social bond whose English name—empathy comes from the German Einfühlung ("feeling into").
 
@@ -1709,7 +1701,6 @@ The superior temporal sulcus, the medial prefrontal cortex, and the amygdala are
 
 This disproportionate allocation of resources is consistent with the "social brain hypothesis," which holds that it was the complexities of social living that drove the rapid expansion of the human cortex.22 A spider monkey's brain is perfectly adequate for the challenges of finding enough to eat while not stepping on a snake. It is also adequate for getting by in a small troop with rigid social rules. But greater behavioral latitude means greater social complexity. The more demanding mental challenges involve sorting out friend from foe when both are capable of sophisticated deception, negotiating power structures that include shifting rivalries and alliances based on complex motivations, using language to communicate (as well as to manipulate others), juggling long-and short-term mating relationships not rigidly constrained by the female's ovulatory cycle, and grappling with everchanging cultural evolution.23
 
-## ![](_page_195_Picture_2.jpeg)
 
 ## Anterior cingulate cortex involved in processes such as error detection, modulation of attention, and executive processes relays sensory information and, via connections to the frontal lobe, modulates Thalamus levels of awareness involved in social cognition, emotional
 
@@ -1753,7 +1744,6 @@ University of Chicago, we asked a group of volunteers to look at photographs whi
 
 "highly negative" (a disgustingly filthy toilet), for instance, had to be equal in negative impact to a picture of a person rated "highly negative" (a man who had been beaten and bloodied). Following the scan and the viewing of pictures, we measured each of the participants' level of loneliness.
 
-## ![](_page_199_Picture_2.jpeg)
 
 FIGURE 14. People who were not lonely, relative to those who were lonely, showed more activity in a large limbic region including the ventral striatum (a reward area of the brain) than lonely individuals when looking at pleasant pictures of people than when looking at equally pleasant pictures of objects.
 
@@ -1761,7 +1751,6 @@ As indicated in Figure 14, nonlonely participants showed greater activity in the
 
 In the same study, when the photographs were negative, the patterns of brain activation were equally revealing about the experience of loneliness, moment to moment (see Figure 15). Whereas nonlonely participants paid comparable attention to negative images of people and objects, lonely individuals paid far more attention to the negative images depicting people. In both cases, the measure was activation of their visual cortex.
 
-## ![](_page_200_Picture_2.jpeg)
 
 FIGURE 15. People who were lonely showed more activity in the visual cortex
 

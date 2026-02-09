@@ -9,7 +9,6 @@ tags:
   - wikipedia
 ---
 
-## ![](_page_0_Picture_2.jpeg)
 
 The **Reconstruction era** was a period in [US history](https://en.wikipedia.org/wiki/History_of_the_United_States) that followed the [American Civil War](https://en.wikipedia.org/wiki/American_Civil_War) (1861–1865) and was dominated by the legal, social, and political challenges of the [abolition of slavery](https://en.wikipedia.org/wiki/Abolitionism_in_the_United_States) and reintegration of the former [Confederate States](https://en.wikipedia.org/wiki/Confederate_States_of_America) into the United States. [Three](https://en.wikipedia.org/wiki/Reconstruction_Amendments) [amendments](https://en.wikipedia.org/wiki/Reconstruction_Amendments) were added to the [United States Constitution](https://en.wikipedia.org/wiki/United_States_Constitution) to grant citizenship and equal civil rights to the [newly](https://en.wikipedia.org/wiki/Freedmen) [freed slaves.](https://en.wikipedia.org/wiki/Freedmen) To circumvent these, former Confederate states imposed [poll taxes](https://en.wikipedia.org/wiki/Poll_taxes) and [literacy tests](https://en.wikipedia.org/wiki/Literacy_tests) and engaged in [terrorism](https://en.wikipedia.org/wiki/Terrorism_in_the_United_States) to intimidate and control [African Americans](https://en.wikipedia.org/wiki/African_Americans) and discourage or prevent them from voting[.\[2\]](#page-52-1)
 
@@ -17,7 +16,6 @@ Throughout the war, the Union was confronted with the issue of how to administer
 
 **[Civil War era](https://en.wikipedia.org/wiki/History_of_the_United_States_(1849%E2%80%931865)) [Gilded Age](https://en.wikipedia.org/wiki/Gilded_Age)**
 
-## ![](_page_0_Picture_9.jpeg)
 
 From left to right and top to the bottom: The ruins of [Richmond, Virginia;](https://en.wikipedia.org/wiki/Richmond,_Virginia) newlyfreed [African Americans](https://en.wikipedia.org/wiki/African_American) voting for the first time in 1867;[\[1\]](#page-52-0) office of the [Freedmen's Bureau](https://en.wikipedia.org/wiki/Freedmen%27s_Bureau) in [Memphis,](https://en.wikipedia.org/wiki/Memphis,_Tennessee) [Tennessee;](https://en.wikipedia.org/wiki/Memphis,_Tennessee) [Memphis riots of 1866](https://en.wikipedia.org/wiki/Memphis_riots_of_1866)
 
@@ -81,7 +79,6 @@ The Confederate States in 1861 had 297 towns and cities, with a total population
 
 Over a quarter of Southern White men of military age—the backbone of the White workforce—died during the war, leaving their families destitute,[\[27\]](#page-54-8) and per capita income for White Southerners declined from \$125 in 1857 to a low of \$80 in 1879. By the end of the 19th century and well into the 20th century, the South was locked into a system of poverty. How much of this failure was caused by the war and by previous reliance on slavery remains the subject of debate among economists and historians.[\[31\]](#page-54-12) In both the North and South, modernization and industrialization were the focus of the post-war recovery, built on the growth of cities, railroads, factories, and banks and led by Radical Republicans and former Whigs.[\[32\]](#page-54-13)[\[33\]](#page-54-14)
 
-## ![](_page_4_Picture_2.jpeg)
 
 The distribution of wealth per capita in 1872, illustrating the disparity between North and South in that period
 
@@ -140,11 +137,9 @@ Following Lincoln's veto, the Radicals lost support but regained strength after 
 
 Upon President [Lincoln's assassination](https://en.wikipedia.org/wiki/Abraham_Lincoln_assassination) in April 1865, Vice President [Andrew Johnson](https://en.wikipedia.org/wiki/Andrew_Johnson) became president. Radicals considered Johnson to be an ally, but upon becoming
 
-## ![](_page_6_Picture_9.jpeg)
 
 The Southern economy had been ruined by the war. Charleston, South Carolina: Broad Street, 1865
 
-## ![](_page_6_Picture_11.jpeg)
 
 A [political cartoon](https://en.wikipedia.org/wiki/Political_cartoon) of [Andrew Johnson](https://en.wikipedia.org/wiki/Andrew_Johnson) and [Abraham Lincoln,](https://en.wikipedia.org/wiki/Abraham_Lincoln) 1865, entitled "The Rail Splitter At Work Repairing the Union". The caption reads (Johnson): "Take it quietly Uncle Abe and I will draw it closer than ever." (Lincoln): "A few more stitches Andy and the good old Union will be mended."
 
@@ -172,7 +167,6 @@ In 1867, Congress passed the [Reconstruction Acts](https://en.wikipedia.org/wiki
 
 Congress had to consider how to restore to full status and representation within the Union those Southern states that had declared their independence from the United States and had withdrawn their representation. Suff[rage](https://en.wikipedia.org/wiki/Suffrage) for former Confederates was one of two main concerns. A decision needed to be made whether to allow just some or all former Confederates to vote (and to hold office). The moderates in Congress wanted virtually all of them to vote, but the Radicals resisted. They repeatedly imposed the Ironclad Oath, which would effectively have allowed no former Confederates to vote. Historian [Harold Hyman](https://en.wikipedia.org/wiki/Harold_Hyman) says that in 1866 congressmen "described the oath as the last bulwark against the return of ex-rebels to power, the barrier
 
-## ![](_page_8_Picture_5.jpeg)
 
 Monument in honor of the Grand Army of the Republic, organized after the war behind which [Southern Unionists](https://en.wikipedia.org/wiki/Southern_Unionists) and Negroes protected themselves"[.\[52\]](#page-55-18)
 
@@ -188,7 +182,6 @@ Charles Sumner and Thaddeus Stevens, leaders of the Radical Republicans, were in
 
 In the South, many poor Whites were illiterate as there was almost no [public education](https://en.wikipedia.org/wiki/Public_education) before the war. In 1880, for example, the White illiteracy rate was about 25% in Tennessee, Kentucky, Alabama, South Carolina, and Georgia, and as high as 33% in North Carolina. This
 
-## ![](_page_9_Picture_6.jpeg)
 
 ## Freedmen voting in New Orleans, 1867
 
@@ -214,7 +207,6 @@ President Lincoln signed two Confi[scation Acts](https://en.wikipedia.org/wiki/C
 
 In August 1861, Major General [John C. Frémont,](https://en.wikipedia.org/wiki/John_C._Fr%C3%A9mont) Union commander of the Western Department, declared martial law in [Missouri,](https://en.wikipedia.org/wiki/Missouri) confiscated Confederate property, and emancipated their slaves. Lincoln immediately ordered Frémont to rescind his emancipation declaration, stating: "I think there is great danger that ... the liberating slaves of traitorous owners, will alarm our Southern Union friends, and turn them against us—perhaps ruin our fair prospect for Kentucky." After Frémont refused to rescind the emancipation order, Lincoln terminated him from active duty on
 
-## ![](_page_10_Picture_9.jpeg)
 
 [Abraham Lincoln,](https://en.wikipedia.org/wiki/Abraham_Lincoln) 16th [President of the United](https://en.wikipedia.org/wiki/President_of_the_United_States) [States](https://en.wikipedia.org/wiki/President_of_the_United_States) (1861–1865)
 
@@ -240,7 +232,6 @@ Starting in March 1862, in an effort to forestall Reconstruction by the Radicals
 
 In July 1862, Lincoln became convinced that "a military necessity" would give him authority under the Constitution to strike at slavery in order to win the Civil War for the Union. The Confiscation Acts were having only a minimal effect to end slavery. On July 22, he wrote a first draft of the Emancipation Proclamation that freed the slaves in states in rebellion. After he showed his Cabinet the document, slight alterations were made in the wording. Lincoln decided that the defeat of the Confederate invasion of the North at the [Battle of Antietam](https://en.wikipedia.org/wiki/Battle_of_Antietam) was a sufficient battlefield victory to enable him to release the preliminary Emancipation Proclamation, which gave the rebels 100 days to return to the Union or the actual proclamation would be issued. [\[83\]](#page-57-10)
 
-## ![](_page_12_Picture_5.jpeg)
 
 Celebration of the Emancipation Proclamation in Massachusetts, 1862
 
@@ -260,7 +251,6 @@ On March 3, 1865, the [Freedmen's Bureau Bill](https://en.wikipedia.org/wiki/Fre
 
 With the help of the bureau, the recently freed slaves began voting, forming political parties, and assuming the control of labor in many areas. The bureau helped to start a change of
 
-## ![](_page_13_Picture_7.jpeg)
 
 Northern teachers traveled into the South to provide education and training for the newly freed population.
 
@@ -292,7 +282,6 @@ Historians generally agree that President Johnson was an inept politician who lo
 
 However, the fears of the planter elite and other leading white citizens were partly assuaged by the actions of President Johnson, who ensured that a wholesale land redistribution from
 
-## ![](_page_15_Picture_5.jpeg)
 
 Harper's Weekly cartoonist [Thomas](https://en.wikipedia.org/wiki/Thomas_Nast) [Nast](https://en.wikipedia.org/wiki/Thomas_Nast) regularly skewered Andrew Johnson's reconstruction policies as dangerous and destructive; clockwise from top left: Johnson as a [Medusa-](https://en.wikipedia.org/wiki/Medusa)headed [Lady Justice](https://en.wikipedia.org/wiki/Lady_Justice) in [Southern Justice](https://en.wikipedia.org/wiki/Southern_Justice_(political_cartoon)), Johnson as [Iago](https://en.wikipedia.org/wiki/Iago) to a wounded soldier of the [U. S.](https://en.wikipedia.org/wiki/United_States_Colored_Troops) [Colored Troops](https://en.wikipedia.org/wiki/United_States_Colored_Troops) as [Othello,](https://en.wikipedia.org/wiki/Othello_(character)) King Andy with "prime minister" [Seward,](https://en.wikipedia.org/wiki/William_H._Seward) and Johnson as [Emperor Nero](https://en.wikipedia.org/wiki/Nero) with Seward in [Amphitheatrum](https://en.wikipedia.org/wiki/Amphitheatrum_Johnsonianum) [Johnsonianum](https://en.wikipedia.org/wiki/Amphitheatrum_Johnsonianum)
 
@@ -308,7 +297,6 @@ The freedmen, with the strong backing of the Freedmen's Bureau, rejected [gang l
 
 Northern officials gave varying reports on conditions for the freedmen in the South. One harsh assessment came from [Carl](https://en.wikipedia.org/wiki/Carl_Schurz) [Schurz,](https://en.wikipedia.org/wiki/Carl_Schurz) who reported on the situation in the states along the Gulf Coast. His report documented dozens of [extrajudicial killings](https://en.wikipedia.org/wiki/Extrajudicial_killing) and claimed that hundreds or thousands more African Americans were killed:[\[112\]](#page-59-1)
 
-## ![](_page_16_Picture_4.jpeg)
 
 An October 24th, 1874 [Harper's](https://en.wikipedia.org/wiki/Harper%27s_Magazine) [Magazine](https://en.wikipedia.org/wiki/Harper%27s_Magazine) editorial cartoon by [Thomas Nast](https://en.wikipedia.org/wiki/Thomas_Nast) denouncing KKK and White League murders of innocent Blacks
 
@@ -358,11 +346,9 @@ Concerned by multiple reports of abuse of black freedmen by
 
 Southern white officials and plantation owners, Republicans in Congress took control of Reconstruction policies after the election of 1866.[\[123\]](#page-59-12) Johnson ignored the policy mandate, and he openly encouraged Southern states to deny ratification of the Fourteenth Amendment (except for Tennessee, all former Confederate states did refuse to ratify, as did the border states of Delaware, Maryland, and Kentucky). Radical Republicans in Congress, led by Stevens and Sumner, opened the way to suffrage for male freedmen. They were generally in control, although they had to compromise with the moderate Republicans (the Democrats in Congress had almost no power). Historians refer to this period as "Radical Reconstruction" or "congressional Reconstruction".[\[124\]](#page-59-13) The business spokesmen in the North generally opposed Radical proposals. Analysis of 34 major business newspapers showed that 12 discussed politics, and only one, *[Iron Age](https://en.wikipedia.org/w/index.php?title=Iron_Age_(newspaper)&action=edit&redlink=1)*, supported radicalism. The other 11 opposed a "harsh" Reconstruction policy, favored the speedy return of the Southern states to congressional representation, opposed legislation designed to protect the freedmen, and deplored the impeachment of President Andrew Johnson[.\[125\]](#page-60-0)
 
-## ![](_page_19_Picture_5.jpeg)
 
 Harper's Weekly cover of July 29, 1865; the text in the planter's [speech balloon](https://en.wikipedia.org/wiki/Speech_balloon) reads "My boy, we've toiled and taken care of you long enough. Now you've got to work!"
 
-## ![](_page_19_Picture_7.jpeg)
 
 1868 Republican cartoon identifies Democratic candidates Seymour and Blair (right) with KKK violence and with Confederate soldiers (left).
 
@@ -413,7 +399,6 @@ The 11 Southern states held constitutional conventions giving Black men the righ
 
 Until 1872, most former Confederate or prewar Southern office holders were disqualified from voting or holding office; all but 500 top Confederate leaders were pardoned by the [Amnesty Act](https://en.wikipedia.org/wiki/Amnesty_Act_of_1872) [of 1872.](https://en.wikipedia.org/wiki/Amnesty_Act_of_1872)[\[143\]](#page-61-0) "Proscription" was the policy of disqualifying as many ex-Confederates as possible. For example, in 1865 Tennessee had disenfranchised 80,000 ex-Confederates[.\[144\]](#page-61-1) However, proscription was soundly rejected by the Black element, which insisted on universal suffrage.[\[145\]](#page-61-2)[\[146\]](#page-61-3) The issue would come up repeatedly in several states, especially in Texas and Virginia. In Virginia, an effort was made to disqualify for public office every man who had served in the Confederate Army even as a private, and any civilian farmer who sold food to the Confederate States Army.[\[147\]](#page-61-4)[\[148\]](#page-61-5) Disenfranchising Southern Whites was also opposed by moderate Republicans in the North, who felt that ending proscription would bring the South closer to a republican form of government based on the [consent of the](https://en.wikipedia.org/wiki/Consent_of_the_governed) [governed,](https://en.wikipedia.org/wiki/Consent_of_the_governed) as called for by the Constitution and the Declaration of Independence. Strong measures that were called for in order to forestall a return to the defunct Confederacy increasingly seemed out of place, and the role of the United States Army and controlling politics in the state was troublesome. Historian Mark Summers states that increasingly "the disenfranchisers had to fall back on the contention that denial of the vote was meant as punishment, and a lifelong punishment at that ... Month by month, the un[-republican](https://en.wikipedia.org/wiki/Republicanism) character of the regime looked more glaring.["\[149\]](#page-61-6)
 
-## ![](_page_22_Picture_5.jpeg)
 
 "This is a white man's government", [Thomas Nast](https://en.wikipedia.org/wiki/Thomas_Nast)'s caricature of the forces arraigned against Grant and Reconstruction in the 1868 election. Atop a black Union veteran reaching for a ballot box: the New York City Irish; Confederate and Klansman [Nathan Bedford Forrest;](https://en.wikipedia.org/wiki/Nathan_Bedford_Forrest) and bigmoney Democratic Party chairman [August Belmont,](https://en.wikipedia.org/wiki/August_Belmont) a burning freedmen's school in the background. [Harper's Weekly](https://en.wikipedia.org/wiki/Harper%27s_Weekly), September 5, 1868.
 
@@ -437,7 +422,6 @@ Grant won the popular vote by 300,000 votes out of 5,716,082 votes cast, receivi
 
 President [Ulysses S. Grant](https://en.wikipedia.org/wiki/Ulysses_S._Grant) was considered an effective civil rights executive, concerned about the plight of [African Americans.](https://en.wikipedia.org/wiki/African_Americans)[\[165\]](#page-61-22)[\[166\]](#page-62-0) Grant met with prominent black leaders for consultation and signed a bill into law, on March 18, 1869, that guaranteed equal rights to both blacks and whites, to serve on juries, and hold office, in Washington D. C[.\[165\]](#page-61-22) [\[167\]](#page-62-1) In 1870 Grant signed into law a [Naturalization Act](https://en.wikipedia.org/wiki/Naturalization_Act_of_1870) that opened a path to citizenship for foreign-born Black residents in the US.[\[165\]](#page-61-22) Additionally, Grant's [Postmaster General,](https://en.wikipedia.org/wiki/United_States_Postmaster_General) [John Creswell](https://en.wikipedia.org/wiki/John_Creswell) used his patronage powers to integrate the postal system and appointed a record number of African-American men and women as postal workers across the nation, while also expanding many of the mail routes[.\[168\]](#page-62-2)[\[169\]](#page-62-3) Grant appointed Republican abolitionist and champion of black education [Hugh Lennox Bond](https://en.wikipedia.org/wiki/Hugh_Lennox_Bond) as U. S. Circuit Court judge[.\[170\]](#page-62-4)
 
-## ![](_page_23_Picture_9.jpeg)
 
 [Ulysses S. Grant,](https://en.wikipedia.org/wiki/Ulysses_S._Grant) 18th [President of the United](https://en.wikipedia.org/wiki/President_of_the_United_States) [States](https://en.wikipedia.org/wiki/President_of_the_United_States) (1869–1877)
 
@@ -465,7 +449,6 @@ Grant also recommended the enforcement of laws in all parts of the United States
 
 Grant's Justice Department destroyed the Ku Klux Klan, but during both of his terms, Blacks lost their political strength in the [Southern United](https://en.wikipedia.org/wiki/Southern_United_States) [States.](https://en.wikipedia.org/wiki/Southern_United_States) By October, Grant suspended *habeas corpus* in part of South Carolina and he also sent federal troops to help marshals, who initiated prosecutions of Klan members.[\[181\]](#page-62-15) Grant's Attorney General, [Amos T.](https://en.wikipedia.org/wiki/Amos_T._Akerman) [Akerman,](https://en.wikipedia.org/wiki/Amos_T._Akerman) who replaced Hoar, was zealous in his attempt to destroy the Klan[.\[183\]](#page-62-17) Akerman and South Carolina's U. S. marshal arrested over 470 Klan members, but hundreds of Klansmen, including the Klan's wealthy leaders, fled the state.[\[184\]](#page-62-18)[\[185\]](#page-62-19) Akerman returned over 3,000 indictments of the Klan throughout the South and obtained 600 convictions for the worst offenders.[\[184\]](#page-62-18) By 1872, Grant had crushed the Klan, and African Americans peacefully voted in record numbers in elections in the South. [\[186\]](#page-62-20)[\[187\]](#page-62-21) Attorney General [George H. Williams,](https://en.wikipedia.org/wiki/George_Henry_Williams) Akerman's replacement, suspended his prosecutions of the Klan in North Carolina and South Carolina in the Spring of 1873, but prior to the election of 1874, he changed course and prosecuted the Klan.[\[188\]](#page-62-22) Civil rights prosecutions continued but with fewer yearly cases and convictions.[\[189\]](#page-62-23)
 
-## ![](_page_25_Picture_4.jpeg)
 
 Grant's Attorney General [Amos T. Akerman](https://en.wikipedia.org/wiki/Amos_T._Akerman) prosecuted the Ku Klux Klan, believing that the strong arm of the federal Justice Department could pacify the South.
 
@@ -477,7 +460,6 @@ In addition to fighting for African American civil rights, Grant wanted to recon
 
 The [Civil Rights Act of 1875](https://en.wikipedia.org/wiki/Civil_Rights_Act_of_1875) was one of the last major acts of Congress and Grant to preserve Reconstruction and equality for [African Americans.](https://en.wikipedia.org/wiki/African_American)[\[192\]](#page-62-26)[\[193\]](#page-62-27) The initial bill was created by Senator [Charles Sumner.](https://en.wikipedia.org/wiki/Charles_Sumner) Grant endorsed the measure, despite his previous feud with Sumner, signing it into law on March 1, 1875. The law, ahead of its times, outlawed discrimination for blacks in [public accommodations,](https://en.wikipedia.org/wiki/Public_accommodations) schools, transportation, and selecting juries. Although weakly enforceable, the law spread fear among whites opposed to interracial justice and was overturned by the Supreme Court in 1883. The later enforceable [Civil Rights Act of](https://en.wikipedia.org/wiki/Civil_Rights_Act_of_1964) [1964](https://en.wikipedia.org/wiki/Civil_Rights_Act_of_1964) borrowed many of the earlier 1875's law's provisions.[\[192\]](#page-62-26)
 
-## ![](_page_25_Picture_10.jpeg)
 
 [Thomas Nast](https://en.wikipedia.org/wiki/Thomas_Nast) illustration entitled "Halt", published October 17, 1874
 
@@ -495,7 +477,6 @@ Republicans took control of all Southern state governorships and state legislatu
 
 About 137 Black officeholders had lived outside the South before the Civil War. Some who had escaped from slavery to the North and had become educated returned to help the South advance in the postwar era. Others were [free people of color](https://en.wikipedia.org/wiki/Free_people_of_color) before the war, who had achieved education and positions of leadership
 
-## ![](_page_26_Picture_9.jpeg)
 
 "Radical members of the first legislature after the war, South Carolina"
 
@@ -547,7 +528,6 @@ Freedmen were very active in forming their own churches, mostly Baptist or Metho
 
 Four main groups competed with each other across the South to form new Methodist churches composed of freedmen. They were the [African](https://en.wikipedia.org/wiki/African_Methodist_Episcopal_Church) [Methodist Episcopal Church;](https://en.wikipedia.org/wiki/African_Methodist_Episcopal_Church) the [African Methodist Episcopal Zion](https://en.wikipedia.org/wiki/African_Methodist_Episcopal_Zion_Church) [Church,](https://en.wikipedia.org/wiki/African_Methodist_Episcopal_Zion_Church) both independent Black denominations founded in Philadelphia and New York, respectively; the [Colored Methodist Episcopal Church](https://en.wikipedia.org/wiki/Christian_Methodist_Episcopal_Church) (which was sponsored by the White [Methodist Episcopal Church, South\)](https://en.wikipedia.org/wiki/Methodist_Episcopal_Church,_South) and the well-funded [Methodist Episcopal Church](https://en.wikipedia.org/wiki/Methodist_Episcopal_Church) (predominantly White Methodists of the North). The [Methodist Church](https://en.wikipedia.org/wiki/History_of_Methodism_in_the_United_States#Civil_War_and_Reconstruction) had split before the war due to disagreements about slavery[.\[204\]](#page-63-7)[\[205\]](#page-63-8) By 1871, the Northern Methodists had 88,000 Black members in the South, and had opened numerous schools for them.[\[206\]](#page-63-9)
 
-## ![](_page_28_Picture_8.jpeg)
 
 [Eastman Johnson](https://en.wikipedia.org/wiki/Eastman_Johnson)'s 1863 painting [The Lord is My](https://en.wikipedia.org/wiki/The_Lord_Is_My_Shepherd_(Eastman_Johnson)) [Shepherd](https://en.wikipedia.org/wiki/The_Lord_Is_My_Shepherd_(Eastman_Johnson)), of a man reading the Bible
 
@@ -589,7 +569,6 @@ According to a 2020 study by economist [Trevon Logan,](https://en.wikipedia.org/
 
 Every Southern state subsidized railroads, which modernizers believed could haul the South out of isolation and poverty. Millions of dollars in bonds and subsidies were fraudulently pocketed. One ring in North Carolina spent \$200,000 in bribing the legislature and obtained millions of state dollars for its railroads. Instead of building new track, however, it used the funds to speculate in bonds, reward friends with extravagant fees, and enjoy lavish trips to Europe.[\[227\]](#page-64-14) Taxes were quadrupled across the South to pay off the railroad bonds and the school costs.
 
-## ![](_page_31_Picture_6.jpeg)
 
 Atlanta's [rail yard](https://en.wikipedia.org/wiki/Rail_yard) and [roundhouse](https://en.wikipedia.org/wiki/Railway_roundhouse) in ruins shortly after the end of the Civil War
 
@@ -650,7 +629,6 @@ The argument made by the taxpayers, however, was plausible and it may be concede
 
 The Civil War had been financed primarily by issuing short-term and long-term bonds and loans, plus inflation caused by printing paper money, plus new taxes. Wholesale prices had more than doubled, and reduction of inflation was a priority for Secretary Mc Culloch.[\[245\]](#page-65-12) A high priority, and by far the most controversial, was the currency question. The old paper currency issued by state banks had been withdrawn, and Confederate currency was worthless. The national banks had issued \$207 million in currency, which was backed by gold and silver. The federal
 
-## ![](_page_34_Picture_4.jpeg)
 
 \$20 banknote with portrait of Secretary of the Treasury Hugh Mc Culloch treasury had issued \$428 million in [greenbacks,](https://en.wikipedia.org/wiki/Greenback_(1860s_money)) which was legal tender but not backed by gold or silver. In addition about \$275 million of coin was in circulation. The new administration policy announced in October 1865 would be to make all the paper convertible into specie, if Congress so voted. The House of Representatives passed the Alley Resolution on December 18, 1865, by a vote of 144 to 6. In the Senate it was a different matter, for the key player was Senator [John Sherman,](https://en.wikipedia.org/wiki/John_Sherman) who said that inflation contraction was not nearly as important as refunding the short-term and long-term national debt. The war had been largely financed by national debt, in addition to taxation and inflation. The national debt stood at \$2.8 billion. By October 1865, most of it in short-term and temporary loans.[\[246\]](#page-65-13) Wall Street bankers typified by [Jay Cooke](https://en.wikipedia.org/wiki/Jay_Cooke) believed that the economy was about to grow rapidly, thanks to the development of agriculture through the [Homestead Act,](https://en.wikipedia.org/wiki/Homestead_Act) the expansion of railroads, especially rebuilding the devastated Southern railroads and opening the [transcontinental railroad line](https://en.wikipedia.org/wiki/First_transcontinental_railroad) to the West Coast, and especially the flourishing of manufacturing during the war. The gold premium over greenbacks was \$145 in greenbacks to \$100 in gold, and the optimists thought that the heavy demand for currency in an era of prosperity would return the ratio to 100. [\[245\]](#page-65-12) A compromise was reached in April 1866, that limited the treasury to a currency contraction of only \$10 million over six months. Meanwhile, the Senate refunded the entire national debt, but the House failed to act. By early 1867, postwar prosperity was a reality, and the optimists wanted an end to contraction, which Congress ordered in January 1868. Meanwhile, the Treasury issued new bonds at a lower interest rate to refinance the redemption of short-term debt. While the old state bank notes were disappearing from circulation, new national bank notes, backed by species, were expanding. By 1868 inflation was minimal[.\[247\]](#page-65-14) [\[248\]](#page-65-15)[\[249\]](#page-65-16)[\[250\]](#page-66-0)
 
@@ -670,7 +648,6 @@ While Republican whites supported measures for black civil rights, other whites 
 
 The opponents of Reconstruction formed state political parties, affiliated with the national Democratic Party and often named the "Conservative Party". They supported or tolerated violent [paramilitary](https://en.wikipedia.org/wiki/Paramilitary) groups, such as the White League in Louisiana and the Red Shirts in Mississippi and the Carolinas, that assassinated
 
-## ![](_page_35_Picture_6.jpeg)
 
 [Winslow Homer](https://en.wikipedia.org/wiki/Winslow_Homer)'s 1876 painting A Visit from the Old Mistress and intimidated both Black and White Republican leaders at election time. Historian George C. Rable called such groups the "military arm of the Democratic Party". By the mid-1870s, the "conservatives" and Democrats had aligned with the national Democratic Party, which enthusiastically supported their cause even as the national Republican Party was losing interest in Southern affairs.
 
@@ -734,7 +711,6 @@ By 1870, the Democratic leadership across the South decided it had to end its op
 
 Not all Democrats agreed; an insurgent element continued to resist Reconstruction no matter what. Eventually, a group called "Redeemers" took control of the party in the Southern states[.\[272\]](#page-67-1) They formed coalitions with conservative Republicans, including supporters of Reconstruction, emphasizing the need for economic modernization. Railroad building was seen as a panacea since Northern capital was needed. The new tactics were a success in [Virginia](https://en.wikipedia.org/wiki/History_of_Virginia#Reconstruction) where [William Mahone](https://en.wikipedia.org/wiki/William_Mahone) built a winning coalition. In Tennessee, the Redeemers formed a coalition with Republican Governor [Dewitt Clinton Senter.](https://en.wikipedia.org/wiki/Dewitt_Clinton_Senter) Across the South, some Democrats switched from the race issue to taxes and corruption, charging that Republican governments were corrupt
 
-## ![](_page_39_Picture_7.jpeg)
 
 A Republican Form of Government and No Domestic Violence, by [Thomas Nast,](https://en.wikipedia.org/wiki/Thomas_Nast) a political cartoon about the Wheeler Compromise in Louisiana, published in [Harper's](https://en.wikipedia.org/wiki/Harper%27s_Weekly) [Weekly,](https://en.wikipedia.org/wiki/Harper%27s_Weekly) March 6, 1875
 
@@ -766,7 +742,6 @@ Political violence was endemic in Louisiana. In 1874, the White militias coalesc
 
 Later in 1874 the White League mounted a serious attempt to unseat the Republican governor of Louisiana, in a dispute that had simmered since the 1872 election. It brought 5,000 troops to New Orleans to engage and overwhelm forces of the metropolitan police and state militia to turn Republican Governor [William P.](https://en.wikipedia.org/wiki/William_P._Kellogg) [Kellogg](https://en.wikipedia.org/wiki/William_P._Kellogg) out of office and seat [John Mc Enery.](https://en.wikipedia.org/wiki/John_Mc Enery_(Louisiana_politician)) The White League took over and held the state house and city hall, but they retreated before the arrival of reinforcing federal troops. Kellogg had asked for reinforcements before, and Grant finally responded, sending additional troops to try to quell violence throughout plantation areas of the Red River Valley, although 2,000 troops were already in the state[.\[281\]](#page-67-10)
 
-## ![](_page_41_Picture_5.jpeg)
 
 White Leaguers attacking the New Orleans integrated police force and state militia, Battle of Liberty Place, 1874
 
@@ -784,7 +759,6 @@ Historian Sarah Sullivan further argues that the violence of the Ku Klux Klan du
 
 The Klan's brutality extended to public torture, whipping, and murder, including the spectacle-style killings later associated with the Jim Crow era. Sullivan writes, "Lynchings done by the
 
-## ![](_page_42_Picture_6.jpeg)
 
 A cartoon threatening that the KKK will lynch scalawags (left) and carpetbaggers (right) on March 4, 1869. Image is of Arad Simon Lakin ("Ohio") and Noah B. Cloud hanging from the tree. March 4, 1869 is the day Horatio Seymour, a Democrat, will supposedly become President. Tuscaloosa, Alabama, Independent Monitor, Sept. 1, 1868. The cartoonist had actual local politicians in mind. A full-scale scholarly history analyzes the cartoonː Guy W. Hubbs, Searching for Freedom after the Civil War: Klansman, Carpetbagger, Scalawag, and Freedman ̈(2015)
 
@@ -812,7 +786,6 @@ On January 29, 1877, President Grant signed the [Electoral Commission Act,](http
 
 Constitution did not explicitly indicate how Electoral College disputes were to be resolved, Congress was forced to consider other methods to settle the crisis. Many Democrats argued that Congress as a whole should determine which certificates to count. However, the chances that this method would result in a harmonious settlement were slim, as the Democrats controlled the House, while the Republicans controlled the Senate. Several Hayes supporters, on the other hand, argued that the President pro tempore of the Senate had the authority to determine which certificates to count, because he was responsible for chairing the congressional session at which the electoral votes were to be tallied. Since the office of president pro tempore was occupied by a Republican, Senator [Thomas W. Ferry](https://en.wikipedia.org/wiki/Thomas_W._Ferry) of [Michigan,](https://en.wikipedia.org/wiki/Michigan) this method would have favored Hayes. Still others proposed that the matter should be settled by the Supreme Court[.\[288\]](#page-67-17) In a stormy session that began on March 1, 1877, the House debated the objection for about twelve hours before overruling it. Immediately, another spurious objection was raised, this time to the
 
-## ![](_page_44_Picture_3.jpeg)
 
 [Rutherford B. Hayes,](https://en.wikipedia.org/wiki/Rutherford_B._Hayes) 19th [President of the United](https://en.wikipedia.org/wiki/President_of_the_United_States) [States](https://en.wikipedia.org/wiki/President_of_the_United_States) (1877–1881)
 
@@ -918,7 +891,6 @@ The journalist [Joel Chandler Harris,](https://en.wikipedia.org/wiki/Joel_Chandl
 
 In popular literature, two early 20th-century novels by [Thomas](https://en.wikipedia.org/wiki/Thomas_Dixon_Jr.) [Dixon Jr.](https://en.wikipedia.org/wiki/Thomas_Dixon_Jr.) – *[The Leopard's Spots:](https://en.wikipedia.org/wiki/The_Leopard%27s_Spots) A [Romance](https://en.wikipedia.org/wiki/Romanticism) of the White Man's Burden – 1865–1900* (1902), and *[The Clansman: A Historical](https://en.wikipedia.org/wiki/The_Clansman:_A_Historical_Romance_of_the_Ku_Klux_Klan) [Romance of the Ku Klux Klan](https://en.wikipedia.org/wiki/The_Clansman:_A_Historical_Romance_of_the_Ku_Klux_Klan)* (1905) – idealized White resistance to Northern and Black coercion, hailing vigilante action by the [Ku Klux Klan.](https://en.wikipedia.org/wiki/Ku_Klux_Klan)[\[337\]](#page-71-0) [D. W. Gri](https://en.wikipedia.org/wiki/D._W._Griffith)ffith adapted Dixon's *The Clansman* for the screen in his anti-Republican movie *[The](https://en.wikipedia.org/wiki/The_Birth_of_a_Nation) [Birth of a Nation](https://en.wikipedia.org/wiki/The_Birth_of_a_Nation)* (1915); it stimulated the formation of the 20thcentury version of the KKK. Many other authors romanticized the supposed benevolence of slavery and the elite world of the antebellum plantations, in memoirs and histories which were published in the late 19th and early 20th centuries; the [United](https://en.wikipedia.org/wiki/United_Daughters_of_the_Confederacy) [Daughters of the Confederacy](https://en.wikipedia.org/wiki/United_Daughters_of_the_Confederacy) promoted influential works which were written in these genres by women[.\[338\]](#page-71-1)
 
-## ![](_page_50_Picture_7.jpeg)
 
 A poster for the 1939 epic film [Gone](https://en.wikipedia.org/wiki/Gone_with_the_Wind_(film)) [with the Wind](https://en.wikipedia.org/wiki/Gone_with_the_Wind_(film)), which is set during the Civil War and Reconstruction eras
 

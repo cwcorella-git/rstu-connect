@@ -14,9 +14,6 @@ tags:
 
 ## **The Rent Strike That Sparked a Movement**
 
-25–31 minutes
-
-## ![](_page_0_Picture_5.jpeg)
 
 ## Art by Erik Adams
 
@@ -38,7 +35,6 @@ In response to the Christmastime action, Turner filed a SLAPP injunction—a Str
 
 aiming to block the protesters from protesting and force the rent strike to end. Two days after Christmas, the Mariachis packed the Stanley Mosk courthouse in downtown Los Angeles with supporters from DSA, LATU and the building, all of whom wore red. The injunction was meant as an intimidation tactic, but the lawyered-up mariachis were prepared to fight.
 
-## ![](_page_3_Picture_3.jpeg)
 
 Boyle Heights tenants protesting the rent increase. Photo by Molly Lambert.
 
@@ -50,7 +46,6 @@ Two hours into the day's docket, the lawyers for the tenants of 1812 E. 2nd Stre
 
 Mariachi Plaza is the entryway to Boyle Heights, over a bridge from downtown Los Angeles. It's a small version of Mexico City's Plaza Garibaldi, where mariachi musicians gather seeking work. Since the 1930s, L. A.'s mariachi musicians have gathered at the pedestrian plaza and old timey bandstand plying their freelance trade. Vans park around the square advertising mariachis with phone numbers taped on the side. The mariachis signify their trade by wearing the costumes modeled after traditional Mexican charro horsemen outfits, with embroidered suits and matching sombreros.
 
-## ![](_page_5_Picture_2.jpeg)
 
 Boyle Heights mariachis. Photo by Molly Lambert.
 
@@ -68,9 +63,6 @@ Jewish and Mexican American residents of Boyle Heights in the '40s and '50s, unt
 
 Los Angeles is governed by a web of inconsistent restrictions on rent control. Any building built after 1978 is not subject to rent stabilization, and landlords can increase the rent at any time for no real reason. Because the building where the mariachis live was built in 1983, there was no rent control. Six tenants of the building, several of them mariachis, were given the rent increase. Rather than move out, they organized and protested. Knowing they would eventually be served with the same rent increase, the other tenants in the building agreed to stand with the six, and together they all went on a rent strike, one of a half- dozen in L. A. over the last two years.
 
-## ![](_page_7_Picture_4.jpeg)
-
-## ![](_page_8_Picture_2.jpeg)
 
 Mariachis performing outside the 2nd Street building. Photo by Molly Lambert.
 
@@ -94,7 +86,6 @@ Gentrification is directly the result of the development process that starts wit
 
 When artists moved to Boyle Heights, some claimed it was because they'd been forced out of other cheap L. A. neighborhoods. Gentrifiers often do not come into communities and participate by frequenting local businesses. Instead, they open new businesses with higher prices, which drive local, lower-priced shops out of business. When Defend Boyle Heights protested a third-wave minimalist coffee shop called Weird Wave Coffee last summer, the white male owner called the cops on the protesters, proving their suspicion that he was not interested in communicating or interacting with the existing community in any real way.
 
-## ![](_page_12_Picture_3.jpeg)
 
 A protest against the rent increases in Mariachi Plaza. Photo by Molly Lambert.
 
@@ -122,7 +113,6 @@ On Avenue 64 in Highland Park, a rent strike directly inspired by the mariachi s
 
 ## strike continues.
 
-## ![](_page_16_Picture_3.jpeg)
 
 Ave. 64 rent strike. Photo by Daniel Tovar.
 
@@ -152,4 +142,3 @@ We go downstairs for the party. The sun starts to set on 2nd Street as the maria
 
 They will all remain in Mariachi Plaza, at least for now. The organizers will hold similar actions at other buildings in gentrifying neighborhoods, attempting to push back on forces that may seem insurmountable but are just unchallenged. As per the agreement, the protest posters are torn down from the windows of the building and ripped up in a central pile, mostly by the building's kids. The sunset is orange and purple as the mariachis launch into a jubilant "Cielito Lindo."
 
-## ![](_page_19_Picture_4.jpeg)

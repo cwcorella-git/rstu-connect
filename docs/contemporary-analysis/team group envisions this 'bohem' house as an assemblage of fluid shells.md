@@ -17,7 +17,6 @@ tags:
 
 the architecture creates a depth of space, as layers of curving walls define a succession of courtyards, balconies, and interiors. the windows and doors are softened with rounded or arching overhangs to ensure a cohesive fluidity of form throughout.
 
-## ![](_page_1_Picture_2.jpeg)
 
 visualizations by amirali sharifi, courtesy of team group | [@team.group](https://www.instagram.com/team.group/)
 
@@ -25,12 +24,4 @@ visualizations by amirali sharifi, courtesy of team group | [@team.group](https:
 
 'by using this structure and adaption of nature, in the architectural process of bohem project, an attempt has been made to promote a sense of dynamism, growth, and fluidity alongside the evolution and aspects of aesthetics.'
 
-## ![](_page_1_Picture_7.jpeg)
 
-## ![](_page_2_Picture_2.jpeg)
-
-## ![](_page_2_Picture_3.jpeg)
-
-## ![](_page_2_Picture_4.jpeg)
-
-## ![](_page_3_Picture_2.jpeg)

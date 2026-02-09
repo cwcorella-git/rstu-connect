@@ -35,9 +35,6 @@ tags:
 
 —Cathy Wilkerson, **Author of the Weatherperson memoir** *Flying Close to the Sun*
 
-## ![](_page_4_Picture_0.jpeg)
-
-## ![](_page_6_Picture_0.jpeg)
 
 # Wobbies Zapatistas CONVERSATIONS ON ANARCHISM.
 
@@ -47,7 +44,6 @@ CONVERSATIONS ON ANARCHISM, MARXISM AND RADICAL HISTORY
 
 ## INTRODUCTION BY DENIS O'HEARN
 
-## ![](_page_6_Picture_5.jpeg)
 
 # Wobblies & Zapatistas: Conversations on Anarchism, Marxism and Radical History By Staughton Lynd & Andrej Grubacic
 
@@ -107,7 +103,6 @@ Liberation Magazine and Studies on the Left Theory and Practice in Marx Is There
 
 ## On Being an Intellectual I Am an Outsider
 
-## ![](_page_8_Picture_22.jpeg)
 
 ## 62 Radical Intellectuals
 
@@ -2903,7 +2898,6 @@ Staughton Lynd taught American history at Spelman College and Yale University. H
 
 Andrej Grubacic is a dissident from the Balkans. A radical historian and sociologist, he is the author of *Globalization and Refusal* and the forthcoming *Hidden History of American Democracy* and *The Staughton Lynd Reader*. A fellow traveler of Zapatista-inspired direct action movements, in particular Peoples' Global Action, and a co-founder of Global Balkans Network and Balkan *Z Magazine*, he is a visiting professor of sociology at the University of San Francisco.
 
-## ![](_page_286_Picture_0.jpeg)
 
 ## **Also Available from STAUGHTON LYND and PM Press:**
 
@@ -2919,7 +2913,6 @@ Have you ever felt your blood boil at work but lacked the tools to fight back an
 
 ## former General Secretary-Treasurer of the IWW
 
-## ![](_page_287_Picture_0.jpeg)
 
 PM Press was founded in 2007 as an independent publisher with offices in the US and UK, and a veteran staff boasting a wealth of experience in print and online publishing. We produce and distribute short as well as large run projects, timely texts, and out of print classics.
 

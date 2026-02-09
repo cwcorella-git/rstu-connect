@@ -14,7 +14,6 @@ tags:
 
 ## introduction by Nicolas Walter
 
-## ![](_page_0_Picture_5.jpeg)
 
 This edition first published 1989 by Pluto Press 345 Archway Road, London N6 5AA and 22883 Quicksilver Drive, Sterling, VA21066-2012, USA
 

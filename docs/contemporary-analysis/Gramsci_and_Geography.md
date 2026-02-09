@@ -8,7 +8,6 @@ tags:
   - current-events
 ---
 
-## ![](_page_0_Picture_4.jpeg)
 
 ## **Jordan Camp**
 

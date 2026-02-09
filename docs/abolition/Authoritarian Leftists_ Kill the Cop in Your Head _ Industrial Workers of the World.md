@@ -10,7 +10,6 @@ tags:
 
 #### [archive.iww.org](https://archive.iww.org/history/library/Jackson/copinyourhead/)
 
-44–56 minutes
 
 ## **By Greg Jackson - Black Autonomy, April 1996.**
 

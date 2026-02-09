@@ -8,13 +8,11 @@ tags:
   - tenants
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 ## The Politics of Crisis
 
 ## DAVID MADDEN PETER MARCUSE
 
-## ![](_page_2_Picture_3.jpeg)
 
 ## First published by Verso 2016 © David Madden and Peter Marcuse, 2016
 

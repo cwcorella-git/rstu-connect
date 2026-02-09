@@ -7,7 +7,6 @@ tags:
   - protests
 ---
 
-## ![](_page_0_Picture_2.jpeg)
 
 **March for Our Lives** (**MFOL**) is a [student-led](https://en.wikipedia.org/wiki/Student_activism) organization which leads [demonstrations](https://en.wikipedia.org/wiki/Demonstration_(protest)) in support of [gun](https://en.wikipedia.org/wiki/Gun_control) [control](https://en.wikipedia.org/wiki/Gun_control) legislation.[\[4\]](#page-16-1) The first demonstration took place in [Washington, D. C.,](https://en.wikipedia.org/wiki/Washington,_D. C.) on March 24, 2018, with over 880 sibling events throughout the United States and around the world,[\[5\]](#page-16-2)[\[6\]](#page-17-0)[\[7\]](#page-17-1)[\[8\]](#page-17-2)[\[9\]](#page-17-3) and was planned by [Never Again MSD](https://en.wikipedia.org/wiki/Never_Again_MSD) in collaboration with the nonprofi[t organization](https://en.wikipedia.org/wiki/Nonprofit_organization) [Everytown](https://en.wikipedia.org/wiki/Everytown_for_Gun_Safety) [for Gun Safety.](https://en.wikipedia.org/wiki/Everytown_for_Gun_Safety)[\[10\]](#page-17-4) The event followed the [Parkland high](https://en.wikipedia.org/wiki/Parkland_high_school_shooting) [school shooting](https://en.wikipedia.org/wiki/Parkland_high_school_shooting) a month earlier, which was described by several media outlets as a possible [tipping point](https://en.wikipedia.org/wiki/Tipping_point_(sociology)) for [gun](https://en.wikipedia.org/wiki/Gun_control) [control](https://en.wikipedia.org/wiki/Gun_control) legislation[.\[11\]](#page-17-5)[\[12\]](#page-17-6)[\[13\]](#page-17-7)
 
@@ -69,11 +68,9 @@ The date was chosen in order to give students, families and others a chance to m
 
 1.2 million people in the United States, and more around the world.[\[2\]](#page-16-3)[\[3\]](#page-16-4) **Website** [marchforourlives.org \(http](https://marchforourlives.org/) [s://marchforourlives.org/\)](https://marchforourlives.org/)
 
-## ![](_page_1_Picture_5.jpeg)
 
 ## 2018
 
-## ![](_page_1_Picture_7.jpeg)
 
 Crowd on [Pennsylvania Avenue](https://en.wikipedia.org/wiki/Pennsylvania_Avenue) (Washington, D. C.) [Cameron Kasky](https://en.wikipedia.org/wiki/Cameron_Kasky) at a rally in February planned site of the main march in [Washington, D. C.,](https://en.wikipedia.org/wiki/Washington,_D. C.)
 
@@ -101,7 +98,6 @@ In Washington, D. C., a prayer and vigil was held at the [Washington National Ca
 
 From so many heartbreaks comes forth a united commitment to go into the streets of our cities and towns and promote a way of peace and well-being for all people. With compassion sown from the threads of sadness and terror, we will mend a nation tattered by gun violence and weave a new cloth of hope and peace. [\[63\]](#page-23-0)
 
-## ![](_page_2_Picture_8.jpeg)
 
 Prayer and vigil at the [Washington](https://en.wikipedia.org/wiki/Washington_National_Cathedral) [National Cathedral](https://en.wikipedia.org/wiki/Washington_National_Cathedral)
 
@@ -113,7 +109,6 @@ March for Our Lives was among the biggest youth-led protests since the [Vietnam 
 
 The speakers—all of whom were high schoolers or younger included Marjory Stoneman Douglas students [Cameron Kasky,](https://en.wikipedia.org/wiki/Cameron_Kasky) [David Hogg,](https://en.wikipedia.org/wiki/David_Hogg) [Delaney Tarr,](https://en.wikipedia.org/wiki/Never_Again_MSD) [Sarah Chadwick,](https://en.wikipedia.org/wiki/Sarah_Chadwick_(activist)) [Alex Wind,](https://en.wikipedia.org/wiki/Alex_Wind) [Jaclyn](https://en.wikipedia.org/wiki/Jaclyn_Corin) [Corin,](https://en.wikipedia.org/wiki/Jaclyn_Corin) [Ryan Deitsch,](https://en.wikipedia.org/wiki/Ryan_Deitsch) [Aalayah Eastmond,](https://en.wikipedia.org/wiki/Aalayah_Eastmond) Samantha Fuentes, and [X González](https://en.wikipedia.org/wiki/X_Gonz%C3%A1lez)[.\[70\]](#page-23-7)[\[71\]](#page-23-8)[\[72\]](#page-23-9)[\[69\]](#page-23-6)[\[73\]](#page-23-10) [Hunter Pollack,](https://en.wikipedia.org/wiki/Hunter_Pollack) brother of victim [Meadow,](https://en.wikipedia.org/wiki/Meadow_Pollack) was scheduled to speak, but did not attend due to a logistical issue[,\[74\]](#page-23-11) which he contended was a result of being misled by event officials[.\[75\]](#page-23-12)[\[76\]](#page-24-0) David Hogg tweeted out a video of Hunter's speech from a later event.[\[77\]](#page-24-1)
 
-## ![](_page_3_Picture_3.jpeg)
 
 Portion of speech by [David Hogg](https://en.wikipedia.org/wiki/David_Hogg)
 
@@ -123,7 +118,6 @@ González, after speaking and naming the seventeen victims, stood silent for ove
 
 Since the time that I came out here, it has been 6 minutes and 20 seconds. The shooter has ceased shooting, and will soon abandon his rifle, blend in with the students as they escape, and walk free for an hour before arrest. Fight for your lives before it's someone else's job.[\[95\]](#page-25-7)
 
-## ![](_page_3_Picture_8.jpeg)
 
 [X González](https://en.wikipedia.org/wiki/X_Gonz%C3%A1lez) seen on a [Jumbotron](https://en.wikipedia.org/wiki/Jumbotron) in the distance during their moment of silence then walked off stage as the entire crowd along Pennsylvania Avenue applauded loudly. Their speech and emotional [moment of silence](https://en.wikipedia.org/wiki/Moment_of_silence) was praised by media organizations as one of the "most memorable["\[96\]](#page-25-8) and "powerful" moments in the day's events.[\[97\]](#page-25-9)[\[98\]](#page-25-10)
 
@@ -159,11 +153,9 @@ On the day of the protests, Florida [Republican](https://en.wikipedia.org/wiki/R
 
 Former Republican senator and presidential candidate [Rick](https://en.wikipedia.org/wiki/Rick_Santorum) [Santorum](https://en.wikipedia.org/wiki/Rick_Santorum) criticized the Parkland activists, suggesting during an interview with [CNN](https://en.wikipedia.org/wiki/CNN) that students should be learning ways to respond to a shooter rather than asking lawmakers "to solve their problem"; Santorum advised students to take classes in [CPR](https://en.wikipedia.org/wiki/Cardiopulmonary_resuscitation) rather than marching in Washington.[\[109\]](#page-26-9)[\[110\]](#page-26-10) *[The Washington](https://en.wikipedia.org/wiki/The_Washington_Post) [Post](https://en.wikipedia.org/wiki/The_Washington_Post)* quoted several doctors responding to Santorum that CPR would not be at all effective on gunshot victims as they were suffering from blood loss[.\[111\]](#page-27-0)
 
-## ![](_page_5_Picture_7.jpeg)
 
 A poster saying "Our children's safety should not have to be leveraged"
 
-## ![](_page_5_Picture_9.jpeg)
 
 The [Governor of New York,](https://en.wikipedia.org/wiki/Governor_of_New_York) [Andrew](https://en.wikipedia.org/wiki/Andrew_Cuomo) [Cuomo,](https://en.wikipedia.org/wiki/Andrew_Cuomo) leading the NYC March For Our Lives rally
 
@@ -231,15 +223,12 @@ In [New York,](https://en.wikipedia.org/wiki/New_York_(state)) demonstrations we
 
 In [Pennsylvania,](https://en.wikipedia.org/wiki/Pennsylvania) marches took place in [Allentown,](https://en.wikipedia.org/wiki/Allentown,_Pennsylvania)[\[191\]](#page-33-10) [Bloomsburg,](https://en.wikipedia.org/wiki/Bloomsburg,_Pennsylvania)[\[192\]](#page-34-0) [Doylestown](https://en.wikipedia.org/wiki/Doylestown,_Pennsylvania)[,\[193\]](#page-34-1) [Easton,](https://en.wikipedia.org/wiki/Easton,_Pennsylvania)[\[194\]](#page-34-2) [Erie,](https://en.wikipedia.org/wiki/Erie,_Pennsylvania) [\[195\]](#page-34-3) [Lancaster](https://en.wikipedia.org/wiki/Lancaster,_Pennsylvania)[,\[196\]](#page-34-4) [Philadelphia,](https://en.wikipedia.org/wiki/Philadelphia)[\[197\]](#page-34-5) [Pittsburgh](https://en.wikipedia.org/wiki/Pittsburgh)[,\[198\]](#page-34-6)[\[199\]](#page-34-7) [Reading,](https://en.wikipedia.org/wiki/Reading,_Pennsylvania)[\[200\]](#page-35-0) [Scranton](https://en.wikipedia.org/wiki/Scranton,_Pennsylvania)[\[201\]](#page-35-1) and [State College](https://en.wikipedia.org/wiki/State_College,_Pennsylvania)[.\[202\]](#page-35-2)
 
-## ![](_page_8_Picture_12.jpeg)
 
 Protesters at [Trump Hotel](https://en.wikipedia.org/wiki/Old_Post_Office_(Washington,_D. C.)#Trump_International_Hotel_Washington,_D. C.) in Washington, D. C.
 
-## ![](_page_8_Picture_14.jpeg)
 
 Rally in [Central Park South](https://en.wikipedia.org/wiki/59th_Street_(Manhattan)) in [New](https://en.wikipedia.org/wiki/New_York_City) [York City](https://en.wikipedia.org/wiki/New_York_City)
 
-## ![](_page_8_Picture_16.jpeg)
 
 Rally in [Morristown, New Jersey](https://en.wikipedia.org/wiki/Morristown,_New_Jersey)
 
@@ -263,11 +252,9 @@ In [Minnesota](https://en.wikipedia.org/wiki/Minnesota), 20,000 people attended 
 
 In [Missouri,](https://en.wikipedia.org/wiki/Missouri) marches took place in [Kansas City,](https://en.wikipedia.org/wiki/Kansas_City,_Missouri) [O'Fallon](https://en.wikipedia.org/wiki/O%27Fallon,_Missouri)[,\[233\]](#page-37-11) [Spring](https://en.wikipedia.org/wiki/Springfield,_Missouri)fiel[d\[234\]](#page-38-0) and [St. Louis.](https://en.wikipedia.org/wiki/St._Louis) The St. Louis march was scheduled to begin at 10:00 am at [Union Station](https://en.wikipedia.org/wiki/Union_Station_(St._Louis)) and culminate at the [Gateway Arch](https://en.wikipedia.org/wiki/Gateway_Arch)[.\[235\]](#page-38-1) Initial estimates anticipated 10,000 attendees.[\[235\]](#page-38-1) The Kansas City rally held at Theis (Volker) Park, just south of the Nelson-Atkins Art Gallery, drew 6,000 participants[.\[236\]](#page-38-2) The KC March was organized by students from area-wide high schools, who set up a Facebook page chronicling
 
-## ![](_page_9_Picture_12.jpeg)
 
 Rally in [Chicago, Illinois](https://en.wikipedia.org/wiki/Chicago)
 
-## ![](_page_9_Picture_14.jpeg)
 
 Rally at [Public Square](https://en.wikipedia.org/wiki/Public_Square,_Cleveland) in [Cleveland,](https://en.wikipedia.org/wiki/Cleveland) [Ohio](https://en.wikipedia.org/wiki/Cleveland)
 
@@ -291,15 +278,12 @@ In [Florida,](https://en.wikipedia.org/wiki/Florida) demonstrations took place i
 
 A rally in [Jacksonville](https://en.wikipedia.org/wiki/Jacksonville,_Florida) had a turnout of over 1,000 people in Hemming Park. Hundreds of people marched from Hemming Park to the [Duval County](https://en.wikipedia.org/wiki/Duval_County,_Florida) Courthouse with signs including: "Grab them by the mid-terms" and ["#neveragain"](https://en.wikipedia.org/wiki/March_for_Our_Lives#neveragain).[\[264\]](#page-40-7) Notable speakers included John Phillips, the civil attorney of Jordan Davis, the seventeen year old who was shot and killed at a gas station in 2012 and *[Stranger Things](https://en.wikipedia.org/wiki/Stranger_Things)* actor Chester Rushing. In [Saint Augustine,](https://en.wikipedia.org/wiki/Saint_Augustine) the march began by walking over the [Bridge of](https://en.wikipedia.org/wiki/Bridge_of_Lions) [Lions,](https://en.wikipedia.org/wiki/Bridge_of_Lions) down Avenida Menenedez, ending at Fort Castillo. The
 
-## ![](_page_10_Picture_10.jpeg)
 
 Rally at the capitol building in [Madison, Wisconsin](https://en.wikipedia.org/wiki/Madison,_Wisconsin)
 
-## ![](_page_10_Picture_12.jpeg)
 
 Students and alumni from [Marjory](https://en.wikipedia.org/wiki/Marjory_Stoneman_Douglas_High_School) [Stoneman Douglas High School](https://en.wikipedia.org/wiki/Marjory_Stoneman_Douglas_High_School)
 
-## ![](_page_10_Picture_14.jpeg)
 
 Mayor Dan Gelber speaking at rally at the Bass Museum, Miami Beach event was organized by Flagler college students with assistance from Indivisible St. Johns, St. Johns DEC, Women's March St. Augustine, and Ponte Vedra United Progress[.\[265\]](#page-40-8)
 
@@ -313,7 +297,6 @@ In [Louisiana,](https://en.wikipedia.org/wiki/Louisiana) marches were held in [B
 
 In [Maryland,](https://en.wikipedia.org/wiki/Maryland) students from [Severna Park High School](https://en.wikipedia.org/wiki/Severna_Park_High_School) and other [Anne Arundel County Public Schools](https://en.wikipedia.org/wiki/Anne_Arundel_County_Public_Schools)[\[278\]](#page-42-0) planned a demonstration to be held at Lawyer's Mall in [Annapolis.](https://en.wikipedia.org/wiki/Annapolis,_Maryland)[\[279\]](#page-42-1) They invited 188 state legislators. Students, teachers, Mayor Gavin Buckley along with Andrew Yang and [Moms Demand](https://en.wikipedia.org/wiki/Everytown_for_Gun_Safety#Moms_Demand_Action_For_Gun_Sense_in_America) [Action](https://en.wikipedia.org/wiki/Everytown_for_Gun_Safety#Moms_Demand_Action_For_Gun_Sense_in_America) were scheduled to speak.[\[278\]](#page-42-0) In [Baltimore,](https://en.wikipedia.org/wiki/Baltimore) student
 
-## ![](_page_11_Picture_5.jpeg)
 
 Rally in [Austin, Texas](https://en.wikipedia.org/wiki/Austin,_Texas)
 
@@ -353,11 +336,9 @@ In [Oregon,](https://en.wikipedia.org/wiki/Oregon) marches happened in [Corvalli
 
 In [Utah,](https://en.wikipedia.org/wiki/Utah) there were several marches planned including in Logan, [Salt Lake City,](https://en.wikipedia.org/wiki/Salt_Lake_City) Park City, Provo, Cedar City and St. George[.\[342\]](#page-48-4) [\[343\]](#page-48-5)
 
-## ![](_page_12_Picture_8.jpeg)
 
 Rally in [Portland, Oregon](https://en.wikipedia.org/wiki/Portland,_Oregon)
 
-## ![](_page_12_Picture_10.jpeg)
 
 Rally in [Seattle, Washington](https://en.wikipedia.org/wiki/Seattle)
 
@@ -411,7 +392,6 @@ In Germany, protests were held in [Berlin,](https://en.wikipedia.org/wiki/Berlin
 
 In the United Kingdom, hundreds marched outside the [US](https://en.wikipedia.org/wiki/Embassy_of_the_United_States,_London) [embassy in London](https://en.wikipedia.org/wiki/Embassy_of_the_United_States,_London)[.\[368\]](#page-51-5) Marchers also held a "die in" and lay on
 
-## ![](_page_13_Picture_19.jpeg)
 
 Support for "March For Our Lives" in [Museumplein, Amsterdam](https://en.wikipedia.org/wiki/Museumplein)
 
@@ -421,7 +401,6 @@ International and American students rallied in [Rome](https://en.wikipedia.org/w
 
 In [Amsterdam,](https://en.wikipedia.org/wiki/Amsterdam) hundreds participated in a demonstration near the US consulate on the [Museumplein](https://en.wikipedia.org/wiki/Museumplein)[.\[375\]](#page-52-4) The organizers and speakers included American and Dutch high school students, an
 
-## ![](_page_14_Picture_4.jpeg)
 
 Support for "March For Our Lives" in [Geneva, Switzerland](https://en.wikipedia.org/wiki/Geneva)
 
@@ -447,17 +426,12 @@ Other protests took place in [Lima,](https://en.wikipedia.org/wiki/Lima) Peru, [
 
 ### **Gallery**
 
-## ![](_page_15_Picture_2.jpeg)
 
 Washington, D. C. Washington, D. C.
 
-## ![](_page_15_Picture_6.jpeg)
-
-## ![](_page_15_Picture_7.jpeg)
 
 ## New York City San Diego
 
-## ![](_page_15_Picture_10.jpeg)
 
 Students protest for gun control; the U. S.
 
@@ -488,7 +462,6 @@ Students protest for gun control; the U. S.
 - 4. March for our lives. ["March for Our Lives \(Terms of Use\)" \(https://marchforourlives.c](https://marchforourlives.com/terms-of-use/) [om/terms-of-use/\).](https://marchforourlives.com/terms-of-use/) (March, 2018).
 - 5. ["You Marched. Now we](https://web.archive.org/web/20180325022850/https://event.marchforourlives.com/event/march-our-lives-events/search/) fi[ght for our lives" \(https://web.archive.org/web/2018032502](https://web.archive.org/web/20180325022850/https://event.marchforourlives.com/event/march-our-lives-events/search/) [2850/https://event.marchforourlives.com/event/march-our-lives-events/search/\).](https://web.archive.org/web/20180325022850/https://event.marchforourlives.com/event/march-our-lives-events/search/) marchforourlives.com. March For Our Lives. Archived from [the original \(https://even](https://event.marchforourlives.com/event/march-our-lives-events/search/) [t.marchforourlives.com/event/march-our-lives-events/search/\)](https://event.marchforourlives.com/event/march-our-lives-events/search/) on March 25, 2018. Retrieved March 24, 2018.
 
-## ![](_page_16_Picture_24.jpeg)
 
 - 6. May, Charlie (February 18, 2018). ["Florida student survivors announce 'March for](https://www.salon.com/2018/02/18/florida-student-survivors-announce-march-for-our-lives-heres-a-time-to-talk-about-gun-control/) [Our Lives': Here's a time to talk about gun control" \(https://www.salon.com/2018/0](https://www.salon.com/2018/02/18/florida-student-survivors-announce-march-for-our-lives-heres-a-time-to-talk-about-gun-control/) 2/18/fl[orida-student-survivors-announce-march-for-our-lives-heres-a-time-to-talk-ab](https://www.salon.com/2018/02/18/florida-student-survivors-announce-march-for-our-lives-heres-a-time-to-talk-about-gun-control/) [out-gun-control/\).](https://www.salon.com/2018/02/18/florida-student-survivors-announce-march-for-our-lives-heres-a-time-to-talk-about-gun-control/) [Salon](https://en.wikipedia.org/wiki/Salon_(website)). [Archived \(https://web.archive.org/web/20180218155533/h](https://web.archive.org/web/20180218155533/https://www.salon.com/2018/02/18/florida-student-survivors-announce-march-for-our-lives-heres-a-time-to-talk-about-gun-control/) ttps://www.salon.com/2018/02/18/fl[orida-student-survivors-announce-march-for-ou](https://web.archive.org/web/20180218155533/https://www.salon.com/2018/02/18/florida-student-survivors-announce-march-for-our-lives-heres-a-time-to-talk-about-gun-control/) [r-lives-heres-a-time-to-talk-about-gun-control/\)](https://web.archive.org/web/20180218155533/https://www.salon.com/2018/02/18/florida-student-survivors-announce-march-for-our-lives-heres-a-time-to-talk-about-gun-control/) from the original on February 18, 2018. Retrieved February 18, 2018.
 - 7. Carlsen, Audrey; Patel, Jugal (March 22, 2018). ["Across the United States" \(https://w](https://www.nytimes.com/interactive/2018/03/22/us/politics/march-for-lives-demonstrations.html) [ww.nytimes.com/interactive/2018/03/22/us/politics/march-for-lives-demonstration](https://www.nytimes.com/interactive/2018/03/22/us/politics/march-for-lives-demonstrations.html) [s.html\).](https://www.nytimes.com/interactive/2018/03/22/us/politics/march-for-lives-demonstrations.html) [The New York Times](https://en.wikipedia.org/wiki/The_New_York_Times). Retrieved March 24, 2018.

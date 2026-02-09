@@ -14,7 +14,6 @@ tags:
 
 Perhaps you've read about the recently revealed [Prism](https://www.theguardian.com/world/2013/jun/06/us-tech-giants-nsa-data) [program,](https://www.theguardian.com/world/2013/jun/06/us-tech-giants-nsa-data) through which the US National Security Agency has been harvesting data from Microsoft, Google, Facebook, Apple, and other major internet corporations.
 
-## ![](_page_0_Picture_7.jpeg)
 
 Remember, this is the tip of the iceberg. We can't know how many similar projects are buried deeper in the apparatus of the surveillance state, unrevealed by daring [whistleblowers.](https://www.theguardian.com/world/2013/jun/09/edward-snowden-nsa-whistleblower-surveillance) We do know that the NSA intercepts [billions](https://www.theguardian.com/world/2013/jun/06/national-security-agency-surveillance) of emails, phone calls, and other forms of communication every day. What they can monitor they can also censor, à la China or Mubarak.
 
@@ -22,7 +21,6 @@ Many have championed the internet as an opportunity to create new [commons,](htt
 
 ## ![](_page_1_Figure_4.jpeg)
 
-## ![](_page_1_Picture_9.jpeg)
 
 ## [We told you so](https://crimethinc.com/2012/04/30/poster-series-what-does-democracy-mean)
 

@@ -13,7 +13,6 @@ The Rousseauvian and Hegelian Heritage of Justice as Fairness
 
 ## Jeffrey Bercuson
 
-## ![](_page_0_Picture_5.jpeg)
 
 "Notwithstanding the massive secondary literature to date, scholars have only just begun to understand and appreciate the complexity, depth, diverse historical influences and multidimensional nature of Rawls's work. A significant and welcome addition to this recent, productive, and overdue new wave of Rawls scholarship, this volume explores long-overlooked Rousseauian and Hegelian themes in Rawls's thought and thereby provides an important corrective to the overly Kant-centric reading of Rawls dominant in the secondary literature as well as classroom teaching. Clearly written and without excessive jargon, the volume will be read profitably by both veteran Rawls scholars and students just coming for the first time to serious study of Rawls's work."
 
@@ -150,7 +149,6 @@ The Rousseauvian and Hegelian Heritage of Justice as Fairness
 
 ## Jeffrey Bercuson
 
-## ![](_page_7_Picture_4.jpeg)
 
 First published 2014 by Routledge 711 Third Avenue, New York, NY 10017
 

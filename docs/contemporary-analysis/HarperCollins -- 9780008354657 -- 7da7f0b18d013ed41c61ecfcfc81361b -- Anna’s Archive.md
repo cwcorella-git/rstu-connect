@@ -23,7 +23,6 @@ tags:
 
 # Will Storr
 
-## ![](_page_1_Picture_2.jpeg)
 
 # Copyright
 

@@ -26,13 +26,9 @@ Its radical questioning of the whole system is a revelation to people who have b
 
 ## Paul Goodman
 
-## ![](_page_0_Picture_10.jpeg)
 
 ## Penguin Education Specials
 
-## ![](_page_0_Picture_12.jpeg)
-
-## ![](_page_0_Picture_13.jpeg)
 
 ## **COMPULSORY MISEDUCATION** Paul Goodman
 

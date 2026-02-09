@@ -11,7 +11,6 @@ tags:
 
 ## Contributors to Wikimedia projects
 
-27–34 minutes
 
 **Coverture** was a [legal doctrine](https://en.wikipedia.org/wiki/Legal_doctrine) in English [common law](https://en.wikipedia.org/wiki/Common_law) originating from the French word couverture, meaning "covering", in which a married woman's legal existence was considered to be merged with that of her husband. Upon marriage, she had no independent legal existence of her own, in keeping with society's expectation that her husband was to provide for and protect her. Under coverture a woman became a feme covert, whose legal rights and obligations were mostly subsumed by those of her husband. An unmarried woman, or feme sole, retained the right to own property and make contracts in her own name.
 
@@ -29,7 +28,6 @@ A feme sole had the right to own property and make contracts in her own name, wh
 
 A queen of England, whether she was a [queen consort](https://en.wikipedia.org/wiki/Queen_consort) or a [queen regnant,](https://en.wikipedia.org/wiki/Queen_regnant) was generally exempted from the legal requirements of coverture, as understood by [Blackstone.](https://en.wikipedia.org/wiki/William_Blackstone) [[citation needed](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed)]
 
-## ![](_page_3_Picture_3.jpeg)
 
 ## Portrait of an English married couple, circa 1780
 
@@ -41,9 +39,6 @@ According to Chernock, "coverture, ... [a 1777] author ... concluded, was the pr
 
 Coverture also held sway in English-speaking colonies because of the influence of the English common law there. The way in which coverture operated across the common law world has been the subject of recent studies examining the subordinating effects of marriage for women across medieval and early modern England and North America, in a variety of legal contexts[.\[17\]](#page-17-3) It has been argued that in practice, most of the rules of coverture "served not to guide every transaction but rather to provide clarity and direction in times of crisis or death.["\[17\]](#page-17-3) Despite this flexibility, coverture remained a powerful tool of marital inequality for many centuries.[\[17\]](#page-17-3)
 
-![](_page_5_Picture_4.jpeg)
-
-## ![](_page_6_Picture_2.jpeg)
 
 Early feminist historian [Mary Ritter Beard](https://en.wikipedia.org/wiki/Mary_Ritter_Beard)
 
@@ -57,7 +52,6 @@ She was not writing generally about [women's rights,](https://en.wikipedia.org/w
 
 According to Chernock, "late [Enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment) radicals ... argued ... [that 'coverture' and other 'principles'] did not reflect the 'advancements' of a modern, civilized society. Rather, they were markers of past human errors and inconsistencies, and thus in need of further revision.["\[21\]](#page-17-7) Chernock claimed that "as the editor of Blackstone's Commentaries, [Edward] Christian used his popular thirteenth edition, published in 1800, to highlight the ways in which the practice of coverture might be modified.["\[16\]](#page-17-2) Chernock wrote that "Christian ... proceeded to recommend that a husband cease to be 'absolutely master of the profits of the wife's lands during the coverture.'"[\[16\]](#page-17-2) Chernock reported that other men sought for coverture to be modified or eliminated[.\[22\]](#page-17-8)
 
-![](_page_7_Picture_3.jpeg)
 
 Writer, lawyer, women's rights advocate, and early coverture opponent, [John Neal](https://en.wikipedia.org/wiki/John_Neal)
 
@@ -69,11 +63,9 @@ In the mid-19th century, according to Melissa J. Homestead, coverture was critic
 
 Hendrik Hartog counter-criticized that coverture was only a [legal fiction](https://en.wikipedia.org/wiki/Legal_fiction) and not descriptive of social realit[y\[37\]](#page-18-10) and that courts applying [equity jurisdiction](https://en.wikipedia.org/wiki/Equity_(legal_concept)) had developed many exceptions to coverture[,\[38\]](#page-18-11) but, according to Norma Basch, the exceptions themselves still required that the woman be dependent on someon[e\[39\]](#page-18-12) and not all agreements between spouses to let wives control their property were enforceable in court[.\[40\]](#page-18-13)
 
-![](_page_9_Picture_3.jpeg)
 
 Publisher and activist [Myra Bradwell](https://en.wikipedia.org/wiki/Myra_Bradwell)
 
-## ![](_page_9_Picture_5.jpeg)
 
 [Hulda Regina Graser,](https://en.wikipedia.org/wiki/Hulda_Regina_Graser) femme sole, femme consort (1897)
 

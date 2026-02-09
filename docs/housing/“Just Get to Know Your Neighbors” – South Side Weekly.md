@@ -12,7 +12,6 @@ tags:
 
 ## Emeline Posner
 
-17–21 minutes
 
 This is post 1 of 7 in the series "The 2024 Housing Issue"
 

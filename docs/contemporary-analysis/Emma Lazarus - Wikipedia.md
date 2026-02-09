@@ -9,7 +9,6 @@ tags:
   - wikipedia
 ---
 
-## ![](_page_0_Picture_2.jpeg)
 
 **Emma Lazarus** (July 22, 1849 – November 19, 1887) was an American author of poetry, prose, and translations, as well as an activist for Jewish and [Georgist](https://en.wikipedia.org/wiki/Georgism) causes. She is remembered for writing the [sonnet](https://en.wikipedia.org/wiki/Sonnet) ["The New](https://en.wikipedia.org/wiki/The_New_Colossus) [Colossus"](https://en.wikipedia.org/wiki/The_New_Colossus), which was inspired by the [Statue of Liberty,](https://en.wikipedia.org/wiki/Statue_of_Liberty) in 1883[.\[1\]](#page-5-0) Its lines appear inscribed on a [bronze](https://en.wikipedia.org/wiki/Bronze) plaque, installed in 1903[,\[2\]](#page-5-1) on the pedestal of the Statue of Liberty[.\[3\]](#page-5-2) Lazarus was involved in aiding refugees to New York who had fled [antisemitic pogroms in eastern Europe,](https://en.wikipedia.org/wiki/Pogroms_in_the_Russian_Empire#1881%E2%80%931884) and she saw a way to express her empathy for these refugees in terms of the statue[.\[4\]](#page-5-3) The last lines of the sonnet were set to music by [Irving Berlin](https://en.wikipedia.org/wiki/Irving_Berlin) as the song "Give Me Your Tired, Your Poor" for the 1949 musical *[Miss Liberty](https://en.wikipedia.org/wiki/Miss_Liberty)*, which was based on the sculpting of the Statue of Liberty (*Liberty Enlightening the World*). The latter part of the sonnet was also set by [Lee Hoiby](https://en.wikipedia.org/wiki/Lee_Hoiby) in his song "The Lady of the Harbor" written in 1985 as part of his song cycle "Three Women".
 
@@ -21,7 +20,6 @@ Emma Lazarus was born in [New York City,](https://en.wikipedia.org/wiki/New_York
 
 #### **Emma Lazarus**
 
-## ![](_page_0_Picture_9.jpeg)
 
 ## Lazarus, c. 1872
 
@@ -53,7 +51,6 @@ U. S.
 
 [Inquisition.](https://en.wikipedia.org/wiki/Inquisition)[\[11\]](#page-5-10)[\[8\]](#page-5-7) Lazarus's great-great-grandmother on her mother's side, [Grace Seixas Nathan](https://en.wikipedia.org/wiki/Grace_Seixas_Nathan) (born in [Stratford,](https://en.wikipedia.org/wiki/Stratford,_Connecticut) [Connecticut,](https://en.wikipedia.org/wiki/Stratford,_Connecticut) in 1752) was also a poet[.\[12\]](#page-5-11) Lazarus was related through her mother to [Benjamin N. Cardozo,](https://en.wikipedia.org/wiki/Benjamin_N._Cardozo) [Associate Justice of the Supreme Court of the United](https://en.wikipedia.org/wiki/Associate_Justice_of_the_Supreme_Court_of_the_United_States) [States.](https://en.wikipedia.org/wiki/Associate_Justice_of_the_Supreme_Court_of_the_United_States) Her siblings included sisters [Josephine,](https://en.wikipedia.org/wiki/Josephine_Lazarus) Sarah, Mary, Agnes and Annie, and a brother, Frank[.\[13\]](#page-5-12)[\[14\]](#page-5-13)[\[15\]](#page-5-14)
 
-## ![](_page_1_Picture_3.jpeg)
 
 Privately educated by tutors from an early age, she studied American and British literature as well as several languages, including [German,](https://en.wikipedia.org/wiki/German_language) [French,](https://en.wikipedia.org/wiki/French_language) and [Italian.](https://en.wikipedia.org/wiki/Italian_language)[\[16\]](#page-5-15) She was attracted in youth to poetry, writing her first lyrics when she was eleven years old.[\[17\]](#page-5-16)
 
@@ -65,7 +62,6 @@ The first stimulus for Lazarus's writing was offered by the [American Civil War.
 
 By this time, Lazarus's work had won recognition abroad. Her first prose production, *Alide: An Episode of Goethe's Life*, a romance treating of the [Friederike Brion](https://en.wikipedia.org/wiki/Friederike_Brion) incident, was published in 1874 [\(Philadelphia\)](https://en.wikipedia.org/wiki/Philadelphia), and was followed by *The Spagnoletto* (1876), a tragedy. *Poems and Ballads of Heinrich Heine* (New York, 1881) followed, and was prefixed by a biographical sketch of Heine; Lazarus's renderings of some of Heine's verse are considered among the best in English[.\[18\]](#page-5-17) In the same year, 1881,
 
-## ![](_page_1_Picture_9.jpeg)
 
 ## Poems and ballads of Heinrich Heine she became friends with [Rose Hawthorne Lathrop.](https://en.wikipedia.org/wiki/Rose_Hawthorne_Lathrop)[\[19\]](#page-5-18) In April 1882, Lazarus published in *[The Century](https://en.wikipedia.org/wiki/The_Century_Magazine) [Magazine](https://en.wikipedia.org/wiki/The_Century_Magazine)* the article "Was the [Earl of Beacons](https://en.wikipedia.org/wiki/Benjamin_Disraeli)field a Representative Jew?" Her statement of the reasons for answering this question in the affirmative may be taken to close what may be termed the Hellenic and journeyman period of Lazarus's life, during which her subjects were drawn from classic and romantic sources.[\[20\]](#page-5-19)
 
@@ -95,7 +91,6 @@ Lazarus's most notable series of articles was that titled "An Epistle to the Heb
 
 Lazarus returned to New York City seriously ill after she completed her second trip to Europe, and she died two months later, on November 19, 1887[,\[5\]](#page-5-4) most likely from [Hodgkin's](https://en.wikipedia.org/wiki/Hodgkin%27s_lymphoma) [lymphoma.](https://en.wikipedia.org/wiki/Hodgkin%27s_lymphoma) She never married.[\[34\]](#page-6-5)[\[35\]](#page-6-6) Lazarus was buried in [Beth](https://en.wikipedia.org/wiki/Beth_Olam_Cemetery) [Olam Cemetery](https://en.wikipedia.org/wiki/Beth_Olam_Cemetery) in [Cypress Hills, Brooklyn.](https://en.wikipedia.org/wiki/East_New_York,_Brooklyn#Cypress_Hills) *The Poems of Emma Lazarus* (2 vols., Boston and New York, 1889) was published after her death, comprising most of her poetic work from previous collections, periodical publications, and some of the literary heritage which her executors deemed appropriate to preserve for posterity[.\[24\]](#page-5-23) Her papers are kept by the American Jewish Historical Society, [Center for Jewish History](https://en.wikipedia.org/wiki/Center_for_Jewish_History)[,\[36\]](#page-6-7) and her letters are collected at [Columbia University](https://en.wikipedia.org/wiki/Columbia_University)[.\[37\]](#page-6-8)
 
-## ![](_page_3_Picture_6.jpeg)
 
 Lazarus Public School, [Brooklyn](https://en.wikipedia.org/wiki/Brooklyn)
 
@@ -111,7 +106,6 @@ The irony is that the statue goes on speaking, even when the tide turns against 
 
 Lazarus contributed toward shaping the self-image of the United States as well as how the country understands the needs of those who immigrated to the United States. Her themes produced sensitivity and enduring lessons regarding immigrants and their need for dignity[.\[44\]](#page-6-15) What was needed to make her a poet of the people as well as one of literary merit was a great theme, the establishment of instant communication between some stirring reality and her still hidden and irresolute subjectivity. Such a theme was provided by the immigration of Russian Jews to America, consequent upon the proscriptive [May Laws](https://en.wikipedia.org/wiki/May_Laws) of 1882. She rose to the defense of her ethnic compatriots in powerful articles, as contributions to *[The Century](https://en.wikipedia.org/wiki/The_Century_Magazine)* (May 1882 and February 1883). Hitherto, her life had held no Jewish inspiration. Though of Sephardic ancestry, and ostensibly Orthodox in belief, her family had till then not participated in the activities of the [synagogue](https://en.wikipedia.org/wiki/Synagogue) or of the Jewish community. Contact with the unfortunates from Russia led her to study the Torah, the Hebrew language, Judaism, and Jewish history[.\[20\]](#page-5-19) While her early poetry demonstrated no Jewish themes, her *Songs of a Semite* (1882) is considered to be the earliest volume of Jewish American poetry.[\[45\]](#page-6-16)
 
-## ![](_page_4_Picture_5.jpeg)
 
 ## Alide: an episode of Goethe's life (1874)
 

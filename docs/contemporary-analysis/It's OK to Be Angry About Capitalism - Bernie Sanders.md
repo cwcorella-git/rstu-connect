@@ -13,7 +13,6 @@ tags:
 
 ## Allen lane
 
-## ![](_page_1_Picture_0.jpeg)
 
 # About the Author
 
@@ -27,7 +26,6 @@ Bernie Sanders is serving his third term in the U. S. Senate and is the longest-
 
 #### IT'S OK TO BE ANGRY ABOUT CAPITALISM
 
-## ![](_page_4_Picture_2.jpeg)
 
 ## Contents
 
@@ -2887,7 +2885,6 @@ Lastly, I want to express my appreciation to the millions of Americans who are p
 
 John would like to thank his daughter, Whitman Bottari, and his longtime editor, Katrina vanden Heuvel, for their unrestrained enthusiasm about this book project.
 
-## ![](_page_283_Picture_0.jpeg)
 
 ## THIS IS JUST THE BEGINNING
 
@@ -2901,7 +2898,6 @@ UK | USA | Canada | Ireland | Australia New Zealand | India | South Africa
 
 Penguin Books is part of the Penguin Random House group of companies whose addresses can be found at [global.penguinrandomhouse.com.](http://global.penguinrandomhouse.com/)
 
-## ![](_page_284_Picture_3.jpeg)
 
 First published in the United States of America by Crown, a division of Penguin Random House LLC 2023
 

@@ -10,7 +10,6 @@ tags:
 
 ### **Homage to Catalonia - George Orwell**
 
-## ![](_page_0_Picture_1.jpeg)
 
 George Orwell's famous 1938 account of the Spanish Revolution and Civil War, from his point of view as a volunteer in the POUM militia.
 

@@ -11,7 +11,6 @@ tags:
 
 ## Noam Chomsky
 
-## ![](_page_0_Picture_2.jpeg)
 
 ## **Contents**
 
@@ -40,7 +39,6 @@ Objectivity and Liberal Scholarship | |
 Political Awakenings | |
 ## | 5. Language and Freedom | |
 
-![](_page_2_Picture_0.jpeg)
 
 ## **Anarcho-Curious? or, Anarchist Amnesia**
 
@@ -98,7 +96,6 @@ Meanwhile, the libertarian right might find the wherewithal to detach from its o
 
 Anarchism deserves better than to be a mere curiosity, or a blank slate, or an overlapping consensus among newly minted radicals who have trouble agreeing on anything else. It is better than that. Both the anarcho-curiosity awakened by Occupy and the flourishing of right-wing libertarianism are signs that anarchism is overdue for recognition as a serious intellectual tradition and a real possibility. Noam Chomsky has been treating it that way throughout his career, and more of us should follow suit.
 
-![](_page_8_Picture_0.jpeg)
 
 ## **1. Notes on Anarchism**
 
@@ -1244,7 +1241,6 @@ realize—as I believe we must—how little we have progressed in our knowledge 
 
 ## The Anarchist Library Anti-Copyright
 
-## ![](_page_89_Picture_1.jpeg)
 
 ## Noam Chomsky On Anarchism 2013
 

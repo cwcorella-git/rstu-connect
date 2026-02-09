@@ -10,7 +10,6 @@ tags:
 
 ## AND OTHER ESSAYS
 
-## ![](_page_0_Picture_2.jpeg)
 
 ## JACQUES CAMATTE
 
@@ -2067,11 +2066,9 @@ presuppositions of capital and, |
 
 students, 1 00, 1 05-110 surplus value, 86, 1 82, 1 92-1 93 technology, 67-68n, 93, 1 27, 1 68, 232n Theories of Surplus Value, 144, theory, 27, 28-29, 69-70, 178-179 totality, 55, 216n, 220n Trotsky, Leon, 46n, 61 trotskyism, 37, 104, 116 underconsumption, 83 "underdeveloped" countries, unions, 58, 59, 1 06, 1 06n universalism, 213-21 5, 217n, 219, 23 1 use value, 1 32-1 33n, 1 38-1 39 USSR, 30, 1 29-130, 210, 24 1-242. See also Russia utopias, 1 05n, 132, 1 33, 208n, value, 25, 39, 68n, 83, 147 Vaneigem, Raoul, 1 86n, 244n vegetarianism, 1 67, 235-236 violence, 93, 1 14-1 1 8, 1 65, 1 98, 234n Volksgemeinschaft, 96n, 212n wage labor, 101, 139 wealth, 77, 80 \Veber, Max, 96n, 181 women, 235, 235n, 238 women's liberation movement. See feminism workers' movement, 56, 59, 206 youth, 1 09, 1 28, 1 29
 
-## ![](_page_257_Picture_0.jpeg)
 
 ne has to avoid the proclamation of the dictatorship of a theory to follow the work undertaken, especially when it is the product of the reduction of an immense labor and which can only be by excluding the contribution of a host of people who struggled for human emancipation. We integrate Marx's work (since he especially is concerned) but we do not pose a marxist theory nor our own theory. We affirm a certain theoretical behavior that presupposes a certain appropriation of given theories, of attitudes in society where we live, where people lived. Living is not submission, but reinvention, creation!"
 
-## ![](_page_257_Picture_4.jpeg)
 
 ## **NEW AUTONOMY SERIES**
 

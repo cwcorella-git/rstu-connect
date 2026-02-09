@@ -12,7 +12,6 @@ tags:
 
 ## Haley Florsheim
 
-7–8 minutes
 
 When police officers descended on a construction site in Woburn, Massachusetts, in 2008, they weren't there to respond to an emergency or to investigate a crime. They came to harass civilian flaggers directing traffic. According to a [local](https://www.masslive.com/news/2009/03/mass_to_ramp_up_flagger_progra.html) [journalist who covered the incident,](https://www.masslive.com/news/2009/03/mass_to_ramp_up_flagger_progra.html) they became "so disruptive that the local police were called in to restore order." Massachusetts had just become the last state in the country to allow civilian flaggers to work construction sites—a common practice given that construction details don't require expertise. This new policy was enacted over the vigorous protest of police unions, which had fought hard to keep construction details reserved for police officers.
 
@@ -26,7 +25,6 @@ Civilian flaggers have come up again in the current negotiations over Boston's p
 
 ## ![](_page_1_Figure_5.jpeg)
 
-## ![](_page_2_Picture_2.jpeg)
 
 Screenshot of a tweet from the Boston Police Patrolmen's Association, @Boston Patrolmen.
 

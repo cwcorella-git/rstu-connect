@@ -10,7 +10,6 @@ tags:
 
 ## Ursula Huws
 
-13–17 minutes
 
 ## Blog post
 
@@ -18,7 +17,6 @@ Has the time come for a new wave of decommodification for the twenty-first centu
 
 ## Ursula Huws18 February 2021
 
-## ![](_page_0_Picture_9.jpeg)
 
 Decommodification was a defining feature of the welfare states that were set up in the mid-twentieth century to counter the destructive effects of capitalism. But, since the crisis of the
 

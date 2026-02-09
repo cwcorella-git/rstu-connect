@@ -7,7 +7,6 @@ tags:
   - digital rights
 ---
 
-6–8 minutes
 
 #### [Download Episode Here](http://traffic.libsyn.com/thefinalstrawradio/PODCASTtfsr-FLOWERBFOB-01132019.mp3)
 

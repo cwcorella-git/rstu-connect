@@ -17,7 +17,6 @@ New York Times bestselling author of Capital in the Twenty-First Century
 
 ## TRANSLATED BY WILLARD WOOD
 
-## ![](_page_2_Picture_0.jpeg)
 
 ### **ALSO BY THOMAS PIKETTY**
 
@@ -51,7 +50,6 @@ Time for Socialism: Dispatches from a World on Fire, 2016–2021
 
 ## A Comparative and Historical Perspective
 
-## ![](_page_4_Picture_2.jpeg)
 
 ### THOMAS PIKETTY
 
@@ -95,7 +93,6 @@ LC record available at https://lccn.loc.gov/2024002605 LC ebook record available
 
 ### CONTENTS
 
-## ![](_page_7_Picture_1.jpeg)
 
 ## Also by Thomas Piketty
 
@@ -135,7 +132,6 @@ The Rise of the Welfare State: Education Spending as an Example
 
 ### LIST OF FIGURES
 
-## ![](_page_9_Picture_1.jpeg)
 
 - Fig. 1—Share of income going to the top 10 percent globally, 2022
 - Fig. 2—Share of income going to the bottom 50 percent globally, 2022
@@ -160,7 +156,6 @@ The Rise of the Welfare State: Education Spending as an Example
 
 # ARE THERE NATURALLY OCCURRING INEQUALITIES? THE LONG MARCH TOWARD EQUALITY
 
-## ![](_page_11_Picture_1.jpeg)
 
 Inegalitarian systems—that is, the structure and degree of socioeconomic inequality in different societies, and their evolution over time—are extraordinarily diverse. We can make sense of the phenomenon only if we take into account the central role of history and human culture. Inequality has, in fact, followed markedly different trajectories—political, socioeconomic, cultural, civilizational, and religious. It is culture in the broadest sense—and, more particularly, collective political mobilization—that provides an explanation for the diversity, degree, and structure of the social inequalities we observe. In contrast, the importance of so-called natural factors (personal talents, reserves of natural resources, and other factors of this kind) is relatively limited.
 
@@ -178,7 +173,6 @@ Finally, overarching the diversity of inegalitarian systems and the limited tren
 
 # THE EVOLUTION OF INEQUALITY AND INEGALITARIAN SYSTEMS
 
-## ![](_page_14_Picture_1.jpeg)
 
 The elements I intend to present here come in part from my book *A Brief History of Equality*, first published in France in 2021, and in part from the World Inequality Database (which issued the *World Inequality Report 2022*). This database on global inequality is the product of a collective effort and draws on the work of more than a hundred international researchers. Under its aegis, historical data has been collected that allows us to track changes in the distribution of income and wealth over long periods —sometimes more than three centuries.
 
@@ -190,7 +184,6 @@ I had the good fortune, as I mentioned, to start my career as a researcher in th
 
 ### **INEQUALITY OF INCOME**
 
-## ![](_page_17_Picture_1.jpeg)
 
 Let's start, then, with income. We use a fairly simple metric for this: the share of total income going to the top 10 percent of earners. By definition, in a perfectly egalitarian society that share would equal 10 percent of total income, since those earners represent 10 percent of the population. In a perfectly inegalitarian society, they would take all the income, a share of 100 percent. What actually happens, of course, lies somewhere between the two extremes. As shown in figure 1, the share going to the top 10 percent is lowest in Northern Europe (20 to 30 percent), and highest in South Africa, where that share reaches 70 percent. This should give you a first glimpse of the considerable variation in levels of inequality across the globe.
 
@@ -212,7 +205,6 @@ It would be impossible to account for this variation in inequality on the basis 
 
 ### **INEQUALITY OF WEALTH**
 
-## ![](_page_21_Picture_1.jpeg)
 
 What we've observed for the distribution of income also applies to the distribution of wealth, with one important difference: wealth—meaning property, real estate, and business or financial assets—is always much more concentrated in a small segment of the population than revenue. In the case of revenue, the share going to the richest 10 percent varies from 25 to 70 percent, depending on whether we're looking at Sweden or South Africa. In the case of wealth, the share of the richest 10 percent is between 60 and 90 percent no matter where we look. At the other end of the spectrum, the poorest 50 percent, who received from 5 to 25 percent of income, do not own more than 5 percent of total wealth in any country on earth (fig. 3).
 
@@ -228,7 +220,6 @@ It's important to keep these figures in mind. When drawing up a global picture o
 
 ### **GENDER INEQUALITY**
 
-## ![](_page_24_Picture_1.jpeg)
 
 In developing our methods and sources at the World Inequality Database, we generally aim as much as possible at compiling data that is comparable across different parts of the world. We first looked at income inequality, then wealth inequality; we subsequently developed a fairly simple metric for gender inequality: women's share of total income from work (salaries and income from unsalaried activity). If there were perfect equality, that number should be 50 percent. In actual fact, if you look at studies of the time spent working, which of course includes household work, women always account for more than 50 percent of hours worked. Ideally, their share of total income should therefore be more than 50 percent as well. What we see in practice, however, is that their share falls far below that number (fig. 4). And while there has been some progress (in Europe, for example, women's share of income has increased from 30 to 36 percent in the past few decades, still leaving 64 percent for men), there are countries moving in the opposite direction: China, whose communist legacy originally left women a slightly higher share of total income than in other countries, has been trending lower in recent decades, largely because of the huge increase in very high earnings, which mostly go to men, in China as elsewhere.
 
@@ -244,7 +235,6 @@ In France, approximately 35 percent of total income currently goes to women and 
 
 # AN UNEVEN MARCH TOWARD EQUALITY IN EUROPE
 
-## ![](_page_27_Picture_1.jpeg)
 
 I'd like to return to the question of the historical development of inequality. France is one of the countries for which we have the most reliable historical data on income and, more particularly, on wealth and property ownership. This is owing to the system for recording inheritances and estates established at the time of the French Revolution, which has resulted in inheritance archives with unusually rich data going back to the late eighteenth century (fig. 5 and 6).
 
@@ -288,7 +278,6 @@ The data, in fact, was starting to be put to use even at the time, because the i
 
 ### THE EXAMPLE OF SWEDEN
 
-## ![](_page_35_Picture_1.jpeg)
 
 I'd like to spend a little time now on another interesting case: Sweden, which is today generally considered an extremely egalitarian country. Yet this was not how things stood at the beginning of the twentieth century. All the countries in Europe were extremely inegalitarian, with Sweden intermediate on the spectrum between France and the United Kingdom. But in Sweden's case, the inequality had a very specific structure. With France and the United Kingdom, their colonial empires played a large role: colonial assets, holdings that resided in other parts of the world, were important parts of very large fortunes. This was much less the case in Sweden, obviously, where other factors relating to the political system were the primary contributors to a high degree of inequality.
 
@@ -306,7 +295,6 @@ Sweden's example is interesting, because it shows that a country is never inegal
 
 # THE RISE OF THE WELFARE STATE: EDUCATION SPENDING AS AN EXAMPLE
 
-## ![](_page_38_Picture_1.jpeg)
 
 In Europe, one of the most important factors for understanding the trend toward equality in the twentieth century is the rise of the welfare state. Here again, while the circumstances in different countries varied, the development was quite widely shared throughout Western Europe (the United Kingdom, France, Germany, and Sweden). Until World War I, the state's total levy on national income was less than 10 percent, which it used mostly to maintain order, enforce property rights, pay the police force and courts, and develop capacity for foreign intervention, in keeping with colonial expansion. Expenses other than those used to assert the state's authority were kept to a minimum. After 1918, a movement began that would lead to taxation on a much larger scale, and over the last thirty years, tax receipts for the four European nations mentioned above have remained stable at around 45 percent of national income (fig. 9).
 
@@ -348,7 +336,6 @@ Our current educational system, then, whether we compare it to the colonial era 
 
 ### MAKING RIGHTS MORE EQUAL
 
-## ![](_page_46_Picture_1.jpeg)
 
 For my part, I am trying to develop an approach based on an equal right of access to fundamental goods: education, healthcare, and participation in politics. I have mentioned the example of the right to vote in Sweden, but it obviously doesn't end with equal suffrage: when it comes to funding for political campaigns and the media, we can imagine more egalitarian systems. I'm also very much thinking about all that pertains to economic democracy, that is, equal participation in the decision-making within businesses. I've taken an interest in the system of codetermination or shared management that we see in Germany and Northern Europe, where up to 50 percent of the vote is allotted to representatives of the salaried workers. This is not enough, because when voting is evenly split, the shareholders always get the deciding vote, but all the same it means that if a group owns 10 or 20 percent of the capital, it can tip decisions in its favor, even when a shareholder owning 80 or 90 percent of the capital stands in opposition. This is a significant development, one that arose in Germany and Sweden in the wake of World War II. Shareholders in France, Britain, or the United States would heartily dislike this system.
 
@@ -360,7 +347,6 @@ The orders of magnitude I mentioned strike me as representing acceptable levels 
 
 ### PROGRESSIVE TAXATION
 
-## ![](_page_48_Picture_1.jpeg)
 
 **I'd like** to end by dwelling at some length on two further points that have to do with inequality: the question of progressive taxation on the one hand, and of the destruction of nature on the other.
 
@@ -442,7 +428,6 @@ These were highly charged and volatile situations, and they were only kept stabl
 
 ### WHAT TO DO WITH THE DEBT?
 
-## ![](_page_57_Picture_1.jpeg)
 
 In terms of property interests, these pre-1914 colonial and foreign assets were turned into public debt thirty years later, in 1945. This debt came to 200 or 300 percent of national income, which is to say more than Greece's debt today—except that the debt belonged to the considerably larger economies of Germany, France, and the United Kingdom. The lesson here is that these debts were quickly disposed of, and they were never repaid. Several methods were used to make them disappear, including outright cancellation and inflation, which is not necessarily the optimum course, with Germany and Japan providing the most significant examples (fig. 16).
 
@@ -466,7 +451,6 @@ In the long run, I think that this process of taking goods and services out of t
 
 ### NATURE AND INEQUALITY
 
-## ![](_page_61_Picture_1.jpeg)
 
 I'd like to end this text with an examination of the interplay between nature, culture, and inequality in the context of the destruction of nature, the capital tied up in nature. I'm going to discuss data relating to climate change and carbon emissions; but we could focus on data of equal interest relating to other aspects of man's impact on nature. The important point I'd like to make is that the challenges posed by climate and the environment are intimately linked to inequality.
 
@@ -498,7 +482,6 @@ It's hard to see how else to meet these challenges than by asking those whose ca
 
 ### CONCLUSION
 
-## ![](_page_66_Picture_1.jpeg)
 
 Working from historical data, I find it difficult to predict how the present situation will develop and what form the future will take. But I'll offer two hypotheses all the same.
 
@@ -516,7 +499,6 @@ Second, I hope I've convinced you that the history of inequality is not a long, 
 ### **Lecture Materials:**
 ### CREDITS
 
-## ![](_page_69_Picture_1.jpeg)
 
 ### Figures 1, 2, 3, 4 and 18:
 
@@ -526,7 +508,6 @@ World Inequality Report 2022, edited by Lucas Chancel, Thomas Piketty, Emmanuel 
 
 A Brief History of Inequality, by Thomas Piketty, translated by Steven Rendall, Cambridge, Mass.: The Belknap Press of Harvard University Press, Copyright © 2022 by the President and Fellows of Harvard College. Used by permission. All rights reserved.
 
-## ![](_page_70_Picture_0.jpeg)
 
 **Thomas Piketty** is a professor at the École des Hautes Études en Sciences Sociales (EHESS) and the Paris School of Economics, and codirector of the World Inequality Lab. He is the author of the landmark *New York Times* bestseller *Capital in the Twenty-First Century* (2014), as well as *Capital and Ideology* (2020) and *A Brief History of Equality* (2022).
 

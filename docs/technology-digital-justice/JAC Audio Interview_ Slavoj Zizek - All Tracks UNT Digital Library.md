@@ -6,13 +6,9 @@ tags:
   - digital rights
 ---
 
-## ![](_page_0_Picture_3.jpeg)
-
-## ![](_page_0_Picture_4.jpeg)
 
 ## 00:00 / 2:07:54
 
-## ![](_page_0_Picture_7.jpeg)
 
 ## Track One 2:07:55
 

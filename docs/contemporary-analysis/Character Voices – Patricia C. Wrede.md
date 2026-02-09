@@ -10,9 +10,6 @@ tags:
 
 ## [pcwrede.com](https://pcwrede.com/pcw-wp/character-voices-2/)
 
-6–7 minutes
-
-## ![](_page_0_Picture_5.jpeg)
 
 ## Graphic by Peg Ihinger
 
@@ -53,6 +50,4 @@ The eventual goal is for the writer to pay attention to differences in speech pa
 
 On August 20, 2025 / [Writing](https://pcwrede.com/pcw-wp/category/writing/)
 
-## ![](_page_4_Picture_5.jpeg)
 
-## ![](_page_4_Picture_6.jpeg)

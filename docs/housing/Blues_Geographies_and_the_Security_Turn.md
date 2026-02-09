@@ -8,7 +8,6 @@ tags:
   - Los Angeles
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 ## Jordan T. Camp
 
@@ -16,7 +15,6 @@ American Quarterly, Volume 64, Number 3, September 2012, pp. 543-570 (Article)
 
 Published by The Johns Hopkins University Press DOI: 10.1353/aq.2012.0028
 
-## ![](_page_0_Picture_5.jpeg)
 
 ## For additional information about this article
 
@@ -30,7 +28,6 @@ As I see it, history moves from one conjuncture to another rather than being an 
 
 O n a cordoned-off block stretching between Fifth and Sixth Streets and Gladys in downtown Los Angeles, which on most days houses a soup kitchen, a vacant lot, and a single-room occupancy hotel, Chuck D and Public Enemy performed for free at the Operation Skid Row music festival. The festival, which took place on January 15, 2012, the weekend of Dr. Martin Luther King Jr.'s birthday, was co-organized by Chuck D and the Los Angeles Community Action Network (LA CAN), a housing and human rights organization. Over fifteen hundred people crammed the street to listen to Public Enemy alongside the music of LA hip-hop performers such as Freestyle Fellowship, Medusa, Kid Frost, Yo-Yo, and Egyptian Lover as well as artists from the neighborhood like the Skid Row Playas. Chuck D proclaimed, "This day of action will promote the human right to housing and reinforce the hip hop community's responsibility to social justice causes."1 In the face of threats from the Los Angeles Police Department to shut the festival down, Public Enemy opened with one of their signature songs of defiance, "Shut 'Em Down."2 They did so before an audience of Skid Row residents and community organizers; members of social movement organizations like the Bus Riders Union, Critical Resistance, Food Not Bombs, and INCITE! Women of Color Against Violence; and fans from across the city. This effort to connect the hip-hop generation to the struggle for human rights was significant for its timing and location. During the fifth year of the worst economic crisis since the Great Depression, this festival highlighted the material conditions in Skid Row—an area in downtown Los Angeles where black people are 75 percent of the population and which has the highest concentration of poverty, policing,
 
-## ![](_page_2_Picture_1.jpeg)
 
 **Figure 1.** Chuck D and Public Enemy performing "Fight the Power" at Operation Skid Row Music Festival promoting the human right to housing. Skid Row, Los Angeles, January 15, 2012. Image by Ernest R. Savage III.
 
@@ -38,7 +35,6 @@ and homelessness in the United States.3 More than just a day of entertainment, t
 
 ## Community organizers have taken up a dramatic fight over the meaning of the crisis by calling for the human right to housing in Los Angeles, the "First World capital of homelessness."5 The Operation Skid Row festival was one manifestation of this effort. It gave voice to struggles for housing rights in the historical and geographic context of the gentrification and securitization of Skid Row, by which I mean the routinized militarized policing of racialized space.6 In doing so, it enabled the circulation of what Clyde Woods calls "blues geographies" to explain the sociospatial relationships between poverty, policing, and policies designed to punish the poor and people of color being articulated by grassroots artists and activists themselves.7 The blues represent the material conditions experienced by the working class, and of how they have resisted them.8 Indeed, the poetic visions produced by vernacular artists articulate "truths of working-class African American life."9 In this case Operation Skid Row confronted the truth of the crisis, that "the social formation can no longer be reproduced on the basis of the pre-existing system of social relations."10 This effort to highlight housing struggles in downtown Los Angeles during the crisis of global capitalism shows how expressive culture provides counternarratives to the dominant definitions of events.11
 
-## ![](_page_3_Picture_2.jpeg)
 
 **Figure 2.** Chuck D and Flavor Flav at the Operation Skid Row music festival. Skid Row, Los Angeles, January 15, 2012. Photo by Nicholas Dahmann.
 
@@ -102,7 +98,6 @@ As Gerald Horne's research shows, efforts by civil rights organizers and the mul
 
 In November 1964 Proposition 14 was passed by California voters, which undid the Rumford Fair Housing Act that had sought to restrict racial segregation in housing.105 This was key in fanning the flames among residents, who perceived it as the latest in a long history of efforts to trap them in segregated neighborhoods. Indeed, the "housing question" was a major motivating factor among black workers' engaged in the events of 1965.106 As Daniel Ho Sang puts it, "Persistent housing segregation—and the segregated schools, workplaces, and social settings it produced and naturalized—fueled the fires of Watts."107
 
-## ![](_page_12_Picture_1.jpeg)
 
 ### **Figure 3.** Paul Robeson and the Civil Rights Congress submitting *We Charge Genocide* petition to the United Nations Secretariat, New York, December 17, 1951, *Daily Worker/Daily World* Photographs Collection, Tamiment Library, New York University.
 
@@ -146,7 +141,6 @@ The struggle for the human right to housing provides a democratic program to cha
 
 Through their political campaigns, direct action protests, and community meetings as well as their newspaper *Community Connection* and innovative
 
-## ![](_page_18_Picture_1.jpeg)
 
 **Figure 4.** Deborah Burton, Statement at the United Nations' Universal Periodic Review in Geneva, Switzerland, 2010. Photo by National Economic and Social Rights Initiative (www.nesri.org).
 

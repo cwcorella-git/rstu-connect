@@ -10,11 +10,9 @@ tags:
 
 Reflections on the Role of Armed Struggle in North America
 
-## ![](_page_0_Picture_2.jpeg)
 
 ## with Mike Ryan
 
-## ![](_page_0_Picture_4.jpeg)
 
 Arbeiter Ring Publishing 2-91 Albert Street Winnipeg, Manitoba Canada R3B 1G5 (204) 942-7058 arbeiter@tao.ca http://www.tao.ca/~arbeiter/
 

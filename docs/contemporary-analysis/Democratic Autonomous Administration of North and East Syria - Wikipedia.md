@@ -8,7 +8,6 @@ tags:
   - democracy
 ---
 
-## ![](_page_0_Picture_2.jpeg)
 
 The **Democratic Autonomous Administration of North and East Syria** (**DAANES**), also known as **Rojava**, [\[c\]](#page-28-2) is a *de facto* [autonomous region](https://en.wikipedia.org/wiki/Autonomous_administrative_division) in northeastern [Syria.](https://en.wikipedia.org/wiki/Syria)[\[16\]](#page-30-1)[\[17\]](#page-31-0) It consists of self-governing [sub-regions](https://en.wikipedia.org/wiki/Regions_of_North_and_East_Syria) in the areas of [Jazira,](https://en.wikipedia.org/wiki/Jazira_Region) [Euphrates,](https://en.wikipedia.org/wiki/Euphrates_Region) [Raqqa,](https://en.wikipedia.org/wiki/Raqqa) [Tabqa,](https://en.wikipedia.org/wiki/Al-Thawrah) and [Deir ez-Zor.](https://en.wikipedia.org/wiki/Deir_ez-Zor_Governorate)[\[18\]](#page-31-1)[\[19\]](#page-31-2) [\[20\]](#page-31-3) The region gained its *[de facto](https://en.wikipedia.org/wiki/De_facto)* autonomy in 2012 in the context of the ongoing [Rojava con](https://en.wikipedia.org/wiki/Rojava_conflict)flict and the wider [Syrian civil war,](https://en.wikipedia.org/wiki/Syrian_civil_war) in which its official military force, the [Syrian Democratic Forces](https://en.wikipedia.org/wiki/Syrian_Democratic_Forces) (SDF), has taken part.[\[21\]](#page-31-4)[\[22\]](#page-31-5)
 
@@ -82,13 +81,11 @@ December 2023, the region adopted a new [constitution,](https://en.wikipedia.org
 
 #### **Background**
 
-## ![](_page_2_Picture_2.jpeg)
 
 Having been part of the [Fertile](https://en.wikipedia.org/wiki/Fertile_Crescent) [Crescent,](https://en.wikipedia.org/wiki/Fertile_Crescent) Northern Syria has several Neolithic sites such as [Tell Halaf.](https://en.wikipedia.org/wiki/Tell_Halaf)
 
 Northern Syria is part of the [Fertile](https://en.wikipedia.org/wiki/Fertile_Crescent) [Crescent,](https://en.wikipedia.org/wiki/Fertile_Crescent) and includes archaeological sites dating to the Neolithic, such as [Tell Halaf.](https://en.wikipedia.org/wiki/Tell_Halaf) In antiquity, the area was part of the [Mitanni](https://en.wikipedia.org/wiki/Mitanni) kingdom, its centre being the Khabur river valley
 
-## ![](_page_2_Picture_5.jpeg)
 
 Ruins of the "Red House" of the Assyrian site [Dur-Katlimmu](https://en.wikipedia.org/wiki/Dur-Katlimmu) exposed by excavations (6th century AD)
 
@@ -102,7 +99,6 @@ During the [Ottoman Empire](https://en.wikipedia.org/wiki/Ottoman_Empire) (1516�
 
 Following [Syria's independence,](https://en.wikipedia.org/wiki/First_Syrian_Republic) policies of [Arab nationalism](https://en.wikipedia.org/wiki/Arab_nationalism) and attempts at forced [Arabization](https://en.wikipedia.org/wiki/Arabization) became widespread in the country's north, to a large part directed against the Kurdish population[.\[79\]](#page-36-5)[\[80\]](#page-36-6) The region received little investment or development from the central government and laws discriminated against Kurds owning property, driving cars, working in certain professions and forming political parties.[\[81\]](#page-36-7) Property was routinely confiscated by government loansharks. After the [Ba'ath Party](https://en.wikipedia.org/wiki/Ba%27ath_Party) seized power in the [1963 Syrian coup d'état,](https://en.wikipedia.org/wiki/1963_Syrian_coup_d%27%C3%A9tat) non-Arab languages were forbidden at Syrian public schools. This compromised the education of students belonging to minorities like Kurds, Turkmen, and Assyrians.[\[82\]](#page-36-8)[\[83\]](#page-36-9) Some groups like Armenians, Circassians, and Assyrians were able to compensate by establishing private schools, but Kurdish private schools were also banned. [\[80\]](#page-36-6)[\[84\]](#page-36-10) Northern Syrian hospitals lacked equipment for advanced treatment and instead patients had to be transferred outside the region. Numerous place names were arabized in the 1960s and 1970s.[\[83\]](#page-36-9) In his report for the 12th session of the UN [Human Rights Council](https://en.wikipedia.org/wiki/Human_Rights_Council) titled *Persecution and Discrimination against Kurdish Citizens in Syria*, the [United Nations High](https://en.wikipedia.org/wiki/Office_of_the_United_Nations_High_Commissioner_for_Human_Rights) [Commissioner for Human Rights](https://en.wikipedia.org/wiki/Office_of_the_United_Nations_High_Commissioner_for_Human_Rights) held that "Successive Syrian governments
 
-## ![](_page_3_Picture_4.jpeg)
 
 The [Ba'athist government](https://en.wikipedia.org/wiki/Ba%27athist_Syria) [of Syria](https://en.wikipedia.org/wiki/Ba%27athist_Syria) under [Hafez al-](https://en.wikipedia.org/wiki/Hafez_al-Assad)[Assad](https://en.wikipedia.org/wiki/Hafez_al-Assad) (pictured c. 1987) implemented [Arabization](https://en.wikipedia.org/wiki/Arabization) policies in northern Syria.
 
@@ -110,7 +106,6 @@ continued to adopt a policy of ethnic discrimination and national persecution ag
 
 In many instances, the Syrian government arbitrarily deprived ethnic Kurdish citizens of their citizenship. The largest such instance was a consequence of a census in 1962, which was conducted for exactly this purpose. 120,000 ethnic Kurdish citizens saw their citizenship arbitrarily taken away and became [stateless.](https://en.wikipedia.org/wiki/Statelessness)[\[80\]](#page-36-6)[\[86\]](#page-37-1)[\[87\]](#page-37-2) This status was passed to the children of a "stateless" Kurdish father[.\[80\]](#page-36-6) In 2010, the [Human Rights Watch](https://en.wikipedia.org/wiki/Human_Rights_Watch) (HRW) estimated the number of such "stateless" Kurdish people in Syria at 300,000[.\[88\]](#page-37-3)[\[89\]](#page-37-4) In 1973, the Syrian authorities confiscated 750 square kilometres (290 square miles) of fertile agricultural land in [Al-Hasakah Governorate,](https://en.wikipedia.org/wiki/Al-Hasakah_Governorate) which was owned and cultivated by tens of thousands of Kurdish citizens, and gave
 
-## ![](_page_3_Picture_8.jpeg)
 
 Kurds celebrating [Newroz](https://en.wikipedia.org/wiki/Newroz) in Girê Tertebê, near Qamishli, in 1997
 
@@ -128,7 +123,6 @@ In 2011, a [civil uprising](https://en.wikipedia.org/wiki/Syrian_revolution#Civi
 
 Existing underground Kurdish political parties, namely the PYD and the [Kurdish National Council](https://en.wikipedia.org/wiki/Kurdish_National_Council) (KNC), joined to form the [Kurdish Supreme Committee](https://en.wikipedia.org/wiki/Kurdish_Supreme_Committee) (KSC). The People's Protection Units (YPG) militia was reestablished to defend Kurdish-inhabited areas in northern Syria. In July 2012, the YPG established control in the towns of [Kobanî,](https://en.wikipedia.org/wiki/Koban%C3%AE) [Amuda](https://en.wikipedia.org/wiki/Amuda) and [Afrin,](https://en.wikipedia.org/wiki/Afrin,_Syria) and the Kurdish Supreme Committee established a joint leadership council to administer the towns. Soon YPG also gained control of the cities of [Al-Malikiyah,](https://en.wikipedia.org/wiki/Al-Malikiyah) [Ras al-Ayn,](https://en.wikipedia.org/wiki/Ras_al-Ayn) [al-](https://en.wikipedia.org/wiki/Al-Darbasiyah)[Darbasiyah,](https://en.wikipedia.org/wiki/Al-Darbasiyah) and [al-Muabbada](https://en.wikipedia.org/wiki/Al-Muabbada) and parts of [Hasakah](https://en.wikipedia.org/wiki/Al-Hasakah) and [Qamishli.](https://en.wikipedia.org/wiki/Qamishli)[\[100\]](#page-38-0)[\[101\]](#page-38-1)[\[102\]](#page-38-2) Doing so, the YPG and its female wing, the [Women's Protection Units](https://en.wikipedia.org/wiki/Women%27s_Protection_Units) (YPJ), mostly battled factions of the [Free Syrian Army,](https://en.wikipedia.org/wiki/Free_Syrian_Army) and Islamist militias like the [al-Nusra](https://en.wikipedia.org/wiki/Al-Nusra_Front) [Front](https://en.wikipedia.org/wiki/Al-Nusra_Front) and [Jabhat Ghuraba al-Sham.](https://en.wikipedia.org/wiki/Jabhat_Ghuraba_al-Sham) It also eclipsed rival Kurdish
 
-## ![](_page_5_Picture_3.jpeg)
 
 Kurds, Assyrians, and Arabs demonstrate against the [Syrian](https://en.wikipedia.org/wiki/Ba%27athist_Syria) [government](https://en.wikipedia.org/wiki/Ba%27athist_Syria) in [Qamishli,](https://en.wikipedia.org/wiki/Qamishli) 6 January 2012
 
@@ -140,7 +134,6 @@ Map of the changing territory controlled by the region in February 2014, June 20
 
 Following a deadly PYD repression of opposition demonstrations in Amuda, the Kurdish National Council withdrew from the Kurdish Supreme Committee. Unopposed, the PYD's political coalition, [Movement for a](https://en.wikipedia.org/wiki/Movement_for_a_Democratic_Society) [Democratic Society](https://en.wikipedia.org/wiki/Movement_for_a_Democratic_Society) (TEV-DEM), controlled the Kurdish Supreme Committee until the latter was dissolved by the cantonal Democratic Autonomous Administration[.\[105\]](#page-38-5) On 19 July 2013, the PYD announced that it had written a constitution for an "autonomous Syrian Kurdish region", and planned to hold referendum to approve the constitution in October 2013. Qamishli served as first *de facto* capital of the PYD-led governing body,[\[12\]](#page-30-10) which was official called the "Interim Transitional Administration". [\[13\]](#page-30-2) The announcement was widely denounced by both moderate as well as Islamist factions of the Syrian opposition.[\[12\]](#page-30-10) In January 2014, three areas declared their autonomy as cantons (later [Afrin](https://en.wikipedia.org/wiki/Afrin_Region) [Region,](https://en.wikipedia.org/wiki/Afrin_Region) [Jazira Region](https://en.wikipedia.org/wiki/Jazira_Region) and [Euphrates Region\)](https://en.wikipedia.org/wiki/Euphrates_Region) and an interim [constitution](https://en.wikipedia.org/wiki/Constitution_of_North_and_East_Syria) (also known as *social contract*) was approved[.\[106\]](#page-38-6) The Syrian opposition and the Kurdish parties belonging to the KNC condemned this move, regarding the canton system as illegal, authoritarian, and supportive of the Syrian government.[\[42\]](#page-33-4) The PYD countered that the constitution was open to review and
 
-## ![](_page_6_Picture_3.jpeg)
 
 Military situation in December 2015, the SDF would be successful in pushing ISIS out of northern Syria amendment, and that the KNC had been consulted on its drafting beforehand[.\[107\]](#page-38-7) From September 2014 to spring 2015, the YPG forces in Kobanî Canton, supported by some Free Syrian Army militias and leftist international and [Kurdistan Workers' Party](https://en.wikipedia.org/wiki/Kurdistan_Workers%27_Party) (PKK) volunteers, fought and finally repelled an assault by the [Islamic State of Iraq and the Levant](https://en.wikipedia.org/wiki/Islamic_State_of_Iraq_and_the_Levant) (ISIL) during the [Siege of Kobanî,](https://en.wikipedia.org/wiki/Siege_of_Koban%C3%AE)[\[108\]](#page-38-8) and in the YPG's [Tell Abyad](https://en.wikipedia.org/wiki/Tell_Abyad_offensive) off[ensive](https://en.wikipedia.org/wiki/Tell_Abyad_offensive) of summer of 2015, the regions of Jazira and Kobanî were connected.[\[109\]](#page-38-9)
 
@@ -148,7 +141,6 @@ After the YPG victory over ISIL in Kobanî in March 2015, an alliance between YP
 
 In March 2016, [Hediya Yousef](https://en.wikipedia.org/wiki/Hediya_Yousef) and [Mansur Selum](https://en.wikipedia.org/wiki/Mansur_Selum) were elected cochairpersons for the executive committee to organise a constitution for the region, to replace the 2014 constitution[.\[8\]](#page-30-5) Yousef said the decision to set up a federal government was in large part driven by the expansion of territories captured from Islamic State: "Now, after the liberation of many areas, it requires us to go to a wider and more comprehensive system that can embrace all the developments in the area, that will also
 
-## ![](_page_6_Picture_8.jpeg)
 
 A [YPJ](https://en.wikipedia.org/wiki/Women%27s_Protection_Units) fighter, November 2014
 
@@ -158,7 +150,6 @@ give rights to all the groups to represent themselves and to form their own admi
 
 Since 2012, when the first YPG pockets appeared, Turkey had been alarmed by the presence of PKK-related forces at its southern border and grew concerned when the YPG entered into an alliance with the US to oppose ISIS forces in the region.[\[116\]](#page-39-4) The Turkish government refused to allow aid to be sent to the YPG during the Siege of Kobanî. This led to the [Kurdish riots,](https://en.wikipedia.org/wiki/2014_Kurdish_riots_in_Turkey) the breakdown of the [2013–2015 peace process](https://en.wikipedia.org/wiki/Kurdish%E2%80%93Turkish_peace_process) in July 2015 and the renewal of [armed con](https://en.wikipedia.org/wiki/Kurdish%E2%80%93Turkish_conflict_(2015%E2%80%93present))flict between the PKK and Turkish forces. According to the Turkish pro-government newspaper *Daily Sabah,* the YPG's parent organisation, the PYD, provided the PKK with militants, explosives, arms and ammunition.[\[117\]](#page-39-5)
 
-## ![](_page_7_Picture_5.jpeg)
 
 A [YPG](https://en.wikipedia.org/wiki/People%27s_Defense_Units) sniper in defense of Northern Syria from Turkey, [Afrin](https://en.wikipedia.org/wiki/Afrin_District)
 
@@ -168,7 +159,6 @@ In early 2018, Turkey launched [Operation Olive Branch](https://en.wikipedia.org
 
 In 2019, Turkey launched [Operation Peace Spring](https://en.wikipedia.org/wiki/2019_Turkish_offensive_into_north-eastern_Syria) against the SDF. On 9 October, the [Turkish Air Force](https://en.wikipedia.org/wiki/Turkish_Air_Force) launched airstrikes on border towns.[\[122\]](#page-40-2) On 6 October [President of the United States](https://en.wikipedia.org/wiki/President_of_the_United_States) [Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump) had ordered United States troops to withdraw from northeastern Syria where they had been [providing support](https://en.wikipedia.org/wiki/US_intervention_in_the_Syrian_civil_war) to the SDF[.\[123\]](#page-40-3) Journalists called the withdrawal "a serious betrayal to the Kurds" and "a catastrophic blow to US credibility as an ally and Washington's standing on the world stage"; one journalist stated that "this was one of the worst US foreign policy disasters since the [Iraq War"](https://en.wikipedia.org/wiki/Iraq_War).[\[124\]](#page-40-4)[\[125\]](#page-40-5)[\[126\]](#page-40-6)[\[127\]](#page-40-7) Turkish and Turkish-backed Syrian rebel forces captured 68 settlements, including [Ras al-Ayn,](https://en.wikipedia.org/wiki/Ras_al-Ayn) [Tell Abyad,](https://en.wikipedia.org/wiki/Tell_Abyad) [Suluk,](https://en.wikipedia.org/wiki/Suluk,_Syria) [Mabrouka](https://en.wikipedia.org/wiki/Mabrouka) and [Manajir](https://en.wikipedia.org/wiki/Al-Manajir) during the 9-day operation before a 120-hour ceasefire was
 
-## ![](_page_7_Picture_10.jpeg)
 
 [Ras al-Ayn](https://en.wikipedia.org/wiki/Ras_al-Ayn) shelling during the [2019](https://en.wikipedia.org/wiki/2019_Turkish_offensive_into_north-eastern_Syria) Turkish off[ensive into north-eastern](https://en.wikipedia.org/wiki/2019_Turkish_offensive_into_north-eastern_Syria) [Syria.](https://en.wikipedia.org/wiki/2019_Turkish_offensive_into_north-eastern_Syria)
 
@@ -198,7 +188,6 @@ The political system of the region is based on its adopted constitution, officia
 
 The former diplomat [Carne Ross](https://en.wikipedia.org/wiki/Carne_Ross) observed in September 2015 in *[The New York Times](https://en.wikipedia.org/wiki/The_New_York_Times)*: [\[153\]](#page-43-3)
 
-## ![](_page_9_Picture_5.jpeg)
 
 Location in the Syrian civil war, prior to [the late 2024 o](https://en.wikipedia.org/wiki/2024_Syrian_opposition_offensives)ffensives
 
@@ -208,7 +197,6 @@ However, a 2016 paper from [Chatham House](https://en.wikipedia.org/wiki/Chatham
 
 Besides the parties represented in TEV-DEM and the KNC, several other political groups operate in northern Syria. Several of these, such as the [Kurdish National Alliance in Syria,](https://en.wikipedia.org/wiki/Kurdish_National_Alliance_in_Syria)[\[179\]](#page-46-2)[\[180\]](#page-46-3) the [Democratic Conservative](https://en.wikipedia.org/wiki/Democratic_Conservative_Party_(Syria)) [Party,](https://en.wikipedia.org/wiki/Democratic_Conservative_Party_(Syria))[\[181\]](#page-46-4) the [Assyrian Democratic Party](https://en.wikipedia.org/wiki/Assyrian_Democratic_Party_(Syria))[,\[182\]](#page-46-5) and others actively participate in governing the region.
 
-## ![](_page_9_Picture_10.jpeg)
 
 YPJ members in a [greenhouse](https://en.wikipedia.org/wiki/Greenhouse) farm, for [ecological](https://en.wikipedia.org/wiki/Ecological) cooperative farming
 
@@ -222,7 +210,6 @@ Qamishli initially served as the *de facto* capital of the administration,[\[12\
 
 Article 8 of the 2014 constitution stipulates that "All Cantons in the autonomous regions are founded on the principle of local self-government. Cantons may freely elect their representatives and representative bodies, and may pursue their rights insofar as it does not contravene the articles of the Charter."[\[174\]](#page-45-3) The cantons were later reorganized into regions with subordinate cantons/provinces, areas, districts and communes. On 6 September 2018, during a meeting of the [Syrian Democratic](https://en.wikipedia.org/wiki/Syrian_Democratic_Council) [Council](https://en.wikipedia.org/wiki/Syrian_Democratic_Council) in [Ayn Issa,](https://en.wikipedia.org/wiki/Ayn_Issa) a new name for the region was adopted, the "Autonomous Administration of North and East Syria", encompassing the Euphrates, Afrin, and Jazira regions as well as the local civil councils in the regions of Raqqa, Manbij, Tabqa, and Deir ez-Zor. During the meeting, a 70-member "General Council for the Autonomous Administration of North and East Syria" was formed.[\[52\]](#page-34-5)[\[4\]](#page-29-0)[\[53\]](#page-34-6)
 
-## ![](_page_10_Picture_6.jpeg)
 
 Regions of the Democratic Autonomous Administration of North and East Syria
 
@@ -290,7 +277,6 @@ Syriac) | | N/A |
 
 In December 2015, during a meeting of the region's representatives in [Al-](https://en.wikipedia.org/wiki/Al-Malikiyah)[Malikiyah,](https://en.wikipedia.org/wiki/Al-Malikiyah) the [Syrian Democratic Council](https://en.wikipedia.org/wiki/Syrian_Democratic_Council) (SDC) was established to serve as the political representative of the [Syrian Democratic Forces.](https://en.wikipedia.org/wiki/Syrian_Democratic_Forces)[\[191\]](#page-47-6) The co-leaders selected to lead the SDC at its founding were prominent human rights activist [Haytham Manna](https://en.wikipedia.org/wiki/Haytham_Manna) and [TEV-DEM](https://en.wikipedia.org/wiki/TEV-DEM) Executive Board member Îlham Ehmed.[\[192\]](#page-47-7)[\[193\]](#page-47-8) The SDC appoints an Executive Council which deal with the economy, agriculture, natural resources, and foreign affairs[.\[194\]](#page-48-0) General elections were planned for 2014 and 2018[,\[194\]](#page-48-0) but this was postponed due to fighting.
 
-## ![](_page_11_Picture_5.jpeg)
 
 ## Seal of the Syrian Democratic Council
 
@@ -320,11 +306,9 @@ Under the rule of the [Ba'ath Party,](https://en.wikipedia.org/wiki/Arab_Sociali
 
 In August 2016, the Ourhi Centre was founded by the Assyrian community in the city of Qamishli, to educate teachers in order to make [Syriac-Aramaic](https://en.wikipedia.org/wiki/Syriac_language) an additional language in public schools in Jazira Region,[\[211\]](#page-50-0) which then started in the 2016/17 academic year.[\[207\]](#page-49-6) According to the region's Education Committee, in 2016/2017 "three curriculums have replaced the old one, to include teaching in three languages: Kurdish, Arabic and Syriac."[\[212\]](#page-50-1) In August 2017 Galenos Yousef Issa of the Ourhi Centre announced that the Syriac curriculum would be expanded to grade 6, which earlier had been limited to grade 3, with teachers being assigned to Syriac schools in [Al-Hasakah,](https://en.wikipedia.org/wiki/Al-Hasakah) [Al-](https://en.wikipedia.org/wiki/Al-Qahtaniyah,_al-Hasakah_Governorate)[Qahtaniyah](https://en.wikipedia.org/wiki/Al-Qahtaniyah,_al-Hasakah_Governorate) and [Al-Malikiyah.](https://en.wikipedia.org/wiki/Al-Malikiyah)[\[213\]](#page-50-2)[\[214\]](#page-50-3) At the start of the academic year 2018–2019, the curricula in Kurdish and Arabic had been expanded to grades 1–12 and Syriac to grades 1–9. ["Jineology"](https://en.wikipedia.org/wiki/Jineology) classes had also been introduced[.\[215\]](#page-50-4) In general,
 
-## ![](_page_12_Picture_10.jpeg)
 
 ## Theater center in Rojava in Kobani 2014
 
-## ![](_page_12_Picture_12.jpeg)
 
 High school students in Tev-Cand in a classroom, dancing during a class on Syrian culture schools are encouraged to teach the administration's "uptopian doctrine" which promotes diversity, democracy, and the ideas of [Abdullah Öcalan.](https://en.wikipedia.org/wiki/Abdullah_%C3%96calan)[\[150\]](#page-43-1)[\[216\]](#page-50-5) Local reactions to the changes to the school system and curriculum were mixed. While many praised the new system because it encouraged tolerance and allowed Kurds and other minorities to be taught in their own languages,[\[150\]](#page-43-1) others have criticised it as *de facto* compulsory indoctrination[.\[217\]](#page-50-6)
 
@@ -350,7 +334,6 @@ While there was no institution of tertiary education on the territory of the reg
 
 Incorporating the [Universal Declaration of Human Rights,](https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights) the [International Covenant on Civil and Political Rights,](https://en.wikipedia.org/wiki/International_Covenant_on_Civil_and_Political_Rights) the [International Covenant on Economic, Social and Cultural Rights,](https://en.wikipedia.org/wiki/International_Covenant_on_Economic,_Social_and_Cultural_Rights) as well as other internationally recognized human rights conventions, the 2014 [Constitution of North and East Syria](https://en.wikipedia.org/wiki/Constitution_of_North_and_East_Syria) guarantees [freedom of speech](https://en.wikipedia.org/wiki/Freedom_of_speech) and [freedom of the press.](https://en.wikipedia.org/wiki/Freedom_of_the_press) As a result, a diverse media landscape has developed in the region, [\[232\]](#page-52-2)[\[233\]](#page-52-3) in each of the [Kurdish,](https://en.wikipedia.org/wiki/Kurdish_languages) [Arabic,](https://en.wikipedia.org/wiki/Arabic) [Syriac-Aramaic](https://en.wikipedia.org/wiki/Eastern_Aramaic_languages) and [Turkish](https://en.wikipedia.org/wiki/Turkish_language) languages of the land, as well as in English, and media outlets frequently use more than one language. Among the most prominent media in the region are [Hawar News Agency](https://en.wikipedia.org/wiki/Hawar_News_Agency) and [ARA News](https://en.wikipedia.org/wiki/ARA_News) agencies and websites as well as TV outlets Rojava
 
-## ![](_page_14_Picture_6.jpeg)
 
 ## Public performance
 
@@ -366,7 +349,6 @@ After the establishment of the de facto autonomous region, the Center of Art and
 
 The Jazira Region is a major wheat and cotton producer and has a considerable oil industry. The Euphrates Region suffered most destruction of the three regions and has huge challenges in reconstruction, and has recently seen some [greenhouse](https://en.wikipedia.org/wiki/Greenhouse) agriculture construction. [Price controls](https://en.wikipedia.org/wiki/Price_controls) are managed by local
 
-## ![](_page_15_Picture_5.jpeg)
 
 Children learning to play [instruments](https://en.wikipedia.org/wiki/Musical_instrument) and arts committees, which can set the price of basic goods such as food and medical goods.[\[246\]](#page-53-4)
 
@@ -376,7 +358,6 @@ At first, there were no [direct](https://en.wikipedia.org/wiki/Direct_tax) or [i
 
 The main sources of revenue for the autonomous region have been presented as: 1. Public properties such as grain silos and oil and gas in the Jazira Region, 2. Local taxation and customs fees
 
-## ![](_page_15_Picture_11.jpeg)
 
 Sustainable [micro-irrigation](https://en.wikipedia.org/wiki/Micro-irrigation) system in Syria created by the DAANES in southern [Afrin.](https://en.wikipedia.org/wiki/Afrin_Region)
 
@@ -388,7 +369,6 @@ Oil and food production is substantial[,\[194\]](#page-48-0) so they are importa
 
 The [Semalka Border Crossing](https://en.wikipedia.org/wiki/Semalka_Border_Crossing) with [Iraqi Kurdistan](https://en.wikipedia.org/wiki/Iraqi_Kurdistan) had been intermittently closed by the [Kurdistan Regional Government](https://en.wikipedia.org/wiki/Government_of_the_Kurdistan_Region) (KRG), but has been open permanently since June 2016,[\[263\]](#page-55-5)[\[264\]](#page-55-6) and along with the establishment of a corridor to Syrian government controlled territory in April 2017[,\[265\]](#page-55-7) economic exchange has increasingly normalized. Further, in May 2017 in northern Iraq, the [Popular Mobilization Forces](https://en.wikipedia.org/wiki/Popular_Mobilization_Forces) fighting ISIL
 
-## ![](_page_16_Picture_6.jpeg)
 
 [Border crossing](https://en.wikipedia.org/wiki/Border_crossing) at [Semalka](https://en.wikipedia.org/wiki/Semalka_Border_Crossing) between [Iraqi Kurdistan government](https://en.wikipedia.org/wiki/Iraqi_Kurdistan_government) and DAANES on the [Tigris](https://en.wikipedia.org/wiki/Tigris) river.
 
@@ -398,7 +378,6 @@ cleared a corridor connecting the autonomous region and Iraqi government-control
 
 The autonomous region is ruled by a coalition which have been described as pursuing a model of economy that blends cooperative and private enterprise.[\[269\]](#page-56-2) In 2012, the PYD launched what it called the "Social Economy Plan", later renamed the "People's Economy Plan" (PEP).[\[270\]](#page-56-3) [Private property](https://en.wikipedia.org/wiki/Private_property) and entrepreneurship are protected under the principle of "ownership by use". Dr. Dara Kurdaxi, a regional official, has stated: "The method in Rojava is not so much against private property, but rather has the goal of putting private property in the service of all the peoples who live in Rojava."[\[271\]](#page-56-4) Communes and cooperatives have been established to provide essentials[.\[272\]](#page-56-5) Cooperatives account for a large proportion of agricultural production and are active in construction, factories, energy production, livestock, pistachio and roasted seeds, and public
 
-## ![](_page_16_Picture_11.jpeg)
 
 The autonomous administration is supporting efforts for workers to form cooperatives, such as this sewing cooperative in Derik.
 
@@ -412,7 +391,6 @@ Syrian civil laws are valid in the region if they do not conflict with the Const
 
 A new criminal justice approach was implemented that emphasizes [restoration](https://en.wikipedia.org/wiki/Restorative_justice) over retribution.[\[281\]](#page-57-5) The death penalty was abolished.[\[282\]](#page-57-6) Prisons house mostly people charged with terrorist activity related to ISIL and other extremist groups[.\[283\]](#page-57-7)
 
-## ![](_page_17_Picture_7.jpeg)
 
 [SDF-](https://en.wikipedia.org/wiki/Syrian_Democratic_Forces)controlled territory (green) and [Turkish-occupied territory](https://en.wikipedia.org/wiki/Turkish_occupation_of_northern_Syria) (red) in October 2019
 
@@ -426,7 +404,6 @@ Policing in the region is performed by the [Asayish](https://en.wikipedia.org/wi
 
 Throughout the region, the municipal Civilian Defense Forces (HPC[\)\[287\]](#page-58-1) and the regional [Self-Defense Forces](https://en.wikipedia.org/wiki/Self-Defense_Forces_(NES_regions)) (HXP[\)\[288\]](#page-58-2) also serve local-level security. In Jazira Region, the Asayish are further complemented by the Assyrian [Sutoro](https://en.wikipedia.org/wiki/Sutoro) police force, which is organized in every area with Assyrian population, provides security and solutions to social problems in collaboration with other Asayish units[.\[286\]](#page-58-0) The [Khabour Guards](https://en.wikipedia.org/wiki/Khabour_Guards) and [Nattoreh,](https://en.wikipedia.org/wiki/Nattoreh)
 
-## ![](_page_18_Picture_4.jpeg)
 
 Members of the [Raqqa Internal](https://en.wikipedia.org/wiki/Raqqa_Internal_Security_Forces) [Security Forces](https://en.wikipedia.org/wiki/Raqqa_Internal_Security_Forces) (RISF) in [Ayn Issa.](https://en.wikipedia.org/wiki/Ayn_Issa)
 
@@ -434,13 +411,11 @@ though not police units, also have a presence in the area, providing security in
 
 #### **Militias**
 
-## ![](_page_18_Picture_8.jpeg)
 
 HXP militiamen on parade in 2016.
 
 the [Al-Bab Military Council](https://en.wikipedia.org/wiki/Al-Bab_Military_Council) or the [Jarablus Military Council.](https://en.wikipedia.org/wiki/Jarablus_Military_Council)
 
-## ![](_page_18_Picture_10.jpeg)
 
 Female fighters of the [YPJ](https://en.wikipedia.org/wiki/Women%27s_Protection_Units) play a significant combat role in the region.
 
@@ -456,11 +431,9 @@ The region's civil government has been hailed in international media for human r
 
 Some persistent issues in the region concern [ethnic minority](https://en.wikipedia.org/wiki/Human_rights_in_North_and_East_Syria#Ethnic_minority_rights) [rights.](https://en.wikipedia.org/wiki/Human_rights_in_North_and_East_Syria#Ethnic_minority_rights) One issue of contention is the consequence of [Baathist](https://en.wikipedia.org/wiki/Human_rights_in_the_DAANES#Confiscation_of_Kurdish_land_and_settlement_by_Arabs) [Syrian government's expropriation](https://en.wikipedia.org/wiki/Human_rights_in_the_DAANES#Confiscation_of_Kurdish_land_and_settlement_by_Arabs) of land from Kurdish owners and settling of tribal Arabs there in 1973 and 2007[.\[85\]](#page-37-0)[\[80\]](#page-36-6)[\[84\]](#page-36-10)
 
-## ![](_page_19_Picture_5.jpeg)
 
 Satellite images of the village of [Husseiniya](https://en.wikipedia.org/w/index.php?title=Husseiniya,_Syria&action=edit&redlink=1) in 2014 and 2015, reportedly leveled by the YPG.
 
-## ![](_page_19_Picture_7.jpeg)
 
 SDF [Yazidis](https://en.wikipedia.org/wiki/Yazidis) praying in a Yazidi temple, with a mural of the holy [Melek Taus,](https://en.wikipedia.org/wiki/Melek_Taus) in DAANES following the expulsion of [ISIS](https://en.wikipedia.org/wiki/ISIS)
 
@@ -472,7 +445,6 @@ During the ongoing Syrian Civil War, organizations such as the Turkish governmen
 
 The demographics of the region have historically been highly diverse, with several major shifts in regard to which groups form majorities or minorities in the last centuries[.\[p\]](#page-29-8) The [Al-Hasakah](https://en.wikipedia.org/wiki/Al-Hasakah_Governorate) [Governorate](https://en.wikipedia.org/wiki/Al-Hasakah_Governorate) historically been the domain of nomad and sedentary Arabs.[\[318\]](#page-61-4) Most of the Kurdish population in the area have immigrated from Turkey during the 20th century.[\[319\]](#page-61-5) One major shift in modern times was in the early part of the 20th century due to the [Assyrian](https://en.wikipedia.org/wiki/Assyrian_genocide) and [Armenian genocides,](https://en.wikipedia.org/wiki/Armenian_genocide) when many Assyrians and Armenians fled to Syria from Turkey. In the 1920s after the failed [Kurdish rebellions](https://en.wikipedia.org/wiki/Kurdish_rebellions) in [Kemalist Turkey,](https://en.wikipedia.org/wiki/Single-party_period_of_the_Republic_of_Turkey) there was a large influx of Kurds to Syria's northeast, called "Jazira province" at the time. It is estimated that 25,000 Kurds fled at this time to Syria, under [French Mandate authorities,](https://en.wikipedia.org/wiki/French_Mandate_for_Syria_and_the_Lebanon) who encouraged their immigration,[\[320\]](#page-62-0) and granted them Syrian citizenship.[\[321\]](#page-62-1) Consequently, the French official reports show the existence of at most 45 Kurdish villages in Jazira prior to
 
-## ![](_page_20_Picture_4.jpeg)
 
 A [YPJ](https://en.wikipedia.org/wiki/YPJ) member next to a large [reservoir](https://en.wikipedia.org/wiki/Reservoir) in Northern Syria
 
@@ -493,7 +465,6 @@ Two ethnic groups have a significant presence in certain regions of Northern Syr
 
 ▪ **[Assyrians](https://en.wikipedia.org/wiki/Assyrian_people)** are an [ethnic group.](https://en.wikipedia.org/wiki/Ethnic_group)[\[344\]](#page-64-3) Their presence in Syria is in the [Jazira Region](https://en.wikipedia.org/wiki/Jazira_Region) of the autonomous region, particularly in the urban areas [\(Qamishli,](https://en.wikipedia.org/wiki/Qamishli) [al-Hasakah,](https://en.wikipedia.org/wiki/Al-Hasakah) [Ras al-Ayn,](https://en.wikipedia.org/wiki/Ras_al-Ayn) [Al-](https://en.wikipedia.org/wiki/Al-Malikiyah)[Malikiyah,](https://en.wikipedia.org/wiki/Al-Malikiyah) [Al-Qahtaniyah\)](https://en.wikipedia.org/wiki/Al-Qahtaniyah,_al-Hasakah_Governorate), in the northeastern corner and in villages along the [Khabur River](https://en.wikipedia.org/wiki/Khabur_(Euphrates)) in the [Tell Tamer](https://en.wikipedia.org/wiki/Tell_Tamer) area. They traditionally speak varieties of [Northeastern Neo-Aramaic,](https://en.wikipedia.org/wiki/Northeastern_Neo-Aramaic) a Semitic language.[\[345\]](#page-64-4) There are many Assyrians among recent refugees to Northern Syria, fleeing Islamist violence elsewhere in Syria back to their traditional lands.[\[346\]](#page-64-5) In the secular polyethnic political climate of the region, the [Dawronoye](https://en.wikipedia.org/wiki/Dawronoye)
 
-## ![](_page_21_Picture_9.jpeg)
 
 ## The streets of Qamishli during Christmas modernization movement has a growing influence on Assyrian identity in the 21st century.[\[147\]](#page-42-10)
 
@@ -505,7 +476,6 @@ There are also smaller minorities of **[Armenians](https://en.wikipedia.org/wiki
 
 Regarding the status of different languages in the autonomous region, its "Social Contract" stipulates that "all languages in Northern Syria are equal in all areas of life, including social, educational, cultural, and administrative dealings. Every people shall organize its life and manage its affairs using its mother tongue."[\[347\]](#page-64-6) In practice, Arabic and Kurmanji are predominantly used across all areas and for most official documents, with Syriac being mainly used in the Jazira Region with some usage across all areas.
 
-## ![](_page_22_Picture_4.jpeg)
 
 ## Town center of Raqqa, 2009
 
@@ -590,7 +560,6 @@ The region does not state to pursue full independence but rather autonomy within
 
 The relations of the region to the [Ba'athist government](https://en.wikipedia.org/wiki/Government_of_Syria) were determined within the context of the [Syrian civil](https://en.wikipedia.org/wiki/Syrian_civil_war) [war.](https://en.wikipedia.org/wiki/Syrian_civil_war) The [2012 constitution](https://en.wikipedia.org/wiki/2012_Constitution_of_Ba%27athist_Syria) [of Syria](https://en.wikipedia.org/wiki/2012_Constitution_of_Ba%27athist_Syria) and the [Constitution of the](https://en.wikipedia.org/wiki/Constitution_of_the_Democratic_Autonomous_Administration_of_North_and_East_Syria) [Democratic Autonomous](https://en.wikipedia.org/wiki/Constitution_of_the_Democratic_Autonomous_Administration_of_North_and_East_Syria) [Administration of North](https://en.wikipedia.org/wiki/Constitution_of_the_Democratic_Autonomous_Administration_of_North_and_East_Syria) [and East Syria](https://en.wikipedia.org/wiki/Constitution_of_the_Democratic_Autonomous_Administration_of_North_and_East_Syria) were legally incompatible with respect to legislative and executive
 
-## ![](_page_24_Picture_7.jpeg)
 
 Flag of [Syrian Democratic Forces,](https://en.wikipedia.org/wiki/Syrian_Democratic_Forces) military wing of the DAANES.
 
@@ -612,7 +581,6 @@ With the 2024 [fall of the Assad regime,](https://en.wikipedia.org/wiki/Fall_of_
 
 The region's dominant political party, the [Democratic Union](https://en.wikipedia.org/wiki/Democratic_Union_Party_(Syria)) [Party](https://en.wikipedia.org/wiki/Democratic_Union_Party_(Syria)) (PYD), is a member organisation of the [Kurdistan](https://en.wikipedia.org/wiki/Kurdistan_Communities_Union) [Communities Union](https://en.wikipedia.org/wiki/Kurdistan_Communities_Union) (KCK) organization; however, the other KCK member organisations in the neighbouring states (Turkey, Iran and Iraq) with Kurdish minorities are either outlawed [\(Turkish Kurdistan,](https://en.wikipedia.org/wiki/Turkish_Kurdistan) [Iranian Kurdistan\)](https://en.wikipedia.org/wiki/Iranian_Kurdistan) or politically marginal with respect to other Kurdish parties (Iraq). Expressions of sympathy for Syrian Kurds have been numerous among [Kurds in](https://en.wikipedia.org/wiki/Kurds_in_Turkey) [Turkey.](https://en.wikipedia.org/wiki/Kurds_in_Turkey)[\[372\]](#page-67-6) During the [Siege of Kobanî,](https://en.wikipedia.org/wiki/Siege_of_Koban%C3%AE) some ethnic Kurdish citizens of Turkey crossed the border and volunteered in the defense of the town[.\[373\]](#page-67-7)[\[374\]](#page-67-8)
 
-## ![](_page_25_Picture_7.jpeg)
 
 Kurdish-inhabited areas in 1992 according to the [CIA](https://en.wikipedia.org/wiki/CIA)
 
@@ -622,7 +590,6 @@ The region's relationship with the [Kurdistan Regional](https://en.wikipedia.org
 
 Aside of the representation offices DAANES has established in France, Sweden, Germany and Switzerlan[d\[378\]](#page-68-3) the region's role in the international arena is comprehensive military cooperation of its militias under the [Syrian Democratic Forces](https://en.wikipedia.org/wiki/Syrian_Democratic_Forces) (SDF) umbrella with the United States and the [international](https://en.wikipedia.org/wiki/Military_intervention_against_ISIL#3_December_2014) [\(US-led\) coalition against the Islamic State of Iraq and the Levant.](https://en.wikipedia.org/wiki/Military_intervention_against_ISIL#3_December_2014)[\[379\]](#page-68-4)[\[380\]](#page-68-5) In a public statement in March 2016, the day after the declaration of the regions autonomy, U. S. Defense Secretary Ashton Carter praised the
 
-## ![](_page_26_Picture_2.jpeg)
 
 [Salih Muslim,](https://en.wikipedia.org/wiki/Salih_Muslim) co-chairman of the region's leading Democratic Union Party (PYD) with [Ulla Jelpke](https://en.wikipedia.org/wiki/Ulla_Jelpke) at [Rosa](https://en.wikipedia.org/wiki/Rosa_Luxemburg_Foundation) [Luxemburg Foundation](https://en.wikipedia.org/wiki/Rosa_Luxemburg_Foundation) in [Berlin](https://en.wikipedia.org/wiki/Berlin)
 
@@ -630,7 +597,6 @@ Aside of the representation offices DAANES has established in France, Sweden, Ge
 
 In the diplomatic field, the de facto autonomous region lacks any formal recognition. While there is comprehensive activity of reception of the region's representative[s\[390\]](#page-69-4)[\[391\]](#page-69-5)[\[392\]](#page-69-6)[\[393\]](#page-69-7) and appreciation[\[394\]](#page-69-8) with a broad range of countries, only [Russia](https://en.wikipedia.org/wiki/Russia) has on occasion openly supported the region's political ambition of [federalization of Syria](https://en.wikipedia.org/wiki/Federalization_of_Syria) in the international arena[,\[307\]](#page-60-5)[\[362\]](#page-66-4) while the U. S. does not.[\[395\]](#page-69-9)[\[396\]](#page-69-10) After peace talks between Syrian civil war parties in Astana in January 2017, Russia offered a draft for a future constitution of Syria, which would, among other things, change the "Syrian Arab Republic" into the "Republic of Syria", introduce decentralized authorities as well as elements of [federalism](https://en.wikipedia.org/wiki/Federalization_of_Syria) like "association areas", strengthen the parliament at the cost of the presidency, and realize [secularism](https://en.wikipedia.org/wiki/Islam_and_secularism) by abolishing
 
-## ![](_page_26_Picture_7.jpeg)
 
 A demonstration in the city of [Afrin](https://en.wikipedia.org/wiki/Afrin,_Syria) in support of the [YPG](https://en.wikipedia.org/wiki/People%27s_Protection_Units) against the [Turkish invasion of Afrin,](https://en.wikipedia.org/wiki/Operation_Olive_Branch) 19 January 2018
 
@@ -640,7 +606,6 @@ Neighbouring [Turkey](https://en.wikipedia.org/wiki/Turkey) is consistently host
 
 On 9 October 2019, Turkey launched an [attack on northern Syria](https://en.wikipedia.org/wiki/2019_Turkish_offensive_into_north-eastern_Syria) "to destroy the terror corridor" on the Turkish southern border, as president Erdogan put it, after US President Donald Trump abandoned his support. Subsequent media reports have speculated that the offensive would lead to the displacement of hundreds of thousands of people.[\[425\]](#page-72-1)
 
-## ![](_page_27_Picture_4.jpeg)
 
 In December 2019, an international conference hosted by the International Alliance for the Defence of Rights and Freedoms (AIDL) was held at the European Parliament which condemned the Turkish invasion of northeastern Syria, and called for the self-declared Autonomous Administration of North East Syria to be recognized and to be included in UN-led Constitutional Committee tasked to draft a new constitution for Syria. The official position of the European Union remained the same however, that the Autonomous Administration should be "respected" and included in talks while rejecting "any recognition in the national sense of the word" and that "the territorial integrity of Syria is fundamental".[\[426\]](#page-72-2)[\[427\]](#page-72-3)
 

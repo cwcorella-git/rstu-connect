@@ -8,11 +8,9 @@ tags:
   - current-events
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 ## **Rethinking Marxism**
 
-## ![](_page_0_Picture_2.jpeg)
 
 ## **A Journal of Economics, Culture & Society**
 
@@ -26,7 +24,6 @@ tags:
 
 **To link to this article:** https://doi.org/10.1080/08935696.2025.2475870
 
-## ![](_page_0_Picture_9.jpeg)
 
 ## **The Southern Question and Subaltern Social Groups and Classes**
 
@@ -40,7 +37,6 @@ In late 1934 and early 1935 Italian Marxist theorist Antonio Gramsci developed n
 
 1. I follow the lead of Gramsci scholars in citing references to his prison notebooks by notebook number (Q), note number (§), and page number from the source consulted.
 
-## ![](_page_1_Picture_7.jpeg)
 
 Gramsci used this "special" notebook to develop his concept of "subaltern" or subordinate groups and classes. He observes that "often, subaltern groups are originally of a different race (different religion and different culture) than the dominant groups" (Q25, §4; Gramsci 2021, 9). He uses the notebook to theorize the struggles of slaves, peasants, common people, and the proletariat, as well as the articulation between race and class, religion, and "common sense." In addition, he notes how women's history is "similar to the question of the subaltern groups," and that "'masculinism' can be compared to class domination." In doing so, he elaborates a central "research criterion" for understanding the elite construction of subaltern groups and classes as pathological (Q25, §4; Gramsci 2021, 9). For Gramsci, a rethinking of the criminalization of subaltern groups and classes was critical to the struggle against fascism.
 

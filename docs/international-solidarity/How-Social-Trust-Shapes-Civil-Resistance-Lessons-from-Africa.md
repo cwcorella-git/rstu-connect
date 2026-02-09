@@ -14,13 +14,6 @@ tags:
 
 ## Jacob S. Lewis
 
-## ![](_page_0_Picture_5.jpeg)
-
-## ![](_page_0_Picture_6.jpeg)
-
-## ![](_page_0_Picture_7.jpeg)
-
-## ![](_page_0_Picture_8.jpeg)
 
 #### **Front cover image (left)**
 
@@ -64,7 +57,6 @@ ICNC MONOGRAPH SERIES EDITOR: Dr. Maciej Bartkowski VOLUME EDITORS: Steve Chase,
 
 ## Jacob S. Lewis
 
-## ![](_page_2_Picture_4.jpeg)
 
 ## Contents
 
@@ -1155,4 +1147,3 @@ International Center on Nonviolent Conflict 600 New Hampshire Ave NW, Suite 710 
 
 www.nonviolent-conflict.org
 
-## ![](_page_85_Picture_8.jpeg)

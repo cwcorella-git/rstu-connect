@@ -15,7 +15,6 @@ The problem is not police training, police diversity, or police methods. The pro
 
 ## Alex S. Vitale
 
-## ![](_page_2_Picture_2.jpeg)
 
 #### First published by Verso 2017 © Alex S. Vitale 2017
 

@@ -7,7 +7,6 @@ tags:
   - digital rights
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 ## Virtual Event / 13-16 Oct 2021
 
@@ -60,7 +59,6 @@ This network of servers—some with hundreds of active users—indicates the pre
 
 That these hateful structures *exist* is less important for Discord than if they exist *visibly*—and herein lies the financial impetus for Discord to continue to allow sites like Disboard to do its dirty work, as it maintains a presentable image for its ongoing expansion. Although Discord's in-house search promotes only curated servers, it has allowed third-party services to imitate its user interface (Figure 3), and network hate on its behalf.
 
-## ![](_page_3_Picture_2.jpeg)
 
 Figure 3. Disboard imitates the 'cuteness' of Discord.
 

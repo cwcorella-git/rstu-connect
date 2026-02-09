@@ -11,9 +11,6 @@ tags:
 
 ## Contributors to Wikimedia projects
 
-30–38 minutes
-
-## ![](_page_0_Picture_7.jpeg)
 
 | Date | July
 28, 1932; 93 years ago |
@@ -42,7 +39,6 @@ A second, smaller Bonus March in 1933 at the start of the [Roosevelt](https://en
 
 ### [\[edit\]](https://en.wikipedia.org/w/index.php?title=Bonus_Army&action=edit§ion=1)
 
-## ![](_page_3_Picture_5.jpeg)
 
 Members of the Bonus Army camped out on the lawn of the U. S. Capitol building
 
@@ -56,7 +52,6 @@ Before World War I, the soldiers' military service bonus (adjusted for rank) was
 
 [War](https://en.wikipedia.org/wiki/Spanish%E2%80%93American_War) did not receive a bonus and after [World War I,](https://en.wikipedia.org/wiki/World_War_I) that became a political matter when they received only a \$60 bonus (\$1,090 in 2024)[.\[4\]](#page-19-1) The [American Legion,](https://en.wikipedia.org/wiki/American_Legion) created in 1919, led a political movement for an additional bonus[.\[5\]](#page-19-2)
 
-![](_page_5_Picture_3.jpeg)
 
 [Cinderella stamp](https://en.wikipedia.org/wiki/Cinderella_stamp) (US, 1932) a privately published sticker (not a postage stamp) supporting the Bonus Army
 
@@ -68,17 +63,11 @@ The [Veterans of Foreign Wars](https://en.wikipedia.org/wiki/Veterans_of_Foreign
 
 In January 1932, a march of 25,000 unemployed Pennsylvanians, dubbed ["Cox's Army"](https://en.wikipedia.org/wiki/James_Renshaw_Cox), had marched on Washington, D. C., the largest demonstration to date in the nation's capital, setting a precedent for future marches by the unemployed[.\[13\]](#page-20-2)
 
-![](_page_6_Picture_6.jpeg)
-
-## ![](_page_7_Picture_2.jpeg)
 
 The B. E. F. camp in the [Anacostia](https://en.wikipedia.org/wiki/Anacostia) section of [Washington, D. C.](https://en.wikipedia.org/wiki/Washington,_D. C.)
 
 Most of the Bonus Army (Bonus Expeditionary Force or BEF) camped in a form of a ["Hooverville"](https://en.wikipedia.org/wiki/Hooverville) on the [Anacostia Flats](https://en.wikipedia.org/wiki/Anacostia) (now Section C of [Anacostia Park\)](https://en.wikipedia.org/wiki/Anacostia_Park), a swampy, muddy area away from the federal core of Washington. Other veterans lived much closer, in partially demolished buildings on [Pennsylvania Avenue](https://en.wikipedia.org/wiki/Pennsylvania_Avenue) near the Third Street SW[.\[14\]](#page-20-3)[\[15\]](#page-20-4) Although occupation of Anacostia Flats was against federal law, D. C. police Superintendent [Pelham D. Glassford](https://en.wikipedia.org/wiki/Pelham_D._Glassford) obtained permission off the record from his friend Major General [Ulysses](https://en.wikipedia.org/wiki/Ulysses_S._Grant_III) [S. Grant III,](https://en.wikipedia.org/wiki/Ulysses_S._Grant_III) Director of Public Buildings and Public Parks in the Capital, who promised to make no objection[.\[16\]](#page-20-5) The chosen site was located in the historically African American side of Anacostia; nearby were tennis courts and a baseball diamond, the latter of which was used by children of the camp.[\[17\]](#page-20-6) The War Department had refused a request by Senator [James](https://en.wikipedia.org/wiki/J._Hamilton_Lewis) [Hamilton Lewis](https://en.wikipedia.org/wiki/J._Hamilton_Lewis) to set up billets, so veterans, women and children lived in the shelters they built from materials dragged out of a junk pile nearby, which included old lumber, packing boxes, and scrap tin covered with roofs of thatched straw.[\[18\]](#page-20-7) The shack city was nicknamed Camp Marks, after the friendly Police Captain S. J. Marks.
 
-![](_page_7_Picture_5.jpeg)
-
-## ![](_page_8_Picture_2.jpeg)
 
 [Walter W. Waters,](https://en.wikipedia.org/wiki/Walter_W._Waters) Commander of the Bonus Expeditionary Force
 
@@ -86,11 +75,9 @@ Camp Marks was tightly controlled by the veterans, who laid out streets, built s
 
 On June 15, 1932, the [US House of Representatives](https://en.wikipedia.org/wiki/US_House_of_Representatives) passed the [Wright Patman](https://en.wikipedia.org/wiki/Wright_Patman) Bonus Bill (by a vote of 211–176) to move forward the date for World War I veterans to receive their cash bonus[.\[20\]](#page-20-9) Over 6,000 bonus marchers massed at the [U. S.](https://en.wikipedia.org/wiki/U. S._Capitol) [Capitol](https://en.wikipedia.org/wiki/U. S._Capitol) on June 17 as the [U. S. Senate](https://en.wikipedia.org/wiki/U. S._Senate) voted on the Bonus Bill. The bill was defeated by a vote of 62–18[.\[21\]](#page-20-10)
 
-## ![](_page_9_Picture_2.jpeg)
 
 ## William Hushka (1895–1932)
 
-## ![](_page_9_Picture_4.jpeg)
 
 ## Eric Carlson (1894–1932)
 
@@ -105,7 +92,6 @@ On July 28, under prodding from President [Herbert Hoover,](https://en.wikipedia
 
 ### [\[edit\]](https://en.wikipedia.org/w/index.php?title=Bonus_Army&action=edit§ion=4)
 
-## ![](_page_10_Picture_6.jpeg)
 
 Communist faction leader John Pace of [Detroit](https://en.wikipedia.org/wiki/Detroit) is arrested by police after trying to lead 200 men in a march on the [White House](https://en.wikipedia.org/wiki/White_House)
 
@@ -125,7 +111,6 @@ At 1:40 pm, General [Douglas Mac Arthur](https://en.wikipedia.org/wiki/Douglas_M
 
 At 4:45 pm, commanded by Mac Arthur, the [12th Infantry](https://en.wikipedia.org/wiki/12th_Infantry_Regiment_(United_States)) [Regiment,](https://en.wikipedia.org/wiki/12th_Infantry_Regiment_(United_States)) [Fort Howard, Maryland,](https://en.wikipedia.org/wiki/Fort_Howard_(Maryland)) and the [3rd Cavalry](https://en.wikipedia.org/wiki/3d_Armored_Cavalry_Regiment_(United_States)) [Regiment,](https://en.wikipedia.org/wiki/3d_Armored_Cavalry_Regiment_(United_States)) supported by five [M1917 light tanks](https://en.wikipedia.org/wiki/M1917_light_tank) commanded by Patton, formed in Pennsylvania Avenue while thousands of civil service employees left work to line the street and watch. The Bonus Marchers, believing the troops were marching in their honor, cheered the troops until Patton ordered the cavalry to charge them[.\[35\]](#page-22-3)
 
-![](_page_13_Picture_4.jpeg)
 
 Shacks that members of the Bonus Army erected on the Anacostia Flats burning after attack by the regular army
 
@@ -135,7 +120,6 @@ During the military operation, Major [Dwight D. Eisenhower,](https://en.wikipedi
 
 Although the troops were ready, Hoover twice sent instructions to Mac Arthur not to cross the Anacostia bridge that night, both of which were received. Shortly after 9 pm, Mac Arthur ordered Miles to cross the bridge and evict the Bonus Army from its encampment in Anacostia[.\[40\]](#page-22-8) This refusal to follow orders was claimed by Mac Arthur's assistant chief of staff [George Van](https://en.wikipedia.org/wiki/George_Van_Horn_Moseley) [Horn Moseley.](https://en.wikipedia.org/wiki/George_Van_Horn_Moseley) However, Mac Arthur's aide [Dwight Eisenhower,](https://en.wikipedia.org/wiki/Dwight_Eisenhower) [Assistant Secretary of War for Air](https://en.wikipedia.org/wiki/United_States_Secretary_of_War) [F. Trubee Davison,](https://en.wikipedia.org/wiki/F._Trubee_Davison) and Brigadier General Perry Miles, who commanded the ground forces, all disputed Moseley's claim. They said the two orders were never delivered to Mac Arthur and they blamed Moseley for refusing to deliver the orders to Mac Arthur for unknown reasons[.\[41\]](#page-22-9)[\[42\]](#page-23-0) The shacks in the Anacostia Camp were then set on fire, although who set them on fire is somewhat unclear.
 
-## ![](_page_15_Picture_3.jpeg)
 
 Extensive coverage of the B. E. F.'s retreat into [Johnstown, Pennsylvania](https://en.wikipedia.org/wiki/Johnstown,_Pennsylvania) (where they were welcomed by mayor Eddie Mc Closkey) in the [Pittsburgh Sun-Telegraph,](https://en.wikipedia.org/wiki/Pittsburgh_Sun-Telegraph) August 1, 1932
 
@@ -261,7 +245,6 @@ Washington, DC: [Center of Military History](https://en.wikipedia.org/wiki/Unite
 - Waters, Walter W., and White, William C. (1933) [B. E. F.; The](https://babel.hathitrust.org/cgi/pt?id=mdp.39015027775421&seq=9) [Whole Story of the Bonus Army.](https://babel.hathitrust.org/cgi/pt?id=mdp.39015027775421&seq=9) New York: The John Day Company.
 - Watkins, T. H. "The Great Depression: America in the 1930s", Little, Brown and Company, 1993, pages 98–106,111.
 
-## ![](_page_26_Picture_7.jpeg)
 
 Wikimedia Commons has media related to [Bonus Army.](https://commons.wikimedia.org/wiki/Category:Bonus_Army)
 

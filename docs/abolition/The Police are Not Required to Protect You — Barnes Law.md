@@ -13,7 +13,6 @@ tags:
 
 ## Barnes LawLLP
 
-7–8 minutes
 
 "To Protect and to Serv[e\[1\]"](#page-3-0) – the ubiquitous creed emblazoned across millions of police cars throughout Los Angeles and indeed the United States. This motto is consistent with the common belief that police officers as well as other law enforcement officers are here to protect us. After all, we are all taught to dial 9-1-1 when we need help. Subject to narrow exception[s\[2\],](#page-3-1) the United States Constitution does not require law enforcement officers to protect you from other people, according to the U. S. Supreme Court. This notion contradicts our engrained perceptions, but it's still the law today.
 

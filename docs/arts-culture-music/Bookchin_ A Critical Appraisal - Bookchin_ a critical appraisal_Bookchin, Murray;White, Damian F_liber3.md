@@ -7,13 +7,11 @@ tags:
   - Bookchin
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 ### **A Critical Appraisal**
 
 ## DAMIAN F. WHITE
 
-## ![](_page_3_Picture_3.jpeg)
 
 First published 2008 by Pluto Press 345 Archway Road, London N6 5AA
 

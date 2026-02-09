@@ -8,19 +8,11 @@ tags:
 
 ## re. Marx
 
-21–26 minutes
-
-## ![](_page_0_Picture_6.jpeg)
-
-15 min read
 
 ## Oct 1, 2021
 
 Moving beyond "cost of living" to understand capitalist exploitation in high-cost cities.
 
-## ![](_page_0_Picture_10.jpeg)
-
-## ![](_page_1_Picture_2.jpeg)
 
 This is the second of a series of three essays on [Money,](https://medium.com/@re. Marx/you-create-78-of-value-with-each-hour-of-labor-130f8100304d) [Income,](https://medium.com/@re. Marx/how-much-do-you-really-make-86d070f63919) and [Class.](https://medium.com/@re. Marx/we-are-the-65-c4a253c1eaa1)
 
@@ -40,7 +32,6 @@ To account for all of these complications, both of these components — consumpt
 
 First, we will explore the meaning of this relation when each of Iₘ, cᵥ, and ∆W are held constant with the other quantities variable. Then, we will explore the relationship between Iₘ and the "money income" or "real income" Iᵣ¹.
 
-## ![](_page_4_Picture_6.jpeg)
 
 Graphical Representation of Material Income as the sum of total consumption and accumulation.
 
@@ -74,7 +65,6 @@ To compare the situation of different persons, either in different regions or me
 
 Multiply those labor-hours by the [money value of an hour of](https://medium.com/@re. Marx/you-create-78-of-value-with-each-hour-of-labor-130f8100304d) [labor \(\\$78\),](https://medium.com/@re. Marx/you-create-78-of-value-with-each-hour-of-labor-130f8100304d) and add this amount to your spending on everything else, which by assumption is sold at its value. Then, add this to the change in your net worth which results from your savings or equity payments.
 
-## ![](_page_9_Picture_3.jpeg)
 
 One's money income (left) is broken up into three terms: your consumption, accumulation, and extraction. The first two are the income they "really" get, or material income, the third in no way can be enjoyed by them.
 

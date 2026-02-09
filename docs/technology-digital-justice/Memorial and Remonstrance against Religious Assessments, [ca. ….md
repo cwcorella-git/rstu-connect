@@ -10,7 +10,6 @@ tags:
 
 #### [founders.archives.gov](https://founders.archives.gov/documents/Madison/01-08-02-0163)
 
-33–42 minutes
 
 #### **Editorial Note**
 

@@ -7,9 +7,6 @@ tags:
   - digital rights
 ---
 
-## ![](_page_0_Picture_0.jpeg)
-
-## ![](_page_0_Picture_1.jpeg)
 
 an anarchist appeal
 
@@ -17,9 +14,6 @@ If you could change anything, what would you change? Would you go on vacation fo
 
 Our private nancial and emotional struggles mirror global upheaval and disaster. We could spend the rest of our days trying to douse these res one by one, but they stem from the same source. No piecemeal solution will serve; we need to rethink everything according to a different logic.
 
-## ![](_page_2_Picture_0.jpeg)
-
-## ![](_page_3_Picture_0.jpeg)
 
 The phantom of liberty still haunts a world cast in its image. We have been promised complete self-determination: all the institutions of our society are supposed to deliver it.
 
@@ -43,7 +37,6 @@ We are inescapably responsible for our beliefs and decisions. Answering to ourse
 
 ## start by seeking power, not authority
 
-## ![](_page_7_Picture_1.jpeg)
 
 The workers who perform the labor have power; the bosses who tell them what to do have authority. The tenants who maintain the building have power; the landlord whose name is on the deed has authority. A river has power; a permit to build a dam grants authority.
 
@@ -65,7 +58,6 @@ In this society, power and authority are so interlinked that we can barely disti
 
 ## start with relationships built on trust
 
-## ![](_page_9_Picture_1.jpeg)
 
 In contrast to authority, trust centers power in the hands of those who confer it, not those who receive it. A person who has earned trust doesn't need authority. If someone doesn't deserve trust, he certainly shouldn't be invested with authority! And yet whom do we trust less than politicians and CEOs?
 
@@ -73,7 +65,6 @@ Without imposed power imbalances, people have an incentive to work out conflicts
 
 At its best, friendship is a bond between equals who support and challenge each other while respecting each other's autonomy. That's a pretty good standard by which to evaluate all our relationships. Without the constraints that are imposed upon us today—citizenship and illegality, property and debt, corporate and military chains of command—we could reconstruct our relations on the basis of free association and mutual aid.
 
-## ![](_page_11_Picture_0.jpeg)
 
 "Your rights end where another's rights begin." According to that logic, the more people there are, the less freedom.
 
@@ -85,17 +76,11 @@ Language serves to communicate only because we hold it in common. The same goes 
 
 Freedom is not a possession or a property; it is a relation. It is not a matter of being protected from the outside world, but of intersecting in a way that maximizes the possibilities. That doesn't mean we have to seek consensus for its own sake; both conflict and consensus can expand and ennoble us, so long as no centralized power is able to compel agreement or transform conflict into winner-takes-all competition. But rather than breaking the world into tiny efdoms, let's make the most of our interconnection.
 
-## ![](_page_13_Picture_1.jpeg)
-
-## ![](_page_14_Picture_0.jpeg)
-
-## ![](_page_15_Picture_0.jpeg)
 
 Growing up in this society, not even our passions are our own; they are cultivated by advertising and other forms of propaganda to keep us running on the treadmills of the marketplace. Thanks to indoctrination, people can be quite pleased with themselves for doing things that are bound to make them miserable in the long run. We are locked into our suffering and our pleasures are the seal.
 
 To be truly free, we need leverage over the processes that produce our desires. Liberation doesn't just mean fullling the desires we have today, but expanding our sense of what is possible, so our desires can shift along with the realities they drive us to create. It means turning away from the pleasure we take in enforcing, dominating, and possessing, to seek pleasures that wrench us free of the machinery of obedience and competition. If you've ever broken an addiction, you have a taste of what it means to transform your desires.
 
-## ![](_page_17_Picture_0.jpeg)
 
 Bigots typically blame a specic group for a systemic problem—Jews for prot-driven capitalism, immigrants for economic recession—the same way people blame individual politicians for the corruption of politics. But the problem is the systems themselves. No matter who holds the reins, they produce the same power imbalances and petty indignities. The problem is not that they are broken, but that they are functioning in the rst place.
 
@@ -107,9 +92,6 @@ It is not enough only to educate and discuss, waiting for others' hearts and min
 
 ## ![](_page_19_Figure_0.jpeg)
 
-## ![](_page_20_Picture_0.jpeg)
-
-## ![](_page_21_Picture_0.jpeg)
 
 What are the signs that you are in an abusive relationship? The abuser may try to control your behavior or dictate your thoughts; block or regulate your access to resources; use threats or violence against you; or keep you in a position of dependence, under constant surveillance.
 
@@ -119,7 +101,6 @@ The greater the imbalances that are imposed on us, the more control it takes to 
 
 When the infinite possibilities of life have been reduced to an array of options coded in ones and zeros, there will be no more friction between the system we inhabit and the lives we can imagine—not because we will have achieved total freedom, but because we will have perfected its opposite. Freedom doesn't mean choosing between options, but formulating the questions.
 
-## ![](_page_23_Picture_0.jpeg)
 
 There are many different mechanisms for imposing inequality. Some depend on a centralized apparatus, like the court system. Others can function more informally, like good ol' boy networks and gender roles.
 
@@ -131,7 +112,6 @@ To put it another way: as long as there are police, who do you think they will h
 
 ## the problem is **borders**
 
-## ![](_page_25_Picture_1.jpeg)
 
 If a foreign army invaded this land, cut down the trees, poisoned the rivers, and forced children to grow up pledging allegiance to them, who wouldn't take up arms against them? But when the local government does the same, patriots readily render their obedience, tax dollars, and children.
 
@@ -139,7 +119,6 @@ Borders don't protect us, they divide us—creating needless friction with the e
 
 The liberal ideal is to expand the lines of inclusion until all the world is integrated into one vast democratic project. But inequality is coded into the structure itself. At every level of this society, a thousand tiny borders divide us into powerful and powerless: security checkpoints, credit ratings, database passwords, price brackets. We need forms of belonging that are not predicated on exclusion, that do not centralize power and legitimacy, that do not quarantine empathy to gated communities.
 
-## ![](_page_27_Picture_0.jpeg)
 
 You can only have power by wielding it; you can only learn what your interests are by acting on them. When every effort to exert leverage on the world must be channeled through the mediation of representatives or translated into the protocol of institutions, we become alienated from each other and our own potential. Every aspect of our agency that we yield reappears as something unrecognizable and hostile to us. The politicians who always disappoint us only show how much power we have given up over our own lives; the violence of the police is the dark consequence of our desire to avoid personal responsibility for what happens in our neighborhoods.
 
@@ -147,13 +126,11 @@ In the digital age, when every person must continually serve as his own secretar
 
 We are irreducible. Neither delegates nor abstractions can stand in for us. In reducing human beings to demographics and raw experience to data, we lose sight of everything that is precious and unique in the world. We need presence, immediacy, direct contact with each other, direct control over our lives—things no representative or representation can deliver.
 
-## ![](_page_29_Picture_0.jpeg)
 
 Leadership is a social disorder in which the majority of participants in a group fail to take initiative or think critically about their actions. As long as we understand agency as a property of specic individuals rather than a relationship between people, we will always be dependent on leaders—and at their mercy. Truly exemplary leaders are as dangerous as the obviously corrupt, in that all their praiseworthy qualities only reinforce their status and others' deference, not to mention the legitimacy of leadership itself.
 
 When the police arrive at a protest, their rst question is always "Who's in charge?"—not because leadership is essential to collective action, but because it presents a vulnerability. The Conquistadores asked the same question when they arrived in the so-called New World; wherever there was an answer, it saved them centuries of trouble subduing the population themselves. So long as there is a leader, he can be deputized, replaced, or taken hostage. At best, depending on leaders is an Achilles heel; at worst, it reproduces the authorities' interests and power structure inside those who oppose them. It's better if everyone has her own agenda and a sense of her own agency.
 
-## ![](_page_31_Picture_0.jpeg)
 
 Governments promise rights, but they can only take liberties. The idea of rights implies a central power to grant and guard them. Yet anything the state is powerful enough to guarantee, it is powerful enough to take away; empowering government to solve one problem only opens the door for it to create more problems. And governments do not generate power out of thin air that's our power that they wield, which we can employ far more effectively without the Rube Goldberg machine of representation.
 
@@ -167,11 +144,9 @@ Wherever there are hierarchies, it favors the ones on top to centralize power. B
 
 There's no way to freedom but through freedom. Rather than a single bottleneck for all agency, we need a wide range of venues in which to exercise power. Rather than a singular currency of legitimacy, we need space for multiple narratives. In place of the coercion inherent in government, we need decision-making structures that promote autonomy, and practices of self-defense that can hold would-be rulers at bay.
 
-## ![](_page_34_Picture_0.jpeg)
 
 ## ![](_page_35_Figure_0.jpeg)
 
-## ![](_page_35_Picture_1.jpeg)
 
 Money is the ideal mechanism for implementing inequality. It is abstract: it seems to be able to represent everything. It is universal: people who have nothing else in common accept it as a fact of life. It is impersonal: unlike hereditary privileges, it can be transferred instantly from one person to another. It is fluid: the easier it is to change position in a hierarchy, the more stable the hierarchy itself is. Many who would revolt against a dictator readily accept the authority of the market.
 
@@ -183,7 +158,6 @@ A system driven by prot produces poverty at the same pace as it concentrates wea
 
 ## the problem is **property**
 
-## ![](_page_37_Picture_1.jpeg)
 
 The foundation of capitalism is property rights—another social construct we inherited from kings and aristocrats. Property shifts hands more rapidly today, but the concept is the same: the idea of ownership legitimizes the use of violence to enforce articial imbalances in access to land and resources.
 
@@ -193,15 +167,11 @@ What would it take to protect the things that are important to us? Governments o
 
 Without money or property rights, our relationships to things would be determined by our relationships with each other. Today, it is just the other way around: our relationships with each other are determined by our relationships to things. Doing away with property wouldn't mean you would lose your belongings; it would mean that no sheriff or stock market crash could take away the things you depend on. Instead of answering to bureaucracy, we
 
-## ![](_page_39_Picture_0.jpeg)
 
 would begin from human needs; instead of taking advantage of each other, we would pursue the advantages of interdependence.
 
 A scoundrel's worst fear is a society without property—for without it, he will only get the respect he deserves. Without money, people are valued for what they contribute to others' lives, not for what they can bribe others to do. Without prot, every effort must be its own reward, so there is no incentive for meaningless or destructive activity. The things that really matter in life passion, camaraderie, generosity—are available in abundance. It takes legions of police and property surveyors to impose the scarcity that traps us in this rat race.
 
-## ![](_page_40_Picture_2.jpeg)
-
-## ![](_page_41_Picture_0.jpeg)
 
 Every order is founded on a crime against the preceding order—the crime that dissolved it. Afterwards, the new order comes to be perceived as legitimate, as people begin to take it for granted. The founding crime of the United States of America was the rebellion against the authority of the king of England. The founding crime of the society to come, if we manage to survive this one, will do away with the laws and institutions of today.
 
@@ -219,7 +189,6 @@ Anarchism is not a dogma or a blueprint. It is not a system that would supposedl
 
 ANARCHISTSoppose all forms of hierarchy—every currency that concentrates power into the hands of a few, every mechanism that puts us at a distance from our potential. Against closed systems, we relish the unknown before us, the chaos within us by virtue of which we are able to be free.
 
-## ![](_page_44_Picture_0.jpeg)
 
 This project is brought to you by Crimethlnc., an international network of aspiring revolutionaries.
 
@@ -229,7 +198,6 @@ We produced this text in cooperation with comrades from across five continents; 
 
 A digital version is available in over a dozen languages at **tochangeeverything.com**, where you may obtain more paper copies for the cost of postage alone along with a wide range of related media and resources.
 
-## ![](_page_44_Picture_5.jpeg)
 
 When we see what all the different institutions and mechanisms of domination have in common, it becomes clear that our individual struggles are also part of something greater than us, something that could connect us. When we come together on the basis of this connection, everything changes: not only our struggles, but also our sense of agency, our capacity for joy, the sense that our lives have meaning. All it takes to find each other is to begin acting according to a different logic.
 

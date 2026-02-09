@@ -11,9 +11,6 @@ tags:
 
 ## American Experience
 
-10–12 minutes
-
-## ![](_page_0_Picture_6.jpeg)
 
 President Lyndon B. Johnson attending Commencement Exercises at the University of Michigan, May 22, 1964. LBJ Library photo by Cecil Stoughton.
 

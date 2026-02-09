@@ -10,7 +10,6 @@ tags:
 
 ## Frederick Engels
 
-47-59 minutes
 
 ## Frederick Engels
 

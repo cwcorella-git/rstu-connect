@@ -22,15 +22,11 @@ the Age of
 
 ANNA LEMBKE, M. D.
 
-## ![](_page_1_Picture_3.jpeg)
-
-## ![](_page_2_Picture_0.jpeg)
 
 #### An imprint of Penguin Random House LLC
 
 penguinrandomhouse.com
 
-## ![](_page_2_Picture_4.jpeg)
 
 #### Copyright © 2021 by Anna Lembke
 
@@ -336,7 +332,6 @@ The world now offers a full complement of digital drugs that didn't exist before
 
 #### DRUG USE TIMELINE
 
-## ![](_page_22_Picture_2.jpeg)
 
 Furthermore, the technology itself is addictive, with its flashing lights, musical fanfare, bottomless bowls, and the promise, with ongoing engagement, of ever-greater rewards.
 
@@ -632,7 +627,6 @@ Neurotransmitters are like baseballs. The pitcher is the presynaptic neuron. The
 
 ## NEUROTRANSMITTER
 
-## ![](_page_43_Picture_0.jpeg)
 
 Dopamine was first identified as a neurotransmitter in the human brain in 1957 by two scientists working independently: Arvid Carlsson and his team in Lund, Sweden, and Kathleen Montagu, based outside of London. Carlsson went on to win the Nobel Prize in Physiology or Medicine.
 
@@ -640,9 +634,6 @@ Dopamine is not the only neurotransmitter involved in reward processing, but mos
 
 Debates about differences between motivation and pleasure notwithstanding, dopamine is used to measure the addictive potential of any behavior or drug. The more dopamine a drug releases in the brain's reward pathway (a brain circuit that links the ventral tegmental area, the nucleus accumbens, and the prefrontal cortex), and the faster it releases dopamine, the more addictive the drug.
 
-## ![](_page_44_Picture_1.jpeg)
-
-## ![](_page_44_Picture_2.jpeg)
 
 This is not to say that high-dopamine substances literally contain dopamine. Rather, they trigger the release of dopamine in our brain's reward pathway.
 
@@ -658,17 +649,14 @@ In addition to the discovery of dopamine, neuroscientists have determined that p
 
 Imagine our brains contain a balance—a scale with a fulcrum in the center. When nothing is on the balance, it's level with the ground. When we experience pleasure, dopamine is released in our reward pathway and the balance tips to the side of pleasure. The more our balance tips, and the faster it tips, the more pleasure we feel.
 
-## ![](_page_46_Picture_0.jpeg)
 
 But here's the important thing about the balance: It wants to remain level, that is, in equilibrium. It does not want to be tipped for very long to one side or another. Hence, every time the balance tips toward pleasure, powerful self-regulating mechanisms kick into action to bring it level again. These self-regulating mechanisms do not require conscious thought or an act of will. They just happen, like a reflex.
 
 I tend to imagine this self-regulating system as little gremlins hopping on the pain side of the balance to counteract the weight on the pleasure side. The gremlins represent the work of homeostasis: the tendency of any living system to maintain physiologic equilibrium.
 
-## ![](_page_46_Picture_4.jpeg)
 
 Once the balance is level, it keeps going, tipping an equal and opposite amount to the side of pain.
 
-## ![](_page_47_Picture_1.jpeg)
 
 In the 1970s, social scientists Richard Solomon and John Corbit called this reciprocal relationship between pleasure and pain the opponent-process theory: "Any prolonged or repeated departures from hedonic or affective neutrality . . . have a cost." That cost is an "after-reaction" that is opposite in value to the stimulus. Or as the old saying goes, What goes up must come down.
 
@@ -682,13 +670,11 @@ With repeated exposure to the same or similar pleasure stimulus, the initial dev
 
 Needing more of a substance to feel pleasure, or experiencing less pleasure at a given dose, is called tolerance. Tolerance is an important factor in the development of addiction.
 
-## ![](_page_48_Picture_4.jpeg)
 
 For me, reading the Twilight saga for a second time was pleasurable but not as pleasurable as the first time. By the fourth time I read it (yes, I read the entire saga four times), my pleasure was significantly diminished. The rereading never quite measured up to that first go-round. Furthermore, each time I read it, I was left with a deeper sense of dissatisfaction in its aftermath and a stronger desire to regain the feeling I had while reading it the first time. As I became "tolerant" to Twilight, I was forced to seek out newer, more potent forms of the same drug to try to recapture that earlier feeling.
 
 With prolonged, heavy drug use, the pleasure-pain balance eventually gets weighted to the side of pain. Our hedonic (pleasure) set point changes as our capacity to experience pleasure goes down and our vulnerability to pain goes up. You might think of this as the gremlins camped out on the pain side of the balance, inflatable mattresses and portable barbecues in tow.
 
-## ![](_page_49_Picture_2.jpeg)
 
 I became acutely aware of this effect of high-dopamine addictive substances on the brain's reward pathway in the early 2000s, when I started seeing more patients coming in to clinic on high-dose, longterm opioid therapy (think Oxy Contin, Vicodin, morphine, fentanyl) for chronic pain. Despite prolonged and high-dose opioid medications, their pain had only gotten worse over time. Why? Because exposure to opioids had caused their brain to reset its pleasure-pain balance to the side of pain. Now their original pain was worse, and they had new pain in parts of their body that used to be pain free.
 
@@ -704,7 +690,6 @@ To put it another way, the players on Team Dopamine take their balls and their m
 
 ## EFFECTS OF ADDICTION ON DOPAMINE RECEPTORS
 
-## ![](_page_51_Picture_0.jpeg)
 
 In the approximately two years in which I compulsively consumed romance novels, I eventually reached a place where I could not find a book I enjoyed. It was as if I had burned out my novel-reading pleasure center, and no book could revive it.
 
@@ -718,7 +703,6 @@ The neuroscientist George Koob calls this phenomenon "dysphoria driven relapse,"
 
 Here's the good news. If we wait long enough, our brains (usually) readapt to the absence of the drug and we reestablish our baseline homeostasis: a level balance. Once our balance is level, we are again able to take pleasure in everyday, simple rewards. Going for a walk. Watching the sun rise. Enjoying a meal with friends.
 
-## ![](_page_52_Picture_2.jpeg)
 
 #### People, Places, and Things
 
@@ -728,9 +712,6 @@ Ivan Pavlov, who won the Nobel Prize in Physiology or Medicine in 1904, demonstr
 
 By inserting a detection probe into a rat's brain, neuroscientists can demonstrate that dopamine is released in the brain in response to the conditioned cue (e.g., a buzzer, metronome, light) well before the reward itself is ingested (e.g., cocaine injection). The pre-reward dopamine spike in response to the conditioned cue explains the anticipatory pleasure we experience when we know good things are coming.
 
-## ![](_page_53_Picture_2.jpeg)
-
-## ![](_page_53_Picture_3.jpeg)
 
 Right after the conditioned cue, brain dopamine firing decreases not just to baseline levels (the brain has a tonic level of dopamine firing even in the absence of rewards), but below baseline levels. This transient dopamine mini-deficit state is what motivates us to seek out our reward. Dopamine levels below baseline drive craving. Craving translates into purposeful activity to obtain the drug.
 
@@ -740,7 +721,6 @@ Once we get the anticipated reward, brain dopamine firing increases well above t
 
 ## DOPAMINE LEVELS: ANTICIPATION AND CRAVING
 
-## ![](_page_54_Picture_4.jpeg)
 
 We've all experienced the letdown of unmet expectations. An expected reward that fails to materialize is worse than a reward that was never anticipated in the first place.
 
@@ -964,7 +944,6 @@ Sometimes, patients ask if they can swap one drug for another: cannabis for nico
 
 Any reward that is potent enough to overcome the gremlins and tip the balance toward pleasure can itself be addictive, thereby resulting in trading one addiction for another (cross addiction). Any reward that is not potent enough won't feel like a reward, which is why when we're consuming high-dopamine rewards, we lose the ability to take joy in ordinary pleasures.
 
-## ![](_page_69_Picture_1.jpeg)
 
 A minority of patients (about 20 percent) don't feel better after the dopamine fast. That's important data too, because it tells me that the drug wasn't the main driver of the psychiatric symptom and that the patient likely has a co-occurring psychiatric disorder that will require its own treatment.
 
@@ -1080,7 +1059,6 @@ Further, as digital drugs like smartphones have become embedded into so many asp
 
 But before we talk about self-binding, let's review the steps of the dopamine fast, the ultimate goal of which is to restore a level balance (homeostasis) and renew our capacity to experience pleasure in many different forms.
 
-## ![](_page_76_Picture_1.jpeg)
 
 #### CHAPTER 5
 
@@ -1548,7 +1526,6 @@ I've thought often about what Chris said that day, about buprenorphine giving hi
 
 Had prolonged drug use broken his pleasure-pain balance such that he would need opioids for the rest of his life just to feel "normal"? Perhaps some people's brains lose the plasticity necessary to restore homeostasis, even after prolonged abstinence. Perhaps even after the gremlins dismount, their balance remains permanently weighted to the side of pain.
 
-## ![](_page_108_Picture_4.jpeg)
 
 Or was Chris saying that opioids corrected a chemical imbalance he was born with?
 
@@ -1702,13 +1679,11 @@ Michael's accidental discovery of the benefits of ice-cold water immersion is an
 
 Pain leads to pleasure by triggering the body's own regulating homeostatic mechanisms. In this case, the initial pain stimulus is followed by gremlins hopping on the pleasure side of the balance.
 
-## ![](_page_120_Picture_2.jpeg)
 
 The pleasure we feel is our body's natural and reflexive physiological response to pain. Martin Luther's mortification of the flesh through fasting and self-flagellation may have gotten him a little bit high, even if it was for religious reasons.
 
 With intermittent exposure to pain, our natural hedonic set point gets weighted to the side of pleasure, such that we become less vulnerable to pain and more able to feel pleasure over time.
 
-## ![](_page_121_Picture_0.jpeg)
 
 In the late 1960s, scientists conducted a series of experiments on dogs that, due to the experiments' obvious cruelty, would not be allowed today but nonetheless provide important information on brain homeostasis (or leveling the balance).
 
@@ -2488,7 +2463,6 @@ Studies show that people who are actively involved in religious organizations on
 
 Destructive shame looks like this: Overconsumption leads to shame, which leads to shunning by the group or lying to the group to avoid shunning, both of which result in further isolation, contributing to ongoing consumption as the cycle is perpetuated.
 
-## ![](_page_177_Picture_0.jpeg)
 
 The antidote to destructive shame is prosocial shame. Let's see how that might work.
 
@@ -2508,7 +2482,6 @@ Prosocial shame is further predicated on the idea that we are all flawed, capabl
 
 The prosocial shame cycle goes like this: Overconsumption leads to shame, which demands radical honesty and leads not to shunning, as we saw with destructive shame, but to acceptance and empathy, coupled with a set of required actions to make amends. The result is increased belonging and decreased consumption.
 
-## ![](_page_179_Picture_0.jpeg)
 
 My patient Todd, a young surgeon in recovery from alcohol addiction, told me how AA "was the first safe place to express vulnerability." At his first AA meeting he cried so hard he wasn't able to say his name.
 
@@ -4222,7 +4195,6 @@ youth, 75, 79, 151
 
 Anna Lembke is professor of Psychiatry and Addiction Medicine at Stanford University School of Medicine, and chief of the Stanford Addiction Medicine Dual Diagnosis Clinic. She is the recipient of numerous awards for outstanding research in mental illness, for excellence in teaching, and for clinical innovation in treatment. A clinician scholar, she has published over one hundred peer-reviewed papers, book chapters, and commentaries in prestigious outlets such as the New England Journal of Medicine and the Journal of the American Medical Association. She is the author of a book on the prescription drug epidemic, Drug Dealer, MD: How Doctors Were Duped, Patients Got Hooked, and Why It's So Hard to Stop. She sits on the board of several state and national addiction-focused organizations, has testified before various committees in the United States House of Representatives and Senate, keeps an active speaking calendar, and maintains a thriving clinical practice.
 
-## ![](_page_254_Picture_0.jpeg)
 
 ## What's next on your reading list?
 

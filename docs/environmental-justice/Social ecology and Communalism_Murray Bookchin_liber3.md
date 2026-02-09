@@ -8,9 +8,6 @@ tags:
   - Bookchin
 ---
 
-## ![](_page_0_Picture_2.jpeg)
-
-## ![](_page_3_Picture_2.jpeg)
 
 ## Bookchin, Murray Social Ecology and Communalism
 

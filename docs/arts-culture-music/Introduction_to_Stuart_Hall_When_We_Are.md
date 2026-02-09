@@ -10,9 +10,6 @@ tags:
 
 **Help Us Stay Paywall-Free Donate Menu Subscribe Sign In**
 
-## ![](_page_0_Picture_7.jpeg)
-
-## ![](_page_0_Picture_8.jpeg)
 
 ## Image: Jim Alexander, the Stuart Hall Estate
 
@@ -86,7 +83,6 @@ I salute Walter Rodney. If what he has tried to do is the act of "an enemy," the
 
 ## **Donate to support work like this:**
 
-## ![](_page_8_Picture_3.jpeg)
 
 ## DONATE
 
@@ -110,7 +106,6 @@ A culture of protest takes hold in 1960s LA.
 
 ## **Robin D. G. Kelley**
 
-## ![](_page_11_Picture_5.jpeg)
 
 Vital reading on politics, ideas, and culture to your inbox
 
@@ -120,11 +115,6 @@ A political and literary forum, independent and nonprofit since 1975
 
 #### Registered 501(c)(3) organization
 
-## ![](_page_12_Picture_4.jpeg)
-
-## ![](_page_12_Picture_5.jpeg)
-
-## ![](_page_12_Picture_6.jpeg)
 
 ## **About**
 

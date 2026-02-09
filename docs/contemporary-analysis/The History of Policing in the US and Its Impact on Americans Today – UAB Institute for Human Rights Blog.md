@@ -10,9 +10,6 @@ tags:
 
 ## Kala Bhattar
 
-13–16 minutes
-
-## ![](_page_0_Picture_6.jpeg)
 
 Several policemen in riot gear spray the camera crew walking by with a fire hose. Source: Yahoo Images
 
@@ -22,9 +19,6 @@ Policing in America has a long history, one that dates back to the founding of t
 
 The history of policing can be traced back to the days of slavery in colonial America. In the South, where slavery was central to the economy, [slave patrols,](https://www.insider.com/history-of-police-in-the-us-photos-2020-6#in-the-north-as-more-immigrants-moved-into-cities-by-the-mid-1800s-citizens-looked-for-a-more-formal-way-to-keep-order-3) responsible for capturing runaway slaves and returning them to their masters, was the first unofficial police in America. Considering how slavery itself was one of the most egregious treatments of mankind in human history, slave patrols were especially cruel in the ways they captured runaway slaves and punished them for their daring escapes. Slave rebellions were a constant threat to the [economic status quo](https://time.com/4779112/police-history-origins/) of the southern plantation owners, and slave patrols ensured that these owners were able to intimidate and punish any insurgencies or revolts. In return, these wealthy plantation owners protected the interests of the slave catchers. As a result, this practice created a social hierarchy between the wealthy landowners at the top, the slave patrols separating the wealthy from the poor, and the slaves who were at the bottom of this hierarchy.
 
-## ![](_page_1_Picture_5.jpeg)
-
-## ![](_page_2_Picture_2.jpeg)
 
 A crowd of protesters advocating for the end of police brutality. One of the women in the crowd holds a that reads, "US police began as slave patrol." Source: Yahoo Images
 
@@ -44,7 +38,6 @@ Additionally, the Revolving Door Phenomenon continues the historical practice of
 
 ## **Police Brutality and Rise of the Black Lives Matter Movement**
 
-## ![](_page_5_Picture_4.jpeg)
 
 Black Lives Matter protest in downtown Los Angeles. July 1st, 2020; Source: Yahoo Images
 
@@ -54,7 +47,6 @@ The murder of George Floyd was caught on camera, and this recording enraged the 
 
 Especially jarring is the cruel way in which Ronald Greene was murdered. The brutal death of Ronald Greene, an African American man who was beaten and shocked to death by a group of police officers, has been under investigation since 2019. The police [falsely testified](https://www.npr.org/2021/11/02/1051666335/new-ronald-greene-autopsy-report-discredits-the-police-theory-that-he-died-in-a-) that he had died in a car crash, but body camera videos show the extent to which the police viciously killed Greene as he begged them to stop. Additional reports came back on Greene's autopsy that further discredit the claims of the police that Greene sustained fatal injuries due to a car crash. Heartbreakingly, this is yet another instance of police brutality that was allowed to occur.
 
-## ![](_page_7_Picture_3.jpeg)
 
 Among a group of protesters, one activist holds a sign with the names of Eric Garner, Mike Brown, and Tamir Rice, three of the well-known victims of police brutality. Source: Yahoo Images
 

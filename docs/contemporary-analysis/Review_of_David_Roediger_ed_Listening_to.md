@@ -15,7 +15,6 @@ The online version of this article can be found at: http://rac.sagepub.com/conte
 ## Published by: \$SAGE
 On behalf of:
 
-## ![](_page_0_Picture_7.jpeg)
 
 ## Institute of Race Relations
 
@@ -35,7 +34,6 @@ What is This?
 
 ### **Reviews**
 
-## ![](_page_1_Picture_1.jpeg)
 
 SAGE Los Angeles, London, New Delhi, Singapore, Washington DC
 

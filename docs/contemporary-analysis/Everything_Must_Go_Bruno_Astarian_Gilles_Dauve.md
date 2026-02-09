@@ -8,7 +8,6 @@ tags:
   - current-events
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 ## The Abolition of Value
 
@@ -26,11 +25,6 @@ tags:
 
 licensed under creative commons
 
-## ![](_page_2_Picture_4.jpeg)
-
-## ![](_page_2_Picture_5.jpeg)
-
-## ![](_page_2_Picture_6.jpeg)
 
 ## LBCBooks Berkeley, CA LBCbooks. com
 
@@ -2100,4 +2094,3 @@ See DAILY LIFE, HABITAT, INSURRECTION, KARL (MARX)
 
 Whereas traditional political reform has lost credibility, commons theory plays upon our desire for grassroots social change, and its appeal comes from its ability to resonate with effective piecemeal transformations worldwide. It presents the-now inevitable-limit of change, as the ultimate objective of change. Commons theorists are popular because they paint reform in revolutionary colours: people veer to the most gratifying version of social change, the one more in tune with the illusion of a force within capital but somehow untouched by it, a force that could grow and take over Commons theory is communism made easy: isn't 99% of the world population dispossessed and ready to act? Safety in numbers. Old socialism has gone out of fashion with the decline of the Western labour movement, but a new-style reformism also promotes incremental steps to a better world, similar to the Gramscian strategy of the permeation of civil society.
 
-## ![](_page_221_Picture_1.jpeg)

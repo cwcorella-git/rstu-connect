@@ -11,11 +11,9 @@ tags:
 
 ## Contributors to Wikimedia projects
 
-13–16 minutes
 
 ### From Wikipedia, the free encyclopedia
 
-## ![](_page_0_Picture_7.jpeg)
 
 ## Francisco Ferrer Guardia
 

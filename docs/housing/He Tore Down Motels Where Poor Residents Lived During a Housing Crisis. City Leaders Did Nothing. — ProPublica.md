@@ -9,7 +9,6 @@ tags:
 
 ## David Calvert
 
-37–47 minutes
 
 Pro Publica is a nonprofit newsroom that investigates abuses of power. Sign up to receive [our biggest stories](https://www.propublica.org/newsletters/the-big-story?source=www.propublica.org&placement=top-note®ion=local) as soon as they're published.
 
@@ -27,13 +26,6 @@ In late 2016, an out-of-state casino owner, Jeffrey Jacobs, started buying up pr
 
 Then, as Block and his housemates watched, Jacobs began demolishing the motels. First the Carriage Inn and Donner Inn Motel. Then the Stardust Lodge. Next, the Keno, El Ray and Star of Reno fell. The motels, decades past their prime, had served as housing of last resort for hundreds of people with extremely low incomes and few other options. Jacobs was clearing the way for what he said will be a \$1.8 billion entertainment district anchored by his two casinos.
 
-## ![](_page_1_Picture_6.jpeg)
-
-## ![](_page_2_Picture_2.jpeg)
-
-## ![](_page_2_Picture_3.jpeg)
-
-## ![](_page_3_Picture_2.jpeg)
 
 Left/Top: The Castaway Inn was recently bought by Jacobs. He has pulled demolition permits, and the motel's residents have been moved out. Right/Bottom: The Town House is demolished on Feb. 12.
 
@@ -59,13 +51,9 @@ In his public rhetoric, Jacobs doesn't leave room for the idea that the building
 
 But not all of the motels are slums and some charge far less than \$1,400 a month. While their number is dwindling, more than 50 remain citywide. As of February, an estimated 2,550 people lived in Reno's motels.
 
-## ![](_page_5_Picture_7.jpeg)
-
-## ![](_page_6_Picture_2.jpeg)
 
 The Castaway's rooms are boarded up after the motel was bought by Jacobs.
 
-## ![](_page_6_Picture_4.jpeg)
 
 The Midtown Motel down the street from the Castaway in downtown Reno. The Midtown's owner has resisted Jacobs' offers to buy her property.
 
@@ -79,7 +67,6 @@ So far, the developer has purchased more than 100 parcels, including 19 motels �
 
 By **2001**, Jacobs' companies owned, controlled or had the option to purchase 10 parcels, including those containing 0 motel rooms and other housing units that have since been demolished or boarded up.
 
-## ![](_page_7_Picture_6.jpeg)
 
 Source: Records from Washoe County Assessor's Office Chris
 
@@ -107,7 +94,6 @@ Once he bought the Sands, Jacobs could no longer keep his acquisitions quiet. In
 
 Even with scant details, Jacobs' plan appealed to city leaders who had spent decades trying to remake Reno.
 
-## ![](_page_10_Picture_4.jpeg)
 
 Replicas of historic neon signs, some of which bear the names of demolished motels, at one of Jacobs' parcels called the Glow Plaza. Beside them an empty parking lot has replaced Nystrom House, where Ernest Block lived.
 
@@ -127,13 +113,6 @@ When he started buying motels in Reno, Jacobs began contributing to Reno council
 
 Jacobs also hired as his lobbyist a former Reno city council member. Referred to by some city staff as the "eighth council member," Jessica Sferrazza has ties to key city employees and is a close friend of Schieve, a fact the mayor discloses publicly every time the council votes on Jacobs' project. Jacobs also hired an experienced city planning lawyer, Garrett Gordon, with a long history of helping developers get their projects approved by the City Council.
 
-## ![](_page_12_Picture_5.jpeg)
-
-## ![](_page_13_Picture_2.jpeg)
-
-## ![](_page_13_Picture_3.jpeg)
-
-## ![](_page_14_Picture_2.jpeg)
 
 Left/Top: Neon bells illuminate the sign of Chapel of the Bells, a shuttered wedding chapel bought by Jacobs. Right/Bottom: A statue of a polar bear from Burning Man reinstalled at Glow Plaza.
 
@@ -159,7 +138,6 @@ In these situations, Jacobs has again turned to City Hall.
 
 When Jacobs started sniffing around the Midtown Motel on West Second Street, its owner, Kathie Mead, didn't give it much thought. She wasn't interested in selling, leasing or signing an option agreement.
 
-## ![](_page_16_Picture_2.jpeg)
 
 A drawing depicts the Midtown's glowing sign on a corkboard inside the motel.
 
@@ -185,9 +163,6 @@ Contrary to what Jacobs said about Reno motel owners, Mead hardly fits the defin
 
 Cecilia De Rush never dreamed she'd spend her retirement in a weekly motel. She used to own transmission repair shops, where she worked as both bookkeeper and transmission rebuilder. But for the past eight years, she and her partner, Karl Hager, have lived at the Midtown Motel. They pay \$650 in rent for a place with a main room big enough for a bed, small couch, chest of drawers and TV stand. There's a small kitchen, where De Rush keeps a pot of coffee brewing for Hager, who sips constantly as he watches television. The walls are decorated with artwork of Nevada's iconic wild horses and family photos.
 
-## ![](_page_18_Picture_6.jpeg)
-
-## ![](_page_19_Picture_2.jpeg)
 
 ## Cecilia De Rush in her unit at the Midtown
 
@@ -209,7 +184,6 @@ Four hours into the meeting, the council began discussing the agreement. Everyon
 
 But one key figure had just arrived: Jacobs.
 
-## ![](_page_20_Picture_6.jpeg)
 
 Jacobs, right, sits with his lawyer Garrett Gordon at the City Council meeting at City Hall on Oct. 13.
 
@@ -225,9 +199,6 @@ Campagnoni had lived in downtown's Courtyard Inn when Jacobs bought it. At one p
 
 (During an interview later in his tiny studio apartment, Campagnoni chuckled when told Jacobs had been present to hear his comments. "Good! Good!" he said.)
 
-## ![](_page_21_Picture_8.jpeg)
-
-## ![](_page_22_Picture_2.jpeg)
 
 Jeff Limpert, revitalization manager for the city of Reno, greets Jacobs with a fist bump at City Hall.
 
@@ -241,7 +212,6 @@ The council did reject Jacobs' request for 20 years to use his soon-to-expire se
 
 Jacobs had steered the city away from using the project to advance its housing goals. He declined to comment on why he didn't agree to the affordable housing requirement in the draft development agreement.
 
-## ![](_page_23_Picture_4.jpeg)
 
 A public notice posted in an empty lot owned by Jacobs announces the hearing to vote on the development agreement.
 
@@ -287,7 +257,6 @@ Because the benefit is directly proportional to the size of the investment gains
 
 "Maybe that was not all high-quality housing, but until we provide an alternative, even housing of last resort is housing. It's better than a shelter. It's better than under a bridge."
 
-## ![](_page_27_Picture_5.jpeg)
 
 Rooms boarded up at the 7/11 Motor Lodge, a motel recently bought by Jacobs and, like the Castaway, awaiting demolition
 
@@ -317,7 +286,6 @@ When Jacobs moved the tenants out of Nystrom House, Block landed at the Lido Inn
 
 While Block lived at the chapel, Jacobs cleared the land where Nystrom House stood. Built in 1875, it had served as a boarding house for out-of-state divorce seekers in the early 20th century and had been put on the National Register of Historic Places. That had given Block a false sense of security when he moved in.
 
-## ![](_page_30_Picture_2.jpeg)
 
 Nystrom House in an empty lot after being relocated by Jacobs
 
@@ -335,7 +303,6 @@ The property manager told him the rent discount wasn't permanent, he said. She g
 
 It's "like we don't matter," Block said. "It just feels like we're kinda in the way. Like they're just trying to move people that don't make a lot of money. But, being born and raised here, I just feel like that's not fair. I've invested the time in my life to making this a better place."
 
-## ![](_page_31_Picture_5.jpeg)
 
 ## Statues and neon signage at Glow Plaza
 

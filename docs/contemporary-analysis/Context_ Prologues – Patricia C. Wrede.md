@@ -10,9 +10,6 @@ tags:
 
 ## [pcwrede.com](https://pcwrede.com/pcw-wp/context-prologues/)
 
-6–7 minutes
-
-## ![](_page_0_Picture_5.jpeg)
 
 ## Graphic by Peg Ihinger
 
@@ -48,6 +45,4 @@ Having a clear break in time/place/viewpoint between scene #1 and scene #2 does 
 
 On December 11, 2024 / [Writing](https://pcwrede.com/pcw-wp/category/writing/)
 
-## ![](_page_4_Picture_4.jpeg)
 
-## ![](_page_4_Picture_5.jpeg)

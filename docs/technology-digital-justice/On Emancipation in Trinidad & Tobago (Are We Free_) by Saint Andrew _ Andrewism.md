@@ -11,17 +11,9 @@ tags:
 
 Trinidad & Tobago, how free are we?
 
-## ![](_page_0_Picture_5.jpeg)
 
 [Andrew Sage](https://medium.com/@andrew-sage?source=post_page---byline--ba0425a08176---------------------------------------) · [Follow](https://medium.com/m/signin?action Url=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2F2226072014ba&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fandrewism%2Fon-emancipation-ba0425a08176&user=Andrew+Sage&user Id=2226072014ba&source=post_page-2226072014ba--byline--ba0425a08176---------------------post_header------------------) Published in [Andrewism](https://medium.com/andrewism?source=post_page---byline--ba0425a08176---------------------------------------) 9 min read · Aug 1, 2020
 
-## ![](_page_0_Picture_7.jpeg)
-
-## ![](_page_0_Picture_8.jpeg)
-
-## ![](_page_1_Picture_2.jpeg)
-
-## ![](_page_2_Picture_2.jpeg)
 
 Photo by [Jeremy Lishner](https://unsplash.com/@jeremylishner?utm_source=unsplash&utm_medium=referral&utm_content=credit Copy Text) on [Unsplash](https://unsplash.com/s/photos/art?utm_source=unsplash&utm_medium=referral&utm_content=credit Copy Text)
 
@@ -61,7 +53,6 @@ We do not know the depth of our history and culture.
 
 #### Our Ancestors
 
-## ![](_page_4_Picture_2.jpeg)
 
 #### Photo by [Phillip Goldsberry](https://unsplash.com/@phillipgold?utm_source=unsplash&utm_medium=referral&utm_content=credit Copy Text) on [Unsplash](https://unsplash.com/s/photos/african-hut?utm_source=unsplash&utm_medium=referral&utm_content=credit Copy Text)
 
@@ -79,7 +70,6 @@ Colonialism was a terrible force, but what is worse is the ways we continue to p
 
 #### Education
 
-## ![](_page_6_Picture_2.jpeg)
 
 Photo by [moren hsu](https://unsplash.com/@moren?utm_source=unsplash&utm_medium=referral&utm_content=credit Copy Text) on [Unsplash](https://unsplash.com/s/photos/school?utm_source=unsplash&utm_medium=referral&utm_content=credit Copy Text)
 
@@ -94,7 +84,6 @@ thought, development, and ability.
 
 #### Racism
 
-## ![](_page_7_Picture_4.jpeg)
 
 Photo by [Markus Spiske](https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=credit Copy Text) on [Unsplash](https://unsplash.com/s/photos/racism?utm_source=unsplash&utm_medium=referral&utm_content=credit Copy Text)
 
@@ -108,7 +97,6 @@ Our major political parties still stoke racial divides around election times. We
 
 #### Colourism
 
-## ![](_page_8_Picture_2.jpeg)
 
 While many of us embrace our pan-African identity, our refusal to address colourism and texturism in this country will be our downfall.
 
@@ -124,7 +112,6 @@ Even some Indo-Trinidadians face colourism, part of the legacy of the caste syst
 
 #### Sexism
 
-## ![](_page_9_Picture_4.jpeg)
 
 Photo by [Suad Kamardeen](https://unsplash.com/@skmuse_?utm_source=unsplash&utm_medium=referral&utm_content=credit Copy Text) on [Unsplash](https://unsplash.com/s/photos/black-woman?utm_source=unsplash&utm_medium=referral&utm_content=credit Copy Text)
 
@@ -138,7 +125,6 @@ This, of course, is tied to the toxic masculinity that exists in our culture. Be
 
 ## Queerphobia
 
-## ![](_page_11_Picture_2.jpeg)
 
 Photo by [Sharon Mc Cutcheon](https://unsplash.com/@sharonmccutcheon?utm_source=unsplash&utm_medium=referral&utm_content=credit Copy Text) on [Unsplash](https://unsplash.com/s/photos/lgbt-flag?utm_source=unsplash&utm_medium=referral&utm_content=credit Copy Text)
 
@@ -148,7 +134,6 @@ Our prejudice is taught, passed down from colonialism. The reality is that queer
 
 #### Parenthood
 
-## ![](_page_12_Picture_2.jpeg)
 
 Photo by [Segun Osunyomi](https://unsplash.com/@seguneyitayor?utm_source=unsplash&utm_medium=referral&utm_content=credit Copy Text) on [Unsplash](https://unsplash.com/s/photos/black-child?utm_source=unsplash&utm_medium=referral&utm_content=credit Copy Text)
 
@@ -164,7 +149,6 @@ We need to heal.
 
 #### Religion
 
-## ![](_page_13_Picture_5.jpeg)
 
 Photo by [Avel Chuklanov](https://unsplash.com/@chuklanov?utm_source=unsplash&utm_medium=referral&utm_content=credit Copy Text) on [Unsplash](https://unsplash.com/s/photos/africa?utm_source=unsplash&utm_medium=referral&utm_content=credit Copy Text)
 
@@ -212,7 +196,6 @@ I don't expect this to happen easily. I don't expect any political parties to he
 
 Happy Emancipation Day.
 
-## ![](_page_15_Picture_10.jpeg)
 
 You can follow Saint Andrew on Twitter [@\\_saintdrew](http://twitter.com/_saintdrew) and [subscribe on Youtube](https://www.youtube.com/channel/UCN__G2h SqRKuqedN3M0JCDg) where I share my thoughts, opinions, and art. You can also [buy me a coffee.](https://www.buymeacoffee.com/saintdrew)
 
@@ -222,7 +205,6 @@ You can follow Saint Andrew on Twitter [@\\_saintdrew](http://twitter.com/_saint
 
 [History](https://medium.com/tag/history?source=post_page-----ba0425a08176---------------------------------------) [Black History](https://medium.com/tag/black-history?source=post_page-----ba0425a08176---------------------------------------) [Emancipation](https://medium.com/tag/emancipation?source=post_page-----ba0425a08176---------------------------------------) [Liberation](https://medium.com/tag/liberation?source=post_page-----ba0425a08176---------------------------------------) [Society](https://medium.com/tag/society?source=post_page-----ba0425a08176---------------------------------------)
 
-## ![](_page_16_Picture_6.jpeg)
 
 ## Follow
 
@@ -232,7 +214,6 @@ You can follow Saint Andrew on Twitter [@\\_saintdrew](http://twitter.com/_saint
 
 Exploring politics, society, and activism in Trinidad & Tobago.
 
-## ![](_page_16_Picture_11.jpeg)
 
 ## Follow
 
@@ -244,9 +225,6 @@ I'm a writer of words, an artist of arts, and a thinker of thoughts. Founder of 
 
 ## No responses yet
 
-## ![](_page_17_Picture_3.jpeg)
-
-## ![](_page_17_Picture_4.jpeg)
 
 ## Write a response
 
@@ -254,7 +232,6 @@ I'm a writer of words, an artist of arts, and a thinker of thoughts. Founder of 
 
 ### More from Andrew Sage and Andrewism
 
-## ![](_page_17_Picture_8.jpeg)
 
 ## ![](_page_17_Figure_9.jpeg)
 
@@ -264,9 +241,6 @@ I'm a writer of words, an artist of arts, and a thinker of thoughts. Founder of 
 
 Jul 14, 2020 [68](https://medium.com/@andrew-sage/the-education-system-is-broken-87ba86317732?source=post_page---author_recirc--ba0425a08176----0---------------------d4af8999_411f_4094_be7e_72d744028ea2--------------) [2](https://medium.com/@andrew-sage/the-education-system-is-broken-87ba86317732?source=post_page---author_recirc--ba0425a08176----0---------------------d4af8999_411f_4094_be7e_72d744028ea2--------------)
 
-## ![](_page_18_Picture_2.jpeg)
-
-## ![](_page_18_Picture_3.jpeg)
 
 ## [Fixing Port of Spain](https://medium.com/andrewism/fixing-port-of-spain-2d64c5e7cfdf?source=post_page---author_recirc--ba0425a08176----1---------------------d4af8999_411f_4094_be7e_72d744028ea2--------------)
 
@@ -274,8 +248,6 @@ Jul 14, 2020 [68](https://medium.com/@andrew-sage/the-education-system-is-broken
 
 Nov 23, 2020 [70](https://medium.com/andrewism/fixing-port-of-spain-2d64c5e7cfdf?source=post_page---author_recirc--ba0425a08176----1---------------------d4af8999_411f_4094_be7e_72d744028ea2--------------) [1](https://medium.com/andrewism/fixing-port-of-spain-2d64c5e7cfdf?source=post_page---author_recirc--ba0425a08176----1---------------------d4af8999_411f_4094_be7e_72d744028ea2--------------)
 
-## ![](_page_18_Picture_7.jpeg)
-## ![](_page_19_Picture_2.jpeg)
 
 In by Andrewism [Andrew Sage](https://medium.com/@andrew-sage?source=post_page---author_recirc--ba0425a08176----2---------------------d4af8999_411f_4094_be7e_72d744028ea2--------------)
 
@@ -283,7 +255,6 @@ In by Andrewism [Andrew Sage](https://medium.com/@andrew-sage?source=post_page--
 
 [The battle is far from over](https://medium.com/andrewism/on-voting-80d147f74221?source=post_page---author_recirc--ba0425a08176----2---------------------d4af8999_411f_4094_be7e_72d744028ea2--------------)
 
-## ![](_page_19_Picture_6.jpeg)
 
 In by Andrewism [Andrew Sage](https://medium.com/@andrew-sage?source=post_page---author_recirc--ba0425a08176----3---------------------d4af8999_411f_4094_be7e_72d744028ea2--------------)
 
@@ -299,9 +270,6 @@ Dec 14, 2020 [30](https://medium.com/andrewism/ending-sexual-assault-bb97ba6acab
 
 #### Recommended from Medium
 
-## ![](_page_20_Picture_3.jpeg)
-
-## ![](_page_20_Picture_4.jpeg)
 
 ## [I Pretended to Be a Man on a Dating Site—And I Hate What I Discovered](https://medium.com/@Effycutiex/i-pretended-to-be-a-man-on-a-dating-site-and-i-hate-what-i-discovered-4f624593523a?source=post_page---read_next_recirc--ba0425a08176----0---------------------c7d300c3_63f9_404d_bc45_5c2b0177e070--------------)
 
@@ -317,7 +285,6 @@ Dec 14, 2020 [30](https://medium.com/andrewism/ending-sexual-assault-bb97ba6acab
 
 Mar 23, 2018 [344K](https://medium.com/human-parts/laziness-does-not-exist-3af27e312d01?source=post_page---read_next_recirc--ba0425a08176----1---------------------c7d300c3_63f9_404d_bc45_5c2b0177e070--------------) [2220](https://medium.com/human-parts/laziness-does-not-exist-3af27e312d01?source=post_page---read_next_recirc--ba0425a08176----1---------------------c7d300c3_63f9_404d_bc45_5c2b0177e070--------------)
 
-## ![](_page_21_Picture_6.jpeg)
 
 ## ![](_page_22_Figure_2.jpeg)
 
@@ -325,7 +292,6 @@ Mar 23, 2018 [344K](https://medium.com/human-parts/laziness-does-not-exist-3af27
 
 [Jeff Bezos's morning routine has long included the one-hour rule. New neuroscience says yours](https://medium.com/@entrylevelrebel/jeff-bezos-says-the-1-hour-rule-makes-him-smarter-new-neuroscience-says-hes-right-84bf0a6755cf?source=post_page---read_next_recirc--ba0425a08176----0---------------------c7d300c3_63f9_404d_bc45_5c2b0177e070--------------) [probably should too.](https://medium.com/@entrylevelrebel/jeff-bezos-says-the-1-hour-rule-makes-him-smarter-new-neuroscience-says-hes-right-84bf0a6755cf?source=post_page---read_next_recirc--ba0425a08176----0---------------------c7d300c3_63f9_404d_bc45_5c2b0177e070--------------)
 
-## ![](_page_22_Picture_5.jpeg)
 
 ## ![](_page_22_Figure_6.jpeg)
 
@@ -335,22 +301,13 @@ Mar 23, 2018 [344K](https://medium.com/human-parts/laziness-does-not-exist-3af27
 
 5d ago [745](https://medium.com/@nina-vinot/lynn-margulis-the-woman-who-transformed-the-meaning-of-self-and-evolution-b8d0df2959aa?source=post_page---read_next_recirc--ba0425a08176----1---------------------c7d300c3_63f9_404d_bc45_5c2b0177e070--------------) [27](https://medium.com/@nina-vinot/lynn-margulis-the-woman-who-transformed-the-meaning-of-self-and-evolution-b8d0df2959aa?source=post_page---read_next_recirc--ba0425a08176----1---------------------c7d300c3_63f9_404d_bc45_5c2b0177e070--------------)
 
-## ![](_page_23_Picture_2.jpeg)
-
-## ![](_page_23_Picture_3.jpeg)
 
 ## **✍**[I Pressed "Restart" on My Life at 63. Here's What Happened Next](https://medium.com/@photiniorama/i-pressed-restart-on-my-life-at-63-heres-what-happened-next-10a415e04d71?source=post_page---read_next_recirc--ba0425a08176----2---------------------c7d300c3_63f9_404d_bc45_5c2b0177e070--------------)
 
 [I sent a single message that changed everything. My old life crumbled, and what followed was](https://medium.com/@photiniorama/i-pressed-restart-on-my-life-at-63-heres-what-happened-next-10a415e04d71?source=post_page---read_next_recirc--ba0425a08176----2---------------------c7d300c3_63f9_404d_bc45_5c2b0177e070--------------) [pure chaos](https://medium.com/@photiniorama/i-pressed-restart-on-my-life-at-63-heres-what-happened-next-10a415e04d71?source=post_page---read_next_recirc--ba0425a08176----2---------------------c7d300c3_63f9_404d_bc45_5c2b0177e070--------------)
 
-## ![](_page_23_Picture_6.jpeg)
-
-## ![](_page_23_Picture_7.jpeg)
-
-## ![](_page_24_Picture_2.jpeg)
 
 ## [Tesla Can, And Will, Fall Further.](https://medium.com/@wlockett/tesla-can-and-will-fall-further-903e9605f2b5?source=post_page---read_next_recirc--ba0425a08176----3---------------------c7d300c3_63f9_404d_bc45_5c2b0177e070--------------)
 
 [This is just the beginning.](https://medium.com/@wlockett/tesla-can-and-will-fall-further-903e9605f2b5?source=post_page---read_next_recirc--ba0425a08176----3---------------------c7d300c3_63f9_404d_bc45_5c2b0177e070--------------)
 
-## ![](_page_24_Picture_5.jpeg)

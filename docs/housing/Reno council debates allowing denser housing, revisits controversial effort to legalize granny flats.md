@@ -16,7 +16,6 @@ denser housing, revisits
 controversial effort to legalize
 granny flats
 Ben Margiott
-5-6 minutes
 RENO, Nev. (News 4 & Fox 11) -- Five years after rejecting a
 plan to allow so-called granny flats in Reno, the city council
 Wednesday reconsidered the policy, one of several

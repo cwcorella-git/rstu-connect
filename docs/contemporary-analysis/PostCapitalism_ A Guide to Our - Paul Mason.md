@@ -6,13 +6,11 @@ tags:
   - capitalism
 ---
 
-## ![](_page_1_Picture_0.jpeg)
 
 # Paul Mason
 
 ## *A Guide to Our Future*
 
-## ![](_page_2_Picture_3.jpeg)
 
 # Contents
 
@@ -236,7 +234,6 @@ Millions of people are beginning to realize they've been sold a dream that they 
 
 And we need to get on with it.
 
-## ![](_page_20_Picture_0.jpeg)
 
 # Part I
 
@@ -1415,7 +1412,6 @@ What emerges from this shattered dream? The new technical and economic system wi
 
 The question is: can it be capitalism?
 
-## ![](_page_141_Picture_0.jpeg)
 
 # Part II
 
@@ -2665,7 +2661,6 @@ The economy is already producing and reproducing a networked lifestyle and consc
 
 The next question is: what do we have to do to achieve it?
 
-## ![](_page_260_Picture_0.jpeg)
 
 # Part III
 
@@ -3993,7 +3988,6 @@ Postcapitalism will set you free.
 
 Thanks are due to my editor at Penguin, Thomas Penn, and to copyeditors Shan Vahidy and Bela Cunha. Thanks also to my agent Matthew Hamilton, Andrew Kidd before him and the team at Aitken Alexander. The following people and organizations gave me a platform to present early versions of this work, and interrogated it: Pat Kane at NESTA Future Fest; Mike Haynes at Wolverhampton University; Robert Brenner at the Centre for Social Theory and Comparative History, UCLA; Marianne Maeckelbergh and Brandon Jourdan at the *Global Uprisings!* Conference in Amsterdam, 2013; and Opera North, Leeds. Thanks specifically to Aaron Bastani, Eleanor Saitta, Quinn Norton, Molly Crabapple, Laurie Penny, Antonis Vradis and Dimitris Dalakoglou, Ewa Jasciewicz, Emma Dowling, Steve Keen, Arthur Bough and Syd Carson of Morson Group, who have contributed to my thinking about the subjects in this book. Thanks also to my editor at *Channel 4 News*, Ben De Pear, who gave me a month's unpaid leave to finish the first draft; to Channel 4 for giving me the headspace to write it; and to Malik Meer, the editor of the *Guardian*'s G2, who gave me column inches to try out some of these ideas in print. Finally thanks to my wife, Jane Bruton, without whose support, love and brilliance this book would not be possible.
 
-## ![](_page_372_Picture_0.jpeg)
 
 # THE BEGINNING
 
@@ -4017,7 +4011,6 @@ UK | USA | Canada | Ireland | Australia India | New Zealand | South Africa
 
 Allen Lane is part of the Penguin Random House group of companies whose addresses can be found at [global.penguinrandomhouse.com.](http://global.penguinrandomhouse.com/)
 
-## ![](_page_373_Picture_3.jpeg)
 
 ## First published 2015
 

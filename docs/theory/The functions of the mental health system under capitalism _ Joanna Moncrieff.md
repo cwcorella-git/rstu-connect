@@ -23,7 +23,6 @@ tags:
 
 In this blog I look at the functions of the mental health system as they relate to the economic and social structure of society using Marx's economic framework. I conclude that the mental health system is essentially a system of care and control, that is legitimated by the concept of mental illness and that plays a particularly important role in capitalist and Neoliberal societies.
 
-## ![](_page_1_Picture_2.jpeg)
 
 This blog summarises a paper I recently wrote called [the Political Economy of the Mental](https://www.frontiersin.org/articles/10.3389/fsoc.2021.771875/full) [Health System: a Marxist analysis](https://www.frontiersin.org/articles/10.3389/fsoc.2021.771875/full) (1). I wanted to work out what Marx's economic analysis means for the role of the mental health system and also to consider the relevance of some other key Marxist ideas and some of the vast amount of Marxist literature on social institutions in general, and mental health in particular.
 
@@ -96,7 +95,6 @@ The organisation of production under capitalism generates many of the problems w
 
 ## 9 thoughts on "The functions of the mental health system under capitalism"
 
-![](_page_5_Picture_12.jpeg)
 
 ## John March 28, 2022 at 7:38 pm
 
@@ -104,7 +102,6 @@ Seems a reasonable conclusion from my experience working for a public owned util
 
 [Reply](https://joannamoncrieff.com/2022/03/28/the-functions-of-the-mental-health-system-under-capitalism/?replytocom=130409#respond)
 
-## ![](_page_5_Picture_16.jpeg)
 
 ## Neil Broatch March 29, 2022 at 9:14 am
 
@@ -118,7 +115,6 @@ If psychiatric practice is captured by such corporate imperatives, we may expect
 
 #### [Reply](https://joannamoncrieff.com/2022/03/28/the-functions-of-the-mental-health-system-under-capitalism/?replytocom=130422#respond)
 
-![](_page_6_Picture_5.jpeg)
 
 ## Neil Broatch March 29, 2022 at 9:22 am
 
@@ -128,7 +124,6 @@ Also the side effects of the drugs may occasion further prescriptions and thus g
 
 Pingback: Серотониновая теория депрессии опровергнута[? - Psy And Neuro.ru](https://psyandneuro.ru/stati/the-serotonin-fixation-much-ado-about-nothing-new/)
 
-![](_page_6_Picture_10.jpeg)
 
 ## [johnngxe](http://johnngxe.wordpress.com/) October 27, 2022 at 8:19 am
 
@@ -136,7 +131,6 @@ Even if we're aware of this, how do we resist it if already chronically ill and 
 
 #### [Reply](https://joannamoncrieff.com/2022/03/28/the-functions-of-the-mental-health-system-under-capitalism/?replytocom=140669#respond)
 
-## ![](_page_6_Picture_14.jpeg)
 
 [johnngxe](http://johnngxe.wordpress.com/) October 27, 2022 at 8:21 am
 
@@ -144,7 +138,6 @@ Even understanding this, how do we actionable resist it? I'm chronically fatigue
 
 [Reply](https://joannamoncrieff.com/2022/03/28/the-functions-of-the-mental-health-system-under-capitalism/?replytocom=140670#respond)
 
-![](_page_7_Picture_4.jpeg)
 
 ## John Hoggett April 7, 2024 at 2:42 pm
 
@@ -152,7 +145,6 @@ I see the rise of nuerodiversity as both a market to exploit and a desperate att
 
 [Reply](https://joannamoncrieff.com/2022/03/28/the-functions-of-the-mental-health-system-under-capitalism/?replytocom=146267#respond)
 
-![](_page_7_Picture_8.jpeg)
 
 ## [yogaboy69](http://revolutionarycrisisblog.wordpress.com/) February 27, 2025 at 3:17 am awesome topic! have you ever heard of How To Go Mad Without Losing Your Mind, or Madness Is Civilization? those are a couple books whose authors i gather have a similarly nuanced perspectives on stuff like (anti)psychiatry and mental health. i was diagnosed schizoaffective… i tried reading deleuze and guattari but it was a little over my head. i think of them though because they wrote about schizophrenia and capitalism, which intersects with the topic of your essay in a way. always interested to hear people weigh in on this sort of thing.
 
@@ -162,9 +154,6 @@ Pingback: [The functions of the mental health system under capitalism. – Psych
 
 ## Leave a comment
 
-## ![](_page_7_Picture_14.jpeg)
-
-## ![](_page_8_Picture_2.jpeg)
 
 ## Follow me on Twitter
 

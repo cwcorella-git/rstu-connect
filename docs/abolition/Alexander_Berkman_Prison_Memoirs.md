@@ -5546,7 +5546,6 @@ A deep peace pervades me, and I feel a great joy in my heart. "Sasha, what is it
 
 ## June 12, 2011
 
-## ![](_page_447_Picture_2.jpeg)
 
 Alexander Berkman Prison Memoirs of an Anarchist 1912
 

@@ -12,7 +12,6 @@ However, the foundation of a state does not of the United Nations that is based 
 
 Abdullah Ocalan
 
-![](_page_0_Picture_2.jpeg)
 
 Abdullah Ocalan: Democratic Confederalism
 
@@ -337,4 +336,4 @@ The Road Map for Democratization of Turkey and Solution to the Kurdish Question 
 
 Published by: Transmedia Publishing Ltd. – London, Cologne International Initiative Edition 9 780956 751423
 
-![](_page_47_Picture_1.jpeg)
+

@@ -38,7 +38,6 @@ tags:
 
 ## Natasha Lennard
 
-## ![](_page_4_Picture_2.jpeg)
 
 ### First published by Verso 2019 © Natasha Lennard 2019
 

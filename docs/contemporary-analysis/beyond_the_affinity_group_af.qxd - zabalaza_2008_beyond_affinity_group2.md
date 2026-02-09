@@ -9,7 +9,6 @@ tags:
 
 **This collection of three articles examines the how and why of anarchist organisation. The first is a look at the success of the network form of organisation and why it came to the fore in the current period. It then looks at the limitations of that form or organisation. The second article looks at the organisational practise of the first anarchists and in particular Michael Bakunin and re-examines the different levels of organisation he advocated in the light of the needs of anarchists today. The final article asks why anarchist organisations mostly failed to grow following the collapse of the left and identifies why large-scale anarchist organisations are essential if we are to ever overthrow capitalism.**
 
-## ![](_page_0_Picture_1.jpeg)
 
 **Post:** Postnet Suite 47, Private Bag X1, Fordsburg, South Africa, 2033
 
@@ -25,9 +24,6 @@ tags:
 
 *Texts downloaded from http://anarchism.pageabode.com/*
 
-## ![](_page_1_Picture_5.jpeg)
-
-## ![](_page_1_Picture_6.jpeg)
 
 #### **Contents:**
 
@@ -67,7 +63,6 @@ Choices for Anarchists and the Left Page 19 | |
 - **14.** There has been an increase in interest in anarchism as a set of ideas but in English language countries this has not translated into a significant growth in organisation.
 - **15.** Not unreasonable in the context of syndicalism where either the union is capable of taking over the economy on its own or it is not. In terms of non-syndicalist anarchist politics, however, the idea of completing the revolution on a non-syndicalist basis through the creation of other organs of workers' self-management was open. By 1937 a sizeable minority of the CNT were willing to explore this possibility in the form of a revolutionary junta elected (and recallable) by the CNT and CGT workers.
 
-## ![](_page_3_Picture_17.jpeg)
 
 # **The Origins and Limitations of the Network Form of Organisation for Anarchists**
 
@@ -191,7 +186,6 @@ There is something of a false debate facing the anti-capitalist movement. At one
 
 Both see the two organisational methods as in competition with each other. This need not be so, in fact for anarchists both forms should be complementary as the strengths of one are the weaknesses of the other and vice versa. The rapid growth of the movement has strongly favoured the network form, it's now time to look at also building its more coherent partner. That is to build specific anarchist organisations that will work in and with the networks as they emerge.
 
-## ![](_page_8_Picture_0.jpeg)
 
 # **Michael Bakunin - Biography and Contribution to Models of Anarchist Organisation**
 
@@ -502,7 +496,6 @@ This is not simply a historical question. It is true that in western countries r
 
 Where revolutionaries of one form or another have been seen to be a threat, from the Black Panthers, to the Irish civil rights movement, to 1970's Italy, the gloves have come off and the full array of state oppression, including infiltration and provocation have been deployed against them. At the moment the relatively trivial threat of the Black Bloc's on the globalisation demonstrations is seeing an increasing array of state oppression being deployed, including now a fatal shooting. Bakunin's writings provide us with one starting point for looking at the apparent contradiction between wanting to create a libertarian society and needing to overthrow a powerful and authoritarian state to do so.
 
-## ![](_page_18_Picture_2.jpeg)
 
 # **Building the Anti-Capitalist Movement - Organisational Choices for Anarchists and the Left**
 

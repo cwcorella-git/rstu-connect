@@ -6,9 +6,6 @@ tags:
   - urban
 ---
 
-## ![](_page_0_Picture_0.jpeg)
-
-## ![](_page_0_Picture_1.jpeg)
 
 ## **Journal of Contemporary Urban Affairs**
 
@@ -24,7 +21,6 @@ Associate Professor, Girne American University, Cyprus Email: [senem.zeybekoglu@
 
 ### **A B S T R A C T**
 
-## ![](_page_0_Picture_9.jpeg)
 
 *Article history:* Received 12 May 2019 Accepted 11 June 2019 Available online 24 June 2019
 
@@ -54,7 +50,6 @@ We are living in an age of planetary urbanization \(Gandy, 2011\), and some of t
 
 Associate Professor of Architecture and Urban Design at Girne American University, Cyprus Email address: [senem.zeybekoglu@gmail.com](mailto:senem.zeybekoglu@gmail.com)
 
-## ![](_page_1_Picture_1.jpeg)
 
 more industrialized agriculture practices are being applied which result in environmental degradation such as deforestation, degeneration of ecosystems, loss of soil and the production of corps with reduced nutrition values. All these environmental distortions cause social consequences such as unemployment, poverty, and hunger.
 
@@ -80,7 +75,6 @@ As dynamic structures cities both create and emerge from physical, social, envir
 
 In his seminal book "The Production of Space", Henri Lefebvre states that every social organization forms specific physical spaces in consequence of social relationships; therefore, these social organizations also reproduce themselves within those physical spaces \(Lefebvre, 1992\). At this point, Lefebvre presents the difference between social and abstract space: the social space is where the daily life experiences of each member of the society occur. On the contrary, the abstract space is the hierarchical space of politicians, capitalists and planners trying to control the social space of daily life. It is torn down, homogenized and commodified by power, authority and capital \(Gottdiener, 1993\). By associating the production of abstract space with the emergence of the capitalist system, Lefebvre has brought forward the transformation of "use value" arising from the occurrence of daily lives of people in social space, into "exchange value" for politicians, planners and investors approaching the space as a good that can be traded and shaped according to the market dynamics \(Lefebvre, 1992\).
 
-## ![](_page_2_Picture_1.jpeg)
 
 In today's cities, the contradiction between usevalue and exchange-value has become even more explicit. Today, the main driving force behind many urban design and development projects is to attract the global capital, finance and international professional elite to cities, a target set by neoliberal economic policies. Projects of luxurious residential buildings, gated communities, shopping and retail centers are realized through privatization and commodification of urban environments from land to water, from nature to history. As a result of this economic system and urbanization approach, more people are becoming impoverished and dispossessed and forced to live under condition of poverty, without access to proper housing, infrastructure and public services. The environmental and social cost of this transformation is paid off by the impoverished and the dispossessed.
 
@@ -96,7 +90,6 @@ Pressures on the urban spaces arising from the new technical improvements and he
 
 One of the most extensive urban interferences of this period is the renovation of Paris prepared by city planner Georges-Eugène Haussmann who was entrusted by Napoleon III to create a new urban plan for Paris in the 19th century. Having the transportation problem at its focal point, this plan aimed at improving the "hygienic conditions" by destroying "dirty" streets spreading diseases, in accordance with a sense of aesthetics suitable for the monumental style of the period; solving the traffic problem and preventing the riots and rebellions by creating an order that could enable the troops to move easily within the city. Subsequent to the plan, large boulevards were opened in the central area of Paris between 1853 and 1869, thus, thousands of houses were demolished across the city and many had to
 
-## ![](_page_3_Picture_1.jpeg)
 
 leave the city, workers and craftsmen being the majority \(Lampugnani, 1985\).
 
@@ -110,7 +103,6 @@ With the neo-liberal economy getting stronger, the ability to respond to market 
 
 Within this competitive environment, urban managements began to work for producing more marketable city images to attract the capital which gained worldwide mobility as high technology industries, employment, new administrative and managerial institutions, various cultural activities and tourism \(Paddison, 1993\). Within this framework, new urban policies for reinvigorating the economy, and parallel to that several prestige projects implemented in this direction started to emerge, initially in North America, then in several European countries, particularly in England. Former industrial areas and buildings within the city centres were
 
-## ![](_page_4_Picture_1.jpeg)
 
 refurbished with new functions such as business, retail, culture and sports facilities to trigger the property market. The primary aims of these developments, which were pioneered by mega-projects involving trade and recreationoriented transformations of port districts in coastal towns of North America are to enliven the economy by attracting tourists and investors to cities \(Özden, 2010\).
 
@@ -126,7 +118,6 @@ Urban regeneration projects affecting the poor neighbourhoods of the city make a
 
 Can we think of the right to the city as a solution to the problems in the urban space arising from urban regeneration projects and the abstract space's hegemony on the social space? Suggested in 1968 by Henri Lefebvre, the idea of the right to the city emphasizes the "need to restructure the power relations that underlie the production of urban space, fundamentally shifting control away from the capital and the state and toward urban inhabitants" \(Purcell, 2002\). According to Lefebvre, the production of urban space also means "reproducing the
 
-## ![](_page_5_Picture_1.jpeg)
 
 social relations that are bound up in it" \(Purcell, 2002\). For this reason, it requires much more than planning the physical space; "it involves producing and reproducing all aspects of urban life" \(Purcell, 2002\). The right to the city involves two fundamental rights for urban inhabitants: the right to oeuvre (participation) and the right to appropriation. The right to participation asserts that inhabitants of the city must play a central role in all decisions contributing to the production of urban life. The right to appropriation is the right to physical access, presence and use that can be summarized as inhabitants' physical existence in the urban space \(Purcell, 2002\).
 
@@ -138,7 +129,6 @@ The right to the city as defined in these documents is based on protecting and s
 
 The most significant role of these charters and declarations is their possibility of constituting a
 
-## ![](_page_6_Picture_1.jpeg)
 
 guiding framework on the subject of human rights in the city during the process of urban policymaking. The existence of such a framework carries the potential of transforming the concepts about human rights into devices that can be used at the local level in the formation of decision-making and policy production mechanisms; defining what rights mean in the daily lives of urban inhabitants; creating control mechanisms guaranteeing that management unit in various levels act in accordance with human rights, and ensuring that local laws comply with international and national human rights commitments. Generating such a legal framework based on the right to the city is an important step towards creating a democratic and equalitarian urban life enabling all inhabitants to speak out their demands and rights. Of course, the creation of such a framework, which ensures the protection and provision of human rights in urban policymaking, can only be possible with the participation of urban inhabitants.
 
@@ -162,7 +152,6 @@ The authors declare no conflict of interest.
 - Cities Alliance. (2010). *Brazil Ministry of Cities (2010) The City Statute of Brazil A Commentary, Retrieved on 14.02. 2018*.
 - Couch, C., Fraser, C., & Percy, S. (Eds.). (2008). *Urban Regeneration in Europe*. Wiley.
 
-## ![](_page_7_Picture_1.jpeg)
 
 - Ellwood, W. (2002). *Küreselleşmeyi Anlama Kılavuzu, Metis, İstanbul [A Guide to Understanding Globalization, Metis, Istanbul]*.
 - Gandy, M. (Ed.). (2011). *Urban Constellations*. Jovis.
@@ -191,7 +180,6 @@ The authors declare no conflict of interest.
 - Sassen, S. (1998). *Globalization and Its Discontents*. New Press.
 - Thorns, D. C. (2004). *The Transformation of Cities: Urban Theory and Urban Life*. Palgrave.
 
-## ![](_page_8_Picture_1.jpeg)
 
 Torrey, B. B. (2004). Urbanization: An environmental force to be reckoned with. *Population Reference Bureau*, *1*.
 
@@ -203,10 +191,8 @@ UCLG. (2012). European Charter for the Safeguarding of Human Rights in the City.
 
 UN-HABITAT. (2003). *The challenge of slums: global report on human settlements, 2003*. UN-HABITAT.
 
-## ![](_page_8_Picture_7.jpeg)
 
 #### **How to Cite this Article:**
 
 Zeybekoglu, S. (2020). City, Urban Transformation and the Right to the City. *Journal of Contemporary Urban Affairs*, *4*(1), 1-10.
 
-## ![](_page_9_Picture_0.jpeg)

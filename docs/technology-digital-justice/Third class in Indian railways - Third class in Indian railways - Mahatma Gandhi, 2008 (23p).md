@@ -33,7 +33,6 @@ Produced by Bryan Ness, Martin Pettit and the Online Distributed Proofreading Te
 
 ### **GANDHI PUBLICATIONS LEAGUE BHADARKALI-LAHORE**
 
-## ![](_page_3_Picture_0.jpeg)
 
 ## **CONTENTS**
 

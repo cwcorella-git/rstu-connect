@@ -7,7 +7,6 @@ tags:
   - education
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 ### January 1967
 

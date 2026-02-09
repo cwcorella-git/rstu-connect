@@ -12,7 +12,6 @@ tags:
 
 , in
 
-## ![](_page_2_Picture_0.jpeg)
 
 ## Errico Malatesta
 
@@ -132,7 +131,6 @@ One final suggestion: do not try to read the volume in one session. There is too
 
 ## Colchester, August 1995 VR
 
-## ![](_page_12_Picture_1.jpeg)
 
 ### Communism and Individualism (Comment on an article by Max Nettlau)
 
@@ -480,7 +478,6 @@ Even so, we shall take part, but only to work within the masses, outside and if 
 
 ## June 1924
 
-## ![](_page_44_Picture_2.jpeg)
 
 # II
 
@@ -1116,7 +1113,6 @@ As for ourselves, we must not destroy what we cannot replace with something bett
 
 ## May 1 924
 
-## ![](_page_92_Picture_2.jpeg)
 
 Cover of the Freedom Press edition of History of the Makhnovist Movement (1918-1921) by P. Arshinov, 284 pages, £5.00
 
@@ -1339,7 +1335,6 @@ I thank you for the attention you have given to my letter and, in the hope of he
 
 ## Risveglio (Geneva), December 1 929
 
-## ![](_page_112_Picture_1.jpeg)
 
 # VI
 

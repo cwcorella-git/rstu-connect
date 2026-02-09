@@ -11,7 +11,6 @@ tags:
 
 ## lea zeitoun I designboom
 
-3–4 minutes
 
 ## sou fujimoto's master plan for expo 2025 osaka is taking shape
 
@@ -19,7 +18,6 @@ New pictures have surfaced of Sou Fujimoto's 700-meter diameter [wooden](https:/
 
 The proposal was first revealed in December 2020; the Japanese architect has not disclosed an estimated completion date. You can read our complete overview of Expo 2025 Osaka [here](https://www.designboom.com/architecture/first-look-expo-2025-osaka-sou-fujimoto-masterplan-national-pavilions-08-13-2024/).
 
-## ![](_page_1_Picture_3.jpeg)
 
 woden ring roof for Expo 2025 Osaka | render © Sou Fujimoto Architects via [Instagram](https://www.instagram.com/sou_fujimoto/?hl=en)
 
@@ -29,21 +27,15 @@ Jointly with [Tohata Architects & Engineers](https://www.tohata.co.jp/english/) 
 
 Expo Osaka 2025 will run between April 13, 2025 and October 13, 2025 under the theme Designing Future Society for Our Lives, which advocates for a place where cutting-edge technology will be used to create new ideas and alleviate global challenges currently plaguing humankind. Visit the fair [website](https://www.expo2025.or.jp/en/) to stay updated on the latest news.
 
-## ![](_page_3_Picture_2.jpeg)
 
 first look at the construction taking shape in Osaka | image © Sou Fujimoto Architects via [Twitter](https://twitter.com/soufujimoto?lang=en)
 
-## ![](_page_4_Picture_2.jpeg)
 
 ## image © Sou Fujimoto Architects via Twitter
 
-## ![](_page_5_Picture_2.jpeg)
-
-## ![](_page_6_Picture_2.jpeg)
 
 ## image © Sou Fujimoto Architects via Twitter
 
-## ![](_page_6_Picture_4.jpeg)
 
 inspired by traditional Japanese wood building | image © Sou Fujimoto Architects via Instagram
 

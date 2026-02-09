@@ -12,9 +12,6 @@ tags:
 
 ## **WORKING CLASSICS SERIES (3**
 
-## ![](_page_0_Picture_3.jpeg)
-
-## ![](_page_0_Picture_6.jpeg)
 
 ## Murray Bookchin
 
@@ -22,7 +19,6 @@ tags:
 
 ## (3)
 
-## ![](_page_2_Picture_3.jpeg)
 
 ## *Post-Scarcity Anarchism*
 
@@ -1627,7 +1623,6 @@ To rephrase Pierre Reverdys words, the poet now stands on the ramparts—not onl
 
 AK Press is small, in terms of staff and resources, but we also manage to be one of the world's most productive anarchist publishing houses. We publish close to twenty books every year, and distribute thousands of other titles published by like-minded independent presses and projects from around the globe. We're entirely worker-run and democratically managed. We operate without a corporate structure no boss, no managers, no bullshit.
 
-## ![](_page_248_Picture_1.jpeg)
 
 The Friends of AK program is a way you can directly contribute to the continued existence of AK Press, and ensure that we're able to keep publishing books like this one! Friends pay \$25 a month directly into our publishing account (\$30 for Canada, \$35 for international), and receive a copy of every book AK Press publishes for the duration of their membership! Friends also receive a discount on anything they order from our website or buy at a table: 50% on AK titles, and 20% on everything else. We have a Friends of AK ebook program as well: \$15 a month gets you an electronic copy of every book we publish for the duration of your membership. You can even sponsor a very discounted membership for someone in prison.
 
@@ -1645,10 +1640,5 @@ Bookchin makes a trenchant analysis ot«| ative discussion of the ecological cri
 
 MURRAY BOOKCHIN (1921-2006) was' and was an active voice in the ecological at authored numerous books, including: *The Heroic Years 1868-1936; The Philosophy Anarchism, Marxism and the Future ofthe*
 
-## ![](_page_251_Picture_7.jpeg)
-
-## ![](_page_251_Picture_8.jpeg)
-
-## ![](_page_251_Picture_9.jpeg)
 
 www.akp

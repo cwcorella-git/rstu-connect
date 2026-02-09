@@ -11,7 +11,6 @@ tags:
 
 ## Murray Bookchin
 
-## ![](_page_0_Picture_2.jpeg)
 
 # **Contents**
 
@@ -362,7 +361,6 @@ A year later "Toward a Liberatory Technology," my account of the social and tech
 
 ## Murray Bookchin August 20, 2004
 
-![](_page_30_Picture_0.jpeg)
 
 # **Post-Scarcity Anarchism**
 
@@ -1074,7 +1072,6 @@ We can envision young people renewing social life just as they renew the human s
 
 ## New York January 1968
 
-![](_page_97_Picture_0.jpeg)
 
 # **Listen, Marxist!**
 
@@ -1486,7 +1483,6 @@ To sum up: what I am talking about is a human condition reflected by the word "p
 
 ## New York August 1970
 
-![](_page_136_Picture_0.jpeg)
 
 # **1. France: A Movement for Life**
 
@@ -1688,7 +1684,6 @@ facet of life and experience. Its fulfillment may be beyond our wildest visions,
 
 #### The Anarchist Library Anti-Copyright
 
-## ![](_page_156_Picture_1.jpeg)
 
 #### Murray Bookchin Post-Scarcity Anarchism 1971, 1986
 

@@ -9,7 +9,6 @@ tags:
   - workers
 ---
 
-## ![](_page_0_Picture_2.jpeg)
 
 **Albert Richard Parsons** (June 20, 1848 – November 11, 1887) was a pioneering American [socialist](https://en.wikipedia.org/wiki/Socialist) and later [anarchist](https://en.wikipedia.org/wiki/Anarchism_in_the_United_States) newspaper editor, orator, and labor activist. As a teenager, he served in the military force of the [Confederate](https://en.wikipedia.org/wiki/Confederate_States_of_America) [States of America](https://en.wikipedia.org/wiki/Confederate_States_of_America) in Texas, during the [American Civil](https://en.wikipedia.org/wiki/American_Civil_War) [War.](https://en.wikipedia.org/wiki/American_Civil_War) After the war, he settled in [Texas,](https://en.wikipedia.org/wiki/Texas) and became an activist for the rights of former slaves, and later a [Republican](https://en.wikipedia.org/wiki/Republican_party_(United_States)) official during [Reconstruction.](https://en.wikipedia.org/wiki/Reconstruction_era) With his wife [Lucy Parsons,](https://en.wikipedia.org/wiki/Lucy_Parsons) he then moved to [Chicago](https://en.wikipedia.org/wiki/Chicago) in 1873 and worked in newspapers. There he became interested in the rights of workers. In 1884, he began editing *[The Alarm](https://en.wikipedia.org/wiki/The_Alarm_(newspaper))* newspaper. Parsons was one of four Chicago radical leaders controversially convicted of conspiracy and hanged following a bomb attack on police remembered as the [Haymarket a](https://en.wikipedia.org/wiki/Haymarket_affair)ffair.
 
@@ -23,7 +22,6 @@ Albert's parents both died when he was a small child, leaving the boy to be rais
 
 #### **Albert Parsons**
 
-## ![](_page_0_Picture_10.jpeg)
 
 ## **Born** Albert Richard Parsons
 
@@ -85,7 +83,6 @@ The coming of the [American Civil War](https://en.wikipedia.org/wiki/American_Ci
 
 Upon his return, Parsons sought to enlist in the regular [Confederate States Army,](https://en.wikipedia.org/wiki/Confederate_States_Army) an idea ridiculed by his employer and guardian at the time, publisher [Willard Richardson](https://en.wikipedia.org/wiki/Willard_Richardson) of the Galveston *Daily News.*[\[5\]](#page-7-4) Parsons left his job at the paper, joining an [artillery](https://en.wikipedia.org/wiki/Artillery) company at a hastily constructed fort at [Sabine Pass,](https://en.wikipedia.org/wiki/Sabine_Pass,_Texas) [Texas,](https://en.wikipedia.org/wiki/Sabine_Pass,_Texas) where an elder brother was the captain of an [infantry](https://en.wikipedia.org/wiki/Infantry) company.[\[5\]](#page-7-4) For a year, Parsons participated in [military drill](https://en.wikipedia.org/wiki/Foot_drill) and served as a ["powder monkey"](https://en.wikipedia.org/wiki/Powder_monkey) for the cannoneers.[\[5\]](#page-7-4) Upon the expiration of his first enlistment, Parsons left Fort Sabine to join the [cavalry](https://en.wikipedia.org/wiki/Cavalry) unit of the brother who had previously brought him to Texas, the [12th Regiment of Texas Cavalry,](https://en.wikipedia.org/wiki/12th_Texas_Cavalry_Regiment) also known as
 
-## ![](_page_1_Picture_8.jpeg)
 
 [Lucy Parsons,](https://en.wikipedia.org/wiki/Lucy_Parsons) as she appeared in 1886.
 
@@ -117,7 +114,6 @@ As an interested observer, Parsons attended the final convention of the [Nationa
 
 Parsons was also involved with the Knights of Labor during its embryonic period. He joined the [Knights of Labor,](https://en.wikipedia.org/wiki/Knights_of_Labor) known then as "The Noble and Holy Order of the Knights of Labor," on July 4, 1876, after having been invited to speak at a mass meeting of workers.
 
-## ![](_page_3_Picture_5.jpeg)
 
 Steel engraving of Albert R. Parsons used as a frontis piece for his 1889 memoir.
 
@@ -173,7 +169,6 @@ Authorities apprehended seven men in the days after the events in the Haymarket.
 
 William Perkins Black, a corporate lawyer, led the defense, despite inevitably becoming ostracized from his peers and losing business for this choice. Witnesses testified that none of the eight threw the bomb. However, all were found guilty, and only [Oscar](https://en.wikipedia.org/wiki/Oscar_Neebe) [Neebe](https://en.wikipedia.org/wiki/Oscar_Neebe) was sentenced to 15 years in prison, while the rest of them were sentenced to death. [Samuel Fielden](https://en.wikipedia.org/wiki/Samuel_Fielden) and [Michael Schwab](https://en.wikipedia.org/wiki/Michael_Schwab) asked for clemency and their sentences were commuted to life in prison on November 10, 1887, by Governor [Richard James](https://en.wikipedia.org/wiki/Richard_James_Oglesby) [Oglesby,](https://en.wikipedia.org/wiki/Richard_James_Oglesby) who lost popularity for this decision. These three men
 
-## ![](_page_6_Picture_5.jpeg)
 
 Albert Parsons (top left) and the six other prominent Chicago radicals initially condemned to death for the 1886 Haymarket bombing.
 
@@ -203,7 +198,6 @@ His wife, [Lucy Parsons,](https://en.wikipedia.org/wiki/Lucy_Parsons) was notewo
 
 A historical marker dedicated to Albert and [Lucy](https://en.wikipedia.org/wiki/Lucy_Parsons) Parsons was erected in 1997 by the City of Chicago at the location of their home, 1908 North Mohawk Street, in the [Old Town](https://en.wikipedia.org/wiki/Old_Town,_Chicago) neighborhood.[\[27\]](#page-8-21)
 
-## ![](_page_7_Picture_9.jpeg)
 
 Parsons' children with Lucy: Albert Richard Parsons Jr. (1879–1919) and Lulu Eda Parsons (1881–1889)
 
@@ -211,7 +205,6 @@ Parsons' children with Lucy: Albert Richard Parsons Jr. (1879–1919) and Lulu E
 
 ▪ [Haymarket Martyrs' Monument](https://en.wikipedia.org/wiki/Haymarket_Martyrs%27_Monument)
 
-## ![](_page_7_Picture_13.jpeg)
 
 # **Footnotes**
 

@@ -1,5 +1,5 @@
 ---
-title: "*We Need* PEOPLE POWER"
+title: "We Need PEOPLE POWER"
 date: 2023
 category: "contemporary-analysis"
 tags:
@@ -17,9 +17,6 @@ tags:
 
 A Framing Essay for the 2023 Copenhagen People Power Conference
 
-## ![](_page_2_Picture_4.jpeg)
-
-## ![](_page_2_Picture_5.jpeg)
 
 *We Need People Power to Address a World in Peril: A Framing Essay for the 2023 Copenhagen People Power Conference* By Hrdy Merrimn (2023)
 
@@ -425,7 +422,6 @@ In a world facing convergent crises—where authoritarianism spreads, climate ch
 
 Drawing insights from research and practice, this volume reveals the indispensable role of popular nonviolent movements—using tactics such as strikes, boycotts, protest, and other acts of noncooperation—to counter these crises. It further offers insights into how institutional allies can better align with these movements to drive change.
 
-## ![](_page_55_Picture_2.jpeg)
 
 ## ![](_page_55_Figure_3.jpeg)
 

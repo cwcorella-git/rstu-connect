@@ -9,7 +9,6 @@ tags:
 
 Civil Resistance Breakthroughs and the Path to Democracy
 
-## ![](_page_0_Picture_3.jpeg)
 
 How to Win Well: Civil Resistance Breakthroughs and the Path to Democracy by Jonathan Pinckney (2021) Published by ICNC Press
 
@@ -31,7 +30,6 @@ COPY EDITOR: Julia Constantine SPECIAL REPORT SERIES EDITOR: Dr. Maciej Bartkows
 
 ## Jonathan Pinckney
 
-## ![](_page_2_Picture_4.jpeg)
 
 ## Table of Contents
 

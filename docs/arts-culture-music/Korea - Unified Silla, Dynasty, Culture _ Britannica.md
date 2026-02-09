@@ -11,7 +11,6 @@ tags:
 
 ## The Editors of Encyclopaedia Britannica
 
-8–11 minutes
 
 #### [Geography & Travel](https://www.britannica.com/browse/Geography-Travel) [Historical Places](https://www.britannica.com/browse/Historical-Places)
 

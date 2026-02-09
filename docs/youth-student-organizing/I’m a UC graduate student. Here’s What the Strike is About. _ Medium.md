@@ -9,19 +9,14 @@ tags:
 
 ## re. Marx
 
-19–24 minutes
 
 ## **Hint: It's not about a low hourly rate.**
 
-## ![](_page_0_Picture_7.jpeg)
-
-14 min read
 
 ## Nov 29, 2022
 
 ## Press enter or click to view image in full size
 
-## ![](_page_0_Picture_11.jpeg)
 
 A rally on Memorial Glade at UC Berkeley, one of the 10 UC campuses, which together on November 14 declared an indefinite all-grad student strike for a cost of living adjustment (COLA). [Image Source](https://48hills.org/2022/11/inside-the-uc-academic-workers-strike/)
 

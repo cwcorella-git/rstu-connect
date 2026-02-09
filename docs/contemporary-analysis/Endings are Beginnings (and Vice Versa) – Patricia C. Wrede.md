@@ -10,9 +10,6 @@ tags:
 
 ## [pcwrede.com](https://pcwrede.com/pcw-wp/endings-are-beginnings-and-vice-versa/)
 
-6–7 minutes
-
-## ![](_page_0_Picture_5.jpeg)
 
 ## Graphic by Peg Ihinger
 
@@ -42,6 +39,4 @@ The through line of most stories is solving a central story problem, which may o
 
 On May 28, 2025 / [Writing](https://pcwrede.com/pcw-wp/category/writing/)
 
-## ![](_page_4_Picture_4.jpeg)
 
-## ![](_page_4_Picture_5.jpeg)

@@ -818,7 +818,6 @@ I believe in workers control of society and industry, so I am an Anarcho-Syndica
 
 I do not believe in government, and so I am an Anarchist. I believe that government is one of the worst forms of modern oppression, is the source of war and economic oppression, and must be overthrown. Anarchism means that we will have more democracy, social equality, and economic prosperity. I oppose all forms of oppression found in modern society: patriarchy, white supremacy, Capitalism, State Communism, religious dictates, gay discrimination, etc.
 
-![](_page_69_Picture_0.jpeg)
 
 # **A Short Biography of Lorenzo Kom'boa Ervin**
 
@@ -836,7 +835,6 @@ In retaliation for his activism, the white power structure has sought to frame E
 
 ## The Anarchist Library Anti-Copyright
 
-## ![](_page_72_Picture_1.jpeg)
 
 #### Lorenzo Kom'boa Ervin Anarchism and the Black Revolution 1993
 

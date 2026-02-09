@@ -62,21 +62,12 @@ The application of principles and to create structures and forms in Modern archi
 
 Further adoption of these principles helped to establish a pragmatic approach, not only in the practice of architecture, but also by setting the path to a new sense of citizenship and responsibility. In this sense, Hilberseimer certainly walked his talk, showing his advocacy of pedestrian cities by walking, every class day, the 8.5km the separated his apartment at 1510, North Dearborn Street, from the IIT campus in Chicago's South Side. However, he is remembered as someone who avoided the sun.5 He always preferred walking under the shade.
 
-## ![](_page_3_Picture_1.jpeg)
-
-## ![](_page_3_Picture_2.jpeg)
-
-## ![](_page_3_Picture_3.jpeg)
-
-## ![](_page_3_Picture_4.jpeg)
 
 Figure 2. "Elkhorn Replanned", Ludwig Hilberseimer: *The Nature of Cities. Chicago*, Paul Theobald, 1955, 233.
 
-## ![](_page_4_Picture_1.jpeg)
 
 Figure 3. Myrto Costikas, *Athens Replanned*. Master Thesis (not published), Paul V. Galvin Library, Illinois Institute of Technology, 1960.
 
-## ![](_page_5_Picture_1.jpeg)
 
 Figure 4. Fikry Maguib Morkos, *The Egyptian Village*. Ph. D. Thesis (not published), Paul V. Galvin Library, Illinois Institute of Technology, 1958.
 

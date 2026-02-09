@@ -9,7 +9,6 @@ tags:
   - workers
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 # [Koustuv Saha](https://orcid.org/0000-0002-8872-2934)
 
@@ -67,9 +66,6 @@ Our study included two groups of participants — 1) Treatment participants, who
 
 We conducted our study with U. S.-based information workers through the Dscout platform. Dscout is a qualitative remote research platform [\[55\]](#page-7-2), where individuals can sign-up as "scouts" to participate in various research studies (or "missions") posted by research and product teams. First, we included a screening survey
 
-![](_page_1_Picture_10.jpeg)
-
-## ![](_page_1_Picture_11.jpeg)
 
 Figure 1: Example figures to demonstrate configuring and using Focus Time feature on Outlook calendar.
 

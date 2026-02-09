@@ -315,7 +315,6 @@ For example, in he ace o he ac ha srikes, proess, and occupaions have become dom
 
 # The Anarchist Library Anti-Copyright
 
-## ![](_page_18_Picture_1.jpeg)
 
 # Humanaesfera A social history of the internet Of conjuration, bubbles, and subsumption to capital 2018
 

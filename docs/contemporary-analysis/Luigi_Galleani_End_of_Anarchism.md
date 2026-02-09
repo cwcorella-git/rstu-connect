@@ -1380,7 +1380,6 @@ The original edition of this book had very few footnotes: they have all been tra
 
 #### Library. Anarhija. Net
 
-## ![](_page_94_Picture_1.jpeg)
 
 #### Luigi Galleani The End of Anarchism? 1925
 

@@ -9,13 +9,11 @@ tags:
   - wikipedia
 ---
 
-## ![](_page_0_Picture_2.jpeg)
 
 The **paradox of tolerance** is a [philosophical concept](https://en.wikipedia.org/wiki/Philosophical_concept) suggesting that if a [society](https://en.wikipedia.org/wiki/Society) extends [tolerance](https://en.wikipedia.org/wiki/Toleration) to those who are intolerant, it risks enabling the eventual dominance of [intolerance;](https://en.wiktionary.org/wiki/intolerance) thereby undermining the very principle of tolerance. This [paradox](https://en.wikipedia.org/wiki/Paradox) was articulated by philosopher [Karl](https://en.wikipedia.org/wiki/Karl_Popper) [Popper](https://en.wikipedia.org/wiki/Karl_Popper) in *[The Open Society and Its Enemies](https://en.wikipedia.org/wiki/The_Open_Society_and_Its_Enemies)* (1945),[\[1\]](#page-4-0) where he argued that a truly tolerant society must retain the [right](https://en.wikipedia.org/wiki/Right) to deny tolerance to those who promote intolerance. Popper posited that if intolerant ideologies are allowed unchecked expression, they could exploit [open society](https://en.wikipedia.org/wiki/Open_society) values to erode or destroy tolerance itself through [authoritarian](https://en.wikipedia.org/wiki/Authoritarian) or oppressive practices.
 
 The paradox has been widely discussed within [ethics](https://en.wikipedia.org/wiki/Ethics) and [political philosophy,](https://en.wikipedia.org/wiki/Political_philosophy) with varying views on how tolerant societies should respond to intolerant forces. [John Rawls,](https://en.wikipedia.org/wiki/John_Rawls) for instance, argued that a [just society](https://en.wikipedia.org/wiki/Just_society) should generally tolerate the intolerant, reserving [self-preservation](https://en.wikipedia.org/wiki/Self-preservation) actions for only when intolerance poses a concrete threat to liberty and stability. Other thinkers, such as [Michael Walzer,](https://en.wikipedia.org/wiki/Michael_Walzer) have examined how [minority groups](https://en.wikipedia.org/wiki/Minority_group), which may hold intolerant
 
-## ![](_page_0_Picture_6.jpeg)
 
 Personification of Tolerance, a statue displayed in [Lužánky](https://en.wikipedia.org/wiki/Lu%C5%BE%C3%A1nky)
 
@@ -27,7 +25,6 @@ This paradox raises complex issues about the limits of freedom, especially conce
 
 One of the earliest formulations of the "paradox of tolerance" is given in the notes of [Karl Popper'](https://en.wikipedia.org/wiki/Karl_Popper)s *[The Open](https://en.wikipedia.org/wiki/The_Open_Society_and_Its_Enemies) [Society and Its Enemies](https://en.wikipedia.org/wiki/The_Open_Society_and_Its_Enemies)* in 1945. Popper raises the paradox in the chapter notes regarding "The Principle of Leadership", connecting the paradox to his refutation of [Plato'](https://en.wikipedia.org/wiki/Plato)s defense of ["benevolent despotism"](https://en.wikipedia.org/wiki/Benevolent_despotism). In the main text, Popper addresses Plato's similar "paradox of freedom": Plato points out the contradiction inherent in unchecked freedom, as it implies the freedom to act to limit the freedom of others. Plato argues that true democracy inevitably leads to tyranny, and suggests that the rule of an enlightened ["philosopher-king"](https://en.wikipedia.org/wiki/Philosopher-king) (cf. [Noocracy\)](https://en.wikipedia.org/wiki/Noocracy) is preferable to the tyranny of [majority rule.](https://en.wikipedia.org/wiki/Majority_rule)[\[2\]](#page-4-1)
 
-## ![](_page_1_Picture_2.jpeg)
 
 [Karl Popper](https://en.wikipedia.org/wiki/Karl_Popper) wrote on tolerance of intolerance in Vol. 1 of [The Open Society](https://en.wikipedia.org/wiki/The_Open_Society_and_Its_Enemies) [and Its Enemies](https://en.wikipedia.org/wiki/The_Open_Society_and_Its_Enemies), published in 1945.
 
@@ -39,7 +36,6 @@ Political theorist [Gaetano Mosca](https://en.wikipedia.org/wiki/Gaetano_Mosca) 
 
 Either way, philosopher [John Rawls](https://en.wikipedia.org/wiki/John_Rawls) concludes differently in his 1971 *[A Theory](https://en.wikipedia.org/wiki/A_Theory_of_Justice) [of Justice](https://en.wikipedia.org/wiki/A_Theory_of_Justice)*, stating that a just society must tolerate the intolerant, for otherwise, the society would then itself be intolerant, and thus unjust. However, Rawls qualifies this assertion, conceding that under extraordinary circumstances, if constitutional safeguards do not suffice to ensure the security of the tolerant and the institutions of liberty, a tolerant society has a reasonable right to [self](https://en.wikipedia.org/wiki/Self-preservation)[preservation](https://en.wikipedia.org/wiki/Self-preservation) to act against intolerance if it would limit the liberty of others under a just constitution. Rawls emphasizes that the liberties of the intolerant
 
-## ![](_page_1_Picture_9.jpeg)
 
 [Gaetano Mosca,](https://en.wikipedia.org/wiki/Gaetano_Mosca) leading proponent of early [elite theory](https://en.wikipedia.org/wiki/Elite_theory)
 

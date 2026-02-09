@@ -10,7 +10,6 @@ tags:
 
 *The Politics of Crisis* DAV ID MADDEN PETER MARCUSE
 
-## ![](_page_1_Picture_2.jpeg)
 
 ### First published by Verso 2016 © David Madden and Peter Marcuse, 2016 All rights reserved
 

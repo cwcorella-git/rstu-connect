@@ -51,6 +51,5 @@ Sincerely,
 
 ## The Free Software Foundation Board of Directors
 
-## ![](_page_2_Picture_6.jpeg)
 
 Send your feedback on our translations and new translations of pages to [campaigns@fsf.org.](mailto:campaigns@fsf.org)

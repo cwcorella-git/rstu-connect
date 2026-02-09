@@ -6,31 +6,15 @@ tags:
   - theory
 ---
 
-## ![](_page_0_Picture_0.jpeg)
-
-## ![](_page_1_Picture_0.jpeg)
 
 ## HEAVY SPOILER WARNING
 
-## ![](_page_1_Picture_3.jpeg)
 
 # MAKING ALICE ASY LUM A R EALIT Y. THE STORY SO FAR.
 
-## ![](_page_1_Picture_9.jpeg)
-
-## ![](_page_1_Picture_10.jpeg)
-
-## ![](_page_1_Picture_11.jpeg)
-
-## ![](_page_1_Picture_12.jpeg)
 
 ## **A L ICE 1**
 
-## ![](_page_1_Picture_13.jpeg)
-
-## ![](_page_1_Picture_14.jpeg)
-
-## ![](_page_1_Picture_15.jpeg)
 
 ## **A L ICE 2**
 
@@ -46,13 +30,6 @@ This design bible was created in an effort to spur new investment opportunities,
 
 **This creative journey would not have been possible without the support, help and love shown by Alice's fans.**
 
-## ![](_page_1_Picture_25.jpeg)
-
-## ![](_page_2_Picture_0.jpeg)
-
-## ![](_page_2_Picture_1.jpeg)
-
-## ![](_page_2_Picture_4.jpeg)
 
 Cr e at i v e T e a m Dir ector , Lead Narrative & Game Design
 
@@ -74,57 +51,42 @@ C om mun i t y M a n age m en t & Custom er Fu lfil m en t
 |----------------|-----------------|-----------------|
 | Jennifer Daww | Dario Marzadori | Gareth Keenan |
 
-## ![](_page_2_Picture_15.jpeg)
 
 Thank you to all of our Patrons and Insane Children
 
 The *Alice: Asylum* project was made possible thanks to the generous and consistent support our worldwide community of fans and supporters. Thank you for your trust, faith, feedback and input into this creative journey and undertaking. We could not have made this vision without you.
 
-## ![](_page_2_Picture_19.jpeg)
 
 # QUESTIONS TO NSWER
 
 # WHAT IS THE GAME?
 
-## ![](_page_3_Picture_3.jpeg)
 
 ## SINGLE PLAYER EXPERIENCE
 
 Alice Asylum is the third game in the "American Mc Gee's Alice" series. (American Mc Gee's Alice, 2000 & Alice: Madness Returns, 2011).
 
-## ![](_page_3_Picture_6.jpeg)
 
 The games retain a cult following among millions of fans worldwide. Previous installments are renowned for their exploration of psychological trauma through action, art, and story.
 
-## ![](_page_3_Picture_8.jpeg)
 
 ## 3D WORLD EXPLORATION
 
-## ![](_page_3_Picture_10.jpeg)
 
 ## THIRD PERSON PERSPECTIVE
 
-## ![](_page_3_Picture_12.jpeg)
 
 LINEAR PROGRESSION With Optional Sidequests + Secrets
 
-## ![](_page_3_Picture_14.jpeg)
 
 ## NARRATIVE DRIVEN GAME
 
-## ![](_page_3_Picture_16.jpeg)
 
 PROJECTED RELEASE UPON ALL MAJOR CONSOLES, PC PLATFORMS & NEXT-GEN CONSOLES
 
-## ![](_page_3_Picture_18.jpeg)
-
-## ![](_page_3_Picture_19.jpeg)
-
-## ![](_page_3_Picture_20.jpeg)
 
 ## XBOX X PS
 
-## ![](_page_3_Picture_22.jpeg)
 
 # WHAT IS THE STORY?
 
@@ -140,31 +102,24 @@ Her arsenal includes Toys as Weapons, The Vorpal Blade, and a Collection of Magi
 
 # WHAT IS THE GAME LOOP?
 
-## ![](_page_3_Picture_31.jpeg)
 
 ## NARRATIVE [
 
-## ![](_page_3_Picture_33.jpeg)
 
 ## $\Pi\Pi$
 
 ## CURIOSITY + DISCOVERY
 
-## ![](_page_3_Picture_36.jpeg)
-
-## ![](_page_3_Picture_38.jpeg)
 
 ## SPATIAL CHALLENGES
 
 ## **DIFFICULTY CURVE**
 
-## ![](_page_3_Picture_41.jpeg)
 
 EASY MECHANICS TO PICK UP AND PLAY AND FOR A BEGINNER. CASUAL PLAY ENCOURAGED ON LOWER DIFFICULTY PLAY-THROUGHS.
 
 ADVANCED OPTIONS AND DEEP CUSTOMIZATION IS ENCOURAGED FOR EXPERT LEVEL PLAY. IN-DEPTH GAMEPLAY STRATEGY & PLAYER BUILD EXPERIMENTATION REQUIRED TO SUCCEED ON HIGHER DIFFICULTIES.
 
-## ![](_page_3_Picture_44.jpeg)
 
 ## GAME LOOP NOTES
 
@@ -179,7 +134,6 @@ ADVANCED OPTIONS AND DEEP CUSTOMIZATION IS ENCOURAGED FOR EXPERT LEVEL PLAY. IN-
 
 ## V
 
-## ![](_page_3_Picture_55.jpeg)
 
 Session / Sitting Length: 1-3 Hours.
 
@@ -191,7 +145,6 @@ Total Game Length: 20-30 Hours.
 
 ## INCLUDING GAMEPLAY & KEY CUTSCENES
 
-## ![](_page_3_Picture_60.jpeg)
 
 ## WHAT IS THE TECH & ENGINE DECISION?
 
@@ -213,25 +166,21 @@ Proximity to Epic China support team and close relationship with leadership ensu
 
 ## **NIGHTMAR**
 
-## ![](_page_4_Picture_6.jpeg)
 
 For players who would rather focus on the narrative and enjoy the experience of *Alice:*Asylum at a gentle pace.
 
 Combat is heavily weighted in the player's favour, with unlimited ammo and resources, and a reduction of damage taken from all sources. Enemies are much less aggressive in combat.
 
-## ![](_page_4_Picture_9.jpeg)
 
 For players who want a healthy balance of gameplay and narrative focus. This mode is made to play *Alice:*Asylum as intended.
 
 Combat is balanced and staggered consistently, with a steady introduction of core mechanics and resource management as the combat escalates later in-game.
 
-## ![](_page_4_Picture_12.jpeg)
 
 For players who want a challenge and to be tested in their gameplay experience. This mode is tailored towards veteran *Alice: Asylum* players who are already familiar with the core game mechanics.
 
 Resource management and player skill is critical to succeed in this game mode.
 
-## ![](_page_4_Picture_15.jpeg)
 
 For players who want to be chewed up, spat out and eaten alive by their *Alice:*Asylum gameplay experience.
 
@@ -239,27 +188,22 @@ Damage taken is increased, enemies are very aggressive and resources are limited
 
 This mode isn't even remotely fair. Intended for players looking for an intense, nail-biting challenge.
 
-## ![](_page_4_Picture_18.jpeg)
 
 ## Ultra-Nightmare Difficulty
 
 ## SECRET UNLOCKABLE GAMEPLAY MODE
 
-## ![](_page_4_Picture_21.jpeg)
 
 ## PLAYABLE AFTER FIRST GAME COMPLETION
 
-## ![](_page_4_Picture_23.jpeg)
 
 A gameplay mode designed to be so cruel it is not immediately accessibile from booting up the game. This mode follows the core gameplay style of Nightmare difficulty, but also introduces "perma-death". Meaning once Alice is killed or her health is reduced to zero, the game ends, and the player must start from the beginning. No save points are available in this game mode.
 
-## ![](_page_4_Picture_25.jpeg)
 
 # ETHOS & GAME DESIGN APPROACH #01
 
 - A SET PATH TO FOLLOW · A DIFFERENT EXPERIENCE TO BE FOUND FACH TIME
 
-## ![](_page_4_Picture_28.jpeg)
 
 ## SOFT GATED AREAS
 
@@ -267,7 +211,6 @@ A gameplay mode designed to be so cruel it is not immediately accessibile from b
 
 The player can navigate the area freely, getting from point A to B and progressing in a linear fashion using any manner of skills and abilities available to them. The player must achieve a certain goal (ie: solve a puzzle, defeat a boss, defeat all enemies, collect a required item) in order to progress to the next area.
 
-## ![](_page_4_Picture_33.jpeg)
 
 The above mockup presents a classic "Soft Gate" scenario of potential gameplay.
 
@@ -279,11 +222,9 @@ Alice charges into the fray and solves her problems with her Vorpal Blade and ra
 
 ## SOFT GATED AREAS
 
-## ![](_page_4_Picture_38.jpeg)
 
 If Alice is feeling sneaky, she can avoid conflict directly and jump up to the broken ledges to her right. Watching the enemies patterns of movement & line of sight, if she times it right, she can pass by undetected.
 
-## ![](_page_4_Picture_40.jpeg)
 
 Hidden tricks in each situation may present pleasant results. In this instance, precariously balancing clocks lurk in the shadows at the back of the room. With a sure ranged strike, Alice can smother the enemies in debris from afar, eliminating them, and skipping the fight, freeing her up to explore a hidden area.
 
@@ -345,25 +286,11 @@ further damage being deducted from Alice's health. When active,
 
 - A Constantly Changing Battle Field • **Adapt And You M ay Survive**•
 
-## ![](_page_7_Picture_6.jpeg)
-
-## ![](_page_7_Picture_7.jpeg)
-
-## ![](_page_7_Picture_9.jpeg)
-
-## ![](_page_7_Picture_12.jpeg)
-
-## ![](_page_7_Picture_17.jpeg)
-
-## ![](_page_7_Picture_22.jpeg)
-
-## ![](_page_7_Picture_28.jpeg)
 
 # INTRODUCTION
 
 # BY AMERICAN McGEE
 
-## ![](_page_8_Picture_2.jpeg)
 
 **el ipsae corruptas magnis magnate estor alisti re rem es eatusdaerum vendus.** Sequati nistis aboratur as quide vent mod ut ipite lit que nihilibus.
 
@@ -387,9 +314,6 @@ Ximus etur? Alibus, que si tecte nitatiu rescit exces es ea aut laborporibus est
 
 *Creative Director, Mysterious Studios Shanghai, December 2022*
 
-## ![](_page_8_Picture_15.jpeg)
-
-## ![](_page_8_Picture_16.jpeg)
 
 ## Alice
 
@@ -415,19 +339,16 @@ The sound of a clock similar to what we heard at the start of *Madness Returns* 
 
 The sound then changes into a rapidly beating heart.
 
-## ![](_page_10_Picture_0.jpeg)
 
 # 0.1 **The Slumber**
 
 ## Resistance • Slumber Encounter #1
 
-## ![](_page_10_Picture_4.jpeg)
 
 Alice opens her eyes, she is alone.
 
 We **PLAY** as a frightened 13-year-old Alice running through a moonlit, snow-covered English garden. This is **The Slumber**, a manifestation of Alice's childhood memories. It serves as the **First Tutorial for Basic Movement** - *walking, running, climbing, and jumping.*
 
-## ![](_page_10_Picture_8.jpeg)
 
 ## A lice
 
@@ -435,25 +356,16 @@ We **PLAY** as a frightened 13-year-old Alice running through a moonlit, snow-co
 
 ## *"Hunting me..."*
 
-## ![](_page_10_Picture_12.jpeg)
-
-## ![](_page_10_Picture_13.jpeg)
 
 A **cut scene** plays after completing the Basic Tutorial area, revealing **The Moon** looming over Alice's shoulder.
 
 **There's something very odd about its size and form.** *The Moon then turns to reveal a menacing face.* Eyes locked on Alice, it howls and pursues her. We **PLAY** As it draws nearer it sings an **ominous lullaby**. The tune, once heard, forces forest creatures to slump to the ground. Alice is unsure if they are dead or sleeping. **She runs.**
 
-## ![](_page_10_Picture_16.jpeg)
 
 ## A lice
 
 *"The Moon. No matter where I run. Where I hide. It finds me. Its song ends my escape. I fall under its spell..."*
 
-## ![](_page_10_Picture_19.jpeg)
-
-## ![](_page_11_Picture_0.jpeg)
-
-## ![](_page_11_Picture_1.jpeg)
 
 Alice trips and falls to the ground, tangled on a branch in the snow. She rises to her feet. Looks determined.
 
@@ -461,52 +373,39 @@ We **PLAY** as Alice runs for her life. *Running, jumping, climbing, and swingin
 
 Alice runs until she finds sanctuary inside her childhood home: **The Liddell House.** Oddly silent except the **tick-tock of a large grandfather clock.**
 
-## ![](_page_11_Picture_5.jpeg)
 
 **Within, Alice encounters her burnt and twisted family.** They sit around a macabre table set for Alice's birthday, wearing rabbit masks. There's a black cake on the table. Its a writhing mass of black tentacles with burning human figures as candles. As the candles melt, so does Alice's family around the table. A gooey mix of wax, flesh and blood drips down their faces, and onto the floor. The music echoes hints of "Happy Birthday" while Alice's family shoves the disgusting cake into the mouth holes of their masks as they burn.
 
 Alice once again re-lives the horror of their deaths in the fire that consumed their home. *They chant at her;* **"IT'S ALL YOUR FAULT!"**
 
-## ![](_page_11_Picture_8.jpeg)
-
-## ![](_page_11_Picture_9.jpeg)
 
 ## A lice
 
 *"My family. The only way I can remember them. Over and over I see the night of the fire. That fire. And the death of everything I ever loved. How long must I repeat this endless torture? How long will I be kept here?"*
 
-## ![](_page_11_Picture_12.jpeg)
 
 ## A Myst er ious Voice Echoes
 
 ## *"Until, you have learned..."*
 
-## ![](_page_12_Picture_0.jpeg)
 
 **A cut scene plays, as a violent earthquake shakes the house.** Pictures fall and glass shatters on the floor. *The sound is like a roaring train and then…*
 
-## ![](_page_12_Picture_4.jpeg)
-
-## ![](_page_12_Picture_5.jpeg)
 
 Alice abruptly comes face-to-face with **The Caterpillar** sat atop his gigantic mushroom. *He is The Voice guiding her through her memory.* Smoke billowing from his hookah, the world around Alice *wafts and morphs* to match his riddled words. He speaks;
 
-## ![](_page_12_Picture_7.jpeg)
 
 ## Caterpillar
 
 - *1. "It appears you're late, once again Alice… and to your own party no less."*
 - *3. "There is a truth in your suffering."*
 
-## ![](_page_12_Picture_11.jpeg)
 
 *2. "I'm not late. I'm lost. I have no choice in this nightmare! I have lost count of the times I've seen their burning faces and heard their screams..."*
 
-## ![](_page_12_Picture_13.jpeg)
 
 Caterpillar exhales another plume of smoke.
 
-## ![](_page_12_Picture_15.jpeg)
 
 ### Caterpillar
 
@@ -517,11 +416,9 @@ Caterpillar exhales another plume of smoke.
 
 *5. "I don't want to learn! I want to escape this dreadful place!"*
 
-## ![](_page_12_Picture_21.jpeg)
 
 The world and Caterpillar fade away into **complete darkness.**
 
-## ![](_page_12_Picture_23.jpeg)
 
 ## Caterpillar
 
@@ -531,7 +428,6 @@ Alice is now alone, save for a single, **ornate looking-glass.** Standing well o
 
 We **PLAY** as Alice slowly approaches, then faces her own reflection. Alice suddenly glimpses a terrifying **Shadow Creature**, both shapeless and jagged, staring back at her from behind the darkened looking glass.
 
-## ![](_page_12_Picture_28.jpeg)
 
 ## Shadow Creature
 
@@ -539,7 +435,6 @@ We **PLAY** as Alice slowly approaches, then faces her own reflection. Alice sud
 
 It's words drip with malice. Alice and *The Shadow* examine one another. A perfect mimic. *The Shadow* continues;
 
-## ![](_page_12_Picture_32.jpeg)
 
 ## Shadow Creature
 
@@ -551,13 +446,11 @@ Just as a large shard of glass is about to pierce Alice's heart, she reaches out
 
 Alice turns the shard over in her hand and it transforms into a beautiful **Crystal Vorpal Blade**, her own blood dripping across its edge. She is transfixed by the blade, and runs her finger along its sharp edge.
 
-## ![](_page_12_Picture_38.jpeg)
 
 ## **Vorpal Blade Acquired**
 
 ## Core Melee Combat Weapon • Snicker Snack
 
-## ![](_page_13_Picture_1.jpeg)
 
 ## **Vor pa l Bl a de** Basic Combat Training
 
@@ -569,9 +462,6 @@ This serves as a **basic opening tutorial for combat with the Vorpal Blade**, un
 
 We **PLAY** As Alice is seemingly about to be killed by the Shadow creatures... *A lullaby is heard in the distance. A thick mass of suffocating, blood red tentacles envelop Alice,* and she is suddenly back in the burning Liddell House - *The Moon looming overhead.* She points the blade at the Moon.
 
-## ![](_page_13_Picture_7.jpeg)
-
-## ![](_page_13_Picture_8.jpeg)
 
 Before Alice can react, **a chapter closing cutscene plays**. *The Lullaby* reaches her ears and... *Alice faints.*
 
@@ -583,15 +473,11 @@ The Moon's massive eyes remain transfixed on Alice's tiny body, as it's horrible
 
 ## *The scene fades to black.*
 
-## ![](_page_13_Picture_14.jpeg)
 
 # **The Slumber**
 
 ## Resistance • Slumber Encounter #1
 
-## ![](_page_14_Picture_5.jpeg)
-
-## ![](_page_14_Picture_6.jpeg)
 
 **Lost in a world of darkness, Alice is drawn to the truth like a moth to the flame.** Fanned by the fires of her curiosity, the Moth Dress is a representation of both the fragility of Alice's sanity, and how fleeting her life is in such a dangerous world of nightmares.
 
@@ -605,27 +491,19 @@ Nothing is quite what it seems here. The gateways between and madness blur, as t
 
 ## *The only way out is through.*
 
-## ![](_page_14_Picture_19.jpeg)
-
-## ![](_page_14_Picture_20.jpeg)
 
 ## Expanded Weapon information P r i m a r y
 
 # **Vorpal Blade**
 
-## ![](_page_14_Picture_23.jpeg)
-
-## ![](_page_14_Picture_24.jpeg)
 
 ## Ranged
 
-## ![](_page_14_Picture_25.jpeg)
 
 Swift, keen and always ready for service. A mysterious relic borne from the splinters of shadow, the *Crystal Vorpal Blade* is a weapon of razor sharp logic, cutting reason and untethered fury.
 
 When facing trials and tribulations Alice's has no answer for, the Vorpal blade allows her to carve out a simpler, bloodier solution to her problems.
 
-## ![](_page_14_Picture_30.jpeg)
 
 ## Shadow Sight
 
@@ -633,11 +511,6 @@ When facing trials and tribulations Alice's has no answer for, the Vorpal blade 
 
 ## **Unlockable Quirk**
 
-## ![](_page_14_Picture_34.jpeg)
-
-## ![](_page_14_Picture_37.jpeg)
-
-## ![](_page_14_Picture_38.jpeg)
 
 ## **Signature Attack Alternate Attack**
 
@@ -647,41 +520,31 @@ Grasping the blade at it's hilt, Alice is able to **slice and dice** her enemies
 
 New **combos, moves, upgrades and weapon unlocks** will be made progressively available.
 
-## ![](_page_14_Picture_43.jpeg)
 
 ## Attack Resource Attack Resource
 
 **Unlimited.** Primary Melee Vorpal Blade Attacks are always available to player.
 
-## ![](_page_14_Picture_46.jpeg)
 
 *A powerful clutch attack*, the blade will remain **unusable** until it apparates back to Alice's hand, leaving her vulnerable. This is a *high-risk, high-reward* attack in a dire situation.
 
-## ![](_page_14_Picture_48.jpeg)
-
-## ![](_page_14_Picture_49.jpeg)
 
 **Unlimited.** Ranged Attack is **1 Shot Only** and placed on *Cooldown Timer* after use.
 
-## ![](_page_14_Picture_51.jpeg)
 
 ## **Vorpal Blade**
 
 ## Upgrade Design notes & Concepts
 
-## ![](_page_14_Picture_54.jpeg)
 
 *Snicker Snack* - Unlocks to New Combos and Attack Inputs. {TBC} - See *"Alice's Core Moveset and Attacks"* in Design Bible.
 
-## ![](_page_14_Picture_56.jpeg)
 
 *Throwing Knife* - Cooldown Timer Decrease. Lower the respawn time for the Vorpal Blade after being thrown.
 
-## ![](_page_14_Picture_58.jpeg)
 
 *Throwing Knife* - Critical Hit Damage Increase. Increase damage with Critical Hits on Throwing Knife hits.
 
-## ![](_page_15_Picture_0.jpeg)
 
 ## IFVEL 1 · ACT 1
 
@@ -689,49 +552,31 @@ New **combos, moves, upgrades and weapon unlocks** will be made progressively av
 
 ## DENIAL REALM · CARNIVAL OF FOOLS
 
-## ![](_page_15_Picture_4.jpeg)
-
-## ![](_page_15_Picture_5.jpeg)
 
 ## MOCK TURTLE (SINGING)
 
 ## "The show is starting! We must not be late!"
 
-## ![](_page_15_Picture_8.jpeg)
 
 Makeup is plastered onto her face by autonomous arms - an enormously wide smile. A mechanical hand shoves her towards a giant slide where a **White Rabbit Doll** is preparing to jump. He glances at a very confused Alice, and he beckons her to follow.
 
 A "4564 Days of Show" sign dangles precariously over the slide entrance. As Alice looks at the sign, it ticks over to "4565".
 
-## ![](_page_15_Picture_11.jpeg)
 
 With a sharp shove, we **PLAY** as a disorientated Alice begins her descent down the Slide after the White Rabbit.
 
 The gleeful Mock Turtle follows closely behind as we weave through twists and turns hurtling towards the ground. All around is a surreal, bright and garish **Circus World** of tents, rides, carnivals, animals, performers... as far as the eye can see. Mock Turtle **SINGS** as The Music plays. His lyrics explain:
 
-## ![](_page_15_Picture_14.jpeg)
-
-## ![](_page_15_Picture_15.jpeg)
-
-## ![](_page_15_Picture_16.jpeg)
-
-## ![](_page_15_Picture_17.jpeg)
 
 ## MOCK TURTLE (SINGING)
 
 "It's a new day, a new show; we must not miss our mark, we can not forget our lines; the Tweedles may be half Dum but they view these things as crimes."
 
-## ![](_page_15_Picture_20.jpeg)
 
 ## ALICE (SINGING)
 
 "But I don't want to play your games, I don't want to say your lines. If being here requires those things then I'd prefer to commit the crimes."
 
-## ![](_page_15_Picture_23.jpeg)
-
-## ![](_page_16_Picture_0.jpeg)
-
-## ![](_page_16_Picture_1.jpeg)
 
 As Alice sings this line, her gaze is met by **two massive balloons in the sky.** Blocking out the sun, they twist lazily in the air, revealing themselves to be a gaurish, misshapen representation of the **Tweedles, Dee and Dum.** A caricature of the pair of hideously shaped Brothers, clad in a gaudy mixture of red, black and white. *The inanimate gaze of the Balloons look back at Alice, and they cloak her in shadow.*
 
@@ -739,11 +584,9 @@ We **PLAY** as Alice lands at the base of the slide with a graceless thump. With
 
 The sequence is split into **"On Track"** and **"Off Track"** areas.
 
-## ![](_page_16_Picture_5.jpeg)
 
 **On Track:** there are full lyrical and theatrical sequences playing as we're pushed along.
 
-## ![](_page_16_Picture_7.jpeg)
 
 **Off Track:** the lyrics take a rest and *The Music fades* to a background beat allowing for moments of free exploration.
 
@@ -758,19 +601,9 @@ This gameplay section serves as a *Tutorial for Basic Movement; walking, running
 - 3. Alice should **just give up** and enjoy The Show.
 - 4. Alice **hates it here.**
 
-## ![](_page_16_Picture_16.jpeg)
-
-## ![](_page_16_Picture_17.jpeg)
-
-## ![](_page_16_Picture_18.jpeg)
-
-## ![](_page_16_Picture_19.jpeg)
-
-## ![](_page_16_Picture_20.jpeg)
 
 At one point the White Rabbit hops off track and waves Alice towards a Fortune Teller's Tent. It is shrouded in shadows. The Music fades.
 
-## ![](_page_17_Picture_1.jpeg)
 
 A cutscene plays as Alice enters the tent. Upon entering, the Fortune teller doesn't look up.
 
@@ -780,21 +613,14 @@ A cutscene plays as Alice enters the tent. Upon entering, the Fortune teller doe
 
 "Oh, I've always been here, my dear. You just never bothered to notice. It appears this time, you have allowed yourself a chance to see... something else..."
 
-## ![](_page_17_Picture_6.jpeg)
 
 ### FORTUNE-TELLER
 
 "Encounters with Chaos force change. For better or worse..."
 
-## ![](_page_17_Picture_9.jpeg)
-
-## ![](_page_17_Picture_11.jpeg)
-
-## ![](_page_17_Picture_12.jpeg)
 
 Alice accidentally knocks a globe onto the floor. It smashes. She quickly retorts;
 
-## ![](_page_17_Picture_14.jpeg)
 
 ## ALICE
 
@@ -806,23 +632,19 @@ The Fortune Teller motions with her hand, and the broken crystal ball Alice had 
 
 "...until an understanding of that darkness, forges something new..."
 
-## ![](_page_17_Picture_20.jpeg)
 
 ## FORTUNE-TELLER
 
 "You have another chance to learn Miss Liddell. Despite all your broken pieces."
 
-## ![](_page_17_Picture_23.jpeg)
 
 The Fortune Teller's words linger.
 
-## ![](_page_17_Picture_25.jpeg)
 
 ## FORTUNE-TELLER
 
 ## "Tell me; what do you seek?"
 
-## ![](_page_17_Picture_28.jpeg)
 
 ## FORTUNE-TELLER
 
@@ -830,7 +652,6 @@ The Fortune Teller's words linger.
 
 Alice stares, tilting her head as her curiosity piques.
 
-## ![](_page_17_Picture_32.jpeg)
 
 ## FORTUNE-TELLER
 
@@ -838,23 +659,17 @@ Alice stares, tilting her head as her curiosity piques.
 But this time, your blade offers a chance to cut the threads that bind you.
 ## Time to open your eyes..."
 
-## ![](_page_17_Picture_35.jpeg)
 
 A cutscene plays. The Fortune Teller motions to the crystal ball. Alice stares deeply into a crystal ball as it transforms into a Snow Globe. Hypnotized by the falling snow, her eyes begin to close. Right as she looks to drift off peacefully, a single gnarled finger from the Fortune Teller forcefully presses on Alice's forehead. Alice gasps in fear. A Third Eye opens, blinking open directly in the middle of Alice's forehead. Alice's three eyes roll back into her head, revealing no pupils.
 
-## ![](_page_17_Picture_37.jpeg)
 
 "To return home. To escape this place.
 
-## ![](_page_17_Picture_39.jpeg)
-
-## ![](_page_17_Picture_40.jpeg)
 
 ## ART ASSET TO BE CREATED
 
 ## *ALICE - THIRD EYE IMAGE*
 
-## ![](_page_17_Picture_43.jpeg)
 
 Her eyes are white as snow. As the Fortune Teller cackles, Alice is engulfed in dark haze. *Flames and screams*.
 
@@ -868,7 +683,6 @@ Alice returns to The Slumber Realm.
 
 ## DENIAL REALM · CARNIVAL OF FOOLS
 
-## ![](_page_18_Picture_5.jpeg)
 
 ## Denial Dress
 
@@ -884,7 +698,6 @@ From what lies just behind the curtain, lurks terrible knowledge. Only those wit
 
 ## COLLECTIBLES · 1 /
 
-## ![](_page_18_Picture_13.jpeg)
 
 ## MIND'S E
 
@@ -898,15 +711,12 @@ From what lies just behind the curtain, lurks terrible knowledge. Only those wit
 
 ## DETERMINATION • SLUMBER ENCOUNTER #2
 
-## ![](_page_18_Picture_20.jpeg)
 
 ## octurne in C-sharp minor. Op. posth. (Chopin
 
-## ![](_page_18_Picture_23.jpeg)
 
 ## NEW ABILITY UNLOCKE
 
-## ![](_page_18_Picture_25.jpeg)
 
 ## 0.2
 
@@ -914,7 +724,6 @@ From what lies just behind the curtain, lurks terrible knowledge. Only those wit
 
 ## WAYFINDING AND OBJECTIVE MARKING . OPEN YOUR EYES
 
-## ![](_page_18_Picture_28.jpeg)
 
 Alice's encounter with the Fortune Teller unlocks basic wayfinding and a UI map, clearly marking Alice's way forward towards mission objectives using her intuition.
 
@@ -922,20 +731,15 @@ This mind's eye is showcased to the player for training and exploration purposes
 
 Approaching his silhouette, Caterpillar's glowing eyes narrow in the darkness.
 
-## ![](_page_18_Picture_32.jpeg)
 
 "You're starting to find your way. What do you see now Alice?"
 
-## ![](_page_18_Picture_34.jpeg)
-
-## ![](_page_18_Picture_35.jpeg)
 
 ## ALICE
 
 "I see that this is not my home.
 ## This is a place of nightmares..."
 
-## ![](_page_18_Picture_38.jpeg)
 
 ## CATERPILLAR
 
@@ -947,7 +751,6 @@ Approaching his silhouette, Caterpillar's glowing eyes narrow in the darkness.
 The last time I was here, what was that
 ## awful creature? From the mirror..."
 
-## ![](_page_18_Picture_43.jpeg)
 
 ## CATERPILLAR
 
@@ -961,21 +764,17 @@ The last time I was here, what was that
 
 "Then she must fear me a great deal. I'd rather not see her again."
 
-## ![](_page_18_Picture_50.jpeg)
 
 Caterpillar blows a *blinding cloud of smoke*.
 
-## ![](_page_18_Picture_52.jpeg)
 
 "These memories are mine, yet I feel like I am just learning them for the first time..."
 
-## ![](_page_18_Picture_54.jpeg)
 
 ## 26
 
 The house is sleeping and its windows are dark. A whisper, *another voice;*
 
-## ![](_page_19_Picture_1.jpeg)
 
 We Alice (to Herself) **PLAY**, as Alice navigates the scene and makes her way into the house through a front door that is open to the night air.
 
@@ -987,29 +786,17 @@ The memories flash by, and we then **PLAY**, as Alice makes her way to the secon
 
 *"I remember… This night began like any other. But it ended in chaos. Unlike anything I'd known before. I was only very young. What did I know of chaos?"*
 
-## ![](_page_19_Picture_7.jpeg)
 
 *"My family is dead now. I know they are. Lost in the fire. At first I blamed the cat. Always knocking over the oil lamps and having nearly burned down the house at least two times prior. But, something else was wrong that night. The locked doors on the second floor. The front door wide open so that the flames could be seen raging inside."*
 
-## ![](_page_19_Picture_10.jpeg)
-
-## ![](_page_19_Picture_11.jpeg)
-
-## ![](_page_19_Picture_12.jpeg)
-
-## ![](_page_19_Picture_13.jpeg)
 
 ## Alice (To Herself)
 
 *"There were lamps on every floor. But we checked to ensure they were all extinguished before turning in for the night. Lizzie and I made a game of running around the house and snuffing them out."*
 
-## ![](_page_19_Picture_16.jpeg)
 
 *"And no one locked their doors in our home. We had no secrets to hide… or so I thought."*
 
-## ![](_page_19_Picture_18.jpeg)
-
-## ![](_page_20_Picture_0.jpeg)
 
 **Flashes of imagery to match the narration:** Ghostly visages of Alice and **Elizabeth,** *(Alice's older sister)* running around excitedly to extinguish all the lamps run past the player. **A scene of a black-gloved hand turning a key in a lock flashes.**
 
@@ -1017,7 +804,6 @@ The memories flash by, and we then **PLAY**, as Alice makes her way to the secon
 
 The figure disappears as it is approached, *two glass circles glimmer in the light.*
 
-## ![](_page_20_Picture_4.jpeg)
 
 ## Alice (to Herself)
 
@@ -1027,11 +813,9 @@ The figure disappears as it is approached, *two glass circles glimmer in the lig
 
 ## A Mysterious Whisper
 
-## ![](_page_20_Picture_10.jpeg)
 
 As the player runs down the corridor, **liquid is heard sloshing beneath Alice's footsteps.**
 
-## ![](_page_20_Picture_12.jpeg)
 
 A *single lightsource* is seen in the shadows. It falls to the ground, and **lights the oil on fire.**
 
@@ -1041,7 +825,6 @@ Opening door after door as flames chase the player all around, Alice will eventu
 
 We **PLAY** as the player must now relive the escape from the house, trying to unlock the doors as Alice can hear her mother, father and sister roasting alive. Succumbing to the smoke, Alice does not save them. **Again.** *Alice fails to save her family.*
 
-## ![](_page_21_Picture_0.jpeg)
 
 ## A Callous Whisper
 
@@ -1049,13 +832,11 @@ We **PLAY** as the player must now relive the escape from the house, trying to u
 
 The scene ends as Alice is taken away crying, and in shock, from her **smoldering ruined home.**
 
-## ![](_page_21_Picture_4.jpeg)
 
 ## Alice (to Herself)
 
 *"At that time, I was the monster. I felt responsible... I couldn't control my anguish, and I was caged for it."*
 
-## ![](_page_21_Picture_7.jpeg)
 
 ## Alice (to Herself)
 
@@ -1065,13 +846,9 @@ We **PLAY**, as a scene of Alice vacantly looking at her own reflection takes pl
 
 **She screams as she cries.** Scenes of Alice lashing out, she is biting and clamoring at the orderlies who hold her down. *We hear the roar of the angry monster.* She is in a wild, uncontrollable **hysteria**, *as flashes of the Shadow merge with the face of the child.*
 
-## ![](_page_21_Picture_12.jpeg)
-
-## ![](_page_21_Picture_13.jpeg)
 
 The scene dissolves back to Alice's audience with the Caterpillar.
 
-## ![](_page_21_Picture_15.jpeg)
 
 ## Caterpillar
 
@@ -1079,7 +856,6 @@ The scene dissolves back to Alice's audience with the Caterpillar.
 
 *"Remove the mask, Alice. See the truth in who you are. See who you become. There is a darkness in you, in us all, that must be faced..."*
 
-## ![](_page_21_Picture_19.jpeg)
 
 ## *"That monster from the mirror is... me?"*
 
@@ -1089,13 +865,6 @@ The scene dissolves back to Alice's audience with the Caterpillar.
 
 *The scene zooms into the darkened depths of Alice's eyes as circus music invades…*
 
-## ![](_page_21_Picture_22.jpeg)
-
-## ![](_page_21_Picture_23.jpeg)
-
-## ![](_page_21_Picture_24.jpeg)
-
-## ![](_page_22_Picture_0.jpeg)
 
 ## She holds her temples. **Her ears ring...**
 
@@ -1105,7 +874,6 @@ The scene dissolves back to Alice's audience with the Caterpillar.
 
 Alice is pushed to the floor, and trampled by the circus performers in a scene that mimics her savage memory in the Asylum. **Alice closes her eyes, and when she re-opens them, they are dark orbs.** *She screams.*
 
-## ![](_page_23_Picture_2.jpeg)
 
 **Hysteria Mode Unlock** Advanced Combat Tr aining
 
@@ -1115,25 +883,19 @@ A limited-time special state, Hysteria is used as an all-out attack that can be 
 
 We **PLAY** as Alice uses the Vorpal Blade to slice her way through the scenery and actors, carving a bloody red swathe against everything that gets in her way.
 
-## ![](_page_23_Picture_8.jpeg)
 
 ## *ALICE - HYSTERIA MODE DRESS*
 
-## ![](_page_23_Picture_11.jpeg)
-
-## ![](_page_23_Picture_13.jpeg)
 
 # **Hysteria • Special State**
 
 Drastic Times Call for Drastic Measures • Make Them Suffer
 
-## ![](_page_23_Picture_16.jpeg)
 
 ## *HYSTERIA ACTION AND VIOLENCE • LANDSCAPE*
 
 *Mock Turtle pleads as he SINGS,* imploring Alice to stop her bloody rampage and rejoin her loving troupe of performers. *Blood continues to fly.*
 
-## ![](_page_23_Picture_20.jpeg)
 
 During this sequence, the illusion of The Circus begins to crumble as circus performers **break into mechanical automatons when damaged, bloodied or destroyed.** The vivid scenery falls and is damaged in areas, revealing rotting, poorly made wooden supports, and rusted nails behind their cheerful veneer. **The circus and its inhabitants are a lie.**
 
@@ -1143,9 +905,6 @@ This encounter serves as a more **advanced Tutorial for Combat Techniques** - *f
 
 **We PLAY** as an angry Alice fights her way through the circus led by White Rabbit, carving through her captors into **The Big Top.**
 
-## ![](_page_23_Picture_25.jpeg)
-
-## ![](_page_24_Picture_0.jpeg)
 
 **A cutscene plays.** The **Big Top** is a massive tent with stadium seating all around. As soon as Alice enters, her appearance is transformed to that of a clown. The faceless audience laughs and jeers at Alice. *She grits her teeth as she is ridiculed.*
 
@@ -1153,7 +912,6 @@ This encounter serves as a more **advanced Tutorial for Combat Techniques** - *f
 
 The twisted brothers arrive in Balloons shaped as crude caricatures of themselves, which crank up and down through a hole in the Big Top. Arriving into the Big Top with an off-kilter fanfare, the two hideous brothers bare their teeth at Alice.
 
-## ![](_page_24_Picture_4.jpeg)
 
 ### Tweedle Dee
 
@@ -1161,15 +919,6 @@ The twisted brothers arrive in Balloons shaped as crude caricatures of themselve
 
 *The Tweedles comment is met with raucous laughter from the crowd.*
 
-## ![](_page_24_Picture_8.jpeg)
-
-## ![](_page_24_Picture_9.jpeg)
-
-## ![](_page_24_Picture_10.jpeg)
-
-## ![](_page_24_Picture_11.jpeg)
-
-## ![](_page_25_Picture_0.jpeg)
 
 Level 1 • Denial Realm • Car nival of Fools New Enemy
 
@@ -1177,11 +926,9 @@ Level 1 • Denial Realm • Car nival of Fools New Enemy
 
 The Following Is **the Final Part of a Musical Sequence** Sung by The Tweedles and Alice
 
-## ![](_page_25_Picture_6.jpeg)
 
 **A cutscene plays.** Alice demands to know why the Tweedles are keeping her imprisoned here. They let her know they are only the jailors - it is **The Queen** who desires to keep Alice here, and they follow her rules.
 
-## ![](_page_25_Picture_8.jpeg)
 
 ## Tweedle Dee
 
@@ -1189,25 +936,14 @@ The Following Is **the Final Part of a Musical Sequence** Sung by The Tweedles a
 
 *3. "If you got a problem with the show, you could speak with the Ringmaster, but I don't think the Queen wants to see you at all. That's just not in your lines. And never will be. Heh."*
 
-## ![](_page_25_Picture_12.jpeg)
 
 *2. "If you don't like the show, there are no refunds."*
 
-## ![](_page_25_Picture_14.jpeg)
 
 ### Alice
 
 *4. "Your script be damned! The Queen will answer for the reason I'm trapped here. And so will you!*
 
-## ![](_page_25_Picture_17.jpeg)
-
-## ![](_page_25_Picture_18.jpeg)
-
-## ![](_page_25_Picture_19.jpeg)
-
-## ![](_page_25_Picture_20.jpeg)
-
-## ![](_page_25_Picture_21.jpeg)
 
 With one Tweedle high in the sky tossing *Jack Bombs* down at Alice from a balloon, and the other whipping the *Treble-Maker* at Alice, the Tweedle Brothers can be quite a handful in combat. The Tweedles move as *thuggish brawlers*, all off-balance power and no grace. The brothers have a mix of ranged combat options and close quarters strikes up their sleeve. Alice will make short work of the dastardly duo if she *finds a way to turn their unity against them.*
 
@@ -1217,27 +953,19 @@ One brother will attack Alice with **Bombs** thrown from the balloon, and the ot
 
 After the battle, Alice acquires the new weapons used against her: **The Jack Bomb, and the Whip** *(Treble-Maker).*
 
-## ![](_page_25_Picture_27.jpeg)
 
 Defeat the Tweedle Bros.
 
 ## Hard Gated Area
 
-## ![](_page_25_Picture_28.jpeg)
 
 ## **Treble-Maker & Jack Bomb Acquired**
 
 Clicks, Whips and Booms • Cracked Skulls, Deep Cuts and Wounds
 
-## ![](_page_25_Picture_31.jpeg)
-
-## ![](_page_25_Picture_32.jpeg)
 
 Alice defeats The Tweedles and climbs into their Balloon with White Rabbit by her side. She cuts the balloon's tether with her Vorpal Blade and rises through the tent opening. **She flies free above The Circus leaving The Music behind.**
 
-## ![](_page_25_Picture_34.jpeg)
-
-## ![](_page_25_Picture_35.jpeg)
 
 ## 1.2
 
@@ -1245,25 +973,14 @@ Alice defeats The Tweedles and climbs into their Balloon with White Rabbit by he
 
 ## Denial Realm • Car nival of Fools
 
-## ![](_page_26_Picture_6.jpeg)
-
-## ![](_page_26_Picture_9.jpeg)
-
-## ![](_page_26_Picture_14.jpeg)
-
-## ![](_page_26_Picture_18.jpeg)
-
-## ![](_page_26_Picture_20.jpeg)
 
 # **Hysteria • Special State**
 
 Drastic Times Call for Drastic Measures • Make Them Suffer
 
-## ![](_page_26_Picture_23.jpeg)
 
 {TBC} Hysteria Ability States and Attack Concepts to be Confirmed
 
-## ![](_page_26_Picture_25.jpeg)
 
 An odd artifact pryed free from the hands of a wicked Ringmaster of the cruel carnival, the *Treble-Maker* is intended to be a whip in the hands of a giant.
 
@@ -1271,7 +988,6 @@ When placed in the hands of a young girl, Alice's small stature is instead whipp
 
 ## *It doesn't care at whose expense.*
 
-## ![](_page_27_Picture_14.jpeg)
 
 Squawk!
 
@@ -1279,11 +995,9 @@ Squawk!
 
 ## **Unlockable Quirk**
 
-## ![](_page_27_Picture_18.jpeg)
 
 *Alice's mobility is slightly buffed while carrying this weapon.*
 
-## ![](_page_27_Picture_21.jpeg)
 
 ## 2
 
@@ -1291,39 +1005,26 @@ Squawk!
 
 **Holding down the fire button** charges the shot to fire a *very short-ranged blast* of concentrated fire. **Can also knock enemies prone.**
 
-## ![](_page_27_Picture_25.jpeg)
-
-## ![](_page_27_Picture_26.jpeg)
 
 **Unlimited.** Ranged Attack is **1 Shot Only** and placed on *Cooldown Timer* after use.
 
-## ![](_page_27_Picture_28.jpeg)
 
 Special Utility function that Allows Alice to *quickly rappel around the environment.* This is acheived by latching onto key targets and certain enemies.
 
-## ![](_page_27_Picture_32.jpeg)
-
-## ![](_page_27_Picture_33.jpeg)
 
 **Unlimited.** Ranged Attack is **1 Shot Only** and placed on *Cooldown Timer* after use.
 
-## ![](_page_27_Picture_35.jpeg)
 
 Lower the reload time & increase rate of fire for Grappling Hook.
 
-## ![](_page_27_Picture_36.jpeg)
-
-## ![](_page_27_Picture_37.jpeg)
 
 ## {TBC} Instant Recharge Item For Grapple
 
 {TBC} Copywriting to be finalized.
 
-## ![](_page_27_Picture_40.jpeg)
 
 ## {TBC} Alternate Weapon Skin *+ Blunderbuss*
 
-## ![](_page_27_Picture_43.jpeg)
 
 Having endured the mocking laughter of the Circus, Alice takes with her a relic of her relentless torment.
 
@@ -1331,13 +1032,11 @@ Turning the tides on her enemies with some well-timed jokes of her own, Alice ca
 
 ## **Weapon Quirks**
 
-## ![](_page_27_Picture_47.jpeg)
 
 ## Joke's On You
 
 ## *Alice can be damaged by the*
 
-## ![](_page_27_Picture_50.jpeg)
 
 ## Veiled Laughter
 
@@ -1345,11 +1044,9 @@ Turning the tides on her enemies with some well-timed jokes of her own, Alice ca
 
 ## **Unlockable Quirk**
 
-## ![](_page_27_Picture_54.jpeg)
 
 *Alice is no longer damaged by AOE Explosions of the Jackbomb.*
 
-## ![](_page_27_Picture_56.jpeg)
 
 ## 3
 
@@ -1357,41 +1054,19 @@ Turning the tides on her enemies with some well-timed jokes of her own, Alice ca
 
 Alice lobs the Jackbomb and it *explodes on impact*, **generating an AOE explosion**. Alice can be damaged by the blast.
 
-## ![](_page_27_Picture_60.jpeg)
-
-## ![](_page_27_Picture_61.jpeg)
 
 x 1
 
 **Unlimited.** Ranged Attack is **1 Shot Only** and placed on *Cooldown Timer* after use.
 
-## ![](_page_27_Picture_64.jpeg)
 
 Alice **places the bomb as a trap** that springs open on command, detonating it.
 
 This attack variant can also be used as a *weighted tool for switch activation*, and also as an *audio decoy. While placed the Jackbomb can draw enemies to its location via the tell-tale sound it emits.*
 
-## ![](_page_27_Picture_68.jpeg)
-
-## ![](_page_27_Picture_69.jpeg)
 
 **Unlimited.** Placeable Bomb is **1 Shot Only** and placed on *Cooldown Timer* after use.
 
-## ![](_page_27_Picture_71.jpeg)
-
-## ![](_page_27_Picture_72.jpeg)
-
-## ![](_page_27_Picture_73.jpeg)
-
-## ![](_page_27_Picture_74.jpeg)
-
-## ![](_page_27_Picture_75.jpeg)
-
-## ![](_page_27_Picture_76.jpeg)
-
-## ![](_page_27_Picture_77.jpeg)
-
-## ![](_page_27_Picture_78.jpeg)
 
 *• attaching to enemies and walls, • remote detonation,*
 
@@ -1399,29 +1074,19 @@ This attack variant can also be used as a *weighted tool for switch activation*,
 
 *the box, incapacitating them.* **One bomb** choice is available at any time in Gameplay,
 
-## ![](_page_27_Picture_82.jpeg)
-
-## ![](_page_27_Picture_83.jpeg)
 
 # THE MOON
 
 ## DENIAL REALM • A STORM IN A TEACUP
 
-## ![](_page_28_Picture_4.jpeg)
-
-## ![](_page_28_Picture_5.jpeg)
 
 The Balloon floats up through a bank of clouds and out the other side to reveal **The Moon** directly ahead.
 
-## ![](_page_28_Picture_7.jpeg)
 
 ## ALICE (TO THE RABBIT)
 
 "We are going to see that wretched Queen, but I need to take care of something else first..."
 
-## ![](_page_28_Picture_10.jpeg)
-
-## ![](_page_28_Picture_11.jpeg)
 
 ## HARD GATED AREA
 
@@ -1435,27 +1100,14 @@ If Alice fails, she gradually becomes sleepier, and slower.
 
 If she fails, she falls asleep, and the section must be restarted. Success means Alice resists and overcomes the sleep spell, and proceeds to **The Moon** itself.
 
-## ![](_page_28_Picture_18.jpeg)
 
 The Balloon continues towards The Moon and crashes into its face, flinging Alice and Rabbit into its gaping mouth. The balloons of the Tweedles pop, deflate and tumble gracelessly into the clouds. A welcome party is waiting and a battle begins.
 
-## ![](_page_28_Picture_20.jpeg)
-
-## ![](_page_28_Picture_21.jpeg)
 
 The Moon, originally thought to be a living thing, is revealed to be a massive mechanical construct of Hatter Industries. Its interior is a labyrinth of corridors, walkways, machine rooms, gears,
 
 This area serves as a Tutorial for The Jackbomb, both in combat and in destroying "breakable" walls to traverse. The whip is also introduced in spatial puzzles. It allows rapid, free-form rappelling. This new ability, coupled with advanced platforming in sections, trains the player in new movements; with ledge grabs, swinging, double jumps, and dressgliding all used to progress.
 
-## ![](_page_28_Picture_24.jpeg)
-
-## ![](_page_28_Picture_25.jpeg)
-
-## ![](_page_28_Picture_26.jpeg)
-
-## ![](_page_28_Picture_27.jpeg)
-
-## ![](_page_28_Picture_28.jpeg)
 
 White Rabbit leads the way to a series of Sub Goals:
 
@@ -1464,41 +1116,17 @@ White Rabbit leads the way to a series of Sub Goals:
 - Reach The Bridge;
 - Take Control of The Moon (and fly to Queen's Domain).
 
-## ![](_page_28_Picture_34.jpeg)
-
-## ![](_page_29_Picture_0.jpeg)
-
-## ![](_page_29_Picture_1.jpeg)
-
-## ![](_page_29_Picture_2.jpeg)
-
-## ![](_page_29_Picture_3.jpeg)
-
-## ![](_page_29_Picture_4.jpeg)
-
-## ![](_page_29_Picture_5.jpeg)
-
-## ![](_page_29_Picture_6.jpeg)
 
 Mock Turtle explains that Alice's false reality is better because she'll never run out of friends to play with. **No one ever has to age or die or fade away.**
 
-## ![](_page_29_Picture_8.jpeg)
 
 ### Mock Turtle
 
 *"Your family Alice. They were all hopelessly burnt to a crisp. Why not just replace them? We can build a new Family? New friends. Forever! Everything here is simulated to keep you stimulated. Where's the wrong in that?"*
 
-## ![](_page_29_Picture_11.jpeg)
 
 *"This is all a lie Turtle! False comforts cannot soothe real anguish. The truth in my being here can only be found with The Queen. And you're standing in my way!"*
 
-## ![](_page_29_Picture_13.jpeg)
-
-## ![](_page_29_Picture_14.jpeg)
-
-## ![](_page_29_Picture_15.jpeg)
-
-## ![](_page_30_Picture_0.jpeg)
 
 Fighting through more rooms and platforming sections within the mechanical structure of the Moon, Alice reaches the Bridge of The Moon. Alice once again encounters **The Mock Turtle.** As Alice pieces together a chart to reach *The Queen's Domain*, **Mock Turtle** continues to beg that she abandon her insane mission and return to **The Circus.**
 
@@ -1506,23 +1134,17 @@ What follows is a puzzle sequence where Alice collects Chart Elements from aroun
 
 As the last piece of the route is inserted and **The Moon** turns towards *Queen's Domain*, **Mock Turtle's voice becomes an angry roar.** He transforms into a **Manipulator Boss,** revealing his true form and presenting Alice with another obstacle to overcome.
 
-## ![](_page_30_Picture_4.jpeg)
 
 weapon to be defeated - *sending the Boss cycling to a new Enemy NPC until only the Mock Turtle is left.*
 
-## ![](_page_30_Picture_6.jpeg)
 
 **Combat Section • Boss Battle** Defeat Mockturtle
 
-## ![](_page_30_Picture_9.jpeg)
-
-## ![](_page_30_Picture_10.jpeg)
 
 ## Mock Turtle
 
 *"It's me, Alice. Your only friend. I'm telling you, you'll never make it. You're too small. You can't survive out there. You're too weak. No one wants you! No one else loves you..."*
 
-## ![](_page_30_Picture_13.jpeg)
 
 ## Alice
 
@@ -1532,7 +1154,6 @@ We **PLAY** as Alice destroys the Mock Turtle. Mock Turtle's death causes a *mas
 
 **A placid, glazed eyed, Mock Turtle swims lazily in a tiny pond by Alice's side.** On the back of his Shell, *resides a minuscule Circus.*
 
-## ![](_page_30_Picture_18.jpeg)
 
 ### Alice
 
@@ -1540,7 +1161,6 @@ We **PLAY** as Alice destroys the Mock Turtle. Mock Turtle's death causes a *mas
 
 A tiny smoking pile of bits and rubble lays on the ground next to her - *the remains of The Moon.* Within, **a tiny clockwork heart still beats.** The sound fades as her focus narrows on the device. She picks it up, inspects it, and hands it to her Rabbit.
 
-## ![](_page_30_Picture_22.jpeg)
 
 ## Alice
 
@@ -1552,9 +1172,6 @@ The rabbit nods his head in approval. Alice offers him the tiny heart, with a sm
 
 Alice, stands up, brushes off her petticoat, and now is free of The Greatest Show. **A massive forest, and a gigantic, ominous Castle loom in the distance...**
 
-## ![](_page_30_Picture_28.jpeg)
-
-## ![](_page_30_Picture_30.jpeg)
 
 SECTION I - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE
 
@@ -1566,7 +1183,6 @@ SECTION I - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE
 
 # **Alice's Appearance**
 
-## ![](_page_31_Picture_6.jpeg)
 
 False smiles, powder and tears mask the truth of a little girl deeply confused and in pain. Regardless of how the star of the show feels, the show must and will go on. Or else.
 
@@ -1576,11 +1192,6 @@ False smiles, powder and tears mask the truth of a little girl deeply confused a
 
 {TBC} Copywriting to be confirmed.
 
-## ![](_page_31_Picture_22.jpeg)
-
-## ![](_page_31_Picture_23.jpeg)
-
-## ![](_page_31_Picture_24.jpeg)
 
 ## Expanded Item information
 
@@ -1590,11 +1201,9 @@ False smiles, powder and tears mask the truth of a little girl deeply confused a
 
 ## ![](_page_32_Figure_0.jpeg)
 
-## ![](_page_33_Picture_0.jpeg)
 
 ## **T he Sh a dow** Ethereal Form Concept
 
-## ![](_page_33_Picture_2.jpeg)
 
 As Alice wanders along, Alice witnesses a scene where **Card Guards** encounter a *Shadowy Figure*. **The same from the Mirror.** The Shadow briefly appears surrounded by guards. This time, the Shadow's appearance is now distinctly more human, but still as utterly broken and jagged as it was.
 
@@ -1608,21 +1217,12 @@ The Shadow leaves behind **a writhing mass of Black Tentacles (The Chaos)**, whi
 
 This sequence serves to introduce the game's primary enemy character - *The Chaos* - and its effect on NPCs in the game. *Alice watches as Card Guards are damaged by contact with The Chaos and transformed by stages into Chaos Creatures.* Chaos Creatures are hijacked NPCs that readily attack Alice and any other NPCs in range in a frenzy.
 
-## ![](_page_33_Picture_9.jpeg)
-
-## ![](_page_33_Picture_10.jpeg)
 
 ## **Ch aos Cor rup tion**
 
-## ![](_page_33_Picture_12.jpeg)
-
-## ![](_page_33_Picture_14.jpeg)
-
-## ![](_page_33_Picture_15.jpeg)
 
 ## T hr e at: Very High 4
 
-## ![](_page_33_Picture_17.jpeg)
 
 ## Corrupt
 
@@ -1644,31 +1244,16 @@ It is here that Alice catches fleeting glimpses of **The Knave**. Rustling from 
 
 He is dressed regally, like one of the Queen's Court. But his attire is where his cohesions end. His features are a mismatched quiltwork of flesh. Medical apparatus seal in his brains, held in place by crude-stitches across his temples. His eyes tilt back, loose in their sockets. They roll in his skull like hard-boiled eggs on glass as he stares, unflinching from behind the hedges.
 
-## ![](_page_34_Picture_7.jpeg)
-
-## ![](_page_34_Picture_8.jpeg)
-
-## ![](_page_34_Picture_9.jpeg)
-
-## ![](_page_34_Picture_10.jpeg)
-
-## ![](_page_34_Picture_11.jpeg)
-
-## ![](_page_34_Picture_12.jpeg)
 
 ### HIDE N' SEEK • FIND THE KNAVE
 
 We PLAY as Alice follows his insane giggling. A short game of hide n' seek follows. Alice will locate the sounds of his stifled laughter, eventually cornering him.
 
-## ![](_page_34_Picture_15.jpeg)
-
-## ![](_page_34_Picture_16.jpeg)
 
 ## ALICE
 
 "There's no point in hiding. I can see you there. Show yourself."
 
-## ![](_page_34_Picture_19.jpeg)
 
 ## THE KNAVE
 
@@ -1676,11 +1261,6 @@ We PLAY as Alice follows his insane giggling. A short game of hide n' seek follo
 
 The Knave's words drip through an unnatural smile.
 
-## ![](_page_34_Picture_23.jpeg)
-
-## ![](_page_34_Picture_24.jpeg)
-
-## ![](_page_34_Picture_25.jpeg)
 
 A cinematic **cut scene** plays as **Alice** (**A**) navigates her way through an unsettling conversation with **The Knave.** (**TK**)
 
@@ -1702,7 +1282,6 @@ A "I know the Circus for what it truly is. There is no going back to those lies.
 
 CONTINUES NEXT PAGE..
 
-## ![](_page_35_Picture_0.jpeg)
 
 The Knave's language and tone resumes to his detached state. His words do not outlast his stare.
 
@@ -1727,7 +1306,6 @@ As Alice grasps the hilt of the blade, it shakes in her clenched fist. She is ge
 
 Alice's blade is returned to her by an ecstatic, freed **Hobby Horse.** Alice grabs its reins. Capable of **destroying defences** and *shattering enemies*, this clobbering, ungainly melee weapon has **devastating impact up-close.** Useful against shielded and guarding enemies, it can be used in combo mix-ups, employing heavy blows on Alice's foes.
 
-## ![](_page_35_Picture_14.jpeg)
 
 **TK**  "*Such anger. That is exactly how it always starts. Not that I really care… the only difference is the blade. Something always breaks when it comes to you… but you don't get much further."*
 
@@ -1750,37 +1328,14 @@ The Hobby Horse brays with approval. Alone with her Rabbit, Alice continues on h
 
 This serves as a proving ground for all of the skills and weapons Alice has acquired thus far. She must employ movement and combat mechanics to navigate the broken landscape while fighting off The Chaos and a slew of Chaos Creatures as they appear in the broken gardens of the Queen's Domain.
 
-## ![](_page_35_Picture_27.jpeg)
-
-## ![](_page_35_Picture_28.jpeg)
-
-## ![](_page_35_Picture_29.jpeg)
-
-## ![](_page_35_Picture_30.jpeg)
-
-## ![](_page_35_Picture_31.jpeg)
-
-## ![](_page_35_Picture_32.jpeg)
-
-## ![](_page_35_Picture_33.jpeg)
-
-## ![](_page_35_Picture_34.jpeg)
-
-## ![](_page_35_Picture_35.jpeg)
-
-## ![](_page_35_Picture_36.jpeg)
-
-## ![](_page_35_Picture_37.jpeg)
 
 ## ![](_page_36_Figure_0.jpeg)
 
-## ![](_page_36_Picture_1.jpeg)
 
 **Hobby Horse** Expanded Weapon information Heav y **M e l e e**
 
 ## **Combat Weapon** Guard Crusher
 
-## ![](_page_36_Picture_5.jpeg)
 
 ## ![](_page_36_Figure_6.jpeg)
 
@@ -1810,11 +1365,6 @@ This serves as a proving ground for all of the skills and weapons Alice has acqu
 
 **Unlimited.** Ranged Attack is **1 Shot Only** and placed on *Cooldown Timer* after use.
 
-## ![](_page_37_Picture_0.jpeg)
-
-## ![](_page_37_Picture_1.jpeg)
-
-## ![](_page_37_Picture_2.jpeg)
 
 ## LEVEL 2 • ACT 2
 
@@ -1824,9 +1374,6 @@ This serves as a proving ground for all of the skills and weapons Alice has acqu
 
 ## Anger & Judgment Realm • A Seat of Judgment
 
-## ![](_page_37_Picture_7.jpeg)
-
-## ![](_page_37_Picture_8.jpeg)
 
 A **cut scene** plays as Alice arrives at **The Courthouse** steps. She curiously steps inside.
 
@@ -1836,55 +1383,38 @@ A **cut scene** plays as Alice arrives at **The Courthouse** steps. She curiousl
 
 ## Alice
 
-## ![](_page_37_Picture_12.jpeg)
 
 *"Ah, you're not dead yet. Splendid performance Alice. Allow me tell you that this place is a cruel machine, guided only by rules and logic. The Chess Pieces here serve the Queen in an Alliance of Order. They all have their roles to play on her board… As do you. If you are found innocent, you will be allowed to continue on your journey to The Queen. Alas, If you are found guilty, you will be sentenced to Croak for Eternity."*
 
-## ![](_page_37_Picture_14.jpeg)
-
-## ![](_page_37_Picture_15.jpeg)
 
 *"Guilty? Innocent? Truth. Lies. Isn't it all just a matter of who's swinging the gavel? Power decides innocence. Not the truth, Alice. Besides, your guilt is painted on your back like a picket sign."*
 
 *"Hoo Hoo! Devilishly sharp Alice. Let's see if it works in your favour..."*
 
-## ![](_page_37_Picture_18.jpeg)
 
 *"We'll see about that. I'm not the only one who should be watching their back."*
 
 *"So you've said. The Law should be impartial and fair. I'll take my chances. I know I'm not guilty of anything. I'm only here for the truth."*
 
-## ![](_page_37_Picture_20.jpeg)
 
 The scene concludes as Alice turns around to face the Knave in her anger, but he has disappeared again.
 
-## ![](_page_38_Picture_0.jpeg)
 
 What follows is a sequence of **Challenge Spaces (Trials) that contain Puzzles, Combat Arenas, and Navigation Challenges.**
 
-## ![](_page_38_Picture_3.jpeg)
 
 ## **Trial Challenges** Puzzles, Combat, Spatial
 
-## ![](_page_38_Picture_5.jpeg)
-
-## ![](_page_38_Picture_6.jpeg)
 
 These lead to a **Kafkaesque Main Hall**, a surreal embodiment of bureaucracy and brutal judgment where the combat and navigation puzzles continue while Alice's sins and crimes are read aloud by a stadium full of judges.
 
 Alice successfully completes The Trials and arrives at Judgement only to be told that, despite passing her trials, she's been found guilty and will be sentenced to *"Croak For Eternity".*
 
-## ![](_page_38_Picture_9.jpeg)
-
-## ![](_page_38_Picture_10.jpeg)
 
 A Booming Voice Reads...
 
 *"Guilty of being overly naive, innocent to a fault, curious beyond reason, and ultimately to blame for, ahem, everything."*
 
-## ![](_page_38_Picture_13.jpeg)
-
-## ![](_page_38_Picture_14.jpeg)
 
 We **PLAY** as Alice enters the halls of The Courthouse. The area within the Courthouse is a massive world of rules and law, constantly in a state of debate against itself. Right and wrong. Mess and order. Law and disorder. Chess pieces scramble and scurry about here. Alice notices a mix of both White and Red pieces, knights, peons, knights, rooks and bishops muttering and hopping about the court halls.
 
@@ -1894,7 +1424,6 @@ As Alice is recognised, the chess pieces fall silent. *They all stare.*
 
 *"Whatever is the matter with you all? I'm simply passing through. Leave me be."*
 
-## ![](_page_38_Picture_19.jpeg)
 
 They all point at Alice. And begin whispering to one another. The word *"trial"* is increasingly heard from the jittery crowd of whispering Chess pieces.
 
@@ -1902,61 +1431,33 @@ They agree in unison with the spoken word, *"yes, a trial…"* then, escalating 
 
 The doors from which Alice entered slam shut, and she is trapped. Determined, and unfettered, Alice pushes on.
 
-## ![](_page_38_Picture_23.jpeg)
 
 ## *"I have nothing to fear"*
 
-## ![](_page_38_Picture_25.jpeg)
-
-## ![](_page_38_Picture_26.jpeg)
-
-## ![](_page_38_Picture_27.jpeg)
-
-## ![](_page_38_Picture_28.jpeg)
-
-## ![](_page_38_Picture_29.jpeg)
-
-## ![](_page_38_Picture_30.jpeg)
-
-## ![](_page_38_Picture_31.jpeg)
-
-## ![](_page_38_Picture_32.jpeg)
 
 A **short cutscene** plays as **The Knave's** laughter is heard echoing through the hall. He has been watching the proceedings in the audience chambers above Alice. *He points his finger and childishly exclaims;*
 
-## ![](_page_39_Picture_2.jpeg)
 
 ## The K nave
 
 ## *"Told you so. Ner ner! Ha!"*
 
-## ![](_page_39_Picture_5.jpeg)
 
 **Alice is FURIOUS.** So furious that she bursts into flames as she screams her rage at the mechanical face of judgment. Encountering a cavalry of gavel-wielding **Chess Pieces**, Alice fights against the Court's forces in unrelenting combat. *As she attacks them, it is revealed the Chess pieces are infected with Chaos.*
 
-## ![](_page_39_Picture_7.jpeg)
-
-## ![](_page_39_Picture_8.jpeg)
-
-## ![](_page_39_Picture_9.jpeg)
 
 ## **Inferno • Special State**
 
 An Inferno of Incredible Horror • Roast Them Alive
 
-## ![](_page_39_Picture_12.jpeg)
 
 ## **Inferno Mode Unlock** Advanced Combat Tr aining
 
-## ![](_page_39_Picture_15.jpeg)
 
 The **Rage Bar** is sustained only through specific item pick-ups, or increased successfully via continued, perfect combat execution. Once the bar is full, Alice can "trigger" the Rage attack state at will, whenever she chooses. When triggered, the Rage bar will allow for a limited time **"Super State"**, either with large buffs in combat for a short time, or, released and the entire rage bar is consumed in exchange for a single, burst-fire, high-damage super attack.
 
 Each time Alice is hit, fails a dodge, or doesn't instigate a successful attack after a short amount of time, **the Rage bar level will drop**, and eventually, disappear if not used.
 
-## ![](_page_39_Picture_18.jpeg)
-
-## ![](_page_39_Picture_19.jpeg)
 
 ## ![](_page_40_Figure_0.jpeg)
 
@@ -1964,19 +1465,12 @@ Each time Alice is hit, fails a dodge, or doesn't instigate a successful attack 
 
 # **The Blind Judge**
 
-## ![](_page_40_Picture_4.jpeg)
 
  Lam nus rendae accabor epudit, volorehenis cupta in ea quam ipsusani rae net aut vere. Corem. Disi nihicid unt. Git ditatur repratempor autas et. Maxim hiliquis.
 
-## ![](_page_40_Picture_6.jpeg)
-
-## ![](_page_40_Picture_7.jpeg)
-
-## ![](_page_40_Picture_8.jpeg)
 
 **Combat Section • Boss Battle** Defeat The Blind Judge
 
-## ![](_page_40_Picture_10.jpeg)
 
 After Alice defeats the Chess pieces, a **Boss Fight** with a **massive, multi-limbed, chaos-corrupted Judge unfolds.**
 
@@ -1986,19 +1480,16 @@ Upon her triumph over the corrupted Judge, **a cut scene begins.** Alice is met 
 
 ## *The Shadow toys with Alice;*
 
-## ![](_page_40_Picture_15.jpeg)
 
 ## The Shadow
 
 *"You truly are learning, young girl. There is no Justice. Only the Justice we take for ourselves. A lesson you must learn. Just as I did. Your monstrous violence puts a swift end to those who challenge you..."*
 
-## ![](_page_40_Picture_18.jpeg)
 
 ## Alice
 
 *"You're the Monster. You're to blame for this corruption."*
 
-## ![](_page_40_Picture_21.jpeg)
 
 Alice ignites in fury again, but it is in vain. With a simple click of the Shadow's fingers, the floor opens beneath Alice's feet, and she's dropped screaming into the darkness. **The Shadow smiles, satisfied, and only utters a single word.**
 
@@ -2006,17 +1497,14 @@ Alice ignites in fury again, but it is in vain. With a simple click of the Shado
 
 *"Am I? Perhaps you too should take a closer look in the mirror. After all, it's all your fault..."*
 
-## ![](_page_40_Picture_25.jpeg)
 
 ## The Shadow
 
 ## *"Guilty."*
 
-## ![](_page_40_Picture_28.jpeg)
 
 **T he Sh a dow** Manifesting Form Concept **I I**
 
-## ![](_page_41_Picture_0.jpeg)
 
 ## CHAPTER SUMMARY
 
@@ -2028,19 +1516,12 @@ Alice ignites in fury again, but it is in vain. With a simple click of the Shado
 
 ## Anger & Judgment Realm • A Seat of Judgment
 
-## ![](_page_42_Picture_7.jpeg)
-
-## ![](_page_42_Picture_8.jpeg)
 
 {Copywriting TBC} Eped quis aspe provid que vitectatia cus sequodi audaestio tesenia eprovid expe ommo omnis eum quunt aut arum quas atemquo eos assitia spediti audam rem.
 
-## ![](_page_42_Picture_10.jpeg)
 
 ## NECKLACES · 2 /
 
-## ![](_page_42_Picture_12.jpeg)
-
-## ![](_page_42_Picture_13.jpeg)
 
 ## OMEGA HYSTERIA
 
@@ -2048,13 +1529,9 @@ Alice ignites in fury again, but it is in vain. With a simple click of the Shado
 
 ## KEY ITEMS • 1 /
 
-## ![](_page_42_Picture_17.jpeg)
-
-## ![](_page_42_Picture_18.jpeg)
 
 ## COLLECTIBLES • 1 /
 
-## ![](_page_42_Picture_20.jpeg)
 
 ## MIND'S EX
 
@@ -2062,17 +1539,12 @@ The same of the same of the same of the same of the same of the same of the same
 
 ## WEAPONS COLLECTED • 4 /
 
-## ![](_page_42_Picture_24.jpeg)
 
 ## ALCHEMY RUNES COLLECTED • 0 / 12
 
-## ![](_page_42_Picture_26.jpeg)
-
-## ![](_page_42_Picture_27.jpeg)
 
 Inferno Ability States and Attack Concepts to be Confirmed {TBC}
 
-## ![](_page_42_Picture_29.jpeg)
 
 ## 0.3
 
@@ -2080,19 +1552,14 @@ Inferno Ability States and Attack Concepts to be Confirmed {TBC}
 
 ## RAGE • Slumber Encounter #3
 
-## ![](_page_43_Picture_4.jpeg)
 
 ## [MUSIC TBC]
 
 Alice stands, still on fire with **RAGE,** before The Caterpillar sat atop his mushroom. The scene is filled with heat and smoke. Alice burns in rage, she lashes out in frustration, destroying a mushroom and sending debris flying.
 
-## ![](_page_43_Picture_7.jpeg)
 
 *"Anger is a mask for all other emotions. Anger is without meaning. A fire that simply burns and destroys inwards, and outwards. What lies beneath anger, is what matters."*
 
-## ![](_page_43_Picture_9.jpeg)
-
-## ![](_page_43_Picture_10.jpeg)
 
 ## Alice
 
@@ -2100,19 +1567,9 @@ Alice stands, still on fire with **RAGE,** before The Caterpillar sat atop his m
 
 Caterpillar blows fiery smoke as the scene dissolves… *"Truth"*
 
-## ![](_page_43_Picture_14.jpeg)
-
-## ![](_page_43_Picture_15.jpeg)
-
-## ![](_page_43_Picture_16.jpeg)
-
-## ![](_page_43_Picture_17.jpeg)
 
 **"Hospital - 1863"** The scene is presented in a dream-like style of muted colors and uncertain lines. Alice's avatar is solid and normal - wearing her nightgown - while other characters in the scene are presented as transparent specters - not solid; *unable to interact with; cannot touch or be touched by Alice.*
 
-## ![](_page_43_Picture_19.jpeg)
-
-## ![](_page_44_Picture_0.jpeg)
 
 We **PLAY,** as Alice has an outer-body experience. She is walking through a memory. Alice watches a past version of herself act out her own memories.
 
@@ -2122,7 +1579,6 @@ Like a macabre play, Alice follows as the scenes unfold around her. Following th
 
 *Alice's internal voice narrates, distorted and broken:*
 
-## ![](_page_44_Picture_5.jpeg)
 
 ### Alice
 
@@ -2130,7 +1586,6 @@ Like a macabre play, Alice follows as the scenes unfold around her. Following th
 
 We **PLAY** as Alice explores the corridors of the hospital, weaving a path that ends at Alice's room. Here we see our first glimpse of the family doctor and another unknown figure: *Bumby and Radcliffe.*
 
-## ![](_page_44_Picture_9.jpeg)
 
 ## Alice
 
@@ -2142,10 +1597,4 @@ Alice encounters the younger memory of herself. The player watches, as the memor
 
 ## *Voices are overheard...*
 
-## ![](_page_44_Picture_15.jpeg)
 
-## ![](_page_44_Picture_16.jpeg)
-
-## ![](_page_44_Picture_17.jpeg)
-
-## ![](_page_44_Picture_18.jpeg)

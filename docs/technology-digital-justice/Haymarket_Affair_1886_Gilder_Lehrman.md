@@ -34,7 +34,6 @@ Read the introduction and read the Preface to the book. Then apply your knowledg
 - 5. Explain why Lum claimed that the "oppressed of all the lands" would be vitally interested in the trial of the "Chicago Anarchists"?
 - 6. How did Lum attempt to develop a connection between past examples of religious intolerance and conflict between "Capital and Labor" in the late 1900s?
 
-## ![](_page_2_Picture_3.jpeg)
 
 Dyer D. Lum, *A Concise History of the Great Trial of the Chicago Anarchists in 1886* (Chicago: Socialistic Publishing Society, [1886]), Title Page. (Gilder Lehrman Institute, GLC05640)
 
@@ -42,6 +41,5 @@ Dyer D. Lum, *A Concise History of the Great Trial of the Chicago Anarchists in 
 
 # The Haymarket Affair, 1886
 
-## ![](_page_4_Picture_2.jpeg)
 
 Dyer D. Lum, *A Concise History of the Great Trial of the Chicago Anarchists in 1886*. Chicago: Socialistic Publishing Society, [1886]. Preface. (Gilder Lehrman Institute, GLC05640)

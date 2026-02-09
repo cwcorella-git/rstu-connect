@@ -6,7 +6,6 @@ tags:
   - solidarity
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 A Register Nevada Non-profit info@soilsolidarity.org Katie 775-842-2545
 
@@ -30,7 +29,6 @@ We urge you to consider the following steps as we collaborate to support compreh
 
 **Advocacy:** Actively engage in advocacy efforts to encourage local, state, and national policymakers to prioritize and implement policies that promote affordable housing development, tenant protections, and supportive services.
 
-## ![](_page_1_Picture_0.jpeg)
 
 **Partnerships:** Explore partnerships with other congregations, local nonprofit organizations, housing agencies, and community groups to collectively address the housing crisis. Your congregation can provide valuable resources such as land, facilities, or volunteer support.
 

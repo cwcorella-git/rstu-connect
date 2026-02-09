@@ -9,7 +9,6 @@ tags:
 
 ## Anarchy's Cossack
 
-## ![](_page_0_Picture_2.jpeg)
 
 The Struggle for Free Soviets in the Ukraine 1917-1921
 
@@ -31,7 +30,6 @@ All Russian editions are available at www .makhno.ru & www.novsvet.narod.ru.
 
 # NESTOR MAKHNO Anarchy's Cossack
 
-## ![](_page_2_Picture_1.jpeg)
 
 The Struggle for Free Soviets in the Ukraine 1917-1921
 
@@ -1771,7 +1769,6 @@ The same author adds that the presence of many women among the insurgents was a 
 - 18. N. Makhno, "On the tenth anniversary of the revolutionary insurgent movement of the Ukraine: the Makhnovschina" (in Russian) in Dyelo Truda, Paris, 1 929, No. 44-45, p. 7.
 - 1 9. Yefimov, op. cit. p. 209.
 
-## ![](_page_214_Picture_0.jpeg)
 
 ## (from A. Skirda's Collection ©)
 
@@ -1779,149 +1776,101 @@ Seated (left to right) -- Makhno, Voldemar Antoni, Piotr Onishchenko, Nazar Zuic
 
 Luka Grabovoy, Ivan Shevchenko, Prokop Semenyuta, Egor Bondarenko, Ivan Levadny.
 
-## ![](_page_215_Picture_0.jpeg)
 
 The Makhnovist general staff in the spring of 1919 Third from the left -- Petya Lyuty, then Nestor Makhno, Marchenko, Grigori Makhno (?) and Semyon Karetnik. Foreground, holding the sabre -- Fedor Shchuss.
 
-## ![](_page_216_Picture_0.jpeg)
-
-## ![](_page_217_Picture_0.jpeg)
-
-## ![](_page_217_Picture_1.jpeg)
 
 ## Makhno in 1918 Taranovsky
 
-## ![](_page_217_Picture_4.jpeg)
 
 The Makhnovist general staff in October 1920: front row (left to right) - Marchenko, Karetnik, Vassiliev and Makhno's driver, Melnik. Second row - Kurilenko, Belash, Petrenko, Roma and Shchuss.
 
-## ![](_page_218_Picture_0.jpeg)
 
 ## Makhno in 1930-31 Arshinov in 1926
 
-## ![](_page_218_Picture_2.jpeg)
-
-## ![](_page_218_Picture_4.jpeg)
 
 ## Group of Makhnovists
 
-## ![](_page_219_Picture_0.jpeg)
-
-## ![](_page_220_Picture_0.jpeg)
 
 ## Unit of Makhnovists with Fedor Shchuss (center)
 
-## ![](_page_220_Picture_2.jpeg)
 
 ## General Mai-Maievsky
 
-## ![](_page_221_Picture_0.jpeg)
 
 ## Baron-General Wrangel
 
-## ![](_page_221_Picture_2.jpeg)
 
 ## General Denikin
 
-## ![](_page_221_Picture_4.jpeg)
 
 Red Army military commanders: seated are Voroshilov (right) and Budyenny listening to reports from their subordinates.
 
-## ![](_page_222_Picture_0.jpeg)
 
 ## Cossack General Shkuro of the Kuban Cossacks
 
-## ![](_page_222_Picture_2.jpeg)
 
 Chicherin, commissar for ForeignA.f fairs in the Lenin government
 
-## ![](_page_222_Picture_4.jpeg)
 
 General Mamontov of the Don Cossacks.
 
-## ![](_page_223_Picture_0.jpeg)
 
 ski, missing; Orlov, shot; Yakir, shot Bottom row (left to right) S. Kamenev, deceased; Ordzhonikidze, poisoned; Budyenny, survivor; Alksnis, shot; The One-time Supreme Military Council of the USSR. Top row (left to right) Gamarnik, suicide; Tukhachevsky, shot; Yegorov, missing; Khalep-Mukhlevikch, missing; Eideman, shot; Uborevich, shot (from a soviet photo-montage made prior to the executions)
 
-## ![](_page_224_Picture_0.jpeg)
 
 ## Galina Kuzmenko, Lucie and Nestor Makhno in 1926
 
-## ![](_page_224_Picture_2.jpeg)
 
 ## Makhno and his daughter Lucie in Vincennes, 1928
 
-## ![](_page_224_Picture_4.jpeg)
 
 ## Galina Kuzmenko and Lucie Makhno in 1939
 
-## ![](_page_225_Picture_0.jpeg)
-
-## ![](_page_225_Picture_2.jpeg)
 
 General Kornilov · Kaledin, Ataman of the Don Cossacks
 
-## ![](_page_225_Picture_4.jpeg)
-
-## ![](_page_225_Picture_6.jpeg)
 
 ## General Alexeyev General Kutyepov
 
-## ![](_page_226_Picture_0.jpeg)
 
 ## General Pokrovsky
 
-## ![](_page_226_Picture_2.jpeg)
 
 ## Group of White Rmsian officers
 
-## ![](_page_226_Picture_4.jpeg)
 
 ## Fedor Shchuss
 
-## ![](_page_226_Picture_6.jpeg)
 
 White officers, with General Kutyepov on the right
 
-## ![](_page_227_Picture_1.jpeg)
 
 ## Letter from Makhno to Kropotkin
 
 ## Makhno in 1932
 
-## ![](_page_227_Picture_4.jpeg)
-
-## ![](_page_227_Picture_6.jpeg)
-
-## ![](_page_228_Picture_0.jpeg)
 
 ## Makhno in 19 i 8
 
-## ![](_page_228_Picture_2.jpeg)
 
 ## Makhno in 1933
 
-## ![](_page_228_Picture_4.jpeg)
 
 Portrait of N Makhno by his companion Grisha Bartanovsky in 1934 (Marquetry)
 
-## ![](_page_228_Picture_6.jpeg)
 
 ## Portrait of Bakunin by Grisha Bartanovsky
 
-## ![](_page_229_Picture_0.jpeg)
 
 ## Portait of Makhno, 1922
 
-## ![](_page_229_Picture_2.jpeg)
 
 ## The wounded Makhno in 1920
 
-## ![](_page_230_Picture_0.jpeg)
 
 Group of wounded Makhnovists (left to right) Karetnik, Petrenko, Makhno, an unnamed nurse, Kurilenko
 
-## ![](_page_230_Picture_2.jpeg)
 
 Makhnovists poring over the draft of the second alliance with the Reds, Starobelsk, September 1920.
 
@@ -1929,23 +1878,18 @@ Makhnovists poring over the draft of the second alliance with the Reds, Starobel
 
 Series of seven stamps commemorating the Makhnovschina, issued in Gulyai-Polye in 1993
 
-## ![](_page_231_Picture_2.jpeg)
 
 ## A tatchanka (Photo by JP. Lagarde)
 
-## ![](_page_232_Picture_0.jpeg)
 
 Unveiling of commemorative plaque marking the 110th anniversary of Nestor Makhno's birth on November 15, 1998, outside the house where he was born. In the center, Makhno's great grand-nephew Viktor Yalansky: behind him, the son of Leon Zadov. Foreground, a kobzar (Ukrainian minstrel} sings Makhnovist songs.
 
-## ![](_page_232_Picture_2.jpeg)
 
 House in Gulyai-Polye used by the Makhnovists as their headquarters.
 
-## ![](_page_233_Picture_0.jpeg)
 
 A wing of the Tenon hospital in Paris where Makhno died
 
-## ![](_page_233_Picture_2.jpeg)
 
 N. Makhno's faneral urn in the Pere Lachaise cemetery in Paris.
 
@@ -1989,7 +1933,6 @@ The Sixth Red Army's commander, A. I. Kork, gave this account of what ensued at 
 
 Kork estimates the strength of Karetnik's detachment at this point at 1,000 infantry and 700 cavalry, with 191 machine-guns and six cannon. 19 Nevertheless, he is very discreet as to the circumstances of the Sivash crossing. In fact, some local peasants pointed out the best crossing-point. The Makhnovists led the way across under heavy fire from the Whites and sustained some losses but managed to reach the Litovsk peninsula by driving back General Fostikov's Kuban Cossacks. Whereupon they were followed up by the two divisions mentioned, one of them made up of Latvian infantrymen. This maneuver was an historical reenactment of the maneuver
 
-## ![](_page_240_Picture_0.jpeg)
 
 Military Operations in the Crimea (October-November 1920)
 
@@ -3635,7 +3578,6 @@ Please contact us if you would like to use our facilities. To receive details of
 
 Kate Sharpley Library PMB #820 2425 Channing Way B erkeley, CA 94 704 USA
 
-## ![](_page_427_Picture_8.jpeg)
 
 www.katesharpleylibrary.org
 
@@ -3653,6 +3595,4 @@ Historian and translator Alexandre Skirda (born in 1942 to a Ukrainian father an
 
 Paul Sharkey has, amongst a huge body of work, translated many of Skirda's works into English.
 
-## ![](_page_428_Picture_8.jpeg)
 
-## ![](_page_428_Picture_9.jpeg)

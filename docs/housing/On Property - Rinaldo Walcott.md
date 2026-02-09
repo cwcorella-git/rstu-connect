@@ -517,12 +517,4 @@ Typeset by Vanessa Stauffer
 
 Published with the generous assistance of the Canada Council for the Arts, which last year invested \$153 million to bring the arts to Canadians throughout the country, and the financial support of the Government of Canada. Biblioasis also acknowledges the support of the Ontario Arts Council (OAC), an agency of the Government of Ontario, which last year funded 1,709 individual artists and 1,078 organizations in 204 communities across Ontario, for a total of \$52.1 million, and the contribution of the Government of Ontario through the Ontario Book Publishing Tax Credit and Ontario Creates.
 
-## ![](_page_99_Picture_1.jpeg)
 
-## ![](_page_99_Picture_2.jpeg)
-
-## ![](_page_99_Picture_3.jpeg)
-
-## ![](_page_99_Picture_4.jpeg)
-
-## ![](_page_99_Picture_5.jpeg)

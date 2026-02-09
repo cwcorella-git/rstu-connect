@@ -9,7 +9,6 @@ tags:
 
 existentialism is a humanism
 
-## ![](_page_0_Picture_1.jpeg)
 
 #### JEAN-PAUL SARTRE
 

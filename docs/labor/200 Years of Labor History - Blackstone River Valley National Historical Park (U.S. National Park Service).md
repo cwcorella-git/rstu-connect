@@ -11,15 +11,11 @@ tags:
 
 [nps.gov](https://www.nps.gov/blrv/learn/historyculture/200-labor-events.htm)
 
-84–106 minutes
 
 # **"All that harms labor is treason to America." - Abraham Lincoln**
 
 In honor of the 200th anniversary of the first wage earner's strike in Pawtucket, Rhode Island, we have compiled 200 moments in labor history since 1824, with the aid of a Public History class from Providence College in partnership with their professor, Dr. Jeffrey Johnson. Join us as we explore how labor power has grown, waned, and changed over two centuries.
 
-## ![](_page_0_Picture_7.jpeg)
-
-## ![](_page_1_Picture_2.jpeg)
 
 Power loom weaving in 1835.
 
@@ -62,9 +58,6 @@ In 1832, around 150 carpenters went on strike for a ten-hour workday. They were 
 - **10) Shoebinder's protest in Lynn, Massachusetts, 1833** After wage cuts, a group of shoebinders in Lynn organized the "Female Society of Lynn and vicinity for the protection and promotion of Female Industry." This organization was established to protest for better wages and to prove their worth as artisans despite their sex.
 - **11) The first General Trades Union is formed by skilled workers in New York, 1833**The General Trades Union brought together multiple smaller trade unions to better advocate for workers' rights. The first one was formed in New York in August of 1833. It included members of nine different trades.
 
-## ![](_page_3_Picture_7.jpeg)
-
-## ![](_page_4_Picture_2.jpeg)
 
 Lowell mill girls, like the ones pictured here, struck for improved wages and later formed the Factory Girls Association to provide better strike assistance.
 
@@ -108,9 +101,6 @@ In this landmark case, the Massachusetts Supreme Judicial Court decided that lab
 
 In 1842, Massachusetts limited children under 12 to 10 hours of work a day. The same year, Connecticut passed a 10-hourday law for children under 14. Previously there had been laws requiring a certain amount of education to be given to working children, but these were the first to regulate the amount of time they could spend working.
 
-## ![](_page_6_Picture_7.jpeg)
-
-## ![](_page_7_Picture_2.jpeg)
 
 Frederick Douglass's autobiography, Narrative of the Life of Frederick Douglass, An American Slave Written by Himself, was part of a larger effort to end slavery and its role as a source of American labor. National Portrait Gallery, Smithsonian Institution
 
@@ -174,7 +164,6 @@ In the spring of 1859, a large channel of silver ore was discovered in a Nevada 
 
 The Drake Well, drilled in Pennsylvania in 1859, was the first oil well drilled in the United States. On August 27 it struck oil at 69 ½ feet into the earth. The success of this well foreshadowed a massive leap forward in industry and labor where petroleum would power industry.
 
-## ![](_page_10_Picture_8.jpeg)
 
 A shoe shiner asleep at his stand in Saratoga Springs, New York, c. 1870.
 
@@ -196,7 +185,6 @@ After 3,000 white dock workers went on strike in New York, Black workers were br
 
 Kate Mullany and Esther Keegan formed the Collar Laundry Union and organized a strike of about 300 women from 14 different laundry factories in Troy, New York. The women protested the difficult 14-hour workdays and sought a wage increase of 20 to 25 percent. These long days proved especially grueling when the women also had household and family responsibilities. After five and a half days, the strike was a success and the employers agreed to their demands.  
 
-## ![](_page_12_Picture_3.jpeg)
 
 Laborers work to construct the Charles River Bridge in Massachusetts, 1876.
 
@@ -244,7 +232,6 @@ Railroad employees in Baltimore, Maryland faced a considerable wage reduction of
 
 A group of Irish Coal Miners known as the "Mollie Maguires" were executed on "Black Thursday" for their suspected involvement in the killing of coal mine managers. Those in charge of the mines did not give Irish workers employment but gave it to Welsh men instead.
 
-## ![](_page_15_Picture_3.jpeg)
 
 Two men working in a lumber mill in Snolquamie National Forest, Washington, 1870.
 
@@ -274,7 +261,6 @@ On August 2, 1881, the Amalgamated Labor Union was meant to meet with the Knight
 
 The Federation of Organized Trades and Labor Unions was an organization formed to combat common grievances of workers of all different occupations and trades around the United States. Among these grievances were poor working conditions, low pay, long hours, and lack of bargaining rights for workers or union leaders. The movement was led by Samuel Gompers, an established labor leader who paved the way for the future of the American labor movement.
 
-## ![](_page_17_Picture_5.jpeg)
 
 Women delegates to the Knights of Labor Convention, 1886. Library of Congress
 
@@ -298,7 +284,6 @@ The Great Southwest Railroad Strike was spearheaded by the Knights of Labor afte
 
 On May 1, 1886, the Federation of Organized Trades and Labor Unions (FOTLU) planned a massive general strike involving all union members in the country. The goal of the strike was to achieve an eight-hour workday. However, this plan had mixed results, with some achieving an eight-hour workday, some failing, and some being forced to compromise for nine-hour days.
 
-## ![](_page_19_Picture_3.jpeg)
 
 "The tournament of today - a set-to between labor and monopoly."
 
@@ -360,7 +345,6 @@ In 1890 the Carpenters Union, led by established labor leader P. J. Mc Guire, we
 
 This piece of legislation stated that business activities that interfere with free-market competition are illegal. However, the law also gave the government the ability to interfere with and prevent union activities. The law was seen as a setback for labor unions around the United States
 
-## ![](_page_23_Picture_7.jpeg)
 
 The state militia entering Homestead, PA in response to the 1892
 
@@ -386,7 +370,6 @@ The Western Federation of Miners was formed after other miner labor unions had f
 
 The Cripple Creek Miners Strike, in Cripple Creek, Colorado, was the first successful miner's strike led by the Western Federation of Miners. Gold miners represented by the WFM went on strike for better working conditions and a shorter workday. The success of the strike came with a cost, as the protest turned violent after the strikers were met by the state militia. Many were wounded or killed by authorities.
 
-## ![](_page_25_Picture_5.jpeg)
 
 The worker's gate at the Pullman Company, showing an empty yard during the strike, 1894.
 
@@ -428,9 +411,6 @@ The United Coal Workers of America decided to go on strike at the Anthracite coa
 
 In 1903, Jewish newspaper writers came together to strike for better wages. They also demanded that the publishers only hire union writers. However, a lack of unity spelled the end not only for the strike, but the union at large. The writers would try again with and without unions to back them up, but they would be largely unsuccessful in their strikes.
 
-## ![](_page_28_Picture_7.jpeg)
-
-## ![](_page_29_Picture_2.jpeg)
 
 The emblem of the National Women's Trade Union League, c. 1908
 
@@ -450,9 +430,6 @@ Textile workers in Fall River, Massachusetts organized a strike opposing propose
 
 In 1905, the Asiatic Exclusion League was founded in San Francisco. This group, following the Japanese and Korean Exclusion League, worked to keep Asian immigrants out of the country and out of work and even had the support of local unions. This event shows that while unions fought for the rights of workers, they were not perfect and did not always fight for every worker.
 
-## ![](_page_30_Picture_5.jpeg)
-
-## ![](_page_31_Picture_2.jpeg)
 
 A member of the I. W. W. wearing a hat with a card that reads, "Bread or Revolution," 1914.
 
@@ -472,7 +449,6 @@ An explosion at the Monongah Mines in West Virginia caused damage to mines 6 and
 
 Between July 13th and September 8th, 1909, thousands of immigrant workers partook in a labor strike to protest for better working conditions and pay. These workers were not part of a union. Still, the strike was successful as the workers were able to achieve all of their demands.
 
-## ![](_page_32_Picture_6.jpeg)
 
 A group of mainly female shirtwaist workers on strike in New York, 1909.
 
@@ -488,9 +464,6 @@ The Mc Kees Rock strike took place at the Pressed Steel Car Co., located in Mc K
 
 In August of 1909, the first general strike of the Butcher's Union began. 600 workers walked out of work, with no place to live and nothing to eat. With help from other unions, the workers were able to find food and shelter and, after two weeks, were successful in their strike. This would help rally other workers to their cause, but would also lead to a future of group conflict and loyalty.
 
-## ![](_page_33_Picture_8.jpeg)
-
-## ![](_page_34_Picture_2.jpeg)
 
 The Triangle Waistcoat Factory fire killed 146 people, and drew attention to poor working conditions.
 
@@ -518,7 +491,6 @@ Located along the Passaic River in New Jersey, Paterson was known as "Silk City"
 
 The Michigan Copper district refused to acknowledge the Western Federation of Miners, causing them to go on strike on June 22, 1913. During a Christmas party for the strikers and their families, someone yelled "fire" causing a panic which led to the death of 72 people, mostly children. The companies granted some of their demands, although they refused to recognize the union.  
 
-## ![](_page_36_Picture_5.jpeg)
 
 Evicted strikers at the Fulton Bag and Cotton Mill gather for a meal in front of the "mess tent." Georgia State University
 
@@ -530,9 +502,6 @@ In reaction to strict overseers, 12-hour workdays, the firing of coworkers, and 
 
 Henry Ford, founder of the Ford Motor Company, announced a groundbreaking policy to double basic wages for his workers to \$5 per day. This move aimed to address high turnover rates, increase productivity, and enable workers to afford the products they were producing. The decision set a new standard for industrial wages and significantly impacted labor practices and the development of the middle class in the United States.  
 
-## ![](_page_37_Picture_5.jpeg)
-
-## ![](_page_38_Picture_2.jpeg)
 
 During the Ludlow Massacre, the Colorado National Guard and hired gunmen killed 19 people involved with strikes. Some of those killed were women and children.
 
@@ -556,9 +525,6 @@ World War I increased the demand for oil, leading to refinery employees, mostly 
 
 The Industrial Workers of the World went to Everett, Washington to speak at a weaver's strike. When local authorities heard that 300 IWW members were arriving by ferry, they gathered an armed police force to wait at the docks. Shooting broke out between police and union members. Two deputies and five union members died as a result, and 47 others were wounded.
 
-## ![](_page_39_Picture_9.jpeg)
-
-## ![](_page_40_Picture_2.jpeg)
 
 Striking Arizonan copper miners and their families watch a train deporting members of the I. W. W. to New Mexico, 1917. Library of Congress
 
@@ -578,9 +544,6 @@ After entering World War I, the United States created the War Labor Board to fac
 
 On February 6, 1919, 35,000 shipyard workers, along with 25,000 other sympathetic workers, went on strike in Seattle. The strike remained peaceful and was well organized, but federal officers who managed the shipyards refused to negotiate, and police and hired forces raided union offices and arrested members. By February 11, workers returned to their jobs. Despite its failure, the strike was the first 20th century solidarity strike to be called a general strike.
 
-## ![](_page_41_Picture_7.jpeg)
-
-## ![](_page_42_Picture_2.jpeg)
 
 The National Guard at their headquarters, Faneuil Hall, during the Boston Police strike, 1919.
 
@@ -612,9 +575,6 @@ Despite the post-WWI economic boom, railroad maintenance worker pay was cut by 1
 
 On April 25, 1923, the International Workers of the World called a strike at the San Pedro docks in Los Angeles, California, to protest poor working conditions, low wages, and the firing and arrest of union workers. The LAPD banned public meetings, and on May 14th arrested strikers at their meeting place, which they named Liberty Hill. The Ku Klux Klan also played a role in terrorizing the strikers. The strike ended on May 24th and, with none of their demands met, many workers remained in jail or left the city to find new work.
 
-## ![](_page_44_Picture_5.jpeg)
-
-## ![](_page_45_Picture_2.jpeg)
 
 A. Philip Randolph, a co-founder of the Brotherhood of Sleeping Car Porters, c.1920.
 
@@ -640,7 +600,6 @@ The Railway Labor Act details the required procedures for railroad workers to go
 
 After being on strike for three weeks, miners in the northern Colorado Columbine mine were met with extreme violence. A crowd of 200-600 picketers were shot at by the Colorado State Police. Six miners were killed and twenty others were wounded.   
 
-## ![](_page_47_Picture_2.jpeg)
 
 1,800 mill workers struck against the Loray Mill in Gastonia, North Carolina in 1929.
 
@@ -664,9 +623,6 @@ Passed by Congress and President Franklin D. Roosevelt during the Great Depressi
 
 In 1934, Minneapolis truck drivers went on strike, demanding recognition of the union, wage increases, and shorter working hours. Violence quickly broke out between police and unarmed strikers, and the governor of Minnesota declared martial law and sent in about 4,000 soldiers to control the situation. The strikers achieved most of their demands, and the strike contributed to the passage of the National Labor Relations Act and the Fair Labor Standards Act.
 
-## ![](_page_48_Picture_7.jpeg)
-
-## ![](_page_49_Picture_2.jpeg)
 
 8,000 textile workers went on strike in Woonsocket, Rhode Island, as part of the General Textile Strike of 1934, led by the UTW.
 
@@ -690,7 +646,6 @@ The 1936-1937 Flint Sit-Down Strike was a pivotal event in American labor histor
 
 The Little Steel Strike involved steel workers, particularly those employed by smaller steel companies, hence the name 'Little Steel.' The strike was in response to low wages, poor working conditions, and the lack of recognition for unions. Violence ensued between strikers and company-hired private military forces, resulting in injury and death, and strikers were able to achieve their demands five years later using legal action, not striking.
 
-## ![](_page_51_Picture_3.jpeg)
 
 In 1937, police opened fire on unarmed demonstrators during the Little Steel Strike in Chicago, IL.
 
@@ -728,7 +683,6 @@ held out a bit longer, and received a raise of 16 cents per hour.
 
 On May 18th, 1946, several railway unions planned a railroad walkout. The day before the planned strike, President Truman signed Executive Order 9727, which allowed the government to seize and operate the railroads. The strike began on May 22, after failed negotiations with the White House, and caused massive supply chain disruptions and the decade's worst car traffic. On May 24th, Truman threatened to use the army as strikebreakers, and as a result, the strikers accepted a 16 cent per hour wage increase the next day.
 
-## ![](_page_54_Picture_5.jpeg)
 
 The International Garment Workers Union protests the Taft-Hartley Act, 1952.
 
@@ -750,7 +704,6 @@ The International Longshore and Warehouse Union led a sixmonth strike to gain eq
 
 Operation Dixie began in 1951 as an effort by the Congress of Industrial Organizations (CIO) to unionize Southern workers, despite strong anti-union sentiment. The campaign involved extensive outreach and meetings, but widespread success was slowed because of strong opposition in the Southern region. Operation Dixie ended without achieving its goal, showing the challenges of organizing in the face of anti-union ideas.
 
-## ![](_page_56_Picture_3.jpeg)
 
 Men and women holding signs that read "Boycott Kohler" in support of the UAW strike, 1954.
 
@@ -772,9 +725,6 @@ In 1957, members of the Retail, Wholesale, and Department Store Union (RWDSU) we
 
 In 1959, ILGWU members launched a wildcat strike, engaging in spontaneous picketing and protests without official union authorization. However, the picket line was abandoned in 1963, without many of the requests being met. This strike is important as it shows a more unsanctioned side to striking.
 
-## ![](_page_57_Picture_9.jpeg)
-
-## ![](_page_58_Picture_2.jpeg)
 
 A nurse standing in front of a newly opened health clinic for migratory farm workers in Tulare County, California.
 
@@ -810,7 +760,6 @@ On July 3, 1968, PATCO initiated "Operation Air Safety," which was the first of 
 
 In 1969, 200,000 members of the Communication Workers of America (CWA) struck against AT&T, demanding cost of living wage increases. After 18 days, AT&T agreed to a raise in both wages and benefits of almost 20% over three years, and also agreed to pay health care premiums in full.
 
-## ![](_page_60_Picture_3.jpeg)
 
 Workers at the Farah Manufacturing Company picket outside of a department store, 1972.
 
@@ -828,7 +777,6 @@ In 1972, workers began a series of wildcat strikes against unattainable deadline
 
 In 1973, teachers in New York went on strike demanding better job security, smaller classroom sizes, wage increases, and better disciplinary procedures. 22 teachers were jailed and fined as a result of the strike.
 
-## ![](_page_61_Picture_7.jpeg)
 
 An early meeting of the Southern Tenant Farmers' Union (SFTU) in 1937. The union dissolved in 1974.
 
@@ -860,7 +808,6 @@ negotiators were often criticized for their inexperience and ineffectiveness. By
 
 With the recent emergence of home video and TV markets, actors of the Screen Actors Guild (SAG) and the American Federation of Television and Radio Artists (AFTRA) wanted imbursements from sales in the new entertainment distribution markets. The following year, they would strike again for similar demands. The familiar faces that graced the screens of TV boxes and movie theaters throughout America would go on to win in both efforts—and even gain higher general wages.
 
-## ![](_page_65_Picture_2.jpeg)
 
 Baseball fans protest the MLB players' strike in 1981.
 
@@ -902,9 +849,6 @@ On February 28, 1985, unionized workers from Pan American World Airways began wa
 
 During the recession of the early 1980s, Hormel Foods Corporation, a food processing company, cut wages and failed to improve working conditions. In protest, many workers from local unions around the company's headquarters in Minnesota went on strike, though the parent union, United Food and Commercial Workers (UFCW), did not support it. To maintain the workforce, Hormel hired non-union replacement workers who were mainly Mexican migrants, causing a rift in the community. In the fall of 1986, the local unions agreed to a new contract with Hormel, but only about 20% of workers regained their jobs.
 
-## ![](_page_68_Picture_7.jpeg)
-
-## ![](_page_69_Picture_2.jpeg)
 
 New Bedford fishermen striking for better profits in 1985-1986. New Bedford Fishing Heritage Center
 
@@ -926,7 +870,6 @@ Hollywood's writers started making demands too. This time, they desired compensa
 
 In March of 1989, the Industrial Association of Machinists and Aerospace Workers struck against Eastern Airlines. The conflict quickly turned personal, and Eastern Airlines President Frank Lorenzo hired non-union replacements for striking pilots, flight attendants, and mechanics. Though other factors contributed, the IAM strike was a significant reason for Eastern Airlines' collapse in 1991.
 
-## ![](_page_70_Picture_5.jpeg)
 
 A grocery store worker on strike in 2003-2004.
 
@@ -960,7 +903,6 @@ The labor lockout of the National Hockey League was a 10 month-long strike that 
 
 The two-day strike resulted from failed labor contract negotiations between G. M. and the United Auto Workers union. Over 73,000 workers protested, resulting in a pause in operations in over 80 facilities. The strike significantly impacted G. M.'s production and supply chains internationally. The parties eventually reached a deal, and the strike inspired the UAW to initiate labor contract agreements with other manufacturers, such as Ford and Chrysler.
 
-## ![](_page_73_Picture_3.jpeg)
 
 Members of the Chicago Teachers Union on strike in 2012
 
@@ -976,7 +918,6 @@ The largest U. S. prison strike involved 24,000 prisoners who protested unjust p
 
 The Verizon Strike involved over 40,000 workers demanding better contractual agreements regarding healthcare, pensions, and wages. The strike gained nationwide attention, and after nearly two months, a mutual agreement was formed between the parties.  
 
-## ![](_page_74_Picture_7.jpeg)
 
 Members of SAG-AFTRA and other sympathetic unions rally in Philadelphia, 2023.
 
@@ -992,11 +933,6 @@ The longest recorded strike between the Screen Actors Guild and Alliance of Moti
 
 1) Melvyn Dubofsky, "The Origins of the Labor Movememnt in the United States: Themes from the Nineteenth Century," Pennsylvania History: A Journal of Mid-Atlantic Studies, vol. 58, no. 4 (October 1991): 269-277.
 
-## ![](_page_75_Picture_9.jpeg)
-
-## ![](_page_76_Picture_2.jpeg)
-
-## ![](_page_76_Picture_4.jpeg)
 
 [1824 Strike](https://www.nps.gov/blrv/learn/historyculture/1824-strike.htm)
 
@@ -1004,9 +940,6 @@ Join us for our First Strike Festival 2024! And learn more about the 1824 Strike
 
 -
 
-## ![](_page_76_Picture_8.jpeg)
-
-## ![](_page_77_Picture_2.jpeg)
 
 [Labor History](https://www.nps.gov/blrv/learn/historyculture/labor-history.htm)
 

@@ -13,9 +13,6 @@ tags:
 
 ## Contributors to Wikimedia projects
 
-132–168 minutes
-
-## ![](_page_0_Picture_6.jpeg)
 
 Collection box for the [Massachusetts Anti-Slavery Society,](https://en.wikipedia.org/wiki/Massachusetts_Anti-Slavery_Society) c.1850, design partly based on the [Wedgwood anti-slavery medallion](https://en.wikipedia.org/wiki/Wedgwood_anti-slavery_medallion)[\[1\]](#page-52-0)
 
@@ -31,7 +28,6 @@ During the Revolutionary era, all states abolished the [international slave trad
 
 ## [\[edit\]](https://en.wikipedia.org/w/index.php?title=Abolitionism_in_the_United_States&action=edit§ion=2)
 
-## ![](_page_1_Picture_6.jpeg)
 
 Thones Kunders's house at 5109 Germantown Avenue, where the [1688](https://en.wikipedia.org/wiki/1688_Germantown_Quaker_Petition_Against_Slavery) [Germantown Quaker Petition Against Slavery](https://en.wikipedia.org/wiki/1688_Germantown_Quaker_Petition_Against_Slavery) was written
 
@@ -39,7 +35,6 @@ American abolitionism began well before the United States was founded as a natio
 
 An early prominent example of resistance by enslaved people occurred during [Bacon's Rebellion](https://en.wikipedia.org/wiki/Bacon%27s_Rebellion) in 1676. Occurring in Virginia, the rebellion saw [European indentured servants](https://en.wikipedia.org/wiki/Indentured_servitude_in_Virginia) and African people (of indentured, [enslaved,](https://en.wikipedia.org/wiki/Atlantic_slave_trade) and [free negroes\)](https://en.wikipedia.org/wiki/Free_Negro) band together against [William Berkeley](https://en.wikipedia.org/wiki/William_Berkeley_(governor)) because of his refusal to fully remove Native American tribes in the region. At the time, Native Americans in the region were hosting raids against lower-class settlers encroaching on their land after the [Third Powhatan War](https://en.wikipedia.org/wiki/Anglo-Powhatan_Wars) (1644–1646), which left many white and black indentured servants and slaves without a sense of protection from their government[.\[12\]](#page-53-2) Led by [Nathaniel Bacon,](https://en.wikipedia.org/wiki/Nathaniel_Bacon_(Virginia_colonist)) the unification that occurred between the white lower class and blacks during this rebellion was perceived as dangerous and thus was quashed with the implementation of the [Virginia Slave Codes of 1705.](https://en.wikipedia.org/wiki/Virginia_Slave_Codes_of_1705) [\[13\]](#page-53-3) Still, this event introduced the premise that blacks and whites could work together towards the goal of self-liberation, which became increasingly prevalent as abolition gained traction within America[.\[14\]](#page-53-4)
 
-![](_page_2_Picture_3.jpeg)
 
 [Samuel Sewall](https://en.wikipedia.org/wiki/Samuel_Sewall) (1652–1730), judge who wrote The Selling of Joseph (1700) which denounced the spread of slavery in the American colonies
 
@@ -57,7 +52,6 @@ On September 9, 1739, a literate slave named Jemmy led a rebellion against South
 
 Slave revolts following the Stono Rebellion were a present mode of abolition undertaken by slaves and were an indicator of black agency that brewed beneath the surface of the abolitionist movement for decades and eventually sprouted later on through figures such as Frederick Douglass, an escaped black freeman who was a popular orator and essayist for the abolitionist cause[.\[32\]](#page-55-2)
 
-![](_page_4_Picture_4.jpeg)
 
 Grave of [Benjamin Kent,](https://en.wikipedia.org/wiki/Benjamin_Kent) lawyer who freed a slave in America (1766)
 
@@ -73,7 +67,6 @@ According to historian [Steven Pincus,](https://en.wikipedia.org/wiki/Steven_Pin
 
 ## [\[edit\]](https://en.wikipedia.org/w/index.php?title=Abolitionism_in_the_United_States&action=edit§ion=3)
 
-## ![](_page_5_Picture_6.jpeg)
 
 [Thomas Paine](https://en.wikipedia.org/wiki/Thomas_Paine)'s 1775 article "African Slavery in America" was one of the first to advocate abolishing slavery and freeing slaves.
 
@@ -85,7 +78,6 @@ In 1777, independent [Vermont,](https://en.wikipedia.org/wiki/Vermont) not yet a
 
 The [Constitution](https://en.wikipedia.org/wiki/United_States_Constitution) included several provisions which accommodated slavery, although none used the word. Passed unanimously by the [Congress of the Confederation](https://en.wikipedia.org/wiki/Congress_of_the_Confederation) in 1787, the [Northwest Ordinance](https://en.wikipedia.org/wiki/Northwest_Ordinance) forbade slavery in the [Northwest Territory,](https://en.wikipedia.org/wiki/Northwest_Territory) a vast area (the future Ohio, Indiana, Illinois, Michigan, and Wisconsin) in which slavery had been legal, but population was sparse.[[citation needed](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed)]
 
-## ![](_page_6_Picture_5.jpeg)
 
 An animation showing when states and territories forbade or admitted slavery 1789–1861
 
@@ -95,7 +87,6 @@ Massachusetts took a much more radical position. In 1780, during the Revolution,
 
 States with a greater economic interest in slaves, such as New York and New Jersey, passed [gradual emancipation](https://en.wikipedia.org/wiki/Gradual_emancipation_(United_States)) laws. While some of these laws were gradual, these states enacted the first abolition laws in the entire ["New World"](https://en.wikipedia.org/wiki/New_World)[.\[46\]](#page-56-5) In the State of New York, the enslaved population was transformed into [indentured](https://en.wikipedia.org/wiki/Indentured_servitude) [servants](https://en.wikipedia.org/wiki/Indentured_servitude) before being granted full emancipation in 1827. In other states, abolitionist legislation provided freedom only for the children of the enslaved. In New Jersey, slavery was not fully prohibited until the passage of the [Thirteenth Amendment.](https://en.wikipedia.org/wiki/Thirteenth_Amendment_to_the_United_States_Constitution) [\[47\]](#page-56-6)
 
-![](_page_7_Picture_3.jpeg)
 
 Abolition of slavery in the various states of the US over time: Abolition of slavery during or shortly after the American Revolution (Vermont, 1777; Massachusetts [including Maine], 1783)
 
@@ -157,7 +148,6 @@ In the 1830s there was a progressive shift in thinking in the North. Mainstream 
 
 ## [\[edit\]](https://en.wikipedia.org/w/index.php?title=Abolitionism_in_the_United_States&action=edit§ion=6)
 
-## ![](_page_9_Picture_10.jpeg)
 
 [Wm. Lloyd Garrison](https://en.wikipedia.org/wiki/Wm._Lloyd_Garrison) (1805–1879), publisher of the abolitionist newspaper [The Liberator](https://en.wikipedia.org/wiki/The_Liberator_(anti-slavery_newspaper)) and one of the founders of the [American Anti-](https://en.wikipedia.org/wiki/American_Anti-Slavery_Society)[Slavery Society](https://en.wikipedia.org/wiki/American_Anti-Slavery_Society)
 
@@ -177,7 +167,6 @@ Anti-slavery as a principle was far more than just the wish to prevent the expan
 
 African-American activists and their writings were rarely heard outside the Black community. However, they were tremendously influential on a few sympathetic white people, most prominently the first white activist to reach prominence, [Wm. Lloyd Garrison,](https://en.wikipedia.org/wiki/Wm._Lloyd_Garrison) who was its most effective propagandist. Garrison's efforts to recruit eloquent spokesmen led to the discovery of ex-slave [Frederick Douglass,](https://en.wikipedia.org/wiki/Frederick_Douglass) who eventually became a prominent activist in his own right. Eventually, Douglass would publish his own widely distributed abolitionist newspaper, [North Star](https://en.wikipedia.org/wiki/North_Star_(newspaper)).
 
-## ![](_page_11_Picture_5.jpeg)
 
 [Lysander Spooner](https://en.wikipedia.org/wiki/Lysander_Spooner) (1808–1887), an [individualist anarchist](https://en.wikipedia.org/wiki/Individualist_anarchist) who wrote [The Unconstitutionality of Slavery](https://en.wikipedia.org/wiki/The_Unconstitutionality_of_Slavery) (1845)
 
@@ -187,7 +176,6 @@ In the early 1850s, the American abolitionist movement split into two camps over
 
 Another split in the abolitionist movement was along class lines. The artisan republicanism of [Robert Dale Owen](https://en.wikipedia.org/wiki/Robert_Dale_Owen) and [Frances](https://en.wikipedia.org/wiki/Frances_Wright) [Wright](https://en.wikipedia.org/wiki/Frances_Wright) stood in stark contrast to the politics of prominent elite abolitionists such as industrialist [Arthur Tappan](https://en.wikipedia.org/wiki/Arthur_Tappan) and his evangelist brother [Lewis.](https://en.wikipedia.org/wiki/Lewis_Tappan) While the former pair opposed slavery on a basis of solidarity of "wage slaves" with "chattel slaves", the [Whiggish](https://en.wikipedia.org/wiki/Whig_Party_(United_States)) Tappans strongly rejected this view, opposing the characterization of Northern workers as "slaves" in any sense. (Lott, 129–130)[[citation needed](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed)]
 
-## ![](_page_12_Picture_4.jpeg)
 
 Idealized portrait of [John Brown](https://en.wikipedia.org/wiki/John_Brown_(abolitionist)) being adored by an enslaved mother and child as he walks to his execution
 
@@ -203,9 +191,6 @@ Numerous known abolitionists lived, worked, and worshipped in [downtown Brooklyn
 
 The [federal government](https://en.wikipedia.org/wiki/Federal_government_of_the_United_States) prohibited the [transatlantic slave trade](https://en.wikipedia.org/wiki/Transatlantic_slave_trade) in 1808, prohibited the slave trade in the District of Columbia in 1850, outlawed [slavery in the District of Columbia](https://en.wikipedia.org/wiki/Slavery_in_the_District_of_Columbia) in 1862, and, with the [Thirteenth Amendment to the United States](https://en.wikipedia.org/wiki/Thirteenth_Amendment_to_the_United_States_Constitution) [Constitution,](https://en.wikipedia.org/wiki/Thirteenth_Amendment_to_the_United_States_Constitution) made slavery unconstitutional altogether, except as punishment for a crime, in 1865. This was a direct result of the [Union](https://en.wikipedia.org/wiki/Union_(Civil_War)) victory in the [American Civil War.](https://en.wikipedia.org/wiki/American_Civil_War) The [central issue of](https://en.wikipedia.org/wiki/Origins_of_the_American_Civil_War) [the war](https://en.wikipedia.org/wiki/Origins_of_the_American_Civil_War) was slavery[.\[60\]](#page-57-9)[\[61\]](#page-57-10)[\[62\]](#page-58-0)[\[63\]](#page-58-1)
 
-![](_page_13_Picture_7.jpeg)
-
-## ![](_page_14_Picture_2.jpeg)
 
 [Charles Turner Torrey,](https://en.wikipedia.org/wiki/Charles_Turner_Torrey) c. 1840, from Memoir of Rev. Charles T. Torrey, Joseph P. Lovejoy, ed. (Boston: John P. Jewett & Co.), 1847
 
@@ -221,7 +206,6 @@ I am a believer in that portion of the Declaration of American Independence in w
 
 ## [\[edit\]](https://en.wikipedia.org/w/index.php?title=Abolitionism_in_the_United_States&action=edit§ion=9)
 
-## ![](_page_15_Picture_5.jpeg)
 
 [Uncle Tom's Cabin](https://en.wikipedia.org/wiki/Uncle_Tom%27s_Cabin) inflamed public opinion in the North and Europe against the personified evils of slavery
 
@@ -255,7 +239,6 @@ In 1854, Congress passed the [Kansas–Nebraska Act,](https://en.wikipedia.org/w
 
 The Republicans wanted to achieve the gradual extinction of slavery by market forces, because its members believed that free labor was superior to slave labor. Southern leaders said the Republican policy of blocking the expansion of slavery into the West made them second-class citizens, and challenged their autonomy. With the [1860 presidential victory](https://en.wikipedia.org/wiki/1860_United_States_presidential_election) of [Abraham](https://en.wikipedia.org/wiki/Abraham_Lincoln) [Lincoln,](https://en.wikipedia.org/wiki/Abraham_Lincoln) seven Deep South states whose economy was based on cotton and slavery decided to secede and form a new nation. The [American Civil War](https://en.wikipedia.org/wiki/American_Civil_War) broke out in April 1861 with the firing on Fort Sumter in South Carolina. When Lincoln called for troops to suppress the rebellion, four more slave states seceded.
 
-## ![](_page_19_Picture_2.jpeg)
 
 This Democratic editorial cartoon links Republican candidate John Frémont (far right) to [temperance,](https://en.wikipedia.org/wiki/Temperance_movement) [feminism,](https://en.wikipedia.org/wiki/Feminism) [Fourierism,](https://en.wikipedia.org/wiki/Fourierism) [free love,](https://en.wikipedia.org/wiki/Free_love) Catholicism, and abolition.
 
@@ -273,11 +256,9 @@ Militant abolitionists demanded immediate emancipation, not a slow-acting contai
 
 #### [\[edit\]](https://en.wikipedia.org/w/index.php?title=Abolitionism_in_the_United_States&action=edit§ion=15)
 
-## ![](_page_20_Picture_5.jpeg)
 
 [John Brown](https://en.wikipedia.org/wiki/John_Brown_(abolitionist)) (1800–1859), abolitionist who advocated armed rebellion by slaves. He slaughtered pro-slavery settlers in Kansas and in 1859 was hanged by the state of Virginia for leading an unsuccessful slave insurrection at Harpers Ferry.
 
-## ![](_page_20_Picture_7.jpeg)
 
 Bells rung in [Ravenna, Ohio,](https://en.wikipedia.org/wiki/Ravenna,_Ohio) at the hour of John Brown's execution.
 
@@ -289,13 +270,9 @@ The raid, though unsuccessful in the short term, may have helped Lincoln get ele
 
 The raid did not go as expected. Brown hoped to have quickly a small army of runaway slaves, but made no provision to inform these potential runaways, although he got a little local support. Lt. Colonel [Robert E. Lee](https://en.wikipedia.org/wiki/Robert_E._Lee) of the U. S. Army was dispatched to put down the raid, and Brown was quickly captured. He was tried for treason against the Commonwealth of Virginia, murder, and inciting a slave revolt, was found guilty of all charges, and was hanged. At his trial, Brown exuded a remarkable zeal and single-mindedness that played directly to Southerners' worst fears. Under Virginia law there was a month between the sentencing and the hanging, and in those weeks Brown spoke gladly with reporters and anyone else who wanted to see him, and wrote many letters. Few individuals did more to cause secession than John Brown, because Southerners believed he was right about an impending slave revolt. The day of his execution, Brown prophesied, "the crimes of this guilty land will never be purged away but with blood. I had as I now think vainly flattered myself that without very much bloodshed it might be done.["\[89\]](#page-60-4)
 
-![](_page_21_Picture_5.jpeg)
-
-## ![](_page_22_Picture_2.jpeg)
 
 This photo of [Gordon](https://en.wikipedia.org/wiki/Gordon_(slave)) was widely distributed by abolitionists[.\[90\]](#page-60-5)
 
-![](_page_22_Picture_4.jpeg)
 
 [Wilson Chinn,](https://en.wikipedia.org/wiki/Wilson_Chinn) a branded slave from Louisiana--became one of the most widely circulated photos of the abolitionist movement during the American Civil War
 
@@ -305,7 +282,6 @@ The [American Civil War](https://en.wikipedia.org/wiki/American_Civil_War) began
 
 ## [\[edit\]](https://en.wikipedia.org/w/index.php?title=Abolitionism_in_the_United_States&action=edit§ion=18)
 
-## ![](_page_23_Picture_5.jpeg)
 
 [John Jay](https://en.wikipedia.org/wiki/John_Jay) (1745–1829), a founder of the [New York Manumission Society](https://en.wikipedia.org/wiki/New_York_Manumission_Society) in 1785
 
@@ -337,7 +313,6 @@ By 1860, 91.7% of the blacks in Delaware and 49.7% of those in Maryland were fre
 
 ## [\[edit\]](https://en.wikipedia.org/w/index.php?title=Abolitionism_in_the_United_States&action=edit§ion=20)
 
-## ![](_page_26_Picture_5.jpeg)
 
 This anti-slavery map shows the slave states in black, with black-andwhite shading representing the threatened spread of slavery into Texas and the western territories.
 
@@ -371,7 +346,6 @@ Slave Act. Many Southerners called all these abolitionists, without distinguishi
 
 Historian James Stewart (1976) explains the abolitionists' deep beliefs: "All people were equal in God's sight; the souls of black folks were as valuable as those of whites; for one of God's children to enslave another was a violation of the Higher Law, even if it was sanctioned by the Constitution."[\[54\]](#page-57-3)
 
-![](_page_29_Picture_4.jpeg)
 
 Officers and men of the [Irish-Catholic](https://en.wikipedia.org/wiki/Irish-Catholic) [69th New York Volunteer](https://en.wikipedia.org/wiki/69th_Infantry_Regiment_(New_York)) [Regiment](https://en.wikipedia.org/wiki/69th_Infantry_Regiment_(New_York)) attend Catholic services in 1861.
 
@@ -407,15 +381,11 @@ Black abolitionist rhetoric was not only a transatlantic movement between Britai
 
 Working as Jamaican-based writers for New York newspapers between 1840 and 1851, the two black US-Jamaican brothers, Henry and George Davison provided inter-American perspectives on abolitionism[.\[144\]](#page-65-0) Henry wrote letters to the [National Anti-Slavery Standard.](https://en.wikipedia.org/wiki/National_Anti-Slavery_Standard) [\[144\]](#page-65-0) Black Americans had opportunities to write for newspapers, providing publicity and discussion of abolitionist rhetoric. Slavery was moving beyond internal US divisions, but reaching influence outside of the USA. Black abolitionist rhetoric was not simply an African-American activity, but involved South American and Caribbean individuals too, showing an international movement.
 
-## ![](_page_32_Picture_7.jpeg)
-
-## ![](_page_33_Picture_2.jpeg)
 
 Like many Quakers, [Lucretia Mott](https://en.wikipedia.org/wiki/Lucretia_Mott) considered slavery an evil to be opposed.
 
 [William Lloyd Garrison's](https://en.wikipedia.org/wiki/William_Lloyd_Garrison) abolitionist newsletter [the](https://en.wikipedia.org/wiki/The_Liberator_(anti-slavery_newspaper)) [Liberator](https://en.wikipedia.org/wiki/The_Liberator_(anti-slavery_newspaper)) noted in 1847, "the Anti-Slavery cause cannot stop to estimate where the greatest indebtedness lies, but whenever the account is made up there can be no doubt that the efforts and sacrifices of the WOMEN, who helped it, will hold a most honorable and conspicuous position.["\[145\]](#page-65-1) As [the](https://en.wikipedia.org/wiki/The_Liberator_(anti-slavery_newspaper)) [Liberator](https://en.wikipedia.org/wiki/The_Liberator_(anti-slavery_newspaper)) states, women played a crucial role as leaders in the antislavery movement.
 
-![](_page_33_Picture_5.jpeg)
 
 Plaque commemorating the founding of the Female Anti-Slavery Society in Philadelphia in 1833
 
@@ -425,7 +395,6 @@ Plaque commemorating the founding of the Female Anti-Slavery Society in Philadel
 
 [Abby Kelley Foster,](https://en.wikipedia.org/wiki/Abby_Kelley_Foster) with a strong [Quaker](https://en.wikipedia.org/wiki/Quaker) heritage, helped lead [Susan B. Anthony](https://en.wikipedia.org/wiki/Susan_B._Anthony) and [Lucy Stone](https://en.wikipedia.org/wiki/Lucy_Stone) into the abolition movement, and encouraged them to take on a role in political activism. She helped organize and was a key speaker at
 
-## ![](_page_34_Picture_5.jpeg)
 
 Sarah Moore Grimké (1792–1873), abolitionist and women's rights advocate the first [National Women's Rights Convention,](https://en.wikipedia.org/wiki/National_Women%27s_Rights_Convention) held in [Worcester, Massachusetts,](https://en.wikipedia.org/wiki/Worcester,_Massachusetts) in 1850. (The better-known [Seneca](https://en.wikipedia.org/wiki/Seneca_Falls_Convention) [Falls Convention,](https://en.wikipedia.org/wiki/Seneca_Falls_Convention) held in 1848, was not national)[.\[151\]](#page-65-7) She was an "ultra" abolitionist who believed in immediate and complete civil rights for all slaves. Since 1841, however, she had resigned from the Quakers over disputes about not allowing anti-slavery speakers in meeting houses (including the Uxbridge monthly meeting where she had attended with her family), and the group disowned her[.\[152\]](#page-65-8)[\[153\]](#page-65-9)[\[154\]](#page-65-10) [Abby Kelley](https://en.wikipedia.org/wiki/Abby_Kelley) became a leading speaker and the leading fundraiser for the [American](https://en.wikipedia.org/wiki/American_Anti-slavery_Society) [Anti-slavery Society.](https://en.wikipedia.org/wiki/American_Anti-slavery_Society) Radical abolitionism became known as "Abby Kelleyism"[.\[155\]](#page-65-11)[\[156\]](#page-65-12)
 
@@ -437,7 +406,6 @@ Women gained important experiences in public speaking and organizing that stood 
 
 Even though women were not allowed full access to political and religious spaces, they still played a big role in the abolitionist movement through both public activism and behind-the-scenes activism. As historian Julie Roy Jeffrey explains, a lot of women relied on their religious faith and authority to speak out against slavery and challenge male-led church systems that tried to keep them quiet. They believed slavery went against Christian values and saw it as a deep moral wrong. In their speeches and writing, they made it clear that true faith could not exist alongside a system that discriminated against people. Women like Sarah Otis Ernst and Maria Child used persuasive writing, public speeches, and organizing work to fight not just slavery, but also the powerful systems that kept it going[.\[161\]](#page-66-3) Ernst was a strong Garrisonian who got frustrated when mainstream abolitionists started watering down their message. She did not like that people in the movement were trying to be more politically strategic instead of sticking to the original beliefs, like full racial equality, immediate emancipation, and refusing to work with pro-slavery systems. At the 1852 American and Foreign Antislavery Society convention, around two-thirds of the 2,000 people there were women[.\[161\]](#page-66-3) That says a lot about how involved women were, even though they often got written out of the story. They could not vote, but they used writing, speeches, and journalism to influence politics and public opinion. Their activism was real, public, and tied directly into national conversations.
 
-![](_page_36_Picture_4.jpeg)
 
 Sojourner Truth meeting President Abraham Lincoln in 1864, symbolizing her role in both abolition and civil rights advocacy.
 
@@ -445,9 +413,6 @@ But not all women approached the movement the same way. There were clear differe
 
 Stephanie J. Richmond talks about how central Black women were to abolition, even though they have been left out of most of the history. "Women like Sojourner Truth, Maria Stewart, and Harriet Tubman struggled not only for the abolition of slavery but for gender and racial equality as well"[.\[162\]](#page-66-4) They were not just giving speeches, they were founding antislavery groups, organizing communities, and building transatlantic networks. They were working through both racism and sexism and still finding ways to be powerful voices. Truth's line "Ain't I a Woman?" and Stewart saying she had to "stand for justice wherever I find it["\[162\]](#page-66-4) show how they were calling out not just slavery, but the whole system that tried to silence them. Harriet Tubman took a different route; she led people to freedom through the Underground Railroad and even worked for the Union Army. Black women's abolitionism looked different from that of white women. It was rooted in their personal experience and often more direct and action-focused. They made sure the fight for abolition was not just about ending slavery, but also about achieving full equality and justice.
 
-![](_page_37_Picture_4.jpeg)
-
-## ![](_page_38_Picture_2.jpeg)
 
 Elizabeth Cady Stanton House in Seneca Falls, New York, home of the pioneering women's rights leader and site of early activism
 
@@ -511,7 +476,6 @@ These "debates", which were well publicized, alarmed Lane's president [Lyman Bee
 
 Due to its students' anti-slavery position, Oberlin soon became one of the most liberal colleges and accepted African-American students. Along with Garrison, Northcutt and Collins were proponents of immediate abolition. [Abby Kelley Foster](https://en.wikipedia.org/wiki/Abby_Kelley_Foster) became an "ultra abolitionist" and a follower of William Lloyd Garrison. She led [Susan B. Anthony](https://en.wikipedia.org/wiki/Susan_B._Anthony) as well as [Elizabeth Cady Stanton](https://en.wikipedia.org/wiki/Elizabeth_Cady_Stanton) into the anti-slavery cause.
 
-## ![](_page_42_Picture_7.jpeg)
 
 [Frederick Douglass](https://en.wikipedia.org/wiki/Frederick_Douglass) (1818–1895), a former slave whose memoirs, [Narrative of the Life of Frederick Douglass, an American Slave](https://en.wikipedia.org/wiki/Narrative_of_the_Life_of_Frederick_Douglass,_an_American_Slave) (1845) and [My Bondage and My Freedom](https://en.wikipedia.org/wiki/My_Bondage_and_My_Freedom) (1855), became bestsellers, which aided the cause of abolition
 
@@ -571,7 +535,6 @@ I found [in the North] contempt more bitter, opposition more active, detraction 
 
 [Alexis de Tocqueville,](https://en.wikipedia.org/wiki/Alexis_de_Tocqueville) in [Democracy in America](https://en.wikipedia.org/wiki/Democracy_in_America) said:
 
-## ![](_page_47_Picture_6.jpeg)
 
 An illustration of the proslavery riot in [Alton, Illinois](https://en.wikipedia.org/wiki/Alton,_Illinois) on 7 November 1837, which resulted in the murder of abolitionist [Elijah Parish Lovejoy](https://en.wikipedia.org/wiki/Elijah_Parish_Lovejoy)
 
@@ -579,7 +542,6 @@ Abolitionists nationwide were outraged by the murder of white abolitionist and j
 
 [Amos Dresser,](https://en.wikipedia.org/wiki/Amos_Dresser) a participant in the [Lane Debates,](https://en.wikipedia.org/wiki/Lane_Debates) was publicly whipped in Nashville. A gallows with a note from "Judge [Lynch"](https://en.wikipedia.org/wiki/Lynching) was erected in front of Garrison's office. He, along with the Tappans, was hung in effigy in Charleston, S. C. Southern post offices burned rather than delivered abolitionist publications, in which they were supported by the national Post Office. President Andrew Jackson called the abolitiinists' tracts "unconstitutional and wicked.["\[209\]:](#page-70-9)106–107
 
-![](_page_48_Picture_3.jpeg)
 
 Burning of [Pennsylvania Hall,](https://en.wikipedia.org/wiki/Pennsylvania_Hall_(Philadelphia)) home of the [Pennsylvania Anti-Slavery](https://en.wikipedia.org/wiki/Pennsylvania_Anti-Slavery_Society) [Society.](https://en.wikipedia.org/wiki/Pennsylvania_Anti-Slavery_Society) Print by [John Caspar Wild.](https://en.wikipedia.org/wiki/John_Caspar_Wild) Note firemen spraying water on adjacent building.
 
@@ -599,7 +561,6 @@ Biblical interpretations contradicted those of the abolitionists; a popular one 
 
 ### [\[edit\]](https://en.wikipedia.org/w/index.php?title=Abolitionism_in_the_United_States&action=edit§ion=40)
 
-## ![](_page_49_Picture_5.jpeg)
 
 [Henry Clay](https://en.wikipedia.org/wiki/Henry_Clay) (1777–1852), one of the three founders of the [American](https://en.wikipedia.org/wiki/American_Colonization_Society) [Colonization Society](https://en.wikipedia.org/wiki/American_Colonization_Society)
 
@@ -955,7 +916,6 @@ Reconstruction to the NAACP. Princeton University Press, 1975. [ISBN](https://en
 - Yee, Shirley J. Black Women Abolitionists: A Study in Activism, 1828–1860. University of Tennessee Press, 1992. [online](https://archive.org/details/blackwomenabolit00shir)
 - Zilversmit, Arthur. The First Emancipation: The Abolition of Slavery in the North. University of Chicago Press, 1967. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [0-226-98332-3.](https://en.wikipedia.org/wiki/Special:Book Sources/0-226-98332-3)
 
-## ![](_page_75_Picture_6.jpeg)
 
 - [The Abolitionist Seminar,](https://www.abolitionseminar.org/lesson-plans/) summaries, lesson plans, documents and illustrations for schools; focus on United States
 - [Original Document Proposing Abolition of Slavery 13th](http://www.footnote.com/viewer.php?image=4346710) [Amendment](http://www.footnote.com/viewer.php?image=4346710)

@@ -16,7 +16,6 @@ tags:
 
 ## Shannon Lee
 
-## ![](_page_1_Picture_3.jpeg)
 
 ## Begin Reading
 
@@ -416,7 +415,6 @@ It may come as no surprise that my father meditated, starting as a teenager and 
 
 For our purposes in this moment, meditation should be understood as a method of loosening the mind and letting it float a bit. It's a practice of creating space—freeing yourself from all motives and helping you to make contact with your relaxed and serene nature. You can think of it as the feeling you have when you daydream. You're awake, but your mind is untethered and moving easily from image to idea to thought and through states of nothingness, without getting hung up on any one thing —like it's floating in a gentle and deep pool of water with inflatable water wings on. It doesn't need to do anything to stay afloat. It feels loose; it feels free. No "thoughts" as we traditionally think of them are getting any active play. You aren't thinking about your day or your to-do list or the argument you had with your partner or where you have to be after you're done meditating. You're not in evidence-collecting mode. You simply give yourself the space to let go of thinking at all.
 
-## ![](_page_52_Picture_1.jpeg)
 
 Of course, and especially in the beginning, nagging thoughts do grab our attention when trying to meditate. One of the mind's main functions is analysis, and so it's normal and natural for the mind to shift quickly back to problem-solving and planning. When that happens, don't beat yourself up or get frustrated. It's part of the process, and, in fact, the mere act of noticing that this has occurred is a huge step in the right direction. It means you're becoming aware! So just notice when this happens, pat yourself on the back, and then pump up your water wings and bring your focus back to neutral.
 
@@ -484,9 +482,6 @@ As it turns out, this fight would be a pivotal moment in my father's life. Had h
 
 Instead of reveling in his victory, my father used the lessons of the fight to begin a long, personal journey. He became interested in what it meant to be a well-rounded, physically fit, and fully creative fighter, what it meant to release oneself of limitations, and, most important for our purposes, what it meant to be a fluid human being.
 
-## ![](_page_61_Picture_0.jpeg)
-
-## ![](_page_61_Picture_1.jpeg)
 
 Shortly after that fight, my father started to consider the physical realities of combat, and what might be possible when one wasn't bound by the traditions or norms of any particular style. This was the great revelation of his martial career, and the beginning of the art of jeet kune do. As a symbol and testament to his seriousness about this new journey, he reached out to metalworker, friend, and student George Lee and asked him to create something for him.
 
@@ -644,7 +639,6 @@ As we position ourselves to be curious, to look deeply at ourselves, we must be 
 
 To be certain, every day there can be a revelation or a new discovery that I can obtain. I dare not say that I have reached any state of achievement, for I am still learning, for learning is boundless!
 
-## ![](_page_80_Picture_0.jpeg)
 
 # The Opponent
 
@@ -814,9 +808,6 @@ Even as my father was creating the art of jeet kune do, he continued to always p
 
 In chi sao, the practitioners rock their arms side to side in a circular motion, never releasing the tension on their forearms and never stopping the motion. They continue to exchange energy back and forth, all the while sensing what the other is giving and then trying to respond skillfully and immediately. This is a truly connected relationship in which both sides are in full communication, contact, and sensitivity to each other, and in which both sides are pushing the other onward. This exercise requires great attention and presence, but it is also meant to prepare you to find the opening through which you will act.
 
-## ![](_page_98_Picture_0.jpeg)
-
-## ![](_page_98_Picture_1.jpeg)
 
 So how will we act when we encounter a challenging person or situation? Do we just skirt around and avoid it or them altogether? Maybe. When it's someone or something that we aren't that invested in, then yes; maybe that's fine. But what if this is one of our deepest relationships and it hits on one of our deepest wounds? What if the opposition we are meeting is within a very close relationship of ours where the stakes are emotionally high and we don't want to just walk away? As my father wrote:
 
@@ -932,7 +923,6 @@ Being clear can sometimes be half the battle. If you can't feel the dream in you
 
 My father had a poster that he kept hanging on the wall of his office. Years later, after he passed, this same poster hung on the wall of my brother's bedroom as a teen, and now it hangs on the wall in my office, and it makes me smile every time I see it. This poster is a very 1970s, almost-black-light-looking thing that shows two cartoon vultures sitting on the branch of a dead tree overlooking a barren desert landscape. There is a cow skull on the ground and no living thing for miles. In the poster, one vulture is turning to the other one and saying, "Patience, my ass! I'm gonna kill something!"
 
-## ![](_page_113_Picture_0.jpeg)
 
 This poster is *so* my dad. Although he believed in patience and gentleness and the ability to yield, as we'll get to soon, he was also not one to tread water or waste time. He was going to do all he could do to move in the direction of his unfolding, and if that meant taking some extra measures, well, then that's what he was going to do. If whatever action he took didn't work out, then he wouldn't spend very long banging his head against a wall or continuing to push for something that wasn't working. In his mind, why wait for something that may never come if you may be able to manifest it yourself? And how will you know if you could have manifested it yourself if you never even try?
 
@@ -1452,7 +1442,6 @@ In 1966, my father asked George Lee, who had made the miniature headstone for hi
 
 Partiality is where most of us start, and this is unconscious behavior. In martial arts, it's when you are a beginner and immature practitioner, and, to you, (by way of example) a punch is just a punch. Someone asks you to throw a punch; you've never thrown a punch before, so you just throw a punch. You don't think about how to do it best, and even if you kind of do, you think about it without any specific knowledge on the subject —just what you think a punch should be like. It's a punch, but it's inelegant. There's an inexperienced, uncontrolled wildness to it; there's no technique, no skill. This stage is represented by a fragmented yin yang symbol with no inner relatedness and what my father called "the running to extreme."
 
-## ![](_page_167_Picture_3.jpeg)
 
 When applying this stage to life, there's no awareness when it comes to thoughts, emotions, and actions. We are operating in unskilled reactions to what we narrowly perceive as good or bad, right or wrong. When we get defensive and are unwilling to listen and consider another's point of view or feelings, we are in partiality. We refuse to see that there is any other side, any other experience, or any other way. We refuse to give anyone the benefit of the doubt or take into consideration that they are coming from their own set of experiences and understanding of life up to this point. We refuse to see the blocks within ourselves that are keeping us trapped in behavioral patterns. We are being tossed around on the waves of life and we don't know where the shore is; we are just struggling to keep our heads above water at all costs.
 
@@ -1460,7 +1449,6 @@ When applying this stage to life, there's no awareness when it comes to thoughts
 
 Fluidity is the stage we reach once we've acknowledged that we (and everyone) have a lot to learn, and we begin to work on ourselves. It is the stage of a budding conscious awareness. In martial arts, this is where a punch is no longer just a punch. Suddenly we recognize all the intricacies that go into making a punch successful and we train and practice and start to gain skill. We begin to see that a punch doesn't just happen with the arm and fist, but that a good punch involves the whole body and the senses. We start to see that in order to punch well and find our target, we want to be in optimum condition, taking into consideration everything around us—who or what we are punching, where we are, how we feel, what's going on—and learn to work with what is. My father called this the "two halves of one whole" and represented it on the plaque with a full yin yang symbol with two arrows encircling it, showing the constant interplay of the complementary forces.
 
-## ![](_page_169_Picture_0.jpeg)
 
 In this stage, we are open and engaged in learning and bettering ourselves. We see that harnessing our potential is achievable, albeit both exciting and terrifying.
 
@@ -1476,7 +1464,6 @@ This is the stage of living void, or the "formless form," as my father memoriali
 
 This is where consciousness and unconsciousness begin to work together as one. There are no more halves, only wholeness. In our martial arts analogy, when we've reached stage three, the stage of emptiness, a punch is, once again, just a punch meaning we have now gotten to a place of so much honed skill that we no longer have to think about how to punch or all the components of a punch or even when to punch; now we can just punch. But this punch is a masterful punch—at once skillful and spontaneous.
 
-## ![](_page_171_Picture_0.jpeg)
 
 My dear friend and colleague Chris gave me the novel *Musashi* by Eiji Yoshikawa, translated by Charles S. Terry. It's about real life seventeenth-century samurai Miyamoto Musashi, who wrote *The Book of Five Rings* (which my father had in his library), and I came across a passage in the novel that I think captures the living void beautifully:
 
@@ -1590,7 +1577,6 @@ Jeet kune do translates to "the way of the intercepting fist," and if you have b
 
 The fourth and final plaque my father created to represent this wholly personal and realized stage had the yin yang symbol with the arrows around it as in the fluidity stage, but with his personal maxim in Chinese characters encircling it as well, which translate to: "Using no way as way, having no limitation as limitation." The very essence of water—ever finding its own path without limit.
 
-## ![](_page_186_Picture_0.jpeg)
 
 You may wonder why his fourth stage has so much form to the design of the plaque when it may seem like emptiness, the formless form, is the ultimate goal. Remember that the living void is the emptiness from which all our personal expression springs forth. Yes, an understanding of it and a collaboration with it is essential, but we are the secret ingredient that makes the void live through us. We are the unique and alive expression in this human realm.
 
@@ -1791,7 +1777,6 @@ When it came time to create his headstone, a challenging task under any circumst
 
 You see, back then, in 1973, the people who knew Bruce Lee best knew full well that he was a phenomenal thinker and doer, and they understood that there was much to integrate for themselves through the example of his words and actions. They appreciated fully his genuineness and his aliveness. They absorbed so much from just having spent time with him, learning from him, and being with him. His energy and integrity were palpable, revelatory, and moving. I recently came across a quote that I thought was very applicable to my father's life. It read, "True mastery is service." What that means to me is that the energy imparted and expressed through someone's mastery is in and of itself an act of service because it lifts us up and inspires us to what is possible in life. You shine your own light, and there's more light, in total, for everyone.
 
-## ![](_page_205_Picture_1.jpeg)
 
 He inspired, if not overwhelmed, anyone who came into contact with him. And he was the model of what it is to be fully creative and expressive, authentically powerful, and personally liberated. He was not bound like we tend to bind ourselves. You could see it, feel it, hear it, and know it. And it's not to say he was perfect (he most certainly was a human being like you and me), but he was in a process that was leading him toward something that most of us just admire from a distance.
 
@@ -1925,7 +1910,6 @@ Be water, my friends.
 
 ### About the Author
 
-## ![](_page_224_Picture_1.jpeg)
 
 [Shannon](http://us.macmillan.com/author/shannonlee?utm_source=ebook&utm_medium=adcard&utm_term=ebookreaders&utm_content=shannonlee_authorpage_macdotcom&utm_campaign=9781250206695) Lee is the CEO and owner of the Bruce Lee Family Companies and chairperson of the Bruce Lee Foundation, as well as the daughter of the legendary martial artist and cultural icon Bruce Lee. Shannon's mission is to provide access to her father's philosophy and life through education and entertainment. She is the creator of Camp Bruce Lee through the Bruce Lee Foundation and has spoken at TED, TEDx, Creative Mornings, and elsewhere. Shannon lives in California with her daughter, Wren, where she cohosts the *Bruce Lee Podcast* and executive produces Cinemax's *Warrior*.
 

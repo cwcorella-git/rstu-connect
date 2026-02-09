@@ -11,7 +11,6 @@ tags:
 
 ### all about love NEW VISIONS
 
-## ![](_page_0_Picture_2.jpeg)
 
 ## Author of Salvation: Black People and Love
 
@@ -55,7 +54,6 @@ tags:
 
 "Like love, this book is worth the commitment." —Toronto Sun
 
-## ![](_page_2_Picture_0.jpeg)
 
 A hardcover edition of this book was published in 2000 by William Morrow and Company, Inc.
 
@@ -1091,7 +1089,6 @@ Understanding all the ways fear stands in the way of our knowing love challenges
 - Henri Nouwen, The Inner Voice of Love, Doubleday, 1996
 - Thomas Merton, Love and Liking, Commonweal Publishing, 1997
 
-## ![](_page_244_Picture_0.jpeg)
 
 ## Marion Ettlinge
 

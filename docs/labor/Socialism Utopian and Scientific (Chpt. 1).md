@@ -11,7 +11,6 @@ tags:
 
 ## Frederick Engels
 
-29-37 minutes
 
 ## Frederick Engels
 
@@ -49,7 +48,6 @@ This historical situation also dominated the founders of Socialism. To the crude
 
 These facts once established, we need not dwell a moment longer upon this side of the question, now wholly belonging to the past. We can leave it to the literary small fry to solemnly quibble over these phantasies, which today only make us smile, and to crow over the superiority of their own bald reasoning, as compared with such "insanity". For ourselves, we delight in the stupendously grand thoughts and germs of thought that everywhere break out through their phantastic covering, and to which these Philistines are blind.
 
-## ![](_page_7_Picture_4.jpeg)
 
 ## Saint-Simon was a son of the great
 
@@ -65,7 +63,6 @@ But to recognize the French Revolution as a class war, and not simply one betwee
 
 Saint-Simon shows the same superiority over his contemporaries, when in 1814, immediately after the entry of the allies into Paris, and again in 1815, during the Hundred Days' War, he proclaims the alliance of France and England, and then of both of these countries, with Germany, as the only guarantee for the prosperous development and peace of Europe. To preach to the French in 1815 an alliance with the victors of Waterloo required as much courage as historical foresight.
 
-## ![](_page_10_Picture_3.jpeg)
 
 If in Saint-Simon we find a comprehensive breadth of view, by virtue of which almost all the ideas of later Socialists that are not strictly economic are found in him in embryo, we find in Fourier a criticism of the existing conditions of society, genuinely French and witty, but not upon that account any the less thorough. Fourier takes the bourgeoisie, their inspired prophets before the Revolution, and their interested eulogists after it, at their own word. He lays bare remorselessly the material and moral misery of the bourgeois world. He confronts it with the earlier philosophers' dazzling promises of a society in which reason alone should reign, of a civilization in which happiness should be universal, of an illimitable human perfectibility, and with the rose-colored phraseology of the bourgeois ideologists of his time. He points out how everywhere the most pitiful reality corresponds with the most high-sounding phrases, and he overwhelms this hopeless fiasco of phrases with his mordant sarcasm.
 
@@ -79,7 +76,6 @@ Whilst in France the hurricane of the Revolution swept over the land, in England
 
 The new mode of production was, as yet, only at the beginning of its period of ascent; as yet it was the normal, regular method of production – the only one possible under existing conditions. Nevertheless, even then it was producing crying social abuses – the herding together of a homeless population in the worst quarters of the large towns; the loosening of all traditional moral bonds, of patriarchal subordination, of family relations; overwork, especially of women and children, to a frightful extent; complete demoralization of the working-class, suddenly flung into altogether new conditions, from the country into the town, from agriculture into modern industry, from stable conditions of existence into insecure ones that change from day to day.
 
-## ![](_page_13_Picture_3.jpeg)
 
 At this juncture, there came forward as a reformer a manufacturer 29-years-old – a man of almost sublime, childlike simplicity of character, and at the same time one of the few born leaders of men. Robert Owen had adopted the teaching of the materialistic philosophers: that man's character is the product, on the one hand, of heredity; on the other, of the environment of the individual during his lifetime, and especially during his period of development. In the industrial revolution most of his class saw only chaos and confusion, and the opportunity of fishing in these troubled waters and making large fortunes quickly. He saw in it the opportunity of putting into practice his favorite theory, and so of bringing order out of chaos. He had already tried it with success, as superintendent of more than 500 men in a Manchester factory. From 1800 to 1829, he directed the great cotton mill at New Lanark, in Scotland, as managing partner, along the same lines, but with greater freedom of action and with a success that made him a European reputation.
 

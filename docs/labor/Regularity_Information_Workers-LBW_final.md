@@ -21,7 +21,6 @@ Mary Czerwinski Microsoft Research Redmond, WA, USA marycz@microsoft.com Judith 
 
 Hemma Prafullchandra Microsoft Mountain View, CA, USA hemmap@microsoft.com
 
-![](_page_0_Picture_9.jpeg)
 
 ## ![](_page_0_Figure_10.jpeg)
 

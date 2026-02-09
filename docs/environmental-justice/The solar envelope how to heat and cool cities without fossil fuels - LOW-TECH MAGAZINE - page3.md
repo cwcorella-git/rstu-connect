@@ -9,11 +9,9 @@ tags:
 
 #### [lowtechmagazine.com](https://www.lowtechmagazine.com/2012/03/solar-oriented-cities-3-housing-density.html)
 
-11-14 minutes
 
 [1](https://www.lowtechmagazine.com/2012/03/solar-oriented-cities-1-the-solar-envelope.html) / [2](https://www.lowtechmagazine.com/2012/03/solar-oriented-cities-2-solar-access-in-19th-century-cities.html) / 3
 
-## ![](_page_0_Picture_6.jpeg)
 
 Illustration by [Diego Marmolejo.](http://ddidak.blogspot.com.es/) Click to enlarge.
 
@@ -21,7 +19,6 @@ Over the years, Knowles and his students have performed multiple studies of the 
 
 Density is hard to define, and can be measured in different ways. One approach is to calculate the amount of dwelling units per unit of area (acre, hectare, square km or square mile), while another calculation determines the amount of people per unit of area. A third approach is to compute the average floor-to-area ratio (FAR) of the site. All these approaches of density have their shortcomings and are preferably calculated alongside each other in order to make sound comparisons. The size of apartments, the occupancy, the ratio between office space and residential building, and the amount of parking space are among the main factors that can distort density results if only one figure is shown.
 
-## ![](_page_1_Picture_2.jpeg)
 
 [B](http://krisdedecker.typepad.com/.a/6a00e0099229e88833016763361b7e970b-pi)uildings under the solar envelope on the Spanish grid in LA, reaching densities up to 72 du/ac. Ralph Knowles.
 
@@ -31,7 +28,6 @@ Knowles and his students have reached densities of up to 100 dwelling units per 
 
 Of course larger apartments, more demanding cut-off times and lower (or non-existing) shadow fences would reduce the development potential. On the other hand, the density would improve if the project were to be located on a Jeffersonian grid, which boosts development potential (See [part 2\)](https://www.lowtechmagazine.com/2012/03/solar-oriented-cities-2-solar-access-in-19th-century-cities.html). For a site in Los Angeles measuring 150 x 205 ft with a guaranteed solar access of 6 hours, a solar envelope oriented diagonal at the cardinal points will have 1.5 times less developeable volume than a solar envelope oriented east-west, and 1.3 times less than a site oriented northsouth.
 
-## ![](_page_2_Picture_2.jpeg)
 
 [B](http://krisdedecker.typepad.com/.a/6a00e0099229e888330168e82fc823970c-pi)uildings within the solar envelopes shown above. Housing density is 100 du/ac. Ralph Knowles.
 
@@ -47,25 +43,21 @@ The solar envelope offers densities that are up to 20 times higher than the aver
 
 In fact, the density figures obtained by Knowles correspond rather closely with those obtained by city blocks in Paris and the Barcelona Eixample - still the most densely populated, large cities in Europe (despite of the near absence of skyscrapers).
 
-## ![](_page_3_Picture_2.jpeg)
 
 [E](http://krisdedecker.typepad.com/.a/6a00e0099229e888330163031ef027970d-pi)ixample city block, Barcelona, with a housing density of 93 du/ac. Source: [The Density Atlas.](http://densityatlas.org/)
 
 One analysis of a [typical Eixample city block](http://densityatlas.org/casestudies/profile.php?id=139) (how it turned out, not according to the original plans of Cerdà) found a FAR of 4.70, a dwelling unit density of 93 du/ac (230 du/ha) and a population density of 145 people per acre.
 
-## ![](_page_3_Picture_6.jpeg)
 
 [P](http://krisdedecker.typepad.com/.a/6a00e0099229e88833016763850cbe970b-pi)aris city block with a housing density of 120 du/ac. Source: [The Density Atlas.](http://densityatlas.org/)
 
 A close-up of [a typical Parisian city block](http://densityatlas.org/casestudies/profile.php?id=72) - with courtyards resulted in a FAR of 5, a dwelling unit density of 120 du/ac (297 du/ha) and a population density of 602 people per acre (see the illustration above).
 
-## ![](_page_3_Picture_10.jpeg)
 
 [1](http://krisdedecker.typepad.com/.a/6a00e0099229e88833016764130730970b-pi)940s city block in New York City with a housing density of 195 du/ac. Source: [The Density Atlas.](http://densityatlas.org/)
 
 The densities under the solar envelope also compare favourably with [some residential city blocks in New York City](http://densityatlas.org/casestudies/profile.php?id=111) - the most densely populated city in North America - although [not](http://densityatlas.org/casestudies/profile.php?id=118) [with others](http://densityatlas.org/casestudies/profile.php?id=42) (picture above) and especially not with [early twentieth century city](http://densityatlas.org/casestudies/profile.php?id=117) [blocks](http://densityatlas.org/casestudies/profile.php?id=117) in NYC (picture below), which reached 331 dwelling units per acre. Few of those apartments received any sunshine, though.
 
-## ![](_page_4_Picture_3.jpeg)
 
 city block circa 1900, housing density of 331 du/ac. Source: [The](http://densityatlas.org/) [Density Atlas.](http://densityatlas.org/)
 
@@ -77,7 +69,6 @@ Even higher densities and taller buildings could be reached under the solar enve
 
 However, it should be remembered that the buildings within a solar envelope will have less volume because of internal overshadowing issues, to be solved by the architect (See [part 1\)](https://www.lowtechmagazine.com/2012/03/solar-oriented-cities-1-the-solar-envelope.html).
 
-## ![](_page_5_Picture_2.jpeg)
 
 [R](http://krisdedecker.typepad.com/.a/6a00e0099229e8883301630241a176970d-pi)esidential housing with a housing density of up to 128 du/ac (316 du/ha). Overshadowing is purposely allowed on a north-facing slope that has been left open as a public park. Ralph Knowles.
 
@@ -91,7 +82,6 @@ If we would take the highest densities reached under the solar envelope as an up
 
 Last but not least; the above results apply to Los Angeles. They are valuable for any other city at the same latitude of 34 degrees north or south of the Equator, like Buenos Aires, Osaka, Sydney or Montevideo. At other latitudes, however, things will change, as latitude affects the height and therefore the volume of a solar envelope. If the cut-off times are held constant, the envelope height decreases as the latitude increases, and vice versa, primarily because of the critical effect of winter sun on the solar envelope's north slope. Consequently, the volume of a solar envelope increases with proximity to the equator; the volume decreases towards the north and south poles. For example, in Paris (48 degrees latitude), Barcelona (41 degrees) and New York (40 degrees) solar envelopes would be smaller than in Los Angeles (34 degrees).
 
-## ![](_page_6_Picture_3.jpeg)
 
 [C](http://krisdedecker.typepad.com/.a/6a00e0099229e888330163031f28df970d-pi)loser to the equator the position of the sun will not vary much throughout the year, which makes the traditional approach to passive solar design worthless. Instead, the prime concern in the building design would be the ability to keep out the sunlight and heat to reduce the energy consumption of artificial cooling. This might involve orienting the building to the north.
 
@@ -145,4 +135,3 @@ This means that it would probably be wise to aim for a compromise. If we would t
 
 Read Low-tech Magazine with no access to a computer, a power supply, or the internet. The printed archives now amount to [four](https://www.lowtechmagazine.com/low-tech-magazine-the-printed-website.html) [volumes with a total of 2,398 pages and 709 images.](https://www.lowtechmagazine.com/low-tech-magazine-the-printed-website.html) They can be ordered in [our Lulu bookstore.](https://www.lulu.com/search?adult_audience_rating=00&contributor=Kris+De+Decker&page=1&page Size=10&sort By=PRODUCT_SALES_30_DAYS)
 
-## ![](_page_8_Picture_9.jpeg)

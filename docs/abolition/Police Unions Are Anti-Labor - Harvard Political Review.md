@@ -12,7 +12,6 @@ tags:
 
 ## Ria Modak
 
-6–7 minutes
 
 When the Harvard Graduate Students Union went on [strike](https://www.thecrimson.com/article/2019/12/3/grad-union-strikes/) last winter, I was on the picket line at dawn every day for two weeks. Early morning picket shifts, which usually started at 5:00 a.m., were meant to delay deliveries and disrupt university business. One morning, three of us, bundled in winter coats and marching in circles to keep warm, found ourselves surrounded by eight officers from the Harvard University Police Department who physically stopped us from blocking delivery docks and verbally harassed us. That moment was a reckoning for me as a labor organizer: HUPD might have been an unionized workforce, but police unions were not, and have never been, on the side of organized labor.
 

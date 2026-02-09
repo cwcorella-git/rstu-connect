@@ -11,7 +11,6 @@ tags:
 
 ## Brad Plumer
 
-6–7 minutes
 
 On the 50th anniversary of Martin Luther King Jr.'s ["I Have a](https://www.washingtonpost.com/blogs/wonkblog/wp/2013/08/28/wonkbook-a-guide-to-todays-march-on-washington/) [Dream" speech,](https://www.washingtonpost.com/blogs/wonkblog/wp/2013/08/28/wonkbook-a-guide-to-todays-march-on-washington/) we're updating our look at how the economic disparities between whites and blacks have persisted over the past half-century.
 
@@ -63,7 +62,6 @@ These ten charts show the black-white economic gap ha... about:reader?url=https%
 
 #### **5) The black poverty rate is no longer declining:**
 
-## ![](_page_5_Picture_0.jpeg)
 
 percent to 32.2 percent. But after that, the drop was slower and more uneven. In 2011, 27.6 percent of black households were in poverty — nearly triple the poverty rate for whites.
 
@@ -93,7 +91,6 @@ And those poorer neighborhoods have a way of perpetuating inequality, the report
 
 ## **7) Our schools are more segregated today than in 1980**
 
-## ![](_page_7_Picture_0.jpeg)
 
 "Although the share of black children in segregated schools had dropped to 62.9 percent by the early 1980s, the subsequent lack of commitment by the federal government and multiple Supreme Court decisions antagonistic to school desegregation have led to a reversal," notes EPI.
 
@@ -119,7 +116,6 @@ The chart above comes from [a recent report](http://kaiserfamilyfoundation.files
 
 **10) The racial disparity in incarceration rates is bigger than it was in the 1960s:**
 
-## ![](_page_10_Picture_0.jpeg)
 
 ### **Further reading:**
 

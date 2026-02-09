@@ -9,9 +9,6 @@ tags:
 
 Pyotr Kropotkin Introduction by Kevin A. Carson Additional Material by Colin Ward Supplemental Material by Murray Bookchin
 
-## ![](_page_0_Picture_2.jpeg)
-
-## ![](_page_1_Picture_1.jpeg)
 
 ANARCHISM (from the Gr. an, and archos, contrary to authority), the name given to a principle or theory of life and conduct under which society is conceived without government – harmony in such a society being obtained, not by submission to law, or by obedience to any authority, but by free agreements concluded between the various groups, territorial and professional, freely constituted for the sake of production and consumption, as also for the satisfaction of the infinite variety of needs and aspirations of a civilized being. **–Pyotr Kropotkin**
 

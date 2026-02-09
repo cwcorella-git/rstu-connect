@@ -10,7 +10,6 @@ tags:
 
 ## Brian Tokar
 
-18–22 minutes
 
 Note: This article is from a presentation for Changer le Monde, Un Quartier à la Fois! (Changing the World, One Neighborhood at a Time) conference, Montreal, 5/1/08
 

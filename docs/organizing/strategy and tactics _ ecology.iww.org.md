@@ -8,11 +8,9 @@ tags:
   - environment
 ---
 
-3–4 minutes
 
 **By That Green Union Guy -** [IWW Eco Union Caucus](https://ecology.iww.org/)**, July 27, 2025**
 
-## ![](_page_0_Picture_6.jpeg)
 
 As the crises unfolding from Felonious Trump's lawless coup continue, and the apparent inability by what's left of the American putatively constitutional government to stop it grow increasingly odious, desperation among the people seems to be festering. This includes growing calls for a "general strike" on various social media platforms.
 

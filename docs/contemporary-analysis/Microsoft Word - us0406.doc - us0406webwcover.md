@@ -7,7 +7,6 @@ tags:
   - current-events
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 ## United States
 
@@ -15,9 +14,6 @@ tags:
 
 ## **H U M A N R I G H T S W A T C H**
 
-## ![](_page_0_Picture_5.jpeg)
-
-## ![](_page_1_Picture_2.jpeg)
 
 ## So Long as They Die Lethal Injections in the United States
 
@@ -1189,4 +1185,3 @@ Human Rights Watch opposes the death penalty under all circumstances. But until 
 
 The Texas death chamber in Huntsville, Texas. *© 2000 Joe Raedle/Getty Images*
 
-## ![](_page_68_Picture_11.jpeg)

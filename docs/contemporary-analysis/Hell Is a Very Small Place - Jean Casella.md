@@ -17,7 +17,6 @@ Preface by Sarah Shourd
 Introduction by Jean Casella and James Ridgeway
 ## Afterword by Juan E. Méndez
 
-## ![](_page_1_Picture_4.jpeg)
 
 NEW YORK LONDON Compilation and headnotes copyright © 2016 by Jean Casella, James Ridgeway, and Sarah Shourd Preface copyright © 2016 by Sarah Shourd
 

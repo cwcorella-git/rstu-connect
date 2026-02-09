@@ -7,7 +7,6 @@ tags:
   - housing
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 **AB 121: Fee Transparency Implementation Toolkit**
 
@@ -65,7 +64,6 @@ AB 121, eective Wednesday, October 1, 2025, will increase rental fee transparenc
 
 ## NV Tenants won NEW protections starting OCT 1st
 
-## ![](_page_2_Picture_1.jpeg)
 
 - Clear Rent Pricing
 - Fairer Application Processes
@@ -76,7 +74,6 @@ Learn more about your new rights: nvhousingjustice.org/fee-protections-2025
 
 ## NEW TENANT PROTECTIONS JUST DROPPED
 
-## ![](_page_2_Picture_8.jpeg)
 
 As of Oct 1, your new lease will have more transparency around fees and the application process will be fairer than ever before in NV!
 

@@ -18,7 +18,6 @@ ask legislature, voters to legalize
 strikes for educators • Nevada
 Current
 April Corbin Girnus
-5–6 minutes
 The Clark County Education Association on Thursday filed with
 the state a petition to change Nevada law and allow teachers to
 go on strike.

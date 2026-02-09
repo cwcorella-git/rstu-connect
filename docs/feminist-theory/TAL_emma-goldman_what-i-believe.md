@@ -142,7 +142,6 @@ It is the harmony of organic growth which produces variety of color and form —
 
 ## The Anarchist Library Anti-Copyright
 
-## ![](_page_9_Picture_1.jpeg)
 
 ## Emma Goldman What I Believe 1908
 

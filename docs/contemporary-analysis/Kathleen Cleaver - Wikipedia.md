@@ -11,11 +11,9 @@ tags:
 
 ## Contributors to Wikimedia projects
 
-12–15 minutes
 
 ## From Wikipedia, the free encyclopedia
 
-## ![](_page_0_Picture_8.jpeg)
 
 Cleaver delivering a speech in [Ruby Diamond Auditorium](https://en.wikipedia.org/wiki/Ruby_Diamond_Auditorium) at [Florida State University,](https://en.wikipedia.org/wiki/Florida_State_University) November 1971
 
@@ -48,7 +46,6 @@ Kathleen to different beliefs, including socialism, communism, and nationalism. 
 
 Kathleen was in charge of organizing a student conference at [Fisk University](https://en.wikipedia.org/wiki/Fisk_University) in Nashville, Tennessee. At the conference, she met [Eldridge Cleaver,](https://en.wikipedia.org/wiki/Eldridge_Cleaver) the minister of information for the [Black](https://en.wikipedia.org/wiki/Black_Panther_Party) [Panther Party,](https://en.wikipedia.org/wiki/Black_Panther_Party) who was speaking at the conference. He had just gotten out of jail where he had written [Soul on Ice](https://en.wikipedia.org/wiki/Soul_on_Ice_(book)). She moved to San Francisco in November 1967 to join the Black Panther Party, and after Christmas, Eldridge and Kathleen married[.\[4\]](#page-8-1) She joined about three to four weeks after [Huey](https://en.wikipedia.org/wiki/Huey_Newton) [Newton](https://en.wikipedia.org/wiki/Huey_Newton) was charged for killing an Oakland policeman in a predawn shootout[.\[5\]](#page-8-2) It was in San Francisco that Kathleen became the Communications Secretary for the party and worked on organizing demonstrations, creating pamphlets, holding press conferences, designing posters, and speaking at rallies and on TV[.\[6\]](#page-8-3) Cleaver applied everything that she learned from the SNCC to the Black Panther Party. She created the position herself, motivated by Julian Bond in SNCC. Despite the fact that over two thirds of Black Panthers members were women, Cleaver was among a small group of women who were prominent in the [Black Panther Party,](https://en.wikipedia.org/wiki/Black_Panther_Party) which included [Elaine](https://en.wikipedia.org/wiki/Elaine_Brown) [Brown](https://en.wikipedia.org/wiki/Elaine_Brown) and [Ericka Huggins.](https://en.wikipedia.org/wiki/Ericka_Huggins) [\[7\]](#page-8-4) As communications secretary, she was the first female member of the Party's decisionmaking body. The position combined the role of spokesperson and press secretary. Cleaver organized the national campaign to free [Huey Newton.](https://en.wikipedia.org/wiki/Huey_Newton)
 
-![](_page_3_Picture_3.jpeg)
 
 Photo of Cleaver published in [The Black Panther,](https://en.wikipedia.org/wiki/The_Black_Panther_(newspaper)) 1968
 

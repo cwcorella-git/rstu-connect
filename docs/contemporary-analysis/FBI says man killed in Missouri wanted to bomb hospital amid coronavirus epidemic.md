@@ -37,10 +37,8 @@ A phone number belonging to someone associated with Wilson could not immediately
 
 As of Wednesday, there have been 356 cases of the coronavirus illness COVID-19 in Missouri and eight deaths, according to [the state health department.](https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/)
 
-## ![](_page_1_Picture_11.jpeg)
 
 Michael Kosnar is the Justice Department Producer for NBC News.
 
-## ![](_page_2_Picture_3.jpeg)
 
 Phil Helsel is a reporter for NBC News.

@@ -10,7 +10,6 @@ tags:
 
 ## Jared Ball
 
-8–10 minutes
 
 "I got a call from Mahershala Ali, a very, very respectful phone call, from him personally. He called me and my Uncle Maurice in which he apologized profusely if there had been any offense," Edwin told Shadow and Act. "What he said was, 'If I have **offended you**, I am so, so terribly sorry. I did the best I could with the material I had. I was not aware that there were close relatives with whom I could have consulted to add some nuance to the character.'" –
 

@@ -534,7 +534,6 @@ Party
 
 *For Marxists, there can be no tactical blueprints, good for all times and circumstances. Tacticsmust always be concrete, i.e., devised to fit particular situations and relationships of forces. The united-front tactic, like all the tactics employed by Marxists, is aimed at facilitating the creation of a revolutionary vanguard party capable of educating, organising and mobilising the working-class masses to carry out a proletarian revolution and the building of the classless socialist society.* n
 
-## ![](_page_25_Picture_0.jpeg)
 
 **Lenin at the Third Congress of the Comintern 1921**
 
@@ -1054,7 +1053,6 @@ Signor Turati's opinion is that the revolutionary peril is not such as to cause 
 
 ## *May 12, 1920*
 
-## ![](_page_104_Picture_4.jpeg)
 
 *In the Russian edition of this book I somewhat incorrectly described the conduct of the Communist Party of Holland as awhole, in the sphere ofinternational revolutionary policy. I therefore avail myself of the present opportunity to publish a letter from our Dutch comrades on this question and to correct the expression "Dutch Tribunists", which I used in the Russian text, and for which I now substitute the words "certain members of the Communist Party of Holland".*
 
@@ -1639,4 +1637,3 @@ Signor Turati's opinion is that the revolutionary peril is not such as to cause 
 
 **This new edition contains an extensive introduction by Doug Lorimer plus two key appendices: A Comintern document explaining the revolutionary attitude to parliament and an article by Trotsky on the united front.**
 
-## ![](_page_144_Picture_3.jpeg)

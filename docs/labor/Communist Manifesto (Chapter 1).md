@@ -11,7 +11,6 @@ tags:
 
 ## Karl Marx and Frederick Engels
 
-29–36 minutes
 
 ## **Manifesto of the Communist Party**
 

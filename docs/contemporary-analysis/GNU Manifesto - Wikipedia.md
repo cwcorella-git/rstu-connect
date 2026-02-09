@@ -9,13 +9,11 @@ tags:
   - wikipedia
 ---
 
-## ![](_page_0_Picture_2.jpeg)
 
 The *GNU Manifesto* is a [call-to-action](https://en.wikipedia.org/wiki/Direct_action) by [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman) encouraging participation and support of the [GNU Project'](https://en.wikipedia.org/wiki/GNU_Project)s goal in developing the [GNU](https://en.wikipedia.org/wiki/GNU) [free](https://en.wikipedia.org/wiki/Free_software) computer [operating system.](https://en.wikipedia.org/wiki/Operating_system) The GNU Manifesto was published in March 1985 in *[Dr. Dobb's Journal of](https://en.wikipedia.org/wiki/Dr._Dobb%27s_Journal) [Software Tools](https://en.wikipedia.org/wiki/Dr._Dobb%27s_Journal)*. [\[1\]](#page-1-0) It is held in high regard within the [free software](https://en.wikipedia.org/wiki/Free_software_movement) [movement](https://en.wikipedia.org/wiki/Free_software_movement) as a fundamental philosophical source[.\[2\]](#page-1-1)[\[3\]](#page-1-2)[\[4\]](#page-1-3)[\[5\]](#page-1-4)[\[6\]](#page-1-5)[\[7\]](#page-1-6)
 
 The full text is included with GNU software such as [Emacs,](https://en.wikipedia.org/wiki/GNU_Emacs) and is publicly available.[\[8\]](#page-2-0)
 
-## ![](_page_0_Picture_6.jpeg)
 
 ## GNU logo
 
@@ -46,7 +44,6 @@ Throughout history, the *GNU Manifesto* has inspired various other UNIX-related 
 - [History of free and open-source software](https://en.wikipedia.org/wiki/History_of_free_and_open-source_software)
 - [Open Letter to Hobbyists](https://en.wikipedia.org/wiki/Open_Letter_to_Hobbyists)
 
-## ![](_page_1_Picture_8.jpeg)
 
 ## **References**
 

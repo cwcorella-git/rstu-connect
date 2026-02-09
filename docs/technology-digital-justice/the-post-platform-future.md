@@ -10,7 +10,6 @@ tags:
 
 The Wayback Machine - https://web.archive.org/web/20250914121151/https://www.whatgamesare.com/2010/12/the-post-platform-future.html
 
-## ![](_page_0_Picture_2.jpeg)
 
 [Featured](https://web.archive.org/web/20250914121151/https://www.whatgamesare.com/featured-posts.html) [Glossary](https://web.archive.org/web/20250914121151/https://www.whatgamesare.com/glossary.html) [About](https://web.archive.org/web/20250914121151/https://www.whatgamesare.com/about.html) [Consulting](https://web.archive.org/web/20250914121151/https://www.whatgamesare.com/consulting.html)
 
@@ -174,7 +173,6 @@ Posted on 08 December 2010 | [Permalink](https://web.archive.org/web/20250914121
 
 You can follow this conversation by subscribing to the [comment feed](https://web.archive.org/web/20250914121151/https://www.whatgamesare.com/2010/12/the-post-platform-future/comments/atom.xml) for this post.
 
-## ![](_page_3_Picture_27.jpeg)
 
 An interesting post. I agree with your analysis, but semantics are, as always, a challenge.
 
@@ -206,7 +204,6 @@ Posted by: [coach outlet](https://web.archive.org/web/20250914121151/http://www.
 
 This is only a preview. Your comment has not yet been posted.
 
-## ![](_page_4_Picture_13.jpeg)
 
 Your comment could not be posted. Error type:
 
@@ -218,4 +215,3 @@ As a final step before posting your comment, enter the letters and numbers you s
 
 Having trouble reading this image? View an alternate.
 
-## ![](_page_4_Picture_19.jpeg)

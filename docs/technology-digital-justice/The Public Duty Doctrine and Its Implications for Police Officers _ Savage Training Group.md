@@ -12,7 +12,6 @@ tags:
 
 ## Scott Savage
 
-5–6 minutes
 
 This article is training information intended for use by law enforcement officers and should not be construed as legal advice. Consult your organization's legal advisor.
 

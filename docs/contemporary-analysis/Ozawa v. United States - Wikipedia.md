@@ -11,11 +11,9 @@ tags:
 
 ## Contributors to Wikimedia projects
 
-10–13 minutes
 
 ## From Wikipedia, the free encyclopedia
 
-## ![](_page_0_Picture_8.jpeg)
 
 [Supreme Court of the United States](https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States)
 
@@ -63,7 +61,7 @@ Although the court agreed that Thind was Caucasian, the court also asserted that
 
 This section **needs expansion**. You can help by [adding](https://en.wikipedia.org/w/index.php?title=Ozawa_v._United_States&action=edit§ion=) [to it.](https://en.wikipedia.org/w/index.php?title=Ozawa_v._United_States&action=edit§ion=) (September 2020)
 
-Writing in [Foreign Affairs](https://en.wikipedia.org/wiki/Foreign_Affairs) in 1923, a social scientist named [Raymond Leslie Buell](https://en.wikipedia.org/wiki/Raymond_Leslie_Buell) said, "The Japanese are now confronted with the unpalatable fact, laid down in unmistakable terms by the highest court in the land, that we consider them unfit to become Americans.["\[12\]](#page-7-6) Some Japanese papers regarded the decision to be "an insult and outrage["\[13\]\[](#page-7-7)better source [needed](https://en.wikipedia.org/wiki/Wikipedia:NOTRS)] with representative [Mochizuki Keisuke](https://en.wikipedia.org/wiki/Mochizuki_Keisuke) stating that, "There can never be permanent world peace unless the principle of worldwide racial equality is first established"[.\[13\]](#page-7-7)
+Writing in [Foreign Affairs](https://en.wikipedia.org/wiki/Foreign_Affairs) in 1923, a social scientist named [Raymond Leslie Buell](https://en.wikipedia.org/wiki/Raymond_Leslie_Buell) said, "The Japanese are now confronted with the unpalatable fact, laid down in unmistakable terms by the highest court in the land, that we consider them unfit to become Americans.["\[12\]](#page-7-6) Some Japanese papers regarded the decision to be "an insult and outrage["\[13\]\better source [needed](https://en.wikipedia.org/wiki/Wikipedia:NOTRS)] with representative [Mochizuki Keisuke](https://en.wikipedia.org/wiki/Mochizuki_Keisuke) stating that, "There can never be permanent world peace unless the principle of worldwide racial equality is first established"[.\[13\]](#page-7-7)
 
 Some West Coast newspapers expressed satisfaction with the Ozawa decision, though the Sacramento Bee called for a constitutional amendment "which would confine citizenship by right of birth in this country to those whose parents were themselves eligible to citizenship.["\[14\]](#page-7-8)
 

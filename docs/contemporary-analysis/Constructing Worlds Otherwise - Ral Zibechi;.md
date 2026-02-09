@@ -14,11 +14,9 @@ Societies in Movement and Anticolonial Paths in Latin America
 
 ## Translated by George Ygarza Quispe
 
-## ![](_page_0_Picture_4.jpeg)
 
 ## Translated by George Ygarza Quispe
 
-## ![](_page_1_Picture_3.jpeg)
 
 # Translator's Note
 
@@ -1571,7 +1569,6 @@ Email friendsofak@akpress.org for more info, or visit the website: https://www.a
 
 There are always great book projects in the works—so sign up now to become a Friend of AK Press, and let the presses roll!
 
-## ![](_page_182_Picture_4.jpeg)
 
 Constructing Worlds Otherwise: Societies in Movement and Anticolonial Paths in Latin America
 

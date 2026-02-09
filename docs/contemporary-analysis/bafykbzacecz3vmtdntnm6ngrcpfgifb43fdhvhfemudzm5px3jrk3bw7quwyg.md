@@ -1707,7 +1707,6 @@ Figure 8.7 Access to Doctor When Sick or in Need in Eight Countries, 2008
 
 ## ![](_page_134_Figure_3.jpeg)
 
-## ![](_page_134_Picture_6.jpeg)
 
 Figure 8.8 Cost related access problems among the chronically ill in eight countries, 2008
 
@@ -4137,13 +4136,11 @@ million | Republican |
 million | Republican |
 17.3 Illustration of effects of Gerrymandering on an election
 
-## ![](_page_346_Picture_2.jpeg)
 
 Redrawing the balanced electoral districts in this example creates a guaranteed 3-to-1 advantage in representation for the circle voters. Here, 14 triangle voters are packed into the lower left district and the remaining 18 are cracked across the 3 other districts.
 
 Figure 17.2 Illustration of the process of gerrymandering
 
-## ![](_page_347_Picture_2.jpeg)
 
 Figure 17.3 Gerrymandering of the boundary of Texas Congressional District 25 in 2003
 
@@ -4738,7 +4735,6 @@ Figure 20.1 Military spending in countries that spent at least \$5 billion a yea
 
 Figure 20.2 U. S. Military spending vs the World, 2008
 
-## ![](_page_393_Picture_2.jpeg)
 
 Source: Global Policy Forum, http://www.globalpolicy.org/empire/intervention/index.htm
 

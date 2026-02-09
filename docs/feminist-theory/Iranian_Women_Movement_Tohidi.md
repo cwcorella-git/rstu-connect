@@ -8,7 +8,6 @@ tags:
   - women
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 #### **Nayereh Tohidi**
 
@@ -153,7 +152,6 @@ Aptheker, *Tapestries of life: Women's work, women's consciousness, and the mean
 - 30 For a discussion on the debate over CEDAW in the sixth Majlis, see Nayereh Tohidi, "Islamic Feminism: Perils and Promises," in Middle Eastern Women on the Move (Washington: Woodrow Wilson International Center for Scholars, 2003): 134-146, accessed November 17, 2016, [https://www.academia.edu/359702/\\_](https://www.academia.edu/359702/_ISLAMIC_FEMINISM_PERILS_AND_PROMISES) [ISLAMIC\\_FEMINISM\\_PERILS\\_AND\\_PROMISES.](https://www.academia.edu/359702/_ISLAMIC_FEMINISM_PERILS_AND_PROMISES)
 - 31 See Myra Max Ferree, "Globalization and Feminism: Opportunities and Obstacles for Activism in the Global Arena," in Global Feminism, ed. Myra Max Ferree and Aili Mari Tripp (New York: New York University Press, 2006).
 
-## ![](_page_14_Picture_1.jpeg)
 
 #### **NAYEREH TOHIDI** *– Iran*
 
@@ -163,6 +161,5 @@ email: *nayereh.tohidi@csun.edu*
 
 Received in October 2016. Original in English.
 
-## ![](_page_14_Picture_6.jpeg)
 
 "This journal is published under the Creative Commons Attribution-Non Commercial-No Derivatives 4.0 International License"

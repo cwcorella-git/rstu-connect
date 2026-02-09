@@ -6,7 +6,6 @@ tags:
   - civil disobedience
 ---
 
-## ![](_page_0_Picture_2.jpeg)
 
 *First published Thu Jan 4, 2007; substantive revision Wed Jun 2, 2021*
 

@@ -9,9 +9,6 @@ tags:
 
 ## M. K. GANDHI
 
-## ![](_page_0_Picture_2.jpeg)
-
-## ![](_page_1_Picture_0.jpeg)
 
 # SELF-RESTRAINT V. SELF-INDULGENCE
 
@@ -27,7 +24,6 @@ Printed & Published by: **Navajivan Publishing House**
 
 E-mail: jitnavjivanlO@gmail.com Website: www.navajivantrust.org
 
-## ![](_page_2_Picture_0.jpeg)
 
 # TO THE READER
 
@@ -156,7 +152,6 @@ You will eat not to satisfy your palate but your hunger. A selfindulgent man liv
 - I Generation And Regeneration
 - II Chastity and Sensuality
 
-## ![](_page_12_Picture_0.jpeg)
 
 # PART I GANDHIJI'S WRITINGS
 
@@ -1455,7 +1450,6 @@ During Gandhiji's Bengal tour, while answering questions in one of the workers' 
 
 He holds strong views against birth control with the help of contraceptives. "Contraceptives," he says, "are an insult to womanhood. The difference between a prostitute and a woman using contraceptives is only this that the former sells her body to several men, the latter sells it to one man. Man has no right to touch his wife so long as she does not wish to have a child, and the woman should have the will power to resist even her own husband."
 
-## ![](_page_243_Picture_0.jpeg)
 
 # PART II EXTRACTS FROM MAHADEV DESAI'S WEEKLY LETTERS
 

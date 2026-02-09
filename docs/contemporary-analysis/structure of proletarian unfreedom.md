@@ -7,7 +7,6 @@ tags:
   - liberty
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 ## Author(s): G. A. Cohen
 
@@ -27,7 +26,6 @@ Each copy of any part of a JSTOR transmission must contain the same copyright no
 
 JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
 
-## ![](_page_0_Picture_11.jpeg)
 
 Blackwell Publishing is collaborating with JSTOR to digitize, preserve and extend access to Philosophy and Public Affairs.
 

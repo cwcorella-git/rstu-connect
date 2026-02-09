@@ -11,11 +11,9 @@ tags:
 
 Mark J. Drozdowski, Ed. D.
 
-10–13 minutes
 
 Free public higher education may seem like a no-brainer, but is it actually a good idea? And is it even possible?
 
-## ![](_page_0_Picture_7.jpeg)
 
 ## By
 
@@ -23,7 +21,6 @@ Free public higher education may seem like a no-brainer, but is it actually a go
 
 ## Edited by
 
-## ![](_page_0_Picture_11.jpeg)
 
 Credit: Image Credit: Andrew Lichtenstein / Corbis News / Getty Images
 
@@ -35,7 +32,6 @@ Credit: Image Credit: Andrew Lichtenstein / Corbis News / Getty Images
 
 The notion that college should be free seems to be on everyone's mind.
 
-## ![](_page_1_Picture_6.jpeg)
 
 ### **Stay in the Know!**
 A [February 2024 poll](https://www.freecollegenow.org/fact_sheet) by the Campaign for Free College Tuition found that 78% of Americans favor free college. College Promise, a similar organization, touts [bipartisan support](https://assets.website-files.com/61ba001bb59d05538c5a4bd8/61ba001bb59d0576b75a4c5a_College%20Promise%20for%20All%20Policy%20Proposal.pdf) for its agenda.

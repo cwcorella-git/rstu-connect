@@ -8,7 +8,6 @@ tags:
   - climate
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 ## ![](_page_0_Figure_2.jpeg)
 
@@ -58,7 +57,6 @@ During the green transition, workers in [carbon-intensive](https://en.wikipedia.
 
 Low emission industrial development and [resource efficiency](https://en.wikipedia.org/wiki/Resource_efficiency) can offer many opportunities to increase the competitiveness of economies and companies. According to the [Low Emission](https://en.wikipedia.org/wiki/Low_Emission_Development_Strategies_Global_Partnership_(LEDS_GP)) [Development Strategies Global Partnership \(LEDS GP\)](https://en.wikipedia.org/wiki/Low_Emission_Development_Strategies_Global_Partnership_(LEDS_GP)), there is often a clear business case for switching to lower emission technologies, with payback periods ranging largely from 0.5– 5 years, leveraging financial investment.[\[18\]](#page-5-11)
 
-## ![](_page_2_Picture_3.jpeg)
 
 Wind Turbine with workers in [Boryspil,](https://en.wikipedia.org/wiki/Boryspil) Ukraine
 
@@ -72,7 +70,6 @@ Solar array at Nellis Solar [Power](https://en.wikipedia.org/wiki/Nellis_Solar_P
 
 Low carbon power generation sources include [wind power](https://en.wikipedia.org/wiki/Wind_power), [solar power](https://en.wikipedia.org/wiki/Solar_power), [nuclear](https://en.wikipedia.org/wiki/Nuclear_power) [power](https://en.wikipedia.org/wiki/Nuclear_power) and most [hydropower.](https://en.wikipedia.org/wiki/Hydropower) [\[21\]](#page-6-0)[\[22\]](#page-6-1) The term largely excludes conventional [fossil](https://en.wikipedia.org/wiki/Fossil_fuel_power_station) [fuel plant](https://en.wikipedia.org/wiki/Fossil_fuel_power_station) sources, and is only used to describe a particular subset of operating fossil fuel power systems, specifically, those that are successfully coupled with a [flue gas](https://en.wikipedia.org/wiki/Flue_gas) [carbon capture and storage](https://en.wikipedia.org/wiki/Carbon_capture_and_storage) (CCS) system.[\[23\]](#page-6-2) Globally almost 40% of electricity generation came from lowcarbon sources in 2020: about 10% being nuclear power, almost 10% wind and solar, and around 20% hydropower and other renewables.[\[20\]](#page-5-13) Very little lowcarbon power comes from fossil sources, mostly due to the cost of CCS technology. [\[24\]](#page-6-3)
 
-## ![](_page_2_Picture_10.jpeg)
 
 Share of primary energy from low-carbon sources, 2018
 

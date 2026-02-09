@@ -8,7 +8,6 @@ tags:
   - climate
 ---
 
-## ![](_page_0_Picture_2.jpeg)
 
 #### CAIN Web Service
 

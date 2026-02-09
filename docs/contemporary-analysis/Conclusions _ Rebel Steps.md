@@ -7,7 +7,6 @@ tags:
   - current-events
 ---
 
-12–15 minutes
 
 Welcome to the conclusion of Season 2 of Rebel Steps! I'm your host Liz.
 

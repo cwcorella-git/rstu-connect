@@ -11,7 +11,6 @@ tags:
 
 ## Connor Ashworth
 
-51–65 minutes
 
 # **Abstract**
 

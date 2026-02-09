@@ -9,7 +9,6 @@ tags:
   - wikipedia
 ---
 
-## ![](_page_0_Picture_2.jpeg)
 
 The **Great Purge** or **Great Terror** [\(Russian:](https://en.wikipedia.org/wiki/Russian_language) Большой террор, [romanized:](https://en.wikipedia.org/wiki/Romanization_of_Russian) *Bol'shoy terror*), also known as the **Year of '37** (37-й год, *Tridtsat' sed'moy god*) and the **Yezhovshchina** (Ежовщина [\[\(j\)](https://en.wikipedia.org/wiki/Help:IPA/Russian)ɪˈʐofɕːɪnə], lit. 'period of [Yezhov](https://en.wikipedia.org/wiki/Nikolai_Yezhov)'), was a political [purge](https://en.wikipedia.org/wiki/Purge) in the [Soviet Union](https://en.wikipedia.org/wiki/Soviet_Union) from 1936 to 1938. After the assassination of [Sergei Kirov](https://en.wikipedia.org/wiki/Sergei_Kirov) by [Leonid Nikolaev](https://en.wikipedia.org/wiki/Leonid_Nikolaev) in 1934, [Joseph Stalin](https://en.wikipedia.org/wiki/Joseph_Stalin) launched a series of show trials known as the [Moscow trials](https://en.wikipedia.org/wiki/Moscow_trials) to remove suspected dissenters from the [Communist Party of the](https://en.wikipedia.org/wiki/Communist_Party_of_the_Soviet_Union) [Soviet Union](https://en.wikipedia.org/wiki/Communist_Party_of_the_Soviet_Union) (especially those aligned with the [Bolshevik](https://en.wikipedia.org/wiki/Bolsheviks) party).[\[9\]](#page-26-0) The term "great purge" was popularized by historian [Robert Conquest](https://en.wikipedia.org/wiki/Robert_Conquest) in his 1968 book, *[The Great](https://en.wikipedia.org/wiki/The_Great_Terror_(book)) [Terror](https://en.wikipedia.org/wiki/The_Great_Terror_(book))*, whose title [alluded](https://en.wikipedia.org/wiki/Allusion) to the [French Revolution](https://en.wikipedia.org/wiki/French_Revolution)'s [Reign of Terror.](https://en.wikipedia.org/wiki/Reign_of_Terror)[\[10\]](#page-26-1)
 
@@ -19,11 +18,9 @@ The purge reached its peak between September 1936 and August 1938, when the NKVD
 
 Part of the [Bolshevik Party purges](https://en.wikipedia.org/wiki/Purges_of_the_Communist_Party_of_the_Soviet_Union)
 
-## ![](_page_0_Picture_9.jpeg)
 
 Residents searching the exhumed victims of the [Vinnytsia massacre,](https://en.wikipedia.org/wiki/Vinnytsia_massacre) 1943
 
-## ![](_page_0_Picture_11.jpeg)
 
 [Wikimedia | © Open Street Map](https://en.wikipedia.org/wiki/Great_Purge#/map/0)
 
@@ -87,13 +84,11 @@ In the new party organization, the Politburo (and Stalin in particular) were the
 
 By 1934, several of Stalin's rivals (such as Trotsky) began calling for Stalin's removal and attempted to break his control of the party.[\[31\]](#page-27-13) In an atmosphere of doubt and suspicion, the popular high-ranking official [Sergei Kirov](https://en.wikipedia.org/wiki/Sergei_Kirov) was assassinated. The December 1934 assassination led to an investigation that revealed a network of party members supposedly working against Stalin, including several of his rivals[.\[32\]](#page-27-14) Many of those arrested after Kirov's murder, high-ranking party officials among them,
 
-## ![](_page_2_Picture_9.jpeg)
 
 [Leon Trotsky](https://en.wikipedia.org/wiki/Leon_Trotsky) in 1929, shortly before he was driven out of the Soviet Union also admitted (often under duress) plans to kill Stalin themselves[.\[33\]](#page-27-15) The confessions' validity is debated by historians, but consensus exists that Kirov's death was the flashpoint when Stalin decided to take action and begin the purges.[\[34\]](#page-28-0)[\[35\]](#page-28-1) Some later historians came to believe that Stalin arranged Kirov's murder, or that sufficient evidence existed to reach such a conclusion[.\[36\]](#page-28-2) Kirov was a staunch Stalin loyalist, but Stalin may have viewed him as a potential rival because of his emerging popularity among moderates. The [1934 Party Congress](https://en.wikipedia.org/wiki/17th_Congress_of_the_All-Union_Communist_Party_(Bolsheviks)) elected Kirov to the central committee with only three opposing votes against, the fewest of any candidate; Stalin received 292 opposing votes. After Kirov's assassination, the NKVD charged the increasingly-large group of former Stalin opponents with Kirov's murder and a growing list of other offenses which included treason, terrorism, sabotage, and espionage.
 
 Another justification for the purge was to remove any possible "fifth column" in case of war. [Vyacheslav Molotov](https://en.wikipedia.org/wiki/Vyacheslav_Molotov) and [Lazar](https://en.wikipedia.org/wiki/Lazar_Kaganovich)
 
-## ![](_page_3_Picture_4.jpeg)
 
 [Leningrad](https://en.wikipedia.org/wiki/Saint_Petersburg) party leader [Sergei Kirov](https://en.wikipedia.org/wiki/Sergei_Kirov) with Stalin and his daughter, [Svetlana,](https://en.wikipedia.org/wiki/Svetlana_Alliluyeva) in 1934
 
@@ -120,7 +115,6 @@ Between 1936 and 1938, three large Moscow trials of former senior Communist Part
 
 The first trial, of 16 members of the "Trotskyite-Kamenevite-Zinovievite-Leftist-Counter-Revolutionary Bloc", was held in
 
-## ![](_page_4_Picture_6.jpeg)
 
 Bolshevik revolutionaries [Leon](https://en.wikipedia.org/wiki/Leon_Trotsky) [Trotsky,](https://en.wikipedia.org/wiki/Leon_Trotsky) [Lev Kamenev,](https://en.wikipedia.org/wiki/Lev_Kamenev) and [Grigory](https://en.wikipedia.org/wiki/Grigory_Zinoviev) [Zinoviev](https://en.wikipedia.org/wiki/Grigory_Zinoviev)
 
@@ -162,7 +156,6 @@ The third and final trial, in March 1938, known as the [Trial of the](https://en
 
 Although an opposition bloc led by Trotsky with Zinovievites existed, [Pierre Broué](https://en.wikipedia.org/wiki/Pierre_Brou%C3%A9) says that Bukharin was not involved.[\[28\]](#page-27-10) [Jules Humbert-Droz,](https://en.wikipedia.org/wiki/Jules_Humbert-Droz) a former Broué ally,[\[57\]](#page-28-23) said in his memoirs that Bukharin told him he formed a secret bloc with Zinoviev and Kamenev to remove Stalin from leadership[.\[58\]](#page-29-0)
 
-## ![](_page_6_Picture_5.jpeg)
 
 [NKVD](https://en.wikipedia.org/wiki/NKVD) chiefs responsible for mass repressions; (left to right): [Yakov](https://en.wikipedia.org/wiki/Yakov_Agranov) [Agranov,](https://en.wikipedia.org/wiki/Yakov_Agranov) [Genrikh Yagoda,](https://en.wikipedia.org/wiki/Genrikh_Yagoda) unidentified, and [Stanislav Redens.](https://en.wikipedia.org/wiki/Stanislav_Redens) Agranov, Yagoda and Redens were eventually arrested and executed.
 
@@ -176,7 +169,6 @@ On the first day of the trial, Krestinsky caused a sensation when he repudiated 
 
 Bukharin's confession was a subject of debate among Western observers, inspiring [Arthur Koestler](https://en.wikipedia.org/wiki/Arthur_Koestler)'s novel *[Darkness at Noon](https://en.wikipedia.org/wiki/Darkness_at_Noon)* and a philosophical essay by [Maurice Merleau-Ponty](https://en.wikipedia.org/wiki/Maurice_Merleau-Ponty) in *Humanism and Terror*. It was a combination of fulsome confessions (of being a "degenerate fascist"
 
-## ![](_page_6_Picture_12.jpeg)
 
 [Nikolai Bukharin,](https://en.wikipedia.org/wiki/Nikolai_Bukharin) Russian Bolshevik [revolutionary](https://en.wikipedia.org/wiki/Russian_Revolution) executed in 1938
 
@@ -202,7 +194,6 @@ To carry out the mass arrests, the 25,000 officers of the NKVD were supplemented
 
 After the interrogations, the files were submitted to NKVD troikas which pronounced verdicts without those accused. A troika went through several hundred cases during a half-day-long session, delivering a death sentence or a sentence to the Gulag labor camps. Death sentences were immediately enforceable. Executions were carried out at night in prisons or in secluded areas run by the NKVD on the outskirts of major cities[.\[66\]](#page-29-8) The "Kulak Operation" was the largest single campaign of repression in 1937–38, with 669,929 people arrested and 376,202 executed (over half the total of known executions)[.\[69\]](#page-29-11)
 
-## ![](_page_8_Picture_4.jpeg)
 
 [Yevgeny-Ludvig Karlovich Miller,](https://en.wikipedia.org/wiki/Yevgeny_Miller) one of the remaining leaders of the [White movement,](https://en.wikipedia.org/wiki/White_movement) was abducted from [Paris](https://en.wikipedia.org/wiki/Paris) by the NKVD in 1937 and executed in [Moscow](https://en.wikipedia.org/wiki/Moscow) 19 months later.
 
@@ -214,7 +205,6 @@ Poles were 12.5 percent of those killed during the Great Purge, although they we
 
 The wives and children of those arrested and executed were dealt with by [NKVD Order No. 00486.](https://en.wikipedia.org/wiki/NKVD_Order_No._00486) Women were sentenced to forced labour for five or 10 years[,\[73\]](#page-29-15) and their minor children were placed in orphanages. All possessions were confiscated. Extended families had nothing to live on, which usually sealed their fate as well; this
 
-## ![](_page_8_Picture_10.jpeg)
 
 [Yakov Alksnis,](https://en.wikipedia.org/wiki/Yakov_Alksnis) head of the [Red](https://en.wikipedia.org/wiki/Soviet_Air_Forces) [Army Air Forces,](https://en.wikipedia.org/wiki/Soviet_Air_Forces) fell victim to the [Latvian Operation](https://en.wikipedia.org/wiki/Latvian_Operation_of_the_NKVD) in 1938.
 
@@ -224,7 +214,6 @@ The Polish Operation of the NKVD was a model for a series of similar NKVD secret
 
 Snyder attributes 300,000 deaths during the Great Purge to "national terror", including ethnic minorities and Ukrainian kulaks who had survived dekulakization and the Holodomor famine which killed millions during the early 1930s.[\[76\]](#page-29-18) [Lev Kopelev](https://en.wikipedia.org/wiki/Lev_Kopelev) wrote "In Ukraine, 1937 began in 1933", referring to earlier Soviet political repression. [\[77\]:](#page-30-0)418 Ukrainian cultural elites were known as the [Executed](https://en.wikipedia.org/wiki/Executed_Renaissance) [Renaissance,](https://en.wikipedia.org/wiki/Executed_Renaissance) and statistics from Ukraine's Ministry of Foreign
 
-## ![](_page_9_Picture_5.jpeg)
 
 Polish-born Soviet politician [Stanislav Kosior,](https://en.wikipedia.org/wiki/Stanislav_Kosior) a contributor to the [Holodomor,](https://en.wikipedia.org/wiki/Holodomor) was executed in 1939.
 
@@ -242,7 +231,6 @@ The purge of the army was said to be supported by Germanforged documents (allege
 
 The purge had a significant effect on German decision-making in [World War II.](https://en.wikipedia.org/wiki/World_War_II) Many German generals opposed an [invasion of](https://en.wikipedia.org/wiki/Operation_Barbarossa) [Russia](https://en.wikipedia.org/wiki/Operation_Barbarossa) but [Hitler](https://en.wikipedia.org/wiki/Hitler) disagreed, calling the Red Army less effective after its intellectual leadership was eliminated in the purge.[\[92\]](#page-31-0)
 
-## ![](_page_10_Picture_5.jpeg)
 
 The first five Marshals of the Soviet Union in November 1935; (l–r) [Mikhail Tukhachevsky,](https://en.wikipedia.org/wiki/Mikhail_Tukhachevsky) [Semyon](https://en.wikipedia.org/wiki/Semyon_Budyonny) [Budyonny,](https://en.wikipedia.org/wiki/Semyon_Budyonny) [Kliment Voroshilov,](https://en.wikipedia.org/wiki/Kliment_Voroshilov) [Vasily](https://en.wikipedia.org/wiki/Vasily_Blyukher) [Blyukher,](https://en.wikipedia.org/wiki/Vasily_Blyukher) and [Alexander Yegorov.](https://en.wikipedia.org/wiki/Alexander_Yegorov_(soldier)) Only Budyonny and Voroshilov survived the Great Purge.
 
@@ -277,11 +265,9 @@ Those who perished during the Great Purge include:
 - Experimental physicist [Lev Shubnikov,](https://en.wikipedia.org/wiki/Lev_Shubnikov) considered the "Soviet founding father of Soviet low-temperature physics"[\[111\]](#page-32-6) known for discovering the [Shubnikov–de Haas e](https://en.wikipedia.org/wiki/Shubnikov%E2%80%93de_Haas_effect)ffect and [type-II superconductivity](https://en.wikipedia.org/wiki/Type-II_superconductor)[\[111\]](#page-32-6) and one of the first to discover [antiferromagnetism.](https://en.wikipedia.org/wiki/Antiferromagnetism)[\[112\]](#page-32-7) Shubnikov was executed in 1937.[\[113\]](#page-32-8)
 - Soviet economist [Nikolai Kondratiev,](https://en.wikipedia.org/wiki/Nikolai_Kondratiev) a proponent of the [New Economic Policy](https://en.wikipedia.org/wiki/New_Economic_Policy) who developed the business-cycle theory known as [Kondratiev waves.](https://en.wikipedia.org/wiki/Kondratiev_waves)[\[114\]](#page-33-0) Kondratiev was executed in 1938.[\[115\]](#page-33-1)
 
-## ![](_page_11_Picture_12.jpeg)
 
 1938 NKVD arrest photo of poet [Osip Mandelstam,](https://en.wikipedia.org/wiki/Osip_Mandelstam) who died in a labor camp
 
-## ![](_page_11_Picture_14.jpeg)
 
 NKVD photo of writer [Isaac Babel](https://en.wikipedia.org/wiki/Isaac_Babel) after his arrest
 
@@ -294,11 +280,9 @@ NKVD photo of writer [Isaac Babel](https://en.wikipedia.org/wiki/Isaac_Babel) af
 - Soviet engineer and inventor [Ivan Kleymyonov,](https://en.wikipedia.org/wiki/Ivan_Kleymyonov) a key founder of Soviet [rocketry](https://en.wikipedia.org/wiki/Rocket) and chief of the [Gas Dynamics Laboratory.](https://en.wikipedia.org/wiki/Gas_Dynamics_Laboratory)[\[126\]](#page-33-12) Kleymyonov was executed in 1938.
 - Soviet [astrophysicist](https://en.wikipedia.org/wiki/Astrophysicist) and [astronomer](https://en.wikipedia.org/wiki/Astronomer) [Boris](https://en.wikipedia.org/wiki/Boris_Gerasimovich) [Gerasimovich,](https://en.wikipedia.org/wiki/Boris_Gerasimovich) director of the [Pulkovo](https://en.wikipedia.org/wiki/Pulkovo_Observatory) [Observatory.](https://en.wikipedia.org/wiki/Pulkovo_Observatory) Gerasimovich, arrested with 13 other astronomers, was executed in 1938.[\[127\]](#page-34-0)
 
-## ![](_page_12_Picture_8.jpeg)
 
 Theatre director [Vsevolod Meyerhold](https://en.wikipedia.org/wiki/Vsevolod_Meyerhold) at the time of his arrest
 
-## ![](_page_12_Picture_10.jpeg)
 
 Botanist [Nikolai Vavilov](https://en.wikipedia.org/wiki/Nikolai_Vavilov) at the time of his arrest
 
@@ -316,11 +300,9 @@ Botanist [Nikolai Vavilov](https://en.wikipedia.org/wiki/Nikolai_Vavilov) at the
 
 The investigators began to use force on me, a sick 65-year-old man. I was made to lie face down and beaten on the soles of my feet and my spine with a rubber strap ... For the next few days, when those parts of my legs were covered with extensive internal hemorrhaging, they again beat the red-blueand-yellow bruises with the strap and the pain was so intense that it felt as if boiling water was being poured on these sensitive areas. I howled and wept from the pain. I
 
-## ![](_page_13_Picture_8.jpeg)
 
 [Aino Forsten](https://en.wikipedia.org/wiki/Aino_Forsten) (1885–1937), Finnish educator and [Social](https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Finland) [Democratic](https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Finland) politician,[\[105\]](#page-32-9) arrested and executed
 
-## ![](_page_13_Picture_10.jpeg)
 
 Paleontologist and geologist [Dmitrii Mushketov,](https://en.wikipedia.org/wiki/Dmitrii_Mushketov) executed in 1938
 
@@ -331,11 +313,9 @@ incriminated myself in the hope that by telling them lies I could end the ordeal
 - In early 1937, poet [Pavel Nikolayevich Vasiliev](https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2,_%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87) reportedly defended Nikolai Bukharin as "a man of the highest nobility and the conscience of peasant Russia" at the time of his denunciation at the Pyatakov Trial (Second Moscow Trial) and damned other writers signing routine condemnations as "pornographic scrawls on the margins of Russian literature". He was shot on 16 July 1937.[\[148\]](#page-35-9)
 - [Jan Sten,](https://en.wikipedia.org/wiki/Jan_Sten) philosopher and deputy head of the Marx-Engels Institute, was Stalin's private tutor when Stalin studied Hegel's [dialectic.](https://en.wikipedia.org/wiki/Dialectic) (Stalin received lessons twice a week from 1925 to 1928, but found it difficult to master the basic ideas. He became hostile to German idealistic philosophy, which he called "the aristocratic
 
-## ![](_page_14_Picture_7.jpeg)
 
 Pianist [Khadija Gayibova,](https://en.wikipedia.org/wiki/Khadija_Gayibova) executed in 1938
 
-## ![](_page_14_Picture_9.jpeg)
 
 [Vasili Oshchepkov,](https://en.wikipedia.org/wiki/Vasili_Oshchepkov) who popularized [judo](https://en.wikipedia.org/wiki/Judo) in the USSR and co-invented [sambo.](https://en.wikipedia.org/wiki/Sambo_(martial_art)) Accused of being a Japanese spy, he was [extrajudicially executed](https://en.wikipedia.org/wiki/Extrajudicial_killing) in the [Butyrka](https://en.wikipedia.org/wiki/Butyrka) in 1938.
 
@@ -373,7 +353,6 @@ During the late 1930s, Stalin dispatched NKVD operatives to the [Mongolian Peopl
 
 Pro-Soviet leader [Sheng Shicai,](https://en.wikipedia.org/wiki/Sheng_Shicai) from [Xinjiang](https://en.wikipedia.org/wiki/Xinjiang) province in China, launched his own purge in 1937 to coincide with Stalin's Great Purge. The [Xinjiang](https://en.wikipedia.org/wiki/Islamic_rebellion_in_Xinjiang_(1937)) [War](https://en.wikipedia.org/wiki/Islamic_rebellion_in_Xinjiang_(1937)) broke out during the purge.[\[160\]](#page-36-1) Sheng received assistance from the NKVD, and he and the Soviets alleged a massive Trotskyist conspiracy and a "Fascist Trotskyite plot" to destroy the Soviet Union. Soviet Consul General [Garegin Apreso](https://en.wikipedia.org/wiki/Garegin_Apresov)ff, General [Ma Hushan,](https://en.wikipedia.org/wiki/Ma_Hushan) [Ma Shaowu,](https://en.wikipedia.org/wiki/Ma_Shaowu) Mahmud Sijan, Xinjiang provincial leader Huang Han-chang and [Hoja-Niyaz](https://en.wikipedia.org/wiki/Hoja-Niyaz) were among the 435 alleged conspirators in the plot, and Xinjiang came under virtual Soviet control.[\[161\]](#page-36-2)
 
-## ![](_page_16_Picture_8.jpeg)
 
 Statue of [Khorloogiin](https://en.wikipedia.org/wiki/Khorloogiin_Choibalsan) [Choibalsan](https://en.wikipedia.org/wiki/Khorloogiin_Choibalsan) in front of the [National University of](https://en.wikipedia.org/wiki/National_University_of_Mongolia) [Mongolia](https://en.wikipedia.org/wiki/National_University_of_Mongolia)
 
@@ -402,11 +381,9 @@ When the relatives of those who had been executed in 1937–1938 inquired about 
 
 After Stalin's death, the truth about the purges began to emerge within the party. On 25 February 1956, Nikita Khrushchev delivered a speech (["On the Cult of Personality and Its Consequences"](https://en.wikipedia.org/wiki/On_the_Cult_of_Personality_and_Its_Consequences)) to a closed session of the 20th Party Congress. In his speech, Khrushchev said that Stalin
 
-## ![](_page_17_Picture_8.jpeg)
 
 [Israil Pliner](https://en.wikipedia.org/wiki/Israel_Pliner) (1896–1939), chief of the [Gulag](https://en.wikipedia.org/wiki/Gulag) NKVD (1937–1938), arrested and executed in 1939
 
-## ![](_page_17_Picture_10.jpeg)
 
 [Damnatio memoriae](https://en.wikipedia.org/wiki/Damnatio_memoriae) of [Nikolai Yezhov.](https://en.wikipedia.org/wiki/Nikolai_Yezhov) He was posthumously removed from pictures as part of the [censorship of images in the](https://en.wikipedia.org/wiki/Censorship_of_images_in_the_Soviet_Union) [Soviet Union,](https://en.wikipedia.org/wiki/Censorship_of_images_in_the_Soviet_Union) such as where he stood next to Joseph Stalin.
 
@@ -430,15 +407,12 @@ In 1954, some of the convictions began to be overturned. Mikhail Tukhachevsky an
 
 Official figures give the total number of verifiable executions in 1937 and 1938 at 681,692.[\[177\]](#page-36-18)[\[178\]](#page-36-19) in addition to 116,000 deaths in the [Gulag,](https://en.wikipedia.org/wiki/Gulag)[\[1\]](#page-25-0) Two thousand were unofficially killed in [non-](https://en.wikipedia.org/wiki/Article_58_of_the_RSFSR_Penal_Code)[Article-58](https://en.wikipedia.org/wiki/Article_58_of_the_RSFSR_Penal_Code) shootings[.\[1\]](#page-25-0) The total estimate of deaths during the Great Purge ranges from 950,000 to 1.2 million, including executions, deaths in detention and those who died shortly after being released from the Gulag.[\[1\]](#page-25-0) There were [16,500 to 50,000](https://en.wikipedia.org/wiki/Deportation_of_Koreans_in_the_Soviet_Union#Death_toll) [deaths in the deportation of Soviet Koreans](https://en.wikipedia.org/wiki/Deportation_of_Koreans_in_the_Soviet_Union#Death_toll) which correspond to the purge. According to Robert Conquest, a practice to lower execution numbers was to disguise executions with the sentence "10 years without the right of correspondence"; this almost always meant execution. All the bodies identified from mass graves at [Vinnitsa](https://en.wikipedia.org/wiki/Vinnytsia_massacre) and [Kuropaty](https://en.wikipedia.org/wiki/Kuropaty) were of individuals who had received this sentence[.\[179\]](#page-36-20) Despite this, the lower figure roughly confirmed Conquest's 1968 estimate of 700,000 "legal" executions; in the preface to the 40th anniversary edition of *The Great Terror*, Conquest wrote that he had been "correct on the vital matter—the numbers put to death: about one million".[\[180\]](#page-36-21)
 
-## ![](_page_19_Picture_5.jpeg)
 
 Posthumously rehabilitated, [Mikhail](https://en.wikipedia.org/wiki/Mikhail_Tukhachevsky) [Tukhachevsky](https://en.wikipedia.org/wiki/Mikhail_Tukhachevsky) was commemorated on a 1963 Soviet postage stamp.
 
-## ![](_page_19_Picture_7.jpeg)
 
 Monument to victims of the repressions in [Ulaanbaatar,](https://en.wikipedia.org/wiki/Ulaanbaatar) Mongolia
 
-## ![](_page_19_Picture_9.jpeg)
 
 Memorial events at the [Bykivnia](https://en.wikipedia.org/wiki/Bykivnia_graves) [graves,](https://en.wikipedia.org/wiki/Bykivnia_graves) [Kyiv,](https://en.wikipedia.org/wiki/Kyiv) Ukraine
 
@@ -446,7 +420,6 @@ According to [J. Arch Getty](https://en.wikipedia.org/wiki/J._Arch_Getty) and Ol
 
 ### **Stalin's role**
 
-## ![](_page_20_Picture_4.jpeg)
 
 List from the Great Purge signed by [Molotov,](https://en.wikipedia.org/wiki/Vyacheslav_Molotov) Stalin, [Voroshilov,](https://en.wikipedia.org/wiki/Kliment_Voroshilov) [Kaganovich,](https://en.wikipedia.org/wiki/Lazar_Kaganovich) and [Zhdanov](https://en.wikipedia.org/wiki/Andrei_Zhdanov)
 
@@ -464,7 +437,6 @@ At least two Soviet commissions investigated Stalin's show trials after his deat
 
 The second, [Shvernik Commission](https://en.wikipedia.org/wiki/Shvernik_Commission) worked primarily from 1961 to 1963 and included [Alexander Shelepin,](https://en.wikipedia.org/wiki/Alexander_Shelepin) Serdyuk, Mironov, Rudenko, and Semichastny. It resulted in two large reports detailing falsifications in the show trials of Bukharin, Zinoviev, Tukhachevsky, and many others. The commission based its findings largely on documents and eyewitness testimony by former NKVD workers and victims of repression. It recommended rehabilitating everyone accused except for Radek and Yagoda; Radek's materials required further checking, and Yagoda was one of the falsifiers at the trials. According to the commission,
 
-## ![](_page_21_Picture_5.jpeg)
 
 Memorial service for victims of political repression in [Moscow,](https://en.wikipedia.org/wiki/Moscow) 1990
 
@@ -484,31 +456,24 @@ The Joffe Foundation in Saint Petersburg launched a Map of Memory website in 201
 
 A mass grave containing 5,000 to 8,000 skeletons was discovered in [Odesa,](https://en.wikipedia.org/wiki/Odesa) Ukraine, during an August 2021 exploration for a planned expansion of [Odesa International Airport.](https://en.wikipedia.org/wiki/Odesa_International_Airport) The graves are believed to date back to the late 1930s, during the purge[.\[204\]](#page-38-6)
 
-## ![](_page_22_Picture_5.jpeg)
 
 "Week of Conscience", the first exhibition of victims of Stalinism in Moscow, 19 November 1988
 
-## ![](_page_22_Picture_7.jpeg)
 
 [Kuropaty](https://en.wikipedia.org/wiki/Kuropaty) mass gravesite near [Minsk,](https://en.wikipedia.org/wiki/Minsk) Belarus
 
-## ![](_page_22_Picture_9.jpeg)
 
 [Krasny Bor](https://en.wikipedia.org/wiki/Krasny_Bor_Forest,_Karelia) memorial cemetery, near [Petrozavodsk](https://en.wikipedia.org/wiki/Petrozavodsk)
 
-## ![](_page_22_Picture_11.jpeg)
 
 Memorial to [Polish](https://en.wikipedia.org/wiki/Poles_in_the_Soviet_Union) victims of Stalinist repression in [Tomsk](https://en.wikipedia.org/wiki/Tomsk)
 
-## ![](_page_23_Picture_2.jpeg)
 
 Monument to victims of political repression in Rutchenkove, near [Donetsk,](https://en.wikipedia.org/wiki/Donetsk) Ukraine
 
-## ![](_page_23_Picture_4.jpeg)
 
 Memorial to victims of Stalinist repression in Tomsk
 
-## ![](_page_23_Picture_6.jpeg)
 
 Monument at entrance to the [Sandarmokh](https://en.wikipedia.org/wiki/Sandarmokh) burial grounds reading, "People! Do not kill one another"
 

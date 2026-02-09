@@ -21,9 +21,6 @@ As this book shows, abolitionism and feminism stand shoulder to shoulder in figh
 
 ## **Abolition. Feminism. Now!**
 
-## ![](_page_2_Picture_0.jpeg)
-
-## ![](_page_3_Picture_0.jpeg)
 
 # Praise for Abolition. Feminism. Now.
 
@@ -50,7 +47,6 @@ UK | USA | Canada | Ireland | Australia India | New Zealand | South África
 
 Hamish Hamilton is part of the Penguin Random House group of companies whose addresses can be found at global.penguinrandomhouse.com.
 
-## ![](_page_7_Picture_3.jpeg)
 
 First published in the United States of America by Haymarket Books 2022 First published in Great Britain by Hamish Hamilton 2022 001
 
@@ -70,7 +66,6 @@ A CIP catalogue record for this book is available from the British Library
 
 www.greenpenguin.co.uk
 
-## ![](_page_7_Picture_13.jpeg)
 
 Penguin Random House is committed to a sustainable future for our business, our readers and our planet. This book is made from Forest Stewardship Council\* certified paper.
 
@@ -95,7 +90,6 @@ to End Imprisonment | |
 | | Image Permissions | 227 |
 ## | | Index | 231 |
 
-## ![](_page_9_Picture_0.jpeg)
 
 # PREFACE
 
@@ -159,7 +153,6 @@ Among this rich ecology of resources, "how-to" texts about practicing transforma
 
 Alongside these textual resources, artists continue to produce a range of visual interventions in our carceral state—including works that meticulously document the realities of day-to-day survival in prison. Artists have always been key agents seeding resistance and providing the tools for us to imagine otherwise—as exemplified by the visuals incorporated throughout this book. Our posters, memes, banners, statements, slogans, Signal and Snapchat groups, and more also create—to tweak a phrase from the visual arts scholar Nicole Fleetwood, an anti-"carceral aesthetics,"8 or, as we would frame it, an abolition feminist aesthetics—to grow our collective capacities to visualize the regime of heterogendered and racialized punishment that is the US prison/police state and also the myriad ways that people-poor, queer, First Nations, brown, Black, and/or non-citizens—attempt to flourish and resist in spite of all of these obstacles. Over the past decade the audience has also exploded for the work of writers who center speculative Black female (and queer) futures such as Octavia Butler, N. K. Jemison, and Nnedi Okorafor. The growth of interest in these authors and artists who center the struggle for Black futurity—and the increasingly wide body of work that has emerged in dialogue with these speculative texts—cannot be separated from the material demands that emerged during this time period: Fund Black Futures.9 Abolition. Feminism. Now. While local organizing continues to transform the discursive environment, furthering and legitimizing abolitionist-oriented discourse on prisons and policing, cultural and artistic projects also help to denaturalize the carceral state and to frame this institutionalized violence as an essential topic for mainstream discussions. Consider, for example,
 
-## ![](_page_24_Picture_1.jpeg)
 
 Illustration of sci-fi's kindling of radical imagination by Ira M. Leigh, 2015.
 
@@ -237,7 +230,6 @@ Local mobilizations have global tentacles. For example, campaigns to challenge t
 
 DOES THE DELIVERY OF JUSTICE IN SOUTH AFRICA HAVE TO COME DRESSED IN A NAVY BLUE BULLET-PROOF VEST, SHOTGUN AND ARMORED NYALAS -
 
-## ![](_page_39_Picture_1.jpeg)
 
 OR CAN WE IMAGINE
 JUSTICE BEYOND THAT?
@@ -320,7 +312,6 @@ The CR conference created a pathway for multiple other gatherings that propelled
 
 Critical Resistance popularized radical analyses of the ways in which imprisonment and policing, firmly linked to developments in global capitalism, simultaneously incorporate and mask structural racism. This abolitionist movement sought to explain the tremendous increase in the numbers of imprisoned people during the 1980s in relation to the structural changes produced by the rise of global capitalism during that period. The
 
-## ![](_page_55_Picture_2.jpeg)
 
 Poster created for the Critical Resistance ten-year-anniversary conference in Oakland, California, in 2008 by Pete Railand.
 
@@ -372,7 +363,6 @@ Despite the long historical development of an abolition feminist framework that 
 
 Building has always been central, particularly for those working at the intersection of feminism and abolition. For example, as feminists recognize the pervasiveness of gender and sexual violence, the work cannot be only to defund police, as this will not address harm endemic to communities. Abolition feminism has always required a practice, an engagement—preventative community-based responses that can be implemented to both reduce the incidence of gender and sexual violence and address harm when it does happen, without calling the police. By definition, this requires revisioning, experimentation, and engagement, not simply the absence or removal of police or prisons.
 
-## ![](_page_67_Picture_2.jpeg)
 
 Free Our Queens, made by Melanie Cervantes and the Women In Reentry Fellows at the People's Paper Co-op to raise money for the Philadelphia Community Bail Fund, 2020.
 
@@ -434,7 +424,6 @@ As abolitionist theory and practice demand a focus on structural forces, this at
 
 # STOP THE RAIDS FREETHEMALL
 
-## ![](_page_79_Picture_1.jpeg)
 
 Poster created by Jesus Barraza of Dignidad Rebelde, 2020.
 
@@ -550,7 +539,6 @@ The analysis of abolition feminism that we advance in this book is predicated on
 
 nist anti-violence work? These are urgent questions, posed here as part of a rhetorical strategy for rethinking the current movement and to invite a recognition within the more prominent genealogy of abolition of its roots in radical organizing against both state and intimate violence. We return here to the historical legacies of abolition feminism as a way of showing how women of color and other radical anti-violence activists have long called for divestment from the criminal legal system.
 
-## ![](_page_98_Picture_2.jpeg)
 
 Illustration by Cristy C. Road, 2003, featured on the cover of the INCITE! toolkit, Law Enforcement Violence Against Women of Color & Trans People of Color, published in 2018.
 
@@ -663,7 +651,6 @@ Any groups claim that they are reserval about reporting a rope to thin poller; t
 
 We are opposed to the criefies i distinct system orientation or many entirities process for a number of reasons. The criefies i distinct system has shown itself to be unresponsive and immensitive to the needs of remon. The orient of reportings a rage and seeing it for the content of remonting a rage and seeing it for the content of remonting the seeing the seeing the content of the entire data is involved by to be pleasant and helpful, the processes and structure of the entire system remain hostile and unsupportive to rape victime. This is largely because the sound involved here to force the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing the seeing
 
-## ![](_page_109_Picture_7.jpeg)
 
 keeping the end in sight
 
@@ -732,7 +719,6 @@ state violence. That is, while the report attempted to center the experience and
 
 Centering the experience and analyses of people in prison and the linkages between state and interpersonal violence, this organizing at Bedford built on earlier work, including self-defense and freedom organizing campaigns for incarcerated women such as the 1974 Free Joan Little movement and the emergence of 1970s groups such as Aid to Incarcerated Mothers, Prison MATCH (Prison Mothers and Their Children), and other convenings such as the 1977 "Action Conference of Women Against Repression and Prison," which gathered 120 participants, most of whom were formerly incarcerated women and others who were representative of prison justice organizing. 17 This work seeded the ground for the emergence of a wide array of groups led by currently or formerly incarcerated people, including the National Network for Womer. in Prison; Justice Now!; Chicago Legal Advocacy for Incarcerated Mothers; the Women's Prison Association; and later the California Coalition for Women in Prison; Women on the Rise Telling Her Story; the Transgender, Gender Variant and Intersex Justice Project; and Moms United Against Violence and Incarceration. Concurrently, networks grew centering both an abolitionist framework and the experience of criminalized survivors, including Black & Pink, Survived & Punished, and the Sylvia Rivera Law Project. 18 Increasingly abolition feminist in practice and orientation, most of these survivor-led groups continue to work inside and outside of prisons and jails to center racial justice, construe carcerality broadly (including
 
-## ![](_page_117_Picture_1.jpeg)
 
 Poster reflecting the 2001 INCITE!-Critical Resistance Statement on Gender Violence & The Prison Industrial Complex (see appendices for full statement).
 
@@ -780,7 +766,6 @@ Women of color feminist activists spent years trying to disrupt patterns in the 
 
 # Feminism.
 
-## ![](_page_124_Picture_1.jpeg)
 
 A button distributed in 2019 by Project Nia, based on a quote by Mariame Kaba.
 
@@ -800,7 +785,6 @@ If there is anybody out there who has never been in prison, but understands viol
 
 # PRISON IS GENDER VIOLENCE
 
-## ![](_page_128_Picture_2.jpeg)
 
 Monica Cosby's Intimate Partner Violence and State Violence Power and Control Wheel, illustrated by Sarah Ross (see appendices for full text).
 
@@ -828,7 +812,6 @@ from a crisis. This critique of the demand to defund or shift resources away fro
 
 Furthermore, the short-term relief associated with state arrest and punishment is not always (or even usually) what survivors of violence want; it does not involve them in decision-making as to what they need and seldom restores what they lost. Slightly less than half of all incidents of intimate partner violence are reported to the police; there are even fewer sexual assaults reported. Black, Indigenous, and other women of color, trans people, people in queer relationships, immigrant women, disabled people, children—those who are arguably most at risk of intimate, stranger, Child Protective Services, police and prison violence—are even less likely to seek assistance from the carceral state. As Leigh Goodmark, a University of Maryland law professor (whose Twitter name as of 2021 is "Recovering Carceral Feminist-Ask Me How!") and major proponent of decriminalizing gender violence, argues, "Now we know it doesn't work. We have the data that shows involvement in the criminal legal system does not deter intimate partner violence, does not lower rates of intimate partner violence, and it does not make violence less severe."36
 
-## ![](_page_132_Picture_1.jpeg)
 
 Portrait of Eisha Love, who was incarcerated for defending herself and spent nearly four years in jail because she couldn't afford bail, by Micah Bazant.
 
@@ -850,7 +833,6 @@ In Australia, Flat Out, an organization by and for women in the criminal legal s
 
 This abolition feminism ecosystem is rarely mapped, formally named, or recognized as part of a wider internationalist movement. Sisters Uncut, a survivor-led, radical feminist organization, bases its work on an internationalist and intersectional understanding of how gender violence produces and reinforces state violence and of how abolition feminism demands social transfor-
 
-## ![](_page_136_Picture_1.jpeg)
 
 Poster by Centre for the Human Rights of Imprisoned People working group, a project of Flat Out, created in 2015.
 
@@ -892,7 +874,6 @@ Turning to the everydayness of one site, Chicago, this chapter engages with the 
 
 Abolition feminist practices and analyses did not grow by scaling up or through institutionalized forms of power. Predicated on sameness and often eradicating difference, scaling up can foreclose transformation. 5 A close engagement with one site suggests that an
 
-## ![](_page_145_Picture_0.jpeg)
 
 Sounds of Abolition by Monica Trinidad, created in collaboration with incarcerated people through the People's Paper Co-op in 2021.
 
@@ -954,7 +935,6 @@ This longstanding organizing was given fresh energy and tools from the abolition
 
 Emerging from this deepening analysis of overcriminalization as an artifact of state violence was the idea that torture and excessive force must be mapped on a continuum that included the
 
-## ![](_page_158_Picture_1.jpeg)
 
 Logo of Love & Protect by Monica Trinidad.
 
@@ -1084,7 +1064,6 @@ As Abolition. Feminism. Now. documents, our movements are directly responsible f
 
 We recognize and feel the impact of this growing body of work every day. Organizing meetings start in new places: for example, rather than simply accepting "carve outs" to legislation such as a post-conviction relief bill that does not apply to people with life sentences or people with convictions for sex offenses, campaigns are pushing back and refusing to sign on unless these "carve outs" are removed. Staff at anti-violence organizations are asking for, and often receiving, internal professional development that centers abolition through transformative analysis and practices. Networks are rapidly producing tools and workshops in response to the "FAQs" abolitionists frequently engage—such as the toolkit On the Road to Freedom: An Abolitionist Assessment of Pretrial and Bail Reforms. Are any of these individual resources or actions the solution? No, but collectively they shape, deepen, and expand the ecosystem. And while not all these networks and tools in circulation are necessarily abolitionist or feminist, their
 
-## ![](_page_186_Picture_1.jpeg)
 
 Networkers by Molly Costello, 2021.
 
@@ -2003,7 +1982,6 @@ This notion derives from the prevailing opinion in Ruffin v. Commonwealth of Vir
 - 2. Audre Lorde, "Learning from the 60s," address for Malcolm X celebration at Harvard University, February 1982.
 - 3. Liza Featherstone, "Elite Feminists Ran Cover for Andrew Cuomo," *Jacobin*, August 12, 2021, https://jacobinmag.com/2021/08/elite-liberal-feminism-times-up-roberta-kaplan-andrew-cuomo-metoo.
 
-## ![](_page_241_Picture_0.jpeg)
 
 # **IMAGE PERMISSIONS**
 
@@ -2061,7 +2039,6 @@ Coins, Cops, and Communities Toolkit published by permission of AFSC Chicago.
 
 Networkers, 2021, published by permission of Molly Costello.
 
-## ![](_page_245_Picture_0.jpeg)
 
 # INDEX
 
@@ -2525,31 +2502,6 @@ women of color feminism, xii, 77, 83–87, 89, 91–92, 95–99, 106–8, 110, 1
 
 ## Young Women's Empowerment Project, 136, 161
 
-## ![](_page_263_Picture_0.jpeg)
-
-## ![](_page_264_Picture_0.jpeg)
-
-## ![](_page_265_Picture_0.jpeg)
-
-## ![](_page_266_Picture_0.jpeg)
-
-## ![](_page_267_Picture_0.jpeg)
-
-## ![](_page_268_Picture_0.jpeg)
-
-## ![](_page_269_Picture_0.jpeg)
-
-## ![](_page_270_Picture_0.jpeg)
-
-## ![](_page_271_Picture_0.jpeg)
-
-## ![](_page_272_Picture_0.jpeg)
-
-## ![](_page_273_Picture_0.jpeg)
-
-## ![](_page_274_Picture_0.jpeg)
-
-## ![](_page_275_Picture_0.jpeg)
 
 This book has been written by four activist-scholars, with unique collective experience in the social movements which led to and combine within abolitionist feminism:
 
@@ -2575,4 +2527,3 @@ It demands that we invest in people not power; in communities not coercion; in h
 
 'This extraordinary book makes the most compelling case I've ever seen for the indivisibility of feminism and abolition . . . An incitement, an offering, an invitation to a difficult struggle to which we must all commit. Now'
 
-## ![](_page_277_Picture_5.jpeg)

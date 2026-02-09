@@ -7,7 +7,6 @@ tags:
   - current-events
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 This book includes personal discussion and depiction of suicide and self harm. While I hope this book may serve as a comfort to some, its content may be triggering. Make sure you are in a comfortable place before reading, and remember that the sun always rises on a new day. Thank you.
 
@@ -19,49 +18,9 @@ IMAGE COMICS, INC. · Robert Kirkman: Chief Operating Officer · Erik Larsen: Ch
 
 ## ![](_page_3_Figure_0.jpeg)
 
-## ![](_page_5_Picture_0.jpeg)
-
-## ![](_page_7_Picture_0.jpeg)
-
-## ![](_page_7_Picture_1.jpeg)
-
-## ![](_page_7_Picture_2.jpeg)
-
-## ![](_page_9_Picture_0.jpeg)
-
-## ![](_page_9_Picture_1.jpeg)
-
-## ![](_page_9_Picture_2.jpeg)
-
-## ![](_page_9_Picture_3.jpeg)
 
 ## ![](_page_9_Figure_4.jpeg)
 
-## ![](_page_11_Picture_0.jpeg)
-
-## ![](_page_11_Picture_1.jpeg)
-
-## ![](_page_11_Picture_2.jpeg)
-
-## ![](_page_11_Picture_3.jpeg)
-
-## ![](_page_11_Picture_4.jpeg)
-
-## ![](_page_11_Picture_5.jpeg)
-
-## ![](_page_11_Picture_6.jpeg)
-
-## ![](_page_11_Picture_7.jpeg)
-
-## ![](_page_11_Picture_8.jpeg)
-
-## ![](_page_11_Picture_9.jpeg)
-
-## ![](_page_11_Picture_10.jpeg)
-
-## ![](_page_11_Picture_11.jpeg)
-
-## ![](_page_13_Picture_0.jpeg)
 
 ZOE THOUGHT THAT MAYBE SHE NEVER REALLY WANTED TO KILL HERSELF. SOMETIMES IT FELT LIKE A PERFORMANCE, A PERFORMANCE FOR NO AUDIENCE, BUT IT FELT LIKE ACTING NONETHELESS. SHE COULD STOP WRITING THIS, SHE COULD PUT DOWN THE PAINTBRUSH AND CHOOSE TO LIVE OUTSIDE OF HER OWN HEAD.
 
@@ -71,31 +30,6 @@ BUT THAT WOULD REQUIRE HER TO THINK ABOUT SOMETHING OTHER THAN HERSELF FOR A CHA
 
 ## ![](_page_19_Figure_0.jpeg)
 
-## ![](_page_19_Picture_1.jpeg)
-
-## ![](_page_19_Picture_2.jpeg)
-
-## ![](_page_19_Picture_3.jpeg)
-
-## ![](_page_19_Picture_4.jpeg)
-
-## ![](_page_19_Picture_5.jpeg)
-
-## ![](_page_19_Picture_6.jpeg)
-
-## ![](_page_19_Picture_7.jpeg)
-
-## ![](_page_19_Picture_8.jpeg)
-
-## ![](_page_19_Picture_9.jpeg)
-
-## ![](_page_19_Picture_10.jpeg)
-
-## ![](_page_19_Picture_11.jpeg)
-
-## ![](_page_21_Picture_0.jpeg)
-
-## ![](_page_23_Picture_0.jpeg)
 
 ## ![](_page_25_Figure_0.jpeg)
 
@@ -103,31 +37,9 @@ BUT THAT WOULD REQUIRE HER TO THINK ABOUT SOMETHING OTHER THAN HERSELF FOR A CHA
 
 ## ![](_page_29_Figure_0.jpeg)
 
-## ![](_page_29_Picture_1.jpeg)
-
-## ![](_page_29_Picture_2.jpeg)
 
 ## ![](_page_29_Figure_3.jpeg)
 
-## ![](_page_31_Picture_0.jpeg)
-
-## ![](_page_31_Picture_1.jpeg)
-
-## ![](_page_31_Picture_2.jpeg)
-
-## ![](_page_31_Picture_3.jpeg)
-
-## ![](_page_31_Picture_4.jpeg)
-
-## ![](_page_31_Picture_5.jpeg)
-
-## ![](_page_31_Picture_6.jpeg)
-
-## ![](_page_31_Picture_7.jpeg)
-
-## ![](_page_31_Picture_8.jpeg)
-
-## ![](_page_33_Picture_0.jpeg)
 
 ## 2013
 
@@ -135,95 +47,22 @@ BUT THAT WOULD REQUIRE HER TO THINK ABOUT SOMETHING OTHER THAN HERSELF FOR A CHA
 
 ZOE, COULD YOU PLEASE CIRCLE THE FACE THAT SHOWS HOW YOU FEEL?
 
-## ![](_page_35_Picture_3.jpeg)
-
-## ![](_page_35_Picture_4.jpeg)
-
-## ![](_page_35_Picture_5.jpeg)
-
-## ![](_page_35_Picture_6.jpeg)
-
-## ![](_page_35_Picture_7.jpeg)
-
-## ![](_page_35_Picture_8.jpeg)
-
-## ![](_page_35_Picture_9.jpeg)
-
-## ![](_page_37_Picture_0.jpeg)
-
-## ![](_page_37_Picture_1.jpeg)
-
-## ![](_page_37_Picture_2.jpeg)
 
 Zoe didn't think too much about why she felt mocked by those kinds of slogans.
 
-## ![](_page_37_Picture_4.jpeg)
-
-## ![](_page_37_Picture_5.jpeg)
-
-## ![](_page_37_Picture_6.jpeg)
-
-## ![](_page_37_Picture_7.jpeg)
-
-## ![](_page_37_Picture_8.jpeg)
-
-## ![](_page_37_Picture_9.jpeg)
-
-## ![](_page_37_Picture_10.jpeg)
 
 So she refused to try.
 
 ## ![](_page_39_Figure_0.jpeg)
 
-## ![](_page_41_Picture_0.jpeg)
-
-## ![](_page_41_Picture_1.jpeg)
-
-## ![](_page_41_Picture_2.jpeg)
-
-## ![](_page_41_Picture_3.jpeg)
-
-## ![](_page_41_Picture_4.jpeg)
-
-## ![](_page_41_Picture_5.jpeg)
-
-## ![](_page_41_Picture_6.jpeg)
-
-## ![](_page_41_Picture_7.jpeg)
-
-## ![](_page_41_Picture_8.jpeg)
-
-## ![](_page_41_Picture_9.jpeg)
-
-## ![](_page_41_Picture_10.jpeg)
-
-## ![](_page_41_Picture_11.jpeg)
-
-## ![](_page_43_Picture_0.jpeg)
 
 ## ![](_page_43_Figure_1.jpeg)
 
 ## ![](_page_43_Figure_2.jpeg)
 
-## ![](_page_43_Picture_3.jpeg)
-
-## ![](_page_43_Picture_4.jpeg)
-
-## ![](_page_43_Picture_5.jpeg)
-
-## ![](_page_43_Picture_6.jpeg)
-
-## ![](_page_43_Picture_7.jpeg)
 
 ## ![](_page_43_Figure_8.jpeg)
 
-## ![](_page_45_Picture_0.jpeg)
-
-## ![](_page_45_Picture_1.jpeg)
-
-## ![](_page_45_Picture_2.jpeg)
-
-## ![](_page_45_Picture_3.jpeg)
 
 Zoe was hit with
 the horrible
@@ -237,7 +76,6 @@ interpreted by
 other very real
 people.
 
-## ![](_page_45_Picture_5.jpeg)
 
 It seemed like
 a ridiculous
@@ -252,46 +90,10 @@ she wasn't a
 figment of her
 own imagination.
 
-## ![](_page_45_Picture_7.jpeg)
-
-## ![](_page_47_Picture_0.jpeg)
-
-## ![](_page_47_Picture_1.jpeg)
-
-## ![](_page_47_Picture_2.jpeg)
-
-## ![](_page_47_Picture_3.jpeg)
-
-## ![](_page_47_Picture_4.jpeg)
 
 It was then that Zoe had yet another awful realisation.
 If the people who read her last book were real, it was likely that the people reading this book were real too.
 
-## ![](_page_47_Picture_6.jpeg)
-
-## ![](_page_47_Picture_7.jpeg)
-
-## ![](_page_47_Picture_8.jpeg)
-
-## ![](_page_47_Picture_9.jpeg)
-
-## ![](_page_47_Picture_10.jpeg)
-
-## ![](_page_47_Picture_11.jpeg)
-
-## ![](_page_49_Picture_0.jpeg)
-
-## ![](_page_51_Picture_0.jpeg)
-
-## ![](_page_51_Picture_1.jpeg)
-
-## ![](_page_51_Picture_2.jpeg)
-
-## ![](_page_51_Picture_3.jpeg)
-
-## ![](_page_51_Picture_4.jpeg)
-
-## ![](_page_51_Picture_5.jpeg)
 
 # YOU ARE DEAD!
 
@@ -311,77 +113,15 @@ RETRY?
 
 ## YES • NO
 
-## ![](_page_53_Picture_0.jpeg)
-
-## ![](_page_53_Picture_1.jpeg)
-
-## ![](_page_55_Picture_0.jpeg)
-
-## ![](_page_55_Picture_1.jpeg)
-
-## ![](_page_55_Picture_2.jpeg)
-
-## ![](_page_55_Picture_3.jpeg)
-
-## ![](_page_55_Picture_4.jpeg)
-
-## ![](_page_55_Picture_5.jpeg)
 
 ## ![](_page_55_Figure_6.jpeg)
 
-## ![](_page_55_Picture_7.jpeg)
-
-## ![](_page_55_Picture_8.jpeg)
-
-## ![](_page_57_Picture_0.jpeg)
-
-## ![](_page_57_Picture_1.jpeg)
 
 ## ![](_page_57_Figure_2.jpeg)
 
-## ![](_page_57_Picture_3.jpeg)
-
-## ![](_page_57_Picture_4.jpeg)
-
-## ![](_page_57_Picture_5.jpeg)
-
-## ![](_page_57_Picture_6.jpeg)
-
-## ![](_page_57_Picture_7.jpeg)
-
-## ![](_page_57_Picture_8.jpeg)
-
-## ![](_page_59_Picture_0.jpeg)
-
-## ![](_page_61_Picture_0.jpeg)
-
-## ![](_page_63_Picture_0.jpeg)
-
-## ![](_page_63_Picture_1.jpeg)
-
-## ![](_page_63_Picture_2.jpeg)
-
-## ![](_page_63_Picture_3.jpeg)
 
 ## HE GROWS UP TO REVOLUTIONISE
 
-## ![](_page_63_Picture_4.jpeg)
-
-## ![](_page_63_Picture_5.jpeg)
-
-## ![](_page_63_Picture_6.jpeg)
-
-## ![](_page_63_Picture_7.jpeg)
-
-## ![](_page_63_Picture_8.jpeg)
-
-## ![](_page_63_Picture_9.jpeg)
-
-## ![](_page_63_Picture_10.jpeg)
-
-## ![](_page_63_Picture_11.jpeg)
-
-## ![](_page_65_Picture_0.jpeg)
 
 ### PANEL 2:
 
@@ -393,7 +133,6 @@ DOG: Yelp!
 
 ## S
 
-## ![](_page_65_Picture_6.jpeg)
 
 # PANEL 4:
 
@@ -407,29 +146,14 @@ WHAT?? I FREEZE? I WOULDN'T FREEZE! I RUN TO SAVE IT!
 
 ## B
 
-## ![](_page_65_Picture_13.jpeg)
-
-## ![](_page_65_Picture_14.jpeg)
-
-## ![](_page_65_Picture_15.jpeg)
-
-## ![](_page_65_Picture_16.jpeg)
-
-## ![](_page_65_Picture_17.jpeg)
 
 ## ![](_page_67_Figure_0.jpeg)
 
-## ![](_page_67_Picture_1.jpeg)
-
-## ![](_page_67_Picture_2.jpeg)
 
 ## ![](_page_67_Figure_3.jpeg)
 
 ## ![](_page_67_Figure_4.jpeg)
 
-## ![](_page_67_Picture_5.jpeg)
-
-## ![](_page_67_Picture_6.jpeg)
 
 ## ![](_page_67_Figure_7.jpeg)
 
@@ -451,21 +175,9 @@ IT THAT WAY.
 
 YOU WANNA KNOW WHAT THE BEST FEELING IN THE WORLD IS?
 
-## ![](_page_69_Picture_2.jpeg)
-
-## ![](_page_69_Picture_3.jpeg)
-
-## ![](_page_69_Picture_4.jpeg)
-
-## ![](_page_69_Picture_5.jpeg)
 
 ## ![](_page_69_Figure_6.jpeg)
 
-## ![](_page_69_Picture_7.jpeg)
-
-## ![](_page_69_Picture_8.jpeg)
-
-## ![](_page_69_Picture_9.jpeg)
 
 ## ![](_page_69_Figure_10.jpeg)
 
@@ -473,45 +185,12 @@ YOU WANNA KNOW WHAT THE BEST FEELING IN THE WORLD IS?
 
 ## AGE: 20
 
-## ![](_page_69_Picture_13.jpeg)
-
-## ![](_page_71_Picture_0.jpeg)
-
-## ![](_page_71_Picture_1.jpeg)
-
-## ![](_page_71_Picture_2.jpeg)
-
-## ![](_page_71_Picture_3.jpeg)
-
-## ![](_page_71_Picture_4.jpeg)
-
-## ![](_page_71_Picture_5.jpeg)
-
-## ![](_page_71_Picture_6.jpeg)
 
 ## ![](_page_71_Figure_7.jpeg)
 
-## ![](_page_71_Picture_8.jpeg)
-
-## ![](_page_71_Picture_9.jpeg)
-
-## ![](_page_71_Picture_10.jpeg)
-
-## ![](_page_71_Picture_11.jpeg)
 
 ## ![](_page_73_Figure_0.jpeg)
 
-## ![](_page_73_Picture_1.jpeg)
-
-## ![](_page_73_Picture_2.jpeg)
-
-## ![](_page_73_Picture_3.jpeg)
-
-## ![](_page_73_Picture_4.jpeg)
-
-## ![](_page_73_Picture_5.jpeg)
-
-## ![](_page_73_Picture_6.jpeg)
 
 HOW DID I GET SO LUCKY?
 
@@ -525,37 +204,11 @@ REJECTIONS AFTER REJECTIONS.
 
 I ONLY HAD ONE YEAR OF STUDENT LOANS LEFT FROM THE DEGREE I WAS FLUNKING.
 
-## ![](_page_73_Picture_14.jpeg)
-
-## ![](_page_73_Picture_15.jpeg)
-
-## ![](_page_75_Picture_0.jpeg)
-
-## ![](_page_75_Picture_1.jpeg)
-
-## ![](_page_75_Picture_2.jpeg)
-
-## ![](_page_75_Picture_3.jpeg)
-
-## ![](_page_75_Picture_4.jpeg)
-
-## ![](_page_75_Picture_5.jpeg)
-
-## ![](_page_75_Picture_6.jpeg)
-
-## ![](_page_75_Picture_7.jpeg)
-
-## ![](_page_75_Picture_8.jpeg)
-
-## ![](_page_77_Picture_0.jpeg)
 
 ## ![](_page_79_Figure_0.jpeg)
 
 Hey Zoe, unfortunately your flight's been cancelled due to covid. We'll get you over next year don't worry, things will be better by then.
 
-## ![](_page_81_Picture_1.jpeg)
-
-## ![](_page_81_Picture_2.jpeg)
 
 # 11 + B I U A \* G P D U - | 三 三 三 三 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 
@@ -573,35 +226,9 @@ ZOE's phone flashes with a message we can't yet see.
 
 ## SFX: PING
 
-## ![](_page_83_Picture_7.jpeg)
-
-## ![](_page_85_Picture_0.jpeg)
-
-## ![](_page_87_Picture_0.jpeg)
-
-## ![](_page_89_Picture_0.jpeg)
-
-## ![](_page_89_Picture_1.jpeg)
-
-## ![](_page_89_Picture_2.jpeg)
-
-## ![](_page_89_Picture_3.jpeg)
-
-## ![](_page_89_Picture_4.jpeg)
-
-## ![](_page_89_Picture_5.jpeg)
-
-## ![](_page_89_Picture_6.jpeg)
-
-## ![](_page_89_Picture_7.jpeg)
-
-## ![](_page_89_Picture_8.jpeg)
 
 that's the problem with firsting with the 1000 of something, sometimes you fa
 
-## ![](_page_93_Picture_0.jpeg)
-
-## ![](_page_95_Picture_0.jpeg)
 
 Hey...
 
@@ -609,7 +236,6 @@ can you hear me?
 
 ## Nod if you can hear me
 
-## ![](_page_97_Picture_3.jpeg)
 
 oh, right, I guess I'm just words on a page haha, why would you nod at that?
 
@@ -661,77 +287,12 @@ by Zoe Thorogood and .....
 
 (your name here)
 
-## ![](_page_107_Picture_0.jpeg)
-
-## ![](_page_107_Picture_1.jpeg)
-
-## ![](_page_107_Picture_2.jpeg)
-
-## ![](_page_107_Picture_3.jpeg)
-
-## ![](_page_107_Picture_4.jpeg)
-
-## ![](_page_107_Picture_5.jpeg)
-
-## ![](_page_107_Picture_6.jpeg)
-
-## ![](_page_107_Picture_7.jpeg)
-
-## ![](_page_107_Picture_8.jpeg)
-
-## ![](_page_109_Picture_0.jpeg)
 
 ## ![](_page_111_Figure_0.jpeg)
 
-## ![](_page_113_Picture_0.jpeg)
-
-## ![](_page_115_Picture_0.jpeg)
-
-## ![](_page_115_Picture_1.jpeg)
-
-## ![](_page_115_Picture_2.jpeg)
-
-## ![](_page_115_Picture_3.jpeg)
-
-## ![](_page_115_Picture_4.jpeg)
-
-## ![](_page_115_Picture_5.jpeg)
-
-## ![](_page_115_Picture_6.jpeg)
-
-## ![](_page_115_Picture_7.jpeg)
-
-## ![](_page_115_Picture_8.jpeg)
-
-## ![](_page_117_Picture_0.jpeg)
-
-## ![](_page_119_Picture_0.jpeg)
-
-## ![](_page_119_Picture_1.jpeg)
-
-## ![](_page_121_Picture_0.jpeg)
-
-## ![](_page_123_Picture_0.jpeg)
-
-## ![](_page_123_Picture_1.jpeg)
-
-## ![](_page_123_Picture_2.jpeg)
-
-## ![](_page_123_Picture_3.jpeg)
-
-## ![](_page_123_Picture_4.jpeg)
-
-## ![](_page_123_Picture_5.jpeg)
-
-## ![](_page_123_Picture_6.jpeg)
-
-## ![](_page_123_Picture_7.jpeg)
 
 ## ![](_page_125_Figure_0.jpeg)
 
-## ![](_page_127_Picture_0.jpeg)
-
-## ![](_page_129_Picture_0.jpeg)
 
 Zoe had been spending more time talking to the guy she was supposed to meet with in America.
 
@@ -739,7 +300,6 @@ She was more upset than she should have been about not getting to see him.
 
 But Zoe wasn't going to think too hard about that.
 
-## ![](_page_129_Picture_4.jpeg)
 
 'It's not like I have feelings or anything embarrassing like that', Zoe thought to herself.
 
@@ -747,45 +307,24 @@ But Zoe wasn't going to think too hard about that.
 
 To be fair to Zoe, she didn't get to experience that too often, if at all.
 
-## ![](_page_129_Picture_8.jpeg)
 
 So that was nice.
 
 She had one thing going for her.
 
-## ![](_page_129_Picture_11.jpeg)
-
-## ![](_page_129_Picture_12.jpeg)
-
-## ![](_page_129_Picture_13.jpeg)
 
 ## ![](_page_131_Figure_0.jpeg)
 
-## ![](_page_133_Picture_0.jpeg)
-
-## ![](_page_133_Picture_1.jpeg)
-
-## ![](_page_133_Picture_2.jpeg)
-
-## ![](_page_133_Picture_3.jpeg)
-
-## ![](_page_133_Picture_4.jpeg)
-
-## ![](_page_133_Picture_5.jpeg)
 
 ## ![](_page_133_Figure_6.jpeg)
 
 ## ![](_page_135_Figure_0.jpeg)
 
-## ![](_page_135_Picture_1.jpeg)
 
 ## ![](_page_135_Figure_2.jpeg)
 
 ## ![](_page_135_Figure_3.jpeg)
 
-## ![](_page_135_Picture_4.jpeg)
-
-## ![](_page_135_Picture_5.jpeg)
 
 ## ![](_page_135_Figure_6.jpeg)
 
@@ -793,17 +332,6 @@ She had one thing going for her.
 
 ## ![](_page_135_Figure_8.jpeg)
 
-## ![](_page_137_Picture_0.jpeg)
-
-## ![](_page_139_Picture_0.jpeg)
-
-## ![](_page_139_Picture_1.jpeg)
-
-## ![](_page_139_Picture_2.jpeg)
-
-## ![](_page_139_Picture_3.jpeg)
-
-## ![](_page_139_Picture_4.jpeg)
 
 Zoe wished that a vaguely humanoid entity would materialise from the floor and scoop her up and never let go.
 
@@ -811,111 +339,15 @@ This entity would understand her completely and pass through the glass walls.
 
 'Maybe a clone would be ideal', Zoe thought.
 
-## ![](_page_139_Picture_8.jpeg)
-
-## ![](_page_139_Picture_9.jpeg)
-
-## ![](_page_139_Picture_10.jpeg)
-
-## ![](_page_139_Picture_11.jpeg)
-
-## ![](_page_139_Picture_12.jpeg)
-
-## ![](_page_139_Picture_13.jpeg)
-
-## ![](_page_141_Picture_0.jpeg)
-
-## ![](_page_141_Picture_1.jpeg)
-
-## ![](_page_141_Picture_2.jpeg)
-
-## ![](_page_141_Picture_3.jpeg)
-
-## ![](_page_141_Picture_4.jpeg)
-
-## ![](_page_141_Picture_5.jpeg)
-
-## ![](_page_141_Picture_6.jpeg)
-
-## ![](_page_141_Picture_7.jpeg)
-
-## ![](_page_141_Picture_8.jpeg)
-
-## ![](_page_141_Picture_9.jpeg)
-
-## ![](_page_141_Picture_10.jpeg)
-
-## ![](_page_141_Picture_11.jpeg)
 
 ## ![](_page_143_Figure_0.jpeg)
 
-## ![](_page_143_Picture_1.jpeg)
-
-## ![](_page_143_Picture_2.jpeg)
-
-## ![](_page_143_Picture_3.jpeg)
-
-## ![](_page_143_Picture_4.jpeg)
 
 ## ![](_page_145_Figure_0.jpeg)
 
-## ![](_page_147_Picture_0.jpeg)
-
-## ![](_page_149_Picture_0.jpeg)
-
-## ![](_page_149_Picture_1.jpeg)
-
-## ![](_page_149_Picture_2.jpeg)
-
-## ![](_page_149_Picture_3.jpeg)
-
-## ![](_page_149_Picture_4.jpeg)
-
-## ![](_page_149_Picture_5.jpeg)
-
-## ![](_page_149_Picture_6.jpeg)
-
-## ![](_page_149_Picture_7.jpeg)
-
-## ![](_page_149_Picture_8.jpeg)
-
-## ![](_page_149_Picture_9.jpeg)
 
 WHERE'D HE GO?
 
-## ![](_page_151_Picture_0.jpeg)
-
-## ![](_page_151_Picture_1.jpeg)
-
-## ![](_page_151_Picture_2.jpeg)
-
-## ![](_page_151_Picture_3.jpeg)
-
-## ![](_page_151_Picture_4.jpeg)
-
-## ![](_page_151_Picture_5.jpeg)
-
-## ![](_page_151_Picture_6.jpeg)
-
-## ![](_page_151_Picture_7.jpeg)
-
-## ![](_page_151_Picture_8.jpeg)
-
-## ![](_page_151_Picture_9.jpeg)
-
-## ![](_page_151_Picture_10.jpeg)
-
-## ![](_page_151_Picture_11.jpeg)
-
-## ![](_page_153_Picture_0.jpeg)
-
-## ![](_page_157_Picture_0.jpeg)
-
-## ![](_page_157_Picture_1.jpeg)
-
-## ![](_page_157_Picture_2.jpeg)
-
-## ![](_page_157_Picture_3.jpeg)
 
 where are we?
 
@@ -923,67 +355,15 @@ where are we?
 
 > > I DON'T LIKE THIS.
 
-## ![](_page_161_Picture_0.jpeg)
 
 ## ![](_page_163_Figure_0.jpeg)
 
-## ![](_page_165_Picture_0.jpeg)
-
-## ![](_page_167_Picture_0.jpeg)
-
-## ![](_page_167_Picture_1.jpeg)
-
-## ![](_page_167_Picture_2.jpeg)
-
-## ![](_page_167_Picture_3.jpeg)
-
-## ![](_page_167_Picture_4.jpeg)
-
-## ![](_page_167_Picture_5.jpeg)
-
-## ![](_page_167_Picture_6.jpeg)
-
-## ![](_page_167_Picture_7.jpeg)
 
 I CAN BE ANYTHING ON MY PAGE.
 
-## ![](_page_169_Picture_0.jpeg)
-
-## ![](_page_169_Picture_1.jpeg)
-
-## ![](_page_169_Picture_2.jpeg)
-
-## ![](_page_169_Picture_3.jpeg)
-
-## ![](_page_171_Picture_0.jpeg)
-
-## ![](_page_171_Picture_1.jpeg)
-
-## ![](_page_171_Picture_2.jpeg)
-
-## ![](_page_171_Picture_3.jpeg)
-
-## ![](_page_171_Picture_4.jpeg)
-
-## ![](_page_171_Picture_5.jpeg)
-
-## ![](_page_171_Picture_6.jpeg)
-
-## ![](_page_171_Picture_7.jpeg)
-
-## ![](_page_171_Picture_8.jpeg)
-
-## ![](_page_171_Picture_9.jpeg)
-
-## ![](_page_171_Picture_10.jpeg)
-
-## ![](_page_171_Picture_11.jpeg)
-
-## ![](_page_173_Picture_0.jpeg)
 
 # IT'S LONELY AT THE CENTRE OF THE EARTH
 
-## ![](_page_175_Picture_1.jpeg)
 
 IT'S LONELY AT THE CENTRE OF THE EARTH. November 2022. Published by Image Comics, Inc. Office of publication: PO BOX 14457, Portland, OR 97293.
 
@@ -1013,7 +393,6 @@ Content Manager • Erika Schnatz: Senior Production Artist • Wesley Griffith:
 
 ## IMAGECOMICS COM
 
-## ![](_page_179_Picture_0.jpeg)
 
 ## ![](_page_181_Figure_0.jpeg)
 
@@ -1021,299 +400,21 @@ Content Manager • Erika Schnatz: Senior Production Artist • Wesley Griffith:
 
 ## ![](_page_185_Figure_0.jpeg)
 
-## ![](_page_185_Picture_1.jpeg)
-
-## ![](_page_185_Picture_2.jpeg)
-
-## ![](_page_185_Picture_3.jpeg)
 
 ## DAYS UNTIL CON: 2
 
-## ![](_page_187_Picture_1.jpeg)
-
-## ![](_page_187_Picture_2.jpeg)
-
-## ![](_page_187_Picture_3.jpeg)
-
-## ![](_page_187_Picture_4.jpeg)
-
-## ![](_page_187_Picture_5.jpeg)
-
-## ![](_page_187_Picture_6.jpeg)
-
-## ![](_page_187_Picture_7.jpeg)
 
 ## ![](_page_187_Figure_8.jpeg)
 
-## ![](_page_187_Picture_9.jpeg)
 
 ## THERE'S NO POINT TRYING
 
-## ![](_page_187_Picture_10.jpeg)
-
-## ![](_page_187_Picture_11.jpeg)
-
-## ![](_page_189_Picture_0.jpeg)
-
-## ![](_page_189_Picture_1.jpeg)
-
-## ![](_page_189_Picture_2.jpeg)
-
-## ![](_page_189_Picture_3.jpeg)
-
-## ![](_page_189_Picture_4.jpeg)
-
-## ![](_page_189_Picture_5.jpeg)
-
-## ![](_page_189_Picture_6.jpeg)
-
-## ![](_page_189_Picture_7.jpeg)
-
-## ![](_page_189_Picture_8.jpeg)
-
-## ![](_page_191_Picture_0.jpeg)
-
-## ![](_page_193_Picture_0.jpeg)
-
-## ![](_page_195_Picture_0.jpeg)
-
-## ![](_page_197_Picture_0.jpeg)
-
-## ![](_page_197_Picture_1.jpeg)
-
-## ![](_page_197_Picture_2.jpeg)
-
-## ![](_page_197_Picture_3.jpeg)
-
-## ![](_page_197_Picture_4.jpeg)
-
-## ![](_page_197_Picture_5.jpeg)
-
-## ![](_page_197_Picture_6.jpeg)
-
-## ![](_page_197_Picture_7.jpeg)
-
-## ![](_page_197_Picture_8.jpeg)
-
-## ![](_page_199_Picture_0.jpeg)
-
-## ![](_page_201_Picture_0.jpeg)
-
-## ![](_page_201_Picture_1.jpeg)
-
-## ![](_page_201_Picture_2.jpeg)
-
-## ![](_page_201_Picture_3.jpeg)
-
-## ![](_page_201_Picture_4.jpeg)
-
-## ![](_page_201_Picture_5.jpeg)
-
-## ![](_page_201_Picture_6.jpeg)
-
-## ![](_page_201_Picture_7.jpeg)
-
-## ![](_page_201_Picture_8.jpeg)
-
-## ![](_page_201_Picture_9.jpeg)
-
-## ![](_page_201_Picture_10.jpeg)
-
-## ![](_page_201_Picture_11.jpeg)
-
-## ![](_page_203_Picture_0.jpeg)
 
 'PATHETIC FALLACY' IS ONE OF THE ONLY THINGS I REMEMBER LEARNING IN HIGH SCHOOL, MAYBE BECAUSE IT WAS ONE OF THE HANDFUL OF CLASSES I DIDN'T HAPPEN TO SKIP OUT ON.
 
-## ![](_page_203_Picture_2.jpeg)
-
-## ![](_page_203_Picture_3.jpeg)
-
-## ![](_page_203_Picture_4.jpeg)
-
-## ![](_page_203_Picture_5.jpeg)
-
-## ![](_page_203_Picture_6.jpeg)
-
-## ![](_page_203_Picture_7.jpeg)
-
-## ![](_page_203_Picture_8.jpeg)
-
-## ![](_page_203_Picture_9.jpeg)
-
-## ![](_page_203_Picture_10.jpeg)
-
-## ![](_page_203_Picture_11.jpeg)
-
-## ![](_page_203_Picture_12.jpeg)
-
-## ![](_page_205_Picture_0.jpeg)
-
-## ![](_page_205_Picture_1.jpeg)
-
-## ![](_page_205_Picture_2.jpeg)
-
-## ![](_page_205_Picture_3.jpeg)
-
-## ![](_page_205_Picture_4.jpeg)
-
-## ![](_page_205_Picture_5.jpeg)
-
-## ![](_page_207_Picture_0.jpeg)
-
-## ![](_page_207_Picture_1.jpeg)
-
-## ![](_page_207_Picture_2.jpeg)
-
-## ![](_page_207_Picture_3.jpeg)
-
-## ![](_page_207_Picture_4.jpeg)
-
-## ![](_page_207_Picture_5.jpeg)
-
-## ![](_page_207_Picture_6.jpeg)
-
-## ![](_page_207_Picture_7.jpeg)
-
-## ![](_page_207_Picture_8.jpeg)
-
-## ![](_page_207_Picture_9.jpeg)
-
-## ![](_page_207_Picture_10.jpeg)
-
-## ![](_page_207_Picture_11.jpeg)
-
-## ![](_page_209_Picture_0.jpeg)
-
-## ![](_page_209_Picture_1.jpeg)
-
-## ![](_page_209_Picture_2.jpeg)
-
-## ![](_page_209_Picture_3.jpeg)
-
-## ![](_page_209_Picture_4.jpeg)
-
-## ![](_page_209_Picture_5.jpeg)
-
-## ![](_page_209_Picture_6.jpeg)
 
 ## CAN YOU DRAW ME WITH
 
-## ![](_page_209_Picture_7.jpeg)
-
-## ![](_page_209_Picture_8.jpeg)
-
-## ![](_page_211_Picture_0.jpeg)
-
-## ![](_page_211_Picture_1.jpeg)
-
-## ![](_page_211_Picture_2.jpeg)
-
-## ![](_page_211_Picture_3.jpeg)
-
-## ![](_page_211_Picture_4.jpeg)
-
-## ![](_page_211_Picture_5.jpeg)
-
-## ![](_page_211_Picture_6.jpeg)
-
-## ![](_page_211_Picture_7.jpeg)
-
-## ![](_page_211_Picture_8.jpeg)
-
-## ![](_page_211_Picture_9.jpeg)
-
-## ![](_page_211_Picture_10.jpeg)
-
-## ![](_page_211_Picture_11.jpeg)
-
-## ![](_page_213_Picture_0.jpeg)
-
-## ![](_page_213_Picture_1.jpeg)
-
-## ![](_page_213_Picture_2.jpeg)
-
-## ![](_page_213_Picture_3.jpeg)
-
-## ![](_page_213_Picture_4.jpeg)
-
-## ![](_page_213_Picture_5.jpeg)
-
-## ![](_page_213_Picture_6.jpeg)
-
-## ![](_page_213_Picture_7.jpeg)
-
-## ![](_page_213_Picture_8.jpeg)
-
-## ![](_page_213_Picture_9.jpeg)
-
-## ![](_page_215_Picture_0.jpeg)
-
-## ![](_page_215_Picture_1.jpeg)
-
-## ![](_page_215_Picture_2.jpeg)
-
-## ![](_page_215_Picture_3.jpeg)
-
-## ![](_page_215_Picture_4.jpeg)
-
-## ![](_page_215_Picture_5.jpeg)
-
-## ![](_page_215_Picture_6.jpeg)
-
-## ![](_page_215_Picture_7.jpeg)
-
-## ![](_page_215_Picture_8.jpeg)
-
-## ![](_page_215_Picture_9.jpeg)
-
-## ![](_page_217_Picture_0.jpeg)
-
-## ![](_page_217_Picture_1.jpeg)
-
-## ![](_page_217_Picture_2.jpeg)
-
-## ![](_page_217_Picture_3.jpeg)
-
-## ![](_page_217_Picture_4.jpeg)
-
-## ![](_page_217_Picture_5.jpeg)
-
-## ![](_page_217_Picture_6.jpeg)
-
-## ![](_page_217_Picture_7.jpeg)
-
-## ![](_page_217_Picture_8.jpeg)
-
-## ![](_page_217_Picture_9.jpeg)
-
-## ![](_page_219_Picture_0.jpeg)
-
-## ![](_page_219_Picture_1.jpeg)
-
-## ![](_page_219_Picture_2.jpeg)
-
-## ![](_page_219_Picture_3.jpeg)
-
-## ![](_page_219_Picture_4.jpeg)
-
-## ![](_page_219_Picture_5.jpeg)
-
-## ![](_page_219_Picture_6.jpeg)
-
-## ![](_page_219_Picture_7.jpeg)
-
-## ![](_page_219_Picture_8.jpeg)
-
-## ![](_page_219_Picture_9.jpeg)
-
-## ![](_page_219_Picture_10.jpeg)
-
-## ![](_page_219_Picture_11.jpeg)
-
-## ![](_page_221_Picture_0.jpeg)
-
-## ![](_page_221_Picture_1.jpeg)
 
 ## ![](_page_221_Figure_2.jpeg)
 
@@ -1321,59 +422,9 @@ Content Manager • Erika Schnatz: Senior Production Artist • Wesley Griffith:
 
 ## I'VE SPENT YEARS WAITING
 
-## ![](_page_221_Picture_4.jpeg)
-
-## ![](_page_221_Picture_5.jpeg)
-
-## ![](_page_221_Picture_6.jpeg)
 
 ## ![](_page_221_Figure_7.jpeg)
 
-## ![](_page_221_Picture_8.jpeg)
-
-## ![](_page_221_Picture_9.jpeg)
-
-## ![](_page_221_Picture_10.jpeg)
-
-## ![](_page_221_Picture_11.jpeg)
-
-## ![](_page_223_Picture_0.jpeg)
-
-## ![](_page_223_Picture_1.jpeg)
-
-## ![](_page_223_Picture_2.jpeg)
-
-## ![](_page_223_Picture_3.jpeg)
-
-## ![](_page_225_Picture_0.jpeg)
-
-## ![](_page_225_Picture_1.jpeg)
-
-## ![](_page_225_Picture_2.jpeg)
-
-## ![](_page_225_Picture_3.jpeg)
-
-## ![](_page_225_Picture_4.jpeg)
-
-## ![](_page_225_Picture_5.jpeg)
-
-## ![](_page_225_Picture_6.jpeg)
-
-## ![](_page_225_Picture_7.jpeg)
-
-## ![](_page_225_Picture_8.jpeg)
-
-## ![](_page_225_Picture_9.jpeg)
-
-## ![](_page_225_Picture_10.jpeg)
-
-## ![](_page_225_Picture_11.jpeg)
-
-## ![](_page_227_Picture_0.jpeg)
-
-## ![](_page_229_Picture_0.jpeg)
-
-## ![](_page_229_Picture_1.jpeg)
 
 Zoe didn't feel how she wanted to.
 
@@ -1381,7 +432,6 @@ Zoe was always looking for things that didn't quite make sense.
 
 Zoe was pretty unreasonable.
 
-## ![](_page_229_Picture_5.jpeg)
 
 Zoe wished someone could tell her what she was supposed to feel.
 
@@ -1389,27 +439,6 @@ What she was supposed to be saying.
 
 What she was supposed to want.
 
-## ![](_page_229_Picture_9.jpeg)
-
-## ![](_page_229_Picture_10.jpeg)
-
-## ![](_page_229_Picture_11.jpeg)
-
-## ![](_page_229_Picture_12.jpeg)
-
-## ![](_page_229_Picture_13.jpeg)
-
-## ![](_page_229_Picture_14.jpeg)
-
-## ![](_page_229_Picture_15.jpeg)
-
-## ![](_page_231_Picture_0.jpeg)
-
-## ![](_page_231_Picture_1.jpeg)
-
-## ![](_page_231_Picture_2.jpeg)
-
-## ![](_page_231_Picture_3.jpeg)
 
 LISTEN - YOURE
 SAD AND MILDLY
@@ -1418,21 +447,6 @@ YOU HAVE ANY IDEA
 HOW BIG OF A
 BASE THAT COVERS?
 
-## ![](_page_231_Picture_5.jpeg)
-
-## ![](_page_231_Picture_6.jpeg)
-
-## ![](_page_231_Picture_7.jpeg)
-
-## ![](_page_231_Picture_8.jpeg)
-
-## ![](_page_231_Picture_9.jpeg)
-
-## ![](_page_231_Picture_10.jpeg)
-
-## ![](_page_231_Picture_11.jpeg)
-
-## ![](_page_231_Picture_12.jpeg)
 
 ## ![](_page_233_Figure_0.jpeg)
 
@@ -1440,7 +454,6 @@ BASE THAT COVERS?
 
 The snow had begun falling days prior, and Zoe had an uncharacteristic spring in her step.
 
-## ![](_page_237_Picture_1.jpeg)
 
 She told herself it was because she was doing something equally uncharacteristic.
 
@@ -1448,59 +461,14 @@ She was taking life into her own hands.
 
 She could do whatever she wanted.
 
-## ![](_page_237_Picture_5.jpeg)
-
-## ![](_page_237_Picture_6.jpeg)
-
-## ![](_page_237_Picture_7.jpeg)
-
-## ![](_page_237_Picture_8.jpeg)
-
-## ![](_page_237_Picture_9.jpeg)
-
-## ![](_page_237_Picture_10.jpeg)
-
-## ![](_page_237_Picture_11.jpeg)
-
-## ![](_page_237_Picture_12.jpeg)
-
-## ![](_page_237_Picture_13.jpeg)
-
-## ![](_page_239_Picture_0.jpeg)
-
-## ![](_page_239_Picture_1.jpeg)
-
-## ![](_page_239_Picture_2.jpeg)
-
-## ![](_page_239_Picture_3.jpeg)
-
-## ![](_page_239_Picture_4.jpeg)
-
-## ![](_page_239_Picture_5.jpeg)
-
-## ![](_page_239_Picture_6.jpeg)
-
-## ![](_page_239_Picture_7.jpeg)
-
-## ![](_page_239_Picture_8.jpeg)
-
-## ![](_page_239_Picture_9.jpeg)
-
-## ![](_page_239_Picture_10.jpeg)
-
-## ![](_page_239_Picture_11.jpeg)
-
-## ![](_page_241_Picture_0.jpeg)
 
 11,
 
 ## Ullip
 
-## ![](_page_243_Picture_0.jpeg)
 
 For some reason, Zoe checked out of Room Boob at 2AM.
 
-## ![](_page_243_Picture_2.jpeg)
 
 She had never been to an airport by herself before. Maybe it was the delirium, but she was fascinated.
 
@@ -1512,33 +480,24 @@ What would had to have changed for them to not be in this moment?
 
 And why were all flight attendants attractive?
 
-## ![](_page_243_Picture_8.jpeg)
 
 Zoe started to think about what had brought her to this exact point in time. She was flying to the other side of the world to meet someone she would never have known if it wasn't for their art. She was starting to think it sounded pretty romantic.
 
-## ![](_page_243_Picture_10.jpeg)
-
-## ![](_page_243_Picture_11.jpeg)
 
 Maybe she was about to fall in love.
 
 Maybe everything would be okay.
 
-## ![](_page_243_Picture_14.jpeg)
 
 It was then that Zoe realised something.
 
 Like, really realised something.
 
-## ![](_page_245_Picture_0.jpeg)
-
-## ![](_page_247_Picture_0.jpeg)
 
 Zoe had never had to go through customs before.
 
 She found it strangely enjoyable.
 
-## ![](_page_247_Picture_3.jpeg)
 
 She had a changeover flight, which meant she had several stationary hours to think.
 
@@ -1550,103 +509,26 @@ She was all alone, and so far from home. But it felt right.
 
 That was until she discovered something truly terrible had happened.
 
-## ![](_page_247_Picture_9.jpeg)
 
 Zoe decided she would simply have to hide her face for the week.
 
-## ![](_page_247_Picture_11.jpeg)
-
-## ![](_page_247_Picture_12.jpeg)
 
 Yeah.
 
-## ![](_page_247_Picture_14.jpeg)
 
 Zoe decided she was going to fall in love.
 
-## ![](_page_249_Picture_0.jpeg)
-
-## ![](_page_249_Picture_1.jpeg)
-
-## ![](_page_249_Picture_2.jpeg)
-
-## ![](_page_249_Picture_3.jpeg)
-
-## ![](_page_249_Picture_4.jpeg)
 
 Zoe was considering how to communicate the deeply moving and profound thoughts she had been having over the past 48 hours.
 
-## ![](_page_249_Picture_6.jpeg)
-
-## ![](_page_249_Picture_7.jpeg)
-
-## ![](_page_249_Picture_8.jpeg)
-
-## ![](_page_249_Picture_9.jpeg)
 
 Once she had it in her mind, she decided to speak it.
 
 A sentence that was sure to strike love into the heart of anyone who'd hear it.
 
-## ![](_page_249_Picture_12.jpeg)
-
-## ![](_page_249_Picture_13.jpeg)
-
-## ![](_page_249_Picture_14.jpeg)
-
-## ![](_page_249_Picture_15.jpeg)
-
-## ![](_page_249_Picture_16.jpeg)
-
-## ![](_page_249_Picture_17.jpeg)
 
 Having a crush was the most mentally ill Zoe had ever felt.
 
-## ![](_page_249_Picture_19.jpeg)
-
-## ![](_page_249_Picture_20.jpeg)
-
-## ![](_page_251_Picture_0.jpeg)
-
-## ![](_page_251_Picture_1.jpeg)
-
-## ![](_page_251_Picture_2.jpeg)
-
-## ![](_page_251_Picture_3.jpeg)
-
-## ![](_page_251_Picture_4.jpeg)
-
-## ![](_page_251_Picture_5.jpeg)
-
-## ![](_page_251_Picture_6.jpeg)
-
-## ![](_page_251_Picture_7.jpeg)
-
-## ![](_page_251_Picture_8.jpeg)
-
-## ![](_page_251_Picture_9.jpeg)
-
-## ![](_page_251_Picture_10.jpeg)
-
-## ![](_page_251_Picture_11.jpeg)
-
-## ![](_page_253_Picture_0.jpeg)
-
-## ![](_page_255_Picture_0.jpeg)
-
-## ![](_page_255_Picture_1.jpeg)
-
-## ![](_page_255_Picture_2.jpeg)
-
-## ![](_page_255_Picture_3.jpeg)
-
-## ![](_page_255_Picture_4.jpeg)
-
-## ![](_page_255_Picture_5.jpeg)
-
-## ![](_page_255_Picture_6.jpeg)
-
-## ![](_page_255_Picture_7.jpeg)
 
 Zoe enjoyed how much you could piece together about a person based off the environment they build for themselves.
 
@@ -1658,27 +540,6 @@ She had neglected her own canvas.
 
 > And for what?
 
-## ![](_page_257_Picture_0.jpeg)
-
-## ![](_page_257_Picture_1.jpeg)
-
-## ![](_page_257_Picture_2.jpeg)
-
-## ![](_page_257_Picture_3.jpeg)
-
-## ![](_page_257_Picture_4.jpeg)
-
-## ![](_page_257_Picture_5.jpeg)
-
-## ![](_page_257_Picture_6.jpeg)
-
-## ![](_page_257_Picture_7.jpeg)
-
-## ![](_page_257_Picture_8.jpeg)
-
-## ![](_page_257_Picture_9.jpeg)
-
-## ![](_page_257_Picture_10.jpeg)
 
 # ZOE SAYS:
 
@@ -1686,29 +547,9 @@ She had neglected her own canvas.
 
 (But if you're reading a 23 year old's comic book in search of a moralistic role model then, what the hell, do drugs.)
 
-## ![](_page_259_Picture_0.jpeg)
-
-## ![](_page_259_Picture_1.jpeg)
-
-## ![](_page_259_Picture_2.jpeg)
-
-## ![](_page_259_Picture_3.jpeg)
-
-## ![](_page_259_Picture_4.jpeg)
-
-## ![](_page_259_Picture_5.jpeg)
-
-## ![](_page_259_Picture_6.jpeg)
-
-## ![](_page_259_Picture_7.jpeg)
 
 YOU ALREADY KNOW HOW THIS GOES.
 
-## ![](_page_261_Picture_0.jpeg)
-
-## ![](_page_263_Picture_0.jpeg)
-
-## ![](_page_267_Picture_0.jpeg)
 
 SHE'S WRITING,
 
@@ -1723,47 +564,6 @@ And it was. BUT YOU'RE CAUGHT, IN YOUR OWN GLORY, **YOU ARE BELIEVING** YOUR OWN
 YOU BON'T KNOW WHICH
 PAGE TO TURN TO:
 
-## ![](_page_271_Picture_0.jpeg)
-
-## ![](_page_273_Picture_0.jpeg)
-
-## ![](_page_273_Picture_1.jpeg)
-
-## ![](_page_273_Picture_2.jpeg)
-
-## ![](_page_273_Picture_3.jpeg)
-
-## ![](_page_273_Picture_4.jpeg)
-
-## ![](_page_273_Picture_5.jpeg)
-
-## ![](_page_273_Picture_6.jpeg)
-
-## ![](_page_273_Picture_7.jpeg)
-
-## ![](_page_273_Picture_8.jpeg)
-
-## ![](_page_273_Picture_9.jpeg)
-
-## ![](_page_273_Picture_10.jpeg)
-
-## ![](_page_273_Picture_11.jpeg)
-
-## ![](_page_275_Picture_0.jpeg)
-
-## ![](_page_275_Picture_1.jpeg)
-
-## ![](_page_275_Picture_2.jpeg)
-
-## ![](_page_275_Picture_3.jpeg)
-
-## ![](_page_275_Picture_4.jpeg)
-
-## ![](_page_275_Picture_5.jpeg)
-
-## ![](_page_275_Picture_6.jpeg)
-
-## ![](_page_275_Picture_7.jpeg)
 
 WELL... I GOTTA HEAR THAT.
 
@@ -1771,9 +571,6 @@ WELL... I GOTTA HEAR THAT.
 
 ## ![](_page_277_Figure_1.jpeg)
 
-## ![](_page_277_Picture_2.jpeg)
-
-## ![](_page_277_Picture_3.jpeg)
 
 ## ![](_page_277_Figure_4.jpeg)
 
@@ -1783,87 +580,16 @@ WELL... I GOTTA HEAR THAT.
 
 ## ![](_page_277_Figure_6.jpeg)
 
-## ![](_page_279_Picture_0.jpeg)
-
-## ![](_page_279_Picture_1.jpeg)
-
-## ![](_page_279_Picture_2.jpeg)
-
-## ![](_page_279_Picture_3.jpeg)
-
-## ![](_page_279_Picture_4.jpeg)
-
-## ![](_page_279_Picture_5.jpeg)
-
-## ![](_page_279_Picture_6.jpeg)
-
-## ![](_page_281_Picture_0.jpeg)
-
-## ![](_page_281_Picture_1.jpeg)
-
-## ![](_page_281_Picture_2.jpeg)
-
-## ![](_page_281_Picture_3.jpeg)
-
-## ![](_page_281_Picture_4.jpeg)
-
-## ![](_page_281_Picture_5.jpeg)
-
-## ![](_page_281_Picture_6.jpeg)
-
-## ![](_page_281_Picture_7.jpeg)
-
-## ![](_page_283_Picture_0.jpeg)
-
-## ![](_page_285_Picture_0.jpeg)
-
-## ![](_page_285_Picture_1.jpeg)
-
-## ![](_page_285_Picture_2.jpeg)
-
-## ![](_page_285_Picture_3.jpeg)
-
-## ![](_page_285_Picture_4.jpeg)
-
-## ![](_page_285_Picture_5.jpeg)
-
-## ![](_page_285_Picture_6.jpeg)
-
-## ![](_page_285_Picture_7.jpeg)
-
-## ![](_page_285_Picture_8.jpeg)
-
-## ![](_page_287_Picture_0.jpeg)
-
-## ![](_page_287_Picture_1.jpeg)
-
-## ![](_page_287_Picture_2.jpeg)
-
-## ![](_page_287_Picture_3.jpeg)
-
-## ![](_page_287_Picture_4.jpeg)
-
-## ![](_page_287_Picture_5.jpeg)
-
-## ![](_page_287_Picture_6.jpeg)
-
-## ![](_page_287_Picture_7.jpeg)
-
-## ![](_page_287_Picture_8.jpeg)
 
 # Zoe Thorogood is
 
 ## T
 
-## ![](_page_289_Picture_2.jpeg)
 
 ## Zoe Thorogood is a comic creator from
 
 ## Zoe Thorogood is a c
 
-## ![](_page_291_Picture_2.jpeg)
-
-## ![](_page_291_Picture_3.jpeg)
 
 ## Zoe Thorogood is a cartoonist and
 
@@ -1871,7 +597,6 @@ WELL... I GOTTA HEAR THAT.
 
 ## Zoe Thorogood is hadjfhsdjkfhdjs
 
-## ![](_page_291_Picture_7.jpeg)
 
 shjgfhjdgfhjdsf dsfjsdfdsfsdffd njjjjjjjjdsfgjhsdhgfjdsgfuydsfdsyhg
 
@@ -1879,9 +604,6 @@ shjgfhjdgfhjdsf dsfjsdfdsfsdffd njjjjjjjjdsfgjhsdhgfjdsgfuydsfdsyhg
 
 ## Zoe Thorogood is a liar
 
-## ![](_page_291_Picture_13.jpeg)
-
-## ![](_page_291_Picture_14.jpeg)
 
 ## Zoe Thorogood is not going to be remembered
 
@@ -1889,7 +611,6 @@ shjgfhjdgfhjdsf dsfjsdfdsfsdffd njjjjjjjjdsfgjhsdhgfjdsgfuydsfdsyhg
 
 ## Zoe Thorogood is suck
 
-## ![](_page_291_Picture_18.jpeg)
 
 ing her own dick
 
@@ -1897,55 +618,17 @@ ing her own dick
 
 ## Zoe Thorogood is going to die one day
 
-## ![](_page_291_Picture_22.jpeg)
-
-## ![](_page_291_Picture_23.jpeg)
-
-## ![](_page_293_Picture_0.jpeg)
-
-## ![](_page_295_Picture_0.jpeg)
-
-## ![](_page_297_Picture_0.jpeg)
-
-## ![](_page_299_Picture_0.jpeg)
-
-## ![](_page_301_Picture_0.jpeg)
-
-## ![](_page_301_Picture_1.jpeg)
-
-## ![](_page_301_Picture_2.jpeg)
-
-## ![](_page_301_Picture_3.jpeg)
-
-## ![](_page_301_Picture_4.jpeg)
 
 It was then that Zoe realised she was not the protagonist of her own rom-com.
 
 She was the teachable moment.
 
-## ![](_page_301_Picture_7.jpeg)
 
 Zoe couldn't hold back her laughter, she couldn't quite believe how quickly things were unraveling
 
-## ![](_page_301_Picture_9.jpeg)
-
-## ![](_page_301_Picture_10.jpeg)
-
-## ![](_page_301_Picture_11.jpeg)
 
 Haha.
 
-## ![](_page_303_Picture_0.jpeg)
-
-## ![](_page_303_Picture_1.jpeg)
-
-## ![](_page_303_Picture_2.jpeg)
-
-## ![](_page_303_Picture_3.jpeg)
-
-## ![](_page_303_Picture_4.jpeg)
-
-## ![](_page_303_Picture_5.jpeg)
 
 Zoe had never felt so out of place.
 
@@ -1953,121 +636,38 @@ The near empty house now held something that resembled a family.
 
 Of course, that's not what it was, but she could try to pretend.
 
-## ![](_page_303_Picture_9.jpeg)
-
-## ![](_page_303_Picture_10.jpeg)
 
 Zoe was always looking for things that didn't quite make sense.
 
 It only felt right if it was also slightly wrong.
 
-## ![](_page_303_Picture_13.jpeg)
 
 Like jigsaw pieces that didn't quite fit together but still made a pretty picture.
 
 He was spending a lot of time staring at the ceiling.
 
-## ![](_page_305_Picture_1.jpeg)
 
 And she was spending a lot of time staring at him.
 
-## ![](_page_305_Picture_3.jpeg)
 
 She knew his mind was elsewhere, wishing he was elsewhere.
 
 But for a few days, she wanted to pretend these were how things were supposed to be.
 
-## ![](_page_305_Picture_6.jpeg)
-
-## ![](_page_305_Picture_7.jpeg)
-
-## ![](_page_305_Picture_8.jpeg)
 
 Zoe felt guilty.
 
-## ![](_page_305_Picture_10.jpeg)
-
-## ![](_page_305_Picture_11.jpeg)
-
-## ![](_page_305_Picture_12.jpeg)
-
-## ![](_page_307_Picture_0.jpeg)
-
-## ![](_page_307_Picture_1.jpeg)
-
-## ![](_page_307_Picture_2.jpeg)
-
-## ![](_page_307_Picture_3.jpeg)
-
-## ![](_page_309_Picture_0.jpeg)
-
-## ![](_page_309_Picture_1.jpeg)
-
-## ![](_page_309_Picture_2.jpeg)
-
-## ![](_page_309_Picture_3.jpeg)
-
-## ![](_page_309_Picture_4.jpeg)
 
 At this point, Zoe was finding it difficult to romanticise the situation.
 
-## ![](_page_309_Picture_6.jpeg)
-
-## ![](_page_309_Picture_7.jpeg)
-
-## ![](_page_309_Picture_8.jpeg)
-
-## ![](_page_309_Picture_9.jpeg)
-
-## ![](_page_309_Picture_10.jpeg)
 
 Zoe could publicly and shamelessly discuss intimate thoughts regarding death and suicide.
 
 But when it came to sex and love... Well, she just couldn't.
 
-## ![](_page_311_Picture_0.jpeg)
-
-## ![](_page_311_Picture_1.jpeg)
-
-## ![](_page_311_Picture_2.jpeg)
-
-## ![](_page_311_Picture_3.jpeg)
-
-## ![](_page_311_Picture_4.jpeg)
-
-## ![](_page_311_Picture_5.jpeg)
-
-## ![](_page_311_Picture_6.jpeg)
-
-## ![](_page_311_Picture_7.jpeg)
-
-## ![](_page_311_Picture_8.jpeg)
-
-## ![](_page_311_Picture_9.jpeg)
-
-## ![](_page_311_Picture_10.jpeg)
-
-## ![](_page_311_Picture_11.jpeg)
 
 ## ![](_page_313_Figure_0.jpeg)
 
-## ![](_page_313_Picture_1.jpeg)
-
-## ![](_page_313_Picture_2.jpeg)
-
-## ![](_page_313_Picture_3.jpeg)
-
-## ![](_page_313_Picture_4.jpeg)
-
-## ![](_page_313_Picture_5.jpeg)
-
-## ![](_page_313_Picture_6.jpeg)
-
-## ![](_page_313_Picture_7.jpeg)
-
-## ![](_page_313_Picture_8.jpeg)
-
-## ![](_page_313_Picture_9.jpeg)
 
 ## ![](_page_315_Figure_0.jpeg)
 
@@ -2079,39 +679,9 @@ But when it came to sex and love... Well, she just couldn't.
 
 ## ![](_page_315_Figure_4.jpeg)
 
-## ![](_page_315_Picture_5.jpeg)
-
-## ![](_page_315_Picture_6.jpeg)
-
-## ![](_page_315_Picture_7.jpeg)
-
-## ![](_page_315_Picture_8.jpeg)
-
-## ![](_page_315_Picture_9.jpeg)
-
-## ![](_page_315_Picture_10.jpeg)
-
-## ![](_page_315_Picture_11.jpeg)
-
-## ![](_page_317_Picture_0.jpeg)
-
-## ![](_page_319_Picture_0.jpeg)
-
-## ![](_page_321_Picture_0.jpeg)
-
-## ![](_page_321_Picture_1.jpeg)
 
 Zoe didn't believe that, and neither did he.
 
-## ![](_page_321_Picture_3.jpeg)
-
-## ![](_page_321_Picture_4.jpeg)
-
-## ![](_page_321_Picture_5.jpeg)
-
-## ![](_page_321_Picture_6.jpeg)
-
-## ![](_page_321_Picture_7.jpeg)
 
 ## ![](_page_323_Figure_0.jpeg)
 
@@ -2119,69 +689,42 @@ Zoe didn't believe that, and neither did he.
 
 ## ![](_page_323_Figure_2.jpeg)
 
-## ![](_page_323_Picture_3.jpeg)
 
 ## ![](_page_323_Figure_4.jpeg)
 
-## ![](_page_323_Picture_5.jpeg)
-
-## ![](_page_323_Picture_6.jpeg)
-
-## ![](_page_323_Picture_7.jpeg)
-
-## ![](_page_323_Picture_8.jpeg)
 
 Autobios can be placed into one of two categories-
 
 Masturbation, or menstruation.
 
-## ![](_page_325_Picture_2.jpeg)
 
 UCK FUCK FUCK FUCK FUCK UCK FUCK FUCK FUCK FUCK UCK FUCK FUCK FUCK FUCK FUC UCK FUCK FUCK FUCK FUCK UCK FUCK FUCK FUCK FUCK FUCK UCK FUCK FUCK FUCK FUCK FUC FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK VICK ENCK ENCK ENCK ENCK FUCK FUCK FUCK FUCK FUCK UCK FUCK FUCK FUCK FUCK FUCK UCK FUCK FUCK FUCK FUC K FUC FUCK FUCK FUCK FUCK FUCK UCK FUCK FUCK FUCK FUCK FUC FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUC UCK FUCK FUCK FUCK FUCK FUC
 
 Zoe wished that she, and everyone else on the plane, and everyone on Earth- would die.
 
-## ![](_page_325_Picture_5.jpeg)
 
 She could ask a flight attendant for a pad- but how could she, a 23 year old woman, let anyone know she had a normal bodily function?
 
-## ![](_page_325_Picture_7.jpeg)
-
-## ![](_page_325_Picture_8.jpeg)
 
 Zoe was kept awake the whole eight hours of her flight by the harmonic cries of the five babies placed around her in a vaguely pentagramic arrangement.
 
-## ![](_page_325_Picture_10.jpeg)
-
-## ![](_page_325_Picture_11.jpeg)
-
-## ![](_page_325_Picture_12.jpeg)
 
 Eighteen hours into her journey home, Zoe decided that being alone was awesome.
 
 No one could leave her, and she couldn't hurt anyone.
 
-## ![](_page_327_Picture_3.jpeg)
 
 Humans aren't built for love anyway.
 
-## ![](_page_327_Picture_5.jpeg)
-
-## ![](_page_327_Picture_6.jpeg)
 
 They're way too unforgiving for that.
 
-## ![](_page_327_Picture_8.jpeg)
 
 Zoe had forgotten her one basic truth.
 
-## ![](_page_327_Picture_10.jpeg)
-
-## ![](_page_327_Picture_11.jpeg)
 
 She could do anything on the page.
 
-## ![](_page_327_Picture_13.jpeg)
 
 ZOE OPENED HER EYES, SHE LOOKED AROUND, NOTICING SHE WAS BACK IN HER APARTMENT. AFTER A SHORT MOMENT OF CONFUSION SHE HAD A SUDDEN REALISATION.
 
@@ -2193,31 +736,11 @@ ZOE NODDED TO HERSELF. "Of course.", SHE MUTTERED, A GRATEFUL SMILE APPEARING ON
 
 ## THE END
 
-## ![](_page_331_Picture_0.jpeg)
-
-## ![](_page_333_Picture_0.jpeg)
 
 ## ![](_page_333_Figure_1.jpeg)
 
 ## ![](_page_333_Figure_2.jpeg)
 
-## ![](_page_333_Picture_3.jpeg)
-
-## ![](_page_333_Picture_4.jpeg)
-
-## ![](_page_333_Picture_5.jpeg)
-
-## ![](_page_333_Picture_6.jpeg)
-
-## ![](_page_333_Picture_7.jpeg)
-
-## ![](_page_333_Picture_8.jpeg)
-
-## ![](_page_335_Picture_0.jpeg)
-
-## ![](_page_335_Picture_1.jpeg)
-
-## ![](_page_335_Picture_2.jpeg)
 
 ## GAMES
 
@@ -2235,119 +758,19 @@ ZOE NODDED TO HERSELF. "Of course.", SHE MUTTERED, A GRATEFUL SMILE APPEARING ON
 
 ## POWER OFF
 
-## ![](_page_335_Picture_11.jpeg)
-
-## ![](_page_337_Picture_0.jpeg)
-
-## ![](_page_337_Picture_1.jpeg)
-
-## ![](_page_337_Picture_2.jpeg)
-
-## ![](_page_337_Picture_3.jpeg)
-
-## ![](_page_337_Picture_4.jpeg)
-
-## ![](_page_337_Picture_5.jpeg)
-
-## ![](_page_337_Picture_6.jpeg)
-
-## ![](_page_337_Picture_7.jpeg)
-
-## ![](_page_337_Picture_8.jpeg)
-
-## ![](_page_337_Picture_9.jpeg)
-
-## ![](_page_337_Picture_10.jpeg)
-
-## ![](_page_337_Picture_11.jpeg)
-
-## ![](_page_339_Picture_0.jpeg)
 
 ## ![](_page_341_Figure_0.jpeg)
 
 ## ![](_page_343_Figure_0.jpeg)
 
-## ![](_page_345_Picture_0.jpeg)
-
-## ![](_page_347_Picture_0.jpeg)
-
-## ![](_page_349_Picture_0.jpeg)
-
-## ![](_page_351_Picture_0.jpeg)
-
-## ![](_page_351_Picture_1.jpeg)
 
 You want to know why you can't be happy?
 
 YOU. DON'T. WANT. TO. BE.
 
-## ![](_page_353_Picture_0.jpeg)
-
-## ![](_page_355_Picture_0.jpeg)
-
-## ![](_page_355_Picture_1.jpeg)
-
-## ![](_page_355_Picture_2.jpeg)
-
-## ![](_page_355_Picture_3.jpeg)
-
-## ![](_page_355_Picture_4.jpeg)
-
-## ![](_page_355_Picture_5.jpeg)
-
-## ![](_page_355_Picture_6.jpeg)
-
-## ![](_page_355_Picture_7.jpeg)
-
-## ![](_page_355_Picture_8.jpeg)
-
-## ![](_page_357_Picture_0.jpeg)
-
-## ![](_page_357_Picture_1.jpeg)
-
-## ![](_page_357_Picture_2.jpeg)
-
-## ![](_page_357_Picture_3.jpeg)
-
-## ![](_page_357_Picture_4.jpeg)
-
-## ![](_page_357_Picture_5.jpeg)
-
-## ![](_page_357_Picture_6.jpeg)
-
-## ![](_page_357_Picture_7.jpeg)
-
-## ![](_page_357_Picture_8.jpeg)
-
-## ![](_page_359_Picture_0.jpeg)
-
-## ![](_page_359_Picture_1.jpeg)
-
-## ![](_page_359_Picture_2.jpeg)
-
-## ![](_page_359_Picture_3.jpeg)
-
-## ![](_page_359_Picture_4.jpeg)
-
-## ![](_page_359_Picture_5.jpeg)
-
-## ![](_page_359_Picture_6.jpeg)
 
 STORY? WHAT STORY?
 
-## ![](_page_361_Picture_0.jpeg)
-
-## ![](_page_363_Picture_0.jpeg)
-
-## ![](_page_365_Picture_0.jpeg)
-
-## ![](_page_365_Picture_1.jpeg)
-
-## ![](_page_365_Picture_2.jpeg)
-
-## ![](_page_365_Picture_3.jpeg)
-
-## ![](_page_367_Picture_0.jpeg)
 
 A CONLY PLACE?
 
@@ -2355,59 +778,46 @@ A CONLY PLACE?
 
 # IT'S LONELY AT THE CENTRE OF THE EARTH
 
-## ![](_page_369_Picture_3.jpeg)
 
 ## BUT I'M TRYING NOT TO LIVE THERE ANYMORE
 
-## ![](_page_369_Picture_5.jpeg)
 
 I'll be honest with you.
 
 I'm writing this months later, with the hope that if these are the last words that I write, then I can be satisfied. One more selfish act I guess.
 
-## ![](_page_371_Picture_2.jpeg)
 
 Loneliness makes it hard to see the bigger picture. It makes you self-obsessed; not out of narcissism but because your own self is all you have. Your flaws, quirks, regrets, and mistakes begin to engulf you.
 
 Your own self begins to overshadow that bigger picture, but there is always a bigger picture.
 
-## ![](_page_371_Picture_5.jpeg)
 
 There are some things I'll never understand- my reason for being, if anything truly 'matters', or how much mac n' cheese I can reasonably eat.
 
 But if you could ask God for the answers, would his response make you happy?
 
-## ![](_page_371_Picture_8.jpeg)
 
 And for the record- no one is simply 'happy', it's a temporary state of being that comes and goes, just like pain.
 
-## ![](_page_371_Picture_10.jpeg)
 
 Maybe the purpose of life is to make bad art, maybe it's getting your heart broken over and over again, maybe it's being left, being found, maybe life is just about those good fuckin' sandwiches.
 
 I don't know. I'm just a cartoonist.
 
-## ![](_page_373_Picture_0.jpeg)
 
 I can't change my brain chemistry, but I can change how I choose to interact with the world around me.
 
-## ![](_page_373_Picture_3.jpeg)
 
 I'm slowly starting to realise that when my brain proposes suicide, what it really means is it wants to go someplace else, where it can exist formless and free, where time flows differently and things make sense.
 
-## ![](_page_373_Picture_5.jpeg)
 
 Life is merely a collection of good and bad experiences loosely held together by the void in between- and that void is your space to mold, a space to harness and create in.
 
 Just be careful not to get stuck there.
 
-## ![](_page_373_Picture_8.jpeg)
 
 I used to think my art didn't matter until it was published, but I was so wrong.
 
-## ![](_page_373_Picture_10.jpeg)
-
-## ![](_page_375_Picture_0.jpeg)
 
 ## ![](_page_377_Figure_0.jpeg)
 
@@ -2415,9 +825,6 @@ I used to think my art didn't matter until it was published, but I was so wrong.
 
 Cartoonist Zoe Thorogood records six months of her own life as it falls apart in a desperate attempt to put it back together again in the only way she knows how. IT'S LONELY AT THE CENTRE OF THE EARTH is an intimate and metanarrative look into the life of a selfish artist who must create for her own survival.
 
-## ![](_page_383_Picture_2.jpeg)
-
-## ![](_page_383_Picture_3.jpeg)
 
 # Table of Contents
 - Page 31

@@ -38,7 +38,6 @@ Res, comrades, res. All he omorrows are yours!
 
 ## The Anarchist Library Anti-Copyright
 
-## ![](_page_2_Picture_1.jpeg)
 
 Lucy E. Parsons The Haymarket Martyrs November 1926
 

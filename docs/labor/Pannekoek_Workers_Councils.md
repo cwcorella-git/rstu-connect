@@ -9,7 +9,6 @@ tags:
   - workers
 ---
 
-## ![](_page_0_Picture_1.jpeg)
 
 "An urgent message to the future - are we listening?
 - from the most brilliant theoretician of
@@ -45,7 +44,6 @@ Library of Congress Cataloging-in-Publication Data A catalog record for this tit
 
 ## Printed in Canada
 
-## ![](_page_2_Picture_11.jpeg)
 
 #### TABLE OF CONTENTS
 
@@ -1557,7 +1555,6 @@ At the end of the first world war world revolution seemed ncar; the working clas
 
 A century ago, when the workers were a small class of downtrodden helpless individuals, the call was heard: proletarians of all countries unite! You have nothing to lose but your chains; you have a world to win. Since then they have b ecome the largest class; and they have'united; but only imperfectly. Only in groups, smaller or larger, not yet as one class-unity. Only superficially, in outer forms, not yet in deep essence. And still they have nothing to lose but their chains ; what else they have they cannot lose by fighting, only by timidly submiting. And the world to be won begins to be perceived dimly. At that time no clear goal, for which to unite, could be depicted; so their organizations in the end became tools of capitalism. Now the goal becomes distinct; opposite to the stronger domination by state-directed planned economy of the new capitalism stands what Marx called the association of free and equal producers. So the call for unity must be supplemented by indication of the goal: take the factories and machines ; assert your mastery over the productive apparatus; organize production by means of workers' councils.
 
-## ![](_page_242_Picture_0.jpeg)
 
 ### Further Reading (Compiled by Robert F. Barsky)
 

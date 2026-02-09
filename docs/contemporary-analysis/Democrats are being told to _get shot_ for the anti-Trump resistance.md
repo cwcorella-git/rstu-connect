@@ -10,9 +10,6 @@ tags:
 
 ## Andrew Solender
 
-5–6 minutes
-
-## ![](_page_0_Picture_6.jpeg)
 
 House Democrats speak at a press conference on the steps of the U. S. Capitol ahead of votes on the "One Big, Beautiful Bill" on July 2. Photo: Jim Watson/AFP via Getty Images
 

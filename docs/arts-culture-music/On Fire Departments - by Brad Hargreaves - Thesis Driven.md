@@ -10,9 +10,6 @@ tags:
 
 ## Brad Hargreaves
 
-17–22 minutes
-
-## ![](_page_0_Picture_6.jpeg)
 
 Firefighters hold a special place in American culture. Rushing bravely into danger, leading Memorial Day parades, saving stuck cats, and—lately—doing their best to stop American cities from enacting policies to make roads safer and housing more affordable.
 
@@ -41,9 +38,6 @@ In the aggregate, street safety advocates refer to these engineering interventio
 
 The benefits of this kind of design aren't limited to safety: they bring us closer to the kind of urban design many of us crave. The most in-demand neighborhoods in our most in-demand cities feature a mix of uses—sidewalk cafes, housing, schools, workspaces, and more—on a human scale, with narrower streets and minimal setbacks. Places like Beacon Hill in Boston, the West Village of Manhattan, and Georgetown, DC see extraordinary demand and eye-watering rents.
 
-## ![](_page_3_Picture_5.jpeg)
-
-## ![](_page_4_Picture_2.jpeg)
 
 ## Beacon Hill, Boston, MA
 
@@ -134,7 +128,6 @@ While I don't know what the right balance is here, it's a reasonable discussion 
 
 American fire trucks are big—much bigger than the trucks of our European and Asian counterparts. This makes it challenging for American trucks to navigate narrow streets, tight corners, bulb-outs, and other staples of road diets. Unsurprisingly, this becomes a significant part of the argument for why American cities can't have those things, and streets should instead be designed to move large vehicles as fast and efficiently as possible.
 
-## ![](_page_12_Picture_3.jpeg)
 
 ## A smaller, more maneuverable European fire truck
 

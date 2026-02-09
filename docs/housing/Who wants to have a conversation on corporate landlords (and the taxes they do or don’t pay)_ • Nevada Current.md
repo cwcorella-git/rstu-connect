@@ -1,7 +1,5 @@
 ---
-title: >-
-  Who wants to have a conversation on corporate landlords (and the taxes they do
-  or don’t pay) • Nevada Current
+title: "Who wants to have a conversation on corporate landlords (and the taxes they do or don’t pay) • Nevada Current"
 author: Nevada Current
 date: '2023'
 category: housing

@@ -9,7 +9,6 @@ tags:
   - wikipedia
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 The **Lumad** are a group of [Austronesian](https://en.wikipedia.org/wiki/Austronesian_peoples) [indigenous peoples](https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Philippines) in the southern [Philippines](https://en.wikipedia.org/wiki/Philippines). It is a [Cebuano](https://en.wikipedia.org/wiki/Cebuano_language) term meaning 'native' or 'indigenous'. The term is short for **Katawhang Lumad** (lit. 'indigenous people'), the [autonym](https://en.wikipedia.org/wiki/Autonym_(semantics)) officially adopted by the delegates of the Lumad Mindanao Peoples Federation (LMPF) founding assembly on 26 June 1986 at the Guadalupe Formation Center, Balindog, [Kidapawan,](https://en.wikipedia.org/wiki/Kidapawan) [Cotabato.](https://en.wikipedia.org/wiki/Cotabato) [\[1\]](#page-8-0) Usage of the term was accepted in Philippine jurisprudence when [President](https://en.wikipedia.org/wiki/President_of_the_Philippines) [Corazon Aquino](https://en.wikipedia.org/wiki/Corazon_Aquino) signed into law [Republic Act 6734](https://en.wikipedia.org/wiki/Autonomous_Region_in_Muslim_Mindanao), where the word was used in Art. XIII sec. 8(2) to distinguish Lumad ethnic communities from the islands of [Mindanao.](https://en.wikipedia.org/wiki/Mindanao) [\[2\]](#page-8-1)
 
@@ -27,7 +26,6 @@ On 2 March 2021, the [National Commission on Indigenous Peoples](https://en.wiki
 
 ## **Lumad peoples**
 
-## ![](_page_0_Picture_10.jpeg)
 
 Women in traditional [Manobo](https://en.wikipedia.org/wiki/Manobo_people) attire during the [Kaamulan](https://en.wikipedia.org/wiki/Kaamulan_Festival) Festival of [Bukidnon](https://en.wikipedia.org/wiki/Bukidnon).
 
@@ -47,7 +45,6 @@ Christianity (Roman [Catholic](https://en.wikipedia.org/wiki/Catholic_Church_in_
 
 [Sama-Bajau](https://en.wikipedia.org/wiki/Sama-Bajau), [Moro,](https://en.wikipedia.org/wiki/Moro_people) [Visayans](https://en.wikipedia.org/wiki/Visayans), [Filipinos,](https://en.wikipedia.org/wiki/Filipinos) other [Austronesian](https://en.wikipedia.org/wiki/Austronesian_people) peoples
 
-## ![](_page_0_Picture_20.jpeg)
 
 The Bagobo people in their traditional attire (c. 1913)
 
@@ -77,11 +74,9 @@ The Bukidnon people believe in one god, Magbabaya ('Ruler of All'), though there
 
 The Bukidnon Lumad is distinct from and should not be confused with the [Visayan](https://en.wikipedia.org/wiki/Visayans) [Suludnon](https://en.wikipedia.org/wiki/Suludnon) people of [Panay](https://en.wikipedia.org/wiki/Panay) and a few indigenous peoples scattered in the Visayas area who are also alternatively referred to as "Bukidnon" (also meaning 'highland people').
 
-## ![](_page_1_Picture_12.jpeg)
 
 ## Map of Lumad in Mindanao Islands
 
-## ![](_page_1_Picture_14.jpeg)
 
 The colorful [Kaamulan](https://en.wikipedia.org/wiki/Kaamulan) Festival celebrated annually in [Malaybalay](https://en.wikipedia.org/wiki/Malaybalay) City, [Bukidnon.](https://en.wikipedia.org/wiki/Bukidnon)
 
@@ -132,7 +127,6 @@ The political system of the Mamanwas is informally democratic and age-structured
 
 #### **Mandaya**
 
-![](_page_3_Picture_1.jpeg)
 
 A hat from the Mandaya people made up of palm, bamboo, feathers, cotton, fiber, and beads, housed at the [Honolulu](https://en.wikipedia.org/wiki/Honolulu_Museum_of_Art) [Museum](https://en.wikipedia.org/wiki/Honolulu_Museum_of_Art) of Art.
 
@@ -150,11 +144,9 @@ The geographical distribution of the subgroups is so great that some of the loca
 
 The Manobo possess [Denisovan](https://en.wikipedia.org/wiki/Denisovan) admixture, much like the Mamanwa.[\[31\]](#page-10-5) Manobos also hold [Austroasiatic](https://en.wikipedia.org/wiki/Austroasiatic_languages) ancestry. [\[36\]](#page-10-10)
 
-## ![](_page_3_Picture_11.jpeg)
 
 A Bagobo (Manobo) woman of the [Matigsalug](https://en.wikipedia.org/wiki/Matigsalug) people from [Davao.](https://en.wikipedia.org/wiki/Davao_City)
 
-## ![](_page_3_Picture_13.jpeg)
 
 Datu Manib, a *bagani* of the Bagobo, with family, followers, and two missionaries (c. 1900).
 
@@ -176,7 +168,6 @@ The Subanons are the first settlers of the Zamboanga Peninsula and Misamis Occid
 
 History has better words to speak for Misamis Occidental. Its principal city was originally populated by the Subanon, a cultural group that once roamed the seas in great number; the province was an easy prey to the marauding sea pirates of Lanao whose habit were to stage lightning forays along the coastal areas in search of slaves. As the Subanon retreated deeper and deeper into the interior, the coastal areas became home to inhabitants from Bukidnon who were steadily followed by settlers from nearby Cebu and Bohol.
 
-## ![](_page_4_Picture_5.jpeg)
 
 The Subanon people of Misamis
 Occidental living in the mountains of
@@ -206,7 +197,6 @@ The Teduray people live in the municipalities of Datu Blah T. Sinsuat, Upi in Ma
 
 The [Tboli](https://en.wikipedia.org/wiki/Tboli_people) are one of the indigenous peoples of South Mindanao. From the body of ethnographic and linguistic literature on Mindanao, they are variously known as Tboli, Teboli, Tau Bilil, Tau Bulul or Tagabilil. They self-identify as T'boli. Their whereabouts and identity are to some extent confused in the literature; some publications present the Teboli and the Tagabilil as distinct peoples; some locate the Tbolis to the vicinity of the Buluan Lake in the Cotabato Basin or in Agusan del Norte. The T'boli, then, reside on the mountain slopes on either side of the upper Allah Valley and the coastal area of Maitum, Maasim, and Kiamba. In former times, the T'boli also inhabited the upper Allah Valley floor.
 
-## ![](_page_5_Picture_2.jpeg)
 
 A Tboli dance performed during colorful street dancing competition on the Tnalak Festival in [Koronadal](https://en.wikipedia.org/wiki/Koronadal), South [Cotabato.](https://en.wikipedia.org/wiki/South_Cotabato)
 
@@ -248,7 +238,6 @@ At the beginning of the 20th century, the Lumad controlled an area that now cove
 
 Lumad have a traditional concept of land ownership based on what their communities consider their ancestral territories. The historian B. R. Rodil notes that "a territory occupied by a community is a communal private property, and community members have the right of usufruct to any piece of unoccupied land within the communal territory." Ancestral lands include cultivated land as well as hunting grounds, rivers, forests, uncultivated land, and the mineral resources below the land. River systems indicate the Lumad people's generations of civilization. Water is used as a "hermeneutic" for how Lumads orient themselves in relation to other ethnic groups, the state, modern Filipino culture, and their own cultural customs.[\[63\]](#page-11-15) Unlike the [Moros,](https://en.wikipedia.org/wiki/Moro_people) the Lumad groups never formed a revolutionary group to
 
-## ![](_page_6_Picture_2.jpeg)
 
 Norma Capuyan, vice chair of Apo Sandawa Lumadnong Panaghiusa sa Cotabato (ASLPC) speaking out in a press conference to defend the ancestral domains of the Lumad unite them in [armed struggle](https://en.wikipedia.org/wiki/Armed_struggle) against the Philippine government. When the migrants came, many Lumad groups retreated into the mountains and forests.
 

@@ -12,7 +12,6 @@ tags:
 
 ## JASON STANLEY
 
-## ![](_page_1_Picture_0.jpeg)
 
 ## ![](_page_2_Figure_0.jpeg)
 
@@ -1124,7 +1123,6 @@ JASON STANLEY is the Jacob Urowsky Professor of Philosophy at Yale University. S
 
 ## Twitter: @jasonintrator
 
-## ![](_page_136_Picture_0.jpeg)
 
 # What's next on your reading list?
 

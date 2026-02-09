@@ -12,7 +12,6 @@ tags:
 
 ## American Experience
 
-15–18 minutes
 
 After the Civil War, the United States entered a new phase of industrialization. Railroad magnates began to consolidate and expand railroad lines around the country. Factories needed raw material to power their increasingly mechanized production lines. Andrew Carnegie adopted ideas about vertical integration -- owning each stage of the steelmaking process so that he might control the quality and profit from start to finish. Both U. S.-born and immigrants from all over the world took dangerous jobs for low pay.
 
@@ -20,7 +19,6 @@ As the pace of industrialization quickened, and profits accumulated in the hands
 
 # punctuated by violent struggle between labor and management.
 
-## ![](_page_1_Picture_3.jpeg)
 
 ## Martinsburg, WV, July 16, 1877, PD
 
@@ -40,7 +38,6 @@ A day after a union action in support of the eight-hour workday results in sever
 
 The Knights of Labor Trade Assembly No. 135 and the National Progressive Miners Union combine to create the United Mine Workers of America (UMWA). The goal of the new union is to develop mine safety, to provide miners with collective bargaining power, and to decrease miners' dependence on the mine owners.
 
-## ![](_page_2_Picture_6.jpeg)
 
 Striker hides behind a shield during the Homestead Strike, PD
 
@@ -74,7 +71,6 @@ Miners in eastern Pennsylvania strike for shorter workdays, higher wages, and re
 
 West Virginia coal miners strike, both in sympathy for the miners in Pennsylvania and with the stated goal of achieving union recognition in West Virginia.
 
-## ![](_page_4_Picture_9.jpeg)
 
 Strikers facing off with militia in Lawrence, MA, PD
 
@@ -114,7 +110,6 @@ Police officers in Boston, Massachusetts strike for better working conditions, h
 
 The U. S. Army takes control of Gary, Indiana, and martial law is declared after steelworkers clash with police. The steelworkers are on strike to secure the right to hold union meetings. Although 365,000 steelworkers participate nationwide, the Great Steel Strike of 1919 is defeated.
 
-## ![](_page_7_Picture_5.jpeg)
 
 Miners line up for strike relief in Matewan, May 1920, Coutesy: WV State Archives, Coal Life Collection
 
@@ -136,7 +131,6 @@ West Virginia miners prepare to march toward Mingo County to assist men imprison
 
 Don Chafin, his men, and the West Virginia State Police oppose the marching miners.
 
-## ![](_page_9_Picture_3.jpeg)
 
 Fred Mooney (left) and Frank Keeney (right), Courtesy: WV State Archives, Coal Life Collection
 
@@ -170,7 +164,6 @@ Newly-elected President franklin D. Roosevelt signs the National Industrial Reco
 
 A series of sit-down strikes begins at a Goodyear Tire plant in Akron, Ohio when workers sit down at their usual workstations. Management is reluctant to attack the workers for fear of damaging company property.
 
-## ![](_page_11_Picture_5.jpeg)
 
 The Chicago Memorial Day Incident, Courtesy: National Archives
 
@@ -184,7 +177,6 @@ A strike begins at the Allis-Chalmers Manufacturing Company plant in Milwaukee, 
 
 On April 4, the Washington Post editorial board states, "this strike has degenerated into virtual war against the government, and should be regarded as such." President Roosevelt intervenes and the strike is resolved by the newly created National Defense Mediation Board.
 
-## ![](_page_12_Picture_4.jpeg)
 
 President Harry Truman, Courtesy: National Archives
 

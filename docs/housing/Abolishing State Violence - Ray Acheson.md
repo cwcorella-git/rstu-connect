@@ -15,13 +15,11 @@ tags:
 
 ## A WORLD BEYOND BOMBS, BORDERS, AND CAGES
 
-## ![](_page_3_Picture_0.jpeg)
 
 # *A World Beyond Bombs, Borders, and Cages*
 
 ## Ray Acheson
 
-## ![](_page_4_Picture_3.jpeg)
 
 #### © 2022 Ray Acheson
 
@@ -39,9 +37,6 @@ Cover design by David Gee.
 
 Library of Congress Cataloging-in-Publication data is available.
 
-## ![](_page_5_Picture_8.jpeg)
-
-## ![](_page_5_Picture_9.jpeg)
 
 *for all the abolitionists, past, present, and future*
 
@@ -5435,7 +5430,6 @@ Ziadah, Rafeef, 260
 Zuboff, Shoshana, 74
 # About the Author
 
-## ![](_page_378_Picture_1.jpeg)
 
 Ray Acheson is director of disarmament at the Women's International League for Peace and Freedom and a steering group member of the International Campaign to Abolish Nuclear Weapons, which was awarded the Nobel Peace Prize in 2017 for its work to highlight the humanitarian impacts of nuclear weapons and work with governments to develop the Treaty on the Prohibition of Nuclear Weapons. Acheson is the author of *Banning the Bomb, Smashing the Patriarchy.*
 
@@ -5461,6 +5455,4 @@ Abolition is transformative. It is about defunding, demilitarizing, disbanding, 
 
 **RAY ACHESON** is director of disarmament at the Women's International League for Peace and Freedom and a steering group member of the International Campaign to Abolish Nuclear Weapons, which was awarded the Nobel Peace Prize in 2017.
 
-## ![](_page_380_Picture_7.jpeg)
 
-## ![](_page_380_Picture_8.jpeg)

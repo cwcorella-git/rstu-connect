@@ -72,7 +72,6 @@ Throughout his works, Goodman's success as a writer is in the clear and lucid wa
 
 ## The Anarchist Library Anti-Copyright
 
-## ![](_page_4_Picture_1.jpeg)
 
 Paul Comeau Redrawing The Line: The Anarchist Writings of Paul Goodman Spring, 2012
 

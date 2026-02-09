@@ -9,7 +9,6 @@ tags:
   - wikipedia
 ---
 
-## ![](_page_0_Picture_2.jpeg)
 
 The **New Brandeis** or **neo-Brandeis movement** is an [antitrust](https://en.wikipedia.org/wiki/Competition_law) academic and political movement in the [United States](https://en.wikipedia.org/wiki/United_States) which argues that excessively centralized private power is dangerous for [economical,](https://en.wikipedia.org/wiki/Economical) [political](https://en.wikipedia.org/wiki/Politics) and social reasons[.\[1\]](#page-3-0)[\[2\]](#page-3-1) Initially called **hipster antitrust** by its detractors, also referred to as the "Columbia school" or "Neo-Progressive antitrust," the movement advocates that [United States antitrust law](https://en.wikipedia.org/wiki/United_States_antitrust_law) return to a broader concern with private power and its negative effects on [market](https://en.wikipedia.org/wiki/Competition_(economics)) [competition,](https://en.wikipedia.org/wiki/Competition_(economics)) [income inequality,](https://en.wikipedia.org/wiki/Income_inequality) [consumer rights,](https://en.wikipedia.org/wiki/Consumer_protection) [unemployment,](https://en.wikipedia.org/wiki/Unemployment) and [wage growth.](https://en.wikipedia.org/wiki/Real_wages)
 
@@ -17,7 +16,6 @@ The movement draws inspiration from the anti-monopolist work of [Louis Brandeis,
 
 The New Brandeis movement opposes the school of thought in modern antitrust law that antitrust should center on customer welfare (as generally advocated by the [Chicago school of](https://en.wikipedia.org/wiki/Chicago_school_of_economics) [economics\)](https://en.wikipedia.org/wiki/Chicago_school_of_economics). Instead, the New Brandeis movement advocates a
 
-## ![](_page_0_Picture_7.jpeg)
 
 [Louis Brandeis](https://en.wikipedia.org/wiki/Louis_Brandeis) (1856–1941)
 
@@ -49,7 +47,6 @@ In the 2010s, the New Brandeis theory was popularized by legal scholars [Lina Kh
 
 Wu published *The Curse of Bigness: Antitrust in the New Golden Age* in 2018, which
 
-## ![](_page_2_Picture_5.jpeg)
 
 criticized antitrust's drift from its historic origins, introduced Brandeis' life and ideals, and advocated a return a more decentralized economy. [\[33\]](#page-6-7) In 2019 Khan, Wu and others released a "Utah Statement" written at antimonopoly conference meant as a codification of the movements' main principles[.\[34\]](#page-6-8)[\[35\]](#page-6-9)
 

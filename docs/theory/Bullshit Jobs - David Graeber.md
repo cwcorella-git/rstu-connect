@@ -10,7 +10,6 @@ tags:
 
 ## INTERNATIONAL BESTSELLING AUTHOR OF DEBT
 
-## ![](_page_0_Picture_2.jpeg)
 
 ## A THEORY
 
@@ -35,11 +34,9 @@ tags:
 'Spectacular and terrifyingly true'
 ## Owen Jones
 
-## ![](_page_2_Picture_1.jpeg)
 
 # David Graeber
 
-## ![](_page_2_Picture_3.jpeg)
 
 # Bullshit Jobs
 
@@ -2414,7 +2411,6 @@ F igure 8 . 1 Creation of Course Prole/ Syllabus (M anagerial)
 
 F igure 8 . 2 Creation of Course Prole/ Syllabus (N on- M anagerial)
 
-## ![](_page_194_Picture_2.jpeg)
 
 ## F igure 8 . 3 Creation of Ex am (M anagerial)
 
@@ -2582,7 +2578,6 @@ I think I should also thank Megan Laws, the indefatigable LSE anthropology gradu
 
 # About the Author
 
-## ![](_page_211_Picture_1.jpeg)
 
 ## © MARI JAN MURAT
 
@@ -2594,11 +2589,6 @@ M E E T THE AU THORS , W ATC H V IDE OS AN D M ORE AT
 
 ## Authors. S imonandS chuster.com/ David- Graeber
 
-## ![](_page_211_Picture_7.jpeg)
-
-## ![](_page_211_Picture_8.jpeg)
-
-## ![](_page_211_Picture_9.jpeg)
 
 @ simonbooks
 
@@ -3353,7 +3343,6 @@ Sons,
 - Williams, Eric. Capitalism and Slavery. New York: Capricorn Books, 1966.
 - Wood, Ellen Meiksins. The Origins of Capitalism: A Longer View. London: Verso, 2002.
 
-## ![](_page_244_Picture_0.jpeg)
 
 ## Simon & Schuster
 

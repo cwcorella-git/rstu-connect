@@ -68,7 +68,6 @@ Until the killing of Black men, Black mothers' sons, becomes as important to the
 
 - Ella Baker
 
-## ![](_page_5_Picture_2.jpeg)
 
 As this report was being written, tens of thousands were marching on streets across the world shouting "I cannot breathe!"; "No justice, no peace!"; "Black lives matter!"; and "Hands up, don't shoot." These are the cries of people exhausted and enraged by a global pandemic that has taken a deadly toll on people of color while videos capture African Americans being killed by law enforcement and former law enforcement officers. After the deaths of Ahmaud Arbery and Breonna Taylor, watching a police officer nonchalantly kneel on George Floyd's neck for nine minutes proved too much to bear.
 
@@ -80,7 +79,6 @@ is report seeks to provide an updated overview of the subject with particular at
 
 ## Race and the Death Penalty rough U. S. History
 
-## ![](_page_7_Picture_1.jpeg)
 
 #### Capital Punishment in the Colonial and Antebellum Period
 
@@ -96,7 +94,6 @@ Southern states in the pre-Civil War period made distinctions between oenses bas
 
 Dierent punishment for rape depending on the race of the victim was common in slave states. e death penalty for rape was applied overwhelmingly against Black defendants in cases involving charges of raping a white person. While the rape of a white
 
-## ![](_page_9_Picture_0.jpeg)
 
 ## Library of Congress—1934
 
@@ -104,11 +101,9 @@ Angola State Farm: created as a slave plantation and transformed into a prison a
 
 Race also aected how authorities carried out executions. In the colonies and early America, most people were executed by hanging, but Black people were vulnerable to more severe and gruesome punishments. Slave rebellions were seen as "petit treason" and punished in ways designed to send a strong deterrent message. In response to slave rebellions, murder, arson, or other crimes against white people, African Americans were burned at the stake, broken on wheels, gibbeted, decapitated, and dismembered.7
 
-## ![](_page_9_Picture_5.jpeg)
 
 [A slave] is a person and also property. As property, the rights of the owner are entitled to the protection of the law. As a person, he is bound to obey the law, and may, like any other person, be punished if he offends against it ...
 
-## ![](_page_9_Picture_7.jpeg)
 
 — U. S. Supreme Court Chief Justice Roger Taney, in his role as Circuit Justice, rejecting defense counsel's argument that an enslaved woman could not be prosecuted for a federal crime
 
@@ -144,7 +139,6 @@ In 1908, racial violence in Springeld, Illinois, took the lives of two innocent 
 
 During the "Red Summer" of 1919, violence erupted throughout the South, targeting African-American soldiers returning from World War I and communities organizing for civil and economic rights. Phillips County, Arkansas, was the location of one of the most devastating attacks. In September 1919, Black
 
-## ![](_page_13_Picture_1.jpeg)
 
 e wreckage after white mobs destroyed the houses of the black residents of Rosewood, Florida sharecroppers met in a church in Elaine, Arkansas to plan a strategy to advocate for fair compensation for their labor. When news of this meeting got out, armed white men surrounded the church and began ring into it. e Black sharecroppers returned re, and one white man was killed in the ensuing chaos. e governor called on locally stationed soldiers to "round up" the Black sharecroppers whose actions were framed as an insurrection and gave the soldiers license to kill. e soldiers, working with local vigilantes, slaughtered 200 or more African-American men, women, and children. Five white people were killed during the massacre.22
 
@@ -156,7 +150,6 @@ The Red Summer of 1919 was particularly violent, but instances of mass racial te
 
 Black section of Rosewood. As was often the case, the violence began with an allegation that a Black man had raped a white woman.25
 
-## ![](_page_14_Picture_3.jpeg)
 
 Black Wall Street in flames during the Tulsa Race Massacre
 
@@ -176,7 +169,6 @@ when their masters were in the army, and their families left unprotected except 
 
 What is to be done? e crime of rape is always horrible, but (sic) the Southern man there is nothing which so lls the soul with horror, loathing and fury as the outraging of a white woman by a Negro. It is the race question in the ugliest, vilest, most dangerous aspect. e Negro as a political factor can be controlled. But neither laws nor lynchings can subdue his lusts. Sooner or later it will force a crisis. We do not know in what form it will come.27
 
-## ![](_page_16_Picture_0.jpeg)
 
 ## SOUTHERN HORRORS LYNCH LAW IN ALL ITS PHASES
 
@@ -186,7 +178,6 @@ Despite organized anti-lynching campaigns and expressions of disapproval from th
 
 Capital Punishment as an Acceptable Alternative to Lynchings
 
-## ![](_page_17_Picture_1.jpeg)
 
 ## Lynchings of Black Victims Between 1883 and 1940
 
@@ -194,7 +185,6 @@ Public discussion about lynchings highlighted the connection between non-officia
 
 For interactive visualizations about race and the death penalty, visit the Death Penalty Information Center's website at deathpenaltyinfo.org
 
-## ![](_page_18_Picture_0.jpeg)
 
 #### Executions of Black Defendants Between 1972 and 2020
 
@@ -202,7 +192,6 @@ Following an 1890 lynching in Colorado, the *Rocky Mountain Daily News* called f
 
 In 1914, a Shreveport, Louisiana paper expressed a similar sentiment about the prospect of abolition: "We are having suggestions from some of the newspapers of the State that Louisiana follow the lead of a few other States and abolish the death penalty. . . . Would not one result be to increase the number of lynchings? . . . Would the murderer be permitted to reach State prison in safety from the vengeance of an outraged citizenship, there to plan to elude the guards at the first opportunity?" 37
 
-## ![](_page_19_Picture_1.jpeg)
 
 ## e 1893 lynching of Henry Smith in Paris, Texas
 
@@ -210,7 +199,6 @@ Many lynchings took place under cover of darkness with a few people capturing an
 
 ese public lynchings were often indistinguishable in appearance from legally sanctioned executions. In the North, public executions fell into disfavor in the 1800s, with many states banning the practice before the Civil War. In the South, executions remained public events well into the 20th century, with the last public execution taking place in Kentucky in 1936.
 
-## ![](_page_20_Picture_0.jpeg)
 
 The 1936 execution of Rainey Bethea in Owensboro, Kentucky
 
@@ -249,7 +237,6 @@ At the same time that LDF was pursuing a courtroom strategy to dismantle Jim Cro
 
 LDF's approach to death penalty cases eventually broadened to defending people of all races based on a belief that the only way to eradicate racial injustice from capital punishment would be to end the death penalty entirely. e organization's legal campaign contributed to a slowing and eventual halt of executions in the 1960s.51
 
-## ![](_page_22_Picture_3.jpeg)
 
 ## Emmett Till and his mother Mamie Till Mobley
 
@@ -289,7 +276,6 @@ e *Mc Cleskey* decision was a serious blow to challenging racial discrimination 
 
 ## Beyond Black and White: Race, Ethnicity, Sovereignty, and the History of the Death Penalty
 
-## ![](_page_27_Picture_1.jpeg)
 
 Mass execution of thirty-eight Dakota men in Minnesota on December 26, 1862
 
@@ -319,7 +305,6 @@ We don't expect federal ocials to understand our strongly held traditions of cla
 
 —Statement of Navajo Nation President Jonathan Nez and Vice President Myron Lizer on the execution of Lezmond Mitchell
 
-## ![](_page_30_Picture_1.jpeg)
 
 Artist's depiction of the 1851 hanging of Josefa Loaiza
 
@@ -341,7 +326,6 @@ Discussions surrounding the impact of victim race on criminal punishment have le
 
 — Frank Baumgartner et al., *Deadly Justice: A Statistical Portrait of the Death Penalty* 73 (2017)
 
-## ![](_page_32_Picture_3.jpeg)
 
 e modern era of the death penalty began in 1972 with more than two decades of rising numbers of death sentences and executions, but the last twenty years have seen a signicant decline in the use of capital punishment. Of the twenty-two states without the death penalty, ten have abolished it in the 21st century, and three states currently have ocial moratoria on executions. 89erefore, half of all U. S. states have abolished the death penalty or now prohibit executions.
 
@@ -413,13 +397,11 @@ Structural racism and implicit and explicit bias influence decisions made from t
 
 Implicit racial bias and America's history of anti-Black racism has a striking cumulative effect in death penalty cases. Researchers have found that, at the cognitive level, Americans connect the concept of retribution with Black people and the concepts of mercy and leniency with white people: they actually
 
-## ![](_page_39_Picture_4.jpeg)
 
 Capital punishment is supposed to be reserved for those who commit the 'worst of the worst' crimes. Instead, as a result of bias, prejudice and racism, it is disproportionality reserved for those charged with killing white victims.
 
 — Alexis Hoag, Valuing Black Lives: A Case for Ending the Death Penalty, 51 Colum. Hum. Rts. L. Rev. 985, 989 (2020)
 
-## ![](_page_39_Picture_7.jpeg)
 
 ### The Long Shadow of Lynching Over Today's Death Penalty
 
@@ -515,7 +497,6 @@ Flowers' case is extreme only because of the sheer number of trials; it is not u
 
 A recent review of California *Batson* cases reveals similar treatment of jury discrimination. Between 1989 and 2019, the California Supreme Court granted relief in only three of the 142 *Batson* cases that came before it, a reversal rate of 2.1%. 171 The California courts of appeal had a similarly low rate of reversal, finding *Batson* error in only 2.6% of cases between 2006 and 2018. 172 This does not mean that California prosecutors scrupulously adhere to fair jury selection practices. Between 1993 and 2019, the United States Court of Appeals for the Ninth Circuit found *Batson* error in 15% of California cases in which the issue was raised. 173 The gulf between the reversal rates in California courts and the Ninth Circuit is striking given the deferential standard that federal courts apply to the review of state criminal cases.
 
-## ![](_page_47_Picture_0.jpeg)
 
 ## *Abu-Ali Abdur'Rahman*
 
@@ -541,11 +522,9 @@ Most capital defense practitioners are white, and they are often appointed to de
 
 Evidence of defense counsel's overt bias has arisen in cases across the country. Curtis Osborne was represented at trial by Johnny Mostiler, a Georgia defense lawyer who told a white client "that little n\*\*\*er deserves the chair." Osborne's attorney conducted no mitigation investigation, failing to uncover and present readily available evidence of Osborne's mental illness and at least three generations of mental illness in Osborne's family.185 Osborne was executed in 2008.186 In Maricopa County, Arizona, defense lawyer Nathaniel Carr—who has represented four clients sentenced to death—wrote that his possibly intellectually disabled client "looks like a killer, not a ret\*\*d." 187
 
-## ![](_page_49_Picture_1.jpeg)
 
 While representing Curtis Osborne, Georgia defense lawyer Johnny Mostiler said "that little n\*\*\*er deserves the chair."
 
-## ![](_page_50_Picture_0.jpeg)
 
 # *Rocky Myers*
 
@@ -565,9 +544,6 @@ Race can act as a silent aggravating factor, putting a thumb on the scale in fav
 
 Philadelphia data also demonstrates how the race of the victim can impair the jury's consideration of mitigating evidence. Pennsylvania law requires the jury to impose the death penalty if it nds any aggravating circumstances and no mitigating circumstances. A study of more than two decades of Philadelphia capital trials found that the odds that a jury would reject all mitigating evidence and impose a mandatory death sentence were 4.3 times greater if the victim was white.194
 
-## ![](_page_52_Picture_0.jpeg)
-
-## ![](_page_52_Picture_1.jpeg)
 
 Examples from Jennifer Eberhardt et al., *Looking Deathworthy: Perceived Stereotypicality of Black Defendants Predicts Capital-Sentencing Outcomes* (2006)
 
@@ -597,7 +573,6 @@ e race-of-victim disparities that appear elsewhere in the administration of the 
 
 Marcellus Williams' case follows a familiar pattern. Williams was sentenced to death in 2001 for stabbing a white woman more than twenty times. St. Louis, Missouri prosecutors, who had a history of excluding African Americans from juries, struck six of the seven Black prospective jurors. In the end, Williams was tried by eleven white jurors and one African-American juror.210 Williams was represented by an attorney who admitted he was unprepared for trial.211 No physical evidence or eyewitness linked Williams to the crime, and the prosecution's case relied on the testimony of two unreliable witnesses. Fifteen years after his conviction, new DNA testing showed that Williams' DNA was not on the murder weapon. Despite this evidence, the state went ahead with plans to execute Williams. His execution was only halted by the last-minute intervention of Missouri's governor who convened a Board of Inquiry to review the case.212 Williams remains on death row.
 
-## ![](_page_55_Picture_0.jpeg)
 
 # *Pervis Payne*
 
@@ -698,7 +673,6 @@ were people of color,243 BLM Los Angeles published "Jackie Lacey's Seven Deadly 
 
 e issues that ignited the Black Lives Matter movement have captivated national attention again. In May 2020, public outrage exploded following a series of killings of Black people with no response from local authorities and no indication that their white assailants would be held accountable. While jogging in his Georgia neighborhood, Ahmaud Arbery was murdered by a former law enforcement ocer who claimed he was trying to conduct a citizen's arrest. Arbery's killer went free for months and was arrested only after public pressure mounted following the release of a videotape of the murder. 245 Breonna Taylor was shot and killed by Louisville police who broke her door down while serving a no-knock warrant when the target of their investigation had already been taken into custody across town. Taylor was home in bed when police used a battering ram to enter her apartment.246 Finally, George Floyd was killed by a police ocer
 
-## ![](_page_64_Picture_0.jpeg)
 
 kneeling on his neck for eight minutes and forty-six seconds. Floyd lay immobilized on the ground and repeatedly told police that he could not breathe.247 In the days and weeks after video of Floyd's death went viral, hundreds of thousands joined protests across the world.248 Much of the discussion following these protests has focused on not just ending police violence but also confronting larger issues of racial injustice. e Oklahoma City chapter of Black Lives Matter demanded action on a range of policing issues and also called for the release of Julius Jones. Jones is a Black Oklahoma City man on death row with strong claims of innocence who has unsuccessfully challenged racial bias in the Oklahoma death penalty and at his own trial.249
 
@@ -712,7 +686,6 @@ Black people killed by police were 1.3 times more likely to be unarmed than whit
 
 Black people have been 28% of those killed by police since 2013 even though only 13% of the population is Black.250
 
-## ![](_page_65_Picture_0.jpeg)
 
 ## *Julius Jones*
 
@@ -730,7 +703,6 @@ Racial disparities in the death penalty go hand in hand with geographic disparit
 
 The role of prosecutorial discretion in the geographically isolated use of the death penalty cannot be overstated. A study of capital charging in Georgia between 1993 and 2000 showed a wide variation in
 
-## ![](_page_66_Picture_4.jpeg)
 
 1994 campaign ad for Oklahoma County DA "Cowboy Bob" Macy touting "44 Murderers Put on Death Row"
 
@@ -738,7 +710,6 @@ whether prosecutors would pursue the death penalty against a defendant accused o
 
 #### Philadelphia: Race, Prosecution, and Death Sentencing
 
-## ![](_page_67_Picture_1.jpeg)
 
 Anti-slavery activists renamed Philadelphia, Pennsylvania's state house bell "the Liberty Bell," and it became a beloved international symbol of freedom. e city is well known as the home of many prominent slavery abolitionists, but it also has a long history of racial discrimination and segregation.
 
@@ -750,7 +721,6 @@ Racial discrimination in jury selection unquestionably contributed to this surge
 
 As discussed in DPIC's 1998 report *e Death Penalty in Black and White*, a study of Philadelphia death sentences imposed between 1983 and 1993 found that when controlling for the seriousness of the oense and other non-racial factors, African Americans were much more likely to be sentenced to death than similarly situated white defendants.268 e odds that a Black defendant would be sentenced to death were three times greater than for other capitally charged defendants, nine times greater than for other defendants convicted of capital murder, nine times greater than for capitally-convicted defendants, and nearly 30 times greater in cases in which juries had found aggravating and mitigating evidence and had discretion to impose either a life sentence or a death sentence.269
 
-## ![](_page_69_Picture_0.jpeg)
 
 Of the 46 defendants sentenced to death in Philadelphia since 1997, 44 have been people of color.
 
@@ -762,7 +732,6 @@ In-depth local analyses have highlighted the connections between prosecutors' ov
 
 Hamilton County is also one of the top 2% of counties responsible for the majority of U. S. executions, and it is the county that has produced the most Ohio executions in the modern era. 278 Hamilton County Prosecutor Joe Deters has been in oce for twenty-two of the past twenty-eight years and has aggressively pursued the death penalty. Deters even suggested a return to the ring squad at times when lethal injection concerns put Ohio executions on hold. 279 In a sign of changed times, he is currently facing an election challenge from an opponent who has vowed not to use the death penalty280 and and Deters now asserts "I do not seek the death penalty often."281
 
-## ![](_page_70_Picture_3.jpeg)
 
 Confederate ag and memorial outside Caddo Parish Courthouse, Shreveport, Louisiana, 2010
 
@@ -778,9 +747,6 @@ Overly aggressive use of capital punishment has appeared hand-in-hand with other
 
 We may now be watching things change. A new generation of prosecutors, elected across the country on a platform of criminal justice reform, are taking a "smart on crime" approach to criminal justice policies instead of the tough on crime policies of their predecessors. e new prosecutors ran on platforms of reducing incarceration, ending cash bail and "the criminalization of poverty," promoting police and prosecutorial accountability, and reducing reliance on harsh punishments, including the death penalty.294 Between 2015 and 2018, voters replaced county prosecutors in a third of the U. S. counties with the largest county death rows.295 Many of these new prosecutors have either explicitly decided never to pursue the death penalty or to reduce the use of this punishment. ey have provided a number of justications for these positions, including the high cost of the death penalty, the lack of deterrent eect, and the racial disparities endemic in the death penalty. e reform-prosecutor movement has had a direct impact on the declining use of capital punishment across the country.
 
-## ![](_page_72_Picture_1.jpeg)
-
-## ![](_page_72_Picture_2.jpeg)
 
 I have given this issue extensive, painstaking thought and consideration. *...*[W]hile I do have discretion to pursue death sentences, I have determined that doing so is not in the best interests of this community or in the best interests of justice."
 
@@ -788,7 +754,6 @@ I have given this issue extensive, painstaking thought and consideration. *...*[
 
 ## Conclusion
 
-## ![](_page_73_Picture_1.jpeg)
 
 ## *REUTERS / Stephen Lam - stock.adobe.com*
 
@@ -1330,7 +1295,6 @@ Supporting Petitioner at 10, *Kennedy v. Louisiana*, 554 U. S. 407 (2008) (citin
 
 e Death Penalty Information Center is a national non-prot organization serving the media and the public with analysis and information on issues concerning capital punishment. Founded in 1990, DPIC promotes informed discussion of the death penalty by preparing in-depth reports, conducting briengs for journalists, and serving as a resource to those working on this issue. DPIC is funded through the generosity of individual donors and foundations, including the Roderick Mac Arthur Justice Center; the Open Society Foundations; the Proteus Action League; the emis Fund; the Tides Foundation; M. Quinn Delaney; and the Vital Projects Fund.
 
-## ![](_page_87_Picture_1.jpeg)
 
 Death Penalty Information Center Washington, D. C. www.deathpenaltyinfo.org
 

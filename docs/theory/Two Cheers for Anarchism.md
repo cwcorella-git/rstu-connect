@@ -95,7 +95,6 @@ Fragment 29: The Politics of Historical Misrepresentation
 
 #### **Acknowledgments**
 
-## ![](_page_1_Picture_9.jpeg)
 
 ## **Preface**
 
@@ -225,7 +224,6 @@ The stunt, aided by the heady atmosphere in the two years following the breach i
 
 A monument to desertion poses something of a conceptual and aesthetic challenge. A few of the monuments erected to deserters throughout Germany were of lasting artistic value, and one, by Hannah Stuetz Menzel, at Ulm, at least managed to suggest the contagion that such high-stakes acts of disobedience can potentially inspire (fig. 1.1).
 
-## ![](_page_14_Picture_2.jpeg)
 
 **Figure 1.1. Memorial for the Unknown Deserter, by Mehmet Aksoy, Potsdam. Photograph courtesy of Volker Moerbitz, Monterey Institute of International Studies**
 
@@ -303,7 +301,6 @@ He paused slightly longer.
 
 A flock of "Yeses" was coming back at him when suddenly the individual responses dissolved into a rising cheer and applause exploded beneath that cheer—all within the space of a second. The startling noise rolled on and on, like a wave that refused to break, and just when it seemed that the roar must finally weaken, a wall of sound came in from the enormous crowd outdoors to push the volume still higher. Thunder seemed to be added to the lower register—the sound of feet stomping on the wooden floor—until the loudness became something that was not so much heard as sensed by vibrations in the lungs. The giant cloud of noise shook the building and refused to go away. One sentence had set it loose somehow, pushing the call-and-response of the Negro church past the din of a political rally and on to something else that King had never known before. There was a rabbit of enormous proportions in those bushes. As the noise finally fell back, King's voice rose above it to fire again. "There comes a time, my friends, when people get tired of being thrown across the abyss of humiliation, when they experience the bleakness of nagging despair," he declared. "There comes a time when people get tired of getting pushed out of the glittering sunlight of life's July, and left standing amidst the piercing chill of an Alpine November. There—" King was making a new run, but the crowd drowned him out. No one could tell whether the roar came in response to the nerve he had touched or simply out of pride in the speaker from whose tongue such rhetoric rolled so easily. "We are here—we are here because we are tired now," King repeated [fig. 1.2].[\[8\]](#page-85-5)[\[9\]](#page-85-6)
 
-## ![](_page_24_Picture_2.jpeg)
 
 **Figure 1.2. Dr. Martin Luther King, Jr., delivering his last sermon, Memphis, Tennessee, April 3, 1968. Photograph from blackpast.org**
 
@@ -353,7 +350,6 @@ Where such schemes run into trouble, sometimes catastrophic trouble, is when the
 
 The troubles that have plagued "scientific" forestry, invented in the German lands in the late eighteenth century, and some forms of plantation agriculture typify the encounter. Wanting to maximize revenue from the sale of firewood and lumber from domain forests, the originators of scientific forestry reasoned that, depending on the soil, either the Norway spruce or the Scotch pine would provide the maximum cubic meters of timber per hectare. To this end, they clear-cut mixed forests and planted a single species simultaneously and in straight rows (as with row crops). They aimed at a forest that was easy to inspect, could be felled at a given time, and would produce a uniform log from a standardized tree (the Normalbaum). For a while—nearly an entire century—it worked brilliantly. Then it faltered. It turned out that the first rotation had apparently profited from the accumulated soil capital of the mixed forest it had replaced without replenishment. The single-species forest was above all a veritable feast for the pests, rusts, scales, and blights that specialized in attacking the Scotch pine or the Norway spruce. A forest of trees all the same age was also far more susceptible to catastrophic storm and wind damage. In an effort to simplify the forest as a one-commodity machine, scientific forestry had radically reduced its diversity. The lack of tree species diversity was replicated at every level in this stripped-down forest: in the poverty of insect species, of birds, of mammals, of lichen, of mosses, of fungi, of flora in general. The planners had created a green desert, and nature had struck back. In little more than a century, the successors of those who had made scientific forestry famous in turn made the terms "forest death" (Waldsterben) and "restoration forestry" equally famous (fig. 2.1).
 
-## ![](_page_30_Picture_5.jpeg)
 
 **Figure 2.1. Scientific forest, Lithuania. Photograph © Alfas Pliura**
 
@@ -407,9 +403,6 @@ Not only were the methods sustainable, the yields compared favorably with the yi
 
 Edgar Anderson, a botanist interested in the history of maize in Central America, stumbled across a peasant garden in Guatemala that demonstrated how apparent visual disorder could be the key to a finely tuned working order. Walking by it on his way to the fields of maize each day, he at first took it to be an overgrown, vegetable dump heap. Only when he saw someone working in it did he realize that it was not just a garden but a brilliantly conceived garden despite, or rather because of, its visual disorder from a Western gardening perspective. I cannot do better than to quote him at length about the logic behind the garden and reproduce his diagrams of its layout (fig. 2.2).
 
-## ![](_page_37_Picture_2.jpeg)
-
-## ![](_page_37_Picture_3.jpeg)
 
 **Figure 2.2. Edgar Anderson's drawings for the Vernacular Garden, Guatemala. (a) Above An orchard garden. (b) Right Detailed glyphs identifying the plants and their categories in the garden. Reprinted from Plants, Man, and Life, by Edgar Anderson, published by the University of California Press; reprinted with permission of the University of California Press**
 
@@ -449,7 +442,6 @@ The runaway success of the "adventure playground" at Emdrup led to efforts to em
 
 Minneapolis, other "building playgrounds" in Denmark itself, and "Robinson Crusoe" playgrounds in Switzerland, where children were given the tools to make their own sculptures and gardens (fig. 3.1).
 
-## ![](_page_41_Picture_3.jpeg)
 
 **Figure 3.1. Playground constructions, Emdrup, Denmark. Photograph © Tim R. Gill**
 
@@ -465,7 +457,6 @@ The test of openness is the degree to which the activity or institution—its fo
 
 A brief example comparing war memorials may be helpful. The Vietnam Memorial in Washington, D. C., is surely one of the most successful war memorials ever built, if one is to judge from the quantity and intensity of the visits it receives. Designed by Maya Lin, the memorial consists simply of a gently undulating site marked (not dominated) by a long, low, black marble wall listing the names of the fallen. The names are deliberately not listed alphabetically or by military unit or rank but rather chronologically, in the order in which they fell—thus grouping those who fell on the same day and often in the same engagement. No larger claim is made about the war either in prose or in sculpture—a muteness that is not surprising, in view of the stark political cleavages the war still inspires. What is most remarkable, however, is the way the Vietnam Memorial works for those who visit it, particularly those who come to honor a comrade or loved one. They must first search out the name they seek; then they typically run their fingers over the name incised on the wall, make rubbings, and leave artifacts and mementos of their own—everything from poems, a woman's high-heeled shoe, or a glass of champagne to a full-house, aces-high, poker hand. So many of these tributes have been left that a separate museum has been created to house them. The scene of many people together at the wall, touching the names of particular loved ones who fell in the same war, has moved observers regardless of their position on the war itself.
 
-## ![](_page_43_Picture_3.jpeg)
 
 **Figure 3.2. Vietnam Memorial, Washington, D. C. Photograph © Lee Bennett, Jr. / www. ATPM.com**
 
@@ -473,7 +464,6 @@ I believe that a great part of the memorial's symbolic power is its capacity to 
 
 We may compare the Vietnam Memorial to a very different American war memorial: the sculpture depicting the raising of the American flag on the summit of Mount Suribachi on Iwo Jima in World War II. Moving in its own right, referring as it does to the final moment of a victory gained at an enormous cost in lives, the Iwo Jima statue is manifestly heroic. Its patriotism, symbolized by the flag, its theme of conquest, its larger-than-life scale, and its implicit theme of unity in victory leave little room for the viewer to add anything. Given the virtual unanimity with which that war is viewed in the United States, it is hardly surprising that the Iwo Jima Memorial should be monumental and explicit. Although not exactly "canned," the Iwo Jima Memorial is more symbolically self-sufficient, as are most war memorials. Visitors can stand in awe, gazing on an image that through photographs and sculpture has become an icon of the war in the Pacific, but they receive its message rather than complete it (fig. 3.3).
 
-## ![](_page_44_Picture_3.jpeg)
 
 **Figure 3.3. Iwo Jima Memorial, Washington, D. C. Photograph by Dennis@visitingDC.com**
 
@@ -863,7 +853,6 @@ Revolutions and social movements are, then, typically confected by a plurality o
 
 The visual depiction of order and discipline is a staple of authoritarian stagecraft. Amid rural famine, urban hunger, and growing flight to the Chinese border, Kim Jong-Il managed to stage massive parades with tens of thousands of participants in a tableau meant to suggest a united populace moving in unison to the baton of the "Dear Leader" (fig. 6.1).
 
-## ![](_page_83_Picture_5.jpeg)
 
 **Figure 6.1. North Korean military parade. Photograph © Reuters**
 

@@ -1423,7 +1423,6 @@ The long revolution is creating small federated microsocieties, true guerilla ce
 
 #### The Anarchist Library Anti-Copyright
 
-## ![](_page_112_Picture_1.jpeg)
 
 Raoul Vaneigem The Revolution of Everyday Life 1963–1965
 

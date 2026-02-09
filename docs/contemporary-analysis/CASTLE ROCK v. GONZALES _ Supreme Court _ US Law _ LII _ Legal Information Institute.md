@@ -9,7 +9,6 @@ tags:
 
 #### [law.cornell.edu](https://www.law.cornell.edu/supremecourt/text/04-278)
 
-92–117 minutes
 
 ### **Syllabus**
 

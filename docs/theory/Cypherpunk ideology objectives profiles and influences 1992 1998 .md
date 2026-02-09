@@ -6,9 +6,6 @@ tags:
   - theory
 ---
 
-## ![](_page_0_Picture_0.jpeg)
-
-## ![](_page_0_Picture_2.jpeg)
 
 ## **Digital Technology, Culture and Society**
 
@@ -33,11 +30,6 @@ Group |
 | View Crossmark data |
 ## | Citing articles: 11 View citing articles |
 
-## ![](_page_1_Picture_1.jpeg)
-
-## ![](_page_1_Picture_2.jpeg)
-
-## ![](_page_1_Picture_3.jpeg)
 
 # **Cypherpunk ideology: objectives, profiles, and influences (1992–1998)**
 
@@ -451,7 +443,6 @@ Zinn, H. (1980\). *A people's history of the United States*. Harper Collins Publ
 
 Anonymous Poster. (1996, November 19). Netscape. MessageID: '199607251435. KAA20861@jekyll. piermont.com'. 20 July 1996. Cypherpunk Mail List Archives 1992-1998.
 
-## ![](_page_25_Picture_2.jpeg)
 
 - Assange, J. (1996, May 12). Again: [hrdware] anti-Tempest video settings. MessageID: '199605120351. NAA01349@suburbia.net'. Cypherpunk Mail List Archives 1992-1998.
 - Bell, J. (1996, July 24). Re: Netscape. MessageID: '199607232310. QAA29698@mail.pacifier.com'. Cypherpunk Mail List Archives 1992-1998.

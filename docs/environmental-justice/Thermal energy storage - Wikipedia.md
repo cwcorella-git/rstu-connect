@@ -8,7 +8,6 @@ tags:
   - climate
 ---
 
-## ![](_page_0_Picture_2.jpeg)
 
 (Redirected from [Thermal battery\)](https://en.wikipedia.org/w/index.php?title=Thermal_battery&redirect=no)
 
@@ -16,7 +15,6 @@ Thermal energy storage (TES) is the storage of [thermal energy](https://en.wikip
 
 Other sources of thermal energy for storage include heat or cold produced with [heat pumps](https://en.wikipedia.org/wiki/Heat_pump) from off-peak, lower cost electric power, a practice called [peak shaving;](https://en.wikipedia.org/wiki/Peak_shaving) heat from combined heat and power (CHP) power plants; heat produced by renewable electrical energy that exceeds grid demand and [waste heat](https://en.wikipedia.org/wiki/Waste_heat) from industrial processes. Heat storage, both seasonal and short term, is considered an important means for cheaply balancing high shares of variable [renewable electricity](https://en.wikipedia.org/wiki/Renewable_energy) production and integration of electricity and heating sectors in energy systems almost or [completely fed](https://en.wikipedia.org/wiki/100%25_renewable_energy) by renewable energy.[\[6\]](https://en.wikipedia.org/wiki/Thermal_energy_storage#cite_note-6)[\[7\]](https://en.wikipedia.org/wiki/Thermal_energy_storage#cite_note-7)[\[8\]](https://en.wikipedia.org/wiki/Thermal_energy_storage#cite_note-8)[\[9\]](https://en.wikipedia.org/wiki/Thermal_energy_storage#cite_note-9)
 
-## ![](_page_0_Picture_7.jpeg)
 
 District heating accumulation tower from Theiss near [Krems](https://en.wikipedia.org/wiki/Krems_an_der_Donau) [an der Donau](https://en.wikipedia.org/wiki/Krems_an_der_Donau) in [Lower Austria](https://en.wikipedia.org/wiki/Lower_Austria) with a thermal capacity of 2 GWh
 
@@ -40,11 +38,9 @@ The salt melts at 131 °C (268 °F). It is kept liquid at 288 °C (550 °F) in a
 
 A single tank with a divider plate to separate cold and hot molten salt is under development[.\[16\]](https://en.wikipedia.org/wiki/Thermal_energy_storage#cite_note-16) It is more economical by achieving 100% more heat storage per unit volume over the dual tanks system as the molten-
 
-## ![](_page_1_Picture_8.jpeg)
 
 Thermal energy storage tower inaugurated in 2017 in [Bozen-](https://en.wikipedia.org/wiki/Bozen)[Bolzano,](https://en.wikipedia.org/wiki/Bozen) [South Tyrol,](https://en.wikipedia.org/wiki/South_Tyrol) Italy.
 
-## ![](_page_1_Picture_10.jpeg)
 
 Construction of the salt tanks at the [Solana Generating Station,](https://en.wikipedia.org/wiki/Solana_Generating_Station) which provide thermal energy storage to allow generation during night or peak demand.[\[1\]](https://en.wikipedia.org/wiki/Thermal_energy_storage#cite_note-1) [\[2\]](https://en.wikipedia.org/wiki/Thermal_energy_storage#cite_note-2) The 280 MW plant is designed to provide six hours of energy storage. This allows the plant to generate about 38 percent of its rated capacity over the course of a year.[\[3\]](https://en.wikipedia.org/wiki/Thermal_energy_storage#cite_note-3)
 
@@ -261,7 +257,6 @@ Another proposed system uses [turbomachinery](https://en.wikipedia.org/wiki/Turb
 - [Uniform Solar Energy and Hydronics Code](https://en.wikipedia.org/wiki/Uniform_Solar_Energy_and_Hydronics_Code)
 - [US DOE International Energy Storage Database](https://en.wikipedia.org/wiki/United_States_Department_of_Energy_International_Energy_Storage_Database)
 
-## ![](_page_12_Picture_24.jpeg)
 
 [Renewable energy portal](https://en.wikipedia.org/wiki/Portal:Renewable_energy)
 

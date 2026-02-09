@@ -9,7 +9,6 @@ tags:
   - wikipedia
 ---
 
-## ![](_page_0_Picture_2.jpeg)
 
 **Manifest destiny** was the imperialist belief in the [19th-century United States](https://en.wikipedia.org/wiki/19th_century_in_the_United_States) that [American settlers](https://en.wikipedia.org/wiki/American_pioneer) were destined to expand westward across [North](https://en.wikipedia.org/wiki/North_America) [America,](https://en.wikipedia.org/wiki/North_America) and that this belief was both obvious ("*manifest*") and certain ("*destiny*"). The belief is rooted in [American exceptionalism,](https://en.wikipedia.org/wiki/American_exceptionalism) [romantic](https://en.wikipedia.org/wiki/Romantic_nationalism) [nationalism,](https://en.wikipedia.org/wiki/Romantic_nationalism) and [white nationalism,](https://en.wikipedia.org/wiki/White_nationalism)[\[2\]](#page-20-1)[\[3\]](#page-20-2)[\[4\]](#page-20-3) implying the inevitable spread of [republicanism](https://en.wikipedia.org/wiki/Republicanism) and the [American way.](https://en.wikipedia.org/wiki/American_way)[\[5\]](#page-20-4) It is one of the earliest expressions of [American imperialism](https://en.wikipedia.org/wiki/American_imperialism)[.\[6\]](#page-20-5)[\[7\]](#page-21-0)[\[8\]](#page-21-1)
 
@@ -19,7 +18,6 @@ According to historian William Earl Weeks, there were three basic tenets behind 
 - The assertion of its mission to redeem the world by the spread of republican government and more generally the "American way of life".
 - The faith in the nation's divinely ordained destiny to succeed in this mission.
 
-## ![](_page_0_Picture_9.jpeg)
 
 [American Progress](https://en.wikipedia.org/wiki/American_Progress) (1872) by [John Gast](https://en.wikipedia.org/wiki/John_Gast_(painter)) is an allegorical representation of the modernization of the new west. [Columbia,](https://en.wikipedia.org/wiki/Columbia_(personification)) a personification of the United States, is shown leading civilization westward with the American settlers. She is shown bringing light from east to west, stringing telegraph wire, holding a school book, and highlighting different stages of economic activity and evolving forms of transportation.[\[1\]](#page-20-0) On the left, [Indigenous Americans](https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas) are displaced from their ancestral homeland.
 
@@ -51,7 +49,6 @@ And that claim is by the right of our manifest destiny to overspread and to poss
 
 That is, O'Sullivan believed that Providence had given the United States a mission to spread [republican democracy](https://en.wikipedia.org/wiki/Democratic_republic) ("the great experiment of liberty"). Because the [British government](https://en.wikipedia.org/wiki/British_government) would not spread democracy, thought O'Sullivan, British claims to the territory should be overruled. O'Sullivan believed that manifest destiny was a moral ideal (a "higher law") that superseded other considerations.[\[30\]](#page-22-8)
 
-## ![](_page_2_Picture_6.jpeg)
 
 [John L. O'Sullivan,](https://en.wikipedia.org/wiki/John_L._O%27Sullivan) sketched in 1874, was an influential columnist as a young man, but he is now generally remembered only for his use of the phrase "manifest destiny" to advocate the annexation of Texas and Oregon.
 
@@ -69,7 +66,6 @@ Historian [Frederick Merk](https://en.wikipedia.org/wiki/Frederick_Merk) wrote i
 
 From the outset Manifest Destiny—vast in program, in its sense of [continentalism—](https://en.wikipedia.org/wiki/Continentalism#Continentalism_in_North_America)was slight in support. It lacked national, sectional, or party following commensurate with its magnitude. The reason was it did not reflect the national spirit. The thesis that it embodied nationalism, found in much historical writing, is backed by little real supporting evidence. [\[6\]](#page-20-5)
 
-## ![](_page_3_Picture_7.jpeg)
 
 A New Map of Texas, Oregon, and California, [Samuel Augustus](https://en.wikipedia.org/wiki/Samuel_Augustus_Mitchell) [Mitchell,](https://en.wikipedia.org/wiki/Samuel_Augustus_Mitchell) 1846
 
@@ -117,7 +113,6 @@ The phrase "manifest destiny" is most associated with the [territorial expansion
 
 Some scholars limit the "manifest destiny" period to solely North American continental expansion from the [Louisiana Purchase](https://en.wikipedia.org/wiki/Louisiana_Purchase) to the [acquisition of Alaska](https://en.wikipedia.org/wiki/Alaska_Purchase) in 1867, sometimes called the "age of manifest destiny".[\[55\]](#page-24-0) During this time, the United States expanded to the Pacific Ocean—"from sea to shining sea" largely defining the borders of the [continental United States](https://en.wikipedia.org/wiki/Continental_United_States) as they are today[.\[56\]](#page-24-1) In the 1890s, the United States expanded into [Polynesia](https://en.wikipedia.org/wiki/Polynesia) and [Asia](https://en.wikipedia.org/wiki/Asia) with the annexation of the [Republic of](https://en.wikipedia.org/wiki/Republic_of_Hawaii) [Hawaii,](https://en.wikipedia.org/wiki/Republic_of_Hawaii) the [Philippines,](https://en.wikipedia.org/wiki/Philippines) [Guam,](https://en.wikipedia.org/wiki/Guam) and [American Samoa.](https://en.wikipedia.org/wiki/American_Samoa)
 
-## ![](_page_6_Picture_6.jpeg)
 
 [John Quincy Adams,](https://en.wikipedia.org/wiki/John_Quincy_Adams) painted above in 1816 by [Charles Robert Leslie,](https://en.wikipedia.org/wiki/Charles_Robert_Leslie) was an early proponent of continentalism. Late in life he came to regret his role in helping U. S. slavery to expand, and became a leading opponent of the annexation of Texas.
 
@@ -143,7 +138,6 @@ Adams did much to further this idea. He orchestrated the [Treaty of 1818,](https
 
 The Monroe Doctrine and "manifest destiny" formed a closely related nexus of principles: historian Walter Mc Dougall calls manifest destiny a corollary of the Monroe Doctrine, because while the Monroe Doctrine did not specify expansion, expansion was necessary in order to enforce the doctrine. Concerns in the United States that European powers were seeking to acquire colonies or greater influence in North America led to calls for expansion in order to prevent this. In his influential 1935 study of manifest destiny, done in conjunction with the [Walter Hines Page](https://en.wikipedia.org/wiki/Walter_Hines_Page_School_of_International_Relations) [School of International Relations,](https://en.wikipedia.org/wiki/Walter_Hines_Page_School_of_International_Relations)[\[64\]](#page-24-9) Albert Weinberg wrote: "the expansionism of the [1830s] arose as a defensive effort to forestall the encroachment of Europe in North America".[\[65\]](#page-24-10)
 
-## ![](_page_8_Picture_3.jpeg)
 
 The first [Fort Laramie](https://en.wikipedia.org/wiki/Fort_Laramie) as it looked prior to 1840. Painting from memory by [Alfred Jacob Miller](https://en.wikipedia.org/wiki/Alfred_Jacob_Miller)
 
@@ -163,7 +157,6 @@ In 1869, American historian [Frances Fuller Victor](https://en.wikipedia.org/wik
 
 It was an oversight on the part of the United States, the giving up the island of Quadra and Vancouver, on the settlement of the boundary question. Yet, "what is to be, will be", as some realist has it; and we look for the restoration of that picturesque and rocky atom of our former territory as inevitable.[\[70\]](#page-25-0)
 
-## ![](_page_9_Picture_5.jpeg)
 
 American westward expansion is idealized in [Emanuel Leutze](https://en.wikipedia.org/wiki/Emanuel_Leutze)'s famous painting [Westward the](https://en.wikipedia.org/wiki/Westward_the_Course_of_Empire_Takes_Its_Way) [Course of Empire Takes Its Way](https://en.wikipedia.org/wiki/Westward_the_Course_of_Empire_Takes_Its_Way) (1861).
 
@@ -171,7 +164,6 @@ American westward expansion is idealized in [Emanuel Leutze](https://en.wikipedi
 
 Manifest destiny played an important role in the expansion of Texas and American relationship with [Mexico](https://en.wikipedia.org/wiki/History_of_Mexico)[.\[71\]](#page-25-1) In 1836, the [Republic of Texas](https://en.wikipedia.org/wiki/Republic_of_Texas) [declared independence](https://en.wikipedia.org/wiki/Texas_Declaration_of_Independence) from Mexico and, after the [Texas Revolution,](https://en.wikipedia.org/wiki/Texas_Revolution) sought to join the United States as a new state. This was an idealized process of expansion that had been advocated from Jefferson to O'Sullivan: newly democratic and independent states would request entry into the United States, rather than the United States extending its government over people who did not want it. The [annexation of Texas](https://en.wikipedia.org/wiki/Annexation_of_Texas) was attacked by anti-slavery spokesmen because it would add another slave state to the Union. Presidents Andrew Jackson and Martin Van Buren declined Texas's offer to join the United States in part because the slavery issue threatened to divide the Democratic Party[.\[72\]](#page-25-2)
 
-## ![](_page_9_Picture_9.jpeg)
 
 The [Battle of Río San Gabriel](https://en.wikipedia.org/wiki/Battle_of_R%C3%ADo_San_Gabriel) was a decisive battle action of the [Mexican–American War](https://en.wikipedia.org/wiki/Mexican%E2%80%93American_War) (1846–1848) as part of the U. S. [conquest of](https://en.wikipedia.org/wiki/Conquest_of_California) [California.](https://en.wikipedia.org/wiki/Conquest_of_California)
 
@@ -181,7 +173,6 @@ Before the election of 1844, Whig candidate Henry Clay and the presumed Democrat
 
 After the election of Polk, but before he took office, Congress approved the annexation of Texas. Polk moved to occupy a portion of Texas that had [declared independence from Mexico](https://en.wikipedia.org/wiki/Texas_Declaration_of_Independence) in 1836, but was still claimed by Mexico. This paved the way for the outbreak of the Mexican–American War on April 24, 1846. With American successes on the battlefield, by the summer of 1847 there were calls for the annexation of "All Mexico", particularly among Eastern Democrats, who argued that bringing Mexico into the Union was the best way to ensure future peace in the region[.\[74\]](#page-25-4)
 
-## ![](_page_10_Picture_5.jpeg)
 
 The [Battle of San Jacinto](https://en.wikipedia.org/wiki/Battle_of_San_Jacinto) was the final battle during the [Texas](https://en.wikipedia.org/wiki/Texas_Revolution) [Revolution](https://en.wikipedia.org/wiki/Texas_Revolution) (1835-1836) which resulted in a decisive victory for the [Texian army.](https://en.wikipedia.org/wiki/Texian_Army)
 
@@ -209,7 +200,6 @@ After the Mexican–American War ended in 1848, disagreements over the expansion
 
 Without official government support the most radical advocates of manifest destiny increasingly turned to military fi[libustering.](https://en.wikipedia.org/wiki/Filibuster_(military)) Originally filibuster had come from the Dutch *vrijbuiter* and referred to buccaneers in the West Indies that preyed on Spanish commerce. While there had been some filibustering expeditions into Canada in the late 1830s, it was only by mid-century did filibuster become a definitive term. By then, declared the *[New-York Daily Times](https://en.wikipedia.org/wiki/New-York_Daily_Times)* "the fever of Fillibusterism is on our country. Her pulse beats like a hammer at the wrist, and there's a very high color on her face."[\[85\]](#page-25-15) Millard Fillmore's second annual message to Congress, submitted in December 1851, gave double the amount of space to filibustering activities than the brewing sectional conflict. The eagerness of the filibusters, and the public to support them, had an international hue. Clay's son, a diplomat in Portugal, reported that the invasion created a sensation in Lisbon. [\[86\]](#page-25-16)
 
-## ![](_page_12_Picture_2.jpeg)
 
 Filibuster [William Walker,](https://en.wikipedia.org/wiki/William_Walker_(filibuster)) who launched several expeditions to Mexico and Central America, ruled [Nicaragua,](https://en.wikipedia.org/wiki/Nicaragua) and was captured by the Royal Navy before being executed in [Honduras](https://en.wikipedia.org/wiki/Honduras) by the Honduran government.
 
@@ -227,7 +217,6 @@ The filibusterism of the era even opened itself up to some mockery among the hea
 
 The Homestead Act of 1862 encouraged 600,000 families to settle the West by giving them land (usually 160 acres) almost free. Over the course of 123 years, 200 million claims were made and over 270 million acres were settled, accounting for 10% of the land in the U. S[.\[93\]](#page-26-3) They had to live on and improve the land for five years.[\[94\]](#page-26-4) Before the [American Civil War,](https://en.wikipedia.org/wiki/American_Civil_War) Southern leaders opposed the [Homestead Acts](https://en.wikipedia.org/wiki/Homestead_Acts) because they feared it would lead to more free states and free territories.[\[95\]](#page-26-5) After the mass resignation of Southern senators and representatives at the beginning of the war, Congress was subsequently able to pass the Homestead Act.
 
-## ![](_page_13_Picture_5.jpeg)
 
 [Norwegian](https://en.wikipedia.org/wiki/Norwegian_American) settlers in North Dakota in front of their homestead, a [sod](https://en.wikipedia.org/wiki/Sod_hut) [hut](https://en.wikipedia.org/wiki/Sod_hut)
 
@@ -245,7 +234,6 @@ We may expand so as to include the whole world. Mexico, Central America, South A
 
 As the Civil War faded into history, the term *manifest destiny* experienced a brief revival. Protestant missionary [Josiah Strong,](https://en.wikipedia.org/wiki/Josiah_Strong) in his best-seller of 1885, *[Our Country](https://en.wikipedia.org/wiki/Our_Country_(book))*, argued that the future was devolved upon America since it had perfected the ideals of civil liberty, "a pure spiritual Christianity", and concluded, "My plea is not, Save America for America's sake, but, Save America for the world's sake."[\[99\]](#page-26-9)
 
-## ![](_page_14_Picture_5.jpeg)
 
 Newspaper reporting the [annexation](https://en.wikipedia.org/wiki/Overthrow_of_the_Hawaiian_Kingdom) of the [Republic of Hawaii](https://en.wikipedia.org/wiki/Republic_of_Hawaii) in 1898
 
@@ -265,7 +253,6 @@ The [Teller Amendment,](https://en.wikipedia.org/wiki/Teller_Amendment) passed u
 
 The United States, [German Empire,](https://en.wikipedia.org/wiki/German_Empire) and United Kingdom participted in the [Tripartite Convention](https://en.wikipedia.org/wiki/Tripartite_Convention) of 1899 at the end of the [Second Samoan Civil War,](https://en.wikipedia.org/wiki/Second_Samoan_Civil_War) resulting in the formal partition of the [Samoan archipelago](https://en.wikipedia.org/wiki/Samoan_archipelago) into a [German colony](https://en.wikipedia.org/wiki/German_Samoa) and the U. S. territory of what is now called [American Samoa.](https://en.wikipedia.org/wiki/American_Samoa) The United States annexed [Tutuila](https://en.wikipedia.org/wiki/Tutuila) in 1900, [Manu'a](https://en.wikipedia.org/wiki/Manu%27a) in 1904, and [Swains Island](https://en.wikipedia.org/wiki/Swains_Island) in 1925.[\[105\]](#page-27-1)[\[106\]](#page-27-2)
 
-## ![](_page_15_Picture_5.jpeg)
 
 A cartoon of [Uncle Sam](https://en.wikipedia.org/wiki/Uncle_Sam) seated in restaurant looking at the bill of fare containing "Cuba steak", "Porto Rico pig", the "Philippine Islands" and the "Sandwich Islands" (Hawaii)
 
@@ -319,7 +306,6 @@ The belief in an American mission to promote and defend democracy throughout the
 
 After the turn of the 19th century to the 20th century, the phrase *manifest destiny* declined in usage, as territorial expansion ceased to be promoted as being a part of America's "destiny". Under President [Theodore Roosevelt](https://en.wikipedia.org/wiki/Theodore_Roosevelt) the role of the United States in the New World was defined, in the 1904 [Roosevelt Corollary](https://en.wikipedia.org/wiki/Roosevelt_Corollary) to the [Monroe Doctrine,](https://en.wikipedia.org/wiki/Monroe_Doctrine) as being an "international police power" to secure American interests in the Western Hemisphere. Roosevelt's corollary contained an explicit rejection of territorial expansion. In the past, manifest destiny had been seen as necessary to enforce the Monroe Doctrine in the Western Hemisphere, but now expansionism had been replaced by [interventionism](https://en.wikipedia.org/wiki/Interventionism_(politics)) as a core value associated with the doctrine[.\[138\]](#page-29-7)
 
-## ![](_page_18_Picture_7.jpeg)
 
 The U. S.'s intentions to influence the area (especially the [Panama Canal](https://en.wikipedia.org/wiki/Panama_Canal) construction and control) led to the [separation of Panama from](https://en.wikipedia.org/wiki/Separation_of_Panama_from_Colombia) [Colombia](https://en.wikipedia.org/wiki/Separation_of_Panama_from_Colombia) in 1903.
 
@@ -346,7 +332,6 @@ Critics at the time of the country's growing desire for expansion doubted the co
 - [Greater United States](https://en.wikipedia.org/wiki/Greater_United_States)
 - [Lebensraum,](https://en.wikipedia.org/wiki/Lebensraum) a [Nazi](https://en.wikipedia.org/wiki/Nazism) idea inspired by manifest destiny.
 
-## ![](_page_19_Picture_16.jpeg)
 
 - ["The White Man's Burden"](https://en.wikipedia.org/wiki/The_White_Man%27s_Burden) (1899)
 - [Young America movement](https://en.wikipedia.org/wiki/Young_America_movement)

@@ -13,11 +13,9 @@ tags:
 
 ## Contributors to Wikimedia projects
 
-21-26 minutes
 
 ## From Wikipedia, the free encyclopedia
 
-## ![](_page_0_Picture_7.jpeg)
 
 [Mahatma Gandhi](https://en.wikipedia.org/wiki/Mahatma_Gandhi) leading the famous 1930 [Salt March,](https://en.wikipedia.org/wiki/Salt_March) a notable example of satyagraha.
 

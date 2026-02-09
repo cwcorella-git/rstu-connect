@@ -10,7 +10,6 @@ tags:
 - CE mark in 10 years 'a record' but production is complex: CEO
 - Articial heart has blockbuster sales potential: Portzamparc
 
-## ![](_page_0_Picture_6.jpeg)
 
 A Carmat employee shows an auto-regulating, bioprosthetic articial heart. Photographer: Bertrand Guay/AFP/Getty Images
 
@@ -43,7 +42,6 @@ Carmat will start selling the device in the second quarter, the company said in 
 - Shot shows 66% ecacy against disease in large global trial
 - Easier-to-store vaccine could reinvigorate immunization push
 
-## ![](_page_2_Picture_9.jpeg)
 
 J&J Covid Vaccine Is 66% Effective In Global Clinical Trial
 

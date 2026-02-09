@@ -10,7 +10,6 @@ tags:
 
 ### Roger Caillois
 
-## ![](_page_0_Picture_1.jpeg)
 
 ## ◆§ ROGER CAILLOIS
 
@@ -117,11 +116,9 @@ T he publication of a book always involves the good will and cooperation of so m
 
 ### *Man, Play and Games*
 
-## ![](_page_12_Picture_0.jpeg)
 
 ### *Play and Games: Theme*
 
-## ![](_page_14_Picture_0.jpeg)
 
 ### *The Definition of Play*
 
@@ -179,7 +176,6 @@ go-rounds and the diabolo are both open-air amusements. But the child who passiv
 
 This last expression must be clarified. For one thing, it alludes to the fundamental characteristic of a very special kind of game. Whether it be a bet, lottery, roulette, or baccara, it is clear that the player's attitude is the same. He does nothing, he merely awaits the outcome. The boxer, the runner, and the player of chess or hopscotch, on the contrary, work as hard as they can to win. It matters little that some games are athletic and others intellectual. The player's attitude is the same: he tries to vanquish a rival operating under the same conditions as himself. It would thus appear justified to contrast games of chance with competitive games. Above all, it becomes tempting to investigate the possibility of discovering other attitudes, no less fundamental, so that the categories for a systematic classification of games can eventually be provided.
 
-## ![](_page_24_Picture_4.jpeg)
 
 After examining different possibilities, I am proposing a division into four main rubrics, depending upon whether, in the games under consideration, the role of competition, chance, simulation, or vertigo is dominant. I call these *agon, alea, mimicry,* and *ilinx,* respectively. All four indeed belong to the domain of play. One *plays* football, billiards, or chess *(agon);* roulette or a lottery *(alea*) ; pirate, Nero, or Hamlet *(mimicry*) ; or one produces in oneself, by a rapid whirling or falling movement, a state of dizziness and disorder *(ilinx).* Even these designations do not cover the entire universe of play. It is divided into quadrants, each governed by an original principle. Each section contains games of the same kind. But inside each section, the different games are arranged in a rank order of progression. They can also be placed on a continuum between two opposite poles. At one extreme an almost indivisible principle, common to diversion, turbulence, free improvisation, and carefree gaiety is dominant. It manifests a kind of uncontrolled fantasy that can be designated by the term *paidia*. At the opposite extreme, this frolicsome and impulsive exuberance is almost entirely absorbed or disciplined by a complementary, and in some respects inverse, tendency to its anarchic and capricious nature: there is a growing tendency to bind it with arbitrary, imperative, and purposely tedious conventions, to oppose it still more by ceaselessly practicing the most embarrassing chicanery upon it, in order to make it more uncertain of attaining its desired effect. This latter principle is completely impractical, even though it requires an ever greater amount of effort, patience, skill, or ingenuity. I call this second component *ludus.*
 
@@ -607,7 +603,6 @@ The combination of *alea* and *agon* is a free act of will stemming from the sat
 
 The quality of such sorcery seems to me to be invincible, to the degree that I am not surprised that it has taken ages to free man from this illusion. This has been achieved by what is commonly called civilization. I believe that the attainment of civilization everywhere is the result of a kind of wager made under different conditions in various places. I will try, in this second part of the book, to speculate about the general lines of this decisive revolution. At the end, using an improvised approach, I will try to determine how the divorce or fissure was produced, which secretly condemns the conjunction of vertigo and simulation while nearly everybody believes them to be ineradicably permanent.
 
-## ![](_page_88_Picture_4.jpeg)
 
 In addition, before beginning the examination of the significant displacement of the world of the mask and ecstasy by that of merit and chance, there is still another basis for symmetry that must be briefly noted in these introductory pages. We have just seen that *alea* and *agdn,* like *mimicry* and *ilinx,* can be readily combined. However at the same time, within the mixture, it is remarkable that one of the elements in the compound is always active and creative and the other is passive and destructive.
 
@@ -757,7 +752,6 @@ Then to the women who were with him in the palace [one hundred of them, most of 
 
 Like Empedocles, when Hakim was defeated he tried to disappear without leaving a trace, in order to create the belief that he had risen to heaven. He poisoned his hundred wives, decapitated his servant, and threw himself naked into a pit filled with quicklime (or into a cauldron of mercury, vat of vitriol, or oven of molten copper, tar, or sugar). Here, too, the chroniclers denounce his ruse. Although still efficacious (Hakim's followers believe in his divinity, not in his death, and Khurasan will not be at rest for a long time), the reign of the mask henceforth will seem like imposture and trickery. It is already defeated.
 
-## ![](_page_119_Picture_5.jpeg)
 
 The reign of *mimicry* and *ilinx* as recognized, honored, and dominant cultural trends is indeed condemned as soon as the mind arrives at the concept of cosmos, i.e. a stable and orderly universe without miracles or transformations. Such a universe seems the domain of regularity, necessity, and proportion— in a word, a world of number. Even in Greece the revolution in certain specific areas is already perceptible. Thus the first Pythagoreans still used concrete numbers. They conceived of them as having form and figure. Some numbers were triangular, some square, and others oblong, i.e. they could be represented by triangles, squares, or rectangles. They no doubt resembled the ways in which the dots on dice and dominoes are arrangec rather than symbols with no other significance beyond the numbers themselves. In addition, they also constituted sequences ruled by the three basic musical chords. And finally, they were endowed with distinct virtues corresponding to marriage (3 ), justice (4 ), opportunity (7 ), or any other concept traditionally or arbitrarily attributed to them. Nevertheless, from this partly qualitative enumeration, drawing attention to the noteworthy properties of certain special progressions, there quickly emerged an abstract series of numbers which excluded arithmetical philosophizing and required pure calculation, perhaps in this way becoming useful to science.50
 
@@ -1043,7 +1037,6 @@ Those at the top reap enormous profits and subsidize politicians regardless of p
 
 However important the moral, cultural, and even political consequences of the game may be, it is primarily its economic significance that should be analyzed. The game practically immobilizes an appreciable part of disposable income, *by causing it to circulate too quickly.* It is thus unavailable for the nation's economic development or for improving the standard of living of its inhabitants. Money spent on gambling is not used for buying furniture, household utensils, tools, clothing, or dietary supplements, any one of which would result in hastening the growth of agriculture, commerce, or industry. It is expended wastefully, retired from general circulation, and merely circulates rapidly and constantly in a closed circuit, for winnings are rarely withdrawn from the vicious circle. They are put back into play, except when a part is deducted to pay for a victory dinner. Only the profits of the bankers and organizers of *Bicho* may return to general circulation. Nevertheless, it is possible that this is not the most productive means of accomplishing this economic purpose. Moreover, a continuous influx of new money maintains or augments the total amount bet, and to that degree reduces the possibilities for savings or investment.76
 
-## ![](_page_168_Picture_4.jpeg)
 
 It has been seen that, under certain conditions, games of chance have a cultural importance that is ordinarily the monopoly of competitive games. Even in societies supposed to be ruled by pure merit, the attractions of chance have been shown to be strong. Even though viewed with suspicion, they still play an important role— more spectacular than decisive. As far as games are concerned, *alea* in competition and sometimes in cooperation with *agon* is quite prevalent. It balances the *Tour de France* with the national lottery, constructs casinos just as organized sports builds stadia, initiates associations and clubs, freemasonries of initiates and devotees, supports a specialized press, and stimulates equally important investments.
 
@@ -1057,7 +1050,6 @@ In addition, chance is not only a striking form of injustice, of gratuitous and 
 
 *Alea* is no exception to this. Insofar as it symbolizes passive acceptance of natural conditions, it is admitted, even if reluctantly. Everyone knows that heredity is a lottery and regrets its scandalous consequences. Except in very rare cases, such as the drawing by lot of magistrates in Ancient Greece, or in modern times, juries in courts of assizes, chance is not accorded the least institutional function. It seems improper, in serious matters, to submit to its domination. Opinion is unanimous on indisputable evidence that work, merit, and competence, not the capricious roll of the dice, are the foundations necessary both to justice and to the proper evolution of social life. As a result, work tends to be considered the only honorable source of income. Inheriting wealth, the result of the *alea* basic to birth, is debated, sometimes abolished, more often submitted to important restrictions, in the interest of the general welfare. As for money won in games or in a lottery, it ought in principle to constitute only a supplement or a luxury, which augments the salary or wages regularly collected by the player in payment for his professional activity To draw one's entire subsistence through chance or gambling is regarded by nearly everybody as suspect and immoral, if not dishonorable, and in any case, asocial.
 
-## ![](_page_170_Picture_4.jpeg)
 
 The Communist ideal for governing society carries this principle to an extreme. It may be debated whether it is proper, in dividing the revenues of the state, to pay each according to his merit or according to his need, but it is certain that payment would not be according to birth or chance. The reason is that equality of effort must be unitary. The criterion of justice is work performed. It follows from this that a regime that is Socialist or Communist in character tends naturally to rest entirely upon *agon.* In this, it satisfies not only its principles of abstract equality but also is deemed to stimulate— through the best possible, rational, and efficient utilization of abilities and skills— the accelerated production of goods, which it regards as its principal, if not exclusive, vocation. The whole problem is therefore to know whether the complete elimination of the grand chance, unexpected, irregular, and fantastic, is economically productive, or whether the state, in suppressing this instinct, is not depriving itself of a generous and irreplaceable source of revenue, which may be transformable into energy.
 
@@ -1103,7 +1095,6 @@ In a general way, play is like education of the body, character, or mind, withou
 
 However, pure games of chance do not develop any physical or mental aptitude in the player, since he remains essentially passive. Their moral consequences are also quite formidable, because they detract from work and effort in creating hope of sudden and considerable wealth. That— if so desired— is a reason for banning them from school (but not from a classification system).
 
-## ![](_page_179_Picture_5.jpeg)
 
 I sometimes ask myself whether logic has not been pushed to an extreme. Play is not exercise, it is not even a test or activity, except by accretion. The faculties developed by it surely benefit from this supplemental training, which in addition is free, intense, pleasing, inventive, and protected. However, the proper function of play is never to develop capacities. Play is an end in itself. For the rest, the aptitudes it exercises are the very same as are used for study and serious adult activities. If these capacities are dormant or feeble, the child can neither study nor play, for he is then unable to adapt to a new situation, concentrate, or apply himself to study. The observations of A. Brauner88 are more convincing in this respect. Play is in no way a refuge for the defective or the abnormal. It repels them just as much as work does. These deviant children are revealed to be equally incapable of absorbing themselves with some degree of continuity or application in play activity as in a real-life apprenticeship. For them, play is reduced to a simple, occasional prolongation of movement, a pure, uncontrolled propulsion, disproportionate and unintelligent (pushing the marble or the ball with which others play, getting in the way, annoying, jostling, etc.). At the moment the educator succeeded in giving them respect for rules— or better still, the desire to make up rules— they were cured.
 

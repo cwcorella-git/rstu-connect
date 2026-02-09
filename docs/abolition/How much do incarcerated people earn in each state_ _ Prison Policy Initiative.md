@@ -12,7 +12,6 @@ tags:
 
 ## Prison Policy Initiative
 
-8–10 minutes
 
 **Prison wages come up again and again in the context of prison conditions and policies. So, we found the most up-to-date information for each state.**
 

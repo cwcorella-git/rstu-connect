@@ -7,7 +7,6 @@ tags:
   - theory
 ---
 
-## ![](_page_0_Picture_2.jpeg)
 
 The *Haymarket Martyrs' Monument* is a funeral monument and sculpture located at [Forest Home Cemetery](https://en.wikipedia.org/wiki/German_Waldheim_Cemetery) in [Forest Park, Illinois,](https://en.wikipedia.org/wiki/Forest_Park,_Illinois) a suburb of Chicago. Dedicated in 1893, it commemorates the defendants involved in labor unrest who were blamed, convicted, and executed for the still unsolved bombing during the [Haymarket A](https://en.wikipedia.org/wiki/Haymarket_Affair)ffair (1886). The monument's bronze sculptural elements are by artist [Albert Weinert.](https://en.wikipedia.org/wiki/Albert_Weinert) On February 18, 1997, the monument was designated a [National Historic Landmark.](https://en.wikipedia.org/wiki/National_Historic_Landmark)
 
@@ -23,7 +22,6 @@ On the back of the monument are listed the names of the men. Above the names, a 
 
 [U. S. National Register of Historic Places](https://en.wikipedia.org/wiki/National_Register_of_Historic_Places)
 
-## ![](_page_0_Picture_11.jpeg)
 
 Haymarket Martyrs' Monument in [Forest Home Cemetery](https://en.wikipedia.org/wiki/German_Waldheim_Cemetery)
 
@@ -35,7 +33,6 @@ Since the 1970s, the [Illinois Labor History Society](https://en.wikipedia.org/w
 
 In October 2016, volunteers and scientists dug near the base of the monument where they recovered an urn while searching for a lost [time capsule](https://en.wikipedia.org/wiki/Time_capsule) that had been buried under the cornerstone on November 6, 1892, during the monument's construction. The urn was made of stone or concrete and capped in marble, 24 inches (62 cm) tall and 12 inches (30 cm) wide. According to a list in the records of the Pioneer Aid and Support Association, the lost time capsule is to contain newspaper articles, letters to and
 
-## ![](_page_1_Picture_6.jpeg)
 
 ## **Location** The Forest Home
 
@@ -71,25 +68,18 @@ The group that discovered the urn cylinder also found a smaller concrete cube th
 
 #### **Gallery**
 
-## ![](_page_2_Picture_2.jpeg)
-
-## ![](_page_2_Picture_3.jpeg)
 
 ## Haymarket affair.
 
-## ![](_page_2_Picture_4.jpeg)
 
 ## Haymarket Martyrs' Monument detail
 
-## ![](_page_2_Picture_6.jpeg)
 
 Inscription at the base of the Haymarket Martyrs' Monument, "The day will come when our silence will be more powerful than the voices you are throttling today."
 
-## ![](_page_2_Picture_8.jpeg)
 
 Haymarket Martyrs' Monument, rear, with text of the pardon on bronze tablet, and names of the "martyrs".
 
-## ![](_page_2_Picture_10.jpeg)
 
 [National Historic Landmark](https://en.wikipedia.org/wiki/National_Historic_Landmark) plaque, at site of the Haymarket Martyrs' Monument; added in 1997.
 

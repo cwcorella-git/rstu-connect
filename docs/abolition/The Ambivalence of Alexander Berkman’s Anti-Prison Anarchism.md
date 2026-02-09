@@ -57,7 +57,6 @@ Introducing the 1970 reissue of Prison Memoirs, Paul Goodman (1970, xix) notes t
 
 Whereas Nechayev defined the revolutionist by his self-denial, Berkman discovers that prison is an institution designed to dehumanize those incarcerated—no matter their crime. Before his trial, Berkman bemoans that "life is so remote, so appallingly far away" (1999, 85). At Riverside (Figure 1) he finds a new life of subjugation, "worn in body and soul" (117–8). Albeit excited to receive a job in the workshop, hard labor deteriorates his and others' health (129). When the warden first sends him to "the dungeon" as punishment, Berkman portrays himself "cast into the stony bowels of the underground" in darkness (212–9). When he is returned to solitary row, the warden withholds his access to books, photographs, exercise, and communication with others. Berkman's only food is a "Pennsylvania diet": a daily slice of bread and coffee, with vegetable soup twice a week.
 
-## ![](_page_7_Picture_3.jpeg)
 
 **Figure 1.** Berkman's Diagram of Western State Penitentiary Note: Alexander Berkman, "Diagram of [the Western] Penitentiary [of Pennsylvania], Drawing" n.d. Digital image courtesy of Alexander Berkman Papers, International Institute of Social History (Amsterdam).
 
@@ -81,7 +80,6 @@ These resistive relationships—intellectual, insurrectionary, intimate—often 
 
 With these experiences, Prison Memoirs of an Anarchist transforms from an attentater's autobiography to a book about doomed men, prefiguring our contemporary interest in the politics of prisons. Prison is no holding pen for political prisoners and criminals: it is an extension of American institutions and activism (Figure 2). Sitting in solitary below Johnny, Berkman derides the "machinery of government… concentrated to crush this unfortunate atom" (1999, 225–6). His "prison-house environment" is but another "manifestation of the Midas-hand" of capitalism. Staff still retaliate against Berkman for his anarchism (210–1, 286–7, 292, 298), and he remains skeptical of the legal process as a "sacrifice of principle" (288–9): but Berkman's narrative increasingly elevates experiences shared among the imprisoned. When he learns that radical Gaetano Bresci has assassinated the Italian king, Berkman's mind is on a cellmate who bled to death: "Here, all around me, a thousand unfortunates daily suffer… They bleed and struggle and suicide, with the desperate cry for a little sunshine and life. How shall they be helped? How helped amid the injustice and brutality of a society whose chief monuments are prisons?" (1999, 403; see Avrich and Avrich 2012, 149). As Berkman's understanding of the prison develops, so too do his plans for freedom. "The submerged moan in the dark," Berkman writes in one of the final chapters: "I will echo their agony to the ears of the world" (1999, 458).
 
-## ![](_page_10_Picture_4.jpeg)
 
 **Figure 2.** Berkman's Sketch of Penitentiary Cells Note: Alexander Berkman, "Drawings and Prints of the Penitentiary and of an Advertisement for the 'Union Broom' Made by the Prisoners" n.d. Digital image courtesy of Alexander Berkman Papers, International Institute of Social History (Amsterdam).
 
@@ -101,7 +99,6 @@ As summarized earlier, Berkman did continue writing and lecturing on the politic
 
 More persistent throughout Berkman's later activism was his advocacy for political prisoners, support that resurrected the distinction between common criminals and persecuted dissidents. The March 15, 1917 issue of his journal The Blast featured articles on the trials of Warren K. Billings and Thomas J. Mooney for their alleged involvement with a bombing at a pro-war parade in San Francisco (Avrich and Avrich 2012, 255–66; Berkman 2005, 219–26). Featuring a drawing by American artist George Bellows, the cover (Figure 3) depicts a downtrodden political prisoner with text alongside reading: "this man subjected himself to imprisonment and probably to being shot or hanged under the new Espionage Bill" (Berkman 2005, 219). His "incendiary statements"? "Thou shalt not kill and Peace on earth good will to men." The man in ball, chains, and stripes bears a crown of thorns—again, Christian imagery idolizes the political prisoner but ignores the prison or other prisoners. The short run of The Blast focused on the legal persecution facing Billings and Mooney, Margaret Sanger, Goldman, the Magón brothers, and Carlo Tresca, its pages peppered with advertisements for the Prison Memoirs yet with little about incarceration itself.
 
-## ![](_page_14_Picture_3.jpeg)
 
 **Figure 3.** Cover of The Blast, March 15, 1917 Note: Digital image courtesy of The Kate Sharpley Library (https:// www.katesharpleylibrary.net).
 

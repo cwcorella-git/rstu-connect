@@ -44,4 +44,3 @@ Unless the beliefs and attitudes of offenders are challenged early on (it is mos
 
 It all starts with challenging the attitudes and beliefs of our peers and social groups.
 
-## ![](_page_1_Picture_11.jpeg)

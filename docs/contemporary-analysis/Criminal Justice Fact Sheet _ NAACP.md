@@ -9,7 +9,6 @@ tags:
 
 [naacp.org](https://naacp.org/resources/criminal-justice-fact-sheet)
 
-14–18 minutes
 
 The criminal justice system is heavily impacted by the bias of police mentality, as well as outdated judicial precedents. It is largely driven by racial disparities, which directly obstruct and deconstruct our minority communities.
 

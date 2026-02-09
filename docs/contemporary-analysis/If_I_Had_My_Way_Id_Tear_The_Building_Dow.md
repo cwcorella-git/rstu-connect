@@ -7,11 +7,9 @@ tags:
   - current-events
 ---
 
-## ![](_page_0_Picture_1.jpeg)
 
 Journal of Urban History 1 –6 © The Author(s) 2022 Article reuse guidelines: sagepub.com/journals-permissions journals.sagepub.com/home/juh
 
-## ![](_page_0_Picture_4.jpeg)
 
 Richard, Campanella (2020). *The West Bank of Greater New Orleans: A Historical Geography*. Baton Rouge: Louisiana State University Press, 388 pp. + xv, illustrations, appendixes, index, maps, notes, \$34.95 (cloth).
 

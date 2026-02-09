@@ -56,15 +56,12 @@ The wind catchers were known in traditional Egyptian architecture in Ancient Egy
 
 Ancient Iran can be also considered as the origin of the wind catchers in the world besides to those of ancient Egypt. Some questions were tried to be solved in previous articles such as the identity and origin of wind catcher, the construction technology and its types.
 
-## ![](_page_3_Picture_2.jpeg)
 
 **Figure 1 :** The one-sided wind tower of a house in Al-Jawhara in Cairo, [16].
 
-## ![](_page_3_Picture_4.jpeg)
 
 **Figure 2 :** Several wind-catchers with different configurations, (a) four-sided windcatcher with flat roof (Yazd), (b) octahedral-sided wind-catcher with flat roof (Yazd), (c) one-sided wind catcher with steep roof (Ardakan), (d) two-sided wind catcher with curved roof (Mehriz) [3].
 
-## ![](_page_4_Picture_2.jpeg)
 
 **Figure 3 :** Several ancient wind catchers with different configurations [4].
 
@@ -72,11 +69,9 @@ Ancient Iran can be also considered as the origin of the wind catchers in the wo
 
 In the present section, some modern configurations for wind catchers are presented. Most of these models are developed and presented in the previous literature. However, these models were not applied actually in buildings. Some of the literatures were interested in performing experimental measurements or numeral simulations using CFD software. The aim of such investigations is to reach the optimum design of the wind catchers. Some of these treatments are presented in the following.
 
-## ![](_page_4_Picture_6.jpeg)
 
 **Figure 4 :**Modern design of wind catchers [2].
 
-## ![](_page_4_Picture_8.jpeg)
 
 **Figure 5 :**Modern design of wind catchers with different roof geometry [3].
 
@@ -105,7 +100,6 @@ The total width of the model is 0.5w, where w is the width of the wind tower.
 
 The future numerical study of the proposed model using some commercial CF D code should answer the questions about the optimum values of the geometrical dimensions of the model; i.e. Din, L1, L2,θ.
 
-## ![](_page_7_Picture_2.jpeg)
 
 **Figure 8 :**3D-Plot of the proposed wind catcher
 

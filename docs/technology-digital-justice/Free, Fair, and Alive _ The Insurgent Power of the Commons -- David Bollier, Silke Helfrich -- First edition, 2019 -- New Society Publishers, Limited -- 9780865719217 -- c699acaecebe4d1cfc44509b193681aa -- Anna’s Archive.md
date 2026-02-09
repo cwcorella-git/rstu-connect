@@ -10,9 +10,6 @@ tags:
 
 ## DAVID BOLLIER & SILKE HELFRICH
 
-## ![](_page_0_Picture_2.jpeg)
-
-## ![](_page_0_Picture_3.jpeg)
 
 # Praise for Free, Fair and Alive
 
@@ -52,7 +49,6 @@ Free, Fair, and Alive eloquently describes a worldview that is both old and new.
 
 # FREE, FAIR & ALIVE THE INSURGENT POWER OF THE COMMONS
 
-## ![](_page_3_Picture_2.jpeg)
 
 # Copyright © 2019 by David Bollier and Silke Helfrich All rights reserved.
 
@@ -88,15 +84,9 @@ Subjects: LCSH: Commons.
 
 Classication: LCC HD1286 . H45 2019 | DDC 333.2—dc23
 
-## ![](_page_4_Picture_19.jpeg)
 
 New Society Publishers' mission is to publish books that contribute in fundamental ways to building an ecologically sustainable and just society, and to do so with the least possible impact on the environment, in a manner that models this vision.
 
-## ![](_page_4_Picture_21.jpeg)
-
-## ![](_page_4_Picture_22.jpeg)
-
-## ![](_page_4_Picture_23.jpeg)
 
 # Contents
 
@@ -518,7 +508,6 @@ For those of us acculturated by Euro-American cultures, it is not so easy to rec
 
 We deal with this issue in greater depth in the next chapter, but for now, we wish to illustrate how basic presuppositions about reality are so powerfully consequential. In trying to communicate the realities of commoning, we kept coming up against the duality of the concepts I and we in English. e very words assert an opposition that commoning transcends. But seeing the world through a binary choice of I or we inhibits a real understanding of commoning. Language itself is a problem in communicating a dierent Onto Story. As we pondered this quandary, one day a solution occurred to us: the term Nested-I. It is an expression that helps us describe the practices and identity of a commoner. It overcomes the deeply rooted assumptions about individual identity and agency being opposed to collective goals. e Nested-I is an attempt to make visible the subtle, contextual social relationships that integrate "me" and "we." Even if our Western mindset does not easily acknowledge the idea, that reality is everywhere.
 
-## ![](_page_50_Picture_3.jpeg)
 
 Nested-I concept.
 
@@ -540,7 +529,6 @@ While scholars have theorized many dierent sorts of relational ontologies, they 
 
 While one could explore many types of relational ontologies, we wish to focus on two general types and highlight how they dier. Each tells us incompatible stories about the nature of being, and each has dierent political ramications. One type is called undierentiated relational ontology. Here, the source of being lies within all living beings as a transcendent force. One can imagine it as a matryoshka, or Russian nesting doll, in which the largest doll encompasses and absorbs all the smaller ones within its embrace. When "the whole" incorporates everything that is "within it," the pieces might be called "undierentiated" in that all parts are dened by the whole. No element encompassed by the whole necessarily has its own individual agency or dierentiated character. All elements are more or less equal, and are considered so. Politically, such an ontology implies a forced collectivism or a centralized monoculture because every individual and thing is regarded as an undierentiated part of the whole.
 
-## ![](_page_53_Picture_4.jpeg)
 
 Dierentiated and undierentiated relational ontology.
 
@@ -582,7 +570,6 @@ e rst step in this journey is language. We must reect on how the words and logic
 
 # Language and the Creation o Commons
 
-## ![](_page_59_Picture_2.jpeg)
 
 Pencil, nail, and paper.
 
@@ -606,7 +593,6 @@ distinct worldviews through language. "Pencil and paper" may seem automatically 
 
 Our words, terms, and idioms subtly determine what we see as pertinent and what logical relations matter. e absence of words and terms indirectly signals what we regard as unimportant — after all, we have declined to name it. In sum, we may think that the meanings of our words are self-evident and our way of life is normal, but in fact both are highly circumstantial and context-based. Consider how the simple hand gesture of an upturned palm with ngertips joined together means dierent things in dierent cultures: Egyptians use the gesture to say, "Be patient!" Italians use it to ask, "What exactly do you mean?" And Greeks are exclaiming, "at's just perfect!"2 Again, the reality we each inhabit may feel solid and self-evident, but in fact, our symbols of meaning that we ultimately use — be they gestures or words — are somewhat arbitrary.
 
-## ![](_page_61_Picture_4.jpeg)
 
 We ended the last chapter by noting that seeing the commons as a general paradigm requires that we learn a new orientation toward reality — an Onto Shift. In this chapter, we want to explain why this orientation can only be expressed through new sorts of language.
 
@@ -925,7 +911,6 @@ Cultivate Shared Purpose and Values Ritualize Togetherness Contribute Freely Pra
 
 Shared purpose and values are the lifeblood of any commons. Without them, a commons loses its coherence and vitality. But shared purpose and values can only arise when people contribute from their own passion and commitment, connect with each other, and share certain experiences. A commons does not necessarily start with shared purpose and values. ese outcomes must be earned by commoners over time as they struggle to bring their diverse perspectives into greater alignment. is is important because the sense of shared purpose in a commons can't be formally imposed or declared. It must arise organically through meaningful commoning over time. A rooted culture cannot be built overnight.
 
-## ![](_page_111_Picture_6.jpeg)
 
 Just declaring shared purpose and values is like planting a tree and not watering it. Shared purpose and values need to be cultivated through collective reection, traditions, celebrations, and participation in all kinds of activities. All this can help strengthen mutual commitments. To be sure, the formal design of organizations and infrastructures can help, but there is no substitute for commoning to align and deepen people's concerns and values. is takes time.
 
@@ -941,7 +926,6 @@ One of the most important ways to strengthen shared purpose and values is by rit
 
 e rituals of togetherness can be as simple as regular meetings or as complicated as the specialized practices of an agroecology commons.
 
-## ![](_page_113_Picture_2.jpeg)
 
 A fair amount of community fun and frolic is also required. e many farmers of Mexico, New Mexico, and Colorado who participate in acequia irrigation commons have learned over centuries to ritualize togetherness. Everyone is, of course, concerned about his or her own allotment of water, but everyone also works together to maintain the water ditches and track the ecological limits of water usage. Software hackers are renowned for their creative rituals such as hackathons to gure out how to solve software problems and invent jargon that is understood only by them. e Quechua overseeing the Potato Park in Peru are bound together through their spiritual values and practices, much as the religious practices of Indonesian subak rice farmers help them coordinate when to plant seeds and irrigate their elds without depleting nite waters.
 
@@ -953,7 +937,6 @@ Contribute freely means giving without expecting to receive anything of equivale
 
 It is important not to make overly broad claims about how to contribute freely in a commons because so much is situational. As long as
 
-## ![](_page_114_Picture_6.jpeg)
 
 a person's contribution is not coerced, everything is ne. ere cannot be an even-steven calculation or strict reciprocity at work, even though that is always a temptation. And yet, it is intriguing that a freely given contribution often comes back to the giver, somehow, somewhere. In his classic book e Gift, Lewis Hyde explores the spiritual and emotional signicance of gift exchange as revealed in diverse cultures, anthropology, and literature. Explaining the dierence between "circular giving" and reciprocal giving, Hyde writes:
 
@@ -967,7 +950,6 @@ To C F helps build a healthy commons because it arms the ethical norm of sharing
 
 While commons surely need people to C F, they are not a fairy tale land of self-sacricing volunteers. ere is also social exchange based on some form of reciprocity between persons. But the reciprocity in a commons is of a dierent character than that of trade in markets. Markets are based on individuals bargaining to extract as much as possible for themselves when making exchanges of equivalent monetary value (price).
 
-## ![](_page_116_Picture_4.jpeg)
 
 Practice Gentle Reciprocity.
 
@@ -991,7 +973,6 @@ Despite the overwhelming power of scientic rationalism, often leveraged by burea
 
 ### Deepen Communion with Nature e great appeal of many commons is their invitation — often, in fact, a necessity — to bring people into closer communion with nature. In commons that revolve around natural biowealth — water, farmland, forests, sheries, wild game — people quickly realize that there are natural limits. People involved in agroecology, permaculture, community forests, and traditional irrigation become closely attuned to the rhythms of natural systems and the subtle indicators of their health or endangerment.
 
-## ![](_page_119_Picture_6.jpeg)
 
 Deepen Communion with Nature.
 
@@ -1005,7 +986,6 @@ e point is not simply to develop economic or government policies that are more "
 
 Any cooperative endeavor will face serious challenges, many of them stemming from personal behaviors or power relations. e question is not if, but how the inevitable conicts that arise will be dealt with. Ignoring them is not an option. What we mean by "preserving relationships" in addressing conicts might be best explained by drawing on Elinor Ostrom's insights.
 
-## ![](_page_121_Picture_5.jpeg)
 
 Like any institution, a commons must have rules and norms that apply to everyone. But what also matters a great deal is how those rules and norms are upheld. ere must be an honest, transparent reckoning of conict or violation, but also a spirit of respect and concern for all the people involved. In some contexts people are not able to leave, which makes it a priority to try to preserve relationships while addressing conicts. Hence the use of graduated sanctions, one of the eight design principles for commons identied by Elinor Ostrom. (See Appendix D.) It is important to recognize and rectify the harm, but also to honor the dignity of the person involved and their relationships with fellow commoners. Relationships can also be preserved when group complicity or systemic problems are acknowledged. e idea is not to secure consensus through threats of punishment, but to prevent misaligned relationships in the rst place. When transgressions do occur, it is important to mete out sanctions in gradually increasing severity, all in a context of trust, candor, and honesty. A frequent technique is to sit in a circle and discuss a problematic situation or behavior. (We have seen eective deliberations in circles with more than one hundred people.) e art is to give everyone the right to be heard, bear witness, and suggest changes while sharing the observed problem and its implications transparently.
 
@@ -1015,7 +995,6 @@ When one of us observed a large circle of members of the Venezuelan federation o
 
 In many commons people are not fully aware of their own practices. e underlying values and social dynamics — both the constructive ones and the less helpful ones — may be only dimly perceived. is makes a commons vulnerable. Even engaged people may forget how to maintain themselves as a commons in the face of daily operational challenges, the necessity (and seductions) of making money, the enticements of wielding power, new ideas about organizational governance, and countless other factors. It is therefore vital that commoners reect on their peer governance. at is the only way that they can protect the integrity of the commons against enclosure, cooptation, or the entropy that can sap institutions of their energy.
 
-## ![](_page_123_Picture_3.jpeg)
 
 We include this pattern, R Y P G, as part of the Social Life of Commoning and not as an issue of Peer Governance, because we regard it as a foundational necessity. German economist and commons scholar Johannes Euler has pointed out that just as there is no commons without commoning, so there is no commoning without peer governance. If you want your commons to survive decades or even centuries, governance behaviors must be made explicit and honestly discussed. Unself-conscious forms of commoning risk losing their way. Unless a group has centuries of tradition, culture, and ritual to act as stabilizing forces, its members must consciously reect upon the processes that make a commons work or that could make it better.
 
@@ -1091,7 +1070,6 @@ Let's explore each pattern more deeply.
 
 A commons is not simply a group of like-minded people who somehow discover each other, or a cohort of well-intentioned people willing to be educated. It is a social system that can only be developed through many acts of relationship-building and deliberation over time. People almost always have all sorts of dierent ideas and motivations, if only because personalities and backgrounds vary. Peer Governance, artfully carried out, brings diverse viewpoints together. ere is no substitute for this process because, without it, people may casually commit to some imagined, abstract idea about the future that may not reect their actual feelings, needs, and feasible possibilities.
 
-## ![](_page_134_Picture_4.jpeg)
 
 is is a core insight among the Indigenous and non-Indigenous organizations that established Unitierra — Universidad de la Tierra en Oaxaca — in Oaxaca, Mexico. It is a "de-institutionalized university" founded by commoners for commoners that rejects formal roles and hierarchy.8 Unitierra's founders regard the idea of shared purpose and objectives as unhelpful; what matters is shared action. In a real commons, says Gustavo Esteva, intellectual father and elder of Uniterra, people often have shared reasons to act and to act together, but initially they may not have a shared purpose. At Unitierra, people avoid trying to "pull from the future"9 by declaring in advance an imagined idea of where they want to go. Instead they try to "push from the base and from the past," by drawing upon everyone's experiences and motivations.
 
@@ -1117,7 +1095,6 @@ Designing a tech platform to facilitate governance is a tricky challenge. Libert
 
 Commons need protection, as we love to say. Scholars have conrmed from extensive eld research the need for what they call boundaries. e rst of Ostrom's famous eight design principles for successful commons is "clearly dened boundaries," which are needed to delineate the boundaries of the resource system and the membership of the commons. While agreeing with this general idea that boundaries are essential to stewardship, we believe that a better term is "semi-permeable membrane." After all, the point is not to establish a hermetically closed system that can exclude everyone else and hoard resources for members only — the goal of property law and "club goods" (as economists would put it). e point is to exclude inuences that undermine Ubuntu Rationality in a commons while remaining open to the ows of energy and life that create value in a commons and sustain it.
 
-## ![](_page_138_Picture_4.jpeg)
 
 So commoners must somehow learn to deal with a paradox to protect against capitalist threats to enclose common wealth while at the same time taking nourishment from the rich diversity of life. Commoners achieve this deft trick by creating semi-permeable membranes around themselves, much as any living organisms does. Unlike strict boundaries, semi-permeable membranes selectively allow what may or may not enter a commons, much as we choose the food and relationships that nourish us. A commons must remain open to all the external nutrients that might deepen the whole.
 
@@ -1135,7 +1112,6 @@ Any commons requires a similarly eective membrane to allow the passage of beneci
 
 You might say that there are two kinds of transparency — the legal kind that liberal democracies require to ensure ocial accountability, and the real transparency that can happen only when people know and trust each other. Real transparency is not just about ocial accountability based on formal authority and protocols — "covering your ass" in a bureaucratic sense. It's about personal disclosure and sharing one's authentic feelings. When a dicult decision must be made in combat, for example, or if a top general gives an order that subordinates regard as problematic, whom should they obey — their ocial superior in the chain of command or their close colleagues whom they know and trust? In politics and bureaucracies, transparency is often more of a formal charade than a candid sharing of knowledge because anything disclosed can and will be used against you. Minimally acceptable disclosure is therefore the norm.
 
-## ![](_page_140_Picture_5.jpeg)
 
 Real transparency is more meaningful precisely because it penetrates the veneer of formal roles and rules. And it is one of the reasons why commoning is not only challenging, but also transformative in a very deep, personal way. Stefan Brunnhuber, a prominent economist and clinical therapist, argues that cultural transformations cannot be properly understood or achieved through conventional rational-discursive approaches alone. Brunnhuber notes that "trying to reduce complexity through, say, more transparency [information disclosures alone] or the simplication of procedures, will be of little use." What is required is "a dierent psychosocial practice."16
 
@@ -1147,7 +1123,6 @@ Of course, in most groups and networks there is also misbehavior and social cliq
 
 # Share Knowledge Generously e sharing of knowledge (or its objectied cousin, information) seen in all commons is not just a nice thing to do. It is a crucial instrument by which people generate a social order of their own. at's how online communities, for example, develop free and open source software. Christopher Kelty, a cultural historian of this demimonde, argues that we must go beyond the simple-minded claim that "sharing is a natural condition of human life." e story is far more interesting, he notes: "Sharing produces its own kind of moral and technical order, that is, 'information makes people want freedom' and how they want it is related to how that information is created and circulated."19 (our emphasis)
 
-## ![](_page_142_Picture_3.jpeg)
 
 Share Knowledge Generously.
 
@@ -1167,7 +1142,6 @@ e challenge for Peer Governance is to ensure that information and knowledge can 
 
 It is fundamental that commoners have a meaningful say in developing the rules by which they shall be governed. e ways people directly participate vary greatly, of course, but at the very least, commoners must be able to register their views about Peer Governance and consent to the decisions made. is pattern resembles Ostrom's third design principle: "Most individuals aected by the operational rules can participate in modifying the operational rules."23
 
-## ![](_page_144_Picture_5.jpeg)
 
 In small groups, discussion and conversation in a circle are the customary practices for making decisions. is approach is used in the panchayat, or village councils, of India, which manage community forests or farmland. Some commons may be largely directed by governing committees or coordinating sta, and thus have less direct participation. Examples include the boards of open-access scholarly journals such as the Public Library of Science, the management of timebanks, some community supported agriculture (CSA) farms, and the foundations directly associated with open source software projects. Yet even commons with some form of central management are generally mindful of the need to consult with those aected by decisions.
 
@@ -1199,7 +1173,6 @@ Some people loathe the idea of Peer Governance because discussions can be so dic
 
 Sociocracy has been used extensively in schools, cohousing groups, cooperatives, and many other settings around the world. But it need not be conned to small, face-to-face groups. Small teams using Sociocracy can be nested within a larger "parent circle" that has broad oversight and decision making responsibilities. This helps
 
-## ![](_page_149_Picture_2.jpeg)
 
 assure that power is distributed as much as possible to the lowest possible levels ("subsidiarity") while coordinating the work of the whole enterprise. This is achieved by making each circle "double-linked," which means that two circle members serve as full members of both the smaller team and the parent circle at the same time. This ensures that each team can focus on what's important to them while assuring that important information is shared with everyone and acted upon.
 
@@ -1219,11 +1192,9 @@ Agreeing to common criteria of decision making — instead of making common deci
 
 Unlike centralized and hierarchical structures, commons tend to function as heterarchies. A hierarchy assigns people to clearly dened formal roles in a pyramid-shaped organizational chart and divides groups into progressively smaller categories and subcategories. It is a more rigid, rankdriven order,35 in which power is consolidated and formally structured.
 
-## ![](_page_151_Picture_6.jpeg)
 
 Heterarchy brings together top-down and bottom-up (both hierarchical), and peer-to-peer dynamics. One can think of it as reconciling distributed networks and hierarchies.36 It has the potential to bring into alignment responsible individual autonomy and the need for multilevel governance (hence some sort of hierarchy). A heterarchy allows people to make their own choices in how they will interact, making the system more exible and adaptable than conventional hierarchies.37 It tends to have unranked horizontal relationships of power and authority among participants, which enables the role of individual agents within the system to be recongured in multiple ways. While there are hierarchical elements in a heterarchy (the two systems of organization are not polar opposites), a heterarchy allows the same group of elements to be conjoined or divided in any number of ways. A hierarchy is a pyramid of rigidly prescribed power relations; a heterarchy allows power to ow dynamically through multiple and changing nodes in a social network.
 
-## ![](_page_152_Picture_3.jpeg)
 
 As we saw in Cecosesola, participants operating in a culture of trust and responsibility do not necessarily need formal, advance permission to do something. e open source software ethic encourages this attitude in countless elds: if you see a bug, if you have a great idea, if an urgent problem needs attention, you are authorized in advance to take action. ere may be subsequent reviews and second-guessing, and even reversals of such decisions. But experience has shown that individual initiative, when linked up with larger swarms of such actions, is amazingly reliable and effective in achieving results. One need not rely on formal representation or delegation to tackle complex, sophisticated tasks. Transparency in a Sphere of Trust, knowledge sharing, and networked relationships are far more adaptive.
 
@@ -1239,7 +1210,6 @@ What may seem counterintuitive to twentieth-century organizations is — in the 
 
 No commons can survive long if it does not ensure that its members adhere to the rules that they have agreed to. In the jargon of social science, if anyone can simply free ride on a commons' work or unilaterally defect from agreements, then the shared wealth will soon be depleted and the community will disintegrate. Sanctions are an important way of deterring such anti-social behaviors, and therefore must be part of any robust Peer Governance scheme.
 
-## ![](_page_154_Picture_6.jpeg)
 
 Peer Monitor & Apply Graduated Sanctions.
 
@@ -1257,7 +1227,6 @@ We cluster the next three patterns of Peer Governance together because they have
 
 As they come and go from their houses every day, many Germans are reminded that their relationships with property are ambiguous. Craftsmen in the early Middle Ages often inscribed a bit of traditional wisdom on the facades of countless homes: "is is mine but is not mine. Nor does it belong to the one who had it before me. It's not his, nor mine. He went out, I came in. And after me, it will be the same thing." e conundrum of property is that all sorts of things may be "owned" as a matter of law, but what really matters are their possession and use — and both of those rights are grounded in social relations.
 
-## ![](_page_156_Picture_6.jpeg)
 
 Relationalize Property.
 
@@ -1311,7 +1280,6 @@ To Keep C C D, the stewards of many community forests allow the cutting of trees
 
 In a world in which capitalist nance and money are ubiquitous and the default tools for getting things done, a question arises: how can provisioning in commons be nanced without the harmful inuences of money and debt? We have found that three general approaches can be eective in helping people escape dependency on capitalist nance while enhancing their security and freedom. ese are money-lite commoning to reduce the need for money and markets; collaborative nancing that lets commoners create and circulate money or credit for themselves, wholly from within their commons; and new public-commons circuits of nance, which allow taxpayer funds administered by government to be used to support commons.
 
-## ![](_page_164_Picture_3.jpeg)
 
 Before exploring these three approaches, some general observations must be made. As we have seen, the health of any commons depends upon preventing money from dominating its social dynamics. If debt or capital compromise people's independence or sow social divisions, a commons will likely fall apart. It is therefore helpful for commoners (or anybody) to become less dependent on money and markets. Peerdriven approaches enable commoners to recirculate the value that they create for mutual benet, rather than letting creditors or outside equity holders siphon value away in the form of interest or dividend payments.
 
@@ -1395,7 +1363,6 @@ Use Convivial Tools Rely on Distributed Structures Creatively Adapt & Renew
 
 Make & Use Together is a time-honored way for people to meet shared needs. To reduce costs and arm commonality, people often decide to co-create and share access to pools of information, knowledge, money, working spaces, tools, and infrastructures. To make and use something together is as old as the human species and as new as the internet.
 
-## ![](_page_175_Picture_6.jpeg)
 
 As in other patterns we introduce in these chapters, the "&" matters. e pattern is Make and Use Together, not simply "Use Together." If you think like a commoner, you think about the thing produced and the entire generative process as something to be used by yourself, shared, and potentially used by others. e process is not primarily about making and producing for your own or other people's consumption. It's about meeting shared needs. When making new creative works, a person forfeits his or her proprietary control under copyright (using Creative Commons licenses) to ensure that certain use rights such as copying and sharing are available. Commoners don't want to restrict others from co-producing the same thing; they want as many people as possible to join in the enterprise. Encouraging more commoning in online contexts is highly attractive, because, as Linus Torvalds discovered in those early days of the World Wide Web, the more the merrier. On open digital platforms, where it is virtually costless to reproduce things (but for the energy-intensive infrastructure), more value can be generated as more people have the capacity to participate.
 
@@ -1425,7 +1392,6 @@ e irony is that care and decommodied work are utterly indispensable to the funct
 
 To S C D W is to rescue this neglected care sector from oblivion and put it at the center of economic thinking. It is to validate a dierent logic for organizing the economy. Commoning invites us to forgo self-advantage rather than maximize personal gain. By providing care, we make ourselves vulnerable and dependent on others. We sacrice our time, energy, and
 
-## ![](_page_180_Picture_2.jpeg)
 
 Iceberg with market economy.
 
@@ -1439,7 +1405,6 @@ Studies show that people who can escape market regimes of valuation (i.e., money
 
 In the capitalist economy, companies are said to shoulder the risks of creating and marketing a product, even though their research and development budget is often subsidized by taxpayers and even though they often displace risks and expenses on to consumers, the environment, and future generations. is is their rationale for reaping the prots after production. In a planned economy, some risks are assumed by the state or simply ignored. In a commons, however, where the distinction between consumer and producer gets blurred, everybody who is actively involved accepts co-responsibility for the sharing of risks before and during production. ese risks may include the uncertainty of the crop yields from a CSA farm, the complications of maintaining a community-based Wi-Fi infrastructure such as Gui.net, or the uncertainties associated with the open source process needed to design an aordable, nonproprietary tractor such as the Life-Trac of Open Source Ecology.13
 
-## ![](_page_182_Picture_3.jpeg)
 
 e ways of sharing risks take many dierent forms. In crowdfunding campaigns, donors essentially give a gift to project leaders to develop a new software app, invention, or social service. When contributions are pooled for a collective investment, the risks are fairly small for any individual while the potential benets for everyone are large. In many German CSAs, there is a process known as a "bidding round" (Bieterrunde) in which the CSA farm informs members at the beginning of the planting season how much money will be needed to grow the year's crops. Members then gather in a circle, reect together on the group's overall need, and decide individually what each person can aord to give. en members submit anonymous pledges of money into the common pot. If not enough funds are raised in the rst bidding round, the size of the shortfall is announced and a second round of contributions starts. Usually the needed sum is raised in only two rounds. is is the way that risks for growing the season's crops are shared without requiring people of unequal capacities to contribute equal shares toward dividing up the harvest equally.
 
@@ -1449,7 +1414,6 @@ When risks are shared, everything changes: the power relationships, the decision
 
 Pooling means contributing to a stock of resources to reach a common goal or solve a specic problem, spontaneously or by voluntary agreement. en the pool is shared. You can pool virtually everything – knowledge, physical resources, one's time, energy, food, tools, ideas, or money. Pooling is not just about putting things into a collective pot, it's also about contributing one's talents, energy, imagination, and services to create a commons that can benet everyone. When people Contribute & Share, whatever is needed is freely contributed (sometimes with a gentle nudge) by all participants. And then it is shared without calculating everyone's individual benet. Participants reduce their individual costs of provisioning, increase the likelihood of meeting everybody's needs better, and develop a sense of co-responsibility and solidarity. As in Pool & Divide, everybody can participate regardless of their nancial means or social status.
 
-## ![](_page_183_Picture_5.jpeg)
 
 Contribute & Share works in all realms of commoning, but it is particularly powerful on open networks, where the usefulness of information, ideas, knowledge, code, and design grows the more that they are shared and adapted. However, what matters most here as well is the "&." Pooling without sharing in the commons is like shopping without money in capitalism: it won't work. You can only share what you pool, contribute, or co-produce in the rst place.
 
@@ -1505,7 +1469,6 @@ Thus we prefer Cap & Divide Up (better known as Cap & Share) and Cap & Mutualize
 
 In cases in which a common resource is nite and can be used up, P, C D U is a variant of Pool & Share. A cap on usage, set through a peer governance process, can address a threat of overuse or insucient supplies that might occur if everyone takes what she wants. To P, C D U speaks to timeless experience and necessity. Hunters manage to kill only so much game but there are many people who need to eat … gatherers acquire only a limited store of nuts and fruit … guests at potluck dinners bring only so much food, which somehow must be made to serve everyone.
 
-## ![](_page_190_Picture_3.jpeg)
 
 Pool, Cap & Divide Up.
 
@@ -1517,7 +1480,6 @@ P, C D U is arguably the most prevalent pattern of cooperation in the world toda
 
 P, C M is useful for dealing with limited resources that you wish to use and steward in common, but don't necessarily want to divide up. Everyone does not necessarily get an absolutely equal share. e point is for a distinct group of cooperators to collectively meet their needs in a roughly equivalent way and, in so doing, express a basic social solidarity. Cap & Mutualize is a familiar modern principle used in social security systems and healthcare, for example. It can also be seen in the Artabana community health insurance system, described earlier.
 
-## ![](_page_191_Picture_5.jpeg)
 
 ere is a reciprocity at play, in that everyone helps oversee the proper, respectful use of the common grazing lands while enjoying benets from it. But the reciprocity is not a transactional, market-like trade because the commoning has the character of neighborly support and exibility in fullling a shared agreement. is is far dierent from a cap-and-trade scheme in that users are deciding what an acceptable cap on usage is, based on their own experiences and careful observations. Another benet of Cap & Mutualize is that it preserves a shared intentionality among the user group, whereas trading encourages individual exploitation of the resource to maximum legal limits (and beyond), otherwise known as the tragedy of the market.
 
@@ -1525,7 +1487,6 @@ ere is a reciprocity at play, in that everyone helps oversee the proper, respect
 
 One of the great powers of a commons is its ability to emancipate itself from markets — and the prices they dictate. Somebody who participates in a commons to support some facet of her life does not need to submit to the omnipotence of many markets. A commons enables people to go their own path. If they need to engage with the market, they can choose their own terms.
 
-## ![](_page_192_Picture_4.jpeg)
 
 In the United States, civil rights activist Fannie Lou Hamer came up with a shrewd strategy in the 1960s for dealing with community disempowerment, which in her case was caused by exploitative whiteowned businesses. With support from singer Harry Belafonte and a Wisconsin charity, Measure for Measure, she founded an interracial farming cooperative in 1969 on a few dozen acres of Delta land. e goal was to empower poor blacks to grow their own food. "When you've got 400 quarts of greens and gumbo soup for the winter, nobody can push you around or tell you what to say or do," Hamer noted.19 Imagine what might happen if commoners emulated this strategy in dozens of realms. It would begin to put serious pressure on the market! at can already be seen in northwest Venezuela, thanks to the commons-based provisioning of Cecosesola.
 
@@ -1581,7 +1542,6 @@ price |
 
 ## \* \* \*
 
-## ![](_page_198_Picture_2.jpeg)
 
 Use Convivial Tools.
 
@@ -1597,7 +1557,6 @@ In our times, open source tools and technologies are convivial tools with great 
 
 # Rely on Distributed Structures ere is no inherent reason that commons cannot work at larger scales, as we have seen with countless networked communities that rely on internet platforms. Making a commons grow, however, requires not only political support, but also discrimination-free structures and infrastructures that make commoning easier. People must have fairly simple means to participate and give their consent, and systems must be devised to engender social trust, shared purpose, and coherence. Such (infra) structures need to be available for distributed use, when possible e.g., peer-to-peer (open source software), team-to-team (Buurtzorg neighborhood home care), or node-to node structures (Fair Coop). is means that the (infra)structures should enable peers, teams, and local nodes to interconnect and form semi-autonomous spheres of self-provisioning and -governance. Each part of the whole can then operate semi-autonomously, according to its own distinct rules and situational needs, while also coordinating with their other semi-autonomous peers.
 
-## ![](_page_200_Picture_3.jpeg)
 
 Distributed structures dier from decentralized structures in that the latter are connected to central hubs whereas the former are interconnected peers (or teams, groups, nodes, or local commons) that relate directly to each other through a network or a federation, without a central hub.25 Distributed structures tend to behave more autonomously and enjoy greater self-determination. is helps prevent the consolidation of political power and render coercive, command-and-control authority systems unnecessary, but it does require initiative, creativity, and self-responsibility. Decentralized structures usually relate to a more authoritarian central body (municipality to states to a national government; franchisees to the corporate headquarters) and thus cede some of their autonomy, imagination, and potential to it.
 
@@ -1611,7 +1570,6 @@ e goal in each case is not to consolidate management through a central body, but
 
 # Creatively Adapt & Renew
 
-## ![](_page_201_Picture_6.jpeg)
 
 Creatively Adapt & Renew.
 
@@ -1629,7 +1587,6 @@ e patterns of Provisioning that we have described here are dynamic and alive —
 
 is phenomenon is taking many forms. Imagine a Cuban farmer working with peers from India and Peru to gure out ways to improve rice yields, a routine practice among farmers associated with SRI, the System of Rice Intensication. Or imagine designers in Amsterdam working with engineers and architects in Australia and the US to design low-cost, modular housing that anyone can build with local supplies. is is now a working norm among participants in the global Wikihouse network. ere is a long tradition of cosmo-local cooperation in agriculture, as seen in such networks as Campesino a Campesino. is is an international mutual aid project that peasant farmers started in Guatemala in the early 1970s as a self-help alternative to multinational development interventions.30 Or consider Masipag, a nonprot partnership between resource-poor farmers and scientists at research institutions around the world, devoted to breeding and cultivating locally adapted seeds.31
 
-## ![](_page_204_Picture_3.jpeg)
 
 Heterarchical and federated structures.
 
@@ -2037,7 +1994,6 @@ It takes only a few clicks to make a at your own in the Federated Wiki ecosystem
 
 In other words, the Fedwiki software creates protected individual spaces for content generation while facilitating diverse permutations of collaborative authoring on a massive scale. It opens countless paths for individuals to organize their own knowledge while easily sharing it with others, and, what's more, enabling a commons of knowledge to arise, without the intervention of an editor. To use another metaphor: people using Fedwiki sites are like gardeners or farmers. ey can plant as many elds or gardens as they want, and reap the harvest from their own Fedwiki, but anyone else can also use someone's harvest to
 
-## ![](_page_256_Picture_4.jpeg)
 
 In a conventional wiki, multiple individual users contribute to a single wiki on a single server, as shown in the gure at left. But in a Federated Wiki, the contents of multiple individual wikis hosted on multiple servers can be selectively compiled on a single person's wiki, as shown in the gure at right.
 
@@ -2175,7 +2131,6 @@ Communal income from matsutake harvesting in Oka uctuates from years to year. Bu
 
 e core idea of the holistic bidding system — that the owner of a specic plot of land is not entitled to harvest the matsutake that grow on that land by dint of ownership — is similar to laws that govern many individual forest owners in Europe who cannot simply decide on their own to cut a tree on their property. Villagers obviously have a particular understanding of who owns what — a multilayered tableau of protocols, as it were, for treating the world. Landowners consent to this arrangement because it is a traditional community arrangement; they see themselves as co-designers and co-decision makers of this process as part of the community. Community-regulated access is not seen as a prohibition, but rather as a sensible consensual agreement — obviously, a cultural shift from the Western, proprietary mentality. According to the researchers, "at a subconscious level," the land belongs to the whole village.
 
-## ![](_page_279_Picture_2.jpeg)
 
 Common land coexists with private rights. In harvesting matsutake mushrooms, Oka villagers regard the underground soil in which the mushroom fungi grows as commonly held land that cannot be alienated or privately owned. On the surface of the land, peer governance determines how people may access the mushrooms.
 
@@ -2407,7 +2362,6 @@ But a simple shift of legal authority is not enough. Any state support for commo
 
 Imagine a town in which supermarkets are run as cooperatives, helping residents to buy higher-quality, local food produced under fair and eco-responsible conditions. e local taxi service and tourist lodgings
 
-## ![](_page_313_Picture_6.jpeg)
 
 are managed by platform cooperatives, letting households and the community share the benets. Nursing services are run by a neighborhood home care venture such as Buurtzorg (Chapter One). Electricity generated by rooftop solar panels is pooled and shared via distributed ledger technology software,46 which is reducing high electric bills and allowing public divestment from fossil fuels and nuclear power. e state at all levels is providing infrastructures, technical advice, and funding that let people launch their own makerspaces, CSA farms, energy cooperatives, tool-sharing commons, repair cafés, and timebanking exchanges.47
 
@@ -2427,7 +2381,6 @@ e challenge is huge, because so much of it is cultural, in making commoning more
 
 One reason that state institutions are so indispensable to helping foster commons is the scale and coordination they can provide for managing large-scale resources. Forests, waterways, grazing lands, and underground mineral deposits often traverse large landscapes and cross political boundaries. Legal and administrative coordination at a macroscale is therefore required to gure out how multiple claims to a given landscape or resource will be resolved, and how various individual commons should be dened and delimited. One example is a Dutch project called King of the Meadows.49 Many people became alarmed at the disappearance of the once-common Black-tailed Godwit, due to agricultural practices that have wiped out its meadow habitat. e King of the Meadows project brought together citizens, farmers, musicians, artists, scientists, dairy producers, and others to reconnect people to the landscape and promote "nature-inclusive agriculture" to help restore the godwit and celebrate the connection between biological and cultural diversity. e initiative is now a robust regional, networked collaboration.
 
-## ![](_page_316_Picture_3.jpeg)
 
 In cases such as this, state power can play a useful role in providing "macroplatforms" to facilitate action that may exceed the capacities of individual commons to solve. State agents have an obvious role in serving as an honest broker among factions in conict resolution and cross-border negotiations. Of course, the political chemistry of serving such a role eectively depends upon many circumstantial factors. But a state role is entirely plausible and should not be dismissed. Demonstrable public support can persuade the state to try new approaches.
 
@@ -2439,7 +2392,6 @@ A remarkable number of innovative legal vehicles have been created in recent yea
 
 States have a special capacity to help disparate enterprises grow more rapidly by building infrastructures and requiring technical standards that allow for easy interoperability and safety. Infrastructures designed with commons in mind — or even better, designed to be stewarded by commoners themselves — can make it easier and cheaper for people to initiate their own self-organized systems. e classic example is the US Government's development of technical protocols known as TCP/ IP, which enable diverse computing networks to interconnect into a single, integrated internet. e state could do similar things today by recognizing open technical standards that limit proprietary control, while taking steps to ensure that the largest, wealthiest businesses do not simply use open standards to capture the innovation space. We need open but protected commons (see pp. 69–72) to assure interoperability and nondiscriminatory access (as platform neutrality does).
 
-## ![](_page_318_Picture_3.jpeg)
 
 Provide Infrastructures for Commoning.
 
@@ -2453,7 +2405,6 @@ Direct spending on infrastructure to support commoning is always an attractive o
 
 State agencies could provide essential support for all sorts of commoning by establishing commons-friendly nance systems. Even though most commons are nonmarket systems of provisioning, they operate within a larger world of market capitalism. ey often need credit to build their own facilities and infrastructure, and to pay sta and buy goods and services. But unlike businesses or nonprot organizations, commons seek to avoid types of debt that suck them into the world of competition, growth, and subordination to banks. ey prefer to reject nancial support linked to conditions beyond the scope and mission of the commons because debt entails a loss of freedom. Commoners also dismiss nancing schemes that would allow private players to appropriate the value created (for example, through an equity stake that entitles investors or banks to skim o prots or to claim shared assets). Here, too, the very same logic seen in public settings applies: what has been created in the commons needs to stay in the commons.
 
-## ![](_page_320_Picture_3.jpeg)
 
 At the moment, this is a eld of experimentation and innovation. Some familiar progressive forms of credit such as public banks, cooperative banks, community development nance, and social and ethical banks, often support worthy social enterprises. But most of these nance schemes are geared toward providing less burdensome terms of credit (lower interest rates, easier approval, etc.) for enterprises facing the market. ey do not seek to escape the force eld of markets and conventional credit itself (competition, prot, growth), nor do they seek to support commons as commons.
 
@@ -2553,7 +2504,6 @@ A hashchain is a sequential computing process that applies a cryptographic hash 
 
 A blockchain is a computing process that encrypts data by creating a series of "blocks" containing cryptographic hashes of preceding blocks, with a timestamp on all transactions between parties. A long string of blocks constitutes a record of all prior transactions and provides a very secure way to verify the identity of a digital object (such as a bitcoin). This is why blockchain technology is popular as a way to develop currencies that can be safely traded on open networks.
 
-## ![](_page_335_Picture_5.jpeg)
 
 Holochain is a set of network-based computing protocols that lets people create their own customized, distributed records for keeping track of value. Because there is no single ledger (as in blockchains), Holochain enables a richer diversity of systems for representing value. In this sense, Holochain is a tool based on a dierentiated relational ontology (each user can express value in dierent, particular ways when interacting with people) while blockchain as a tool ultimately reects an undierentiated ontology (each user must accept the prevailing standard of the system). (See Chapter 2).
 
@@ -2923,7 +2873,6 @@ e result can enable researchers to identify and analyze social, institutional, a
 
 Action takes place inside, between, and around one or more semitransparent spheres.
 
-## ![](_page_373_Picture_7.jpeg)
 
 Our sphere is the commons, shaped and represented by a dynamic texture of dots and squares: a diversity of realities, commoners participating in interdependent relationships with the world outside the commons.
 
@@ -2932,11 +2881,9 @@ Our sphere is the commons, shaped and represented by a dynamic texture of dots a
 - "ey are COMPLEX, ADAPTIVE, LIVING PROCESSES that generate wealth and meet people's needs."
 - In contrast, the capitalist system (or its elements) is represented by squares without hue, gradient or texture.
 
-## ![](_page_374_Picture_5.jpeg)
 
 ### Commoning
 
-## ![](_page_374_Picture_7.jpeg)
 
 ### Inside
 
@@ -2947,7 +2894,6 @@ Our sphere is the commons, shaped and represented by a dynamic texture of dots a
 - Within a single commons
 - Local
 
-## ![](_page_374_Picture_12.jpeg)
 
 ### Outside
 
@@ -2963,7 +2909,6 @@ e sphere and the dot are abstract representations of the individual and the comm
 
 e individual is part of a 'we' — and in fact, of many 'we's'. e two are deeply intertwined."
 
-## ![](_page_375_Picture_5.jpeg)
 
 ## Layer 2: Dots and Squares, Flows and Areas
 
@@ -2975,7 +2920,6 @@ e individual is part of a 'we' — and in fact, of many 'we's'. e two are deeply
 
 "e process through which COMMONERS participate in interdependent relationships with the more than human world."
 
-## ![](_page_375_Picture_11.jpeg)
 
 Dots and squares come together as ows and areas, suggesting spaces inside and outside the spheres.
 
@@ -2985,29 +2929,24 @@ Dots and squares come together as ows and areas, suggesting spaces inside and ou
 
 Flows of dots and squares represent connections, relations, directions, concrete actions, and spaces. Flows diuse into wider areas.
 
-## ![](_page_376_Picture_5.jpeg)
 
 Areas of dots and squares wrap around or move through the sphere, creating dynamic shapes.
 
 ## \* \* \*
 
-## ![](_page_377_Picture_2.jpeg)
 
 # Size = diverse realities e size of the elements expresses dierent realities. Dots and squares, ows and areas behave in dierent manners.
 
-## ![](_page_377_Picture_5.jpeg)
 
 ### Density = power
 
 Density is achieved by increasing the volume of the elements, overlapping and reducing the space between them.
 
-## ![](_page_377_Picture_8.jpeg)
 
 # Movement/shift = aliveness
 
 "Comets" = direction. Direction is achieved through ows of dots progressively decreasing in size. e "head" of the "comet" is formed by larger dots and higher density.
 
-## ![](_page_377_Picture_11.jpeg)
 
 Organic vs. ordered congurations = Free vs. ruled activities/relations
 
@@ -3017,27 +2956,21 @@ Organic vs. ordered congurations = Free vs. ruled activities/relations
 
 "Since each is constantly evolving and aected by multiple inuences, the world has no singular denition or representation … It [is] a pluriverse a diversity of living, dynamic social organisms that are conjoined by our common humanity and interdependence on other life-forms and the Earth."
 
-## ![](_page_378_Picture_4.jpeg)
 
 Types of relational dynamics expressed by patterns and their graphic translation.
 
-## ![](_page_378_Picture_6.jpeg)
 
 Convergent dynamics are expressed through spiral congurations.
 
-## ![](_page_378_Picture_8.jpeg)
 
 Analysis/reection dynamics are expressed through concentric circles/ eye congurations.
 
-## ![](_page_379_Picture_2.jpeg)
 
 Making together and provisioning dynamics are expressed through braided congurations.
 
-## ![](_page_379_Picture_4.jpeg)
 
 Sharing/dividing-up dynamics are expressed through wave con gur a tions.
 
-## ![](_page_379_Picture_6.jpeg)
 
 Dynamics related to love (trust, care ...) are expressed through concave congurations (as a nesting/nurturing reference).
 
@@ -4721,19 +4654,16 @@ Zaatari Refugee Camp, 19–20 zanjera irrigation communities (Philippines), 147,
 
 D B is an activist, scholar, and blogger who is focused on the commons as a new/old paradigm for re-imagining economics, politics, and culture. He pursues his commons scholarship and activism as Director of the Reinventing the Commons Program at the Schumacher Center for a New Economics and as cofounder of the Commons Strategies Group, an international advocacy project. Author of ink Like a Commoner and other books, he blogs at www. Bollier.org, and lives in Amherst, Massachusetts.
 
-## ![](_page_447_Picture_2.jpeg)
 
 ## CRedit: thomaS bollieR
 
 S H is an independent activist, author, scholar, and speaker. She cofounded the Commons Strategies Group and Commons-Institute, was former head of the regional oce of Heinrich Böll Foundation for Central America, Cuba, and Mexico, and holds degrees in Romance languages/pedagogy and in social sciences. Helfrich is the editor and co-author of several books on the Commons, blogs at www. commons.blog, and lives in Neudenau, Germany.
 
-## ![](_page_447_Picture_5.jpeg)
 
 CRedit: mil Pa filmS/ole SChwa Rz, li Cen Sed undeR CReative CommonS by Sa li Cen Se
 
 # A Note about the Publisher
 
-## ![](_page_448_Picture_1.jpeg)
 
 N S P is an activist, solutions-oriented publisher focused on publishing books for a world of change. Our books oer tips, tools, and insights from leading experts in sustainable building, homesteading, climate change, environment, conscientious commerce, renewable energy, and more — positive solutions for troubled times.
 
@@ -4769,11 +4699,6 @@ Download our catalogue at https://newsociety.com/Our-Catalog, or for a printed c
 
 Environmental benets are calculated based on research done by the Environmental Defense Fund and other members of the Paper Task Force who study the environmental impacts of the paper industry.
 
-## ![](_page_448_Picture_21.jpeg)
-
-## ![](_page_448_Picture_22.jpeg)
-
-## ![](_page_448_Picture_23.jpeg)
 
 # A Guide to Responsible Digital Reading
 

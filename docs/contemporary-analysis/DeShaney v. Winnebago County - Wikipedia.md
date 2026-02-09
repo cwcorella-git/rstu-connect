@@ -11,11 +11,9 @@ tags:
 
 ## Contributors to Wikimedia projects
 
-14–17 minutes
 
 ## From Wikipedia, the free encyclopedia
 
-## ![](_page_0_Picture_8.jpeg)
 
 [Supreme Court of the United States](https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States)
 
@@ -94,7 +92,6 @@ Rehnquist's opinion stated that although the DSS's failure to act may have made 
 
 The court's ruling generated two dissents. The first, by Justice [William Brennan,](https://en.wikipedia.org/wiki/William_J._Brennan,_Jr.) asserted that whether the Due Process Clause gave Joshua De Shaney a constitutional right to protection against abuse was irrelevant, since it was not an argument presented to either of the lower courts or even to the Supreme Court and "no one, in short, has asked the Court to proclaim that, as a general matter, the Constitution safeguards [positive](https://en.wikipedia.org/wiki/Positive_liberty) as well as [negative](https://en.wikipedia.org/wiki/Negative_liberty) liberties.["\[10\]](#page-10-5) He added that Rehnquist used a flawed interpretation of the Estelle and Youngberg precedents, which Brennan held "to stand for the much more generous proposition that, if a State cuts off private sources of aid and then refuses aid itself, it cannot wash its hands of the harm that results from its inaction."[\[11\]](#page-10-6) Finally, Brennan argued that Wisconsin's child-protection laws created a regime in which private citizens and government bodies other than a Department of Social Services had no power or role to intervene with child abuse other than notifying the DSS. As such, Brennan held that the child-protection laws constituted the same custodial "deprivation of liberty" that Rehnquist's opinion held necessary for a Due Process violation.
 
-## ![](_page_6_Picture_3.jpeg)
 
 Harry Blackmun, Associate Justice of the Supreme Court of the United States
 

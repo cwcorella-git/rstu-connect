@@ -10,7 +10,6 @@ tags:
 
 ## Contributors to Wikimedia projects
 
-39–49 minutes
 
 | Vote for any number of options. | | | | | |
 |---------------------------------|--------------|--|--|--|--|
@@ -90,7 +89,6 @@ Steven Brams' analysis of the 5-candidate 1987 Mathematical Association of Ameri
 
 Approval voting was used for Dartmouth Alumni Association elections for seats on the College Board of Trustees, but after some controvers[y\[45\]](#page-28-0) it was replaced with traditional runoff elections by an alumni vote of 82% to 18% in 2009[.\[46\]](#page-28-1) Dartmouth students started to use approval voting to elect their student body president in 2011. In the first election, the winner secured the support of 41% of voters against several write-in candidates[.\[47\]](#page-28-2) In 2012, Suril Kantaria won with the support of 32% of the voters[.\[48\]](#page-28-3) In 2013, 2014 and 2016, the winners also earned the support of under 40% of the voters.[\[49\]](#page-28-4) [\[50\]](#page-28-5)[\[51\]](#page-28-6) Results reported in The Dartmouth show that in the 2014 and 2016 elections, more than 80 percent of voters approved of only one candidate[.\[50\]](#page-28-5)[\[51\]](#page-28-6) Students replaced approval voting with plurality voting before the 2017 elections. [\[52\]](#page-28-7)
 
-![](_page_6_Picture_4.jpeg)
 
 Rows of [secret](https://en.wikipedia.org/wiki/Secret_ballot) approval vote boxes from early 1900s [Greece,](https://en.wikipedia.org/wiki/Greece) where the voter drops a marble to the right or left of the box, through a tube, one for each candidate standing
 

@@ -8,11 +8,9 @@ tags:
   - current-events
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 ## PENGUIN
 
-## ![](_page_0_Picture_2.jpeg)
 
 ## CLASSICS
 

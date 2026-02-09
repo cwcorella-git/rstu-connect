@@ -10,9 +10,6 @@ tags:
 
 ## ![](_page_0_Figure_0.jpeg)
 
-## ![](_page_0_Picture_2.jpeg)
-
-## ![](_page_0_Picture_3.jpeg)
 
 # what does a society with out rape culture 100k like?
 
@@ -38,7 +35,6 @@ Please note that this requires facilitators to feel comfortable and prepared to 
 
 ## **OPTIONAL:** Printed Ending Rape Culture handout
 
-## ![](_page_2_Picture_8.jpeg)
 
 #### FACILITATOR TIP
 
@@ -48,7 +44,6 @@ Let people know in advance that the following activity and conversation will dis
 
 1. Draw a large triangle on your flipchart paper and ask the group what they think of when they hear the phrase "Rape Culture."
 
-## ![](_page_2_Picture_13.jpeg)
 
 Ask clarifying questions if necessary and allow the group to explore and build their own definition of rape culture.
 
@@ -58,7 +53,6 @@ Ask clarifying questions if necessary and allow the group to explore and build t
 
 ⊰ape
 
-## ![](_page_2_Picture_17.jpeg)
 
 #### FACILITATOR TIP
 
@@ -66,7 +60,6 @@ This is a great way to see where your group is at in their understanding of sexu
 
 ## RAPE CULTURE PYRAMID TALKING POINTS:
 
-## ![](_page_3_Picture_1.jpeg)
 
 Rape culture is not just about individual actions or behaviors, but rather exists within all relationship dynamics, cultural beliefs, and larger societal systems.
 
@@ -82,7 +75,6 @@ The structural systems at the bottom of the pyramid are roots of sexual violence
 
 When people talk about rape and sexual violence prevention, they often think about ways to prevent the top half of the pyramid through awareness campaigns or bystander intervention training. It is equally important look at the bottom half of the pyramid in our prevention work: how can we shift our culture by deconstructing stereotypes based on race and gender? How will trans liberation and queer justice help in our fight to end sexual violence? How does historical and contemporary colonialism use sexual violence as a weapon against indigenous people? Answering these questions and using racial justice, economic justice, gender justice, and reproductive justice frameworks in your prevention work will allow you to fight against the roots of violence.
 
-## ![](_page_3_Picture_9.jpeg)
 
 #### FACILITATOR TIP
 
@@ -90,7 +82,6 @@ Print out and share some of these articles or resources with your participants! 
 
 &lt;sup>4 https://incite-national.org/dangerous-intersections/
 
-## ![](_page_3_Picture_16.jpeg)
 
 &lt;sup>1 http://msmagazine.com/blog/2018/04/05/racist-roots-rape-culture/
 
@@ -100,13 +91,11 @@ Print out and share some of these articles or resources with your participants! 
 
 #### **DISCUSSION QUESTION:**
 
-## ![](_page_4_Picture_1.jpeg)
 
 Now that you have a better understanding of the pyramid, is there anything you want to add to your own definition of rape culture?
 
 3. Lead group is a discussion about rape culture using their definition, the Rape Culture Pyramid, and the accompanying resource guide if useful.
 
-## ![](_page_4_Picture_4.jpeg)
 
 - Which of these items in the pyramid are visible/invisible?
 - How do the words on the bottom relate to the words at the top—or each other?
@@ -119,9 +108,6 @@ Only have a limited amount of time? The Rape Culture Pyramid can be used by itse
 
 Pass out the Ending Rape Culture Activity: Now that we have a better understanding of how rape culture is a part of structures of power, cultural and community beliefs, relationships and individual behavior and biases, how can we build a better world?
 
-## ![](_page_4_Picture_12.jpeg)
-
-## ![](_page_4_Picture_13.jpeg)
 
 **NOTE:** The "Ending Rape Culture" Activity has an outer-ring for structural changes and an inner-circle to write what is needed for a consent culture with prompts such as "loving communities," "healthy relationships, and "joyful sexuality." Discuss this change with participants. Why is a circle useful for this kind visioning while the pyramid is better when illustrating rape culture?
 
@@ -131,17 +117,14 @@ Choose the best way to approach this activity with your group: small groups that
 
 Whichever approach you choose, bring your group together and talk about what they came up with in their smaller groups or individual processes. Use the Flipchart paper again, this time mimicking the new shape (circle with outer-ring), and create a collective vision for ending rape culture.
 
-## ![](_page_4_Picture_18.jpeg)
 
 #### FACILITATOR TIP
 
 Joyful sexuality can mean a lot of things including asexuality which is when a person does not experience sexual attraction.
 
-## ![](_page_4_Picture_21.jpeg)
 
 **OPTIONAL:** Pass out the Action Alliance's Ending Rape Culture Handout. This is an example of the Virginia Sexual and Domestic Violence Action Alliance's staff vision for a world without rape culture.
 
-## ![](_page_4_Picture_23.jpeg)
 
 ## ![](_page_5_Figure_0.jpeg)
 
@@ -166,11 +149,6 @@ Virginia Sexual & Domestic Violence Action Alliance I www.vsdvalliance.org I inf
 
 Virginia Sexual & Domestic Violence Action Alliance I www.vsdvalliance.org I info@vsdvalliance.org I 804.377.0335
 
-## ![](_page_8_Picture_0.jpeg)
-
-## ![](_page_8_Picture_1.jpeg)
-
-## ![](_page_8_Picture_2.jpeg)
 
 ## **TEACHCONSENT. ORG**
 
@@ -178,9 +156,6 @@ Virginia Sexual & Domestic Violence Action Alliance I www.vsdvalliance.org I inf
 
 ## FEATURING 1-MINUTE VIDEO WITH DISCUSSION GUIDES
 
-## ![](_page_8_Picture_6.jpeg)
-
-## ![](_page_9_Picture_0.jpeg)
 
 I thought it was just
 going to be a journal...
@@ -192,15 +167,9 @@ but this was like "whoa"
 
 DO YOU addresses youth violence, dating and sexual violence, sexual harassment, and bullying by confronting its root causes and enhancing protective factors (also referred to as building resilience) to promote positive development and healthy relationships among youth ages 13-16. The Un Curriculum (the facilitator's guide for DO YOU uses primary prevention principles and creative expression in a strategy intended to prevent violence before it starts. Find out more at vsdvalliance.org in the prevention section.
 
-## ![](_page_9_Picture_4.jpeg)
-
-## ![](_page_9_Picture_5.jpeg)
 
 ## ![](_page_9_Figure_6.jpeg)
 
-## ![](_page_9_Picture_7.jpeg)
-
-## ![](_page_10_Picture_0.jpeg)
 
 ### Drive peace home.
 
@@ -210,11 +179,9 @@ Every "peace at home" plate on the road helps support programs across Virginia t
 
 Make your car a vehicle for change.
 
-## ![](_page_10_Picture_5.jpeg)
 
 ## ![](_page_11_Figure_0.jpeg)
 
-## ![](_page_11_Picture_1.jpeg)
 
 Virginia's leading voice on sexual and domestic violence for over 30 years.
 

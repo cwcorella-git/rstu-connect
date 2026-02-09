@@ -17,25 +17,14 @@ THE PROSPECTIVE THIRD GAME IN AMERICAN MCGEE'S ALICE SERIES
 
 ## OMPLETE NARRATIVE & VISUAL WORKS
 
-## ![](_page_0_Picture_4.jpeg)
 
 ## MYSTERIOUS STUDIOS
 
-## ![](_page_1_Picture_0.jpeg)
-
-## ![](_page_1_Picture_3.jpeg)
 
 # IMPORTANT . PLEASE READ
 
 ## MAKING ALICE ASYLUM A REALITY. THE STORY SO FAR.
 
-## ![](_page_1_Picture_10.jpeg)
-
-## ![](_page_1_Picture_11.jpeg)
-
-## ![](_page_1_Picture_12.jpeg)
-
-## ![](_page_1_Picture_13.jpeg)
 
 ALICE 3
 ## NO RELEASE DATE CONFIRM
@@ -46,7 +35,6 @@ This design bible was created in an effort development of a new AAA Title Alice 
 
 This creative journey would not have been possible without the support, help and love shown by Alice's fans.
 
-## ![](_page_1_Picture_25.jpeg)
 
 ## ![](_page_2_Figure_0.jpeg)
 
@@ -54,7 +42,6 @@ This creative journey would not have been possible without the support, help and
 
 # WHAT IS THE GAME?
 
-## ![](_page_3_Picture_3.jpeg)
 
 ## SINGLE PLAYER EXPERIENCE
 
@@ -64,7 +51,6 @@ Developed for PC and consoles using the Unreal 5 Engine. Asylum is, like previou
 
 exploration of psychological trauma through action, art, and story. The games retain a cult following among millions of fans worldwide. Previous installments are renowned for their
 
-## ![](_page_3_Picture_7.jpeg)
 
 ## THIRD PERSON
 
@@ -74,11 +60,9 @@ exploration of psychological trauma through action, art, and story. The games re
 
 ## PROGRESSION PERSPECTIVE LINEAR
 
-## ![](_page_3_Picture_9.jpeg)
 
 ## NARRATIVE DRIVEN GAME
 
-## ![](_page_3_Picture_11.jpeg)
 
 ## MAJOR CONSOLES, PC PLATFORMS
 
@@ -110,35 +94,15 @@ Ward of the state and prisoner within Rutledge Wonderland where her psychologica
 
 # WHAT IS THE GAME LOOP?
 
-## ![](_page_3_Picture_16.jpeg)
 
 ## NARRATIVE [
 
-## ![](_page_3_Picture_17.jpeg)
-
-## ![](_page_3_Picture_18.jpeg)
-
-## ![](_page_3_Picture_19.jpeg)
-
-## ![](_page_3_Picture_20.jpeg)
-
-## ![](_page_3_Picture_21.jpeg)
-
-## ![](_page_3_Picture_22.jpeg)
-
-## ![](_page_3_Picture_23.jpeg)
 
 ## COMBAT
 
-## ![](_page_3_Picture_24.jpeg)
-
-## ![](_page_3_Picture_25.jpeg)
-
-## ![](_page_3_Picture_26.jpeg)
 
 ## SPATIAL CHALLENGES
 
-## ![](_page_3_Picture_28.jpeg)
 
 ## DIFFICULTY CURVE
 
@@ -148,7 +112,6 @@ PLAY AND FOR A BEGINNER. CASUAL PLAY ENCOURAGED ON LOWER
 
 ## GAME LOOP NOTES
 
-## ![](_page_3_Picture_30.jpeg)
 
 - Loosely connected Central Hub adds replayability.
 - + Ability to fast-travel to the Central Hub (Hall of Doors).
@@ -177,9 +140,6 @@ Gated by narrative sequences and sub-missions with hero-reward moments.
 
 ## 12 CHAPTERS
 
-## ![](_page_3_Picture_41.jpeg)
-
-## ![](_page_3_Picture_42.jpeg)
 
 Proximity to Epic China support team and close relationship with leadership ensures the Unreal Toolset.
 
@@ -199,15 +159,6 @@ smooth utilization of tools and pipelines.
 
 ## HARD
 
-## ![](_page_4_Picture_6.jpeg)
-
-## ![](_page_4_Picture_7.jpeg)
-
-## ![](_page_4_Picture_8.jpeg)
-
-## ![](_page_4_Picture_9.jpeg)
-
-## ![](_page_4_Picture_10.jpeg)
 
 enjoy the experience of Alice: For players who would rather focus on the narrative and
 
@@ -221,7 +172,6 @@ a steady introduction of core mechanics and resource management as the combat es
 
 sources. Enemies are much resources, and a reduction of damage taken from all less aggressive in combat.
 
-## ![](_page_4_Picture_12.jpeg)
 
 Asylum gameplay experience. For players who want to be chewed up, spat out and eaten alive by their Alice:
 
@@ -229,7 +179,6 @@ This mode isn't even remotely Damage taken is increased, enemies are very aggres
 
 # ETHOS & GAME DESIGN APPROACH #01
 
-## ![](_page_4_Picture_17.jpeg)
 
 # SOFT GATED AREAS
 
@@ -241,7 +190,6 @@ The player can navigate the area freely, getting from point A to B and progressi
 
 required item) in order to progress to the next area.
 
-## ![](_page_4_Picture_21.jpeg)
 
 "Soft Gate" scenario of The above mockup presents a classic potential gameplay.
 
@@ -299,13 +247,9 @@ Alice: Asylam will make generous and well-considered usage of Checkpoints and Sa
 
 As Alice sustains damage or activates, "Special Same" her Seaus Indicator will change depending on the well-ching. The closer Alice's health goes to zero, the more anguists and pain will be reflected in her portrait. This is inspired by a familiar HUD concept when a protaganist draws ever closer to their down.
 
-## ![](_page_5_Picture_23.jpeg)
 
 A new methanic introduced into the Alice series are Roses in the from of One Has Stited Item, whether, these teams procest any further change being educated from Alice's health. When active, it negates all damage from the next single his, no marter Alice's leath remaining or the changes amount inflexed in the strack received. To be a new new Polymon will repented to the stude.
 
-## ![](_page_5_Picture_26.jpeg)
-
-## ![](_page_5_Picture_27.jpeg)
 
 # USER INTERFACE (UI) · WEAPON WHEEL
 
@@ -337,7 +281,6 @@ With Alice's roots in 309-2000s, en classic games, there is a visual HUD choice 
 
 ## ![](_page_7_Figure_2.jpeg)
 
-## ![](_page_7_Picture_5.jpeg)
 
 ## ![](_page_7_Figure_9.jpeg)
 
@@ -351,25 +294,19 @@ With Alice's roots in 309-2000s, en classic games, there is a visual HUD choice 
 
 The core of Alica: Asylum's combat loop is focused around melee attacks, combos and DYS (Donnige Pr. Scornd) inflicted with the Vorpal Blade. The Blade is primarily a close-range season, that forces Alica to sugage enounts while the is the Anna Way, Skillid use of aggression, attack combatation, dedging he is in harm's way. Skillid use of aggression, attack combatation, dedging engaging and disengaging, all during the right timing windows are key to success. Vorpal Blade melee attacks are always accessible by the player, and can be used infinitely. Some smaller enemies can be transact or billed auright suith mages unspens but larger threats, suit a Bose and Mint-Bose, can only have their health but depleted by damage and attacks from the Vorpal Blade. Boss Damage Phase trigges only when certain criteria have been met in combat.
 
-## ![](_page_7_Picture_16.jpeg)
 
 # CORE COMBAT LOOP • KEY PHASES
 
-## ![](_page_7_Picture_19.jpeg)
-
-## ![](_page_7_Picture_21.jpeg)
 
 ## REPLENISH
 
 Actively hunt and collect items on the battlefield to replenish depleted resources. Items are either located on the field, hidden in secret areas, or awarded from successfully defeating enemies.
 
-## ![](_page_7_Picture_25.jpeg)
 
 ## RANGED ATTACK
 
 Ranged Attack weapons can be used to eliminate enemies from a safe distance or damage more powerful enemies before they can get up close. All ranged weapons have limited ammo or are placed on cool-down timers after each short is expended.
 
-## ![](_page_7_Picture_29.jpeg)
 
 # EVADE & DEFEND
 
@@ -377,7 +314,6 @@ Ranged Attack weapons can be used to eliminate enemies from a safe distance or d
 
 When an attack is initiated by an enemy, the player has a range of options to survive. Careful timing and execution of a dodge will evade the attack A pury will initiate a counte-attack window. Some attacks can be blacked in deflected, Muce can also dierugge to find a safer position.
 
-## ![](_page_7_Picture_33.jpeg)
 
 # **EXPLOIT WEAKNESS**
 
@@ -385,7 +321,6 @@ HIT ENEMY WEAK SPOTS · STUN & STAGGER · GUARD CRUSH
 
 Some enemies must have their armout destroyed (Guard Criuh) before they can be damaged. Others must be hit repeatedly to Stagger or Sum them. Some can only be damaged by certain attack, or if correct weak spots are struck. Certain enemies can only be damaged once certain criteria has been met.
 
-## ![](_page_7_Picture_38.jpeg)
 
 # OBSERVING STRATEGY
 
@@ -395,7 +330,6 @@ Watching how some enemies attack, move and behave in combat will give line for h
 
 ## INTRODUCTION BY AMERICAN McGEE
 
-## ![](_page_8_Picture_1.jpeg)
 
 el ipsae corruptas magnis magnate estor alisti re rem es eatusdaerum vendus. Sequati nistis aboratur as quide vent mod ut ipite lit que sunducimin et fuga. Nem repedit atianissinim eum nobisquam quodiam, eumquas et minvelest, qui unt inventius.
 
@@ -407,7 +341,6 @@ Consequi commoluptati test de maionsequaes poressed et rem il invelessimin essim
 
 Creative Director, Mysterious Studios Shanghai, December 2022 AMERICAN McGEE
 
-## ![](_page_8_Picture_13.jpeg)
 
 GAME BEGINS...
 
@@ -439,7 +372,6 @@ A mysterious, yet familiar voice cuts through Alice's thoughts.
 
 ## Perhaps this time, you will finally see..."
 
-## ![](_page_10_Picture_0.jpeg)
 
 ## 0.1
 
@@ -449,19 +381,11 @@ A mysterious, yet familiar voice cuts through Alice's thoughts.
 
 We PLAY as a frightened 13-year-old Alice running through a moonlit, snow-covered English garden. This is The Slumber, a manifestation of Alice's childhood memories. It serves as the First Tutorial for Basic Movement - walking, running, climbing, and jumping. Alice opens her eyes, she is alone.
 
-## ![](_page_10_Picture_6.jpeg)
-
-## ![](_page_10_Picture_7.jpeg)
-
-## ![](_page_10_Picture_8.jpeg)
-
-## ![](_page_10_Picture_9.jpeg)
 
 A cut scene plays after completing the Basic Tutorial area, revealing The Moon looming over Alice's shoulder.
 
 The Moon then turns to reveal a menacing face. Eyes draws nearer it sings an **ominous lullaby**. The turne, once heard, forces forest creatures to slump to the ground. Alice is unsure if they are dead or sleeping. **She runs.** There's something very odd about its size and form. locked on Alice, it howls and pursues her. We PLAY As it
 
-## ![](_page_10_Picture_12.jpeg)
 
 "The Moon. No matter where I run. Where I hide. It finds me. Its song ends my escape. I fall under its spell..."
 
@@ -485,41 +409,28 @@ There's a black cake on the table. Its a writhing mass of black tentacles with b
 
 ce once again re-lives the horror of their deaths in the fire that consumed their home. *They chant at hery*: "11.3 ALL 10 OK FAULT!"
 
-## ![](_page_11_Picture_8.jpeg)
-
-## ![](_page_11_Picture_9.jpeg)
-
-## ![](_page_11_Picture_10.jpeg)
 
 ## "Until, you have learned..."
 
 1. ALICE: ANYLIM THE COMPLETE NABRATIVE & CAMEDIAN EXPERIENCE
 
-## ![](_page_12_Picture_0.jpeg)
 
 A cut scene plays, as a violent earthquake shakes the house. Pictures fall and glass shatters on the floor. The sound is like a roaring train and then...
 
-## ![](_page_12_Picture_4.jpeg)
-
-## ![](_page_12_Picture_5.jpeg)
 
 Alice abruptly comes face-to-face with **The Caterpillar** sat atop his gigantic mushroom. *He is The Voice guiding her through her memory*. Smoke billowing from his hookah, the world around Alice wafts and morphs to match his riddled words. He speaks;
 
-## ![](_page_12_Picture_7.jpeg)
 
 "It appears you're late, once again Alice... and to your own party no less." CATERPILLAR
 
 2. "I'm not late. I'm lost. I have no choice in this nightmare! I have lost count of the times I've seen their burning faces and heard their screams..."
 
-## ![](_page_12_Picture_10.jpeg)
 
 Caterpillar exhales another plume of smoke.
 
-## ![](_page_12_Picture_12.jpeg)
 
 6. "A pity you show no interest in understanding your own shadows, Alice." 4. "There is still much for you to learn."
 
-## ![](_page_12_Picture_14.jpeg)
 
 5. "I don't want to learn! I want to escape this dreadful place!"
 
@@ -529,17 +440,14 @@ The world and Caterpillar fade away into complete darkness.
 
 Alice is now alone, save for a single, ornate looking-glass. Standing well over her head, the mirror's beautiful frame is sharp and sinister. We PLAY as Alice slowly approaches, then faces her own reflection. Alice suddenly glimpses a terrifying Shadow Creature, both shapeless and jagged, staring back at her from behind the darkened looking glass.
 
-## ![](_page_12_Picture_19.jpeg)
 
 It's words drip with malice. Alice and The Shadow examine one another. A perfect mimic. The Shadow continues;
 
-## ![](_page_12_Picture_21.jpeg)
 
 ## SHADOW CREATURE
 
 Blissfully unaware. How pleasant it must be... to be trapped in the calm beneath the waves... as the storms dark mirror, The Shadow Creature suddenly breaks through the Looking Glass, shattering the mirror into a thousand pieces. As jagged glass tumbles in the darkness, Alice flails around As Alice outstretches her hand to meet the clawed hand in the to defend herself, suffering hundreds of cuts. Just as a large shard of glass is about to pierce Alice's heart, she reaches out and grabs it. Suffocating smoke and embers engulf the girl. Alice turns the shard over in her hand and it transforms into a beautiful Crystal Vorpal Blade, her own blood dripping across its edge. She is transfixed by the blade, and runs her finger along its sharp edge.
 
-## ![](_page_12_Picture_27.jpeg)
 
 ## VORPAL BLADE ACQUIRED
 
@@ -549,13 +457,9 @@ Blissfully unaware. How pleasant it must be... to be trapped in the calm beneath
 
 Her reverie is broken as Alice is set upon by ghoulish, faceless manifestations of the Shadow. Alice lunges and slashes at the endless nightmares, as they quickly swarm towards her.
 
-## ![](_page_13_Picture_2.jpeg)
 
 We PLAY As Alice is seemingly about to be killed by the Shadow creatures... A lullaby ce, and she is suddenly back in the burning Liddell House - The Moon looming overhead. She points the blade at the Moon. is heard in the distance.
 
-## ![](_page_13_Picture_4.jpeg)
-
-## ![](_page_13_Picture_5.jpeg)
 
 Before Alice can react, a chapter closing cutscene plays.
 
@@ -569,9 +473,6 @@ The Moon's massive eyes remain transfixed on Alice's tiny body, as it's horrible
 
 The scene fades to black.
 
-## ![](_page_13_Picture_11.jpeg)
-
-## ![](_page_13_Picture_12.jpeg)
 
 SECTION 1 - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE
 
@@ -599,13 +500,9 @@ A mysterious, dream-like realm of shadows. A visceral blend of memory, darkness,
 CORE COMBAT
 ## MELEE WEAPON
 
-## ![](_page_14_Picture_22.jpeg)
-
-## ![](_page_14_Picture_24.jpeg)
 
 ## VORPAL BLADE
 
-## ![](_page_14_Picture_26.jpeg)
 
 Swift, keen and always ready for servi A mysterious relic borne from splinters of shadow, the *Crystal Vory Blade* is a weapon of razor sharp by cutting reason and unterhered fury.
 
@@ -619,7 +516,6 @@ New combos, moves, upgrades and weapon unlocks will be made progressively availa
 
 A powerful clurch attack, the blade will remain unusable until it apparates back to Alice's hand, leaving her vulnerable. This is a high-risk, high-reward attack in a dire struction.
 
-## ![](_page_14_Picture_30.jpeg)
 
 ## ATTACK RESOURCE
 
@@ -633,19 +529,14 @@ Unlimited. Primary Melee Vorpal Blade Attacks are always
 
 ## VORPAL BLADE UPGRADE DESIGN NOTES & CONCEPTS
 
-## ![](_page_14_Picture_37.jpeg)
 
 Snicker Snack - Unlocks to New Combos and Attack Inputs.
 
 Throwing Knife - Cooldown Timer Decrease. Lower the respawn time for the Vorpal Blade as
 
-## ![](_page_14_Picture_41.jpeg)
 
 Throwing Knife - Critical Hit Damage Increase.
 
-## ![](_page_14_Picture_43.jpeg)
-
-## ![](_page_14_Picture_44.jpeg)
 
 ## ![](_page_15_Figure_0.jpeg)
 
@@ -661,13 +552,11 @@ A quick cutscene plays. Alice opens her eyes to watch as Mock Turtle pulls a gia
 
 Makeup is plastered onto her face by autonomous arms - an enormously wide smile. A mechanical hand shoves her towards a giant slide where a White Rabbit Doll is preparing to jump. He glances at a very confused Alice, and he beckons her to follow. A "4564 Days of Show" sign dangles precariously over the slide entrance. As Alice looks at the sign, it ticks over to "4565".
 
-## ![](_page_15_Picture_10.jpeg)
 
 With a sharp shove, we PLAY as a disorientated Alice begins her descent down the Slide after the White Rabbit.
 
 carnivals, animals, performers... as far as the eye can see. Mock Turtle SINGS as The Music plays. The gleeful Mock Turtle follows closely behind as we weave through twists and turns hurtling bright and garish Circus World of tents, rides, towards the ground. All around is a surreal, His lyrics explain:
 
-## ![](_page_15_Picture_13.jpeg)
 
 ## ALICE (SINGING)
 
@@ -677,11 +566,9 @@ carnivals, animals, performers... as far as the eye can see. Mock Turtle SINGS a
 
 ## MOCK TURTLE (SINGING)
 
-## ![](_page_15_Picture_16.jpeg)
 
 SECTION 1 - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE 1.1 DENIAL REALM - THE GREATEST SHOW • CARNIVAL OF FOOLS
 
-## ![](_page_16_Picture_0.jpeg)
 
 As Alice sings this line, her gaze is met by two massive balloons in the sky. Blocking out the sun, they twist lazily in the air, revealing themselves to be a gaurish, misshapen representation of the Tweedles, Dec and Dum. A caricature of the pair of hideously shaped Brothers, clad in a gaudy mixture of red, black and white. The inanimate gaze of the Balloons look back at Alice, and they cloak her in shadow.
 
@@ -700,17 +587,11 @@ Key Points delivered as Exposition in the lyrics:
 - 3. Alice should just give up and enjoy The Show
  - 4. Alice hates it here.
 
-## ![](_page_16_Picture_12.jpeg)
-
-## ![](_page_16_Picture_13.jpeg)
-
-## ![](_page_16_Picture_14.jpeg)
 
 SECTION 1 - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE 1.1 DENIAL REALM - THE GREATEST SHOW • CARNIVAL OF FOOLS
 
 # At one point the White Rabbit hops off track and waves Alice towards a Fortune Teller's Tent. It is shrouded in shadows. The Music fades.
 
-## ![](_page_17_Picture_1.jpeg)
 
 A cutscene plays as Alice enters the tent. Upon entering, the Fortune teller doesn't look up.
 
@@ -720,11 +601,6 @@ fortune teller's globes, all precariously balancing on rickety, uneven shelves. 
 
 "Oh, I've always been here, my dear. You just never bothered to notice. It appears this time, you have allowed yourself a chance to see... something else..."
 
-## ![](_page_17_Picture_6.jpeg)
-
-## ![](_page_17_Picture_7.jpeg)
-
-## ![](_page_17_Picture_8.jpeg)
 
 # "I'm so sorry!"
 
@@ -738,17 +614,14 @@ Alice accidentally knocks a globe onto the floor. It smashes. She quickly retort
 
 ## FORTUNE-TELLER
 
-## ![](_page_17_Picture_14.jpeg)
 
 The Fortune Teller's words linger.
 
-## ![](_page_17_Picture_16.jpeg)
 
 ## "Tell me; what do you seek?"
 
 ## "To return home. To escape this place."
 
-## ![](_page_17_Picture_18.jpeg)
 
 want to open, but they still cannot see..." "I know. But you can never see the way. You are lost in the darkness. Your eyes
 
@@ -760,15 +633,12 @@ Alice stares, tilting her head as her curiosity piques.
 
 ## ART ASSET TO BE CREATED ALICE - THIRD EYE IMAGE
 
-## ![](_page_17_Picture_21.jpeg)
 
 "I remember when you only asked for better dreams. And I was happy to oblige. But this time, your blade offers a chance to cut the threads that bind you. Time to open your eyes...
 
-## ![](_page_17_Picture_23.jpeg)
 
 Alice gasps in fear. A Third Eye opens, blinking open directly in Alice stares deeply into a crystal ball as it transforms into a Snow Right as she looks to drift off peacefully, a single gnarled finger from the Fortune Teller forcefully presses on Alice's forehead. the middle of Alice's forehead. Alice's three eyes roll back into A cutscene plays. The Fortune Teller motions to the crystal ball. Globe. Hypnotized by the falling snow, her eyes begin to close. her head, revealing no pupils.
 
-## ![](_page_17_Picture_25.jpeg)
 
 Her eyes are white as snow. As the Fortune Teller cackles, Alice is engulfed in dark haze. Flames and screams. Alice returns to The Slumber Realm.
 
@@ -776,11 +646,6 @@ SECTION I - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE
 
 ## 35
 
-## ![](_page_17_Picture_29.jpeg)
-
-## ![](_page_17_Picture_30.jpeg)
-
-## ![](_page_17_Picture_31.jpeg)
 
 SECTION I - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE 1.1 DENIAL REALM - THE GREATEST SHOW • CARNIVAL OF FOOLS
 
@@ -796,11 +661,9 @@ SECTION I - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE 1.1 DENIA
 
 ## ![](_page_18_Figure_5.jpeg)
 
-## ![](_page_18_Picture_6.jpeg)
 
 A short cut scene plays. The area around Alice transforms into a flurry of snowflakes. It is night and snow falls from the sky above. Alice stands in the front yard of her family home.
 
-## ![](_page_18_Picture_7.jpeg)
 
 SECTION I - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE 0.2 THE SLUMBER - SLUMBER ENCOUNTER #2 • DETERMINATION
 
@@ -808,7 +671,6 @@ SECTION I - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE 0.1 THE S
 
 The house is sleeping and its windows are dark. A whisper, another voice;
 
-## ![](_page_19_Picture_1.jpeg)
 
 We PLAY, as Alice navigates the scene and makes her way into the house through a front door that is open to the night air.
 
@@ -818,19 +680,12 @@ The memories flash by, and we then PLAY, as Alice makes her way to the second fl
 
 ## **MINIT**
 
-## ![](_page_19_Picture_5.jpeg)
 
 "I remember... This night began like any other. But it ended in chaos. Unlike anything I'd known before. I was only very young, What did I know of chaos?"
 
-## ![](_page_19_Picture_7.jpeg)
 
 "My family is dead now. I know they are. Lost in the fire. As first I blamed the cat. Always knocking wore the oil lamps and having nearly burned down the house at least two times prior. But, something alse was wrong that night. The locked doors on the second floor. The front door wide open so that the fames could be seen raging inside."
 
-## ![](_page_19_Picture_10.jpeg)
-
-## ![](_page_19_Picture_11.jpeg)
-
-## ![](_page_19_Picture_12.jpeg)
 
 di la di
 
@@ -838,19 +693,12 @@ di la di
 
 "There were lamps on every floor. But we checked to ensure they were all extinguished doper turning in for the night. Lizzie and I made a game of running around the house and snuffing them out."
 
-## ![](_page_19_Picture_15.jpeg)
 
 "And no one locked their doors in our home. We had no secrets to hide... or so I thought."
 
-## ![](_page_19_Picture_17.jpeg)
-
-## ![](_page_19_Picture_18.jpeg)
-
-## ![](_page_19_Picture_19.jpeg)
 
 ## ![](_page_20_Figure_0.jpeg)
 
-## ![](_page_21_Picture_0.jpeg)
 
 "At that time, I was the monster. I felt responsible... I couldn't control my anguish, and I was caged for it." "...all your... fault..."
 
@@ -860,13 +708,11 @@ We PLAY, as a scene of Alice vacantly looking at her own reflection takes place.
 
 she is biting and clamoring at the orderlies who hold is in a wild, uncontrollable hysteria, as flashes of the She screams as she cries. Scenes of Alice lashing out, her down. We hear the roar of the angry monster. She Shadow merge with the face of the child.
 
-## ![](_page_21_Picture_4.jpeg)
 
 The scene dissolves back to Alice's audience with the Caterpillar.
 
 ## "That monster from the mirror is... me?"
 
-## ![](_page_21_Picture_6.jpeg)
 
 "Only a part of you. The monster lives within us all, Alice. But only a few can face it, much less embrace it."
 
@@ -874,17 +720,9 @@ The scene dissolves back to Alice's audience with the Caterpillar.
 
 ## The world morphs again, and Alice is in Rutledge Asylum. A flurry of brutal cutscenes play as Alice is beaten, cut, starved, and slammed into the floor and walls of her cell. As her ears ring, we see
 
-## ![](_page_21_Picture_9.jpeg)
-
-## ![](_page_21_Picture_10.jpeg)
-
-## ![](_page_21_Picture_11.jpeg)
 
 ## 05
 
-## ![](_page_21_Picture_12.jpeg)
-
-## ![](_page_21_Picture_13.jpeg)
 
 ## ![](_page_22_Figure_0.jpeg)
 
@@ -908,7 +746,6 @@ SECTION I - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE
 
 Alice is pushed to the floor, and trampled by the circus performers in a scene that mimics her savage memory in the Asylum. Alice closes her eyes, and when she re-opens them, they are dark orbs. She screams
 
-## ![](_page_23_Picture_2.jpeg)
 
 ## HYSTERIA MODE UNLOCK ADVANCED COMBAT TRAINING
 
@@ -916,11 +753,6 @@ This gameplay area serves as the introduction of the ic. It triggers when Alice 
 
 ## HYSTERIA
 
-## ![](_page_23_Picture_8.jpeg)
-
-## ![](_page_23_Picture_10.jpeg)
-
-## ![](_page_23_Picture_11.jpeg)
 
 ## ART ASSET TO BE CREATED
 
@@ -930,17 +762,11 @@ SECTION 1 - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE 1.2 DENIA
 
 Mock Turtle pleads as he SINGS, imploring Alice to stop her bloody rampage and rejoin her loving troupe of performers.
 
-## ![](_page_23_Picture_17.jpeg)
 
 During this sequence, the illusion of The Circus begins to crumble as circus performers break bloodied or destroyed. The vivid scenery falls and is damaged in areas, revealing rotting, poorly made wooden supports, and rusted nails behind their cheerful veneer. The circus and its into mechanical automatons when damaged, inhabitants are a lie.
 
 This is also Alice's first encounter with Manipulators - an enemy NPC capable of mimicking other characters. This encounter serves as a more advanced Tutorial for Combat Techniques - focusing on Vorpal Blade attack and defense. Parrying, dodges, and Combat Evasion must be employed to survive the manipulators. We PLAY as an angry Alice fights her way through the circus led by White Rabbit, carving through her captors into The Big Top.
 
-## ![](_page_23_Picture_22.jpeg)
-
-## ![](_page_23_Picture_23.jpeg)
-
-## ![](_page_24_Picture_0.jpeg)
 
 As soon as Alice enters, her appearance is transformed to that of a clown. The A cutscene plays. The Big Top is a massive tent with stadium seating all around. faceless audience laughs and jeers at Alice. She grits her teeth as she is ridiculed.
 
@@ -948,7 +774,6 @@ Tweedle Dee and Tweedle Dum are here - The Ringmasters. Floating in through the 
 
 which crank up and down through a hole in the Big Top. Arriving into the Big Top with an off-kilter fanfare, the two hideous brothers bare their teeth at Alice. The twisted brothers arrive in Balloons shaped as crude caricatures of themselves,
 
-## ![](_page_24_Picture_4.jpeg)
 
 ## TWEEDLE DEE
 
@@ -956,37 +781,17 @@ This is all very much off script. A dreadful performance. Sloppy. The little gir
 
 ## The Tweedles com
 
-## ![](_page_24_Picture_8.jpeg)
-
-## ![](_page_24_Picture_9.jpeg)
-
-## ![](_page_24_Picture_10.jpeg)
-
-## ![](_page_24_Picture_11.jpeg)
-
-## ![](_page_24_Picture_12.jpeg)
-
-## ![](_page_25_Picture_0.jpeg)
 
 # IWEEDLE BROTHER
 
-## ![](_page_25_Picture_4.jpeg)
 
 A cutscene plays. Alice demands to know why the Tweedles are keeping her imprisoned here. They let her know they are only the jailors - it is The Queen who desires to keep Alice here, and they follow her rules.
 
-## ![](_page_25_Picture_6.jpeg)
 
 ## TWEEDLE DEE
 
 "If you don't like the show, there are no refunds."
 
-## ![](_page_25_Picture_9.jpeg)
-
-## ![](_page_25_Picture_10.jpeg)
-
-## ![](_page_25_Picture_11.jpeg)
-
-## ![](_page_25_Picture_12.jpeg)
 
 ## TWEEDLE BROS
 
@@ -994,15 +799,11 @@ HARD GATED AREA DEFEAT THE TWEEDLE BROS.
 
 where Alice fights Tweedle Dee and Dum using her Vorpal Blade and the skills What follows is a Boss Battle sequence she's acquired up to this point. One brother will attack Alice with Bombs thrown from the balloon, and the other will attack Alice with a whip-weapon. After the battle, Alice acquires the new weapons used against her: The Jack Bomb, and the Whip (Treble-Maker).
 
-## ![](_page_25_Picture_18.jpeg)
-
-## ![](_page_25_Picture_19.jpeg)
 
 CLICKS, WHIPS AND BOOMS . CR.
 
 with her Vorpal Blade and rises through the tent opening. She flies free above The Alice defeats The Tweedles and climbs into their Balloon with White Rabbit by her side. She cuts the balloon's tether Circus leaving The Music behind.
 
-## ![](_page_25_Picture_21.jpeg)
 
 SECTION I - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE
 
@@ -1016,13 +817,9 @@ SECTION I - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE
 
 SECTION 1 - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE 1.2 DENIAL REALM - THE BIG TOP • CARNIVAL OF FOOLS • CHAPTER SUMMARY
 
-## ![](_page_26_Picture_2.jpeg)
-
-## ![](_page_26_Picture_3.jpeg)
 
 Hysteria Ability States and Attack Concepts to be Confirmed {TBC}
 
-## ![](_page_26_Picture_5.jpeg)
 
 ## ![](_page_27_Figure_0.jpeg)
 
@@ -1049,13 +846,9 @@ It doesn't care as whose expense.
 
 Holding down the fire button charges the shot to fire a very short-ranged blast of concentrated fire. Can also knock enemies prone.
 
-## ![](_page_27_Picture_18.jpeg)
-
-## ![](_page_27_Picture_19.jpeg)
 
 Unlimited. Ranged Attack is 1 Shot Only and placed on Cooldown Timer after use.
 
-## ![](_page_27_Picture_21.jpeg)
 
 Unlimited. Ranged Attack is 1 Shot Only and placed on Cooldown Timer after use. ⊠ x1
 
@@ -1074,7 +867,6 @@ Treble n' Bass - Cooldown Timer Decrease. Lower the reload time & increase rate 
 
 ## Grappling Hook - Cooldown Timer Decrease
 
-## ![](_page_27_Picture_29.jpeg)
 
 ## Alternate Weapon Skin + Blunderbuss
 
@@ -1086,23 +878,19 @@ Turning the tides on her enemies with some well-timed jokes of her own, Alice ca
 
 Alice can be damaged by AOE explosion of this weapon JOKE'S ON YOU
 
-## ![](_page_27_Picture_36.jpeg)
 
 Alice lobs the Jackbomb and it explodes on impact, generating an AOE explosion. Alice can be damaged by the blast.
 
 ## {TBC}
 
-## ![](_page_27_Picture_44.jpeg)
 
 Unlimited. Ranged Attack is 1 Shot Only and placed on Cooldown Timer after use.
 
-## ![](_page_27_Picture_46.jpeg)
 
 This attack variant can also be used as a weighted tool for switch activation, and also as an audio decey. While placed the Jackbonne can draw enemies to its location us the talk-aide sound it entits.
 
 Alice places the bomb as a trap that springs open command, detonating it.
 
-## ![](_page_27_Picture_48.jpeg)
 
 ## ![](_page_27_Figure_49.jpeg)
 
@@ -1118,7 +906,6 @@ Upgrades to the Jack-Bomb also include options for; · attaching to enemies and 
 
 Rather than exploding, the Jack Bomb sucks enemies into the box, incapacitating them.
 
-## ![](_page_27_Picture_53.jpeg)
 
 SECTION 1 - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE 1.2 DENIAL REALM - THE BIG TOP • CARNIVAL OF FOOLS • CHAPTER SUMMARY
 
@@ -1128,19 +915,12 @@ SECTION 1 - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE 1.2 DENIA
 
 ## DENIAL REALM • A STORM IN A TEACUP
 
-## ![](_page_28_Picture_4.jpeg)
-
-## ![](_page_28_Picture_5.jpeg)
 
 The Balloon floats up through a bank of clouds and out the other side to reveal The Moon directly ahead.
 
-## ![](_page_28_Picture_7.jpeg)
 
 "We are going to see that wretched Queen, but I need to take care of something else first..."
 
-## ![](_page_28_Picture_10.jpeg)
-
-## ![](_page_28_Picture_11.jpeg)
 
 ## OVERCOME THE MOON'S SONG HARD GATED AREA
 
@@ -1156,23 +936,9 @@ SECTION 1 - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE 1.3 DENIA
 
 ## 99
 
-## ![](_page_28_Picture_18.jpeg)
-
-## ![](_page_28_Picture_19.jpeg)
-
-## ![](_page_28_Picture_20.jpeg)
 
 is revealed to be a massive mechanical construct of Hatter Industries. Its interior is a labyrinth of corridors, walkways, machine rooms, gears, turbines, and steam pipes. both in combat and in destroying "breakable" walls to traverse. The whip is also introduced in spatial puzzles. It allows rapid, free-form rappelling. This new ability, coupled with advanced platforming in sections, trains the player in new movements; with ledge grabs, swinging, double jumps, and dress gliding all used to progress.
 
-## ![](_page_28_Picture_23.jpeg)
-
-## ![](_page_28_Picture_24.jpeg)
-
-## ![](_page_28_Picture_25.jpeg)
-
-## ![](_page_28_Picture_26.jpeg)
-
-## ![](_page_28_Picture_27.jpeg)
 
 We PLAY as an angry Alice fights her way through The Moon using her Vorpal Blade and newly acquired Jack-bomb and Treble-maker.
 
@@ -1184,7 +950,6 @@ Disable the Manipulator Manufacturer;
 
 Reach The Bridge;
 
-## ![](_page_28_Picture_28.jpeg)
 
 Take Control of The Moon (and fly to Queen's Domain).
 
@@ -1194,35 +959,12 @@ As Alice explores The Moon she passes through its Engine Room where she sees tha
 
 She battles a steady stream of Manipulators as she works herway towards them, and destroys their source: The Manipulator Manufacturer.
 
-## ![](_page_29_Picture_3.jpeg)
-
-## ![](_page_29_Picture_4.jpeg)
-
-## ![](_page_29_Picture_5.jpeg)
-
-## ![](_page_29_Picture_6.jpeg)
 
 ## 28
 
-## ![](_page_29_Picture_7.jpeg)
-
-## ![](_page_29_Picture_8.jpeg)
-
-## ![](_page_29_Picture_9.jpeg)
-
-## ![](_page_29_Picture_10.jpeg)
-
-## ![](_page_29_Picture_11.jpeg)
 
 Mock Turtle explains that Alice's false reality is better because she'll never run out of friends to play with. No one ever has to age or die or fade away.
 
-## ![](_page_29_Picture_13.jpeg)
-
-## ![](_page_29_Picture_14.jpeg)
-
-## ![](_page_29_Picture_15.jpeg)
-
-## ![](_page_29_Picture_16.jpeg)
 
 SECTION I - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE 1.3 DENIAL REALM - THE MOON • A STORM IN A TEACUP
 
@@ -1234,13 +976,11 @@ What follows is a puzzle sequence where Alice collects Chart Elements from aroun
 
 Mock Turtle's voice becomes an angry roar. He transforms into a Manipulator Boss, revealing his true form and presenting As the last piece of the route is inserted and The Moon turns towards Queen's Domain, Alice with another obstacle to overcome.
 
-## ![](_page_30_Picture_4.jpeg)
 
 ## MOCK TURTLE
 
 "It's me, Alice. Your only friend, I'm telling you, you'll never make it. You're too small. You can't survive out there. You're too weak. No one wants you! No one else loves you..."
 
-## ![](_page_30_Picture_6.jpeg)
 
 "As you said, this time, my show is starting! We must not be late!"
 
@@ -1248,13 +988,11 @@ We PLAY as Alice destroys the Mock Turtle. Mock Turtle's death causes a massive 
 
 A placid, glazed eyed, Mock Turtle swims lazily in a tiny pond by Alice's side. On the back of his Shell, resides a minuscule Circus.
 
-## ![](_page_30_Picture_10.jpeg)
 
 "All the drama and violence of the circus was nothing more than a flea show on the back of a turtle in that pond. Yet while I was in there it seemed more serious than death."
 
 A tiny smoking pile of bits and rubble lays on the ground next to her - the remains of The Moon. Within, a tiny clockwork heart still beats. The sound fades as her focus narrows on the device. She picks it up, inspects it, and hands it to her Rabbit.
 
-## ![](_page_30_Picture_14.jpeg)
 
 ## ALICE
 
@@ -1268,7 +1006,6 @@ The rabbit nods his head in approval. Alice offers him the tiny then places the 
 
 Alice, stands up, brushes off her petticoat, and now is free of The Greatest Show. A massive forest, and a gigantic, ominous Castle loom in the distance...
 
-## ![](_page_30_Picture_20.jpeg)
 
 SECTION I - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE
 
@@ -1319,17 +1056,9 @@ Before Alice can reply, The Shadow locks its The Shadow leaves behind a writhing
 
 Black Tentacles (The Chaos), which attacks and then consumes the Card Guards. The mass of dark embering flesh begins intruding through the Hedge Maze walls.
 
-## ![](_page_33_Picture_6.jpeg)
 
 - and its effect on NPCs in the game. Alire waither at Card Guards are damaged by contact with The Chaos and transformed by staga into Chao Greatures. Chaos Creatures This sequence serves to introduce the game's primary enemy character - The Chaos are hijacked NPCs that readily attack Alice and any other NPCs in range in a frenzy.
 
-## ![](_page_33_Picture_8.jpeg)
-
-## ![](_page_33_Picture_9.jpeg)
-
-## ![](_page_33_Picture_11.jpeg)
-
-## ![](_page_33_Picture_12.jpeg)
 
 SECTION 1 - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE 2.1 ANGER & JUDGMENT REALM - THE QUEEN'S DOMAIN • QUEENSLAND GARDENS
 
@@ -1347,13 +1076,6 @@ loose in their sockets. They roll in his skull like hard-boiled Horses press up 
 
 are trapped behind the glass.
 
-## ![](_page_34_Picture_5.jpeg)
-
-## ![](_page_34_Picture_6.jpeg)
-
-## ![](_page_34_Picture_7.jpeg)
-
-## ![](_page_34_Picture_8.jpeg)
 
 ## THE KNAVE
 
@@ -1363,19 +1085,14 @@ game of hide n' seek follows. Alice will locate the We PLAY as Alice follows his
 
 ## 55 (2)
 
-## ![](_page_34_Picture_11.jpeg)
 
 "There's no point in hiding. I can see you there. Show yourself."
 
-## ![](_page_34_Picture_13.jpeg)
 
 "There is always a point in biding, when someone dangerous is seeking. You may not believe me, but I have seen you here before."
 
 The Knave's words drip through an unnatural smile.
 
-## ![](_page_34_Picture_16.jpeg)
-
-## ![](_page_34_Picture_17.jpeg)
 
 A cinematic cut scene plays as Alice (A) navigates her way through an unsettling conversation with The Knave. (TK)
 
@@ -1401,7 +1118,6 @@ SECTION 1 - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE
 
 SECTION I - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE 2.1 ANGER & JUDGMENT REALM - THE QUEEN'S DOMAIN • QUEENSLAND GARDENS
 
-## ![](_page_35_Picture_0.jpeg)
 
 The Knave's language and tone resumes to his detached state.
 
@@ -1426,15 +1142,11 @@ She is getting angry.
 - TK  "You will be captured and tortured. I will lose my head. And you will be returned to the Circus."
 - A  "Fool's words. If you're so certain, then does your drea include this?"
 
-## ![](_page_35_Picture_12.jpeg)
 
 Alice hurls her blade at the Knave. He dodges the blade as it flies past binn. A smash of glass is heard behind him. The blade careens into the Hobby Horse case, shattering it utterly.
 
 Alice's blade is returned to her by an ecstatic, freed Hobby Horse. Alice grabs its reins. Capable of destroying defences and chattering mennies, this clobbering, ungainly melee weapon has devastating impact up-close. Useful against shielded and guarding enemies, it can be used in combo mix-ups, employing
 
-## ![](_page_35_Picture_14.jpeg)
-
-## ![](_page_35_Picture_15.jpeg)
 
 Alice meets his stare, and she slams the hilt of her new Hobby Horse into the ground.
 
@@ -1460,11 +1172,6 @@ The Hobby Horse brays with approval. Alone with her Rabbit, Alice continues on h
 
 This serves as a proving ground for all of the skills and weapons Alice has acquired thus far. She must employ movement and combat mechanics to navigate the broken landscape while fighting off The Chaos and a slew of Chaos Creatures as they appear in the broken gardens of the Queen's Domain.
 
-## ![](_page_35_Picture_27.jpeg)
-
-## ![](_page_35_Picture_28.jpeg)
-
-## ![](_page_35_Picture_29.jpeg)
 
 SECTION 1 - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE 2.1 ANGER & JUDGMENT REALM - THE QUEEN'S DOMAIN • QUEENSLAND GARDENS
 
@@ -1480,11 +1187,6 @@ SECTION 1 - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE 2.1 ANGER
 
 SECTION 1 - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE 2.1 ANGER & JUDGMENT REALM - THE QUEEN'S DOMAIN • QUEENSLAND GARDENS
 
-## ![](_page_37_Picture_0.jpeg)
-
-## ![](_page_37_Picture_1.jpeg)
-
-## ![](_page_37_Picture_2.jpeg)
 
 A cut scene plays as Alice arrives at The Courthouse steps. She curiously steps inside.
 
@@ -1521,26 +1223,20 @@ The scene concludes as Alice turns around to face the Knave in her anger, but he
 
 SECTION I - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE 2.2 ANGER & JUDGMENT REALM - THE COURTHOUSE • A SEAT OF JUDGMENT
 
-## ![](_page_38_Picture_0.jpeg)
 
 What follows is a sequence of Challenge Spaces (Trials) that contain Puzzles, Combat Arenas, and Navigation Challenges.
 
 TRIAL CHALLENGES
 ## PUZZLES, COMBAT, SPATIAL
 
-## ![](_page_38_Picture_3.jpeg)
 
 of bureaucracy and brutal judgment where the combat and navigation puzzles continue while Alice's sins and crimes are read aloud by a stadium full of judges. These lead to a Kafkaesque Main Hall, a surreal embodiment
 
 Alice successfully completes The Trials and arrives at Judgement only to be told that, despite passing her trials, she's been found guilty and will be sentenced to "Croak For Eternity".
 
-## ![](_page_38_Picture_6.jpeg)
 
 A BOOMING VOICE READS...
 
-## ![](_page_38_Picture_9.jpeg)
-
-## ![](_page_38_Picture_10.jpeg)
 
 area within the Courthouse is a massive world of rules and law, constantly in a state of debate against itself. Right and wrong. Mess and order. Law and disorder. Chess pieces scramble and We PLAY as Alice enters the halls of The Courthouse. The scurry about here. Alice notices a mix of both White and Red pieces, knights, peons, knights, rooks and bishops muttering and
 
@@ -1550,23 +1246,6 @@ hopping about the court halls.
 
 "Guilty of being overly naive, innocent to a fault, curious beyond reason, and ultimately to blame for, ahem, everything."
 
-## ![](_page_38_Picture_12.jpeg)
-
-## ![](_page_38_Picture_13.jpeg)
-
-## ![](_page_38_Picture_14.jpeg)
-
-## ![](_page_38_Picture_15.jpeg)
-
-## ![](_page_38_Picture_16.jpeg)
-
-## ![](_page_38_Picture_17.jpeg)
-
-## ![](_page_38_Picture_18.jpeg)
-
-## ![](_page_38_Picture_19.jpeg)
-
-## ![](_page_38_Picture_20.jpeg)
 
 They all point at Alice. And begin whispering to one another. The word "trial" is increasingly heard from the jittery crowd of whispering Chess pieces.
 
@@ -1578,35 +1257,23 @@ for her crimes!" echo in the marble, chequered halls.
 
 The doors from which Alice entered slam shut, and she is trapped.
 
-## ![](_page_38_Picture_21.jpeg)
 
 proceedings in the audience chambers above Alice. He points his finger and laughter is heard echoing through the hall. He has been watching the A short cutscene plays as The Knave's childishly exclaims,
 
-## ![](_page_39_Picture_1.jpeg)
 
 ## THE KNAVE
 
-## ![](_page_39_Picture_3.jpeg)
-
-## ![](_page_39_Picture_4.jpeg)
-
-## ![](_page_39_Picture_5.jpeg)
-
-## ![](_page_39_Picture_6.jpeg)
 
 screams her rage at the mechanical face of judgment. Encountering a cavalry of gavel-wielding Chess Pieces, Alice fights against the Court's forces in unrelenting combat. As she attacks them, it is revealed the Alice is FURIOUS. So furious that she bursts into flames as she Chess pieces are infected with Chaos.
 
-## ![](_page_39_Picture_8.jpeg)
 
 # INFERNO
 
 ## AN INFERNO OF INCREDIBLE HORROR + ROA
 
-## ![](_page_39_Picture_11.jpeg)
 
 ## INFERNO MODE UNLOCK ADVANCED COMBAT TRAINING
 
-## ![](_page_39_Picture_13.jpeg)
 
 automatically when her health is low, Rage is a "super meter" that builds by chaining large combo hits and defeating enemies in repeated, rapid succession. Rage acts as a reward for highly ic. As opposed to Hysteria, where Alice triggers the state What follows is the introduction and tutorial for the skilled combat performance.
 
@@ -1614,19 +1281,11 @@ in combat for a short time, or, released and the entire rage bar is consumed in 
 
 Each time Alice is hit, fails a dodge, or doesn't instigate a successful attack after a short amount of time, the Rage bar level will drop, and eventually, disappear if not used.
 
-## ![](_page_39_Picture_17.jpeg)
-
-## ![](_page_39_Picture_18.jpeg)
 
 SECTION I - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE 2.2 ANGER & JUDGMENT REALM - THE COURTHOUSE • A SEAT OF JUDGMENT
 
 ## ![](_page_40_Figure_0.jpeg)
 
-## ![](_page_40_Picture_1.jpeg)
-
-## ![](_page_40_Picture_2.jpeg)
-
-## ![](_page_40_Picture_3.jpeg)
 
 After Alice defeats the Chess pieces, a Boss Fight with a massive, multi-limbed, chaos-corrupted Judge unfolds.
 
@@ -1636,7 +1295,6 @@ Gigantic gavels smash the ground, and Alice must memorize symbols that appear ab
 
 The Shadow toys with Alice;
 
-## ![](_page_40_Picture_8.jpeg)
 
 ## ![](_page_40_Figure_10.jpeg)
 
@@ -1646,29 +1304,23 @@ The Shadow toys with Alice;
 
 ## ![](_page_40_Figure_13.jpeg)
 
-## ![](_page_40_Picture_14.jpeg)
 
 ## =
 
-## ![](_page_40_Picture_15.jpeg)
 
 ## 81
 
 SECTION 1 - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE 2.2 ANGER & JUDGMENT REALM - THE COURTHOUSE • A SEAT OF JUDGMENT
 
-## ![](_page_41_Picture_0.jpeg)
 
 ## ![](_page_42_Figure_0.jpeg)
 
-## ![](_page_42_Picture_2.jpeg)
 
 ## AN INFERNO OF INCREDIBLE HORROR - R. INFERNO
 
-## ![](_page_42_Picture_5.jpeg)
 
 Inferno Ability States and Attack Concepts to be Confirmed $\{TBC\}$
 
-## ![](_page_42_Picture_7.jpeg)
 
 SECTION I - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE 2.1 ANGER & JUDGMENT REALM - THE QUEEN'S DOMAIN • QUEENSLAND GARDENS
 
@@ -1680,25 +1332,16 @@ SECTION 1 - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE 2.1 ANGER
 
 Alice stands, still on fire with RAGE, before The Caterpillar sat atop his mushroom. The scene is filled with heat and smoke. Alice burns in rage, she lashes out in frustration, destroying a mushroom and sending debris flying.
 
-## ![](_page_43_Picture_2.jpeg)
-
-## ![](_page_43_Picture_3.jpeg)
-
-## ![](_page_43_Picture_4.jpeg)
 
 Caterpillar blows fiery smoke as the scene dissolves...
 
 ## "And what lies beneath?"
 
-## ![](_page_43_Picture_5.jpeg)
-
-## ![](_page_43_Picture_6.jpeg)
 
 "Hospital - 1863" The scene is presented in a dream-like style of muted colors and uncertain lines. Alice's avatar is solid and normal - wearing her nightgown - while other characters in the scene are presented as transparent specters - not solid; unable to interact with; cannot touch or be touched by Alice.
 
 SECTION 1 - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE 0.3 THE SLUMBER - SLUMBER ENCOUNTER #3 • RAGE
 
-## ![](_page_44_Picture_0.jpeg)
 
 She is walking through a memory, Alice watches a past version of herself act out her own memories. We PLAY, as Alice has an outer-body experience.
 
@@ -1708,13 +1351,11 @@ scene. Flashes of Alice taken from her burning home to the hospital. On a stretc
 
 Alice's internal voice narrates, distorted and broken:
 
-## ![](_page_44_Picture_5.jpeg)
 
 "I don't know what they expected of me. A world blown apart in the span of a night. I was bruised and burnt. At the baspital, they treated my obvious wounds. But left unattended the damage they could not see."
 
 We PLAY as Alice explores the corridors of the hospital, weaving a path that ends at Alice's room. Here we see our first glimpse of the family doctor and another unknown figure: Bumby and Radcliffe.
 
-## ![](_page_44_Picture_9.jpeg)
 
 ## "That man... the centaur?"
 
@@ -1726,10 +1367,5 @@ Voices are overbeard...
 
 ## CHILD OF FIRE
 
-## ![](_page_44_Picture_15.jpeg)
-
-## ![](_page_44_Picture_16.jpeg)
-
-## ![](_page_44_Picture_17.jpeg)
 
 SECTION I - ALICE: ASYLUM THE COMPLETE NARRATIVE & GAMEPLAY EXPERIENCE 0.3 THE SLUMBER - SLUMBER ENCOUNTER #3 • RAGE

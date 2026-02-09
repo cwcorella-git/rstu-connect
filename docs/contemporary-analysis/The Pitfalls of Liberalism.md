@@ -9,7 +9,6 @@ tags:
 
 ## Kwame Ture
 
-15–19 minutes
 
 A chapter from Stokely Speaks: From Black Power to Pan-Africanism (1971).
 

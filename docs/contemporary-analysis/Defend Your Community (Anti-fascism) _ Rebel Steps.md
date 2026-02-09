@@ -7,7 +7,6 @@ tags:
   - antifascism
 ---
 
-27–35 minutes
 
 Hi, this is Amy, the producer of Rebel Steps. Before we start this episode, I want to address the moment. We wrote and recorded this episode before the COVID 19 outbreak was unfolding around the globe. First, just want to send some love and support to all our listeners. We know it's a really challenging time. Thanks for taking time to listen to this episode. Also, if you're working on mutual aid projects or a rent strike, we'd love to hear from you. You can leave us a voice message at [rebelsteps.com/mailbox](https://rebelsteps.com/mailbox.html) or email us at [hello@rebelsteps.com.](mailto:hello@rebelsteps.com)
 

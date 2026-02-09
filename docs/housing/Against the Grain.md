@@ -659,7 +659,6 @@ The "aboveground" simultaneous ripening of cereal grains has the inestimable adv
 
 For purposes of measuring, dividing, and assessing, the simple fact that the cereal harvest consists ultimately of small grains, husked or unhusked, has enormous administrative advantages. Like grains of sugar or sand, cereal grains are almost infinitely divisible, down to smaller and smaller fractions and precisely measurable by weight and volume for accounting purposes. Units of grain served as standards of measurement and value for trade and tribute against which the value of other commodities was calculated including labor. The daily food ration of the lowest class of laborers in Umma, Mesopotamia, was almost exactly two liters of barley measured out in the beveled bowls that are among the most ubiquitous archaeological finds.
 
-## ![](_page_75_Picture_4.jpeg)
 
 Figure 10. Beveled-rim (ration?) bowls. Photo courtesy of Susan Pollock
 
@@ -705,7 +704,6 @@ What can one infer from the trove of cuneiform tablets that have been recovered 
 
 The earliest administrative tablets from Uruk (Level IV), circa 3,300–3,100 BCE, are lists, lists, and lists—mostly of grain, manpower, and taxes. The topics of the surviving tablets in order of frequency are barley (as rations and taxes), war captives, male and female slaves.[\[120\]](#page-163-11) A preoccupation at Uruk IV and later in other centers is the population roll. As in all ancient kingdoms, maximizing population was an obsession that usually superseded the conquest of territory per se. Population—as producers, soldiers, and slaves represented the wealth of the state. The city of Umma, a dependency of Ur, where a huge trove of tablets has been found dating from about 2,255 BCE, was especially precocious, occupying one hundred hectares and having between ten thousand and twenty thousand inhabitants—a large population to administer. At the core of Umma's project of legibility was a census of population by location, age, and gender as the basis for assigning the head tax and corvée labor, and for conscription. It was the "immanent" project, never realized in practice except perhaps for the temple economy and dependent labor force. Landholdings, apparently both temple and private, were designated by their size, the quality of their soil, and the expected crop yield, which served as the basis for a tax assessment. Some of the Sumerian polities, especially Ur III, look like command-and-control economies, heavily centralized (on paper—or, rather, on tablet), militarized, and regimented, resembling what we know of militarized Sparta among the Greek city-states. One tablet records 840 rations of barley, meted out, in all probability in the (mass produced?) beveled bowls holding two liters of barley. Other rations mention beer, groats, and flour. Labor gangs, whether of war captives, slaves, or corvée laborers, seem ubiquitous.
 
-## ![](_page_81_Picture_3.jpeg)
 
 Figure 11. Cuneiform tablet depicting storehouse supplies and withdrawals. Photo courtesy of the British Museum
 
@@ -787,7 +785,6 @@ Other evidence about slaves and prisoners of war indicates that they were not we
 
 The strongest circumstantial evidence for slaves and captive prisoners comes, as one might expect, from later periods after Ur III, when cuneiform texts are more abundant. Whether one can make a case for reading such evidence back to Ur III or find it applicable to our understanding of the Uruk period (c. 3,000 BCE) is highly questionable. In these later periods, much of the apparatus of slave "management" is evident. There are bounty hunters whose specialty it is to locate and return runaway slaves. The escapees are subdivided into "recent" escapees, those long-gone, "deceased" escapees, and "returned" escapees, though it seems as if few of the runaway slaves were ever recaptured.[\[146\]](#page-164-13) Throughout these sources there are accounts of populations fleeing a city for causes as varied as hunger, oppression, epidemics, and warfare. Many captive prisoners of war are undoubtedly among them, though it is unknown whether they fled back to their place of origin, or to another town, which would surely have welcomed them, or to pastoralism. In any event, absconding was a preoccupation of alluvium politics; the later well-known code of Hammurabi fairly bristles with punishments for aiding or abetting the escape of slaves.
 
-## ![](_page_90_Picture_4.jpeg)
 
 Figure 12. Prisoners in neck fetters. Photo courtesy of the Iraq Museum, Baghdad, Dr. Ahmed Kamel
 
@@ -813,7 +810,6 @@ He canceled the debts[\[147\]](#page-164-14)
 
 The depiction of a utopian space, by negating the ordinary woes of the poor, weak, and enslaved, provides a handy portrait of quotidian conditions.
 
-## ![](_page_92_Picture_2.jpeg)
 
 Figure 13. The grinding room in early–second millennium palace at Ebla. Reprinted from Postgate, Early Mesopotamia: Society and Economy at the Dawn of History
 

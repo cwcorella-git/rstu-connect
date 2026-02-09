@@ -9,9 +9,6 @@ tags:
 
 ## Colin Greer, and Frank Riessman
 
-## ![](_page_0_Picture_3.jpeg)
-
-## ![](_page_1_Picture_0.jpeg)
 
 ## +-------------------------------------
 
@@ -27,7 +24,6 @@ SUMNER M. ROSEN NEIL POSTMAN
 
 EDITED BY ALAN GARTNER, COLIN GREER, AND FRANK RIESSMAN
 
-## ![](_page_4_Picture_3.jpeg)
 
 PERENNIAL LIBRARY
 Harper & Row, Publishers
@@ -119,7 +115,6 @@ Ivan Illich has become a popular landmark in the American national debate on pub
 
 ### After Deschooling, What?
 
-## ![](_page_13_Picture_0.jpeg)
 
 # After Deschooling, What? IVAN ILLICH
 
@@ -461,7 +456,6 @@ ices addictive, and monopolizing all alternatives to self-initiated education on
 
 Yet, argues Illich, schools cannot possibly achieve their goal of promoting learning. For as in every dimension of human experience, learning is the result of personal activity, not professional ministration:
 
-## ![](_page_68_Picture_4.jpeg)
 
 Most learning is not the result of instruction. It is rather the result of unhampered participation in a meaningful setting. Most people learn best by being "with it," yet school makes them identify their personal, cognitive growth with elaborate planning and manipulation. [DS, p. 89]
 
@@ -777,7 +771,6 @@ But that hope is vain and the guarantees are worthless unless there is some soci
 
 Education is a positive force—a function that cannot be performed merely by providing freedom and sensitive advisement or by ensuring access to tools, resources, and people. It occurs willy-nilly, by chance or planning-at the mother's breast, in the locker room, in the ghetto streets, in kitchen drudgery, and in school servitude. As Illich sees so clearly, much of the "content" of what is learned comes from the context, the environment, the emotional climate, rather than from any stated curricular. In simpleminded but well-meaning efforts to provide good education through schooling we have largely ignored precisely those surrounding factors that teach more than teachers and books. And the major factor-again as Illich recognizes -is compulsion. Compulsory education, like compulsory love, is a contradiction in terms. Where there is compulsion a person can learn, but he learns mostly about compulsion rather than reading, writing, and arithmetic. He learns to be docile
 
-## ![](_page_120_Picture_4.jpeg)
 
 or rebellious; he learns to sit still for long hours without thinking: he learns to fear or hate or he sickeningly dependent upon authority figures. Surely that element of education must go. If schools remain (be they "free" schools or traditional ones) the first business of the day should be to establish clearly and unequivocally that anyone is free to leave—the classroom, the school—whenever he wishes, and that there are real alternatives, places to go, things to do, that are safe, stimulating, authorized.
 
@@ -1109,7 +1102,6 @@ enue, New York, New York 10010 | |
 | City | 2 | | |
 ## | - | | 710 | |
 
-## ![](_page_178_Picture_0.jpeg)
 
 ### After Deschooling,
 

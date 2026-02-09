@@ -1,5 +1,5 @@
 ---
-title: '![](_page_0_Picture_2.jpeg)'
+title: ''
 author: "John Perry Barlow"
 date: 1994
 category: theory
@@ -7,15 +7,12 @@ tags:
   - theory
 ---
 
-![](_page_0_Picture_2.jpeg)
-
-![](_page_0_Picture_3.jpeg)
 
 ## **A Declaration of the Independence of Cyberspace**
 
 ## **[JOHN PERRY BARLOW LIBRARY](https://www.eff.org/john-perry-barlow)**
 
-**[A DECLARATION OF THE INDEPENDENCE OF CYBERSPACE](#page-3-0)**
+**A DECLARATION OF THE INDEPENDENCE OF CYBERSPACE**
 
 **[DECRYPTING THE PUZZLE PALACE](https://www.eff.org/pages/decrypting-puzzle-palace#main-content)**
 

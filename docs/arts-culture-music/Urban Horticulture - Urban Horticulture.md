@@ -19,7 +19,6 @@ tags:
 | 7 | VOLUNTEER NEWS AND OPPORTUNITIES | 16 DIRECTOR'S NOTES | |
 ## | | | | |
 
-## ![](_page_0_Picture_6.jpeg)
 
 ## Here At Last!
 
@@ -31,9 +30,6 @@ Among his publications is The Plant-Book: A Portable Dictionary of the Vascular 
 
 The scientific side of Professor Mabberley's career is devoted to the teaching and study of biodiversity in the interlocking disciplines of ecology and conservation, systematic botany and evolution. He is largely focused on forest trees and other plants of economic importance. (continued on page 3)
 
-## ![](_page_0_Picture_13.jpeg)
-
-## ![](_page_0_Picture_14.jpeg)
 
 DATE & TIME: Sunday, May 22, 2005 Rare Book Preview at 6 p.m., Lecture at 7 p.m. with reception following
 
@@ -57,7 +53,6 @@ DATE & TIME: Saturday, May 21, 2005, 9:30 a.m. to 3:30 p.m.
 
 ## FEE: Free with Zoo admission
 
-## ![](_page_1_Picture_12.jpeg)
 
 Join the Washington Rare Plant Care and Conservation Program (Rare Care) to promote the importance of native plants and their habitats. Children of all ages will enjoy peering at plants through microscopes, petting moss, leaf rubbing and the always popular flower-pollinator game. Adults can have fun with pine cone ID and seed dissection and learn about regional conservation programs. The National Park Service, US Forest Service and Bureau of Land Management developed this nation-wide event to highlight the aesthetic, recreational, biological and economic value of wildflowers. For more information call Rare Care at 206-616-0780 or visit their website at www.depts.washington.edu/rarecare.
 
@@ -83,7 +78,6 @@ upon my return.
 
 I have also been collecting seed to propagate in Seattle. One plant I hope to get going is a Viburnum species from the Tibetan
 
-## ![](_page_2_Picture_11.jpeg)
 
 Riz (in center of photo) and fellow plant explorers on an expedition led by Dan Hinkley.
 
@@ -109,7 +103,6 @@ The earliest works – Gerard's *Herball* (1636), Parkinson's *Paradisi in Sole*
 
 The Rare Book Collection is only available by appointment, made in advance by calling 206-543-0415. However, frequent displays of selected materials will be on view in the library's entry display cabinet. For a more in-depth preview, please come to the celebration of the Miller Library's 20th anniversary on May 22nd. See page 2 for more information.
 
-## ![](_page_3_Picture_8.jpeg)
 
 ## Rosa centifolia from Willmott's The Genus Rosa
 
@@ -135,7 +128,6 @@ DRIP IRRIGATION and SOAKER HOSES are the best way to water most plants (except l
 
 MAKE EVERY DROP COUNT. Experts estimate that 50% or more of summer garden watering is wasted in evaporation, runoff, or simply over-watering. Watering deeply but less often encourages deep roots and prevents disease. Let the top few inches of soil dry before watering again so roots and soil don't become waterlogged. Exact
 
-## ![](_page_4_Picture_9.jpeg)
 
 The Plant Answer Line is open from 9 a.m. until 5 p.m. Monday through Friday. Call UW PLANT, 206-897-5268, or e-mail your question to: hortlib@u.washington.edu duration and frequency of watering depend on temperature, wind conditions, soil type and plant variety. Easy-to-follow guidelines are available through Saving Water Partnership's publication Smart Watering. For copies, contact the Natural Lawn and Garden Hotline, 206-633-0224 or visit www.savingwater.org/outside\_watering.htm. Click on "Smart Watering".
 
@@ -151,7 +143,6 @@ CUH Alum Dan Hinckley and partner Robert Jones once again put on a successful fu
 
 Students from the Horticulture University Group are still taking orders for tee shirts. Visitors to the Merrill Hall dedication witnessed the enthusiasm of these students who recently formed the group to promote horticulture interest and education. Events
 
-## ![](_page_5_Picture_3.jpeg)
 
 have included a pruning workshop and future plans include nursery tours and educational workshops. Anyone interested in purchasing the earthy green shirts with the Merrill Hall tile design may phone 253-651-5425 for more information.
 
@@ -189,7 +180,6 @@ The former Soundscape Garden located on the western edge of CUH is being transfo
 
 To guide visitors to the garden, a new path was cut from the sidewalk and two new planting beds were installed. Plants were selected according to their soil requirements, water-use, and nonpoisonous characteristics. Child-unfriendly plants
 
-## ![](_page_6_Picture_6.jpeg)
 
 with toxic plant parts or sharp spines (barberries and nandina, for example) were removed from the beds, and replaced by "child safe" plants such as lavender and woolly thyme. Plans include a tunnel through a weeping white pine (Pinus strobus 'Pendula')
 
@@ -365,7 +355,6 @@ LOCATION:
 
 It can pay to install solar power in your home, even in rainy Seattle. This class is for homeowners interested in exploring if solar electricity is right for their home. The class will learn how to assess a site, size a system, determine costs vs benefits, and compare the various solar products on the market. Review the residential energy code, building codes, and how to choose a contractor or do it yourself. Finally, the class will assemble and disassemble a working solar electric system in the classroom. Please bring a sack lunch since the class will run through the lunch hour.
 
-## ![](_page_8_Picture_46.jpeg)
 
 # walks and COURS
 
@@ -463,7 +452,6 @@ Investigate the wonders of the Arboretum with a Family Adventure Pack. Family pa
 
 **WETLAND WONDERS** Take a safari to Foster and Marsh Islands along the Waterfront Trail. Collect aquatic insects, go on a wetlands scavenger hunt and play games. Pack comes with binoculars!
 
-## ![](_page_10_Picture_22.jpeg)
 
 # arboretum guided tours
 
@@ -481,7 +469,6 @@ Great for teachers, scouts, camps, daycare and other youth groups. Lead your own
 
 warsh madness Explore one of Seattle's largest wetlands, Foster Island, through aquatic dips, wildlife identification and games. Investigate the amazing critters and plants that make the wetland their home. This pack includes dip nets, aquaria, field guides, scavenger hunts and more.
 
-## ![](_page_11_Picture_12.jpeg)
 
 #### Weekend Walks at One
 
@@ -597,7 +584,6 @@ Class Locations and Parking: Program locations are listed with each program desc
 
 2300 Arboretum Drive East Box 358010 Seattle, WA 98195-8010 206-543-8800 (phone) 206-616-2871 (fax) www.wparboretum.org
 
-## ![](_page_13_Picture_11.jpeg)
 
 ## 14
 
@@ -671,7 +657,6 @@ CUH/WPA Building & Rentals Management Staff:
 
 Becky Johnson, CUH Facilities Program Coordinator Ray Larson, CUH Facilities Coordinator Brett Mercier, WPA Building Services Coordinator
 
-## ![](_page_15_Picture_24.jpeg)
 
 ## ER for URBAN HORTICULTURE
 
@@ -681,7 +666,6 @@ College of Forest Resources University of Washington 3501 NE 41st Street Box 354
 
 ## 09-9615
 
-## ![](_page_15_Picture_29.jpeg)
 
 NON-PROFIT ORG.
 U. S. POSTAGE

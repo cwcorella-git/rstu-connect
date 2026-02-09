@@ -9,7 +9,6 @@ tags:
   - wikipedia
 ---
 
-## ![](_page_0_Picture_2.jpeg)
 
 **Maxwell Alejandro Frost** (born January 17, 1997[\)\[1\]](#page-4-0) is an American politician and activist serving as the [U. S. representative](https://en.wikipedia.org/wiki/U. S._representative) for [Florida's 10th](https://en.wikipedia.org/wiki/Florida%27s_10th_congressional_district) [congressional district](https://en.wikipedia.org/wiki/Florida%27s_10th_congressional_district) since 2023. A member of the [Democratic Party,](https://en.wikipedia.org/wiki/Democratic_Party_(United_States)) he was previously the national organizing director for [March for Our Lives.](https://en.wikipedia.org/wiki/March_for_Our_Lives_Action_Fund) Elected at age 25[,\[2\]](#page-4-1) Frost is the youngest member and the first [Generation](https://en.wikipedia.org/wiki/Generation_Z) [Z](https://en.wikipedia.org/wiki/Generation_Z) member of the [United States Congress.](https://en.wikipedia.org/wiki/United_States_Congress)
 
@@ -29,7 +28,6 @@ Frost was an organizer with the [American Civil Liberties Union](https://en.wiki
 
 ### **Maxwell Frost**
 
-## ![](_page_0_Picture_13.jpeg)
 
 ## Official portrait, 2023
 
@@ -91,7 +89,6 @@ In August 2021, Frost announced his candidacy for the Democratic nomination for 
 
 Frost beat [state senator](https://en.wikipedia.org/wiki/Florida_State_Senate) [Randolph Bracy](https://en.wikipedia.org/wiki/Randolph_Bracy) and former [U. S. representatives](https://en.wikipedia.org/wiki/U. S._Representative) [Alan](https://en.wikipedia.org/wiki/Alan_Grayson) [Grayson](https://en.wikipedia.org/wiki/Alan_Grayson) and [Corrine Brown,](https://en.wikipedia.org/wiki/Corrine_Brown) among others, in the August 23, 2022, primary[.\[18\]](#page-5-9) Due to the district's Democratic tilt, Frost was expected to win the general election in November 2022,[\[19\]](#page-5-10) which he did, defeating Republican Calvin Wimbish by a 19% margin, which was smaller than the 32% margin by which [Biden](https://en.wikipedia.org/wiki/Joe_Biden) won the
 
-## ![](_page_1_Picture_12.jpeg)
 
 Maxwell and the [118th Congress](https://en.wikipedia.org/wiki/118th_United_States_Congress) are sworn into the [U. S. House of](https://en.wikipedia.org/wiki/United_States_House_of_Representatives) [Representatives,](https://en.wikipedia.org/wiki/United_States_House_of_Representatives) 2023
 
@@ -131,7 +128,6 @@ In January 2023, Frost and Representative [Jared Moskowitz](https://en.wikipedia
 
 Frost supports [single-payer healthcare](https://en.wikipedia.org/wiki/Single-payer_healthcare) and investing in [pandemic prevention.](https://en.wikipedia.org/wiki/Pandemic_prevention)[\[4\]](#page-4-3)[\[6\]](#page-4-5) [\[7\]](#page-4-6) He introduced with Representative [Doris Matsui](https://en.wikipedia.org/wiki/Doris_Matsui) in 2024 the EPIPEN Act, which seeks to cap out-of-pocket costs for [epinephrine autoinjectors](https://en.wikipedia.org/wiki/Epinephrine_autoinjector) used for severe allergic reactions at \$60 per two-pack for individuals with health insurance. [\[28\]](#page-6-2)
 
-## ![](_page_2_Picture_7.jpeg)
 
 Frost, President [Joe Biden,](https://en.wikipedia.org/wiki/Joe_Biden) and Vice President [Kamala Harris](https://en.wikipedia.org/wiki/Kamala_Harris) arrive to the Rose Garden for an announcement on the first-ever White House Office of Gun Violence Prevention in September 2023
 
@@ -175,7 +171,6 @@ In December 2022, Frost said he was denied a rental apartment in Washington, D. 
 
 Frost was among a handful of Democrats who received about \$1 million in support from former billionaire and felon [Sam Bankman-Fried'](https://en.wikipedia.org/wiki/Sam_Bankman-Fried)s Protect Our Future PAC, as well as the maximum individual donation of \$2,900[.\[55\]](#page-7-11) In December 2022, the U. S. government indicted Bankman-Fried after alleging that he gave investor money to progressive political candidates, among other fraudulent crimes.[\[56\]](#page-7-12) After the announcement of charges against
 
-## ![](_page_3_Picture_13.jpeg)
 
 Frost plays drums at an event in support of the CREATE Art Act, 2024
 

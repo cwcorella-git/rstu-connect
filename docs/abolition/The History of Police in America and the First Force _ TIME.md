@@ -15,7 +15,6 @@ tags:
 
 ## Olivia B. Waxman
 
-6–7 minutes
 
 It would be easy to think that the [police officer i](http://www.thedrive.com/news/7743/new-kevlar-shield-design-aimed-to-protect-police-officers)s a figure who has existed since the beginning of civilization. That's the idea on display in the proclamation from [President John F. Kennedy](http://www.presidency.ucsb.edu/ws/?pid=24099) on the dedication of the week of May 15 as "National Police Week," in which he noted that law-enforcement officers had been [protecting](http://time.com/3707820/sultan-police-dog/) Americans since the nation's birth.
 

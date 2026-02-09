@@ -9,7 +9,6 @@ tags:
 
 ## sa.jls: \$13.95 CANADA £6.99 UK
 
-## ![](_page_0_Picture_2.jpeg)
 
 "In this extraordinary book. Ang la Davis challenges us to confront the human rights catastrophe In our jails and prisons. As she so convincingly argues, the contemporary U. S. practice of super-incarceration is closer to new age slavery than to any recognizable system of 'criminal justice.'"
 
@@ -19,7 +18,6 @@ tags:
 
 -formor Con Qresswoman Cynthia Mc Kinney
 
-## ![](_page_0_Picture_13.jpeg)
 
 ## ![](_page_0_Figure_14.jpeg)
 

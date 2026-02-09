@@ -11,7 +11,6 @@ tags:
 
 ## Contributors to Wikimedia projects
 
-28–36 minutes
 
 For the ideology arguing that feminist social science should be practiced from the standpoint of women, see [standpoint](https://en.wikipedia.org/wiki/Standpoint_feminism) [feminism.](https://en.wikipedia.org/wiki/Standpoint_feminism)
 

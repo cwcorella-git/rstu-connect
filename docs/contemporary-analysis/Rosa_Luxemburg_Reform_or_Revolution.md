@@ -9,9 +9,6 @@ tags:
   - revolution
 ---
 
-## ![](_page_0_Picture_1.jpeg)
-
-## ![](_page_2_Picture_0.jpeg)
 
 ## Rhusemburg
 
@@ -23,7 +20,6 @@ Foreign Languages Press *Collection "Foundations" #3 Contact* – *redspark.cont
 
 This edition of *Reform or Revolution?* is a reprint of the revised Second Edition, 1908.
 
-## ![](_page_3_Picture_4.jpeg)
 
 This book is under license Attribution-Share Alike 4.0 International (CC BY-SA 4.0)
 ## **Contents**

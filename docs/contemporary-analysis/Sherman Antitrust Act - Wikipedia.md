@@ -11,9 +11,6 @@ tags:
 
 ## Contributors to Wikimedia projects
 
-50–64 minutes
-
-## ![](_page_0_Picture_7.jpeg)
 
 ### **Legislative history**
 
@@ -26,7 +23,6 @@ tags:
 
 ## List
 
-## ![](_page_1_Picture_9.jpeg)
 
 [Sen.](https://en.wikipedia.org/wiki/United_States_Senate) [John Sherman](https://en.wikipedia.org/wiki/John_Sherman) [\(R](https://en.wikipedia.org/wiki/Republican_Party_(United_States))[–Ohio\)](https://en.wikipedia.org/wiki/List_of_United_States_Senators_from_Ohio), the principal author of the Sherman Antitrust Act
 
@@ -215,7 +211,7 @@ Now we are dealing with an offense against interstate or international commerce,
 
 Economist [Thomas Di Lorenzo](https://en.wikipedia.org/wiki/Thomas_Di Lorenzo) notes that Senator Sherman sponsored the 1890 [William Mc Kinley](https://en.wikipedia.org/wiki/William_Mc Kinley) tariff just three months after the Sherman Act, and agrees with [The New York Times](https://en.wikipedia.org/wiki/The_New_York_Times) which wrote on October 1, 1890: "That so-called Anti-Trust law was passed to deceive the people and to clear the way for the enactment of this Pro-Trust law relating to the tariff." The New York Times went on to assert that Sherman merely supported this "humbug" of a law "in order that party organs might say ... 'Behold! We have attacked the trusts. The Republican Party is the enemy of all such rings.'["\[55\]](#page-37-1) Dilorenzo writes: "Protectionists did not want prices paid by consumers to fall. But they also understood that to gain political support for high tariffs they would have to assure the public that industries would not combine to increase prices to politically prohibitive levels. Support for both an antitrust law and tariff hikes would maintain high prices while avoiding the more obvious bilking of
 
-## consumers.["\[56\]\[](#page-37-2)[full citation needed](https://en.wikipedia.org/wiki/Wikipedia:Citing_sources#What_information_to_include)]
+## consumers.["\[56\]\[full citation needed](https://en.wikipedia.org/wiki/Wikipedia:Citing_sources#What_information_to_include)]
 
 [Robert Bork](https://en.wikipedia.org/wiki/Robert_Bork) was well known for his outspoken criticism of the antitrust regime. Another conservative legal scholar and judge, [Richard Posner](https://en.wikipedia.org/wiki/Richard_Posner) of the [Seventh Circuit,](https://en.wikipedia.org/wiki/United_States_Court_of_Appeals_for_the_Seventh_Circuit) does not condemn the entire regime, but expresses concern with the potential that it could be applied to create inefficiency, rather than to avoid inefficiency[.\[57\]](#page-37-3) Posner further believes, along with a number of others, including Bork, that genuinely inefficient cartels and coercive monopolies, the target of the act, would be selfcorrected by market forces, making the strict penalties of antitrust legislation unnecessary[.\[57\]](#page-37-3) Conversely, liberal [U. S.](https://en.wikipedia.org/wiki/U. S._Supreme_Court) [Supreme Court](https://en.wikipedia.org/wiki/U. S._Supreme_Court) Justice [William O. Douglas](https://en.wikipedia.org/wiki/William_O._Douglas) criticized the judiciary for interpreting and enforcing the antitrust law unequally: "From the beginning it [the Sherman Act] has been applied by judges hostile to its purposes, friendly to the empire builders who wanted it emasculated ... trusts that were dissolved reintegrated in new forms ... It is ironic that the Sherman Act was truly effective in only one respect, and that was when it was applied to labor unions. Then the courts read it with a literalness that never appeared in their other decisions.["\[58\]](#page-37-4)
 
@@ -334,7 +330,6 @@ Congress for debate, the debates point to a similar purpose. Senator Sherman ass
 - 58. ^ Douglas, William O., An Almanac of Liberty, Doubleday & Company, 1954, p. 189
 - 59. ^ Newman, Patrick (January 12, 2018). "Revenge: John Sherman, Russell Alger and the origins of the Sherman Act". Public Choice. **174** (3–4): 257–275. [doi](https://en.wikipedia.org/wiki/Doi_(identifier))[:10.1007/](https://doi.org/10.1007%2Fs11127-017-0497-x) [s11127-017-0497-x](https://doi.org/10.1007%2Fs11127-017-0497-x). [ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier)) [0048-5829](https://search.worldcat.org/issn/0048-5829). [S2CID](https://en.wikipedia.org/wiki/S2CID_(identifier)) [158141317](https://api.semanticscholar.org/CorpusID:158141317).
 
-## ![](_page_37_Picture_8.jpeg)
 
 [Wikisource](https://en.wikipedia.org/wiki/Wikisource) has original text related to this article:
 

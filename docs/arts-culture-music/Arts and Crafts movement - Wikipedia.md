@@ -9,7 +9,6 @@ tags:
   - wikipedia
 ---
 
-## ![](_page_0_Picture_2.jpeg)
 
 The **Arts and Crafts movement** was an international trend in the [decorative](https://en.wikipedia.org/wiki/Decorative_arts) and fi[ne arts](https://en.wikipedia.org/wiki/Fine_arts) that developed earliest and most fully in the [British](https://en.wikipedia.org/wiki/British_Isles) [Isles](https://en.wikipedia.org/wiki/British_Isles)[\[1\]](#page-19-0) and subsequently spread across the [British](https://en.wikipedia.org/wiki/British_Empire) [Empire](https://en.wikipedia.org/wiki/British_Empire) and to the rest of Europe and North America.[\[2\]](#page-19-1)
 
@@ -17,7 +16,6 @@ Initiated in reaction against the perceived impoverishment of the decorative art
 
 Others consider Art and Crafts to be in opposition to Art Nouveau[.\[6\]](#page-19-5) Arts and Crafts indeed criticised Art Nouveau for its use of industrial materials such as iron.
 
-## ![](_page_0_Picture_7.jpeg)
 
 [William Morris'](https://en.wikipedia.org/wiki/William_Morris) design for Trellis wallpaper, 1862
 
@@ -37,7 +35,6 @@ Other works followed in a similar vein, such as Wyatt's *Industrial Arts of the 
 
 Jones declared that ornament "must be secondary to the thing decorated", that there must be "fitness in the ornament to the thing ornamented", and that wallpapers and carpets
 
-## ![](_page_1_Picture_7.jpeg)
 
 The Nature of Gothic by [John Ruskin,](https://en.wikipedia.org/wiki/John_Ruskin) printed by [William Morris](https://en.wikipedia.org/wiki/William_Morris) at the [Kelmscott Press](https://en.wikipedia.org/wiki/Kelmscott_Press) in 1892 in his [Golden](https://en.wikipedia.org/wiki/Golden_Type) [Type](https://en.wikipedia.org/wiki/Golden_Type) inspired by the 15th-century printer [Nicolas Jenson.](https://en.wikipedia.org/wiki/Nicolas_Jenson) This chapter from [The](https://en.wikipedia.org/wiki/The_Stones_of_Venice_(book)) [Stones of Venice](https://en.wikipedia.org/wiki/The_Stones_of_Venice_(book)) was a sort of manifesto for the Arts and Crafts movement.
 
@@ -49,7 +46,6 @@ However, the design reformers of the mid-19th century did not go as far as the d
 
 Some of the ideas of the movement were anticipated by [Augustus Pugin](https://en.wikipedia.org/wiki/Augustus_Pugin) (1812–1852), a leader in the [Gothic](https://en.wikipedia.org/wiki/Gothic_Revival_architecture) [Revival in architecture.](https://en.wikipedia.org/wiki/Gothic_Revival_architecture) For example, he advocated truth to material, structure, and function, as did the Arts and Crafts artists.[\[18\]](#page-20-11) Pugin articulated the tendency of social critics to compare the faults of modern society with the Middle Ages[,\[19\]](#page-20-12) such as the sprawling growth of cities and the treatment of the poor – a tendency that became routine with Ruskin, Morris, and the Arts and Crafts movement. His book *Contrasts* (1836) drew examples of bad modern buildings and town planning in contrast with good medieval examples, and his biographer [Rosemary](https://en.wikipedia.org/wiki/Rosemary_Hill) [Hill](https://en.wikipedia.org/wiki/Rosemary_Hill) notes that he "reached conclusions, almost in passing, about the importance of craftsmanship and tradition in architecture that it would take the rest of the century and the combined efforts of Ruskin and Morris to work out in detail." She describes the spare furnishings
 
-## ![](_page_2_Picture_5.jpeg)
 
 [Pugin](https://en.wikipedia.org/wiki/Augustus_Pugin)'s house "The Grange" in [Ramsgate,](https://en.wikipedia.org/wiki/Ramsgate) from 1843. Its simplified [Gothic Revival](https://en.wikipedia.org/wiki/Gothic_Revival_architecture) style, adapted to domestic building, helped shape the architecture of the Arts and Crafts movement.
 
@@ -73,11 +69,9 @@ Morris began experimenting with various crafts and designing furniture and inter
 
 In 1861, Morris began making furniture and decorative objects commercially, modelling his designs on medieval styles and using bold forms and strong colours. His patterns were based on flora and fauna, and his products were inspired by the vernacular or domestic traditions of the British countryside. Some were deliberately left unfinished in order to display the beauty of the materials and the work of the craftsman, thus creating a rustic appearance. Morris strove to unite all the arts within the decoration of the home, emphasising nature and simplicity of form.[\[33\]](#page-21-6)
 
-## ![](_page_3_Picture_8.jpeg)
 
 [William Morris,](https://en.wikipedia.org/wiki/William_Morris) a textile designer who was a key influence on the Arts and Crafts movement
 
-## ![](_page_3_Picture_10.jpeg)
 
 William Morris's [Red House](https://en.wikipedia.org/wiki/Red_House,_Bexleyheath) in Bexleyheath, designed by Philip Webb and completed in 1860; one of the most significant buildings of the Arts and Crafts movement[\[31\]](#page-21-0)
 
@@ -85,7 +79,6 @@ William Morris's [Red House](https://en.wikipedia.org/wiki/Red_House,_Bexleyheat
 
 Unlike their counterparts in the United States, most Arts and Crafts practitioners in Britain had strong, slightly incoherent, negative feelings about machinery. They thought of "the craftsman" as free, creative, and working with his hands, "the machine" as soulless, repetitive, and inhuman. These contrasting images derive in part from John Ruskin's (1819–1900) *The Stones of Venice*, an architectural history of Venice that contains a powerful denunciation of modern industrialism to which Arts and Crafts designers returned again and again. Distrust for the machine lay behind the many little workshops that turned their backs on the industrial world around 1900, using preindustrial techniques to create what they called "crafts."
 
-## ![](_page_4_Picture_3.jpeg)
 
 The weaving shed in Morris & Co's factory at [Merton,](https://en.wikipedia.org/wiki/Merton,_London_(parish)) which opened in the 1880s
 
@@ -137,7 +130,6 @@ Morris's thought influenced the [distributism](https://en.wikipedia.org/wiki/Dis
 
 By the end of the nineteenth century, Arts and Crafts ideals had influenced architecture, painting, sculpture, graphics, illustration, book making and photography, domestic design and the decorative arts, including furniture and woodwork, stained glass, [\[60\]](#page-22-11) leatherwork, lacemaking, embroidery, rug making and weaving, jewellery and metalwork, [enameling](https://en.wikipedia.org/wiki/Vitreous_enamel) and ceramics.[\[61\]](#page-22-12) By 1910, there was a fashion for "Arts and Crafts" and all things hand-made. There was a proliferation of amateur handicrafts of variable quality[\[62\]](#page-22-13) and of incompetent imitators who caused the public to regard Arts and Crafts as "something less, instead of more, competent and fit for purpose than an ordinary mass produced article."[\[63\]](#page-22-14)
 
-## ![](_page_7_Picture_6.jpeg)
 
 [Coleton Fishacre](https://en.wikipedia.org/wiki/Coleton_Fishacre) was designed in 1925 as a holiday home in Kingswear, Devon, England, in the Arts and Crafts tradition.
 
@@ -159,7 +151,6 @@ Arts and Crafts ideas. He manufactured furniture in the Cotswold Hills, a region
 
 The beginnings of the Arts and Crafts movement in Scotland were in the stained glass revival of the 1850s, pioneered by [James Ballantine](https://en.wikipedia.org/wiki/James_Ballantine) (1806–1877). His major works included the great west window of [Dunfermline Abbey](https://en.wikipedia.org/wiki/Dunfermline_Abbey) and the scheme for [St.](https://en.wikipedia.org/wiki/St._Giles_Cathedral) [Giles Cathedral,](https://en.wikipedia.org/wiki/St._Giles_Cathedral) Edinburgh. In Glasgow it was pioneered by [Daniel Cottier](https://en.wikipedia.org/wiki/Daniel_Cottier) (1838–1891), who had probably studied with Ballantine, and was directly influenced by [William Morris,](https://en.wikipedia.org/wiki/William_Morris) [Ford](https://en.wikipedia.org/wiki/Ford_Madox_Brown) [Madox Brown](https://en.wikipedia.org/wiki/Ford_Madox_Brown) and [John Ruskin.](https://en.wikipedia.org/wiki/John_Ruskin) His key works included the *Baptism of Christ* in [Paisley Abbey,](https://en.wikipedia.org/wiki/Paisley_Abbey) (c. 1880). His followers included Stephen Adam and his son of the same name[.\[67\]](#page-22-18)
 
-## ![](_page_8_Picture_7.jpeg)
 
 Stained glass window, the [Hill](https://en.wikipedia.org/wiki/Hill_House,_Helensburgh) [House,](https://en.wikipedia.org/wiki/Hill_House,_Helensburgh) Helensburgh, Argyll and Bute
 
@@ -177,7 +168,6 @@ A key promoter of the Arts and Crafts movement in Wales was [Owen Morgan Edwards
 
 In architecture, [Clough Williams-Ellis](https://en.wikipedia.org/wiki/Clough_Williams-Ellis) sought to renew interest in ancient building, reviving "rammed earth" or [pisé](https://en.wikipedia.org/wiki/Rammed_earth)[\[73\]](#page-23-3) construction in Britain.
 
-## ![](_page_9_Picture_5.jpeg)
 
 The Robert Owen Museum, [Newtown, Wales,](https://en.wikipedia.org/wiki/Newtown,_Powys) by [Frank Shayler](https://en.wikipedia.org/wiki/Frank_Shayler)
 
@@ -195,7 +185,6 @@ The earliest Arts and Crafts activity in continental Europe was in [Belgium](htt
 
 Arts and Crafts products were admired in Austria and Germany in the early 20th century, and under their inspiration design moved rapidly forward while it stagnated in Britain.[\[78\]](#page-23-8) The [Wiener Werkstätte,](https://en.wikipedia.org/wiki/Wiener_Werkst%C3%A4tte) founded in 1903 by [Josef Ho](https://en.wikipedia.org/wiki/Josef_Hoffmann)ffmann and [Koloman Moser,](https://en.wikipedia.org/wiki/Koloman_Moser) was influenced by the Arts and Crafts principles of the "unity of the arts" and the hand-made. The [Deutscher](https://en.wikipedia.org/wiki/Deutscher_Werkbund) [Werkbund](https://en.wikipedia.org/wiki/Deutscher_Werkbund) (German Association of Craftsmen) was formed in 1907 as an association of artists, architects, designers, and industrialists to improve the global competitiveness of German businesses and became an important element in the development of [modern architecture](https://en.wikipedia.org/wiki/Modern_architecture) and industrial design through its advocacy of standardised production. However, its leading members, van de Velde and [Hermann Muthesius,](https://en.wikipedia.org/wiki/Hermann_Muthesius) had conflicting opinions about standardisation. Muthesius believed that it was essential were Germany to become a leading nation in trade and culture. Van de
 
-## ![](_page_10_Picture_3.jpeg)
 
 The Swedish artists [Carl Larsson](https://en.wikipedia.org/wiki/Carl_Larsson) and [Karin Bergöö Larsson](https://en.wikipedia.org/wiki/Karin_Berg%C3%B6%C3%B6_Larsson) were inspired by the Arts and Crafts movement when designing their home.
 
@@ -219,15 +208,12 @@ While the Europeans tried to recreate the virtuous crafts being replaced by indu
 
 Arts and Crafts ideals disseminated in America through journal and newspaper writing were supplemented by societies that sponsored lectures[.\[81\]](#page-23-11) The first was organised in Boston in the late 1890s, when a group of influential architects, designers, and educators determined to bring to America the design reforms begun in Britain by William Morris; they met to organise an exhibition of contemporary craft objects. The first meeting was held on 4 January 1897, at the [Museum of Fine Arts](https://en.wikipedia.org/wiki/Museum_of_Fine_Arts,_Boston) (MFA) in Boston to organise an exhibition of contemporary crafts. When craftsmen, consumers, and manufacturers realised the aesthetic and technical potential of the applied arts, the process of design reform in Boston started. Present at this meeting were General Charles Loring, Chairman of the Trustees of the MFA; [William](https://en.wikipedia.org/wiki/William_Sturgis_Bigelow) [Sturgis Bigelow](https://en.wikipedia.org/wiki/William_Sturgis_Bigelow) and [Denman Ross,](https://en.wikipedia.org/wiki/Denman_Ross) collectors, writers and MFA trustees; Ross Turner, painter; [Sylvester Baxter,](https://en.wikipedia.org/wiki/Sylvester_Baxter) art critic for the *Boston Transcript*; Howard Baker, [A. W. Longfellow Jr.;](https://en.wikipedia.org/wiki/Alexander_Wadsworth_Longfellow_Jr.) and Ralph Clipson Sturgis, architect.
 
-## ![](_page_11_Picture_5.jpeg)
 
 Facade of the [Castle in the Clouds](https://en.wikipedia.org/wiki/Castle_in_the_Clouds) and lawn overlooking [Lake](https://en.wikipedia.org/wiki/Lake_Winnipesaukee) [Winnipesaukee](https://en.wikipedia.org/wiki/Lake_Winnipesaukee) in [New Hampshire,](https://en.wikipedia.org/wiki/New_Hampshire) built 1913–1914
 
-## ![](_page_11_Picture_7.jpeg)
 
 Warren Wilson Beach House (The Venice Beach House), [Venice,](https://en.wikipedia.org/wiki/Venice,_California) [California](https://en.wikipedia.org/wiki/Venice,_California)
 
-## ![](_page_11_Picture_9.jpeg)
 
 Gamble House, [Pasadena,](https://en.wikipedia.org/wiki/Pasadena) California
 
@@ -241,11 +227,9 @@ The [Castle in the Clouds](https://en.wikipedia.org/wiki/Castle_in_the_Clouds) (
 
 Also influential were the [Roycroft](https://en.wikipedia.org/wiki/Roycroft) community initiated by [Elbert](https://en.wikipedia.org/wiki/Elbert_Hubbard) [Hubbard](https://en.wikipedia.org/wiki/Elbert_Hubbard) in [Bu](https://en.wikipedia.org/wiki/Buffalo,_New_York)ffalo and [East Aurora, New York,](https://en.wikipedia.org/wiki/East_Aurora,_New_York) [Joseph](https://en.wikipedia.org/w/index.php?title=Joseph_Marbella&action=edit&redlink=1)
 
-## ![](_page_12_Picture_6.jpeg)
 
 Arts and Crafts Tudor home in the Buena Park Historic District, [Uptown,](https://en.wikipedia.org/wiki/Uptown,_Chicago) [Chicago](https://en.wikipedia.org/wiki/Uptown,_Chicago)
 
-## ![](_page_12_Picture_8.jpeg)
 
 Arts and Crafts home in the Birckhead Place neighbourhood of [Toledo, Ohio](https://en.wikipedia.org/wiki/Toledo,_Ohio)
 
@@ -336,7 +320,6 @@ Arts and Crafts practitioners in Britain were critical of the government system 
 
 Other local authority schools also began to introduce more practical teaching of crafts, and by the 1890s Arts and Crafts ideals were being disseminated by members of the Art Workers Guild into art schools throughout the country. Members of the Guild held influential positions: Walter Crane was director of the [Manchester School of Art](https://en.wikipedia.org/wiki/Manchester_School_of_Art) and subsequently the [Royal College of](https://en.wikipedia.org/wiki/Royal_College_of_Art) [Art;](https://en.wikipedia.org/wiki/Royal_College_of_Art) F. M. Simpson, [Robert Anning Bell](https://en.wikipedia.org/wiki/Robert_Anning_Bell) and C. J. Allen were respectively professor of architecture, instructor in painting and design, and instructor in sculpture at [Liverpool School of Art;](https://en.wikipedia.org/wiki/Liverpool_School_of_Art) Robert Catterson-Smith, the headmaster of the Birmingham Art School from 1902 to 1920, was also an AWG member; [W. R.](https://en.wikipedia.org/wiki/W._R._Lethaby) [Lethaby](https://en.wikipedia.org/wiki/W._R._Lethaby) and [George Frampton](https://en.wikipedia.org/wiki/George_Frampton) were inspectors and advisors to
 
-## ![](_page_16_Picture_4.jpeg)
 
 Season ticket to The Arts and Craft Exhibition Society, [George](https://en.wikipedia.org/wiki/George_Frampton) [Frampton,](https://en.wikipedia.org/wiki/George_Frampton) 1890
 
@@ -402,19 +385,15 @@ In the debate that followed the publication of the committee's report, C. R. Ash
 
 ## **Decorative arts gallery**
 
-## ![](_page_18_Picture_15.jpeg)
 
 Dropfront Desk by [Gustav Stickley](https://en.wikipedia.org/wiki/Gustav_Stickley) (ca. 1903), [Brooklyn Museum](https://en.wikipedia.org/wiki/Brooklyn_Museum)
 
-## ![](_page_18_Picture_17.jpeg)
 
 Wallpaper sample, Compton 323, by William Morris (c. 1917), Brooklyn Museum
 
-## ![](_page_18_Picture_19.jpeg)
 
 Vase by Newcomb Pottery (1902–1904), Brooklyn Museum
 
-## ![](_page_19_Picture_2.jpeg)
 
 Tile by Mueller Mosaic Company (ca. 1910), Brooklyn Museum
 

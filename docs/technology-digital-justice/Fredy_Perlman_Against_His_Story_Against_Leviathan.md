@@ -4357,7 +4357,6 @@ The cycle has come round again. America is where Anatolia was. It is a place whe
 
 ## The Anarchist Library Anti-Copyright
 
-## ![](_page_209_Picture_1.jpeg)
 
 Fredy Perlman Against His-story, Against Leviathan 1983
 

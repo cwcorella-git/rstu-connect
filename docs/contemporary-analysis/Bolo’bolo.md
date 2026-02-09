@@ -311,7 +311,6 @@ When the Machine kills, there aren't yet enough ABC-dyscos. Too many parts of it
 
 Substruction as a (general) strategy is a form of practical meditation. It can be represented by the following yantra, combining substruction (the movement aspect) with bolo (the future basic community):
 
-## ![](_page_30_Picture_5.jpeg)
 
 # **Trico**
 
@@ -359,7 +358,6 @@ Beginning of Yuvuo. All records on prehistory (up to 2763) have been lost. Tawhu
 
 # **ibu**
 
-## ![](_page_33_Picture_13.jpeg)
 
 In fact, there's really only the ibu, and nothing else. But the ibu is unreliable, paradoxical, perverse. There's only one single ibu, but nevertheless it behaves as if there were four billion or so. The ibu also knows that it invented the world and reality by itself, yet it still firmly believes that these hallucinations are real.
 
@@ -381,7 +379,6 @@ The ibu likes to be tortured, so it imagines wonderful utopias, paradises, harmo
 
 ### **bolo**
 
-## ![](_page_35_Picture_3.jpeg)
 
 The ibu is still around, refusing nothingness, hoping for a new, better nightmare. It's still lonely, but it believes that it can overcome its loneliness by some agreements with the "other" four billion ibus. Are they out there? You can never be sure...
 
@@ -399,15 +396,12 @@ Size and number of inhabitants of bolos can be roughly identical in all parts of
 
 bolos don't have to be built in empty spaces. They're much more a utilization of existing structures. In larger cities, a bolo can consist of one or two blocks, of a smaller neighborhood, of a complex of adjacent buildings. You just have to build connecting arcades, overpasses, using first floors as communal spaces, making openings in certain walls, etc. So, a typical older neighborhood could be transformed into a bolo like this:
 
-## ![](_page_36_Picture_4.jpeg)
 
 Larger and higher housing projects can be used as vertical bolos. In the countryside, a bolo corresponds to a small town, to a group of farmhouses, to a valley. A bolo needn't be architecturally unified. In the South Pacific, a bolo is a coral island, or even a group of smaller atolls. In the desert, the bolo might not even have a precise location; rather, it's the route of the nomads who belong to it (maybe all members of the bolo meet only once or twice a year). On rivers or lakes, bolos can be formed with boats. There can be bolos in former factory buildings, palaces, caves, battleships, monasteries, under the ends of the Brooklyn Bridge, in museums, zoos, at Knotts Berry Farm or Fort Benning, in the Iowa Statehouse, shopping malls, the University of Michigan football stadium, Folsom Prison. The bolos will build their nests everywhere, the only general features are their size and functions. Some possible shapes of bolos:
 
-## ![](_page_37_Picture_2.jpeg)
 
 # sila
 
-## ![](_page_38_Picture_2.jpeg)
 
 From the point of view of the ibu, the bolo's function is to guarantee its survival, to make its life enjoyable, to give it a home or hospitality when it s traveling. The agreement between the whole of the bolos (bolo'bolo) and a single ibu is called sila. As the ibu hasn't any money (nor a job!), nor any obligation to live in a bolo, all bolos have to guarantee hospitality to arriving single ibus. Evey bolo is a virtual hotel, any ibu a virtual non-paying guest. (We're only guests on this planet, anyway.)
 
@@ -457,11 +451,9 @@ A certain pressure to respect hospitality is exerted on the bolos by munu, honor
 
 # **taku**
 
-## ![](_page_40_Picture_2.jpeg)
 
 The first and most remarkable component of sila is the taku, a container made of solid sheet metal or wood, that looks like this:
 
-## ![](_page_40_Picture_4.jpeg)
 
 According to the customs of its bolo, every ibu gets a taku. Whatever fits into the taku is the ibu's exclusive property — the rest of the planet is used and held together. Only the ibu has access to the things contained in its taku — nobody else. It can put in it what it wants. It can carry the taku with itself, and no ibu has any right under any circumstances whatsoever to inspect its contents or to ask for information about it (not even in cases of murder or theft). The taku is absolutely unimpeachable, holy, taboo, sacrosanct, private, exclusive, personal. But only the taku. The ibu can store in it dirty clothes or machine guns, drugs or old love letters, sankes or stuffed mice, diamonds or peanuts, stereo tapes or stamp collections. We can only guess. As long as it doesn't stink or make noise (i.e., exert influences beyond itself) anything can be in it.
 
@@ -471,13 +463,11 @@ Like unlimited property, the taku brings some risks, too, though these are now m
 
 # **kana**
 
-## ![](_page_41_Picture_5.jpeg)
 
 The kana might be the most frequent and practical subdivision of a bolo, since the bolo is probably too large for immediate living together.[\[8\]](#page-89-2) A kana consists of 15–30 ibus, and a bolo contains about 20 kanas. A kanas occupies a larger house in a city, or a couple of houses combined to a single household. It corresponds to a hamlet, a hunting group, a kinship group, a community. The kana is organized around the inner domestic (or hut-, tent-, boat-) life, yet it is completely defined by the lifestyle and cultural identity of its bolo. It cannot be independent in its supply of food or goods, for it's too small and therefore too unstable (as the experiences of the 1960's alternative communities shows). According to the bolo-lifestyle, there can be more arrangements besides the kana: couples, triangles, nuclear families, parenthoods, households, teams, etc. A bolo can also consist of 500 single ibus who live together, as in a hotel or a monastery, each on its own, cooperating only on a minimal level to guarantee survival and hospitality. The degree of collectivity or individualism is only limited by these basic necessities. Any ibu can find the bola or kana it likes, or found new ones.
 
 ### **nima**
 
-## ![](_page_42_Picture_4.jpeg)
 
 bolos can't just be neighborhoods or practical arrangements. That is only their technical, external aspect. The real motivation for ibus to live together is a common cultural background, the nima. Every ibu has its own conviction and vision of life as it should be, but certain nimas can only be realized if likeminded ibus can be found. In a bolo, they can live, transform and complete their common nima. On the other side, those ibus whose nimas exclude social forms (hermits, bums, misanthropists, yogis, fools, individual anarchists, magicians, martyrs, sages or witches) can stay alone and live in the interstices of the ubiquitious, but far from compulsory, bolos.
 
@@ -497,7 +487,6 @@ The diversity of cultural identities destroys modern mass culture and commercial
 
 # **kodu**
 
-![](_page_44_Picture_4.jpeg)
 
 The kodu is the agricultural basis of the bolo's self-sufficiency and independence. The type of agriculture, the choice of crops and methods is influenced by the cultural background of each bolo. A Vege-bolo would specialize in vegetables, fruits, etc., instead of cattle-raising. An Islam-bolo would never deal with pigs. A Franko-bolo would need a large chicken yard, fresh herbs and lots of cheese. A Hash-bolo would plant cannabis, a Booze-bolo malt and hops (with a distillery in the barn), an Italo-bolo needs tomatoes, garlic and oregano. Certain bolos would be more dependent upon exchange, as their diet is very diversified. Others, with a more monotonous cuisine, could almost entirely rely on themselves.
 
@@ -509,13 +498,11 @@ As every bolo has its own land, the division between rural and urban is no longe
 
 The use of land or other resources and their distribution among bolos must be discussed and adapted carefully. There are a lot of possible solutions, according to the situation. For pure country-side bolos (Agro-bolos) there are few problems, since they can use the surrounding land. For bolos in larger cities, it can be useful to have small gardens around the houses, on roofs, in courtyards, etc. Around the city there would be a garden zone, where every bolo would have a larger plot for vegetables, fruits, fish ponds, etc., i.e., for produce that is needed fresh almost every day. These gardens could be reached by foot or bicycle within minutes, and the quantities needing special transport would be relatively low. The real agricultural zone, larger farms of up to 80 hectares (200 acres) or several farms of smaller size, could be about 15 kilometers or so from the city-bolo. (Particularly in the case of certain cultures using lakes, peaks, vineyards, hunting grounds, etc.) These bolo-farms would specialize in large-scale production of durable foods: cereals, potatoes, soya, diary products, meat, etc. Transportation would be on the scale of tons (by chariot, trucks, boat, etc.). For the kodu of larger cities, a system of three zones could be practical:[\[12\]](#page-91-1)
 
-## ![](_page_46_Picture_2.jpeg)
 
 For the easy functioning of kodu, the actual depopulation of larger cities with more than 200,000 inhabitants should continue or be encouraged by bolos. In certain areas, this could result in a repopulation of deserted villages. There might be pure Agro-bolos, but, in general, the ibu would not have to choose between city or country life. The bolo-farms or hamlets also have the function of country houses or villas, and at the same time every "farmer" would have a town-house bolo. With the kodu-system the isolation and cultural neglect of rural regions can be compensated, so that the rural exodus that is today ruining the equilibrium of much of the world can be stopped and inverted. The positive aspects of farm life can be combined with the intense urban life style. The cities would become more city-like, livelier, and the countryside would be protected against its ruin by highways, agroindustries, etc. No farmer would have to stick to his land and be enslaved by his cows. Every city-dweller would have a "cottage" in the country, without being confined to campgrounds or monotonous motels.
 
 ### **yalu**
 
-## ![](_page_46_Picture_5.jpeg)
 
 The bolos tend to produce their food as close to their central buildings as possible in order to avoid long distances for trips and transporta tion, which of course mean wastes of time and energy. For similar reasons there will be much less importation of petroleum, fodder and fertilizers. Appropriate methods of cultivation, careful use of the soil, alternation and combination of different crops are necessary under these conditions. The abandonment of industrialized largescale agriculture doesn t necessarily result in a reduction of output, for it can be compensated by more intensive methods (since there is a larger agricultural, labor-force) and by the preference for vegetable calories and proteins. Corn, potatoes, soya and other beans can guarantee in their combination a safe basis for alimentation.[\[13\]](#page-91-2) Animal production (which eats up immense amounts of exactly the above mentioned crops) will have to be reduced and de-centralized, as to a lower degree will dairy production. There will be enough meat, but pigs, chickens, rabbits, and sheep will be found around the bolos, in courtyards, running around in the former streets. So scraps of all kinds can be used in a "capillary" way to produce meat.
 
@@ -535,7 +522,6 @@ Preservation, pickling, potting, drying, smoking, curing and deep-freezing (whic
 
 ### **sibi**
 
-## ![](_page_49_Picture_3.jpeg)
 
 A bolo needs not only food, it needs things. Whatever concerns the production, use or distribution of things is called sibi. Thus sibi includes: buildings, suplies of fuel, electricity and water, the production of tools and maschines (mainly for agriculture), clothing, furniture, raw materials, devices of all kinds, transportation, crafts, arts, electronic hardware, streets, sewage, etc.
 
@@ -553,7 +539,6 @@ Cooperation in certain fields is also reasonable from the point of view of energ
 
 # **pali**
 
-## ![](_page_51_Picture_2.jpeg)
 
 A bolo's independence is in fact determined by its degree of self-sufficiency in energy supply. Agriculture and fabriculture can be considered two methods to resolve this problem.[\[15\]](#page-91-4) Energy (pali) is needed for agriculture itself (tractors), for transportation, for heating and cooling, for cooking, for mechanical applications and for energy-production itself. bolo'bolo is not necessarily a lowenergy civilization, i.e., low-energy consumption is not motivated by "ecological" efforts, but a mere consequence of cultural diversity, smallness, avoidance of work-intensive processes, lack of control and discipline. High-energy systems afford continuous attention, control of controllers, reliability, since the risk of breakdowns is high. bolo'bolo will need much less energy, because it is just a different life-style — or what is better, a variety of lifestyles, each with a different energy need.
 
@@ -571,7 +556,6 @@ Some ibus or bolos can avoid winter problems by migrating to milder zones, just 
 
 ### **suvu**
 
-## ![](_page_53_Picture_2.jpeg)
 
 Besides food and energy, water is a crucial element for the survival of the ibu (if it so desires). Whereas in many parts of the planet water supply is an unsolved problem, water's wasted in other parts mainly for cleaning and disposal (flushing away excrement or garbage). It's not used in its specific quality as water (suvu), but for easy transportation as sewage.
 
@@ -585,13 +569,11 @@ Many bolas will be able to achieve self-sufficiency in water-supply by collectin
 
 ### **gano**
 
-## ![](_page_54_Picture_5.jpeg)
 
 bolo'bolo isn't only a way for the ibu to conquer more time, but also a way to get more space (gano). Shop roofs, garages, offices, warehouses, many streets and squares, factory buildings, all will become available for new utilization by bolos and ibus. Since there will be no real estate property, no laws for construction, all kinds of private restictions, speculation, over- and underutilization disappear. The bolos can use their buildings as they like, they can transform them, connect them, paint them, subdivide them, all according to their cultural background (nima). Of course problems can arise, conflicts over which bolo gets which buildings and space in general. These problems can be discussed and resolved in the framework of larger communities (neighborhoods, cities, even regions), where every bolo is represented by its delegates (see tega, vudo, sumi). Even if there are serious disputes, nobody can claim control over buildings he or she doesn't actually use. Contrary to today's property system, this can prevent most abuses.
 
 The bolos won't primarily be interested in building new structures, but in using existing ones in new ways, and in re-using all those construction materials that have been abundantly accumulated in many places. The bo-los will prefer local materials, since transportation requires valuable energy and labor. In this context, forgotten know-how can prove very useful and should be revived: construction with clay, adobe, palm leaves, wood, reeds, etc. Construction methods are also linked to the energy system of a given bolo, e.g., for passive solar energy, insulation zones, greenhouses, heating and cooling. The international architectural style of steel, glass, and concrete is very energyconsumptive, and inappropriate for most climates. The same is true for standardized, one-family houses, particularly those forming dull and wasteful suburban sprawls so lacking in communal or cultural function. New utilization of such buildings or neighborhoods by bolos are problematic, but still possible by means of certain adaptations and modifications. Multi-story buildings can be partially topped off with terraces for planting and provided with glass greenhouses to reduce energy loss. The colder northeast or northwest sides of large buildings can be closed off in harsh winter weather, or used as storage spaces or workshops (heating would require too much energy). Between the stories of adjacent buildings stairs can be built in order to connect rooms to larger households (kana).
 
-## ![](_page_55_Picture_3.jpeg)
 
 Suburban one-family houses can be connected by arcades, intermediate buildings, communal halls, and workshops, and be condensed to bolos. Other houses will be torn down to make space for gardens and to get necessary building materials on the spot:
 
@@ -607,7 +589,6 @@ Although the real causes for many forms of social violence (mugging, rape, assau
 
 ### **bete**
 
-## ![](_page_57_Picture_6.jpeg)
 
 Strictly speaking, it's impossible to define health care, bete, as a separate task. Illness or health are not just dependent on medical interventions, but much more on social factors, on the way of life as a whole. bolo'bolo itself is the most important contribution to health, for it eliminates a lot of diseases that are direct or indirect effectsd of industrial society: traffic accidents, industrialized mass wars, stress and environmentally induced diseases, many occupational hazards and accidents, psychosomatic and psychological problems. Work and stress are the main cause of many diseases, and their reduction is the best medicine.
 
@@ -627,11 +608,9 @@ There are good chances that the ibus will be in better health than we are today.
 
 ### **nugo**
 
-## ![](_page_59_Picture_2.jpeg)
 
 The nugo is a metallic capsule an inch-and-a-half long and half-an-inch in diameter, secured by a twist-combination lock whose seven-digit number is known only by its bearer (and maybe his or her best friend):
 
-## ![](_page_59_Picture_4.jpeg)
 
 This metallic container encloses a pill of an immediately deadly substance. Every ibu gets its nugo from its bolo, as is the case for taku. The ibu can wear its nugo together with the keys to its property trunk on a chain around its neck so that it's always ready for use. Should the ibu be incapable of opening the capsule and swallowing the death pill (due to paralysis, injury, etc.), the other ibus are obliged to help it (see sila).
 
@@ -641,7 +620,6 @@ The nugo reminds the ibu that bolo'bolo finally makes no sense, that nobody and 
 
 # **pili**
 
-## ![](_page_60_Picture_2.jpeg)
 
 If the ibu decides to stick around, it will enter into a variety of forms of communication and exchange with its (surrogate) fellow-ibus. It will blink at them, talk to them, touch them, make love to them, work with them, tell them about its experiences and knowledge. All these are forms of pili, communication, education, exchange of information, expression of thoughts, feelings, desires.
 
@@ -681,7 +659,6 @@ Hence gifts, permanent contracts of exchange, trips, etc., all can be easily arr
 
 ### **kene**
 
-## ![](_page_63_Picture_5.jpeg)
 
 In the contacts with other ibus and bolos, there might arise certain agreements on common enterprises, not only exchange of information but also the organization of common work. For every bolo it will be voluntary to join such enterprises, but of course bolos who choose not to cooperate will have no right to automatically participate and take advantage of them. Social organization is a trap; in bolo'bolo, the price of being caught in this trap can be kene, external, compulsory work.
 
@@ -691,7 +668,6 @@ So, if a certain number of bolos or other communities should decide to put up su
 
 ### **tega**
 
-## ![](_page_64_Picture_4.jpeg)
 
 On the basis of communication (pili) and common activity (kene), larger communities than bolos are possible. The forms of such confederations, coordinations or other bolo clusters will be different from region to region and continent to continent. Bolos can also exist alone (in the jungle) or in groups of two or three. They can have rather loose arrangements, can work together closely, almost "state"-like. There can be overlappings, temporary agreements, enclaves and exclaves, etc.
 
@@ -701,15 +677,12 @@ The township can also assume (if the bolos want it) social functions. It can hav
 
 Schematic view of an urban township (tega):
 
-## ![](_page_65_Picture_4.jpeg)
 
 # **dala, dudi**
 
-## ![](_page_65_Picture_6.jpeg)
 
 dala
 
-## ![](_page_66_Picture_2.jpeg)
 
 dudi
 
@@ -731,7 +704,6 @@ The dalas of all levels cannot be compared to parliaments, governments or even o
 
 ### **vudo**
 
-## ![](_page_67_Picture_6.jpeg)
 
 The bolos will solve most of their problems alone or in their townships (tegas). But at the same time most bolos will have farms or other resources beyond township-"limits". To arrange such things, a larger coordination of townships could be convenient in many cases. Ten to twenty townships could organize certain tasks in the frame of a vudo (small region, city, county, canton, valley).
 
@@ -745,7 +717,6 @@ Some counties will have to be of larger size, to deal with cities of several mil
 
 ### **sumi**
 
-![](_page_68_Picture_6.jpeg)
 
 The autonomous region (sumi) is the largest practical unity for bolos and ibus. Such a region can comprise an indefinite number of bolos, townships or counties, maybe about 20 or 30 counties, or several million people. In special cases this can be more, or even just several thousands—as in the case of isolated communities on islands, on mountains, in the ice or the desert. There are several hundred regions on this planet; most of them will be known within the same continent.
 
@@ -763,13 +734,9 @@ Regional assemblies can have the most differing forms. A convenient solution cou
 
 In Europe (in a loosely geographic sense) there could be about 100 regions, in the Americas 150, in Africa 100, in Asia 300, and in the rest of the world 100, about 700 regions in all.
 
-## ![](_page_70_Picture_3.jpeg)
-
-## ![](_page_71_Picture_2.jpeg)
 
 **asa**
 
-## ![](_page_71_Picture_4.jpeg)
 
 asa is the name of the spaceship "Earth". The autonomous regions can be considered the different rooms of this spaceship, and most of them might be interested in joining the planetary assembly, asa'dala. Every region will send for this purpose two delegates (1 male, 1 female) to its meetings, taking place alternating between Quito and Beirut each year respectively. The planetary assembly is a forum for the regions for contacts, chatting, encounters, exchange of gifts or insults, concluding new agreements, learning languages, having parties and festivals, dancing, quarrelling, etc. Such a planetary assembly or specialized committees could take care of some planetary hobbies, such as the use of the seas, the distribution of fossil resources, the exploration of space, telecommunications, guarding dangerous deposits, intercontinental railroads, airlines, navigation, research programs, the control of epidemics, postal services, meteorology, the dictionary of a planetary auxiliary language (asa'pili), etc. The proceedings of the assembly will be broadcast world-wide so that all regions know what their delegates or others are talking about in Beirut or Quito. (Of course, somebody should ask these two cities whether they'd like to be hosts to such a crowd.)
 
@@ -779,7 +746,6 @@ Planetary institutions will have very little influence on the everyday-life of b
 
 ### **buni**
 
-## ![](_page_72_Picture_6.jpeg)
 
 buni
 
@@ -791,7 +757,6 @@ The importance of gifts will depend on the local situation. Since they tend to b
 
 ### **mafa**
 
-## ![](_page_73_Picture_6.jpeg)
 
 mafa
 
@@ -803,7 +768,6 @@ Help from common pools will be particularly important in the early period of bol
 
 ### **feno**
 
-## ![](_page_74_Picture_5.jpeg)
 
 feno
 
@@ -823,11 +787,9 @@ Barter agreements can also exist between townships, counties or even regions, an
 
 ### **sadi**
 
-## ![](_page_75_Picture_5.jpeg)
 
 sadi
 
-## ![](_page_76_Picture_2.jpeg)
 
 Gifts, common pools and barter agreements, combined with self-sufficiency, drastically reduce the need for economic — i.e., value-calculating — excahnge. The diversity of cultural identities destroys the basis for mass production, hence also the emergence of mass marketing. The invested amount of labortime will be difficult to compare, and exact measurement of exchange-value (through money) will be almost impossible. Nevertheless it might occur that certain ibus (they still have their property container, taku) or bolos could be interested in this type of calculated exchange, for certain purposes. This is the function of local markets, sadi. These markets complement the possibilities of exchange, determining a small part of the existential bases of bolos.
 
@@ -957,7 +919,6 @@ As there won't be any international currencies, local markets will have their ow
 
 ### **fasi**
 
-![](_page_79_Picture_4.jpeg)
 
 Is the ibu a settled or a nomadic being? In its (imaginary) history it appears as steppe horseman and as builder of cathedrals, as farmer and as gypsy, as gardener and as globetrotter. The bolos presuppose a certain degree of settledness (because of agriculture), and a society of pure hunter-gatherers will only be possible when the world population is drastically reduced (to some million ibus). Nevertheless, bolo'bolo should bring back to every single ibu free movement across the whole planet. There won't be any forced settledness for nomadic bolos or gangs, no programs of modernization and industrialization.
 
@@ -971,7 +932,6 @@ In mountainous areas and in the country, animals are very efficient, particularl
 
 The bicycle can also be used for transportation of small goods, particularly in the form of rikshaws or trailers. A pentadem can transport five persons and an additional 350 kilograms of cargo:
 
-## ![](_page_80_Picture_6.jpeg)
 
 Compared to the bicycle, even such means of public transportation as trolleys, tramways or subways are relatively expensive, since they need an elaborate infrastructure (tracks, cables, wagons). But it could still be reasonable for an urban area to operate a reduced network, especially when electricity is locally or regionally available. In a middle-sized city, three transversal lines would be sufficient, since you could reach all bolos within an hour using a bicycle from the stops of such a tramway or bus network:
 
@@ -981,7 +941,6 @@ Compared to the bicycle, even such means of public transportation as trolleys, t
 
 The street system, maintenance of which is very labor intensive (pouring asphalt or concrete, fixing potholes, etc.), can be reduced so that there is only one road to every bola or farm. Most roads in the cities will be superfluous, and most country roads and highways can be narrowed to one or two lanes. The remaining automobile traffic will be slow and unimportant. There will still be some tru As (operated with bio-gas, steam, wood, gasoline), some buses, ambulances, fire-engines, special transports.
 
-## ![](_page_82_Picture_2.jpeg)
 
 Some motorways can be used as race tracks for entertainment. A 200 kilometer (120 miles) highway could be reserved for such purposes. At both ends car parks, where you could choose a fast sports car. Without any speed limits, the drivers could then drive back and forth between the two ends of the speedway. So those ibus who like driving fast and who use the car as a means of entertainment and risk could still do it. Such a speedway would be less costly than today's car traffic, in spite of expenditures for gas, ambulances, medical care, car maintenance, etc.
 
@@ -993,7 +952,6 @@ What kinds of connections are available will depend entirely upon the regional c
 
 When an ibu wants to travel far, it'll go to the nearest station of the intercontinental railroads, which are operated by a commission of the planetary assembly (asa'dala) and which form a kind of backbone of continental transportation. The rail system would be about like this:
 
-## ![](_page_84_Picture_2.jpeg)
 
 This transcontinental railroad network can be based on existing tracks, with only a few supplementations and adaptations. To make traveling more comfortable, the Russian broad track could be introduced. With the transcontinental railroad, the travelers can basically get from East to West and from North to South, from Helsinki to Capetown, from Lisbon to Vladivostok, from Anchorage to Rio Gallegos and from New York to San Francisco. Where the tracks end, the travelers can board ocean steam liners (Vladivostok to San Francisco, Lisbon-New York, etc.). For sea transportation, energy problems are unimportant; coal, petroleum, etc. can be easily transported on the ships themselves, and sails could be used additionally.
 
@@ -1001,7 +959,6 @@ The planetary assembly or regional coalitions will operate international airline
 
 ### **yaka**
 
-## ![](_page_85_Picture_5.jpeg)
 
 Is the ibu a good-natured, love-starved nice being, or is it quarrelsome, reserved, violent? Is it only aggressive because the nightmare of work and repression has made it envious, frustrated and irritable? This might be true. And yet there might also be jealousy, offended pride, destructivity, antipathy, lust and murder, megalomania, obstinacy, aggressivity, towering rage, running amok. At least such desires cannot be excluded at the outset. That's why yaka will be necessary for bolo'bolo. yaka makes possible quarrels, disputes, fights, and war. [\[23\]](#page-95-0) Boredom, unlucky-in-love stories, madness, misanthropy, deceptions, conflicts around honor and life style, even ecstasy can lead to yakas. They can take place between:
 

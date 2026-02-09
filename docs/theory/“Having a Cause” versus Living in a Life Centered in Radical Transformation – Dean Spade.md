@@ -9,11 +9,9 @@ tags:
 
 ## [deanspade.net](https://www.deanspade.net/2018/11/23/having-a-cause-versus-living-in-a-life-centered-in-radical-transformation/)
 
-11–13 minutes
 
 Today is a horrifying holiday dedicated to false narratives that attempt to cover over colonialism and genocide, and also a day when many people make an effort to "give back" by volunteering somewhere. Images of friendly upper class people volunteering at soup kitchens to feed homeless people articulate charity narratives that hide the actual causes and consequences of wealth and poverty.
 
-## ![](_page_0_Picture_6.jpeg)
 
 ## By Roger Peet, available at justseeds.org
 
@@ -93,9 +91,6 @@ The systems we live under are focused on keeping us in our places and keeping th
 
 Some people talk about this as a difference between "charity" models and social justice models. Charity models imagine a world in which people give a little of their extra time or money to organizations that provide social services to poor people. Usually those services are moralizing, focused on questions of who "deserves" services and who does not (are you a current drug user? Are you taking your psych meds? Are you a parent? Do you have lawful immigration status? Do you have any felony convictions? Did you come to all three appointments on time? Are you "housing-ready"? Are you "job-ready"?). Charity is system-affirming. It does nothing about the root causes of poverty, criminalization, and racism. It just treats a few of the symptoms selectively. Social justice work is about making it so that no one is poor, homeless, targeted by police, deportable, or exploited. Looking at the chart above, we can see that most of the assumptions about justice work that reside in the left hand column are imagining a system in which our interest in resistance gets channeled toward a charity model. The description of a life focused on living in alignment with our values, in the right hand column, is both broader and deeper, and it allows our care for other people and the planet to animate our entire lives. This is a taller order, a bigger engagement, a higher bar, a deeper commitment. It is also a greater form of aliveness, a chance to be on an endless passionate quest with others, seeking awareness and alignment rather than complacency and a minimal nod to our concerns about what is happening.
 
-## ![](_page_4_Picture_3.jpeg)
-
-## ![](_page_5_Picture_2.jpeg)
 
 ## By Aaron Hughes, available from justseeds.org
 
@@ -105,7 +100,6 @@ When I first found people who lived this way, I was astounded. I
 
 learned so many things. I met friends who rode bikes and worked to make transportation options not center fossil fuels. I met people who composted their food scraps, and avoided food waste, and worked in community gardens, and fought for more justice in food systems. I met people who worked for gender equity in their household labor arrangements, and were trying to raise their kids without enforcing patriarchal gender norms, and were trying to change how gender norms were enforced in their local schools. I met people who were trying to build interpersonal skills and capacities in themselves and their friend groups for conflict resolution, and were building alternatives to calling the police in their communities, and were fighting against jail and prison building in their counties and states. All these people had areas of focus in their work, and were working to line up the details of their day-today decisions about eating, transportation, washing the dishes, and how they treated people they knew and strangers, with their values. But their personal day-to-day decisions were not just guided by the main area they worked on. A person who was working against policing and prisons was also, I found, composting their food scraps, boycotting union-busting corporations, participating in a care collective for a chronically ill friend, showing up to the mobilizations against evictions in their neighborhood. I found people who worked to let their values guide every part of their lives, not because they believed they could get it right or be perfect or find a way outside the systems and economies we all live under, but because it was pleasurable and meaningful to keep finding that alignment and practicing it.
 
-## ![](_page_7_Picture_2.jpeg)
 
 By Kevin Caplicki, available from justseeds.org.
 

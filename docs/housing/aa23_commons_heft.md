@@ -9,7 +9,6 @@ tags:
   - tenants
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 # **On the Commons**
 
@@ -141,7 +140,6 @@ The notion of the commons as a pre-modern system that does not fit to a modern i
 
 Massimo: One of the early major pro-market critiques of the commons was the famous article "The Tragedy of the Commons" by Garrit Hardin from 1968 **4 5** . Hardin argued that common resources will inevitably lead to a sustainability tragedy because the individuals accessing them would always try to maximize their personal revenue and thereby destroy them. For example, a group of herders would try to get their own sheep to eat as much as possible. If every one did that then of course the resource would be depleted. The policy implications of this approach are clear: the best way to sustain the resource is either through privatization or direct state management. Historical and economic research, however, has shown that existing commons of that type rarely encountered these problems,
 
-## ![](_page_6_Picture_0.jpeg)
 
 ## **Primitive Accumulation**
 
@@ -480,7 +478,6 @@ There is a line of thinking that leads to Lefebvre and his notion of the "right 
 
 ## **Imprint**
 
-## ![](_page_25_Picture_1.jpeg)
 
 #### **Published twice a year Price of issue No. 23: 8 Euro**
 

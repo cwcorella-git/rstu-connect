@@ -11,7 +11,6 @@ tags:
 
 ## Sam Dolgoff (Editor)
 
-## ![](_page_0_Picture_3.jpeg)
 
 ## **Contents**
 
@@ -384,7 +383,6 @@ Friend Bookchin's stimulating remarks touch upon fundamental problems still bein
 
 **Part One: Background**
 
-## ![](_page_28_Picture_0.jpeg)
 
 "The following map is intended to give a general picture of the areas of anarchist influence in Spain. Strongholds were in areas of Andalusia (which was early in the war conquered by the fascists), Aragon, Catalonia, and sections of the Levant. There were isolated pockets elsewhere; particularly in Castile and Asturias."
 
@@ -508,7 +506,6 @@ Frank Mintz writes in the foreword to his *La Collectivization en Espagne de 193
 
 The problem of collective management … collectivization in line with federalist theories, "self-government," "workers' control" … is even more applicable than before… In advanced industrial countries, political and economic centralization leads to irrational concentration of industries… To defrost the economy certain social groups
 
-## ![](_page_36_Picture_0.jpeg)
 
 "Poster of the CNT-FAI. Caption reads 'The Revolution and the War are inseparable.'"
 
@@ -542,7 +539,6 @@ It is hoped that the primary source documents of various eyewitnesses and activi
 
 In this work we have generally chosen to use the term "workers' self-management" instead of "workers' control." Since Geoffrey Ostergaard wrote these words in *Anarchy* in the early 1960's, the concept of workers' control has been co-opted. See page 81 for a short discussion of the current differences between these concepts [In this electronic copy, page 81 refers to the article "Workers' Control vs Workers' Self-Management" in Chapter 6's *Workers' Self-Management in Industry* by Augustin Souchy — theanarchistlibrary contributor].
 
-## ![](_page_40_Picture_0.jpeg)
 
 "In a mass demonstration in Barcelona, workers hold a banner reading, '*Solidaridad Obrera*, the daily newspaper of the Revolution.' The banner is inscribed with the initials CNT, FAI, and AIT (the International Workingman's Association)."
 
@@ -651,7 +647,6 @@ Newspapers and periodicals were of enormous importance also. "By the end of 1918
 
 Seventy-five years of such persistent agitation and unflinching revolutionary struggle not only inspired the workers and peasants to repulse the fascists but also prepared them for the great constructive work of the Spanish libertarian revolution.
 
-## ![](_page_47_Picture_2.jpeg)
 
 "Newspapers and magazines had long been important in the work of communicating libertarian ideas in Spain. This is a sample of publications associated with the CNT and FAI from many cities and towns in Spain."
 
@@ -663,7 +658,6 @@ Libertarian communism is based upon the economic organization of society, the ec
 
 4 From *El Comunismo Anarquico*, by Isaac Puente.
 
-## ![](_page_48_Picture_0.jpeg)
 
 "Newspapers and magazines had long been important in the work of communicating libertarian ideas in Spain. This is a sample of publications associated with the CNT and FAI from many cities and towns in Spain."
 
@@ -703,7 +697,6 @@ The contrast between statist authoritarian political organization and a free soc
 - 9. Industrial administration realizes the democratic principle: government (selfadministration) by the people. It realizes the principle of federation — the granting of maximum autonomy and communal organization to each and every un it of production. 51
  - 10. Evolution elevates the workers to the greatest possible degree. To defend and promote the economic rights of each individual, the workers eventually establish organizations capable of fulfilling their ethical responsibilities and obligations towards their
 
-## ![](_page_51_Picture_0.jpeg)
 
 "A mass demonstration of the CNT in 1931. The banner proclaims, 'The unemployed are starving. Bread for our children!'"
 
@@ -863,7 +856,6 @@ More than 600 organizers of collectives have been imprisoned. The governmentappo
 
 So great was the destruction that Republican Spain was threatened with starvation. The counter-revolutionists proved incapable of resuming production and, much against their will, they were forced to halt their depredations and permit the reestablishment of collectives. Although some collectives were reconstituted, this noble movement was irretrievably crushed (disbanded, nationalized or restored to private monopoly) — a great historic atrocity which the bogus "anti-fascist counter-revolutionaries will never live down.
 
-## ![](_page_62_Picture_0.jpeg)
 
 "July of 1936. The people of Barcelona take up arms against the fascist uprising."
 
@@ -991,7 +983,6 @@ It is because the Spanish libertarian movement was based on this kind of concret
 
 7 Betraying his anarchist allies who collaborated in his government, the Generalidad of Catalonia, Companys joined the counter-revolutionary alliance. During the tragic May Days of 1937 Companys aided and abetted the assault to dislodge the CNT from its stronghold in Barcelona collaborating with the Communists, the bourgeoisie and the C. P. dominated UGT to destroy the Catalonian collectives. — *Ed*.
 
-![](_page_72_Picture_0.jpeg)
 
 ## ![](_page_73_Figure_0.jpeg)
 
@@ -1013,7 +1004,6 @@ The alternative economic system is collectivism — or a socialism established b
 
 1 From Augustin Souchy, *Nacht über Spanien*, pp. 164–167.
 
-## ![](_page_75_Picture_0.jpeg)
 
 ## "Anarchist peasants in rural Spain."
 
@@ -1126,7 +1116,6 @@ Frank Mintz estimates 1,265 to 1,865 collectives, "embracing 610,000 to 800,000 
 
 Leval lists 1,700 agrarian collectives, broken down as follows: Aragon, 400 (for Aragon Souchy estimates 510); Levant, 900; Castile, 300; Estrémadura, 30; Catalonia, 40; Andalusia, unknown. For the collectivized urban industries he estimates: Catalonia, all the industries and all transportation; Levant, 70% of all the industries; Castile, part of the industries — he gives no figures. (*Espagne Libertaire*, p. 80)
 
-## ![](_page_83_Picture_0.jpeg)
 
 "While some anarchist collectives abolished the use of money altogether, others issued their own local currency coupons and ration cards for limited use within the collective."
 
@@ -1368,7 +1357,6 @@ With the introduction of state control over the arms and munitions industry, the
 
 of the Spanish workers in their collectivized, metals industry bear permanent witness to the achievements of the anarcho-syndicalist movement.
 
-## ![](_page_97_Picture_1.jpeg)
 
 "Women working in a collectivized textile factory in Barcelona."
 
@@ -1378,7 +1366,6 @@ If by industry is meant a group of manufacturing establishments making the same 
 
 9 From *Collectivisations: L'Ouevre Constructive de la Révolution Espagnole (1936–1939)* , pp. 72–74.
 
-## ![](_page_98_Picture_0.jpeg)
 
 "Men operating sewing machines in a collectivized factory."
 
@@ -1460,19 +1447,15 @@ Each industry is coordinated through the Syndical Administrative Committee. This
 
 In spite of all the monumental difficulties, one big fact stands out: in Alcoy 20,000 workers organized in their syndicates administrated production, coordinated economic activities, and proved that industry can be operated better in every respect than under capitalism, while still assuring freedom and justice for all…
 
-## ![](_page_103_Picture_2.jpeg)
 
 "The first bus built in the workshops of the collectivized General Autobus Company."
 
-## ![](_page_104_Picture_0.jpeg)
 
 "Workers in a collectivized aircraft engine plant in Barcelona."
 
-## ![](_page_105_Picture_0.jpeg)
 
 "Workers in a large collectivized factory shifted to the production of war material."
 
-## ![](_page_106_Picture_0.jpeg)
 
 "Spanish men and women working side-by-side in a small, modern machine shop."
 
@@ -1552,7 +1535,6 @@ The expropriated lands were turned over to the peasant syndicates, and it was th
 
 1 From José Peirats, *Los Anarquistas en la Crisis Politico Española*, pp. 149–168.
 
-## ![](_page_111_Picture_0.jpeg)
 
 "A libertarian poster reads, 'Every person is born with the capacity for dignified work and a human existence.'"
 
@@ -1630,7 +1612,6 @@ The efforts of the collectives take on added significance when we take into acco
 
 cases, even the "individualists" who were not members of the collective could participate in the discussions, and they were listened to by the collectivists… — *Ed*.
 
-## ![](_page_117_Picture_0.jpeg)
 
 "Workers on a collectivized farm bring in the grain harvest."
 
@@ -1900,15 +1881,12 @@ Each family and person living alone has received a card. It is punched each day 
 
 9 From H. E. Kaminski, *Ceux de Barcelone,* pp. 156- 158. The translation is taken from *Anarchy* #5, July, 1961.
 
-## ![](_page_133_Picture_0.jpeg)
 
 ## "Woman on a collectivized farm."
 
-## ![](_page_134_Picture_0.jpeg)
 
 "Farmers with a new mechanized tractor on a collectivized farm."
 
-## ![](_page_135_Picture_0.jpeg)
 
 ## "The grain harvest with horse drawn reaper."
 
@@ -2116,19 +2094,15 @@ The extent and character of socialization varies according to the decision of ea
 
 17 From Gaston Leval, *Espagne Libertaire*, pp. 142–149.
 
-## ![](_page_146_Picture_0.jpeg)
 
 "Revolutionary slogans decorate the collectivized railroads." "Slogan reads, 'The land is yours, workers!'"
 
-## ![](_page_147_Picture_0.jpeg)
 
 "Revolutionary slogans decorate the collectivized railroads." "Working together, people paint slogans on a train."
 
-## ![](_page_148_Picture_0.jpeg)
 
 "Education was of great importance to the libertarian movement. Schools throughout revolutionary Spain came under popular control and many new ones were started." "Young children enter a libertarian school."
 
-## ![](_page_149_Picture_0.jpeg)
 
 "Education was of great importance to the libertarian movement. Schools throughout revolutionary Spain came under popular control and many new ones were started." "The popular university in Barcelona associated with the Libertarian Youth organization."
 
@@ -2230,7 +2204,6 @@ The contemporary significance of the Spanish Revolution lies not so much in the 
 
 1 A fuller discussion of workers' self-management and of how modern technology (cybernetics, the transportation and the information revolutions, etc.) renders these principles even more relevant is beyond the scope of this work. But there can be no doubt that such an investigation is bound to yield fruitful results and expedite the solution of the problems of social reconstruction which have impeded the development of past revolutions.
 
-## ![](_page_160_Picture_0.jpeg)
 
 ## "Post of the CNT-FAI, 'Liberty!'"
 
@@ -2410,7 +2383,6 @@ For a brief period, the Spanish people offered the world a glimpse of a future t
 
 -Noam Chomsky
 
-## ![](_page_166_Picture_11.jpeg)
 
 ISBN: 0-914156-02-0 COVER DESIGN BY KARIN BATTEN AND ELLIOT KRELOFF ALSO AVAILABLE IN A HARDCOVER
 
@@ -2418,7 +2390,6 @@ ISBN: 0-914156-02-0 COVER DESIGN BY KARIN BATTEN AND ELLIOT KRELOFF ALSO AVAILAB
 
 #### The Anarchist Library (Mirror) Anti-Copyright
 
-## ![](_page_167_Picture_1.jpeg)
 
 #### Sam Dolgoff (Editor) The Anarchist Collectives Workers' Self-Management in the Spanish Revolution, 1936–1939 1974
 

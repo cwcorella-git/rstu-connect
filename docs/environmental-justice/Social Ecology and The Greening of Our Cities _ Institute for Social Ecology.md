@@ -11,7 +11,6 @@ tags:
 
 ## Brian Tokar
 
-18–22 minutes
 
 ## First published at Toward Freedom, Sept. 2008
 

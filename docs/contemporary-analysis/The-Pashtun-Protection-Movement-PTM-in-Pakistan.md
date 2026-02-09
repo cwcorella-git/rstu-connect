@@ -11,7 +11,6 @@ tags:
 
 ## Qamar Jafri
 
-## ![](_page_0_Picture_3.jpeg)
 
 Publication Disclaimer: The designations used and material presented in this publication do not indicate the expression of any opinion whatsoever on the part of ICNC. The authors hold responsibility for the selection and presentation of facts contained in this work, as well as for any and all opinions expressed therein, which are not necessarily those of ICNC and do not commit the organization in any way.
 
@@ -29,7 +28,6 @@ Publication Disclaimer: The designations used and material presented in this pub
 
 ## by Qamar Jafri
 
-## ![](_page_2_Picture_3.jpeg)
 
 ## TABLE OF CONTENTS
 
@@ -202,7 +200,6 @@ After the marchers arrived in Islamabad, the Pakistani capital, they organized t
 
 7 A jirga is a Pashtun council in which tribal elders help to resolve local issues in consultation with maliks.
 
-## ![](_page_14_Picture_0.jpeg)
 
 FIGURE 1: A Demonstration by the Mehsud Tahafuz Movement
 
@@ -214,7 +211,6 @@ The masharans (local elders who hold traditional authority in Pashtun society), 
 
 8 Maliks are local elites deputed by the state who are tasked with ociating these councils. The Maliki system was instituted by the British Raj in 1890 and the role is hereditary through a malik's son. Regarding maliks, PTM coordinator Interviewee 6 states, "Those people who are the upholders of British policy in Pashtun area are part of the government. They oppose the PTM. One of the biggest challenges we face from the local people is from system-supported maliks."
 
-## ![](_page_15_Picture_0.jpeg)
 
 FIGURE 2: The Newly-Formed PTM Holds a Jalsa in Peshawar
 
@@ -313,7 +309,6 @@ Bacha Khan encouraged his followers to give up tribal feuding which had often le
 
 16 Among them was Ghazi Mirzali Khan (1897–1960), commonly known as "the Faqir of Ipi," who was a Pashtun tribal religious leader from North Waziristan. He mobilized a tribal militia to wage jihad against British colonial rule. In 1936, he led a campaign against the British troops at Khaisor town of the Bannu district, in which a large number of casualties and destruction occurred.
 
-## ![](_page_19_Picture_0.jpeg)
 
 FIGURE 3: A PTM Supporter, Along with His Children, Holds a Frame Containing Photos of Bacha Khan and PTM Leader Manzoor Pashteen.
 
@@ -353,9 +348,6 @@ Outside the central leadership, the PTM has a network of coordinators at various
 
 17 Including Ali Wazir and Mohsin Dawar.
 
-## ![](_page_22_Picture_0.jpeg)
-
-## ![](_page_22_Picture_1.jpeg)
 
 ## FIGURE 4: Tweet by PTM Activist Tariq
 
@@ -363,7 +355,6 @@ In this October 3, 2018, tweet, PTM activist Tariq shares a photo of a gathering
 
 The inclusivity of leadership has been mirrored in the diversity of membership in the PTM as a strategy for success The movement is inclusive of activists from various demographics and political parties These include civil society members (e g , Pakistan's human rights, women's rights, and religious minority rights activists), the leftwing political parties of Pakistan (excluding the progovernment Pashtun political elite), and victims of violence According to Interviewee 3, one of the PTM's woman leaders in Islamabad, the movement is a loosely structured spectrum of ethnonationalists, feminists, leftists, and those aected by terrorism and violence Another one of the PTM's woman leaders and a member of the PTM's Central
 
-## ![](_page_23_Picture_0.jpeg)
 
 FIGURE 5: Tweet by PTM Leader Sanna Ejaz.
 
@@ -417,7 +408,6 @@ Europe offers some information on the group's use of social media. "We have spec
 
 21 Interview with Interviewee 6, July 31, 2018.
 
-## ![](_page_27_Picture_0.jpeg)
 
 FIGURE 6: Manzoor Pashteen Addresses a Gathering to Promote Participation in the Long March to Bannu
 
@@ -439,7 +429,6 @@ This alternative approach is particularly important to circumvent the government
 
 PTM activists are creating parallel grassroots institutions to promote nonviolent solutions and, more specically, prevent violent jihadis from recruiting and radicalizing Pashtun youth Activists have established study centers and host study circles in which youth are provided an opportunity to engage with philosophy of nonviolent actions through book readings, discussions, poems, and songs For example, Interviewee 5 founded Ghandara
 
-## ![](_page_28_Picture_3.jpeg)
 
 FIGURE 7: A PTM Activist Carries a Bundle of Flyers to Distribute Among the Local Public.
 
@@ -467,7 +456,6 @@ In order for supporters to attend PTM events, the local PTM teams arrange transp
 
 26 Interview with Interviewee 3, August 26, 2018.
 
-## ![](_page_30_Picture_0.jpeg)
 
 FIGURE 9: Activists Collect Funds at a PTM Jalsa.
 
@@ -483,7 +471,6 @@ The PTM complements their use of civil resistance with taking action through est
 
 28 Interview with Interviewee 3, August 26, 2018.
 
-## ![](_page_31_Picture_0.jpeg)
 
 FIGURE 10: Youth Sit on the Roof of a Bus to Travel to a PTM Jalsa.
 
@@ -507,7 +494,6 @@ The military has also directly instigated violent attacks on PTM activists, such
 
 30 SAFRON, or the Federal Ministry for States and Frontier Regions, is responsible for dealing with tribal areas. The tribal maliks work under the authority of SAFRON. Minister Afridi belongs to an inuential Pashtun tribe that is closely intertwined with the Pakistani local, provincial, and federal governments.
 
-## ![](_page_33_Picture_0.jpeg)
 
 FIGURE 11: Tweet by PTM Leader Manzoor Pashteen.
 
@@ -754,13 +740,11 @@ Six key leaders and activists from the Pashtun Protection Movement took part in 
 
 I, the author, would like to acknowledge the extensive support and critical feedback provided by Dr Steve Chase and Dr Maciej Bartkowski in completing this project I would also like to thank Bruce Pearson, Julia Constantine, and Aaron Troia for providing possible lines of inquiry regarding the broad content and design of this publication I acknowledge my anonymous contacts who helped me in connecting with the interviewees and sharing photos from the tribal areas—in particular, those interviewees who, despite facing frequent curfews and internet disconnection, traveled several kilometers from those areas to nearby internet accessible areas to record and send me their insights via audio messages Because of this diculty, it would take several days to complete one interview The Expert Editor Australia provided proofreading and editing services for this publication
 
-## ![](_page_51_Picture_0.jpeg)
 
 ## About the Author
 
 **Dr. Qamar Jafri** holds a PhD in Sociology from the Social and Global Studies Centre of RMIT University Australia. His research interests include identity, youth, political violence, peacebuilding, and nonviolent civil resistance. Qamar's recent publications include a book chapter on digital peace activism in South Asia, a journal article on causes of violent extremism in higher education institutions of Pakistan, and a blog article on political conict and digital feminism in Pakistan. He has received a policy brief award from Toda Peace Institute Japan, a fellowship on nonviolent civil resistance from ICNC, a peace grant from Lisle International, and an International Postgraduate Research Scholarship from RMIT. He obtained MS in Sociology from International Islamic University Islamabad.
 
-## ![](_page_52_Picture_0.jpeg)
 
 **ICNC Special Reports aim to bridge research and practice. Drawing on scholarly literature and high quality analytical and empirical analyses, special reports enrich public discourse by expanding scientic knowledge in the eld of civil resistance and providing recommendations for practitioners such as activists, organizers, journalists, and members of INGOs and the policy community.**
 

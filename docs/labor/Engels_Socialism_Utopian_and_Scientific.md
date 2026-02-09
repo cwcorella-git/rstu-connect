@@ -11,7 +11,6 @@ tags:
 
 # Frederick Engels
 
-## ![](_page_0_Picture_2.jpeg)
 
 # **Frederick Engels**
 
@@ -19,7 +18,6 @@ From http://www.marxists.org/archive/marx/works/1880/socutop/index.html
 
 ## Converted to e Book by Andrew Lannan
 
-## ![](_page_1_Picture_4.jpeg)
 
 Written: Between January and March of 1880;
 
@@ -274,7 +272,6 @@ This historical situation also dominated the founders of Socialism. To the crude
 
 These facts once established, we need not dwell a moment longer upon this side of the question, now wholly belonging to the past. We can leave it to the literary small fry to solemnly quibble over these phantasies, which today only make us smile, and to crow over the superiority of their own bald reasoning, as compared with such "insanity". For ourselves, we delight in the stupendously grand thoughts and germs of thought that everywhere break out through their phantastic covering, and to which these Philistines are blind.
 
-## ![](_page_41_Picture_0.jpeg)
 
 Saint-Simon was a son of the great French Revolution, at the outbreak of which he was not yet 30. The Revolution was the victory of the 3rd estate – i.e., of the great masses of the nation, *working* in production and in trade, over the privileged *idle* classes, the nobles and the priests. But the victory of the 3rd estate soon revealed itself as exclusively the victory of a smaller part of this "estate", as the conquest of political power by the socially privileged section of it – i.e., the propertied bourgeoisie. And the bourgeoisie had certainly developed rapidly during the Revolution, partly by speculation in the lands of the nobility and of the Church, confiscated and afterwards put up for sale, and partly by frauds upon the nation by means of army contracts. It was the domination of these swindlers that, under the Directorate, brought France to the verge of ruin, and thus gave Napoleon the pretext for his *coup d'état*.
 
@@ -288,7 +285,6 @@ But to recognize the French Revolution as a class war, and not simply one betwee
 
 Saint-Simon shows the same superiority over his contemporaries, when in 1814, immediately after the entry of the allies into Paris, and again in 1815, during the Hundred Days' War, he proclaims the alliance of France and England, and then of both of these countries, with Germany, as the only guarantee for the prosperous development and peace of Europe. To preach to the French in 1815 an alliance with the victors of Waterloo required as much courage as historical foresight.
 
-## ![](_page_43_Picture_2.jpeg)
 
 If in Saint-Simon we find a comprehensive breadth of view, by virtue of which almost all the ideas of later Socialists that are not strictly economic are found in him in embryo, we find in Fourier a criticism of the existing conditions of society, genuinely French and witty, but not upon that account any the less thorough. Fourier takes the bourgeoisie, their inspired prophets before the Revolution, and their interested eulogists after it, at their own word. He lays bare remorselessly the material and moral misery of the bourgeois world.
 
@@ -304,7 +300,6 @@ Whilst in France the hurricane of the Revolution swept over the land, in England
 
 The new mode of production was, as yet, only at the beginning of its period of ascent; as yet it was the normal, regular method of production – the only one possible under existing conditions. Nevertheless, even then it was producing crying social abuses – the herding together of a homeless population in the worst quarters of the large towns; the loosening of all traditional moral bonds, of patriarchal subordination, of family relations; overwork, especially of women and children, to a frightful extent; complete demoralization of the working-class, suddenly flung into altogether new conditions, from the country into the town, from agriculture into modern industry, from stable conditions of existence into insecure ones that change from day to day.
 
-## ![](_page_46_Picture_0.jpeg)
 
 At this juncture, there came forward as a reformer a manufacturer 29-years-old – a man of almost sublime, childlike simplicity of character, and at the same time one of the few born leaders of men. Robert Owen had adopted the teaching of the materialistic philosophers: that man's character is the product, on the one hand, of heredity; on the other, of the environment of the individual during his lifetime, and especially during his period of development. In the industrial revolution most of his class saw only chaos and confusion, and the opportunity of fishing in these troubled waters and making large fortunes quickly. He saw in it the opportunity of putting into practice his favorite theory, and so of bringing order out of chaos. He had already tried it with success, as superintendent of more than 500 men in a Manchester factory. From 1800 to 1829, he directed the great cotton mill at New Lanark, in Scotland, as managing partner, along the same lines, but with greater freedom of action and with a success that made him a European reputation. A population, originally consisting of the most diverse and, for the most part, very demoralized elements, a population that gradually grew to 2,500, he turned into a model colony, in which drunkenness, police, magistrates, lawsuits, poor laws, charity, were unknown. And all this simply by placing the people in conditions worthy of human beings, and especially by carefully bringing up the rising generation. He was the founder of infant schools, and introduced them first at New Lanark. At the age of two, the children came to school, where they enjoyed themselves so much that they could scarely be got home again. Whilst his competitors worked their people 13 or 14 hours a day, in New Lanark the working-day was only 10 and a half hours. When a crisis in cotton stopped work for four months, his workers received their full wages all the time. And with all this the business more than doubled in value, and to the last yielded large profits to its proprietors.
 
@@ -369,7 +364,6 @@ Nature is the proof of dialectics, and it must be said for modern science that i
 
 An exact representation of the universe, of its evolution, of the development of mankind, and of the reflection of this evolution in the minds of men, can therefore only be obtained by the methods of dialectics with its constant regard to the innumerable actions and reactions of life and death, of progressive or retrogressive changes. And in this spirit, the new German philosophy has worked. Kant began his career by resolving the stable Solar system of Newton and its eternal duration, after the famous initial impulse had once been given, into the result of a historical process, the formation of the Sun and all the planets out of a rotating, nebulous mass. From this, he at the same time drew the conclusion that, given this origin of the Solar system, its future death followed of necessity. His theory, half a century later, was established mathematically by Laplace, and half a century after that, the spectroscope proved the existence in space of such incandescent masses of gas in various stages of condensation.
 
-## ![](_page_56_Picture_1.jpeg)
 
 This new German philosophy culminated in the Hegelian system. In this system — and herein is its great merit — for the first time the whole world, natural, historical, intellectual, is represented as a process — i.e., as in constant motion, change, transformation, development; and the attempt is made to trace out the internal connection that makes a continuous whole of all this movement and development. From this point of view, the history of mankind no longer appeared as a wild whirl of senseless deeds of violence, all equally condemnable at the judgment seat of mature philosophic reason and which are best forgotten as quickly as possible, but as the process of evolution of man himself. It was now the task of the intellect to follow the gradual march of this process through all its devious ways, and to trace out the inner law running through all its apparently accidental phenomena.
 

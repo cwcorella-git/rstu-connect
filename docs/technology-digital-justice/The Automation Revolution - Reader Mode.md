@@ -10,7 +10,6 @@ tags:
 
 ### The Automation Revolution
 
-## ![](_page_0_Picture_4.jpeg)
 
 ## **ALL THINGS WORK**
 
@@ -58,7 +57,6 @@ Other sectors—such as nance, banking and insurance—are currently in the thro
 
 ## Three Types of Automation
 
-## ![](_page_3_Picture_4.jpeg)
 
 #### Robotic Process Automation
 
@@ -68,7 +66,6 @@ Example: Delivery tracking.
 
 ### Cognitive Automation
 
-## ![](_page_3_Picture_9.jpeg)
 
 Automates more-complex tasks by applying things like pattern recognition or language understanding to various tasks.
 
@@ -76,13 +73,11 @@ Example: Chatbots.
 
 #### Social Robotics
 
-## ![](_page_3_Picture_13.jpeg)
 
 Involves robots moving autonomously and interacting or collaborating with humans through the combination of sensors, articial intelligence and mechanical robots.
 
 Example: Driverless cars.
 
-## ![](_page_3_Picture_16.jpeg)
 
 Automation: What Is It?
 
@@ -124,25 +119,21 @@ Still, many jobs that are highly inecient, redundant or dangerous may indeed go 
 
 ## Positions for Which Automation Is Not Expanding
 
-## ![](_page_6_Picture_5.jpeg)
 
 ### Highly Skilled Professionals
 
 Example: Lawyers and doctors.
 
-## ![](_page_6_Picture_8.jpeg)
 
 #### Those Involving Social Intelligence
 
 Example: High-end salespeople with great contacts and people skills.
 
-## ![](_page_6_Picture_11.jpeg)
 
 #### Creatives
 
 Example: Designers and writers.
 
-## ![](_page_6_Picture_14.jpeg)
 
 ### Those Involving Repetitive Processes with Complicated Factors
 
@@ -196,4 +187,3 @@ David Tobenkin is a freelance writer based in the greater Washington, D. C., are
 
 SHRM is here to help you integrate automation into your business. Here are some resources you can use to get started.
 
-## ![](_page_10_Picture_2.jpeg)

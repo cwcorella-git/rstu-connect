@@ -9,7 +9,6 @@ tags:
   - workers
 ---
 
-## ![](_page_0_Picture_2.jpeg)
 
 **Bayard Rustin** [\(/](https://en.wikipedia.org/wiki/Help:IPA/English)[ˈ](https://en.wikipedia.org/wiki/Help:IPA/English)[ba](https://en.wikipedia.org/wiki/Help:IPA/English)ɪ[.](https://en.wikipedia.org/wiki/Help:IPA/English)[ə](https://en.wikipedia.org/wiki/Help:IPA/English)[rd/](https://en.wikipedia.org/wiki/Help:IPA/English) *[BY-](https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key)ə[rd](https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key)*; March 17, 1912 – August 24, 1987) was an American political activist and prominent leader in social movements for [civil rights,](https://en.wikipedia.org/wiki/Civil_rights) [socialism,](https://en.wikipedia.org/wiki/Socialism) [nonviolence,](https://en.wikipedia.org/wiki/Nonviolence) and [gay rights.](https://en.wikipedia.org/wiki/Gay_rights) Rustin was the principal organizer of the [March on Washington for Jobs](https://en.wikipedia.org/wiki/March_on_Washington_for_Jobs_and_Freedom) [and Freedom](https://en.wikipedia.org/wiki/March_on_Washington_for_Jobs_and_Freedom) in 1963[.\[1\]](#page-16-0)
 
@@ -21,7 +20,6 @@ Later in life, while still devoted to securing workers' rights, Rustin joined ot
 
 #### **Bayard Rustin**
 
-## ![](_page_0_Picture_9.jpeg)
 
 Rustin at a news briefing on the [March on](https://en.wikipedia.org/wiki/March_on_Washington_for_Jobs_and_Freedom) [Washington](https://en.wikipedia.org/wiki/March_on_Washington_for_Jobs_and_Freedom) in Washington, D. C., on August 27, 1963
 
@@ -121,7 +119,6 @@ As declared [conscientious objectors](https://en.wikipedia.org/wiki/Pacifism) wh
 
 Just before a trip to Africa while college secretary of the FOR, Rustin recorded a [10-inch LP,](https://en.wikipedia.org/wiki/LP_record) *Elizabethan Songs and Negro Spirituals,* for the Fellowship Records label. He sang [spirituals](https://en.wikipedia.org/wiki/Spirituals) and [Elizabethan](https://en.wikipedia.org/wiki/Elizabethan) songs, accompanied on the [harpsichord](https://en.wikipedia.org/wiki/Harpsichord) by Margaret Davison[.\[32\]](#page-18-11)
 
-## ![](_page_3_Picture_10.jpeg)
 
 Rustin's [Bureau of Prisons](https://en.wikipedia.org/wiki/Federal_Bureau_of_Prisons) mugshot c. 1944
 
@@ -149,11 +146,9 @@ A few weeks before the [March on Washington for Jobs and](https://en.wikipedia.o
 
 Rustin became involved in the March on Washington in 1962 when he was recruited by A. Philip Randolph. The march was planned to be a commemoration of the Emancipation Proclamation one hundred years earlier.[\[13\]](#page-17-2) Rustin was instrumental in organizing the march. Aided by [Eleanor Holmes Norton](https://en.wikipedia.org/wiki/Eleanor_Holmes_Norton) and Rachelle Horowitz,[\[43\]](#page-19-8) he drilled off-duty police officers as marshals, bus captains to direct traffic, and scheduled the podium speakers. Despite King's support, NAACP chairman [Roy](https://en.wikipedia.org/wiki/Roy_Wilkins) [Wilkins](https://en.wikipedia.org/wiki/Roy_Wilkins) did not want Rustin to receive any public credit for his role in planning the march.[\[44\]](#page-19-9) Wilkins said, "This march is of such importance that we must not put a person of his liabilities at the head." Because of this conflict, Randolph served as the director of the march and Rustin as his deputy. During the planning of the march, Rustin feared his previous legal issues would pose a threat to the march. Nevertheless, on September 6, 1963, a photograph of Rustin and Randolph appeared on the cover of *[Life](https://en.wikipedia.org/wiki/Life_(magazine))* magazine, identifying them as "the leaders" of the March[.\[44\]](#page-19-9) Rustin stated his thoughts on the march and said it "made Americans feel for the first time that we were capable of being truly a nation, that we
 
-## ![](_page_5_Picture_9.jpeg)
 
 Leaders of the March on Washington posing in front of the statue of Abraham Lincoln on August 28, 1963
 
-## ![](_page_5_Picture_11.jpeg)
 
 Rustin and [Cleveland](https://en.wikipedia.org/wiki/Cleveland_Robinson) [Robinson](https://en.wikipedia.org/wiki/Cleveland_Robinson) of the [March on](https://en.wikipedia.org/wiki/March_on_Washington_for_Jobs_and_Freedom) [Washington for Jobs and](https://en.wikipedia.org/wiki/March_on_Washington_for_Jobs_and_Freedom) [Freedom](https://en.wikipedia.org/wiki/March_on_Washington_for_Jobs_and_Freedom) on August 7, 1963
 
@@ -179,7 +174,6 @@ At the [1964 Democratic National Convention,](https://en.wikipedia.org/wiki/1964
 
 After the passage of the [Civil Rights Act of 1964,](https://en.wikipedia.org/wiki/Civil_Rights_Act_of_1964) Rustin advocated closer ties between the civil rights movement and the [Democratic Party,](https://en.wikipedia.org/wiki/Democratic_Party_(United_States)) specifically the party's base among the white working class, many of
 
-## ![](_page_7_Picture_2.jpeg)
 
 ## Rustin, 1965
 
@@ -253,7 +247,6 @@ President [Ronald Reagan](https://en.wikipedia.org/wiki/Ronald_Reagan) issued a 
 
 Rustin's personal philosophy is said to have been inspired by combining [Quaker paci](https://en.wikipedia.org/wiki/Quaker_pacifism)fism with [socialism,](https://en.wikipedia.org/wiki/Socialism) and the theory of non-violent protest popularized by [Mahatma Gandhi](https://en.wikipedia.org/wiki/Mahatma_Gandhi)[.\[10\]](#page-16-9)
 
-## ![](_page_11_Picture_6.jpeg)
 
 Rustin speaks with civil rights activists before a demonstration, 1964.
 
@@ -267,7 +260,6 @@ According to [Daniel Richman,](https://en.wikipedia.org/wiki/Daniel_Richman) for
 
 #### **External videos**
 
-## ![](_page_11_Picture_13.jpeg)
 
 ## Rustin and Eugene Reed
 
@@ -305,7 +297,6 @@ Canadian writer Steven Elliott Jackson wrote a play that stages an imaginary mee
 
 In 2018, the [Bayard Rustin Center for Social Justice](https://en.wikipedia.org/wiki/Bayard_Rustin_Center_for_Social_Justice) was established in [Princeton, New Jersey,](https://en.wikipedia.org/wiki/Princeton,_New_Jersey) with Naegle acting as Board Member Emeritus[,\[106\]](#page-26-0) serving as a community activist center and [safe space](https://en.wikipedia.org/wiki/Safe_space) for LGBTQ kids, intersectional families, and marginalized people.[\[107\]](#page-26-1)
 
-## ![](_page_13_Picture_5.jpeg)
 
 **[Bayard Rustin Center for Social](https://en.wikipedia.org/wiki/Bayard_Rustin_Center_for_Social_Justice) [Justice](https://en.wikipedia.org/wiki/Bayard_Rustin_Center_for_Social_Justice) Chief Activist Robt Martin Seda-Schreiber & Board Member Emeritus [Walter Naegle](https://en.wikipedia.org/wiki/Walter_Naegle) with Bayard Rustin's Medal of Freedom @ BRCSJ HQ!**partner [Walter Naegle](https://en.wikipedia.org/wiki/Walter_Naegle) (left) holding the posthumous [Medal of Freedom](https://en.wikipedia.org/wiki/Presidential_Medal_of_Freedom)
 

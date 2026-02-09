@@ -16,7 +16,6 @@ tags:
 
 ## ![](_page_0_Figure_4.jpeg)
 
-## ![](_page_0_Picture_5.jpeg)
 
 ## ![](_page_0_Figure_6.jpeg)
 
@@ -84,7 +83,6 @@ tags:
 
 ## ![](_page_0_Figure_38.jpeg)
 
-## ![](_page_0_Picture_39.jpeg)
 
 ## ![](_page_0_Figure_40.jpeg)
 
@@ -94,9 +92,6 @@ tags:
 
 ## In child-friendly language ®
 
-## ![](_page_0_Picture_44.jpeg)
-
-## ![](_page_0_Picture_45.jpeg)
 
 If you are under age 18, you have these rights. All children have all who they are, where these rights, no matter they live, what language they speak, what their religion is, what they think, what they look like, what their gender is, if they have a disability, if they are rich or poor, and no matter who their parents or families are or what their parents or families When adults make decisions, they should think about how their decisions will aect you. All adults should do what is best for children. Governments should help the people and places responsible for looking after children.
 
@@ -182,7 +177,6 @@ You have the right to know your rights. Adults should know these rights and help
 
 ## These articles explain how governments should make sure all children enjoy all their rights. The United Nations – including the Committee on the Rights of Child and UNICEF – and other organizations should help governments and others full their responsibilities for children's rights.
 
-## ![](_page_1_Picture_45.jpeg)
 
 ## The United Nations Convention on the Rights of the Child in Child-Friendly Language
 
@@ -190,8 +184,5 @@ The United Nations Convention on the Rights of the Child is an important agreeme
 
 This text is not an official version of the Convention on the Rights of the Child. It was developed with young people in Canada to help others know these rights. Access the official, legal text at unicef-irg/crc. UNICEF Canada provides permission to copy this document for non-commercial, informational and educational purposes without modication. UNICEF does not endorse or assume any responsibility or liability with respect to the use by any entity of this material.
 
-## ![](_page_1_Picture_49.jpeg)
-
-## ![](_page_1_Picture_50.jpeg)
 
 www.unicef.ca/crc

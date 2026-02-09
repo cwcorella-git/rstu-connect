@@ -65,7 +65,6 @@ Supplement Hayek on Hayek: An Autobiographical Dialogue (1994)
 
 The plan is provisional. Minor alterations may occur in titles of individual books, and several additional volumes may be added.
 
-## ![](_page_3_Picture_0.jpeg)
 
 #### THE COLLECTED WORKS OF
 
@@ -81,7 +80,6 @@ The plan is provisional. Minor alterations may occur in titles of individual boo
 
 ### EDITED BY BRUCE CALDWELL
 
-## ![](_page_3_Picture_8.jpeg)
 
 ## The University of Chicago Press
 
@@ -566,7 +564,6 @@ I should have loved freedom, I believe, at all times, but in the time in which w
 
 ## —A. de Tocqueville
 
-## ![](_page_53_Picture_0.jpeg)
 
 # **PREFACE TO THE ORIGINAL EDITIONS1**
 

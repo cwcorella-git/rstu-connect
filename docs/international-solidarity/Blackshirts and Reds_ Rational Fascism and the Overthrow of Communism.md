@@ -15,9 +15,6 @@ tags:
 
 ## of Communism
 
-## ![](_page_0_Picture_5.jpeg)
-
-## ![](_page_0_Picture_6.jpeg)
 
 ## BLACKSHIRTS & RED
 
@@ -55,7 +52,6 @@ Trends and Tragedies in American Foreign Policy ( 1971)
 
 ## CITY LIGHTS BOOKS San Francisco
 
-## ![](_page_4_Picture_3.jpeg)
 
 © 1997 by Michael Parenti All Rights Reserved 10 9 8 7 6 5 4 3 2 1
 

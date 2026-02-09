@@ -2309,6 +2309,5 @@ Complete editions of the works of most of the Russian writers have lately been p
 
 #### The Anarchist Library October 17, 2009
 
-## ![](_page_202_Picture_1.jpeg)
 
 Anti-Copyright. http://theanarchistlibrary.org Author: Pëtr Kropotkin Title: Ideals and Realities in Russian Literature Publication date: 1915

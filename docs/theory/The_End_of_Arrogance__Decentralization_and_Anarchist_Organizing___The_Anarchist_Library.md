@@ -1,7 +1,5 @@
 ---
-title: >-
-  The End of Arrogance Decentralization and Anarchist Organizing The Anarchist
-  Library
+title: "The End of Arrogance Decentralization and Anarchist Organizing The Anarchist Library"
 author: Curious George Brigade
 date: '2025'
 category: theory
@@ -18,7 +16,6 @@ The End of Arrogance: Decentralization and Anarchist ... about:reader?url=https%
                 Decentralization and Anarchist
                 Organizing
                 Author: Curious George Brigade
-                13–16 minutes
                 For too long, anarchist projects have been mismanaged by
                 arrogant fantasies of mass. We have unconsciously adopted
                 the Statist, Capitalist and Authoritarian belief that “bigger

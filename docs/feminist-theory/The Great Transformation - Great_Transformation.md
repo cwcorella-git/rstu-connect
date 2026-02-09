@@ -478,13 +478,11 @@ To the Rockefeller Foundation he is indebted for a two-year Fellowship, 1941-43,
 
 > **K. P.** Shoreham, Sevenoaks, Kent.
 
-## ![](_page_39_Picture_0.jpeg)
 
 ### Part One
 
 ## The International System
 
-## ![](_page_41_Picture_0.jpeg)
 
 #### CHAPTER ONE
 
@@ -660,7 +658,6 @@ Market society was born in England—yet it was on the Continent that its weakne
 
 ## Rise and Tall of Market Economy
 
-## ![](_page_73_Picture_0.jpeg)
 
 ## CHAPTER THREE
 
@@ -1838,7 +1835,6 @@ But how did the inevitable actually happen? How was it translated into the polit
 
 ## Transformation in 'Progress
 
-## ![](_page_269_Picture_0.jpeg)
 
 #### CHAPTER NINETEEN
 
@@ -2604,7 +2600,6 @@ Robert Owen observed of his laborers as early as 1816 that "whatever wage they r
 
 *turers,* p. 146). It will be remembered that Adam Smith expected the land-divorced laborer to lose all intellectual interest. And M'Farlane expected "that the knowledge of writing and accounts will every day become less frequent among the common people" *{Enquiries Concerning the Poor,* 1782, pp. 249-50). A generation later Owen put down the laborers' degradation to "neglect in infancy" and "overwork," thus rendering them "incompetent from ignorance to make a good use of high wages when they can procure them." He himself paid them low wages and raised their status by creating for them artificially an entirely new cultural environment. The vices developed by the mass of the people were on the whole the same as characterized colored populations debased by disintegrating culture contact: dissipation, prostitution, thievishness, lack of thrift and providence, slovenliness, low productivity of labor, lack of self-respect and stamina. The spreading of market economy was destroying the traditional fabric of the rural society, the village community, the family, the old form of land tenure, the customs and standards that supported life within a cultural framework. The protection afforded by Speenhamland made matters only worse. By the 1830s the social catastrophe of the common people was as complete as that of the Kaffir is today. One and alone, an eminent Negro sociologist, Charles S. Johnson, reversed the analogy between racial debasement and class degradation, applying it this time to the latter: "In England, where, incidentally, the Industrial Revolution was more advanced than in the rest of Europe, the social chaos which followed the drastic economic reorganization converted impoverished children into the 'pieces' that the African slaves were, later, to become.... The apologies for the child serf system were almost identical with those of the slave trade" ("Race Relations and Social Change," in E. Thompson, *Race Relations and the Race Problem,* 1939, p. 274).
 
-## ![](_page_343_Picture_0.jpeg)
 
 ## Index
 

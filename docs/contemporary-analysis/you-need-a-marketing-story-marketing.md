@@ -9,13 +9,11 @@ tags:
 
 The Wayback Machine - https://web.archive.org/web/20250914133216/https://www.whatgamesare.com/2011/01/you-need-a-marketing-story-mar…
 
-## ![](_page_0_Picture_2.jpeg)
 
 [Featured](https://web.archive.org/web/20250914133216/https://www.whatgamesare.com/featured-posts.html) [Glossary](https://web.archive.org/web/20250914133216/https://www.whatgamesare.com/glossary.html) [About](https://web.archive.org/web/20250914133216/https://www.whatgamesare.com/about.html) [Consulting](https://web.archive.org/web/20250914133216/https://www.whatgamesare.com/consulting.html)
 
 # **You Need A Marketing Story [Marketing]**
 
-## ![](_page_0_Picture_5.jpeg)
 
 ## (thanks for the image [urban75\)](https://web.archive.org/web/20250914133216/http://www.urban75.org/2007/04/speakers-corner.html)
 
@@ -103,7 +101,6 @@ Posted on 10 January 2011 | [Permalink](https://web.archive.org/web/202509141332
 
 You can follow this conversation by subscribing to the [comment feed](https://web.archive.org/web/20250914133216/https://www.whatgamesare.com/2011/01/you-need-a-marketing-story-marketing/comments/atom.xml) for this post.
 
-## ![](_page_2_Picture_10.jpeg)
 
 Some very good points here. It's amazing how many companies forget about story and emotion and psychology when trying to sell anything. I like to think of it in terms of thinking about some of my favorite TV shows: the deepest and most meaningful ones to me are always those that have the best characters and some sort of overriding emotion surrounding their story. Thinking in terms of psychology is important when marketing: look at [http://facebook.popularfans.com](https://web.archive.org/web/20250914133216/http://facebook.popularfans.com/) for example. Even though its a little thing, these types of services are useful because when people see that a Facebook page has more fans on it, they're more likely to notice you and be impressed. Spend a day with a really good business person if you can and talk about some of these psychological tricks. I've been told some stuff that as a nerd I'd dismiss right away but that really just blows normal people away when you sit and examine it from a psychological perspective.
 
@@ -119,7 +116,6 @@ Posted by: [Wd1993](https://web.archive.org/web/20250914133216/https://profile.t
 
 This is only a preview. Your comment has not yet been posted.
 
-## ![](_page_2_Picture_18.jpeg)
 
 Your comment could not be posted. Error type:
 

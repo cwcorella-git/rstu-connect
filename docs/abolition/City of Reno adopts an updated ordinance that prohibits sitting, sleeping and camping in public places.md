@@ -18,7 +18,6 @@ ordinance that prohibits sitting,
 sleeping and camping in public
 places
 Nick Doyle
-4–5 minutes
 RENO, Nev. (KOLO) - The City of Reno is taking action to
 improve public safety and mitigate unlawful activities
 throughout Reno. The City Council is adopting an updated

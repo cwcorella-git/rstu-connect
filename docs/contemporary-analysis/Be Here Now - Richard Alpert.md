@@ -7,15 +7,6 @@ tags:
   - current-events
 ---
 
-## ![](_page_0_Picture_0.jpeg)
-
-## ![](_page_1_Picture_0.jpeg)
-
-## ![](_page_2_Picture_0.jpeg)
-
-## ![](_page_2_Picture_1.jpeg)
-
-## ![](_page_3_Picture_0.jpeg)
 
 What's Inside:
 
@@ -47,7 +38,6 @@ THE TRANSFORMATION:
 
 ## A MANUAL FOR CONSCIOUS BEING
 
-## ![](_page_7_Picture_1.jpeg)
 
 ## PAINTED CAKES
 
@@ -69,13 +59,9 @@ Hanuman Foundation, instigated by Ram Dass, was incorporated in California in 19
 
 JAI HANUMAN!
 
-## ![](_page_9_Picture_0.jpeg)
-
-## ![](_page_10_Picture_0.jpeg)
 
 ## DR. RICHARD ALPERT, Ph. D INTO BABA RAM DASS
 
-## ![](_page_10_Picture_2.jpeg)
 
 ## NAMASTÉ
 
@@ -285,7 +271,6 @@ We were very high. What happened in those three weeks in that house, no one woul
 
 And it was a terribly frustrating experience, as if you came into the kingdom of heaven and you saw how it all was and you felt these new states of awareness, and then you got cast out again, and after 2 or 300 times of this, began to feel an extraordinary kind of depression set in—a very gentle depression that whatever I knew still wasn't enough!
 
-## ![](_page_28_Picture_2.jpeg)
 
 ## **ENVIRONMENTAL CHANGES**
 
@@ -307,7 +292,6 @@ Now in 1962 or 3, Tim and Ralph Metzner with him (I was just given author's cred
 
 This book was 2500 years old, at least, and it had been used all those years for preparing Tibetan Lamas to die and be reincarnated. And when we opened it, we would find descriptions of the 49 days after death before rebirth, that were perfect descriptions of sessions we were having with psychedelics.
 
-## ![](_page_30_Picture_3.jpeg)
 
 How could this be? The parallel was so close. Tim rewrote the book as a manual called "The Psychedelic Experience", a manual for psychological death and rebirth, arguing that this was really a metaphor about psychological death and rebirth and not necessarily physical death and reincarnation.
 
@@ -353,7 +337,6 @@ So I finally figured, "Well, it's not going to happen." We were about to go on t
 
 I decided I was going to come back and become a chauffeur. I wanted to be a servant, and let somebody else program my consciousness. I could read holy books while I'd wait for whoever it was I was waiting for while they were at Bergdorf Goodman's and I'd just change my whole style of life around. I could
 
-## ![](_page_34_Picture_0.jpeg)
 
 just get out of the whole drama of having to engineer my own ship for a while.
 
@@ -425,7 +408,6 @@ We'd come across some Shavites, followers of Shiva, or some of the Swamis, and I
 
 We'd meet Kargyupa lamas from Tibet and they would all welcome him as a brother, and he knew all their stuff. He had been in India for five years, and he was so high that everybody just welcomed him, feeling 'he's obviously one of us'.
 
-## ![](_page_39_Picture_0.jpeg)
 
 I couldn't figure out what his scene was. All I personally felt was this tremendous pull toward Buddhism because Hinduism always seemed a little gauche—the paintings were a little too gross—the colors were bizarre and the whole thing was too melodramatic and too much emotion. I was pulling toward that clean, crystal-clear simplicity of the Southern Buddhists or the Zen Buddhists.
 
@@ -455,7 +437,6 @@ I felt no loss when she died. Instead there was a tremendous continuing contact 
 
 This night I'm under the stars, and I hadn't thought about her at all since that time. I'm under the stars, urinating, and I look up and the stars are very close because it's very dark and I suddenly experience a presence of mother, and I'm thinking about her—not about how she died or anything about that. I just feel her presence. It's very very powerful. And I feel great love for her and then I go back to bed.
 
-## ![](_page_41_Picture_2.jpeg)
 
 Of course, Bhagwan Dass is not the least interested in any of my life, so he'd be the last person I'd talk to about my thoughts or visions.
 
@@ -483,7 +464,6 @@ I get out of the car. Now I'm additionally bugged because everybody's ignoring m
 
 We go around this hill so that we come to a field which does not face on the road. It's facing into a valley and there's a little man in his 60's or 70's sitting with a blanket around him. And around him are 8 or 9 Hindu people and it's a beautiful tableau—clouds, beautiful green valley, lovely, lovely place—the foothills of the Himalayas.
 
-## ![](_page_44_Picture_0.jpeg)
 
 And this fellow, Bhagwan Dass, comes up, runs to this man and throws himself on the ground, full-face doing 'dunda pranam,' and he's stretched out so his face is down on the ground, full-length and his hands are touching the feet of this man, who is sitting cross-legged. And he's crying and the man is patting him on the head and I don't know what's happening.
 
@@ -569,7 +549,6 @@ I was afraid to do anything but just sit. Whatever this is, it's not nothing. Ju
 
 So I had had experiences where I had seen myself completely create whole environments under psychedelics, and therefore I wasn't eager to interpret these things very quickly, because I, the observer, was, at those times, under the
 
-## ![](_page_49_Picture_0.jpeg)
 
 influence of the psychedelics.
 
@@ -637,7 +616,6 @@ They gave me a room. Nobody ever asked me for a nickel. Nobody ever asked me to 
 
 This guru—Maharaji—has only his blanket. You see, he's in a place called SAHAJ SAMADHI and he's not identified with this world as most of us identify with it. If you didn't watch him, he'd just disappear altogether into the jungle or leave his body, but his devotees are always protecting him and watching him so they can keep him around. They've got an entourage around him and people come and bring gifts to the holy man because that's part of the way in which you gain holy merit in India. And money piles up, and so they build temples, or they build schools. He will walk to a place and there will be a saint who has lived in that place or cave and he'll say, "There will be a temple here," and then they build a temple. And they do all this around Maharaji. He appears to do nothing.
 
-## ![](_page_53_Picture_0.jpeg)
 
 As an example of Maharaji's style, I was once going through my address book and I came to Lama Govinda's name (he wrote Foundations of Tibetan Mysticism and Way of the White Cloud) and I thought, "Gee, I ought to go visit him. I'm here in the Himalayas and it wouldn't be a long trip and I could go and pay my respects. I must do that some time before I leave."
 
@@ -647,7 +625,6 @@ Another time, I had to go to Delhi to work on my visa and I took a bus. This was
 
 But they allowed me to go alone to Delhi and I took a 12 hour bus trip. I went to Delhi and I was so high. I went through Connaught Place. And I went through that barefoot, silent with my chalkboard—I was silent all the time. At American Express, writing my words it was so high that not at one moment was there even a qualm or a doubt.
 
-## ![](_page_54_Picture_1.jpeg)
 
 So after all day long of doing my dramas with the Health Department and so on, it came time for lunch. I had been on this very fierce austere diet and I had lost 60 lbs. I was feeling great—very light and very beautiful—but there was enough orality still left in me to want to have a feast. I'll have a vegetarian feast, I thought. So I went to a fancy vegetarian restaurant and I got a table over in a corner and ordered their special deluxe vegetarian dinner, from nuts to nuts, and I had the whole thing and the last thing they served was vegetarian ice cream with 2 english biscuits stuck into it. And those biscuits . . . the sweet thing has always been a big part of my life, but I knew somehow, maybe I shouldn't be eating those. They're so far out from my diet. It's not vegetables—it's not rice.
 
@@ -669,7 +646,6 @@ Now the impact of these experiences was very profound. As they say in the Sikh r
 
 I said to Hari Dass Baba, my teacher at the time, "Why is it that Maharaji never tells me the bad things I think?", and he says, "It does not help your sadhana—your spiritual work. He knows it all, but he just does the things that help you."
 
-## ![](_page_56_Picture_2.jpeg)
 
 The sculptor had said he loved Maharaji so much, we should keep the Land Rover up there. The Land Rover was just sitting around and so Maharaji got the Land Rover after all, for that time. And then one day, I was told we were going on an outing up in the Himalayas for the day. This was very exciting, because I never left my room in the temple. Now in the temple, or around Maharaji, there were eight or nine people. Bhagwan Dass and I were the only westerners. In fact, at no time that I was there did I see any other westerners. This is clearly not a western scene, and in fact, I was specifically told when returning to the United States that I was not to mention Maharaji's name or where he was, or anything.
 
@@ -733,7 +709,6 @@ Now, though I am a beginner on the path, I have returned to the West for a time 
 
 For me, this story is but a vehicle for sharing with you the true message . . . the living faith in what is possible.
 
-## ![](_page_61_Picture_0.jpeg)
 
 ## –OM–
 
@@ -751,7 +726,6 @@ Baba Ram Dass is a friend of the Lama Foundation, but we are not affiliated in a
 
 The following ebook pages are pictures taken from the original Core Book of Be Here Now, reproduced here in their entirety. The transcription of these pages and the corresponding page numbers begin immediately following the last illustration.
 
-## ![](_page_62_Picture_1.jpeg)
 
 # to MAHARAJ-JI
 
@@ -762,11 +736,9 @@ THIS BOX
 IS
 ## A MANIFESTATION
 
-## ![](_page_63_Picture_3.jpeg)
 
 ## THE HEART CAVE
 
-## ![](_page_64_Picture_1.jpeg)
 
 ## \*EXCEPT YE BE CONVERTED
 
@@ -799,7 +771,6 @@ YOU WILL THEN KNOW THAT:
 
 ## YOU ARE HE
 
-## ![](_page_66_Picture_3.jpeg)
 
 & IT IS FROM THIS PLACE IN OUR HEART CAVE
 WHERE WE ARE NOW
@@ -835,7 +806,6 @@ SEES ALL AND KNOWS ALL.
 
 INSIDE GOES:
 
-## ![](_page_67_Picture_8.jpeg)
 
 ## AUM MANI PADME HUM
 
@@ -862,7 +832,6 @@ THE MINDLESS QUALITY OF TOTAL INVOLVEMENT
 THAT COMES ONLY WHEN THE EGO IS QUIET
 ## AND THERE IS NO ATTACHMENT
 
-## ![](_page_68_Picture_7.jpeg)
 
 IT IS ONLY WHEN YOU RESIDE QUIETLY
 IN YOUR OWN HRIDAYAM
@@ -880,7 +849,6 @@ SEE:
 
 ## YOU CAN SEE PATTERNS UNFOLDING
 
-## ![](_page_69_Picture_5.jpeg)
 
 (OF WHICH THIS LIFE IS ONLY A PART PART OF A MOSAIC)
 
@@ -902,9 +870,6 @@ ANY MORE!
 
 BECAUSE: YOUR THOUGHTS ARE STILL IN TIME & SPACE & YOU CAN'T GET OUT OF TIME THROUGH THEM. YOU'VE GOT TO BE OUTSIDE THAT. YOU'VE GOT TO BE IN THE PLACE WHERE
 
-## ![](_page_69_Picture_16.jpeg)
-
-## ![](_page_70_Picture_0.jpeg)
 
 I AM WITHOUT FORM
 WITHOUT LIMIT
@@ -921,7 +886,6 @@ BUT YOU'RESTILL ONLY SEEING HINTS YOU'VE GOT A WAY TO GO YET
 
 # GÄTE/GÄTE/PÄRÄGÄTE PÄRÄSÄMGÄTE BODHI SVÄHÄ!
 
-## ![](_page_71_Picture_2.jpeg)
 
 ## GONE/GONE/GONE BEYOND BEYOND HAIL THE GOER
 
@@ -935,11 +899,6 @@ DO YOU REALIZE WHEN YOU GO ON THAT JOURNEY IN ORDER TO GET TO THE DESTINATION
 
 ## CAN NEVER GET TO THE DESTINATION? IN THE PROCESS
 
-## ![](_page_71_Picture_9.jpeg)
-
-## ![](_page_71_Picture_10.jpeg)
-
-## ![](_page_71_Picture_11.jpeg)
 
 PRETTY FIERCE JOURNEY PRETTY FIERCE REQUIREMENT WE WANTER VOLUNTEERS
 
@@ -1074,7 +1033,6 @@ ING PROCESS.
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-## ![](_page_77_Picture_0.jpeg)
 
 IF YOU COULD STAND BACK FAR ENOUGH AND WATCH THE WHOLE PROCESS YOU WOULD SEE
 
@@ -1284,7 +1242,6 @@ IT COSTS TOO MUCH!!
 
 # 1-2-ME
 
-## ![](_page_89_Picture_1.jpeg)
 
 # હ
 
@@ -1301,7 +1258,6 @@ MUCH DEEPER!
 
 # IT'S THE VIBRATIONS THAT EMANATE FROM YOU!
 
-## ![](_page_89_Picture_7.jpeg)
 
 ## ![](_page_90_Figure_0.jpeg)
 
@@ -1309,7 +1265,6 @@ MUCH DEEPER!
 
 ## ![](_page_92_Figure_0.jpeg)
 
-## ![](_page_92_Picture_1.jpeg)
 
 AND THE WORLD OF YIN & YANG
 IS ANOTHER ASTRAL PLANE
@@ -1376,7 +1331,6 @@ WHEN ONE SEES HOW IT IS ONE UNDERSTANDS THAT BEHIND ALL THE INDIVIDUAL
 
 ## BIG-LITTLE
 
-## ![](_page_94_Picture_4.jpeg)
 
 ## OLD-YOUNG
 
@@ -1389,7 +1343,6 @@ EVERY LABEL YOU CAN THINK OF BECOMES BACKGROUND INSTEAD OF FIGURE WHAT STANDS OU
 AND IF IT ISN'T BEAUTIFUL, MAN
 ## THERE'S NOTHING
 
-## ![](_page_94_Picture_10.jpeg)
 
 WELL, I CAN'T HAVE IT BEAUTIFUL NOW, BUT, [LATER!] WHEN WE GET THE FOOD HOME IT WILL BE BEAUTIFUL
 
@@ -1409,7 +1362,6 @@ A BIG
 WEIGHT
 ## ON YOU
 
-## ![](_page_95_Picture_2.jpeg)
 
 ## WHEN YOU UNDERSTAND
 
@@ -1472,7 +1424,6 @@ DON'T GET HUNG UP ON ALL THESE DIFFERENT DESIRE TRIPS. JUST GO BEYOND IT ALL.
 
 #### BUDDHA'S 4 NOBLE TRU ARE VERY STRAIGHTFORWARD AND VERY SIMPLE.
 
-## ![](_page_98_Picture_3.jpeg)
 
 #### THE FIRST ONE
 
@@ -1480,11 +1431,9 @@ CONCERNS THE PACT THAT LIFE ALWAYS HAS IN IT THE ELEMENT OF UNFULFILLMENT: CALL 
 
 BIRTH POLDAGE PSICINESS PNOT GETTING WHAT YOU WANT OF TING WHAT YOU DON'T WANT OF EVEN GETTING WHAT YOU WANT IN THIS PHYSICAL WORLD IS GOING TO BE SUFFERING BECAUSE:
 
-## ![](_page_98_Picture_7.jpeg)
 
 YOU'RE GOING TO LOSE IT! IT'S ALWAYS IN TIMEO!
 
-## ![](_page_98_Picture_9.jpeg)
 
 THAT'S THE TRAP OF TIME AS LONG AS YOU WANT ANYTHING IN TIME IT'S COING TO PASS BECAUSE TIME 35 35 PASSES
 
@@ -1602,7 +1551,6 @@ ONE WITH IT ALL
 
 # FAITH
 
-## ![](_page_104_Picture_1.jpeg)
 
 HAD YE BUT FAITH, YOU COULD MOVE MOUNTAINS, SAID JESUS
 
@@ -1642,7 +1590,6 @@ AND YOU TAKE A PICTURE OF MEHER BABA
 AND HE'S SMILING AT YOU LIKE HE'S
 THE OTHER MARX BROTHER AND HE'S SAYING:
 
-## ![](_page_106_Picture_4.jpeg)
 
 ## OH, I WISH YOU WOULD, MEHER BABA
 
@@ -1664,7 +1611,6 @@ DO YOUR THING. 3443 FORTY SECONDS LEPT!
 
 YOUVE GOT TO BE QUIET INSIDE TO DO THAT KIND OF PHOTOGRAPHY IT'S VERY EASY TO "PHOTOGRAPH" INANIMATE OBJECTS"-LIKE OTHER PEOPLE BUT: TURN THE LENS RIGHT IN ON THE VERY STUFF YOURE HIDING IN~
 
-## ![](_page_107_Picture_2.jpeg)
 
 SHOOT THE CAMERA THIS WAY!
 VERY POWERFUL STUFF!
@@ -1737,7 +1683,6 @@ BECAUSE IF YOU'RE TRUTHPULLY HERE & NOW THERES NO MORE YOU THAT'S THE WAY IT WOR
 
 ## ![](_page_110_Figure_0.jpeg)
 
-## ![](_page_111_Picture_0.jpeg)
 
 ## ![](_page_112_Figure_0.jpeg)
 
@@ -1751,9 +1696,6 @@ A DAGGER IN ONE HAND
 GIVING BIRTH IN THE OTHER
 ## THE WHOLE PROCESS OF NATURE
 
-## ![](_page_114_Picture_2.jpeg)
-
-## ![](_page_114_Picture_3.jpeg)
 
 HIS JOURNEY, AND THE AMOUNT OF TIME HE SPENT IN THE CARDEN OF PLEASURE WITH A WOMAN WHO HAD MUCH TO TEACH? SHE ALWAYS HAD A NEW THING TO TEACH... ALWAYS
 
@@ -1778,7 +1720,6 @@ THAT'S THE BODHISATTVA PART OF IT: YOU HAVE GONE & YOU HAVE GOTTEN THE LIBERATIO
 
 ## MAKING IT SACRED
 
-## ![](_page_117_Picture_1.jpeg)
 
 THIS (CHOPPING WOOD AND CARRYING WATER) IS KARMA YOGA... THE YOGA OF DAILY LIFE. THE WAY TO DO IT IS: DO WHAT YOU DO BUT DEDICATE THE PRUITS OF THE WORK TO ME 33
 
@@ -1812,7 +1753,6 @@ GOING TO THE TOILET, MAKING LOVE, EATING.
 
 ## EVERYTHING IS PART OF
 
-## ![](_page_118_Picture_6.jpeg)
 
 EVERYTHING IS DONE WITHOUT ATTACHMENT.
 ANOTHER WAY OF SAYING IT IS:
@@ -1857,15 +1797,12 @@ YOU MEET ANOTHER PERSON & THERE ARE QUALITIES IN THAT PERSONALITY WHICH OF-PEND 
 
 ... BEYOND SITA WALKING IN THE PATH THAT YOU CAN SEE BEYOND ALL THAT
 
-## ![](_page_121_Picture_2.jpeg)
 
 ## TO WHERE THE OTHER BEING IS
 
-## ![](_page_121_Picture_4.jpeg)
 
 YOU WILL DO THAT WHEN YOU'VE GONE INSIDE TO SEE WHERE YOU ARE --- BEYOND THE THINGS IN YOU WHICH ATTRACT YOU AND SEDUCE YOU AND EXCITE YOU AND REPEL YOU - THE JOURNEY ACROSS THE GREAT OCEAN OF EXISTENCE
 
-## ![](_page_121_Picture_6.jpeg)
 
 ## IS A JOURNEY
 
@@ -1875,7 +1812,6 @@ EVER IN DEEPER AND DEEPER AND THE DEEPER YOU GET IN THE MORE YOU MEET TRUTH 3358
 
 # THE GURU
 
-## ![](_page_122_Picture_1.jpeg)
 
 IT'S HARD TO SPEAK IN WORDS ABOUT THE GURU ...... TO SPEAK OF THE DIF-PERENCE BETWEEN AN UPA GURU AND A SAT GURU.
 

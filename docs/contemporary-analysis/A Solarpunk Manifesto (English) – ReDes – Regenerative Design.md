@@ -9,7 +9,6 @@ tags:
 
 [re-des.org](https://www.re-des.org/es/a-solarpunk-manifesto/)
 
-5–6 minutes
 
 Many people have written about Solarpunk during the last 10+ years. Mostly after 2014.
 
@@ -72,6 +71,5 @@ We're no longer overlords. We're caretakers. We're gardeners.
 
 ## The Solarpunk Community
 
-## ![](_page_4_Picture_9.jpeg)
 
 This work is licensed under a [Creative Commons Attribution-](http://creativecommons.org/licenses/by-sa/4.0/)[Share Alike 4.0 International License.](http://creativecommons.org/licenses/by-sa/4.0/)

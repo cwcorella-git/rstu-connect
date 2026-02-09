@@ -10,9 +10,6 @@ tags:
 
 ## Contributors to Wikimedia projects
 
-31–40 minutes
-
-## ![](_page_0_Picture_6.jpeg)
 
 [Eyre Crowe,](https://en.wikipedia.org/wiki/Eyre_Crowe_(painter)) A Slave Sale in Charleston, South Carolina, 1854
 
@@ -30,7 +27,6 @@ In modern academic literature, racial capitalism has been discussed in the conte
 
 [environmental justice](https://en.wikipedia.org/wiki/Environmental_justice) issues[,\[18\]](#page-18-4)[\[19\]](#page-18-5)[\[20\]](#page-18-6)[\[21\]](#page-19-0) through the South African [apartheid](https://en.wikipedia.org/wiki/Apartheid) and the [Israeli–Palestinian conflict,](https://en.wikipedia.org/wiki/Israeli%E2%80%93Palestinian_conflict) [\[22\]](#page-19-1) to disparities in [COVID-19 pandemic](https://en.wikipedia.org/wiki/COVID-19_pandemic) contraction rates[.\[23\]](#page-19-2)
 
-## ![](_page_3_Picture_3.jpeg)
 
 This folk art model of a slave ship was made by an unknown artist in the first half of the 20th century and is on display at the National Museum of African American History & Culture.
 

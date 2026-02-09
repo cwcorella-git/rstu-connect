@@ -11,15 +11,11 @@ tags:
 
 ## MND Staff
 
-3–4 minutes
 
 Mexican President Claudia Sheinbaum and business leaders renewed the national Package Against Inflation and High Costs (PACIC) on Monday to maintain the price of Mexico's basic food basket[, or](https://mexiconewsdaily.com/news/mexico-lower-food-prices/#:~:text=Sheinbaum%20was%20referring%20to%20Mexico) [canasta básica](https://mexiconewsdaily.com/news/mexico-lower-food-prices/#:~:text=Sheinbaum%20was%20referring%20to%20Mexico)[.](https://mexiconewsdaily.com/news/mexico-lower-food-prices/#:~:text=Sheinbaum%20was%20referring%20to%20Mexico)
 
 Under the agreement signed by Sheinbaum and Mexico's major food and grocery companies, a "basket" of the 24 most essential pantry items will be capped at 910 pesos (US \$46.8) for the next six months.
 
-## ![](_page_0_Picture_8.jpeg)
-
-## ![](_page_1_Picture_2.jpeg)
 
 Essential groceries like eggs, rice and beans remain affordable under Mexico's anti-inflation agreement. (Moisés Pablo Nava/ Cuartoscuro)
 

@@ -9,11 +9,6 @@ tags:
 
 ## ![](_page_0_Figure_0.jpeg)
 
-## ![](_page_1_Picture_0.jpeg)
-
-## ![](_page_3_Picture_0.jpeg)
-
-## ![](_page_4_Picture_0.jpeg)
 
 Fanon, Film, and Liberation in Africa, Selected Takes 1965–1987
 
@@ -61,7 +56,6 @@ With the FRELIMO in Mozambique, 1972 | 93 |
 | Film and Image Stills Credits | 141 |
 ## | Index of Names | 145 |
 
-## ![](_page_8_Picture_0.jpeg)
 
 e started working on the Concerning Violence film in 2012, two years before Eric Garner was choked to death by a violent New York City police officer. Garner's last desperate gasp, accompanied by the words "I can't breathe," was caught on video camera and later amplified by protestors in the streets of New York carrying posters with the image of the Afro-Caribbean psychiatrist, philosopher, and revolutionary Frantz Fanon and his statement, "We revolt simply because, for many reasons, we can no longer breathe."
 
@@ -83,7 +77,6 @@ The process of weaving together a script for the film from *The Wretched of the 
 
 Formally, the text is written in an urgent, poetic, and unapologetic tone—it demands that you stop and listen. Indeed, *The Wretched of the Earth* was not actually "written" so much as it was dictated by Fanon to his wife and friends while he suffered from late-stage leukemia and failing eyesight caused by the disease. His conclusion is a jeremiad by comparison to the more academic approach of its opening chapters—a characteristic Ms. Lauryn Hill channeled in her performance of the narration.
 
-## ![](_page_12_Picture_0.jpeg)
 
 # The Film's Preface: Professor Gayatri Chakravorty Spivak
 
@@ -133,7 +126,6 @@ It's crucial to note that the images that make up Concerning Violence are not fr
 
 We hope their inclusion, together with all the efforts made and gifts offered by the people who collaborated to make this film, will serve the larger challenge that Fanon put forth: to set afoot a new human being and, perhaps, a different future. And that depends on every one of us.
 
-## ![](_page_19_Picture_0.jpeg)
 
 ## ![](_page_20_Figure_0.jpeg)
 
@@ -197,7 +189,6 @@ I thank Göran Olsson for setting us these tasks.
 
 7. Assia Djebar, "Forbidden Gaze, Severed Sound," in *Women of Algiers in Their Apartment*, trans. Marjolijn de Jager (Charlottesville: University Press of Virginia, 1992), 133–52.
 
-## ![](_page_29_Picture_0.jpeg)
 
 COLONIALISM IS NOT A THINKING MACHINE, nor a body endowed with reasoning faculties. It is violence in its natural state, and it will only yield when confronted with greater violence. . . .
 
@@ -211,7 +202,6 @@ Decolonization, which sets out to change the order of the world, is, obviously, 
 
 ## ![](_page_31_Figure_0.jpeg)
 
-## ![](_page_32_Picture_0.jpeg)
 
 ## Chapter One
 
@@ -227,7 +217,6 @@ After liberation from Portugal in 1975, Angola was thrown into Africa's longest 
 
 1. Nelson Mandela, address for the opening of the National Moncada Barracks, Havana, July 26, 1991, Latin American Network Information Center, Castro Speech Data Base, http://lanic.utexas.edu/project/castro/db/1991/19910726-1.html.
 
-## ![](_page_35_Picture_0.jpeg)
 
 ## Gaetano Pagano Reports on the MPLA in Angola, 1973
 
@@ -251,9 +240,6 @@ The naked truth of decolonization evokes for us the searing bullets and bloodsta
 
 ## ![](_page_38_Figure_0.jpeg)
 
-## ![](_page_39_Picture_0.jpeg)
-
-## ![](_page_40_Picture_0.jpeg)
 
 ## Chapter Two
 
@@ -261,11 +247,9 @@ The naked truth of decolonization evokes for us the searing bullets and bloodsta
 
 -Editors' Note
 
-## ![](_page_43_Picture_0.jpeg)
 
 ## ![](_page_44_Figure_0.jpeg)
 
-## ![](_page_45_Picture_0.jpeg)
 
 ## Chapter Three
 
@@ -275,7 +259,6 @@ Under the rule of Ian Smith, a prime minister intent on fighting for a "whiter, 
 
 -Editors' Note
 
-## ![](_page_48_Picture_0.jpeg)
 
 # Interview with an Unidentified Rhodesian Settler
 
@@ -315,7 +298,6 @@ REPORTER: But you couldn't thirty-six?
 
 SETTLER: No way, Jose.
 
-## ![](_page_51_Picture_0.jpeg)
 
 # Interview with Robert Mugabe, 1974
 
@@ -345,9 +327,6 @@ The zone where the natives live is not complementary to the zone inhabited by th
 
 The settlers' town is a strongly built town, all made of stone
 
-## ![](_page_55_Picture_0.jpeg)
-
-## ![](_page_56_Picture_0.jpeg)
 
 ## Chapter Five
 
@@ -359,7 +338,6 @@ In a Cinema verite style and in interviews, the film tells the story of how the 
 
 -Editors' Note
 
-## ![](_page_59_Picture_0.jpeg)
 
 ## A Strike at LAMCO in Liberia, 1966
 
@@ -383,7 +361,6 @@ He awaits his fate outside the mess hall in Nimba. Here, the leaders of the unio
 
 SWEDISH CEO OF LAMCO, MR. WIJKSTRÖM: In our opinion, the trade
 
-## ![](_page_61_Picture_0.jpeg)
 
 union's management has behaved in a completely irresponsible and illegal way. There is a trade union law that regulates the rules of the game between employers and employees. And it's been totally broken. At 7 a.m. in the morning, everything was still calm. The workers went to a meeting at the trade union instead of to work. On Monday morning, military reinforcements arrive from Monrovia. A battalion of three hundred men gathers outside the officers' mess hall. After formation, they load up their sharp ammunition.
 
@@ -395,7 +372,6 @@ HJELTE: Why are the soldiers here then?
 
 UNNAMED UNIONIST/FORMER LAMCO WORKER #2: Well, the soldiers
 
-## ![](_page_62_Picture_0.jpeg)
 
 are here on LAMCO's claim or on LAMCO's desire. But there is no threat nor word of violence ever been used to anybody. A strike was not even organized by the chairman; it was organized by the workers themselves who were tired and fed up of the LAMCO management who wouldn't pay them the money, so they decided to strike.
 
@@ -441,7 +417,6 @@ The soldiers had done their job. In the dark, Robert Jackson and his family were
 
 This strike gave the workers nothing.
 
-## ![](_page_65_Picture_0.jpeg)
 
 WHEN YOU EXAMINE AT CLOSE QUARTERS the colonial context, it is evident that what defines one's place in the world is the fact of belonging to or not belonging to a given race, a given species.
 
@@ -451,7 +426,6 @@ In the colonies the economic substructure is also a superstructure. The cause is
 
 ## ![](_page_66_Figure_0.jpeg)
 
-## ![](_page_67_Picture_0.jpeg)
 
 ## Chapter Six
 
@@ -469,7 +443,6 @@ I speak of the Christian religion, and no one need be astonished. The Church in 
 
 ## ![](_page_71_Figure_0.jpeg)
 
-## ![](_page_72_Picture_0.jpeg)
 
 # Interview with Two Swedish Missionaries in Moshi, Tanzania, Conducted by Reporter Bo Bjelfvenstam in 1970
 
@@ -555,11 +528,6 @@ The native's muscles are always tensed. You can't say that he is terrorized, or 
 
 -Frantz Fanon
 
-## ![](_page_77_Picture_0.jpeg)
-
-## ![](_page_78_Picture_0.jpeg)
-
-## ![](_page_79_Picture_0.jpeg)
 
 THE COLONIZED MAN WILL FIRST manifest the aggressiveness which has been deposited in his bones against his own people. This is the period when the niggers beat each other up, and the police and magistrates do not know which way to turn when faced with the astonishing waves of crime.
 
@@ -583,7 +551,6 @@ This is why the dreams of the native are always of muscular prowess; his dreams 
 
 ## ![](_page_84_Figure_0.jpeg)
 
-## ![](_page_85_Picture_0.jpeg)
 
 ## Chapter Seven
 
@@ -595,7 +562,6 @@ rente de Libertação de Moçambique (FRELIMO) or the Mozambique Liberation Fron
 
 -Editors' Note
 
-## ![](_page_88_Picture_0.jpeg)
 
 # Interview with Two Female FRELIMO Military Commanders in Mozambique, 1972
 
@@ -603,7 +569,6 @@ COMMANDER NUMBER I: We will not go back. The revolution is going forward and we 
 
 So we are going to sing you a song.
 
-## ![](_page_89_Picture_0.jpeg)
 
 FEMALE FRELIMO MEMBER: We decided to go into the bush because we saw the actions of colonialism. Five hundred years of slavery. We peacefully asked for independence, but they didn't care. They massacred us.
 
@@ -621,7 +586,6 @@ They remain no longer than a couple of weeks before they get killed or are drive
 
 FEMALE FRELIMO COMMANDER NUMBER 2: In the old days, we could not study. Because of the colonial exploitation, they didn't give us time to study. And without studies, you are dominated. As we didn't study we didn't know what was happening in the world, so we could do nothing and this was the intention of the colonizer. Because of colonialism, our grandparents and our parents could not send us to school. They suffered a lot. Many of us were caught and sent to work on a farm at Mpanga and Mwangane where we were not paid. The very little we received was only enough to buy salt. It wasn't enough to buy clothes
 
-## ![](_page_91_Picture_0.jpeg)
 
 for our children. This was the strategy of the colonizer so they could colonize us even further.
 
@@ -637,7 +601,6 @@ REPORTER: Do you think the war will last long?
 
 ELIAS: It may last or not, we don't know.
 
-## ![](_page_93_Picture_0.jpeg)
 
 The exploited man sees that his liberation implies the use of all means, and that of force first and foremost.
 
@@ -653,7 +616,6 @@ The exploited man sees that his liberation implies the use of all means, and tha
 
 # Defeat
 
-## ![](_page_96_Picture_0.jpeg)
 
 fter four hundred years of colonial rule in its African colonies, Portugal was the last of the European countries to withdraw, and it did so only after costly and bloody wars of independence. The wars spanned almost two decades, and Portugal, receiving support from NATO, employed terror war tactics against the largely underfinanced guerrilla forces. Similar to US war tactics in Vietnam, the Portuguese bombed civilian targets rather than military ones and used chemical weapons and air strikes on the population.
 
@@ -669,7 +631,6 @@ Decolonization never takes place unnoticed, for it influences individuals and mo
 
 ## ![](_page_98_Figure_0.jpeg)
 
-## ![](_page_99_Picture_0.jpeg)
 
 ## Chapter Nine
 
@@ -689,9 +650,6 @@ The private companies put pressure on their own governments at least to set up m
 
 -Frantz Fanon
 
-## ![](_page_103_Picture_0.jpeg)
-
-## ![](_page_104_Picture_0.jpeg)
 
 ## ![](_page_105_Figure_0.jpeg)
 
@@ -781,7 +739,6 @@ THE FUNDAMENTAL DUEL, which seemed to be that between colonialism and anticoloni
 
 -Frantz Fanon
 
-## ![](_page_114_Picture_0.jpeg)
 
 COME COMRADES, THE EUROPEAN GAME is finally over; we must look for something else. We can do anything today provided we do not ape Europe, provided we are not obsessed with catching up with Europe.
 
@@ -805,13 +762,9 @@ For Europe, for ourselves, and for humanity, comrades, we must turn over a new l
 
 -Frantz Fanon
 
-## ![](_page_117_Picture_0.jpeg)
 
 ## ![](_page_118_Figure_0.jpeg)
 
-## ![](_page_119_Picture_0.jpeg)
-
-## ![](_page_120_Picture_0.jpeg)
 
 ## Postscript
 
@@ -976,7 +929,6 @@ Tengroth, Leyla Assaf, 119–22, 142 Thatcher, Margaret, 44 Tillich, Paul, 138 T
 
 Wallenberg family, 58 Whitehead, Alfred North, 138 Wijkström, Olle, 58, 60, 63
 
-## ![](_page_131_Picture_0.jpeg)
 
 # A photographic exploration of the revolutional movements in Africa in the sixties and seventie
 
@@ -994,6 +946,5 @@ Sophie Vuković is a Stockholm-based filmmaker. Her short films have screened at
 
 ## History
 
-## ![](_page_132_Picture_8.jpeg)
 
 ## ![](_page_132_Figure_9.jpeg)

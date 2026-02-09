@@ -18,7 +18,6 @@ tags:
 
 ## **ELIZABETH MANTON**
 
-## ![](_page_1_Picture_5.jpeg)
 
 ## Little, Brown and Company
 
@@ -82,7 +81,6 @@ Praise for *Utopia for Realists*
 
 ## *Notes Newsletters*
 
-![](_page_7_Picture_0.jpeg)
 
 A map of the world that does not include Utopia is not worth even glancing at, for it leaves out the one country at which Humanity is always landing. And when Humanity lands there, it looks out, and, seeing a better country, sets sail. Progress is the realization of Utopias.
 
@@ -1724,7 +1722,6 @@ From an international perspective, the inhabitants of the Land of Plenty aren't 
 
 FIGURE 13 Which countries are the Richest?
 
-## ![](_page_165_Picture_2.jpeg)
 
 *This map shows which countries have the highest per capita GDP. The bigger the country is on the map, the richer it is.*
 
@@ -1744,7 +1741,6 @@ In the nineteenth century, inequality was still a matter of class; nowadays, it'
 
 Still, we mostly reserve our outrage for the injustices that happen inside our own national borders. We're indignant that men get paid more than women for doing the same work, and that white Americans earn more than black Americans. But even the 150% racial income gap of the 1930s pales in comparison to the injustices inflicted by our borders. A Mexican citizen living and working in the U. S. earns more than twice as much as a compatriot still living in Mexico. An American earns nearly three times as much for the same work as a Bolivian, even when they are of the same skill level, age, and sex. With a comparable Nigerian, the difference is a factor of 8.5–and that's adjusted for purchasing power in the two countries.33
 
-## ![](_page_167_Picture_0.jpeg)
 
 *This map shows where child mortality (up to age five) is highest. The bigger the country, the higher its child mortality rate.*
 
@@ -2006,7 +2002,6 @@ Overton realized that politicians, provided they want to be reelected, can't per
 
 ## FIGURE 15 The Overton Window
 
-## ![](_page_191_Picture_2.jpeg)
 
 Source: 'Overton Window' by Hydrargyrum is licensed under CC BY-SA 2.0
 

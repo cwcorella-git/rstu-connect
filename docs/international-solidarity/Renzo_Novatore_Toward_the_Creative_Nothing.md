@@ -1394,7 +1394,6 @@ All societies tremble when the scornful aristocracy of tramps, inaccessibles, un
 
 #### The Anarchist Library Anti-Copyright
 
-## ![](_page_33_Picture_1.jpeg)
 
 #### Renzo Novatore Toward the Creative Nothing 1924
 

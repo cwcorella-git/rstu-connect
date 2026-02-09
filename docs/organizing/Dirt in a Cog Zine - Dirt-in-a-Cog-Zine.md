@@ -6,7 +6,6 @@ tags:
   - organizing
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 SMALL WAYS TO RESIST FASCISM THAT MAKE A BIG DIFFERENCE
 
@@ -60,7 +59,6 @@ Challenging our own biases is important. We all have them. We've all been affect
 
 # LEARN
 
-## ![](_page_4_Picture_1.jpeg)
 
 ### Read! Read! Read!
 
@@ -134,7 +132,6 @@ Download any research or datasets you use often. Duplication is vital when infor
 
 Backup everything. Print out select photos. Have physical and digital backups. Redundancy saves knowledge. You can't save too much.
 
-## ![](_page_7_Picture_9.jpeg)
 
 # RESIST
 
@@ -162,7 +159,6 @@ Carry around chalk with you as your walk your neighborhood. Write words of affir
 
 Show up to your city's city council meeting, the education meeting, a city planning event. Be present. Call your city and county representatives and ask them questions about their priorities. Sign up for city, county, and state emails. Start a writing campaign to your state government. Make some noise. Practice that good trouble. Be dirt in the cog.
 
-## ![](_page_9_Picture_4.jpeg)
 
 # Make Your Own List
 

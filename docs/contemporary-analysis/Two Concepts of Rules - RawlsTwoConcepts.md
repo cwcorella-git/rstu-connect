@@ -8,7 +8,6 @@ tags:
   - current-events
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 7ZR &RQFHSWV RI 5XOHV \$XWKRUV -RKQ 5DZOV 5HYLHZHG ZRUNV
 
@@ -22,7 +21,6 @@ Your use of the JSTOR archive indicates your acceptance of the Terms & Condition
 
 JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
 
-## ![](_page_0_Picture_8.jpeg)
 
 *Duke University Press* and *Philosophical Review* are collaborating with JSTOR to digitize, preserve and extend access to *The Philosophical Review.*
 

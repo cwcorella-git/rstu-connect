@@ -13,7 +13,6 @@ tags:
 
 ## IBW21
 
-27–35 minutes
 
 ## Slave Patrol – Photo by Corbis via Getty Images
 
@@ -37,9 +36,6 @@ Run nigger run, Patty Roller will catch you, Run, nigger run, you'd better get a
 
 Slave patrols usually consisted of three to six white men on horseback equipped with guns, rope, and whips. "A mounted man presents an awesome figure, and the power and majesty of a group of men on horseback, at night, could terrify slaves into submission," writes Sally Hadden in her fine and useful book Slave Patrols: Law and Violence in Virginia and the Carolinas. Among other duties, paddyrollers enforced the pass system, which required all slaves absent from their master's property to have a pass, or "ticket," signed by the master indicating permission for travel. Any slave encountered without a pass was subject to detention and beating on the spot, although possession of a valid pass was by no means a guarantee against beating.
 
-## ![](_page_2_Picture_6.jpeg)
-
-## ![](_page_3_Picture_2.jpeg)
 
 Three Slave Patrollers or "Paddyrollers".
 
@@ -55,7 +51,6 @@ Michael Brown's death at the hands of Ferguson police led to the exposure of a m
 
 Some facts sit heavier in the gut than others. It may be that the American brain is wired for certain cues, or maybe it's just the nature of systems of control, systems that grant or withhold sanction to move about, to work, to vote, to be secure in your home and body, to be free of suspicion absent evidence to the contrary. Sanction, in other words, to exercise your full humanity. Slave patrols and passes, the Klan, Jim Crow—these are historical incarnations of a social order that held people of color to less-than status, the necessary corollary to white supremacy.
 
-## ![](_page_6_Picture_3.jpeg)
 
 ## Slave Patrol
 
@@ -83,9 +78,6 @@ Wallace ran too hot for the '60s and '70s. Times had changed, and the racial con
 
 "Our country has changed," wrote John Roberts, chief justice of the United States Supreme Court, in 2013. The case was Shelby County, Alabama v. Eric H. Holder, Jr., Attorney General, and the chief justice, author of the majority opinion, was insistent on this point. "'[T]hings have changed in the South.'" "[H]istory did not end in 1965." "Nearly 50 years later, things have changed dramatically." "[O]ur Nation has made great strides." At issue in Shelby County was the constitutionality of sections 4 and 5 of the Voting Rights Act of 1965 (as reauthorized by Congress for the fourth time in 2006), which required states and certain counties with histories of racial discrimination to obtain "preclearance" from the Department of Justice before implementing changes to their election laws. Preclearance had been crucial in curbing racial discrimination in voting, Roberts conceded, but the remedy was no longer relevant to current conditions. Congress had reauthorized the Voting Rights Act in 2006 based on facts "having no logical relation to the present day," wrote the chief justice. "'Blatantly discriminatory evasions of federal decrees are rare.'"
 
-## ![](_page_10_Picture_5.jpeg)
-
-## ![](_page_11_Picture_2.jpeg)
 
 ## Runaway Slave Patrol Badge
 
@@ -117,7 +109,6 @@ Scalia and Roberts were adhering to a fantasy, a perfect inversion of the realit
 
 Trump reserved his special contempt for "political correctness," which seemed to represent for him not just an agenda for supplanting the "real" America, but a very real and present threat to his ego. When it comes to the national psyche, Trump has great instincts—give him that. He was entirely right to identify political correctness as his enemy, insofar as it aspires—as it does—to a reinvention of American identity. And therein lies the revolution, "the deep and mighty transformation" that James Baldwin saw as America's only hope. "Political correctness" denotes far more than linguistic temporizing and hypersensitive undergrads, but if the term has lately been rendered too small to carry its genuine revolutionary weight, we could try for a substitute. "Historical correctness," say. Or "reality connect." "Eyes." "Knowledge." "Getting a fucking clue." Because at its heart, the phenomenon known as "political correctness" is the struggle to supplant the default American identity of mythic whiteness with a truer, more complex, more various identity—one that contains all of America's historical reality as it plays out in the life of the country with each new day.
 
-## ![](_page_17_Picture_3.jpeg)
 
 ## Runaway Slave Patrol Badge
 
@@ -135,9 +126,6 @@ Trump's election represents a great turning away from that question. Trump sold 
 
 ## **\*\*\***
 
-## ![](_page_19_Picture_4.jpeg)
-
-## ![](_page_20_Picture_2.jpeg)
 
 From the book [Beautiful Country Burn Again](https://www.harpercollins.com/9780062688842/beautiful-country-burn-again/) by Ben Fountain. Copyright © 2018 by Ben Fountain.
 

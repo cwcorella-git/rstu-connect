@@ -11,7 +11,7 @@ tags:
 
 ### April 2008
 
-[The Goal](#page-0-0) [Historical Strategies](#page-3-0) [Strategies, Explicit or Implied, of Contemporary Anarchist Currents](#page-4-0) [The Actual Practices Prevailing in the Present Day Anarchist Movement](#page-5-0) [The Way Forward](#page-6-0) [Notes](#page-6-1)
+The Goal Historical Strategies Strategies, Explicit or Implied, of Contemporary Anarchist Currents The Actual Practices Prevailing in the Present Day Anarchist Movement The Way Forward Notes
 
 This is the text of a talk given on March 8, 2008 for a workshop on Anarchist Revolutionary Strategy at the National Conference on Organized Resistance in Washington, D.C., and again at the Finding Our Roots anarchist conference in Chicago on April 20, 2008.
 

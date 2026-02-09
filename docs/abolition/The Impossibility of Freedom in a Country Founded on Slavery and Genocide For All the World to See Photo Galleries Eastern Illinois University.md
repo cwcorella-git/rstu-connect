@@ -10,7 +10,6 @@ tags:
 
 ## The Impossibility of Freedom in a Country Founded on Slavery and Genocide | For All the World to See: Photo Galleries
 
-2–3 minutes
 
 This talk will look at a sampling of Scott's art from the past 25 years. He works in a range of media including installation, photography, screen printing, video and performance. The works he will present will look at themes including:
 
@@ -49,7 +48,6 @@ Please first navigate to a specific Image before printing.
 
 -
 
-## ![](_page_3_Picture_4.jpeg)
 
 -
 

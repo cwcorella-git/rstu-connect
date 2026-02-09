@@ -11,7 +11,6 @@ tags:
 
 ## North Shore Counter-Info
 
-104–132 minutes
 
 **This text was recently published by The Tower In Print in Hamilton. It starts with an analysis of the different forms of that anti-feminism takes in far-Right politics to build towards the importance of developing a militant feminism when organizing against it. The second half looks at the role of women in three historic anti-fascist struggles and contrasts militancy with machismo to imagine movements capable of really fighting back that don't reproduce sexist, macho dynamics. The full text is below, as well as a link to an imposed pdf for printing.**
 

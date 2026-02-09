@@ -10,9 +10,6 @@ tags:
 
 ## [pcwrede.com](https://pcwrede.com/pcw-wp/first-novels-part-2-prewriting/)
 
-6–8 minutes
-
-## ![](_page_0_Picture_5.jpeg)
 
 ## Graphic by Peg Ihinger
 
@@ -44,6 +41,4 @@ Finally, "prewriting" is not the only time you spend making stuff up and/or rese
 
 On January 8, 2025 / [Writing](https://pcwrede.com/pcw-wp/category/writing/)
 
-## ![](_page_4_Picture_4.jpeg)
 
-## ![](_page_4_Picture_5.jpeg)

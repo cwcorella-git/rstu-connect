@@ -10,9 +10,6 @@ tags:
 
 ## ![](_page_0_Figure_0.jpeg)
 
-## ![](_page_1_Picture_0.jpeg)
-
-## ![](_page_2_Picture_0.jpeg)
 
 ## by Deborah Mathis and Hailey Grace Allen 2021
 
@@ -56,7 +53,6 @@ Resistance Terms |
 Resources on Civil Resistance |
 ## | 34 | Endnotes / Photo Credits |
 
-## ![](_page_6_Picture_0.jpeg)
 
 #### INTRODUCTION
 
@@ -72,7 +68,6 @@ This manual was written by ICNC's Director of Communications Deborah Mathis, a r
 
 We hope you find it useful.
 
-## ![](_page_8_Picture_3.jpeg)
 
 ## ![](_page_9_Figure_0.jpeg)
 
@@ -84,7 +79,6 @@ Large-scale, peaceful demonstrations are the most familiar acts of civil resista
 
 # Commission or Omission
 
-## ![](_page_10_Picture_4.jpeg)
 
 - **1. Acts of commission,** in which people do things they are not supposed to do, not expected to do, or are forbidden to do. Examples include:
  - Protest demonstrations
@@ -130,7 +124,6 @@ Crucially, such context also enables audiences to be less susceptible to the mis
 
 For example, the dramatic nonviolent occupation of Tahrir Square in Cairo, as well as mobilization in other cities across Egypt in early 2011, may have seemed primarily like a spontaneous eruption, as if thousands of long-wronged citizens just snapped. While there was an element of spontaneous participation in those events, other aspects
 
-## ![](_page_16_Picture_0.jpeg)
 
 of the public mobilization and broader pro-democracy movement were deliberately planned and the outgrowth of years of experience and skill-building among activists. Egyptian activists had staged a litany of civil resistance campaigns long before they took to the streets in such numbers. These earlier organizing efforts included the *Kefaya* ["Enough"] campaign that began in 2003, mobilizing against corruption, and the April 6 movement that began in 2008. Furthermore, activists had prepared for the demonstration against President Hosni Mubarak's government by studying civil resistance literature, sharing knowledge with activists in Tunisia — progenitors of the Arab Spring — and learning from others, such as former members of the Serbian *Otpor* ("Resistance") movement that toppled Serbian President Slobodan Milosevic in 2000. Egyptian activists even developed their own detailed organizing plan to build a mass demonstration in Tahrir Square and overcome the regime's extensive use of riot police.
 
@@ -160,7 +153,6 @@ Both instances required keen- and clear-eyed reporting to prevent a nonviolent c
 
 Getting to the bottom of this can be tricky, requiring the journalist to look beyond the act per se—e.g., "one of the demonstrators struck a police officer with a bottle"—and to re-tell an accurate sequence of events. It also raises the need to discern whether the perpetrator was truly supportive of the protesting group and, if so, whether he or she simply showed up to participate in the action or was part of a more committed planning group that had invested their time and energy in organizing the action. Why is that important? Because it is unfair to report that a group of 200 peaceful marchers "suddenly turned violent" based on the actions of a single violator who "went rogue," a small group of violators, or opportunists with their own agenda whom organizers did not know.
 
-## ![](_page_20_Picture_1.jpeg)
 
 ## ![](_page_21_Figure_0.jpeg)
 
@@ -226,29 +218,24 @@ Poor movement reporting situates the movement solely against the existing power 
 
 #### Black Lives Matter 2020
 
-## ![](_page_26_Picture_2.jpeg)
 
 #### Extinction Rebellion 2019
 
-## ![](_page_26_Picture_4.jpeg)
 
 ### Hirak Movement in Algeria
 
 ## 2019
 
-## ![](_page_26_Picture_7.jpeg)
 
 #### Armenia's Velvet Revolution
 
 ## 2018
 
-## ![](_page_26_Picture_10.jpeg)
 
 #### Dakota Access Pipeline
 
 ## 2016
 
-## ![](_page_26_Picture_13.jpeg)
 
 | EXCELLENT | AVERAGE | POOR |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -485,7 +472,6 @@ This database is a project of Swarthmore College and includes summaries of more 
 
 ## **Page 22:** IStock Photo by Leo Patrizi
 
-## ![](_page_42_Picture_0.jpeg)
 
 #### **CONTACT US**
 
@@ -495,7 +481,6 @@ Our staff experts, academic advisors, and colleagues in the field are among the 
 
 For information, interviews, and analysis, contact icnc@nonviolent-conflict.org.
 
-## ![](_page_42_Picture_5.jpeg)
 
 #### Also Available
 
@@ -505,8 +490,5 @@ A resource for study and translation of key terms, its primary goal is to help w
 
 www.nonviolent-conflict.org/resource/ glossary-of-civil-resistance/
 
-## ![](_page_43_Picture_0.jpeg)
-
-## ![](_page_43_Picture_1.jpeg)
 
 ## ![](_page_43_Figure_2.jpeg)

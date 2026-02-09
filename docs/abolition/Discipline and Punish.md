@@ -560,43 +560,33 @@ It may be that war as strategy is a continuation of politics. But it must not be
 
 'Discipline must be made national,' said Guibert. 'The state that I depict will have a simple, reliable, easily controlled administration. It will resemble those huge machines, which by quite uncomplicated means produce great effects; the strength of this state will spring from its own strength, its prosperity from its own prosperity. Time, which destroys all, will increase its power. It will disprove that vulgar prejudice by which we are made to imagine that empires are subjected to an imperious law of decline and ruin' (Guibert, xxiii–xxiv; cf. what Marx says about the army and forms of bourgeois society in his letter to Engels, 25 September 1857). The Napoleonic régime was not far off and with it the form of state that was to survive it and, we must not forget, the foundations of which were laid not only by jurists, but also by soldiers, not only councillors of state, but also junior officers, not only the men of the courts, but also the men of the camps. The Roman reference that accompanied this formation certainly bears with it this double index: citizens and legionaries, law and manoeuvres. While jurists or philosophers were seeking in the pact a primal model for the construction or reconstruction of the social body, the soldiers and with them the technicians of discipline were elaborating procedures for the individual and collective coercion of bodies.
 
-## ![](_page_110_Picture_3.jpeg)
 
 1. Medal commemorating Louis XIV's first military revue in 1668 (B. N. Cabinet des médailles). Cf. [p. ??.](https://theanarchistlibrary.org/library/michel-foucault-discipline-and-punishment.html#text-amuse-label-page1)
 
-## ![](_page_111_Picture_2.jpeg)
 
 2. Handwriting model (Collections historiques de I'I. N. R. D. P.). Cf. p. ??.
 
-## ![](_page_112_Picture_2.jpeg)
 
 3. J. Bentham. Plan of the Panopticon (The Works of Jeremy Bentham, ed. Bowring, vol. lV. 1843. 172–3). Cf. [p. ??.](https://theanarchistlibrary.org/library/michel-foucault-discipline-and-punishment.html#text-amuse-label-page3)
 
-## ![](_page_113_Picture_2.jpeg)
 
 4. N Harou-Romain. Plan for a penitentiary, 1840. A prisoner, in his cell, kneeling at prayer before the central inspection tower. Cf. [p. ??.](https://theanarchistlibrary.org/library/michel-foucault-discipline-and-punishment.html#text-amuse-label-page4)
 
-## ![](_page_114_Picture_2.jpeg)
 
 5. The Maison centrale at Rennes in 1877. Cf. [p. ??.](https://theanarchistlibrary.org/library/michel-foucault-discipline-and-punishment.html#text-amuse-label-page5)
 
-## ![](_page_114_Picture_4.jpeg)
 
 6. Interior of the penitentiary at Stateville, United States, twentieth century. Cf. [p. ??.](https://theanarchistlibrary.org/library/michel-foucault-discipline-and-punishment.html#text-amuse-label-page5)
 
-## ![](_page_115_Picture_2.jpeg)
 
 7. Bedtime at the reformatory of Mettray. Cf. $\underline{p.~??}$
 
-## ![](_page_116_Picture_2.jpeg)
 
 8. Lecture on the evils of alcoholism in the auditorium of Fresnes prison
 
-## ![](_page_117_Picture_2.jpeg)
 
 9. Steam machine for the 'celeriferous' correction of young boys and girls 'Fathers and Mothers. Uncles and Aunts, Guardian Masters and Mistresses of boarding schools and all those who have lazy, greedy, disobedient, rebellious, insolent, quarrelsome, tale-bearing, chattering, irreligious children, or children having any other defect, are hereby informed that Mr Bogeyman and Mrs Bricabrac have just set up in every mame of the city of Paris a machine similar to the one represented in this engraving and are ready to accept all naughty children in need of correction in their establishments each day, from midday to two o'clock Mr Werewolf, Coalman Scarecrow, Eat-without-Hunger and Mrs Wildcat, Spiteful Slag and Drink-without-Thirst, friends and relations of Mr Bogeyman and Mrs Bricabrac, will, for a small sum, set up similar machines to be sent into provincial towns and will themselves supervise their operation The cheapness of correction given by the steam machine and the surprising effects that it produces will persuade parents to avail themselves of it as often as the bad behaviour of their children will require it We also take incorrigible children as boarders, they are fed on bread and water' Engraving of the late eighteenth century (Collections historiques de I'I. N R. D P.).
 
-## ![](_page_118_Picture_2.jpeg)
 
 10. N Andry, L'orthopédie ou l'art de prévenir et de corriger dans les enfants les difformités du corps (Orthopaedics or the art of preventing and correcting deformities of the body in children). 1749.
 

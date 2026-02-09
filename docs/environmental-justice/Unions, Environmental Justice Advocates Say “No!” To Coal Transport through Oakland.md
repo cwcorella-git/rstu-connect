@@ -1,13 +1,12 @@
 ---
-title: >-
-author:
+title: "Unions and Environmental Justice Advocates Say No To Coal Transport through Oakland"
+author: "Emerald Cities Collaborative"
 date: 2015
-  Unions, Environmental Justice Advocates Say 'No!' To Coal Transport through
-  Oakland
-category: feminist-theory
+category: environmental-justice
 tags:
+  - labor
+  - climate
   - environment
-  - feminism
 ---
 
 ## **Unions, Environmental Justice Advocates Say "No!" To Coal Transport through Oakland**

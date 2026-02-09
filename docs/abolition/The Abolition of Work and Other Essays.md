@@ -511,7 +511,6 @@ You're entitled, after millenia of civilization, after centuries of industrialis
 
 #### LEVITY IS THE 4TH DIMENSION!
 
-## ![](_page_27_Picture_4.jpeg)
 
 the correct line
 
@@ -1442,7 +1441,6 @@ So how does it all cash out? Not, surely, in martial-arts mayhem. With gun owner
 
 If Loompanics readers are attuned to its wavelength as I receive it, they pursue liberty through privacy, more by avoidance than approach. The book Vonu: The Search for Personal Freedom may express the core Loompanics aspiration. The author, "Rayo," during the 1960's espoused rational selfseeking by the individual of as much invisibility to authority as he can reshape his life-style to arrange for. Ultimately this man took his logic, and he was rigorously logical, to a practical conclusion. He vanished in 1974. As his editor says, "his goal was always to become invisible to coercers (meaning mainly Government). He might have come to believe that this required that he become invisible to everyone." That's weird all right, does anybody have a less drastic workable plan how to be free? I don't, but the Loompanics Catalog has a few ideas.
 
-## ![](_page_80_Picture_2.jpeg)
 
 [](https://archive.org/details/Black The Abolition OfWork And Other Essays)
 

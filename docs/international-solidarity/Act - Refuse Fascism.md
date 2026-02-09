@@ -7,7 +7,6 @@ tags:
 
 ## [refusefascism.org](https://refusefascism.org/act/)
 
-6–8 minutes
 
 **NOW IS THE TIME WHEN WE MUST RISE UP AND ACT TO STOP THE CONSOLIDATION OF TRUMP MAGA FASCISM. For the lives of people here and around the world we must refuse unlawful and inhumane orders… we must fill the streets and town squares in rising numbers — not stopping until we become millions not relenting until this regime is no longer able to implement its program.**
 

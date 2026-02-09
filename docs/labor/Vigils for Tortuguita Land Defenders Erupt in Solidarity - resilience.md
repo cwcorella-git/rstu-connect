@@ -9,13 +9,9 @@ tags:
   - workers
 ---
 
-## ![](_page_0_Picture_4.jpeg)
 
 By [Alexandria Shaner,](https://www.resilience.org/resilience-author/alexandria-shaner/) originally published by [ZNet](https://znetwork.org/znetarticle/vigils-for-tortuguita-land-defenders-erupt-in-solidarity/) January 24, 2023
 
-## ![](_page_0_Picture_8.jpeg)
-
-## ![](_page_3_Picture_2.jpeg)
 
 international solidarity have come from as far as Germany, the UK, and Kurdistan. Tort's death has made it clear that there is no place left on Earth where people do not share the pain and rage of ecocide and murder carried out on behalf of corporate and state powers.
 
@@ -29,15 +25,6 @@ May be an image of text that says 'ATLANTA POLICE MURDERED WEELAUNEE FOREST **DE
 
 ## ಸ
 
-## ![](_page_15_Picture_3.jpeg)
-
-## ![](_page_15_Picture_4.jpeg)
-
-## ![](_page_18_Picture_5.jpeg)
-
-## ![](_page_20_Picture_4.jpeg)
-
-## ![](_page_21_Picture_2.jpeg)
 
 ## Oscar Leon Sanchez
 
@@ -63,22 +50,15 @@ Reach out to Weelaunee Forest Defenders or Community Movement Builders in Atlant
 
 Watch this 2022 Al Jazeera special to learn more about The Battle Over Cop City:
 
-## ![](_page_23_Picture_14.jpeg)
 
 Teaser photo credit: Released into the publi domain.
 
-## ![](_page_24_Picture_6.jpeg)
-## ![](_page_25_Picture_2.jpeg)
 
 By [Kurt Cobb,](https://www.resilience.org/resilience-author/kurt-cobb/) [Resource Insights](http://resourceinsights.blogspot.com/2024/03/why-dont-humans-respond-to-extinction.html)
 
-## ![](_page_25_Picture_5.jpeg)
 
 By [Osprey Orielle Lake,](https://www.resilience.org/resilience-author/osprey-orielle-lake/) Resilience.org
 
-## ![](_page_25_Picture_7.jpeg)
-
-## ![](_page_26_Picture_2.jpeg)
 
 By [Phil Wilson,](https://www.resilience.org/resilience-author/phil-wilson/) Resilience.org
 

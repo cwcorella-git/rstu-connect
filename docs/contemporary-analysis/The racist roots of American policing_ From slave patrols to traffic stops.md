@@ -8,7 +8,6 @@ tags:
 
 ## Connie Hassett-Walker
 
-7–9 minutes
 
 This article was updated on [June 2, 2020](https://theconversation.com/george-floyds-death-reflects-the-racist-roots-of-american-policing-139805).
 

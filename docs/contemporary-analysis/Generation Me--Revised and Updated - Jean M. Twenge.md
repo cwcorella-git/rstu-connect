@@ -17,7 +17,6 @@ author of What Really
 
 ## With a New Chapter on the Workplace
 
-## ![](_page_0_Picture_3.jpeg)
 
 ## REVISED AND UPDATED
 
@@ -111,7 +110,6 @@ or visit us online to sign up at [e Book News. Simonand Schuster.com](http://ebo
 
 ## Index
 
-## ![](_page_7_Picture_0.jpeg)
 
 ## Preface to the Revised Edition
 
@@ -265,13 +263,9 @@ Now that's all but forgotten. Except in the most formal of workplaces, few men w
 
 2005, when about half the members of the Northwestern University women's lacrosse team wore flip-flops during their White House visit, resulting in a picture of the president of the United States standing next to several young women wearing shoes that were once reserved for walking on sand or showering in scuzzy gymnasiums. Although most people still want to look good, we are a much more informal and accepting society than we once were. This is a perfect illustration of generational trends in attitudes, as the entire point in dressing up is to make a good impression on others and elicit their approval. You don't dress to be relaxed, natural, and happy.
 
-## ![](_page_31_Picture_1.jpeg)
 
 Holiday card, Minnesota, 1955. Not only are the clothes formal, but so is the posing and demeanor. e perfect family was proper and composed.
 
-## ![](_page_32_Picture_0.jpeg)
-
-## ![](_page_32_Picture_1.jpeg)
 
 Holiday card, Massachusetts, mid-2000s. Formal clothing is no longer necessary to make a good impression. It is now more important to dress for yourself or for your comfort; if you really wanted to do things "your way" and just for yourself, you'd wear jeans to work. Many of us already do.
 
@@ -389,7 +383,6 @@ Many young people I've talked to mention interracial dating as the biggest diffe
 
 When we marry our other-race, other-religion, and possibly same-sex partners, we don't follow all of the wedding rules of previous generations. In the mid-1960s, Brides magazine insisted that "the only correct colors" for wedding invitations "are white, ivory, or cream, with absolutely no decorations such as borders, flower sprays, and so on." In other words, your invitation had to look just like everyone else's. Now people use wedding invitations in every possible theme and color—and wording. When my parents lived near Dallas, they received a wedding invitation with a picture of a cowboy and cowgirl inviting guests to "c'mon over for a big weddin' todo." The reply-card choices were "Yes, we'll be there with our boots on" and "Shucks, we can't make it."
 
-## ![](_page_48_Picture_0.jpeg)
 
 Weddings, once governed by strict conventions for dress and behavior, now have few rules. It's your wedding, so you can wear shorts or a bikini if you want to.
 
@@ -620,13 +613,11 @@ The Boomers who now filled the ranks of parents apparently decided that children
 
 Magazines, television talk shows, and books all emphasize the importance of high self-esteem for children, usually promoting feelings that are a lot closer to narcissism (a more negative trait usually defined as an inflated sense of self). One children's book, first published in 1991, is called The Lovables in the Kingdom of Self-Esteem. "I AM LOVABLE. Hi, lovable friend! My name is Mona Monkey. I live in the Kingdom of Self-Esteem along with my friends the Lovable Team," the book begins. On the next page, children learn that the gates of the kingdom will swing open if you "say these words three times with pride: I'm lovable! I'm lovable! I'm lovable!"
 
-## ![](_page_74_Picture_1.jpeg)
 
 Parents are encouraged to raise their children's self-esteem even when kids are simply coloring. Even the cat has high self-esteem on this coloring book cover. However, the dog lacks a self-esteem-boosting ribbon. He probably has low self-esteem—aer all, he drinks out of the toilet.
 
 Another example is the BE A WINNER Self-Esteem Coloring and Activity Book pictured in this chapter. Inside, children find activities and pictures designed to boost their self-esteem, including coloring a "poster for your room" that reads YOU ARE SPECIAL in yellow, orange, and red letters against a purple background. Another page asks kids to fill in the blanks: "Accept y\_ur\_e\_f. You're a special person. Use p\_si\_iv\_ thinking." A similar coloring book is called We Are All Special (though this title seems to suggest that being special isn't so special).
 
-## ![](_page_75_Picture_1.jpeg)
 
 Remember, everyone is special. Maybe if you color the whole poster you can catch the irony. Many school districts across the country have specific programs designed to increase children's self-esteem, most of which seem to promote selfimportance and narcissism. One program is called "Self-Science: The Subject Is Me." (Why bother with biology? I'm so much more interesting!) Another program, called "Pumsy in Pursuit of Excellence," uses a dragon character to encourage children to escape the Mud Mind they experience when feeling bad about themselves. Instead, they should strive to be in the Sparkle Mind and feel good about themselves. The Magic Circle exercise designates one child a day to receive a badge saying I'M GREAT. The other children then say good things about the chosen child, who later receives a written list of all of the praise. At the end of the exercise, the child must then say something good about him- or herself. Boomer children in the 1950s and 1960s gained self-esteem naturally from a stable, child-friendly society; Gen Me's self-esteem has been actively cultivated for its own sake.
 
@@ -646,7 +637,6 @@ Teacher training courses often emphasize that a child's self-esteem must be pres
 
 Although the self-esteem approach sounds as if it might be especially popular in liberal blue-state areas, it's common in red states as well, perhaps because it's similar to the ideas popularized by fundamentalist Christian churches. For example, the popular Christian children's book You Are Special promotes the same unconditional self-esteem emphasized in secular school programs. First published in 1997, the book notes, "The world tells kids, 'You're special if . . . you have the brains, the looks, the talent.' God tells them, 'You're special just because. No qualifications necessary.' Every child you know needs to hear this one, reassuring truth." Traditional religion, however, did have "qualifications" and rules for behavior. Adults hear this message of self-esteem as well. In an article in Ladies' Home Journal, Christian author Rick Warren writes, "You can believe what others say about you, or you can believe in yourself as does God, who says you are truly acceptable, lovable, valuable, and capable."
 
-## ![](_page_79_Picture_1.jpeg)
 
 Calvin knows exactly why the notion of unconditional self-esteem is so popular: it feels good and requires little work.
 
@@ -684,7 +674,6 @@ There has also been a movement against "criticizing" children too much. Some sch
 
 The emphasis on positive feedback to students has had another widespread effect: grade inflation. The number of "A students" has nearly doubled. Only 19% of high school graduates boasted an A average in 1976, compared to 37% of 2012 graduates. This wasn't due to improved performance, as standardized-test scores were unchanged or down. It also wasn't due to increased study time—21% of 2012 high school seniors said they studied 10 or more hours a week, compared to 23% in 1976. Entering college students show the same trend: 50% graduated high school with an A average, compared to only 19% in 1966. "Each year we think [the number with an A average] can't inflate any more. And then it does again. The C grade is almost a thing of the past," noted Alexander Astin, the former head of the American Freshman study. College students report studying for fewer hours in recent years: only 38% of American college freshmen in 2012 reported studying six or more hours a week during their last year of high school, compared to 47% in 1987. So why are they still getting better grades? "Teachers want to raise the self-esteem and feel-good attitudes of students," explains Howard Everson of the College Board. We have become a Lake Wobegon nation: all of our children are above average.
 
-## ![](_page_84_Picture_0.jpeg)
 
 Many Generation Me students would instead believe that their substandard work deserved an A. Trudeau's comment on grade inflation in the service of self-esteem mirrors the views of many psychologists and education experts critical of the self-esteem movement.
 
@@ -870,7 +859,6 @@ Young people also expect to make a lot of money. In a 2011 survey, 16 to-18-year
 
 Expectations for advancement and promotion are also high. One young employee told a startled manager that he expected to be a vice president at the company within three years. When the manager told him this was not realistic (most vice presidents were in their sixties), the young man got angry with him and said, "You should encourage me and help me fulfill my expectations."
 
-## ![](_page_110_Picture_0.jpeg)
 
 No wonder kids have such big dreams—even cheese is supposed to make them sports stars. e ad might be more accurate if the kid were standing on a hypodermic needle filled with steroids.
 
@@ -956,7 +944,6 @@ Generation Me has always been taught that their thoughts and feelings are import
 
 Like self-esteem, self-focus and individuality have been actively promoted in schools. When I was in sixth grade in Irving, Texas, our fall assignment in Reading was the project "All About Me." We finished sentences like "I feel angry when . . ." and "Something special I want you to know about me is . . ." We were also asked to include pictures of ourselves. Many of my classmates spent hours on this project, mulling over their answers and making elaborate albums with their best photographic self-portraits. In effect, we were graded on how well we could present our opinions and images of ourselves. Later that year, our assignment was to make a personal "coat of arms" that illustrated our interests and hobbies. In the past, a coat of arms was the symbol of an entire extended family, so an individual coat of arms—particularly one created by an 11-year-old—is an interesting cultural construct.
 
-## ![](_page_121_Picture_1.jpeg)
 
 A page from my "All About Me" project in sixth-grade Reading class, fetchingly illustrated with cutouts from magazine ads. e project promoted the idea that thinking about yourself is important—apparently more important than reading and writing, given the uncorrected spelling mistake.
 
@@ -1016,7 +1003,6 @@ More and more people every year get nose jobs, breast implants, face-lifts, and 
 
 We have come to equate looking good with feeling good, and to say that we should do whatever makes us feel good or makes us happy. FOX's controversial show The Swan justified the expensive, painful surgeries of its contestants by claiming that the women now felt better about themselves. MTV has a show called I Want a Famous Face, in which young people undergo plastic surgery so they can look like their favorite celebrity. Crystal, 23, underwent a breast enlargement and liposuction, ostensibly to resemble actress Brooke Burke. Immediately after the surgery, Crystal was in so much pain she said, "I just want to die right now." A few months later, however, she's confident that her surgically enlarged breasts will help her reach her goal of becoming a bikini model. She says that the surgery "definitely built up my self-esteem." Her boyfriend, who thought she looked great before, says he's fine with it as long as "you're happy with yourself."
 
-## ![](_page_130_Picture_0.jpeg)
 
 An ad clearly aimed at Generation Me: the product is "unique," "individual," and "yours alone." Plus, it makes you look hot.
 
@@ -1196,11 +1182,9 @@ Some people have asked me if young people's complaining about the cost of housin
 
 Another counterargument: some have pointed out that homes are larger now on average than they were in the 1950s and 1960s. However, this has been driven by Mc Mansions at the high end of the market, not the ridiculously expensive—and often small—houses Gen Me is buying. Even though houses are larger on average, even one-bedroom condos and apartments are out of reach for many people in many cities.
 
-## ![](_page_156_Picture_0.jpeg)
 
 A tale of two housing markets. A young couple poses outside their newly purchased house in Minneapolis, Minnesota, about 1,450 square feet and built in the 1930s. Price tag: \$300,000.
 
-## ![](_page_157_Picture_0.jpeg)
 
 A housing development in San Diego, California. Despite their proximity, each of these three houses of 1,300 to 1,700 square feet is worth at least \$400,000.
 
@@ -1357,7 +1341,6 @@ Another reason young people are disengaged is that they don't pay much attention
 
 As a result, young people know little about news and politics. David Mindich, author of *Tuned Out: Why Americans Under 40 Don't Follow the News*, found that 60% of American young people could not name a single Supreme Court justice, 48% did not know what *Roe v. Wade* was, and 62% could not name any of the three countries President George W. Bush had identified as the "axis of evil" (Iraq, Iran, and North Korea). In another poll, high school seniors were asked to say, in their opinion, the most important problem facing the country. One in three could not name a single issue. Christian Smith's survey of 18-to-23-year-olds yielded similar results in 2008, with most young adults unable to name a political issue they cared about.
 
-## ![](_page_179_Picture_0.jpeg)
 
 Rock the Vote and MTV's Choose or Lose spend a great deal of money and time encouraging voter registration among young people. Despite these efforts, even the 2008 youth voter turnout that got so much attention was lower than young Boomers' turnout in 1972 and GenX's in 1992.
 
@@ -1577,7 +1560,6 @@ One study examined the sexual geography of a small-town high school in the Midwe
 
 The spread of STDs may be exacerbated by young people's seeing sex portrayed on television without any reference to safe-sex practices. A Kaiser Family Foundation study found that 75% of TV shows contain sexual content, but only 15% of those mention safe sex. Movies are similar —sexual encounters rarely feature condoms. Presumably, this is because sex sells but protection doesn't. When watching TV, says college freshman Joyce Bryn, "No one wants to see anyone say, 'Hold on, let me put on a condom.' "
 
-## ![](_page_206_Picture_1.jpeg)
 
 e sexual life of Gen Me has always included AIDS. With the new prevalence of hookups, condoms are pretty close to becoming the fashion statement this Trojan ad suggests they are.
 
@@ -1729,7 +1711,6 @@ Perhaps because the masculine scale isn't so masculine anymore, these questionna
 
 Much of this change is probably due to upbringing. Gen Me girls have seen their mothers work outside the home more than any previous generation. Studies have found that girls with working mothers are more likely to embrace traditionally masculine traits such as ambition and independence. Seeing Mom go off to work provides a daily role model for girls, showing them that women have roles outside the home. Many Gen Me women—and men—take it for granted that mothers will work at least part of the time.
 
-## ![](_page_225_Picture_0.jpeg)
 
 It's now cool for girls to play sports . . . although this ad suggests you still need to worry about how you smell while doing it.
 
@@ -2282,13 +2263,11 @@ I have read enough acknowledgments sections to know that you save the best for l
 
 To Kate, Elizabeth, and Julia, I love you. Thanks for your smiles and hugs that make it all worthwhile. Finally, to my husband, Craig, for tolerating my hours of (over)work and (over)stress, but mostly for making me the luckiest woman in the world.
 
-![](_page_300_Picture_0.jpeg)
 
 ## **AUTHOR PHOTO BY PAM DAVIS**
 
 JEAN M. TWENGE is a professor of psychology at San Diego State University and the author of more than 100 scientific-journal articles and book chapters and the books The Impatient Woman's Guide to Getting Pregnant and The Narcissism Epidemic (with W. Keith Campbell). Accounts of her research have appeared in the New York Times, USA Today, the Wall Street Journal, Time, and Newsweek, and she has appeared on the Today show, Good Morning America, CBS This Morning, and Dateline NBC. She received a BA and an MA from the University of Chicago in 1993 and a PhD in personality psychology from the University of Michigan, Ann Arbor, in 1998. After living in Texas, Chicago, Michigan, Minnesota (twice), and Cleveland, she is happy to be settled with her husband and three daughters in beautiful San Diego, California. When not slaving over a hot computer writing something, she can usually be found swimming, reading, sitting in the sun, or reading and sitting in the sun—though usually not swimming while reading and sitting in the sun.
 
-## ![](_page_301_Picture_0.jpeg)
 
 ### MEET THE AUTHORS, WATCH VIDEOS AND MORE AT [Simonand Schuster.com](http://simonandschuster.com/)
 
@@ -2296,7 +2275,6 @@ JEAN M. TWENGE is a professor of psychology at San Diego State University and th
 
 ## ![](_page_301_Figure_3.jpeg)
 
-## ![](_page_301_Picture_4.jpeg)
 
 #### ALSO BY JEAN M. TWENGE
 
@@ -4250,7 +4228,6 @@ Zappos, 271
 Zhang, Liqing, 183
 Zoloft, 143, 144
 Zucker, Bonnie, 128
-## ![](_page_362_Picture_0.jpeg)
 
 A Division of Simon & Schuster, Inc. 1230 Avenue of the Americas New York, NY 10020 [www. Simonand Schuster.com](http://www.simonandschuster.com/)
 

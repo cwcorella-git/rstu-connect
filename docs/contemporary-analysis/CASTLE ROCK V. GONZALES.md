@@ -11,7 +11,6 @@ tags:
 
 ## Scalia
 
-37–47 minutes
 
 ### 1. [LII](https://www.law.cornell.edu/)
 

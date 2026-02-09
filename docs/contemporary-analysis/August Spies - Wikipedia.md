@@ -9,7 +9,6 @@ tags:
   - wikipedia
 ---
 
-## ![](_page_0_Picture_2.jpeg)
 
 **August Vincent Theodore Spies** [\(/spi](https://en.wikipedia.org/wiki/Help:IPA/English)[ː](https://en.wikipedia.org/wiki/Help:IPA/English)[s/,](https://en.wikipedia.org/wiki/Help:IPA/English) *[SPEES](https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key)*; December 10, 1855 – November 11, 1887) was an American [upholsterer,](https://en.wikipedia.org/wiki/Upholstery) radical [labor activist,](https://en.wikipedia.org/wiki/Union_organizer) and [newspaper editor.](https://en.wikipedia.org/wiki/Newspaper_editor) An [anarchist,](https://en.wikipedia.org/wiki/Anarchism) Spies was found guilty of [conspiracy](https://en.wikipedia.org/wiki/Criminal_conspiracy) to commit murder following a bomb attack on police in an event remembered as the [Haymarket a](https://en.wikipedia.org/wiki/Haymarket_affair)ffair. Spies was one of four who were executed in the aftermath of this event.
 
@@ -25,7 +24,6 @@ Spies settled in [Chicago,](https://en.wikipedia.org/wiki/Chicago) where he beca
 
 ### **August Spies**
 
-## ![](_page_0_Picture_11.jpeg)
 
 Spies' appearance at the time of his conviction in 1886
 
@@ -77,11 +75,9 @@ Spies was put on trial for conspiracy in the murder of Officer Mathias Degan wit
 
 [Albert Parsons](https://en.wikipedia.org/wiki/Albert_Parsons) would later turn himself in and all eight defendants were tried as a group. Spies would maintain his innocence and, despite the costly courtroom mistake, showed solidarity with his comrades through the trial, appeals, and at the gallows. Spies was one of three defendants, along with Lingg and
 
-## ![](_page_2_Picture_2.jpeg)
 
 Frontis illustration from Spies' autobiography, published by his wife.
 
-## ![](_page_2_Picture_4.jpeg)
 
 Original reference photograph by Levin & Maul's Studio (1886-1887), c. 1886 (reissue by J. Maul, between 1887 and 1895).
 
@@ -101,13 +97,9 @@ At his sentencing, Spies denounced the police and prosecution witnesses. "There 
 
 Spies also charged that one witness, Gustav Legner, could prove his [alibi](https://en.wikipedia.org/wiki/Alibi) but was threatened by police and paid to leave Chicago. Legner sued the *Arbeiter-Zeitung* for libel for repeating Spies' claim of [bribery,](https://en.wikipedia.org/wiki/Bribery) denying he was told to leave town. Legner said he asked Spies
 
-## ![](_page_3_Picture_6.jpeg)
 
 The last photograph of August Spies at his prison cell in County Jail on May 3, 1887 (photographer: John Joergen Kanberg).
 
-## ![](_page_3_Picture_8.jpeg)
-
-## ![](_page_3_Picture_9.jpeg)
 
 His wife [by proxy,](https://en.wikipedia.org/wiki/Proxy_marriage) Nina Van Zandt, c. 1887 (photographs: Charles Delevan Mosher). The photograph of the right bears an inscription: "To Mr. [Jos. A. Labadie,](https://en.wikipedia.org/wiki/Jo_Labadie) with complements of Nina van Z.-Spies", on the back of the photograph Labadie noted that "[t]his picture was given me by her in 1887, before the death of Spies, on the occasion of dining with her and her father at their home in Chicago."
 
@@ -133,7 +125,6 @@ May 1 was selected to celebrate [International Workers' Day](https://en.wikipedi
 
 ▪ [August Spies in the 1880 Census](https://en.wikipedia.org/wiki/File:1880_census_Spies.gif)
 
-## ![](_page_4_Picture_12.jpeg)
 
 Spies' final words are engraved on the [Haymarket Martyrs' Monument](https://en.wikipedia.org/wiki/Haymarket_Martyrs%27_Monument), the Forest Park, Illinois, gravesite of the executed defendants.
 

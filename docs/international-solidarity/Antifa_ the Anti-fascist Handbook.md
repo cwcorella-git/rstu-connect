@@ -488,7 +488,6 @@ Garufi felt this personally on March 16, 2003, in Milan when two fascist brother
 
 As a boy, Garufi and his communist father always participated in the local partisan tour on the April 25, Italy's Liberation Day commemorating the end of the war. Every year the group laid wreaths of flowers at plaques commemorating the resistance. After Dax's death, the official partisan organization ANPI (Associazione Nazionale Partigiani d'Italia) agreed to his comrades' request to include him among their martyrs. Now anti-fascists of all generations leave flowers at the site of his death every April 25th. As the anti-fascist graffiti says, "Dax vive!"[\[210\]](#page-145-18)
 
-![](_page_45_Picture_4.jpeg)
 
 Mural for fallen antifa Dax in Milan by Wolks Writerz.
 
@@ -694,7 +693,6 @@ Yet, it was the uprising of 2008 that put the movement on the international map 
 
 Despite Greece's active and vibrant radical politics, the ascent of Golden Dawn took many off-guard. When I spent time in Greece in 2012, months after fascists entered parliament, nearly every conversation I had with local anarchists included comments along the lines of, "We had no idea this would happen. They were a complete joke before."[\[281\]](#page-149-7)
 
-## ![](_page_65_Picture_2.jpeg)
 
 Mural for slain antifa rapper Pavlos Fyssas (Killah P) in Athens. [photo by author]
 
@@ -1066,7 +1064,6 @@ The fact that the lifespans of most antifa groups are determined by the activiti
 
 The liberal alternative to militant anti-fascism is to have faith in the power of rational discourse, the police, and the institutions of government to prevent the ascension of a fascist regime. As we have established, this formula has failed on several notable occasions. Given the documented shortcomings of "liberal anti-fascism" and the failure of the allied strategy of appeasement leading up to World War II, a more convincing argument can be made that allowing fascism to develop and expand runs the documented risk of sliding into "totalitarianism." If we don't stop them when they are small, do we stop them when they are medium-sized? If not when they are medium-sized, then when they are large? When they're in government? Do we need to wait until the swastikas are unfurled from government buildings before we defend ourselves?
 
-## ![](_page_99_Picture_2.jpeg)
 
 Banner at Madrid anti-fascist march against Hogar Social in May 2017.
 
@@ -1178,7 +1175,6 @@ Liberal pundits fail to fully grasp the importance of movement infrastructure be
 
 In the course of my interviews and research, I found a litany of cases where combinations of physical confrontations, doxxing, infiltration, and other antifascist tactics have succeeded in shutting down or severely hampering local and national fascist organizing. While it's important to remember that history is never mono-causal, that anti-fascists may at times inflate their role in eliminating certain far-right groups, and that there are also examples of antifascists failing to shut down fascist activity, the relatively small sampling I gathered of successful campaigns shows that antifa methods very often work, and work well. In the 1940s, the British 43 Group succeeded in shutting down Mosley's Union Movement. The massive Anti-Nazi League played a huge role in derailing the National Front in the U. K. in the late seventies and early eighties. Anti-fascist punks and skins across North America and Europe recounted how they overwhelmingly pushed Nazi skins out of their scene. Literally thousands of white-power shows have been canceled. Most of those that have occurred have been carried out clandestinely. Norwegian antifa successfully abolished their fascist movement in the 1990s. ARA played an important role in sabotaging the National Front and the World Church of the Creator by the early 2000s. Annual Nazi marches in Dresden, Roskilde, and Salem were eventually shut down, causing many of the groups behind them to fracture. Street confrontations stifled Denmark's National Front, and doxxing broke the Danish Front. AFA shut down the British National Party in Lancashire through successful repeated physical confrontations. SCALP Besançon shut down two different local groups of Bloc Identitaire, and then the spotlight they shone on the Front Comtois, its successor formation, led the authorities to ban the group. Even when Dutch anti-fascists were badly beaten back by fascists from the Nationalistische Volks Beweging (NVB) on one occasion in 2007, the police intervened and arrested the fascists on weapons charges, which caused the group to turn in on itself and subsequently collapse.[\[399\]](#page-154-11)
 
-## ![](_page_109_Picture_2.jpeg)
 
 ## Madrid antifa demo May 1, 2013. [photo by author]
 
@@ -1320,7 +1316,6 @@ In Spain, too, similar organizational models have been put into practice. In res
 
 For Daniel, a Carabanchel anti-fascist organizer, the open, popular struggle of Madrid para todas and the more militant direct actions of smaller securityculture-oriented antifa
 
-## ![](_page_123_Picture_2.jpeg)
 
 Madrid para todas poster, 2016. "Against fascism and all forms of discrimination." [madrid para todas]
 

@@ -1,14 +1,12 @@
 ---
-title: >-
-author:
+title: "The Struggle Against the State and Other Essays"
+author: "Nestor Makhno"
 date: 1931
-  Chapter 2. On the 10th Anniversary of the Makhnovist Insurgent Movement in the
-  Ukraine
-category: technology-digital-justice
+category: theory
 tags:
+  - anarchism
   - Ukraine
-  - technology
-  - digital rights
+  - revolution
 ---
 
 ## **The Struggle Against the State and Other Essays**
@@ -779,7 +777,6 @@ In the context of this bibliographical update, let us note the oral testimony of
 
 #### The Anarchist Library Anti-Copyright
 
-## ![](_page_67_Picture_1.jpeg)
 
 #### Nestor Makhno The Struggle Against the State and Other Essays
 

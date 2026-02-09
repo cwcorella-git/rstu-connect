@@ -27,7 +27,6 @@ Led by the Boynton family (Amelia, Sam, and son Bruce), Rev. L. L. Anderson, J. 
 
 ## Part of the civil rights movement
 
-## ![](_page_1_Picture_9.jpeg)
 
 Alabama Highway Patrol troopers attack civil rights demonstrators outside Selma,
 
@@ -211,7 +210,6 @@ Americans of all religious faiths, of all political persuasions, and from every 
 
 ## Second march: "Turnaround Tuesday"
 
-## ![](_page_14_Picture_2.jpeg)
 
 Police watch marchers turn around on Tuesday, March 9, 1965.
 
@@ -243,7 +241,6 @@ Dr. King's credibility in the movement was shaken by the secret turnaround agree
 
 #### James Reeb's memorial service
 
-## ![](_page_16_Picture_5.jpeg)
 
 ## Monument for James Reeb in Selma, Alabama
 
@@ -275,7 +272,6 @@ On March 15, the president convened a joint session of Congress, outlined his ne
 
 # March to Montgomery
 
-## ![](_page_19_Picture_4.jpeg)
 
 The third Selma Civil Rights March frontline. From far left: [John Lewis,](https://en.m.wikipedia.org/wiki/John_Lewis) an unidentified nun, [Ralph Abernathy,](https://en.m.wikipedia.org/wiki/Ralph_Abernathy) [Martin Luther King Jr.,](https://en.m.wikipedia.org/wiki/Martin_Luther_King_Jr.) [Ralph Bunche,](https://en.m.wikipedia.org/wiki/Ralph_Bunche) [Rabbi Abraham Joshua Heschel](https://en.m.wikipedia.org/wiki/Abraham_Joshua_Heschel), [Frederick Douglas Reese.](https://en.m.wikipedia.org/wiki/Frederick_Douglas_Reese) Second row: [Joseph Ellwanger](https://en.m.wikipedia.org/wiki/Joseph_Ellwanger) is standing behind the nun; between King and Bunche is [Rabbi Maurice Davis.](https://en.m.wikipedia.org/wiki/Maurice_Davis_(rabbi)) Heschel later wrote, "When I marched in Selma, my feet were praying."
 
@@ -323,15 +319,12 @@ The company called a meeting of the corporate leadership, SCLC's C. T. Vivian, a
 
 # Aftermath and historical impact
 
-## ![](_page_24_Picture_2.jpeg)
 
 [Selma to Montgomery](https://en.m.wikipedia.org/wiki/Selma_to_Montgomery_National_Historic_Trail) [National Historic Trail](https://en.m.wikipedia.org/wiki/Selma_to_Montgomery_National_Historic_Trail) sign
 
-## ![](_page_24_Picture_4.jpeg)
 
 President Barack Obama's [speech](https://en.m.wikipedia.org/wiki/Barack_Obama_Selma_50th_anniversary_speech) [marking the 50th anniversary](https://en.m.wikipedia.org/wiki/Barack_Obama_Selma_50th_anniversary_speech) of the Selma to Montgomery marches
 
-## ![](_page_24_Picture_6.jpeg)
 
 Memorial at Edmund Pettus Bridge in Selma, Alabama
 
@@ -406,7 +399,6 @@ The work in Montgomery is related to a larger multi-agency effort since 2009 bet
 - [Silent Sentinels,](https://en.m.wikipedia.org/wiki/Silent_Sentinels) 1917 to 1919 protest in Washington, D. C.
 - [James "Spider" Martin](https://en.m.wikipedia.org/wiki/Spider_Martin) ("Bloody Sunday" photographer)
 
-## ![](_page_30_Picture_14.jpeg)
 
 - Suff[rage Hikes,](https://en.m.wikipedia.org/wiki/Suffrage_Hikes) 1912 to 1914 in the US
 - Woman Suff[rage Procession,](https://en.m.wikipedia.org/wiki/Woman_Suffrage_Procession) 1913 suffrage march in Washington, D. C.
@@ -598,7 +590,6 @@ The work in Montgomery is related to a larger multi-agency effort since 2009 bet
 - ["National Voting Rights Museum and Institute" \(http://nvrmi.com/\)](http://nvrmi.com/) . [Selma, Alabama.](https://en.m.wikipedia.org/wiki/Selma,_Alabama)
 - Hartford, Bruce. ["Selma, Lord, Selma: The Voting Rights Campaign" \(http://www.crmvet.or](http://www.crmvet.org/images/imgselma.htm) [g/images/imgselma.htm\)](http://www.crmvet.org/images/imgselma.htm) . Civil Rights Movement Archive.
 
-## ![](_page_43_Picture_4.jpeg)
 
 - Hartford, Bruce. ["The March to Montgomery" \(http://www.crmvet.org/images/imgmont.htm\)](http://www.crmvet.org/images/imgmont.htm) . Civil Rights Movement Archive.
 - Hartford, Bruce (2004). ["Selma & the March to Montgomery: A Discussion: November–June, 2004–2005" \(http://www.crmvet.or](http://www.crmvet.org/disc/selma.htm) [g/disc/selma.htm\)](http://www.crmvet.org/disc/selma.htm) . Civil Rights Movement Archive. Tougaloo College.

@@ -14,7 +14,6 @@ tags:
 
 # **[News](https://www.theguardian.com/) [Opinion](https://www.theguardian.com/commentisfree) [Sport](https://www.theguardian.com/sport) [Culture](https://www.theguardian.com/culture) [Lifestyle](https://www.theguardian.com/lifeandstyle)**
 
-## ![](_page_0_Picture_5.jpeg)
 
 # **[Opinion](https://www.theguardian.com/commentisfree/commentisfree)**
 
@@ -24,7 +23,6 @@ The university's draconian policies and new definition of antisemitism make much
 
 ## Fri 1 Aug 2025 06.00 EDT
 
-## ![](_page_0_Picture_10.jpeg)
 
 ### Dear Acting President Shipman,
 

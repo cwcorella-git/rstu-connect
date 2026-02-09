@@ -8,11 +8,9 @@ tags:
 
 ## Samuel Cudby
 
-7-9 minutes
 
 Once upon a time you simply went out and bought wood, wherever it came from and however it was harvested. These days preserving the planet's trees, woodlands and forests are an imperative essential for the future survival of the human race and something we absolutely have to get a grip on. As a result, buying wood has become quite a complex matter. While you're at it, don't forget about our range of [eco-friendly](https://www.wood-finishes-direct.com/) finishes.
 
-## ![](_page_0_Picture_7.jpeg)
 
 ## Pine trees, an abundance in Canada
 

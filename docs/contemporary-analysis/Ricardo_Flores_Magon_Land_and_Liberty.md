@@ -777,7 +777,6 @@ Thinking of you, of the selfish woman who is not capable of sacrificing herself 
 
 #### Library. Anarhija. Net
 
-## ![](_page_32_Picture_1.jpeg)
 
 ## Ricardo Flores Magón Land and Liberty 1916
 

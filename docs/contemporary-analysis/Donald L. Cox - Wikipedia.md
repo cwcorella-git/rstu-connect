@@ -13,7 +13,6 @@ tags:
 
 ## Contributors to Wikimedia projects
 
-9–11 minutes
 
 ## From Wikipedia, the free encyclopedia
 
@@ -21,7 +20,6 @@ This article is about the 1960s Black Panther Party leader. For other people wit
 
 ## **Donald Lee Cox**
 
-## ![](_page_0_Picture_9.jpeg)
 
 Cox (upper right) appearing on the cover of Newsweek on February 23, 1970. [Elbert "Big Man" Howard](https://en.wikipedia.org/wiki/Elbert_Howard) occupies the lower right.
 

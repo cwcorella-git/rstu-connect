@@ -11,7 +11,6 @@ tags:
 
 ## SASKIA SASSEN
 
-## ![](_page_0_Picture_3.jpeg)
 
 # Brutality and Complexity in the Global Economy
 
@@ -1748,7 +1747,6 @@ Larger countries experience climate change through a range of patterns. In the c
 
 The con uence of major ocean currents at ve points around the globe creates massive whirl pools, or gyres. These are the North Atlantic Gyre, South Atlantic Gyre, North Paci c Gyre, South Paci c Gyre, and Indian Ocean Gyre (see Figure 4.3). The efuvium of the ocean collects in these gyres like debris circling around a drain: anything oating at sea long enough will eventually come to one of these ve collection points. These gyres are central nodes in the vast networks of ocean currents, long known to merchants and sailors. However, as plastics used around the world nd their way into the ocean, the gyres have come to resemble nothing so much as land lls. Roughly 300 million tons of plastic are produced every year around the globe, 7 million tons of which end up in the oceans. Plastic does not decompose, but rather photodegrades: when exposed to sun and water it breaks down to its constituent molecules, but no further. Vari-
 
-## ![](_page_196_Picture_3.jpeg)
 
 FIGURE 4.3 North Paci c Gyre (Now Also Known as the Great Paci c Garbage Patch), 2010
 
@@ -1868,7 +1866,6 @@ Not all droughts (or oods) can be attributed to this type of climate change, as 
 
 In Asia, the Aral Sea is one instance of a shockingly dried- out lake (see Figure 4.7). Like the Dust Bowl in the United States, climate
 
-## ![](_page_210_Picture_1.jpeg)
 
 FIGURE 4.7 The Aral Sea, 1989, 2003, and 2009 Source: NASA n.d.
 
@@ -1886,7 +1883,6 @@ raises sea level by about 1.5 millimeters a year. This is in addition to the 2- 
 
 Every now and then the major effects of environmental destruction become visible to a larger public. In 2012, 57 percent of Greenland's ice sheet melted between July 8 and July 12. This reduced ice coverage to 3 percent of its maximum, stunning scientists, terrifying climate watchers, and mobilizing the media into reporting it.
 
-## ![](_page_212_Picture_1.jpeg)
 
 FIGURE 4.9 Extent of Surface Melt over Greenland's Ice Sheet, July 8 and July 12, 2012
 

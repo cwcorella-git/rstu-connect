@@ -14,7 +14,6 @@ tags:
 
  **'Richly documented and convincingly presented'** *New Society*
 
-## ![](_page_2_Picture_0.jpeg)
 
 Routledge Classics contains the very best of Routledge publishing over the past century or so, books that have, by popular consent, become established as classics in their field. Drawing on a fantastic heritage of innovative writing published by Routledge and its associated imprints, this series makes available in attractive, affordable form some of the most important works of modern times.
 
@@ -26,7 +25,6 @@ For a complete list of titles visit www.routledge.com/classics
 
 ## The creation of the Mods and Rockers
 
-## ![](_page_3_Picture_3.jpeg)
 
 ## First published 1972 by Mac Gibbon and Kee Ltd
 

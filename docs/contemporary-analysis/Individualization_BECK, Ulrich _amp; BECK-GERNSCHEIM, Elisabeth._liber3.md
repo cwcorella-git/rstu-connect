@@ -7,9 +7,6 @@ tags:
   - current-events
 ---
 
-## ![](_page_0_Picture_1.jpeg)
-
-## ![](_page_1_Picture_0.jpeg)
 
 ## **Theory, Culture & Society**
 
@@ -57,7 +54,6 @@ Institutionalized Individualism and its Social and Political Consequences
 
 ## > Ulrich Beck and Elisabeth Beck-Gernsheim
 
-## ![](_page_3_Picture_3.jpeg)
 
 ## London • Thousand Oaks • New Delhi
 
@@ -65,7 +61,6 @@ Beck-Gernsheim 2001. Translation © Patrick Camiller 2001
 
 otherwise, without permission in writing from the Publishers.
 
-## ![](_page_4_Picture_3.jpeg)
 
 ## Thousand Oaks, California 91320
 
@@ -100,7 +95,6 @@ New conflicts in the family | 101 |
 | 14 | Zombie categories: Interview with Ulrich Beck | 202 |
 ## | Index | | 214 |
 
-## ![](_page_6_Picture_0.jpeg)
 
 # Foreword by Scott Lash: Individualization in a Non-Linear Mode
 
@@ -178,7 +172,6 @@ In *The Reinvention of Politics*, 4 Ulrich Beck suggests that nothing less than 
 
 ## > Zygmunt Bauman February 1999
 
-## ![](_page_19_Picture_4.jpeg)
 
 - 1 See Chapter 3 in this volume.
 - 3 In U. Beck, *Ecological Enlightenment: Essays on the Politics of the Risk Society*. Atlantic Highlands, NJ: Humanities Press, 1995.
@@ -228,7 +221,6 @@ If we now circle back to our starting-point – the coming sociological dispute 
 
 A few of the essays contained in this book were written in the 1980s, but most of them date from the 1990s and have been taken up in the still heated debate on individualization. Chapter 1, 'Losing the traditional: Individualization and "precarious freedoms"' and Chapter 2, 'A life of one's own in a runaway world', introduce the theme of the book. Chapters 3 and 4 – 'Beyond status and class?' and 'The ambivalent social structure' – then develop and discuss the connection between individualization and growing social inequalities. Chapters 5 to 7 – 'From "living for others" to "a life of one's own"', 'On the way to a post-familial family' and 'Division of labour, self-image and life projects' – turn the individualization argument in a feminist direction and apply it to such issues as the family, love and the male-female division of labour. Chapters 8 and 9 – 'Declining birthrates and the wish to have children' and 'Apparatuses do not care for people' – discuss some of the implications for birthrates, the wish to have children and associated dilemmas in the planning of everyday life. Chapters 10 and 11 – 'Health and responsibility in the age of genetic technology' and 'Death of one's own, life of one's own' – illustrate the individualization thesis from the points of view of human genetics and death. Chapters 12 and 13 – 'Freedom's children' and 'Freedom's fathers' – discuss and reinterpret the individualization argument as it has a bearing on young people and investigate its intellectual roots in the past.
 
-## ![](_page_25_Picture_2.jpeg)
 
 - 1 See U. Beck, A. Giddens and S. Lash, *Reflexive Modernization*. Cambridge: Polity Press, 1994; U. Beck, *The Reinvention of Politics*. Cambridge: Polity Press, 1997, Chapter 1; U. Beck (in conversation with J. Willms) *Freiheit oder Kapitalismus – Gesellschaft neu denken*. Frankfurt/M.: Suhrkamp, 2000; and U. Beck and W. Bonß, *Die Modernisierung der Moderne*. Frankfurt/M.: Suhrkamp, 2001.
 - 2 P. J. Taylor, 'Embedded statism and the social sciences: opening up to new spaces'. *Environment and Planning*, 28, 1996, pp. 1917–1995; and *British Journal of Sociology*, 1, 2000. 3 See U. Beck, *What Is Globalization*? Cambridge: Polity Press, 2000.
@@ -240,7 +232,6 @@ A few of the essays contained in this book were written in the 1980s, but most o
 
 We shared the writing of this book between vs as follows: Chapter 1 was written jointly. Chapters 2, 3, 4, 11, 12, 13, and 14 were written by Ulrich Beck, and Chapters 5, 6, 7, 8, 9, and 10
 
-## ![](_page_26_Picture_0.jpeg)
 
 # Losing the Traditional
 
@@ -418,7 +409,6 @@ What König proposes is in fact very topical – an integration to be attained '
 
 In his novel *The Man without Qualities* (1961), Musil distinguishes between a sense for reality and a sense for possibility. He defines the latter as 'the capacity to think how everything could "just as easily" be, and to attach no more importance to what is than to what is not'. Someone who sees possible truths, Musil goes on, has, 'at least in the opinion of their devotees... something positively divine, a fiery, soaring quality, a constructive will... that does not shrink from reality but treats it, on the contrary, as a mission and an invention... Since his ideas... are nothing else than as yet unborn realities, he too of course has a sense of reality; but it is a sense of possible reality' (pp. 12f). Undoubtedly, sociology, too, ought to develop such a sense of possible reality – but that is another matter.
 
-## ![](_page_45_Picture_3.jpeg)
 
 - 1 Respectively, this is how Ostner and Roy (1991, p. 18) and Karl Ulrich Mayer (1991, pp. 88f) 2 Ronald Hitzler (1988) writes about 'do-it-yourself biography' (*Bastelbiographie*), Anthony
 - Giddens (1991) about 'reflexive biography' and Katrin Ley (1984) about 'elective biography' 3 Hans Bertram and Clemens Dannenbeck (1990); Hans Bertram, Hiltrud Bayer and Renate
@@ -620,7 +610,6 @@ Fourth, permanent conflicts tend to arise along the lines of ascribed character-
 
 Will it be possible to choose as a point of departure the claims and the promises of the process of individualization now under way together with its impulse toward social emancipation, thereby in a new way – beyond status and class – uniting individuals and groups as self-conscious subjects of their own personal social and political affairs? Or will the last bastions of social and political action be swept away as a result of that very process? Would the individualized society then not fall, torn apart by conflicts and displaying symptoms of sickness, into the kind of political apathy that precludes virtually nothing, not even new and insidious forms of a modernized barbarism?
 
-## ![](_page_67_Picture_2.jpeg)
 
 1 Under conditions of growing poverty and unemployment, 'individualization' means that flicts involved in social inequality appear as conflicts between parts of a single life history. People's lives become more varied and discontinuous – which also implies that a growing section of the population is at least temporarily exposed to poverty and unemployment. Cf. U. Beck, *Risikogesellschaft*. Frankfurt/M. Suhrkamp 1986, pp. 143–51; Leisering and Zwick, 'Heterogenisierung der Armut?', *Zeitschrift für Sozialreform*, 1990, 11/12, pp. 715–45; P. A. Berger, *Individualisierung, Statusunsicherheit und Erfahrungsvielfalt*. Opladen: Westdeutscher Verlag 1996.
 
@@ -1979,7 +1968,6 @@ This is still not enough, however, if the abolition of one's own dying awakens a
 
 Hence there are only two directions in which to work towards the abolition of dying: either endless prolongation of one's own life or a sudden common ending of life. In both directions a lot of progress has been made.
 
-## ![](_page_181_Picture_2.jpeg)
 
 1 Beck, U., E. Ziegler and W. Rautert, *Eigenes Leben*. Munich: Beck Verlag, 1996.
 

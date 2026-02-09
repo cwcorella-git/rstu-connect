@@ -11,7 +11,6 @@ tags:
 
 ## Contributors to Wikimedia projects
 
-11–13 minutes
 
 **Sumak kawsay** is a [neologism](https://en.m.wikipedia.org/wiki/Neologism) in [Quechua](https://en.m.wikipedia.org/wiki/Quechuan_languages) created in the 1990s by socialist Indigenous organizations. Originally created as a political and cultural proposal, [Ecuadorian](https://en.m.wikipedia.org/wiki/Ecuador) and [Bolivian](https://en.m.wikipedia.org/wiki/Bolivia) governments later adopted it in their constitutions. The term refers to the implementation of a socialism that moves away from Western socialist theory and instead embraces the ancestral, [communitarian](https://en.m.wikipedia.org/wiki/Communitarian) knowledge and lifestyle of [Quechua](https://en.m.wikipedia.org/wiki/Quechua_people) [people.](https://en.m.wikipedia.org/wiki/Quechua_people) In Ecuador, it has been translated as [buen vivir](https://en.m.wikipedia.org/wiki/Buen_vivir) or "good living", although experts in the Quechua language agree that a more precise translation would be "the plentiful life".[\[1\]](#page-6-0) In Bolivia, the original term in [Aymara](https://en.m.wikipedia.org/wiki/Aymara_language) is suma qamaña, which has been translated as vivir bien or living well[.\[2\]](#page-6-1)[\[3\]](#page-6-2)[\[4\]](#page-7-0)
 
@@ -23,7 +22,7 @@ The [Maya](https://en.m.wikipedia.org/wiki/Maya_peoples) Tsotsil and Tseltal peo
 
 #### [edit](https://en.m.wikipedia.org/w/index.php?title=Sumak_kawsay&action=edit§ion=1)
 
-The Andean philosopher Javier Lajo understands sumak kawsay as thinking well and feeling well in order to do well, with the ultimate goal of achieving harmony with the community, family, [Nature,](https://en.m.wikipedia.org/wiki/Nature) and universe[.\[7\]\[](#page-7-3)[unreliable source?](https://en.m.wikipedia.org/wiki/Wikipedia:Reliable_sources)] The ancestral sumak kawsay considers people as part of the
+The Andean philosopher Javier Lajo understands sumak kawsay as thinking well and feeling well in order to do well, with the ultimate goal of achieving harmony with the community, family, [Nature,](https://en.m.wikipedia.org/wiki/Nature) and universe[.\[7\]\[unreliable source?](https://en.m.wikipedia.org/wiki/Wikipedia:Reliable_sources)] The ancestral sumak kawsay considers people as part of the
 
 [Pachamama](https://en.m.wikipedia.org/wiki/Pachamama) or Mother Earth. Unlike other paradigms, the modern buen vivir, inspired by indigenous traditions, looks for balance with Nature in the fulfillment of needs instead of mere economic growth.
 

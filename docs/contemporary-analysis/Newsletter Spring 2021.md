@@ -7,11 +7,9 @@ tags:
   - current-events
 ---
 
-## ![](_page_0_Picture_1.jpeg)
 
 ## **Notes from the Chief**
 
-## ![](_page_0_Picture_3.jpeg)
 
 Kweh, Kweh Wyandot Citizens! Warm weather is finally here, and we have much to do during this season of sunshine and growth. The winter has taken a toll on Six Points and we will be looking for a group of volunteers to clean up the mess and repair the pathways that have washed away from their places over the last wet season. A Saturday in the fresh air with good companions is something that I look forward to and this year is no exception. When a date is set we will send out a notice but remember that this is Our Ancestors Land, and we are here to care for that land. And by the way, we will feed the volunteers!!!
 
@@ -77,9 +75,6 @@ We would like to make this newsletter interesting and informative for all of our
 
 The Wyandot of Anderdon Nation has scholarships available for our graduating seniors that can help with college expenses. If you are a graduating this year please contact [membership@wyandots.org](mailto:membership@wyandots.org) or [Treasurer@wyandots.org](mailto:Treasurer@wyandots.org) student.
 
-## ![](_page_1_Picture_27.jpeg)
-
-## ![](_page_1_Picture_28.jpeg)
 
 ## **Interesting Facts**
 
@@ -213,7 +208,6 @@ Judith Kwendaenton Kukowski Pidgeon Family Judith(Judy) walked-on March 0, 2021 
 
 Please let us know if things are happening in your family. Please keep our families in your prayers.
 
-## ![](_page_4_Picture_0.jpeg)
 
 ## **SEAS Project Takes Off**
 
@@ -247,7 +241,6 @@ Mary has listed resources as:
 
 We would like to thank Mary for her wonderful compilation.
 
-## ![](_page_5_Picture_0.jpeg)
 
 ## To All Tribal Citizens:
 
@@ -297,7 +290,6 @@ Educationally Yours,
 
 ## Mallory Ashlyn Measel
 
-## ![](_page_6_Picture_6.jpeg)
 
 ## **Treasurer Notes June 2021**
 
@@ -319,7 +311,6 @@ A special thank you to Mike Tigue, who ordered 37 baseball caps to give to his f
 
 Tizhamehn! Thank you for all your continued support.
 
-## ![](_page_7_Picture_0.jpeg)
 
 # Komahskwema'a Naming Application
 
@@ -346,7 +337,6 @@ If yes, please list the person, the Wyandot name, and who gave the name if possi
 
 To help with the selection of a Wyandot name for the applicant, please share a few strong personal characteristics about the applicant. Tizhamehn!
 
-## ![](_page_8_Picture_1.jpeg)
 
 Kweh Kweh Wyandot Citizens.
 
@@ -422,7 +412,6 @@ RSVP if you plan on attending our meal. You may pay in advance. Pay by check, Ve
 
 ## > *Skenoh! Peace!*
 
-## ![](_page_10_Picture_0.jpeg)
 
 ## The Wyandot Of Anderdon Nation
 

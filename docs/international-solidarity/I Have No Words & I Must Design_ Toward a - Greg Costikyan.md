@@ -8,7 +8,6 @@ tags:
   - peace
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 Greg Costikyan 355 South End Ave #2B New York, NY 10280, USA (646) 489-8609 costik@costik.com
 
@@ -20,7 +19,6 @@ Since then, the term has become ubiquitous in the field. People talk about gamep
 
 "The game" is an amazingly plastic medium. It's adaptable to any and every technology, from the neolithic to the high tech. And an amazing variety of games have been developed over the years... Boardgames, wargames, tabletop roleplaying games, computer and console roleplaying games, massively multiplayer online games, live-action roleplaying games, MUDs, MUSHes, MOOs, card games, collectible card games, play-by-mail games, play-by-email games, miniatures, sims, flight sims, vehicle sims, text adventures,
 
-## ![](_page_1_Picture_0.jpeg)
 
 I Have No Words & I Must Design:
 

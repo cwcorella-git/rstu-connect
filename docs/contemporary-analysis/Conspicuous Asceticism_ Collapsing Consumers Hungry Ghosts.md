@@ -19,7 +19,6 @@ Ash Zareian The University of Texas Rio Grande Valley
 
 Follow this and additional works at: [https://scholarworks.utrgv.edu/etd](https://scholarworks.utrgv.edu/etd?utm_source=scholarworks.utrgv.edu%2Fetd%2F1082&utm_medium=PDF&utm_campaign=PDFCover Pages)
 
-## ![](_page_0_Picture_7.jpeg)
 
 Part of the [Marketing Commons](https://network.bepress.com/hgg/discipline/638?utm_source=scholarworks.utrgv.edu%2Fetd%2F1082&utm_medium=PDF&utm_campaign=PDFCover Pages)
 

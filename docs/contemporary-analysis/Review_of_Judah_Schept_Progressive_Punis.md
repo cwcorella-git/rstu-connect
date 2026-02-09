@@ -7,13 +7,9 @@ tags:
   - current-events
 ---
 
-## ![](_page_0_Picture_0.jpeg)
-
-## ![](_page_0_Picture_1.jpeg)
 
 https://doi.org/10.1177/1741659018815946Crime Media Culture 1 –3 © The Author(s) 2018 Article reuse guidelines: sagepub.com/journals-permissions DOI: 10.1177/1741659018815946 journals.sagepub.com/home/cmc
 
-## ![](_page_0_Picture_4.jpeg)
 
 Judah Schept, *Progressive Punishment: Job Loss, Jail Growth, and the Neoliberal Logic of Carceral Expansion*, New York University Press: New York, 2015 308pp.:978-1-4798-0877-9, \$27 (paper).
 

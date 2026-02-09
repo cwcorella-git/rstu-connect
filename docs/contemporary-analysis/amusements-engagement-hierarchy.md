@@ -7,7 +7,6 @@ tags:
   - current-events
 ---
 
-## ![](_page_0_Picture_2.jpeg)
 
 - [Featured](https://web.archive.org/web/20250913094130/https://www.whatgamesare.com/featured-posts.html)
 - [Glossary](https://web.archive.org/web/20250913094130/https://www.whatgamesare.com/glossary.html)
@@ -18,7 +17,6 @@ tags:
 
 ## **Amusements [Engagement Hierarchy]**
 
-## ![](_page_0_Picture_9.jpeg)
 
 The next rung on the [Engagement Hierarchy](https://web.archive.org/web/20250913094130/http://http//whatgamesare.com/2010/12/the-engagement-hierarchy.html) above *[distraction](https://web.archive.org/web/20250913094130/http://whatgamesare.com/2010/12/distractions-engagement-hierarchy.html)* is *amusement*. Amusements are games into which a typical player might invest some time, which are potentially interesting enough to be habit-forming, but which they still might have trouble identifying out of a line-up.
 
@@ -139,7 +137,6 @@ You can follow this conversation by subscribing to the [comment feed](https://we
 
 This is only a preview. Your comment has not yet been posted.
 
-## ![](_page_4_Picture_9.jpeg)
 
 Your comment could not be posted. Error type:
 
@@ -151,7 +148,6 @@ As a final step before posting your comment, enter the letters and numbers you s
 
 Having trouble reading this image? View an alternate.
 
-## ![](_page_4_Picture_15.jpeg)
 
 ## **Post a comment**
 

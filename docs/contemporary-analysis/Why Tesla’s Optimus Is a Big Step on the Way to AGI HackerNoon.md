@@ -9,7 +9,6 @@ tags:
 
 ## Laszlo Fazekas
 
-4-5 minutes
 
 You probably heard about the [scandal](https://www.wired.com/story/lamda-sentient-ai-bias-google-blake-lemoine/?ref=hackernoon.com) around [Google'](https://hackernoon.com/company/google?ref=hackernoon.com)s AI, [LaMDA.](https://blog.google/technology/ai/lamda/?ref=hackernoon.com) In a nutshell, one of the members of Google's ethical team claimed that this chatbot is conscious, and it has basic human rights. But is LaMDA really conscious?
 

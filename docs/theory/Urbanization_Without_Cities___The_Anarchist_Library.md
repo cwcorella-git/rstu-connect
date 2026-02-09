@@ -12,7 +12,6 @@ Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F
                 theanarchistlibrary.org
                 Urbanization Without Cities
                 Author: Murray Bookchin
-                662–842 minutes
                 Dedication
                 For Jane Coleman and Dan Chodorkoff—
                 and in memory of Zeitel Kaluskaya (1860–1930),

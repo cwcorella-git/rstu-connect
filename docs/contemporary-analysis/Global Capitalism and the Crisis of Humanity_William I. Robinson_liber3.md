@@ -32,7 +32,6 @@ Sound and silence blend as one
 
 ## University of California, Santa Barbara
 
-## ![](_page_2_Picture_3.jpeg)
 
 ## CABRDGE UVST PRSS
 

@@ -10,9 +10,6 @@ tags:
 
 [home](https://www.designboom.com/) > [architecture](https://www.designboom.com/architecture/) > bjarke ingels group's 'freedom plaza' could bring affordable housing and casino to NYC
 
-## ![](_page_0_Picture_4.jpeg)
-
-## ![](_page_0_Picture_5.jpeg)
 
 bjarke ingels group's 'freedom plaza' could bring affordable housing and casino to NYC
 
@@ -22,11 +19,6 @@ bjarke ingels group's 'freedom plaza' could bring affordable housing and casino 
 
 we use cookies to make your reading a beer experience. [got it!](https://www.designboom.com/architecture/bjarke-ingels-group-big-freedom-plaza-new-york-02-13-2024/#) [more info](https://www.designboom.com/cookie-policy) [>](https://www.designboom.com/cookie-policy)
 
-## ![](_page_1_Picture_2.jpeg)
-
-## ![](_page_1_Picture_3.jpeg)
-
-## ![](_page_1_Picture_4.jpeg)
 
 # FREEDOM PLAZA: A MEGAPROJECT ALONG THE WATERFRONT
 
@@ -34,7 +26,6 @@ we use cookies to make your reading a beer experience. [got it!](https://www.des
 
 'Our plan is to develop this site in a way that delivers benefits for the local neighborhood and the city as a whole, worthy of its skyline and waterfront location, and befitting New York City's key role as a leader in the global cultural economy,' says Michael Hershman, CEO, Soloviev Group. 'We value the community input that we have received throughout the planning process and are proud to help meet the need for residential and affordable housing and public open space, as well as providing a daycare, food market, and an array of new publish my work
 
-## ![](_page_1_Picture_9.jpeg)
 
 ## LASCIATE OGNI SPERANZA O VOI CHE ENTRATE
 
@@ -45,17 +36,14 @@ we use cookies to make your reading a better experience.
 got it!
 
 more info >
-## ![](_page_2_Picture_2.jpeg)
 
 residential and hotel towers surround a landscaped park along the river $\mid$ image $\ensuremath{\mathbb{C}}$ Negativ
 
 ### POPULAR NOW ARCH!
 
-## ![](_page_2_Picture_6.jpeg)
 
 GO'C completes 'tinyleaf,' a compact outpost embedded into the northwestern **15k views**
 
-## ![](_page_2_Picture_8.jpeg)
 
 openwork wooden walls shield theo domini's primitive-inspired residence in **12k views**
 
@@ -63,7 +51,6 @@ openwork wooden walls shield theo domini's primitive-inspired residence in **12k
 
 Along with the Freedom Plaza's public space, two **Bjarke Ingels Group**-designed residential towers will rise 50 and 60 stories to offer 1,325 apartments. 513 of these, nearly 40%, will be designated as income-restricted units ranging from tudio to the o hadron an anautro arte. A considerate the New York Times this
 
-## ![](_page_2_Picture_12.jpeg)
 
 SO--IL completes perforated aluminum facade of downtown brooklyn's 'nine
 

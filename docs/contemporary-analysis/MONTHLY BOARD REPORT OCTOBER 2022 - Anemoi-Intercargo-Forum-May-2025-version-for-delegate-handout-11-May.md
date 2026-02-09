@@ -25,9 +25,6 @@ Our name is a reference to our Greek roots. In Greek mythology, '*The Anemoi'* a
 
 Anemoi Production & Quality Assurance, *Jiangsu Province*
 
-## ![](_page_1_Picture_9.jpeg)
-
-## ![](_page_2_Picture_2.jpeg)
 
 - When the wind speed and direction is right, Rotor Sails are switched on automatically and rotated by an electric motor
 - As the wind flow meets the spinning Rotor Sails, an aerodynamic phenomenon called the Magnus Effect comes into action
@@ -35,35 +32,28 @@ Anemoi Production & Quality Assurance, *Jiangsu Province*
 
 # KEY BENEFITS
 
-## ![](_page_2_Picture_7.jpeg)
 
 5-30% reduction in fuel consumption & harmful emissions
 
-## ![](_page_2_Picture_9.jpeg)
 
 Rotor Sails can easily be redeployed between vessels as driven by business requirements
 
-## ![](_page_2_Picture_11.jpeg)
 
 Designed and certified in accordance with leading classification rules
 
-## ![](_page_2_Picture_13.jpeg)
 
 More thrust per m2 compared to other wind propulsion technologies.
 
-## ![](_page_2_Picture_15.jpeg)
 
 ## Fully automated to maximise savings
 
 #### 5M DIAMETER ROTOR SAILS
 
-## ![](_page_3_Picture_3.jpeg)
 
 ## ![](_page_3_Figure_4.jpeg)
 
 #### 3.5M DIAMETER ROTOR SAILS
 
-## ![](_page_3_Picture_6.jpeg)
 
 ## ![](_page_3_Figure_7.jpeg)
 
@@ -86,7 +76,6 @@ Rotor Sails on a longitudinal Rail System are transported along the deck by an i
 - Suitable for all vessel type, recommended for Bulk Carriers
 - Rotor Sail repositioning in less than 15min
 
-## ![](_page_5_Picture_5.jpeg)
 
 ## ![](_page_6_Figure_1.jpeg)
 
@@ -94,23 +83,14 @@ Rotor Sails on a longitudinal Rail System are transported along the deck by an i
 - Suitable for all vessel type, recommended for Bulk Carriers
 - Rotor Sail repositioning in less than 15min
 
-## ![](_page_6_Picture_5.jpeg)
 
 ## **ANEMOI**
 
-## ![](_page_7_Picture_0.jpeg)
 
 ## ![](_page_8_Figure_1.jpeg)
 
 ## ![](_page_8_Figure_2.jpeg)
 
-## ![](_page_8_Picture_3.jpeg)
-
-## ![](_page_9_Picture_2.jpeg)
-
-## ![](_page_9_Picture_3.jpeg)
-
-## ![](_page_9_Picture_4.jpeg)
 
 ## **VLOC 400,000 DWT** *NSU TUBARAO*
 
@@ -132,11 +112,6 @@ Rotor Sails on a longitudinal Rail System are transported along the deck by an i
 
 12no. 3.5 diameter x 24.5m height Long. Rail Deployment System
 
-## ![](_page_9_Picture_15.jpeg)
-
-## ![](_page_9_Picture_16.jpeg)
-
-## ![](_page_9_Picture_17.jpeg)
 
 ## VLCC
 
@@ -146,7 +121,6 @@ Estimated Savings (IMO Route):
 
 ## **18.6%\***
 
-## ![](_page_10_Picture_6.jpeg)
 
 MR TANKER 2 no. 5x35m Rotor Sails Folding Deployment
 
@@ -154,11 +128,9 @@ Estimated Savings (IMO Route):
 
 ## **19.5%\***
 
-## ![](_page_10_Picture_10.jpeg)
 
 *\*Sailing at 11-12kts, assuming 300 sailing days (VLCC) and 250 sailing days (MR Tanker) per year.*
 
-## ![](_page_11_Picture_2.jpeg)
 
 #### 172,000 M3 LNG CARRIER
 
@@ -170,7 +142,6 @@ Estimated Savings (IMO Route):
 
 ## ![](_page_12_Figure_0.jpeg)
 
-## ![](_page_12_Picture_1.jpeg)
 
 ## Tubarao (BRTUB)
 
@@ -205,7 +176,6 @@ Optimization | 1,250 mt | 964k USD | ~25% |
 
 ## Compliant
 
-## ![](_page_13_Picture_8.jpeg)
 
 ## ![](_page_13_Figure_10.jpeg)
 
@@ -219,7 +189,6 @@ Rotor Sails reduce the total fuel consumption, which lowers overall emissions pe
 
 Wind can buy you time and flexibility in the transition to expensive green fuels.
 
-## ![](_page_15_Picture_0.jpeg)
 
 ## How ANEMOI Rotor Sails Compare…
 
@@ -352,7 +321,6 @@ from
 inside
 tower |
 
-## ![](_page_16_Picture_2.jpeg)
 
 **5-30%** reduction in fuel consumption and harmful emissions
 
@@ -364,20 +332,11 @@ tower |
 
 Expert global supply chain with **250+** dedicated production partners
 
-## ![](_page_17_Picture_6.jpeg)
-
-## ![](_page_17_Picture_7.jpeg)
 
 ## Scan the QR to connect with Anemoi on Linked In
 
-## ![](_page_17_Picture_9.jpeg)
 
 sales@anemoimarine.com enquiries@anemoimarine.com
 
-## ![](_page_17_Picture_11.jpeg)
-
-## ![](_page_17_Picture_12.jpeg)
-
-## ![](_page_17_Picture_13.jpeg)
 
 Scan the QR to connect with Anemoi on We Chat / Weixin

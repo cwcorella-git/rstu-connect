@@ -376,7 +376,6 @@ This is all that the science of morality can tell you. Yours is the choice.
 
 ## The Anarchist Library Anti-Copyright
 
-## ![](_page_22_Picture_1.jpeg)
 
 ## Pëtr Kropotkin Anarchist Morality 1897
 

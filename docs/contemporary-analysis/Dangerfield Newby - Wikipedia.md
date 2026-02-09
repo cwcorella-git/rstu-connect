@@ -11,7 +11,6 @@ tags:
 
 ## Contributors to Wikimedia projects
 
-9–11 minutes
 
 #### From Wikipedia, the free encyclopedia
 
@@ -23,7 +22,7 @@ for | Raid on Harpers Ferry |
 
 **Dangerfield F. Newby** (c. 1820 – October 17, 1859), was the oldest of [John Brown](https://en.wikipedia.org/wiki/John_Brown_(abolitionist))'s raiders, and one of [the five black raiders.](https://en.wikipedia.org/wiki/John_Brown%27s_raiders#Black_participation) He died during [Brown's raid on the federal armory](https://en.wikipedia.org/wiki/John_Brown%27s_raid_on_Harpers_Ferry) in [Harpers](https://en.wikipedia.org/wiki/Harpers_Ferry,_Virginia) [Ferry, Virginia.](https://en.wikipedia.org/wiki/Harpers_Ferry,_Virginia) [\[1\]](#page-5-0)
 
-As was usual at the time, Newby's skin color was mentioned: he was "a tall and well built mulatto, aged about thirty years.["\[2\]:](#page-5-1)81 Born into slavery in [Culpeper County, Virginia,](https://en.wikipedia.org/wiki/Culpeper_County,_Virginia) Newby's father was Henry Newby, a white landowner. His mother was Elsey Newby, who was enslaved, owned not by Henry but by a neighbor, John Fox. Elsey and Henry lived together for many years in [Fauquier County, Virginia,](https://en.wikipedia.org/wiki/Fauquier_County,_Virginia) [\[3\]](#page-5-2) and had several children; under Virginia law they could not marry. Dangerfield was their first child. Dangerfield Newby, his mother, and his siblings were later freed by his father when he moved them across the Ohio River into [Bridgeport, Ohio.](https://en.wikipedia.org/wiki/Bridgeport,_Ohio) John Fox, who died in 1859, apparently did not attempt to reclaim Elsey, Dangerfield, or any of his siblings.[\[4\]\[](#page-5-3)page [needed](https://en.wikipedia.org/wiki/Wikipedia:Citing_sources)]
+As was usual at the time, Newby's skin color was mentioned: he was "a tall and well built mulatto, aged about thirty years.["\[2\]:](#page-5-1)81 Born into slavery in [Culpeper County, Virginia,](https://en.wikipedia.org/wiki/Culpeper_County,_Virginia) Newby's father was Henry Newby, a white landowner. His mother was Elsey Newby, who was enslaved, owned not by Henry but by a neighbor, John Fox. Elsey and Henry lived together for many years in [Fauquier County, Virginia,](https://en.wikipedia.org/wiki/Fauquier_County,_Virginia) [\[3\]](#page-5-2) and had several children; under Virginia law they could not marry. Dangerfield was their first child. Dangerfield Newby, his mother, and his siblings were later freed by his father when he moved them across the Ohio River into [Bridgeport, Ohio.](https://en.wikipedia.org/wiki/Bridgeport,_Ohio) John Fox, who died in 1859, apparently did not attempt to reclaim Elsey, Dangerfield, or any of his siblings.[\[4\]\page [needed](https://en.wikipedia.org/wiki/Wikipedia:Citing_sources)]
 
 Dangerfield worked as a blacksmith, in [Ashtabula County,](https://en.wikipedia.org/wiki/Ashtabula_County,_Ohio) [Ohio,](https://en.wikipedia.org/wiki/Ashtabula_County,_Ohio) where he met John Brown, whose eldest son, [John Jr.,](https://en.wikipedia.org/wiki/John_Brown_Junior) also lived in the county[.\[5\]](#page-5-4)
 

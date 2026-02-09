@@ -16,7 +16,6 @@ The online version of this article can be found at: http://rac.sagepub.com/conte
 Published by:
 On behalf of:
 
-## ![](_page_0_Picture_8.jpeg)
 
 ## Institute of Race Relations
 

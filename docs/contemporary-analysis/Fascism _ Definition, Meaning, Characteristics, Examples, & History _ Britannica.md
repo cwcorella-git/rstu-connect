@@ -10,7 +10,6 @@ tags:
 
 ## Robert Soucy
 
-9–11 minutes
 
 ## Top Questions
 

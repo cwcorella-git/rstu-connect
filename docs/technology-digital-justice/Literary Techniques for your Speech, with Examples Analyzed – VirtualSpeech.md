@@ -11,7 +11,6 @@ tags:
 
 ## November 8, 2022
 
-8–9 minutes
 
 Planned use of language has a major impact on how your speech is received by the audience. Saying the right words at the right time, and in the right way, can achieve a specific impact.
 
@@ -46,7 +45,6 @@ For additional literary techniques, check out these links:
 - [Stylistic Devices \(Rhetorical Devices, Figures of Speech\)](https://www.ego4u.com/en/cram-up/writing/style)
 - [BBC Literary Techniques](https://www.bbc.co.uk/bitesize/guides/zpr49j6/revision/2)
 
-## ![](_page_1_Picture_12.jpeg)
 
 Spend time planning which of these language techniques you will use in your speech. You can add these in after your first draft of the speech has been written.
 
@@ -92,7 +90,6 @@ I have a dream today! I have a dream that one day every valley shall be exalted,
 - Elizabeth Gilbert Your Creative Genius
 - J. K. Rowling Harvard Commencement Address For addition detail on these speeches, check out [this article](https://virtualspeech.com/blog/learn-from-these-speeches-that-changed-the-world) on speeches that changed the world.
 
-## ![](_page_4_Picture_11.jpeg)
 
 # **2. Winston Churchill – We shall fight on the beaches**
 

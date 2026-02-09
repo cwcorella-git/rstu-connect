@@ -425,7 +425,6 @@ When Emma Goldman and Alexander Berkman visited Lenin in 1920 to plead the case 
 
 ## The Anarchist Library Anti-Copyright
 
-## ![](_page_17_Picture_1.jpeg)
 
 ## Nestor Makhno My Visit to the Kremlin 1979
 

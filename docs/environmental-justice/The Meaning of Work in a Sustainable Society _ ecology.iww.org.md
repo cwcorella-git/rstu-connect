@@ -12,7 +12,6 @@ tags:
 
 William Shakespeare, Henry IV, Part I, Act II, Scene IV
 
-42–53 minutes
 
 ## ![](_page_0_Figure_7.jpeg)
 

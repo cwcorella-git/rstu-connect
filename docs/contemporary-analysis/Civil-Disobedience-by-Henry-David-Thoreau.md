@@ -1,5 +1,5 @@
 ---
-title: "*Civil Disobedience*"
+title: "Civil Disobedience"
 author: "Henry David Thoreau"
 category: contemporary-analysis
 tags:

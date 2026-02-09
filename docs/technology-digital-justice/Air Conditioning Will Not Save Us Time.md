@@ -10,7 +10,6 @@ tags:
 
 ## By Eric Dean Wilson
 
-21-27 minutes
 
 It keeps happening. Every summer, unprecedented heat surges through cities across the United States—in Washington, Oregon, and Idaho; in Illinois, Indiana, and Ohio; and in Maryland, Virginia, and New Jersey. Last week, a heat wave melted records in Texas with unrelenting highs well into the 100s for days. And just when residents need it most, the electrical grid fails. Every year, hundreds die from heat-related illness in the U. S., and thousands more end up in emergency rooms from heat stress. Compared to other weather-related disasters, the emergency response to extreme heat from U. S. leaders has been minimal. As a result, many places remain unprepared. How, then, do we make our cities more resilient?
 
@@ -24,9 +23,6 @@ You would think, then, that in the most air-conditioned nation on Earth, we woul
 
 During the New York City heat wave of 2019, the limits of air conditioning as a universal solution to urban heat emergencies became obvious. On a Sunday in July, at the start of a three-day blaze that pushed the heat index to 113ºF, neighborhoods in Brooklyn and Queens lost electricity. Because the system handled a record-breaking load of energy—most of it to power room air conditioners—several sections of the southeast Brooklyn grid failed. In response, Con Ed, the investor-owned monopoly corporation that acts as the city's public utility, intentionally cut power to an additional 33,000 residents in order "to prevent any further outages and also to protect the integrity of the energy system." More than 50,000 residents—including seniors in several large care facilities, as well as infants—struggled without power for more than twenty-four hours. Perhaps most tellingly, those neighborhoods, particularly Canarsie and Flatlands, are predominantly Black (59%) and Latino (8%) working-class.
 
-## ![](_page_2_Picture_4.jpeg)
-
-## ![](_page_3_Picture_2.jpeg)
 
 ## David 'Dee' Delgado—Bloomberg/Getty Images
 
@@ -46,7 +42,6 @@ Air conditioning divides us by race and class—especially during inflation. Sin
 
 In a heat wave, we should, above all, ensure that everyone in the city remains safe by finding a reliable way to keep cool. For those who can, this means running individual AC units in residential spaces—at least, for now. But this response to heat emergencies doesn't look like an emergency response at all. Nor does it work when the energy grid fails. It leaves survival up to individual consumer choice, which exposes the most vulnerable to deadly heat and reinforces the inequities already present in our cities.
 
-## ![](_page_5_Picture_3.jpeg)
 
 Air condition units at an apartment complex during a heat wave in Austin, Texas, US, on Tuesday, July 19, 2022.
 
@@ -70,7 +65,6 @@ Improvements in energy-efficiency can lower demand. Better AC design can harness
 
 In this country, we have a bad habit of choosing quick, short-term tech replacements over more lasting, structural change. At the federal level, the U. S. has a greater potential to slow global heating than anywhere else except China, although it has yet to limit greenhouse gas emissions in the ways that will stabilize the global climate. As the heat crisis across the U. S. is making clear, city leaders need to fight for more radical changes than handing out new AC units. Given the recent Supreme Court decision [West](https://time.com/6192676/supreme-court-epa-emissions/) [Virginia vs. EPA](https://time.com/6192676/supreme-court-epa-emissions/), which limits the federal government's ability to regulate energy emissions, not to mention Americans' knee-jerk reaction to regulation anyway, we need a different approach than austerity, one that focuses not on restrictions but on alternative investments to our cities. In order to save lives, we cannot keep calling for less; instead, we need rigorous reinvestment in communities and public health.
 
-## ![](_page_9_Picture_3.jpeg)
 
 Pallets of water bottles during a heatwave and water outages in Bixby, Oklahoma, US, on Tuesday, July 19, 2022.
 

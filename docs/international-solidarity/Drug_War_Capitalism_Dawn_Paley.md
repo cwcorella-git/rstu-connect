@@ -67,7 +67,6 @@ Investment (FDI) was calculated at \$2.4 billion.14 By 2011, Colombia's FDI stoo
 
 A decree passed in 2003 allowed for private investment in Colombia's oil sector and the partial privatization of formerly state-owned Ecopetrol.17 As of 2010 FDI in the mining sector (including coal mining) stood at over \$2 billion, accounting for more than half of all nonpetroleum investment.18
 
-## ![](_page_1_Picture_13.jpeg)
 
 *Presumed guilty in the drug war: mass arrests, mass deaths, mass profits.*
 
@@ -81,7 +80,6 @@ From the perspective of the U. S. State Department, Plan Colombia is not a failu
 
 The language of a "comprehensive strategy," used to play up Plan Colombia, mirrors the official language of counterinsurgency warfare. "[Counterinsurgency] is an extremely complex form of warfare…. Achieving these aims requires synchronizing the efforts of many nonmilitary and [Host Nation]
 
-## ![](_page_2_Picture_0.jpeg)
 
 *Presumed guilty in the drug war: mass arrests, mass deaths, mass profits.*
 

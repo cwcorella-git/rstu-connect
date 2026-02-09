@@ -19,11 +19,9 @@ WINNER OF THE HUGO AND NEBULA AWARDS, THE WORLD FANTASY AWARD, AND THE NATIONAL 
 
 ### anarres
 
-![](_page_3_Picture_1.jpeg)
 
 ### urras
 
-![](_page_4_Picture_1.jpeg)
 
 ### **CONTENTS**
 

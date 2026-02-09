@@ -8,7 +8,6 @@ tags:
   - wikipedia
 ---
 
-## ![](_page_0_Picture_2.jpeg)
 
 **Hồ Chí Minh**[\[e\]](#page-21-0) (born **Nguyễn Sinh Cung**; [\[f\]](#page-21-1)[\[g\]](#page-21-2)[\[3\]](#page-21-3)[\[4\]](#page-22-0) 19 May 1890 – 2 September 1969),[\[h\]](#page-21-4) colloquially known as **Uncle Ho** (*Bác Hồ*) [\[i\]](#page-21-5)[\[7\]](#page-22-1) among other aliase[s\[j\]](#page-21-6) and sobriquets[,\[k\]](#page-21-7) was a Vietnamese revolutionary and politician who served as the founder and first [president](https://en.wikipedia.org/wiki/President_of_Vietnam) of the [Democratic Republic of Vietnam](https://en.wikipedia.org/wiki/Democratic_Republic_of_Vietnam) from 1945 until his death in 1969, and as its first [prime minister](https://en.wikipedia.org/wiki/Prime_Minister_of_Vietnam) from 1945 to 1955. Ideologically a [Marxist–Leninist,](https://en.wikipedia.org/wiki/Marxism%E2%80%93Leninism) he founded the [Indochinese Communist Party](https://en.wikipedia.org/wiki/Indochinese_Communist_Party) in 1930 and its successor Workers' Party of Vietnam (later the [Communist Party of](https://en.wikipedia.org/wiki/Communist_Party_of_Vietnam) [Vietnam\)](https://en.wikipedia.org/wiki/Communist_Party_of_Vietnam) in 1951, serving as the party's chairman until his death.
 
@@ -18,7 +17,6 @@ Between 1953 and 1956, Hồ's leadership saw the implementation of a [land refor
 
 ### **Hồ Chí Minh**
 
-## ![](_page_0_Picture_8.jpeg)
 
 ## Portrait, c. 1946
 
@@ -225,7 +223,6 @@ influenced by [Pan-Africanist](https://en.wikipedia.org/wiki/Pan-Africanism) and
 
 ### **In Britain**
 
-## ![](_page_3_Picture_6.jpeg)
 
 ## Commemorative plaque in Haymarket in London
 
@@ -237,7 +234,6 @@ From 1919 to 1923, Thành (Hồ) began to show an interest in politics while liv
 
 In Paris, he joined the *Groupe des Patriotes Annamites* (The Group of Vietnamese Patriots) that included Phan Chu Trinh, Phan Văn Trường, Nguyễn Thế [Truy](https://en.wikipedia.org/w/index.php?title=Nguy%E1%BB%85n_Th%E1%BA%BF_Truy%E1%BB%81n&action=edit&redlink=1)ền and Nguyễ[n An Ninh.](https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_An_Ninh)[\[31\]](#page-23-12) They had been publishing newspaper articles advocating for Vietnamese independence under the pseudonym Nguyễn Ái Quốc ("Nguyễn the Patriot") prior to Thành's arrival in Paris.[\[32\]](#page-23-13) The group petitioned for recognition of the
 
-## ![](_page_4_Picture_2.jpeg)
 
 1920 security report by the French Indochinese government on Nguyễn Tất Thành listing his aliases, places of residence, his father's occupation, as well as other information.
 
@@ -245,7 +241,6 @@ In Paris, he joined the *Groupe des Patriotes Annamites* (The Group of Vietnames
 
 Before the conference, the group sent their letter to allied leaders, including French Prime Minister [Georges](https://en.wikipedia.org/wiki/Georges_Clemenceau) [Clemenceau](https://en.wikipedia.org/wiki/Georges_Clemenceau) and [United States](https://en.wikipedia.org/wiki/United_States) President [Woodrow Wilson.](https://en.wikipedia.org/wiki/Woodrow_Wilson) They were unable to obtain consideration at [Versailles,](https://en.wikipedia.org/wiki/Palace_of_Versailles) but the episode would later help establish the future Hồ Chí Minh as the symbolic leader of the [anti-colonial](https://en.wikipedia.org/wiki/Anti-colonial) movement at home in Vietnam[.\[33\]](#page-23-14) Since Thành was the public face behind the publication of the document (although it was written by
 
-## ![](_page_4_Picture_6.jpeg)
 
 Hồ Chí Minh, 1921, using the pseudonym Nguyễn Ái Quốc, attending a Communist congress in Marseille, France.
 
@@ -271,7 +266,6 @@ n.org/video/?16022
 
 In 1923, Quốc (Hồ) left Paris for Moscow carrying a passport with the name Chen Vang, a Chinese merchant,[12]:86 where he was employed by the Comintern, studied at the Communist University of the Toilers of the East[12]:92[42] and in January 1924, attended Lenin's funeral. [43]:96 Ho participated in the Fifth Comintern Congress in June 1924 before arriving in Canton (present-day Guangzhou), China in
 
-## ![](_page_5_Picture_7.jpeg)
 
 A plaque in Compoint Lane, District 17, Paris indicates where Hồ Chí Minh lived from 1921 to 1923
 
@@ -287,7 +281,6 @@ Quốc (Hồ) remained in Thailand, staying in the Thai village of [Nachok](http
 
 In this period Hồ reportedly lost his positions in the Comintern because of a concern that he had betrayed the organization. However, according to Ton That Thien's research, he was a member of the inner circle of the Comintern, a protégé of [Dmitry](https://en.wikipedia.org/wiki/Dmitry_Manuilsky)
 
-## ![](_page_6_Picture_6.jpeg)
 
 Hồ Chí Minh worked as a cook all over the world from 1911 to 1928, including [Milan.](https://en.wikipedia.org/wiki/Milan) This plaque in Via Pasubio, on the left next to "Antica Trattoria Della Pesa", remembers one of his workplaces.
 
@@ -303,13 +296,11 @@ branch office in [Guilin.](https://en.wikipedia.org/wiki/Guilin)[\[43\]:](#page-
 
 In 1941, Hồ Chí Minh returned to Vietnam to lead the [Vi](https://en.wikipedia.org/wiki/Viet_Minh)ệt [Minh](https://en.wikipedia.org/wiki/Viet_Minh) independence movement. Hồ and ICP founded a communist-led united front to oppose the Japanese[.\[43\]:](#page-24-7)98
 
-## ![](_page_7_Picture_6.jpeg)
 
 House on Memorium for Hồ Chí Minh in Ban Nachok, [Nakhon Phanom,](https://en.wikipedia.org/wiki/Nakhon_Phanom) Thailand
 
 The [Japanese occupation of Indochina](https://en.wikipedia.org/wiki/Japanese_occupation_of_French_Indochina) that year, the first step toward an invasion of the rest of Southeast Asia, created an opportunity for patriotic Vietnamese[.\[57\]](#page-24-21) The so-called "men in black" were a 10,000 member guerrilla force that operated with the Việt Minh.[\[58\]](#page-25-0) He oversaw many successful military actions against the [Vichy France](https://en.wikipedia.org/wiki/Vichy_France) and the Japanese occupation of Vietnam during [World War II,](https://en.wikipedia.org/wiki/World_War_II) supported closely yet clandestinely by the United States Offi[ce of Strategic Services](https://en.wikipedia.org/wiki/Office_of_Strategic_Services) and later against the French bid to reoccupy the country (1946–1954). He was jailed in China by Chiang Kai-shek's local authorities before being rescued by Chinese Communists[.\[59\]](#page-25-1) Following his release in 1943, he returned to Vietnam. It was during this time that he began regularly using the name Hồ Chí Minh, a Vietnamese name combining a common Vietnamese surname (Hồ, [胡](https://en.wiktionary.org/wiki/%E8%83%A1)) with a given name meaning "Bright spirit" or "Clear will" (from [Sino-Vietnamese](https://en.wikipedia.org/wiki/Sino-Vietnamese_vocabulary) [志](https://en.wiktionary.org/wiki/%E5%BF%97) [明](https://en.wiktionary.org/wiki/%E6%98%8E): Chí meaning "will" or "spirit" and Minh meaning "bright").[\[12\]:](#page-22-4)248–249 His new name was a tribute to General Hou Zhiming (侯志明), Chief Commissar of the 4th Military Region of the [National Revolutionary](https://en.wikipedia.org/wiki/National_Revolutionary_Army) [Army,](https://en.wikipedia.org/wiki/National_Revolutionary_Army) who helped release him from a KMT prison in 1943.
 
-## ![](_page_7_Picture_9.jpeg)
 
 Hồ Chí Minh (third from left, standing) with the OSS in 1945
 
@@ -331,7 +322,6 @@ In 1946, when he traveled outside of the country, his subordinates imprisoned 2,
 
 The Communists eventually suppressed all non-Communist parties, but they failed to secure a peace deal with France. In the final days of 1946, after a year of diplomatic failure and many concessions in agreements, such as the [Dalat](https://en.wikipedia.org/wiki/Da_Lat) and [Fontainebleau conferences,](https://en.wikipedia.org/wiki/Fontainebleau_Agreements) the Democratic Republic of Vietnam government found that war was inevitable. The [bombardment](https://en.wikipedia.org/wiki/Haiphong_incident) [of Haiphong](https://en.wikipedia.org/wiki/Haiphong_incident) by the [French Navy](https://en.wikipedia.org/wiki/French_Navy) only strengthened the belief that France had no intention of allowing an autonomous, independent state in Vietnam. The attack reportedly killed more than 6,000 Vietnamese civilians in Haiphong. French forces marched into Hanoi, now the capital city of the Democratic Republic of Vietnam. On 19 December 1946, after the Haiphong incident, Hồ Chí Minh declared war against the French, marking the beginning of the [First Indochina War](https://en.wikipedia.org/wiki/First_Indochina_War)[.\[82\]](#page-26-6) The Vietnam National Army, mostly armed with [machetes](https://en.wikipedia.org/wiki/Machete) and [muskets](https://en.wikipedia.org/wiki/Musket) immediately attacked. They assaulted the French positions, smoking them out with straw bundled with chili pepper, destroying armored vehicles with ["lunge](https://en.wikipedia.org/wiki/Anti-tank_grenade) [mines"](https://en.wikipedia.org/wiki/Anti-tank_grenade) (a [hollow-charge warhead](https://en.wikipedia.org/wiki/Shaped_charge) on the end of a pole, detonated by
 
-## ![](_page_9_Picture_3.jpeg)
 
 Võ Nguyên Giáp (left) with Hồ Chí Minh (right) in Hanoi in 1945
 
@@ -351,17 +341,14 @@ All the parties at Geneva called for reunification elections, but they could not
 
 By the afternoon of 20 July 1954, the remaining outstanding issues were resolved as the parties agreed that the partition line should be at the 17th parallel and the elections for a reunified government should be held in July 1956, two years after the ceasefire[.\[96\]](#page-26-20) The Agreement on the Cessation of Hostilities in Vietnam was only signed by the French and Việt Minh military commands, with no participation or consultation of the [State of](https://en.wikipedia.org/wiki/State_of_Vietnam) [Vietnam](https://en.wikipedia.org/wiki/State_of_Vietnam)[.\[97\]](#page-26-21) Based on a proposal by Chinese delegation head Zhou Enlai, an [International Control Commission](https://en.wikipedia.org/wiki/International_Control_Commission) (ICC) was established to supervise the ceasefire under the Geneva Accords. Chaired by India, the commission included Canada and Poland as its other members.[\[98\]](#page-26-22)[\[99\]](#page-26-23) Because issues were to be decided unanimously, Poland's presence in the ICC provided the
 
-## ![](_page_10_Picture_6.jpeg)
 
 Ho Chi Minh with Indian Prime Minister [Jawaharlal Nehru](https://en.wikipedia.org/wiki/Jawaharlal_Nehru) in New Delhi, India, 7 February 1958
 
 Communists with effective veto power over supervision of the treaty.[\[100\]](#page-26-24) The unsigned Final Declaration of the Geneva Conference called for reunification elections, which the majority of delegates expected to be supervised by the ICC. The Việt Minh never accepted ICC authority over such elections, insisting that the ICC's "competence was to be limited to the supervision and control of the implementation of the Agreement on the Cessation of Hostilities by both parties"[.\[101\]](#page-26-25) Of the nine nations represented, only the United States and the State of Vietnam refused to accept the declaration. Undersecretary of state [Walter Bedell Smith](https://en.wikipedia.org/wiki/Walter_Bedell_Smith) delivered a "unilateral declaration" of the United States position, reiterating: "We shall seek to achieve unity through free elections supervised by the United Nations to ensure that they are conducted fairly".[\[102\]](#page-26-26)
 
-## ![](_page_11_Picture_3.jpeg)
 
 Hồ Chí Minh with East German sailors in [Stralsund](https://en.wikipedia.org/wiki/Stralsund) harbor during his 1957 visit to East Germany
 
-## ![](_page_11_Picture_5.jpeg)
 
 Hồ Chí Minh with members of the East German [Young Pioneers](https://en.wikipedia.org/wiki/Pioneer_movement) near Berlin, 1957
 
@@ -401,7 +388,6 @@ In early 1969, Hồ suffered a heart attack and was in increasingly bad health f
 
 ## **Personal life**
 
-## ![](_page_15_Picture_5.jpeg)
 
 Hồ Chí Minh holding his goddaughter, baby Elizabeth (Babette) Aubrac, with Elizabeth's mother, [Lucie,](https://en.wikipedia.org/wiki/Lucie_Aubrac) 1946.
 
@@ -413,7 +399,6 @@ Because he was in exile for nearly 30 years, Hồ could speak fluently as well a
 
 As president, he held formal receptions for foreign heads of state and ambassadors at the [Presidential Palace,](https://en.wikipedia.org/wiki/Presidential_Palace,_Hanoi) but he did not personally live there. He ordered the building of a [stilt house](https://en.wikipedia.org/wiki/Stilt_house) at the back of the palace, which is today known as the [Presidential](https://en.wikipedia.org/wiki/Presidential_Palace_Historical_Site) [Palace Historical Site.](https://en.wikipedia.org/wiki/Presidential_Palace_Historical_Site) His hobbies (according to his secretary [V](https://en.wikipedia.org/wiki/V%C5%A9_K%E1%BB%B3)ũ [K](https://en.wikipedia.org/wiki/V%C5%A9_K%E1%BB%B3)ỳ) included reading, gardening, feeding fish (many of which are still living), and visiting schools and children's homes.
 
-## ![](_page_16_Picture_4.jpeg)
 
 Hồ Chí Minh in 1958 watching a football (soccer) game in Hanoi in his favorite fashion, with his closest comrade Prime Minister Phạm Văn Đồng seated to Hồ's left (photo right)
 
@@ -439,7 +424,6 @@ The Socialist Republic of Vietnam still praises the legacy of Uncle Hồ (*Bác 
 
 In *The Communist Road to Power in Vietnam* (1982), Duiker suggests that Hồ Chí Minh's cult of personality is indicative of a
 
-## ![](_page_17_Picture_10.jpeg)
 
 Hồ Chí Minh Mausoleum, [Hanoi.](https://en.wikipedia.org/wiki/Hanoi)
 
@@ -453,21 +437,17 @@ Duiker argues many were to find the new ideology "congenial" precisely because o
 
 in "an anointed elite, trained in an all-embracing doctrine and responsible for leading the broad masses and indoctrinating them in proper thought and behavior"; in "the subordination of the individual to the community"; and in the perfectibility, through corrective action, of human nature[.\[170\]](#page-30-6) All of this, Duiker suggests, was in some manner present in the aura of the new Master, Chi Minh, "the bringer of light", "Uncle Hồ" to whom "all the desirable qualities of Confucian ethics" are ascribed[.\[171\]](#page-30-7) Under Hồ Chí Minh, Vietnamese Marxism developed, in effect, as a kind of "reformed Confucianism" revised to meet "the challenges of the modern era" and, not least among these, of "total mobilization in the struggle for national independence and state power.["\[172\]](#page-30-8)
 
-## ![](_page_18_Picture_5.jpeg)
 
 Vien, saw definite parallels between Confucian and party discipline, between the traditional scholar gentry and Hồ Chí Minh's party cadres[.\[174\]](#page-30-10)
 
 A completely different form of the cult of Hồ Chí Minh (and one tolerated by the government with uneasiness) is his identification in Vietnamese folk religion with the [Jade Emperor,](https://en.wikipedia.org/wiki/Jade_Emperor) who supposedly incarnated again on earth as Hồ Chí Minh. Today, Hồ Chí Minh as the Jade Emperor is supposed to speak from the spirit world through Spiritualist mediums. The first such medium was one Madam Lang in the 1990s, but the cult acquired a significant number of followers through another medium, Madam Xoan. She established on 1 January 2001 the Đạo Ngọc Phật
 
-## ![](_page_18_Picture_8.jpeg)
 
 1954 [postage stamp](https://en.wikipedia.org/wiki/Postage_stamp) of Hồ Chí Minh with [Chinese](https://en.wikipedia.org/wiki/China) [Leader](https://en.wikipedia.org/wiki/Paramount_Leader_of_China) [Mao Zedong](https://en.wikipedia.org/wiki/Mao_Zedong) and [Soviet Leader](https://en.wikipedia.org/wiki/List_of_leaders_of_the_Soviet_Union) [Georgy Malenkov.](https://en.wikipedia.org/wiki/Georgy_Malenkov)
 
-## ![](_page_18_Picture_10.jpeg)
 
 Hồ Chí Minh statue outside Hồ Chí Minh City Hall, Hồ [Chí Minh City](https://en.wikipedia.org/wiki/H%E1%BB%93_Ch%C3%AD_Minh_City)
 
-## ![](_page_18_Picture_12.jpeg)
 
 Temple devoted to Nguyễ[n Sinh S](https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_Sinh_S%E1%BA%AFc)ắc, Hồ Chí Minh's father
 
@@ -483,11 +463,9 @@ Busts, statues, and memorial plaques and exhibitions are displayed in destinatio
 
 Many activists and musicians wrote songs about Hồ Chí Minh and his revolution in different languages during the Vietnam War to demonstrate against the United States. Spanish songs were composed by [Félix Pita Rodríguez,](https://en.wikipedia.org/wiki/F%C3%A9lix_Pita_Rodr%C3%ADguez) [Carlos Puebla](https://en.wikipedia.org/wiki/Carlos_Puebla) and [Alí](https://en.wikipedia.org/wiki/Al%C3%AD_Primera) [Primera.](https://en.wikipedia.org/wiki/Al%C3%AD_Primera) In addition, the Chilean folk singer [Víctor Jara](https://en.wikipedia.org/wiki/V%C3%ADctor_Jara) referenced Hồ Chí Minh in his [anti-war song](https://en.wikipedia.org/wiki/Anti-war_song) "El derecho de vivir en paz" ("The Right to Live in Peace"). [Pete Seeger](https://en.wikipedia.org/wiki/Pete_Seeger) wrote
 
-## ![](_page_19_Picture_7.jpeg)
 
 U. S. President [Joe Biden](https://en.wikipedia.org/wiki/Joe_Biden) with Vietnamese Prime Minister [Ph](https://en.wikipedia.org/wiki/Ph%E1%BA%A1m_Minh_Ch%C3%ADnh)ạm [Minh Chính](https://en.wikipedia.org/wiki/Ph%E1%BA%A1m_Minh_Ch%C3%ADnh) in front of a statue of Hồ Chí Minh in Hanoi, September 2023
 
-## ![](_page_19_Picture_9.jpeg)
 
 Ho Chí Minh pictured with children in a photo by state media
 
@@ -501,7 +479,6 @@ Hồ Chí Minh is considered one of the most influential leaders in the world. *
 
 In 1987, [UNESCO](https://en.wikipedia.org/wiki/UNESCO) officially recommended that its member states "join in the commemoration of the centenary of the birth of President Hồ Chí Minh by organizing various events as a tribute to his memory", considering "the important and many-sided contributions of President Hồ Chí Minh to the fields of culture, education and the arts" who "devoted his whole life to the national liberation of the Vietnamese people, contributing to the common struggle of peoples for peace, national independence, democracy, and social progress"[.\[187\]](#page-31-9)
 
-## ![](_page_20_Picture_5.jpeg)
 
 ## Hồ Chí Minh bust in Kolkata, India
 

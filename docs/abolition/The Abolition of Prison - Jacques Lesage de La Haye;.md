@@ -11,19 +11,9 @@ tags:
 
 # Jacques Lesage de La Haye translated by Scott Branson
 
-## ![](_page_0_Picture_2.jpeg)
-
-## ![](_page_0_Picture_3.jpeg)
-
-## ![](_page_0_Picture_4.jpeg)
-
-## ![](_page_0_Picture_5.jpeg)
-
-## ![](_page_1_Picture_0.jpeg)
 
 Jacques Lesage de La Haye translated by Scott Branson
 
-## ![](_page_2_Picture_0.jpeg)
 
 #### Dedication
 
@@ -1329,7 +1319,6 @@ Email friendsofak@akpress.org for more info, or visit the website: https://www.a
 
 There are always great book projects in the works—so sign up now to become a Friend of AK Press, and let the presses roll!
 
-## ![](_page_115_Picture_0.jpeg)
 
 "The Abolition of Prison encapsulates Jacques Lesage de La Haye's four-decade long activism against the prison system ... It brings together theoretical analysis and his inspiring personal journey as a criminalized youth turned into a psychologist with an extensive experience of alternative approaches to institutionalization."
 
@@ -1341,6 +1330,4 @@ The Abolition of Prison is a powerful series of reflections from a longtime pris
 
 **Scott Branson** (they/them) is a queer/trans anarchist, writer, translator, community organizer, and teacher, based in so-called North Carolina.
 
-## ![](_page_116_Picture_7.jpeg)
 
-## ![](_page_116_Picture_8.jpeg)

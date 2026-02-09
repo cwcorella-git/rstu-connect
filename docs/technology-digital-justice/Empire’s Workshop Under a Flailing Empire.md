@@ -51,7 +51,6 @@ Grandin argues that the New Right, the conservative coalition behind Reagan and 
 
 There, Reagan framed the US nation-building project as an epic battle between good and evil. Contrary to Vietnam's progressive drain on US moral high ground, Reagan responded to "mounting evidence of atrocities committed by U. S. allies" in Central America by constantly raising the "ethical stakes" of US involvement.
 
-## ![](_page_4_Picture_2.jpeg)
 
 President Reagan makes his address to the nation on the Iran-Contra controversy from the Oval Office on March 4, 1987. (National Archives Catalogue)
 
@@ -101,7 +100,6 @@ But the world is a very dierent place in 2021 than it was in 2006, when the book
 
 Trump, of course, came to best incarnate this crisis, famously [remarking:](https://www.washingtonpost.com/news/post-politics/wp/2017/02/04/oreilly-told-trump-that-putin-is-a-killer-trumps-reply-you-think-our-countrys-so-innocent/) "We have a lot of killers. Well, you think our country is so innocent?" George W. Bush launched the War on Terror as a divine mission, declaring a "world crusade of free-market nation building." Trump, in turn, renounced the frontier for a fortress, as Grandin persuasively argues in *[The End of the Myth.](https://www.jacobinmag.com/2019/03/greg-grandin-end-of-the-myth)*
 
-## ![](_page_8_Picture_4.jpeg)
 
 The Biden administration appears resolved to continue the glorious imperialist tradition of learning nothing from its predecessor's mistakes in Latin America. (Chip Somodevilla/Getty Images)
 

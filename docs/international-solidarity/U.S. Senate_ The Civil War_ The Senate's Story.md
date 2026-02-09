@@ -9,7 +9,6 @@ tags:
 
 [senate.gov](https://www.senate.gov/artandhistory/history/common/civil_war/Victory Tragedy Reconstruction.htm)
 
-15–19 minutes
 
 ## Victory, Tragedy, and Reconstruction
 
@@ -21,7 +20,6 @@ On April 4, 1865, as news of the fall of Richmond spread, public buildings throu
 
 French "had the 23rd verse of the 118th Psalm printed on cloth, in enormous letters, as a transparency, and stretched on a frame the entire length of the top of the western portico, . . . 'This is the Lord's doing; it is marvelous in our eyes.'" A week later, after Confederate General Robert E. Lee surrendered at Appomattox, crowds of Washingtonians again took to the streets in jubilation. Secretary of War Edwin Stanton ordered that guns be fired in salute to commemorate the day.
 
-## ![](_page_1_Picture_3.jpeg)
 
 The euphoria of Union victory came to a sudden halt on the night of April 14, 1865, when President Lincoln was shot while attending a play at Ford's Theatre. As the president lay dying in a house across the street from the theater, Senator Charles Sumner appeared at his bedside. Keeping his deathbed vigil throughout the long night, the Massachusetts senator was one of the few present when Lincoln died on the morning of April 15. "Mourn not the dead," Sumner later wrote in his eulogy to Lincoln, "but rejoice in his life and example . . . . Rejoice that through him Emancipation was proclaimed." Having just days before taken to the streets in joyful celebration, Washingtonians now solemnly lined Pennsylvania Avenue as the massive funeral procession made its way to the Capitol. In the Rotunda, the body of the martyred president lay in state upon a hastily constructed catafalque. Reporter Benjamin
 
@@ -35,7 +33,6 @@ No nation ever looked on such a triumphal procession as railed through the 150,0
 
 Sacrificed for law and liberties for us and our children. . . . As far as the eye could see up Pennsylvania Avenue seemed like a river of life. . . . There were the old banners first blessed at home and consecrated with the prayers of wives and mothers. Now shorn to shreds, scarce able to cling to the flagstaff. How glad they seem to be—their work well done, their homes secure, their nation saved.
 
-## ![](_page_3_Picture_3.jpeg)
 
 Long before the Union victory, Congress had been preparing for the many challenges the nation would face at war's end, particularly the integration of four million newly emancipated African Americans into the political life of the nation. Led by the Radical Republicans in the House and Senate, Congress passed the Wade-Davis bill on July 2, 1864—co-sponsored by Senator Benjamin Wade of Ohio and Representative Henry Davis of Maryland—to provide for the admission to representation of rebel states upon meeting certain conditions. Among the conditions was the requirement that 50 percent of white males in the state swear a loyalty oath, and the insistence that the state grant African American men the right to vote. President Lincoln, who had earlier proposed a more modest 10-percent threshold, pocket-vetoed the Wade-Davis bill, stating he was opposed to being "inflexibly committed to any single plan of restoration." When the 38th Congress came to an end on
 
@@ -47,7 +44,6 @@ Both moderates and radicals in Congress opposed the president's lenient reconstr
 
 Senator William Pitt Fessenden, demanded that rebel states be admitted to representation only after adopting state constitutions that provided full citizenship to African Americans and granted black men the right to vote. The president's plan, explained Senator Timothy Howe of Wisconsin, seemed "to deny to the Senate of the United States certain prerogatives," including its constitutional right to "be the judge of the Elections, Returns and Qualifications of its own members." Senator Fessenden argued that the president's position implied that "Congress, as at present organized, has no right to pass any bill affecting the interests of the late confederate States while they are not represented in Congress." To the contrary, Fessenden insisted, "I could not rest . . . if I yielded for a moment to the idea, come from what source it may, that anybody but Congress had the right . . . to settle preliminarily the question whether the States that sent them here were entitled to have Senators and Representatives or not."
 
-## ![](_page_5_Picture_3.jpeg)
 
 The Senate responded with its own reconstruction bills. Senator Lyman Trumbull introduced the Freedman's Bureau Bill in 1865, which extended the provisions of the earlier Freedmen's Bureau by expanding the power of military governors to enforce provisions to protect African Americans. The bill also defined the organization of interim governments under conditions prescribed by Congress. President Johnson vetoed the bill. He resisted all congressionally driven reconstruction programs, denouncing those who stood "opposed to the restoration of the Union," and calling the "indefinite or permanent exclusion of any part of the country" an "unwise and dangerous course." He urged Congress to restore representation to the 11 states of the rebellion, arguing that they were "entitled to enjoy their constitutional rights as members of the Union."
 
@@ -57,7 +53,6 @@ The following year Congress passed the Reconstruction Act of 1867, establishing 
 
 The battles over Reconstruction-era policies severely strained relations between the executive and legislative branches. Throughout 1866 and 1867, Radical Republicans in the House considered impeaching the uncompromising president. After Johnson defied the Tenure of Office Act—a congressional attempt at keeping Lincoln appointees in office—the House impeached him on February 24, 1868, sending 11 articles of impeachment to the Senate. The first presidential impeachment trial in U. S. history began when the Senate convened as a High Court of Impeachment on March 5, 1868. This unprecedented event resulted in a public spectacle, with so many people seeking to view the proceedings that for the first time the Senate had to issue tickets for admission to its galleries.
 
-## ![](_page_7_Picture_4.jpeg)
 
 After nearly two months of dramatic testimony, on May 16 the Senate conducted a "test" vote on the 11th article of impeachment. Seven Republicans joined all of the Democrats to support Johnson and voted not guilty, resulting in a roll-call vote of 36 guilty to 19 not guilty—one vote short of the necessary two-thirds vote required by the Constitution to convict the president and remove him from office. Subsequent votes on two other articles produced identical results. Despite the high level of frustration with President Johnson's tactics, 19 senators concluded that the president's actions did not warrant removal. "I cannot agree to destroy the harmonious working of the Constitution," explained Senator Grimes, "for the sake of getting rid of an unacceptable President." With conviction on other articles even less likely, the Republican majority adjourned the court of impeachment and the trial of the president ended.
 
@@ -71,9 +66,6 @@ Influencing such debates were the memories of war and Reconstruction that linger
 
 Civil War veterans also filled positions as Senate officers and staff. As late as 1911 the Senate adopted a resolution that any staff member who served in the Union army and was not otherwise provided for could retain his post until he voluntarily retired. Subsequently, an "Old Soldier's Roll" appeared in the Senate patronage reports.
 
-## ![](_page_9_Picture_6.jpeg)
-
-## ![](_page_10_Picture_2.jpeg)
 
 As the effects of the war continued to reverberate through American political life, the Capitol became a venue for displaying symbols of reconciliation. Congress purchased a statue of Abraham Lincoln in 1871. In 1899 the Grand Army of the Republic contributed a likeness of General Ulysses S. Grant. In 1909 Virginia sent to the Capitol a marble statue of General Robert E. Lee. Mississippi donated a bronze likeness of Confederate president Jefferson Davis in 1928. The statues of many Civil War era soldiers and statesmen still line the corridors of the Capitol, where they stand as a reminder of the nation's worst crisis, as a testament to the reuniting of the nation, and in recognition of the Senate's pivotal role in the wartime experience.
 

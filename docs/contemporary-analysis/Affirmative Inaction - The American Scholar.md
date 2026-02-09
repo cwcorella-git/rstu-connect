@@ -12,7 +12,6 @@ tags:
 
 ## William M. Chace
 
-29–37 minutes
 
 In his 1965 commencement address at Howard University, President Lyndon Johnson declared, "You do not take a person who, for years, has been hobbled by chains and liberate him, bring him up to the starting line of a race and then say, 'you are free to compete with all the others,' and still justly believe that you have been completely fair." The affirmative-action approach President Johnson proposed in that speech was to be a moral and policy response to the losses, both material and psychological, suffered by African Americans during and after the time of slavery: "We seek not just freedom but opportunity —not just legal equity but human ability—not just equality as a right and a theory, but equality as a fact and as a result." Johnson's speech was followed in 1965 by executive orders aiming "to correct the effects of past and present discrimination." Universities and colleges across the land soon adopted affirmative-action policies. More than 45 years have passed since that June afternoon on the Howard campus. What is the fate of Johnson's triumphant vision in the world we now occupy?
 
@@ -79,7 +78,6 @@ On a variety of fronts, then, the practice now faces more resistance in this nat
 
 In the face of that resistance, colleges and universities themselves are silently backing away, bit by bit, from affirmative action. Data from more than 1,300 four-year colleges and universities in the United States show that the use of race and ethnicity in admissions declined sharply after the mid-1990s, especially at public institutions. The proportion of public four-year colleges considering minority status in admissions has fallen from more than 60 percent to about 35 percent. Among private institutions, the drop during the same years has been notable but less dramatic, from 57 percent to 45 percent. The major decline came after 1995, when the campaign against affirmative action intensified, and schools, particularly public ones, thrown on the defensive, retreated. They were reacting not only to actual litigation but also to its threat. While colleges and universities that are considered elite are more likely to have practiced affirmative action and to have been more protective of it, even they have retreated. Few innovative or vigorous forms of affirmative action are now in play in the face of courts and federal agencies exercising strict scrutiny when examining admissions procedures and in the face of an increasingly suspicious citizenry.
 
-## ![](_page_11_Picture_3.jpeg)
 
 President Johnson at the 1965 commencement at Howard University (LBJ Library Photo by Yoichi Okamoto)
 

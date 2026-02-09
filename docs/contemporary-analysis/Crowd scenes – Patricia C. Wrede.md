@@ -10,7 +10,6 @@ tags:
 
 ## [pcwrede.com](https://pcwrede.com/pcw-wp/crowd-scenes/)
 
-7–9 minutes
 
 One of the first things I ever learned to hate about writing was writing council scenes. One character on stage had things to do; two characters on stage could talk to each other; three could talk and interrupt and disagree. But with every character after that who had to be part of a scene, it got harder and harder to keep things moving. Either some of the characters were just standing quietly in the background, doing and saying nothing (so why were they there, again?) or there was a mad jumble of actions and lines of dialog that didn't make sense.
 

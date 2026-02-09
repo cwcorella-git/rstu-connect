@@ -8,7 +8,6 @@ tags:
   - current-events
 ---
 
-## ![](_page_0_Picture_2.jpeg)
 
 [Black Rose/Rosa Negra](https://www.blackrosefed.org/) [Anarchist Federation](https://www.blackrosefed.org/)
 
@@ -16,7 +15,6 @@ tags:
 
 ## January 9, 2018
 
-## ![](_page_0_Picture_11.jpeg)
 
 #### **By Scott Jay**
 
@@ -54,7 +52,6 @@ The Postmodern Left is detached from reality because it makes its own reality.
 
 The Postmodern Left does not believe in postmodernism. The Postmodern Left is postmodernism.
 
-## ![](_page_3_Picture_4.jpeg)
 
 ## **The material roots of Postmodern Leftism**
 
@@ -78,7 +75,6 @@ The Postmodern Left is the simulation of a Left, with all of the chants, banners
 
 On the one hand, Postmodern Leftism has completely failed to challenge neoliberal austerity measures. On the other hand, we can see that full-time staff of the Postmodern Left has done a spectacular job of staving off austerity once we realize that the only jobs they are committed to protecting are their own.
 
-## ![](_page_7_Picture_2.jpeg)
 
 ### **Postmodern social movements**
 
@@ -110,7 +106,6 @@ What Seymour describes is the problem posed by February 15, 2003, the high point
 
 Some people have been grappling with the problem posed by February 15 for the last decade. Others are perfectly content to repeat this same process over and over again, as it allows them to continue selling books, booking speaking engagements, recruiting people to their organizations and funding their non-prot organizations. These machinations can continue indenitely and are entirely compatible with the capitalist system. One can make can make quite a satisfying career and lifestyle as a revolutionary of sorts, so long as it is all within the connes of the Postmodern Left.
 
-## ![](_page_10_Picture_5.jpeg)
 
 ### **SYRIZA's Postmodern Neoliberalism**
 

@@ -8,7 +8,6 @@ tags:
   - culture
 ---
 
-66–84 minutes
 
 ### **Type**
 

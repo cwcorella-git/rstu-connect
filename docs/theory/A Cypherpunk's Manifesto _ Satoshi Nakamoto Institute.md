@@ -1,11 +1,10 @@
 ---
-title: '![](_page_0_Picture_2.jpeg)'
+title: ''
 category: theory
 tags:
   - theory
 ---
 
-![](_page_0_Picture_2.jpeg)
 
 [Library](https://nakamotoinstitute.org/library/)
 
@@ -47,7 +46,6 @@ The Cypherpunks are actively engaged in making the networks safer for privacy. L
 
 [X](https://x.com/NakamotoInst) [Nostr](https://primal.net/sni)
 
-![](_page_3_Picture_3.jpeg)
 
 ## SATOSHI NAKAMOTO INSTITUTE ESTABLISHED BLOCK #272,311
 

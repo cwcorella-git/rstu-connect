@@ -10,7 +10,6 @@ tags:
 
 ## Contributors to Wikimedia projects
 
-116–147 minutes
 
 **Proportional representation** (**PR**) refers to any [electoral](https://en.wikipedia.org/wiki/Electoral_system) [system](https://en.wikipedia.org/wiki/Electoral_system) under which subgroups of an electorate are reflected proportionately in the elected body[.\[1\]](#page-63-0) The concept applies mainly to political divisions [\(political parties\)](https://en.wikipedia.org/wiki/Political_party) among voters. The aim of such systems is that all votes cast contribute to the result so that each representative in an assembly is mandated by a roughly equal number of voters, and therefore all votes have equal weight. Under other election systems, a bare [plurality](https://en.wikipedia.org/wiki/Plurality_(voting)) or a scant [majority](https://en.wikipedia.org/wiki/Majority) are all that are used to elect candidates. PR systems provide balanced representation to different factions, usually defined by parties, reflecting how votes were cast. Where only a choice of parties is allowed, the seats are allocated to parties in proportion to the vote tally or vote share each party receives.
 

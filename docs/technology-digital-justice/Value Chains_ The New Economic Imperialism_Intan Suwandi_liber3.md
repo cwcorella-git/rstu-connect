@@ -27,7 +27,6 @@ Established in 2014, this award honors the contributions of the founders of the 
 
 ## INTAN SUWANDI
 
-## ![](_page_3_Picture_3.jpeg)
 
 Copyright © 2019 by Intan Suwandi All Rights Reserved
 

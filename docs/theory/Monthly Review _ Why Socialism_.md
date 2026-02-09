@@ -29,7 +29,6 @@ Is it advisable for one who is not an expert on economic and social issues to ex
 
 Let us rst consider the question from the point of view of scientic knowledge. It might appear that there are no essential methodological dierences between astronomy and economics: scientists in both elds attempt to discover laws of general acceptability for a circumscribed group of phenomena in order to make the
 
-## ![](_page_0_Picture_16.jpeg)
 
 *Albert Einstein* (1959), charcoal and watercolor drawing by Alexander Dobkin. Dobkin (1908-1975) was an important painter of the mid-twentieth century American realist tradition along with other left-wing artists such as Jack Levine, Robert Gwathmey, Philip Evergood, and Raphael and Moses Soyer. A student and collaborator of the Mexican muralist Jose Clemente Orozco, his work is in the permanent collections of the Butler Art Institute, the Museum of Modern Art, the Brooklyn Museum, interconnection of these phenomena as clearly understandable as possible. But in reality such methodological dierences do exist. The discovery of general laws in the eld of economics is made dicult by the circumstance that observed economic phenomena are often aected by many the Whitney Museum of American Art, the Philadelphia Museum of Art, the Library of Congress, and the Smithsonian Institution. (The preceding caption was written by John J. Simon, ["Albert Einstein, Radical: A Political](https://monthlyreview.org/2005/05/01/albert-einstein-radical-a-political-profile/) [Pro](https://monthlyreview.org/2005/05/01/albert-einstein-radical-a-political-profile/)le," *Monthly Review* vol. 57, no. 1 [2005].)
 
@@ -89,7 +88,6 @@ Clarity about the aims and problems of socialism is of greatest signicance in ou
 
 ## Also in this issue
 
-## ![](_page_7_Picture_2.jpeg)
 
 [May 2009 \(Volume 61, Number 1\) ,](https://monthlyreview.org/2009/05/01/mr-061-01-2009-05_0/) [The Editors](https://monthlyreview.org/author/monthlyrevieweditors/)
 
@@ -109,7 +107,6 @@ Clarity about the aims and problems of socialism is of greatest signicance in ou
 
 ## New from Monthly Review Press
 
-## ![](_page_8_Picture_2.jpeg)
 
 [The Class Struggle and Welfare:](https://monthlyreview.org/product/the-class-struggle-and-welfare-social-policy-under-capitalism/) [Social Policy under Capitalism](https://monthlyreview.org/product/the-class-struggle-and-welfare-social-policy-under-capitalism/)
 

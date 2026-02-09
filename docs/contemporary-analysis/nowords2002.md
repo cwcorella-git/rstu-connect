@@ -7,7 +7,6 @@ tags:
   - current-events
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 Greg Costikyan 355 South End Ave #2B New York, NY 10280, USA (646) 489–8609 costik@costik.com
 

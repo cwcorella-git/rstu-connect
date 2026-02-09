@@ -11,9 +11,6 @@ tags:
 
 > J. K. GIBSON-GRAHAM **JENNY CAMERON** AND STEPHEN HEALY
 
-## ![](_page_1_Picture_0.jpeg)
-
-## ![](_page_2_Picture_0.jpeg)
 
 # a etil Guid fr Trsfrig our cuitis
 
@@ -51,9 +48,6 @@ Iuds bbgrp rrs d dx.
 
 T Uvrsy Ms s qu-ppruy dur d mpyr.
 
-## ![](_page_5_Picture_0.jpeg)
-
-## ![](_page_6_Picture_0.jpeg)
 
 ## **Contents**
 
@@ -72,7 +66,6 @@ Commoning |
 | | Notes 199 |
 ## | | Index 215 |
 
-## ![](_page_8_Picture_0.jpeg)
 
 ## akwldgts kg bk my s sk r r. T jb s r rd by my. Tkuy w kw r r rdy my jb. Ts bk ud v b wr wu m.
 
@@ -94,7 +87,6 @@ Sp ks K Bvrm d E Mr, w v pud u sps p brg s bk , rg dd rsr d dr sss d srg r ggm. 
 
 Fy, s w r kg bk y b my w y ur uur s prus r, w kwdg d k yu r yur rs. Yu r ur um spr.
 
-## ![](_page_12_Picture_0.jpeg)
 
 # Tk Bk t ey W Now?
 
@@ -134,7 +126,6 @@ Ts um suppr sysms r k mmuy grds w d s my prs wrd. I w k mmuy grd, w d gs ur (sug
 
 W ur s kd d grdrs wrk rd, y r rwrdd w pu rvs. Tr s surpus, v r vgbs r by grdrs d r ms, sds svd, d mps dd. T grdrs dd gv sm vgbs wy. Ty gv r xdd ms d gbrs w v r grd, d y bgs d bxs d d bk.
 
-## ![](_page_16_Picture_0.jpeg)
 
 Ts gs bud gdw d rbu mmuy-budg g grd. T grdrs s dd s sm surpus rmrs' mrk, d y us my rsd buy w qupm w mk x rud prdu sr d mr prduv.
 
@@ -252,7 +243,6 @@ Paul Hawken, Blessed Unrest: How the Largest Social Movement in History Is Resto
 
 Most important, what gives us hope is that different economic dynamics can be activated by ethical choices. And small actions can have big effects, as the trim tab does on an ocean liner. A trim tab is a tiny flap that controls the rudder, creating a low-pressure area on one side that enables the rudder to turn. It takes only a movement of the tiny trim tab to steer a large and complex ship toward a very different destination than it was previously headed for. In society, too, small actions can initiate major changes. An idea can spread rapidly, reframing our sense of possibility and unleashing new capacities. A local project can be replicated on a global scale. As we have seen in the cases of the World Wide Web and You Tube, we are living in an age when self-organized movements can spread their knowledge and effects across the globe at lightning speed. Starting where we are, we are in a good position to begin taking back the economy. Are you ready?
 
-## ![](_page_24_Picture_0.jpeg)
 
 # reng the Econoy, reng useles
 
@@ -272,7 +262,6 @@ T mg my s m s b s rbus v bgg wy-rs ury, mss su s Jry Ss mrry dr, "T wdru g bu mr
 
 N Ss's d prgrss umy ws m s mmy gudd by ms-prr. Bu s s d w udd? Irsg umbrs pp v grv rs bu w s m my prs. I s vrus d ussb pp r ur rsurs. I s rgy bvus squs dusr prdu s pumps u grus gs msss d r vrm pus dsry ur g mms. I pys rgrd wdg gp b w s w xssv mr w d s w s br survv s du. Ad pprs v wy rgug dsruv grd d gmbr bs s rs—s skd
 
-## ![](_page_27_Picture_2.jpeg)
 
 w g d prmg s ky vvs d spgs. Fr s w w Fsr, Pps, d Ss mg m b b mpu d djus r vrs d ds r grr gd, s rb prbms rm.
 
@@ -336,7 +325,6 @@ Rrmg my s r sp budg mmuy ms. By sg my s m bu s dy--
 
 dy prsss w gg s w g bu surg w w d mry u, 's r my s rd by s w k. Pp r rg mmuy ms bsd dss v w w r ums d w wrd rud m. S s rg mmuy my by g r rg dsruv vrm mp s dusry d r dsr dv du pprus x w my mss u. T SFC s rg mmuy
 
-## ![](_page_32_Picture_3.jpeg)
 
 my by g mmm pwr wm vy s m ds mkrs d by prvdg pprus r m sur m r w-bg r r dspry pr ms.
 
@@ -366,7 +354,6 @@ Our rs sp wrd rrmg rprss my s brg. Abv wr r m vs r vsb m srm m us. Ts r srs vs r
 
 T brg b usd mk vry m prs dvdu s vvd , r b usd rrd m vs kg p mmuy, rg, r . T brg prss dr udrsdg w sus my. Sm pp k psm s rgb w my. W d '. W us d brg my kwdg m dvrsy buds s wrd. T
 
-## ![](_page_35_Picture_2.jpeg)
 
 brg s ws us xpr rrsps b p urd by m mrk dbk ps r vrs d ds ss srugg. O w ud w s dd bw wr d pssby kpg us s sy—w xpd ur prsps r kg bk my. W py mupy pprus r s.
 
@@ -567,7 +554,6 @@ uur, d w sr d us svgs d surpus s w d r sps u v s p.
 
 I prs s bk w rgrud pp w r g g gs vg w gr. Lk S d SEWA, y w mk dr. T dss y mk d s y k my wys b ur kg; w my k rd-s vvd r su r sk d. Bu s r ur w rvrs. Ty r s rssg d r s m my ds ur s d pss us s s-d m us. Isd, y r rg u d g w pp rm dr m d ggrp s; y r kg sr usy m wrk ds b d rdrss vrm rms. Lk udrds usds rss gb, s r pp w us by pg up w wrds pssby.
 
-## ![](_page_40_Picture_0.jpeg)
 
 2.
 
@@ -658,7 +644,6 @@ p us udrsd w gs v dry d wrkg vs m d wm, w us wg s:
 
 Frm md- ury , r dmd wrk rs' mvm ws m wrkdy g urs s wg wrkrs ud v bd wud ud g urs
 
-## ![](_page_47_Picture_1.jpeg)
 
 | WORKER'S WELL-BEING | 1 | 2 | 3 |
 |---------------------|---|---|---|
@@ -676,7 +661,6 @@ Uz ws ky v vd s d r wrkrs r dusr srs sm urs vr w ury. Uruy, sr wy-rs ury s d s s
 
 ## W w k mr sy s d s rg sr
 
-## ![](_page_48_Picture_2.jpeg)
 
 x, w s b sug r wrkrs ws prdd dd br wm. T w-bg m wrkr d s sprg dpdd wm's upd uswrk, d r, pr r, mmuy wrk, d s wrkg. A bd wrkdy r m dd wys m bd wrkdy r wm. As wy-Fur-Hur Ck vs wrkr's w sws, wm- 's upd br m ud swg b sgy.
 
@@ -686,9 +670,6 @@ Sm wm ud upd br usd d mmu y sur psur d ss. Bu r r wm, br m y pu prdug mr, s, mmu
 
 Mw, usds wr wm k pd mpym mk ds m r wr r ws "brdwr" bu sg wrkg mr, dub dy ws rm, s sw sg mr's wy-Fur-Hur Ck. Sm wm s su my v b supprd by srg wrks xdd my, bu w-pyg jbs d g wrkg urs ( d u m) m r ws ppruy r s wm v w-bg y r, s srrd sws. O urs, r sm wm w mr d
 
-## ![](_page_49_Picture_5.jpeg)
-
-## ![](_page_49_Picture_6.jpeg)
 
 up w-bg my v mr md up r rdm rm busv rsps.
 
@@ -718,7 +699,6 @@ T susss mvm r wrkgm's g-ur dy d susss ms mvm v rd mpx d rdry wys vr m. dy sms wm
 
 #### SINGLE MOTHER'S DOUBLE-DAY 24-HOUR CLOCK
 
-## ![](_page_51_Picture_1.jpeg)
 
 #### WELL-BEING SCORECARD
 
@@ -731,7 +711,6 @@ WELL-BEING | 1 | 2 | 3 |
 | Community | Х | | |
 ## | Physical | Х | | |
 
-## ![](_page_51_Picture_4.jpeg)
 
 mm mr, r s mm xpr. dy w d sg prz wrk vs.
 
@@ -749,7 +728,6 @@ My s sm Frdy gs gg druk w r gus, d spds ms wkd wrkg ss. Tr's m r rsrv vs, rs, r 
 
 #### MAYA'S 24-HOUR CLOCK
 
-## ![](_page_53_Picture_1.jpeg)
 
 #### WELL-BEING SCORECARD
 
@@ -761,7 +739,6 @@ My s sm Frdy gs gg druk w r gus, d spds ms wkd wrkg ss. Tr's m r rsrv vs, rs, r 
 | Community | Х | | |
 ## | Physical | | Х | |
 
-## ![](_page_53_Picture_4.jpeg)
 
 wrk– B S gg s d rd-s mks s y m survv w.
 
@@ -781,7 +758,6 @@ H pks up s kds d sm r rds d ks m swmmg p r up urs. A 5:00 p.m. 's bk m suprvs mw
 
 #### JOSEF'S 24-HOUR CLOCK
 
-## ![](_page_56_Picture_1.jpeg)
 
 #### WELL-BEING SCORECARD
 
@@ -793,7 +769,6 @@ H pks up s kds d sm r rds d ks m swmmg p r up urs. A 5:00 p.m. 's bk m suprvs mw
 | Community | | | Х |
 ## | Physical | | | Х |
 
-## ![](_page_56_Picture_4.jpeg)
 
 wy w wrk v rspd wrkg vs b dsrd d u dd wys. dy gdr quy d wrk– b sm b dds my prvgs d prrzs pd wrk.
 
@@ -850,7 +825,6 @@ W mpr D's g pr w r pp dr sus rud wrd. Fr xmp, 's jus sy D s vrg pr r Ppps 0.7, d
 
 #### DANILO'S 24-HOUR CLOCK
 
-## ![](_page_60_Picture_1.jpeg)
 
 #### WELL-BEING SCORECARD
 
@@ -1030,7 +1004,6 @@ W wud k sur w w s usd suppr s y d ur p? g srd, yu mg sdr wg quss:
 
 I s pr w'v sw w busss b k bk pr du pp d pry w-bg. O g ks vrus rprss gr r rsps rgd bw supprs d sumrs mrkp. I x pr w xpr w mrk rss s kwdg d prm rs' w-bg. W s sdr u rg wys by w pp w r d qur w y d survv w.
 
-## ![](_page_108_Picture_0.jpeg)
 
 4.
 
@@ -1170,7 +1143,6 @@ On the basis of this inventory we can construct a Distant Others Dandelion of co
 
 #### Disan Oers Dandeion
 
-## ![](_page_116_Picture_1.jpeg)
 
 d rprsg ury rg s m d s rug rv ds rm d sump p. T sdg ds ds dr kds prdus.
 
@@ -1615,7 +1587,6 @@ I mmuy my w k bu ssyg jus ur w ds bu s ds pp d vrms r pr vdg r us, d w k vry m u
 
 I mrks v ssumd pur pwr dy's wrd, s s prv prpry. Bu jus s mrks b rspd k u pp d pry w-bg, s prv prpry. I x pr w xm w prpry mg k k rug mmuy ms rm, d w s sdr vry wys prpry b "wd," w mps r w w m g d r r ur d uur rsurs r ss ur w d rs' survv.
 
-## ![](_page_148_Picture_0.jpeg)
 
 5.
 
@@ -1633,7 +1604,6 @@ Bu prv prpry s ms xus. T sg "Prv Prpry—Kp Ou!" pus s mssg buy. Prv wrsp dsgs w
 
 Prv prpry s s s udg prs mdr dmrs. Prpry-wg dvdus r s s dpd svrg bgs, gr bgd
 
-## ![](_page_149_Picture_9.jpeg)
 
 drds r d , w ry xrs r dm r rgs. O urs s vs rdy xudd rgs wm d svs, w, u g g, wr sdrd rms prv prpry d dd dmr v.
 
@@ -1651,7 +1621,6 @@ Ts prd prvz s bgg vry m ur gb rumss dmd jus v kg d g bu mv wy rm budry mkg sprs 
 
 I Nrr rrry Ausr, Abrg pp r rg r "r" d jus r r mmd b s "wrs" bu r gd wdr Ausr ppu. Ty r rg "us" kwdgs rdp d bw ums vry dr rumss d bw ums d vrm. Trug r xmp w s w w mg r prpry wys k us byd dss bw yurs d m d yu d m.
 
-## ![](_page_151_Picture_5.jpeg)
 
 #### r Eaimi a mmS r i EaT?
 
@@ -2745,7 +2714,6 @@ Tr s, wvr, r rdm ms rm kwdg g y dvdu r mmuy s pr "w," "us," d " urs." I s kg tog
 
 Lrg rm ur my p us ssum mr v gy kg bk my. Lrg ur's ss bgs by r gzg dvrsy prdus rs. Tr s rg swr; rr, r s dvrsy swrs. T ss us w prrzg s r s rs ur bs prsrv d uy ur b. T ss uds, m, w udrsdg r r mr squs ur s w p—gg g gs r. W rrd d rmmbr rsus ur m xprms, ur urs d mssps, ur rumps d susss, d dg s mv gr wrd mr susb, qub, d jus my.
 
-## ![](_page_222_Picture_0.jpeg)
 
 ## nts
 

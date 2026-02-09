@@ -9,7 +9,6 @@ tags:
   - wikipedia
 ---
 
-## ![](_page_0_Picture_2.jpeg)
 
 The Lumad are a group of [Austronesian](https://en.wikipedia.org/wiki/Austronesian_peoples) [indigenous peoples](https://en.wikipedia.org/wiki/Indigenous_peoples) in the southern [Philippines.](https://en.wikipedia.org/wiki/Philippines) It is a [Cebuano](https://en.wikipedia.org/wiki/Cebuano_language) term meaning "native" or "indigenous". The term is short for Katawhang Lumad (Literally: "indigenous people"), the [autonym](https://en.wikipedia.org/wiki/Autonym_(semantics)) officially adopted by the delegates of the Lumad Mindanao Peoples Federation (LMPF) founding assembly on 26 June 1986 at the Guadalupe Formation Center, Balindog, [Kidapawan,](https://en.wikipedia.org/wiki/Kidapawan) [Cotabato,](https://en.wikipedia.org/wiki/Cotabato) Philippines[.\[1\]](https://en.wikipedia.org/wiki/Lumad#cite_note-:0-1) Usage of the term was accepted in Philippine jurisprudence when [President](https://en.wikipedia.org/wiki/President_of_the_Philippines) [Corazon Aquino](https://en.wikipedia.org/wiki/Corazon_Aquino) signed into law [Republic Act 6734,](https://en.wikipedia.org/wiki/Autonomous_Region_in_Muslim_Mindanao) where the word was used in Art. XIII sec. 8(2) to distinguish Lumad ethnic communities from the islands of [Mindanao.](https://en.wikipedia.org/wiki/Mindanao)[\[2\]](https://en.wikipedia.org/wiki/Lumad#cite_note-2)
 
@@ -23,7 +22,6 @@ Representatives from 15 tribes agreed in June 1986 to adopt the name; there were
 
 #### Lumad peoples
 
-## ![](_page_0_Picture_10.jpeg)
 
 Women in traditional [Manobo](https://en.wikipedia.org/wiki/Manobo_people) attire during the [Kaamulan](https://en.wikipedia.org/wiki/Kaamulan_Festival) [Festival](https://en.wikipedia.org/wiki/Kaamulan_Festival) of [Bukidnon](https://en.wikipedia.org/wiki/Bukidnon)
 
@@ -45,7 +43,6 @@ On 2 March 2021, the [National Commission on Indigenous Peoples](https://en.wiki
 
 [Sama-Bajau,](https://en.wikipedia.org/wiki/Sama-Bajau) [Moro,](https://en.wikipedia.org/wiki/Moro_people) [Visayans,](https://en.wikipedia.org/wiki/Visayans) [Filipinos,](https://en.wikipedia.org/wiki/Filipinos) other [Austronesian](https://en.wikipedia.org/wiki/Austronesian_people) [peoples](https://en.wikipedia.org/wiki/Austronesian_people)
 
-## ![](_page_1_Picture_6.jpeg)
 
 The Bagobo people in their traditional attire (c. 1913).
 
@@ -81,7 +78,6 @@ The word Higaonon is derived from the word "higa" in the Higaonon dialect, which
 
 The Higaonon people believe in a variety of deities, namely:
 
-## ![](_page_2_Picture_11.jpeg)
 
 ## A Bagobo chief (matanum)
 
@@ -99,7 +95,6 @@ The Higaonon people believe in a variety of deities, namely:
 - Tumpaa Nanapiyaw or Intumbangol Watches the base of the earth night and day lest it crumbles.
 - Tagabugtà The spirit who watches the farm or the forest
 
-## ![](_page_3_Picture_11.jpeg)
 
 The colorful [Kaamulan Festival](https://en.wikipedia.org/wiki/Kaamulan) celebrated annually in [Malaybalay City](https://en.wikipedia.org/wiki/Malaybalay)
 
@@ -131,7 +126,6 @@ Mamanwa (also spelled Mamanoa) means 'first forest dwellers', from the words man
 
 "Mandaya" derives from "man" meaning "first", and "daya" meaning "upstream" or "upper portion of a river", and therefore means "the first people upstream". It refers to a number of groups found along the mountain ranges of Davao Oriental, as well as to their customs, language, and beliefs. The Mandaya are also found in Compostela and New Bataan in [Compostela Valley](https://en.wikipedia.org/wiki/Compostela_Valley) (formerly a part of Davao del Norte Province).
 
-## ![](_page_5_Picture_2.jpeg)
 
 A hat from the Mandaya people made up of palm, bamboo, feathers, cotton, fiber, and beads, housed at the [Honolulu Museum of](https://en.wikipedia.org/wiki/Honolulu_Museum_of_Art) [Art.](https://en.wikipedia.org/wiki/Honolulu_Museum_of_Art)
 
@@ -141,7 +135,6 @@ Manobo is the [hispanicized](https://en.wikipedia.org/wiki/Hispanicized) spellin
 
 The Manobo are considered the most diverse among the many [indigenous peoples](https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Philippines) [of the Philippines,](https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Philippines) with the largest number of subgroups within its family of languages[.\[31\]](https://en.wikipedia.org/wiki/Lumad#cite_note-NCCAprofile-31) The Philippines' National Commission on Culture and the Arts has been able to develop a tentative classification of Manobo subgroups, but notes that "the various subgroupings are not sufficiently defined" as of the time the classification was developed[.\[31\]](https://en.wikipedia.org/wiki/Lumad#cite_note-NCCAprofile-31) The classification divides the Manobo into several major groups: (1) The Ata subgroup: Dugbatang, Talaingod, and Tagauanum; (2) The Bagobo subgroup: Attaw (Jangan, Klata, Obo, Giangan, Guiangan), Eto (Ata), Kailawan (Kaylawan), Langilan, Manuvu/Obo, Matigsalug, (Matigsaug, Matig Salug), Tagaluro, and Tigdapaya; (3) The Higaonon subgroup: Agusan, Lanao, and Misamis; (4) North Cotabato: Ilianen, Livunganen, and Pulenyan; (5) South Cotabato: Cotabato (with subgroup Tasaday and Blit), Sarangani, Tagabawa; (6) Western Bukidnon: Kiriyeteka, Ilentungen, and Pulangiyen; (7) Agusan del Sur; (8) Banwaon; and (9) Bukidnon and others.[\[31\]](https://en.wikipedia.org/wiki/Lumad#cite_note-NCCAprofile-31)
 
-## ![](_page_5_Picture_7.jpeg)
 
 A Bagobo (Manobo) woman of the [Matigsalug](https://en.wikipedia.org/wiki/Matigsalug) people from [Davao](https://en.wikipedia.org/wiki/Davao_City)
 
@@ -151,7 +144,6 @@ The geographical distribution of the subgroups is so great that some of the loca
 
 The Manobo possess [Denisovan](https://en.wikipedia.org/wiki/Denisovan) admixture, much like the Mamanwa.[\[29\]](https://en.wikipedia.org/wiki/Lumad#cite_note-reichdenadse-29) Manobos also hold [Austroasiatic](https://en.wikipedia.org/wiki/Austroasiatic_languages) ancestry[.\[34\]](https://en.wikipedia.org/wiki/Lumad#cite_note-Larena-34)
 
-## ![](_page_5_Picture_12.jpeg)
 
 Datu Manib, a bagani of the Bagobo, with family, followers, and two missionaries (c. 1900)
 
@@ -167,7 +159,6 @@ Bukidnon groups are found in the Tigwa-Salug Valley in San Fernando in Bukidnon 
 
 The Sangil people (also called Sangir, Sangu, Marore, Sangirezen, or Talaoerezen) are originally from the [Sangihe](https://en.wikipedia.org/wiki/Sangihe_Islands) and [Talaud Islands](https://en.wikipedia.org/wiki/Talaud_Islands) (now part of [Indonesia\)](https://en.wikipedia.org/wiki/Indonesia) and parts of [Davao Occidental](https://en.wikipedia.org/wiki/Davao_Occidental) (particularly in the
 
-## ![](_page_6_Picture_7.jpeg)
 
 A group of Mansaka tribeswomen in their formal attire.
 
@@ -187,7 +178,6 @@ History has better words to speak for Misamis Occidental. Its principal city was
 
 Tagakaulo is one of the tribes in [Mindanao.](https://en.wikipedia.org/wiki/Mindanao) Their traditional territories is in [Davao del Sur](https://en.wikipedia.org/wiki/Davao_del_Sur) and the [Sarangani](https://en.wikipedia.org/wiki/Sarangani_Province) [Province](https://en.wikipedia.org/wiki/Sarangani_Province) particularly in the localities of Malalag, Lais, Talaguton Rivers, Sta. Maria, and Malita of Davao Occidental, and Malungon of the Sarangani Province. Tagakaulo means "from the head(waters)". The Tagakaulo tribe originally came from the western shores of the Gulf of [Davao](https://en.wikipedia.org/wiki/Davao_City) and south of [Mt. Apo.](https://en.wikipedia.org/wiki/Mt._Apo)[\[42\]](https://en.wikipedia.org/wiki/Lumad#cite_note-42) a long time ago.
 
-## ![](_page_7_Picture_6.jpeg)
 
 The Subanon people of [Misamis](https://en.wikipedia.org/wiki/Misamis_Occidental) [Occidental](https://en.wikipedia.org/wiki/Misamis_Occidental) living in the mountains of [Mount Malindang.](https://en.wikipedia.org/wiki/Mount_Malindang)
 
@@ -211,7 +201,6 @@ The [Tboli](https://en.wikipedia.org/wiki/Tboli_people) are one of the indigenou
 
 The Tigwahonon are a subgroup of Manobo originally from the [Tigwa River](https://en.wikipedia.org/wiki/Tigwa_River) basin near [San Fernando,](https://en.wikipedia.org/wiki/San_Fernando,_Bukidnon) [Bukidnon](https://en.wikipedia.org/wiki/San_Fernando,_Bukidnon)[.\[47\]](https://en.wikipedia.org/wiki/Lumad#cite_note-47)
 
-## ![](_page_8_Picture_6.jpeg)
 
 A Tboli dance performed during colorful street dancing competition on the Tnalak Festival in [Koronadal,](https://en.wikipedia.org/wiki/Koronadal) [South](https://en.wikipedia.org/wiki/South_Cotabato) [Cotabato.](https://en.wikipedia.org/wiki/South_Cotabato)
 
@@ -247,7 +236,6 @@ Lumads face loss of ancestral lands due to land grabbing or militarization.[\[54
 
 At the beginning of the 20th century, the Lumad controlled an area that now covers 17 of Mindanao's 24 provinces, but by the 1980 census, they constituted less than 6% of the population of Mindanao and [Sulu.](https://en.wikipedia.org/wiki/Sulu_Province) Significant migration to Mindanao of [Visayans,](https://en.wikipedia.org/wiki/Visayan_people) spurred by government-sponsored resettlement programs,
 
-## ![](_page_9_Picture_9.jpeg)
 
 Norma Capuyan, vice chair of Apo Sandawa Lumadnong Panaghiusa sa Cotabato (ASLPC) speaking out in a press conference to defend the ancestral domains of the Lumad.
 

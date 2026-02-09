@@ -10,7 +10,6 @@ tags:
 
 ## *Avram Piltch*
 
-10–13 minutes
 
 Recently, we've seen AI models that produce [detailed text-to-video](https://www.tomshardware.com/news/runway-gen2-text-to-video-via-chat) or use run a [chatbot on your phone.](https://www.tomshardware.com/news/mlc-ai-lightweight-chatbot) Now, OpenAI, the company behind ChatGPT, has introduced Shap-E, a model that generates 3D objects you can open in [Microsoft](https://www.tomshardware.com/tag/microsoft) Paint 3D or even convert into an STL file you can output on one of the [best 3D printers.](https://www.tomshardware.com/best-picks/best-3d-printers)
 

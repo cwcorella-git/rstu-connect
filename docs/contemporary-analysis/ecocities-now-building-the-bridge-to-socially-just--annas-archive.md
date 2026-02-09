@@ -10,7 +10,6 @@ Jennie Moore · Sahar Attia · Adel Abdel-Kader · Aparajithan Narasimhan Editor
 
 Building the Bridge to Socially Just and Ecologically Sustainable Cities
 
-## ![](_page_0_Picture_3.jpeg)
 
 # Ecocities Now
 
@@ -20,7 +19,6 @@ Jennie Moore · Sahar Attia · Adel Abdel-Kader · Aparajithan Narasimhan Editor
 
 Building the Bridge to Socially Just and Ecologically Sustainable Cities
 
-## ![](_page_2_Picture_3.jpeg)
 
 *Editors* Jennie Moore British Columbia Institute of Technology Burnaby, BC, Canada
 
@@ -315,7 +313,6 @@ Narasimhan | 175 |
 
 # **Chapter 1 Introduction**
 
-## ![](_page_10_Picture_1.jpeg)
 
 ## **Jennie Moore**
 
@@ -444,7 +441,6 @@ Attia, Sahar, Shabka, Shahdan, Shafik, Zeinab and Ibrahim, Asmaa. 2016. Dynamics
 
 # **Chapter 2 Supporting Informal Areas Resilience: Reinforcing Hidden Green Potentials for a Better Quality of Life**
 
-## ![](_page_19_Picture_1.jpeg)
 
 ## **Heba Allah Essam E. Khalil and Sherin Gammaz**
 
@@ -810,7 +806,6 @@ The selected case studies cover a variety of informalities within the Greater Ca
 
 As part of the city core, Markaz Alabhath, Giza governorate has 132,000 inhabitants with a total area of 67.2 ha, while Masaken Geziret Aldahab, Giza governorate has 117,000 inhabitants with a total area of 65.5 ha. Markaz Alabhath is a part of Al-Warrak district which has a total population of approximately 1 million, and this informal area originally extends back to the 1960s. Masaken Geziret Aldahab is strategically located on Bahr El Aazham Street, overlooking the River Nile. It was originally agricultural land and was still classified as rural until the 1950s then turned to an informal area since the first wave of informal construction in 1950–1977.
 
-![](_page_30_Picture_2.jpeg)
 
 **Fig. 2.2** Greater Cairo Region with the four case study areas. *Source* Courtesy of Google Earth
 
@@ -1834,7 +1829,6 @@ United Nations. 2015. Transforming our world: The 2030 agenda for sustainable de
 
 # **Chapter 3 Developing a Decentralized and Integrated Water Management System for Neighborhood Communities Within Indonesia's Informal Urban Settlements**
 
-## ![](_page_49_Picture_1.jpeg)
 
 #### **Armin Fuchs, Nico N. M. J. D. Tillie, and Mo Smit**
 
@@ -2190,7 +2184,6 @@ Local builders are called Tukangs and are responsible for most of the constructi
 
 Residents are the main beneficiaries. They have to be convinced to support the new supply system and to act more sustainably. Due to the fact that voluntary work within the neighborhood community is quite common, free labor can help to keep the costs low while the involvement will strengthen the acceptance of the system at the same time. Cases of diarrhea and, therefore, child mortality would decrease, which is why the absence of safe and reliable water sources is already a sufficient reason for some rapid action. The residents will also financially profit because they save the costs for bottled drinking water. The DIWMS is a public facility that only has to 52 A. Fuchs et al.
 
-## ![](_page_60_Picture_1.jpeg)
 
 **Fig. 3.5** Exemplary design with mosque/educational rooms/childcare [1], water tower/minaret/attractor [2], and water supply center/machine room [3] (own image)
 
@@ -2403,7 +2396,6 @@ Chapter [6](https://doi.org/10.1007/978-3-030-58399-6_6) provides an example of 
 
 # **Chapter 4 Re-thinking the Territory of Concepción, Chile: A Resilient and Strategic Planning for a Vulnerable Urban Coastal System**
 
-## ![](_page_70_Picture_1.jpeg)
 
 #### **Catalina Rey Hernández and Nico Tillie**
 
@@ -2560,9 +2552,6 @@ Together, the adaptive void framework and the resilient backbone structure work 
 
 This combination will not only create a more resilient and adaptive city in extreme scenarios but also provide livability and healthier open spaces for the inhabitants when the city is in a stable phase.
 
-![](_page_79_Picture_2.jpeg)
-
-![](_page_79_Picture_3.jpeg)
 
 **Fig. 4.6** Proposed metropolitan masterplan for Concepción: green and blue infrastructure with linear linkages (own elaboration based on data from National Service of Geology and Mining of Chile (Falcón et al. 2010a, b\)
 
@@ -2570,7 +2559,6 @@ After the spatial analysis of the city and its underlying system, it is possible
 
 The first one consists of natural wetlands that remain unbuilt in the territory. These ecological areas can absorb the energy released during a sudden event and slowly discharge it back to nature (Figs. 4.7 and 4.8\). As Mac Harg \(1995\) mentioned in his suitability approach, marshes and floodplains have as primary roles the storage
 
-![](_page_80_Picture_2.jpeg)
 
 **Fig. 4.7** Green and blue infrastructure through scales: new functions for wetlands areas during stability times (own elaboration)
 
@@ -2586,11 +2574,9 @@ Therefore, what is now the remains of old constructions can be used normally as 
 
 As it was mentioned before, after the analysis of possible extreme scenarios for the metropolitan area of Concepción, in addition to the proposed adaptive void network,
 
-![](_page_81_Picture_2.jpeg)
 
 **Fig. 4.8** Green and blue infrastructure through scales: new functions for wetlands areas during emergency times (flood scenario) (own elaboration)
 
-![](_page_81_Picture_4.jpeg)
 
 **Fig. 4.9** Green and blue infrastructure through scales: representative section of the wetland zone resilient infrastructure (own elaboration)
 
@@ -2598,11 +2584,9 @@ the first reflections reveal that there is a missing link between the voids and 
 
 Hence, with a green and blue infrastructure that uses and connects the identified voids, it is possible to develop a resilient backbone as a strategic plan and meaningful design for the city, re-thinking the functions and lands uses of the territory (Fig. 4.7\).
 
-## ![](_page_82_Picture_2.jpeg)
 
 **Fig. 4.10** New functions for abandoned spaces during stability times (own elaboration)
 
-![](_page_82_Picture_4.jpeg)
 
 **Fig. 4.11** New functions for abandoned spaces during emergency times (shelter) (own elaboration)
 
@@ -2660,7 +2644,6 @@ Falcón, M. F.; P. Ramírez, M. Marín. 2010a. Evaluación preliminar de peligro
 
 # **Chapter 5 Willingness to Use Non-motorized Transport is Under-Estimated**
 
-## ![](_page_86_Picture_1.jpeg)
 
 ## **John Zacharias**
 
@@ -2756,7 +2739,6 @@ In the very large pedestrian zone, the walking distances we traditionally associ
 
 While planners have emphasized the dampening effect of barriers on non-motorized trips, especially walking, there has been less emphasis on the "pull" factors of the environment. In the presence of multiple transport modes, it is of interest that the walk
 
-![](_page_96_Picture_2.jpeg)
 
 **Fig. 5.5** The central pedestrian streets in Tianjin with major shopping centers can average 1.5 km in the case of downtown Montréal (Zacharias 1993\), diminishing to 0.9 km when air temperature dropped to between −10° and −20 °C.
 
@@ -2789,7 +2771,6 @@ BTRC. Beijing Transportation Research Center. 2017. *Beijing transport annual re
 
 # **Chapter 6 Informal Solutions Towards Personal Net Zero**
 
-## ![](_page_98_Picture_1.jpeg)
 
 ## 91
 
@@ -3054,7 +3035,6 @@ Ellen Mac Arthur Foundation. 2015. Towards a Circular Economy: Business Rational
 
 # **Chapter 7 Making Cement from Demolished Concrete: A Potential Circular Economy Through Geopolymer Chemistry**
 
-## ![](_page_112_Picture_1.jpeg)
 
 ## **D. J. Lake**
 
@@ -3181,7 +3161,6 @@ Zheng, Wei, Mingxin Guo, Teresa Chow, Douglas N. Bennett, and Nandakishore Rajag
 
 # **Chapter 12 Conclusion**
 
-## ![](_page_177_Picture_1.jpeg)
 
 **Jennie Moore, Sahar Attia, Adel Abdel-Kader, and Aparajithan Narasimhan**
 

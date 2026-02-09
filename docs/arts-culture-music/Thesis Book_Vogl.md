@@ -10,7 +10,6 @@ tags:
 
 ## PREPARING YOUNG MINDS FOR A FUTURE WORLD
 
-## ![](_page_0_Picture_2.jpeg)
 
 ## PREPARING YOUNG MINDS FOR A FUTURE WORLD
 
@@ -28,7 +27,6 @@ To protect the privacy of individuals associated with the document, signatures h
 
 ## October 2021 | Fargo, North Dakota
 
-## ![](_page_1_Picture_10.jpeg)
 
 # TABLE OF CONTENTS
 
@@ -82,7 +80,6 @@ Critique of Applied Research |
 
 ## Reference List
 
-## ![](_page_2_Picture_9.jpeg)
 
 ### 7
 
@@ -127,7 +124,6 @@ Summer | Average Temperatures and | Precipitation In Dallas | Sunny and Cloudy D
 Form Creation Process: Phase |
 | FIGURE 57 | FIGURE 58 | FIGURE 59 | FIGURE 60 | FIGURE 61 | FIGURE 62 | FIGURE 63 | FIGURE 64 | FIGURE 65 | | FIGURE 66 | FIGURE 67 | FIGURE 68 | FIGURE 69 | FIGURE 70 | FIGURE 7 1 | FIGURE 72 | FIGURE 73 | FIGURE 74 |
 
-## ![](_page_5_Picture_0.jpeg)
 
 # LIST OF TABLES AND FIGURES
 
@@ -145,7 +141,6 @@ Form Creation Process: Phase | Final Display Boards | Site Plan | Section B: Sus
 
 Change occurs in variety of ways. Sometimes overnight, sometimes silently over years. Consider the revolutions of the past for ty years. Those in 2020 alone. Ponder the magnitude of changes our children will experience over the coming century. This thesis explores the relationship between future realities and our current understandings. Quantitative research, logical argumentation, and correlational research will offer comprehensive look into the patterns of this ever-changing world. Case study analysis and qualitative research assess learning environments and understanding of building form as key contributor to user experience. An independent learning environment, museum of the future blended with library of knowledge, allows an oppor tunity for grand demonstration of architecture's powerful ability to inspire and educate.
 
-## ![](_page_7_Picture_3.jpeg)
 
 # THESIS NARRATIVE
 
@@ -161,9 +156,6 @@ The COVID-19 pandemic propelled society into an entirely new world, but masks an
 
 EDUCATION IS OUR PASSPORT TO THE FUTURE , FOR TOMORROW BELONGS TO THE PEOPLE WHO PREPARE FOR IT TODAY. Malcolm
 
-## ![](_page_9_Picture_4.jpeg)
-
-## ![](_page_10_Picture_1.jpeg)
 
 ## | EL PASO CHILDREN'S MUSEUM (KTSM, 2021)
 
@@ -243,17 +235,14 @@ The site selection process began by focusing on two variables: children and inno
 
 ## ![](_page_14_Figure_1.jpeg)
 
-## ![](_page_15_Picture_0.jpeg)
 
 ### LOCATION: 1114 NLancaster Ave | Dallas, TX 75203
 
 Located along popular route connecting downtown Dallas to the southwest residential neighborhoods, the Lancaster Ave site offers community exposure and easy access. On the site, currently, are the unappealing ruins of the Oak Farms Dairy plant as shown in Figure 11. Redevelopment of the site would aim to restore the land, revitalize community interaction, and reflect the innovative advancements of the city. The site is relatively large; site analysis research will be conducted to determine where on the site the project should sit to allow for potential adjacent development projects in the future.
 
-## ![](_page_15_Picture_3.jpeg)
 
 FIGURE 11 | LANCASTER AVE SITE (Google Maps, n.d.)
 
-## ![](_page_15_Picture_5.jpeg)
 
 # PROJECT EMPHASIS
 
@@ -303,7 +292,6 @@ These goals will guide the project to create an intentional design that responds
 - 5. To complete a thesis project that represents my dedication to design and builds confidence as I move into the next chapter of my life.
 - Gain a better sense of the career path I want to pursue following graduation.
 
-## ![](_page_17_Picture_16.jpeg)
 
 # PLAN FOR PROCEEDING
 
@@ -315,7 +303,6 @@ In addition, correlational research and logical argumentation will be studied to
 
 Quantitative research will provide data to measure patterns and trends seen around the world. Data for comparison will be collected from national agencies on weather patterns, population shifts, demographics, etc. Research conclusions will inform the exhibit curriculum to be developed in the design process. The examination of case studies will offer comparison of typologies and architectural form. Understanding how children respond to these built spaces will render insight into their environmental preferences for learning. Firm por tfolios and architectural publications will be referenced for information and diagrams of the projects. Research results will aid in the form exploration phases of the design solution process.
 
-## ![](_page_18_Picture_7.jpeg)
 
 # DOCUMENTATION OF THE DESIGN PROCESS
 
@@ -355,7 +342,6 @@ collection folder on weekly basis.
 
 All local files automatically sync to Google Drive back-up folder. 4.
 
-## ![](_page_19_Picture_7.jpeg)
 
 ## Physically printed as hard copy
 
@@ -447,7 +433,6 @@ The typological precedents were chosen based on typology, education through inte
 
 Each precedent was analyzed based on its approach to six design factors: project massing, hierarchy of space, circulation, interactive architectural elements, structure, and sustainable strategies.
 
-## ![](_page_22_Picture_7.jpeg)
 
 ### 47
 
@@ -465,11 +450,9 @@ As contribution to the Sustainability District of Expo 2020 Dubai, the German Pa
 
 2018).
 
-## ![](_page_23_Picture_6.jpeg)
 
 FIGURE 13 | GERMAN PAVILION EXTERIOR (Baldwin, 2018)
 
-## ![](_page_23_Picture_8.jpeg)
 
 FIGURE 14 | GERMAN PAVILION INTERIOR (Baldwin, 2018)
 
@@ -479,7 +462,6 @@ FIGURE 14 | GERMAN PAVILION INTERIOR (Baldwin, 2018)
 
 The massing of the building aimed to reflect campus, altered to act ver tically on the site. " The cubes stacked one on top of the other combine with enclosed voids in an interplay that results in fascinating alternation between interior and ex terior spaces and many exciting and surprising perspectives" (Campus Germany, 2021).
 
-## ![](_page_24_Picture_3.jpeg)
 
 FIGURE 15 | VERTICAL CAMPUS PROCESS (Campus Germany, 2021)
 
@@ -487,7 +469,6 @@ FIGURE 15 | VERTICAL CAMPUS PROCESS (Campus Germany, 2021)
 
 The atrium is the core of the design, offering connection to the entire project. Sitting in the void between the floating volumes above, the diverse set of perspectives offers an insight into what the pavilion stores. " The composition of exhibition spaces, event area and restaurants are interwoven through these manifold visual relationships" (Baldwin, 2018). Native German plants also add depth and comfor t to the space.
 
-## ![](_page_24_Picture_7.jpeg)
 
 FIGURE 16 | GERMAN PAVILION SECTION (Baldwin, 2018)
 
@@ -495,13 +476,11 @@ FIGURE 16 | GERMAN PAVILION SECTION (Baldwin, 2018)
 
 The progression through the pavilion also ties to the overarching idea of campus and education. Visitors first must enroll, then follow curriculum that guides them through series of interactive experiences. The journey ends at the graduation hall where they finish their course on sustainability. The circulation patterns, as seen in Figure 17, show how visitors are guided through both an interior and ex terior space for each exhibit. The mix of environments provides added interest and fluidity throughout the experience. Besides an escalator that runs directly through the atrium, most of the connections between exhibits are seamlessly accomplished through ramps.
 
-## ![](_page_25_Picture_1.jpeg)
 
 ### INTERACTIVE ARCHITECTURE
 
 The pavilion features exhibits that create an immersive experience for visitors through interactive architectural and technological elements. "In the darkened Energy Lab, "energy cables" will pulsate with energy supply solutions for the future. In the Future City Lab, visitors will become par t of an intricate urban landscape that completely surrounds them. In the Biodiversity Lab, they will experience the beauty and vulnerability of nature beneath suspended installation of magnificent propor tions" (Campus Germany, 2021). Additionally, ball pit is available that connects the element of play with learning, offering thousands of balls with different questions. Visitors are able to choose question they find interesting and inser t it in the adjacent device to learn the answer. All of these exhibits offer unique physical interactions with the spaces, enhancing the overall learning experience.
 
-## ![](_page_25_Picture_4.jpeg)
 
 FIGURE 18 | PAVILION EXHIBITS (Campus Germany, 2021)
 
@@ -513,13 +492,11 @@ The structure includes transparent trapezoidal single-layer ETFE membrane that e
 
 As member of the Expo's Sustainability District, LAVA's design demonstrates sustainable strategies throughout the building in response to Dubai's climate. Intentional placement of design elements offers visitors areas of shade, helping to passively cool the interior environment and contribute to overall human comfor t. As visitors progress through the spaces they are gradually cooled, passing through zones that moderately increase air conditioning. Both of these strategies help reduce the active cooling load for the building (Campus Germany, 2021).
 
-## ![](_page_26_Picture_5.jpeg)
 
 ## 55
 
 Since the pavilion is temporary exhibition, material reuse and minimal waste was major factor in the approach to sustainability. Building materials were designed to be reused following the life of the German Pavilion. One example is the roof structure that was designed to be broke apar t to make smaller structures that can be reused on other projects (Campus Germany, 2021). Sustainable timber and recycled content were also used for interior furnishings. "When the Expo comes to an end in April 2022, around 80% of the buildings and structures on the Expo site will be repurposed in an urban development entitled "District 2020"" (Campus Germany, 2021).
 
-## ![](_page_27_Picture_2.jpeg)
 
 ## FIGURE 20 | PAVILION SUN PATHS (Baldwin, 2018)
 
@@ -542,11 +519,9 @@ Shaun | Exhibitions, restaurant, cafe, auditorium |
 
 The Museum of the Future is an innovative approach to museum design, where future is explored and created. " Topics featured include the future of space travel and living, climate change and ecology, health, wellness and spirituality. Our goal is to provide light in dark times: in an age of anxiety and cynicism about the future, we are showing that things can and must progress" (Museum of the Future, n.d.). Curiosity will be guide for visitors as they make their way through the exhibits. A unique feature of the museum is its use of parametric design and building information modeling. The intricate metal skin combined with the distinctive form of the project presents complex design solution to be digitally represented. The use of both strategies have been an overall success in the construction project so far, requiring minimal changes and conflicts in the design (Bains, 2019).
 
-## ![](_page_28_Picture_6.jpeg)
 
 FIGURE 21 | MUSEUM OF THE FUTURE EXTERIOR (Abushaikha, 2021)
 
-## ![](_page_28_Picture_8.jpeg)
 
 FIGURE 22 | MUSEUM OF THE FUTURE APPROACH (Killa Design, 2021)
 
@@ -554,11 +529,9 @@ FIGURE 22 | MUSEUM OF THE FUTURE APPROACH (Killa Design, 2021)
 
 Lath Carlson, executive director of the Museum of the Future, states " This is not the museum where you will see objects in cases with labels nex t to them. In lot of the main galleries, there will be no labels at all. It will be completely immersive experience that engages the visitor as really impor tant contributor to the experience, rather than as viewer of someone else's work " (Bains, 2019). This immersive experience is described as "a film set from future" that are interactive and exploratory (Museum of the Future, n.d.). Technology integration, including the use of augmented and vir tual reality, are used to enhance exhibits and amplify the future world (Bains, 2019).
 
-## ![](_page_29_Picture_3.jpeg)
 
 FIGURE 23 | INTERIOR EXHIBITION PERSPECTIVE (Killa Design, 2021)
 
-## ![](_page_29_Picture_5.jpeg)
 
 ## FIGURE 24 | CONCEPT SKETCHES (Killa Design, 2021)
 
@@ -572,11 +545,9 @@ The form of the building is both symbolistic and revolutionary. In city filled w
 
 The project used diagrid steel framework structure to accomplish the complex shape (Bains, 2019). This suppor ts the 890 stainless steel and glass fibre reinforced polymer (GFRP) panels that make up the facade (Museum of the Future 2021a). Both the structure and facade panels can be seen in Figures 25 and 26.
 
-## ![](_page_30_Picture_3.jpeg)
 
 FIGURE 25 | CONSTRUCTION PROCESS (Museum of the Future 2021a)
 
-## ![](_page_30_Picture_5.jpeg)
 
 FIGURE 26 | BUILDING STRUCTURE AND FACADE (Museum of the Future 2021a)
 
@@ -608,17 +579,14 @@ The project is aiming for LEED Platinum cer tification by implementing variety o
 
 The project 's main circulation goes through the thicker side of the torus, while offering supplementary circulation path on the thinner side. The interior perspectives shown in Figure 28 and 30 demonstrate how the stairs and pathways pull visitors into spaces without revealing the entirety of the destination. The museum also provides direct circulation connections to adjacent buildings.
 
-## ![](_page_31_Picture_4.jpeg)
 
 FIGURE 27 | FLOOR PLAN SKETCHES (Killa Design, 2021)
 
-## ![](_page_31_Picture_6.jpeg)
 
 # CONTRIBUTION TO THEORETICAL PREMISE
 
 The overall form and circulation of the Museum of the Future has become recognizable characteristic of the project. The circulation enhances the user experience by creating sense of wonder and anticipation while taking users on journey through the building elements. The design employed building form as symbol of the museum's topics to foster deeper understanding and interest into the subjects presented inside. Circulation techniques, as explored in the Museum of the Future, could be applied to this thesis design solution to enhance the learning experience utilizing form and anticipation.
 
-## ![](_page_32_Picture_3.jpeg)
 
 FIGURE 31 | MUSEUM OF THE FUTURE FACADE (Killa Design, 2021)
 
@@ -640,13 +608,9 @@ MAD | Classrooms, | cour tyards |
 
 The Yuecheng Cour tyard Kindergar ten was built on an 18thcentury cour tyard located nex t to senior citizens' apar tment. The goal of blending these typologies was to achieve intergenerational integration. " The Yue Cheng Cour tyard Kindergar ten shows how several seemingly disparate, even sometimes contradictory, elements of architecture from different historical periods can coexist harmoniously while maintaining their authenticity and individuality " (Shuang, 2020). One of the unique elements of project is the roof form that drapes over the building, creating an interactive response to the project design. The kindergar ten is occupied by 390 children, ranging from 1.5 years old to years
 
-## ![](_page_33_Picture_6.jpeg)
-
-## ![](_page_33_Picture_7.jpeg)
 
 FIGURE 32 | COURTYARD BIRDS-EYE VIEW (Shuang, 2020)
 
-## ![](_page_33_Picture_9.jpeg)
 
 ## FIGURE 33 | CONTRASTING ERAS (Shuang, 2020)
 
@@ -654,15 +618,12 @@ FIGURE 32 | COURTYARD BIRDS-EYE VIEW (Shuang, 2020)
 
 The overall building mass weaves between the existing landscape to preserve the character of the site. The new form offers an organic roof contrasting the existing historic elements. " The new does not overshadow the old, while the past does not over take the present " (Shuang, 2020). Integrated into the new mass are smaller cour tyards that help invoke children and allow for connection to nature.
 
-## ![](_page_34_Picture_3.jpeg)
 
 ## FIGURE 34 | KINDERGARTEN MASSING (Shuang, 2020)
 
-## ![](_page_34_Picture_5.jpeg)
 
 ## FIGURE 35 | COURTYARD OVERLAY (Shuang, 2020)
 
-## ![](_page_34_Picture_7.jpeg)
 
 ## FIGURE 36 | COURTYARD PERSPECTIVE (Shuang, 2020)
 
@@ -670,7 +631,6 @@ The overall building mass weaves between the existing landscape to preserve the 
 
 The topographical form of the roof creates this natural playscape for children to interact. It fosters interaction through play with other students and interaction with the roof itself through varying slopes and use of color. The interpretation of the natural environment offers place for children to think
 
-## ![](_page_34_Picture_11.jpeg)
 
 ## FIGURE 37 | ORGANIC ROOF (Shuang, 2020)
 
@@ -682,11 +642,9 @@ and reflect (Shuang, 2020).
 
 The entire kindergar ten was designed to be open and give the students sense of freedom. The cour tyards become dominate feature of interior spaces to enhance this idea of transparency between nature and humans. An open structural system enhances this idea by providing minimal obstructions to lines of sight. The roof of the building is suppor ted by minimal curved walls scattered throughout the building, as seen in Figure 38.
 
-## ![](_page_35_Picture_3.jpeg)
 
 ## FIGURE 38 | CLASSROOM INTERIOR (Shuang, 2020)
 
-## ![](_page_35_Picture_5.jpeg)
 
 FIGURE 39 | COURTYARD KINDERGARTEN FLOOR PLAN (Ravenscroft, 2020)
 
@@ -704,13 +662,9 @@ The main contribution of the Yuecheng Cour tyard Kindergar ten research to this 
 
 Tall glass windows that surround the cour tyard space allows for daylight to penetrate into the building, creating warm and bright learning environment. Comfor t is enhanced by providing lower ceiling heights that respond to the scale of children.
 
-## ![](_page_36_Picture_7.jpeg)
-
-## ![](_page_36_Picture_8.jpeg)
 
 FIGURE 40 | COURTYARD KINDERGARTEN SECTION 1 (Ravenscroft, 2020)
 
-## ![](_page_36_Picture_9.jpeg)
 
 FIGURE 41 | COURTYARD KINDERGARTEN SECTION (Ravenscroft, 2020)
 
@@ -722,7 +676,6 @@ The precedent research offered glimpse into the design process of three unique p
 
 A notable contrast between projects was the path users traveled through the space in response to design goals. The German Pavilion offered direct path to follow through the exhibits, while the Yuecheng Cour tyard Kindergar ten encouraged freedom and exploration as children maneuvered the open space. Exploring variety of project circulation designs provides clever insight to its impor tance, especially as the second thesis goal is pursued in this project. Each project took into account the contex t surrounding the project but demonstrated unique approaches as they did so. The Museum of the Future's location in Dubai is significant as Dubai offers some of the most recognizable architectural works in the world. The bold form is appropriately placed in city of iconic architecture. The Yuecheng Cour tyard Kindergar ten responds to the historical elements of its surroundings by strategically leaving par t of the site undisturbed. An intentional contrast of design was utilized to complement each era. The German Pavilion appeals to the social contex t of the site and its location in the Sustainability District of the expo. The impor tance of designing in response to site contex t is evident in the overall design solutions of these projects. This thesis
 
-## ![](_page_38_Picture_0.jpeg)
 
 design solution should respond to Dallas' ambiance and the character of the surrounding buildings. In conclusion, the precedents and proposed children's learning center all require great attention to user engagement. The combination of the German Pavilion's curriculum approach, Yuecheng Cour tyard Kindergar ten's adaptations to meet child's needs, and the Museum of the Future's use of symbolism and iconic design are the star t of tangible solution to the theoretical premise. Sustainable strategies used by the projects present options that could apply to the design of the children's learning center, satisfying its goal of providing an environmentally conscious project.
 
@@ -788,7 +741,6 @@ Designer Perspective section of the book , written by Elliot Washor, Frederick O
 
 Linking A rchitecture and Education provided versatile look
 
-## ![](_page_46_Picture_0.jpeg)
 
 into the design of educational facilities. Although many of the strategies were targeted towards schools, children's learning center has the freedom to implement these ideas ex tensively without the limitation of curriculum and exam standards imposed on schools. By narrowing the topics covered in exhibits, in comparison to schools, more elaborate learner integrated experiences can be accomplished. Utilization of the philosophical approaches provides star ting image for how this can be executed through the design solution. This strategy focuses on the perception of space rather than the current high-performance technologies available. This is impor tant as it creates timeless standard for design, one that continues to be relevant even to the ex tent of new inventions, like vir tual worlds. In similar way, the overall physical and psychological needs of children have remained consistent over the years. Humanity is essentially rooted in these needs that allow us to develop and evolve. The application of whole learner approach can ensure well-rounded set of children's needs are fulfilled in the space.
 
@@ -810,7 +762,6 @@ atmosphere. Yet, by 2050, if nothing changes, 90 percent of those reefs will be 
 
 (Taylor, 2009). An application of this philosophy to a learning environment would create a strong link to the outdoors and design for life skills, such as agriculture. In addition, transparency of sustainable strategies in a building can be used as a learning device for children (Taylor, 2009). It can inspire creative problem solving.
 
-## ![](_page_49_Picture_1.jpeg)
 
 ## FIGURE 45 | CLIMATE CHANGE SYNERGIES
 
@@ -822,7 +773,6 @@ The Martian (Scott, 2015) paints a potential picture of human life on Mars. In t
 
 ## 66
 
-## ![](_page_50_Picture_1.jpeg)
 
 ## FIGURE 46 | LIFE ON MARS (NBC News, 2019)
 
@@ -830,7 +780,6 @@ and condensation, the garden is able to grow and produce food in the Mar tian so
 
 In The Martian, Mark Watney utilizes problem solving and creativity as he navigates through the Mars environment with limited resources. A study conducted by The Millennium Project showed that skills needed for the future include critical thinking, reasoning, compassion, data, and enquiry-based learning (Glenn & Florescu, 2016). The Millennium Project study also revealed that technology-based learning will be integrated at an earlier age in the future (Glenn & Florescu, 2016). This is impor tant as we head into technological society where computational thinking and computer science will be necessary (Yadav et al., 2016). VR and AR can be integrated into learning to create fully immersive experience (Diamandis &Kotler, 2020). Vir tual Reality also offers accessibility benefits to accommodate physical needs, according to study posted in Vir tual Creativity (See et al., 2020). Space travel offers whole new realm of sensory experiences, from anti-gravity effects to climate differences. A learning environment based on the philosophical approach of realism focuses on the multi-sensory environment. Sensory engagement can be stimulated through soft and hard play areas or various displays (Taylor, 2009)
 
-## ![](_page_51_Picture_1.jpeg)
 
 ## FIGURE 47 | SPACE TRAVEL SYNERGIES
 
@@ -842,7 +791,6 @@ In fact, one iteration of the self-sustaining floating city has already been dev
 
 ## 102
 
-## ![](_page_52_Picture_1.jpeg)
 
 ## FIGURE 48 | FLOATING CITY (2100, n.d.)
 
@@ -850,7 +798,6 @@ filter polluted seawater in order to create a cleaner ocean environment (Leading
 
 The film Waterworld (Reynolds, 1995) takes more industrial approach to the idea of living on the water but outlines many of the same concepts. In Waterworld, the ocean's icecaps have melted, submerging most of the world's cities. Land is rare commodity that many living out at sea have never seen (Reynolds, 1995). Communities were formed by linking together rafts and boats, creating one floating structure. Food came from fishing, or on rare occasions, from potted plant that has survived from the land. Water was purified to create drinking water. The film referenced early designs of flying vehicles as transpor tation above the water 's surface (Reynolds, 1995). In addition to shifts in urban placement, social shift in employment is expected. The Millennium Project 's study predicts that the objective of work in the future will be selfactualization and that of the economy will be the well-being of humans. Also, they predict that activities and job duties will be transferred to vir tual world (Glenn &Florescu, 2016).
 
-## ![](_page_53_Picture_0.jpeg)
 
 ## FIGURE 49 | RESHAPING OF URBAN LIFE SYNERGIES
 
@@ -860,7 +807,6 @@ Self-actualization is defined as "the realization or fulfillment of one's talent
 
 Overall, the research emphasized that the future is changing in how we live and learn. Similar characteristics can be found between the learning environment philosophies and scenarios predicted for the future, revealing the importance of each. Interpretation of the research will be applied to the exhibits of the architectural program to create relevant experiences and effective spaces for children. The characteristics of the utopian and dystopian experiences presented in films and predictive readings can be translated to the exhibits to provide logical and evidence-based scenarios.
 
-## ![](_page_53_Picture_6.jpeg)
 
 # HISTORICAL CONTEXT
 
@@ -878,7 +824,6 @@ Overall, the research emphasized that the future is changing in how we live and 
 - Maria Montessori established new method of learning focused on the prepared environment. The Montessori Method offers more freedom to children in the educational process, compared to traditional schooling. Students have access to intellectually and developmentally stimulating activities to choose from (Taylor, 2009). This method continues to be practiced today but has not replaced conventional education.
 - Educational reforms, like the development of national standards, have created uniform set of goals for children's education in the United States. Common Core standards cover mathematics and English language ar ts. When first established in 2010, the goal was to prepare high school graduates to enter into college or their careers (Mathis, 2010). Now, in 2021, critiques write that the overall benefit of the Common Core standards were minimal (Strauss, 2021). The Nex t Generation Science Standards (NGSS) offers standards in the science curriculum for schools. This system aims to help students gain deeper understanding of science, beyond just memorization of topics (Pruitt, 2014). Topics related to climate change are referenced in the standards. In 2020, due to the COVID-19 pandemic, schools were operating almost entirely online. Students managed to use technologies, like laptops and tablets, to communicate and learn from their teachers. Detached from the physical school learning environment, children were challenged to learn independently through their home environment.
 
-## ![](_page_55_Picture_5.jpeg)
 
 FIGURE 50 | EDUCATION THEN AND NOW (Green, 2016) (Jackson, 2013)
 
@@ -891,7 +836,6 @@ FIGURE 50 | EDUCATION THEN AND NOW (Green, 2016) (Jackson, 2013)
 - was created to print human organs (Western Kentucky University, n.d.).
 - Today, we have access to an entire world of information at our finger tips. Humans are constantly connected through smar tphones and watches, around the world streaming capabilities, and easily-accessible travel on airplanes. AI, as presented in the research, is consistently developing and we are seeing changes in technologies around the world, like the development of Tesla's selfdriving vehicles.
 
-## ![](_page_57_Picture_3.jpeg)
 
 # SOCIAL CONTEXT
 
@@ -899,7 +843,6 @@ The image of the future is perceived differently by varying groups of people. Ag
 
 Hicks and Holden's ar ticle labeled collaborative learning as successful tool in allowing students to process concerns about the future (2007 ). Children who struggle with anxiety, depression, or behavioral problems had comparatively more negative cognitions toward the future (Dubow et al., 2001). "Adolescents from low-income and from African American families simultaneously held the abstract expectancy that education is valued accomplishment and the personal expectation that academic achievement was unlikely to yield them economic advancement " (Dubow et al., 2001). As children are exposed to new futuristic ideas, their current concerns and pessimist views towards the subject need to be navigated to foster an optimistic environment. Currently, the division of expectations is stemmed from the social and emotional conditions facing groups of children.
 
-## ![](_page_58_Picture_3.jpeg)
 
 ### SITE ANALYSIS
 
@@ -915,11 +858,6 @@ As mentioned, another body of water adjacent to the site is the Trinity River. T
 
 The land was owned by Oak Farms Dairy until 2014 when it was sold to Cienda Par tners. The site has been relatively unchanged since the removal of the buildings in 2014.
 
-## ![](_page_60_Picture_3.jpeg)
-
-## ![](_page_60_Picture_4.jpeg)
-
-## ![](_page_60_Picture_6.jpeg)
 
 ## Interstate system
 
@@ -929,11 +867,6 @@ The land was owned by Oak Farms Dairy until 2014 when it was sold to Cienda Par 
 
 Construction has Interstate and the lot to the west has been restored. The Oak Farms Dairy plant has been torn down and removed from the site
 
-## ![](_page_60_Picture_8.jpeg)
-
-## ![](_page_61_Picture_1.jpeg)
-
-## ![](_page_61_Picture_2.jpeg)
 
 ## SITE CHARACTERISTICS
 
@@ -959,13 +892,9 @@ SINGLE-FAMILY RESIDENTIAL these areas are considered low to medium income (Stone
 
 The United States Depar tment of Agriculture Soil Conservation Service classifies this site as having Eddy-Stephen-Austin soil (Coffee et al., 1980). As shown in Figure 58, the soil sits chalky limestone with shale underneath. The biggest challenges for this soil type, identified in the soil survey, are navigating the land slope and distance to rock. However, the underlying rock does provide good stability for project foundations (Coffee et al., 1980).
 
-## ![](_page_63_Picture_1.jpeg)
 
 FIGURE 58 | TYPICAL EDDY-STEPHEN-AUSTIN SOIL (Coffee et al., 1980)
 
-## ![](_page_63_Picture_3.jpeg)
-
-## ![](_page_64_Picture_0.jpeg)
 
 ## Low traffic roads
 
@@ -977,7 +906,6 @@ FIGURE 58 | TYPICAL EDDY-STEPHEN-AUSTIN SOIL (Coffee et al., 1980)
 
 Dallas's climate is considered humid subtropical for its hot, humid summers and cool winters. The average humidity in Dallas is between 60 to 70%. Experiencing mostly sunny days year-round, Dallas' environment will provide good source of light quality to be used as daylighting or renewable energy in the project. Wind direction and strength experienced in Dallas changes based on the season. Summer winds mainly blow from the south, while winters winds are stronger and blow from the nor th, as well. Wind patterns will translate into the design of outdoor space, natural ventilation, and sustainable strategies.
 
-## ![](_page_64_Picture_7.jpeg)
 
 ## FIGURE 62 | SUN PATH DIAGRAM
 
@@ -1092,7 +1020,6 @@ Lobby | SPACE | SIZE (SQ. FT.) | QUANTITY | PERCENTAGE |
 
 ## FIGURE 68 | SPACE INTERACTION MATRIX
 
-## ![](_page_70_Picture_0.jpeg)
 
 FIGURE 70 | LEARNING ENVIRONMENT ASSESSMENT Adapted from Linking architecture and education (Taylor, 2009)
 
@@ -1154,9 +1081,6 @@ FIGURE 70 | LEARNING ENVIRONMENT ASSESSMENT Adapted from Linking architecture an
 
 ## 145
 
-## ![](_page_72_Picture_1.jpeg)
-
-## ![](_page_72_Picture_2.jpeg)
 
 ## PROCESS DOCUMENTATION
 
@@ -1164,7 +1088,6 @@ FIGURE 70 | LEARNING ENVIRONMENT ASSESSMENT Adapted from Linking architecture an
 
 User progression through exhibits was considered early on as it was an impor tant influence on form and spatial connections. The exhibit topics and individual programs were chosen based on the research presented. Sections were sketched that show the spatial progression of exhibits and coordinating architectural elements that achieve the desired user experience.
 
-## ![](_page_73_Picture_2.jpeg)
 
 1. control carbon dioxide see sea level rise and solar energy impacts emissions
 
@@ -1178,45 +1101,31 @@ FORM CREATION Connection is recurring theme throughout the design solution. Conn
 
 Grid lines were formed from circulation paths to and from the site. Combined with radial organization, chosen to maintain open sight lines and transparency, simple form with four separate wings is created.
 
-## ![](_page_73_Picture_9.jpeg)
 
 ## FIGURE 73 | FORM CREATION PROCESS: PHASE 1
 
 The separation of the wings creates an open cour tyard that provides an oppor tunity for the transition from indoor to outdoor learning. The cour tyard also has direct view of downtown, the hear t of Dallas, showing the innovations and progression of the city.
 
-## ![](_page_74_Picture_1.jpeg)
 
 ## FIGURE 74 | FORM CREATION PROCESS: PHASE
 
 Shifting the southwest wing creates linear visitor approach from the neighboring parks. Connection to the parks encourages the use of the parks and learning center alike. Walking or biking to the site is encouraged through these effor ts.
 
-## ![](_page_74_Picture_4.jpeg)
 
 ## FIGURE 75 | FORM CREATION PROCESS: PHASE
 
 Openings added in the form allow for outdoor circulation through and around site. Multiple circulation routes add flexibility and exploration for users. The openings also direct the southern winds through the form to cool the cour tyard, creating more comfor table environment.
 
-## ![](_page_74_Picture_7.jpeg)
 
 ## FIGURE 76 | FORM CREATION PROCESS: PHASE
 
 Levels of the project are adapted to the original topography of the site, connecting past with present. The form is fur ther adjusted to connect the education wing with the main cour tyard.
 
-## ![](_page_74_Picture_10.jpeg)
 
 ## FIGURE 77 | FORM CREATION PROCESS: PHASE
 
 ### PROJECT SOLUTION **DOCUMENTATION**
 
-## ![](_page_75_Picture_1.jpeg)
-
-## ![](_page_75_Picture_2.jpeg)
-
-## ![](_page_75_Picture_3.jpeg)
-
-## ![](_page_75_Picture_4.jpeg)
-
-## ![](_page_75_Picture_5.jpeg)
 
 ## IGURE 78 | FINAL DISPLAY BOARDS
 
@@ -1226,7 +1135,6 @@ of the decisions for the building form as it relates to the site context. Additi
 
 portion of the site is dedicated to the future development of a children's campus, offering additional resources or learning As a response to the large size of the site, the southern opportunities.
 
-## ![](_page_76_Picture_0.jpeg)
 
 ## FIGURE 79 | SITE PLAN
 
@@ -1234,7 +1142,6 @@ portion of the site is dedicated to the future development of a children's campu
 
 ## FIGURE 80 | SECTION B: SUSTAINABLE STRATEGIES
 
-## ![](_page_76_Picture_4.jpeg)
 
 ### RESPONSE TO TYPOLOGICAL **PERFORMANCE ANALYSIS:** RESEARCH
 
@@ -1248,7 +1155,6 @@ space travel exhibit floating city exhibit administration lobby library classroo
 
 155 climate change exhibit classrooms administration floating city exhibit library GROUND FLOOR LOWER FLOOR UPPER FLOOR FIGURE 83 | CIRCULATION PATHS
 
-## ![](_page_78_Picture_0.jpeg)
 
 ### CLIMATE CHANGE EXHIBIT
 
@@ -1286,7 +1192,6 @@ lobby coat storage flexible learning space
 
 - crew living pods
 
-## ![](_page_79_Picture_1.jpeg)
 
 ## FIGURE 87 | LIBRARY
 
@@ -1316,11 +1221,9 @@ The library design uses natural tones with accent colors to achieve soft, non-di
 
 Initially, during the research phase of this thesis project, the program included three classrooms to offer events or structured activities. Later in the design process, an additional three classrooms were added to accommodate more children, suppor ting an equal oppor tunity learning center model. The addition also created more separation between the exhibits and the classrooms, increasing privacy. The classrooms wrap around cour tyard to encourage the use of an indoor/outdoor learning style. CLIMATE CHANGE EXHIBIT
 
-## ![](_page_80_Picture_3.jpeg)
 
 ## FIGURE 88 | CLASSROOM COURTYARD
 
-## ![](_page_80_Picture_5.jpeg)
 
 ## FIGURE 89 | CLIMATE CHANGE EXHIBIT
 
@@ -1330,11 +1233,9 @@ The climate change exhibit sits directly adjacent to the lobby, encouraging user
 
 The space travel exhibit uses dome as an integrated element in the visitor experience. A larger dome with technology integration provides the oppor tunity for continuously updated information to be displayed as we learn more about space travel. At eye level, this dome becomes interactive with the user, allowing for individual exploration through media diversity. An exposed 3D printed structure suppor ts this dome, demonstrating the technologies that have been utilized during space travel missions.
 
-## ![](_page_81_Picture_3.jpeg)
 
 ## FIGURE 90 | SPACE TRAVEL EXHIBIT
 
-## ![](_page_81_Picture_5.jpeg)
 
 ## FIGURE 91 | FLOATING CITY EXHIBIT
 
@@ -1350,17 +1251,14 @@ Create an inclusive design that addresses the learning needs of all children. 1
 
 Using Anne Taylor 's whole learner approach, the project implements strategies to suppor t the physical and psychological needs of children. Attention to color, daylighting, technology, socialization, structure, flexibility, and ventilation to achieve these goals can be seen through the spaces detailed on the previous pages
 
-## ![](_page_82_Picture_4.jpeg)
 
 ## FIGURE 92 | SPACE TRAVEL EXHIBIT TEXTURES
 
 Directing each exhibit space toward different learning environment philosophy allows for range of learning experiences. The climate change exhibit follows an ecologically responsive learning philosophy that focuses on the interconnectivity of our world, our impact, and sustainable solutions. The floating city follows the experimentalism and existentialism learning philosophies by creating flexible exhibit environment. The exhibit uses technology, like vir tual reality, to create constantly changing possibilities and combinations of the user experience. The exhibit aims to leave open-ended questions for visitors to consider these social movements to come. The space travel exhibit has focus on realism philosophy of learning, providing multi-sensory space with diverse tex ture pallet and media integration. Figure 92 highlights some of these tex tures as they are used to create soft and hard play areas.
 
-## ![](_page_83_Picture_0.jpeg)
 
 Better understand how architectural form and elements can enhance child engagement within space. The understanding of scale and the propor tions of children was emphasized through the project design. As seen through Figure 93, more personal, intimate spaces are achieved by lowering ceiling heights and breaking down spatial volumes.
 
-## ![](_page_83_Picture_3.jpeg)
 
 ## FIGURE 93 | SECTION A: RESPONSE TO SCALE
 
@@ -1370,9 +1268,6 @@ The project program is derived from predicted futuristic situations, including s
 
 To achieve an environmentally conscious project and promote the well-being of occupants, LEED Gold is predicted to be achieved through the project. Figure 94 shows the LEED score card and point distributions the final design aims to attain.
 
-## ![](_page_83_Picture_9.jpeg)
-
-## ![](_page_84_Picture_0.jpeg)
 
 | - | Credit | Integrative Process | |
 |---|----------|----------------------------------------------|---|
@@ -1454,7 +1349,6 @@ To achieve an environmentally conscious project and promote the well-being of oc
 
 The research methods used provided an excellent understanding of learning environment design, as well as glimpse of the potential challenges and changes society may experience. The typological research explained design as it relates to the learning experience. It would have been beneficial to hear from the users of these spaces to understand the effectiveness of the design strategies. The diversity of professional opinions in the literature review and media research offered well-rounded understanding of the concepts at hand. Futurists, designers, story tellers, and other professionals pieced together view of the future and the impact it will have on future generation.
 
-## ![](_page_85_Picture_3.jpeg)
 
 # DIGITAL PRESENTATION
 
@@ -1468,13 +1362,6 @@ The research methods used provided an excellent understanding of learning enviro
 
 ## ![](_page_87_Figure_0.jpeg)
 
-## ![](_page_87_Picture_1.jpeg)
-
-## ![](_page_87_Picture_2.jpeg)
-
-## ![](_page_87_Picture_3.jpeg)
-
-## ![](_page_87_Picture_4.jpeg)
 
 ## ![](_page_88_Figure_0.jpeg)
 
@@ -1488,33 +1375,25 @@ The research methods used provided an excellent understanding of learning enviro
 
 ## ![](_page_89_Figure_0.jpeg)
 
-## ![](_page_89_Picture_1.jpeg)
 
 ## ![](_page_89_Figure_2.jpeg)
 
 ## ![](_page_89_Figure_3.jpeg)
 
-## ![](_page_90_Picture_1.jpeg)
-
-## ![](_page_90_Picture_2.jpeg)
 
 ## ![](_page_90_Figure_3.jpeg)
 
-## ![](_page_90_Picture_4.jpeg)
 
 ## ![](_page_91_Figure_0.jpeg)
 
-## ![](_page_91_Picture_1.jpeg)
 
 ## ![](_page_91_Figure_2.jpeg)
 
 ## ![](_page_91_Figure_3.jpeg)
 
-## ![](_page_91_Picture_4.jpeg)
 
 ## ![](_page_92_Figure_1.jpeg)
 
-## ![](_page_92_Picture_2.jpeg)
 
 ## UPPER FLOOR
 
@@ -1522,21 +1401,12 @@ The research methods used provided an excellent understanding of learning enviro
 
 ## LOWER FLOOR
 
-## ![](_page_92_Picture_3.jpeg)
-
-## ![](_page_93_Picture_1.jpeg)
-
-## ![](_page_93_Picture_2.jpeg)
-
-## ![](_page_93_Picture_3.jpeg)
 
 # PROJECT INSTALLATION
 
-## ![](_page_94_Picture_2.jpeg)
 
 ## FIGURE 95 | PROJECT INSTALLATION
 
-## ![](_page_95_Picture_0.jpeg)
 
 - Al, S., Sari, R. M., & Kahya, N. C. (2012). A different perspective on education: Montessori and Montessori school architecture. Procedia-Social and Behavioral Sciences , 46, 1866-1871.
 - Baldwin, E. (2018, November 8). Lava selected to Design German Pavilion for Expo 2020 Dubai. Arch Daily. Retrieved November 7, 2021, from https://www.archdaily.com/905514/lava-selected-to-design-germanpavilion-for-expo-2020-dubai?ad-medium=gallery.
@@ -1620,7 +1490,6 @@ Shuang, H. A. N. (2020, November 20). Yuecheng Courtyard Kindergarten / MAD arch
 
 kindergar ten-mad-architects.
 
-## ![](_page_97_Picture_0.jpeg)
 
 maps . Retrieved December 16, 2021, from https://oakcliff.
 
@@ -1640,7 +1509,6 @@ Western Kentucky University. (n.d.). T/TAS 40th Anniversary Inventions from the 
 
 2100. Future Timeline. (n.d.). Retrieved November 22, 2021, from https:// www.futuretimeline.net/22ndcentury/2100-2149.htm#2110.
 
-## ![](_page_97_Picture_15.jpeg)
 
 ### IMAGE REFERENCE LIST
 
@@ -1699,4 +1567,3 @@ Projects: Single Family Dwelling (Fargo, Nor th Dakota)
 
 2021 Fall Professor Ganapathy Mahalingam Project: Concer t Hall (Moorhead, Minnesota)
 
-## ![](_page_100_Picture_24.jpeg)

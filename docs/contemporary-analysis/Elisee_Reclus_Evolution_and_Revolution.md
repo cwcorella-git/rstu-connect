@@ -75,7 +75,6 @@ As for us, whom men call "the modern barbarians," our desire is justice for all.
 
 ## Anarchist library Anti-Copyright
 
-## ![](_page_9_Picture_1.jpeg)
 
 ## Elisée Reclus Evolution and Revolution 1891
 

@@ -9,9 +9,6 @@ tags:
 
 #### [mkgandhi.org](https://www.mkgandhi.org/speeches/qui.php)
 
-44–55 minutes
-
-## ![](_page_0_Picture_5.jpeg)
 
 {Gandhiji addressed the A. I. C. C. at Bombay on 8-8-42 outlining his plan of action, in Hindustani, as follows;}
 

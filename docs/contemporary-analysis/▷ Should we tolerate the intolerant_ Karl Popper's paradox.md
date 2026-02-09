@@ -11,9 +11,6 @@ tags:
 
 ## Jennifer Delgado
 
-7–9 minutes
-
-## ![](_page_0_Picture_6.jpeg)
 
 Lately, the word tolerance has been repeated like a mantra in political speeches, advertising campaigns, and everyday conversations. We assume that to have a fair and diverse society, where everyone can express themselves freely, we must be tolerant. And that's true, but an uncomfortable question immediately arises that most people prefer to ignore: What about those who don't want to accept those who think or behave differently? Should we tolerate the intolerant?
 

@@ -7,7 +7,6 @@ tags:
   - racial justice
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 ## Jordan T. Camp
 
@@ -15,7 +14,6 @@ American Quarterly, Volume 61, Number 3, September 2009, pp. 693-717 (Article)
 
 ## Published by The Johns Hopkins University Press
 
-## ![](_page_0_Picture_5.jpeg)
 
 ## For additional information about this article
 

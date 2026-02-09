@@ -10,7 +10,6 @@ tags:
 
 ## **Castle Rock v. Gonzales, 545 U. S. 748 (2005)**
 
-89–113 minutes
 
 **OPINION OF THE COURT CASTLE ROCK V. GONZALES 545 U. S. \_\_\_\_ (2005)**
 

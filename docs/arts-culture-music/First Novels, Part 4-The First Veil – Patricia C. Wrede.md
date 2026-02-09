@@ -10,9 +10,6 @@ tags:
 
 ## [pcwrede.com](https://pcwrede.com/pcw-wp/first-novels-part-4-the-first-veil/)
 
-6–8 minutes
-
-## ![](_page_0_Picture_5.jpeg)
 
 ## Graphic by Peg Ihinger
 
@@ -46,6 +43,4 @@ Also, sometimes what you hit isn't a veil at all. It's your backbrain going on s
 
 On January 22, 2025 / [Writing](https://pcwrede.com/pcw-wp/category/writing/)
 
-## ![](_page_4_Picture_4.jpeg)
 
-## ![](_page_4_Picture_5.jpeg)

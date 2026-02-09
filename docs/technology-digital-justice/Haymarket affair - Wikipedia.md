@@ -10,11 +10,9 @@ tags:
 
 ## Contributors to Wikimedia projects
 
-62–79 minutes
 
 Part of the [Great Upheaval](https://en.wikipedia.org/wiki/Great_Railroad_Strike_of_1877)
 
-## ![](_page_0_Picture_8.jpeg)
 
 This 1886 engraving was the most widely reproduced image of the Haymarket massacre. It shows Methodist pastor [Samuel Fielden](https://en.wikipedia.org/wiki/Samuel_Fielden) speaking, the bomb exploding, and the riot beginning simultaneously; in reality, Fielden had finished speaking before the explosion[.\[1\]](#page-37-0)
 
@@ -55,7 +53,6 @@ Department | |
 
 ## **Arrests**: 100+
 
-## ![](_page_2_Picture_2.jpeg)
 
 ## Haymarket Square, Chicago, Illinois
 
@@ -69,9 +66,6 @@ Following the [Civil War,](https://en.wikipedia.org/wiki/American_Civil_War) par
 
 [blacklisting](https://en.wikipedia.org/wiki/Blacklisting) union members, [locking out](https://en.wikipedia.org/wiki/Lockout_(industry)) workers, recruiting [strikebreakers;](https://en.wikipedia.org/wiki/Strikebreaker) employing spies, thugs, and [private security](https://en.wikipedia.org/wiki/Private_security) forces and exacerbating [ethnic tensions](https://en.wikipedia.org/wiki/Ethnic_tension) in order to divide the workers[.\[4\]](#page-37-3) Business interests were supported by mainstream newspapers, and were opposed by the labor and immigrant press[.\[5\]](#page-37-4)
 
-![](_page_4_Picture_3.jpeg)
-
-## ![](_page_4_Picture_4.jpeg)
 
 The first flier calling for a rally in the Haymarket on May 4. (left) and the revised flier for the rally. (right)
 
@@ -89,7 +83,6 @@ In October 1884, a convention held by the [Federation of](https://en.wikipedia.o
 
 On Saturday, May 1, thousands of workers who went on [strike](https://en.wikipedia.org/wiki/Strike_action) and attended rallies held throughout the United States sang the [anthem](https://en.wikipedia.org/wiki/Anthem) "Eight Hour." The song's chorus reflected the ideology of the Great Upheaval, "Eight Hours for work. Eight hours for rest. Eight hours for what we will."[\[10\]](#page-38-4) Estimates of the number of striking workers across the U. S. range from 300,00[0\[11\]](#page-38-5) to half a million[.\[12\]](#page-38-6) In [New York City,](https://en.wikipedia.org/wiki/New_York_City) the number of demonstrators was estimated at 10,000[,\[13\]](#page-38-7) and in [Detroit](https://en.wikipedia.org/wiki/Detroit) at 11,000[.\[14\]](#page-38-8) In [Milwaukee,](https://en.wikipedia.org/wiki/Milwaukee) some 10,000 workers turned out[.\[14\]](#page-38-8) In Chicago, the movement's center, an estimated 30,000 to 40,000 workers had gone on strik[e\[11\]](#page-38-5) and there were perhaps twice as many people out on the streets participating in various demonstrations and marches[,\[15\]](#page-38-9)[\[16\]](#page-39-0) as, for example, a march by 10,000 men employed in the Chicago [lumber yards.](https://en.wikipedia.org/wiki/Lumber_yard) [\[12\]](#page-38-6) Though participants in these events added up to 80,000, it is disputed whether there was a march of that number down [Michigan Avenue](https://en.wikipedia.org/wiki/Michigan_Avenue_(Chicago)) led by [anarchist](https://en.wikipedia.org/wiki/Anarchism) [Albert Parsons,](https://en.wikipedia.org/wiki/Albert_Parsons) founder of the [International Working People's Association](https://en.wikipedia.org/wiki/International_Working_People%27s_Association) [IWPA], his wife and fellow organizer [Lucy Parsons,](https://en.wikipedia.org/wiki/Lucy_Parsons) and their children[.\[11\]](#page-38-5)[\[17\]](#page-39-1) On Monday May 3, speaking to a rally outside a Mc Cormick Harvesting Machine Company plant on the West Side of Chicago, August Spies advised the striking workers to "hold together, to stand by their union, or they would not succeed". [\[18\]](#page-39-2) Well-planned and coordinated, the general strike to this point had mainly remained [non-violent.](https://en.wikipedia.org/wiki/Nonviolent_resistance) However, workers surged to the gates to confront strikebreakers when the end-ofthe-workday bell sounded. Spies called for calm, but the police fired on the crowd. Two Mc Cormick workers were killed; some newspaper accounts said there were six fatalities.[\[19\]](#page-39-3) Spies later testified, "I was very indignant. I knew from experience of the past that this butchering of people was done for the express purpose of defeating the eight-hour movement."[\[18\]](#page-39-2)
 
-## ![](_page_7_Picture_3.jpeg)
 
 ## The revenge flyer
 
@@ -129,7 +122,6 @@ A map of the bombing published by the [Chicago Tribune](https://en.wikipedia.org
 
 Witnesses maintained that immediately after the bomb blast, there was an exchange of gunshots between police and demonstrators[.\[34\]](#page-40-7) It is unclear who fired first[.\[35\]](#page-40-8) Avrich maintains that "nearly all sources agree that it was the police who opened fire", reloaded and then fired again, killing at least four and wounding as many as 70 people[.\[36\]](#page-41-0) In less than five minutes, the square was empty except for the [casualties.](https://en.wikipedia.org/wiki/Casualties) According to the May 4 New York Times, demonstrators began firing at the police, who then returned fire[.\[26\]](#page-39-10) In his report on the incident, Inspector Bonfield wrote that he "gave the order to cease firing, fearing that some of our men, in the darkness, might fire into each other"[.\[37\]](#page-41-1) An anonymous police official told the [Chicago Tribune](https://en.wikipedia.org/wiki/Chicago_Tribune), "A very large number of the police were wounded by each other's revolvers. ... It was every man for himself, and while some got two or three squares away, the rest emptied their revolvers, mainly into each other."[\[38\]](#page-41-2)
 
-![](_page_10_Picture_5.jpeg)
 
 Engraving of police officer Mathias J. Degan, who was killed by the bomb blast
 
@@ -149,7 +141,6 @@ search of the premises resulted in the discovery of the "Revenge Poster" and oth
 
 On May 7, police searched the premises of [Louis Lingg](https://en.wikipedia.org/wiki/Louis_Lingg) where they found a number of bombs and bomb-making materials. [\[51\]](#page-42-8) Lingg's landlord William Seliger was also arrested but cooperated with police, identified Lingg as a bomb-maker, and was not charged[.\[52\]](#page-42-9) An associate of Spies, Balthazar Rau, suspected as the bomber, was traced to [Omaha](https://en.wikipedia.org/wiki/Omaha,_Nebraska) and brought back to Chicago. After interrogation, Rau offered to cooperate with police. He alleged that the defendants had experimented with dynamite bombs and accused them of having published what he said was a code word, "Ruhe" ("peace"), in the Arbeiter-Zeitung as a call to arms at Haymarket Square.[\[50\]](#page-42-7)[\[53\]](#page-42-10)
 
-![](_page_13_Picture_4.jpeg)
 
 Engraving of the seven anarchists sentenced to die for Degan's murder. An eighth defendant, Oscar Neebe, not shown here, was sentenced to 15 years in prison.
 
@@ -157,13 +148,11 @@ Rudolf Schnaubelt, the police's lead suspect as the bomb thrower, was arrested t
 
 Of the eight defendants, five – Spies, Fischer, Engel, Lingg and Schwab – were immigrants born in Germany; a sixth, Neebe, was a U. S.-born citizen of German descent. The remaining two, Parsons and Fielden, born in the U. S. and England, respectively, were of British heritage[.\[54\]](#page-43-0)
 
-![](_page_15_Picture_3.jpeg)
 
 An artist's sketch of the trial, Illinois vs. August Spies et al. (1886)
 
 The trial, Illinois vs. August Spies et al., began on June 21, 1886, and went on until August 11. The trial was conducted in an atmosphere of extreme prejudice by both public and media toward the defendants[.\[57\]](#page-43-3) It was presided over by Judge [Joseph Gary,](https://en.wikipedia.org/wiki/Joseph_Gary) who displayed open hostility to the defendants, consistently ruled for the prosecution, and failed to maintain [decorum.](https://en.wikipedia.org/wiki/Decorum) A motion to try the defendants separately was denied[.\[58\]](#page-43-4) The defense counsel included [Sigmund Zeisler](https://en.wikipedia.org/wiki/Sigmund_Zeisler) and [William Perkins Black.](https://en.wikipedia.org/wiki/William_P._Black) [Selection of a jury](https://en.wikipedia.org/wiki/Jury_selection_in_the_United_States) was extraordinarily difficult, lasting three weeks, and nearly one thousand people called. All union members and anyone who expressed sympathy toward socialism were dismissed. In the end a jury of 12 was seated, most of whom confessed prejudice against the defendants. Despite their professions of prejudice Judge Gary seated those who declared that despite their prejudices they would acquit if the evidence supported it, refusing to dismiss for prejudice. Eventually the peremptory challenges of the defense were exhausted. Frustrated by the hundreds of jurors who were being dismissed, a [bailiff](https://en.wikipedia.org/wiki/Bailiff) was appointed who selected jurors rather than calling them at random. The bailiff proved prejudiced himself and selected jurors who seemed likely to convict based on their social position and attitudes toward the defendants[.\[58\]](#page-43-4) The prosecution, led by Julius Grinnell, argued that, since the defendants had not actively discouraged the person who had thrown the bomb, they were therefore equally responsible as conspirators[.\[59\]](#page-43-5) The jury heard the testimony of 118 people, including 54 members of the Chicago Police Department and the defendants Fielden, Schwab, Spies and Parsons. Albert Parsons's brother claimed there was evidence linking the [Pinkertons](https://en.wikipedia.org/wiki/Pinkerton_National_Detective_Agency) to the bomb. This reflected a widespread belief among the strikers[.\[49\]](#page-42-6)
 
-![](_page_16_Picture_3.jpeg)
 
 Exhibit 129a from the Haymarket trial: Chemists testified that the bombs found in Lingg's apartment, including this one, resembled the chemical signature of shrapnel from the Haymarket bomb.
 
@@ -199,7 +188,6 @@ In the end, Oglesby decided he would only pardon those who asked for clemency. F
 
 On the eve of his scheduled execution, Lingg died by [suicide](https://en.wikipedia.org/wiki/Suicide) in his cell with a smuggled [blasting cap](https://en.wikipedia.org/wiki/Blasting_cap) which he reportedly held in his mouth like a cigar (the blast blew off half his face and he survived in agony for six hours)[.\[71\]](#page-44-8)
 
-![](_page_20_Picture_5.jpeg)
 
 Execution of defendants—Engel, Fischer, Parsons, and Spies
 
@@ -215,9 +203,6 @@ Notwithstanding the convictions for conspiracy, no actual bomber was ever brough
 
 ## [\[edit\]](https://en.wikipedia.org/w/index.php?title=Haymarket_affair&action=edit§ion=15)
 
-## ![](_page_21_Picture_8.jpeg)
-
-## ![](_page_22_Picture_2.jpeg)
 
 Altgeld Monument (by [Borglum\)](https://en.wikipedia.org/wiki/Gutzon_Borglum) erected by the [Illinois Legislature](https://en.wikipedia.org/wiki/Illinois_General_Assembly) in [Lincoln Park,](https://en.wikipedia.org/wiki/Lincoln_Park) Chicago (1915)
 
@@ -237,7 +222,6 @@ Not all observers have been so harsh towards the prosecution and trial. In a rev
 
 #### [\[edit\]](https://en.wikipedia.org/w/index.php?title=Haymarket_affair&action=edit§ion=16)
 
-## ![](_page_24_Picture_5.jpeg)
 
 This sympathetic engraving by English [Arts and Crafts](https://en.wikipedia.org/wiki/Arts_and_Crafts_Movement) illustrator [Walter Crane](https://en.wikipedia.org/wiki/Walter_Crane) of "The Anarchists of Chicago" was widely circulated among anarchists, socialists, and labor activists.
 
@@ -267,11 +251,9 @@ While admitting that none of the defendants was involved in the bombing, the pro
 
 Several activists, including Robert Reitzel, later hinted they knew who the bomber was[.\[104\]](#page-47-10) Writers and other commentators have speculated about many possible suspects:
 
-## ![](_page_28_Picture_5.jpeg)
 
 Rudolph Schnaubelt was identified as the bomb thrower by prosecution witness Gilmer from this photograph during the trial.
 
-## ![](_page_29_Picture_3.jpeg)
 
 [Arrest warrant](https://en.wikipedia.org/wiki/Arrest_warrant) with the same photograph for Schnaubelt, issued by Ebersold, June 14, 1886.
 
@@ -294,7 +276,6 @@ Rudolph Schnaubelt was identified as the bomb thrower by prosecution witness Gil
 
 ## [\[edit\]](https://en.wikipedia.org/w/index.php?title=Haymarket_affair&action=edit§ion=18)
 
-## ![](_page_32_Picture_5.jpeg)
 
 A 2009 image of the [Haymarket Martyrs' Monument](https://en.wikipedia.org/wiki/Haymarket_Martyrs%27_Monument) at the Forest Home Cemetery in Forest Park, Illinois
 
@@ -328,15 +309,12 @@ Designated on March 25, 1992,
 
 On September 14, 2004, Daley and union leaders—including the president of Chicago's [police union—](https://en.wikipedia.org/wiki/Police_unions_in_the_United_States)unveiled a monument by Chicago artist Mary Brogger, a fifteen-foot (4.5 m) speakers' wagon sculpture echoing the wagon on which the labor leaders stood in Haymarket Square to champion the eight-hour day. [\[130\]](#page-50-1) The bronze sculpture, intended to be the centerpiece of a proposed "Labor Park," is meant to symbolize both the rally at Haymarket and [free speech.](https://en.wikipedia.org/wiki/Free_speech) The planned site was to include an international commemoration wall, sidewalk plaques, a cultural pylon, a seating area, and banners, but construction has not yet begun[.\[131\]](#page-50-2)
 
-![](_page_35_Picture_6.jpeg)
 
 Workers finish installing [Gelert's](https://en.wikipedia.org/wiki/Johannes_Gelert) statue of a Chicago policeman in Haymarket Square, 1889. The statue now stands at the [Chicago Police](https://en.wikipedia.org/wiki/Chicago_Police_Department) Headquarters.
 
-## ![](_page_36_Picture_2.jpeg)
 
 The statue-less pedestal of the police monument on the 100th anniversary of the Haymarket Affair in May 1986; the pedestal has since been removed.
 
-## ![](_page_36_Picture_4.jpeg)
 
 The marker under the Mary Brogger monument, vandalized with a [circle-A](https://en.wikipedia.org/wiki/Anarchist_symbolism)
 
@@ -545,7 +523,6 @@ Labor and Society. 12.3 (2009): 421-450. [onine](https://www.academia.edu/downlo
 - Riedy, James L. (1979). Chicago Sculpture: Text and Photographs. Urbana: University of Illinois Press. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [0-252-01255-0.](https://en.wikipedia.org/wiki/Special:Book Sources/0-252-01255-0)
 - Smith, Carl (1995). Urban Disorder and the Shape of Belief: The Great Chicago Fire, the Haymarket Bomb, and the Model Town of Pullman. Chicago: University of Chicago Press. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [0-226-76416-8.](https://en.wikipedia.org/wiki/Special:Book Sources/0-226-76416-8)
 
-## ![](_page_53_Picture_5.jpeg)
 
 English [Wikisource](https://en.wikipedia.org/wiki/Wikisource) has original text related to this article:
 

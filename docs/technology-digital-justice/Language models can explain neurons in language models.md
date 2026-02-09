@@ -10,7 +10,6 @@ tags:
 
 Steven Bills∗,
 
-63-79 minutes
 
 # Introduction
 
@@ -53,7 +52,6 @@ We applied our method to all MLP neurons in GPT-2 XL. We found over 1,000 neuron
 
 ## Example 1 of 4
 
-## ![](_page_3_Picture_6.jpeg)
 
 ## Click a token to see which neurons fire
 

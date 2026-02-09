@@ -34,7 +34,6 @@ EDITED BY JOHN ASIMAKOPOULOS AND RICHARD GILMAN-OPALSKY
 
 ## A RADR O RADICAL UDRCURRTS
 
-## ![](_page_5_Picture_3.jpeg)
 
 TEMPLE UNIVERSITY PRESS Philadelphia, Pennsylvania 19122 www.temple.edu/tempress
 

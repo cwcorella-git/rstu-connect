@@ -9,13 +9,11 @@ tags:
   - wikipedia
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 **Chandra** [\(Sanskrit](https://en.wikipedia.org/wiki/Sanskrit_language): चन्द्र, [romanized](https://en.wikipedia.org/wiki/Romanization_of_Sanskrit): *Chandra*, [lit.](https://en.wikipedia.org/wiki/Literal_translation) 'shining' or 'moon'), also known as **Soma** [\(Sanskrit:](https://en.wikipedia.org/wiki/Sanskrit_language) सो म), is the [Hindu god](https://en.wikipedia.org/wiki/Hindu_god) [of the Moon](https://en.wikipedia.org/wiki/Lunar_deity), and is associated with the night, plants and vegetation. He is one of the [Navagraha](https://en.wikipedia.org/wiki/Navagraha) (nine planets of Hinduism) and [Dikpala](https://en.wikipedia.org/wiki/Dikpala) (guardians of the directions).[\[5\]](#page-5-3)
 
 ## **Etymology and other names**
 
-## ![](_page_0_Picture_4.jpeg)
 
 The scriptures compare the Moon to a white goose in the blue lake of sky. [\[2\]](#page-5-1)
 
@@ -27,7 +25,6 @@ Some of the synonyms of Chandra include *Soma* (distill), *Indu* (bright drop), 
 
 God of the [Moon,](https://en.wikipedia.org/wiki/Moon) [Night](https://en.wikipedia.org/wiki/Night) and [Vegetation](https://en.wikipedia.org/wiki/Vegetation) [\[1\]](#page-5-0)[\[2\]](#page-5-1) Member of [Navagraha](https://en.wikipedia.org/wiki/Navagraha)
 
-## ![](_page_0_Picture_10.jpeg)
 
 A painting of Chandra from [Mewar](https://en.wikipedia.org/wiki/Mewar), [Rajasthan,](https://en.wikipedia.org/wiki/Rajasthan)
 
@@ -108,7 +105,6 @@ Inspired by his interest in Indian mysticism, [Aldous Huxley](https://en.wikiped
 
 The origin of Soma is traced back to the Hindu [Vedic texts,](https://en.wikipedia.org/wiki/Vedic_texts) where he is the personification of [a drink made from a](https://en.wikipedia.org/wiki/Soma_(drink)) [plant with the same name](https://en.wikipedia.org/wiki/Soma_(drink)). Scholars state that the plant had an important role in Vedic civilization and thus, the deity was one of the most important gods of the pantheon. In these Vedic texts, Soma is praised as the lord of plants and forests; the king of rivers and earth; and the father of the gods. The entire [Mandala 9](https://en.wikipedia.org/wiki/Mandala_9) of the *[Rigveda](https://en.wikipedia.org/wiki/Rigveda)* is dedicated to Soma, both the plant and the deity. [\[17\]](#page-6-8) The identification of Soma as a lunar deity in the Vedic texts is a controversial topic among scholars.[\[10\]](#page-6-2) According to William
 
-## ![](_page_1_Picture_8.jpeg)
 
 Possible depiction of the Moon God Chandra in his chariot with wife and attendant, 2nd-1st century BCE, [Shunga](https://en.wikipedia.org/wiki/Shunga_period) period, West Bengal. [\[16\]](#page-6-1)
 
@@ -118,7 +114,6 @@ J. Wilkins, "In later years the name Soma was [...] given to the moon. How and w
 
 In post Vedic texts like the Ramayana, the Mahabharata and the Puranas, Soma is mentioned as a lunar deity and has many epithets including Chandra. According to most of these texts, Chandra, along with his brothers Dattatreya and Durvasa, were the sons of the sage Atri and his wife Anasuya. The Devi Bhagavata Purana states Chandra to be the avatar of the creator god Brahma. Some texts contain varying accounts regarding Chandra's birth. According to one text, he is the son of Dharma; while another mention Prabhakar as his father. Many legends about Chandra are told in the scriptures.
 
-## ![](_page_2_Picture_3.jpeg)
 
 ## Chandra, British Museum, 13th century, Konark
 

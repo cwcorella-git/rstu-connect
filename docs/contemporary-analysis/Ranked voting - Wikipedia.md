@@ -11,7 +11,6 @@ tags:
 
 ## Contributors to Wikimedia projects
 
-19–24 minutes
 
 ## From Wikipedia, the free encyclopedia
 
@@ -43,7 +42,7 @@ Professor W. R. Ware held a demonstration STV election in 1871, by having 150 M.
 
 Theoretical exploration of electoral processes was revived by a 1948 paper from [Duncan Black](https://en.wikipedia.org/wiki/Duncan_Black)[\[12\]](#page-13-1) and [Kenneth Arrow](https://en.wikipedia.org/wiki/Kenneth_Arrow)'s investigations into [social choice theory,](https://en.wikipedia.org/wiki/Social_choice_theory) a branch of [welfare](https://en.wikipedia.org/wiki/Welfare_economics) [economics](https://en.wikipedia.org/wiki/Welfare_economics) that extends [rational choice](https://en.wikipedia.org/wiki/Decision_theory) to include community decision-making processes[.\[13\]](#page-13-2)
 
-[Plurality voting](https://en.wikipedia.org/wiki/Plurality_voting) is the most common voting system, and has been in widespread use since the earliest [democracies.](https://en.wikipedia.org/wiki/Democracy) As [plurality voting](https://en.wikipedia.org/wiki/Plurality_voting) has exhibited weaknesses from its start, especially as soon as a third party joins the race, some individuals turned to transferable votes (facilitated by contingent ranked ballots) to reduce the incidence of wasted votes and unrepresentative election results[.\[14\]\[](#page-13-3)[citation needed](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed)]
+[Plurality voting](https://en.wikipedia.org/wiki/Plurality_voting) is the most common voting system, and has been in widespread use since the earliest [democracies.](https://en.wikipedia.org/wiki/Democracy) As [plurality voting](https://en.wikipedia.org/wiki/Plurality_voting) has exhibited weaknesses from its start, especially as soon as a third party joins the race, some individuals turned to transferable votes (facilitated by contingent ranked ballots) to reduce the incidence of wasted votes and unrepresentative election results[.\[14\]\[citation needed](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed)]
 
 A form of the [single transferable vote](https://en.wikipedia.org/wiki/Single_transferable_vote) system was invented by [Carl Andræ](https://en.wikipedia.org/wiki/Carl_Christoffer_Georg_Andr%C3%A6) in Denmark, where it was used briefly before being abandoned in favour of [open list](https://en.wikipedia.org/wiki/Open_list) list PR, but still carried on for indirect election of the [upper house](https://en.wikipedia.org/wiki/Landsting_(Denmark)) until 1953.[[citation needed](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed)]
 

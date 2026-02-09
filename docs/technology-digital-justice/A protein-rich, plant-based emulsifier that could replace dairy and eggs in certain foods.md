@@ -11,11 +11,9 @@ tags:
 
 ## Science X
 
-7-8 minutes
 
 This article has been reviewed according to Science X's [editorial](https://sciencex.com/help/editorial-process/) [process](https://sciencex.com/help/editorial-process/) and [policies.](https://sciencex.com/help/editorial-standards/) [Editors](https://sciencex.com/help/editorial-team/) have highlighted the following attributes while ensuring the content's credibility:
 
-## ![](_page_0_Picture_7.jpeg)
 
 A side-by-side comparison of store brand mayonnaise (left) with the plant-based and nutrient-rich mayonnaise produced by NTU Singapore (right). Credit: Nanyang Technological University
 
@@ -31,7 +29,6 @@ To produce the emulsifier, brewers' spent grain is fermented, before undergoing 
 
 Compared to store brand mayonnaise, the mayonnaise produced with the NTU-plant-based emulsifier contained more protein, and higher amounts of certain essential amino acids. The fat and calorie contents were similar compared to typical store brand mayonnaise, but the NTU-made mayonnaise contained more nutrients and antioxidants.
 
-## ![](_page_2_Picture_3.jpeg)
 
 The NTU-invented plant-based emulsifier (pictured here) is rich in protein and antioxidants, and has the necessary properties to replace eggs or dairy in food staples such as mayonnaise, salad dressings, and whipped cream. Credit: Nanyang Technological University
 
@@ -47,9 +44,6 @@ The results of the study were published in the peer-reviewed academic journal Fo
 
 Currently, brewers' spent grain is not widely used in food processing, largely due to the difficulty in extracting proteins from it, say the NTU researchers. As the proteins are 'trapped' within its [complex structure,](https://phys.org/tags/complex+structure/) current commercial processes, such as using chemicals or high temperature to release them are costly and complicated.
 
-## ![](_page_3_Picture_8.jpeg)
-
-## ![](_page_4_Picture_2.jpeg)
 
 A cross-section view of brewers' spent grain, a by-product of the beer-making industry, being broken down by a fungus, Rhizopus oligosporus, to unlock its rich protein potential. Credit: Nanyang Technological University
 

@@ -8,15 +8,6 @@ tags:
   - liberty
 ---
 
-## ![](_page_0_Picture_0.jpeg)
-
-## ![](_page_1_Picture_0.jpeg)
-
-## ![](_page_2_Picture_0.jpeg)
-
-## ![](_page_3_Picture_0.jpeg)
-
-## ![](_page_4_Picture_0.jpeg)
 
 The print edition of this book is available for \$10+shipping via crimethinc.com/democracy.
 
@@ -36,7 +27,6 @@ Printed in Canada by unionized printers on 100% post-consumer recycled paper
 
 ## ![](_page_6_Figure_0.jpeg)
 
-## ![](_page_7_Picture_0.jpeg)
 
 Democracy is the most universal political ideal of our day. George Bush invoked it to justify invading Iraq; Obama congratulated the rebels of Tahrir Square for bringing it to Egypt; Occupy Wall Street claimed to have distilled its pure form. From the Democratic People's Republic of North Korea to the autonomous region of Rojava, practically every government and popular movement calls itself democratic.
 
@@ -48,7 +38,6 @@ Impelled by our own experiences in directly democratic movements, we've returned
 
 To be sure, many good things are regularly described as democratic. This is not an argument against discussions, collectives, assemblies, networks, federations, or working with people you don't always agree with. The argument, rather, is that when we engage in those practices, if we understand what we are doing as democracy—as a form of participatory government rather than a collective pursuit of freedom—then sooner or later, we will recreate all the problems associated with less democratic forms of government. This goes for rep-
 
-## ![](_page_9_Picture_0.jpeg)
 
 resentative democracy and direct democracy alike, and even for consensus process.
 
@@ -98,7 +87,6 @@ In classical Greece, every abstract concept was personied by a divine being. Kra
 
 # 2500 A A WE DECLARED WAR ON T RLD!
 
-## ![](_page_13_Picture_1.jpeg)
 
 WE CA THIS WAR DECCY!
 
@@ -136,7 +124,6 @@ obey the law and treat people as property while endeavoring to change the laws, 
 
 If you would follow in the footsteps of Harriet Tubman, then you, too, believe that there is something more important than the rule of law. This is a problem for anyone who wants to make conformity with the law or with the will of the majority into the nal arbiter of legitimacy.
 
-## ![](_page_16_Picture_2.jpeg)
 
 # Checks and Balances
 
@@ -276,7 +263,6 @@ Competing for the right to direct the coercive power of the state, the contestan
 
 So much for democracy and political inequality. What about the economic inequality that has attended democracy
 
-## ![](_page_31_Picture_0.jpeg)
 
 since the beginning? You would think that a system based on majority rule would tend to reduce the disparities between rich and poor, seeing as the poor constitute the majority. Yet, just as in ancient Rome, the current ascendancy of democracy is matched by enormous gulfs between the haves and the havenots. How can this be?
 
@@ -310,7 +296,6 @@ When reality is generated via the media and media access is determined by wealth
 
 That brings us to the present. Africa and Asia are witnessing new movements in favor of democracy; meanwhile, many people in Europe and the Americas who are disillusioned by the failures of representative democracy have pinned their hopes on direct democracy, shifting from the model of the Roman Republic back to its Athenian predecessor. If the problem is that government is unresponsive to our needs, isn't the solution to make it more participatory, so we wield power directly rather than delegating it to politicians?
 
-## ![](_page_36_Picture_0.jpeg)
 
 But what does that mean, exactly? Does it mean regular referendums, like the one that produced the Brexit?\* Does it mean voting on laws rather than legislators? Does it mean toppling the prevailing government and instituting a government of federated assemblies in its place? Or something else?
 
@@ -364,7 +349,6 @@ The important distinction is not between democracy and the state, then, but betw
 
 It is strange to use the word democracy for the idea that the state is inherently undesirable. The proper word for that idea is anarchism. Anarchism opposes all exclusion and domination in favor of the radical decentralization of power structures, decision-making processes, and notions of legitimacy. It is not a matter of governing in a completely participatory manner, but of making it impossible to impose any form of rule.
 
-## ![](_page_43_Picture_3.jpeg)
 
 # Consensus and the Fantasy of Unanimous Rule
 
@@ -380,7 +364,6 @@ At the furthest extreme of this logic, majority rule would mean rule by consensu
 
 \* In theory, categories that are dened by exclusion, like citizenship, break down when we expand them to include the whole world. But if we wish to break them down, why not reject them outright, rather than promising to do so while further legitimizing them? When we use the word citizenship to describe something desirable, that can't help but reinforce the legitimacy of that institution as it exists today.
 
-## ![](_page_45_Picture_0.jpeg)
 
 be the most legitimate government of all? Then, finally, there would be no need for police.
 
@@ -406,7 +389,6 @@ Even at their best, institutions are just a means to an end; they have no value 
 
 ### Decenttion? In tory, it's a od id, but I doubt we' rch nnsus impment it.
 
-## ![](_page_47_Picture_3.jpeg)
 
 # The Excluded: Race, Gender, and Democracy
 
@@ -480,13 +462,11 @@ Centralized government, touted as a way to conclude disputes, just consolidates 
 
 † For example, on June 1, 1857, members of Baltimore's Plug Uglies and several other street gangs supporting the Know-Nothing Party attacked prospective voters at Washington, DC polling stations. The ghting continued until two companies of Marines were dispatched to control them, leaving six dead and dozens injured.
 
-## ![](_page_55_Picture_0.jpeg)
 
 A diagram illustrating the advantages of decentralized and autonomous network-based organizing over both representative democracy and assembly-based direct democracy.
 
 Peña-López, I. (2016) "Are assembly-based parties network parties?" In ICTlogy, #148, January 2016. Barcelona: ICTlogy.
 
-## ![](_page_56_Picture_0.jpeg)
 
 But can decentralized networks stand a chance against centralized power structures? If they can't, then the whole discussion is moot, as any attempt to experiment with decentralization will be crushed by more centralized rivals.
 
@@ -494,7 +474,6 @@ The answer remains to be seen, but today's centralized powers are by no means su
 
 \* In Networks and Netwars: The Future of Terror, Crime, and Militancy, edited by John Arquilla and David Ronfeldt.
 
-## ![](_page_57_Picture_0.jpeg)
 
 been decentralized, while more centralized efforts like Syriza have been coopted almost immediately. Scholars from many different elds of study are now theorizing the distinguishing features and advantages of network-based organizing.
 
@@ -558,7 +537,6 @@ Consider the uprising that took place in Ferguson, Missouri in August 2014 in re
 
 By the same token, if we insist on our movements being completely transparent, that means letting the authorities dictate which tactics we can use. In conditions of widespread inltration and surveillance, conducting all decision-making in public without the option of anonymity invites repression on anyone who is perceived as a threat to the status quo. The more public and transparent a decision-making body is, the more conservative its actions are likely to be, even when this contradicts its express reason for being—think of all the environmental coalitions that have never taken a single step to halt the activities that cause climate change. Within democratic logic, it makes sense to demand transparency from the government, as it is supposed to represent and answer to the people. But outside that logic, rather than demanding
 
-## ![](_page_64_Picture_0.jpeg)
 
 that participants in social movements represent and answer to each other, we should seek to maximize the autonomy with which they may act.
 
@@ -700,13 +678,11 @@ Let's return to the high point of the uprisings. Thousands of us ood into the st
 
 What is beautiful about such moments transcends any political system. The conicts are as essential as the ashes of unexpected consensus. This is not the functioning of democracy, but the experience of freedom—of collectively taking our des-
 
-## ![](_page_80_Picture_0.jpeg)
 
 tinies in our hands. No set of procedures could institutionalize this. It is a prize we must wrest from the jaws of habit and history again and again.
 
 Next time a window of opportunity opens and we have the chance to remake our lives and our world, rather than reinventing "real democracy" once more, let us set our sights on freedom, freedom itself.
 
-## ![](_page_81_Picture_0.jpeg)
 
 # Case Studies
 
@@ -720,7 +696,6 @@ IN SPAIN :
 
 ## 82 Case Studies
 
-## ![](_page_84_Picture_0.jpeg)
 
 # I. Emergence
 
@@ -738,7 +713,6 @@ And our doubts were not without reason. Being out alone in the streets for years
 
 Thousands of people fill the Plaza del Sol in Madrid during the 15M mobilization in 2011.
 
-## ![](_page_85_Picture_4.jpeg)
 
 When the plaza occupation movement broke out on the 15th of May (15M), 2011, throughout the Spanish state, we threw ourselves into it. A few anarchists dismissed it outright, unable to nd traction in that chaotic, unseemly jumble of a movement, and others uncritically gave their stamp of approval to anything that appeared to have the support of a mass. But we refused to surrender the perspectives and experiences won through years of lonely struggle when few others were insisting that the system we lived in was unacceptable.
 
@@ -762,9 +736,6 @@ The 15M movement broke out just two weeks later, and its ofcial discourses calle
 
 In that rst assembly, they took up an old Trotskyist tactic. Distributing themselves throughout the circle, they tried to push the group to adopt a pre-ordained consensus that matched the directives that had come down from Madrid. But it was clear that these activists were not experienced in such tactics, for they were all wearing identical "Real Democracy Now" t-shirts. The minute someone from the leftwing Catalan independence movement said that the Barcelona occupation should set out on its own path rather than following Madrid, the crowd agreed. There were very few anarchists that rst night, but those present also made sure that the reformist activists were not able to limit the movement from the outset.
 
-## ![](_page_88_Picture_3.jpeg)
-
-## ![](_page_89_Picture_0.jpeg)
 
 "Who is in favor?" asks the person with the microphone, her voice booming out from concert-quality speakers. A few thousand people raise their hands.
 
@@ -812,11 +783,9 @@ Subsequently, they formed a Contents Commission in order to formulate the "conte
 
 When anarchist participation prevented the Trotskyists, Real Democracy activists, and other grassroots politicians from producing the sort of unitary demands and manifestos that the general assembly had earlier vetoed, the Commission was broken up into a dozen sub-commissions. Every single day, in multiple sub-commissions, the grassroots politicians made the same proposals that had been defeated the day before, until one meeting when none of their opponents were present. The demands were passed through the commission and
 
-## ![](_page_93_Picture_0.jpeg)
 
 ## Map of the Plaza del Sol, May 20, 2011
 
-## ![](_page_94_Picture_0.jpeg)
 
 ## Map of the Plaza del Sol, end of May 2011
 
@@ -844,7 +813,6 @@ Weren't all these other spaces also decision-making spaces? Don't we make decisi
 
 And even if we could participate in every formal decision, would we make the same decisions we would arrive at in spaces
 
-## ![](_page_98_Picture_0.jpeg)
 
 Speaking truth to power?
 
@@ -854,7 +822,6 @@ of comfort, spaces of life rather than of politics? Is it possible that our form
 
 Needless to say, the proponents of direct democracy and its ofcial structures did whatever they could to suppress the chaotic zones in the plaza. The anarchist tent, for example, never had ofcial permission, and on the rst day we set up, they tried to kick us out. We made it clear that they would have to use force to get us out, and then everyone would see what their democracy consisted of. They would have done it, if we hadn't
 
-## ![](_page_99_Picture_0.jpeg)
 
 Neighborhood assembly, May 2011.
 
@@ -866,7 +833,6 @@ Calling the 15M movement imperfect doesn't cut it. All the oppressive dynamics, 
 
 In time, the 15M movement subsided, blending back into the social conicts that gave birth to it, which continued unabated. For a while, many anarchists in Barcelona participated with thousands of other people in the neighborhood assemblies that replaced the Plaça Catalunya occupation. Home defense protests against foreclosures gained frequency. There were occupations of schools and hospitals against austerity measures. General strikes and riots. Protests against new repressive laws. Waves of arrests and counterprotests. The struggle continued.
 
-## ![](_page_100_Picture_2.jpeg)
 
 The rise of these movements taught us a number of things. Their origins conrmed certain anarchist theories about social conict. They were not mechanically triggered by material conditions, as they tended to precede the worst economic effects of austerity. The way I see it, material conditions do not exist, only people's interpretations of their conditions. (The whole category of the "material" seems more like a crude attempt to appear scientic, though it relies on a dichotomy that stems from the origins of Western, Christian civilization.) The true triggers of the movements included empathy for the revolts occurring in other countries, a sense of insecurity or an evaluation that the State had become weak, outrage in response to government measures seen as insulting to people's dignity and threatening to their well-being, and the expectation that things were getting worse.
 
@@ -886,7 +852,6 @@ The experience in the plaza taught us in practice what we had already argued in 
 
 The central assembly did not give birth to a single initiative. What it did, rather, was to grant legitimacy to initiatives worked out in the commissions; but this process must not be portrayed in positive terms. This granting of legitimacy was in fact a robbing of the legitimacy of all the decisions made in the multiple spaces throughout the plaza not incorporated into an ofcial commission. Multiple times, self-appointed representatives of this or that commission tried to suppress spontaneous initiatives that did not bear their stamp of legitimacy. At other
 
-## ![](_page_103_Picture_0.jpeg)
 
 They call it democracy.
 
@@ -904,7 +869,6 @@ In the spring, activist platforms, some of them barely a year old, won the elect
 
 The new mayor of Barcelona, Ada Colau, had been a housing activist who once got arrested in a highly publicized act of
 
-## ![](_page_105_Picture_0.jpeg)
 
 Madrid's Plaza del Sol, once again filled with people, during a rally called by Podemos in 2015.
 
@@ -934,7 +898,6 @@ The reformist promises of the would-be leaders achieved something else. By redir
 
 This bait-and-switch blinded many people to the advances that the assemblies did achieve. They constituted an important rst step—meeting one another, starting the great social conversation—towards the self-organization of life. And they served as a tool to increase our power, our ability to take over public space and transform it into communal space. In the struggle for our lives, this is a huge victory. But the thinking
 
-## ![](_page_109_Picture_0.jpeg)
 
 Careful what you wish for.
 
@@ -944,7 +907,6 @@ We can blame democracy and its naïve proponents for selling out this stillborn 
 
 But we were not passive spectators to this failure. I think that on the whole, we—here I simply refer to myself and the friends I was in closest contact with in those days—quickly learned how to keep would-be politicians from taking over or centralizing the new assemblies. Or in the case of the Plaça Catalunya assembly, which quickly became too massive to function in an empowering way, we learned how to make its failings evident and how to draw out the potential of other spaces of organization and encounter. Often, this meant opposing the model of the centralized assembly based on unitary
 
-## ![](_page_110_Picture_0.jpeg)
 
 May 21, 2011: Even if they gather to protest the elections, they will just be recruits for another party if they don't immediately begin solving their problems directly.
 
@@ -978,7 +940,6 @@ It is only when these skills are put at the service of a revolutionary imaginati
 
 The regeneration of democracy, here and elsewhere, has given a new lease on life to the structures of domination that so many people were losing faith in. Grim futures loom, and if anything we are only getting further away from any possibility of revolution. But the chaotic reality of the universe offers us
 
-## ![](_page_114_Picture_0.jpeg)
 
 Remember how it came to this.
 
@@ -996,7 +957,6 @@ Seemingly impervious orders crumble and new forms of life emerge. We have every 
 
 ## 114 Case Studies
 
-## ![](_page_116_Picture_0.jpeg)
 
 I nd myself in the courtyard of the School of Fine Arts in Athens, Greece. It's May 25, 2011, a hot summer day. A ve-day anarchist and anti-authoritarian festival starts in six hours and I am scrambling to prepare all the small details I have in mind. I'm working alone.
 
@@ -1006,7 +966,6 @@ In Spain, people have been on the streets for ten days, after 75 years of silenc
 
 The mind is a spaceship; people have traveled to other planets during the summer nights for thousands of years now.
 
-## ![](_page_117_Picture_0.jpeg)
 
 May 26, 2011: The second day of protest in Syntagma Square.
 
@@ -1018,7 +977,6 @@ We can do an incredible amount of logistical work to prepare a space for people,
 
 What appeared that day in May 2011 was a tropical storm, an ocean arising in front of our eyes, vast and wild. Fully 100,000 people gathered suddenly around the parliament, shouting
 
-## ![](_page_118_Picture_0.jpeg)
 
 May 29, 2011: The encampment in Syntagma Square.
 
@@ -1034,11 +992,9 @@ The collapse of faith in representation was also a kind of emancipation. The obe
 
 The people took a step. This is what happened during the summer of 2011 in Greece and many other countries.
 
-## ![](_page_119_Picture_4.jpeg)
 
 I nd myself in my mother's house. It is June 2011. A 65-yearold social democrat, she wonders why people didn't succeed in storming the parliament yet during the days they have been encircling it. She is afraid to go out in the streets because of the tear gas, but she always asks me, "Maybe I could come also to the camp during the daytime?" My uncle and my aunt are also there, members of the Socialist Party (PASOK) since it was
 
-## ![](_page_120_Picture_0.jpeg)
 
 June 5, 2011: The encampment in Syntagma Square.
 
@@ -1048,7 +1004,6 @@ But were the assemblies that took place in Syntagma liberating, in the end? Or w
 
 People expressed themselves through the assemblies all around the country. Common people who had never taken part in any kind of public event spoke openly about their deepest fears and their most precious desires, in front of thousands upon thousands of people, with megaphones to guarantee that everyone could hear their voices clearly. It was like some kind of group therapy, a catharsis in which they shook off the delusions of the past, a leap into public space, an expedition into the vast possibilities of shared social power. It was a wonderful
 
-## ![](_page_121_Picture_0.jpeg)
 
 June 15, 2011: Fighting against nationalists at Syntagma Square.
 
@@ -1070,7 +1025,6 @@ The Founding Fathers of democracy—like all fathers, perhaps—feared the criti
 
 Democracy keeps you afraid, afraid of the enemies of democracy that have hidden within your tribe, your democratic community, your nation. Democracy creates borders in your life and you are drafted to protect those borders with your own body. The borders are imaginary, just social constructs, but your dead body on the battleground is real. Democracy excludes the rest of humanity from your community and it prepares an army, including you, to kill all the excluded ones. And if you refuse to kill for the sake of democracy, you too will be excluded.
 
-## ![](_page_123_Picture_0.jpeg)
 
 June 15, 2011: Riot police line up at Syntagma Square behind a banner reading "DIRECT DEMOCRACY."
 
@@ -1084,7 +1038,6 @@ Even knowing all of this, some people defend democracy. They want to nd a form o
 
 This world will never change as long as we are afraid to cut the roots of this order. Democracy is the nal alternative for all who are afraid to step into the unknown territory of their own desires, their own power. Likewise, the demand for "real" democracy is the last way for social movements to legitimize themselves in the supposed "social sphere" (and to try to avoid being criminalized). Just as it is the nal step, democracy is also the nal obstacle to new possibilities arising in social movements.
 
-## ![](_page_124_Picture_4.jpeg)
 
 Could any form of democracy save us from democracy?
 
@@ -1092,13 +1045,11 @@ Direct democracy offers us an alternative way to govern our lives. But is this r
 
 When I take part in the assembly of Void Network, I have to take into account the needs and interests of all my comrades,
 
-## ![](_page_125_Picture_0.jpeg)
 
 June 28, 2011: Nationalist flags replace the banner demanding direct democracy in Syntagma Square.
 
 and our group has to take into account the needs and desires of the greatest possible number of people in this world. If we do not take care of each other, there can be no Void Network, and if we do not take care of the people outside our group, there will be no connection between us and the world. There is no general assembly that could know better than we do how we should make the most of our abilities to benet the people around us. This is the difference between an afnity group, which produces a collective and expansive power, and a democratic assembly, which concentrates power in an institutional space
 
-## ![](_page_126_Picture_0.jpeg)
 
 June 29, 2011: Greek riot police, the new hoplites\* imposing democracy on the exploited and excluded.
 
@@ -1114,7 +1065,6 @@ majority suppresses the minority, driving them into apathy. Often, you don't eve
 
 This is why even directly democratic assemblies can end up deciding to carry out inhuman genocides, like the one ancient Athens inicted upon Mylos in 416 BC. Excluded people have been enslaved and raped as a result of direct democratic decisions. Direct democracy is "members only." Because it is smaller, it excludes even more people than representative democracy—producing isolated bubbles that ght each other like the city-states of ancient Greece. Everybody is an outsider, a foreigner, a possible enemy; that's why the community has to build armies to defend itself and you have to die to protect the opinion of the majority even if you disagree with it. Whoever will not go along with the decision must be punished—like Socrates, the world-famous victim of democracy, and countless others. The charismatic leaders nd the best possible direct connection with their followers, and the mechanisms for manipulating public opinion work directly better than ever!
 
-## ![](_page_127_Picture_2.jpeg)
 
 Direct democracy will never liberate us from democracy.
 
@@ -1132,11 +1082,9 @@ One of the rst decisions the new government of Syriza makes is to remove the pro
 
 It's an old, old story, repeated yet again. Democracy never changes. It just reforms and reproduces itself.
 
-## ![](_page_128_Picture_6.jpeg)
 
 Every step is a new obstacle. 2600 years ago in Greece and two centuries ago in Europe the struggle for democracy promised to liberate the poverty-stricken masses from their misery. A few years later, they found themselves in exactly the same conditions—in eternal war with all possible outsiders, now with the right to vote for their rulers. Christianity and Islam attracted millions of poor people with promises of social justice
 
-## ![](_page_129_Picture_0.jpeg)
 
 Defending a space of freedom in Syntagma Square.
 
@@ -1162,7 +1110,6 @@ It is not simple even to begin thinking about it. And if we want a vision of ema
 
 We are ghting against the state and capitalism to open passages—practices, strategies, and methodologies—that lead to total freedom, social equality, mutual aid, and self-determination. We have to nd a way to connect with the many, in order that together we may transform the conditions that produce our reality. Against homogeneity, we have to foster diversity; against certitude, we have to make space for all truths; against exclusion, we want to empower the stranger, the queer, the old, the young, the freak, the unknown; against borders, we want to live openheartedly; against atomization, to care for others, to learn from each other, to carry out our great plans and achieve our ultimate goals. Otherwise, established political authority and economic interests will reassert themselves in endless variations on the same conditions. This world will never change until we dare to live free, to share everything, to spread anarchy!
 
-## ![](_page_132_Picture_0.jpeg)
 
 ### IN THE UNITED STATES:
 
@@ -1180,11 +1127,9 @@ Though David Graeber† encouraged participants to regard consensus as a set of 
 - † For example, in "Some Remarks on Consensus."
 - ‡ See "Throwing Out the Master's Tools and Building a Better House: Thoughts on the Importance of Nonviolence in the Occupy Revolution" and "The Cancer in Occupy"; see also our response, "The Illegitimacy of Violence, the Violence of Legitimacy."
 
-## ![](_page_135_Picture_0.jpeg)
 
 How did that play out in the hinterlands, where small-town Occupy groups took up the decision-making practices of Occupy Wall Street? Let's shift from New York City to a small town in Middle America to nd out.
 
-## ![](_page_135_Picture_2.jpeg)
 
 I live in a town with a population of less than 100,000. We have a university, a sizeable part of the population engaged in service sector work that barely pays the bills, and a greater number of active anarchists than most towns this size.
 
@@ -1196,17 +1141,11 @@ Ten years later, in September 2011, I visited the Occupy Wall Street encampment 
 
 I heard a lot of legalistic and reformist rhetoric in the course of my brief visit. At the same time, this was what we had dreamed of: our organizational structures and decision-making practices spreading outside our milieu. Could the practices themselves instill the political values that had originally inspired us to employ them? Some of my comrades had argued that directly democratic models could help to radicalize people who were not yet ready for the likes of anarchism. The following months put that theory to the test.
 
-## ![](_page_136_Picture_4.jpeg)
 
 Two weeks after my visit to Manhattan, I was back in my hometown in Middle America, attending our Occupy group's second assembly. We had gathered in the central plaza on the main thoroughfare. A hundred people from a wide range of backgrounds and political perspectives were debating whether to establish an encampment of our own.
 
 It's not easy for a crowd arbitrarily convened through an open invitation on Facebook to make a decision together. Some people were arguing against establishing an occupation
 
-## ![](_page_137_Picture_0.jpeg)
-
-## ![](_page_137_Picture_1.jpeg)
-
-## ![](_page_137_Picture_2.jpeg)
 
 immediately; they said that the police would just evict us, and insisted that we should apply for a permit rst.
 
@@ -1216,13 +1155,11 @@ A different facilitator would have let the debate remain abstract indenitely, ef
 
 At rst there were only a half dozen of us meeting on the occupiers' side of the plaza, but after we took the rst step, others drifted over. Ten minutes later, there were twenty-four of us—and that night dozens of people camped out in the Plaza. I stayed up all night waiting for the police to raid, but they never showed up. We'd won the rst round, expanding what everyone imagined to be possible—and we owed it to people taking the initiative autonomously, not to everyone reaching consensus.
 
-## ![](_page_138_Picture_4.jpeg)
 
 Our occupation was a success. Over the rst few weeks, scores of people met and got to know each other through frequent demonstrations, logistical work, and nights of impassioned discussion.
 
 The nightly assemblies served as a space to become better acquainted politically. First, we heard a wide range of testimonials about why people were there. These ranged from boring to fascinating, but they died out swiftly once the business of making decisions via assemblies got underway. Next, we weathered lengthy debates about whether there should be a nonviolence policy, with nonviolence serving as a code word for legalistic obedience. Thanks to the participation of many
 
-## ![](_page_139_Picture_0.jpeg)
 
 anarchists, this discussion was split pretty much down the middle, and no consensus was ever reached. If nothing else, it enabled many occupiers who had never been part of a movement like this to hear arguments from both sides of the issue.
 
@@ -1240,17 +1177,14 @@ As one of the few participants who had already been familiar with consensus proc
 
 After the rst few weeks, the ow of new participants slowed. We were becoming a known quantity. Consequently,
 
-## ![](_page_141_Picture_0.jpeg)
 
 we began to lose our leverage on the authorities and our hold on the popular imagination. Meanwhile, it was getting colder out, and winter was on the way. Based on our experience attempting to formulate a mission statement or call for demonstrations, it seemed clear that if there was to be a next step, it would have to be determined outside the general assemblies.
 
 I got together with some friends I had known and trusted for a long time—the same group that had called for Occupy in our town in the rst place. We discussed whether to occupy a vast empty building a few blocks from the plaza. Most of us thought it was impossible, but a few fanatics insisted it could be done. We decided that if they could get us inside, we would try to hold onto it. But the plan had to be a secret until we were in, so the police couldn't stop us.
 
-## ![](_page_141_Picture_3.jpeg)
 
 The building occupation was a success. Over a hundred people ooded into the building, setting up a kitchen, a reading library, and sleeping quarters. A band performed, followed by a dance party. That night, dozens of people slept in the building rather
 
-## ![](_page_142_Picture_0.jpeg)
 
 than at the plaza, relieved to be out of the cold. Once again, I stood watch all night, waiting for the police. The stakes were higher this time, but they still didn't show up. Spirits were high: once again, we had expanded the space of possibility.
 
@@ -1258,7 +1192,6 @@ The following afternoon, as we continued cleaning and repairing the building, a 
 
 Perhaps that was because here, there was nothing abstract about the issues at hand. Just by being present, we were putting our bodies on the line. We were discussing real choices that would have immediate consequences for all of us. We didn't need a facilitator to listen to each other or stay on topic. With our freedom at stake, we had every reason to work well together.
 
-## ![](_page_142_Picture_4.jpeg)
 
 The day after the raid, a huge crowd gathered at the original encampment for a contentious general assembly—the biggest and most energetic our town witnessed throughout the entire sequence of Occupy. Our decision to occupy the building, arrived at outside the general assembly, had ironically made the general assembly irresistible to everyone. Some people were inspired by the building occupation and our response to the police raid; others, who assumed the general assembly to be the governing body of the movement, were outraged that we had bypassed it; still others, who had not been interested in Occupy until now, came to engage with us because they could see we were capable of making a big impact. Even if they were only there to argue that we should "be peaceful" and obey the law, we hoped that entering that space of dialogue might expand their sense of what was possible, too.
 
@@ -1266,7 +1199,6 @@ So the assembly benetted from the building occupation, whether or not people app
 
 Over the following week, people inspired by the building occupations in Oakland and our little town occupied buildings in St. Louis, Washington, DC, and Seattle. This new wave of actions pushed the Occupy movement from symbolic protests towards directly challenging the sanctity of capitalist notions of property. Our town saw its biggest unpermitted demonstrations in years.
 
-## ![](_page_143_Picture_3.jpeg)
 
 Months later, I compared notes with comrades around the country about how this mass experiment in consensus process had turned out. Everywhere, there had been the same conicts, as some people who saw the assemblies as the legitimate space of decision-making criticized those who propelled the movement forward for acting autonomously. Even in Oakland, famously the most confrontational encampment in the country, almost everything that gave it its character never passed through the general assembly. They experienced the same controversies we did, writ large. In a photograph taken after the riots with which occupiers retaliated against the eviction of their encampment, someone has written on a broken window, "This act of vandalism was NOT authorized by the GA," as if the GA were a governmental body, answerable for its subjects and therefore entitled to legitimize or delegitimize their actions.
 
@@ -1288,7 +1220,6 @@ At the other extreme, other people argue that legitimizing the General Assembly 
 
 In your view, to what extent did anarchists legitimize the General Assembly of Occupy Oakland as the governing body of the movement? What were the advantages and disadvantages of this approach? And did that facilitate autonomous activity, or interfere with it?
 
-## ![](_page_146_Picture_0.jpeg)
 
 B: One of the key functions that anarchists played in Occupy Oakland was in shaping the principles of the General Assembly, so they would not be as restrictive and narrowly democratic—you might say authoritarian—as in many other Occupy groups. The emphasis was on understanding the assembly as a forum for people to express ideas and nd other people to collaborate with, and then go forward with those projects without waiting for permission.
 
@@ -1298,7 +1229,6 @@ P: But I don't think that the support for autonomous actions was ever formally a
 
 T: That was understood from the beginning. Among the random people who showed up at rst, in response to the initial call,
 
-## ![](_page_147_Picture_0.jpeg)
 
 Occupy Oakland on day five at Oscar Grant Plaza.
 
@@ -1338,7 +1268,6 @@ That's a little ironic, isn't it? Relying on protocol to block proposals that wo
 
 In our Occupy group, we never agreed that the General Assembly would be the governing body of the movement. But once our general assembly was understood as a place where
 
-## ![](_page_150_Picture_0.jpeg)
 
 power was wielded, one of the ways that people competed for that power was by trying to determine the protocol by which decisions would be made. The other way was by trying to use the assembly to prescribe what sort of actions should be viewed as legitimate. In those debates, we often found ourselves grounding our arguments in established precedent, even when it was basically arbitrary. And precedent is also a kind of authority.
 
@@ -1348,7 +1277,6 @@ P: . . . by a decision that had previously been made at another assembly, in a t
 
 Exactly.
 
-## ![](_page_151_Picture_0.jpeg)
 
 Oscar Grant Plaza during the general strike of November 2, 2011.
 
@@ -1386,7 +1314,6 @@ T: "Anarcho-Leninists." We heard that a lot.
 
 B: Here's the thing, though. If the ISO [International Socialist Organization] or the RCP [Revolutionary Communist Party] or
 
-## ![](_page_154_Picture_0.jpeg)
 
 Whole Foods Market in downtown Oakland during the general strike.
 
@@ -1398,7 +1325,6 @@ When the RCP or the ISO seek to gain control over demonstrations or movements in
 
 P: I want to consider this idea of legitimacy. The general assembly was a tool that we used in a specic context. What is the point of being anarchists if we are not going to experiment with different tools? Should we throw the baby out with the bathwater every time some elements of a tool are not exactly to our liking? Being purists isn't going to get us anywhere.
 
-## ![](_page_155_Picture_0.jpeg)
 
 A banner strung across the central intersection of downtown Oakland during the strike.
 
@@ -1436,7 +1362,6 @@ T: It was also important that there were so many other assemblies. There was the
 
 T: They were working groups, but all of them were run as assemblies. And some of them got quite large at times.
 
-## ![](_page_158_Picture_0.jpeg)
 
 The blockade of the port of Oakland during the strike.
 
@@ -1448,7 +1373,6 @@ So we can understand the consensus process of the General Assembly as a sort of 
 
 T: That is . . . the optimistic way of looking at it. There is a darker side, which is that even if we all agreed on something in the camp and in our day-to-day interactions, it still wouldn't hap-
 
-## ![](_page_159_Picture_0.jpeg)
 
 A march to attempt to occupy a vacant building in Oakland on January 28, 2012.
 
@@ -1490,11 +1414,9 @@ A cold winter night. Smoke and pepper spray mingle in the air. From behind our b
 
 If only we knew then that it would not be ( just) state violence, the natural cycle of the movement, or the court dates, but (mostly) democracy, that would drag us back into reality.
 
-## ![](_page_163_Picture_2.jpeg)
 
 In winter 2012-13, a massive wave of protests swept Slovenia, a small country in the northern Balkans. It started in the second largest city, Maribor, a de-industrialized husk that was once the center of Slovenia's vanished automobile industry. The corrupt mayor had installed speed-checking radar at every major crossroads, resulting in hundreds of already impoverished people being charged with penalties they could not afford to pay, for the prot of a private company. In a series of clandestine attacks and public demonstrations, people burned the speed-checking devices one by one, then gathered on the squares and streets to inform the mayor by means of Molotov cocktails, rocks, and everything else they could get hold of that he was no longer welcome in their town. In response to the initial police repression, solidarity protests spread around the country in a matter of a few days. They lasted for six months.
 
-## ![](_page_164_Picture_0.jpeg)
 
 Images of politicians burning in front of the Slovenian parliament during the uprising, January 2013.
 
@@ -1512,7 +1434,6 @@ So . . . has direct democracy contributed to the continued radicalization of Slo
 
 The uprising was just one stage in a long line of struggles in Slovenia that continue to this day—from the squatting movement in the early 1990s and 2000s, through the anti-war and anti-NATO campaigns, to student occupations, self-organized wildcat strikes, anti-fascist struggles, and most recently, the opening of Fortress Europe to migration along the Balkan route. Throughout these struggles, many anarchists and other radicals believed that spreading directly democratic methods was one of the key elements that we could contribute to radicalize movements and keep them beyond the control of representative democracy, hierarchical structures, and reformist politics. It took years to realize that investing our energy in making assemblies the organizational crux of those movements might have been a step away from what we wanted to achieve. Today, some of
 
-## ![](_page_166_Picture_0.jpeg)
 
 Protesters tearing down the fence in front of the Slovenian parliament, January 2013.
 
@@ -1532,7 +1453,6 @@ This occupation brought out into the open all the divisions in society that are 
 
 Tired of being talked at about what ought to be done by people who didn't take initiative themselves, participants in the movement developed the concept of "democracy of direct action" (DDA). This basically meant that if you proposed something, you should also participate in it. In that sense, the values of DDA helped to foster autonomous action rather than centralizing
 
-## ![](_page_168_Picture_0.jpeg)
 
 The occupation in front of the Stock Exchange at the beginning of the 15O movement in October 2011. Borza, "Stock Exchange," has been changed to Bojza, "struggle for."
 
@@ -1556,7 +1476,6 @@ The partial occupation lasted for a few months. At rst, the university administr
 
 And anarchists? We tried to participate in a self-organized study process, but mostly it felt like we were talking to ourselves.
 
-## ![](_page_171_Picture_0.jpeg)
 
 The meeting at the beginning of the occupation of the Faculty of Arts in Ljubljana in November 2011.
 
@@ -1580,7 +1499,6 @@ Maribor had a different experience. Neighborhood assemblies covering roughly hal
 
 In the uprising, despite going against and beyond the concepts of direct democracy in our practices, we were still using that term to describe many of our actions. This became
 
-## ![](_page_174_Picture_0.jpeg)
 
 The uprising in Maribor, December 3, 2012.
 
@@ -1590,7 +1508,6 @@ a problem—not so much in the assemblies themselves, but in connection with oth
 
 When the uprising was dying, people wondered how to transmit the connections we'd built in the streets into our everyday lives. In one of the assemblies in Ljubljana, people formed a working group to organize in the neighborhoods, hoping to radicalize
 
-## ![](_page_175_Picture_0.jpeg)
 
 March in Ljubljana during the uprising, December 2012.
 
@@ -1624,7 +1541,6 @@ People ooded into the streets. Beating back the police, they burned the parliame
 
 \* The 2014 uprising didn't appear out of thin air. In 2006, a movement called Dosta (Enough) grew from a small internet forum into weekly meetings in the central square in Sarajevo, getting bigger every week and addressing economic and social issues through discussions that eventually gave rise to protests. As the organizational structure of Dosta spread into different cities, it remained politically diverse. Several of the most active participants in the plenums in Sarajevo had been radicalized in the Dosta movement.
 
-## ![](_page_179_Picture_0.jpeg)
 
 Angry and disillusioned in Bosnia.
 
@@ -1634,7 +1550,6 @@ However, the uprising abated just as the plenums were getting off the ground. At
 
 What defeated the uprising? Was it repression in the streets, or pacication in the plenums? Was it the division between riot and plenum? Or would it have died anyway?
 
-## ![](_page_180_Picture_0.jpeg)
 
 February 7, 2014: Protesters burning documents in front of a burning government building in Tuzla. The graffiti reads "death to nationalism" and "all politicians must go."
 
@@ -1658,7 +1573,6 @@ Just as attendance at the plenums was dying down, the police were quietly reesta
 
 I could understand why people who had just burnt down the headquarters of the government would be hesitant to show up to public meetings. Indeed, not long after everything died down, the police began doling out terrorism charges. At the
 
-## ![](_page_182_Picture_0.jpeg)
 
 February, 2014: The authorities lose control.
 
@@ -1668,7 +1582,6 @@ same time, what kind of sense does it make to burn down the ofces of the governm
 
 The plenum facilitators and the most active organizers of working groups, who had initiated their efforts in an honest attempt to spread the struggle into other spheres of life, found themselves in a position of de facto authority. They were the ones setting the agenda and determining the course of discussions; they became the names and faces of the uprising. It was up to them, it seemed, to identify, express, and prioritize the demands that had driven people to rise up. Most of these organizers never wanted that kind of power—but they wanted the uprising to succeed in changing Bosnian society, and they believed that the plenums were essential to this.
 
-## ![](_page_183_Picture_0.jpeg)
 
 February 14, 2014: A plenum in Sarajevo demands the establishment of a "nonparty expert government."
 
@@ -1690,13 +1603,9 @@ They received no response. By the time the plenums had reduced everyone's rage t
 
 "When you came here from Slovenia and told us that the movement would die in the assemblies," he said, "I didn't believe you. But it happened just the way you said it would."
 
-## ![](_page_185_Picture_0.jpeg)
 
 February 21, 2014: Participants in the Sarajevo plenum listen to spokespeople from the Fojnica, Konjic, and Mostar plenums.
 
-## ![](_page_185_Picture_2.jpeg)
-
-## ![](_page_185_Picture_3.jpeg)
 
 # Government vs. Self-Organization
 
@@ -1710,7 +1619,6 @@ And the leader of this new government? A former minister of the interior, who ha
 
 \* The very last post on plenumsa.org (June 12, 2014) is an interview with a US-based academic about Occupy and direct democracy.
 
-## ![](_page_187_Picture_0.jpeg)
 
 The floods that ravaged Bosnia in May 2014.
 
@@ -1726,7 +1634,6 @@ Perhaps if the plenums had served as spaces for coordinating ongoing action, the
 
 The Bosnian uprising of 2014 is just one example out of a long line of experiments with assemblies as a tool of revolt. It appears that the assembly cannot serve as a place for envisioning the
 
-## ![](_page_189_Picture_0.jpeg)
 
 Graffiti in Bosnia.
 
@@ -1738,7 +1645,6 @@ future and then looking around for some other political body to institute it. Th
 
 ## > > 188 Case Studies
 
-## ![](_page_190_Picture_0.jpeg)
 
 ### IN THE WORLD:
 
@@ -1748,7 +1654,6 @@ What the revolutions of 1848 tell us about the limits of 2011
 
 ## 190 Case Studies
 
-## ![](_page_192_Picture_0.jpeg)
 
 What harm could possibly come of using the discourse of democracy to describe the object of our movements for liberation? We can answer this question with a fable drawn from history: the story of the uprising that took place in Paris in June 1848.
 
@@ -1768,7 +1673,6 @@ power. Indeed, even those who explicitly oppose the state can end up reinforcing
 
 To understand how this works, let's go back to 1848.
 
-## ![](_page_194_Picture_2.jpeg)
 
 In February 1848, an uprising in Paris toppled the king; revolt radiated throughout Europe along with the news of the French revolution, spreading faster than any wave of unrest in the digital age. The transformation of France into a Republic occasioned much rejoicing, but there was little agreement as to what a Republic was. Just as anarchists, socialists, liberals, neoconservatives, and fascists rub shoulders under the banner of democracy today, in 1848 a vast range of people identified with the ideal of the Republic, confining themselves to debates about what the true nature of the Republic might be. Even Pierre-Joseph Proudhon, already a self-professed anarchist, called himself a Republican,† and his explicit opposition to authority didn't stop him from serving in the National Assembly alongside conservatives like Adolphe Thiers—the statesman who later butchered the Paris Commune to baptize the conservative Third Republic.
 
@@ -1776,7 +1680,6 @@ Indeed, universal manhood suffrage, long sought by radicals, brought a predomina
 
 † Notably, in his first significant work, *What Is Property*, in the same passage in which he first identifies himself as an anarchist. Despite his uneven track record, Proudhon's critical reflections on democracy, published at the outset of the 1848 revolution in *The Solution of the Social Problem*, diagnose many of the contradictions that today's partisans of democracy have yet to recognize.
 
-## ![](_page_195_Picture_0.jpeg)
 
 The barricades of June 1848.
 
@@ -1818,7 +1721,6 @@ Yet the political model Rome developed has colonized the whole world. When in Ro
 
 It's a tall order. But if we can open a rift in the fabric of empire, surely countless others will pour through it alongside us.
 
-## ![](_page_200_Picture_5.jpeg)
 
 As we were completing this book, history seemed to be racing ahead of us. The UK voted in a referendum to leave the European Union—the autocratic Turkish government thwarted a coup in which both sides claimed to be defending democracy—a reactionary populist movement brought about the impeachment of Brazilian President Dilma Rousseff—and nally, Donald Trump became President of the United States. In all of these cases, democratic rhetoric and practices legitimized the consolidation of repressive regimes and xenophobic nationalism. All of them came as a shock to those who assume that democracy goes hand in hand with progressive politics.
 
@@ -1832,9 +1734,6 @@ It is more pressing than ever to update the vocabulary with which we describe wh
 
 ## ![](_page_205_Figure_0.jpeg)
 
-## ![](_page_206_Picture_0.jpeg)
-
-## ![](_page_207_Picture_0.jpeg)
 
 # Politics is the art of
 
@@ -1876,7 +1775,6 @@ It teaches you to think in terms of majorities, to judge right and wrong accordi
 
 It thrives wherever a program supplants the needs and desires of specic human beings. In order that power can be delegated to the professionals that represent constituencies, the unique characteristics and interests of broad swaths of people are summarized in gross generalizations. Many rush to make abstractions of themselves—for the simpler the label, the more brute force can presumably be mustered behind it. Widely divergent desires are lumped together and reduced to their lowest common denominators in general platforms. Politicians represent people, and woe to those who refuse administration; abstractions represent demographics, and woe to those who defy classication!
 
-## ![](_page_211_Picture_0.jpeg)
 
 In a volatile society, it is a pressure valve, offering a constructive activity for those whose dissent might otherwise take destructive forms, so that their efforts to contest the status quo only serve to stabilize it. For the rebel, it is a wild goose chase that wastes all the energy and brilliant ideas she has to offer, conning her to dialogue with those she should be ghting and to ghting with those with whom she should be in dialogue.
 
@@ -1896,7 +1794,6 @@ One of the most effective ways to divert desire for real change back into politi
 
 # Politics is the art of
 
-## ![](_page_213_Picture_2.jpeg)
 
 Once compromises have been made, once the social contract has been struck, tear gas and plastic bullets are no longer necessary to keep people in line. People will keep themselves in line, waiting at the movie theater, sitting in traffic on the way to work, paying their rent and taxes and obeying every rule and regulation—and if some starry-eyed rebels will not, then their own fellow radicals will see to it that they do, for nothing is more precious than the good name of radicalism. The moment someone does something rash, others hurry to deny that anyone of their persuasion would actually do such a thing, and to reeducate those from their own ranks who might furtively approve. Nothing is more terrifying than the specter of a single human being who will not play along with the collective madness—for if such a thing is possible for one person, what does that say about everyone else? Every unique, selfdetermined action is a spark that shoots beyond the confines of both the status quo and abstract critiques thereof, threatening both, not to mention those who uphold them.
 
@@ -1910,16 +1807,13 @@ It is the opposite of art: the obliteration of creativity and spontaneity, the r
 
 214 Appendix † But only if she resolves "I myself, right here, right now!" can she then make a common cause with others that is not a space of mutual renunciation in which all are free to control one another but not to act for themselves. The dignity of acting for the sake of abiding by one's conscience, the joy that is sufcient unto itself without expectation that tomorrow will return interest on the investment: only these can carry us into a world in which our eyes will no longer be xed constantly on the hands of the clock.
 
-## ![](_page_216_Picture_0.jpeg)
 
 We chose the unfortunately named typeface Tuna for the text of this book on account of its excellent legibility at small sizes both in print and on screen, as well as the playful details at the edges of its lowcontrast letterforms. Its rigor and modernity made it a perfect t for the subject. Released in 2017, it was created in Germany by expert typographers Felix Braden and Alex Rütten.
 
 The display font used throughout is TT Lakes (often in its Condensed Bold Italic variation), a simple and functional sans-serif with a beautiful italic that effortlessly conveys movement and direction. Chancing upon a historical railway station signplate in the Russian town of Priosersk (a Finnish town until WWII), Russian designer Ivan Gladkikh was inspired to create the typeface as an homage to Finnish functionalists Umlaüt. It was released in 2016 in St. Petersberg.
 
-## ![](_page_217_Picture_0.jpeg)
 
 We owe our freedom to the spontaneous interplay of myriad forces within and between us
 
-## ![](_page_218_Picture_0.jpeg)
 
 ## ![](_page_219_Figure_0.jpeg)

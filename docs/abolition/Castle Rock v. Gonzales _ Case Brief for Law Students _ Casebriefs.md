@@ -13,7 +13,6 @@ tags:
 
 admin
 
-9–12 minutes
 
 ## **Brief Fact Summary.**
 

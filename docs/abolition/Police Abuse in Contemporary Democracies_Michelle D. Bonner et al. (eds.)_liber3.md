@@ -12,7 +12,6 @@ tags:
 
 ## Michelle D. Bonner · Guillermina Seri Mary Rose Kubal · Michael Kempa Editors
 
-## ![](_page_2_Picture_2.jpeg)
 
 *Editors* Michelle D. Bonner University of Victoria Victoria, BC, Canada
 
@@ -144,7 +143,6 @@ Michelle D. Bonner | 251 |
 7.6 | Probability of protester blame | 184 |
 ## | Table 7.7 | Probability of police blame | 185 |
 
-## ![](_page_13_Picture_0.jpeg)
 
 #### CHAPTER 1
 
@@ -387,7 +385,6 @@ Bayley, David H. 2006. *Changing the Guard: Developing Democratic Police Abroad*
 
 ## Citizenship
 
-## ![](_page_41_Picture_0.jpeg)
 
 #### CHAPTER 2
 
@@ -592,7 +589,6 @@ Begag, Azouz. 2007*. Ethnicity in the Balance*. Omaha: University of Nebraska Pr
 - Weil, Patrick. 2017. "Le projet de loi antiterroriste rappelle le code de l'indigénat." *Le Monde*, Septembre 26, 2017. http://www.lemonde.fr/idees/article/2017/09/27/patrick-weil-le-projet-de-loi-antiterroriste-rappelle-lecode-de-l-indigenat\_5191957\_3232.html.
 - Zauberman, Renee, and René Lévy. 2003. "Police, Minorities and the French Republican Ideal." *Criminology* 41 (1): 1065–100.
 
-## ![](_page_64_Picture_0.jpeg)
 
 #### CHAPTER 3
 
@@ -833,7 +829,6 @@ Brinks, Daniel M. 2006. "The Rule of (Non)law: Prosecuting Police Killings in Br
 - World Values Survey, 2012 India and 2013 Argentine Surveys. http://www.worldvaluessurvey.org/WVSOnline.jsp.
 - Young, Iris Marion. 1989. "Polity and Group Difference: Critique of the Ideal of Universal Citizenship." *Ethics* 99 (January): 250–74.
 
-## ![](_page_90_Picture_0.jpeg)
 
 #### CHAPTER 4
 
@@ -1127,7 +1122,6 @@ Together these questions may help us better understand why the political and pol
 
 ## Accountability
 
-## ![](_page_121_Picture_0.jpeg)
 
 #### CHAPTER 5
 
@@ -1329,7 +1323,6 @@ In contrast, if the goal of accountability is equality and non-repetition, then 
 - Universidad Diego Portales (UDP). 2012. *Informe Anual Sobre Derechos Humanos en Chile 2012*. Santiago de Chile: Ediciones Universidad Diego Portales.
 - Universidad Diego Portales (UDP), Centre for Human Rights. 2015. *Informe anual sobre derechos humanos en Chile 2015*. Santiago de Chile: Ediciones Univeridad Diego Portales.
 
-## ![](_page_143_Picture_0.jpeg)
 
 #### CHAPTER 6
 
@@ -1585,7 +1578,6 @@ The perspective of Cop Watch videos is that of agonistic citizenship one that fo
 - Wing, Nick. 2015. "Here's How Police Could End up Making Body Cameras Mostly Useless." *Hufngton Post*, October 10. http://www.hufngtonpost.com/entry/police-body-camera-policy\_us\_5605a721e4b0dd8503079683.
 - Winkley, Lyndsay. 2015. "Year of SDPD Body Cameras Yields Surprises." *The San Diego Union-Tribune*, November 8, 2015. http://www.sandiegouniontribune.com/sdut-sdpd-body-cameras-use-of-force-complaints-2015sep08htmlstory.html (last accessed November 22, 2017).
 
-## ![](_page_173_Picture_0.jpeg)
 
 #### CHAPTER 7
 

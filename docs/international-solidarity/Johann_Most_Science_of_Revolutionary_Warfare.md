@@ -168,7 +168,6 @@ The best and also the simplest impact detonator for bombs designed to be thrown 
 
 ## The Anarchist Library Anti-Copyright
 
-## ![](_page_9_Picture_1.jpeg)
 
 Johann Most The Science of Revolutionary Warfare 1885
 

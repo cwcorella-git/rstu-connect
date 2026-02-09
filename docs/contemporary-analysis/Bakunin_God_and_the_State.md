@@ -109,7 +109,6 @@ But we may reassure ourselves: all these academicians will not have the audacity
 
 ## GOD AND THE STATE
 
-## ![](_page_21_Picture_1.jpeg)
 
 HO are right, the idealists or the materialists? The question once stated in this way hesitation becomes impossible. Undoubtedly the idealists are wrong and the materialists right. Yes, facts are before ideas; yes, the ideal, as Proudhon said, is but a flower, whose root lies in the material conditions of existence. Yes, the whole history of humanity, intellectual and moral, political and so-
 

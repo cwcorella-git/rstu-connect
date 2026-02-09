@@ -1,8 +1,5 @@
 ---
-title: >-
-  The World - "Riverlands" Riverlands; You Never Know What Events Will Transpire
-  on This Long and Lonely Journey Home. Curiosity is Lying in Wait for Every
-  Secret. the Molasses Flood
+title: "The World - 'Riverlands' Riverlands; You Never Know What Events Will Transpire on This Long and Lonely Journey Home. Curiosity is Lying in Wait for Ev"
 author: NICK MURRAY
 date: 2014
 category: arts-culture-music
@@ -13,9 +10,6 @@ tags:
 
 ## THE FLAME IN THE FLOOD
 
-## ![](_page_0_Picture_1.jpeg)
-
-## ![](_page_1_Picture_0.jpeg)
 
 ## THE FLAME IN THE FLOOD;
 
@@ -39,33 +33,19 @@ CRAFT TRAPS, CREATE DISTRACTIONS, AND LEVERAGE SYSTEMIC BEHAVIORS TO SNEAK AMONG
 
 KS, PLAYER RAFT / PREPRODUCTION UNWRAP, FPO DIFFUSE / RIVER GAME ASSET SHEET, 6/2014
 
-## ![](_page_7_Picture_0.jpeg)
-
-## ![](_page_8_Picture_0.jpeg)
-
-## ![](_page_9_Picture_0.jpeg)
 
 ## ![](_page_10_Figure_0.jpeg)
 
 ## ![](_page_11_Figure_0.jpeg)
 
-## ![](_page_12_Picture_0.jpeg)
-
-## ![](_page_13_Picture_0.jpeg)
-
-## ![](_page_13_Picture_1.jpeg)
 
 ## ![](_page_13_Figure_2.jpeg)
 
-## ![](_page_13_Picture_3.jpeg)
 
 ## Chuck Ragan
 
 ## By NICK MURRAY
 
-## ![](_page_13_Picture_6.jpeg)
-
-## ![](_page_13_Picture_7.jpeg)
 
 ## ![](_page_13_Figure_8.jpeg)
 
@@ -93,4 +73,3 @@ Gwen is an animator, technical artist, and producer. Her previous titles were Se
 
 Sinc is a director and artist. His previous experience includes Art Director for Bioshockl, Bioshock Infinite, a primary artist for Guitar Herol, Eyetoy Anti-Grav, Rockband2, as well as Art Lead on Freedom Force vs the Third Reich.
 
-## ![](_page_14_Picture_12.jpeg)

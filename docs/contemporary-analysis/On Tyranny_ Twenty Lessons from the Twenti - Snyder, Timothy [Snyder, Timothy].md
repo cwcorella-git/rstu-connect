@@ -45,7 +45,6 @@ The Balkans as Europe: The Nineteenth Century (ed. with Katherine Younger)
 
 ## TIMOTHY SNYDER
 
-## ![](_page_2_Picture_3.jpeg)
 
 ## **NEW YORK**
 
@@ -55,7 +54,6 @@ The Balkans as Europe: The Nineteenth Century (ed. with Katherine Younger)
 
 #### TIMOTHY SNYDER
 
-## ![](_page_3_Picture_3.jpeg)
 
 ## **NEW YORK**
 
@@ -554,25 +552,21 @@ T IMOTHY S NYDER is the Housum Professor of History at Yale University. He is th
 
 #### ALSO BY TIMOTHY SNYDER
 
-## ![](_page_88_Picture_1.jpeg)
 
 "An unflinching look at the Holocaust . . . Mr. Snyder is a rising public intellectual unafraid to make bold connections between past and present."
 
 ## —The New York Times
 
-## ![](_page_88_Picture_4.jpeg)
 
 ## Available wherever books are sold
 
 #### ALSO BY TIMOTHY SNYDER
 
-## ![](_page_89_Picture_1.jpeg)
 
 "An unflinching look at the Holocaust . . . Mr. Snyder is a rising public intellectual unafraid to make bold connections between past and present."
 
 ## —The New York Times
 
-## ![](_page_89_Picture_4.jpeg)
 
 ## Available wherever books are sold
 
@@ -590,7 +584,6 @@ T IMOTHY S NYDER is the Housum Professor of History at Yale University. He is th
 - 电⼦书打包资源分享
 - 学习资源分享
 
-## ![](_page_91_Picture_2.jpeg)
 
 What's next on your reading list?
 

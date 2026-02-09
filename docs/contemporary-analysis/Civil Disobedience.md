@@ -10,7 +10,6 @@ tags:
 
 ## **HENRY DAVID THOREAU**
 
-## ![](_page_0_Picture_3.jpeg)
 
 ## **COPYRIGHT INFORMATION**
 

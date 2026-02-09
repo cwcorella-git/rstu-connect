@@ -11,7 +11,6 @@ tags:
 
 Isaac Christiansen is an Assistant Professor of Sociology at Midwestern State University. His dissertation "Resource Distribution, Accessibility and Health Equity: From Global Analyses to the Cuban Case" examines various facets of health and development. His primary research interests are social, economic and health inequalities, social change and development, and the dynamics of economic crises. He has taught various classes in sociology including Introduction to Sociology, Social Problems, Race and Ethnic Relations, and Sociology of Work. He is a member of the Midwest Sociological Society, the American Sociological Association and Jewish Voice for Peace. Email: isaacc@iastate.edu
 
-## ![](_page_0_Picture_3.jpeg)
 
 Abstract: This article examines the political economy of healthcare financing and provision from a Marxist perspective. The article argues that the nature of a country's health financing system results in part as a result of the balance of class forces within a society. The commodification of healthcare is seen as not only creating barriers to access that are deleterious to society's most vulnerable members, but also distorting the dynamics of healthcare provision itself. The article closes with a typology of healthcare financing and provision and a brief analysis of essential elements of a rights-based approach to healthcare financing and delivery.
 

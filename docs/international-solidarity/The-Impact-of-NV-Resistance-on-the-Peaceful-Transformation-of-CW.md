@@ -9,9 +9,6 @@ tags:
 
 ## Luke Abbs
 
-## ![](_page_0_Picture_3.jpeg)
-
-## ![](_page_0_Picture_4.jpeg)
 
 #### **Front cover image (left)**
 
@@ -53,7 +50,6 @@ ICNC MONOGRAPH SERIES EDITOR: Dr. Maciej Bartkowski VOLUME EDITOR: Bruce Pearson
 
 ## Luke Abbs
 
-## ![](_page_2_Picture_3.jpeg)
 
 # Table of Contents
 
@@ -1696,4 +1692,3 @@ International Center on Nonviolent Conflict 600 New Hampshire Ave NW, Suite 710 
 
 www.nonviolent-conflict.org
 
-## ![](_page_107_Picture_6.jpeg)

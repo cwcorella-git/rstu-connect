@@ -20,7 +20,6 @@ The Art of SEEING OTHERS DEEPLY and BEING DEEPLY SEEN
 
 ## DAVID BROOKS
 
-## ![](_page_1_Picture_3.jpeg)
 
 #### Copyright © 2023 by David Brooks
 
@@ -1771,7 +1770,6 @@ An Illuminator is a blessing to those around him. When he meets others he has a 
 
 She who only looks inward will find only chaos, and she who looks outward with the eyes of critical judgment will find only flaws. But she who looks with the eyes of compassion and understanding will see complex souls, suffering and soaring, navigating life as best they can. The person who masters the skills we've been describing here will have an acute perceptiveness. She'll notice this person's rigid posture and that person's anxious tremor. She'll envelop people in a loving gaze, a visual embrace that will not only help her feel what they are experiencing, but give those around her the sense that she is right there with them, that she is sharing what they are going through. And she will maintain this capacious loving attention even as the callousness of the world rises around her, following the advice in that sage W. H. Auden poem: "If equal affection cannot be / Let the more loving one be me." She's learned, finally, that it's not only the epic acts of heroism and altruism that define a person's character; it's the everyday acts of encounter. It is the simple capacity to make another person feel seen and understood—that hard but essential skill that makes a person a treasured co-worker, citizen, lover, spouse, and friend.
 
-## ![](_page_220_Picture_0.jpeg)
 
 On one level writing is a solitary business. I wake up each morning and I write from about 7:30 to 1 P. M. I used to wear a Fitbit. It would tell me I was napping in the mornings. I wasn't napping; I was writing, but I guess my heart rate dropped. The gizmo thought I was asleep, but in reality I was doing what I'm wired to do.
 
@@ -3492,7 +3490,6 @@ vulnerability
     emotions and, 7
     getting to know someone and, 47
     questions and, 85
-## ![](_page_296_Picture_1.jpeg)
 
 Warren, Robert Penn, 245
 warrior/statesman model of good character, 170
@@ -3542,7 +3539,6 @@ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 
 DAVID BROOKS is one of the nation's leading writers and commentators. An op-ed columnist for The New York Times, he appears regularly on PBS News Hour and Meet the Press. He is the bestselling author of The Second Mountain, The Road to Character, The Social Animal, On Paradise Drive, and Bobos in Paradise.
 
-## ![](_page_301_Picture_0.jpeg)
 
 # What's next on your reading list?
 

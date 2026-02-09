@@ -9,7 +9,6 @@ tags:
   - wikipedia
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 **Coverture** was a [legal doctrine](https://en.wikipedia.org/wiki/Legal_doctrine) in English [common law](https://en.wikipedia.org/wiki/Common_law) under which a married woman's legal existence was considered to be merged with that of her husband. Upon marriage, she had no independent legal existence of her own, in keeping with society's expectation that her husband was to provide for and protect her. Under coverture a woman became a *feme covert*, whose legal rights and obligations were mostly subsumed by those of her husband. An unmarried woman, or *feme sole*, retained the right to own property and make contracts in her own name.
 
@@ -35,7 +34,6 @@ The system of *feme sole* and *feme covert* developed in England in the [High](h
 
 While it was once assumed that married women had little or no access to legal recourse, as a result of coverture, historians have more recently complicated our knowledge of coverture in the Middle Ages through various studies of married women's legal status across different courts and jurisdictions.[\[8\]](#page-9-4) Collectively, many of these studies have argued that 'there has been a tendency to overplay the extent to which coverture applied', as legal records reveal that married women could possess rights over property, take part in business transactions, and interact with the courts.[\[9\]](#page-9-5) In
 
-## ![](_page_1_Picture_5.jpeg)
 
 ## Portrait of an English married couple, circa 1780
 
@@ -77,7 +75,6 @@ In March 1776, [Abigail Adams](https://en.wikipedia.org/wiki/Abigail_Adams) saw 
 
 In the new [Code of Laws](https://en.wikipedia.org/wiki/United_States_Code) which I suppose it will be necessary for you to make I desire you would Remember the Ladies, and be more generous and favorable to them than your ancestors. Do not put such unlimited power into the hands of the Husbands. Remember all Men would be tyrants if they could.[\[33\]](#page-10-11)
 
-## ![](_page_4_Picture_9.jpeg)
 
 Early feminist historian [Mary](https://en.wikipedia.org/wiki/Mary_Ritter_Beard) Ritter [Beard](https://en.wikipedia.org/wiki/Mary_Ritter_Beard)
 
@@ -89,7 +86,6 @@ According to Chernock, "late [Enlightenment](https://en.wikipedia.org/wiki/Age_o
 
 According to Ellen Carol Du Bois, "the initial target of women's rights protest was the legal doctrine of 'coverture' ".[\[37\]](#page-10-15) The earliest American women's rights lecturer, [John Neal](https://en.wikipedia.org/wiki/John_Neal)[\[38\]](#page-10-16)[\[39\]](#page-10-17) attacked coverture in speeches and public debates as early as 1823,[\[40\]](#page-10-18) but most prominently in the 1840s,[\[41\]](#page-10-19) asking "how long [women] shall be rendered by law incapable of acquiring, holding, or transmitting property, except under special conditions, like the slave?"[\[40\]](#page-10-18) In the 1850s, according to Du Bois, [Lucy Stone](https://en.wikipedia.org/wiki/Lucy_Stone) criticized "the common law of marriage because it 'gives the "custody" of the wife's person to her husband, so that he has a right to her even against herself.' " [\[42\]](#page-10-20) Stone kept her premarital family name after marriage as a protest "against all manifestations of coverture".[\[43\]](#page-10-21) Du Bois continued, "in the 1850s, ... [t]he primarily legal goal [of 'the American women's rights movement'] was the establishment of basic property rights for women once they were married, which went to the core of the deprivations of coverture."[\[44\]](#page-11-0) Chernock continued, "for those who determined that legal reforms
 
-## ![](_page_5_Picture_2.jpeg)
 
 Writer, lawyer, women's rights advocate, and early coverture opponent, [John](https://en.wikipedia.org/wiki/John_Neal) Neal were the key to achieving a more enlightened relationship between the sexes, coverture was a primary object of attention."[\[17\]](#page-9-13)
 
@@ -101,13 +97,11 @@ Hendrik Hartog counter-criticized that coverture was only a [legal fiction](http
 
 In 1869, coverture was criticized when [Myra Bradwell](https://en.wikipedia.org/wiki/Myra_Bradwell) was refused permission to practice as a lawyer in Illinois specifically because of coverture.[\[55\]](#page-11-11) In 1871, Bradwell argued to the [Supreme Court](https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States) that coverture violated the Constitution's [14th Amendment.](https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution) [\[55\]](#page-11-11) According to Margot Canaday, "coverture's main purpose ... was the legal subordination of women."[\[56\]](#page-11-12) Canaday continued, "women's legal subordination through marriage ... was maintained in fact across [coverture]".[\[57\]](#page-11-13)
 
-## ![](_page_6_Picture_0.jpeg)
 
 Publisher and activist [Myra](https://en.wikipedia.org/wiki/Myra_Bradwell) [Bradwell](https://en.wikipedia.org/wiki/Myra_Bradwell)
 
 According to Canaday, "coverture was diminished ... in the 1970s, as part of a broader feminist revolution in law that further weakened the principle that a husband owned a wife's labor (including her person). ... The regime of coverture ... was coming undone [in the mid-20th century]".[\[58\]](#page-11-14) In 1966, the U. S. Supreme Court said "the institution of coverture is ... obsolete"[\[59\]](#page-11-15) even while acknowledging coverture's
 
-## ![](_page_6_Picture_3.jpeg)
 
 Hulda [Regina](https://en.wikipedia.org/wiki/Hulda_Regina_Graser) Graser, *femme sole*, *femme consort* (1897)
 

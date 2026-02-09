@@ -8,13 +8,11 @@ tags:
   - current-events
 ---
 
-## ![](_page_0_Picture_2.jpeg)
 
 **HOME / UNCATEGORIZED / REVIEW BY JORDAN T CAMP**
 
 This essay is a part of the forum on Police: A Field Guide
 
-## ![](_page_0_Picture_6.jpeg)
 
 David Correia and Tyler Wall, *Police: A Field Guide.* Verso Books, Brooklyn NY, 2018. \$19.95 (paperback), 288 pages.
 

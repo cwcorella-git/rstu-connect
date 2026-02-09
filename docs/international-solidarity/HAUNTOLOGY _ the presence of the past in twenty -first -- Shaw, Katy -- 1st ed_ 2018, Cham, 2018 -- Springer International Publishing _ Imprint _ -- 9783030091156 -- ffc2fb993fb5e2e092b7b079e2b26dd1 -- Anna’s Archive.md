@@ -14,7 +14,6 @@ tags:
 
 The Presence of the Past in Twenty-First Century English Literature
 
-## ![](_page_2_Picture_3.jpeg)
 
 Katy Shaw Department of Humanities Northumbria University Newcastle Upon Tyne, UK
 
@@ -36,7 +35,6 @@ This Palgrave Macmillan imprint is published by the registered company Springer 
 
 The registered company address is: Gewerbestrasse 11, 6330 Cham, Switzerland
 
-## ![](_page_4_Picture_0.jpeg)
 
 ## Acknowledgements
 
@@ -84,7 +82,6 @@ Twenty- First Century English Literature | 105 |
 | Bibliography | | 111 |
 ## | Index | | 117 |
 
-## ![](_page_8_Picture_0.jpeg)
 
 # Introduction. Hauntology: Ghosts of Our Lives
 
@@ -299,7 +296,6 @@ Hauntology is motivated by an interest in illuminating a past we do not know, as
 - 107. Zadie Smith, NW (London: Penguin, 2012).
 - 108. David Peace, Patient X (London: Faber, 2018).
 
-## ![](_page_31_Picture_0.jpeg)
 
 #### CHAPTER 1
 
@@ -555,7 +551,6 @@ Critics claim that 'Jez Butterworth believes in ghosts.24 In *Jerusalem* he fore
 - 23. May quoted in Rabey, 2015, p. 3.
 - 24. Angel-Perez in Rabey, 2015, p. 185. Butterworth's stage dramas effectively captured the popular imagination of post-millennial theatre-goers, offering them new specters for their age through narratives intertextually grown from the poetry and novels of previous periods. Butterworth wrote his rst play as a student in 1992, but it wasn't until his third play Mojo premiered at the Royal Court Theatre, London in 1995 that he enjoyed major success, winning the Laurence Olivier, an Evening Standard award and the George Devine award. With his fourth play, Jerusalem (2009), Butterworth attained both critical and commercial success, not only in England but across the globe. Conquering the West End and Broadway, with citations on school curricula, and numerous awards leading audience members to camp outside theatres for tickets, Jerusalem achieved international acclaim.
 
-## ![](_page_65_Picture_0.jpeg)
 
 #### CHAPTER 3
 
@@ -729,7 +724,6 @@ Shar, Felix attempts unconditional hospitality but nds that his gesture is futil
 - 46. When his absent mother suddenly reappears after eight years without contact, 'Felix took her in' (164) despite the advice of his other family and friends. His reward for this act of hospitality is made apparent the following day when he wakes in his home to nd 'she was gone, with Felix's cashpoint card, his watch, all his chains' (165). This failed gesture to invite in the Other is repeated later in his narrative when he rises to offer a pregnant woman a seat on a crowded tube train. His gesture, 'Take mine' (166), does not lead to reward, but to death, as the same men take offence, follow Felix off the Tube at the next stop and stab him in the darkness of a nearby street.
 - 47. Jacques Derrida quoted in Caputo, 2002, p. 111.
 
-## ![](_page_88_Picture_0.jpeg)
 
 #### CHAPTER 4
 
@@ -868,7 +862,6 @@ Through the spectral dynamic of literature, Peace mobilizes hauntology to explai
 - 41. David Peace, 'Radio Interview', Fahrenheit.it, 11 March 2016
 - 42. David Peace quoted in David Frati, I'ntervista a David Peace', Mangialibri
 
-## ![](_page_109_Picture_0.jpeg)
 
 # Conclusion. 'In Return': Towards a Hauntology of Twenty-First Century English Literature
 

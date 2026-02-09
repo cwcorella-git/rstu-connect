@@ -11,7 +11,6 @@ tags:
 
 ## Crimeth Inc. Ex-Workers Collective
 
-3–4 minutes
 
 Over the past six years, cities around the world have seen peaks of anti-capitalist struggle: [Athens,](https://crimethinc.com/2008/12/25/how-to-organize-an-insurrection) [London,](https://crimethinc.com/2011/01/26/the-uk-student-movement) [Barcelona,](https://crimethinc.com/2012/04/19/the-rose-of-fire-has-returned-the-struggle-for-the-streets-of-barcelona) [Cairo,](https://crimethinc.com/2011/02/02/egypt-today-tomorrow-the-world) [Oakland,](http://www.bayofrage.com/featured-articles/occupy-oakland-is-dead) [Montréal,](https://crimethinc.com/2012/08/14/while-the-iron-is-hot-student-strike-social-revolt-in-quebec-spring-2012) [Istanbul.](http://www.salon.com/2013/06/14/%E2%80%9Ci%E2%80%99ve_gone_to_resist_i%E2%80%99ll_be_right_back%E2%80%9D) A decade ago, anarchists would converge from around the world to participate in a single [summit protest.](https://crimethinc.com/2005/05/11/demonstrating-resistance) Now many have participated in months-long upheavals in their own cities, and more surely loom ahead.
 

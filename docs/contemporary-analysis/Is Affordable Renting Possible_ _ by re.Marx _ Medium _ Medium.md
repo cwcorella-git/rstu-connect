@@ -10,13 +10,9 @@ tags:
 
 ## re. Marx
 
-23–29 minutes
 
 ## **Nonprofits seem to think so, yet they have really not gotten us very far.**
 
-## ![](_page_0_Picture_7.jpeg)
-
-17 min read
 
 ## Jul 1, 2022
 
@@ -24,9 +20,6 @@ tags:
 
 ## Press enter or click to view image in full size
 
-## ![](_page_0_Picture_12.jpeg)
-
-## ![](_page_1_Picture_2.jpeg)
 
 There is an eerie quality to all these "developer concept art" for affordable housing projects. This one is proposed in Santa Cruz, California. Will it work to make housing affordable for the majority? Or, is it even supposed to? [https://www.choosesantacruz.com/projects/](https://www.choosesantacruz.com/projects/pacific-station) [pacific-station](https://www.choosesantacruz.com/projects/pacific-station)
 

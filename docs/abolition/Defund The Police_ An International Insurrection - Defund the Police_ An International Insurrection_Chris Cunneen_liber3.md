@@ -17,7 +17,6 @@ tags:
 
 ## Chris Cunneen
 
-## ![](_page_1_Picture_3.jpeg)
 
 ## First published in Great Britain in 2023 by
 
@@ -51,7 +50,6 @@ Printed and bound in Great Britain by CPI Group (UK) Ltd,
 
 ## Croydon, CR0 4YY
 
-## ![](_page_2_Picture_17.jpeg)
 
 ## **Contents**
 

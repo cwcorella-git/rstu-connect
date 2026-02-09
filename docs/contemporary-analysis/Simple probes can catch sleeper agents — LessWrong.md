@@ -47,13 +47,11 @@ On the topic of related work, Mallen et al performed a similar experiment in [El
 
 (As in this work, they did linear probing to distinguish what-model-knows from what-model-says, where models were trained to be deceptive conditional on a trigger word, and the probes weren't trained on any examples of deception behaviors; they found that probing "works," that middle layers are most informative, that deceptive activations "look dierent" in a way that can be mechanically detected w/o supervision about deception [reminiscent of the PCA observations here], etc.)
 
-## ![](_page_3_Picture_6.jpeg)
 
 **[Monte M](https://www.lesswrong.com/users/monte-m)** 8 2 [11mo](https://www.lesswrong.com/posts/gknc6NWCNuTCe8ekp/simple-probes-can-catch-sleeper-agents-1?comment Id=XwgtL6r CahGPCrF2i)
 
 Thanks for letting us know, I wasn't personally aware of this paper before, it's denitely very interesting and relevant! We've updated the "related work" section of the blog post to refer to it. Apologies for the oversight.
 
-## ![](_page_3_Picture_9.jpeg)
 
 **[ryan\\_greenblatt](https://www.lesswrong.com/users/ryan_greenblatt)** Ω 23 34 20 [11mo](https://www.lesswrong.com/posts/gknc6NWCNuTCe8ekp/simple-probes-can-catch-sleeper-agents-1?comment Id=v YuDfTE5b JpNf PcuX) [\\*](https://www.lesswrong.com/posts/gknc6NWCNuTCe8ekp/simple-probes-can-catch-sleeper-agents-1?comment Id=v YuDfTE5b JpNf PcuX)
 
@@ -61,7 +59,6 @@ I would be interested in seeing what happens if you just ask the model the quest
 
 (I didn't see this in the blog post, but it's possible I just missed it.)
 
-## ![](_page_3_Picture_13.jpeg)
 
 **[evhub](https://www.lesswrong.com/users/evhub)** Ω 15 23 2 [11mo](https://www.lesswrong.com/posts/gknc6NWCNuTCe8ekp/simple-probes-can-catch-sleeper-agents-1?comment Id=tx Xumv JmamEBKkp7E)
 

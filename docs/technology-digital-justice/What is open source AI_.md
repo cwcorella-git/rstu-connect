@@ -9,7 +9,6 @@ tags:
 
 ## Git Hub
 
-17–21 minutes
 
 AI is reshaping every industry—especially software development. It's changing how we write code, review it, and collaborate across time zones and teams. One small update to an open source language model can now move fast: suggested by a developer in Nairobi, reviewed in Berlin, and used by a team in São Paulo to support reading comprehension in an educational app.
 

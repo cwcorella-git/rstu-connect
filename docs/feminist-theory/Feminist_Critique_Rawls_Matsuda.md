@@ -7,7 +7,6 @@ tags:
   - feminism
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 ### [Volume 16](https://digitalrepository.unm.edu/nmlr/vol16) Issue 3 [Summer 1986](https://digitalrepository.unm.edu/nmlr/vol16/iss3)
 

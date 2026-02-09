@@ -11,7 +11,6 @@ tags:
 
 ## Contributors to Wikimedia projects
 
-27–34 minutes
 
 ## ![](_page_0_Figure_6.jpeg)
 

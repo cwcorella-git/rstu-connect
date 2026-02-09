@@ -43,7 +43,6 @@ If someone had designed a work regime perfectly suited to maintaining the power 
 
 ## The Anarchist Library Anti-Copyright
 
-## ![](_page_4_Picture_1.jpeg)
 
 ## David Graeber On the Phenomenon of Bullshit Jobs: A Work Rant August 2013
 

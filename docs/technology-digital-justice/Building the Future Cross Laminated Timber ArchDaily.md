@@ -10,29 +10,19 @@ tags:
 
 ## Written by Eric Baldwin
 
-5-6 minutes
-
-## ![](_page_0_Picture_8.jpeg)
 
 ## © Diana Snape
 
 Cross-laminated timber (CLT) has been dubbed the concrete of the future. As a highly resilient form of engineered wood made by gluing layers of solid-sawn lumber together, CLT is reshaping how we understand architecture and design today. As a material with a high degree of flexibility, CLT has to undergo great deformations to break and collapse, unlike concrete. In turn, it's a material chosen for its warmth and natural properties.
 
-## ![](_page_1_Picture_3.jpeg)
-
-## ![](_page_1_Picture_4.jpeg)
 
 [+ 7](https://www.archdaily.com/977834/building-the-future-cross-laminated-timber/622019fc3e4b315970000173-building-the-future-cross-laminated-timber-photo)
 
-## ![](_page_1_Picture_6.jpeg)
-
-## ![](_page_2_Picture_2.jpeg)
 
 [© Adam Mørk](https://www.archdaily.com/977834/building-the-future-cross-laminated-timber/622019f23e4b315970000172-building-the-future-cross-laminated-timber-photo)
 
 First developed in Europe in the early 1990s, CLT was only introduced into the International Building Code in 2015. The ICC announced approval of 14 code changes as part of the 2021 International Building Code (IBC) that allow mass timber structures of up to 18 stories. Included in these changes is the introduction of three new construction types—IV-A, IV-B and IV-C. In this context, heavy timber is either sawn lumber or structural glue-laminated timber and is associated with Type IV construction.
 
-## ![](_page_2_Picture_5.jpeg)
 
 #### [© Diana Snape](https://www.archdaily.com/977834/building-the-future-cross-laminated-timber/62201a173e4b31ccfa000130-building-the-future-cross-laminated-timber-photo)
 
@@ -40,7 +30,6 @@ Laminated timber is the result of joining boards to form a single structural uni
 
 ### [Freemen's School Swimming Pool](https://www.archdaily.com/885514/freemens-school-swimming-pool-hawkins-brown?ad_source=search&ad_medium=projects_tab) / [Hawkins\Brown](https://www.archdaily.com/office/hawkins-brown?ad_name=project-specs&ad_medium=single)
 
-## ![](_page_3_Picture_5.jpeg)
 
 [© Jack Hobhouse](https://www.archdaily.com/977834/building-the-future-cross-laminated-timber/62201a063e4b315970000174-building-the-future-cross-laminated-timber-photo)
 
@@ -50,7 +39,6 @@ purpose teaching and events space. The new pool uses state-0fthe-art timber cons
 
 ### [Bellevue First Congregational Church](https://www.archdaily.com/795120/bellevue-first-congregational-church-atelierjones?ad_medium=gallery) / [atelierjones](https://www.archdaily.com/office/atelierjones?ad_name=project-specs&ad_medium=single)
 
-## ![](_page_4_Picture_4.jpeg)
 
 #### [© Lara Swimmer](https://www.archdaily.com/977834/building-the-future-cross-laminated-timber/62223c833e4b318098000001-building-the-future-cross-laminated-timber-photo)
 
@@ -58,7 +46,6 @@ The challenge was to convert a typical multi-tenant office space into a space ca
 
 # [The Financial Park Offices](https://www.archdaily.com/933182/the-financial-park-helen-and-hard-architects-plus-saaha?ad_source=search&ad_medium=projects_tab) / [Helen & Hard](https://www.archdaily.com/office/helen-and-hard?ad_name=project-specs&ad_medium=single) + [SAAHA](https://www.archdaily.com/office/saaha?ad_name=project-specs&ad_medium=single)
 
-## ![](_page_5_Picture_4.jpeg)
 
 #### [© Sindre Ellingsen](https://www.archdaily.com/977834/building-the-future-cross-laminated-timber/62201a133e4b315970000175-building-the-future-cross-laminated-timber-photo)
 
@@ -66,7 +53,6 @@ Bjergsted Financial Park is the new head office for SR-Bank in the centre of Sta
 
 # [Community Center](https://www.archdaily.com/933332/community-center-nord-architects?ad_source=search&ad_medium=projects_tab) / [NORD Architects](https://www.archdaily.com/office/nord-architects?ad_name=project-specs&ad_medium=single)
 
-## ![](_page_6_Picture_3.jpeg)
 
 #### [© Adam Mørk](https://www.archdaily.com/977834/building-the-future-cross-laminated-timber/622019ed3e4b31ccfa00012c-building-the-future-cross-laminated-timber-photo)
 
@@ -74,9 +60,6 @@ A small community center built in CLT wood renews the local cityscape and invite
 
 ### [CLT House](https://www.archdaily.com/951116/clt-house-fmd-architects) / [FMD Architects](https://www.archdaily.com/office/fmd-architects?ad_name=project-specs&ad_medium=single)
 
-## ![](_page_6_Picture_7.jpeg)
-
-## ![](_page_7_Picture_2.jpeg)
 
 [© Diana Snape](https://www.archdaily.com/977834/building-the-future-cross-laminated-timber/62201a043e4b31ccfa00012e-building-the-future-cross-laminated-timber-photo)
 
@@ -84,19 +67,14 @@ CLT House is a bridge between architectural thinking and sustainable constructio
 
 #### About this author
 
-## ![](_page_7_Picture_6.jpeg)
-
-## ![](_page_8_Picture_2.jpeg)
 
 Cite: Eric Baldwin. "Building the Future: Cross Laminated Timber" 03 Mar 2022. Arch Daily. Accessed 18 Sep 2023.  ISSN 0719-8884
 
 # 想阅读⽂章的中⽂版本吗?
 
-## ![](_page_8_Picture_5.jpeg)
 
 ## CLT交叉层压⽊材,可取代混凝⼟的建筑材料
 
-## ![](_page_9_Picture_2.jpeg)
 
 #### Did you know?
 

@@ -11,7 +11,6 @@ tags:
 
 ## Subindra Bogati and Ches Thurber
 
-## ![](_page_0_Picture_4.jpeg)
 
 From the Hills to the Streets to the Table: Civil Resistance and Peacebuilding in Nepal By Subindra Bogati and Ches Thurber (2021) Published by ICNC Press
 
@@ -35,7 +34,6 @@ ICNC SPECIAL REPORT SERIES EDITOR: Dr. Maciej Bartkowski EDITORIAL ASSISTANCE: J
 
 ## Subindra Bogati and Ches Thurber
 
-## ![](_page_2_Picture_4.jpeg)
 
 ## Table of Contents
 
@@ -815,17 +813,14 @@ However, there are other aspects in which the Nepal case complicates the idealiz
 
 #### About the Authors
 
-## ![](_page_49_Picture_1.jpeg)
 
 Subindra Bogati is the Founder and Chief Executive of Nepal Peacebuilding Initiative an organization devoted to evidence-based policy and action on peacebuilding and humanitarian issues. He has been working for conict transformation and peace process in Nepal through various national and international organizations for the last several years. Currently, he is implementing projects to strengthen capacities for conict prevention, local mediation and reconciliation at the sub-national levels in Nepal. He holds an M. A. in International Relations from London Metropolitan University and was awarded the FCO Chevening Fellowship in 2009 at the University of Birmingham's Centre for Studies in Security and Diplomacy. He is a Ph. D. candidate in the department of Political Science, Tribhuvan University, Nepal.
 
-## ![](_page_49_Picture_4.jpeg)
 
 Ches Thurber is an Assistant Professor in the Department of Political Science at Northern Illinois University. His research and teaching focus on international security, conict, and contentious politics. Dr. Thurber has held fellowships at the University of Chicago and Harvard Kennedy School's Belfer Center for Science and International Aairs. He received his Ph. D. and MALD from The
 
 Fletcher School of Law and Diplomacy at Tufts University and his B. A. from Middlebury College. His book project, Between Gandhi and Mao: The Social Roots of Civil Resistance, investigates how social structures inform movements' willingness to engage in nonviolent and violent strategies. Dr. Thurber's research has been published or is forthcoming in the International Studies Quarterly, Journal of Global Security Studies, and Conflict Management and Peace Science, among others.
 
-## ![](_page_50_Picture_0.jpeg)
 
 **ICNC Special Reports aim to bridge research and practice. Drawing on scholarly literature and high quality analytical and empirical analyses, special reports enrich public discourse by expanding scientific knowledge in the field of civil resistance and providing recommendations for practitioners such as activists, organizers, journalists, and members of INGOs and the policy community.**
 

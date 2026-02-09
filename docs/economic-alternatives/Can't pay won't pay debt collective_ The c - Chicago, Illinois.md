@@ -13,7 +13,6 @@ tags:
 
 ## FOREWORD BY ASTRA TAYLOR
 
-## ![](_page_1_Picture_1.jpeg)
 
 DEBTORS HAVE BEEN MOCKED, SCOLDED, AND LIED TO FOR DECADES. We have been told that it is perfectly normal to go into debt to get medical care, to go to school, or even to pay for our own incarceration. We've been told there is no way to change an economy that pushes the majority of people into debt while a small minority hoards wealth and power.
 
@@ -21,7 +20,6 @@ DEBTORS OF THE WORLD MUST UNITE. As isolated individuals, debtors have little in
 
 INDIVIDUALLY, OUR DEBTS OVERWHELM US. BUT TOGETHER, OUR DEBTS CAN MAKE US POWERFUL.
 
-## ![](_page_3_Picture_0.jpeg)
 
 "The Debt Collective has given us a visionary roadmap for forming an army of debtors that is powerful enough to make capital scream."
 
@@ -55,7 +53,6 @@ INDIVIDUALLY, OUR DEBTS OVERWHELM US. BUT TOGETHER, OUR DEBTS CAN MAKE US POWERF
 
 ## **—Grace Blakeley**
 
-## ![](_page_6_Picture_1.jpeg)
 
 #### © 2020 The Debt Collective
 
@@ -71,9 +68,6 @@ Cover design by Chase Whiteside. Graphics by Jared Bajkowski.
 
 Library of Congress Cataloging-in-Publication data is available.
 
-## ![](_page_7_Picture_7.jpeg)
-
-## ![](_page_7_Picture_8.jpeg)
 
 #### **CONTENTS**
 
@@ -121,7 +115,6 @@ I write this in the midst of intersecting crises. A public health crisis coupled
 
 These days, the words *crisis* and *apocalyptic* couldn't be more apt. The first term comes from the Ancient Greek and means the turning point in an illness—death or recovery, two stark alternatives. The root of *apocalypse* means to reveal or uncover. This is the truth unveiled by this apocalyptic moment: to truly cure ourselves and survive this crisis we are going to need way more than a vaccine. We will also need more than debt write-downs or even debt abolition to heal what ails us, though that would be a welcome start. We need to completely transform our economy and society so that millions of people don't have to live in perpetual financial and physical peril. We offer our thinking, research, and proposals as a resource for everyone struggling to build a better world.
 
-## ![](_page_14_Picture_0.jpeg)
 
 #### INTRODUCTION
 
@@ -151,7 +144,6 @@ Just as the virus ravages those with underlying conditions, this book aims to pr
 
 For decades, taking on debt has been the only solution to the impossible bind of low wages and a lack of social services. As inequality has skyrocketed and as public budgets have been slashed, millions of people have been forced to fill the gap by borrowing. Over the years our society has moved from a welfare state to "debtffare" state, with what should be publicly financed goods (universal healthcare, higher education) treated as individual debt obligations. We have to borrow for basic necessities including housing, transportation, schooling, and medical treatment. Even incarceration has become a form of financial extraction, as time in jail and prison now means escalating fines and fees for everything from court appearances and probation costs to "room and board."
 
-## ![](_page_20_Picture_0.jpeg)
 
 As a result, more than three quarters of Americans are now in hock. Between 1980 and 2007, household debt doubled as a percentage of GDP, with most of the growth in residential mortgages, although auto, credit card, student loan, medical, and criminal legal debt also grew precipitously. In the first months of 2020, as the pandemic took hold, household debt rose to \$14.3 trillion, \$1.6 trillion higher than the record set in the middle of the financial crisis. Today, more than 40 percent of indebted households use credit cards to cover basic living costs, including rent, food, and utilities. Some 62 percent of personal bankruptcies in the US are linked to illness and health care costs.
 
@@ -464,7 +456,6 @@ Our individual and household debts often stem from the fact that the cities we l
 
 Making matters worse, these debts affect people's lives long after an individual has left jail or prison. The inability to make payments can subject them to re-arrest and also put their public benefits at risk. Because the failure to pay court debt is often a violation of parole or probation, individuals who can't afford to pay may be cut off from benefits such as Temporary Assistance for Needy Families (TANF), food stamps, housing assistance, and Supplemental Security Income (SSI) for seniors and people with disabilities. Finally, in many jurisdictions, the ability to get convictions wiped off criminal records in order to access jobs or housing cannot proceed until these debts have been paid in full. Debt from the criminal punishment system drives whole families to spend years trying to dig themselves out from under mountains of bills, financially shackling people long after they've served their time.
 
-## ![](_page_63_Picture_0.jpeg)
 
 As we saw in the cases of Detroit and Flint in the last chapter, municipalities often need to borrow to fund basic services. In order to pay creditors, they extract as much revenue as possible from their poorest residents, which only pushes individuals and families further into debt. The result is a regressive system and a vicious cycle, where those with the least wind up paying the most.
 
@@ -738,7 +729,6 @@ Pay attention and you can see the beginnings of what has the potential to become
 
 In the early days of the pandemic, mortgage and bill collections were paused, utility shutoffs for overdue accounts were prevented, and foreclosures and evictions halted. It turns out that changing the rules that dictate our daily financial agreements is possible after all, and it can happen with remarkable speed. The challenge is ensuring that some of these changes stick and that much further reaching transformations are made. This crisis offers a chance to do more than just hit the pause button and throw a few crumbs at people in distress, resuming "business as usual" as quickly as possible. This is an opportunity to rewrite the rules so that untold millions aren't so vulnerable and exploited to begin with. To do that, we need more than protest; we need power. The debtors' revolts throughout history and around the world that we have discussed in this book offer a model we can build on. The next steps are up to us.
 
-## ![](_page_104_Picture_1.jpeg)
 
 #### **WE ARE ALREADY IN REVOLT**
 
@@ -891,7 +881,6 @@ Jeff Williams, "Student Debt and The Spirit of Indenture," *Dissent*, Fall 2008,
 
 THE DEBT COLLECTIVE is a new kind of union—a debtors' union—that transforms individual financial struggles into a source of collective power by enabling its members to engage in strategic campaigns of economic disobedience and debt refusal. The Debt Collective's writers' bloc includes Ann Larson, Astra Taylor, Hannah Appel, Thomas Gokey, and Laura Hanna.
 
-## ![](_page_124_Picture_2.jpeg)
 
 ASTRA TAYLOR is a filmmaker, author, and activist. She is the author of *The People's Platform: Taking Back Power and Culture in the Digital Age* and *Democracy May Not Exist, But We'll Miss It When It's Gone.*
 
@@ -909,7 +898,6 @@ THE DEBT COLLECTIVE is a new kind of union—a debtors' union—that transforms 
 
 ASTRA TAYLOR is a filmmaker, author, and activist. She is the author of The People's Platform: Taking Back Power and Culture in the Digital Age and Democracy May Not Exist, But We'll Miss It When It's Gone.
 
-## ![](_page_128_Picture_0.jpeg)
 
 ## A POWERFUL GUIDE TO ACTION FOR PEOPLE IN DEBT.
 
@@ -945,7 +933,6 @@ ASTRA TAYLOR is a filmmaker, author, and activist. She is the author of The Peop
 
 ## POLITICAL SCIENCE
 
-## ![](_page_129_Picture_17.jpeg)
 
 ## Disclaimer
 
@@ -953,4 +940,3 @@ This ebook does not have any technical DRM restrictions and may be read on sever
 
 This e Book contains several visible and invisible marks, such as name, email address and a transaction code, by which illegal distribution can be traced.
 
-## ![](_page_133_Picture_2.jpeg)

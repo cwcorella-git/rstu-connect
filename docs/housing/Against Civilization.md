@@ -320,7 +320,6 @@ When we learn to open ourselves to wildness and chaos, the organic anarchy of ou
 
 # **Section I: Outside Civilization**
 
-## ![](_page_9_Picture_2.jpeg)
 
 *Neandertals did not paint their caves with the images of animals. But perhaps they had no need to distill life into representations, because its essences were already revealed to their senses. The sight of a running herd was enough to inspire a surging sense of beauty. They had no drums or bone flutes, but they could listen to the booming rhythms of the wind, the earth, and each other's heartbeats, and be transported.*
 
@@ -772,7 +771,6 @@ I'll show you where in the spring we get roots. The wind will come, as it does, 
 
 # **Section II: The Coming of Civilization**
 
-## ![](_page_38_Picture_2.jpeg)
 
 *The life of savages is so simple, and our societies are such complicated machines! The Tahitian is so close to the origin of the world, while the European is close to its old age. The contrast between them and us is greater*
 
@@ -1182,7 +1180,6 @@ They were right—in their world, it was not.
 
 # **Section III: the Nature of Civilization**
 
-## ![](_page_74_Picture_2.jpeg)
 
 *What is civilization? What is culture? Is it possible for a healthy race to be fathered by violence—in war or in the slaughter-house—and mothered by slaves, ignorant or parasitic? Where is the historian who traces the rise and fall of nations to the standing of women?*
 
@@ -1576,7 +1573,6 @@ All we can do is try to speak it, try to say it, try to save it. Look, we say, t
 
 # **Section IV: the Pathology of Civilization**
 
-## ![](_page_105_Picture_2.jpeg)
 
 *Set down there not knowing it was Seattle, I could not have told where I was. Everywhere frantic growth, a carcinomatous growth. Bulldozers rolled*
 
@@ -2208,7 +2204,6 @@ Primitive people knew they had a responsibility to think, to feel, to dream. Had
 
 # **Section V: The Resistance to Civilization**
 
-## ![](_page_148_Picture_2.jpeg)
 
 If Man becomes an animal again, his arts, his loves, and his play must also become purely "natural" again. Hence it would have to be admitted that after the end of History, men would construct their edifices and works of art as birds build their nests and spiders spin their webs, would perform musical concerts after the fashion of frogs and cicadas, would play like young animals, and would indulge in love like adult beasts.
 

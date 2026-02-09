@@ -6,9 +6,6 @@ tags:
   - feminism
 ---
 
-## ![](_page_0_Picture_0.jpeg)
-
-## ![](_page_0_Picture_2.jpeg)
 
 ## Vančura, Matěj
 
@@ -42,7 +39,6 @@ You are not to copy documents for public or commercial purposes, to exhibit the 
 
 If the documents have been made available under an Open Content Licence (especially Creative Commons Licences), you may exercise further usage rights as specified in the indicated licence.
 
-## ![](_page_0_Picture_20.jpeg)
 
 Institute of Economic Studies, Faculty of Social Sciences Charles University in Prague
 
@@ -52,4 +48,3 @@ Institute of Economic Studies, Faculty of Social Sciences Charles University in 
 
 ## IES Occasional Paper: 2/2011
 
-## ![](_page_1_Picture_4.jpeg)

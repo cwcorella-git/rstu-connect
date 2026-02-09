@@ -10,7 +10,6 @@ tags:
 
 P. M.
 
-## ![](_page_0_Picture_2.jpeg)
 
 # Contents
 
@@ -409,7 +408,6 @@ Beginning of Yuvuo. All records on prehistory (up to 2763) have been lost. Tawhu
 
 #### **ibu**
 
-## ![](_page_39_Picture_2.jpeg)
 
 In fact, there's really only the *ibu*, and nothing else. But the *ibu* is unreliable, paradoxical, perverse. There's only one single *ibu*, but nevertheless it behaves as if there were four billion or so. The *ibu* also knows that it invented the world and reality by itself, yet it still firmly believes that these hallucinations are real. The *ibu* could have dreamed an agreeable, unproblematic reality, but it insisted on imagining a miserable, brutish and contradictory world1 .
 
@@ -439,7 +437,6 @@ So, together with 300 to 500 *ibus*, the *ibu* joins a *bolo*. The *bolo* is its
 
 2 A *bolo* isn't just a traditional neighborhood, nor a self-help network, nor a tribe. It's true that the number of its inhabitants (500) corresponds to the minimal number of members of the traditional tribe. About 500 individiuals form the smallest possible genetic pool of the species *homo sapiens*. It seems that this social unit has been typical for all societies of gatherers/hunterers for millions of years (i.e., well before *homo sapiens* came into being). (Richard E. Leakey and Roger Lewin, *People of the Lake: Mankind and its Beginnings*, Avon, 1979, p. 111.) So it is probable that we could feel comfortable in communities of this size. Yet, a *bolo* has many other advantages in the fields of
 
-## ![](_page_41_Picture_0.jpeg)
 
 agriculture, energy, medicine, cultural identity, etc. The number of 500 persons seems to be a kind of upper level limit for "spontaneously" functioning larger social organisms. It corresponds to the inhabitants of typical older urban neighborhoods in a lot of countries, to an infantry batallion, to the capacity of a larger hall, to the size of a medium enterprise, to a medium-sized school, etc. The reasons are not purely genetic or traditional.
 
@@ -479,7 +476,6 @@ From the point of view of the *ibu*, the *bolo's* function is to guarantee its s
 
 John Seymour's figures (The *Complete Book of Self-Sufficiency*, Dorling Kin dersley, 1976), we'd need 4 acres for a "large family" (10 persons?), i.e., 200 acres for our *bolo* (in a moderate or cold climate). Seymour's approximations seem to be more realistic, but they're calculated on the basis of a very small, extremely diversified farm, thus are rather high. But even with these figures, self-sufficiency can be attained under unfavorable conditions, e.g., in a small country like Switzerland with little arable land. (Today this country attains only 56% self-sufficiency in food production.) Under better conditions, like China, South Korea, or Taiwan, less arable land per capita is needed (.32 acres, .17 acres, .14 acres respectively). Under optimal conditions and methods (as in the case of Taiwan) 74 acres per *bolo* are sufficient. Under the assumption that 39 grams of protein (animal and vegetable) per day and 285 pounds of grains per year per person guarantee adequate nutrition, all existing countries except Liberia and Zaire are capable today of producing enough food for their inhabitants. (Frances Moore Lappe, Jospeh Collins, *Food first: Beyond the Myth of Scarcity*, New York, 1977). Thus, self-sufficiency is not a problem of lack of land or overpopulation, but of organization, methods and local control over agricultural resources.
 
-## ![](_page_44_Picture_0.jpeg)
 
 Money is a social agreement whose observance is enforced by the police, justice, prisons, psychiatric hospitals. It is not natural. As soon as these institutions collapse or malfunction, money loses its "value"-nobody can catch the "thief," and everybody who doesn't steal is a fool.4
 
@@ -489,11 +485,6 @@ As the money agreement functions badly, is in fact about to ruin the planet and 
 
 5 *sila* is nothing new, but rather a return to the old "laws" of tribal hospitality that have been functioning for thousands of years, much longer than American Express, Visa or Master Card. In most advanced industrialized countries hospitality is in crisis, because the nuclear family is too weak to guarantee it on a longterm basis. In its origins, hospitality has never been considered as a kind of philanthropy, but was rather born out of fear of the stranger: he had to be treated in a friendly manner to prevent misfortune brought upon the clan or tribe. If the number of guests surpasses a certain level for a longer period of time, friendliness declines and a certain amount of travelers is balanced out automatically (to about 10%). *sila* is a self-regulating, feed-back process of exchange.
 
-## ![](_page_45_Picture_0.jpeg)
-
-## ![](_page_46_Picture_0.jpeg)
-
-## ![](_page_46_Picture_1.jpeg)
 
 *sila* contains the following agreements:
 
@@ -521,11 +512,9 @@ A certain pressure to respect hospitality is exerted on the *bolos* by *munu*, h
 
 #### **taku**
 
-## ![](_page_48_Picture_1.jpeg)
 
 The first and most remarkable component of *sila* is the *taku*, a container made of solid sheet metal or wood, that looks like this:
 
-## ![](_page_48_Picture_3.jpeg)
 
 According to the customs of its *bolo,* every *ibu* gets a *taku*. Whatever fits into the *taku* is the *ibu's* exclusive property — the rest of the planet is used and held together. Only the *ibu* has access to the things contained in its *taku* — nobody else. It can put in it what it wants. It can carry the *taku* with itself, and no *ibu* has any right under any circumstances whatsoever to inspect its contents or to ask for information about it (not even in cases of murder or theft). The *taku* is absolutely unimpeachable, holy, taboo, sacrosanct, private, exclusive, personal. But only the *taku*. The *ibu* can store in it dirty clothes or machine guns, drugs or old love letters, sankes or stuffed mice, diamonds or peanuts, stereo tapes or stamp collections. We can only guess. As long as it doesn't stink or make noise (i.e., exert influences beyond itself) anything can be in it.
 
@@ -535,13 +524,11 @@ Like unlimited property, the *taku* brings some risks, too, though these are now
 
 #### **kana**
 
-## ![](_page_49_Picture_4.jpeg)
 
 The *kana* might be the most frequent and practical subdivision of a *bolo,* since the *bolo* is probably too large for immediate living together.6 A *kana* consists of 15–30 *ibus*, and a *bolo* contains about 20 *kanas.* A *kanas* occupies a larger house in a city, or a couple of houses combined to a single household. It corresponds to a hamlet, a hunting group, a kinship group, a community. The *kana* is organized around the inner domestic (or hut-, tent-, boat-) life, yet it is completely defined by the lifestyle and cultural identity of its *bolo*. It cannot be independent in its supply of food or goods, for it's too small and therefore too unstable (as the experiences of the 1960's alternative communities shows). According to the bolo-lifestyle, there can be more arrangements besides the *kana*: couples, triangles, nuclear families, parenthoods, households, teams, etc. A bolo can also consist of 500 single *ibus* who live together, as in a hotel or a monastery, each on its own, cooperating only on a minimal level to guarantee survival and hospitality. The degree of collectivity or individualism is only limited by these basic necessities. Any *ibu* can find the *bola* or *kana* it likes, or found new ones.
 
 #### **nima**
 
-## ![](_page_50_Picture_2.jpeg)
 
 *bolos* can't just be neighborhoods or practical arrangements. That is only their technical, external aspect. The real motivation for *ibus* to live together is a common cultural background, the *nima*. Every *ibu* has its own conviction and vision of life as it should be, but certain *nimas* can only be realized if like-minded *ibus* can be found. In a *bolo,* they can live, transform and complete their common *nima*. On the other side, those *ibus* whose *nimas* exclude social forms
 
@@ -573,7 +560,6 @@ In a larger city, we could find the following *bolos*: Alco-*bolo*, Sym-*bolo*, 
 
 The diversity of cultural identities destroys modern mass culture and commercialized fashions, but also the standardized national languages. As there is no centralized school system, every *bolo* can speak its own language or dialect. These can be existing languages, slangs, or artificial languages. Thus the official languages, with their function as a means of control and domination, decay, and there results a kind of Babylonian chaos, i.e., an ungovernability through dysinformation. As this linguistic disorder could cause some problems for travellers, or in emergencies, there is *asa'pili* — an artificial vocabulary of some basic terms that can be easily learned by everybody. *asa'pili* is not a real language, for it consists only of a few words (like: *ibu*, *bolo*, *sila*, *nima*, etc.), and their corresponding signs (for those incapable of or refusing verbal speech). With the help of *asa'pili*, every *ibu* can get anywhere the basic necessities like food, shelter, medical care, etc. If it wants to understand better a *bolo* speaking a foreign language, the *ibu* will have to study it. As the *ibu* now has a lot of time, this should not prove such a problem. The natural language barrier is also a protection against cultural colonization. Cultural identities cannot be consumed in a superficial way — you really do have to get acquainted with all the elements, spend some time with the people.8
 
-## ![](_page_55_Picture_0.jpeg)
 
 #### **kodu**
 
@@ -619,7 +605,6 @@ Monocultural, large-scale agroindustries and mechanized animal production seem t
 
 country-side *bolos* (Agro-*bolos*) there are few problems, since they can use the surrounding land. For *bolos* in larger cities, it can be useful to have small gardens around the houses, on roofs, in courtyards, etc. Around the city there would be a garden zone, where every *bolo* would have a larger plot for vegetables, fruits, fish ponds, etc., i.e., for produce that is needed fresh almost every day. These gardens could be reached by foot or bicycle within minutes, and the quantities needing special transport would be relatively low. The real agricultural zone, larger farms of up to 80 hectares (200 acres) or several farms of smaller size, could be about 15 kilometers or so from the city-bolo. (Particularly in the case of certain cultures using lakes, peaks, vineyards, hunting grounds, etc.) These bolo-farms would specialize in large-scale production of durable foods: cereals, potatoes, soya, diary products, meat, etc. Transportation would be on the scale of tons (by chariot, trucks, boat, etc.). For the *kodu* of larger cities, a system of three zones could be practical:10
 
-## ![](_page_57_Picture_1.jpeg)
 
 For the easy functioning of *kodu,* the actual depopulation of larger cities with more than 200,000 inhabitants should continue or be encouraged by *bolos*. In certain areas, this could result in a repopulation of deserted villages. There might be pure Agro-bolos, but, in general, the *ibu* would not have to choose between city or country life. The bolo-farms or hamlets also have the function of country houses or villas, and at the same time every "farmer" would have a town-house *bolo*. With the kodu-system the isolation and cultural neglect of rural regions can be compensated, so that the rural exodus that is today ruining the equilibrium of much of the world can be stopped and inverted. The positive aspects of farm life can be combined with the intense
 
@@ -629,7 +614,6 @@ urban life style. The cities would become more city-like, livelier, and the coun
 
 #### **yalu**
 
-## ![](_page_58_Picture_2.jpeg)
 
 The *bolos* tend to produce their food as close to their central buildings as possible in order to avoid long distances for trips and transporta tion, which of course mean wastes of time and energy. For similar reasons there will be much less importation of petroleum, fodder and fertilizers. Appropriate methods of cultivation, careful use of the soil, alternation and combination of different crops are necessary under these conditions. The abandonment of industrialized largescale agriculture doesn t necessarily result in a reduction of output, for it can be compensated by more intensive methods (since there is a larger agricultural, labor-force) and by the preference for vegetable calories and proteins. Corn, potatoes, soya and other beans can guarantee in their combination a safe basis for alimentation.11 Animal production (which eats up immense amounts of exactly the above mentioned crops) will have to be reduced and de-centralized, as to a lower degree will dairy production. There will be enough meat, but pigs, chickens, rabbits, and sheep will be found around the *bolos*, in courtyards, running around in the former streets. So scraps of all kinds can be used in a "capillary" way to produce meat.
 
@@ -653,7 +637,6 @@ Preservation, pickling, potting, drying, smoking, curing and deep-freezing (whic
 
 #### **sibi**
 
-## ![](_page_60_Picture_4.jpeg)
 
 A *bolo* needs not only food, it needs things. Whatever concerns the production, use or distribution of things is called *sibi*. Thus *sibi* includes: buildings, suplies of fuel, electricity and water, the production of tools and maschines (mainly for agriculture), clothing, furniture, raw materials, devices of all kinds, transportation, crafts, arts, electronic hardware, streets, sewage, etc.
 
@@ -673,7 +656,6 @@ Cooperation in certain fields is also reasonable from the point of view of energ
 
 #### **pali**
 
-## ![](_page_62_Picture_2.jpeg)
 
 A *bolo's* independence is in fact determined by its degree of self-sufficiency in energy supply. Agriculture and fabriculture can be considered two methods to resolve this problem.13 Energy (*pali*) is needed for agriculture itself (tractors), for transportation, for heating and cooling, for
 
@@ -703,7 +685,6 @@ Some *ibus* or *bolos* can avoid winter problems by migrating to milder zones, j
 
 #### **suvu**
 
-## ![](_page_65_Picture_3.jpeg)
 
 Besides food and energy, water is a crucial element for the survival of the *ibu* (if it so desires). Whereas in many parts of the planet water supply is an unsolved problem, water's wasted in other parts mainly for cleaning and disposal (flushing away excrement or garbage). It's not used in its specific quality as water (suvu), but for easy transportation as sewage.
 
@@ -719,7 +700,6 @@ Many bolas will be able to achieve self-sufficiency in water-supply by collectin
 
 *bolo'bolo* isn't only a way for the *ibu* to conquer more time, but also a way to get more space (*gano*). Shop roofs, garages, offices, warehouses, many streets and squares, factory buildings, all will become available for new utilization by *bolos* and *ibus*. Since there will be no real estate property, no laws for construction, all kinds of private restictions, speculation, over- and underutilization disappear. The *bolos* can use their buildings as they like, they can transform them, connect them, paint them, subdivide them, all according to their cultural background (*nima*). Of course problems can arise, conflicts over which *bolo* gets which buildings and space in general. These problems can be discussed and resolved in the framework of larger communities (neigh-
 
-## ![](_page_67_Picture_0.jpeg)
 
 borhoods, cities, even regions), where every *bolo* is represented by its delegates (see *tega*, *vudo*, *sumi*). Even if there are serious disputes, nobody can claim control over buildings he or she doesn't actually use. Contrary to today's property system, this can prevent most abuses.
 
@@ -729,9 +709,6 @@ Suburban one-family houses can be connected by arcades, intermediate buildings, 
 
 As all *bolos* can express their cultural identity in their architecture, the actual monotony of many neighborhoods will disappear. The urban areas will become lively and manifold again, above all because the division between downtown areas and suburbs will disappear. There will be no distinction between cultural and merely reproductive neighborhoods. At any time (even at night and on Sundays) — some *bolos* will possibly stick to such perversities as "weeks" "months" or "years" — there will be *ibus* in the streets, at the corners, in the courtyards. With the regular work-day gone, general periods of rest will also disappear. There are no stores (except for the neighborhood market: see *sadi*) and therefore no closing hours or empty streets. The *bolos* are always "open".
 
-## ![](_page_68_Picture_0.jpeg)
-
-## ![](_page_69_Picture_0.jpeg)
 
 Nesting in, variety, the need for permament transformations and adaptations to changing cultural identities will give the cities a rather "chaotic", medieval, or oriental image (we'll be reminded of the times when they used to be lively). Improvisation, provisional structures of all kinds, a wide diversity of materials and styles will characterize the architecture. Tents, huts, arcades, overpasses, bridges, towers and turrets, ruins, hallways, etc., everything will be very common, since different parts of the *bolos* should be reachable without exposure to the weather. Adjacent *bolos* may opt for common institutions. Walking will be the most frequent form of travel.
 
@@ -741,7 +718,6 @@ Although the real causes for many forms of social violence (mugging, rape, assau
 
 #### **bete**
 
-## ![](_page_70_Picture_4.jpeg)
 
 Strictly speaking, it's impossible to define health care, *bete*, as a separate task. Illness or health are not just dependent on medical interventions, but much more on social factors, on the way of life as a whole. *bolo'bolo* itself is the most important contribution to health, for it eliminates a lot of diseases that are direct or indirect effectsd of industrial society: traffic accidents, industrialized mass wars, stress and environmentally induced diseases, many occupational hazards and accidents, psychosomatic and psychological problems. Work and stress are the main cause of many diseases, and their reduction is the best medicine.
 
@@ -763,13 +739,11 @@ There are good chances that the *ibus* will be in better health than we are toda
 
 #### **nugo**
 
-## ![](_page_72_Picture_4.jpeg)
 
 The *nugo* is a metallic capsule an inch-and-a-half long and half-an-inch in diameter, secured by a twist-combination lock whose seven-digit number is known only by its bearer (and maybe his or her best friend):
 
 This metallic container encloses a pill of an immediately deadly substance. Every *ibu* gets its *nugo* from its *bolo*, as is the case for *taku*. The *ibu* can wear its *nugo* together with the keys to its property trunk on a chain around its neck so that it's always ready for use. Should the *ibu* be incapable of opening the capsule and swallowing the death pill (due to paralysis, injury, etc.), the other *ibus* are obliged to help it (see *sila*).
 
-## ![](_page_73_Picture_0.jpeg)
 
 If the *ibu* is sick of *bolo'bolo'*, of itself, of *taku*, *sila*, *nima*, *yaka*, *fasi*, etc., it can always feel free to quit the game definitely and escape from its (improved, reformed) nightmare. Life shouldn't be a pretext to justify its responsibility towards *bolo'bolo*, society, the future, or other illusions.
 
@@ -777,7 +751,6 @@ The *nugo* reminds the *ibu* that *bolo'bolo* finally makes no sense, that nobod
 
 #### **pili**
 
-## ![](_page_73_Picture_4.jpeg)
 
 If the *ibu* decides to stick around, it will enter into a variety of forms of communication and exchange with its (surrogate) fellow-*ibus*. It will blink at them, talk to them, touch them, make love to them, work with them, tell them about its experiences and knowledge. All these are forms of *pili,* communication, education, exchange of information, expression of thoughts, feelings, desires.
 
@@ -817,7 +790,6 @@ Hence gifts, permanent contracts of exchange, trips, etc., all can be easily arr
 
 #### **kene**
 
-## ![](_page_76_Picture_5.jpeg)
 
 In the contacts with other *ibus* and *bolos*, there might arise certain agreements on common enterprises, not only exchange of information but also the organization of common work. For every *bolo* it will be voluntary to join such enterprises, but of course *bolos* who choose not to cooperate will have no right to automatically participate and take advantage of them. Social organization is a trap; in *bolo'bolo*, the price of being caught in this trap can be *kene*, external, compulsory work.
 
@@ -827,7 +799,6 @@ So, if a certain number of *bolos* or other communities should decide to put up 
 
 #### **tega**
 
-## ![](_page_77_Picture_3.jpeg)
 
 On the basis of communication (*pili*) and common activity (*kene*), larger communities than *bolos* are possible. The forms of such confederations, coordinations or other *bolo* clusters will be different from region to region and continent to continent. *Bolos* can also exist alone (in the jungle) or in groups of two or three. They can have rather loose arrangements, can work together closely, almost "state"-like. There can be overlappings, temporary agreements, enclaves and exclaves, etc.
 
@@ -845,11 +816,9 @@ One of the problems of social institutions — even when they fulfill the best a
 
 ## ![](_page_79_Figure_0.jpeg)
 
-## ![](_page_79_Picture_1.jpeg)
 
 dala
 
-## ![](_page_80_Picture_0.jpeg)
 
 dudi
 
@@ -871,7 +840,6 @@ The *dalas* of all levels cannot be compared to parliaments, governments or even
 
 #### **vudo**
 
-## ![](_page_81_Picture_3.jpeg)
 
 The *bolos* will solve most of their problems alone or in their townships (*tegas*). But at the same time most *bolos* will have farms or other resources beyond township-"limits". To arrange such things, a larger coordination of townships could be convenient in many cases. Ten to twenty townships could organize certain tasks in the frame of a *vudo* (small region, city, county, canton, valley).
 
@@ -885,7 +853,6 @@ Some counties will have to be of larger size, to deal with cities of several mil
 
 #### **sumi**
 
-## ![](_page_82_Picture_3.jpeg)
 
 The autonomous region (*sumi*) is the largest practical unity for *bolos* and *ibus*. Such a region can comprise an indefinite number of *bolos*, townships or counties, maybe about 20 or 30 counties,
 
@@ -919,11 +886,6 @@ In Europe (in a loosely geographic sense) there could be about 100 regions, in t
 
 The problem is not nationalism, but *state-ism*. There's nothing wrong with speaking one's own language, insisting on traditions, history, cuisine, etc. But as soon as these needs are linked to a hierarchical, armed, centralized state organism, they become dangerous motivations for chauvinism, the despising of diversity, prejudice — they're elements of psychological warfare. To call for a State in order to protect one's own cultural identity has never been a good deal: the costs are high and the same cultural traditions are perverted by its influence. Ethnic cultures were almost always able to live peacefully together as long as they kept States at a distance. Jewish and Arab communities have been living together without major problems in Palestine, in the Marais, even in Brooklyn, so long as they didn't try to organize into states. Of course it's not the Jews' mistake to try the idea of their own state; their communities in Germany, Poland, Russia, etc. had been attacked by states, and they had "no choice" but to organize in the same way. State-ism is like an infectious disease. After the establishment of the state of Israel, the Palestinians now have the same problem the Jews had in Germany. It's nobody's fault — but the problem remains. No solution lies in asking who started it; neither a Jewish or Palestinian state can solve it, and no real-political instruments seem to be in sight. Some autonomous regions (*sumi*) with counties or *bolos* of Jews, Arabs, Druse, and others could solve the problem, but only if it's solved the same way all over the world. What's happening in the Near East now can happen everywhere at any moment. Beirut is just a dress rehearsal for New York, Rio, Paris, Moscow…
 
-## ![](_page_85_Picture_0.jpeg)
-
-## ![](_page_86_Picture_0.jpeg)
-
-## ![](_page_87_Picture_0.jpeg)
 
 planetary hobbies, such as the use of the seas, the distribution of fossil resources, the exploration of space, telecommunications, guarding dangerous deposits, intercontinental railroads, airlines, navigation, research programs, the control of epidemics, postal services, meteorology, the dictionary of a planetary auxiliary language (*asa'pili*), etc. The proceedings of the assembly will be broadcast world-wide so that all regions know what their delegates or others are talking about in Beirut or Quito. (Of course, somebody should ask these two cities whether they'd like to be hosts to such a crowd.)
 
@@ -937,7 +899,6 @@ The most common and frequent form of exchange of things between *ibus* or commun
 
 Gifts have many advantages for both taker and giver. As the one who gives something determines its form and quality, it's a kind of personal cultural propaganda, an expansion of his or her identity onto others. A gift will remind the user of the giver, and so benefit the giver's social presence, reputatlon and influence. The exchange of gifts reduces the work invested in the
 
-## ![](_page_88_Picture_0.jpeg)
 
 buni exchanging process: since they're independent from their value, you don't have to make those calculations (labor-time). You can give spontaneously, no time is needed for complicated bargaining or agreements for return. The circulation of gifts can be compared to the rules for hospitality: giving tends to be profitable in the long-run, much more than quick, impersonal acts of buying or selling (because you forget easily the face of a supermarket cashier, there's no social advantage in such a transaction). In a relatively closed, local and personalized frame, gifts will be the ideal form of exchange of things. (This could be extended to the whole process of communication: words are also gifts… but, of course, some people count them!)
 
@@ -945,7 +906,6 @@ The importance of gifts will depend on the local situation. Since they tend to b
 
 #### **mafa**
 
-## ![](_page_88_Picture_5.jpeg)
 
 mafa
 
@@ -957,7 +917,6 @@ Help from common pools will be particularly important in the early period of *bo
 
 #### **feno**
 
-## ![](_page_89_Picture_4.jpeg)
 
 feno
 
@@ -981,13 +940,11 @@ working time is contained in the objects, *feno* gets completely economized, and
 
 #### **sadi**
 
-## ![](_page_91_Picture_1.jpeg)
 
 sadi
 
 Gifts, common pools and barter agreements, combined with self-sufficiency, drastically reduce the need for economic — i.e., value-calculating — excahnge. The diversity of cultural identities destroys the basis for mass production, hence also the emergence of mass marketing. The invested amount of labortime will be difficult to compare, and exact measurement of exchangevalue (through money) will be almost impossible. Nevertheless it might occur that certain *ibus* (they still have their property container, *taku*) or *bolos* could be interested in this type of calculated exchange, for certain purposes. This is the function of local markets, *sadi*. These markets complement the possibilities of exchange, determining a small part of the existential bases of *bolos*.
 
-## ![](_page_92_Picture_0.jpeg)
 
 - barter-contracts
 - THE market
@@ -1106,7 +1063,6 @@ Markets will be organized and supervised by a market committee (*sadi'dala*). Th
 
 As there won't be any international currencies, local markets will have their own, nonconvertible money, or maybe chips like in a casino. The single buyers or sellers will enter such a market without any money and open a credit account at the office of the market committee (again, an easy arrangement through use of computers). So they would get 100 or 1000 shillings, florins, pennies, dollars, ecus, pesos, rubles, etc. that they owe the market bank. With this money, they can buy and sell until the end of the market in the evening. Then they return their chips, and a positive or negative balance is recorded under their name until the next day, etc. These balances cannot be transfered toother markets. The accumulation of too-big balances (fortunes) can be made difficult by programming a random element into the computer, one that cancels all accounts in periods between, say, a half a year and two years (this would be a kind of electronic potlatch, or a hebrew "jubilee"). Since there is no justice apparatus able to punish breach of contracts, any kind of business would be very risky. All this doesn't completely ban the circulation of money, because the *ibus* could still take refuge in gold or silver. In isolated townships, the local currency could circulate without any problems. It's self-sufficiency and other forms of exchange that keep money in certain limits (as was the case in the Middle Ages).20
 
-## ![](_page_95_Picture_0.jpeg)
 
 #### **fasi**
 
@@ -1126,17 +1082,14 @@ In mountainous areas and in the country, animals are very efficient, particularl
 
 The bicycle can also be used for transportation of small goods, particularly in the form of rikshaws or trailers. A *pentadem* can transport five persons and an additional 350 kilograms of cargo:
 
-## ![](_page_96_Picture_3.jpeg)
 
 Compared to the bicycle, even such means of public transportation as trolleys, tramways or subways are relatively expensive, since they need an elaborate infrastructure (tracks, cables, wagons). But it could still be reasonable for an urban area to operate a reduced network, especially when electricity is locally or regionally available. In a middle-sized city, three transversal lines would be sufficient, since you could reach all *bolos* within an hour using a bicycle from the stops of such a tramway or bus network:
 
 The street system, maintenance of which is very labor intensive (pouring asphalt or concrete, fixing potholes, etc.), can be reduced so that there is only one road to every *bola* or farm. Most roads in the cities will be superfluous, and most country roads and highways can be narrowed to one or two lanes. The remaining automobile traffic will be slow and unimportant. There will still be some tru As (operated with bio-gas, steam, wood, gasoline), some buses, ambulances, fire-engines, special transports.
 
-## ![](_page_97_Picture_1.jpeg)
 
 ## ![](_page_97_Figure_3.jpeg)
 
-## ![](_page_98_Picture_0.jpeg)
 
 Some motorways can be used as race tracks for entertainment. A 200 kilometer (120 miles) highway could be reserved for such purposes. At both ends car parks, where you could choose a fast sports car. Without any speed limits, the drivers could then drive back and forth between the two ends of the speedway. So those *ibus* who like driving fast and who use the car as a means of entertainment and risk could still do it. Such a speedway would be less costly than today's car traffic, in spite of expenditures for gas, ambulances, medical care, car maintenance, etc.
 
@@ -1160,9 +1113,6 @@ Is the *ibu* a good-natured, love-starved nice being, or is it quarrelsome, rese
 
 It is pure demagogy to explain the phenomenon of modern wars by the existence of interpersonal violence. Nothing is more peaceful, non-violent, and gentle than the inside of an army; soldiers help each other, share food, support each other emotionally, are "good comrades". All their violence is manipulated, focused on an enemy. Even in this case feelings are not very important. War has become a bureaucratic, industrialized, anonymous procedure for mass disinfection. Hatred and aggressivity would only disturb the technicians of modern war, could even prevent
 
-## ![](_page_101_Picture_0.jpeg)
-
-## ![](_page_102_Picture_0.jpeg)
 
 stories, madness, misanthropy, deceptions, conflicts around honor and life style, even ecstasy can lead to *yakas*. They can take place between:
 
@@ -1200,7 +1150,6 @@ It's also possible that an isolated passionate tinkerer builds an atomic bomb in
 
 ## The Anarchist Library Anti-Copyright
 
-## ![](_page_104_Picture_1.jpeg)
 
 ## P. M. Bolo'bolo 1983
 

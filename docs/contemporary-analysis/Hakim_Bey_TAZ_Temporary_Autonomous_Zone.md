@@ -1030,7 +1030,6 @@ In this sense, then, we call for a boycott of the image of the Cop, & a moratori
 
 ## *MORT AUX VACHES!*
 
-![](_page_74_Picture_0.jpeg)
 
 - "…this time however I come as the victorious Dionysus, who will turn the world into a holiday…Not that I have much time…"
 - Nietzsche (from his last "insane" letter to Cosima Wagner)
@@ -1287,7 +1286,6 @@ Let us admit that we have attended parties where for one brief night a republic 
 
 ## — Spring Equinox, 1990
 
-![](_page_102_Picture_0.jpeg)
 
 # **Appendix A: Chaos Linguistics**
 
@@ -1411,7 +1409,6 @@ Suppose the intercourse of the parlor to be regulated by specific legislation. L
 
 ## The Anarchist Library Anti-Copyright
 
-## ![](_page_109_Picture_1.jpeg)
 
 Hakim Bey T. A. Z.: The Temporary Autonomous Zone, Ontological Anarchy, Poetic Terrorism 1985
 

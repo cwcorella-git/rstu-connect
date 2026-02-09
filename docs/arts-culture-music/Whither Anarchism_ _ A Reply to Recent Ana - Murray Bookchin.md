@@ -8,9 +8,6 @@ tags:
   - Bookchin
 ---
 
-## ![](_page_0_Picture_0.jpeg)
-
-## ![](_page_1_Picture_0.jpeg)
 
 ## A Reply to Recent Anarchist Critics by
 
@@ -18,7 +15,6 @@ tags:
 
 ## 1998
 
-## ![](_page_3_Picture_5.jpeg)
 
 All Your Books Are Belong To Us ! http://c3jemx2ube5v5zpg.onion
 

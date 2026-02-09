@@ -13,7 +13,6 @@ tags:
 
 ## Contributors to Wikimedia projects
 
-8–10 minutes
 
 "Information wants to be free" is an expression that means either that all people should be able to access information freely, or that information (formulated as an actor) naturally strives to become as freely available among people as possible. It is often used by technology activists to criticize laws that limit transparency and general access to information. People who criticize [intellectual](https://en.m.wikipedia.org/wiki/Intellectual_property#Criticisms) [property](https://en.m.wikipedia.org/wiki/Intellectual_property#Criticisms) law say the system of such government-granted monopolies conflicts with the development of a public domain of information. The expression is often credited to [Stewart Brand,](https://en.m.wikipedia.org/wiki/Stewart_Brand) who was recorded saying it at a Hackers Conference in 1984.[\[1\]](about:reader?url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FInformation_wants_to_be_free#cite_note-R._Polk_Wagner-1)
 

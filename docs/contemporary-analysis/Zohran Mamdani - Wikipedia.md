@@ -9,7 +9,6 @@ tags:
   - wikipedia
 ---
 
-## ![](_page_0_Picture_2.jpeg)
 
 **Zohran Kwame Mamdani**[\[c\]](#page-11-2) (born October 18, 1991) is an American politician who has served since 2021 as a member of the [New York State Assembly](https://en.wikipedia.org/wiki/New_York_State_Assembly) from the [36th](https://en.wikipedia.org/wiki/New_York%27s_36th_State_Assembly_district) [district,](https://en.wikipedia.org/wiki/New_York%27s_36th_State_Assembly_district) based in [Queens.](https://en.wikipedia.org/wiki/Queens) A member of the [Democratic](https://en.wikipedia.org/wiki/Democratic_Party_(United_States)) [Party](https://en.wikipedia.org/wiki/Democratic_Party_(United_States)) and the [Democratic Socialists of America,](https://en.wikipedia.org/wiki/Democratic_Socialists_of_America) he is the Democratic nominee for [mayor of New York City](https://en.wikipedia.org/wiki/Mayor_of_New_York_City) in the [2025 election.](https://en.wikipedia.org/wiki/2025_New_York_City_mayoral_election)
 
@@ -17,7 +16,6 @@ Mamdani was born in [Kampala, Uganda,](https://en.wikipedia.org/wiki/Kampala) in
 
 In October 2024, Mamdani announced his candidacy for mayor of New York City in the 2025 election. His campaign platform includes support for [fare-free city](https://en.wikipedia.org/wiki/Free_public_transport) [buses;](https://en.wikipedia.org/wiki/Free_public_transport) [public child care;](https://en.wikipedia.org/wiki/Child_care#Non-profit_daycare) [city-owned grocery stores;](https://en.wikipedia.org/wiki/Public_grocery_store) a [rent](https://en.wikipedia.org/wiki/Rent_regulation_in_New_York) [freeze on rent-stabilized units;](https://en.wikipedia.org/wiki/Rent_regulation_in_New_York) additional aff[ordable](https://en.wikipedia.org/wiki/Affordable_housing) [housing](https://en.wikipedia.org/wiki/Affordable_housing) units; comprehensive [public safety reform;](https://en.wikipedia.org/wiki/Police_reform_in_the_United_States) and a \$30 [minimum wage](https://en.wikipedia.org/wiki/Minimum_wage_in_the_United_States) by 2030. Mamdani also supports tax increases on corporations and those earning above \$1 million annually. He has been sharply critical of [Israel](https://en.wikipedia.org/wiki/Israel)'s [treatment of Palestinians,](https://en.wikipedia.org/wiki/Gaza_genocide) pledging to abide by the [International Criminal Court arrest warrants for Israeli](https://en.wikipedia.org/wiki/International_Criminal_Court_arrest_warrants_for_Israeli_leaders) [leaders](https://en.wikipedia.org/wiki/International_Criminal_Court_arrest_warrants_for_Israeli_leaders) by arresting Prime Minister [Benjamin Netanyahu](https://en.wikipedia.org/wiki/Benjamin_Netanyahu) if he visits New York City. During the [Democratic](https://en.wikipedia.org/wiki/2025_New_York_City_Democratic_mayoral_primary) [primaries,](https://en.wikipedia.org/wiki/2025_New_York_City_Democratic_mayoral_primary) Mamdani was endorsed by prominent [progressive](https://en.wikipedia.org/wiki/Progressivism_in_the_United_States) politicians, including [Bernie Sanders](https://en.wikipedia.org/wiki/Bernie_Sanders) and [Alexandria Ocasio-Cortez.](https://en.wikipedia.org/wiki/Alexandria_Ocasio-Cortez) On June 24, 2025, Mamdani
 
-## ![](_page_0_Picture_8.jpeg)
 
 ## Mamdani in 2025
 
@@ -85,7 +83,6 @@ In October 2019, Mamdani announced his campaign to represent [New York's 36th St
 
 Mamdani is a member of the DSA's nine-member "State
 
-## ![](_page_2_Picture_11.jpeg)
 
 Mamdani at the Resist Fascism Rally in [Bryant Park](https://en.wikipedia.org/wiki/Bryant_Park) (October 27, 2024)
 
@@ -99,7 +96,6 @@ As a member of the Assembly, Mamdani helped to launch a successful fare-free bus
 
 ## **2025 New York City mayoral campaign**
 
-## ![](_page_3_Picture_7.jpeg)
 
 ## Mamdani mayoral campaign logo
 
@@ -113,7 +109,6 @@ Also on June 16, the editorial board of *[The New York Times](https://en.wikiped
 
 For most of the campaign, Mamdani trailed Cuomo in polling. While he and Cuomo raised similar amounts of money, his donor base was considerably larger than Cuomo's[.\[71\]](#page-19-3) However, a poll taken shortly before the June 24 primary election showed that Mamdani had caught up to Cuomo.[\[72\]](#page-19-4) [First-choice](https://en.wikipedia.org/wiki/Ranked_voting) results on election night showed Mamdani had a large lead over Cuomo,[\[73\]](#page-19-5)[\[74\]](#page-19-6) who conceded the race to Mamdani that evening[.\[75\]](#page-19-7)
 
-## ![](_page_4_Picture_4.jpeg)
 
 ## Volunteers for Mamdani
 

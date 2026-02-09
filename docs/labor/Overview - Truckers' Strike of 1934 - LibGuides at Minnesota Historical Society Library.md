@@ -15,7 +15,6 @@ tags:
 
 ~2 minutes
 
-## ![](_page_0_Picture_6.jpeg)
 
 This strike, also known as the Minneapolis Teamsters' Strike was one of the most violent in the state's history, and a major battle in Minnesota's "civil war" of the 1930s between business and labor. A non-union city, Minneapolis business leaders had successfully kept unions at bay but by 1934, unions were gaining strength as advocates of workers for improved wages and better working conditions. By early May 1934, one of the worst years of the Great Depression, General Drivers Local 574 of the International Brotherhood of Teamsters (IBT) had organized 3,000 transportation workers of the trucking industry into an industrial union. When employers refused to
 

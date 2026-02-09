@@ -10,9 +10,6 @@ tags:
 
 ## Brooke Binkowski
 
-8–10 minutes
-
-## ![](_page_0_Picture_6.jpeg)
 
 ## Fact Check
 
@@ -26,7 +23,6 @@ The modern policing system in the United States originated from patrols intended
 
 As controversy raged over racially motivated violence and law enforcement policies in the United States, a persistent rumor regarding the origins of 21st-century policing appeared online. It showed up, as such things tend to do, in meme form:
 
-## ![](_page_1_Picture_8.jpeg)
 
 But how accurate is this? And where did the concept of police as de facto executors of justice (rather than peacekeepers) originate?
 

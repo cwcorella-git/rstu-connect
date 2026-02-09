@@ -7,7 +7,6 @@ tags:
   - unions
 ---
 
-## ![](_page_0_Picture_2.jpeg)
 
 Luiz Inácio Lula da Silva (Brazilian Portuguese: [\[lu](https://en.wikipedia.org/wiki/Help:IPA/Portuguese)ˈi[z](https://en.wikipedia.org/wiki/Help:IPA/Portuguese) iˈ[nasju](https://en.wikipedia.org/wiki/Help:IPA/Portuguese) ˈ[lul](https://en.wikipedia.org/wiki/Help:IPA/Portuguese)[ɐ](https://en.wikipedia.org/wiki/Help:IPA/Portuguese) d[ɐ](https://en.wikipedia.org/wiki/Help:IPA/Portuguese) ˈ[siwv](https://en.wikipedia.org/wiki/Help:IPA/Portuguese)ɐ] [ⓘ](https://en.wikipedia.org/wiki/File:Pt-Luiz_Inacio_Lula_da_Silva.ogg); born Luiz Inácio da Silva; 27 October 1945),[\[1\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-Britannica-1) also known as Lula da Silva or simply Lula, is a Brazilian politician who is the 39th and incumbent [President of Brazil](https://en.wikipedia.org/wiki/President_of_Brazil) since 2023. A member of the [Workers'](https://en.wikipedia.org/wiki/Workers%27_Party_(Brazil)) [Party,](https://en.wikipedia.org/wiki/Workers%27_Party_(Brazil)) Lula was also the 35th president from 2003 to 2010. He also holds the presidency of the [G20](https://en.wikipedia.org/wiki/G20) since 2023.
 
@@ -19,7 +18,6 @@ In July 2017, Lula was convicted on charges of [money laundering](https://en.wik
 
 ### [His Excellency](https://en.wikipedia.org/wiki/Excellency) Luiz Inácio Lula da Silva
 
-## ![](_page_0_Picture_9.jpeg)
 
 ## Official portrait, 2023
 
@@ -131,7 +129,6 @@ unionist |
 | Website | lula.com.br (http://lul
 a.com.br) |
 
-## ![](_page_2_Picture_12.jpeg)
 
 Lula lost his left pinky in a workrelated accident when he was a metalworker in 1974
 
@@ -151,7 +148,6 @@ In 1989, Lula ran for president as the PT candidate. Lula advocated immediate la
 
 Lula ran again for president, and lost again, in the next two Brazilian elections. Former [PSDB](https://en.wikipedia.org/wiki/PSDB) Minister of Finance [Fernando Henrique Cardoso](https://en.wikipedia.org/wiki/Fernando_Henrique_Cardoso) defeated Lula who received only 27% of the vote in the presidential elections in [1994,](https://en.wikipedia.org/wiki/1994_Brazilian_general_election) and again, by an even wider margin, as Lula garnered only 32% of the vote in [1998.](https://en.wikipedia.org/wiki/1998_Brazilian_general_election)
 
-## ![](_page_3_Picture_10.jpeg)
 
 Lula speaking at the plenary of the [Chamber](https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Brazil) [of Deputies,](https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Brazil) 1989
 
@@ -171,11 +167,9 @@ Very few of the reforms that Lula proposed were actually implemented during Lula
 
 A number of educational initiatives were launched during Lula's first presidency. A free school meals program was extended to 37 million pupils while a programme was launched which aimed to provide "whole or partial remission of student fees for low-income students"[.\[13\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-story-13) In 2006, primary education was extended from 8 to 9 years. A Fund for the Maintenance and Development of Basic Education was set up to improve the quality of education. The PED (an education development plan) conditioned the disbursement of public funds to state schools on the schools' performance.[\[45\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-45)
 
-## ![](_page_4_Picture_9.jpeg)
 
 Lula climbs ramp leading to the [Palácio do Planalto](https://en.wikipedia.org/wiki/Pal%C3%A1cio_do_Planalto) with Vice President [José Alencar](https://en.wikipedia.org/wiki/Jos%C3%A9_Alencar) for the offi[cial ceremony](https://en.wikipedia.org/wiki/Brazilian_presidential_inauguration) marking the beginning of their second term, 2007.
 
-## ![](_page_4_Picture_11.jpeg)
 
 Lula at the beginning of his first (left) and second (right) terms
 
@@ -187,7 +181,6 @@ Lula's top social program sought to eradicate hunger. It was financed by an incr
 
 Five months after Lula took office, however, the budget for Fome Zero was cut down a third from its original amount, and one year later, about \$800 million was budgeted toward the program, but only \$130 million of that was actually disbursed[.\[54\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-54) Lula's program was accused of having become more bark than bite, inasmuch as of May 2005, two years after the effort began, the program had fallen far short of expectations[.\[55\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-55)
 
-## ![](_page_5_Picture_4.jpeg)
 
 Lula speech in [Diadema](https://en.wikipedia.org/wiki/Diadema,_S%C3%A3o_Paulo) launching [subsidized housing](https://en.wikipedia.org/wiki/Subsidized_housing) and [Bolsa Família](https://en.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia) credits, 2005.
 
@@ -215,15 +208,12 @@ Prior to taking office, Lula had been a critic of [privatization.](https://en.wi
 
 At the same time, in 2010 The Wall Street Journal noted that: "[Brazil's] [public sector](https://en.wikipedia.org/wiki/Public_sector) is bloated and riddled with corruption. Crime is rampant. Its infrastructure is badly in need of repair and expansion. The business environment is restrictive, with a labor code ripped from the pages of [Benito](https://en.wikipedia.org/wiki/Benito_Mussolini)
 
-## ![](_page_6_Picture_9.jpeg)
 
 Lula on a visit to the [Brazilian](https://en.wikipedia.org/wiki/Brazilian_Aluminium_Company) [Aluminium Company,](https://en.wikipedia.org/wiki/Brazilian_Aluminium_Company) 2006
 
-## ![](_page_6_Picture_11.jpeg)
 
 Chief of staff [José Dirceu,](https://en.wikipedia.org/wiki/Jos%C3%A9_Dirceu) Lula, and finance minister [Antonio](https://en.wikipedia.org/wiki/Antonio_Palocci) [Palocci,](https://en.wikipedia.org/wiki/Antonio_Palocci) 2003
 
-## ![](_page_7_Picture_2.jpeg)
 
 Lula and his wife [Marisa Letícia](https://en.wikipedia.org/wiki/Marisa_Let%C3%ADcia_Lula_da_Silva) review troops during the 2007 [Independence Day](https://en.wikipedia.org/wiki/Independence_Day_(Brazil)) military parade.
 
@@ -259,7 +249,6 @@ He travelled to more than 80 countries during his presidency[.\[100\]](https://e
 
 From 2003 to 2010, Lula embraced China as central to reforming what he considered an unjust global order[.\[101\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-auto11-101) He intertwined the Chinese and Brazilian economies[.\[102\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-102)[\[103\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-103)[\[101\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-auto11-101) Lula stated Brazil's commitment to the One China principle that is the position held by the [People's Republic of China](https://en.wikipedia.org/wiki/People%27s_Republic_of_China) and the ruling [Chinese Communist Party,](https://en.wikipedia.org/wiki/Chinese_Communist_Party) saying that the government of the People's Republic of China was the sole legal government representing the whole of China, including [Taiwan](https://en.wikipedia.org/wiki/Taiwan) -- as part of China.[\[104\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-104)
 
-## ![](_page_8_Picture_10.jpeg)
 
 Lula and Cuban leader [Fidel](https://en.wikipedia.org/wiki/Fidel_Castro) [Castro,](https://en.wikipedia.org/wiki/Fidel_Castro) 2003
 
@@ -279,15 +268,12 @@ In 2009, Lula warmly hosted Iranian president [Ahmadinejad,](https://en.wikipedi
 
 In May 2010, Lula and Turkey's prime minister [Recep Tayyip Erdo](https://en.wikipedia.org/wiki/Recep_Tayyip_Erdo%C4%9Fan)ğan negotiated a preliminary fuel swap agreement with the Iranian government on [uranium enrichment,](https://en.wikipedia.org/wiki/Uranium_enrichment) that ultimately failed.[\[122\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-auto19-122) The preliminary agreement that they presented to the United Nations was at odds with what the [International Atomic Energy Agency](https://en.wikipedia.org/wiki/International_Atomic_Energy_Agency) and other countries viewed as
 
-## ![](_page_9_Picture_9.jpeg)
 
 Lula and Syrian President [Bashar al-Assad,](https://en.wikipedia.org/wiki/Bashar_al-Assad) 2003
 
-## ![](_page_9_Picture_11.jpeg)
 
 Lula with [President of Russia](https://en.wikipedia.org/wiki/President_of_Russia) [Vladimir Putin,](https://en.wikipedia.org/wiki/Vladimir_Putin) 2005
 
-## ![](_page_9_Picture_13.jpeg)
 
 Lula and Venezuelan President [Hugo Chavez,](https://en.wikipedia.org/wiki/Hugo_Chavez) 2005
 
@@ -297,11 +283,9 @@ necessary actions to stop Iran from obtaining [weapons grade](https://en.wikiped
 
 Brazil, as a non-permanent member of the [UN Security Council,](https://en.wikipedia.org/wiki/UN_Security_Council) abstained from the vote authorising "all necessary measures" against Libya's [Muammar Gadda](https://en.wikipedia.org/wiki/Muammar_Gaddafi)fi. [\[127\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-auto38-127) It opposed the [bombing in Libya](https://en.wikipedia.org/wiki/2011_military_intervention_in_Libya) to implement [United Nations Security Council Resolution 1973.](https://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_1973)[\[127\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-auto38-127) Lula said: "These invasions only happen because the United Nations is weak."[\[127\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-auto38-127)
 
-## ![](_page_10_Picture_5.jpeg)
 
 Lula with Iranian president [Ahmadinejad,](https://en.wikipedia.org/wiki/Ahmadinejad) 2009
 
-## ![](_page_10_Picture_7.jpeg)
 
 Lula and Libyan President [Muammar Gadda](https://en.wikipedia.org/wiki/Muammar_Gaddafi)fi, 2009
 
@@ -327,15 +311,12 @@ In the 2005 Mensalão \$50 million vote-buying scandal, Brazilian attorney gener
 
 Among those convicted were [Jose Dirceu](https://en.wikipedia.org/wiki/Jose_Dirceu) (who was Lula's chief of staff and right-hand man from 2003 to 2005; he was sentenced to over 10 years in jail), and both the former head of Lula's Workers Party, [Jose](https://en.wikipedia.org/wiki/Jose_Genoino) [Genoino,](https://en.wikipedia.org/wiki/Jose_Genoino) and its treasurer, [Delubio Soares.](https://en.wikipedia.org/wiki/Delubio_Soares)[\[69\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-auto27-69)[\[139\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-139) Dirceu and officials [Luiz Gushiken](https://en.wikipedia.org/wiki/Luiz_Gushiken) and [Humberto Costa](https://en.wikipedia.org/wiki/Humberto_Costa) said that Lula was not involved. [Roberto Je](https://en.wikipedia.org/wiki/Roberto_Jefferson)fferson said that if Lula didn't "commit a crime by action, he committed it by omission."[\[140\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-140) But one of Lula's own party members, [Arlindo Chinaglia,](https://en.wikipedia.org/wiki/Arlindo_Chinaglia) alleged that Lula had been warned about the matter, and businessman [Marcos Valério,](https://en.wikipedia.org/wiki/Marcos_Val%C3%A9rio) who was sentenced to more than 40
 
-## ![](_page_11_Picture_9.jpeg)
 
 United States President [Barack](https://en.wikipedia.org/wiki/Barack_Obama) [Obama](https://en.wikipedia.org/wiki/Barack_Obama) greets Lula in the [Oval](https://en.wikipedia.org/wiki/Oval_Office) Offi[ce,](https://en.wikipedia.org/wiki/Oval_Office) 2009
 
-## ![](_page_11_Picture_11.jpeg)
 
 Lula with [Supreme Leader of](https://en.wikipedia.org/wiki/Supreme_Leader_of_Iran) [Iran](https://en.wikipedia.org/wiki/Supreme_Leader_of_Iran) [Ali Khamenei,](https://en.wikipedia.org/wiki/Ali_Khamenei) 2010
 
-## ![](_page_11_Picture_13.jpeg)
 
 Lula with Turkish Prime Minister [Recep Tayyip Erdo](https://en.wikipedia.org/wiki/Recep_Tayyip_Erdo%C4%9Fan)ğan negotiated a failed 2010 [Iran](https://en.wikipedia.org/wiki/Iran%27s_nuclear_fuel_swap) [nuclear fuel swap deal.](https://en.wikipedia.org/wiki/Iran%27s_nuclear_fuel_swap)
 
@@ -353,17 +334,14 @@ Before a [G-20 summit](https://en.wikipedia.org/wiki/G-20_summit) in London in M
 
 When Italian far-left terrorist [Cesare Battisti](https://en.wikipedia.org/wiki/Cesare_Battisti_(1954)) of the [Armed Proletarians for Communism,](https://en.wikipedia.org/wiki/Armed_Proletarians_for_Communism) wanted for four murders, was arrested in Rio de Janeiro in March 2007 by Brazilian and French police officers, Brazilian Minister of Justice [Tarso Genro](https://en.wikipedia.org/wiki/Tarso_Genro) granted him status as a political refugee. It was a controversial decision, which divided Italy and the Brazilian and international press. In February 2009, the [European Parliament](https://en.wikipedia.org/wiki/European_Parliament) adopted a resolution in support of Italy, and held a minute's silence in memory of Battisti's victims. In November 2009, the Brazilian Supreme Court declared the grant of refugee status illegal and allowed Battisi's extradition, but also stated that the Brazilian constitution gave the president the personal power to deny the extradition if he chose to, effectively putting the final decision in the hands of Lula.[\[147\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-147)
 
-## ![](_page_12_Picture_9.jpeg)
 
 Lula with [BRIC](https://en.wikipedia.org/wiki/BRIC) leaders from Russia, China, and India, 2010
 
-## ![](_page_12_Picture_11.jpeg)
 
 Lula and First Lady Marisa Letícia in the [Palácio da](https://en.wikipedia.org/wiki/Pal%C3%A1cio_da_Alvorada) [Alvorada](https://en.wikipedia.org/wiki/Pal%C3%A1cio_da_Alvorada)
 
 Lula barred Battisti's extradition.[\[148\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-148) On 31 December 2010, Lula's last day in office, his decision not to allow Battisti's extradition was officially announced. Battisti was released on 9 June 2011 from prison, after the Brazilian Constitutional Court denied Italy's request to extradite him. Italy planned to appeal to the [International Court of Justice](https://en.wikipedia.org/wiki/International_Court_of_Justice) in the Hague, saying Brazil had breached an extradition treaty.[\[149\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-149) Lula's successor,
 
-## ![](_page_13_Picture_2.jpeg)
 
 Terrorist [Cesare Battisti](https://en.wikipedia.org/wiki/Cesare_Battisti_(1954))
 
@@ -379,7 +357,6 @@ In 2014, Brazil began Operação Lava Jato (English: [Operation Car Wash\)](http
 
 In April 2015, the [Public Ministry](https://en.wikipedia.org/wiki/Public_Prosecutor%27s_Office_(Brazil)) of Brazil opened an investigation into allegations of infl[uence peddling](https://en.wikipedia.org/wiki/Influence_peddling) by Lula, which alleged that between 2011 and 2014 he had lobbied for government contracts in foreign countries for the [Odebrecht](https://en.wikipedia.org/wiki/Odebrecht) company and had also persuaded the Brazilian Development Bank to finance the projects in [Ghana,](https://en.wikipedia.org/wiki/Ghana) [Angola,](https://en.wikipedia.org/wiki/Angola) [Cuba,](https://en.wikipedia.org/wiki/Cuba) and the [Dominican Republic.](https://en.wikipedia.org/wiki/Dominican_Republic)[\[153\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-153) In June 2015, [Marcelo Odebrecht,](https://en.wikipedia.org/wiki/Marcelo_Odebrecht) president of Odebrecht, was arrested on charges that he had paid politicians \$230 million in bribes[.\[154\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-mo-154) Three other company executives were also arrested, as well as the chief executive of [Andrade Gutierrez,](https://en.wikipedia.org/wiki/Andrade_Gutierrez) another construction conglomerate.[\[155\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-155)
 
-## ![](_page_13_Picture_10.jpeg)
 
 ## Protests related to 2016 Lula's testimony
 
@@ -391,7 +368,6 @@ On 28 July 2016, Lula filed a petition with the [United Nations Human Rights Com
 
 On 14 September 2016, prosecutors filed corruption charges against Lula, accusing him of being the mastermind or 'maximum commander of the scheme'[.\[171\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-171) On 19 September 2016, 13th Circuit [\(Paraná\)](https://en.wikipedia.org/wiki/Paran%C3%A1_(state)) federal judge [Sergio Moro,](https://en.wikipedia.org/wiki/Sergio_Moro) who was leading the corruption probe, accepted an indictment for money laundering against Lula and his wife [Marisa Letícia Lula da Silva.](https://en.wikipedia.org/wiki/Marisa_Let%C3%ADcia_Lula_da_Silva) On 11 May 2017, Lula answered a summons by appearing in [Curitiba](https://en.wikipedia.org/wiki/Curitiba) and was questioned by Moro. The closed-court hearing lasted five hours. Thousands of Lula supporters went to Curitiba, together with Dilma Rousseff. After the hearing, Lula and Rousseff gave speeches to his supporters; Lula attacked what he called bias in the Brazilian media[.\[172\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-172)
 
-## ![](_page_14_Picture_5.jpeg)
 
 Demonstrators gather in front of the [Palácio do Planalto,](https://en.wikipedia.org/wiki/Pal%C3%A1cio_do_Planalto) the presidential palace, to protest against Lula's appointment as Chief of Staff [of the Presidency,](https://en.wikipedia.org/wiki/Chief_of_Staff_of_Brazil) 16 March 2016.
 
@@ -401,7 +377,6 @@ Lula was found guilty by the lower court of accepting R\$3.7 million in bribes (
 
 On 25 January 2018, the Appeal Court of Porto Alegre found Lula guilty of corruption and money laundering and increased his sentence to 12 years of priso[n\[177\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-177) for one of the nine charges, while the other eight were still pending. On 26 March 2018, that same court upheld its own sentence, thus ending the case in that court[.\[178\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-178)
 
-## ![](_page_14_Picture_10.jpeg)
 
 Lula is sworn in as Chief of Staff by President [Dilma Rousse](https://en.wikipedia.org/wiki/Dilma_Rousseff)ff on 17 March 2016.
 
@@ -455,11 +430,9 @@ In response to a petition from Lula, the [UN Human Rights Committee](https://en.
 
 In a 26 August poll, Lula had 39 percent of vote intentions within one month of the first round. The same opinion polling put Lula ahead of all his challengers in a second round run-off, including the nearest one, [PSL](https://en.wikipedia.org/wiki/Social_Liberal_Party_(Brazil)) candidate Jair Bolsonaro, by 52 to 32.[\[243\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-243)
 
-## ![](_page_17_Picture_10.jpeg)
 
 ## Lula, 2016
 
-## ![](_page_17_Picture_12.jpeg)
 
 Lula with Brazilian politicians [Manuela d'Ávila](https://en.wikipedia.org/wiki/Manuela_d%27%C3%81vila) and [Marcelo](https://en.wikipedia.org/wiki/Marcelo_Freixo) [Freixo,](https://en.wikipedia.org/wiki/Marcelo_Freixo) 2018
 
@@ -473,7 +446,6 @@ In May 2021, Lula said that he would run for a third term in the October 2022 ge
 
 On 2 October, in the first round vote, Lula was in first place with 48% of the electorate, qualifying for the second round with Bolsonaro, who received 43% of the votes. Lula was elected in the second round on 30 October with 50.89% of the vote, the smallest margin in the history of Brazil's presidential elections[,\[251\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-251) [\[252\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-252) three days after his 77th birthday. He became the first president of Brazil elected to three terms, the first since [Getúlio Vargas](https://en.wikipedia.org/wiki/Get%C3%BAlio_Vargas) to serve in non-consecutive terms, and the first to unseat an incumbent president. He was sworn in on 1 January 2023.[\[253\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-253)[\[254\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-254) At age 77, he was the oldest Brazilian president at the time of inauguration.[\[255\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-255)[\[256\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-256)[\[257\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-Boadle-257)
 
-## ![](_page_18_Picture_7.jpeg)
 
 Lula with [President of Argentina](https://en.wikipedia.org/wiki/President_of_Argentina) [Alberto Fernández,](https://en.wikipedia.org/wiki/Alberto_Fern%C3%A1ndez) 2022
 
@@ -497,7 +469,6 @@ In September 2023, Lula called Cuba a "victim" of an "illegal" [United States em
 
 In March 2023, Lula's administration allowed two [Iranian Navy](https://en.wikipedia.org/wiki/Iranian_Navy) warships, [forward base ship](https://en.wikipedia.org/wiki/Expeditionary_Mobile_Base) [IRIS](https://en.wikipedia.org/wiki/IRIS_Makran) [Makran](https://en.wikipedia.org/wiki/IRIS_Makran) and [frigate](https://en.wikipedia.org/wiki/Moudge-class_frigate) [IRIS](https://en.wikipedia.org/wiki/IRIS_Dena) [Dena](https://en.wikipedia.org/wiki/IRIS_Dena), to dock in Rio de Janeiro.[\[268\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-268)[\[269\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-269)[\[270\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-auto14-270) U. S. Ambassador to Brazil [Elizabeth Bagley](https://en.wikipedia.org/wiki/Elizabeth_Bagley) said that in the past the warships had facilitated terrorist activities, and US Senator [Ted Cruz](https://en.wikipedia.org/wiki/Ted_Cruz) said that "the docking of Iranian warships in Brazil is a dangerous development and a direct threat to the safety and security of Americans."[\[270\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-auto14-270)
 
-## ![](_page_19_Picture_7.jpeg)
 
 Lula and Chinese President [Xi](https://en.wikipedia.org/wiki/Xi_Jinping) [Jinping,](https://en.wikipedia.org/wiki/Xi_Jinping) April 2023
 
@@ -517,7 +488,6 @@ Lula has commented often on the [Russian invasion of Ukraine.](https://en.wikipe
 
 In May 2022, Lula placed blame on Ukrainian president [Volodymyr Zelenskyy](https://en.wikipedia.org/wiki/Volodymyr_Zelenskyy) for Russia's invasion of Ukraine, saying "This guy is as responsible as Putin for the war".[\[282\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-282) Lula also repeatedly attacked [NATO](https://en.wikipedia.org/wiki/NATO) and the [European Union](https://en.wikipedia.org/wiki/European_Union) as having caused the war. He accused NATO of "claiming for itself the right to install military bases in the vicinity of another country".[\[283\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-283) In April 2023, Lula declared after a state visit to China that "the [United States](https://en.wikipedia.org/wiki/United_States) needs to stop encouraging war and start talking about peace". U. S. [National](https://en.wikipedia.org/wiki/National_Security_Council) [Security Council](https://en.wikipedia.org/wiki/National_Security_Council) spokesman [John Kirby](https://en.wikipedia.org/wiki/John_Kirby_(admiral)) responded by accusing Lula of "parroting Russian and Chinese propaganda", describing his comments as "simply misguided" and "suggesting the United States and Europe are somehow not interested in peace, or that we share responsibility for the war".[\[284\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-284)
 
-## ![](_page_20_Picture_5.jpeg)
 
 Lula and Nicaraguan Foreign Minister Denis Moncada Colindres, January 2023
 
@@ -537,7 +507,6 @@ In February 2024, Saudi Ambassador to Brazil Faisal Ghulam participated in a rec
 
 Lula condemned the [Hamas attack on Israel](https://en.wikipedia.org/wiki/2023_Israel%E2%80%93Hamas_war) carried out on 7 October 2023[.\[299\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-299) On 11 October 2023, he called for a ceasefire in the [Israel–Hamas war,](https://en.wikipedia.org/wiki/2023_Israel%E2%80%93Hamas_war) stating, it was "urgently needed in defense of Israeli and Palestinian children".[\[300\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-300) Lula urged [Hamas](https://en.wikipedia.org/wiki/Hamas) to release [kidnapped](https://en.wikipedia.org/wiki/Kidnappings_during_the_2023_Israel%E2%80%93Hamas_war) Israeli children and Israel to stop bombing the [Gaza Strip](https://en.wikipedia.org/wiki/Gaza_Strip) and allow Palestinian children and their mothers to leave the war zone.[\[301\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-301) On 25 October 2023, Lula stated, "It's not a war, it's a [genocide"](https://en.wikipedia.org/wiki/Palestinian_genocide_accusation)[.\[302\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-302) On 18 February 2024, he drew comparisons to the [Nazi Holocaust.](https://en.wikipedia.org/wiki/The_Holocaust)[\[303\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-303) That same day, he was [accused of "blatant antisemitism"](https://en.wikipedia.org/wiki/Weaponization_of_antisemitism) by [Dani Dayan,](https://en.wikipedia.org/wiki/Dani_Dayan) the Chairman of [Yad Vashem,](https://en.wikipedia.org/wiki/Yad_Vashem) the World Holocaust Remembrance Center, for comparing Israel's actions to Adolf Hitler[.\[304\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-304) Brazil's ambassador to Israel [Frederico Meyer](https://en.wikipedia.org/wiki/Frederico_Meyer) was recalled after these comments, and
 
-## ![](_page_21_Picture_5.jpeg)
 
 Lula and Saudi Head of State in [Saudi Arabia,](https://en.wikipedia.org/wiki/Saudi_Arabia) 2023.
 
@@ -551,19 +520,16 @@ In April 2023, alluding to the support of the United States for Ukraine in the w
 
 Lula restored diplomatic ties that Brazil had cut off with Venezuela's [Nicolas Maduro](https://en.wikipedia.org/wiki/Nicolas_Maduro) government after 2018 elections that had been [condemned by critics as a sham.](https://en.wikipedia.org/wiki/Venezuelan_presidential_crisis) In March 2023, Lula refused to join 54 other nations and sign a United Nations declaration criticizing Venezuala's human rights abuses[.\[311\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-311) In May 2023 Lula met with Maduro in Brazil[.\[312\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-312)
 
-## ![](_page_21_Picture_12.jpeg)
 
 Lula and US President [Joe Biden](https://en.wikipedia.org/wiki/Joe_Biden) at the [White House](https://en.wikipedia.org/wiki/White_House) on 10 February 2023
 
 In May 2023, Lula warmly embraced and fully supported Venezuela's authoritarian leftist President [Nicolás](https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro) [Maduro.](https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro)[\[313\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-auto7-313) Lula dismissed charges against Maduro of [human rights](https://en.wikipedia.org/wiki/Human_rights) and [civil rights](https://en.wikipedia.org/wiki/Civil_rights) abuses as a political "constructed narrative.["\[128\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-auto8-128) Lula was criticized by Uruguay's President [Luis Lacalle Pou,](https://en.wikipedia.org/wiki/Luis_Lacalle_Pou) who said that the "worst thing we can do" is pretend there are no significant human rights problems in Venezuela, and by Chile's President [Gabriel Boric,](https://en.wikipedia.org/wiki/Gabriel_Boric) who said that Lula was making light of [human rights violations in](https://en.wikipedia.org/wiki/Human_rights_in_Venezuela) [Venezuela.](https://en.wikipedia.org/wiki/Human_rights_in_Venezuela)[\[313\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-auto7-313) Lula also criticized as "unjustified" [U. S. sanctions on Venezuela](https://en.wikipedia.org/wiki/Sanctions_during_the_Venezuelan_crisis) for its alleged human rights abuses, and criticized the United States for denying the legitimacy of Maduro, who the U. S. said had not allowed free elections[.\[314\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-314)[\[315\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-315)[\[316\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-316)
 
-## ![](_page_22_Picture_3.jpeg)
 
 Lula meeting with Venezuelan President [Nicolás Maduro,](https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro) May 2023
 
 #### Economy
 
-## ![](_page_22_Picture_6.jpeg)
 
 Lula and other BRICS leaders at the [15th BRICS Summit,](https://en.wikipedia.org/wiki/15th_BRICS_summit) August 2023, in Johannesburg.
 
@@ -577,7 +543,6 @@ In the first quarter of 2023 Brazilian economy grew by 1.9%. In the second quart
 
 #### Environment
 
-## ![](_page_23_Picture_4.jpeg)
 
 Launch of the [Global Biofuel](https://en.wikipedia.org/wiki/Global_Biofuel_Alliance) [Alliance](https://en.wikipedia.org/wiki/Global_Biofuel_Alliance) at the [2023 G20 New](https://en.wikipedia.org/wiki/2023_G20_New_Delhi_summit) [Delhi summit](https://en.wikipedia.org/wiki/2023_G20_New_Delhi_summit)
 
@@ -589,7 +554,6 @@ of January to the 8 of November 2023 decreased by 59% in comparison to the same 
 
 However, there are concerns that illegal loggers have partly moved their action from the Amazon rainforest to [Cerrado,](https://en.wikipedia.org/wiki/Cerrado) where the environmental destruction has increased.[\[334\]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva#cite_note-334)
 
-## ![](_page_23_Picture_10.jpeg)
 
 The [Amazon rainforest](https://en.wikipedia.org/wiki/Amazon_rainforest) near [Manaus,](https://en.wikipedia.org/wiki/Manaus) Brazil
 

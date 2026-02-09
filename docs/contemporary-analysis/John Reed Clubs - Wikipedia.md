@@ -11,13 +11,11 @@ tags:
 
 ## Contributors to Wikimedia projects
 
-21–26 minutes
 
 ### From Wikipedia, the free encyclopedia
 
 ## John Reed Club (JRC)
 
-## ![](_page_0_Picture_8.jpeg)
 
 [John Reed](https://en.wikipedia.org/wiki/John_Reed_(journalist)) c.1917 namesake of the John Reed Club
 
@@ -52,7 +50,6 @@ Pass, and Joseph Pass[.\[1\]](#page-20-0)
 
 According to [Alan M. Wald,](https://en.wikipedia.org/wiki/Alan_M._Wald) The John Reed Clubs were not founded by the Communist Party. New Masses managing editor Walt Carmon became frustrated with a group of young writers who were hanging out in the office and getting in his way[.\[5\]](#page-21-0) He told them to "go out and form a club" and "call it the John Reed Club.["\[5\]](#page-21-0) The John Reed Clubs would be a constant source of drama within the New Masses family, and members of the Clubs would eventually found the [Partisan Review](https://en.wikipedia.org/wiki/Partisan_Review), which became a main competitor to the New Masses.
 
-![](_page_2_Picture_4.jpeg)
 
 [New Masses](https://en.wikipedia.org/wiki/New_Masses) cover by [Hugo Gellert](https://en.wikipedia.org/wiki/Hugo_Gellert) (May 1926)
 
@@ -62,7 +59,6 @@ The radical artists and writers of New York have organized the John Reed Club. T
 
 In cooperation with workers groups and cultural organizations, discussion, literary evenings, and exhibits will be organized. Hopefully, the organization will be national in scope... For the first time, a group of socially conscious creative workers has been organized in America to compare with existing groups in Europe. Steps have been taken to make immediate contact with writers, artists, and all creative workers in France, Germany, Russia, and Japan.[\[6\]](#page-21-1)
 
-![](_page_3_Picture_3.jpeg)
 
 [Mike Gold](https://en.wikipedia.org/wiki/Mike_Gold) (here, 1930s before crowd in New York City) was a prominent JRC co-founder
 
@@ -228,7 +224,6 @@ In July 1930, Harry Alan Potemkin, JRC secretary, reported in the New Masses tha
 
 By November 1930, although originally politically independent, the JRC and the [New Masses](https://en.wikipedia.org/wiki/New_Masses) officially affiliated with the Communist Party. This turn coincided with the JRC's participation in the Kharkov Conference of the [International](https://en.wikipedia.org/wiki/International_Union_of_Revolutionary_Writers) [Union of Revolutionary Writers](https://en.wikipedia.org/wiki/International_Union_of_Revolutionary_Writers) (IURW), November 6–15, 1930. The joint JRC-New Masses delegation included: Mike Gold, A. B. Magil, Fred Ellis, William Gropper, Harry Potamkin, Josephine Herbst, and John Herrmann. The conference led to a ten-point "Program of Action" to promote proletarian literature as an important part of promoting Marxism[.\[1\]](#page-20-0)
 
-![](_page_11_Picture_4.jpeg)
 
 [John Dos Passos](https://en.wikipedia.org/wiki/John_Dos_Passos) was a prominent writer and JRC member
 
@@ -266,7 +261,6 @@ During the 1932 national convention, the JRCs announced the opening of a "John R
 
 By 1933, the New York chapter had 380 members, of whom some 200 were artists and the rest writers. The only paid job was secretary-treasurer at \$15 per week[.\[1\]](#page-20-0)
 
-![](_page_14_Picture_4.jpeg)
 
 [Whittaker Chambers](https://en.wikipedia.org/wiki/Whittaker_Chambers) (here in 1948) was a member of the JRC's 1932 National Executive Board
 
@@ -285,7 +279,6 @@ The 1932 national convention elected the following JRC officers from various cha
 - Charles Natterstad (Seattle)
 - Jan Wittenber (Chicago[\)\[10\]](#page-21-5)
 
-![](_page_15_Picture_9.jpeg)
 
 [Meridel Le Sueur](https://en.wikipedia.org/wiki/Meridel_Le_Sueur) (between writers [Audre Lorde](https://en.wikipedia.org/wiki/Audre_Lorde) left and [Adrienne Rich](https://en.wikipedia.org/wiki/Adrienne_Rich) right in Austin, Texas, in 1980) was a JRC member
 
@@ -332,7 +325,6 @@ Between 1929 and 1936, some 46 proletarian novels were published, in no small pa
 
 - John Reed Club Art School Catalogue, 1934-1935 (1934[\)\[1\]](#page-20-0)
 
-![](_page_18_Picture_3.jpeg)
 
 [Eitaro Ishigaki](https://en.wikipedia.org/wiki/Eitaro_Ishigaki) (~1940 from [Archives of American Art\)](https://en.wikipedia.org/wiki/Archives_of_American_Art) was a JRC co-founder
 

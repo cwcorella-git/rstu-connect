@@ -9,13 +9,11 @@ tags:
 
 The Wayback Machine - https://web.archive.org/web/20250915112307/https://www.whatgamesare.com/2011/01/surfing-from-the-back-of-the-wa…
 
-## ![](_page_0_Picture_2.jpeg)
 
 [Featured](https://web.archive.org/web/20250915112307/https://www.whatgamesare.com/featured-posts.html) [Glossary](https://web.archive.org/web/20250915112307/https://www.whatgamesare.com/glossary.html) [About](https://web.archive.org/web/20250915112307/https://www.whatgamesare.com/about.html) [Consulting](https://web.archive.org/web/20250915112307/https://www.whatgamesare.com/consulting.html)
 
 ## **Surfing At The Back Of The Wave [Resonance]**
 
-## ![](_page_0_Picture_5.jpeg)
 
 The business mind relies on numbers. Numbers are proof, numbers indicate whether something is real, and so numbers help to guide strategy. What people coming into the games business from the outside often do is try to treat it like a normal business. They want to measure trends, take baby steps, and only take chances when they are sure that they are onto something.
 
@@ -29,7 +27,6 @@ It is hard for anyone to square themselves against risk, but working at the back
 
 The risk in games is to trust in talent rather than numbers. It's adopting new [platforms](https://web.archive.org/web/20250915112307/http://whatgamesare.com/2010/12/platform-shift-what-games-will-be.html) *before* they have achieved their potential, building marketing stories that are *passionate*, and *committing* before proof. Games are an art, like music and TV, and the uncertainties that come with any kind of art business are in games as well. They are simply how life is.
 
-## ![](_page_1_Picture_0.jpeg)
 
 You can't surf from the back of the wave. All you're doing is paddling.
 
@@ -47,7 +44,6 @@ Posted on 05 January 2011 | [Permalink](https://web.archive.org/web/202509151123
 
 You can follow this conversation by subscribing to the [comment feed](https://web.archive.org/web/20250915112307/https://www.whatgamesare.com/2011/01/surfing-from-the-back-of-the-wave-resonance/comments/atom.xml) for this post.
 
-## ![](_page_1_Picture_9.jpeg)
 
 Enjoy your blog...
 
@@ -65,7 +61,6 @@ Again, enjoy reading your stuff!
 
 Posted by: Krister | [05 January 2011 at 05:57 PM](https://web.archive.org/web/20250915112307/https://www.whatgamesare.com/2011/01/surfing-from-the-back-of-the-wave-resonance.html?cid=6a0120a8f8e2b8970b0148c7582f0f970c#comment-6a0120a8f8e2b8970b0148c7582f0f970c)
 
-## ![](_page_1_Picture_18.jpeg)
 
 That's a great comment Krister, thanks.
 

@@ -710,7 +710,6 @@ Consequently, the said elements (later referred to as Motivational Affordances, 
 
 Wolterstorff – Thesis for Master of Science – Sustainable Development/Utrecht University
 
-## ![](_page_39_Picture_7.jpeg)
 
 ## ~15~
 
@@ -1030,7 +1029,6 @@ An element of a service, system or object that motivates a spectator to engage w
 
 Deterding (2011) also argues further that Motivational Affordances is not only the most researched and substantiated theory of intrinsic motivation, called Self-Determination Theory (Ryan and Deci 2000), but also has been widely applied to the realm of video-games, it has not yet internalised the transfer of positive emotions and other sources of satisfaction into the real world and the context and situation the game is located in. Gamification can thus only be applied effectively where the situation and environment in which the gamification is embedded is not in opposition to the emotions that are created in the environment: "Their focus is by-and-large limited to the properties of the game artifact, ignoring the impact of the social situation or context in which the artifact is engaged with." (Deterding 2011, 2) Master Thesis
 
-## ![](_page_61_Picture_1.jpeg)
 
 ## ~28~
 
@@ -1181,7 +1179,6 @@ Looking at the way Deterding posits the environment into the picture, the evolut
 
 ## Master Thesis
 
-## ![](_page_69_Picture_2.jpeg)
 
 ## ~32~
 
@@ -1260,9 +1257,6 @@ Wolterstorff – Thesis for Master of Science – Sustainable Development/Utrech
 
 ## IGUF
 
-## ![](_page_74_Picture_4.jpeg)
-
-## ![](_page_74_Picture_6.jpeg)
 
 ## ~36~
 
@@ -1326,9 +1320,6 @@ Meerkats share many of the behaviours and characteristics in real life that the 
 
 There are a number of qualities that are unique to Meerkats. These are: Individual vulnerability, collective resilience, climate exposure and permanent atten-tiveness & mindfulness. We want to reproduce these values in the users and Master Thesis
 
-## ![](_page_78_Picture_1.jpeg)
-
-## ![](_page_78_Picture_2.jpeg)
 
 ## ~38~
 
@@ -1422,7 +1413,6 @@ being. This attribute allows reflection about your healthiness. Real-life action
 
 Wolterstorff – Thesis for Master of Science – Sustainable Development/Utrecht University
 
-## ![](_page_84_Picture_0.jpeg)
 
 ## ~41~
 
@@ -1442,7 +1432,6 @@ Economic resilience and ability to use resources skilfully and efficiently. This
 
 ## Master Thesis
 
-## ![](_page_87_Picture_1.jpeg)
 
 ## ~42~
 
@@ -2814,9 +2803,6 @@ In Mc Leod's research there are two important insights for the Mindful Meerkats'
 
 4) Self-perception regarding the social domain, i.e. personality and overlap between player and avatar sociality has a great impact on perceived similarity, but not such a great impact on identification. Yet, identification with the avatar was Wolterstorff – Thesis for Master of Science – Sustainable Development/Utrecht University
 
-## ![](_page_183_Picture_0.jpeg)
-
-## ![](_page_184_Picture_0.jpeg)
 
 ## ~97~
 
@@ -3063,7 +3049,6 @@ Given that these are merely the directly visible Design Lessons, i.e. Deductions
 
 ## Master Thesis
 
-## ![](_page_199_Picture_2.jpeg)
 
 ## ~106~
 

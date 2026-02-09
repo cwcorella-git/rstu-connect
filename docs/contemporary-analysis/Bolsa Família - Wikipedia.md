@@ -9,7 +9,6 @@ tags:
   - wikipedia
 ---
 
-## ![](_page_0_Picture_2.jpeg)
 
 Bolsa Família (Portuguese pronunciation: [ˈ[bows](https://en.wikipedia.org/wiki/Help:IPA/Portuguese)ɐ [f](https://en.wikipedia.org/wiki/Help:IPA/Portuguese)ɐˈmi[ʎɐ](https://en.wikipedia.org/wiki/Help:IPA/Portuguese)], Family Allowance) is the current [social welfare](https://en.wikipedia.org/wiki/Social_welfare_provision) program of the [Government of Brazil,](https://en.wikipedia.org/wiki/Federal_government_of_Brazil) part of the [Fome Zero](https://en.wikipedia.org/wiki/Fome_Zero) network of federal assistance programs. Bolsa Família provided financial aid to poor Brazilian families. In order to be eligible, families had to ensure that children attend school and get [vaccinated.](https://en.wikipedia.org/wiki/Vaccination) If they exceeded the total of permitted school absences, they were dropped from the program and their funds were suspended. The program attempted to both reduce short-term poverty by direct [cash transfers](https://en.wikipedia.org/wiki/Welfare_benefit) and fight long-term poverty by increasing [human capital](https://en.wikipedia.org/wiki/Human_capital) among the poor through [conditional cash transfers.](https://en.wikipedia.org/wiki/Conditional_Cash_Transfer) It also worked to give free education to children who couldn't afford to go to school, to show the importance of education.[\[1\]](https://en.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia#cite_note-LAW-1) In 2008, [The Economist](https://en.wikipedia.org/wiki/The_Economist) described Bolsa Família as an "anti-poverty scheme invented in Latin America [which] is winning converts worldwide."[\[2\]](https://en.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia#cite_note-HAPPYFAMILIES-2) The program was a centerpiece of former president [Luiz Inácio Lula da Silva'](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva)s social policy and is reputed to have played a role in his victory in the [general election of 2006.](https://en.wikipedia.org/wiki/Brazilian_general_election,_2006)[\[3\]](https://en.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia#cite_note-3) Bolsa Família was the largest conditional cash transfer program in the world, though the Mexican [Oportunidades](https://en.wikipedia.org/wiki/Oportunidades) was the first nationwide program of this kind[.\[4\]](https://en.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia#cite_note-SILENCIOSA-4)
 
@@ -17,11 +16,9 @@ Bolsa Família has been mentioned as one factor contributing to the reduction of
 
 In 2011, 26% of the Brazilian population were covered by the program[.\[10\]](https://en.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia#cite_note-10) As of 2020, the program covered 13.8 million families and paid an average of \$34 per month, in a country where the minimum wage is \$190 per month.[\[11\]](https://en.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia#cite_note-NPR_1-11)
 
-## ![](_page_0_Picture_7.jpeg)
 
 [Minister of Social Development](https://en.wikipedia.org/wiki/Minister_of_Social_Development_and_Hunger_Alleviation) [and Hunger Alleviation](https://en.wikipedia.org/wiki/Minister_of_Social_Development_and_Hunger_Alleviation) [Patrus](https://en.wikipedia.org/wiki/Patrus_Ananias) [Ananias](https://en.wikipedia.org/wiki/Patrus_Ananias) discussing the program
 
-## ![](_page_0_Picture_9.jpeg)
 
 Former President Lula giving a speech to recipients of Bolsa Família and other federal assistance programs in [Diadema, São Paulo](https://en.wikipedia.org/wiki/Diadema,_S%C3%A3o_Paulo)
 
@@ -43,11 +40,9 @@ Bolsa Família currently gives families with [per-capita monthly income](https:/
 
 ~US\$28) a monthly stipend of \$32 BRL (~US\$6) per vaccinated child (< 16 years old) attending school (up to 5), and \$38 BRL (~US\$8) per youth (16 or 17 years old) attending school (up to 2). Furthermore, to families whose per-capita monthly income below \$70 BRL (extreme poverty line,
 
-## ![](_page_1_Picture_11.jpeg)
 
 The family of Selma Ferreira was the first recipient of Bolsa Escola, a precursor to Bolsa Família enacted by Governor [Cristovam Buarque](https://en.wikipedia.org/wiki/Cristovam_Buarque) of the [Federal District](https://en.wikipedia.org/wiki/Distrito_Federal_(Brazil)) in 1995.
 
-## ![](_page_1_Picture_13.jpeg)
 
 ## Program logo
 
@@ -63,7 +58,6 @@ Brazil has a strong federal system defined as the resource base of states, the p
 
 Cash transfer programs had previously existed in the Cardoso administration - Bolsa Escola, Bolsa Alimentação, Auxílio Gás. Most of these early programs faced internal organization challenges. Bolsa Escola was superior to other programs because it applied to all citizens and both supported and was associated with education.
 
-## ![](_page_2_Picture_8.jpeg)
 
 Central to the beneficiaries of Bolsa Família in [Feira de Santana,](https://en.wikipedia.org/wiki/Feira_de_Santana) [Bahia](https://en.wikipedia.org/wiki/Bahia)
 

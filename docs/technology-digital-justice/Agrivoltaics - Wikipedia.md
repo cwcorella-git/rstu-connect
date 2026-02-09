@@ -8,7 +8,6 @@ tags:
   - digital rights
 ---
 
-## ![](_page_0_Picture_2.jpeg)
 
 Agrivoltaics (agrophotovoltaics, agrisolar, or dual-use solar) is the dual use of land for [solar energy](https://en.wikipedia.org/wiki/Solar_energy) production and [agriculture.](https://en.wikipedia.org/wiki/Agriculture)[\[2\]](https://en.wikipedia.org/wiki/Agrivoltaics#cite_note-:1-2)[\[3\]](https://en.wikipedia.org/wiki/Agrivoltaics#cite_note-agriPV-3) The technique was conceived by [Adolf Goetzberger](https://en.wikipedia.org/wiki/Adolf_Goetzberger) and Armin Zastrow in 1981[.\[4\]](https://en.wikipedia.org/wiki/Agrivoltaics#cite_note-:3-4) Agrivoltaics includes multiple methods of combining agriculture with photovoltaics, according to the agricultural activity, including plants, livestock, greenhouses, and pollinator support.[\[5\]](https://en.wikipedia.org/wiki/Agrivoltaics#cite_note-:4-5)
 
@@ -27,11 +26,9 @@ The three basic types are:[\[2\]](https://en.wikipedia.org/wiki/Agrivoltaics#cit
 - Interleaved arrays and crops
 - Arrays elevated above crops/livestock
 
-## ![](_page_0_Picture_13.jpeg)
 
 [Vertical solar panels,](https://en.wikipedia.org/wiki/Solar_panel#Vertical_bifacial_solar_array) east to west orientation, with [bifacial](https://en.wikipedia.org/wiki/Bifacial_solar_cells) [modules](https://en.wikipedia.org/wiki/Bifacial_solar_cells) near [Donaueschingen,](https://en.wikipedia.org/wiki/Donaueschingen) [Germany.](https://en.wikipedia.org/wiki/Donaueschingen)[\[1\]](https://en.wikipedia.org/wiki/Agrivoltaics#cite_note-1)
 
-## ![](_page_0_Picture_15.jpeg)
 
 Sheep under solar panels in [Lanai,](https://en.wikipedia.org/wiki/Lanai) Hawaii
 
@@ -41,7 +38,6 @@ All three systems have several variables used to maximize solar energy absorbed 
 
 In their initial 1982 paper, Goetzberger and Zastrow published a number of ideas on how to optimise agrivoltaic installations.[\[4\]](https://en.wikipedia.org/wiki/Agrivoltaics#cite_note-:3-4)
 
-## ![](_page_1_Picture_5.jpeg)
 
 [Vertical](https://en.wikipedia.org/wiki/Solar_panel#Vertical_bifacial_solar_array) [bifacial](https://en.wikipedia.org/wiki/Bifacial_solar_cells) solar arrays on farm field 3D sketch
 
@@ -59,7 +55,6 @@ The most conventional systems install fixed solar panels on agricultural [greenh
 
 Vertically mounted agrivoltaic systems with [bifacial photovoltaic modules](https://en.wikipedia.org/wiki/Bifacial_solar_cells) systems have been developed. Most agricultural fences can be used for vertical agrivoltaics[.\[10\]](https://en.wikipedia.org/wiki/Agrivoltaics#cite_note-sm1-10) Overall, at least one PV module between posts is acceptable for most fences for \$0.035/k Wh for racking on existing fencing in the U. S.; although the yield for a vertical PV is only 76% facing south, the racking cost savings enable fence-retrofit agrivoltaics to
 
-## ![](_page_1_Picture_15.jpeg)
 
 ## Tomatoes under solar panels in Dornbirn, Austria often produce lower [levelized cost electricity.](https://en.wikipedia.org/wiki/Levelized_cost_of_electricity)[\[10\]](https://en.wikipedia.org/wiki/Agrivoltaics#cite_note-sm1-10) For fence PV, microinverters had better performance when the cross-over fence length was under 30 m or when the system was small, whereas string inverters were a better selection for longer fences[.\[11\]](https://en.wikipedia.org/wiki/Agrivoltaics#cite_note-11) Simulation results show that the row distance between bifacial photovoltaic module structures significantly affects the photosynthetically active radiation distribution.[\[9\]](https://en.wikipedia.org/wiki/Agrivoltaics#cite_note-auto1-9) Next2Sun has commercialized vertical agrivoltaic systems in Europe.[\[12\]](https://en.wikipedia.org/wiki/Agrivoltaics#cite_note-12) Open-source vertical wood-based PV racking has been designed for farm[s\[13\]](https://en.wikipedia.org/wiki/Agrivoltaics#cite_note-mv1-13) that is (i) constructed from locally accessible (domestic) renewable and sustainable materials, (ii) able to be made with hand tools by the average farmer on site, (iii) possesses a 25-year lifetime to match PV warranties, and (iv) is structurally sound, following Canadian building codes to weather high wind speeds and heavy snow loads. The results showed that the capital cost of the racking system is less expensive than the commercial equivalent and all of the previous wood-based rack designs, at a single unit retail cost of CAD 0.21[.\[13\]](https://en.wikipedia.org/wiki/Agrivoltaics#cite_note-mv1-13)
 

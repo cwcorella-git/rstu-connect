@@ -11,7 +11,6 @@ tags:
 
 ## Kale Gossen
 
-3–4 minutes
 
 Hi, I'm Kale. Today I want to clear up some misconceptions about relationship anarchy and commitment.
 

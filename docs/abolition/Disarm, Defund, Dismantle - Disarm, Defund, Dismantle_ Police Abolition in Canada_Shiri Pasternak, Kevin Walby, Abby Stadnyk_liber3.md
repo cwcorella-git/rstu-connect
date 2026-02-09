@@ -9,9 +9,6 @@ tags:
   - Canada
 ---
 
-## ![](_page_0_Picture_0.jpeg)
-
-## ![](_page_1_Picture_0.jpeg)
 
 Cover image for Disarm, Defund, Dismantle. The cover features an illustration of an old, out of use police car overgrown by weeds and large yellow flowers.
 
@@ -97,7 +94,6 @@ Cover design by Amber Williams-King Text design by DEEVE
 
 We acknowledge for their financial support of our publishing activities: the Government of Canada; the Canada Council for the Arts; and the Government of Ontario through the Ontario Arts Council, the Ontario Book Publishers Tax Credit program, and Ontario Creates.
 
-## ![](_page_10_Picture_0.jpeg)
 
 # **Contents**
 
@@ -1060,7 +1056,6 @@ At the time of Alloura's disappearance, she was living between friends' places a
 
 Between July and November of 2017, Monica and our community at Maggie's launched a series of search parties, vigils, and demonstrations in her name. We took it upon ourselves to do this work because local police were so quick to mock and dismiss Alloura's case. They cited her homelessness and her background in sex work, and discussed her "lifestyle" choices in thinly veiled, dismissive remarks that are all too familiar to sex workers looking to be taken seriously by law enforcement, political leaders, and other social service sectors.
 
-## ![](_page_111_Picture_0.jpeg)
 
 Toronto-based artist Donelle Fraser, who created art for the #Justice For Alloura Campaign, sold these prints to help raise funds for the search, memorial service, and burial. Photo: Maggie's Toronto
 
@@ -1074,7 +1069,6 @@ Our weekly search parties grew quickly. In the first week, three of us from Magg
 
 On November 6, five months after her initial disappearance, Toronto police caved to public pressure and issued a missing persons report. A short while later a community member, Rebecca, contacted Maggie's with news that she'd discovered a body in the Rosedale Valley and contacted police. The police did not issue a news release when the body was reported and did not release details to the public, as they normally would. Their spokesperson at the time maintained that they did this to gather evidence so that they could appeal to the public for assistance. Rebecca followed up multiple times with Toronto police to learn about developments, even reaching out to The 519 community centre on Church Street, who promised to have staff investigate. The 519 did not follow up with Rebecca or our community.
 
-## ![](_page_114_Picture_0.jpeg)
 
 Alloura's photo is displayed at her memorial service at Sanctuary, Toronto, November 2017. Photo: Maggie's Toronto
 
@@ -1102,7 +1096,6 @@ We believe in abolition because we recognize that the institution of policing wa
 
 Sex workers have been challenging police brutality and demanding abolition for decades. From the Stonewall riots, to feminist organizing and the Black Lives Matter movement, our communities, specifically QT/BICOC sex workers, have been deeply invested in creating, building, and growing modern struggles against the carceral state. More often than not, we build these struggles locally off of our own time, energy, and resources. We take on the billion-dollar force that is the Toronto Police Service as well as multi-million-dollar "rescue" industries, using our personal resources to ensure that no one gets left behind. At Maggie's, we began street outreach in the early 1980s, using dollars from sex work to fund safe sex and drug use supplies for communities in Toronto's downtown east. That program continues nearly forty years later, providing sex workers with harm reduction supplies in a moment where crises around housing, homelessness, and overdose deaths converge. We refuse to let our communities be disappeared through police violence and the criminal justice system, just as we refuse to let our communities be disappeared through the violence of poverty, capitalism, gentrification, and displacement. We disrupt those processes through our outreach and harm reduction work, through extensive mutual aid networks, campaigns for decriminalization, and individual advocacy for sex workers in our communities.
 
-## ![](_page_119_Picture_0.jpeg)
 
 Monica Forrester of Maggie's Toronto talks to the press at the 2018 Trans March. Maggie's led the march as part of the Pride Toronto festivities in memory of Alloura Wells. Photo: Maggie's Toronto
 
@@ -1288,7 +1281,6 @@ As sex work activists, we want to build sex worker power and end violence. To do
 
 ## ![](_page_144_Figure_0.jpeg)
 
-## ![](_page_146_Picture_0.jpeg)
 
 Even if witnesses are protected from possession charges, they still have reason to fear the police.
 
@@ -1300,15 +1292,6 @@ Even if witnesses are protected from possession charges, they still have reason 
 
 ## ![](_page_150_Figure_1.jpeg)
 
-## ![](_page_152_Picture_0.jpeg)
-
-## ![](_page_152_Picture_1.jpeg)
-
-## ![](_page_152_Picture_2.jpeg)
-
-## ![](_page_152_Picture_3.jpeg)
-
-## ![](_page_152_Picture_4.jpeg)
 
 Research by Janet Butler-Mc Phee and Sandra Ka Hon Chu of the HIV Legal Network, and Emily van der Meulen from Ryerson University.
 
@@ -1318,9 +1301,6 @@ Support for this comic was provided by the Office of the Dean of Arts at Ryerson
 
 ## comic by Hugh Goldring and nicole marie burton
 
-## ![](_page_152_Picture_9.jpeg)
-
-## ![](_page_152_Picture_10.jpeg)
 
 # **Troubling Police and Social Work Collaborations**
 

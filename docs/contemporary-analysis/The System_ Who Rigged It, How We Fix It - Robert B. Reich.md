@@ -8,7 +8,6 @@ tags:
   - current-events
 ---
 
-## ![](_page_0_Picture_1.jpeg)
 
 WHO RIGGED IT,
 ## HOW WE FIX IT
@@ -33,7 +32,6 @@ WHO RIGGED IT,
 
 ## Robert B. Reich
 
-## ![](_page_2_Picture_3.jpeg)
 
 #### THIS IS A BORZOI BOOK PUBLISHED BY ALFRED A. KNOPF
 
@@ -1278,7 +1276,6 @@ Jamie Dimon profiles and news reports drawn from *Bloomberg News, Forbes, Fortun
 
 Robert B. Reich is currently Chancellor's Professor of Public Policy at the Goldman School of Public Policy at the University of California, Berkeley, and a senior fellow at the Blum Center for Developing Economies. He has served in three national administrations, including as secretary of labor under President Bill Clinton. He has written seventeen books, including the best sellers *The Common Good*, *Saving Capitalism, Aftershock, Supercapitalism,* and *The Work of Nations,* which has been translated into twenty-two languages. He is co-creator of the 2017 Netflix original documentary *Saving Capitalism* and of the awardwinning 2013 film *Inequality for All.* He is co-founder of Inequality Media, co-founder of the Economic Policy Institute, and cofounding editor of *The American Prospect.* He is a fellow of the American Academy of Arts and Sciences.
 
-## ![](_page_152_Picture_0.jpeg)
 
 #### Wat's next on your reading list?
 

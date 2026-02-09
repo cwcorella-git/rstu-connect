@@ -11,13 +11,9 @@ tags:
 
 ismatu gwendolyn
 
-13–17 minutes
 
 **I want to be able to talk about drugs without fanfare, especially as it relates to revolutionary thought, intent, and action.**
 
-## ![](_page_0_Picture_7.jpeg)
-
-## ![](_page_1_Picture_2.jpeg)
 
 sugar or cocaine? the world may never know | Photo by [Rob Wicks](https://unsplash.com/@robwicks?ref=threadings.io) on [Unsplash](https://unsplash.com/?ref=threadings.io)
 
@@ -58,7 +54,6 @@ i like drugs. I think we should use drugs. I think that the ways that drugs chan
 
 It is imperative that we know what our addictions are so that we know where we're most likely to be exploited. I am a US-American and thus it's important that I know what I am addicted to and why. I need to know where I am susceptible to being exploited so that I avoid falling victim to medicating instead of seeing the world clearly. **Every United States citizen is addicted to pretending things are better than they are. The drug of denial is the only way we can go about our day.** I just spent too much money on vegan ice cream (that doesn't even taste good) because come sundown all I want to do is eat until I pass out on the couch. What did I just learn about myself? What does grief compel me to do and to buy? How do I stay vigilant of those desires so that they're not exploiting me into supporting genocide with my dollars? I am also seeing how much I am addicted to being helpful. How much I overload myself with work and trudge forward at maximum capacity all the time, out of…? Habit? Obligation? a smaller, braver voice in the back of my head: don't beat yourself up about the sugar, ismatu. Morality is useless in the face of addiction. What we want you to notice is the ringing satisfaction you get after completing a to-do list, ismatu. At receiving the applause of being useful, ismatu. Like the bell at the end of your mallet swing, lighting up the whole sky, alerting everyone of how hard you work. Your brain's reward system has been hijacked to value productivity above all things. Why are you working yourself this hard? Isn't this why you left private practice? How do you slow down? How do you come down?
 
-## ![](_page_8_Picture_3.jpeg)
 
 **The hardest part of revolutionary thought, intent, and action is the fact that struggle is protracted.**
 
@@ -80,11 +75,9 @@ PS. There's an entirely separate essay here on the crack cocaine epidemic being 
 
 [an essay I wanted to title, "If you see me hold up skinny tummy](https://www.threadings.io/care-infrastructure-online-wikipedia/) [tea smilin for a Nikon, gon' head and Of Mice and Men me. It's](https://www.threadings.io/care-infrastructure-online-wikipedia/) [been a good run." but that was too long. Introductions: Hello](https://www.threadings.io/care-infrastructure-online-wikipedia/) [and welcome to threadings., the newsletter and podcast where](https://www.threadings.io/care-infrastructure-online-wikipedia/) [where I te…](https://www.threadings.io/care-infrastructure-online-wikipedia/)
 
-## ![](_page_10_Picture_7.jpeg)
 
 #### [Threadings. Ismatu Gwendolyn](https://www.threadings.io/care-infrastructure-online-wikipedia/)
 
-## ![](_page_11_Picture_3.jpeg)
 
 - 1. but not limited to ↩
 - 2. cc: The Banana Wars. A great, short explainer video from [Cory](https://www.tiktok.com/t/ZT8k9Wd Ww/?ref=threadings.io) [Bradford](https://www.tiktok.com/t/ZT8k9Wd Ww/?ref=threadings.io) and this masterpiece [What's Good English.](https://www.tiktok.com/t/ZT8kxS2QV/?ref=threadings.io) ↩

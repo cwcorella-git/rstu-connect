@@ -8,13 +8,11 @@ tags:
   - resistance
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 ## ANIKA BINNENDIJK, MARTA KEPE
 
 ## Historical Precedents and Current Capabilities
 
-## ![](_page_0_Picture_4.jpeg)
 
 For more information on this publication, visit **www.rand.org/t/RRA198-3**.
 

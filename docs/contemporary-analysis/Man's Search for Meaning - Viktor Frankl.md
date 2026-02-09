@@ -11,9 +11,6 @@ tags:
 
 ## MORE THAN 12 MILLION CORES IN PRINT WORLDWIDE
 
-## ![](_page_1_Picture_0.jpeg)
-
-## ![](_page_1_Picture_1.jpeg)
 
 ## THE CLASSIC TRIBUTE TO HOPE FROM THE
 

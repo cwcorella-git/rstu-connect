@@ -11,7 +11,6 @@ tags:
 
 ## Erik Olin Wright
 
-## ![](_page_0_Picture_3.jpeg)
 
 # 1. Class analysis
 
@@ -33,31 +32,19 @@ A story from the Li'l Abner comic strips from the late 1940s will help to set th
 
 In the episode from *Li'l Abner* reproduced below, a manager working for a rich capitalist, P. U., does a study to identify the poorest place in America in order to hire the cheapest labor for a new factory. The place turns out to be Dogpatch. P. U. and the manager come to Dogpatch to recruit employees for the new factory. The story unfolds in the following sequence of comic strips from 1948 (Al Capp 1992: 134–136).
 
-## ![](_page_2_Picture_4.jpeg)
 
 ## ![](_page_2_Figure_5.jpeg)
 
 ## ![](_page_2_Figure_6.jpeg)
 
-## ![](_page_2_Picture_7.jpeg)
-
-## ![](_page_2_Picture_8.jpeg)
 
 ## ![](_page_2_Figure_9.jpeg)
 
 ## ![](_page_2_Figure_10.jpeg)
 
-## ![](_page_3_Picture_4.jpeg)
 
 ## ![](_page_3_Figure_5.jpeg)
 
-## ![](_page_3_Picture_6.jpeg)
-
-## ![](_page_3_Picture_7.jpeg)
-
-## ![](_page_3_Picture_8.jpeg)
-
-## ![](_page_3_Picture_9.jpeg)
 
 The presence of shmoos is thus a serious threat to both class relations and gender relations. Workers are more difficult to recruit for toilsome labor and no longer have to accept "guff" and indignities from their bosses. Women are no longer economically dependent on men and thus do not have to put up with sexist treatment.
 

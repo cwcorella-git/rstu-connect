@@ -7,7 +7,6 @@ tags:
   - anarchism
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 ## Ardent Press, 2010
 
@@ -3001,10 +3000,8 @@ Daria Zelenova, "Anti-Eviction Struggle of the Squatters Communities in Contempo
 
 Howard Zinn, *A People's History of the United States*. New York: Perennial Classics Edition, 1999.
 
-## ![](_page_291_Picture_0.jpeg)
 
 Anarchism is the boldest of revolutionary social movements 10 emerge from the struggle against capitalism-it aims for a world free from all forms of domination and exploitation. But al its heart is a simple and convincing proposition: people know how lo live their own lives and organize themselves better than any expert could. Others cynically claim that we need a government to protect us. They claim anarchy is impractical and utopian: it would never work. On the contrary, anarchist practice already has a long record, and has often worked quite well. The histories in this book show that an anarchist society can succeed at enabling all its members to meet their needs and desires.
 
 ## Ardent Press
 
-## ![](_page_291_Picture_3.jpeg)

@@ -16,7 +16,6 @@ Address rent now or
 homelessness later, lawmakers
 told
 Nevada Current
-8–11 minutes
 by Michael Lyle, Nevada Current
 When Kristine Schachinger moved to Nevada nearly two
 decades ago after being priced out of the Virginia rental

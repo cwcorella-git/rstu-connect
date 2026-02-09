@@ -8,7 +8,6 @@ tags:
   - capitalism
 ---
 
-## ![](_page_0_Picture_2.jpeg)
 
 Published [Thursday - February 12, 2025](https://hoodcommunist.org/2025/02/13/how-western-mental-health-reinforces-capitalism/)
 

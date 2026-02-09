@@ -28,9 +28,6 @@ The Future by Marc Augé The State of Insecurity: Government of the Precarious b
 
 ## Translated by Erik Butler
 
-## ![](_page_4_Picture_2.jpeg)
-
-## ![](_page_5_Picture_0.jpeg)
 
 The translation of this work was supported by a grant from the Goethe-Institut which is funded by the German Ministry of Foreign Affairs.
 

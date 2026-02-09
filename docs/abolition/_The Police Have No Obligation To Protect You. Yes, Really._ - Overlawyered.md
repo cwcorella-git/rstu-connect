@@ -13,7 +13,6 @@ tags:
 
 ## 14 Comments
 
-## ![](_page_0_Picture_7.jpeg)
 
 In cases such as [De Shaney v. Winnebago County](http://en.wikipedia.org/wiki/De Shaney_v._Winnebago_County) (1989) and [Castle Rock v.](http://en.wikipedia.org/wiki/Castle_Rock_v._Gonzales) [Gonzales](http://en.wikipedia.org/wiki/Castle_Rock_v._Gonzales) (2005), the Supreme Court has declined to put police and other public authorities under any general duty to protect individuals from crime. The decisions have been broadly unpopular, but Mike Mc Daniel at PJ Media [takes the Court's](http://pjmedia.com/blog/the-police-have-no-obligation-to-protect-you-yes-really/) [side](http://pjmedia.com/blog/the-police-have-no-obligation-to-protect-you-yes-really/) on policy grounds: "This [lack of a particularized duty] might seem absolutely outrageous, but it is logical, rational, and unquestionably necessary."
 

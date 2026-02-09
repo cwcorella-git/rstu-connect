@@ -8,13 +8,11 @@ tags:
   - Mexico
 ---
 
-## ![](_page_0_Picture_2.jpeg)
 
 The **Mexican–American War**, [\[a\]](#page-39-0) also known in the United States as the **Mexican War** and in Mexico as the **United States intervention in Mexico**, [\[b\]](#page-39-1) (April 25, 1846 – February 2, 1848) was an invasion of [Mexico](https://en.wikipedia.org/wiki/Second_Federal_Republic_of_Mexico) by the [United States](https://en.wikipedia.org/wiki/United_States_Army) [Army.](https://en.wikipedia.org/wiki/United_States_Army) It followed the 1845 American [annexation](https://en.wikipedia.org/wiki/Annexation_of_Texas) [of Texas,](https://en.wikipedia.org/wiki/Annexation_of_Texas) which Mexico still considered its territory because it refused to recognize the [Treaties of Velasco,](https://en.wikipedia.org/wiki/Treaties_of_Velasco) signed by President [Antonio](https://en.wikipedia.org/wiki/Antonio_L%C3%B3pez_de_Santa_Anna) [López de Santa Anna](https://en.wikipedia.org/wiki/Antonio_L%C3%B3pez_de_Santa_Anna) after he was captured by the [Texian Army](https://en.wikipedia.org/wiki/Texian_Army) during the 1836 [Texas Revolution.](https://en.wikipedia.org/wiki/Texas_Revolution) The [Republic of Texas](https://en.wikipedia.org/wiki/Republic_of_Texas) was *[de facto](https://en.wikipedia.org/wiki/De_facto)* an independent country, but most of its Anglo-American citizens who had moved from the United States to Texas after 1822 wanted to be annexed by the United States.[\[5\]](#page-40-0)[\[6\]](#page-40-1)
 
 Sectional politics over [slavery in the United States](https://en.wikipedia.org/wiki/Slavery_in_the_United_States) had previously prevented annexation because Texas would have been admitted as a slave state, upsetting the balance of power between Northern free states and Southern slave states.[\[7\]](#page-40-2) In the [1844](https://en.wikipedia.org/wiki/1844_United_States_presidential_election) [United States presidential election,](https://en.wikipedia.org/wiki/1844_United_States_presidential_election) Democrat [James K. Polk](https://en.wikipedia.org/wiki/James_K._Polk) was elected on a platform of expanding U. S. territory to [Oregon,](https://en.wikipedia.org/wiki/Oregon_Country) [California](https://en.wikipedia.org/wiki/California) (also a Mexican territory), and Texas by any means, with the 1845 annexation of Texas furthering that goal[.\[8\]](#page-40-3) However, the boundary between Texas and Mexico was disputed, with the Republic of Texas and the U. S. asserting it to be the [Rio Grande](https://en.wikipedia.org/wiki/Rio_Grande) and Mexico claiming it to be the more-northern [Nueces River.](https://en.wikipedia.org/wiki/Nueces_River) Polk sent a diplomatic mission to Mexico in an attempt to buy the disputed territory, together with California and everything in between for \$25 million (equivalent to \$779 million in 2023), an offer the Mexican government refused[.\[9\]](#page-40-4)[\[10\]](#page-40-5) Polk then sent a group of 80 soldiers across the disputed territory to the Rio Grande, ignoring Mexican demands to
 
-## ![](_page_0_Picture_7.jpeg)
 
 Clockwise from top: Winfi[eld Scott](https://en.wikipedia.org/wiki/Winfield_Scott) entering [Plaza de la Constitución](https://en.wikipedia.org/wiki/Z%C3%B3calo) after the [Fall of Mexico](https://en.wikipedia.org/wiki/Battle_for_Mexico_City) [City,](https://en.wikipedia.org/wiki/Battle_for_Mexico_City) U. S. soldiers engaging the retreating Mexican force during the [Battle of Resaca de la](https://en.wikipedia.org/wiki/Battle_of_Resaca_de_la_Palma) [Palma,](https://en.wikipedia.org/wiki/Battle_of_Resaca_de_la_Palma) U. S. victory [at Churubusco](https://en.wikipedia.org/wiki/Battle_of_Churubusco) outside of Mexico City, Marines [storming Chapultepec](https://en.wikipedia.org/wiki/Battle_of_Chapultepec) [castle](https://en.wikipedia.org/wiki/Battle_of_Chapultepec) under a large U. S. flag, [Battle of Cerro](https://en.wikipedia.org/wiki/Battle_of_Cerro_Gordo) [Gordo](https://en.wikipedia.org/wiki/Battle_of_Cerro_Gordo)
 
@@ -74,7 +72,6 @@ Neither colonial Mexico nor the newly sovereign Mexican state effectively contro
 
 The northern area of Mexico was sparsely settled because of its challenging climate and topography.[\[25\]](#page-42-0) Mostly high desert with scarce rainfall, it supported little sedentary agriculture during the pre-Hispanic and colonial periods.[\[26\]](#page-42-1) After independence, Mexico became preoccupied with internal struggles that sometimes verged on civil war, and the worsening situation on the northern frontier was largely neglected. In northern Mexico, the end of Spanish rule was marked by
 
-## ![](_page_3_Picture_9.jpeg)
 
 ## Comanches of West Texas in war regalia, c. 1830
 
@@ -146,7 +143,6 @@ Mexico was neither inclined nor able to negotiate. In 1846 alone, the presidency
 
 #### **Mexican Army**
 
-## ![](_page_8_Picture_3.jpeg)
 
 General [Antonio López de](https://en.wikipedia.org/wiki/Antonio_L%C3%B3pez_de_Santa_Anna) [Santa Anna](https://en.wikipedia.org/wiki/Antonio_L%C3%B3pez_de_Santa_Anna) was a military hero who became president of Mexico on multiple occasions. The Mexican Army's intervention in politics was an ongoing issue during much of the midnineteenth century.
 
@@ -168,7 +164,6 @@ There were significant political divisions in Mexico which seriously impeded the
 
 During the conflict, presidents held office for a period of months, sometimes just weeks, or even days. Just before the outbreak of the war, liberal General José Joaquín de Herrera was president (December 1844 – December 1845) and willing to engage in talks so long as he did not appear to be caving to the U. S., but he was accused by many Mexican factions of selling out his country (*vendepatria*) for considering it.[\[69\]](#page-44-9) He was overthrown by Conservative [Mariano Paredes](https://en.wikipedia.org/wiki/Mariano_Paredes_(President_of_Mexico)) (December 1845 – July 1846), who left the presidency to fight the invading U. S. Army and was replaced by his vice president [Nicolás Bravo](https://en.wikipedia.org/wiki/Nicol%C3%A1s_Bravo) (July 28, 1846 – August 4, 1846). The conservative Bravo was overthrown by federalist liberals who re-established the federal [Constitution of 1824.](https://en.wikipedia.org/wiki/1824_Constitution_of_Mexico) [José Mariano Salas](https://en.wikipedia.org/wiki/Jos%C3%A9_Mariano_Salas) (August 6, 1846 – December 23, 1846) served as president and held elections under the restored federalist system. General Antonio López de
 
-## ![](_page_9_Picture_7.jpeg)
 
 Liberal [Valentín Gómez](https://en.wikipedia.org/wiki/Valent%C3%ADn_G%C3%B3mez_Far%C3%ADas) [Farías,](https://en.wikipedia.org/wiki/Valent%C3%ADn_G%C3%B3mez_Far%C3%ADas) who served as Santa Anna's vice president and implemented a liberal reform in 1833, was an important political player in the era of the Mexican–American War.
 
@@ -186,7 +181,6 @@ Polk had pledged to seek expanded territory in Oregon and Texas, as part of his 
 
 The war was fought by regiments of regulars bolstered by various regiments, battalions, and companies of volunteers from the different states of the Union, as well as Americans and some Mexicans in California and New Mexico. In general, the Regular Army officers looked down on the volunteers, whose training was poor and whose behavior was undisciplined. (see below)
 
-## ![](_page_10_Picture_8.jpeg)
 
 U. S. Army full dress and campaign uniforms, 1835–1851
 
@@ -246,7 +240,6 @@ The Mexican forces prepared for war. On April 25, 1846, a 2,000-man Mexican cava
 
 A few days after the Thornton Affair, the [siege of Fort Texas](https://en.wikipedia.org/wiki/Siege_of_Fort_Texas) began on May 3, 1846. Mexican artillery at Matamoros opened fire on Fort Texas, which replied with its own guns. The bombardment continued for 160 hour[s\[91\]](#page-45-17) and expanded as Mexican forces gradually surrounded the fort. Thirteen U. S. soldiers were injured during the bombardment, and two were
 
-## ![](_page_13_Picture_8.jpeg)
 
 [Sarah A. Bowman](https://en.wikipedia.org/wiki/Sarah_A._Bowman) "The Great Western", depicted as the Heroine of Fort Brown. At her death, she was buried with full military honors.
 
@@ -300,11 +293,9 @@ Polk was generally able to manipulate Whigs into supporting appropriations for t
 
 Fellow Whig Lincoln contested Polk's causes for the war. Polk had said that Mexico had "shed American blood upon American soil". Lincoln submitted eight ["Spot Resolutions"](https://en.wikipedia.org/wiki/Spot_Resolutions), demanding that Polk state the exact
 
-## ![](_page_16_Picture_7.jpeg)
 
 [Abraham Lincoln](https://en.wikipedia.org/wiki/Abraham_Lincoln) in his late 30s as a [Whig](https://en.wikipedia.org/wiki/Whig_Party_(United_States)) member of the [U. S. House of](https://en.wikipedia.org/wiki/U. S._House_of_Representatives) [Representatives,](https://en.wikipedia.org/wiki/U. S._House_of_Representatives) when he opposed the Mexican– American War. The photo was taken by one of Lincoln's law students around 1846.
 
-## ![](_page_16_Picture_9.jpeg)
 
 Ex-slave and prominent antislavery advocate [Frederick](https://en.wikipedia.org/wiki/Frederick_Douglass) [Douglass](https://en.wikipedia.org/wiki/Frederick_Douglass) opposed the Mexican–American War.
 
@@ -322,7 +313,6 @@ Besides alleging that the actions of Mexican military forces within the disputed
 
 President Polk reprised these arguments in his Third Annual Message to Congress on December 7, 1847[.\[119\]](#page-47-1) He scrupulously detailed his administration's position on the origins of the
 
-## ![](_page_17_Picture_7.jpeg)
 
 Volunteers leaving for the Mexican War, Exeter, New Hampshire, daguerreotype by E. Punderson, ca.1846
 
@@ -332,7 +322,6 @@ conflict, the measures the U. S. had taken to avoid hostilities, and the justifi
 
 The Mexican–American War was the first U. S. war that was covered by [mass media,](https://en.wikipedia.org/wiki/Mass_media) primarily the [penny](https://en.wikipedia.org/wiki/Penny_press) [press,](https://en.wikipedia.org/wiki/Penny_press) and was the first foreign war covered primarily by U. S. correspondents.[\[120\]](#page-47-2) Press coverage in the
 
-## ![](_page_18_Picture_2.jpeg)
 
 ## War News from Mexico (1848)
 
@@ -358,7 +347,6 @@ Kearny and his troops encountered no Mexican forces when they arrived on August 
 
 Kearny then took the remainder of his army west to Alta California;[\[128\]](#page-47-10) he left Colonel [Sterling Price](https://en.wikipedia.org/wiki/Sterling_Price) in command of U. S. forces in New Mexico. He appointed [Charles Bent](https://en.wikipedia.org/wiki/Charles_Bent) as New Mexico's first territorial governor. Following Kearny's departure, dissenters in Santa Fe plotted a Christmas
 
-## ![](_page_19_Picture_5.jpeg)
 
 Gen. Kearny's annexation of [New Mexico Territory,](https://en.wikipedia.org/wiki/New_Mexico_Territory) August 15, 1846.
 
@@ -380,7 +368,6 @@ Word of Congress' declaration of war reached California by August 1846[.\[135\]]
 
 Frémont, leading a U. S. Army topographical expedition to survey the [Great Basin,](https://en.wikipedia.org/wiki/Great_Basin) entered [Sacramento Valley](https://en.wikipedia.org/wiki/Sacramento_Valley) in December 1845. [\[137\]](#page-48-5) Frémont's party was at [Upper Klamath Lake](https://en.wikipedia.org/wiki/Upper_Klamath_Lake) in the [Oregon](https://en.wikipedia.org/wiki/Oregon_Territory) [Territory](https://en.wikipedia.org/wiki/Oregon_Territory) when it received word that war between Mexico and the U. S. was imminent;[\[138\]](#page-48-6) the party then returned to California. [\[139\]](#page-48-7)
 
-## ![](_page_20_Picture_7.jpeg)
 
 [Battle of San Pasqual,](https://en.wikipedia.org/wiki/Battle_of_San_Pasqual) a Californio victory led by General [Andrés Pico](https://en.wikipedia.org/wiki/Andr%C3%A9s_Pico) against a superior American force led by General [Stephen W. Kearny.](https://en.wikipedia.org/wiki/Stephen_W._Kearny)
 
@@ -396,11 +383,9 @@ Stockton's army entered Los Angeles unopposed on August 13, whereupon he sent a 
 
 Captain William Mervine landed 350 sailors and Marines at San Pedro on October 7[.\[161\]](#page-48-29) They were ambushed and repulsed at the [Battle of Dominguez Rancho](https://en.wikipedia.org/wiki/Battle_of_Dominguez_Rancho) by Flores' forces in less than an hour.[\[162\]](#page-48-30) Four Americans died, with 8 severely injured. Stockton
 
-## ![](_page_21_Picture_5.jpeg)
 
 The [Battle of Río San Gabriel](https://en.wikipedia.org/wiki/Battle_of_R%C3%ADo_San_Gabriel) was a decisive victory of American forces against the [Californios](https://en.wikipedia.org/wiki/Californios) during the [U. S. conquest of California.](https://en.wikipedia.org/wiki/Conquest_of_California)
 
-## ![](_page_21_Picture_7.jpeg)
 
 The [Battle of La Mesa](https://en.wikipedia.org/wiki/Battle_of_La_Mesa) was the last battle fought between the Americans and Californio forces.
 
@@ -418,7 +403,6 @@ Entering the [Gulf of California,](https://en.wikipedia.org/wiki/Gulf_of_Califor
 
 A Mexican campaign under [Manuel Pineda Muñoz](https://en.wikipedia.org/wiki/Manuel_Pineda_Mu%C3%B1oz) to retake the various captured ports resulted in several small clashes and two sieges in which the Pacific Squadron ships provided artillery support. U. S. garrisons remained in control of the ports. Following reinforcement, Lt. Col. [Henry S. Burton](https://en.wikipedia.org/wiki/Henry_S._Burton) marched out. His forces rescued captured Americans, captured Pineda, and on March 31 defeated and dispersed remaining Mexican forces at the [Skirmish of Todos Santos,](https://en.wikipedia.org/wiki/Skirmish_of_Todos_Santos) unaware that the Treaty of Guadalupe Hidalgo had been signed in February 1848 and a truce agreed to on March 6. When the U. S. garrisons were evacuated to
 
-## ![](_page_22_Picture_6.jpeg)
 
 Reenactors in U. S. (left) and Mexican (right) uniforms of the period
 
@@ -436,11 +420,9 @@ American soldiers, including many West Point graduates, had never engaged in [ur
 
 On February 22, 1847, having heard of this weakness from the written orders found on an ambushed U. S. scout, Santa Anna seized the initiative and marched Mexico's entire army north to fight Taylor with 20,000 men, hoping to win a smashing victory
 
-## ![](_page_23_Picture_5.jpeg)
 
 The [Battle of Monterrey](https://en.wikipedia.org/wiki/Battle_of_Monterrey) September 20–24, 1846, after a painting by [Carl](https://en.wikipedia.org/wiki/Carl_Nebel) [Nebel](https://en.wikipedia.org/wiki/Carl_Nebel)
 
-## ![](_page_23_Picture_7.jpeg)
 
 ## Battle of Buena Vista before Scott could invade from the sea. The two armies met and fought the largest battle of the war at the [Battle of Buena Vista.](https://en.wikipedia.org/wiki/Battle_of_Buena_Vista) Taylor, with 4,600 men, had entrenched at a mountain pass called La Angostura, or "the narrows", several miles south of Buena Vista ranch. Santa Anna, having little logistics to supply his army, suffered desertions all the long march north and arrived with only 15,000 men in a tired state.
 
@@ -474,7 +456,6 @@ In 1847, the Maya revolted against the Mexican elites of the peninsula in a cast
 
 Rather than reinforce Taylor's army for a continued advance, President Polk sent a second army under General Winfield Scott. Polk had decided that the way to bring the war to an end was to invade the Mexican heartland from the coast. General Scott's army was transported to the port of Veracruz by sea to begin an invasion to take the Mexican capital, Mexico City.[\[197\]](#page-50-7) On March 9, 1847, Scott performed the first major amphibious landing in U. S. history in preparation for a siege[.\[198\]](#page-50-8) A group of 12,000 volunteer and regular soldiers successfully offloaded supplies, weapons, and horses near the walled city using specially designed landing crafts. Included in the invading force were several future generals: [Robert E. Lee,](https://en.wikipedia.org/wiki/Robert_E._Lee) [George Meade,](https://en.wikipedia.org/wiki/George_Meade) [Ulysses S.](https://en.wikipedia.org/wiki/Ulysses_S._Grant) [Grant,](https://en.wikipedia.org/wiki/Ulysses_S._Grant) [James Longstreet,](https://en.wikipedia.org/wiki/James_Longstreet) and [Thomas "Stonewall" Jackson.](https://en.wikipedia.org/wiki/Thomas_%22Stonewall%22_Jackson)
 
-## ![](_page_25_Picture_6.jpeg)
 
 ## The bombardment of Veracruz
 
@@ -502,7 +483,6 @@ The U. S. Army had expected a quick collapse of the Mexican forces. Santa Anna, 
 
 On May 1, 1847, Scott pushed on to [Puebla,](https://en.wikipedia.org/wiki/Puebla_(city)) the second-largest city in Mexico. The city capitulated without resistance. The Mexican defeat at Cerro Gordo had demoralized Puebla's inhabitants, and they worried about harm to their city and inhabitants. It was standard practice in warfare for victorious soldiers to be let loose to inflict horrors on civilian populations if they resisted; the threat of this was often used as a bargaining tool to secure surrender without a fight. Scott had orders which aimed to prevent his troops from such violence and atrocities. Puebla's ruling elite also sought to prevent violence, as did the Catholic Church, but Puebla's poor and working-class wanted to
 
-## ![](_page_26_Picture_11.jpeg)
 
 The [Battle of Molino del Rey](https://en.wikipedia.org/wiki/Battle_of_Molino_del_Rey)
 
@@ -512,7 +492,6 @@ defend the city. U. S. Army troops who strayed outside at night were often kille
 
 With guerrillas harassing his line of communications back to Veracruz, Scott decided not to weaken his army to defend Puebla but, leaving only a garrison at Puebla to protect the sick and injured recovering there, advanced on Mexico City on August 7 with his remaining force. The capital was laid open in a series of battles around the right flank of the city defenses, the [Battle of](https://en.wikipedia.org/wiki/Battle_of_Contreras) [Contreras](https://en.wikipedia.org/wiki/Battle_of_Contreras) and [Battle of Churubusco.](https://en.wikipedia.org/wiki/Battle_of_Churubusco) After Churubusco, fighting halted for an armistice and peace negotiations, which broke down on September 6, 1847. With the subsequent battles of [Molino del](https://en.wikipedia.org/wiki/Battle_of_Molino_del_Rey) [Rey](https://en.wikipedia.org/wiki/Battle_of_Molino_del_Rey) and of [Chapultepec,](https://en.wikipedia.org/wiki/Battle_of_Chapultepec) and the [storming of the city gates,](https://en.wikipedia.org/wiki/Battle_for_Mexico_City#Attacks_on_the_Bel%C3%A9n_and_San_Cosme_Gates) the capital was occupied. Scott became military governor of
 
-## ![](_page_27_Picture_5.jpeg)
 
 The [Battle of Chapultepec](https://en.wikipedia.org/wiki/Battle_of_Chapultepec)
 
@@ -528,7 +507,6 @@ In late September 1847, Santa Anna made one last attempt to defeat the U. S. Arm
 
 Following the capture of the capital, the Mexican government moved to the temporary capital at [Querétaro.](https://en.wikipedia.org/wiki/Quer%C3%A9taro) [\[209\]](#page-51-9) In Mexico City, U. S. forces became an army of occupation and subject to stealth attacks from the urban population.[\[209\]](#page-51-9) Conventional warfare gave way to guerrilla warfare by Mexicans defending their homeland. They inflicted significant casualties on the U. S. Army, particularly on soldiers slow to keep up[.\[210\]](#page-51-10)
 
-## ![](_page_28_Picture_2.jpeg)
 
 U. S. Army occupation of [Mexico City](https://en.wikipedia.org/wiki/Mexico_City) in 1847. The U. S. flag flying over the [National Palace,](https://en.wikipedia.org/wiki/National_Palace_(Mexico)) the seat of the Mexican government. Carl Nebel.
 
@@ -550,7 +528,6 @@ Hundreds of U. S. deserters went over to the Mexican side. Nearly all were recen
 
 Thousands of other U. S. soldiers simply deserted.[\[218\]](#page-52-4)[\[219\]](#page-52-5)
 
-## ![](_page_29_Picture_5.jpeg)
 
 [Battle of Churubusco](https://en.wikipedia.org/wiki/Battle_of_Churubusco) by J. Cameron, published by [Nathaniel Currier.](https://en.wikipedia.org/wiki/Nathaniel_Currier) Hand tinted lithograph, 1847. Digitally restored.
 
@@ -602,7 +579,6 @@ Could those Mexicans have seen into my heart at that moment, they would have kno
 
 Before the secession of Texas, Mexico comprised almost 1,700,000 sq mi (4,400,000 km2), but by 1849 it covered just under 800,000 square miles (2,100,000 km2). Another 30,000 square miles (78,000 km2) were sold to the U. S. in the Gadsden Purchase of 1853, a total reduction in Mexican territory of more than 55%, or 900,000 square miles (2,300,000 km2)[.\[244\]](#page-54-0) Although the annexed territory was about the size of Western Europe, it was sparsely populated. The land contained about 14,000 non-indigenous people in Alta California[\[245\]](#page-54-1) and about 60,000 in Nuevo México, [\[246\]](#page-54-2) as well as large Native nations, such as the [Papago,](https://en.wikipedia.org/wiki/Tohono_O%CA%BCodham_Nation) [Pima,](https://en.wikipedia.org/wiki/Akimel_O%27odham) Puebloan, Navajo, Apache and many others. Although some native people relocated farther south in Mexico, the great majority remained in the U. S. territory.
 
-## ![](_page_32_Picture_6.jpeg)
 
 The [Mexican Cession,](https://en.wikipedia.org/wiki/Mexican_Cession) shown in red, and the later [Gadsden Purchase,](https://en.wikipedia.org/wiki/Gadsden_Purchase) shown in yellow
 
@@ -632,7 +608,6 @@ Following the signing of the 1848 treaty, Polk sought to send troops to Yucatan,
 
 Many of the military leaders on both sides of the [American Civil War](https://en.wikipedia.org/wiki/American_Civil_War) of 1861–1865 had trained at the [U. S.](https://en.wikipedia.org/wiki/U. S._Military_Academy) [Military Academy](https://en.wikipedia.org/wiki/U. S._Military_Academy) at West Point and had fought as junior officers in Mexico. This list includes military men fighting for the Union: Ulysses S. Grant, [George B. Mc Clellan,](https://en.wikipedia.org/wiki/George_B._Mc Clellan) [William T. Sherman,](https://en.wikipedia.org/wiki/William_T._Sherman) George Meade, and [Ambrose Burnside.](https://en.wikipedia.org/wiki/Ambrose_Burnside) Military men who joined the Southern secessionists of the [Confederacy](https://en.wikipedia.org/wiki/Confederate_States_of_America) included Robert E. Lee, [Albert Sidney Johnston,](https://en.wikipedia.org/wiki/Albert_Sidney_Johnston) [Stonewall Jackson,](https://en.wikipedia.org/wiki/Stonewall_Jackson) James Longstreet, [Joseph E. Johnston,](https://en.wikipedia.org/wiki/Joseph_E._Johnston) [Braxton Bragg,](https://en.wikipedia.org/wiki/Braxton_Bragg) Sterling Price, and the future Confederate President Jefferson Davis. Both sides had leaders with significant experience in active combat, strategy, and tactics.
 
-## ![](_page_34_Picture_6.jpeg)
 
 Second lieutenant [Ulysses](https://en.wikipedia.org/wiki/Ulysses_S._Grant) [S. Grant](https://en.wikipedia.org/wiki/Ulysses_S._Grant)
 
@@ -652,7 +627,6 @@ Despite initial objections from the Whigs and from abolitionists, the Mexican wa
 
 Anti-slavery elements fought for the exclusion of slavery from any territory absorbed by the U. S[.\[269\]](#page-55-12) In 1847, the House of Representatives passed the Wilmot Proviso, stipulating that none of the territory acquired should be open to slavery. If successful, the Wilmot Proviso would have effectively cancelled out the 1820 [Missouri Compromise,](https://en.wikipedia.org/wiki/Missouri_Compromise) since it would have prohibited slavery in an area below the [parallel 36°30](https://en.wikipedia.org/wiki/Parallel_36%C2%B030%E2%80%B2_north)′ north. The Senate avoided the issue, and a late attempt to add it to the Treaty of Guadalupe Hidalgo was defeated because Southern Senators had the votes to prevent its addition. The House of Representatives is apportioned by population, and the North's was growing, allowing it to win the majority of the House in the 1846 elections; but the Senate representation is two per state and Southerners had enough votes to block the addition.
 
-## ![](_page_35_Picture_7.jpeg)
 
 "An Available Candidate: The One Qualification for a Whig President." Political cartoon about the 1848 presidential election, referring to [Zachary](https://en.wikipedia.org/wiki/Zachary_Taylor) [Taylor](https://en.wikipedia.org/wiki/Zachary_Taylor) or Winfi[eld Scott,](https://en.wikipedia.org/wiki/Winfield_Scott) the two leading contenders for the [Whig Party](https://en.wikipedia.org/wiki/Whig_Party_(United_States)) nomination in the aftermath of the Mexican–American War. Published by [Nathaniel](https://en.wikipedia.org/wiki/Nathaniel_Currier) [Currier](https://en.wikipedia.org/wiki/Nathaniel_Currier) in 1848, digitally restored.
 
@@ -674,7 +648,6 @@ During this time, [anti-Catholic](https://en.wikipedia.org/wiki/Anti-Catholic) s
 
 The most infamous incident occurred on October 9, 1847, after Captain [Samuel Hamilton Walker](https://en.wikipedia.org/wiki/Samuel_Hamilton_Walker) and 12 others were killed in a skirmish, Joseph Lane ordered his men to avenge the dead Texas
 
-## ![](_page_37_Picture_4.jpeg)
 
 Burial site of Lieutenant Colonel Henry Clay, Jr., taken by an unknown photographer during the Mexican– American war, c. 1847
 
@@ -694,11 +667,9 @@ Once the French were expelled in 1867 and the liberal republic was reestablished
 
 Annual commemorations at the cenotaph were attended by General Porfi[rio Díaz,](https://en.wikipedia.org/wiki/Porfirio_D%C3%ADaz) who saw the opportunity to build his relationship with the [Federal Army.](https://en.wikipedia.org/wiki/Federal_Army) Even during the [Mexican Revolution](https://en.wikipedia.org/wiki/Mexican_Revolution) (1910–1920), the commemoration was continued and attended by contemporary presidents. After the end of the military phase, the Mexican government renewed the narrative of the boy heroes as the embodiment of sacrifice for the patria. Plans were drawn up for a much larger commemoration of their sacrifice, which was built at the entrance to Mexico City's [Chapultepec Park.](https://en.wikipedia.org/wiki/Chapultepec_Park) The Monument to the Heroic Cadets was inaugurated in 1952. By then, the relations between the U. S. and Mexico had improved so much that they had been allies in World War II and their postwar economies became increasingly intertwined. Some war trophies taken by the U. S., such as Mexican battle flags, were returned to Mexico with considerable ceremony, but captured U. S. flags remain in Mexico.
 
-## ![](_page_38_Picture_6.jpeg)
 
 ## Obelisk to the Niños Héroes, Mexico City, 1881
 
-## ![](_page_38_Picture_8.jpeg)
 
 Memorial to the Mexican cadets killed in the [Battle of Chapultepec,](https://en.wikipedia.org/wiki/Battle_of_Chapultepec) 1952
 
@@ -716,11 +687,9 @@ Capitol grounds in 1927 and one erected in Los Angeles in 1950.
 
 [\[289\]](#page-57-3)
 
-## ![](_page_39_Picture_7.jpeg)
 
 [Palmetto Regiment](https://en.wikipedia.org/wiki/Palmetto_Regiment) Monument, State House grounds, Columbia, S. C. Wrought iron 1858. Sculptor: [Christopher Werner](https://en.wikipedia.org/wiki/Christopher_Werner)
 
-## ![](_page_39_Picture_9.jpeg)
 
 "American Army Entering the City of Mexico" by [Filippo Costaggini,](https://en.wikipedia.org/wiki/Filippo_Costaggini) 1885. Architect of the Capitol
 

@@ -9,13 +9,11 @@ tags:
   - wikipedia
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 **Fascism** (/ˈfæʃɪzə[m/](https://en.wikipedia.org/wiki/Help:IPA/English) *[FASH](https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key)-iz-*ə*m*) is a [far-right,](https://en.wikipedia.org/wiki/Far-right) [authoritarian,](https://en.wikipedia.org/wiki/Authoritarian) and [ultranationalist](https://en.wikipedia.org/wiki/Ultranationalist) political ideology and movement that rose to prominence in early-20th-century Europe.[\[1\]](#page-31-0)[\[2\]](#page-32-0)[\[3\]](#page-32-1) Fascism is characterized by support for a [dictatorial](https://en.wikipedia.org/wiki/Dictator) leader, centralized [autocracy,](https://en.wikipedia.org/wiki/Autocracy) [militarism,](https://en.wikipedia.org/wiki/Militarism) forcible suppression of [opposition](https://en.wikipedia.org/wiki/Opposition_(politics)), belief in a natural [social](https://en.wikipedia.org/wiki/Social_hierarchy) [hierarchy](https://en.wikipedia.org/wiki/Social_hierarchy), subordination of [individual](https://en.wikipedia.org/wiki/Individual) interests for the perceived interest of the [nation](https://en.wikipedia.org/wiki/Nation) or [race,](https://en.wikipedia.org/wiki/Race_(human_categorization)) and strong regimentation of society and the economy. [\[3\]](#page-32-1)[\[4\]](#page-32-2) Opposed to [communism,](https://en.wikipedia.org/wiki/Communism) [democracy](https://en.wikipedia.org/wiki/Democracy), [liberalism,](https://en.wikipedia.org/wiki/Liberalism) [pluralism](https://en.wikipedia.org/wiki/Pluralism_(political_philosophy)), and [socialism](https://en.wikipedia.org/wiki/Socialism), [\[5\]](#page-32-3)[\[6\]](#page-32-4) fascism is at the far-right of the traditional [left–right spectrum](https://en.wikipedia.org/wiki/Left%E2%80%93right_spectrum). [\[1\]](#page-31-0)[\[6\]](#page-32-4)[\[7\]](#page-32-5)
 
 The first fascist movements emerged [in Italy](https://en.wikipedia.org/wiki/Italian_fascism) during [World](https://en.wikipedia.org/wiki/World_War_I) [War I](https://en.wikipedia.org/wiki/World_War_I) before spreading to [other European countries,](https://en.wikipedia.org/wiki/Fascism_in_Europe) most notably [Germany.](https://en.wikipedia.org/wiki/Nazi_Germany) [\[1\]](#page-31-0) Fascism also had adherents outside of Europe.[\[8\]](#page-32-6) Fascists saw World War I as a [revolution](https://en.wikipedia.org/wiki/Revolution) that
 
-## ![](_page_0_Picture_4.jpeg)
 
 Benito [Mussolini](https://en.wikipedia.org/wiki/Benito_Mussolini), dictator of [Italy](https://en.wikipedia.org/wiki/Kingdom_of_Italy) (left), and [Adolf](https://en.wikipedia.org/wiki/Adolf_Hitler) Hitler, dictator of [Germany](https://en.wikipedia.org/wiki/Nazi_Germany) (right), were notable fascist leaders.
 
@@ -31,7 +29,6 @@ The Italian term *fascismo* is derived from *fascio*, meaning 'bundle of sticks'
 
 Prior to 1914, the fasces symbol was widely employed by various political movements, often of a left-wing or liberal persuasion. For instance, according to Robert Paxton, ["Marianne](https://en.wikipedia.org/wiki/Marianne), symbol of the French Republic, was often portrayed in the nineteenth century carrying the
 
-## ![](_page_1_Picture_4.jpeg)
 
 The [fasces](https://en.wikipedia.org/wiki/Fasces), a symbol of [Ancient](https://en.wikipedia.org/wiki/Ancient_Rome) Rome, was employed in the modern era by various political movements to denote strength through unity.
 
@@ -84,7 +81,6 @@ Scholars place fascism on the [far right](https://en.wikipedia.org/wiki/Far_righ
 
 Fascism's origins are complex and include many seemingly contradictory viewpoints, ultimately centered on a mythos of national rebirth from decadence.[\[65\]](#page-34-13) Fascism was founded during [World War I](https://en.wikipedia.org/wiki/World_War_I) by Italian [national syndicalists](https://en.wikipedia.org/wiki/National_syndicalists) who drew
 
-## ![](_page_4_Picture_4.jpeg)
 
 Pro-government demonstration in [Salamanca,](https://en.wikipedia.org/wiki/Salamanca) [Francoist](https://en.wikipedia.org/wiki/Francoist_Spain) Spain, in 1937. [Francisco](https://en.wikipedia.org/wiki/Francisco_Franco) Franco was later labeled by some commentators the "last surviving fascist dictator". [\[62\]](#page-34-10)
 
@@ -114,11 +110,9 @@ Plato supported many similar political positions to fascism.[\[93\]](#page-35-5)
 
 Historians such as [Irene Collins](https://en.wikipedia.org/wiki/Irene_Collins) and Howard C. Payne see [Napoleon III,](https://en.wikipedia.org/wiki/Napoleon_III) who ran a 'police state' and suppressed the media, as a forerunner of fascism.[\[97\]](#page-35-9) According to [David Thomson,](https://en.wikipedia.org/wiki/David_Thomson_(historian)) [\[98\]](#page-35-10) the Italian [Risorgimento](https://en.wikipedia.org/wiki/Risorgimento) of 1871 led to the 'nemesis of fascism'. [William L](https://en.wikipedia.org/wiki/William_L_Shirer) Shirer[\[99\]](#page-35-11) sees a continuity from the views of [Fichte](https://en.wikipedia.org/wiki/Fichte) and [Hegel,](https://en.wikipedia.org/wiki/Hegel) through [Bismarck,](https://en.wikipedia.org/wiki/Otto_von_Bismarck) to Hitler; [Robert](https://en.wikipedia.org/wiki/Robert_Gerwarth) [Gerwarth](https://en.wikipedia.org/wiki/Robert_Gerwarth) speaks of a 'direct line' from Bismarck to Hitler. [\[100\]](#page-35-12) Julian Dierkes sees fascism as a 'particularly violent form of [imperialism'](https://en.wikipedia.org/wiki/Imperialism).[\[101\]](#page-35-13)
 
-## ![](_page_6_Picture_4.jpeg)
 
 Bust of the ancient Greek philosopher [Plato](https://en.wikipedia.org/wiki/Plato), whose works were admired by Mussolini [\[86\]](#page-34-34)
 
-## ![](_page_6_Picture_6.jpeg)
 
 Depiction of a Greek Hoplite warrior; ancient [Sparta](https://en.wikipedia.org/wiki/Sparta) has been considered an inspiration for fascist and quasifascist movements, such as [Nazism](https://en.wikipedia.org/wiki/Nazism) and quasifascist [Metaxism](https://en.wikipedia.org/wiki/Metaxism)[\[87\]](#page-34-35)
 
@@ -134,7 +128,6 @@ In his work *The Ruling Class* (1896), [Gaetano Mosca](https://en.wikipedia.org/
 
 [French nationalist](https://en.wikipedia.org/wiki/French_nationalist) and [reactionary](https://en.wikipedia.org/wiki/Reactionary) monarchist [Charles Maurras](https://en.wikipedia.org/wiki/Charles_Maurras) influenced fascism.[\[113\]](#page-35-25) Maurras promoted what he called [integral nationalism,](https://en.wikipedia.org/wiki/Integral_nationalism) which called for the organic unity of a nation, and insisted that a powerful monarch was an ideal leader of a nation. Maurras distrusted what he considered the democratic mystification of the [popular will](https://en.wikipedia.org/wiki/General_will) that created an impersonal collective subject.[\[113\]](#page-35-25) He claimed that a powerful monarch was a personified sovereign who could exercise authority to unite a nation's people.[\[113\]](#page-35-25) Fascists idealized Maurras' integral nationalism, but modified into a modernized revolutionary form - devoid of Maurras' [monarchism.](https://en.wikipedia.org/wiki/Monarchism) [\[113\]](#page-35-25)
 
-## ![](_page_7_Picture_4.jpeg)
 
 French revolutionary [syndicalist](https://en.wikipedia.org/wiki/Syndicalist) [Georges Sorel](https://en.wikipedia.org/wiki/Georges_Sorel) (1847-1922) promoted the legitimacy of [political violence](https://en.wikipedia.org/wiki/Political_violence) in his work *[Reflections on Violence](https://en.wikipedia.org/wiki/Reflections_on_Violence)* (1908) and in other works in which he advocated radical syndicalist action to achieve a revolution to overthrow capitalism and the bourgeoisie through a [general strike](https://en.wikipedia.org/wiki/General_strike). [\[114\]](#page-35-26) In *Reflections on Violence*, Sorel emphasized need for a revolutionary [political religion.](https://en.wikipedia.org/wiki/Political_religion) [\[115\]](#page-35-27) Also in his work *The Illusions of Progress* (1908), Sorel denounced democracy as reactionary, stating that "nothing is more aristocratic than democracy".[\[116\]](#page-35-28) By 1909, after the failure of a syndicalist general strike in France, Sorel and his supporters left the radical left and went to the radical right, where they sought to merge militant Catholicism and French patriotism with their views—advocating anti-republican Christian French patriots as ideal revolutionaries.[\[117\]](#page-35-29) Initially, Sorel had officially been a [revisionist](https://en.wikipedia.org/wiki/Revisionism_(Marxism)) of Marxism, but by 1910 he had announced his abandonment of socialist literature. In 1914, using an aphorism of [Benedetto Croce](https://en.wikipedia.org/wiki/Benedetto_Croce), he claimed that "socialism is dead" because of the "decomposition of Marxism".[\[118\]](#page-35-31) Sorel began to support reactionary Maurrassian nationalism beginning in 1909, and this influenced his works.[\[118\]](#page-35-31) Maurras held interest in merging his nationalist ideals with Sorelian [syndicalism,](https://en.wikipedia.org/wiki/Syndicalism) known as [Sorelianism](https://en.wikipedia.org/wiki/Sorelianism), as a means to confront democracy. [\[119\]](#page-35-32) Maurras stated, "A socialism liberated from the democratic and cosmopolitan element fits nationalism well as a well made glove fits a beautiful hand."[\[120\]](#page-35-33)
 
@@ -144,7 +137,6 @@ The ANI had ties and influence among [conservatives](https://en.wikipedia.org/wi
 
 [Futurism](https://en.wikipedia.org/wiki/Futurism) was both an artistic-cultural movement and initially a political movement in Italy led by [Filippo Tommaso](https://en.wikipedia.org/wiki/Filippo_Tommaso_Marinetti) [Marinetti](https://en.wikipedia.org/wiki/Filippo_Tommaso_Marinetti) (1876-1944) who wrote the [Manifesto of Futurism](https://en.wikipedia.org/wiki/Manifesto_of_Futurism) (1908), that championed the causes of modernism, action, and political violence as necessary elements of politics while denouncing liberalism and parliamentary politics.[\[127\]](#page-35-39)[\[128\]](#page-36-0) Marinetti rejected conventional democracy - based on majority rule and egalitarianism - for a new form of democracy, promoting what he described in his work "The Futurist Conception of Democracy" as the following: "We are therefore able to give the directions to create and to dismantle to numbers, to quantity, to the mass, for with us number, quantity and mass will never be—as they are in Germany and Russia—the number, quantity and mass of mediocre men, incapable and indecisive."[\[129\]](#page-36-1)
 
-## ![](_page_8_Picture_4.jpeg)
 
 Filippo [Tommaso](https://en.wikipedia.org/wiki/Filippo_Tommaso_Marinetti) Marinetti, Italian modernist author of the [Futurist](https://en.wikipedia.org/wiki/Futurist_Manifesto) [Manifesto](https://en.wikipedia.org/wiki/Futurist_Manifesto) (1909) and later the co-author of the Fascist [Manifesto](https://en.wikipedia.org/wiki/Fascist_Manifesto) (1919) [\[126\]](#page-35-30)
 
@@ -152,7 +144,6 @@ Futurism influenced fascism in its emphasis on recognizing the virile nature of 
 
 ### **World War I and its aftermath (1914–1929)**
 
-## ![](_page_9_Picture_1.jpeg)
 
 Benito [Mussolini](https://en.wikipedia.org/wiki/Benito_Mussolini) in 1917 as an Italian soldier in [World](https://en.wikipedia.org/wiki/World_War_I) War I
 
@@ -162,7 +153,6 @@ The first meeting of the Fasces of Revolutionary Action was held on 24 January 1
 
 Similar political ideas arose in Germany after the outbreak of the war. German sociologist [Johann Plenge](https://en.wikipedia.org/wiki/Johann_Plenge) spoke of the rise of a "National Socialism" in Germany within what he termed the "ideas of 1914" that were a declaration of war against the "ideas of 1789" (the French Revolution).[\[137\]](#page-36-9) According to Plenge, the "ideas of 1789"—such as the rights of man, democracy, individualism and liberalism—were being rejected in favor of "the ideas of 1914" that included "German values" of duty, discipline, law and order. [\[137\]](#page-36-9) Plenge believed that racial solidarity (*Volksgemeinschaft*) would replace class division and that "racial comrades" would unite to create a socialist society in the struggle of "proletarian" Germany against "capitalist" Britain.[\[137\]](#page-36-9) He believed that the [Spirit of 1914](https://en.wikipedia.org/wiki/Spirit_of_1914) manifested itself in the concept of the People's League of National Socialism.[\[138\]](#page-36-10) This National Socialism was a form of [state](https://en.wikipedia.org/wiki/State_socialism) [socialism](https://en.wikipedia.org/wiki/State_socialism) that rejected the "idea of boundless freedom" and promoted an economy that would serve the whole of Germany under the leadership of
 
-## ![](_page_9_Picture_7.jpeg)
 
 ## Adolf Hitler as a German soldier in World War I
 
@@ -176,7 +166,6 @@ Fascists viewed World War I as bringing revolutionary changes in the nature of w
 
 The [October Revolution](https://en.wikipedia.org/wiki/October_Revolution) of 1917, in which [Bolshevik](https://en.wikipedia.org/wiki/Bolshevik) communists led by [Vladimir Lenin](https://en.wikipedia.org/wiki/Vladimir_Lenin) seized power in Russia, greatly influenced the development of fascism.[\[142\]](#page-36-14) In 1917,
 
-## ![](_page_10_Picture_3.jpeg)
 
 Members of Italy's *[Arditi](https://en.wikipedia.org/wiki/Arditi)* corps, shown here in 1918 holding daggers, a symbol of their group. They were formed in 1917 as groups of soldiers trained for dangerous missions, characterized by a refusal to surrender and a willingness to fight to the death. Their black uniforms inspired those of the Italian Fascist movement. [\[140\]](#page-36-12)
 
@@ -190,7 +179,6 @@ In 1919, [Alceste De Ambris](https://en.wikipedia.org/wiki/Alceste_De_Ambris) an
 
 The next events that influenced the fascists in Italy were the raid of [Fiume](https://en.wikipedia.org/wiki/Fiume_(city)) by Italian nationalist [Gabriele d'Annunzio](https://en.wikipedia.org/wiki/Gabriele_d%27Annunzio) and the founding of the [Charter of Carnaro](https://en.wikipedia.org/wiki/Charter_of_Carnaro) in 1920.[\[150\]](#page-36-22) D'Annunzio and De Ambris designed the Charter, which advocated national-syndicalist corporatist [productionism](https://en.wikipedia.org/wiki/Productionism) alongside D'Annunzio's political views.[\[151\]](#page-36-23) Many fascists saw the Charter of Carnaro as an ideal constitution for a fascist Italy. [\[152\]](#page-36-24) This behaviour of aggression towards Yugoslavia and [South Slavs](https://en.wikipedia.org/wiki/South_Slavs) was pursued by Italian fascists with their persecution of South Slavs—especially Slovenes
 
-## ![](_page_11_Picture_2.jpeg)
 
 Territories promised to Italy by the [Treaty](https://en.wikipedia.org/wiki/Treaty_of_London_(1915)) of [London](https://en.wikipedia.org/wiki/Treaty_of_London_(1915)) (1915): [Trentino-Alto](https://en.wikipedia.org/wiki/Trentino-Alto_Adige) Adige, the Julian [March](https://en.wikipedia.org/wiki/Julian_March) and [Dalmatia](https://en.wikipedia.org/wiki/Dalmatia) (tan) and the [Snežnik](https://en.wikipedia.org/wiki/Sne%C5%BEnik_(plateau)) Plateau area (green). [\[145\]](#page-36-19) However, after World War I, while Italy annexed the capital city [Zara](https://en.wikipedia.org/wiki/Zadar) of Dalmatia the rest of Dalmatia was not assigned to Italy but to [Yugoslavia](https://en.wikipedia.org/wiki/Kingdom_of_Yugoslavia).
 
@@ -216,7 +204,6 @@ Beginning in 1922, fascist paramilitaries escalated their strategy from one of a
 
 On 24 October 1922, the Fascist Party held its annual congress in [Naples,](https://en.wikipedia.org/wiki/Naples) where Mussolini ordered Blackshirts to take control of public buildings and trains and to converge on three points around Rome.[\[166\]](#page-36-39) The Fascists managed to seize control of several post offices and trains in northern Italy while the Italian government, led by a left-wing coalition, was internally divided and unable to respond to the Fascist advances.[\[169\]](#page-36-41) King Victor Emmanuel III of Italy perceived the risk of bloodshed in Rome in response to attempting to disperse the Fascists to be too high.[\[170\]](#page-37-0) Victor Emmanuel III decided to appoint Mussolini as [Prime Minister of Italy](https://en.wikipedia.org/wiki/Prime_Minister_of_Italy) and Mussolini arrived in Rome on 30 October to accept the appointment.[\[170\]](#page-37-0) Fascist propaganda aggrandized this event, known as "[March on Rome"](https://en.wikipedia.org/wiki/March_on_Rome), as a "seizure" of power because of Fascists' heroic exploits.[\[166\]](#page-36-39)
 
-## ![](_page_12_Picture_5.jpeg)
 
 Benito [Mussolini](https://en.wikipedia.org/wiki/Benito_Mussolini) with three of the four [quadrumvirs](https://en.wikipedia.org/wiki/Quadrumvirs) during the [March](https://en.wikipedia.org/wiki/March_on_Rome) on Rome (from left to right: unknown, de [Bono,](https://en.wikipedia.org/wiki/Emilio_de_Bono) Mussolini, [Balbo](https://en.wikipedia.org/wiki/Italo_Balbo) and de [Vecchi](https://en.wikipedia.org/wiki/Cesare_Maria_de_Vecchi)) [\[168\]](#page-36-33)
 
@@ -226,7 +213,6 @@ Benito [Mussolini](https://en.wikipedia.org/wiki/Benito_Mussolini) with three of
 
 Upon being appointed Prime Minister of Italy, Mussolini had to form a coalition government because the fascists did not have control over the Italian parliament.[\[171\]](#page-37-1) Mussolini's coalition government initially pursued [economically liberal](https://en.wikipedia.org/wiki/Economic_liberalism) policies under the direction of liberal finance minister [Alberto](https://en.wikipedia.org/wiki/Alberto_De_Stefani) [De Stefani](https://en.wikipedia.org/wiki/Alberto_De_Stefani), a member of the Center Party, including balancing the budget through deep cuts to the civil service.[\[171\]](#page-37-1) Initially, little drastic change in government policy had occurred and repressive police actions were limited.[\[171\]](#page-37-1)
 
-## ![](_page_13_Picture_3.jpeg)
 
 Victor [Emmanuel](https://en.wikipedia.org/wiki/Victor_Emmanuel_III) III, [King](https://en.wikipedia.org/wiki/King_of_Italy) of Italy, with Mussolini.
 
@@ -236,7 +222,6 @@ The fascists began their attempt to entrench fascism in Italy with the [Acerbo L
 
 In 1929, the fascist regime briefly gained what was in effect a blessing of the Catholic Church after the regime signed a concordat with the Church, known as the [Lateran Treaty,](https://en.wikipedia.org/wiki/Lateran_Treaty) which gave the papacy state sovereignty and financial compensation for the seizure of Church lands by the liberal state in the 19th century, but within two years the Church had renounced fascism in the Encyclical *[Non Abbiamo Bisogno](https://en.wikipedia.org/wiki/Non_Abbiamo_Bisogno)* as a "pagan idolatry of the state" which teaches "hatred, violence and irreverence".[\[175\]](#page-37-5) Not long after signing the agreement, by Mussolini's own confession, the Church had threatened to have him "excommunicated", in part because of his intractable nature, but also because he had "confiscated more issues of Catholic newspapers in the next three months than in the previous seven years."[\[176\]](#page-37-6) By the late 1930s,
 
-## ![](_page_13_Picture_9.jpeg)
 
 The signing of the [Lateran](https://en.wikipedia.org/wiki/Lateran_Treaty) Treaty, Mussolini shown on the right side of the photograph.
 
@@ -252,7 +237,6 @@ The fascist regime created a corporatist economic system in 1925 with creation o
 
 In the 1920s, Fascist Italy pursued an aggressive foreign policy that included ambitions to expand Italian territory. [\[185\]](#page-37-15) In response to revolt in the Italian colony of [Libya,](https://en.wikipedia.org/wiki/Libya) Fascist Italy abandoned previous liberal-era colonial policy of cooperation with local leaders. Instead, claiming that Italians were a superior race to African races and thereby had the right to colonize the "inferior" Africans, it sought to settle 10 to 15 million Italians in Libya.[\[186\]](#page-37-16) This resulted in an aggressive military campaign known as the [Second Italo-Senussi War](https://en.wikipedia.org/wiki/Second_Italo-Senussi_War) also known as the Pacification of Libya against natives in Libya, including mass killings, the use of [concentration](https://en.wikipedia.org/wiki/Concentration_camp) [camps](https://en.wikipedia.org/wiki/Concentration_camp) and the forced starvation of thousands of people.[\[186\]](#page-37-16)
 
-## ![](_page_14_Picture_6.jpeg)
 
 Inmates at the Sid Ahmed el [Maghrun](https://en.wikipedia.org/wiki/Sid_Ahmed_el_Maghrun_concentration_camp) [concentration](https://en.wikipedia.org/wiki/Sid_Ahmed_el_Maghrun_concentration_camp) camp in [Libya](https://en.wikipedia.org/wiki/Italian_Libya) during the Second [Italo-Senussi](https://en.wikipedia.org/wiki/Second_Italo-Senussi_War) War. [\[184\]](#page-37-7)
 
@@ -272,15 +256,12 @@ In Germany, it contributed to the rise of the Nazi Party, which resulted in the 
 
 Fascist movements grew in strength elsewhere in Europe. Hungarian fascist [Gyula Gömbös](https://en.wikipedia.org/wiki/Gyula_G%C3%B6mb%C3%B6s) rose to power as Prime Minister of [Hungary](https://en.wikipedia.org/wiki/Hungary) in 1932 and attempted to entrench his [Unity Party](https://en.wikipedia.org/wiki/Unity_Party_(Hungary)) throughout the country. He created an eight-hour work day and a forty-eight-hour work week in industry; sought to entrench a corporatist economy; and pursued [irredentist](https://en.wikipedia.org/wiki/Irredentism) claims on Hungary's neighbors.[\[198\]](#page-37-28) The fascist [Iron Guard](https://en.wikipedia.org/wiki/Iron_Guard) movement in [Romania](https://en.wikipedia.org/wiki/Romania) soared in political support after 1933, gaining representation in the Romanian government, and an Iron Guard member assassinated Romanian prime minister [Ion](https://en.wikipedia.org/wiki/Ion_Duca) [Duca.](https://en.wikipedia.org/wiki/Ion_Duca) [\[199\]](#page-37-29) The Iron Guard was the only fascist movement outside Germany and Italy to [come to power](https://en.wikipedia.org/wiki/National_Legionary_State) without foreign assistance.[\[200\]](#page-37-30)[\[201\]](#page-37-31) During the [6 February 1934 crisis,](https://en.wikipedia.org/wiki/6_February_1934_crisis) [France](https://en.wikipedia.org/wiki/France) faced the greatest domestic political turmoil since the [Dreyfus Affair](https://en.wikipedia.org/wiki/Dreyfus_Affair) when the fascist [Francist Movement](https://en.wikipedia.org/wiki/Francist_Movement) and multiple far-right movements rioted *[en masse](https://en.wikipedia.org/wiki/En_masse)* in Paris against the French government resulting in major political violence.[\[202\]](#page-37-32) A variety of [para-fascist](https://en.wikipedia.org/wiki/Para-fascism) governments
 
-## ![](_page_15_Picture_5.jpeg)
 
 Nazis in Munich during the [Beer](https://en.wikipedia.org/wiki/Beer_Hall_Putsch) Hall [Putsch](https://en.wikipedia.org/wiki/Beer_Hall_Putsch)
 
-## ![](_page_15_Picture_7.jpeg)
 
 Nazi [Party](https://en.wikipedia.org/wiki/Nuremberg_rallies) rally in [Nuremberg](https://en.wikipedia.org/wiki/Nuremberg), Germany, in 1934 [\[190\]](#page-37-19)
 
-## ![](_page_15_Picture_9.jpeg)
 
 [Hungarian](https://en.wikipedia.org/wiki/Kingdom_of_Hungary_(1920%E2%80%931946)) Prime [Minister](https://en.wikipedia.org/wiki/Prime_Minister_of_Hungary) [Gyula](https://en.wikipedia.org/wiki/Gyula_G%C3%B6mb%C3%B6s) [Gömbös](https://en.wikipedia.org/wiki/Gyula_G%C3%B6mb%C3%B6s) (left) meeting with Mussolini (right).
 
@@ -292,15 +273,12 @@ During the Great Depression, Mussolini promoted active state intervention in the
 
 Due to the worldwide depression, Mussolini's government was able to take over most of Italy's largest failing banks, who held controlling interest in many Italian businesses. The IRI reported in early 1934 that they held assets of "48.5 percent of the share capital of Italy", which later included the capital of the banks themselves.[\[212\]](#page-38-1) Political historian
 
-## ![](_page_16_Picture_4.jpeg)
 
 [Integralists](https://en.wikipedia.org/wiki/Brazilian_Integralism) marching in Brazil
 
-## ![](_page_16_Picture_6.jpeg)
 
 Luis A. [Flores](https://en.wikipedia.org/wiki/Luis_A._Flores), [Prime](https://en.wikipedia.org/wiki/Prime_Minister_of_Peru) [Minister](https://en.wikipedia.org/wiki/Prime_Minister_of_Peru) of Peru in 1932, shown saluting in the party uniform of the [Revolutionary](https://en.wikipedia.org/wiki/Revolutionary_Union_(Peru)) [Union](https://en.wikipedia.org/wiki/Revolutionary_Union_(Peru)) of Peru that he led as its Supreme Chief from 1933– 1956. [\[204\]](#page-37-34)[\[205\]](#page-37-35)
 
-## ![](_page_16_Picture_8.jpeg)
 
 [Corneliu](https://en.wikipedia.org/wiki/Corneliu_Zelea_Codreanu) Zelea [Codreanu,](https://en.wikipedia.org/wiki/Corneliu_Zelea_Codreanu) founder of the Iron [Guard](https://en.wikipedia.org/wiki/Iron_Guard) in Romania.
 
@@ -312,7 +290,6 @@ In Fascist Italy and Nazi Germany, both Mussolini and Hitler pursued territorial
 
 a region that had been ordered demilitarized by the [Treaty of](https://en.wikipedia.org/wiki/Treaty_of_Versailles) [Versailles](https://en.wikipedia.org/wiki/Treaty_of_Versailles). In 1938, Germany annexed [Austria](https://en.wikipedia.org/wiki/Federal_State_of_Austria)[\[216\]](#page-38-5)[\[217\]](#page-38-6) and Italy assisted Germany in resolving the diplomatic crisis between Germany versus Britain and France over claims on [Czechoslovakia](https://en.wikipedia.org/wiki/Czechoslovakia) by arranging the [Munich Agreement](https://en.wikipedia.org/wiki/Munich_Agreement) that gave Germany the [Sudetenland](https://en.wikipedia.org/wiki/Sudetenland) and was perceived at the time to have averted a European war. [\[218\]](#page-38-7)[\[219\]](#page-38-8) These hopes faded when Czechoslovakia was dissolved by the proclamation of the German client state of [Slovakia](https://en.wikipedia.org/wiki/Slovak_State), followed by the next day of the occupation of the remaining [Czech Lands](https://en.wikipedia.org/wiki/Czech_Lands) and the proclamation of the German [Protectorate of Bohemia and](https://en.wikipedia.org/wiki/Protectorate_of_Bohemia_and_Moravia) [Moravia](https://en.wikipedia.org/wiki/Protectorate_of_Bohemia_and_Moravia). At the same time from 1938 to 1939, Italy was demanding territorial and colonial concessions from France and Britain.[\[220\]](#page-38-9) In 1939, Germany prepared for war with Poland, but attempted to gain territorial concessions from Poland through diplomatic means.[\[221\]](#page-38-10) The Polish
 
-## ![](_page_17_Picture_1.jpeg)
 
 Map of World War II in Europe from 1941-1942. Axis powers shown in red and Allied powers shown in blue.
 
@@ -332,7 +309,6 @@ Historian Robert Paxton observes that one of the main problems in defining fasci
 
 The term neo-fascism refers to fascist movements that generally originated after World War II. According to [Jean-Yves Camus](https://en.wikipedia.org/wiki/Jean-Yves_Camus) and [Nicolas Lebourg](https://en.wikipedia.org/wiki/Nicolas_Lebourg), the neo-fascist ideology emerged in 1942, after [Nazi Germany](https://en.wikipedia.org/wiki/Nazi_Germany) [invaded the](https://en.wikipedia.org/wiki/Operation_Barbarossa) [USSR](https://en.wikipedia.org/wiki/Operation_Barbarossa) and decided to reorient its [propaganda](https://en.wikipedia.org/wiki/Propaganda_in_World_War_II) on a Europeanist ground.[\[244\]](#page-38-33) In Italy, the [Italian Social Movement](https://en.wikipedia.org/wiki/Italian_Social_Movement) led by [Giorgio](https://en.wikipedia.org/wiki/Giorgio_Almirante) [Almirante](https://en.wikipedia.org/wiki/Giorgio_Almirante) was a major neo-fascist movement that transformed itself into a self-described "post-fascist" movement called the [National Alliance](https://en.wikipedia.org/wiki/National_Alliance_(Italy)) (AN),[\[245\]](#page-38-34) which has been an ally of [Silvio Berlusconi](https://en.wikipedia.org/wiki/Silvio_Berlusconi)'s [Forza Italia](https://en.wikipedia.org/wiki/Forza_Italia_(1994)) for a decade.[\[246\]](#page-38-35) In 2008, AN joined Forza Italia in Berlusconi's new party [The](https://en.wikipedia.org/wiki/The_People_of_Freedom) [People of Freedom,](https://en.wikipedia.org/wiki/The_People_of_Freedom) but in 2012 a group of politicians split from The People of Freedom, refounding the party with the name [Brothers of](https://en.wikipedia.org/wiki/Brothers_of_Italy) [Italy](https://en.wikipedia.org/wiki/Brothers_of_Italy). [\[247\]](#page-38-36)[\[248\]](#page-38-37) In Germany, various neo-Nazi movements have been formed and banned in accordance with Germany's constitutional law which forbids Nazism. The [National Democratic Party of Germany](https://en.wikipedia.org/wiki/National_Democratic_Party_of_Germany) (NPD) is widely considered a neo-Nazi party, although the party does not publicly identify itself as such.[\[249\]](#page-38-38)
 
-## ![](_page_18_Picture_3.jpeg)
 
 Giorgio [Almirante](https://en.wikipedia.org/wiki/Giorgio_Almirante), leader of the Italian Social [Movement](https://en.wikipedia.org/wiki/Italian_Social_Movement) from 1969 to 1987 [\[243\]](#page-38-24)
 
@@ -344,7 +320,6 @@ In Argentina, [Peronism,](https://en.wikipedia.org/wiki/Peronism) associated wit
 
 After the onset of the [Great Recession](https://en.wikipedia.org/wiki/Great_Recession) and economic crisis in Greece, a movement known as the [Golden Dawn,](https://en.wikipedia.org/wiki/Golden_Dawn_(Greece)) widely considered a neo-Nazi party, [\[257\]](#page-39-7) soared in support out of obscurity and won seats in [Greece's parliament,](https://en.wikipedia.org/wiki/Greek_parliament) [\[258\]](#page-39-8) espousing a staunch hostility towards minorities, illegal immigrants and refugees.[\[259\]](#page-39-9) In 2013, after the murder of an anti-fascist musician by a person with links to Golden Dawn, the Greek government ordered the arrest of Golden Dawn's leader [Nikolaos Michaloliakos](https://en.wikipedia.org/wiki/Nikolaos_Michaloliakos) and other members on charges related to being associated with a criminal organization.[\[260\]](#page-39-10)[\[261\]](#page-39-11) On 7 October 2020, Athens Appeals Court announced verdicts for 68 defendants, including the party's political leadership. Nikolaos Michaloliakos and six other prominent members and former members of parliament (MPs) were found guilty of running a criminal
 
-## ![](_page_19_Picture_3.jpeg)
 
 ## Golden Dawn demonstration in Greece in 2012
 
@@ -365,7 +340,6 @@ Yale historian [Timothy Snyder](https://en.wikipedia.org/wiki/Timothy_Snyder) ha
 
 Radio Free Europe/Radio Liberty, collecting the opinions of experts on fascism, said that while Russia is repressive and authoritarian, it cannot be classified as a fascist state for various reasons, including Russia's government being more reactionary than revolutionary. [271] In 2023,
 
-## ![](_page_20_Picture_2.jpeg)
 
 Protester against the Russian government, holding an image portraying Dmitry Medvedev and Vladimir Putin as Nazis with a swastika made of colours of the Ribbon of Saint George and a Russian coat of arms in the centre (Odesa, 2014)
 
@@ -405,7 +379,6 @@ Because productivism was key to creating a strong nationalist state, it criticiz
 
 Unlike Marxism, fascism did not see class conflict between the Marxist-defined proletariat and the bourgeoisie as a given or as an engine of historical materialism.[\[325\]](#page-41-3) Instead, it viewed workers and productive capitalists in common as productive people who were in conflict with parasitic elements in society, including corrupt political parties, corrupt financial capital, and feeble people.[\[325\]](#page-41-3) Fascist leaders such as Mussolini and Hitler spoke of the need to create a new managerial elite led by engineers and captains of industry but free from the parasitic leadership of industries.[\[325\]](#page-41-3) Hitler stated that the Nazi Party supported *bodenständigen Kapitalismus* ("productive capitalism") that was based upon profit earned from one's own labour, but condemned unproductive capitalism or loan capitalism, which derived profit from speculation.[\[327\]](#page-41-6)
 
-## ![](_page_23_Picture_1.jpeg)
 
 The need for a *people's car* (*[Volkswagen](https://en.wikipedia.org/wiki/Volkswagen)* in German), its concept and its functional objectives were formulated by [Adolf](https://en.wikipedia.org/wiki/Adolf_Hitler) [Hitler](https://en.wikipedia.org/wiki/Adolf_Hitler). [\[323\]](#page-41-5)
 
@@ -427,7 +400,6 @@ Fascism emphasizes [direct action,](https://en.wikipedia.org/wiki/Direct_action)
 
 Fascism emphasizes [youth](https://en.wikipedia.org/wiki/Youth) both in a physical sense of age and a spiritual sense as related to virility and commitment to action.[\[346\]](#page-41-25) The Italian Fascists' political anthem was called *[Giovinezza](https://en.wikipedia.org/wiki/Giovinezza)* ("The Youth").[\[346\]](#page-41-25) Fascism identifies the physical age period of youth as a critical time for the moral development of people who will affect society. [\[347\]](#page-41-26) Walter Laqueur argues "[t]he corollaries of the cult of war and physical danger were the cult of brutality, strength, and sexuality ... [fascism is] a true counter-civilization: rejecting the sophisticated rationalist humanism of Old Europe, fascism sets up as its ideal the primitive instincts and primal emotions of the barbarian."[\[348\]](#page-41-27)
 
-## ![](_page_24_Picture_5.jpeg)
 
 Members of the *[Piccole](https://en.wikipedia.org/wiki/Piccole_Italiane) Italiane*, an organization for girls within the National Fascist Party in Italy
 
@@ -435,7 +407,6 @@ Italian fascism pursued what it called "moral hygiene" of youth, particularly re
 
 Mussolini perceived women's primary role as primarily child bearers, while that of men as warriors, once saying: "War is to man what maternity is to the woman." [350] In an effort to increase birth rates, the Italian Fascist government gave financial incentives to women who raised large families and initiated policies intended to reduce the number of women employed. [351] Italian Fascism called for women to be
 
-## ![](_page_25_Picture_2.jpeg)
 
 Members of the League of German Girls, an organization for girls within the Nazi Party in Germany honoured as "reproducers of the nation", and the Italian Fascist government held ritual ceremonies to celebrate women's role within the Italian nation. [352] In 1934, Mussolini declared that employment of women was a "major aspect of the thorny problem of unemployment" and that for women, working was "incompatible with childbearing"; Mussolini went on to say that the solution to unemployment for men was the "exodus of women from the work force." [353]
 
@@ -461,7 +432,6 @@ In *[Simulacra and Simulation](https://en.wikipedia.org/wiki/Simulacra_and_Simul
 
 The standard definition of fascism, given by Stanley G. Payne, focuses on three concepts, one of which is a "fascist style" with an aesthetic structure of meetings, symbols, and political liturgy, stressing emotional and mystical aspects.[\[32\]](#page-33-9)
 
-## ![](_page_26_Picture_7.jpeg)
 
 Filippo [Tommaso](https://en.wikipedia.org/wiki/Filippo_Tommaso_Marinetti) Marinetti
 
@@ -497,7 +467,6 @@ Fascism's extreme authoritarianism and nationalism often manifest as a belief in
 
 ...encompassed [totalitarianism](https://en.wikipedia.org/wiki/Totalitarianism), [state terrorism,](https://en.wikipedia.org/wiki/State_terrorism) imperialism, racism and, in the German case, the most radical genocide of the last century: the Holocaust. Fascism, in its many forms, did not hesitate to kill its own citizens as well as its colonial subjects in its search for ideological and political closure. Millions of civilians perished on a global scale during the apogee of fascist ideologies in Europe and beyond.[\[391\]](#page-43-5)
 
-## ![](_page_28_Picture_6.jpeg)
 
 Hitler and Spanish dictator [Francisco](https://en.wikipedia.org/wiki/Francisco_Franco) Franco in the Meeting at [Hendaye](https://en.wikipedia.org/wiki/Meeting_at_Hendaye), on 23 October 1940 [\[384\]](#page-42-26)[\[385\]](#page-42-27)
 
@@ -533,7 +502,6 @@ Organization against fascism began around 1920. Fascism became the state ideolog
 
 Before World War II, [the West](https://en.wikipedia.org/wiki/Western_world) had not taken seriously the threat of fascism, and anti-fascism was sometimes associated with communism.[\[414\]](#page-43-28) However, the [outbreak of World War II](https://en.wikipedia.org/wiki/Outbreak_of_World_War_II) greatly changed Western perceptions, and fascism was seen as an existential threat by not only the communist Soviet Union but also by the [liberal-democratic](https://en.wikipedia.org/wiki/Liberal-democratic) United States and United Kingdom. The Axis Powers of World War II were generally
 
-## ![](_page_31_Picture_2.jpeg)
 
 Anti-fascist demonstration at [Porta](https://en.wikipedia.org/wiki/Porta_San_Paolo) San [Paolo](https://en.wikipedia.org/wiki/Porta_San_Paolo) in [Rome](https://en.wikipedia.org/wiki/Rome) on the occasion of Italy's [Liberation](https://en.wikipedia.org/wiki/Liberation_Day_(Italy)) Day on 25 April 2013
 
@@ -543,7 +511,6 @@ After World War II, the [anti-fascist movement continued](https://en.wikipedia.o
 
 # **See also**
 
-## ![](_page_31_Picture_7.jpeg)
 
 - [Anti-fascism](https://en.wikipedia.org/wiki/Anti-fascism) Opposition to fascism
 - [Authoritarianism](https://en.wikipedia.org/wiki/Authoritarianism) Political system

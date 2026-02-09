@@ -15,9 +15,6 @@ tags:
 
 Filed under: [Anarchist Movement,](https://itsgoingdown.org/category/topics/anarchist-movement/) [Community Organizing,](https://itsgoingdown.org/category/topics/community-organizing/) [Editorials,](https://itsgoingdown.org/category/type/editorials/) [Police,](https://itsgoingdown.org/category/topics/police/) [US](https://itsgoingdown.org/category/regions/us/)
 
-## ![](_page_0_Picture_8.jpeg)
-
-## ![](_page_0_Picture_9.jpeg)
 
 **This editorial argues for the building up and proliferation of broad networks of community care and**
 

@@ -66,7 +66,6 @@ Anarchists no more want to be masters than they want to be servants — they no 
 
 ## The Anarchist Library Anti-Copyright
 
-## ![](_page_4_Picture_1.jpeg)
 
 ## Émile Armand Anarchist Individualism as a Life and Activity 1907
 

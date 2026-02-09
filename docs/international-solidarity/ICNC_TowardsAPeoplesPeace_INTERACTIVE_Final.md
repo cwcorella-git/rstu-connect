@@ -12,15 +12,11 @@ tags:
 
 Hardy Merriman Ola Ibrahim Gino Govender Hanyea Mohammed Véronique Dudouet Steward Muhindo Shreen Saroor
 
-## ![](_page_0_Picture_5.jpeg)
 
 Hardy Merriman Gino Govender Steward Muhindo Ola Ibrahim Hanyea Mohammed Shreen Saroor Véronique Dudouet
 
 Framing Essays for the 2025 Copenhagen People Power Conference
 
-## ![](_page_2_Picture_6.jpeg)
-
-## ![](_page_2_Picture_7.jpeg)
 
 *Towards a People's Peace: A Task for Activists, Peacebuilders, and Allies* By Hardy Merriman, Gino Govender, Steward Muhindo, Ola Ibrahim, Hanyea Mohammed, Shreen Saroor, Véronique Dudouet (2025)
 
@@ -553,7 +549,6 @@ In preparation for the Copenhagen People Power Conference, the Global Social Mov
 
 This book brings together cutting-edge research and first-person accounts from activists and peacebuilders on the frontlines in the Democratic Republic of the Congo, Sudan, Ethiopia, and Sri Lanka, alongside insights for a global solidarity movement from activists in Palestine, Ukraine, and Lebanon. It offers a bold vision for how movements can shape peace and security, and practical lessons for policymakers and allies committed to supporting peace from below.
 
-## ![](_page_75_Picture_3.jpeg)
 
 ## ![](_page_75_Figure_4.jpeg)
 

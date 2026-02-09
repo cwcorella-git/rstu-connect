@@ -8,7 +8,6 @@ tags:
   - prisons
 ---
 
-## ![](_page_0_Picture_2.jpeg)
 
 The **Attica Prison riot** took place at the [state](https://en.wikipedia.org/wiki/Attica_Correctional_Facility) [prison](https://en.wikipedia.org/wiki/Attica_Correctional_Facility) in [Attica, New York;](https://en.wikipedia.org/wiki/Attica,_New_York) it started on September 9, 1971 with a violent takeover of the prison control center in which one prison officer, William Quinn, was killed,[\[1\]](#page-13-0) and ended on September 13 with the highest number of fatalities in the history of United States [prison uprisings.](https://en.wikipedia.org/wiki/Prison_riot) Of the 43 men who died (33 inmates and 10 correctional officers and employees), all but one guard and three inmates were killed by law enforcement gunfire when the state retook control of the prison on the final day of the uprising[.\[2\]](#page-13-1)[\[3\]](#page-13-2) [\[4\]](#page-13-3) The Attica Uprising has been described as a historic event in the [prisoners' rights](https://en.wikipedia.org/wiki/Prisoners%27_rights) movement[.\[5\]](#page-13-4) [\[6\]](#page-13-5)
 
@@ -18,7 +17,6 @@ Rockefeller had refused to go to the prison or meet
 
 #### **Attica Prison Uprising**
 
-## ![](_page_0_Picture_8.jpeg)
 
 State troopers stand guard over prisoners after retaking Attica Correctional Facility during the riot.
 
@@ -152,7 +150,6 @@ In response to public criticism, in November 1971 Governor Rockefeller establish
 
 In October 1971, Robert Fischer was appointed as Special Deputy Attorney General to lead the Attica Task Force and was charged with investigating any criminal acts that may have been
 
-## ![](_page_7_Picture_6.jpeg)
 
 Memorial in front of the prison to the officers and other prison employees who died in the uprising. All but one were killed by friendly fire.
 
@@ -255,7 +252,6 @@ The incident is directly referenced in several songs and the name of a band:
 - [Inmates of Attica Correctional Facility v. Rockefeller](https://en.wikipedia.org/wiki/Inmates_of_Attica_Correctional_Facility_v._Rockefeller)
 - [Walpole prison strike](https://en.wikipedia.org/wiki/Walpole_prison_strike)
 
-## ![](_page_12_Picture_11.jpeg)
 
 # **Notes**
 

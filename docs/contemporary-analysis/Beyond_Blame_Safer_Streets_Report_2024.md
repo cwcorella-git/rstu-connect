@@ -8,7 +8,6 @@ tags:
   - current-events
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 # How Cities Can Learn From Crashes To Create Safer Streets Today
 
@@ -22,7 +21,6 @@ tags:
 
 ## Executive Summary
 
-## ![](_page_1_Picture_1.jpeg)
 
 *Art memorial to honor crash victim Terry Binder in Meridian, Idaho.*
 
@@ -111,7 +109,6 @@ POSTED SPEED LIMIT |
 
 This indicates that speeding at these locations is not a deviation from the norm but a persistent outcome of the street design. When elements commonly used in highway design — such as wide lanes, unused shoulders, turn lanes and clear zones — are incorporated into the design of an urban street, drivers perceive an extra margin of safety. Drivers consistently respond to that added margin of safety by increasing speeds.
 
-## ![](_page_5_Picture_0.jpeg)
 
 *Ager Road approaching an intersection with Hamilton Street in Hyattsville, Maryland. Ager Road features wide automobile travel lanes, a slip lane to facilitate faster speeds for drivers entering the street, wide margins on either side of the road, and other design elements that induce travel speeds too fast for the urban environment.*
 
@@ -192,9 +189,6 @@ For example, in Hyattsville, Maryland, a woman named Hellen Jorgensen was fatall
 
 Visibility and lighting issues were a factor in 12 of the 18 crashes examined.
 
-## ![](_page_8_Picture_5.jpeg)
-
-## ![](_page_8_Picture_6.jpeg)
 
 *How inadequate lighting design obscures people traveling on foot or by bicycle.*
 
@@ -240,9 +234,6 @@ A Crash Response Team doesn't need to rush to the site of an incident — that c
 
 The goal of the Crash Response Team isn't to assign blame but to collect measurements and make observations of the site for later evaluation.
 
-## ![](_page_11_Picture_4.jpeg)
-
-## ![](_page_11_Picture_6.jpeg)
 
 #### Recommendation #3
 
@@ -327,13 +318,6 @@ These assessments will validate or challenge the design team's assumptions (pred
 
 In addition to members of the design team and trac safety ocials, a good audit will include a cross section of the municipality's experts in areas such as engineering, planning, maintenance and law enforcement. It will also include any individual in the area known to have a disability or particular struggle that will be impacted by the design.
 
-## ![](_page_13_Picture_12.jpeg)
-
-## ![](_page_13_Picture_14.jpeg)
-
-## ![](_page_13_Picture_16.jpeg)
-
-## ![](_page_13_Picture_18.jpeg)
 
 ## About the Crash Analysis Studio Approach
 
@@ -415,7 +399,6 @@ Except, "one of the best urban biking experiences in the U. S." goes right throu
 
 The Crash Analysis Studio gave local advocates, city ocials and engineers an opportunity to confront the culpability of the intersection in his death. Rather than focus on who was more at fault, driver or cyclist, the Studio focused on how the road's design contributed to and elevated the stakes of the crash.
 
-## ![](_page_17_Picture_12.jpeg)
 
 The Studio's panelists devised several recommendations for the city, some of them as simple as installing more obvious signage to alert drivers of the impending trail crossing. Luckily for grieving panelists, they have allies in the city. The problem is not the lack of political will, but the built-in bureaucracy that serves as an impediment to incremental change. As of July 2024, however, Indianapolis is trying something new.
 
@@ -451,7 +434,6 @@ At these speeds, vehicles should not be freely mixing with people traveling by f
 
 *Between 2015 and 2022, University Drive in Huntsville, Alabama, was the site of 78 pedestrian and bicyclist deaths. Sites like this are a clear starting point for cities seeking to address trac crashes using the Crash Analysis Studio model.*
 
-## ![](_page_19_Picture_3.jpeg)
 
 There are also residential subdivisions within a short walking distance of University Drive's amenities, like Family Dollar and the gas station market. Many would prefer to "play Frogger," as one local described it, by crossing where it's convenient instead of navigating to the nearest designated crosswalk, hundreds of feet away.
 
@@ -477,7 +459,6 @@ But when the expert panel dug deeper, it found several elements that would endan
 
 *City ocials in Rochester, New York, participated in the Crash Analysis Studio process for South Goodman Street, earning praise from locals.*
 
-## ![](_page_20_Picture_8.jpeg)
 
 This investigation showed how site-specic and ne-grained the elements leading up to a crash can be, as well as the necessity for local ocials and leaders to be closely involved in evaluating causes and seeking changes.
 

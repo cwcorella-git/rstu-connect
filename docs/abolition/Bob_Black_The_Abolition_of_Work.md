@@ -103,7 +103,6 @@ Workers of the world... relax!
 
 #### The Anarchist Library Anti-Copyright
 
-## ![](_page_11_Picture_1.jpeg)
 
 #### Bob Black The Abolition of Work 1991
 

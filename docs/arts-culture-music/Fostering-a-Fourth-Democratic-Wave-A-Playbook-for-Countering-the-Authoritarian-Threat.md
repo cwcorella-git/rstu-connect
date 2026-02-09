@@ -7,23 +7,16 @@ tags:
   - democracy
 ---
 
-## ![](_page_0_Picture_0.jpeg)
-
-## ![](_page_0_Picture_1.jpeg)
 
 ## A PLAYBOOK FOR COUNTERING THE AUTHORITARIAN THREAT
 
 ## by Hardy Merriman, Patrick Quirk, and Ash Jain
 
-## ![](_page_0_Picture_5.jpeg)
-
-## ![](_page_1_Picture_0.jpeg)
 
 #### SCOWCROFT CENTER FOR STRATEGY AND SECURITY
 
 **The Scowcroft Center for Strategy and Security** works to develop sustainable, nonpartisan strategies to address the most important security challenges facing the United States and the world. The Center honors General Brent Scowcroft's legacy of service and embodies his ethos of nonpartisan commitment to the cause of security, support for US leadership in cooperation with allies and partners, and dedication to the mentorship of the next generation of leaders.
 
-## ![](_page_1_Picture_3.jpeg)
 
 **The International Center on Nonviolent Conict (ICNC)** is a leading organization advancing the study and practice of civil resistance to achieve rights, freedom, and justice. ICNC's programs, achievements and impact reect an ongoing dedication to using social science insights and lessons from practitioners to improve outcomes for civil resistance movements worldwide.
 
@@ -43,9 +36,6 @@ Cover: Opposition supporters rally against Venezuela's President Nicolas Maduro 
 
 ## Design: Donald Partyka and Anais Gonzalez
 
-## ![](_page_2_Picture_0.jpeg)
-
-## ![](_page_2_Picture_1.jpeg)
 
 ## Fostering a Fourth Democratic Wave:
 
@@ -266,7 +256,6 @@ The arguments and some of the recommendations in this playbook advocate for a re
 
 ## Executive Summary
 
-## ![](_page_9_Picture_2.jpeg)
 
 A slogan is written on a street as a protest after the coup in Yangon, Myanmar February 21, 2021. Picture taken with i Phone panoramic mode. REUTERS/Stringer
 
@@ -555,7 +544,6 @@ that supporting democracy and combatting authoritarianism are reflected as key n
 - Democratic governments should support establishment of international strike funds, i.e., through grants to international nongovernmental organizations, and increase resources available for urgent/emergency assistance to activists under threat, through new or existing capabilities like the lifeline assistance fund or other USAID rapid response capacities.
 - Democratic governments should use their convening power to bring together international nongovernmental organizations (advocacy and philanthropy), CSOs, diaspora groups, and movement activists (if possible, given the local context and security situation) during nascent movement stages to discuss coordination of external support.
 
-## ![](_page_18_Picture_1.jpeg)
 
 2019 Hong Kong anti-extradition law protest on June 16, captured by Studio Incendo from Flickr.
 
@@ -627,7 +615,6 @@ The United States should scale up funding dedicated to countering foreign malign
 |---|-------------------------------|----|
 ## | | OF CONTEMPORARY TRENDS | |
 
-## ![](_page_21_Picture_5.jpeg)
 
 ## 1. Civil Resistance Movements and Democratization ivil resistance is a way that ordinary people wield power without the threat or use of physical violence. It has played a leading role in numerous political transitions against authoritarian rule—such as the ousters of Ferdinand Marcos (Philippines, 1986), Augusto Pinochet (Chile, 1988), Soviet rulers in Eastern and Central Europe (1989-91), Slobodan Milošević (Serbia, 2000), Victor Yanukovich (Ukraine, 2014), Zine al-Abidine Ben Ali (Tunisia, 2011), Hosni Mubarak (Egypt, 2011), Blaise Compaoré (Burkina Faso, 2014), Abdelaziz Bouteflika (Algeria, 2019), and Omar al-Bashir (Sudan, 2019). Notably, autocrats in each of these (and many other) countries were widely assumed to be stable and firmly in control prior to their ousters.
 
@@ -744,7 +731,6 @@ Civil resistance movements and political parties both seek to make political, ec
 
 In overcoming encroaching or established authoritarian rule, both of these entities are often needed. For example, movements can be critical in driving up popular mobilization, voter turnout, raising issue awareness, inuencing party platforms, shifting power relationships, fracturing ruling coalitions, and enforcing election results if there are attempts at subversion. Political parties, in turn, can be critically important partners for movements by adopting policy platforms and providing candidates that foster movement unity, negotiating, and helping to convert grassroots power into institutional changes. Political parties also play a pivotal role after political transitions in taking steps to consolidate democratic gains. At that point, some movement leaders may have also joined political parties, while other activists remain among the rest of civil society, continuing to advocate for change and accountability of the new government. Depending on the context, these activists may rely increasingly on organizational and institutional approaches to do so.
 
-## ![](_page_27_Picture_1.jpeg)
 
 A demonstrator takes part in a protest against Nicaraguan President Daniel Ortega's government at the Metropolitan Cathedral in Managua, Nicaragua May 17,2019. REUTERS/Oswaldo Rivas ical transitions to dictatorship and democracy, scholars Stephan Haggard and Robert F. Kaufman conclude:
 
@@ -852,7 +838,6 @@ While well-established liberal democracies are not immune to backsliding, especi
 
 It is impossible for democracy to become consolidated when lawlessness reigns, corruption is rampant, and the state is weak. As Francis Fukuyama has stressed, good governance or at least initially decent, as opposed to predatory, governance—is key to democracy's long-term prospects.59 Badly governed, poorly performing democracies are accidents waiting to happen.60
 
-## ![](_page_32_Picture_1.jpeg)
 
 Zimbabwean lawyers carry placards as they march to demand justice for people detained in jail and others facing fast-track trials following recent protests in Harare, Zimbabwe, January 29, 2019. REUTERS/Philimon Bulawayo
 
@@ -954,7 +939,6 @@ SOURCE: Erica Chenoweth, "The Future of Nonviolent Resistance," Journal of Democ
 
 SOURCE: Erica Chenoweth, "The Future of Nonviolent Resistance," Journal of Democracy 31, no. 3 (2020), 75.
 
-## ![](_page_37_Picture_1.jpeg)
 
 A demonstrator uses a megaphone during a protest against Hungarian Prime Minister Viktor Orban and the latest anti-LGBTQ law in Budapest, Hungary, June 14, 2021. REUTERS/Marton Monus
 
@@ -1197,7 +1181,6 @@ Globally, information technology is an increasingly important domain in any stru
 
 These regime efforts all impact movements and have enabled autocrats to lower their risks of engaging in repression. Of particular importance to activists is the way that regimes engage in increasingly preemptive and "smart" forms of repression.118 Based on the trove of information about domestic populations available to them, and sophisticated algorithms and articial intelligence with which to analyze this data, authoritarians are able to more easily ag and monitor early signs of dissent, and quickly move to repress individuals or small groups that then never have an opportunity to grow. Such repression is highly impactful but often hidden or not widely visible, and therefore minimizes risk of backfire or defections against the regime.119
 
-## ![](_page_47_Picture_1.jpeg)
 
 People hold white sheets of paper in protest over ongoing zero-COVID restrictions, as well as restrictions of freedom of speech and expression, on November 28, 2022 in Beijing, China. REUTERS/Thomas Peter
 
@@ -1314,7 +1297,6 @@ External actors can help movements during protracted struggle, but rst they must
 
 To provide support, external actors can draw from repertoires used in both the early organizing phase (i.e., strategic planning support to help a movement regroup) as well as the peak mobilization phase (i.e., building international pressure on the regime, raising the cost of repres-
 
-## ![](_page_52_Picture_1.jpeg)
 
 Former Belarusian paratroopers take part in a protest against the presidential election results and demand the resignation of Belarusian President Alexander Lukashenko and the release of political prisoners, near the Government House in Independence Square in Minsk, Belarus August 16, 2020. REUTERS/Vasily Fedosenko sion, mitigating repression's impact, and fostering defections). They also can use a period of protracted struggle to increase coordination with other external actors. If activists request it, external actors may further oer to help mediate directly between the movement and the regime.
 
@@ -1344,7 +1326,6 @@ Thus, new governments favored by external actors will likely have to endure civi
 
 However, civil resistance during the post-transition phase can also harm democracy, if it is used to contest legitimate democratic outcomes or advance narrow partisan interests, and movements must avoid this trap. For example, if institutions are functioning properly, an election campaign should primarily consist of electioneering—not civil resistance. Unless there is evidence of malfeasance, civil resistance should also not be part of a repertoire to contest the results. After the election, civil resistance can be used to hold the winners to account if they abuse their positions, and to support rule of law and institutional checks and balances of democratic government.152
 
-## ![](_page_54_Picture_1.jpeg)
 
 ## Pillar I: Policy Recommendations
 
@@ -1437,7 +1418,6 @@ Thus, there are three conditions that restrictions must meet in order to be lawf
 
 In practice, this means that restrictions must be proportionate and narrow. For example, using the pretext of public health or public safety to arbitrarily and indiscriminately curtail any association's right to request and receive assistance would be unlawful. Restrictions would instead have to be tailored narrowly to meet the legitimate state interest.169 It also means that the government has a burden of proof before restrictions can be enacted. For example, curtailing resources to an organization (i.e., an organization that happens to be
 
-## ![](_page_58_Picture_1.jpeg)
 
 Protestors take to the streets after Russian President Vladimir Putin authorized a military operation in eastern Ukraine, in Saint Petersburg, Russia, February 24, 2022. The placard reads: 'No to war!' REUTERS/Anton Vaganov critical of the government) based on unsubstantiated accusations of illegal activity is also unlawful.
 
@@ -1517,7 +1497,6 @@ This approach would have several benets including:
 - Even with a relatively conservative denition of R2A, a great deal of impactful support to movements would be permitted. For example, information exchange and modest amounts of funding for convenings and workshops can have a major impact, if timed well and adapted to local needs.
 - The norm would be a countervailing inuence in backsliding democracies. One of the challenging aspects of backsliding is that it often involves an accumulation of technical changes that weaken democracy, but these technical changes are regarded as being within a state's sovereign purview. For example, tweaks to voter registration requirements, shifts in democratic norms, modied vetting procedures for new judges, or changes to permitting procedures for media outlets, are generally not matters on which foreign intervention is seen as legitimate. However, when aspiring autocrats begin to
 
-## ![](_page_61_Picture_1.jpeg)
 
 Members of Sudan's alliance of opposition and protest groups chant slogans outside Sudan's Central Bank during the second day of a strike, as tensions mounted with the country's military rulers over the transition to democracy, in Khartoum, Sudan May 29, 2019. REUTERS/Mohamed Nureldin Abdallah curtail civil society's rights, they move into a domain in which their governments have clearer international human rights obligations. Thus, developing a norm based on international human rights standards provides a basis for earlier pressure on backsliding democracies, without violating their sovereignty. Moreover, the right to assistance would enable support to be received by those (in civil society) who are often best positioned to contest the many incremental domestic cuts that characterize backsliding.
 
@@ -1527,7 +1506,6 @@ Subsequent steps to establishing the norm could include developing criteria for 
 
 In addition, if civil resistance movements become legally recognized under international law, this could potentially be a step toward developing international frameworks to regulate their conicts with regimes. This has been done before with violent conict—it may be possible to do so as well with civil resistance.186
 
-## ![](_page_62_Picture_1.jpeg)
 
 ## Pillar II: Policy Recommendations
 
@@ -1583,7 +1561,6 @@ Economic sanctions can be either broad (affecting an entire country) or targeted
 
 However, once imposed, sanctions no longer seem to have this stimulative eect on protest, and their impact
 
-## ![](_page_65_Picture_1.jpeg)
 
 Britain's Prime Minister Boris Johnson, Japan's Prime Minister Fumio Kishida, U. S. President Joe Biden, Germany's Chancellor Olaf Scholz, European Commission President Ursula von der Leyen, France's President Emmanuel Macron, Canadian Prime Minister Justin Trudeau and Italy's Prime Minister Mario Draghi attend a meeting alongside the G7 leaders summit at Bavaria's Schloss Elmau, near Garmisch-Partenkirchen, Germany June 28, 2022. Stefan Rousseau/Pool via REUTERS
 
@@ -1757,7 +1734,6 @@ Scenario: An authoritarian regime is actively suppressing a movement, widely det
 
 Potential response: This is the thorniest challenge and one the United States and allies have most often fallen short in eectively addressing. Absent viable options or clear benchmarks on what to do, the United States has repeatedly ratcheted up rhetoric and sanctions, but these have been unable to stop certain autocrats from committing sustained and widespread violence against their populations. In these instances—from the Lukashenko regime
 
-## ![](_page_71_Picture_1.jpeg)
 
 Tunisian ags hang on a door during a protest against President Kais Saied's referendum on a new constitution, in Tunis, Tunisia, July 23, 2022. REUTERS/Zoubeir Souissi seeking to crush its opposition, the Assad regime's atrocities against nonviolent demonstrators, the Iranian government's repeated repression of popular movements for rights and democracy, and the Myanmar military junta's killing of protesters—the standard set of economic and diplomatic tools have proven insucient to change such state behavior.
 
@@ -1767,7 +1743,6 @@ Official derecognition of the abusive regime in some cases could also be an opti
 
 Democracies may also consider using cyber tools, applying general principles to determine their use. First and foremost, democracies should consult with movements on what they think would be helpful—we should listen and seek to do no harm. Second, cyber tools might be employed to disrupt infrastructure and other sectors and not destroy them, so as not to constitute an act of war. Finally, democracies would use cyber tactics to reduce or remove resources regimes rely on for repression. Specic options include using cyberattacks—i.e., denial of service attacks—to disrupt regime access to nancial accounts; disable or disrupt military planning or weapons systems; and deter further escalation in repression. Using cyber tactics in this fashion provides deniability to help avoid escalation while possibly mitigating regime repression and thereby aiding movements.
 
-## ![](_page_72_Picture_1.jpeg)
 
 ## Pillar III: Policy Recommendations
 
@@ -1801,7 +1776,6 @@ Democracies may also consider using cyber tools, applying general principles to 
 
 ## **71**
 
-## ![](_page_73_Picture_5.jpeg)
 
 ## 6. Addressing Questions About Implementation hen lives hang in the balance, any model of external assistance for democracy and human rights must be subject to scrutiny. This section identifies questions and potential concerns about international support for movements, and establishing a right to assistance. These include:
 
@@ -1865,7 +1839,6 @@ In other cases, if multiple trusted groups are actively waging civil resistance 
 
 Concerns may be raised that support for civil resistance can increase societal instability, and therefore the risk of civil war. For example, two countries—Syria and Yemen experienced nonviolent movements in 2011 and subsequently succumbed to violent conict. In Syria, the nonviolent opposition was overcome by a violent ank that rapidly developed into an insurgency; in Yemen, civil resis-
 
-## ![](_page_76_Picture_1.jpeg)
 
 Teachers, health workers, retirees and public employees protest against the government of Venezuela's President Nicolas Maduro, in Maracay, Venezuela August 23, 2022. The banner reads "The ght (continues)." REUTERS/Gaby Oraa tance led to an environment where opposition groups began to press their claims with violence. These cases point to a disturbing fact: for all the promise that civil resistance can lead to democratic transitions, there is a subset of cases that highlights a major risk.
 
@@ -1911,7 +1884,6 @@ We further offered guidance on how to determine if a movement is nonviolent for 
 
 By relying on indicators such as a movement's core principles, statements from movement leaders, the content of movement trainings, and the practices of the vast majority of movement participants, a movement's nonviolent character can be discerned.
 
-## ![](_page_78_Picture_1.jpeg)
 
 Women, with their faces painted in the colors of Iran's ag, take part in a protest by Iranian community members to show solidarity with Iranian people, in Brussels, Belgium, February 20, 2023. REUTERS/Johanna Geron
 
@@ -1925,7 +1897,6 @@ Lastly, civil resistance movements are composed of thousands or millions of peop
 
 ## About the Authors
 
-## ![](_page_79_Picture_2.jpeg)
 
 **Hardy Merriman** is President of the International Center on Nonviolent Conict (ICNC), a Nonresident Senior Fellow in the Atlantic Council's Scowcroft Center for Strategy and Security, and was a Principal Investigator (PI) on the Fostering a Fourth Democratic Wave Project.
 
@@ -1935,7 +1906,6 @@ In addition to his leadership of the International Center on Nonviolent Conict, 
 
 His writings have been translated into numerous languages. Recent publications include coauthoring the book Glossary of Civil Resistance: A Resource for Study and Translation of Key Terms (2021), and the report "Preventing Mass Atrocities: From a Responsibility to Protect (RtoP) to a Right to Assist (RtoA) Campaigns of Civil Resistance" (2019).
 
-## ![](_page_79_Picture_7.jpeg)
 
 **Patrick Quirk, Ph. D.** is Vice President for Strategy, Innovation, and Impact at the International Republican Institute (IRI), a non-partisan organization dedicated to supporting democracy worldwide. In this role, Dr. Quirk provides the leadership, management, and vision to ensure that IRI
 
@@ -1945,7 +1915,6 @@ Before joining IRI, Dr. Quirk served on the U. S. Secretary of State's Policy Pl
 
 Prior to joining the Department of State, he was a Research Fellow at the German Marshall Fund as well as designed and implemented conflict prevention and democracy strengthening foreign assistance interventions overseas. His analysis has appeared in Foreign Policy, the Financial Times, The National Interest, NPR, and Real Clear Defense, among other outlets. Dr. Quirk earned a B. A. in History from Bates College and a Ph. D. in Political Science from Johns Hopkins University.
 
-## ![](_page_79_Picture_13.jpeg)
 
 **Ash Jain** is director for democratic order with the Scowcroft Center for Strategy and Security, where he oversees the Atlantic Council's Democratic Order Initiative and D-10 Strategy Forum. His work focuses on strengthening cooperation among democracies and advancing a rules-based, dem-
 
@@ -2223,7 +2192,6 @@ See Elizabeth A. Wilson, People Power Movements and International Human Rights: 
 - 221 Chenoweth and Stephan, Why Civil Resistance Works, 217.
 - 222 Stephan, Lakhani, and Naviwala, Aid to Civil Society, 11.
 
-## ![](_page_89_Picture_0.jpeg)
 
 #### **CHAIRMAN**
 
@@ -2289,13 +2257,11 @@ See Elizabeth A. Wilson, People Power Movements and International Human Rights: 
 
 ## *List as of March 6, 2023*
 
-## ![](_page_91_Picture_0.jpeg)
 
 The Atlantic Council is a nonpartisan organization that promotes constructive US leadership and engagement in international aairs based on the central role of the Atlantic community in meeting today's global challenges.
 
 1030 15th Street, NW, 12th Floor, Washington, DC 20005 (202) 778-4952 www. Atlantic Council.org
 
-## ![](_page_91_Picture_3.jpeg)
 
 The International Center on Nonviolent Conflict (ICNC) advances the study and practice of civil resistance to achieve rights, freedom, and justice around the world.
 

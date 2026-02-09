@@ -6,21 +6,14 @@ tags:
   - theory
 ---
 
-## ![](_page_0_Picture_3.jpeg)
-
-## ![](_page_0_Picture_4.jpeg)
-
-## ![](_page_0_Picture_6.jpeg)
 
 [Shawn Vulliez](https://medium.com/@wrong_shon?source=post_page---byline--1c3f00a7c94f---------------------------------------) · [Follow](https://medium.com/m/signin?action Url=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2F11325ecc4fec&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40wrong_shon%2Fthe-basics-of-library-socialism-wip-1c3f00a7c94f&user=Shawn+Vulliez&user Id=11325ecc4fec&source=post_page-11325ecc4fec--byline--1c3f00a7c94f---------------------post_header------------------) 11 min read · Mar 21, 2023
 
 ## ![](_page_0_Figure_8.jpeg)
 
-## ![](_page_0_Picture_10.jpeg)
 
 [Listen](https://medium.com/m/signin?action Url=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26post Id%3D1c3f00a7c94f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40wrong_shon%2Fthe-basics-of-library-socialism-wip-1c3f00a7c94f&source=---header_actions--1c3f00a7c94f---------------------post_audio_button------------------) Share
 
-## ![](_page_0_Picture_12.jpeg)
 
 [I am (slowly) building out a Library Socialism 101 article which reflects the theory as it is currently developed. Each section will likely be expanded on in the future, and more sections added. Feedback welcome, it's under construction-Shawn]
 
@@ -120,7 +113,6 @@ Organizationally, I identify Usufructian Commons, Digital Commons, Food Commons,
 
 [Libraries](https://medium.com/tag/libraries?source=post_page-----1c3f00a7c94f---------------------------------------) [Socialism](https://medium.com/tag/socialism?source=post_page-----1c3f00a7c94f---------------------------------------) [Social Ecology](https://medium.com/tag/social-ecology?source=post_page-----1c3f00a7c94f---------------------------------------)
 
-## ![](_page_9_Picture_2.jpeg)
 
 ## Follow
 
@@ -132,29 +124,21 @@ co-hosts the srsly wrong podcast
 
 #### Responses (1)
 
-## ![](_page_9_Picture_8.jpeg)
-
-## ![](_page_9_Picture_9.jpeg)
 
 ## Write a response
 
 [What are your thoughts?](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40wrong_shon%2Fthe-basics-of-library-socialism-wip-1c3f00a7c94f&source=---post_responses--1c3f00a7c94f---------------------respond_sidebar------------------)
 
-## ![](_page_9_Picture_12.jpeg)
 
 [michel meesh](https://medium.com/@michinternet7?source=post_page---post_responses--1c3f00a7c94f----0-----------------------------------) [Mar 15, 2024](https://medium.com/@michinternet7/excellent-article-2ec58d063ac8?source=post_page---post_responses--1c3f00a7c94f----0-----------------------------------)
 
 ## Excellent article
 
-## ![](_page_9_Picture_15.jpeg)
 
 ## Reply
 
 ## More from Shawn Vulliez
 
-## ![](_page_10_Picture_2.jpeg)
-
-## ![](_page_10_Picture_3.jpeg)
 
 # [The Universal Public Library](https://medium.com/@wrong_shon/the-universal-public-library-ded5b5ca4191?source=post_page---author_recirc--1c3f00a7c94f----0---------------------bd7ac4fc_8708_4184_8810_b6aa6b722bd9--------------)
 
@@ -162,7 +146,6 @@ co-hosts the srsly wrong podcast
 
 Aug 29, 2022 [45](https://medium.com/@wrong_shon/the-universal-public-library-ded5b5ca4191?source=post_page---author_recirc--1c3f00a7c94f----0---------------------bd7ac4fc_8708_4184_8810_b6aa6b722bd9--------------)
 
-## ![](_page_10_Picture_7.jpeg)
 
 ## ![](_page_11_Figure_2.jpeg)
 
@@ -170,9 +153,6 @@ Aug 29, 2022 [45](https://medium.com/@wrong_shon/the-universal-public-library-de
 
 [As an idea, and as a social formation, hierarchy is an incoherent and violent mess for humanity.](https://medium.com/@wrong_shon/hierarchy-doesnt-work-v0-8-7086e5949eb7?source=post_page---author_recirc--1c3f00a7c94f----1---------------------bd7ac4fc_8708_4184_8810_b6aa6b722bd9--------------)
 
-## ![](_page_11_Picture_5.jpeg)
-
-## ![](_page_11_Picture_6.jpeg)
 
 #### [Recipe for Utopian Trajectory](https://medium.com/@wrong_shon/how-to-take-library-socialist-action-v-02-71c162909eac?source=post_page---author_recirc--1c3f00a7c94f----2---------------------bd7ac4fc_8708_4184_8810_b6aa6b722bd9--------------)
 
@@ -180,9 +160,6 @@ Aug 29, 2022 [45](https://medium.com/@wrong_shon/the-universal-public-library-de
 
 Aug 4, 2023 [23](https://medium.com/@wrong_shon/how-to-take-library-socialist-action-v-02-71c162909eac?source=post_page---author_recirc--1c3f00a7c94f----2---------------------bd7ac4fc_8708_4184_8810_b6aa6b722bd9--------------) [1](https://medium.com/@wrong_shon/how-to-take-library-socialist-action-v-02-71c162909eac?source=post_page---author_recirc--1c3f00a7c94f----2---------------------bd7ac4fc_8708_4184_8810_b6aa6b722bd9--------------)
 
-## ![](_page_12_Picture_2.jpeg)
-
-## ![](_page_12_Picture_3.jpeg)
 
 [Shawn Vulliez](https://medium.com/@wrong_shon?source=post_page---author_recirc--1c3f00a7c94f----3---------------------bd7ac4fc_8708_4184_8810_b6aa6b722bd9--------------)
 
@@ -196,7 +173,6 @@ Aug 29, 2022 [1](https://medium.com/@wrong_shon/cooperative-difference-bb1db8256
 
 #### Recommended from Medium
 
-## ![](_page_13_Picture_2.jpeg)
 
 ## ![](_page_13_Figure_3.jpeg)
 
@@ -204,9 +180,6 @@ Aug 29, 2022 [1](https://medium.com/@wrong_shon/cooperative-difference-bb1db8256
 
 [Jeff Bezos's morning routine has long included the one-hour rule. New neuroscience says yours](https://medium.com/@entrylevelrebel/jeff-bezos-says-the-1-hour-rule-makes-him-smarter-new-neuroscience-says-hes-right-84bf0a6755cf?source=post_page---read_next_recirc--1c3f00a7c94f----0---------------------dd7fd21c_42d8_47a0_bc2b_9ae42e55f2de--------------) [probably should too.](https://medium.com/@entrylevelrebel/jeff-bezos-says-the-1-hour-rule-makes-him-smarter-new-neuroscience-says-hes-right-84bf0a6755cf?source=post_page---read_next_recirc--1c3f00a7c94f----0---------------------dd7fd21c_42d8_47a0_bc2b_9ae42e55f2de--------------)
 
-## ![](_page_13_Picture_6.jpeg)
-
-## ![](_page_13_Picture_7.jpeg)
 
 ## ![](_page_14_Figure_2.jpeg)
 
@@ -214,9 +187,6 @@ Aug 29, 2022 [1](https://medium.com/@wrong_shon/cooperative-difference-bb1db8256
 
 [The vultures are circling the tech giant.](https://medium.com/predict/this-is-how-tesla-will-die-d0ca25199b9f?source=post_page---read_next_recirc--1c3f00a7c94f----1---------------------dd7fd21c_42d8_47a0_bc2b_9ae42e55f2de--------------)
 
-## ![](_page_14_Picture_5.jpeg)
-
-## ![](_page_14_Picture_6.jpeg)
 
 ## ![](_page_14_Figure_7.jpeg)
 
@@ -226,19 +196,11 @@ Aug 29, 2022 [1](https://medium.com/@wrong_shon/cooperative-difference-bb1db8256
 
 ## ![](_page_14_Figure_10.jpeg)
 
-## ![](_page_15_Picture_2.jpeg)
-
-## ![](_page_15_Picture_3.jpeg)
 
 # [I Pretended to Be a Man on a Dating Site—And I Hate What I Discovered](https://medium.com/@Effycutiex/i-pretended-to-be-a-man-on-a-dating-site-and-i-hate-what-i-discovered-4f624593523a?source=post_page---read_next_recirc--1c3f00a7c94f----1---------------------dd7fd21c_42d8_47a0_bc2b_9ae42e55f2de--------------)
 
 [As a 23-year-old woman fascinated by human behavior \(and, let's be honest, sometimes just](https://medium.com/@Effycutiex/i-pretended-to-be-a-man-on-a-dating-site-and-i-hate-what-i-discovered-4f624593523a?source=post_page---read_next_recirc--1c3f00a7c94f----1---------------------dd7fd21c_42d8_47a0_bc2b_9ae42e55f2de--------------) [bored and curious\), I decided to conduct a…](https://medium.com/@Effycutiex/i-pretended-to-be-a-man-on-a-dating-site-and-i-hate-what-i-discovered-4f624593523a?source=post_page---read_next_recirc--1c3f00a7c94f----1---------------------dd7fd21c_42d8_47a0_bc2b_9ae42e55f2de--------------)
 
-## ![](_page_15_Picture_6.jpeg)
-
-## ![](_page_15_Picture_7.jpeg)
-
-## ![](_page_16_Picture_2.jpeg)
 
 In by Wall Street Gradient [Shubhransh Rai](https://medium.com/@shubhranshrai?source=post_page---read_next_recirc--1c3f00a7c94f----2---------------------dd7fd21c_42d8_47a0_bc2b_9ae42e55f2de--------------)
 

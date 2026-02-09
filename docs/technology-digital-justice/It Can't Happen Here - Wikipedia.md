@@ -12,11 +12,9 @@ tags:
 
 ## Contributors to Wikimedia projects
 
-24–31 minutes
 
 ## From Wikipedia, the free encyclopedia
 
-## ![](_page_0_Picture_8.jpeg)
 
 ## First edition
 
@@ -57,13 +55,9 @@ General Emmanuel Coon, one of Haik's senior officers, defects to the opposition 
 
 Reviewers at the time[,\[4\]](#page-13-3) and historians and literary critics ever since, have emphasized the resemblance to Louisiana politician [Huey Long,](https://en.wikipedia.org/wiki/Huey_Long) who used strong-arm political tactics and who was building a nationwide ["Share Our Wealth"](https://en.wikipedia.org/wiki/Share_Our_Wealth) organization in preparing to run for president in the [1936](https://en.wikipedia.org/wiki/1936_United_States_presidential_election) [election](https://en.wikipedia.org/wiki/1936_United_States_presidential_election). Long was assassinated in 1935 just prior to the novel's publication[.\[5\]](#page-13-4)[\[6\]](#page-14-0)[\[7\]](#page-14-1)[\[8\]](#page-14-2) The inspiration for Windrip backer Bishop Prang was renowned radio priest [Charles Coughlin,](https://en.wikipedia.org/wiki/Charles_Coughlin) [\[9\]](#page-14-3) [\[10\]](#page-14-4) who in real life conspired with Long to oust Roosevelt in the 1936 U. S. presidential election[.\[11\]](#page-14-5)[\[10\]](#page-14-4)
 
-![](_page_5_Picture_3.jpeg)
 
 Poster for the stage adaptation of It Can't Happen Here, October 27, 1936, at the Lafayette Theater as part of the [Detroit](https://en.wikipedia.org/wiki/Detroit) [Federal Theatre](https://en.wikipedia.org/wiki/Federal_Theater_Project)
 
-## ![](_page_5_Picture_5.jpeg)
-
-## ![](_page_6_Picture_2.jpeg)
 
 Poster for the Federal Theatre Project presentation of It Can't Happen Here at the [Adelphi Theatre](https://en.wikipedia.org/wiki/Adelphi_Theatre_(New_York_City)) in New York City, showing the Statue of Liberty
 

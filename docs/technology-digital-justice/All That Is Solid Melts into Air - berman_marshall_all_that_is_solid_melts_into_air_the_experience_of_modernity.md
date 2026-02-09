@@ -13,13 +13,11 @@ tags:
 
 ### All That Is Solid Melts
 
-## ![](_page_0_Picture_2.jpeg)
 
 ## THE EXPERIENCE OF MODERNITY
 
 ## Marshall Berman
 
-## ![](_page_0_Picture_5.jpeg)
 
 # fin That Is
 

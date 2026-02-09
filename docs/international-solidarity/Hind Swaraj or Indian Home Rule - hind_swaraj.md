@@ -11,15 +11,11 @@ tags:
 
 ## M. K. Gandhi
 
-## ![](_page_0_Picture_2.jpeg)
-
-## ![](_page_1_Picture_0.jpeg)
 
 ## By : M. K. Gandhi
 
 **Printed & Published by: Jitendra T Desai Navajivan Publishing House Ahmedabad 380 014 (INDIA)**
 
-## ![](_page_1_Picture_4.jpeg)
 
 # **TO THE READER**
 
@@ -61,7 +57,6 @@ I would like to say to the diligent reader of my writings and to others who are 
 - 17. Passive Resistance
 - 18. Education
 
-## ![](_page_3_Picture_25.jpeg)
 
 - 19. Machinery
 - 20. Conclusion
@@ -110,7 +105,6 @@ What is a common feature of all the other appreciative reviews of the book is in
 
 But he added: "Ideally, I would rule out all machinery, even as I would reject this very body, which is not helpful to salvation, and seek the absolute liberation of the soul. From that point of view I would reject all machinery, but machines will remain because, like the body, they are inevitable. The body itself, as I told you,
 
-## ![](_page_8_Picture_9.jpeg)
 
 is the purest piece of mechanism; but if it is a hindrance to the highest flights of the soul, it has to be rejected."
 
@@ -122,7 +116,6 @@ Similarly about Western civilization Mr. G. D. H. Cole counters the proposition 
 
 G. D. H. Cole has put the following poser: "Is it so when German and Italian airmen are massacring the Spanish people, when Japanese airmen are slaughtering thousands upon thousands in Chinese cities, when German armies have marched into Austria and are threatening to march into Czechoslovakia, when Abyssinia has been bloodily bombed into defeat? Until two years or so ago, I believed myself opposed to war and death-dealing violence under all circumstances. But today, hating war, I would risk war to stop these horrors." How acute is the struggle within himself is apparent from the sentences that follow: "I would risk war; and yet, even now, that second self of mine shrinks
 
-## ![](_page_9_Picture_6.jpeg)
 
 back appalled at the thought of killing a man. Personally, I would much sooner die than kill. But may it not be my duty to try to kill rather than to die? Gandhi might answer that no such dilemma could confront a man who had achieved his personal Swaraj. I do not claim to have achieved mine; but I am unconvinced that the dilemma would confront me, here and now in Western Europe, less disturbingly if I had."
 
@@ -130,7 +123,6 @@ Occasions like those Mr. Cole has mentioned test one's faith, but the answer has
 
 Your enemy is the Japanese Government and not the Japanese peasants and soldiers—unfortunate and uneducated people who do not even know why they are being asked to fight. Yet, if you use ordinary military methods of defending your country, it is these guiltless people who are not your real enemies whom you must kill. If only China would try and preserve herself by the non-violent tactics used by Gandhiji in India, tactics which are indeed far more in accordance with the teachings of her great religious leaders, she would, I venture to say, be far more successful than she will by copying the militarist methods of Europe.... Surely it is a lesson to mankind in general that the Chinese, the most pacific people on earth, have preserved themselves and their civilization for a longer period in history than any of the warlike races. Please do not think we do not honour those gallant Chinese who are fighting in defence of their country. We honour their sacrifice and recognize that they hold different principles from ourselves. None the less, we believe that killing is evil in all circumstances and out of it good cannot come. Pacifism will not spare you
 
-## ![](_page_10_Picture_4.jpeg)
 
 from all suffering, but in the long run, it is, I believe, a more effective weapon against the would-be conqueror than all your fighting forces; and what is most important, it will keep alive the ideals of your race.
 
@@ -152,7 +144,6 @@ But whether India may be ripe for it or not, it is best for Indians to study the
 
 ## Wardha, 02-02-1938 Mahadev Desai
 
-## ![](_page_13_Picture_5.jpeg)
 
 # **A WORD OF EXPLANATION**
 
@@ -164,7 +155,6 @@ The booklet is a severe condemnation of 'modern civilization'. It was written in
 
 But I would warn the reader against thinking that I am today aiming at the Swaraj described therein. I know that India is not ripe for it. It may seem an impertinence to say so. But such is my conviction. I am individually working for the self-rule pictured therein. But today my corporate activity is undoubtedly devoted to the attainment of Parliamentary Swaraj in accordance with the wishes of the people of India. I am not aiming at destroying railways or hospitals,
 
-## ![](_page_14_Picture_6.jpeg)
 
 though I would certainly welcome their natural destruction. Neither railways nor hospitals are a test of a high and pure civilization. At best they are a necessary evil. Neither adds one inch to the moral stature of a nation. Nor am I aiming at a permanent destruction of law courts, much as I regard it as a 'consummation devoutly to be wished'. Still less am I trying to destroy all machinery and mills. It requires a higher simplicity and renunciation than the people are today prepared for.
 
@@ -174,7 +164,6 @@ I offer these comments because I observe that much is being quoted from the book
 
 ## Young India, January, 1921 M. K. Gandhi
 
-## ![](_page_15_Picture_6.jpeg)
 
 # **A MESSAGE**
 
@@ -200,7 +189,6 @@ I offer these comments because I observe that much is being quoted from the book
 
 **Editor:** That opinion is not justified. Had not the Grand Old Man of India prepared the soil, our young men could not have even spoken about Home Rule. How can we forget what Mr. Hume has written, how he has lashed us into action, and with what effort he has awakened us, in order to achieve the objects of the Congress ? Sir William Wedderburn has given his body, mind and money to the same cause. His writings are worthy of perusal to this day. Professor Gokhale in order to prepare the nation, embraced poverty and gave twenty years of his life. Even now, he is living in poverty. The late Justice Budruddin Tyebji was also one of those who, through the Congress, sowed the seed of Home Rule. Similarly, in
 
-## ![](_page_17_Picture_8.jpeg)
 
 Bengal, Madras, the Punjab and other places, there have been lovers of India and members of the Congress, both Indian and English.
 
@@ -220,7 +208,6 @@ Bengal, Madras, the Punjab and other places, there have been lovers of India and
 
 **Editor:** I never said any such thing. If we conscientiously differed from him, the learned Professor himself would advise us to follow the dictates of our conscience
 
-## ![](_page_19_Picture_6.jpeg)
 
 rather than him. Our chief purpose is not to decry his work, but to believe that he is infinitely greater than we are, and to feel assured that compared with his work for India, ours is infinitesimal. Several newspapers write disrespectfully of him. It is our duty to protest against such writings. We should consider men like Professor Gokhale to be the pillars of Home Rule. It is bad habit to say that another man's thoughts are bad and ours only are good and that those holding different views from ours are the enemies of the country.
 
@@ -232,7 +219,6 @@ rather than him. Our chief purpose is not to decry his work, but to believe that
 
 **Editor:** I have no desire to do so. That you are prejudiced against me is not a matter for much anxiety. It is well that I should say unpleasant things at the commencement. It is my duty patiently to try to remove your prejudice.
 
-## ![](_page_20_Picture_6.jpeg)
 
 **Reader:** I like that last statement. It emboldens me to say what I like. One thing still puzzles me. I do not understand how the Congress laid the foundation of Home Rule.
 
@@ -278,7 +264,6 @@ rather than him. Our chief purpose is not to decry his work, but to believe that
 
 **Reader:** Because India has become impoverished by their Government. They take away our money from year to year. The most important posts are reserved for
 
-## ![](_page_25_Picture_9.jpeg)
 
 themselves. We are kept in a state of slavery. They behave insolently towards us and disregard our feelings.
 
@@ -294,7 +279,6 @@ themselves. We are kept in a state of slavery. They behave insolently towards us
 
 **Reader:** I have placed before you my idea of Swaraj as I think it should be. If the education we have received be of any use, if the works of Spencer, Mill and others be of any importance, and if the English Parliament be the Mother of Parliaments, I certainly think that we should copy the English people, and this to such an extent that, just as they do not allow others to obtain a footing in their country, so we should not allow them or others to obtain it in ours. What they have done in their own country has not been done in any other country. It is, therefore, proper for us to import their institutions. But now I want to know your views.
 
-## ![](_page_26_Picture_8.jpeg)
 
 **Editor:** There is need for patience. My views will develop of themselves in the course of this discourse. It is as difficult for me to understand the true nature of Swaraj as it seems to you to be easy. I shall, therefore, for the time being, content myself with endeavouring to show that what you call Swaraj is not truly Swaraj.
 
@@ -316,7 +300,6 @@ themselves. We are kept in a state of slavery. They behave insolently towards us
 
 **Editor:** Yes, that is true; I can have nothing against Prime Ministers, but what I have seen leads me to think that they cannot be considered really patriotic. If they are to be considered honest because they do not take what are generally known as bribes, let them be so considered, but they are open to subtler influences. In order to gain their ends, they certainly bribe people with honours. I do not hesitate to say that they have neither real honesty nor a living conscience.
 
-## ![](_page_29_Picture_6.jpeg)
 
 **Reader:** As you express these views about Parliament, I would like to hear you on the English people, so that I may have your view of their Government.
 
@@ -388,7 +371,6 @@ This civilization is such that one has only to be patient and it will be selfdes
 
 **Editor:** If you give the matter some thought, you will see that the terror was by no means such a mighty thing. If it had been a very substantial thing, the other people would have died away before the English advent. Moreover, the present peace is only nominal, for by it we have become emasculated and cowardly. We are not to assume that the English have changed the nature of the Pindaris and the Bhils. It is, therefore, better to suffer the Pindari peril than that someone else should protect us from it and thus render us effeminate. I should prefer to be killed by the arrow of a Bhil than to seek unmanly protection. India without
 
-## ![](_page_38_Picture_7.jpeg)
 
 such protection was an India full of valour. Macaulay betrayed gross ignorance when he libelled Indians as being practically cowards. They never merited the charge. Cowards living in a country inhabited by hardy mountaineers and infested by wolves and tigers must surely find an early grave. Have you ever visited our fields? I assure you that our agriculturists sleep fearlessly on their farms even today; but the English and you and I would hesitate to sleep where they sleep. Strength lies in absence of fear, not in the quantity of flesh and muscle we may have on our bodies. Moreover, I must remind you who desire Home Rule that, after all, the Bhils, the Pindaris, and the Thugs are our own countrymen. To conquer them is your and my work. So long as we fear our own brethren, we are unfit to reach the goal.
 
@@ -422,7 +404,6 @@ such protection was an India full of valour. Macaulay betrayed gross ignorance w
 
 **Editor:** I do not wish to suggest that because we were one nation we had no differences, but it is submitted that our leading men travelled throughout India either on foot or in bullock-carts. They learned one another's languages and there was no aloofness between them. What do you think could have been the intention of those farseeing ancestors of ours who established Setubandha (Rameshwar) in the South, Jagannath in the East and Hardwar in the North as places of pilgrimage? You will admit they were no fools. They knew that worship of God could have been performed just as well at home. They taught us that those whose
 
-## ![](_page_41_Picture_8.jpeg)
 
 hearts were aglow with righteousness had the Ganges in their own homes. But they saw that India was one undivided land so made by nature. They, therefore, argued that it must be one nation. Arguing thus, they established holy places in various parts of India, and fired the people with an idea of nationality in a manner unknown in other parts of the world.
 
@@ -462,7 +443,6 @@ These thoughts are put into our minds by selfish and false religious teachers. T
 
 Those who do not wish to misunderstand things may read up the *Koran*, and they will find therein hundreds of passages acceptable to the Hindus; and the *Bhagavad-gita* contains passages to which not a Mahomedan can take exception. Am I to dislike a Mahomedan because there are passages in the *Koran* I do not understand or like? It takes two to make a quarrel. If I do not want to quarrel with a Mahomedan, the latter will be powerless to foist a quarrel on me; and, similarly, I should be powerless if a Mahomedan refuses his assistance to quarrel with me. An arm striking the air will become disjointed. If everyone will try to understand the core of his own religion and adhere to it, and will not allow false teachers to dictate to him, there will be no room left for quarrelling.
 
-## ![](_page_46_Picture_6.jpeg)
 
 **Reader:** But will the English ever allow the two bodies to join hands?
 
@@ -546,7 +526,6 @@ Now you see what I consider to be real civilization. Those who want to change co
 
 **Reader:** In the same way as Italy did it. What was possible for Mazzini and Garibaldi is possible for us. You cannot deny that they were very great men.
 
-## ![](_page_57_Picture_9.jpeg)
 
 # **15. ITALY AND INDIA**
 
@@ -616,7 +595,6 @@ To use brute-force, to use gunpowder, is contrary to passive resistance, for it 
 
 **Editor:** This is gross ignorance. Passive resistance, that is, soul-force, is matchless. It is superior to the force of arms. How, then, can it be considered only a weapon of the weak? Physical-force men are strangers to the courage that is requisite in a passive resister. Do you believe that a coward can ever disobey a law that he dislikes? Extremists are considered to be advocates of brute force. Why do they, then, talk about obeying laws? I do not blame them. They can say nothing else. When they succeed in driving out the English and they themselves become governors, they will want you and me to obey their laws. And that is a
 
-## ![](_page_70_Picture_6.jpeg)
 
 fitting thing for their constitution. But a passive resister will say he will not obey a law that is against his conscience, even though he may be blown to pieces at the mouth of cannon.
 
@@ -630,7 +608,6 @@ Passive resistance is an all-sided sword, it can be used anyhow; it blesses him 
 
 **Editor:** Evidently, in your opinion, India means its few princes. To me it means its teeming millions on whom depends the existence of its princes and our own. Kings will always use their kingly weapons. To use force is bred in them. They want to command, but those who have to obey commands do not want guns: and these are in a majority throughout the world. They have to learn either bodyforce or soul-force. Where they learn the former, both the rulers and the ruled become like so many madmen; but where they learn soul force, the commands of the rulers do not go beyond the point of their swords, for true men disregard
 
-## ![](_page_71_Picture_7.jpeg)
 
 unjust commands. Peasants have never been subdued by the sword, and never will be. They do not know the use of the sword, and they are not frightened by the use of it by others. That nation is great which rests its head upon death as its pillow. Those who defy death are free from all fear. For those who are labouring under the delusive charms of brute-force, this picture is not overdrawn. The fact is that, in India, the nation at large has generally used passive resistance in all departments of life. We cease to co-operate with our rulers when they displease us. This is passive resistance.
 
@@ -644,7 +621,6 @@ I remember an instance when, in a small principality, the villagers were offende
 
 **Editor:** To become a passive resister is easy enough but it is also equally difficult. I have known a lad of fourteen years become a passive resister; I have known also sick people do likewise; and I have also known physically strong and otherwise happy people unable to take up passive resistance. After a great deal
 
-## ![](_page_72_Picture_7.jpeg)
 
 of experience it seems to me that those who want to become passive resisters for the service of the country have to observe perfect chastity, adopt poverty, follow truth, and cultivate fearlessness.
 
@@ -656,7 +632,6 @@ Passive resistance has been described in the course of our discussion as truthfo
 
 Passive resistance cannot proceed a step without fearlessness. Those alone can follow the path of passive resistance who are free from fear, whether as to their
 
-## ![](_page_73_Picture_6.jpeg)
 
 possessions, false honour, their relatives, the government, bodily injuries or death. These observances are not to be abandoned in the belief that they are difficult. Nature has implanted in the human breast ability to cope with any difficulty or suffering that may come to man unprovoked. These qualities are worth having, even for those who do not wish to serve the country. Let there be no mistake, as those who want to train themselves in the use of arms are also obliged to have these qualities more or less. Everybody does not become a warrior for the wish. A would-be warrior will have to observe chastity and to be satisfied with poverty as his lot. A warrior without fearlessness cannot be conceived of. It may be thought that he would not need to be exactly truthful, but that quality follow real fearlessness. When a man abandons truth, he does so owing to fear in some shape or form. The above four attributes, then, need not frighten anyone. It may be as well here to note that a physical-force man has to have many other useless qualities which a passive resister never needs. And you will find that whatever extra effort a swordsman needs is due to lack of fearlessness. If he is an embodiment of the latter, the sword will drop from his hand that very moment. He does not need its support. One who is free from hatred requires no sword. A man with a stick suddenly came face to face with a lion and instinctively raised his weapon in self-defence. The man saw that he had only prated about fearlessness when there was none in him. That moment he dropped the stick and found himself free from all fear.
 
@@ -730,7 +705,6 @@ The workers in the mills of Bombay have become slaves. The condition of the wome
 
 Do not, therefore, forget the main thing. It is necessary to realize that machinery is bad. We shall then be able gradually to do away with it. Nature has not provided any way whereby we may reach a desired goal all of a sudden. If, instead of welcoming machinery as a boon, we should look upon it as an evil, it would ultimately go.
 
-## ![](_page_82_Picture_7.jpeg)
 
 # **20. CONCLUSION**
 
@@ -760,7 +734,6 @@ If this idea were carried out, both the extremists and the moderates could join 
 
 "You, English, who have come to India are not good specimens of the English nation, nor can we, almost half-Anglicized Indians, be considered good specimens of the real Indian nation. If the English nation were to know all you have done, it would oppose many of your actions. The mass of the Indians have had few dealings with you. If you will abandon your so-called civilization and search into your own scriptures, you will find that our demands are just. Only on condition of our demands being fully satisfied may you remain in India; and if
 
-## ![](_page_85_Picture_6.jpeg)
 
 you remain under those conditions, we shall learn several things from you and you will learn many from us. So doing we shall benefit each other and the world. But that will happen only when the root of our relationship is sunk in a religions soil."
 
@@ -779,7 +752,6 @@ you remain under those conditions, we shall learn several things from you and yo
 - 1. He will only on rare occasions make use of the English language.
 - 2. If a lawyer, he will give up his profession, and take up a hand-loom.
 
-## ![](_page_86_Picture_10.jpeg)
 
 - 3. If a lawyer, he will devote his knowledge to enlightening both his people and the English.
 - 4. If a lawyer, he will not meddle with the quarrels between parties but will give up the courts, and from his experience induce the people to do likewise.
@@ -792,7 +764,6 @@ you remain under those conditions, we shall learn several things from you and yo
 - 11. Like every other Indian, he will know that this is a time for repentance, expiation and mourning.
 - 12. Like every other Indian, he will know that to blame the English is useless, that they came because of us, and remain also for the same reason, and that they will either go or change their nature only when we reform ourselves.
 
-## ![](_page_87_Picture_11.jpeg)
 
 - 13. Like others, he will understand that at a time of mourning, there can be no indulgence, and that, whilst we are in a fallen state, to be in gaol or in banishment is much the best.
 - 14. Like others, he will know that it is superstition to imagine it necessary that we should guard against being imprisoned in order that we may deal with the people.
@@ -808,7 +779,6 @@ you remain under those conditions, we shall learn several things from you and yo
 
 1. Real home-rule is self-rule or self-control.
 
-## ![](_page_88_Picture_11.jpeg)
 
 - 2. The way to it is passive resistance: that is soul-force or love-force.
 - 3. In order to exert this force, Swadeshi in every sense is necessary.
@@ -862,7 +832,6 @@ The following books are recommended for perusal to follow up the study of the fo
 
 ## *Paradoxes of Civilization—Max* Nordau
 
-## ![](_page_90_Picture_24.jpeg)
 
 ## *Poverty and Un-British Rule in India*—Naoroji
 
@@ -888,7 +857,6 @@ The following extracts from Mr. Alfred Webb's valuable collection show that the 
 
 **On** the other hand when we read with attention the poetical and philosophical movements of the East, above all, those of India, which are beginning to spread
 
-## ![](_page_91_Picture_13.jpeg)
 
 in Europe, we discover there so many truths, and truths, so profound, and which make such a contrast with the meanness of the results at which the European genius has some times stopped, that we are constrained to bend the knee before that of the East, and do see in this cradle of the human race the native land of the highest philosophy.
 
@@ -906,7 +874,6 @@ in Europe, we discover there so many truths, and truths, so profound, and which 
 
 **The** authority of married women within their houses is chiefly exerted in preserving good order and peace among the persons who compose their families; and a great many among them discharge this important duty with a prudence and a discretion which have scarcely a parallel in Europe. I have known families
 
-## ![](_page_92_Picture_9.jpeg)
 
 composed of between thirty and forty persons, or more, consisting of grown up sons and daughters, all married and all having children, living together under the superintendence of an old matron—their mother or mother-in-law. The latter, by good management, and by accommodating herself to the temper of the daughters-in-law, by using, according to circumstances firmness or forbearance, succeeded in preserving peace and harmony during many years amongst so many females, who had all jarring tempers. I ask you whether it would be possible to attain the same end, in the same circumstances, in our countries, where it is scarcely possible to make two women living under the same roof to agree together.
 
@@ -920,7 +887,6 @@ In fact, there is perhaps no kind of honest employment in a civilized country in
 
 Those races (the Indian viewed from a moral aspect) are perhaps the most remarkable people in the world. They breathe an atmosphere of moral purity, which cannot but excite admiration, and this is especially the case with the poorer classes, who, notwithstanding the privations of their humble lot, appear to be happy and contented. True children of nature, they live on from day to day, taking no thought for the morrow and thankful for the simple fare which
 
-## ![](_page_93_Picture_7.jpeg)
 
 Providence has provided for them. It is curious to witness the spectacle of coolies of both sexes returning home at nightfall after a hard day's work often lasting from sunrise to sunset. In spite of fatigue from the effects of the unremitting toil, they are, for the most part gay and animated, conversing cheerfully together and occasionally breaking into snatches of light-hearted song. Yet what awaits them on their return to the hovels which they call home? A dish of rice for food, and the floor for a bed. Domestic felicity appears to be the rule among the Natives, and this is the more strange when the customs of marriage are taken into account, parents arranging all such matters. Many Indian households afford examples of the married state in its highest degree of perfection. This may be due to the teachings of the Shastras, and to the strict injunctions which they inculcate with regard to marital obligation; but it is no exaggeration to say that husbands are generally devotedly attached to their wives, and in many instances the latter have the most exalted conception of their duties towards their husbands.
 
@@ -934,6 +900,5 @@ Providence has provided for them. It is curious to witness the spectacle of cool
 
 **The** Indian village has thus for centuries remained a bulwark against political disorder, and the home of the simple domestic and social virtues. No wonder,
 
-## ![](_page_94_Picture_7.jpeg)
 
 therefore, that philosophers and historians have always dwelt lovingly on this ancient institution which is the natural social unit and the best type of rural life: self-contained, industrious, peace-loving, conservative in the best sense of the word.... I think you will agree with me that there is much that is both picturesque and attractive in this glimpse of social and domestic life in an Indian village. It is a harmless and happy form of human existence. Moreover, it is not without good practical outcome.

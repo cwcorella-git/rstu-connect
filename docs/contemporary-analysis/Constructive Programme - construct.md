@@ -11,7 +11,6 @@ tags:
 
 ## By: M. K. Gandhi
 
-## ![](_page_0_Picture_3.jpeg)
 
 ## **CONTENTS**
 

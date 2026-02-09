@@ -7,7 +7,6 @@ tags:
   - feminism
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 ## Journal of Contemporary Urban Affairs
 
@@ -15,13 +14,9 @@ tags:
 
 ## \* Dr. SENEM ZEYBEKOGLU
 
-## ![](_page_0_Picture_5.jpeg)
 
 ### A B S T R A C T
 
-## ![](_page_0_Picture_7.jpeg)
-
-## ![](_page_0_Picture_8.jpeg)
 
 Article history: Received 12 May 2019 Accepted 11 June 2019 Available online 24 June 2019
 
@@ -33,7 +28,6 @@ Urban Transformation, The Right to the City, Neoliberal Urbanization, Urban Righ
 
 This work is licensed under a Creative Commons Attribution - Non Commercial - No Derivs 4.0. "CC-BY-NC-ND"
 
-## ![](_page_0_Picture_13.jpeg)
 
 ## Access at www.ijcua.com
 
@@ -57,7 +51,6 @@ Associate Professor of Architecture and Urban Design at Girne American Universit
 
 How to Cite this Article:
 
-## ![](_page_1_Picture_1.jpeg)
 
 be able to feed the growing urban population of the world, larger scale and more industrialized agriculture practices are being applied which result in environmental degradation such as deforestation, degeneration of ecosystems, loss of soil and the production of corps with reduced nutrition values. All these environmental distortions cause social consequences such as unemployment, poverty, and hunger.
 
@@ -83,7 +76,6 @@ In his seminal book "The Production of Space", Henri Lefebvre states that every 
 
 In today's cities, the contradiction between use value and exchange value have become even more explicit. Today, main driving force behind many urban design and development projects is to attract the global capital, finance and international professional elite to cities, a target
 
-## ![](_page_2_Picture_1.jpeg)
 
 set by neo-liberal economy policies. Projects of luxurious residential buildings, gated communities, shopping and retail centers are realized through privatization and commodification of urban environments from land to water, from nature to history. As a result of this economic system and urbanization approach, more people are becoming impoverished and dispossessed, and forced to live under condition of poverty, without access to proper housing, infrastructure and public services. The environmental and social cost of this transformation is paid off by the impoverished and the dispossessed.
 
@@ -101,7 +93,6 @@ One of the most extensive urban interferences of this period is the renovation o
 
 David Harvey evaluates Haussmann's plan as a device for resolving the added surplus value and unemployment problems by means of town planning, and claims that as a result of his work, Haussmann has changed the scale urban processes were envisioned (Harvey, 2008). Haussmann's Renovation of Paris is an example of the hegemony placed on the social space by the abstract space. A new function assigned for the urban space (planned abstract space)
 
-## ![](_page_3_Picture_1.jpeg)
 
 suggested by administrators or investors developed in contrast with the opinions of people living in that urban space and their use of urban space (social space). This contradiction is effective in the embodiment, development and transformation of today's cities as well (Gotham, Shefner, and Brumley, 2001).
 
@@ -111,7 +102,6 @@ Within this competitive environment, urban managements began to work for produci
 
 Early examples of prestige projects first appeared as rehabilitation projects in coastal areas within the port cities of North America, and then they became widespread all around the world. Boston Quincy Market where old market buildings within the port area were
 
-## ![](_page_4_Picture_1.jpeg)
 
 renovated as restaurants, shops and entertainment spaces; South Street Seaport including restaurants, cafés, shopping centres and a museum constructed upon the renewal of historical trade buildings in New York Port area; and Port of Baltimore where historical warehouses and quay structures were destroyed and improved as culture and festival spaces can be arrayed as examples of these projects which had significant impacts on their European counterparts (Bianchini, 1993). Birmingham International Convention Centre, Canary Wharf office buildings in London Docklands, renovation of Duisburg Port area in the region of Ruhr, Kop van Zuid in Rotterdam and projects of Waterfront Hall and Belfast Hilton in Belfast can be set as examples for prestige projects implemented in Europe during the 1980s (Percy, 2003).
 
@@ -127,7 +117,6 @@ Can we think of the right to the city as a solution to the problems in the urban
 
 Lefebvre's idea of the right to the city has been the source of inspiration for struggles regarding the access to urban public space and citizenship rights in many countries around the
 
-## ![](_page_5_Picture_1.jpeg)
 
 world. Academic studies conducted in this field emphasize a new concept of citizenship and bring forward a variety of issues related to that such as use of public spaces, accessibility in urban space, access to water, immigration, male domination, homelessness, globalization, urban regeneration, social justice and urban citizenship (UN-HABITAT, ISSC, UNESCO, 2010). As a result of these problems starting to be discussed in detail, various charters and declarations about providing human rights in cities have been constituted through discussions, meetings and gatherings of several NGO's, human rights groups and local governments at international, regional, national and local levels. At global scale, World Charter on the Right to the City was first presented at the Social Forum of the Americas in Quito, and at the 2nd World Urban Forum in Barcelona in 2004 by HIC, COHRE, FNRU and Action Aid, and in 2005 World Charter for the Right to the City was adopted at the World Social Forum in Porto Alegre, Brazil (Meyer, 2009). The European Urban Charter was adopted by the Congress of Local and Regional Authorities of the Council of Europe in 1992 and was updated in 2008 under the title European Urban Charter II - Manifesto for a new urbanity with a focus on sustainability (Council of Europe, 2009). In addition to this, European Charter for Women in the City, a research study supported by the Commission of the European Union's Equal Opportunities Unit dated 1994 (EUROCULTURES et.al, 1994) and The European Charter for the Safeguarding of Human Rights in the City, first drafted in "Cities for Human Rights Conference" in Barcelona in 1998, and finalized and adopted in Saint-Denis in 2000 can be given as examples of charters at regional level (United Cities and Local Governments, 2012). At national level, The Brazilian Federal Law on Urban Development, known as the The City Statute of Brazil was accepted as a part of the federal constitution in 2001 (Cities Alliance & Brazil Ministry of Cities, 2010). At city scale, the Montréal Charter of Rights and Responsibilities was first adopted in 2005 by the Montréal City Council, and it came into force in 2006 (Montreal City Council, 2005). Apart from the City Statute of Brazil, above mentioned charters are not legally binding documents, but rather texts of commitment to universal values of democracy, justice, equity and inclusion that can be used as guidelines for local governance. Although their focuses may vary, there are some common issues that all of them try to respond such as equality and nondiscrimination, housing, health, education, employment, security, participation and democratic representation, equitable development, healthy environment, infrastructure and public services, transportation, culture, recreation, and access to information.
 
@@ -135,7 +124,6 @@ The right to the city as defined in these documents is based on protecting and s
 
 The most significant role of these charters and declarations is their possibility of constituting a guiding framework on the subject of human rights in the city during the process of urban policy making. The existence of such a framework carries the potential of transforming the concepts about human rights into devices that can be used at local level in the formation of decision-making and policy production mechanisms; defining what rights mean in the daily lives of urban inhabitants; creating control mechanisms guaranteeing that management units in various levels act in accordance with human rights, and ensuring that local laws comply with international and national human rights commitments. Generating such a legal framework based on the right to the city is an important step towards creating a democratic and equalitarian urban life enabling all inhabitants to speak out their demands and rights. Of course creation of such a framework, which ensures the protection and provision of human rights in urban policy making, can only be possible with the participation of urban inhabitants.
 
-## ![](_page_6_Picture_1.jpeg)
 
 Although this pragmatic understanding of the right to the city concept adapted in the production of the charters related to urban rights has the potential of providing an operational framework for urban policy making, the same understanding bears the risk of undermining the transformative and revolutionary essence of Lefebvre's notion of the right to the city as a right to transform our cities and ourselves (Meyer, 2009). On the one hand, as these documents target certain aspects of neo-liberal urban agenda, rather than transforming the neo-liberal system itself, they remain as tools for good urban governance operating within the existing system without altering it. On the other hand, listing of vulnerable groups even with the purpose of prioritizing their urban rights - as any listing carries the potential of excluding some non-listed groups - is as dangerous as conceptualizing an undefined "urban inhabitants" group as the holders of these rights - since this urban inhabitants group includes individuals, groups or corporations who hold and exert economic and political power over others who are somehow excluded from these power relations, oppressed and deprived of their rights. Therefore, with this depoliticized tone, and unclear connotations, urban rights can only serve "neoliberalism with a human touch" (Meyer, 2009).
 
@@ -164,7 +152,6 @@ The Authors declare no conflict of interest.
  - %20European%20Charter%20for%20Women% 20in%20the%20City.pdf
 - Fainstein, S. (1990) "The Changing World Economy and Urban Restructuring" Leadership and Urban Regeneration, Cities in North America and Europe, (ed.) D. Judd, and
 
-## ![](_page_7_Picture_1.jpeg)
 
 M. Parkinson, pp: 31-50, Sage, London, New Delhi.
 
@@ -200,7 +187,6 @@ Percy, S., (2003), "New Agendas", Urban Regeneration in Europe, (ed.) C. Couch, 
 
 https://books.google.com.cy/books?id=53a2w5Vku PsC&dq=Urban+Regeneration+in+Euro pe,+(ed.)+C.+Couch,+C.+Fraser+ve+S.+Percy ,&source=gbs\_navlinks\_s
 
-## ![](_page_8_Picture_1.jpeg)
 
 - Purcell, M. (2002) "Excavating Lefèbvre : The Right to the City and its Urban Politics of the Inhabitant" Geojournal 58, pp: 99-108, p:101 https://link.springer.com/article/10.1023/B:GEJO.0000010829.62237.8f
 - Roberts, P. (2003) "The Evolution, Definition and Purpose of Urban Regeneration", Urban Regeneration a Handbook, (ed.) P. Roberts, ve H. Sykes, pp: 9-36, Sage, London. https://books.google.com.cy/books?id=tjYEDQAAQBAJ&dq=%E2%80%9CThe+Evolution,+D efinition+and+Purpose+of+Urban+Regenerati

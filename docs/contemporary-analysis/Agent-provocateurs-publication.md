@@ -9,9 +9,6 @@ tags:
 
 ## ![](_page_0_Figure_0.jpeg)
 
-## ![](_page_2_Picture_0.jpeg)
-
-## ![](_page_3_Picture_0.jpeg)
 
 How Agent Provocateurs Harm Our Movements by Steve Chase 2021
 
@@ -127,7 +124,6 @@ Another proven case of an authoritarian regime attempting to use an agent provoc
 
 There are also many examples of the use of agent provocateurs in more democratic countries. For example, following the imposition of draconian laws in India by Prime Minister Indira Gandhi in the midto-late 1970s, Sikhs in Punjab began agitating for more state independence from the national government. It has now been documented that in 1984 undercover agent provocateurs working on behalf of the Indian central government began promoting the tactic of an armed occupation of the "Akal Takhat ('Throne of the Immortal') building inside the Golden Temple complex in Amritsar" (Singh 2016). This covert strategy provided India with an excuse to justify a brutal military intervention by the national army and a massive increase in repressive violence throughout much of the Punjab state. Indeed, thousands of Sikhs—now portrayed by the Indian government and the mainstream Indian media as tantamount to bloodthirsty savages—were killed by the Indian army.
 
-## ![](_page_18_Picture_0.jpeg)
 
 **A poster showing the face of undercover police officer Mark Kennedy, a.k.a. Mark Stone, was attached to railings at a solidarity picket prior to a hearing into the use of undercover police officers in the infiltration of environmental and social justice campaigns, January 15, 2016.**
 
@@ -163,7 +159,6 @@ Gary Marx, a sociologist researching US agent provocateurs, also reports several
 
 Even more telling, Tommy the Traveler admitted, "There's a thousand guys in the eld like me" (quoted in Marx 1974).
 
-## ![](_page_23_Picture_0.jpeg)
 
 ### AGENT PROVOCATEURS WORKING TO WEAKEN THE US BLACK LIBERATION MOVEMENT
 
@@ -246,7 +241,6 @@ Early coverage portrayed the demonstrations as a threat to public peace and secu
 
 All this helped make government repression backre and benet the movement to a signicant degree. Yet, we can already see how agent provocateur activities can be used by power elites and movement opponents to weaken the unity of civil resistance movements, discredit them in the eyes of the wider public, and justify greater and more draconian repression by police and security forces.
 
-## ![](_page_35_Picture_0.jpeg)
 
 ### POURING OIL ON THE FIRE?
 
@@ -301,7 +295,6 @@ Countering the marketing of ineective violence will take eort. One activist I ta
 
 Claiming an individual right to engage in violence at organized civil resistance actions is like a corporation claiming the right to make harmful
 
-## ![](_page_42_Picture_0.jpeg)
 
 **A black bloc protester graffities "Kill all cops" over a public advertisement**
 
@@ -399,7 +392,6 @@ There will likely always be agent provocateurs who try to sow division and encou
 
 **York, Steve, dir.** A Force More Powerful: A Century of Nonviolent Conflict. Documentary lm. Washington, DC: York-Zimmerman, 2000. https://www.nonviolent-conict.org/force-powerful-english/.
 
-## ![](_page_49_Picture_0.jpeg)
 
 #### About the Author
 
@@ -413,7 +405,6 @@ ICNC PRESS publishes high quality resources about civil resistance and makes the
 
 Since 2015, we have published 25 original works and 17 translations. To freely download publications in PDF, or purchase ebook and hardcopy versions, visit: https://www.nonviolent-conflict.org/icnc-publications/
 
-## ![](_page_50_Picture_2.jpeg)
 
 ### The Checklist to End Tyranny Peter Ackerman
 
@@ -423,15 +414,11 @@ The Checklist to End Tyranny is dedicated to enabling dissidents to become more 
 
 Combining quantitative research on thousands of nonviolent and violent actions with a detailed comparison of three influential cases of civil resistance in Serbia, Georgia, and Kyrgyzstan, Pinckney's study provides important lessons for activists and organizers on the frontlines, as well as for practitioners whose work may impact the outcomes of nonviolent struggles.
 
-## ![](_page_50_Picture_7.jpeg)
-
-## ![](_page_50_Picture_8.jpeg)
 
 #### The Path of Most Resistance Ivan Marovic
 
 A practical resource for activists and organizers of all levels, this book guides readers through the campaign planning process—breaking it down into several steps and providing tools and exercises for each step.
 
-## ![](_page_50_Picture_11.jpeg)
 
 History shows us that peoples' movements are more likely to succeed when they have unity among supporters, widespread participation, strategic planning, and nonviolent discipline.
 
@@ -439,6 +426,5 @@ Unsurprisingly, movement opponents use agent provocateurs—fake activists worki
 
 Drawing from international examples and an in-depth case study of the US Black Liberation Movement, this volume explores how agent provocateurs—and agent provocateur-like behavior—make movements smaller, weaker, and easier to defeat. It also offers some ideas for how activists can inoculate their movements against such harms and increase their chances of success.
 
-## ![](_page_51_Picture_2.jpeg)
 
 ## ![](_page_51_Figure_3.jpeg)

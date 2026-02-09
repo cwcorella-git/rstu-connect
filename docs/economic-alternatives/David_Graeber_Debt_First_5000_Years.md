@@ -23,7 +23,6 @@ THANK YOU! COME AGAIN!
 
 ## DAVID GRAEBER
 
-## ![](_page_4_Picture_3.jpeg)
 
 #### © 2011 David Graeber
 
@@ -726,7 +725,6 @@ What's true for a vast empire like Rome or China is obviously all the more true 
 
 In a similar way, English shops, for many centuries, would issue their own wood or lead or leather token money. The practice was often technically illegal, but it continued until relatively recent times. Here is an example from the seventeenth century, by a certain Henry, who had a store at Stony Stratford, Buckinghamshire:
 
-## ![](_page_81_Picture_4.jpeg)
 
 This is clearly a case of the same principle: Henry would provide small change in the form of IOUs redeemable at his own store. As such, they might circulate broadly, at least among anyone who did regular business at that shop. But they were unlikely to travel very far from Stony Stratford-most tokens, in fact, never circulated more than a few blocks in any direction. For larger transactions, everyone, including Henry, expected money in a form that would be acceptable anywhere, including in Italy or France.4
 
@@ -1573,13 +1571,11 @@ In its own way it's a revealing story, charming even, but one must still ask: Ho
 
 What I want to emphasize is that there is a direct relation between that fact and the possibility of trading lives for one another. Anthropologists are fond of making diagrams to represent preferential marriage patterns. Sometimes, these diagrams can be quite beautiful:94
 
-## ![](_page_168_Picture_3.jpeg)
 
 ## Ideal pattern of bilateral cross-cousin marriage
 
 Sometimes they merely have a certain elegant simplicity, as in this diagram on an instance of Tiv sister exhange:95
 
-## ![](_page_168_Picture_6.jpeg)
 
 Human beings, left to follow their own desires, rarely arrange themselves in symmetrical patterns. Such symmetry tends to be bought at a terrible human price. In the Tiv case, Akiga is actually willing to describe it:
 
@@ -2600,7 +2596,6 @@ From this it also follows that lending money at interest must be illegitimate, s
 
 Whereas Ghazali speaks only of gold and silver, what he describesmoney as symbol, as abstract measure, having no qualities of its own, whose value is only maintained by constant motion-is something that would never have occurred to anyone were it not in an age when it was perfectly normal for money to be employed in purely virtual form.
 
-## ![](_page_288_Picture_8.jpeg)
 
 Much of our free-market doctrine, then, appears to have been originally borrowed piecemeal from a very different social and moral universe.93 The mercantile classes of the Medieval Near West had pulled off an extraordinary feat. By abandoning the usurious practices that had made them so obnoxious to their neighbors for untold centuries before, they were able to become-alongside religious teachers-the effective leaders of their communities: communities that are still seen as organized, to a large extent, around the twin poles of mosque and bazaar.94 The spread of Islam allowed the market to become a global phenomenon, operating largely independent of governments, according to its own internal laws. But the very fact that this was, in a certain way, a genuine free market, not one created by the government and backed by its police and prisons-a world of handshake deals and paper promises backed only by the integrity of the signer-meant that it could never really become the world imagined by those who later adopted many of the same ideas and arguments: one of purely self-interested individuals vying for material advantage by any means at hand.
 

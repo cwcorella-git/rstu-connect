@@ -9,7 +9,6 @@ tags:
   - solidarity
 ---
 
-## ![](_page_0_Picture_1.jpeg)
 
 ## Rosa Luxemburg
 

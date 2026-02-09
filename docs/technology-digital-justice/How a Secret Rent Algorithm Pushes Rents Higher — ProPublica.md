@@ -12,7 +12,6 @@ tags:
 
 ## Ryan Little
 
-33–41 minutes
 
 On a summer day last year, a group of real estate tech executives gathered at a conference hall in Nashville to boast about one of their company's signature products: software that uses a mysterious algorithm to help landlords push the highest possible rents on tenants.
 
@@ -74,9 +73,6 @@ Few tenants know that such software, owned by a privately held company, has had 
 
 In Boston, renter Kaylee Hutchinson said she was puzzled when her landlord — unbeknownst to her, a Real Page client told her days into the first pandemic lockdowns that her rent was going up. Building staff insisted that the market rate for her apartment was 6.5% higher than she was paying, despite her protests that people were fleeing the city.
 
-## ![](_page_4_Picture_8.jpeg)
-
-## ![](_page_5_Picture_2.jpeg)
 
 Kaylee Hutchinson's landlord, who uses Real Page's pricing software, told her rent was going up at the start of the pandemic even as many people were fleeing the city. Philip Keith, special to Pro Publica
 
@@ -134,7 +130,6 @@ Hiking rents at the same time benefited all landlords, the industry learned. ["A
 
 One of the greatest threats to a landlord's profit, according to Roper and other executives, was other firms setting rents too low at nearby properties. "If you have idiots undervaluing, it costs the whole system," Roper said.
 
-## ![](_page_9_Picture_3.jpeg)
 
 Jeffrey Roper helped develop Yield Star, which uses an algorithm to suggest prices for apartments across the country. Shelby Tauber for Pro Publica
 
@@ -246,9 +241,6 @@ A spokesperson for Essex declined to comment. None of the other biggest property
 
 About six blocks away, rent has not gone up as dramatically at The Humphrey Apartments, a historic six-story brick building with 74 units.
 
-## ![](_page_17_Picture_8.jpeg)
-
-## ![](_page_18_Picture_2.jpeg)
 
 John Stepan's rent stayed relatively steady in a building that did not use Real Page's pricing software. Jovelle Tamayo for Pro Publica
 

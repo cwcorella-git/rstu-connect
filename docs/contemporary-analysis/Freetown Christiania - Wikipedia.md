@@ -11,7 +11,6 @@ tags:
 
 ## Contributors to Wikimedia projects
 
-25–32 minutes
 
 | Type | Anarchist commune/intentional
 community under a consensus |
@@ -28,9 +27,6 @@ Christiania is considered to be the fourth largest [tourist](https://en.wikipedi
 
 The residents of Christiania are called Christianit, or Christianshavner and Amagerkaner because Christiania is located on the island of Amager[.\[5\]](#page-13-2)[\[6\]](#page-13-3)[\[7\]](#page-13-4)[\[8\]](#page-13-5) The 1976 protest song "I kan ikke slå os ihjel" ("You cannot kill us"), written by Tom Lunden of [flower power](https://en.wikipedia.org/wiki/Flower_power) rock group [Bifrost,](https://en.wikipedia.org/wiki/Bifrost_(band)) became the unofficial anthem of Christiania[.\[9\]](#page-13-6)
 
-![](_page_1_Picture_6.jpeg)
-
-## ![](_page_2_Picture_2.jpeg)
 
 ## Entrance
 
@@ -40,11 +36,9 @@ The area of Christiania consists of the former military [barracks](https://en.wi
 
 The outermost defence line, Enveloppen, has been renamed Dyssen in Christiania language (except for the southernmost tip of it which was not annexed by Christiania). It is connected to central Christiania by a bridge across the main moat or can be reached by the path beginning at [Christmas Møllers Plads.](https://en.wikipedia.org/wiki/Christmas_M%C3%B8llers_Plads) Four gunpowder storehouses line the [redans.](https://en.wikipedia.org/wiki/Redan) They were built in 1779–1780 to replace a storage in central Copenhagen, at [Østerport,](https://en.wikipedia.org/wiki/%C3%98sterport_(Copenhagen)) which exploded in 1770, killing 50 people. The buildings are renamed Aircondition, Autogena, Fakirskolen ('the Fakir School') and Kosmiske Blomst ('Cosmic Flower') and have, although protected, been slightly altered from their historical state[.\[15\]](#page-14-2)
 
-![](_page_3_Picture_3.jpeg)
 
 Christiania, seen from the spire of the [Church of Our Saviour,](https://en.wikipedia.org/wiki/Church_of_Our_Saviour,_Copenhagen) September 2003
 
-## ![](_page_3_Picture_5.jpeg)
 
 Glass house in Freetown Christiania, one of the many idiosyncratic constructions exemplifying modern "architecture without architects".
 
@@ -82,13 +76,9 @@ On 26 August 2023, two masked gunmen opened fire in Christiania, killing a 30-ye
 
 Due to the worsening gang violence, residents were considering a proposition by the Danish government to buy the rest of the land with the proviso that they accommodate 15,000 square meters (3¾ acres) public housing development. This agreement would provide Christiania residents with help curbing the violence and the city with needed housing.[\[49\]](#page-19-3)
 
-![](_page_8_Picture_5.jpeg)
 
 Pusher Street in 2007, after eviction of the hash stands. A 'no photo sign' remains. The street was removed in 2024.
 
-## ![](_page_8_Picture_7.jpeg)
-
-## ![](_page_9_Picture_2.jpeg)
 
 Murals and signs around Christiania make the community's opposition to heroin clear
 

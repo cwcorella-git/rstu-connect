@@ -11,7 +11,6 @@ tags:
 
 ## Alfredo M. Bonanno
 
-## ![](_page_0_Picture_3.jpeg)
 
 # **Contents**
 
@@ -364,7 +363,6 @@ Certainly, it is still possible to go along the road of the organisation of synt
 
 #### The Anarchist Library Anti-Copyright
 
-## ![](_page_22_Picture_1.jpeg)
 
 Alfredo M. Bonanno From Riot to Insurrection Analysis for an anarchist perspective against post-industrial capitalism 1988
 

@@ -11,7 +11,6 @@ tags:
 
 ## by Brock
 
-2–3 minutes
 
 Or at least use it as a supplement, not the primary source.
 

@@ -11,9 +11,6 @@ tags:
 
 ## Contributors to Wikimedia projects
 
-60–77 minutes
-
-## ![](_page_0_Picture_7.jpeg)
 
 ## Portrait c. 1865
 
@@ -81,7 +78,6 @@ During the Grant administration, Sumner fell out of favor with his party. He sup
 
 #### [\[edit\]](https://en.wikipedia.org/w/index.php?title=Charles_Sumner&action=edit§ion=1)
 
-## ![](_page_4_Picture_4.jpeg)
 
 Sumner's birthplace on Irving Street, [Beacon Hill, Boston](https://en.wikipedia.org/wiki/Beacon_Hill,_Boston)
 
@@ -133,7 +129,6 @@ For the first few sessions, Sumner did not promote any of his controversial caus
 
 #### [\[edit\]](https://en.wikipedia.org/w/index.php?title=Charles_Sumner&action=edit§ion=5)
 
-## ![](_page_10_Picture_5.jpeg)
 
 [Wikisource](https://en.wikipedia.org/wiki/Wikisource) has original text related to this article:
 
@@ -145,7 +140,6 @@ Sumner verbally attacked authors of the Act, [Stephen A.](https://en.wikipedia.o
 
 The senator from South Carolina has read many books of chivalry, and believes himself a chivalrous knight with sentiments of honor and courage. Of course he has chosen a mistress to whom he has made his vows, and who, though ugly to others, is always lovely to him; though polluted in the sight of the world, is chaste in his sight—I mean the harlot, slavery. For her his tongue is always profuse in words. Let her be impeached in character, or any proposition made to shut her out from the extension of her wantonness, and no extravagance of manner or hardihood of assertion is then too great for this senator.
 
-## ![](_page_11_Picture_5.jpeg)
 
 Lithograph of [Preston Brooks](https://en.wikipedia.org/wiki/Preston_Brooks)' 1856 attack on Sumner
 
@@ -157,7 +151,6 @@ More than a million copies of Sumner's "Crime against Kansas" speech were distri
 
 Historian [William Gienapp](https://en.wikipedia.org/wiki/William_Gienapp) has concluded that Brooks's "assault was of critical importance in transforming the struggling Republican party into a major political force."[\[40\]](#page-41-7) Theological and legal scholar William R. Long characterized the speech as "a most rebarbative and vituperative speech on the Senate floor", which "flows with Latin quotations and references to English and Roman history." In his eyes, the speech was "a gauntlet thrown down, a challenge to the 'Slave Power' to admit once and for all that it were encircling the free states with their tentacular grip and gradually siphoning off the breath of democracy-loving citizens.["\[32\]](#page-40-13)
 
-![](_page_13_Picture_4.jpeg)
 
 ## 1860 steel-engraved portrait of Sumner
 
@@ -167,7 +160,6 @@ When Sumner returned to the Senate in 1857, he was unable to last a day. His doc
 
 In Paris, prominent physician [Charles-Édouard Brown-Séquard](https://en.wikipedia.org/wiki/Charles-%C3%89douard_Brown-S%C3%A9quard) diagnosed Sumner's condition as spinal cord damage that he could treat by [burning the skin](https://en.wikipedia.org/wiki/Cauterization) along the spinal cord. Sumner chose to refuse anaesthesia, which was thought to reduce the effectiveness of the procedure. Observers both at the time and since doubted Brown-Séquard's efforts were of value.[\[42\]](#page-41-9) After spending weeks recovering from these treatments, Sumner resumed his touring, this time as far east as Dresden and Prague and south to Italy twice. In France he visited Brittany and Normandy, as well as Montpellier. He wrote his brother: "If anyone cares to know how I am doing, you can say better and better.["\[44\]](#page-42-0)
 
-![](_page_15_Picture_3.jpeg)
 
 [Wikisource](https://en.wikipedia.org/wiki/Wikisource) has original text related to this article:
 
@@ -217,9 +209,6 @@ The 1867 treaty neither formally recognized, categorised, nor compensated any na
 
 Personal achievements in 1867 included his election as a member to the [American Philosophical Society.](https://en.wikipedia.org/wiki/American_Philosophical_Society) [\[67\]](#page-43-12)
 
-## ![](_page_22_Picture_5.jpeg)
-
-## ![](_page_23_Picture_2.jpeg)
 
 Sumner puts head in British lion's mouth—Harper's Weekly, 1872
 
@@ -233,9 +222,6 @@ Sumner had some influence over [J. Lothrop Motley,](https://en.wikipedia.org/wik
 
 In 1869, President Grant, in an expansionist plan, looked into the annexation of a Caribbean island country, the [Dominican](https://en.wikipedia.org/wiki/Dominican_Republic) [Republic,](https://en.wikipedia.org/wiki/Dominican_Republic) then known as Santo Domingo. Grant believed that the island's mineral resources would be valuable to the United States, and that African Americans repressed in the South would have a safe haven to which to migrate. A labor shortage in the South would force Southerners to be tolerant toward African Americans[.\[71\]](#page-44-3)[\[72\]](#page-44-4) In July and November 1869, under Grant's authority and with the State Department's permission on the second trip, [Orville Babcock,](https://en.wikipedia.org/wiki/Orville_Babcock) Grant's private secretary, secretly negotiated a treaty with President [Buenaventura Báez](https://en.wikipedia.org/wiki/Buenaventura_B%C3%A1ez) of the Dominican Republic. The initial treaty had not been authorized by the State Department, but the island nation was on the verge of a civil war between Báez and ex-President Marcos A. Cabral[.\[73\]](#page-44-5) Grant sent in the U. S. Navy to keep the Dominican Republic free from invasion and civil war while the treaty negotiations took place. This military action was controversial since the naval protection was unauthorized by Congress[.\[74\]](#page-44-6) The official treaty, drafted by Secretary of State [Hamilton Fish](https://en.wikipedia.org/wiki/Hamilton_Fish) in October 1869, annexed the Dominican Republic to the United States, gave eventual statehood, the lease of [Samaná Bay](https://en.wikipedia.org/wiki/Saman%C3%A1_Bay) for \$150,000 yearly, and a \$1,500,000 payment of the Dominican national debt[.\[75\]](#page-44-7) In January 1870, in order to gain support for the treaty, Grant visited Sumner's Washington home and mistakenly believed that Sumner had consented to the treaty. Sumner said that he had only promised to give the treaty friendly consideration. This meeting led to bitter contention between Sumner and Grant. [\[76\]](#page-44-8) The treaty was formally submitted to the [United States](https://en.wikipedia.org/wiki/United_States_Senate) [Senate](https://en.wikipedia.org/wiki/United_States_Senate) on January 10, 1870[.\[77\]](#page-44-9)
 
-![](_page_25_Picture_3.jpeg)
-
-## ![](_page_26_Picture_2.jpeg)
 
 President [Ulysses S. Grant,](https://en.wikipedia.org/wiki/Ulysses_S._Grant) photographed by Mathew Brady in 1869.
 
@@ -251,7 +237,6 @@ The next day, Grant, feeling betrayed by Sumner, retaliated by ordering the dism
 
 Sumner now turned against Grant. Like many other reformers, he decried the corruption in Grant's administration. Sumner believed that the civil rights program he championed could not be carried through by a corrupt government. In 1872, he joined the [Liberal Republican Party,](https://en.wikipedia.org/wiki/Liberal_Republican_Party_(United_States)) which had been started by reformist Republicans such as [Horace Greeley.](https://en.wikipedia.org/wiki/Horace_Greeley) The Liberal Republicans supported black suffrage, the three Reconstruction amendments, and the basic civil rights already protected by law, but also called for amnesty for ex-Confederates and decried the Republican governments in the South elected with the help of black votes, belittled the terrorism of the Ku Klux Klan, and argued that the time had come to restore "home rule" in the South, which in practical terms meant white Democratic rule. For Sumner's civil rights bill they gave no support at all, but Sumner joined them because he had become convinced that the time had come for reconciliation, and that Democrats were sincere in declaring that they would abide by the Reconstruction settlement.[\[83\]](#page-44-15)
 
-![](_page_28_Picture_3.jpeg)
 
 ## Sumner in his later years
 
@@ -265,7 +250,6 @@ Sumner was able to hear the rescinding resolution presented to the Senate on the
 
 On October 30, 1873, the Virginius, a munitions and troop transportation ship supporting the [Cuban Rebellion](https://en.wikipedia.org/wiki/Ten_Years%27_War) and flying the U. S. flag, was captured by Spanish authorities.[\[86\]](#page-45-2) After a hasty trial in [Santiago,](https://en.wikipedia.org/wiki/Santiago_de_Cuba) Cuba, Spain executed 53 crew members, including American and British citizens.[\[87\]](#page-45-3) Sumner sympathized with the Cuban rebels and those executed by Spain, but refused to support U. S. military intervention or the annexation of Cuba[.\[88\]](#page-45-4) On November 17, 1873, Sumner stated his views in an interview on the [Virginius](https://en.wikipedia.org/wiki/Virginius_Affair) [Affair](https://en.wikipedia.org/wiki/Virginius_Affair) at a local library in [Boston.](https://en.wikipedia.org/wiki/Boston) [\[88\]](#page-45-4) He believed that although the ship was flying a U. S. flag, its mission was illegal.[\[89\]](#page-45-5) Sumner, who opposed the Cuban insurgent neutrality of the Grant Administration, believed that the United States needed to support the [First Spanish Republic.](https://en.wikipedia.org/wiki/First_Spanish_Republic) [\[89\]](#page-45-5) On November 28, 1873, Secretary of State [Hamilton Fish,](https://en.wikipedia.org/wiki/Hamilton_Fish) who coolly handled the incident amid national outcries for war, negotiated a peaceful settlement with Spanish President [Emilio Castelar,](https://en.wikipedia.org/wiki/Emilio_Castelar) and prevented war with Spain[.\[90\]](#page-45-6)
 
-![](_page_30_Picture_4.jpeg)
 
 ## Death of Sumner
 
@@ -281,7 +265,6 @@ Contemporaries and historians have explored Sumner's personality and public care
 
 Sumner's personality has also divided contemporaries and historians. Sumner's friend Senator [Carl Schurz](https://en.wikipedia.org/wiki/Carl_Schurz) praised Sumner's integrity, his "moral courage," the "sincerity of his convictions," and the "disinterestedness of his motives." But none of his friends at the time doubted his courage, and abolitionist Wendell Phillips, who knew Sumner well, remembered that southerners in the 1850s in Washington wondered, every time Sumner left his house in the morning, whether he would return alive[.\[97\]](#page-45-13) Just before he died, Sumner turned to his friend Ebenezer Rockwood Hoar. "Judge," he said, "tell Emerson how much I love and revere him." "He said of you once," Hoar replied, "that he never knew so white a soul."[\[98\]](#page-45-14)
 
-![](_page_32_Picture_3.jpeg)
 
 [Charles Sumner House,](https://en.wikipedia.org/wiki/Charles_Sumner_House) Boston
 
@@ -311,7 +294,6 @@ In the 2013 film [Saving Lincoln](https://en.wikipedia.org/wiki/Saving_Lincoln),
 
 #### [Creed Bratton.](https://en.wikipedia.org/wiki/Creed_Bratton) [\[106\]](#page-46-4)
 
-## ![](_page_35_Picture_3.jpeg)
 
 Sumner and [Henry Wadsworth Longfellow](https://en.wikipedia.org/wiki/Henry_Wadsworth_Longfellow) photographed by [Gardner](https://en.wikipedia.org/wiki/Alexander_Gardner_(photographer)) in 1863
 
@@ -321,11 +303,9 @@ Sumner was a bachelor for most of his life. In 1866, he began courting Alice Mas
 
 Sumner's enemies used the affair to attack Sumner's manhood, calling him "The Great Impotency." The situation depressed and embarrassed Sumner[.\[110\]](#page-46-8) He obtained an uncontested divorce on the grounds of desertion on May 10, 1873[.\[111\]](#page-46-9)
 
-![](_page_36_Picture_3.jpeg)
 
 [Statue](https://en.wikipedia.org/wiki/Statue_of_Charles_Sumner_(Cambridge,_Massachusetts)) by [Anne Whitney](https://en.wikipedia.org/wiki/Anne_Whitney) in [Harvard Square](https://en.wikipedia.org/wiki/Harvard_Square)
 
-## ![](_page_36_Picture_5.jpeg)
 
 \$500 [silver certificate](https://en.wikipedia.org/wiki/Silver_certificate) of 1880, with Sumner's portrait
 

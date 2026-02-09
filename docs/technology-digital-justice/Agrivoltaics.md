@@ -8,7 +8,6 @@ tags:
   - digital rights
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 **Agrivoltaics** (also called **agrophotovoltaics**, **agrisolar**, or **dual-use solar**) is the dual use of land for [solar energy](https://en.wikipedia.org/wiki/Solar_energy) and [agriculture](https://en.wikipedia.org/wiki/Agriculture). [\[2\]](#page-6-1)[\[3\]](#page-6-2)[\[4\]](#page-6-3)
 
@@ -16,7 +15,6 @@ Many agricultural activities can be combined with solar, including [crops,](http
 
 Solar panels help plants to retain moisture and lower temperatures[\[6\]](#page-7-1) and can provide shelter for livestock. Dual use can diversify farmers' income.
 
-## ![](_page_0_Picture_5.jpeg)
 
 [Vertical](https://en.wikipedia.org/wiki/Solar_panel#Vertical_bifacial_solar_array) solar panels, east to west orientation, with bifacial [modules](https://en.wikipedia.org/wiki/Bifacial_solar_cells) near [Donaueschingen,](https://en.wikipedia.org/wiki/Donaueschingen) Germany.
 
@@ -34,7 +32,6 @@ The concept was called "agrophotovoltaics" in a German report,[\[11\]](#page-7-6
 
 By 2019, some authors had begun using the term *agrivoltaics* to include any agricultural activity among solar arrays, including conventional solar arrays not originally intended for
 
-## ![](_page_0_Picture_14.jpeg)
 
 Sheep under solar panels in [Lanai](https://en.wikipedia.org/wiki/Lanai), Hawaii dual use. As an example, sheep can be grazed among conventional solar arrays without modification. [14] Likewise, some apply the term to solar panels on the roofs of barns or livestock sheds. [7]
 
@@ -68,7 +65,6 @@ Most conventional systems install angled solar panels on greenhouses, [22] above
 
 Vertically mounted systems with bifacial modules can be installed on fences or on separate supports. One module is typically mounted between fenceposts. The yield for a vertical south-facing panel is 76%, often yielding a lower levelized cost. One study reported that microinverters had better performance when the cross-over fence length was
 
-## ![](_page_1_Picture_18.jpeg)
 
 ## Tomatoes under solar panels in Dornbirn, Austria under 30 meters or when the system was small, whereas [string inverters](https://en.wikipedia.org/w/index.php?title=String_inverters&action=edit&redlink=1) were better for longer fences.[\[25\]](#page-9-0) A simulation study reported that the distance between module rows significantly affects panel output.[\[23\]](#page-8-6) Open-source wood-based racking constructed from sustainable materials can be made with hand tools. The racks offer a 25-year lifetime to match the panels and can weather high wind speeds and heavy snow loads.[\[26\]](#page-9-1)
 
@@ -104,7 +100,6 @@ Grazing livestock[\[42\]](#page-10-5) under panels controls vegetation, which wo
 
 Sheep are the most common choice for grazers.[\[45\]](#page-10-8)[\[43\]](#page-10-6) In return, sheep or goats receive forage and shade.[\[46\]](#page-10-9) System operators typically rent the sheep, which can be less expensive than mowing. Studies reported higher crop mass[\[47\]](#page-10-10) or lower mass but higher forage quality, achieving similar spring lamb production to open pastures.[\[48\]](#page-11-0)[\[46\]](#page-10-9) Grazing around in Australia yields a higher volume and quality of [wool.](https://en.wikipedia.org/wiki/Wool) [\[49\]](#page-11-1)
 
-## ![](_page_3_Picture_4.jpeg)
 
 Agrovoltaics combined with sheep farming; a short video from Our [Land](https://en.wikipedia.org/wiki/Our_Land_and_Water) and [Water,](https://en.wikipedia.org/wiki/Our_Land_and_Water) New Zealand
 

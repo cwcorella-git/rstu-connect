@@ -5115,4 +5115,3 @@ For this new edition the translations have all been fine-tuned and over 100 page
 
 Ken Knabb has also translated Guy Debord's Complete Cinematic Works and The Society of the Spectacle. His own writings, collected in Public Secrets, have been translated into more than a dozen other languages.
 
-## ![](_page_545_Picture_4.jpeg)

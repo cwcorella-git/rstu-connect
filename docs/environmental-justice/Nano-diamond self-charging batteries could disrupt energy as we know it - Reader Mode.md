@@ -7,7 +7,6 @@ tags:
   - climate
 ---
 
-## ![](_page_0_Picture_2.jpeg)
 
 NDB makes remarkable claims about its self-charging nano-diamond battery, here seen mocked up as a circuit board component NDB
 
@@ -25,7 +24,6 @@ And so what you get is a tiny miniature power generator in the shape of a batter
 
 Radiation levels from a cell, NDB tells us, will be less than the radiation levels produced by the human body itself, making it totally safe for use in a variety of applications. At the small scale, these could include things like pacemaker batteries and other electronic implants, where their long lifespan will save the wearer from replacement surgeries. They could also be placed directly onto circuit boards, delivering power for the lifespan of a device.
 
-## ![](_page_1_Picture_2.jpeg)
 
 Here shown as a small, circuit board mounted design, the nano diamond battery has the potential to totally upend the energy equation since it never needs charging and lasts many, many years
 
@@ -57,4 +55,3 @@ We spoke with several members of the NDB executive team. Check out the [full edi
 
 *NDB speaks of low- and high-power versions of the cell in development, but until we see some output figures the claims are still hazy, and until we see some proof, they are of course just claims. We'll keep you updated.*
 
-## ![](_page_2_Picture_10.jpeg)

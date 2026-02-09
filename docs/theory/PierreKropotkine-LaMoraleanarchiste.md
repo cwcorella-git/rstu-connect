@@ -8,7 +8,6 @@ tags:
   - Kropotkin
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 ## Kropotkine, Pierre
 
@@ -492,7 +491,6 @@ Sois fort au contraire. Et une fois que tu auras vu une iniquité et que tu l'au
 
 Lutte pour permettre à tous de vivre de cette vie riche et débordante, et sois sûr que tu retrouveras dans cette lutte des joies si grande que tu n'en trouverais pas de pareilles dans aucune autre activité. C'est tout ce que peut te dire la science de la morale. A toi de choisir.
 
-## ![](_page_51_Picture_0.jpeg)
 
 #### **www.feedbooks.com**
 

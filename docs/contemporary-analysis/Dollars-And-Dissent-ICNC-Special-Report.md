@@ -10,7 +10,6 @@ tags:
 
 Donor Support for Grassroots Organizing and Nonviolent Movements
 
-## ![](_page_0_Picture_3.jpeg)
 
 #### **Special Note**
 
@@ -38,7 +37,6 @@ Publication Disclaimer: The designations used and material presented in this pub
 
 ## by Benjamin Naimark-Rowse
 
-## ![](_page_2_Picture_4.jpeg)
 
 ## Table of Contents
 
@@ -2677,13 +2675,11 @@ The author oered anonymity to all interviewees. Some interviewees chose to be in
 
 I am grateful for American Jewish World Service and Humanity United's participation in this research In particular, I thank Tracey Gurd and Irit Houvras at AJWS, and Bryan Sims and Melanie Greenberg at HU Thank you to Human Rights Funders Network and Candid for collaborating with me on this research In particular, I thank Rachel Thomas and Anna Koob Thank you to all the interview and survey participants for sharing their views with me Thank you to all the organizers, donors, scholars, and other wise people who inspire and educate me Thank you to the entire ICNC team And thank you to my wife, Nadia Marzouki, for her support throughout this project
 
-## ![](_page_113_Picture_0.jpeg)
 
 #### About the Author
 
 **Benjamine Naimark-Rowse** is the Topol Fellow in Nonviolent Resistance and a PhD candidate at Tufts University's Fletcher School of Law and Diplomacy. He is a Term Member in the Council on Foreign Relations and a Truman National Security Fellow. Ben's expertise in social movements and resourcing of movements draws on two decades of experience in the donor, NGO, and academic worlds. He has served as a Program Ocer with the Open Society Foundations, an electoral observer with the Carter Center, a board member of the University of Chicago's Human Rights Program, and an advisory committee member of the Leading Change Network. His publications include "Liberating the 'Enemy'," "Nonviolent Resistance," "Darfurian Voices," "Surviving Success: Nonviolent Rebellion in Sudan," and "The Founding Myth of the United States of America." Ben holds a M. P. A. from the Princeton School of Public and International Aairs and a B. A. with honors from the University of Chicago. His research has been supported by a Harvard Program on Negotiation Graduate Research Fellowship and as a USIP–Minerva Peace and Security Scholar. He is married to Nadia Marzouki. They are the parents of twin girls.
 
-## ![](_page_114_Picture_0.jpeg)
 
 **ICNC Special Reports aim to bridge research and practice. Drawing on scholarly literature and high quality analytical and empirical analyses, special reports enrich public discourse by expanding scientic knowledge in the eld of civil resistance and providing recommendations for practitioners such as activists, organizers, journalists, and members of INGOs and the policy community.**
 
@@ -2737,4 +2733,3 @@ International Center on Nonviolent Conflict 600 New Hampshire Ave NW, Suite 1010
 
 www.nonviolent-conflict.org
 
-## ![](_page_115_Picture_7.jpeg)

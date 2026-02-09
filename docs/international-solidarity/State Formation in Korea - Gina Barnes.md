@@ -36,7 +36,6 @@ State Formation in Korea: historical and archaeological perspectives *Gina L. Ba
 
 ## Gina L. Barnes
 
-## ![](_page_2_Picture_3.jpeg)
 
 #### First Published in 2001 by Curzon Press
 
@@ -470,7 +469,6 @@ Four major and several minor syntheses of Korean history are reviewed here, 3 re
 
 The Samguk Sagi, relied upon by many Korean scholars as a true version of history, gives founding dates for the Korean "Three Kingdoms" of Silla, Koguryŏ and Paekche (Figure 1.1) as 57, 37 and 18 bc, respectively, and it gives king lists from those dates onwards (Grayson 1976; Best 1979; Li O. 1981, 1986). The state of Silla subsequently conquered Paekche (in 660) and Koguryŏ (in 668), thus unifying the peninsula as United Silla (668–935). Whether the Three Kingdoms existed as early as their putative founding dates imply, however, is a matter of great divergence of opinion – especially since archaeological evidence for social stratification, in the form of sumptuously furnished mounded tombs, does not appear until the 4th century ad. The attributes of longevity and coherence bestowed on these early states by the Samguk Sagi may be understood from the historical milieu in which these records were compiled. Rodgers (1988) writes of the compiler's need to create a native identity for his own Koryŏ Dynasty (935– 1392), the successor state to United Silla, because of the fragmentation of the Chinese state which had previously been relied upon for Koryŏ's legitimization. By elevating the status of Silla, partially by fixing its founding date earliest among the Three Kingdoms almost exactly twelve sexagenary cycles backwards from the pacification of Paekche (cf. Gardiner 1966: 87), Kim Pu-sik (1075-1151) as compiler of the history was able to create a legitimate native ancestry for the Koryŏ state – an ancestry which has been adopted by modern scholars.
 
-![](_page_27_Picture_1.jpeg)
 
 **Figure 1.1** Hypothetical territories of the Three Kingdoms and Kaya at the height of Koguryŏ power in the late 5th century ad with modern city and river names (after Han W. K. 1970)
 
@@ -518,7 +516,6 @@ Very little is known about Chosŏn, but care must be taken to distinguish betwee
 
 325 when a native leader received the rank of Duke of Chaoxian, long after the demise of the Chosŏn polity (Ledyard 1977: 14). From 300 bc until 195 bc the northeastern state of Yan reportedly exerted great influence in the Chaoxian region (Watson 1961: 258):
 
-![](_page_34_Picture_1.jpeg)
 
 **Figure 1.2** The location of Chaoxian in relation to the Zhou state of Yan, 3rd century bc (after Herrmann 1966)
 
@@ -694,7 +691,6 @@ The state of Paekche occupied the southwestern portion of the peninsula until ad
 
 Lee C. W. (1978: 35) sees two schools of thought concerning the formation of Paekche: archaeologically-minded scholars date Paekche presence to the 1st century bc, based on settlement and iron-working remains in the Han River basin; but certain historians pinpoint the political reforms of King Koi (r. ad 234–85) as marking the establishment of the Paekche state proper. 29 A third opinion declares that the "structuring of Paekche into a centralized, aristocratic state appears to have been completed in the reign of King Kŭn (346–75)" (Lee K. B. 1984: 37). History records that at the end of King Kun's reign, a Chinese scholar introduced the Chinese writing system to Paekche on which a developing bureaucracy could be based (Inoue 1989: 33; Renondeau 1959).
 
-![](_page_61_Picture_1.jpeg)
 
 **Figure 1.6** Hypothesized Puyŏ movements relating to Paekche state formation between ad 286 and 352
 
@@ -735,7 +731,6 @@ So-Kaya; Sŏngsan-Kaya; and Konyong-Kaya. Of these Pon-Kaya (Main Kaya) in the l
 
 Historical sources differ on what preceded the Kaya "states" in the region. The Karak Kukki, a non-extant 11th-century document (cf. Ha & Mintz 1971: 158) records names of nine chiefs for the "pre-state" period, but other sources often describe the states themselves as having developed from the earlier guo of Pyŏnhan, the south central member of the Three Han. Some of what are believed to be the royal tombs of Tae-Kaya have been excavated in the upper Naktong River basin (Grayson 1985b; Chabanol 1991). Kim W. Y. (1983a) uses the scale of these mounded tombs with their supposed mass interments to attribute considerable wealth and power to the royal family; these attributes, he posits, were due to the presence of "rich iron ore" and "fertile land suitable for rice cultivation" in the middle Naktong River basin Beyond these statements, there is little exploration of Kaya origins see [Chapter 7, this volume]. However, the Samguk Yusa states that King Suro, the ostensible first ruler of the Kaya Kingdom, married an Indian princess (Ha & Mintz 1972) – a theme recently taken up by Kim B. M. (1988 [in Ref. List]).
 
-![](_page_68_Picture_0.jpeg)
 
 **Figure 1.7** The Kaya region in the mid-5th century
 
@@ -1958,7 +1953,6 @@ Wajil pottery can be divided into three stylistic phases: Old, New and Three Kin
 
 The shapes peculiar to the Old Wajil assemblage \(Figure 3.1) are a longnecked jar with flaring rim and horn-shaped handles (a, b); a small pot or jar with no sharp break between shoulder and neck (c, d); and a globular pot with a short, flaring rim (e). The first two derive from the burnished black and red wares (respectively) of the Late Bronze Age, but the third appears to be an introduced shape-type imitating the typical Han Chinese pot. The paste of these vessels is finer than that of Plain Pottery, and the surface slip might have derived from the Han painted pottery tradition. The colour of most of the Wajil vessels is grey, but a few red ones reflect the usual oxidizing firing of Plain Pottery vessels. Old Wajil vessels were made on a turntable with the aid of a spatula and/or paddle. The surface texturing resulting from the use of these tools consists of cord-wrapped paddle marks, lattice-carved paddle marks and horizontal incised lines. When such paddle marks and incised lines occur on the globular jar shape-type, the result is a close resemblance to the Han Dynasty pot, and it is this kind of vessel that has traditionally been regarded as Kimhae ware.
 
-![](_page_150_Picture_0.jpeg)
 
 **Figure 3.1** Old Wajil (a–e) and New Wajil (f–h) shape types and decoration (after Shin K. C. 1989)
 
@@ -2052,7 +2046,6 @@ In what kind of kilns were these early Chinese stonewares fired? Two basic kinds
 
 In the Shang period, a technical advance on the simple Neolithic updraught kiln was made by constructing the kiln only half in the ground; with the upper half of the chamber built of clay above ground, the escape aperture could be narrowed down to provide better control of the air flow through the kiln (Liu 1986). By closing the aperture, higher firing temperatures, up to 1200°C, could be attained for the firing of stoneware; and the identification of actual pieces of stoneware demonstrates that these temperatures were actually accomplished. However, the number of pieces known remains extremely small, suggesting that these were firing "accidents" or unusual attainments of sporadic occurrence. Moreover, only an oxidizing atmosphere was produced in these kilns.
 
-![](_page_160_Picture_0.jpeg)
 
 ## **Figure 3.2**Chinese kiln types (after Liu 1986)
 
@@ -2087,13 +2080,11 @@ However, one clue to such relationships exists in the form of decoration on New 
 
 The Taegok-ri site, situated on a riverine terrace near Kwangju in Chŏllanamdo was discovered to have been occupied continuously from the 5th century bc to the 5th century ad. The dwellings are divided into four phases through the Late Bronze Age (5th century bc–ad 1) and Proto-Three Kingdoms period (ad 1–300). Several small pits containing Plain Pottery of the former period are interpreted as simple pit kilns because of their inclusion of burned earth and charcoal. These are very similar to the small pits which are suggested to have served as kilns at the Karako site in Nara, Japan (Barnes 1978), and it would seem that such simple facilities sufficed for the firing of soft earthenwares. Choi, Lee & Yun (1988: 147) estimate the firing temperature in the Plain Pottery pit kilns at Taegok-ri between 573– 870°C.
 
-![](_page_164_Picture_1.jpeg)
 
 **Figure 3.4** Hash-decorated jar from a Western Jin tomb in Zhejiang Province, cited as the prototype for the New Wajil squashed-bodied jar (after Kim W. Y. 1982)
 
 The Taegok-ri site has also yielded an elongated kiln \(Figure 3.5: A) which the excavators date to the end of the Proto-Three Kingdoms period at the terminal 3rd to early 4th century (Choi, Kwŏn & Kim 1988: 24). It measures 6.3m in length and 3.7m at the widest point where the fire box is expanded sideways; but the tunnel itself is 4.3m long with an average floorwidth of approximately 1m (cf. Table 3.3). The kiln was not built on a hillside but in the midst of the terrace settlement. Nevertheless, the floor of the kiln was slightly sloped by digging the firebox between 0.83–0.97m into the ground (the dimensions given in the profile and cross-section line drawings are in conflict) and angling the chamber from there up to the ground surface. There is a clear step of 15cm at the upper end of the chamber which was covered with black clay, and charcoal from the firebox occurred over the lower half of the length of the tunnel. The superstructure of the kiln was entirely destroyed through later agricultural activities and is unknown.
 
-![](_page_165_Picture_1.jpeg)
 
 **Figure 3.5** Excavated kiln remains in southern Korea
 
@@ -2271,11 +2262,9 @@ Flexible lamellar armour was carried forward into Han Dynasty times, when jade b
 
 Figurines and tomb paintings from the Northern Wei Dynasty show the development of lamellar armour suitable for mounted warfare. Some of the figure representations, however, are wearing what look to be solid or fixedplate chest protectors (Figure 5.1). The solid type was probably transformed into a type of chest armour known as liangtai in the Tang period, as depicted on tomb figurines (cf. Yang 1985: 54–5). Among the Northern Wei fixed-plate chest protectors, some are clearly shown as composed of long vertical strips, and vertical-strip chest armour is also depicted in the tomb of Dong Shou (d. 357) on the Korean peninsula (Figure 5.2). 2 As we shall see below, vertical-plate cuirasses are the earliest known form of body armour in the Pen/Insular region. Thus, Northern Wei might be the immediate source of inspiration for the development of the fixed-plate cuirass in the 4th-century Yamato and Kaya areas.
 
-![](_page_189_Picture_0.jpeg)
 
 **Figure 5.1** Northern Wei figurines and tomb painting depicting chest protectors of various construction (after Yang 1985: figs. 28, 31)
 
-![](_page_190_Picture_0.jpeg)
 
 **Figure 5.2** Vertical-strip chest armour depicted in the Dong Shou tomb mural, P'yŏngyang (after Yang 1985: fig. 31.4)
 
@@ -2322,7 +2311,6 @@ figurines |
 
 Iron armour was first discovered in southeastern Korea (the Yŏngnam area) during the Japanese occupation. Most of these finds belong to the Ōkura collection of the Tokyo National Museum, but the whereabouts of some of the actual objects are unknown and only their drawings remain (Anazawa & Manome 1991). Other early finds, lacking exact provenance, are kept in the Sungjŏn and Korea University museums (ibid.: 252–3). Since the mid-1980s, several new sites – mostly cemeteries consisting primarily of pit-chamber stone-lined graves – have been excavated in the Yŏngnam region by Korean universities and museums. These sites have yielded many different varieties and combinations of armour. If the graves once had mounds, they were very low and small – thus very different from the large round and keyhole-shaped mounded tombs which have yielded iron armour in Japan. 3 As of February 1993, pieces of armour had been recovered from 33 graves in Kaya territory and 9 in Silla territory, with material known from another eleven localities where the depositional context is unclear (Shin K. C. 1993, pers. comm.). It is significant that these sites are mainly in the southeastern Kaya region, and that no iron armour finds have yet been made in central Paekche or Koguryŏ territory. It is thought that these states simply did not have the custom of burying armour with the deceased, although its apparent absence might be caused by previous looting of the above-ground Koguryŏ stone pyramid tombs or insufficient excavation of Paekche tombs.
 
-![](_page_193_Picture_0.jpeg)
 
 **Figure 5.3** Drawings of Koguryŏ armour in 6th-century tomb murals at Donggou (after Dien 1981/82: fig. 26)
 
@@ -2364,13 +2352,11 @@ A. Vertical-plated helmet (Figure 5.6), with the plates thonged together; may ha
 
 B. Visored \(Figure 5.7); the foundation plates usually run vertically and are riveted to three ranks of horizontal bands. The top is usually covered by an inverted bowl-shaped piece from which projects a plume-holder. The visor is often decorated with openwork designs, and horizontal neck-guard plates may be attached at the back. [Sungjŏn University Museum – this one is Medieval in date!; Korea University Museum; chŏn-Yŏnsan-dong; Samsŏng Museum of Publishing]
 
-![](_page_199_Picture_0.jpeg)
 
 ## **Figure 5.6** Vertical-plate helmets
 
 (left) Thonged-type (after Chŏng & Shin 1991; fig. 2) (right) Riveted-type (after Anazawa & Manome 1991: fig. 5)
 
-![](_page_199_Picture_3.jpeg)
 
 **Figure 5.7** Visored helmet with horizontal neck-guard plates (after Anazawa & Manome 1991: fig. 1)
 
@@ -2380,11 +2366,9 @@ D Mongolian (also called recurved helmets) (Figure 5.9); made of vertical strips
 
 Wŏlsan-ri Ml-A; Pokch'ŏn-dong #11 & #10, 5c; Pokch'ŏn-dong #21–22 accessory chamber; Okch'ŏn #28, 5c; Okch'ŏn #8, 5–6c; chŏn-Kimhae]
 
-![](_page_200_Picture_1.jpeg)
 
 **Figure 5.8** Keeled helmet with horizontal plates (after Chŏng & Shin 1991: fig. 4.3)
 
-![](_page_200_Picture_3.jpeg)
 
 **Figure 5.9** Mongolian helmet with square-plated neck guard (after Fukuo 1991: fig. 3.2)
 
@@ -2392,11 +2376,9 @@ Wŏlsan-ri Ml-A; Pokch'ŏn-dong #11 & #10, 5c; Pokch'ŏn-dong #21–22 accessory
 - F. Crown-shaped caps (Figure 5.11); one made of gilt bronze bearing an impressed dotted line pattern in wave and vine forms, another made of iron. [Pan'gyeje; chŏn-Yŏnsan-dong]
 - G. Gilt iron riveted helmet, plate shape and method of fixation not known, but possibly large plates moulded around the head and finished at the top with a top band much like the Nongo-ri find (Han 1991: fig. 94). [Okch'ŏn #M–3, 5–6c; Nongo-ri Sansŏng]
 
-![](_page_201_Picture_0.jpeg)
 
 **Figure 5.10** Square-plated helmet from Pan'gyeje, disassembled (after Chinju National Museum 1987; fig. 20)
 
-![](_page_201_Picture_2.jpeg)
 
 **Figure 5.11** Crown-shaped cap, gilt bronze (after Chinju National Museum 1987: fig. 20)
 
@@ -2408,7 +2390,6 @@ These are rigid upper body protectors made of iron plates fastened together with
 
 A. Vertical plated cuirass (Figure 5.12), thonged [Kujŏng-dong] or riveted [chŏn-T'oenae-ri, 5c; Pokch'ŏn-dong #46, 4c; Pokch'ŏn-dong #10, 5c; 2 chŏn-Kimhae]; front opening; may have a back collar-like neck guard (these are later in date) and chest ornaments both front and back. [Pusan City Museum, Pokch'ŏn-dong #10, T'oenae-ri; riveting technology not found in Japan on vertical plated cuirasses (Nogami 1991: 10)]
 
-![](_page_202_Picture_2.jpeg)
 
 **Figure 5.12** Examples of vertical-plate cuirasses (after Fujita 1991: figs. 3, 4)
 
@@ -2428,19 +2409,15 @@ Shoulder guards, neck guards, belts and gauntlets are some of the small pieces o
  - b Limb-guards (Figure 5.15\) [Pokch'ŏn-dong #11, 5c; Wŏlsan-ri Ml-A]
 - c Yoke-guard (Figure 5.16); two squarish sheet-metal pieces with rounded neck openings, worn over the shoulders. [Chisan-dong #32, rivetted, 5c]
 
-![](_page_204_Picture_0.jpeg)
 
 **Figure 5.13** Horizontal-plate cuirasses, front, side and back views (after Kobayashi 1991: figs. 8, 9) (top) rectangular plated, riveted; (bottom) triangular plated, riveted
 
-![](_page_204_Picture_2.jpeg)
 
 **Figure 5.14** 14 Standup neck-guard for lamellar suit (after Chŏng & Shin 1991: fig. 6)
 
-![](_page_205_Picture_0.jpeg)
 
 **Figure 5.15** Limb-guards (after Pusan University Museum 1982: fig. 69)
 
-![](_page_205_Picture_2.jpeg)
 
 **Figure 5.16** 16 Neck-guard as part of a cuirass and helmet set (after Fujita 1991: fig. 5)
 
@@ -2454,7 +2431,6 @@ Miscellaneous plates from these various forms of armour are often found isolated
 
 Shin (1991) has divided these armour types into two main groups: local (helmet types 1-A,B,C; and cuirass type 2) and foreign (Mongolian helmet type 1-D; lamellar suit type 3; accessory type 4a). However, there are problems with this divisioning. Even the "local" types might have originated elsewhere on the continent; and some of the types are shared with Japan - engendering dissenting opinions as to their locus of manufacture. Nevertheless, all researchers agree that a whole new type of armour was introduced into the southern peninsula and islands in the early 5th century by Koguryŏ. This armour consisted of so-called Mongolian helmets (1-D) and long lamellar suits (3) with various accoutrements (4a) as well as horse bardings. Indigenous 4th century armour is considered to have belonged to warriors conducting foot warfare, while the foreign, Koguryŏtype armour is assessed as horseider equipment. Despite the adoption of lamellar suits by the southern elite in the 5th century, cuirasses, the "local" body armour, did not disappear. Instead, this older type of armour was relegated to lower ranks in the political hierarchy, as evidenced by its occurring in small, subsidiary tombs or being worn by "followers in death"6 (Shin 1992: 139).
 
-![](_page_207_Picture_0.jpeg)
 
 **Figure 5.17** Chamfron parts (right) and drawn in oblique profile (left) (after Han'guk Kogo Misul Yŏn'guso 1984: 37)
 
@@ -2565,7 +2541,6 @@ The largest tombs in areas Ka and Ta can thus be ordered in terms of size and co
 
 Thus, at least three levels of the warrior hierarchy had access to the new "foreign"-style goods in term of horse trappings or lamellar armour.
 
-![](_page_214_Picture_1.jpeg)
 
 **Figure 5.19** Main burial #22 (above) and accessory burial #21 (below) at Pokch'ŏn-dong (after Pusan University Museum 1990: figs. 4, 7)
 
@@ -2657,7 +2632,6 @@ In contrast to most historians, who call such Bronze Age polities "tribal states
 
 Walled sites are the most prominent settlement remains of the Korean peninsula and have drawn the attention even of Western residents in Korea (Bacon 1961). An excellent example of an historic walled site serving as a district centre is present-day Suwŏn, built as Hwa-sŏng in 1794 and reconstructed in its original glory under the auspices of the Historic Monuments Division. The Cultural Properties Institute has listed 1226 such sites ranging in date from the Three Kingdoms (4th to mid-7th centuries) through to the 19th century for the southern peninsula alone (Munhwajae Kwalliguk, 1977), and the Society for Korean Archaeological Studies has published a distribution map of 386 walled sites (Figure 6.1) belonging only to the Three Kingdoms (ad ca. 300–668) and United Silla (ad 668–918) periods (Han'guk Kogohak Yŏn'guhoe 1984). This latter figure, however, is vastly underestimated since even in the area of the Paekche state, over 522 walled sites have been identified by local archaeologists (Song J. T. 1984: 10) and there are around 400 walled sites of the Three Kingdoms period in the southeastern peninsula (Shim B. G., pers. comm.). This form of site, therefore, obviously had deep connections with state organization in the Three Kingdoms period, and it was used throughout the later dynasties as an important urban form. Lee Ki-baek assumes that walled sites functioned as polity centers at least in the Three Kingdoms – during the early phases of centralized polity formation. However, this architectural form cannot be assumed to have a singular function through time, especially not as a polity capital.
 
-![](_page_224_Picture_0.jpeg)
 
 **Figure 6.1** Distribution map of Three Kingdoms walled sites in the southern Korean peninsula (after Han'guk Kogohak Yŏn'guhoe 1984)
 
@@ -2712,15 +2686,12 @@ Among mountain walls, or *sansŏng*, three subtypes are recognized (Yun & Song 1
 
 The challenge for us in understanding the development of Korean walled sites is twofold: 1) we must assess the impact of Chinese construction technology and layout, and 2) we must accurately assign function to walled site remains. The functions of these walled sites, especially the enclosed sites rather than the "long walls" (Figures 6.3a and 6.3b), are impossible to determine without detailed information on the activities which took place within their confines. Investigating them requires excavated information on their interiors. As of 1986, 31 walled sites had been or were currently being excavated in the southern peninsula. Of these, 5 had United Silla occupation, 20 date to the Three Kingdoms period and 3 are hypothesized to have been built at the end of the Late Iron Age or Proto-Three Kingdoms period. But it is characteristic of such excavations that the walls are investigated in more detail than the interiors, primarily for the purposes of dating and determining the methods of construction – which are not always apparent from external inspection. Of the currently excavated sites, only 8 have produced artifacts and features from their interiors (Tables 6.2, 6.3). Nevertheless, these allow a preliminary discussion of walled site function in Three Kingdoms period settlement patterns.
 
-![](_page_227_Picture_1.jpeg)
 
 **Figure 6.2** Combination-type *sansŏng* showing how walls were extended from a summit-type *sansŏng* to include surrounding valleys (after Yun & Song 1980)
 
-![](_page_228_Picture_0.jpeg)
 
 **Figure 6.3a** A long wall (*changsong*) at Kwanmun in the southeast peninsula (after Park B. R. 1982) see also [Figure 8.3, [Chapter 8\]](#page-288-0)
 
-![](_page_228_Picture_2.jpeg)
 
 **Figure 6.3b** The Koryŏ-period *changsŏng* across the neck of the peninsula (after Han W. K. 1987)
 
@@ -2740,7 +2711,6 @@ There are more difficulties at yet another level. Assigning function to artifact
 
 (right) The Zhou period capital of Yan in China illustrating the inclusion of craft facilities within the walls (after Chang K. C. 1977)
 
-![](_page_231_Picture_2.jpeg)
 
 **Figure 6.5** Two alternative building reconstructions for the same excavated foundations at Kŭmchŏng Sansŏng (after Han'guk Munhwajae Yŏn'guwon 1979)
 
@@ -2912,15 +2882,12 @@ The strategic nature of the site is reinforced not so much by the presence of on
 
 When Isŏng Sansŏng was first excavated, it was interpreted as a Paekche site. However, the author of the second season's excavation report (Ch'im K. J. 1988) attributes the wall to the Silla period. Paekche pottery, and iron objects discovered in the second season – axe, sickle and crucibles – indicate that the subsistence and production component of the site is more comparable to Mongch'on T'osŏng than previously thought. However, an increased ritual component (stone mirror imitation and talc perforated pieces) and lack of trade goods still sharply distinguish it from the latter site. There are thus differing interpretations of Isŏng Sansŏng: that it was originally a Paekche site and was overtaken by Silla and made into a militaristic outpost with a heavy ritual significance; or that it was always a Silla site. Regardless, it might be said that the two sites of Isŏng Sansŏng and Mongch'on T'osŏng might have functioned within different settlement systems at different times and that Isŏng Sansŏng had a ritual component that was not present at Mongch'on T'osŏng.
 
-![](_page_244_Picture_0.jpeg)
 
 **Figure 6.8a** The walled site of lsŏnq Sansŏnq (after Kim &: Ch'im 1987)
 
-![](_page_244_Picture_2.jpeg)
 
 **Figure 6.8b** Excavation of Isŏng Sansŏng Location E with rectangular and angular building foundations (after Kim & Ch'im 1987)
 
-![](_page_245_Picture_0.jpeg)
 
 **Figure 6.9** Building reconstructions for the foundations at Location E, Isŏng Sansŏng (after Kim & Ch'im 1987)
 
@@ -3477,7 +3444,6 @@ In the Late Iron Age (1st to 3rd centuries ad) the archaeology of the Kyŏngju b
 
 Among the important pre-Silla sites in Kyŏngju, Choyang-dong serves as the type site for Wajil pottery, which now is recognized as the major chronological marker of the Late Iron Age in Yŏngnam. Prior to the Choyang-dong excavations between 1979–81, Wajil was subsumed under the former category of "Kimhae ware", and no distinction was made between high-fired grey earthenwares and stonewares [see Chapter 3, this volume]. The identification of Wajil allows a more accurate separation of Late Iron Age remains from proper Three Kingdoms-period remains and thus allows a more accurate assessment of the stages of Kyŏngju area development. Two Wajil dating schemes are available: a relatively detailed six-phase division (Ch'ŏi C. K. 1982), and a grosser two phase division which is more generally useful (Figure 8.1) (Shin K. C. 1989). Early Wajil overlaps with Plain pottery of the Bronze Age tradition, and Late Wajil pottery occurs together with early Kaya-type stoneware, which appeared in the 3rd century and marks the beginning of the Three Kingdoms pottery tradition.
 
-![](_page_292_Picture_1.jpeg)
 
 **Figure 8.1** Wajil pottery, the main burial ceramics of Late Iron Age Yŏngnam (after Shin K. C. 1989: figs. 1, 2) 1–6 Old Wajil (ca. 1st–3rd c. ad); 7–10 New Wajil (ca. ad 250–420)
 
@@ -3570,7 +3536,6 @@ Figure 8.4a Pit-style stone chamber, Pokch'ŏn-dong, Pusan (after Pusan Universi
 
 Figure 8.4b Ch'onma-chŏng royal stone-piled wooden chamber: a wooden coffin and grave goods box inside the wooden chamber, covered with stones then earth, Kyŏngju (after Kim W. Y. 1983: fig.
 
-## ![](_page_300_Picture_1.jpeg)
 
 **Figure 8.4c** Ssangsang-chŏng coridor-style tomb chamber, Kyŏngju (after Ch'oi B. H. 1992: fig. 98)
 
@@ -3648,17 +3613,14 @@ Suprisingly, Lee J. W. – despite his emphasis on continuity between Sarŏ and 
 
 **Figure 8.5** Varieties in Silla mounded-stone burials
 
-![](_page_307_Picture_2.jpeg)
 
 **Figure 8.5a** The mature style of royal Silla single burial; note that the stone mound has collapsed into the wooden chamber under the weight of the overlying earthen mound (after Ch'oi B. H. 1992: fig. 33)
 
-![](_page_307_Picture_4.jpeg)
 
 **Figure 8.5b** Multiple-chamber mounded-stone tombs at Mich'u Location 12 (after Ch'oi B. H. 1992: fig. 21)
 
 The above schemes of matching clan to tomb cluster are viewed from an archaeological point of view as fraught with difficulty and unprovable without documentary evidence. However, the developing archaeology of the Kyŏngju basin and adjacent valleys is beginning to provide support for the idea that pre-4th-century settlement was concentrated mainly in the valleys leading out of the basin rather than on the central basin plain. When one reviews the geography of the Kyŏngju plain, one can possibly see why (cf. Figure 8.7). Three rivers meet in the basin: two tributaries flow from southeast to northwest into the main Hyŏngsan River, which flows south to north along the west side of the basin. The entire plain can be seen to be an alluvial fan, oriented east to west, of the tributaries; this means that there would have been many changes of river course through the centuries with flooding a constant danger. The South Tributary now passes between Panwŏl-sŏng, the fortress considered to be Silla's 4th-century palace, and Mt. Namsan; but contour line placement suggest it once also flowed along the north of Panwŏl-sŏng. This course had been abandoned by the time of tomb construction since the Tumulus Park tombs sit right it its old path. Current excavations east of Hwangnyŏng-sa Temple indicate that that area of plains remained mud flats until the late 6th century. 20 It had to be landfilled in order to make it ready for establishing the gid capital from the late 7th century. In contrast to this uncertain and changing topography with limited area available in the central basin, the adjoining valleys might have seemed safer with their steeper drainage patterns.
 
-![](_page_309_Picture_0.jpeg)
 
 **Figure 8.5c** Hwangnam #109 (after Oda et al. 1993: 145)
 

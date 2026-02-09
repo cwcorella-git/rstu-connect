@@ -1347,7 +1347,6 @@ Think about what I have said — I hope that when I will return I will find a ne
 
 #### The Anarchist Library Anti-Copyright
 
-## ![](_page_71_Picture_1.jpeg)
 
 Errico Malatesta At The Café Conversations on Anarchism 1922
 

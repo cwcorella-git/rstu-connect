@@ -16,7 +16,6 @@ New York City draft riots - Wikipedia                      about:reader?url=http
 en.wikipedia.org
 New York City draft riots
 Contributors to Wikimedia projects
-36–46 minutes
 New York City Draft Riots of 1863
 Part of Opposition to the American Civil War
 An illustration in The Illustrated London News depicting

@@ -1250,71 +1250,54 @@ Agan and again the phrases, "Now the rich earn wages," or "Now the poor hire the
 
 A brief episode in local agricultural history perhaps best captures the relationship between the poor and combine-harvesting. During the off-season harvest of 1979, which was both late and quite wet, word reached the village that a combine had become stuck in the paddy-field clay near Sungai Kering, some four miles to the south. Immediately, since the afternoon work was over, eight or ten villagers on bicycles and motorcycles went off to have a look. They returned an hour or so later to report that it was indeed stuck and that its operator's efforts to drive it out had only mired it more firmly. Beginning the following day-and for the next week and a half-the crowd of onlookers from Sedaka and surrounding villages grew. Within a few days the combine in Sungai Kering had become something of a pilgrimage site. All efforts to extract it had failed and each day a new strategy was tried-winches, tow trucks, cables attached to dump trucks fully loaded for extra traction, bulldozers-to no avail. Two owners from the syndicate were in daily attendance, visibly worried and angry, shouting and gesticulating to their workers as each new scheme was implemented and failed. Their spirits were not buoyed by the growing crowds, who were openly rooting against the combine and its owners and in favor of the gradually encroaching Kedah mud. In fact, after a week, the line of sight from a hundred yards across the paddy fields offered only a view of the cab; time was definitely on the side of the Kedah mud. Meanwhile, local laborers were cutting and threshing around the stricken combine, now covered with mud and looking for all the world like the site of an archeological excavation.
 
-## ![](_page_129_Picture_3.jpeg)
 
 1. The Muda Plain viewed from Gunung Jerai (Kedah Peak). Dark lines indicate linear villages. To left are Straits of Malacca.
 
-## ![](_page_129_Picture_5.jpeg)
 
 2. Village path. Houses to left and right are obscured by foliage.
 
-## ![](_page_130_Picture_3.jpeg)
 
 3. Paddy fields awaiting transplanting north of village. Gunung Jerai in background. Courtesy of Ray Friedman.
 
-## ![](_page_130_Picture_5.jpeg)
 
 4. Transplanting group (Kumpulan Share) on break. Note newly transplanted plot rear left. Courtesy of Ray Friedman.
 
-## ![](_page_131_Picture_2.jpeg)
 
 5. Hand threshing on small plot following irrigated season.
 
-## ![](_page_132_Picture_2.jpeg)
 
 6. The combine-harvester. Workers are sewing shut the gunny sacks filled with harvested paddy.
 
-## ![](_page_132_Picture_4.jpeg)
 
 7. Communal work group repairing village hall—at rear. The entire crew is composed of members of the ruling party, UMNO.
 
-## ![](_page_133_Picture_2.jpeg)
 
 8. Brand-new outhouse constructed with grant from Village Improvement Scheme.
 
-## ![](_page_134_Picture_2.jpeg)
 
 9. "Operations room" for Village Improvement Scheme in village hall.
 
-## ![](_page_135_Picture_2.jpeg)
 
 10. House of well-to-do local farmer. Note clapboards, shutters, zinc roof, and veranda.
 
-## ![](_page_135_Picture_4.jpeg)
 
 11. House of poor farmer. Courtesy of Ray Friedman.
 
-## ![](_page_136_Picture_2.jpeg)
 
 12. Kitchen of poor household. Cooking is done on fire built on table, which is covered with sand for insulation. Courtesy of Ray Friedman.
 
-## ![](_page_136_Picture_4.jpeg)
 
 13. Men of village beside surau/village hall after prayers marking the end of the fasting month.
 
-## ![](_page_137_Picture_2.jpeg)
 
 14. House-moving crew to be thanked later with a meal prepared by owners.
 
-## ![](_page_137_Picture_4.jpeg)
 
 15. Hauling paddy by Honda 70 to the main road. Courtesy of Ray Friedman.
 
-## ![](_page_138_Picture_2.jpeg)
 
 16. A local Haji dressed for a visit to town. Courtesy of Ray Friedman.
 
-## ![](_page_138_Picture_4.jpeg)
 
 17. Villager with his water buffalo preparing to haul sacks of threshed paddy on the andur (sled) at rear. Courtesy of Ray Friedman.
 

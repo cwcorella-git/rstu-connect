@@ -15,9 +15,6 @@ tags:
 
 ## DANIEL W. BROMLEY
 
-## ![](_page_3_Picture_3.jpeg)
-
-## ![](_page_4_Picture_0.jpeg)
 
 by publishing worldwide. Oxford is a registered trade mark of Oxford University Oxford University Press is a department of the University of Oxford. It furthers the University's objective of excellence in research, scholarship, and education Press in the UK and certain other countries.
 
@@ -35,7 +32,6 @@ All rights reserved. No part of this publication may be reproduced, stored in a 
 
 Printed by Integrated Books International, United States of America
 
-## ![](_page_5_Picture_0.jpeg)
 
 ### Contents
 

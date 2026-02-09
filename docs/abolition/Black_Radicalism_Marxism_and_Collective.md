@@ -10,13 +10,11 @@ tags:
   - interviews
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 ## Jordan T. Camp
 
 American Quarterly, Volume 65, Number 1, March 2013, pp. 215-230 (Article)
 
-## ![](_page_0_Picture_4.jpeg)
 
 Published by The Johns Hopkins University Press DOI: 10.1353/aq.2013.0007
 

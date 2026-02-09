@@ -9,11 +9,6 @@ tags:
 
 ## ![](_page_0_Figure_0.jpeg)
 
-## ![](_page_0_Picture_1.jpeg)
-
-## ![](_page_1_Picture_0.jpeg)
-
-## ![](_page_2_Picture_1.jpeg)
 
 © 2013 by the Veterans of Hope Project. All rights reserved.
 
@@ -27,13 +22,11 @@ Design and composition by Bookbright Media.
 
 Copies of this booklet are available to groups free of charge at: www. New Jim Crow Organizing.org
 
-## ![](_page_4_Picture_0.jpeg)
 
 ## Photo © Bob Fitch—www.bobfitchphoto.com
 
 In honor of Martin Luther King Jr. and the movement that raised him up as spokesperson.
 
-## ![](_page_5_Picture_0.jpeg)
 
 # **CONTENTS**
 
@@ -87,7 +80,6 @@ The guide covers a lot of ground. Depending on your group's interests and circum
 
 In addition to exploring and grappling with the content in the guide, we hope you will protect time and space to reflect together on your group's process. It will be up to you to name what is working and what is not working in your sessions together and to make the needed adjustments. This type of reflection and recalibration takes time. What's more—as is the case with just about everything folks work on together—it will undoubtedly call for "the 3 C's" that were so characteristic of Martin Luther King's approach to social change organizing, and to life in general: Courage to see, speak, and hear the truth; Creativity to chart the needed, often unseen course; and Compassion for ourselves and our companions along the way.
 
-## ![](_page_13_Picture_0.jpeg)
 
 ## Photo © Richard Ross—juvenile-in-justice.com
 
@@ -113,9 +105,6 @@ In order to answer such questions in any meaningful way, we must first be willin
 
 We hope that the conversations catalyzed by The New Jim Crow and supported by this guide will lead to concerted action to address one of the most extraordinary human rights crises of our time. As noted in the foreword by Dr. Vincent Harding, the guide draws generously from the words and thought of Martin Luther King Jr. Dr. King's writings and speeches characteristically interweave the spiritual, the social, and the political, and his observations about the role of race in the United States remain searingly relevant in this era of mass incarceration. His insights remind us that our current struggle is part of a very old, very long struggle—a river of resistance and creative, collective action—to which King and countless other courageous souls gave their time, energy, love, and in some cases their very lives. As we move forward together, may the knowledge that we are part of that lineage ground us and inspire us.
 
-## ![](_page_18_Picture_0.jpeg)
-
-## ![](_page_19_Picture_0.jpeg)
 
 ## Photo © Richard Ross—juvenile-in-justice.com
 
@@ -143,7 +132,6 @@ In chapter one, Alexander relates what she saw after the blinders—the long-hel
 
 ---------------------------------------
 
-## ![](_page_23_Picture_2.jpeg)
 
 #### 1. Initial Reaction
 
@@ -183,9 +171,6 @@ The book explains that as slavery in the United States ran its course, white sup
 
 In the face of the history of white privilege and supremacy in the United States, the call for a movement to end our longstanding cycle of caste is incredibly bold. Some respected thinkers, such as Derrick Bell, seriously challenge that such a goal is achievable, contending that there is permanence to racism and racial hierarchy in the United States—that these tendencies are hard-wired into the fabric of our national life. Do you believe that Dr. King's vision of a beloved community can be realized in the United States? How do your feelings on this subject impact how you relate to the call to end mass incarceration and our nation's cycle of caste?
 
-## ![](_page_28_Picture_0.jpeg)
-
-## ![](_page_29_Picture_0.jpeg)
 
 ## Photo © Julia Rendleman—juliarendleman.com
 
@@ -256,9 +241,6 @@ Research conducted by The Sentencing Project, an organization that advocates for
 
 The United States is the most punitive country in the world. As described in chapter two, our nation imposes harsh mandatory minimum sentences on drug offenders-sentences sometimes harsher than murderers receive in other Western democracies. In fact, in the United States, there are people serving life sentences for first-time drug offenses, something that is unheard of anywhere else in the world. Although "diversity is our strength" is a nice-sounding slogan, the reality is that diversity may well be our nation's greatest challenge. As our nation witnesses the development of a new majority of people of color, and as demands for equality continue to be made, we see predictable backlashes and "get tough" demands against African Americans and other people of color, especially Latino immigrants. Could it be that building a movement to end mass incarceration—and thus transforming the punitive impulse into a compassionate one—is the ultimate test of whether the United States will ever achieve Dr. King's dream?
 
-## ![](_page_38_Picture_0.jpeg)
-
-## ![](_page_39_Picture_0.jpeg)
 
 ## Photo © Jon Lowenstein—noorimages.com
 
@@ -324,9 +306,6 @@ Many would argue that mass incarceration is different from Jim Crow because of t
 
 In numerous speeches, Alexander has argued that we should commit ourselves to building an "underground railroad" for people returning home from prison. Movement building, she argues, requires working for the abolition of the system of mass incarceration as a whole, as well as providing desperately needed support and love to people at risk of incarceration, families with loved ones behind bars, and people returning home from prison. The movement must acknowledge and respond to the human suffering caused by this system and model what a compassionate society actually looks like. Do you agree? If so, what can we do, individually and collectively, to offer greater support, resources, and love to people struggling to survive the system of mass incarceration?
 
-## ![](_page_48_Picture_0.jpeg)
-
-## ![](_page_49_Picture_0.jpeg)
 
 ## Photo © Lloyd De Grane—lloyddegrane.com
 
@@ -394,17 +373,11 @@ Recalling section one's discussion of those issues and groups excluded from the 
 
 Do you think that building this movement will demand the same level of sacrifice as the struggle for freedom called forth during the civil rights era? For what level of sacrifice do you feel prepared? What would help to prepare you for this work? Are you part of a community that is knit tightly enough to support you and/or join you in a serious consideration of bold action? If not, what steps can you take to create or locate yourself in such a community? Or, what steps can you take to persuade the community of which you're already a part to move into a place, spiritually and practically, to embrace more radical, truly transformational steps? What are you willing to do now?
 
-## ![](_page_59_Picture_0.jpeg)
-
-## ![](_page_60_Picture_0.jpeg)
 
 CPSIA information can be obtained at www. ICGtesting.com Printed in the USA LVOW06s1949190715
 
 ## 446763LV00011B/121/P
 
-## ![](_page_61_Picture_2.jpeg)
-
-## ![](_page_62_Picture_0.jpeg)
 
 ## The Veterans of Hope Project
 

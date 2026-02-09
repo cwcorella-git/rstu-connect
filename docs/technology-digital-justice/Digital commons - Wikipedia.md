@@ -9,7 +9,6 @@ tags:
   - digital rights
 ---
 
-## ![](_page_0_Picture_2.jpeg)
 
 The **digital commons** refers to shared [digital resources—](https://en.wikipedia.org/wiki/Information_technology)such as software, knowledge, data, and cultural content—that are collectively produced and governed by a community and intended for public use.[\[1\]](#page-4-0)[\[2\]](#page-4-1) These [commons](https://en.wikipedia.org/wiki/Commons) are distinguished by open access, participatory management, and licensing practices that preserve reuse and redistribution. Digital commons play a vital role in areas such as education, research, software development, and civic engagement.
 

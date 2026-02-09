@@ -10,9 +10,6 @@ tags:
 
 [nps.gov](https://www.nps.gov/hafe/learn/historyculture/stories.htm)
 
-10–13 minutes
-
-## ![](_page_0_Picture_5.jpeg)
 
 Interior of the Engine-House, just before the gate was broken down by the storming party - Col. Washington and his associates as captives, held by Brown as hostages. Men shot and bleeding, John Brown and others with rifle and pikes, and hostages inside the engine house. Artist James E. Taylor
 
@@ -32,7 +29,6 @@ Today, [John Brown's Fort](https://www.nps.gov/hafe/learn/historyculture/john-br
 
 Read a blow by blow account of [John Brown's Raid. M](https://www.nps.gov/articles/john-browns-raid.htm)eet [John](https://www.nps.gov/articles/wives-and-children-of-john-brown.htm) [Brown's family. F](https://www.nps.gov/articles/wives-and-children-of-john-brown.htm)ind out [how Harpers Ferry citizens reacted to](https://www.nps.gov/articles/000/harpers-ferry-armed-to-the-teeth.htm) [Brown's raid](https://www.nps.gov/articles/000/harpers-ferry-armed-to-the-teeth.htm) and learn how [people have remembered Brown](https://www.nps.gov/articles/series.htm?id=2A8437AB-A9B8-9227-45218B70511C5831) over the years following the raid.
 
-## ![](_page_2_Picture_6.jpeg)
 
 Row of reproduction Civil War cannons on Murphy-Chambers farm. NPS photo/Cook
 
@@ -56,9 +52,6 @@ Later that summer, U. S. Gen. Philip H. Sheridan used Harpers Ferry as his base 
 
 Explore [Harpers Ferry year-by-year during the Civil War.](https://www.nps.gov/hafe/learn/historyculture/hf-civil-war.htm)
 
-## ![](_page_4_Picture_8.jpeg)
-
-## ![](_page_5_Picture_2.jpeg)
 
 John Smith's 1606 map of Virginia shows the locations of tribal nations and towns and a vignette of the Native leader, Powhatan, in council. Library of Congress
 
@@ -70,9 +63,6 @@ Ceramic shards and hearth features tell the story of Indigenous People in the Ha
 
 Find out more about [America's Indigenous Heritage.](https://www.nps.gov/subjects/tellingallamericansstories/indigenousheritage.htm)
 
-## ![](_page_5_Picture_8.jpeg)
-
-## ![](_page_6_Picture_2.jpeg)
 
 Early class (1870s) of Storer College students and teachers Harpers Ferry NHP Museum Collection, Catalog #4952
 
@@ -92,7 +82,6 @@ African American efforts enshrining John Brown paved the way for Harpers Ferry t
 
 Explore [John Brown's Fort.](https://www.nps.gov/hafe/learn/historyculture/john-brown-fort.htm) Learn more about the [Niagara](https://www.nps.gov/hafe/learn/historyculture/the-niagara-movement.htm) [Movement](https://www.nps.gov/hafe/learn/historyculture/the-niagara-movement.htm) founded by W. E. B. Du Bois. Meet Storer College alumnus [Don Redman,](https://www.nps.gov/hafe/learn/historyculture/don-redman-the-little-giant-of-jazz.htm) the "little giant of jazz." View the Storer College's first school room at [Lockwood house](https://www.nps.gov/hafe/learn/historyculture/lockwood-house.htm) and the school's headquarters at [Anthony Memorial Hall.](https://www.nps.gov/places/000/anthony-hall.htm) [Listen to Storer](https://www.nps.gov/podcasts/storer-stories.htm) [College alumni](https://www.nps.gov/podcasts/storer-stories.htm) in their own words. Find out more about [African](https://www.nps.gov/subjects/africanamericanheritage/index.htm) [American Heritage.](https://www.nps.gov/subjects/africanamericanheritage/index.htm)
 
-## ![](_page_7_Picture_6.jpeg)
 
 Ruins of the small arsenal, with John Brown's Fort in the background. NPS photo
 
@@ -104,9 +93,6 @@ In 1803, [Meriwether Lewis arrived at the U. S. Armory at](https://www.nps.gov/h
 
 Inventor [John H. Hall](https://www.nps.gov/hafe/learn/historyculture/john-h-hall.htm) pioneered interchangeable firearms manufacture at his Rifle Works between 1820-1840 and helped lead the change from craft-based production to manufacture by machine.
 
-## ![](_page_8_Picture_6.jpeg)
-
-## ![](_page_9_Picture_2.jpeg)
 
 Harpers Ferry sits between the Shenandoah River (left) and the Potomac River (right). NPS photo
 

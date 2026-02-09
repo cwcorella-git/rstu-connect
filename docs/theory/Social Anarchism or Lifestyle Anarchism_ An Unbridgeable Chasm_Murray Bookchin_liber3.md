@@ -12,7 +12,6 @@ tags:
 
 ## Murray Bookchin
 
-## ![](_page_0_Picture_3.jpeg)
 
 ## Library of Congress Cataloging-in-Publication Data
 

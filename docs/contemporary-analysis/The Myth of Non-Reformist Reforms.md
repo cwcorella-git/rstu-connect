@@ -10,9 +10,6 @@ tags:
 
 ## Admin100
 
-5–7 minutes
-
-## ![](_page_0_Picture_6.jpeg)
 
 ## **By Black Rose/Rosa Negra – Burlington**
 

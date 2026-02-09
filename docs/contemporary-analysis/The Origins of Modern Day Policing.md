@@ -8,9 +8,6 @@ tags:
 
 [naacp.org](https://naacp.org/find-resources/history-explained/origins-modern-day-policing)
 
-6–7 minutes
-
-## ![](_page_0_Picture_5.jpeg)
 
 "Tough on crime" laws have put an unprecedented number of non-violent offenders behind bars and our neighborhoods feel no more secure. This system has deep roots in slavery.
 
@@ -40,7 +37,6 @@ The Atlantic, (June 16, 2020),[The Culture of Policing is Broken](https://www.th
 
 The legacy and effects of biased policing are far reaching. The U. S. is home to the world's largest prison population and the highest per-capita incarceration rate. As of May 2020, there were 655 people incarcerated per 100,000. Prison, parole, and probation operations cost U. S. taxpayers \$81 billion a year.
 
-## ![](_page_3_Picture_2.jpeg)
 
 The relationship between law enforcement and our communities is fractured because of decades of a bad system that has let countless issues go unaddressed.
 
@@ -71,4 +67,3 @@ We advocate for smarter, positive, results-based criminal justice policies to ke
 
 #### [More on race and justice policies](https://naacp.org/know-issues/race-justice/race-justice-policies)
 
-## ![](_page_5_Picture_4.jpeg)

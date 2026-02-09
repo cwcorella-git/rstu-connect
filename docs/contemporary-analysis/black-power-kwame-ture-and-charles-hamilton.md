@@ -14,7 +14,6 @@ tags:
 
 ## KWAME TURE & CHARLES V. HAMILTON
 
-## ![](_page_1_Picture_0.jpeg)
 
 #### **Black Power**
 
@@ -28,7 +27,6 @@ The Politics of Liberation in America with NEW AFTERWORDS BY THE AUTHORS
 
 ## KWAME TURE & CHARLES V. HAMILTON
 
-## ![](_page_2_Picture_3.jpeg)
 
 Vintage Books
 A Division of Random House, Inc.
@@ -495,7 +493,6 @@ We come now to the rhetoric of coalition as part of the traditional approach to 
 
 2 *The New York Times* (April 30, 1967), p. 30.
 
-## ![](_page_49_Picture_0.jpeg)
 
 #### **THE MYTHS of Coalition**
 
@@ -673,7 +670,6 @@ Ultimately, the gains of our struggle will be meaningful only when consolidated 
 - \* Niccolo Machiavelli, *The Prince and the Discourses*, New York: Random House (Modern Library), 1950, p. 84.
 - 11 Saul Alinsky speaking at the 1967 Legal Defense Fund Convocation in New York City, May 18, 1967.
 
-## ![](_page_65_Picture_0.jpeg)
 
 #### **MISSISSIPPI FREEDOM DEMOCRATS: Bankruptcy of the Establishment**
 
@@ -739,7 +735,6 @@ This is the genesis of the Lowndes County Freedom Organization in Alabama, which
  - 3 *Ibid.*
 - 4 Lawrence Guyot and Mike Thelwell, "The Politics of Necessity and Survival in Mississippi," *Freedomways*, Vol. 6, No. 2 (Spring, 1966).
 
-## ![](_page_72_Picture_0.jpeg)
 
 #### **BLACK-BELT ELECTION: New Day A'Coming**
 
@@ -943,7 +938,6 @@ The new Lowndes County Freedom Party is also aware that somehow it must countera
 
 One way or another, the fact is that the John Huletts of the South will participate in political decision-making in their time and in their land. November 8, 1966, made one thing clear: some day black people will control the government of Lowndes County. For Lowndes is not merely a section of land and a group of people, but an idea whose time has come.
 
-## ![](_page_85_Picture_0.jpeg)
 
 #### **TUSKEGEE, ALABAMA: The Politics of Deference**
 
@@ -1107,7 +1101,6 @@ Black people need not be apologetic or defensive about controlling their communi
  - 9 "A New White Backlash?" *The Saturday Evening Post* (September 10, 1966), p. 88.
 - 10 Arnold S. Kaufman, "Murder in Tuskegee: Day of Wrath in the Model Town," *The Nation* (January 31, 1966), p. 119.
 
-## ![](_page_99_Picture_0.jpeg)
 
 #### **DYNAMITE in the Ghetto**
 
@@ -1224,7 +1217,6 @@ Herein lies the match that will continue to ignite the dynamite in the ghettos: 
  - 6 *The New York Times* (May 4, 1967), p. 23.
  - 7 *Youth in the Ghetto, op. cit.*, pp. 246–47.
 
-## ![](_page_109_Picture_0.jpeg)
 
 #### **THE SEARCH for New Forms**
 

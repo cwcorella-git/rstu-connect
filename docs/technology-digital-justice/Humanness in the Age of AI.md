@@ -365,7 +365,6 @@ Furthermore, the iris is hard to modify. Modifying fingerprints through cuts is 
 
 By clicking "Accept All", you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. We do not sell your personal information.
 
-## ![](_page_18_Picture_6.jpeg)
 
 e high enough accuracy but DNA ation about the user (at least to the nally, it is hard to scale from a cost veness detection measures is hard. ter liveness detection compared to o iris biometrics, the accuracy of ould result in a growing number of gistered users increases. Even ale of billions of people, a double diait percentage of legitimate new users would be rejected. compromising
 

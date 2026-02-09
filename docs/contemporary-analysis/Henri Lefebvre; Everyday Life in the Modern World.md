@@ -8,21 +8,6 @@ tags:
   - current-events
 ---
 
-## ![](_page_0_Picture_0.jpeg)
-
-## ![](_page_0_Picture_1.jpeg)
-
-## ![](_page_0_Picture_2.jpeg)
-
-## ![](_page_0_Picture_3.jpeg)
-
-## ![](_page_0_Picture_4.jpeg)
-
-## ![](_page_0_Picture_5.jpeg)
-
-## ![](_page_0_Picture_6.jpeg)
-
-## ![](_page_0_Picture_7.jpeg)
 
 ### Everyday Life in the Modern World
 
@@ -34,11 +19,9 @@ Profound and prophetic for its insights into the impact of capitalism and urbani
 
 This Routledge Classics edition includes a new Foreword by Claire Revol and Rob Shields.
 
-## ![](_page_2_Picture_0.jpeg)
 
 Henri Lefebvre 1901–1991, philosopher, sociologist and ran theorist, was one o the great social theorists o the twentieth centry and pioneered the theorization o everyday lie and space.
 
-## ![](_page_4_Picture_0.jpeg)
 
 "Routledge Classics is more than just a collection of texts. . . it embodies and circulates challenging ideas and keeps vital debates current and alive."
 
@@ -54,7 +37,6 @@ For a coplete list o titles visit: https://www.rotledge.co/Rotledge-Classics/oo-
 
 With a new Foreword by Claire Revol and Rob Shields
 
-## ![](_page_5_Picture_3.jpeg)
 
 ## Cover image: © Fotograa Basica / Getty Images
 
@@ -92,7 +74,6 @@ ISBN: 978-1-032-53394-0 (hbk) ISBN: 978-1-032-53393-3 (pbk) ISBN: 978-1-003-4118
 | 5 | Towards a Permanent Cultural Revolution | 198 |
 ## | INDEX | | 211 |
 
-## ![](_page_8_Picture_0.jpeg)
 
 ### FwR C E
 
@@ -1435,7 +1416,6 @@ youthfulness 111, 173–4, 176, 187 Yugoslavia 57, 208
 
 zero point 186-8, 190
 
-## ![](_page_244_Picture_0.jpeg)
 
 ## Taylor & Francis e Books
 
@@ -1451,6 +1431,4 @@ A streamlined experience for our library customers A single point of discovery f
 
 ## REQUEST A FREE TRIAL support@taylorfrancis.com
 
-## ![](_page_244_Picture_10.jpeg)
 
-## ![](_page_244_Picture_11.jpeg)

@@ -9,7 +9,6 @@ tags:
   - wikipedia
 ---
 
-## ![](_page_0_Picture_2.jpeg)
 
 Since 2014, the [government of the People's Republic of](https://en.wikipedia.org/wiki/Government_of_the_People%27s_Republic_of_China) [China](https://en.wikipedia.org/wiki/Government_of_the_People%27s_Republic_of_China) has committed a series of ongoing [human rights](https://en.wikipedia.org/wiki/Human_rights#Violations) [abuses](https://en.wikipedia.org/wiki/Human_rights#Violations) against [Uyghurs](https://en.wikipedia.org/wiki/Uyghurs) and other [Turkic](https://en.wikipedia.org/wiki/Turkic_peoples) Muslim minorities in [Xinjiang](https://en.wikipedia.org/wiki/Xinjiang) which has often been characterized as [persecution](https://en.wikipedia.org/wiki/Persecution) or as [genocide.](https://en.wikipedia.org/wiki/Genocide) There have been reports of mass [arbitrary arrests and detention,](https://en.wikipedia.org/wiki/Arbitrary_arrest_and_detention) [torture,](https://en.wikipedia.org/wiki/Torture) [mass](https://en.wikipedia.org/wiki/Mass_surveillance) [surveillance,](https://en.wikipedia.org/wiki/Mass_surveillance) cultural and religious persecution, [family](https://en.wikipedia.org/wiki/Family_separation) [separation,](https://en.wikipedia.org/wiki/Family_separation) [forced labor,](https://en.wikipedia.org/wiki/Forced_labor) [sexual violence,](https://en.wikipedia.org/wiki/Sexual_violence) and violations of [reproductive rights.](https://en.wikipedia.org/wiki/Reproductive_rights)
 
@@ -19,11 +18,9 @@ In addition to mass detention, government policies have included [forced labor](
 
 Part of the [Xinjiang con](https://en.wikipedia.org/wiki/Xinjiang_conflict)flict
 
-## ![](_page_0_Picture_9.jpeg)
 
 Detainees listening to speeches in a [camp](https://en.wikipedia.org/wiki/Xinjiang_internment_camps) in [Lop County,](https://en.wikipedia.org/wiki/Lop_County) Xinjiang, April 2017
 
-## ![](_page_0_Picture_11.jpeg)
 
 ## Xinjiang, highlighted red, shown within China
 
@@ -69,7 +66,6 @@ Both Uyghurs and the predominantly Han government lay claim to Xinjiang.[\[42\]]
 
 Historically, certain [Chinese dynasties](https://en.wikipedia.org/wiki/Dynasties_in_Chinese_history) exerted control over parts of modern-day Xinjiang[.\[45\]](#page-36-1) The region fully came under Chinese rule as a result of the [westward expansion](https://en.wikipedia.org/wiki/Dzungar%E2%80%93Qing_Wars) of the [Manchu](https://en.wikipedia.org/wiki/Manchu_people)led [Qing dynasty](https://en.wikipedia.org/wiki/Qing_dynasty) during the 1700s, which also saw the [conquests of Tibet](https://en.wikipedia.org/wiki/Tibet_under_Qing_rule) and [Mongolia.](https://en.wikipedia.org/wiki/Mongolia_under_Qing_rule)[\[46\]](#page-36-2) Xinjiang was a peripheral part of the [Qing empire](https://en.wikipedia.org/wiki/Qing_dynasty) and briefly regained independence during the [Dungan Revolt \(1862-1877\).](https://en.wikipedia.org/wiki/Dungan_Revolt_(1862%E2%80%931877))[\[47\]](#page-36-3) The Uyghur population participated in the [Dzungar genocide,](https://en.wikipedia.org/wiki/Dzungar_genocide)
 
-## ![](_page_2_Picture_5.jpeg)
 
 A Uyghur man from [Kashgar,](https://en.wikipedia.org/wiki/Kashgar) a city in [Xinjiang,](https://en.wikipedia.org/wiki/Xinjiang) China.
 
@@ -197,7 +193,6 @@ Rights groups and others have reported that Uyghurs living in Xinjiang have been
 
 [Mihrigul Tursun,](https://en.wikipedia.org/wiki/Mihrigul_Tursun) a young Uyghur mother, said that she was "tortured and subjected to other brutal conditions."[\[160\]](#page-50-4) In 2018, Tursun gave an intervie[w\[161\]](#page-50-5) [\[162\]](#page-50-6) during which she described her experience while at the camps; she was drugged, interrogated for days
 
-## ![](_page_9_Picture_8.jpeg)
 
 [Mihrigul Tursun,](https://en.wikipedia.org/wiki/Mihrigul_Tursun) a former detainee of the [Xinjiang internment camps](https://en.wikipedia.org/wiki/Xinjiang_internment_camps)
 
@@ -237,7 +232,6 @@ The Chinese government is reported to have pressured foreign companies to reject
 
 Former inmates have said that they were subjected to medical experimentation[.\[183\]](#page-53-5)[\[184\]](#page-53-6)
 
-## ![](_page_11_Picture_7.jpeg)
 
 Posters in Bordeaux, France, accusing Nike of complicity in the Uyghur genocide.
 
@@ -339,7 +333,6 @@ In 2005, [Human Rights Watch](https://en.wikipedia.org/wiki/Human_Rights_Watch) 
 
 According to an analysis from *The Guardian*, over one-third of mosques and religious sites in China suffered "significant structural damage" between 2016 and 2018, with nearly onesixth of all mosques and shrines completely razed[.\[262\]](#page-64-4) This
 
-## ![](_page_17_Picture_10.jpeg)
 
 Mosque in [Tuyoq,](https://en.wikipedia.org/wiki/Tuyoq_valley) Xinjiang (2005)
 
@@ -357,7 +350,6 @@ Uyghur students are increasingly attending residential schools far from their ho
 
 Sayragul Sauytbay described how she was forced to teach at an internment camp, saying the camp was "cramped and unhygienic" with her detainee students given only basic sustenance. Sauytbay added that authorities forced
 
-## ![](_page_18_Picture_8.jpeg)
 
 Entrance to a school in [Turpan,](https://en.wikipedia.org/wiki/Turpan) a Uyghurmajority city in Xinjiang, in 2018. The sign at the gate, written in Chinese, reads: "[You are] entering the school grounds. Please speak Guoyu ["the national language", i.e. [Mandarin Chinese\]](https://en.wikipedia.org/wiki/Mandarin_Chinese)"
 
@@ -373,7 +365,6 @@ Uyghur economist [Ilham Tohti](https://en.wikipedia.org/wiki/Ilham_Tohti) was se
 
 RFA reported that the Chinese government jailed Uyghur [Imam](https://en.wikipedia.org/wiki/Imam) Abduheber Ahmet after he took his son to a religious school not sanctioned by the state.[\[279\]](#page-66-6) They reported that Ahmet had previously been lauded by China as a "five-star" imam but was sentenced in 2018 to over five years in prison for his action[.\[279\]](#page-66-6)
 
-## ![](_page_19_Picture_7.jpeg)
 
 Uyghur economist [Ilham Tohti](https://en.wikipedia.org/wiki/Ilham_Tohti)
 
@@ -417,7 +408,6 @@ Documents leaked from the Xinjiang internment camps have noted that some inmates
 
 RFA reported that in 2015, a list of [banned names](https://en.wikipedia.org/wiki/Naming_law) for children called "Naming Rules for Ethnic Minorities", was promulgated in Hotan, banning potential names including "Islam", "Quran", "Mecca", "Jihad", "Imam", "Saddam", "Hajj", and "Medina". Use of the list was later extended throughout Xinjiang[.\[296\]](#page-71-2)[\[297\]](#page-71-3) Legislation in 2017 made it illegal to give children names that the Chinese government deemed to "exaggerate religious fervor".[\[82\]](#page-39-6)[\[296\]](#page-71-2) This prohibition included a ban on naming children ["Muhammad"](https://en.wikipedia.org/wiki/Muhammad_(name))[.\[296\]](#page-71-2)
 
-## ![](_page_21_Picture_7.jpeg)
 
 A Uyghur woman wearing a [hijab](https://en.wikipedia.org/wiki/Hijab) in Xinjiang
 
@@ -439,7 +429,6 @@ In 2008, Michael Clarke, an Australian terrorism scholar, noted that "there has 
 
 In July 2019, German academic Adrian Zenz wrote in the *Journal of Political Risk* that the situation in Xinjiang constituted a cultural genocide[;\[306\]](#page-73-0) his research was later cited by [BBC](https://en.wikipedia.org/wiki/BBC_News) [News](https://en.wikipedia.org/wiki/BBC_News) and other news organizations[.\[307\]](#page-73-1) James Leibold, a professor at Australia's [La Trobe University,](https://en.wikipedia.org/wiki/La_Trobe_University) called that same month the treatment of Uyghurs by the Chinese government a "cultural genocide", and stated that "in their own words, party
 
-## ![](_page_22_Picture_4.jpeg)
 
 ## Pages from the China Cables officials are 'washing brains' and 'cleansing hearts' to 'cure' those bewitched by extremist thoughts."[\[308\]](#page-73-2)[\[309\]](#page-73-3) [\[310\]](#page-73-4) The term was used in editorials, such as in *[The Washington Post](https://en.wikipedia.org/wiki/The_Washington_Post)*, at this point.[\[311\]](#page-73-5)
 
@@ -513,7 +502,6 @@ China contends that the [Gaza war](https://en.wikipedia.org/wiki/Gaza_war) demon
 
 The UN High Commissioner for Human Rights (HCHR) began to discuss the possibility of a visit to Xinjiang with China in order to examine "the impact on human rights of its policies" in September 2020[.\[355\]](#page-79-0) Since then, the HCHR's office has since been negotiating terms of access to China, but the High Commissioner has not visited the country.[\[356\]](#page-79-1) In a February 2021 speech to the UNHRC, the Chinese Foreign Minister stated that Xinjiang is "always open" and the country "welcomes the [High](https://en.wikipedia.org/wiki/High_Commissioner_for_Human_Rights) [Commissioner for Human Rights](https://en.wikipedia.org/wiki/High_Commissioner_for_Human_Rights) (HCHR) to visit Xinjiang".[\[356\]](#page-79-1) At a March 2021 meeting of the UNHRC, the United States ambassador condemned China's human rights abuses in Xinjiang as "crimes against humanity and genocide"[.\[357\]](#page-79-2)[\[358\]](#page-79-3)
 
-## ![](_page_26_Picture_8.jpeg)
 
 Protesters at the United Nations with the fl[ag of East Turkestan](https://en.wikipedia.org/wiki/Flag_of_East_Turkestan)
 
@@ -537,7 +525,6 @@ Xinjiang boycott advert on NYU's campus in New York, NY "Boycott Xinjiang Genoci
 
 In the aftermath of the 2019 leak of the Xinjiang papers which made public Chinese policies towards the Uyghurs, calls were made for a boycott of the [2022 Winter Olympics](https://en.wikipedia.org/wiki/2022_Winter_Olympics)[.\[379\]](#page-83-1) In a 30 July 2020 letter, the [World Uyghur Congress](https://en.wikipedia.org/wiki/World_Uyghur_Congress) urged the [International Olympic Committee](https://en.wikipedia.org/wiki/International_Olympic_Committee) (IOC) to reconsider the decision to hold the Olympics in Beijing[.\[380\]](#page-83-2)[\[381\]](#page-83-3) In a nonbinding motion in February 2021, the Canadian House of Commons called for the IOC to move the Olympics to a new location.[\[382\]](#page-84-0) The IOC met with activists in late 2020 about their request to move the Olympics[.\[383\]](#page-84-1) In March 2021, the [President](https://en.wikipedia.org/wiki/President_of_the_International_Olympic_Committee) [of the International Olympic Committee](https://en.wikipedia.org/wiki/President_of_the_International_Olympic_Committee) [Thomas Bach](https://en.wikipedia.org/wiki/Thomas_Bach) opposed a boycott, which would also damage the IOC image and finances,
 
-## ![](_page_28_Picture_7.jpeg)
 
 Uyghur human rights demonstration protest near the [White House,](https://en.wikipedia.org/wiki/White_House) on 25 September 2015
 

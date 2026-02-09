@@ -6,7 +6,6 @@ tags:
   - United Kingdom
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 ## Author of the *New York Times* Bestsellers
 
@@ -16,7 +15,6 @@ Capital and Ideology and Capital in the Twenty-First Century
 
 # BRIEF HIS TORY O F EQUALITY
 
-## ![](_page_3_Picture_1.jpeg)
 
 # T H O M A S P I K E T T Y
 
@@ -938,7 +936,6 @@ proposes that administrators be elected by assemblies composed of both employees
 
 35. See the platform of the labor federation UNI Global Union. Compare S. Block and B. Sachs, "Clean Slate for Worker Power: Building a Just Economy and Democracy," a project of the Labor and Worklife Program, Harvard Law School, n.d.
 
-## ![](_page_131_Picture_0.jpeg)
 
 #### THE "GREAT REDISTRIBUTION"
 

@@ -11,13 +11,11 @@ tags:
 
 ## Contributors to Wikimedia projects
 
-12–15 minutes
 
 ## From Wikipedia, the free encyclopedia
 
 This article is about patrols to capture runaway slaves. For information on naval operations to enforce laws against bringing slaves from Africa to the Americas, see [African Slave](https://en.wikipedia.org/wiki/African_Slave_Trade_Patrol) [Trade Patrol.](https://en.wikipedia.org/wiki/African_Slave_Trade_Patrol)
 
-## ![](_page_0_Picture_9.jpeg)
 
 ## Depiction of Mississippi slave patrol
 

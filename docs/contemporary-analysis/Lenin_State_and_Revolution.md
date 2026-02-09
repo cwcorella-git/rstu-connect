@@ -25,7 +25,6 @@ COMMUNIST PARTY OF GREAT BRITAIN
 
 ## SECOND EDITION
 
-## ![](_page_1_Picture_0.jpeg)
 
 # **THE STATE** & **REVOLUTION**
 
@@ -117,7 +116,6 @@ THE AUTHOR.
 
 August, 1917.
 
-## ![](_page_7_Picture_5.jpeg)
 
 #### **THE STATE & REVOLUTION**
 
@@ -283,7 +281,6 @@ The one who recognises **only** the class war is ·not yet a Marxist ; that one 
 
 ## **The Dictatorship of the Proletariat.**
 
-## ![](_page_47_Picture_4.jpeg)
 
 #### CHAPTER III.
 
@@ -847,7 +844,6 @@ When all, or be it even only the greater part of society, have learnt how to gov
 
 cape from such general registration and control will inevitably become so increasingly difficult, so much the exception, and will probably be accompanied by such swift and severe punishment (for the armed workers are very practical people, not sentimental intellectuals, and they will scarcel~· allow anyone to trifle with them), that very soon the **necessity** of observing the simple, fundamental rules of any kind of social life will become a habit. The door will then be wide open for the transition from the first phase of Communist society to its second higher phase, and along with it to the complete withering away of the State.
 
-## ![](_page_134_Picture_3.jpeg)
 
 #### CHAPTER VI.
 
@@ -987,7 +983,6 @@ It was a fateful thing to have confused and hushed up the question of the relati
 
 END OF PART I.
 
-## ![](_page_159_Picture_4.jpeg)
 
 #### AFTERWORD.
 
@@ -997,10 +992,8 @@ This little book was written in August and September, 1917. I had already drawn 
 
 Petrograd, (Nov. 30th) Dec. 12th, 1917.
 
-## ![](_page_162_Picture_0.jpeg)
 
 TROPRESS LIMITED (T. U. THROUGHOUT) CENTROPRESS 68-70 LANT ST., BOROUGH.
 
 ## LONDON ---
 
-## ![](_page_163_Picture_5.jpeg)

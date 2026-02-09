@@ -13,11 +13,6 @@ tags:
 
 ## Marcin Mrowicki
 
-## ![](_page_0_Picture_4.jpeg)
-
-## ![](_page_0_Picture_5.jpeg)
-
-## ![](_page_0_Picture_6.jpeg)
 
 #### **Front cover image (left)**
 
@@ -49,7 +44,6 @@ ICNC MONOGRAPH SERIES EDITOR: Dr. Maciej Bartkowski VOLUME EDITORS: Bruce Pearso
 
 ## Marcin Mrowicki
 
-## ![](_page_2_Picture_4.jpeg)
 
 ### Contents
 
@@ -743,7 +737,6 @@ Meanwhile, 17,000 people came to Krasiński Square. Euphoria. The sight of 17,00
 
 On July 24, the Supreme Court judges went to the protesters that gathered outside to thank them for their support The protesters handed white roses to the judges That evening, representatives of the Court visited the protesters to thank them for their demonstrations of support over the previous days Krasiński Square was full, and the people joined in singing the national anthem When President of the Supreme Court Małgorzata Gersdorf came outside, the crowd chanted, "Thank you Thank you "
 
-## ![](_page_44_Picture_0.jpeg)
 
 FIGURE 1. In the July 2017 "Chain of Lights," protesters hold posters that read "Constitution."
 
@@ -942,7 +935,6 @@ AD also organized the Chain of Lights protest against the changes to the Supreme
 
 1 The Kaczynski brothers were identical twins. Lech Kaczyński was Poland's President (2005–2010). On 10 April 2010, Lech Kaczyński died, along with his wife, in the crash of a Polish Air Force jet that occurred while landing at Smolensk North Airport in Russia. Jarosław Kaczyński was the Prime Minister (2006–2007) and is the Head of the Law and Justice Party.
 
-## ![](_page_59_Picture_0.jpeg)
 
 FIGURE 2. AD projected the message "This is our court" on the Supreme Court building during the Chain of Light protest.
 
@@ -1190,7 +1182,6 @@ In this chapter, the analysis of judicial resistance was conducted using Michael
 
 Becoming people's judges engaged with the public has been a conscious and deliberate shift in response to the authoritarian threat In doing so, judges have employed various tactical choices classied as "acts of expression " These are the actions that require "saying" and
 
-## ![](_page_77_Picture_4.jpeg)
 
 FIGURE 3. Polish lawyers support the judges during the March of 1,000 Gowns. One lawyer holds the Polish Constitution.
 
@@ -1224,7 +1215,6 @@ Communicative actions to inform or persuade |
 
 On January 11, 2020, judges, prosecutors, and lawyers from 26 European countries united in a show of solidarity with Polish judges resisting the authoritarian control over the judiciary In Warsaw, they marched in their robes, accompanied by enthusiastic applause from the local residents Participating judges came from countries including Austria, Croatia, Denmark,
 
-## ![](_page_79_Picture_0.jpeg)
 
 FIGURE 4. On the eve before Igor Tuleya's hearing regarding the possible waiver of his immunity, demonstrators hold letters spelling "Murem za Igorem," "Standing behind Igor."
 
@@ -1238,7 +1228,6 @@ Upon reaching the Presidential Palace, the march came to a halt, and judge Walde
 
 Initially, expectations for the march's turnout were modest "When we were organizing this march, therst president of the Supreme Court, Małgorzata Gersdorf said: say at least 200 people will come," mentioned Judge 2 However, the event exceeded expectations as
 
-## ![](_page_80_Picture_0.jpeg)
 
 FIGURE 5. Cracow judges calling the entrance into force of the muzzle act as the Black Friday for the European judiciary all legal professions—including judges, prosecutors, attorneys-at-law, and legal advisers rallied together, alongside colleagues from other European countries Judge 1 reected:
 
@@ -1288,7 +1277,6 @@ During indictments, judges started gathering in front of the courts However, the
 
 The second instance of judges gathering during ongoing court proceedings occurred on June 9, 2020 Prior to this, members of Iustitia urged a halt to hearings on that day when the
 
-## ![](_page_83_Picture_6.jpeg)
 
 FIGURE 7. Cracow judges protesting on the stairs of the Cracow District Court
 
@@ -1300,13 +1288,11 @@ Disciplinary Chamber was reviewing the request to lift judge Igor Tuleya's immun
 
 Independent judges who resisted cooperating with Zbigniew Ziobro's Ministry of Justice began wearing T-shirts bearing the word "KonsTYtucJA" ("Constitution"), emphasizing the Polish words ty ("you") and ja ("I"), signifying the importance of the Polish constitution for everyone In 2018, on the occasion of Poland's 100th independence anniversary, judges
 
-## ![](_page_84_Picture_4.jpeg)
 
 FIGURE 8. Demonstrators wear shirts that read "Konstytucja" (Constitution).
 
 ## Source: Twitter.com / Mic Wawrykiewicz
 
-## ![](_page_84_Picture_7.jpeg)
 
 FIGURE 9. Judges Katarzyna Wesołowska-Zbudniewek, Ewa Maciejewska, Krzysztof Kacprzak, Paweł Maciejewski i Grzegorz Gała
 
@@ -1318,7 +1304,6 @@ In December 2018, the newly constituted National Council of the Judiciary, large
 
 On November 23, 2018, Judge Dorota Lutostańska of the Regional Court in Olsztyn upheld a decision to acquit individuals who had displayed T-shirts with the inscription "Konstytucja, Jędrek" on sculptures, "Jędre" being a nickname for Jarosław Kaczyński, the de facto leader of the ruling
 
-## ![](_page_85_Picture_2.jpeg)
 
 FIGURE 10. Judge Lutostańska and other judges from Olsztyn posing in the Konstytucja T-shirts.
 
@@ -1356,9 +1341,6 @@ associations, including Iustitia, Themis, Association of Family Law Judges in Po
 - 4 Guaranteeing citizens' right to an independent court in cases involving neo-NCJ participation in nomination procedures
 - 5 Upholding and enforcing judgments from Polish and European courts, including the CJEU's ruling from November 19, 2019
 
-## ![](_page_87_Picture_6.jpeg)
-
-## ![](_page_87_Picture_7.jpeg)
 
 FIGURE 12. Poster: Stop the persecution of judges with images of the three suspended judges. A 7x1.5m banner was created from this poster.
 
@@ -1376,11 +1358,9 @@ Distributing and placing stickers (with faces of repressed judges like Igor Tule
 
 Judges stuck these letters on the windows of the courts For example, for two days in December 2020, Krakow judges, in solidarity with repressed Igor Tuleya hung up posters in
 
-## ![](_page_88_Picture_4.jpeg)
 
 FIGURE 13. Demonstrators hold signs reading "Igor Tulema, will never walk alone" in Polish.
 
-## ![](_page_88_Picture_6.jpeg)
 
 FIGURE 14. The Resister Judge badge references the solidarity traditions. The color matches the edge of the judge's gown while the symbol signifies "the law is still alive." There were also versions for lawyers and prosecutors.
 
@@ -1428,7 +1408,6 @@ Social media platforms are a common avenue for the judges to communicate with th
 
 On Facebook, there are several pages in support of or led by resisting judges—including "Krakowscy sędziowie" ("Krakow Judges"), "Sędziowiełódzcy" ("Lodz Judges")—where one can nd reports and announcements of their events Another page,"Co w prawie piszczy?"(wordplay meaning "What is Happening in Law?"), which is led by the Toruń-Włocławek Branch of Iustitia, promotes legal education and organizes free and open meetings regarding the state of the
 
-## ![](_page_91_Picture_6.jpeg)
 
 FIGURE 15. Iustitia posters at the Pol And Rock Festival.
 
@@ -1552,7 +1531,6 @@ Iustitia provided information on their website tracking the repressive measures 
 
 Resisting judges operate in media at domestic and international levels On the domestic level, the judges act in their district courts where they organize their media actions or take interviews Judge 5 shared: "The media contacts me and asks for a comment There were times when I gave interviews almost every day TVN [the Polish independent media] knows that from Monday to Friday, if they come to court, they will be able to talk to me " Lawyer 2 commented: "We want to establish contact with each media We have to go beyond our bubble
 
-## ![](_page_100_Picture_0.jpeg)
 
 FIGURE 17. Protest poster that lists the cities, location and time of the expected protests in support of the independent judges.
 
@@ -1568,7 +1546,6 @@ We are grateful for the very detailed coverage. We had 28 press conferences in f
 
 In contrast to public media captured by the ruling regime, some key private media outlets in Poland helped counter the slander campaign against resisting judges—including Onet, TVN, TVN 24, Gazeta Wyborcza, Oko Press, TOK FM (Judge 7, second interview)
 
-## ![](_page_101_Picture_0.jpeg)
 
 FIGURE 18. The same protests were held in front of the Myślenice District Court and Gliwice Regional Court.
 
@@ -1584,11 +1561,6 @@ When foreign media comes they contact us by email. They don't want to talk to po
 
 Judges responsible for foreign media in Themis prepares analysis concerning the situation in the Polish courts They are written in English and are cited by foreign media
 
-## ![](_page_102_Picture_0.jpeg)
-
-## ![](_page_102_Picture_1.jpeg)
-
-## ![](_page_102_Picture_2.jpeg)
 
 ## ![](_page_102_Figure_3.jpeg)
 
@@ -2078,7 +2050,6 @@ I was on a canoe trip where the prosecutors from Lex Super Omnia were—it turne
 
 When Prosecutor Krasoń was removed, Krakow judges protested in front of the prosecutor's oce demanding their reinstatement.
 
-## ![](_page_132_Picture_6.jpeg)
 
 FIGURE 20. Individual photos of judges supporting Igor Tuleya—We stand for Igor Tuleya
 
@@ -3227,13 +3198,11 @@ Finally, I thank my family for their support and understanding during the long d
 
 #### About the Author
 
-## ![](_page_183_Picture_1.jpeg)
 
 **Marcin Mrowicki, PhD,** is Assistant Professor of EU Law and Human Rights at the University of Warsaw (Centre for Europe). He is an author of many academic and popular science publications. He worked as a lawyer at the European Court for Human Rights in Strasbourg (2012- 2016), and at the Polish Commission-
 
 er for Human Rights' Oce in Poland (2016-2024). Since February 2024, he is also a Secretary of the Inter-ministerial Committee for Restoring Rule of Law and Constitutional Order and a Deputy Head of the Criminal Law Department of the Ministry of Justice in Poland.
 
-## ![](_page_184_Picture_0.jpeg)
 
 **The ICNC Monograph Series aims to bridge research and practice. Drawing on scholarly literature and high quality analytical and empirical analyses, ICNC Monographs enrich public discourse by expanding scientic knowledge in the eld of civil resistance and providing recommendations for practitioners such as activists, organizers, journalists, and members of INGOs and the policy community.**
 

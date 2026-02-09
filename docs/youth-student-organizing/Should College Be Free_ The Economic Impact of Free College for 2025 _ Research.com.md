@@ -12,9 +12,6 @@ tags:
 
 ## Imed Bouchrika
 
-36–46 minutes
-
-## ![](_page_0_Picture_6.jpeg)
 
 Education face countless issues. On top of the now popular, [Safe Space Movement](https://research.com/education/coddling-college-students) is the never-ending issue of student loan debt. In 2020, 45 million borrowers owed a staggering \$1.56 trillion in student loan debt (Friedman, 2020) with 1.5 million US students graduating with debt four years prior (Goldy-Brown, 2019). Student debt is the second largest category of consumer debt in the country next to mortgage debt. However, because the [cost of a college education](https://research.com/universities-colleges/how-much-does-college-cost) is skyrocketing, students have no choice but to borrow money to pay for their studies.
 
@@ -111,7 +108,6 @@ While education is a key driver of economic development, free college alone woul
 
 Indeed, a study by Perna et al (2020) on college promise programs as published by the American Educational Research Association revealed that efficient use of resources is at the root of the debate on free college. Their work, "Is a College Promise Program an Effective Use of Resources?" published in the American Educational Research Association, states that "promise programs may advance vertical equity by investing resources in a financial award that reduces costs of attendance for low-income students and creating eligibility requirements that permit students from underserved groups to receive program resources. Programs may advance equity and efficiency by investing in personnel and other supports that enable students from underserved groups to meet eligibility requirements, enroll, persist, transfer, and complete."
 
-## ![](_page_10_Picture_5.jpeg)
 
 ## ![](_page_11_Figure_2.jpeg)
 

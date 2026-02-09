@@ -13,11 +13,9 @@ tags:
 
 ## Contributors to Wikimedia projects
 
-100-127 minutes
 
 This article is about a holiday sometimes called May Day. For the traditional spring holiday, see [May Day.](https://en.wikipedia.org/wiki/May_Day) For other labourrelated holidays, see [Labour Day \(disambiguation\).](https://en.wikipedia.org/wiki/Labour_Day_(disambiguation))
 
-## ![](_page_0_Picture_8.jpeg)
 
 2013 International Workers' Day demonstration in Austria
 
@@ -47,7 +45,6 @@ Labor Celebration days existed in some European countries since the end of 18th 
 
 In 1889, the first [meeting](https://en.wikipedia.org/wiki/International_Workers_Congresses_of_Paris,_1889) of the [Second International](https://en.wikipedia.org/wiki/Second_International) was held in [Paris,](https://en.wikipedia.org/wiki/Paris) following a proposal by [Raymond Lavigne](https://en.wikipedia.org/w/index.php?title=Raymond_Lavigne_(syndicalist)&action=edit&redlink=1) [\[fr\]](https://fr.wikipedia.org/wiki/Raymond_Lavigne_(syndicaliste)) that called for international demonstrations on the 1890 anniversary of the Chicago protests[.\[5\]](#page-65-4) On 1 May 1890, the call encouraged May Day demonstrations took place in the United States and most countries in Europe[.\[23\]](#page-67-4) Demonstrations were also held in Chile and Peru[.\[23\]](#page-67-4) May Day was formally recognized as an annual event at the International's [second](https://en.wikipedia.org/wiki/International_Socialist_Labor_Congress_of_Brussels,_1891) [congress](https://en.wikipedia.org/wiki/International_Socialist_Labor_Congress_of_Brussels,_1891) in 1891[.\[24\]](#page-67-5)[\[25\]](#page-67-6) Subsequently, the [May Day riots of](https://en.wikipedia.org/wiki/May_Day_riots_of_1894) [1894](https://en.wikipedia.org/wiki/May_Day_riots_of_1894) occurred. The [International Socialist Congress,](https://en.wikipedia.org/wiki/International_Socialist_Congress,_Amsterdam_1904) [Amsterdam 1904](https://en.wikipedia.org/wiki/International_Socialist_Congress,_Amsterdam_1904) called on "all [Social Democratic](https://en.wikipedia.org/wiki/Social_democracy) Party organisations and [trade unions](https://en.wikipedia.org/wiki/Trade_union) of all countries to demonstrate energetically on the First of May for the legal establishment of the 8-hour day, for the class demands of the proletariat, and for universal peace.["\[8\]](#page-66-0) The congress made it "mandatory upon the [proletarian](https://en.wikipedia.org/wiki/Proletarian) organisations of all countries to stop work on 1 May, wherever it is possible without injury to the workers."[\[8\]](#page-66-0) In the United States and Canada, a September holiday, called Labor or [Labour Day,](https://en.wikipedia.org/wiki/Labour_Day) was first proposed in the 1880s. In 1882, [Matthew Maguire,](https://en.wikipedia.org/wiki/Matthew_Maguire_(labor_activist)) a [machinist,](https://en.wikipedia.org/wiki/Machinist) first proposed a Labor Day holiday on the first Monday of Septembe[r\[nb 2\]](#page-64-1) while serving as secretary of the [Central Labor Union](https://en.wikipedia.org/wiki/Central_Labor_Union) (CLU) of New York[.\[26\]](#page-68-0) Others argue that it was first proposed by [Peter J. Mc Guire](https://en.wikipedia.org/wiki/Peter_J._Mc Guire) of the [American Federation of Labor](https://en.wikipedia.org/wiki/American_Federation_of_Labor) in May 1882[,\[27\]](#page-68-1) after witnessing the annual [labour festival](https://en.wikipedia.org/wiki/Labour_Day#Canada_(country)) held in [Toronto,](https://en.wikipedia.org/wiki/Toronto) [Canada.](https://en.wikipedia.org/wiki/Canada) [\[28\]](#page-68-2) In 1887, [Oregon](https://en.wikipedia.org/wiki/Oregon) was the first state of the United States to make it an official [public holiday.](https://en.wikipedia.org/wiki/Public_holiday) By the time it became an official [federal holiday](https://en.wikipedia.org/wiki/Federal_holiday) in 1894, thirty [US states](https://en.wikipedia.org/wiki/US_state) officially celebrated Labor Day[.\[27\]](#page-68-1) Thus by 1887 in North America, Labour Day was an established, official holiday but in September[,\[29\]](#page-68-3) not on 1 May.
 
-![](_page_4_Picture_3.jpeg)
 
 A 1 May rally in [Bucharest](https://en.wikipedia.org/wiki/Bucharest) in 1967
 
@@ -64,13 +61,11 @@ Today, the majority of countries around the world celebrate a workers' day on 1 
 | | |
 ## | | |
 
-## ![](_page_5_Picture_2.jpeg)
 
 ## May Day rally in Moscow, 1 May 1960
 
 [Eastern Bloc](https://en.wikipedia.org/wiki/Eastern_Bloc) countries such as the Soviet Union and most countries of central and eastern Europe that were under the rule of [Marxist-Leninist](https://en.wikipedia.org/wiki/Marxism%E2%80%93Leninism) governments held official May Day celebrations in every town and city, during which party leaders greeted the crowds. Workers carried banners with political slogans and many companies decorated their company cars. The biggest celebration of 1 May usually occurred in the capital of a particular socialist country and usually included a military display and the presence of the president and the secretary general of the party. During the [Cold War,](https://en.wikipedia.org/wiki/Cold_War) May Day became the occasion for large [military parades](https://en.wikipedia.org/wiki/Military_parade) in [Red Square](https://en.wikipedia.org/wiki/Red_Square) by the [Soviet](https://en.wikipedia.org/wiki/Soviet_Union) [Union](https://en.wikipedia.org/wiki/Soviet_Union) and attended by the top leaders of the [Kremlin,](https://en.wikipedia.org/wiki/Kremlin) especially the [Politburo,](https://en.wikipedia.org/wiki/Politburo_of_the_Communist_Party_of_the_Soviet_Union) atop [Lenin's Mausoleum.](https://en.wikipedia.org/wiki/Lenin%27s_Mausoleum) It became an enduring symbol of that period. In [Poland,](https://en.wikipedia.org/wiki/Poland) since 1982, party leaders led the official parades. In Hungary, May Day was officially celebrated under the communist rule, and remains a public holiday. Traditionally, the day was marked by dancing around designated "May trees"[.\[30\]](#page-68-4) Some factories in socialist countries were named in honour of International Workers' Day, such as [1 Maja Coal Mine](https://en.wikipedia.org/wiki/1_Maja_Coal_Mine) in Wodzisław Śląski, Poland. In [East](https://en.wikipedia.org/wiki/East_Germany) [Germany,](https://en.wikipedia.org/wiki/East_Germany) the holiday was officially known as Internationaler Kampf- und Feiertag der Werktätigen für Frieden und Sozialismus ("International Day of the Struggle and Celebration of the Workers for Peace and Socialism"); similar names were used in other Eastern Bloc countries.
 
-## ![](_page_6_Picture_3.jpeg)
 
 Countries and dependencies coloured by observance of International Workers' Day or [Labour Day:](https://en.wikipedia.org/wiki/Labour_Day)
 
@@ -86,7 +81,6 @@ In [Algeria,](https://en.wikipedia.org/wiki/Algeria) 1 May is a public holiday c
 
 1 May is recognized as public holiday in [Angola](https://en.wikipedia.org/wiki/Angola) and called Workers' Day[.\[32\]](#page-68-6)
 
-## ![](_page_6_Picture_11.jpeg)
 
 Egyptian Communist Party flags in [Tahrir Square](https://en.wikipedia.org/wiki/Tahrir_Square)
 
@@ -116,7 +110,6 @@ In [South Africa,](https://en.wikipedia.org/wiki/South_Africa) Workers' Day has 
 
 In [Tanzania,](https://en.wikipedia.org/wiki/Tanzania) it is a public holiday on 1 May and celebrated as Worker's Day[.\[50\]](#page-70-7)
 
-## ![](_page_10_Picture_3.jpeg)
 
 Labour Day rally in [Tunis,](https://en.wikipedia.org/wiki/Tunis) [Tunisia](https://en.wikipedia.org/wiki/Tunisia)
 
@@ -146,7 +139,6 @@ In Canada, [Labour Day](https://en.wikipedia.org/wiki/Labour_Day) is celebrated 
 
 goes back to 1906, organized by the Mutual Aid circle. The tradition had a renaissance at the time of a mass strike in 1972. On the 1973 Labour Day, the first contemporary demonstration was organized by the major trade union confederations; over 30,000 trade unionists took part in this demonstration. Further, it is the customary date on which the [minimum wage](https://en.wikipedia.org/wiki/Minimum_wage_in_Canada) rises[.\[60\]](#page-71-9)
 
-![](_page_12_Picture_3.jpeg)
 
 Protest against the [Pinochet dictatorship](https://en.wikipedia.org/wiki/Military_dictatorship_of_Chile_(1973%E2%80%931990)) in [O'Higgins Park,](https://en.wikipedia.org/wiki/O%27Higgins_Park) Santiago, on 1 May 1984.
 
@@ -180,7 +172,6 @@ In Ecuador, 1 May is an official public holiday known as Labour Day. People do n
 
 In [Saint Kitts and Nevis,](https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis) Labour Day is a public holiday on the first Monday in May[.\[76\]](#page-73-6)
 
-## ![](_page_14_Picture_8.jpeg)
 
 Socialists in Union Square, New York City, on 1 May 1912 In the United States, a "Labor Day", celebrated on the first Monday in September was given increasing state recognition from 1887, and became an official [federal holiday](https://en.wikipedia.org/wiki/Federal_holiday) in 1894[.\[29\]](#page-68-3) Efforts to switch Labor Day from September to 1 May have not been successful.
 
@@ -188,7 +179,6 @@ In 1947, 1 May was established as [Loyalty Day](https://en.wikipedia.org/wiki/Lo
 
 Unions and Political organizations including [anarchist groups](https://en.wikipedia.org/wiki/American_Left) [and socialist and communist parties](https://en.wikipedia.org/wiki/American_Left) have kept the International Workers' Day tradition alive with rallies and demonstrations. In 1919 especially large demonstrations took place, and violence greeted the normally peaceful parades in [Boston,](https://en.wikipedia.org/wiki/Boston) [New York,](https://en.wikipedia.org/wiki/New_York_City) and [Cleveland](https://en.wikipedia.org/wiki/Cleveland) and [a number of people were](https://en.wikipedia.org/wiki/May_Day_Riots_of_1919) [killed.](https://en.wikipedia.org/wiki/May_Day_Riots_of_1919) [\[79\]](#page-73-9)[\[80\]](#page-73-10) In Milwaukee, an annual commemoration takes place at the site of the killing of seven workers during an 8-hour march[.\[22\]](#page-67-3) Some of the largest examples of this occurred during the [Great Depression](https://en.wikipedia.org/wiki/Great_Depression) of the 1930s, when hundreds of thousands of workers marched in International Workers' Day [parades](https://en.wikipedia.org/wiki/Parade) in New York's [Union Square,](https://en.wikipedia.org/wiki/Union_Square_(New_York_City)) while cities like [Chicago](https://en.wikipedia.org/wiki/Chicago) and [Duluth](https://en.wikipedia.org/wiki/Duluth,_Minnesota) saw large demonstrations organized by the [Communist Party.](https://en.wikipedia.org/wiki/Communist_Party_USA)
 
-![](_page_15_Picture_4.jpeg)
 
 [San Jose, California,](https://en.wikipedia.org/wiki/San_Jose,_California) Workers' Day March, 1 May 2006
 
@@ -196,7 +186,6 @@ In 2006, 1 May was chosen by mostly [Latino](https://en.wikipedia.org/wiki/Hispa
 
 On 1 May 2012, members of [Occupy Wall Street](https://en.wikipedia.org/wiki/Occupy_Wall_Street) and labor unions held protests together in a number of cities in the United States and Canada to commemorate International Workers' Day and to protest the state of the economy and economic inequality[.\[84\]](#page-74-3)[\[85\]](#page-74-4)
 
-![](_page_16_Picture_4.jpeg)
 
 An [Industrial Workers of the World](https://en.wikipedia.org/wiki/Industrial_Workers_of_the_World) group marching in [Minneapolis](https://en.wikipedia.org/wiki/Minneapolis) on 1 May 2010
 
@@ -210,7 +199,6 @@ In Uruguay, 1 May - Workers' Day - is an official holiday. Even when it is assoc
 
 In [Venezuela,](https://en.wikipedia.org/wiki/Venezuela) Workers' Day (El Día del Trabajador) is celebrated on 1 May since 1936, but from 1938 to 1945 it was held on 24 July, by an order of [Eleazar López Contreras](https://en.wikipedia.org/wiki/Eleazar_L%C3%B3pez_Contreras). However, [Isaías](https://en.wikipedia.org/wiki/Isa%C3%ADas_Medina_Angarita) [Medina Angarita](https://en.wikipedia.org/wiki/Isa%C3%ADas_Medina_Angarita) changed it back to 1 May in 1945[.\[91\]](#page-75-3)
 
-## ![](_page_17_Picture_7.jpeg)
 
 International Workers' Day celebration in Beijing on 1 May 1952
 
@@ -220,7 +208,6 @@ In [Macau,](https://en.wikipedia.org/wiki/Macau) it is a public holiday and is o
 
 1 May is known as Labor Day in [Taiwan,](https://en.wikipedia.org/wiki/Taiwan) an official holiday, though not everybody gets a day off. Students and teachers do not have this day off[.\[98\]](#page-76-4)
 
-![](_page_18_Picture_6.jpeg)
 
 2011 [National Trade Union Council \(](https://en.wikipedia.org/wiki/Zenrokyo)[Zenrokyo](https://en.wikipedia.org/wiki/Zenrokyo)[\)](https://en.wikipedia.org/wiki/Zenrokyo) May Day march, Tokyo
 
@@ -238,7 +225,6 @@ Labour Day (Albanian: *Dita e punëtorëve*) is an official holiday celebrated o
 
 Labour Day [\(Armenian:](https://en.wikipedia.org/wiki/Armenian_language) Աշխատանքի օր, ashxatanki or) is an official holiday celebrated on 1 May[.\[105\]](#page-77-5)
 
-## ![](_page_20_Picture_4.jpeg)
 
 1st of May demonstration of the [SPÖ](https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Austria) at Rathausplatz in [Vienna](https://en.wikipedia.org/wiki/Vienna)
 
@@ -264,15 +250,11 @@ In [Denmark,](https://en.wikipedia.org/wiki/Denmark) 1 May is not an official ho
 
 In [Estonia,](https://en.wikipedia.org/wiki/Estonia) 1 May is a public holiday and celebrated as part of May Day (Kevadpüha). It also coincides with Walpurgis Day (volbripäev).[[citation needed](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed)]
 
-## ![](_page_22_Picture_5.jpeg)
 
 A May Day rally in [Helsinki,](https://en.wikipedia.org/wiki/Helsinki) Finland
 
 In Finland, 1 May is an official and national holiday. It is mainly celebrated as a feast of students, and spring, called [vappu](https://en.wikipedia.org/wiki/Vappu) or Walpurgis Night[.\[112\]](#page-78-4) Finland also celebrates Workers' Day (officially: suomalaisen työn päivä, "day of Finnish labour") on the same day.[[citation needed](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed)]
 
-## ![](_page_22_Picture_8.jpeg)
-
-## ![](_page_23_Picture_2.jpeg)
 
 Workers' Day demonstration in [Lyon,](https://en.wikipedia.org/wiki/Lyon) France
 
@@ -282,7 +264,6 @@ In April 1933, the recently installed [Nazi government](https://en.wikipedia.org
 
 organizations. Today, [Berlin](https://en.wikipedia.org/wiki/Berlin) witnesses yearly demonstrations on Labour Day, the largest organised by labour unions, political parties, the [far left](https://en.wikipedia.org/wiki/Far_left) and the leftist [Autonomen](https://en.wikipedia.org/wiki/Autonomism).
 
-## ![](_page_24_Picture_3.jpeg)
 
 May Day rally in [Hanover,](https://en.wikipedia.org/wiki/Hanover) Germany, 1 May 2013
 
@@ -298,13 +279,11 @@ Hungary celebrates 1 May as a national holiday, Workers' Day [\(Hungarian:](http
 
 In Iceland, Labour Day [\(Icelandic:](https://en.wikipedia.org/wiki/Icelandic_language) Baráttudagur verkalýðsins) is a public holiday. The first demonstration for workers rights in Iceland occurred in 1923. A parade composed of trade unions and other groups marches through towns and cities across the country and speeches are delivered[.\[119\]](#page-79-2) However, some private businesses are open, mainly in the capital.[\[120\]](#page-79-3)
 
-![](_page_26_Picture_4.jpeg)
 
 May Day parade in [Belfast,](https://en.wikipedia.org/wiki/Belfast) 2011
 
 The [Irish Congress of Trade Unions](https://en.wikipedia.org/wiki/Irish_Congress_of_Trade_Unions) (ICTU) marks International Workers' Day with rallies in [Belfast](https://en.wikipedia.org/wiki/Belfast) and [Dublin](https://en.wikipedia.org/wiki/Dublin) and other events such as lectures, concerts and film screenings also take place around a wider May Day festival[.\[121\]](#page-79-4)[\[122\]](#page-79-5) The first Monday in May has been a [public holiday in the Republic of Ireland](https://en.wikipedia.org/wiki/Public_holiday_in_the_Republic_of_Ireland) since 199[4\[123\]](#page-79-6) and in Northern Ireland since 1978[.\[124\]](#page-79-7) In the Republic the public holiday was demanded by the ICTU[\[125\]](#page-79-8) and proposed by the [Labour Party](https://en.wikipedia.org/wiki/Labour_Party_(Ireland)) in negotiating [its 1992-94](https://en.wikipedia.org/wiki/23rd_Government_of_Ireland) [coalition government](https://en.wikipedia.org/wiki/23rd_Government_of_Ireland) with [Fianna Fáil,](https://en.wikipedia.org/wiki/Fianna_F%C3%A1il) and marked the centenary of the ICTU's predecessor, the [Irish Trades Union](https://en.wikipedia.org/wiki/Irish_Trades_Union_Congress) [Congress.](https://en.wikipedia.org/wiki/Irish_Trades_Union_Congress) [\[126\]](#page-80-0) The public holiday has no official designation, as "Workers' Day" or otherwise[.\[127\]](#page-80-1) In 2005, Labour's [Ruairi](https://en.wikipedia.org/wiki/Ruairi_Quinn) [Quinn](https://en.wikipedia.org/wiki/Ruairi_Quinn) condemned an alleged Fianna Fáil proposal to replace the May holiday with one on 24 April commemorating the [1916](https://en.wikipedia.org/wiki/1916_Rising) [Rising](https://en.wikipedia.org/wiki/1916_Rising) as a slight to workers. The proposal was, in actuality, for an extra holiday - rather than a replacement[.\[128\]](#page-80-2)
 
-## ![](_page_27_Picture_3.jpeg)
 
 Traditional 1 May Concert in St. John Lateran square, [Rome](https://en.wikipedia.org/wiki/Rome)
 
@@ -322,21 +301,16 @@ In Montenegro, 1 May is an official public holiday and a day off work and a day 
 
 In the Netherlands, 1 May or Labour Day [\(Dutch:](https://en.wikipedia.org/wiki/Dutch_language) Dag van de Arbeid) is not an official holiday. This is due in part to its proximity to the national holiday, [Koningsdag,](https://en.wikipedia.org/wiki/Koningsdag) which was celebrated on the day before until 2013. Labour movements also didn't see the need to agitate for an extra day off during the [Post-World War II recovery efforts.](https://en.wikipedia.org/wiki/Post%E2%80%93World_War_II_economic_expansion) [Liberals](https://en.wikipedia.org/wiki/Liberalism) who joined the [Labour Party](https://en.wikipedia.org/wiki/Labour_Party_(Netherlands)) in this same period also wanted to distance themselves from the [Soviet Union](https://en.wikipedia.org/wiki/Soviet_Union) because of [Cold War](https://en.wikipedia.org/wiki/Cold_War) sentiments[.\[137\]](#page-81-4)
 
-![](_page_29_Picture_4.jpeg)
 
 First Workers' Day celebration of the [Ottoman period](https://en.wikipedia.org/wiki/Ottoman_Empire) in [Skopje,](https://en.wikipedia.org/wiki/Skopje) 1909
 
 In North Macedonia, 1 May [\(Macedonian:](https://en.wikipedia.org/wiki/Macedonian_language) Ден на Трудот, Den na Trudot) is an official public holiday. Before 2007, 2 may was also a public holiday. People celebrate with friends and family at traditional picnics across the country, accompanied by the usual outdoor games, various grilled meats and beverages. Left organizations and some trade unions organize protests on 1 May[.\[138\]](#page-81-5)
 
-![](_page_29_Picture_7.jpeg)
-
-## ![](_page_30_Picture_2.jpeg)
 
 Norway's then Prime Minister [Jens Stoltenberg](https://en.wikipedia.org/wiki/Jens_Stoltenberg) gives his 1 May speech in 2009 in [Oslo,](https://en.wikipedia.org/wiki/Oslo) Norway.
 
 In Norway, Labour Day [\(Norwegian:](https://en.wikipedia.org/wiki/Norwegian_language) Arbeidernes Dag) is celebrated 1 May and is an official public holiday. It was introduced in 1942 by [Vidkun Quisling](https://en.wikipedia.org/wiki/Vidkun_Quisling) of the [Nasjonal Samling](https://en.wikipedia.org/wiki/Nasjonal_Samling) party modelled after the German Nationaler Feiertag des deutschen Volkes[.\[139\]](#page-81-6)
 
-![](_page_30_Picture_5.jpeg)
 
 [1 May Coal Mine](https://en.wikipedia.org/wiki/1_Maja_Coal_Mine) in Wodzisław Śląski, Poland
 
@@ -352,13 +326,11 @@ In Soviet times, streets, places, squares, parks and also factories were frequen
 
 In Portugal, Workers' Day [\(Portuguese:](https://en.wikipedia.org/wiki/Portuguese_language) Dia do Trabalhador) on 1 May was suppressed during the [Estado Novo](https://en.wikipedia.org/wiki/Estado_Novo_(Portugal)) dictatorship. The first workers' day demonstration was held a week after the [Carnation Revolution](https://en.wikipedia.org/wiki/Carnation_Revolution) of 25 April 1974. It is still the largest demonstration in the history of Portugal. It is used as an opportunity for workers and workers' groups to voice their discontent over working conditions in demonstrations across Portugal, the largest being held in Lisbon. It is an official public holiday[.\[142\]](#page-82-1)
 
-![](_page_31_Picture_6.jpeg)
 
 Delegates of the Romanian Communist Party on 1 May 1965 In Romania, 1 May, known as the "International Labour Day"
 
 [\(Romanian:](https://en.wikipedia.org/wiki/Romanian_language) Ziua internațională a muncii), the "International Workers' Day" (Ziua internațională a muncitorilor), or simply "1/First of May" (1/Întâi Mai), is an official [public holiday.](https://en.wikipedia.org/wiki/Public_holidays_in_Romania) During the [communist regime,](https://en.wikipedia.org/wiki/Communist_Romania) like in all former Eastern Bloc countries, the day was marked by large state-organized parades in most towns and cities. After the [Romanian Revolution of 1989,](https://en.wikipedia.org/wiki/Romanian_Revolution_of_1989) 1 May continues to be an official public holiday, but without any state organized events or parades. Most people celebrate together with friends and family, organising [picnics](https://en.wikipedia.org/wiki/Picnic) and [barbecues](https://en.wikipedia.org/wiki/Barbecue). It is also the first day of the year when people, especially those from the southeastern part of the country including the capital [Bucharest,](https://en.wikipedia.org/wiki/Bucharest) go to spend the day in one of the [Romanian Black](https://en.wikipedia.org/wiki/Romanian_Black_Sea_resorts) [Sea resorts.](https://en.wikipedia.org/wiki/Romanian_Black_Sea_resorts) [[citation needed](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed)]
 
-## ![](_page_32_Picture_3.jpeg)
 
 Russian Communist Workers' Party demonstration on 1 May 2008 in [Izhevsk](https://en.wikipedia.org/wiki/Izhevsk)
 
@@ -390,17 +362,12 @@ In [Russia,](https://en.wikipedia.org/wiki/Russia) the "Day of International Wor
 - [Northern Fleet](https://en.wikipedia.org/wiki/Northern_Fleet) and [Baltic Fleet](https://en.wikipedia.org/wiki/Baltic_Fleet) Coastal Defense, Surface and Submarine Forces (until 1974)
 - • [Massed Bands of the Moscow Military District](https://en.wikipedia.org/wiki/Military_Band_Service_of_the_Armed_Forces_of_the_Soviet_Union) (parade finale) The first of these parades were held [1918,](https://en.wikipedia.org/wiki/1918_May_1_Parade) when [Vladimir Lenin](https://en.wikipedia.org/wiki/Vladimir_Lenin) presided over a ceremony at [Khodynka Field.](https://en.wikipedia.org/wiki/Khodynka_Field) [\[144\]](#page-82-3) Notable parades included the parade of 1941 (which saw the presence of a [Wehrmacht](https://en.wikipedia.org/wiki/Wehrmacht) delegation led by [Ernst August Köstring](https://en.wikipedia.org/wiki/Ernst_August_K%C3%B6string)[\[145\]\)](#page-82-4) and 1963 (where Cuban leader [Fidel Castro](https://en.wikipedia.org/wiki/Fidel_Castro) was a guest). The only parades on 1 May to be cancelled were the parades scheduled during the years of the [Second World War](https://en.wikipedia.org/wiki/Second_World_War) and the 1965 parade (this was cancelled to make way for the [1965](https://en.wikipedia.org/wiki/1965_Moscow_Victory_Day_Parade) [Moscow Victory Day Parade](https://en.wikipedia.org/wiki/1965_Moscow_Victory_Day_Parade) nine days later). In 1979, ten years after the last annual parade, a brief [exhibition drill](https://en.wikipedia.org/wiki/Exhibition_drill) and [military](https://en.wikipedia.org/wiki/Military_tattoo) [tattoo](https://en.wikipedia.org/wiki/Military_tattoo) of the forces of the Moscow Garrison took place.[\[146\]](#page-82-5) In 1991, which preceded the last year that demonstrations were held in Red Square, May Day grew into high-spirited political action. Around 50,000 people participated in a rally in Red Square in 1991 after which the tradition was interrupted for 13 years. In the early post-Soviet period the holiday turned into massive political gatherings of supporters of radically minded politicians. For instance, an action dubbed as "a rally of communist-oriented organisations" was held in Red Square in 1992. The rally began with performance of the Soviet Union anthem and raising the Red Flag and ended with appeals from the leader of opposition movement Working Moscow, [Viktor](https://en.wikipedia.org/wiki/Viktor_Anpilov) [Anpilov,](https://en.wikipedia.org/wiki/Viktor_Anpilov) "for early dismissal of President [Boris Yeltsin,](https://en.wikipedia.org/wiki/Boris_Yeltsin) ousting [Moscow Mayor](https://en.wikipedia.org/wiki/Moscow_Mayor) [Gavriil Popov](https://en.wikipedia.org/wiki/Gavriil_Kharitonovich_Popov) from power and putting the latter on trial". Since 1992, May Day is officially called "Spring and Labor Day", and remains a major holiday in present-day Russia.
 
-## ![](_page_35_Picture_3.jpeg)
 
 May Day 2010 in [Moscow:](https://en.wikipedia.org/wiki/Moscow) anarchist demonstration
 
-## ![](_page_35_Picture_5.jpeg)
 
 May Day 2009 in [Severodvinsk:](https://en.wikipedia.org/wiki/Severodvinsk) red flags and social slogans visible
 
-## ![](_page_35_Picture_7.jpeg)
-
-## ![](_page_36_Picture_2.jpeg)
 
 Column of "democratic left" at the 2011 Labor Day march in Moscow: LevSD, [Committee for a Workers' International,](https://en.wikipedia.org/wiki/Committee_for_a_Workers%27_International_(1974)) [LGBT,](https://en.wikipedia.org/wiki/LGBT) feminists
 
@@ -428,13 +395,11 @@ In Slovakia, 1 May is an official holiday. Celebrations are held surrounding wor
 
 In Slovenia, 1 May and 2 May are public holidays. There are many official events all over the country to celebrate workers' day. In [Ljubljana,](https://en.wikipedia.org/wiki/Ljubljana) the capital, the main celebration is held on [Rožnik Hill](https://en.wikipedia.org/wiki/Ro%C5%BEnik_(hill)) in the city. On the night of 30 April, bonfires are traditionally burned[.\[158\]](#page-84-1)
 
-![](_page_38_Picture_5.jpeg)
 
 May Day rally in [Barcelona,](https://en.wikipedia.org/wiki/Barcelona) Spain
 
 In Spain, the first Workers' Day (Día del Trabajador) was celebrated in 1889 but only became a public holiday with the beginning of the [Spanish Second Republic](https://en.wikipedia.org/wiki/Spanish_Second_Republic) in 1931. It was banned afterwards by the [Franco regime](https://en.wikipedia.org/wiki/Francoist_Spain) in 1937[.\[159\]](#page-84-2) The year after it was decreed that the "Fiesta de la Exaltación del Trabajo," or Labor Festival, be held on 18 July, the anniversary of the [Francoist](https://en.wikipedia.org/wiki/Nationalist_faction_(Spanish_Civil_War)) [military coup,](https://en.wikipedia.org/wiki/Spanish_coup_of_July_1936) instead[.\[160\]](#page-84-3) After the death of [Francisco Franco](https://en.wikipedia.org/wiki/Francisco_Franco) in 1975 and the move towards democracy, the first large rallies on 1 May began again in 1977. It was reintroduced as a public holiday in 1978[.\[161\]](#page-84-4) Commonly, peaceful demonstrations and parades occur in major and minor cities[.\[162\]](#page-84-5)[\[163\]](#page-84-6)
 
-![](_page_39_Picture_3.jpeg)
 
 [Swedish Social Democratic Party](https://en.wikipedia.org/wiki/Swedish_Social_Democratic_Party) at May Day demonstration in [Stockholm,](https://en.wikipedia.org/wiki/Stockholm) [Sweden,](https://en.wikipedia.org/wiki/Sweden) in 2006. The party has dominated Swedish politics for nearly a century. The [trade union palace](https://en.wikipedia.org/wiki/Swedish_Trade_Union_Confederation) in Stockholm is seen at the end of the picture.
 
@@ -444,7 +409,6 @@ Recognizing the central contributions of workers and international worker solida
 
 Since 1967, the [Communist Party](https://en.wikipedia.org/wiki/Communist_Party_(Sweden)) and its [youth wing,](https://en.wikipedia.org/wiki/Youth_wing) [Revolutionary Communist Youth,](https://en.wikipedia.org/wiki/Revolutionary_Communist_Youth_(Sweden)) have held their own May Day march, known as Röd Front ('Red Front')[.\[165\]](#page-84-8) In 2016, Röd Front marches were held at 33 locations across the country. [\[166\]](#page-85-0) The largest Röd Front marches are usually held in the industrial and financial port town of [Gothenburg,](https://en.wikipedia.org/wiki/Gothenburg) Sweden's second-largest city and one of the party's strongholds.[\[167\]](#page-85-1)[\[168\]](#page-85-2)
 
-![](_page_40_Picture_5.jpeg)
 
 May Day in the [Moldavian Soviet Socialist Republic](https://en.wikipedia.org/wiki/Moldavian_Soviet_Socialist_Republic) in the 1970s
 
@@ -461,11 +425,9 @@ In Switzerland, the status of 1 May differs depending on the [canton](https://en
 
 The largest Labour Day celebrations in Switzerland are held in the city of [Zürich.](https://en.wikipedia.org/wiki/Z%C3%BCrich) Each year, Zürich's 1 May committee, together with the [Swiss Federation of Trade Unions,](https://en.wikipedia.org/wiki/Swiss_Federation_of_Trade_Unions) organizes a festival and 1 May rally. It is the largest rally held on a regular basis in Switzerland[.\[170\]](#page-85-4)
 
-![](_page_42_Picture_4.jpeg)
 
 ## Istanbul May Day clashes in 2013
 
-## ![](_page_42_Picture_6.jpeg)
 
 Workers marching to [Taksim Square,](https://en.wikipedia.org/wiki/Taksim_Square) 1 May 2012
 
@@ -489,9 +451,8 @@ According to Interior Minister [Arsen Avakov](https://en.wikipedia.org/wiki/Arse
 
 #### [\[179\]](#page-86-4)
 
-A public bank holiday in the [United Kingdom](https://en.wikipedia.org/wiki/United_Kingdom) was created in 1978[.\[180\]](#page-86-5) It is called the "Early May bank holiday" and is held on the first Monday in May each year[.\[181\]\[](#page-86-6)better source [needed](https://en.wikipedia.org/wiki/Wikipedia:NOTRS)] [\[182\]](#page-86-7)
+A public bank holiday in the [United Kingdom](https://en.wikipedia.org/wiki/United_Kingdom) was created in 1978[.\[180\]](#page-86-5) It is called the "Early May bank holiday" and is held on the first Monday in May each year[.\[181\]\better source [needed](https://en.wikipedia.org/wiki/Wikipedia:NOTRS)] [\[182\]](#page-86-7)
 
-![](_page_45_Picture_4.jpeg)
 
 The Labour Day March in [Brisbane, Queensland,](https://en.wikipedia.org/wiki/Brisbane,_Queensland) is the largest rally in [Australia.](https://en.wikipedia.org/wiki/Australia)
 
@@ -501,7 +462,6 @@ While unofficial activities and commemorations associated with International Wor
 
 In Bangladesh, 1 May is a public holiday and called May Day. A parade and other events are held on the day to commemorate the occasion[.\[187\]](#page-87-2)
 
-![](_page_46_Picture_4.jpeg)
 
 [Triumph of Labour](https://en.wikipedia.org/wiki/Triumph_of_Labour) at the [Marina Beach](https://en.wikipedia.org/wiki/Marina_Beach) in [Chennai](https://en.wikipedia.org/wiki/Chennai)
 
@@ -513,7 +473,7 @@ The Labour Kisan party has introduced May Day celebrations in Madras. Comrade Si
 
 1 May is also celebrated as ["Maharashtra Day](https://en.wikipedia.org/wiki/Maharashtra_Day)["\[193\]](#page-87-8) and ["Gujarat Day"](https://en.wikipedia.org/wiki/Gujarat_Day) to mark the date in 1960, when the two western states attained statehood after the erstwhile [Bombay State](https://en.wikipedia.org/wiki/Bombay_State) was divided on linguistic lines. Maharashtra Day is held at [Shivaji](https://en.wikipedia.org/wiki/Shivaji) Park in central [Mumbai.](https://en.wikipedia.org/wiki/Mumbai) Schools and offices in Maharashtra remain closed on 1 May. A similar parade is held to celebrate [Gujarat Day](https://en.wikipedia.org/wiki/Gujarat_Day) in [Gandhinagar.](https://en.wikipedia.org/wiki/Gandhinagar)
 
-[Vaiko](https://en.wikipedia.org/wiki/Vaiko) (Vai Gopalsamy), General Secretary of [Marumalarchi](https://en.wikipedia.org/wiki/Marumalarchi_Dravida_Munnetra_Kazhagam) [Dravida Munnetra Kazhagam,](https://en.wikipedia.org/wiki/Marumalarchi_Dravida_Munnetra_Kazhagam) appealed to the then Prime Minister [V. P. Singh](https://en.wikipedia.org/wiki/V._P._Singh) to declare 1 May as a national holiday, to which the PM heeded and from then on it became a national holiday to celebrate International Labour Day[.\[194\]\[](#page-88-0)[non-primary](https://en.wikipedia.org/wiki/Wikipedia:No_original_research#Primary,_secondary_and_tertiary_sources) [source needed](https://en.wikipedia.org/wiki/Wikipedia:No_original_research#Primary,_secondary_and_tertiary_sources)]
+[Vaiko](https://en.wikipedia.org/wiki/Vaiko) (Vai Gopalsamy), General Secretary of [Marumalarchi](https://en.wikipedia.org/wiki/Marumalarchi_Dravida_Munnetra_Kazhagam) [Dravida Munnetra Kazhagam,](https://en.wikipedia.org/wiki/Marumalarchi_Dravida_Munnetra_Kazhagam) appealed to the then Prime Minister [V. P. Singh](https://en.wikipedia.org/wiki/V._P._Singh) to declare 1 May as a national holiday, to which the PM heeded and from then on it became a national holiday to celebrate International Labour Day[.\[194\]\[non-primary](https://en.wikipedia.org/wiki/Wikipedia:No_original_research#Primary,_secondary_and_tertiary_sources) [source needed](https://en.wikipedia.org/wiki/Wikipedia:No_original_research#Primary,_secondary_and_tertiary_sources)]
 
 [Maldives](https://en.wikipedia.org/wiki/Maldives) first observed the holiday in 2011, after a declaration by [President](https://en.wikipedia.org/wiki/President_of_the_Maldives) [Mohamed Nasheed.](https://en.wikipedia.org/wiki/Mohamed_Nasheed) He noted that this move highlighted the government's commitment as well as efforts of private parties to protect and promote workers' rights in the Maldives[.\[195\]](#page-88-1)
 
@@ -525,9 +485,6 @@ In Sri Lanka, International Workers' Day was declared a public, bank, and mercan
 
 In Cambodia, it is known as International Labour Day and is a public holiday[.\[200\]](#page-88-6) No marches for labour day were permitted in Cambodia for several years after the [2013 Cambodian](https://en.wikipedia.org/wiki/2013_Cambodian_general_election) [general election](https://en.wikipedia.org/wiki/2013_Cambodian_general_election) and surrounding mass protests. A tightly controlled march on a limited scale was first permitted again in 2019[.\[201\]](#page-88-7)
 
-![](_page_48_Picture_7.jpeg)
-
-## ![](_page_49_Picture_2.jpeg)
 
 ## Protest march in Jakarta, Indonesia, 1 May 2007
 
@@ -551,7 +508,6 @@ In [Iran,](https://en.wikipedia.org/wiki/Iran) 1 May is known as the Internation
 
 In [Iraq,](https://en.wikipedia.org/wiki/Iraq) it is known as the International Workers' Day and is a public holiday[.\[212\]](#page-90-0)
 
-## ![](_page_51_Picture_5.jpeg)
 
 ## Israel, 1 May 2007
 

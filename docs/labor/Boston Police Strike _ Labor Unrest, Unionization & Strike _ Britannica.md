@@ -13,7 +13,6 @@ tags:
 
 ## The Editors of Encyclopaedia Britannica
 
-2–3 minutes
 
 [Politics, Law & Government](https://www.britannica.com/browse/Politics-Law-Government) [Law, Crime & Punishment](https://www.britannica.com/browse/Law-Crime-Punishment) Quick Facts
 

@@ -17,7 +17,6 @@ Michael J. Robillard - Timothy J. Gordon M. A., M. A., Ph. D.
 
 ## "Don't let schooling interfere with your education." —Mark Twain
 
-## ![](_page_1_Picture_1.jpeg)
 
 #### A Case for Revolution
 
@@ -35,7 +34,6 @@ M. A., Ph. L., J. D.
 
 John Henry Cardinal Newman, B. A., D. D.
 
-## ![](_page_1_Picture_10.jpeg)
 
 #### **FOREWORD**
 
@@ -1365,7 +1363,6 @@ is indeed is but a temporal object, and a transitory possession; but so are othe
 
 **MICHAEL J. ROBILLARD, M. A., M. A., Ph. D.**, an independent scholar, philosopher, and Iraq War veteran, has held academic appointments at Notre Dame, Oxford, and the U. S. Naval Academy. His previous writings have focused on civil-military relations, veterans' issues, the ethics of automated technology, and free speech in academia. A Roman Catholic, American, and patriot, he hails from South Shore, Massachusetts.
 
-## ![](_page_167_Picture_3.jpeg)
 
 A Division of Salem Media Group Like Regnery on Facebook Follow us on Twitter [Regnery.com](http://www.regnery.com/)
 

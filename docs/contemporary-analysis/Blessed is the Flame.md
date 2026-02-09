@@ -85,7 +85,6 @@ And may the flame that burns inside us burn everything around us.
 
 > —Panayiotis Argyrou, Proud Member of the Conspiracy of Cells of Fire.
 
-## ![](_page_1_Picture_6.jpeg)
 
 Burning Treblinka perimeter during the prisoner uprising, in August 1943. This clandestine photograph was taken by Franciszek Ząbecki.
 

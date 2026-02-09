@@ -9,7 +9,6 @@ tags:
 
 ## SNCC
 
-## ![](_page_0_Picture_2.jpeg)
 
 ## STOKELY CARMICHAEL
 

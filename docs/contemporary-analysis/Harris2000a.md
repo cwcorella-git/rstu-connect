@@ -10,7 +10,6 @@ tags:
 
 ### CHAPTER 18
 
-## ![](_page_0_Picture_2.jpeg)
 
 ### Paul L. Harris
 

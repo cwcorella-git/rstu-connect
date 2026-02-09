@@ -7,13 +7,11 @@ tags:
   - current-events
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 # The Invention of Selfishness
 
 ## David Ashford
 
-## ![](_page_0_Picture_4.jpeg)
 
 #### ALSO AVAILABLE FROM BLOOMSBURY
 

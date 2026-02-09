@@ -9,7 +9,6 @@ tags:
   - workers
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 **Albert Richard Parsons** (June 20, 1848 – November 11, 1887) was a pioneering American [socialist](https://en.wikipedia.org/wiki/Socialist) and later [anarchist](https://en.wikipedia.org/wiki/Anarchism_in_the_United_States) newspaper editor, orator, and labor activist. As a teenager, he served in the military force of the [Confederate States of America](https://en.wikipedia.org/wiki/Confederate_States_of_America) in Texas, during the [American Civil War.](https://en.wikipedia.org/wiki/American_Civil_War) After the war, he settled in [Texas](https://en.wikipedia.org/wiki/Texas), and became an activist for the rights of former slaves, and later a [Republican](https://en.wikipedia.org/wiki/Republican_party_(United_States)) official during [Reconstruction](https://en.wikipedia.org/wiki/Reconstruction_era). With his wife [Lucy Parsons,](https://en.wikipedia.org/wiki/Lucy_Parsons) he then moved to [Chicago](https://en.wikipedia.org/wiki/Chicago) in 1873 and worked in newspapers. There he became interested in the rights of workers. In 1884, he began editing *[The Alarm](https://en.wikipedia.org/wiki/The_Alarm_(newspaper))* newspaper. Parsons was one of four Chicago radical leaders controversially convicted of conspiracy and hanged following a bomb attack on police remembered as the [Haymarket affair.](https://en.wikipedia.org/wiki/Haymarket_affair)
 
@@ -23,7 +22,6 @@ Albert's parents both died when he was a small child, leaving the boy to be rais
 
 #### **Albert Parsons**
 
-## ![](_page_0_Picture_8.jpeg)
 
 ## **Born** Albert Richard Parsons
 
@@ -83,7 +81,6 @@ The coming of the American Civil War in 1861, or "the slave-holders' Rebellion,"
 
 Upon his return, Parsons sought to enlist in the regular Confederate States Army, an idea ridiculed by his employer and guardian at the time, publisher Willard Richardson of the Galveston *Daily News*. Parsons left his job at the paper, joining an artillery company at a hastily constructed fort at Sabine Pass, Texas, where an elder brother was the captain of an infantry company. For a year, Parsons participated in military drill and served as a "powder monkey" for the cannoneers. Upon the expiration of his first enlistment, Parsons left Fort Sabine to join the cavalry unit of the brother
 
-## ![](_page_1_Picture_7.jpeg)
 
 Lucy Parsons, as she appeared in 1886.
 
@@ -115,7 +112,6 @@ As an interested observer, Parsons attended the final convention of the [Nationa
 
 Parsons was also involved with the Knights of Labor during its embryonic period. He joined the [Knights of Labor](https://en.wikipedia.org/wiki/Knights_of_Labor), known then as "The Noble and Holy Order of the Knights of Labor," on July 4, 1876, after having been invited to speak at a mass meeting of workers.[\[12\]](#page-8-10) Parsons remained a member of the order until his death more than a decade later. [\[12\]](#page-8-10) Not long after joining the Knights of Labor, Parsons and his friend George Schilling cofounded the first Chicago order of the Knights, later dubbed the "Old 400".[\[14\]](#page-8-12)
 
-## ![](_page_3_Picture_2.jpeg)
 
 Steel engraving of Albert R. Parsons used as a frontis piece for his 1889 memoir.
 
@@ -135,7 +131,6 @@ At the turn of the decade, Albert Parsons withdrew from all participation in ele
 
 > In 1879 I withdrew from all active participation in the political Labor Party, having been convinced that the number of hours per day that the wage-workers are compelled to work, together with the low wages they received, amounted to their practical disfranchisement as voters. ... My experience in the Labor Party had also taught me that bribery, intimidation, duplicity, corruption, and bulldozing grew out of the conditions which made the working people poor and the idlers rich, and that consequently the ballot-box could not be made an index to record the popular will until the existing debasing, impoverishing, and enslaving industrial conditions were first altered.[\[18\]](#page-8-16)
 
-## ![](_page_4_Picture_4.jpeg)
 
 The front cover motif of Albert R. Parson's posthumously published memoirs featured the slogan of the French Revolution: "Liberty, [Equality,](https://en.wikipedia.org/wiki/Libert%C3%A9,_%C3%A9galit%C3%A9,_fraternit%C3%A9) [Fraternity](https://en.wikipedia.org/wiki/Libert%C3%A9,_%C3%A9galit%C3%A9,_fraternit%C3%A9)."
 
@@ -169,7 +164,6 @@ Authorities apprehended seven men in the days after the events in the Haymarket.
 
 William Perkins Black, a corporate lawyer, led the defense, despite inevitably becoming ostracized from his peers and losing business for this choice. Witnesses testified that none of the eight threw the bomb. However, all were found guilty, and only [Oscar Neebe](https://en.wikipedia.org/wiki/Oscar_Neebe) was sentenced to 15 years in prison, while the rest of them were sentenced to death. [Samuel](https://en.wikipedia.org/wiki/Samuel_Fielden) [Fielden](https://en.wikipedia.org/wiki/Samuel_Fielden) and [Michael Schwab](https://en.wikipedia.org/wiki/Michael_Schwab) asked for clemency and their sentences were commuted to life in prison on November 10, 1887, by Governor [Richard James Oglesby,](https://en.wikipedia.org/wiki/Richard_James_Oglesby) who lost popularity for this decision. These three men received pardons from Illinois Governor [John Peter Altgeld](https://en.wikipedia.org/wiki/John_Peter_Altgeld), securing their freedom from incarceration on June 26, 1893.
 
-## ![](_page_6_Picture_3.jpeg)
 
 Albert Parsons (top left) and the six other prominent Chicago radicals initially condemned to death for the 1886 Haymarket bombing.
 
@@ -197,9 +191,6 @@ His wife, [Lucy Parsons](https://en.wikipedia.org/wiki/Lucy_Parsons), was notewo
 
 A historical marker dedicated to Albert and [Lucy](https://en.wikipedia.org/wiki/Lucy_Parsons) Parsons was erected in 1997 by the City of Chicago at the location of their home, 1908 North Mohawk Street, in the [Old Town](https://en.wikipedia.org/wiki/Old_Town,_Chicago) neighborhood.[\[27\]](#page-8-25)
 
-## ![](_page_7_Picture_6.jpeg)
-
-## ![](_page_7_Picture_7.jpeg)
 
 Parsons' children with Lucy: Albert Richard Parsons Jr. (1879–1919) and Lulu Eda Parsons (1881–1889)
 
@@ -212,7 +203,6 @@ Parsons' children with Lucy: Albert Richard Parsons Jr. (1879–1919) and Lulu E
 
 ## **See also**
 
-## ![](_page_7_Picture_15.jpeg)
 
 *[Biography](https://en.wikipedia.org/wiki/Portal:Biography) portal*
 

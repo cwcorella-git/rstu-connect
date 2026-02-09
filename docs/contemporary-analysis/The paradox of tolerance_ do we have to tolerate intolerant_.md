@@ -9,9 +9,6 @@ tags:
 
 ## Alexander Marchall
 
-6–8 minutes
-
-## ![](_page_0_Picture_6.jpeg)
 
 ## May 14, 2025
 
@@ -21,7 +18,6 @@ The **tolerance paradox** It was formulated by the Austro-British philosopher **
 
 In our society today (not in all, unfortunately, but certainly in the Italian one) the **freedom of expression** It is commonly accepted and, indeed, fundamental prerequisite. A direct consequence of the freedom of opinion is that of **tolerance,** that is, the acceptance of **conflicting positions,** who do not align with his own. It is a concept that may seem obvious, but it is not at all! Especially if you consider the famous **Tolerance paradox**. The question is apparently simple, yet extremely complex: if in our society we accept the freedom of expression and therefore the opinions of others, we should also **accept who practices intolerance?**
 
-## ![](_page_1_Picture_5.jpeg)
 
 To give a practical example that is extremely relevant in Italy: if we call ourselves tolerant, we should accept the opinions of those who professed **fascist** And practice intolerance? If we reply: "Yes, it is right to accept them as tolerant" the risk is that of **endanger the** our **democracy**. If, on the other hand, we reply: "No, it is right to be intolerant and do not accept fascist positions" we rise intolerant to someone, and therefore we can no longer call ourselves a tolerant society that practices freedom of expression!
 
@@ -33,7 +29,6 @@ If we extend the unlimited tolerance even to those who are intolerant; If we are
 
 Popper's answer was this: for **save** democracy and tolerance with it, we have the **right** to be **intolerant towards intolerants.** The philosopher therefore embraces the paradox so, to save democracy, the tolerant must be intolerant. In truth, this answer may not seem so absurd, we could think that it is obvious that those who professed ethically "bad", dictatorial and discriminatory ideas should be stopped. The problem is that, generating the **paradox** So a tolerant must become intolerant to defend tolerance itself, it becomes difficult to establish when it is lawful to be intolerant and when not, and this is very dangerous for (very precious!) Freedom of expression.
 
-## ![](_page_3_Picture_3.jpeg)
 
 Karl Popper and his work "The Open Ociety and Its Enemies", translated as "the open society and its enemies".
 
@@ -45,13 +40,9 @@ This thought was very criticized by the thinkers of the time and also today, bec
 
 So how to solve this paradox? It must be said that a solution does not exist, but we can still do **Some consideration.** A possible way is to grant the democratic conditions of thinking and saying what you also want for those who practice intolerance, unless words follow the words **violent actions** to diminish or destroy a company built on tolerance. In a nutshell, if the violent action initially takes place from the inlerant, it **will justify** there **reaction** violent of the tolerant counterpart. Another interesting consideration is that, while the tolerant are placed in a democratic system in which they recognize and of which **recognize the laws**so it is not for the intolerant, that he could ask another "paradoxical" question: not recognizing himself in the state and in his laws, the intolerant can declare that he is the first to have suffered a wrong from the system. And here opens another complex speech on the **legitimacy** of democracy, which is not accepted by those who are not democratic, or by those who are so much that it does not accept the presence of rules that narrow our freedom.
 
-## ![](_page_4_Picture_5.jpeg)
-
-## ![](_page_5_Picture_2.jpeg)
 
 In ours **jurisdiction,** There is no social possibility of repressing with violence what is considered intolerant and dangerous. However, there are some **laws** who are at **preserve democracy** same. Let's take fascism for example: it is not a crime to declare fascists or perform commemorative events, it is instead **crime** the manifestation of an intent of **re foundation** of a **match** which supports the same ideals that characterized the time **fascist** It is a dictatorial dynamic. Unfortunately, however, it is not easy to dictate a limit, also in this case.
 
-## ![](_page_5_Picture_4.jpeg)
 
 #### Alexander Marchall
 

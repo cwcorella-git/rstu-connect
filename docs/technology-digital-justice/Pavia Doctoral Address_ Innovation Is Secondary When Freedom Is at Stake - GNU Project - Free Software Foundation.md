@@ -13,7 +13,6 @@ tags:
 
 ## by Richard Stallman
 
-12–15 minutes
 
 On September 24th, 2007, Richard Stallman received an honoris causa doctorate in Computer Engineering from the [University of Pavia,](https://web.archive.org/web/20111004234138/http://www.unipv.eu/on-line/Home/Ateneo/Organidigoverno/Rettore/articolo1229.html) Italy. Stallman began by criticizing the overvaluing of innovation as a response to previous speakers at the same event.
 

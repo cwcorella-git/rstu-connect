@@ -18,7 +18,6 @@ In addition to his landmark Pedagogy of the Oppressed, the late Paulo Freire was
 
 ## Continuum • New York
 
-## ![](_page_0_Picture_9.jpeg)
 
 ## Freire
 

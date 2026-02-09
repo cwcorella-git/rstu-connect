@@ -10,13 +10,6 @@ tags:
 
 ## Chris Allan and A. Scott Du Pree
 
-## ![](_page_0_Picture_3.jpeg)
-
-## ![](_page_0_Picture_4.jpeg)
-
-## ![](_page_0_Picture_5.jpeg)
-
-## ![](_page_0_Picture_6.jpeg)
 
 #### **Front cover image (left)**
 
@@ -50,7 +43,6 @@ ICNC MONOGRAPH SERIES EDITOR: Dr. Maciej Bartkowski VOLUME EDITORS: Julia Consta
 
 ## Chris Allan and A. Scott Du Pree
 
-## ![](_page_2_Picture_3.jpeg)
 
 ## Table of Contents
 
@@ -762,7 +754,6 @@ Only the Baja California movement escalated public resistance to the level of a 
 
 In 2007, Mexico's Federal Electricity Commission (CFE) was moving forward on the Las Cruces dam project14 on the San Pedro River, the seventh largest river in Mexico, to provide electricity and water
 
-## ![](_page_40_Picture_3.jpeg)
 
 Few people along the river had any idea of what was coming or had any input into the plans After learning about the plans in a series of intensive community dialogues, residents began the Free San Pedro River Movement (El Movimiento Río San Pedro Libre), a civil resistance movement to protect the river that has stalled but not yet permanently retired the Las Cruces project Over the twelve years from 2007 to 2019, the movement grew to encompass a diverse coalition of Indigenous peoples' communities, shing cooperatives, and residents of towns along the river with support from national and international organizations in Mexico
 
@@ -1132,7 +1123,6 @@ In terms of **capabilities**, the establishment of the Council was key for its m
 
 34 Examples: **https://www.youtube.com/watch?v=lq OkW1vY6aQ**or **https://www.youtube.com/watch?v=5CtjmvAEufw**
 
-## ![](_page_53_Picture_0.jpeg)
 
 FIGURE 9: Youth fishing in a village that would be under water following the creation of the dam.
 
@@ -1160,7 +1150,6 @@ It is not possible to give an estimate of the **volunteer labor** involved in th
 
 In terms of **in-kind contributions**, the coastal communities, movement leaders said, contributed buses, but most participants found their own transportation across the signicant distances to the demonstrations by private
 
-## ![](_page_54_Picture_3.jpeg)
 
 FIGURE 10: Circle of Resource Mobilization in Nayarit cars or vans The permission to use public roads and squares for protest activities was also important In the Tuxpan protest, the municipality gave organizers the space and a permit, according to one movement leader 36
 
@@ -1196,7 +1185,6 @@ Very few grants and in-kind resources were mobilized overall in the movement, bu
 
 In January of 2011, more than 8500 people showed up on Tule Beach between Cabo San Lucas and San Jose del Cabo on the southern tip of the Baja Peninsula to demonstrate their opposition to the proposed Los Cardones mine that would bring open-pit gold mining to the state of Baja California Sur (BCS) They arranged their bodies into the shape of the letters S O S (see
 
-## ![](_page_57_Picture_4.jpeg)
 
 FIGURE 11: January 2011, Tule Beach, SOS Protest Photo provided by NO A LA MINERÍA TÓXICA EN BAJA CALIFORNIA SUR, MÉXICO Facebook Group.
 
@@ -1327,7 +1315,6 @@ When the state government still refused to hear their concerns, they escalated c
 
 A series of court rulings in August and September of 2018 ruled for the Los Cardones mine, seeking to force the La Paz municipality to honor its original signoon the mine (Medina, 2018) But the La Paz council, in no small measure due to the activism and mobilization of the local population, refused to honor the permits it
 
-## ![](_page_62_Picture_4.jpeg)
 
 FIGURE 12: 40 kayakers spell out "No Mining" on Sept. 2, 2014, outside La Paz.
 
@@ -1527,7 +1514,6 @@ The movement was able to mobilize hundreds of hours of **volunteer labor** from 
 
 In terms of capabilities, many of the activists blockading the roads and airports were veterans of past protests and demonstrations which gave them su cient **unity** to escalate demands and gather enough people to make their activities a success The ability to respond rapidly allowed for making **strategy** "on the fly," escalating and sustaining the occupations until the governor of the state relented It is interesting to note that one activist in the blockade reported that "women were in the front taking a leading role in stopping trac, while the men seemed to hang back on the outskirts "47 This activist felt
 
-## ![](_page_68_Picture_1.jpeg)
 
 FIGURE 14: Circle of Resource Mobilization in BCS Highway that having women in the front helped to reduce tempers and keep the peace Despite some reports of arguments with motorists and travelers, the blockades and occupations maintained **nonviolent discipline**
 
@@ -1551,7 +1537,6 @@ In 2013 the residents of the state of Sinaloa heard that a plant to produce ammo
 
 To local residents, this announcement came as a surprise, since the entire lagoon system of Topolobampo–Ohuira–Santa María had been declared a protected Ramsar site48 in 2009, which did not seem to factor into plans for the project The plant and accompanying transport infrastructure would cover 200 hectares of productive wetland Local residents and scientists noted that this area serves as a refuge and breeding center for shrimp, sea lions, bottlenose dolphins, sh, crabs, and sea turtles, which use the area as a feeding ground and are
 
-## ![](_page_70_Picture_4.jpeg)
 
 ## FIGURE 15: Map of Topolobampo, Sinaloa
 
@@ -1630,7 +1615,6 @@ Activities picked up as a result, both in appealing to state institutions—cour
 
 Protests took dierent forms Sports gures lent their names to the movement, one by swimming across the bay, another by windsurng in it, all with videos, publicity, and Aquí ¡No! banners in full view Fishermen staged protests in their boats in front of the plant site, again with large banners and television and press cov-
 
-## ![](_page_74_Picture_2.jpeg)
 
 ## FIGURE 16: "Aquí ¡No!" Campaign Information Flyer erage, and later the collective organized other protests on land (see Topolabampo demonstration in Figure 17) The movement intentionally chose key times for these protests: the opening of the highway into town when the state governor was present for the ceremony, on National Marine Day when government ocials again were present, and on the road from the airport when the Mexican president came to visit the region In the case of the president, campaigners organized to stop his car and hand him documents pleading their case, with 800 mobilized citizens behind them
 
@@ -1642,7 +1626,6 @@ Many of the members of Aquí ¡No! organized their own communities behind these 
 
 54 For an example from You Tube: **https://www.youtube.com/watch?v=CLILBcATmfQ**.
 
-## ![](_page_75_Picture_0.jpeg)
 
 FIGURE 17: Demonstration in Topolobampo. The t-shirts and banner were paid for by a movement member.
 
@@ -1922,7 +1905,6 @@ The resources that were mobilized to support the demonstrations were:
 - 3 Cash: This was important to buy needed materials used for printing leaets, banners, and stickers The majority of cash came from the tourist operators and a few outside supporters Amounts were modest and generated in response to need—there was no explicit fundraising in which movement leaders asked for cash to support movement activities
 - 4 Research & information: Since the project was of a very technical nature, it was crucial for the movement to understand and counter technical arguments about how safe the project was for the local environment and people Local scientists provided technical information and analysis both to movement leaders, who then used them in their speeches at demonstrations, and in the media interviews that occurred at each event
 
-## ![](_page_81_Picture_0.jpeg)
 
 FIGURE 19: Circle of Resource Mobilization in Sinaloa
 
@@ -2178,17 +2160,14 @@ These movements mobilized signicant resources, despite informal organization and
 
 ## About the Authors
 
-## ![](_page_93_Picture_1.jpeg)
 
 **A. Scott Du Pree** (PhD, Civil Society Transitions) has worked for 30 years in helping build and strengthen social and environmental initiatives in Southern Africa, Brazil, Mexico, Southeast Asia and the United States. Scott holds a PhD in international aairs focused on the dynamic role of civil society. He has assisted international organizations and philanthropic foundations to advance civic approaches to development, human rights, the environment and grassroots activism. Scott was regional director for Africa for The Synergos Institute, co-founder and Program Director for Conectas Direitos Humanos, Greengrants Alliance coordinator for Global Greengrants Fund and the principal of Civil Society Transitions through which he has consulted for numerous organizations around the world. Scott is also a professor in the Master's of Development program "Global Classroom" at Regis University where he teaches participatory planning and grassroots and indigenous activism.
 
-## ![](_page_93_Picture_4.jpeg)
 
 **Chris Allan**, Ajabu Advisors LLC, has experience with public donors, foundations, and local and international NGOs working in social change, including designing, planning, implementing, and evaluating programs around the globe. He has led or participated in evaluations of global networks, international part-
 
 nerships, and organizations in many countries (including Brazil, Georgia, Ghana, Indonesia, Kyrgyzstan, Mexico, Niger, Peru, Russia, Rwanda, Somalia, Sudan, Tajikistan, Tanzania, and Zimbabwe). In the human rights eld, he has organized and funded grassroots groups, national coalitions, and global alliances working on public participation in decision making about a wide range of issues. He has set up and led grantmaking programs in East Africa, Southern Africa, and globally. He holds a master's degree in Social Change and Development from The Johns Hopkins University School of Advanced International Studies, and a Bachelor's Degree from Wesleyan University in African Studies and Biology.
 
-## ![](_page_94_Picture_0.jpeg)
 
 **The ICNC Monograph Series aims to bridge research and practice. Drawing on scholarly literature and high quality analytical and empirical analyses, ICNC Monographs enrich public discourse by expanding scientic knowledge in the eld of civil resistance and providing recommendations for practitioners such as activists, organizers, journalists, and members of INGOs and the policy community.**
 
@@ -2250,4 +2229,3 @@ International Center on Nonviolent Conict 600 New Hampshire Ave NW, Suite 710 Wa
 
 www.nonviolent-conflict.org
 
-## ![](_page_95_Picture_6.jpeg)

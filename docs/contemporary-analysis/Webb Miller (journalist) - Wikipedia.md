@@ -11,7 +11,6 @@ tags:
 
 ## Contributors to Wikimedia projects
 
-13–16 minutes
 
 ## From Wikipedia, the free encyclopedia
 

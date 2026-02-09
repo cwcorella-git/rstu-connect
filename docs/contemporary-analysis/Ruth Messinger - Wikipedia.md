@@ -9,7 +9,6 @@ tags:
   - wikipedia
 ---
 
-## ![](_page_0_Picture_2.jpeg)
 
 **Ruth Wyler Messinger** (born November 6, 1940)[\[3\]](#page-2-0) is a former American political leader in New York City and a member of the [Democratic Party.](https://en.wikipedia.org/wiki/Democratic_Party_(United_States)) She was the Democratic nominee for [Mayor of New York City](https://en.wikipedia.org/wiki/Mayor_of_New_York_City) in [1997,](https://en.wikipedia.org/wiki/1997_New_York_City_mayoral_election) losing to incumbent mayor [Rudy Giuliani.](https://en.wikipedia.org/wiki/Rudy_Giuliani)
 
@@ -27,7 +26,6 @@ A political [liberal,](https://en.wikipedia.org/wiki/American_Liberalism) Messin
 
 ### **Ruth Messinger**
 
-## ![](_page_0_Picture_12.jpeg)
 
 ## Messinger c. 1980
 
@@ -63,11 +61,9 @@ York, U. S.
 
 **affiliations** [America](https://en.wikipedia.org/wiki/Democratic_Socialists_of_America)[\[1\]](#page-1-0)[\[2\]](#page-1-1)
 
-## ![](_page_1_Picture_2.jpeg)
 
 Messinger at a [Democratic Socialists](https://en.wikipedia.org/wiki/Democratic_Socialists_of_America) [of America](https://en.wikipedia.org/wiki/Democratic_Socialists_of_America) caucus held at the [1980](https://en.wikipedia.org/wiki/1980_DNC) [DNC](https://en.wikipedia.org/wiki/1980_DNC)
 
-## ![](_page_1_Picture_4.jpeg)
 
 ## Messinger in 2012
 

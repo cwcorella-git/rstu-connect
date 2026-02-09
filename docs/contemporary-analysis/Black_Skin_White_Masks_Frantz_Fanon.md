@@ -13,41 +13,31 @@ tags:
 
 ## GETPOLITICAL
 
-## ![](_page_1_Picture_0.jpeg)
-
-## ![](_page_2_Picture_0.jpeg)
-
-## ![](_page_2_Picture_1.jpeg)
 
 ## **Revolution, Democracy, Socialism**
 
 *Selected Writings* V. I. Lenin Edited by Paul Le Blanc 9780745327600
 
-## ![](_page_2_Picture_4.jpeg)
 
 ### **Black Skin, White Masks**
 
 Frantz Fanon Forewords by Homi K. Bhabha and Ziauddin Sardar 9780745328485
 
-## ![](_page_2_Picture_7.jpeg)
 
 ### **Jewish History, Jewish Religion**
 
 *The Weight of Three Thousand Years* Israel Shahak Forewords by Pappe / Mezvinsky/ Said / Vidal 9780745328409
 
-## ![](_page_2_Picture_10.jpeg)
 
 ### **The Communist Manifesto**
 
 Karl Marx and Friedrich Engels Introduction by David Harvey 9780745328461
 
-## ![](_page_2_Picture_13.jpeg)
 
 ### **Theatre of the Oppressed** Augusto Boal
 
 ## 9780745328386
 
-## ![](_page_2_Picture_16.jpeg)
 
 ### **Catching History on the Wing**
 
@@ -55,13 +45,11 @@ Karl Marx and Friedrich Engels Introduction by David Harvey 9780745328461
 
 A. Sivanandan Foreword by Colin Prescod 9780745328348
 
-## ![](_page_3_Picture_0.jpeg)
 
 ## Translated by Charles Lam Markmann
 
 ## Forewords by Ziauddin Sardar and Homi K. Bhabha
 
-## ![](_page_3_Picture_3.jpeg)
 
 Originally published by Editions de Seuil, France, 1952 as *Peau Noire, Masques Blanc* First published in the United Kingdom in 1986 by Pluto Press 345 Archway Road, London N6 5AA This new edition published 2008
 

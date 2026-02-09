@@ -29,7 +29,6 @@ In situ medical devices and implantable such as hearing aids and pacemakers resp
 
 NDB's safety, power output, and universality transforms this technology into an ideal industrial partner to bring power to many routine applications and those that are dicult to implement. Data centers, remote locations, and hostile environment applications of NDB make it an outstanding promise for productivity and futuristic applications.
 
-## ![](_page_1_Picture_5.jpeg)
 
 ## 50 California Street, Suite 1500
 

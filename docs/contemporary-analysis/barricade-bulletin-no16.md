@@ -7,13 +7,11 @@ tags:
   - blockades
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 ## **DEC/JAN/FEB 2022**
 
 No.16 FREE!
 
-## ![](_page_0_Picture_3.jpeg)
 
 BLOODY SUNDAY 50TH ANNIVERSARY
 SEXUAL HEALTH \* MANCHURIA
@@ -57,7 +55,6 @@ Following the event, an IWW spokesperson said, "For a revolutionary union such a
 
 "As a union we have a long history and legacy that is intertwined with the horrors of emigration. It is vital that we stand with all migrant workers by challenging the bigotry, xenophobia and racism they face and say
 
-## ![](_page_1_Picture_17.jpeg)
 
 no more; be that along the borders of Poland, on the beaches of France, in detention centres or in the work-place."
 
@@ -79,9 +76,6 @@ The recent victory of workers at Foyle Port will be seen as a victory across the
 
 Members of the *IWW Derry branch* also attended ongoing strike actions throughout the city including the Education Welfare Officers strike who have taken ongoing action for pay parity.
 
-## ![](_page_2_Picture_7.jpeg)
-
-## ![](_page_2_Picture_8.jpeg)
 
 Magee University in Derry was one of 58 universities across both islands which took industrial action in December as UCU members voted in favour of strike action on pension cuts and on pay & working conditions.
 
@@ -93,7 +87,6 @@ A member who reported back from one of the university picket lines stated "It is
 
 Over the next number of months workers will once again take industrial action in an effort to fight for better pay and conditions. Talk to your fellow workers about extending solidarity today!
 
-## ![](_page_3_Picture_2.jpeg)
 
 #### Solidarity With Ryan Roberts 14 year prison sentence
 
@@ -121,7 +114,6 @@ Ryan Roberts A5155EM HMP Bristol, Horfield, 19 Cambridge Road, Bristol. BS7 8PS
 
 For more info on Kill the Bill Prisoner support: **bristolabc.wordpress.com**
 
-## ![](_page_3_Picture_16.jpeg)
 
 ## Incarcerated Workers Create New Zine
 
@@ -145,11 +137,6 @@ Over the past year, Incarcerated Workers Organising Committee (IWOC) have assist
 
 THERE MAYBE TIMES WHEN WE ARE POWERLESS TO PREVENT INJUSTICE, BUT THERE MUST NEVER BE A TIME WHEN WE FAIL TO PROTEST AGAINST IT
 
-## ![](_page_4_Picture_9.jpeg)
-
-## ![](_page_4_Picture_10.jpeg)
-
-## ![](_page_4_Picture_11.jpeg)
 
 The momentum for prisoners to organise on the inside, to defend their rights, was strengthened after the first ever 'national prison strike' in North America several years ago now. An act that was seen as a wake-up call for prisoners at the value of their own strength when organised. For many on the inside, that scene of unionised solidarity has been a source of self-empowerment and inspiration for many prisoners held in jails across the world.
 
@@ -159,7 +146,6 @@ A spokesperson for IWOC said that, "We welcome the news that prisoners sexual he
 
 If you, a relative or a friend on the inside wish to find out more on IWOC and how to join then please get in touch, details below:
 
-## ![](_page_4_Picture_16.jpeg)
 
 P. O. BOX 346, DERRY, BT48 4FZ, IRELAND FACEBOOK: IWOC IRELAND
 
@@ -167,7 +153,6 @@ P. O. BOX 346, DERRY, BT48 4FZ, IRELAND FACEBOOK: IWOC IRELAND
 
 Derry will this year mark the 50th Anniversary of the Bloody Sunday Massacre by taking to the streets to demand justice for those wounded and executed by the British State
 
-## ![](_page_5_Picture_4.jpeg)
 
 #### **Bloody Sunday January 1972:**
 
@@ -193,7 +178,6 @@ That is the only place our class will achieve a victory that is worth fighting f
 
 ## THERE IS NO BRITISH JUSTICE
 
-## ![](_page_6_Picture_9.jpeg)
 
 THE QUENAMIS BAZAAR LOUGHINISLAND MARK FLETCHER SOUTH AFRICAN ARMS SEAM GRAHAMS BOOKMAKERS BALLYMURPHY THE BIRMINGHAM SIX INTERNMENT RICKI BISHOP FOSTA ERROL THOMPSON AZZELLE RODNEY THE GUILDFORD FOUR STEPHEN LAWRENCE PETERLOO ANNIE'S BAR DRUMBEG THE MAGUIRE SEVEN HILLSBOROUGH BOYLE'S BAR SPRINGHILL/WESTROCK EDIR DA COSTA KAY'S TAVERN DARREN CUMBERBATCH TRAYNOR'S BAR DUBLIN MONAGHAN BOMBINGS DONNELLY'S BAR FALLS CURFEW MIAMI SHOWBAND ANGELA HALL DIPLOCK COURTS IAN GORDON CS GAS JEROME SCOTT THE B SPECIALS THE MOODED MEN SALANGA CASTLEREAGH BATANG KALI COERCED CONFESSIONS COLLUSION GREYSTEEL PSYOP'S EMERGENCY LAWS FRU CR GAS PARTITION GERRYMANDERING H-BLOCKS INFORMERS MIS OPERATION BANNER SHOOT TO KILL SPECIAL POWERS ACT STAKEKNIFE PLASTIC BULLETS STRIP SEARCHES SUPERGRASSES THE PTA BLAIR PEACH MARK DUGGAN DAVID OLUWALE COLIN ROACH CYNTHIA JARRETT OLIVER PRYCE REFUGEES CAMERON WHELAN JASON LENNON BOER CONCENTRATION CAMPS BASRA BALFOUR DECLARATION CHUMIK SHENKO AL-BASSA CHUKA AMKO SIMKO SHAKEE ARTHUR ALLISON SARAH REED STALKER SAMPSON STOP AND SEARCH KEVIN CLARKE PINIARA.....
 
@@ -263,7 +247,6 @@ You can keep up to date on planned events for this years 6th Derry Radical Bookf
 
 derryradicalbookfair.wordpress.com
 
-## ![](_page_9_Picture_2.jpeg)
 
 #### **Anarchist Cybernetics:**
 
@@ -283,7 +266,6 @@ Cybernetics much like Anarchism has been widely misrepresented in the media.
 
 The prefix Cyber may conjure up ideas of science fiction scenarios concerning robots, artificial intelligence, and omnipotent computer networks.
 
-## ![](_page_9_Picture_12.jpeg)
 
 However, Cybernetics is the study of control within a system, usually referring to feedback loops. find a comrade who was trapped somewhere in the city.
 
@@ -307,7 +289,6 @@ Autonomy is about a system maintaining it's purpose while wrestling with complex
 
 Control in this sense is about regulating the system through autonomous action. While control can be a term that anarchists recoil from, in this case it can be thought of as a skier maintaining control while going downhill, rather than coercive control.
 
-## ![](_page_10_Picture_6.jpeg)
 
 There is a brief history of Anarchism and Cybernetics. In 1963 the Journal Anarchy published two articles on Anarchism and Cybernetics. The first one was by a neuroscientist called Grey Walter (the father of Nicholas Walker).
 
@@ -315,7 +296,6 @@ The second article written by way of a response to the Walter article, by John M
 
 Thomas Swann also goes on to state: Kropotkin's vision of an anarchist society strongly resembles relatively modern bio-cybernetic organi-
 
-## ![](_page_10_Picture_10.jpeg)
 
 sational theories and systems of 'self-regulating' modules.
 
@@ -341,7 +321,6 @@ The Workers Solidarity Movement has issued a formal statement within the past nu
 
 "Each of us expects to remain active in anarchist politics and indeed to often find ourselves working together, including potentially as members of future organisations. We recognise that old habits are hard to
 
-## ![](_page_11_Picture_6.jpeg)
 
 overcome and that younger generations of anarchists are better placed to come up with the structures and organising practices most suited to the current moment.
 

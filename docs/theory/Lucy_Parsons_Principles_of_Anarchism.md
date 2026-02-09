@@ -92,7 +92,6 @@ No. 1. A believer in Anarchism; one opposed to all forms of coercive government 
 
 ## The Anarchist Library Anti-Copyright
 
-## ![](_page_7_Picture_1.jpeg)
 
 ### Lucy E. Parsons The Principles of Anarchism 1905
 

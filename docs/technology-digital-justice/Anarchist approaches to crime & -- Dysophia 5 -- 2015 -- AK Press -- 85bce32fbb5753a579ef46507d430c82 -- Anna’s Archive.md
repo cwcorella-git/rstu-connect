@@ -10,7 +10,6 @@ tags:
 
 anarchist approaches to crime & justice
 
-## ![](_page_0_Picture_2.jpeg)
 
 # Contents
 

@@ -11,7 +11,6 @@ tags:
 
 ## Jerry B. Jenkins
 
-6–7 minutes
 
 #### **Guest post by Becca Puglisi**
 
@@ -55,7 +54,6 @@ This is the beauty of subtext in dialogue. It allows [the character](https://jer
 
 So how do we write subtext into our characters' conversations without confusing the reader? It just requires combining five common vehicles for showing emotion. Let's look at how these were used in the example.
 
-## ![](_page_3_Picture_2.jpeg)
 
 ### **1. Dialogue**
 
@@ -79,6 +77,5 @@ We choose our words carefully when we're hiding something; we may even do certai
 
 Nonverbal vehicles are like annoying little brothers and sisters, tattling on the dialogue and revealing true emotion. Put them all together and they [fill out the character's narrative](https://jerryjenkins.com/character-development/) and paint a complete picture for readers. And you'll end up with nuanced and emotionally layered dialogue that can intrigue readers and pull them deeper into [your story.](https://jerryjenkins.com/how-to-write-short-stories/)
 
-## ![](_page_5_Picture_2.jpeg)
 
 **Becca Puglisi** is an international speaker, writing coach, and author. Her latest publication is a second edition of the bestselling Emotion Thesaurus, an updated and expanded version of the bestselling original volume. Her books are used by novelists, screenwriters, editors, and psychologists around the world. You can find Becca at her [Writers Helping Writers](https://www.writershelpingwriters.net/) blog and her website for authors, **[One Stop For Writers.](https://www.onestopforwriters.com/)**

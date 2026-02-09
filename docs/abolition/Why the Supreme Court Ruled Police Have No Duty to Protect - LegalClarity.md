@@ -15,7 +15,6 @@ Search Legal Clarity...
 
 Learn the constitutional distinction between limiting state power and guaranteeing individual protection, and how this shapes the legal duties of the police.
 
-## ![](_page_0_Picture_6.jpeg)
 
 ## Published Jul 21, 2025
 
@@ -59,7 +58,6 @@ Some state legislatures have enacted laws that impose a duty on police to act in
 
 [Egbert v. Boule and the](https://legalclarity.org/egbert-v-boule-and-the-limits-on-suing-federal-agents/) [Limits on Suing Federal](https://legalclarity.org/egbert-v-boule-and-the-limits-on-suing-federal-agents/) [Agents](https://legalclarity.org/egbert-v-boule-and-the-limits-on-suing-federal-agents/)
 
-## ![](_page_2_Picture_7.jpeg)
 
 #### [Legal Clarity Team](https://legalclarity.org/users/8548/profile/legalclarity-team)
 
@@ -73,4 +71,3 @@ Although we strive to keep the information on this site up-to-date, the owners a
 
 Copyright © Legal Clarity All Rights Reserved.
 
-## ![](_page_2_Picture_18.jpeg)

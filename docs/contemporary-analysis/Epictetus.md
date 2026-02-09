@@ -9,7 +9,6 @@ tags:
   - wikipedia
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 **Epictetus** (/ˌɛpɪkˈtiːtə[s/,](https://en.wikipedia.org/wiki/Help:IPA/English) *EH[-pick-](https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key)TEE-t*ə*ss*; [\[3\]](#page-2-2) [Ancient](https://en.wikipedia.org/wiki/Ancient_Greek_language) [Greek:](https://en.wikipedia.org/wiki/Ancient_Greek_language) Ἐπίκτητος, *Epíktētos*; c. 50 – c. 135 AD) was a Greek [Stoic philosopher](https://en.wikipedia.org/wiki/Stoicism). [\[4\]](#page-2-3)[\[5\]](#page-2-4) He was born [into slavery](https://en.wikipedia.org/wiki/Slavery_in_ancient_Greece) at [Hierapolis](https://en.wikipedia.org/wiki/Hierapolis), [Phrygia](https://en.wikipedia.org/wiki/Phrygia) (present-day [Pamukkale,](https://en.wikipedia.org/wiki/Pamukkale) in western [Turkey\)](https://en.wikipedia.org/wiki/Turkey) and lived in [Rome](https://en.wikipedia.org/wiki/Rome) until his banishment, after which he spent the rest of his life in [Nicopolis](https://en.wikipedia.org/wiki/Nicopolis) in northwestern [Greece.](https://en.wikipedia.org/wiki/Greece)
 
@@ -21,7 +20,6 @@ Having described himself as old in 108 AD, Epictetus is presumed to have been bo
 
 ### **Epictetus**
 
-## ![](_page_0_Picture_7.jpeg)
 
 Eighteenth-century line drawing depicting Epictetus with his crutch
 
@@ -77,7 +75,6 @@ The philosophy of Epictetus influenced the Roman emperor [Marcus Aurelius](https
 
 Epictetus exhibited an influence on French [Enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment) philosophers, such as [Voltaire,](https://en.wikipedia.org/wiki/Voltaire) [Montesquieu](https://en.wikipedia.org/wiki/Montesquieu), [Denis Diderot,](https://en.wikipedia.org/wiki/Denis_Diderot) and [Baron d'Holbach,](https://en.wikipedia.org/wiki/Baron_d%27Holbach) who all read the *[Enchiridion](https://en.wikipedia.org/wiki/Enchiridion_of_Epictetus)* when they were students.[\[38\]](#page-4-3) [Blaise Pascal](https://en.wikipedia.org/wiki/Blaise_Pascal) listed Epictetus as among those philosophers he was most familiar with, describing him as a "great mind" who is "among the philosophers of the world who have best understood the duties" of an individual.[\[39\]](#page-4-4)
 
-## ![](_page_2_Picture_3.jpeg)
 
 Hadrian and Epictetus are depicted in a fifteenth century manuscript, Bodleian library
 

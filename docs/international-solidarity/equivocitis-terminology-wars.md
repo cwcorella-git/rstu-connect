@@ -11,13 +11,11 @@ The Wayback Machine - https://web.archive.org/web/20250914152242/https://www.wha
 
 **[What Games Are](https://web.archive.org/web/20250914152242/https://www.whatgamesare.com/)**
 
-## ![](_page_0_Picture_2.jpeg)
 
 [Featured](https://web.archive.org/web/20250914152242/https://www.whatgamesare.com/featured-posts.html) [Glossary](https://web.archive.org/web/20250914152242/https://www.whatgamesare.com/glossary.html) [About](https://web.archive.org/web/20250914152242/https://www.whatgamesare.com/about.html) [Consulting](https://web.archive.org/web/20250914152242/https://www.whatgamesare.com/consulting.html)
 
 ## **Equivocitis [Terminology Wars]**
 
-## ![](_page_0_Picture_5.jpeg)
 
 Some people argue that every kind of interactive software experience should be called a 'game'. For some, it's a statement of inclusiveness as a way to explain why games are brilliant. For others, it's about being part of a marketing story about games, for visibility. Mostly it's about pushing boundaries and escaping limits, but the thing is: All eventually fall victim to equivocitis.
 
@@ -101,7 +99,6 @@ You can follow this conversation by subscribing to the [comment feed](https://we
 
 This is only a preview. Your comment has not yet been posted.
 
-## ![](_page_2_Picture_13.jpeg)
 
 Your comment could not be posted. Error type:
 
@@ -113,4 +110,3 @@ As a final step before posting your comment, enter the letters and numbers you s
 
 Having trouble reading this image? View an alternate.
 
-## ![](_page_2_Picture_19.jpeg)

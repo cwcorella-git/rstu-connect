@@ -6,7 +6,6 @@ tags:
   - feminism
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 This is a digital copy of a book that was preserved for generations on library shelves before it was carefully scanned by Google as part of a project to make the world's books discoverable online.
 
@@ -29,13 +28,11 @@ We also ask that you:
 
 Google's mission is to organize the world's information and to make it universally accessible and useful. Google Book Search helps readers discover the world's books while helping authors and publishers reach new audiences. You can search through the full text of this book on the web at [http://books.google.com/](http://google.com/books?id=Jd1AAAAAYAAJ)
 
-## ![](_page_1_Picture_0.jpeg)
 
 ### The Arthur and Elizabeth SCHLESINGER LIBRARY on the History of Women in America
 
 ### RADCLIFFE INSTITUTE
 
-## ![](_page_2_Picture_2.jpeg)
 
 Received with the papers of Emma Goldman and Leon Maimed, MC332
 
@@ -47,7 +44,6 @@ fishes
 
 ## From the Books of
 
-## ![](_page_3_Picture_3.jpeg)
 
 ## Leon Malmed
 
@@ -55,7 +51,6 @@ fishes
 
 ## 1956
 
-## ![](_page_6_Picture_0.jpeg)
 
 ### SELECTED WORKS
 
@@ -3684,10 +3679,8 @@ EMMA GOLDMAN - - Publisher
 
 ## Bound Volumes 1906-1914, Two Dollars per Velume
 
-## ![](_page_489_Picture_0.jpeg)
 
 į
 
 and the same
 
-## ![](_page_490_Picture_0.jpeg)

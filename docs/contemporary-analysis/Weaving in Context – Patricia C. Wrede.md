@@ -10,9 +10,6 @@ tags:
 
 ## [pcwrede.com](https://pcwrede.com/pcw-wp/weaving-in-context/)
 
-6–8 minutes
-
-## ![](_page_0_Picture_5.jpeg)
 
 ## Graphic by Peg Ihinger
 
@@ -40,6 +37,4 @@ However you choose to convey key background information, it is worth keeping in 
 
 On December 18, 2024 / [Writing](https://pcwrede.com/pcw-wp/category/writing/)
 
-## ![](_page_4_Picture_5.jpeg)
 
-## ![](_page_4_Picture_6.jpeg)

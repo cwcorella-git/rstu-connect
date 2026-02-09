@@ -8,7 +8,6 @@ tags:
   - current-events
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 "Votez Librement" (Vote freely). Photograph by Maurice Benpechat, May 1968. Courtesy of Dr. Gerard Pigeon.
 
@@ -78,7 +77,6 @@ he man is fucking with shit in Bolivia. He is fucking with shit in Chile. He is 
 
 Finally Got the News anticipated the ways in which racialization and criminalization would serve as "spatial ixes" for the crisis produced by the speculative
 
-## ![](_page_10_Picture_2.jpeg)
 
 Figure 1. John Watson provides a lecture against the backdrop of posters from the events of 1968. These images suggest his class-conscious and internationalist analysis of Third World political struggles in China, Cuba, and Vietnam and their links to insurgencies in Detroit. Finally Got the News (1970), by Stewart Bird, Rene Lichtman, and Peter Gessner. Produced in association with the League of Revolutionary Black Workers. Courtesy of Icarus Films.
 

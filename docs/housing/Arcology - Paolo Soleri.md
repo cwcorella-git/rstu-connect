@@ -9,9 +9,6 @@ tags:
   - tenants
 ---
 
-## ![](_page_0_Picture_0.jpeg)
-
-## ![](_page_1_Picture_0.jpeg)
 
 **Paolo Soleri** The MIT Press Cambridge, Massachusetts and London, England
 
@@ -250,7 +247,6 @@ The questioning implicit in the first part of this book is aimed at the validity
 
 cess and end, themselves the stuff of life. In this context utopia is the disavowal of any vectorial urge that might exist in the species of man and a settlement for something less than engrossing, for instance, a giving up in the "calm" sea of affluence.
 
-## ![](_page_9_Picture_0.jpeg)
 
 **2. The Map of Despair** Constantine Doxiadis presents a frightening world map. The American continent is covered with a kind of fabric that reminds one of a dark and torn flannel worn by a strong torso. The holes are large but are just holes. (Fig. 1) The dark fabric is ecumenopoly, the universal city. The holes are the areas where the earth breathes and renews itself: a map of despair. Doxiadis forecasts a continent transformed into a human backyard. The teeming human ants are everywhere, and everywhere are human ants. Nor will the holes be spared. They will not be pockets of farmland or wilderness. They will be dotted by subcolonies and will be invaded weekly by waves of schizophrenic vacationers and seasonally flooded by a tide of discouraged suburbanites given to temporary nomadism.
 
@@ -272,15 +268,9 @@ In the case of the mind, where the unlimited possible implodes into the finite r
 
 ## ![](_page_11_Figure_0.jpeg)
 
-## ![](_page_11_Picture_1.jpeg)
 
 ## **5. Miniaturization and Space**
 
-## ![](_page_12_Picture_0.jpeg)
-
-## ![](_page_12_Picture_1.jpeg)
-
-## ![](_page_12_Picture_2.jpeg)
 
 ## **7. Equity with Congruence**
 
@@ -310,7 +300,6 @@ Congruence is a more universal character. It is present in nature. In a sense it
 
 *The pursuit of congruence is substantially the transposition and the transfiguration of natural congruence into a congruence embracing the human condition. It is the humanization of the earth, and as such it demands a global coherence.*
 
-## ![](_page_13_Picture_1.jpeg)
 
 To try for congruence bypassing equity is to give up the human condition. The sort of congruence so pursued may well end in total determinism, for which life can come as cheaply as the deterministic mechanism proposes. This would be a congruence of things soon to diffuse back into the sluggish congruence of fate. Congruity, be it between means and ends, between effort and result, between pain and the worth, between stresses, between dimensions, or in general between the part and the whole, is a relationship or a measure of balance. It is an ecological factor.
 
@@ -336,7 +325,6 @@ The starting point of the exposition is that a platform of equity is far from de
 
 Planning is the word used for the grouping of the configuration, the result of all the elements of investigation, analysis, data collecting, and data processing in reference to a particular set of stresses. There is the planning of nature and the pfenning of man. Geological nature " plans" by its unending patience, made of unlimited time carving unlimited spaces. Biological nature " plans" the construction of instinctive drives, the instinctive wisdom of the biological life developing over immense cycles of time. Man deprived himself of such a marvel the day he first saw himself and the first question came to his mind. *Man, short on time, small in space, plans by constant extrapolation, and he can do so in ever greater measure*
 
-## ![](_page_14_Picture_0.jpeg)
 
 by pushing farther and farther the boundary of complexity, complexity being his own special kind of unlimitedness—infinity. Planning is then essential to life, the alternative being chaos. It is somehow the stuff life is made of. Man lives by it, even if more than often he meets death because of it. Bad planning in such a case.
 
@@ -440,7 +428,6 @@ He has made the city in his own image.
 
 archology: the city in the image of man.
 
-## ![](_page_17_Picture_0.jpeg)
 
 **9. The Bulb of Reality** It is obvious that attention must be centered on the subject: man. But man has an ancestry and an immanence, and man is truly the earth itself if he is anything. Total man is a preponderance of physical matter organized to perform physiological processes. These physiological processes are ends in themselves inasmuch as they are self-gratifying, and they are means to an end inasmuch as they participate in the construction of a species. The species is an end in itself inasmuch as it defines a specific triumph of sensitivity over indifference (the inorganic) and a means to an end inasmuch as it is the constant originator of the individual. The individual is an end in himself inasmuch as he is self-gratifying and a means to an end inasmuch as he is a member of the family structure. The family structure is an end in itself inasmuch as it is self-gratifying and a means to an end inasmuch as it is the smallest plurality of individuals of which society is composed.
 
@@ -458,7 +445,6 @@ Thus we remain in the layer of the neonatural, the physical. Because of this, in
 
 ## **10**
 
-## ![](_page_18_Picture_0.jpeg)
 
 # **lO. Priority Chart Reaches**
 
@@ -480,14 +466,12 @@ Destructive poverty, hunger, spite Coercive ignorance, segregation, bigotry Ster
 
 Distance Time Weather Tenuity Disorder Traffic loads Lack of design Rigid schedule Cost Storage of transportation means
 
-## ![](_page_18_Picture_11.jpeg)
 
 - 1. Each metropolitan man has to be at the center of the metropolitan world.
 - 2. Such a world at the exclusive use of one man is not possible for two reasons: it is physically nonsensical and culturally contradictory.
 - 3. Then the only open avenue is the organization of all urbanites into a very close fabric around a dense urban center. No technical treaties or semantic convolutions can change this. True urban life is that, or it is not. (Figs. 15, 16)
 - 4. It is surprising that with this a great number of other problems find adequate answers (see Summary). One suffices here: urban man finds himself to be a country man as well because the countryside is at walking distance from any point in the city. (Figs. 20, 21, 22)
 
-## ![](_page_19_Picture_0.jpeg)
 
 # **11 . The Organism of a Thousand Minds**
 
@@ -509,7 +493,6 @@ If there is any question about the inevitability of a society of man that will c
 
 The phenomenon then of the city, a congruent, humanized micro-universe sustained by the neonatural layer (Fig. 13) (the physical structure of the city), is *an ultracomplex organism whose centralized brain is the instrument that works for the satisfaction of the thousands of epidermal individual minds bound together by forces of sociality and culture.*
 
-## ![](_page_20_Picture_1.jpeg)
 
 # **12. Arcology: The City in the Image of Man**
 
@@ -556,7 +539,6 @@ If this concept is valid, as it seems to be in view of the nature of the physica
 
 We have then architecture as the materialization of the human environment and ecology as the physical, biological, and psychological balance of conditions that account for the specific site and its participation in the whole.
 
-## ![](_page_22_Picture_0.jpeg)
 
 *Arcology becomes the cleavage of the human in the body of matter and life, probing for the ever-changing condition of the present in a manner congruous to the aesthetocompassionate nature of man* (see Aesthetogenesis).
 
@@ -582,7 +564,6 @@ At the same time the observation that life has never been so rich is invalid in 
 
 The pertinence of arcology to the condition of man, the condition of joy or indifference, is direct and immediate. *Joy is then the burst of liveliness that comes with the fitness and coherence of a process that is developing under one's eyes; it is the opposite of senselessness and squandering.*
 
-## ![](_page_23_Picture_1.jpeg)
 
 **14. The Wastes** The boundless squandering of the wealth of the earth is compounding all the other already harsh conditions and may produce a " civilization" without an earth to host it. One by one, in the short time of two to three generations, ecologies, fruit of eons of refinements, are destroyed. The degree of destruction seems to be in direct proportion to the amount of wealth or power; thus a dismal forecast of even greater destruction. (Fig. 1)
 
@@ -606,7 +587,6 @@ The pertinence of arcology to the condition of man, the condition of joy or indi
 
 *arcological in the sense that it provides answers only if faced comprehensively and nonsegregationally.* The configuration of society must change in its material as well as immaterial aspects. The two must fuse into one another. (This is achieved only through an aesthetogenesis.) To be sick of one's culture is a well-kept tradition. But the explosive power of things at hand now is unprecedented, and the tide of an " instinctive," robot-automatic neonature, overwhelming the biological instincts, is being sown among us by ourselves (against ourselves).
 
-## ![](_page_24_Picture_0.jpeg)
 
 **15. Man on Earth** All the preceding observations strongly suggest that physical clustering must prevail over scattering. One might say that scattering consumes its power in the act of scattering and, like shrapnel, brings death with each of its fragments.
 
@@ -648,9 +628,6 @@ In a sense, that which can be described (translated into a new media) has not re
 
 *The aesthetic conclusion is a secure harbor where the mental stuff can shelter particles of itself in wait for the last sweep of fire that will weld them together into the ultimate form of reality, a reality of which evolutionary man is a partial and historicized image.*
 
-## ![](_page_29_Picture_0.jpeg)
-
-## ![](_page_29_Picture_1.jpeg)
 
 **17. Leisure** This may all be well—but what about starvation, pauperism, slavery, and ignorance, so widespread, so cruelly overcasting human life? Any effort in any field is doomed to frustration if it is not guided by a thrust into the pattern of the future that not only makes sense but is also dynamic. *Action is sterile without a vision that makes it real and engrossing. The fuel of action, short of being truly compassionate, is counter to life, unhuman.* The disheartening slowness of any progress toward freedom from need is mainly fruit of a greed out of proportion to any justifiable fear of insecurity.
 
@@ -664,11 +641,6 @@ The metamorphosis of man the maker into man the creator will be fostered by tran
 
 We see the tide of boredom investing society at her affluent best, leaving on her lap a litter and waste of persons, bodies, and souls. *If we are not able to spark the imagination of man with powerful vision on those points where power is clustered manyfold (the city), we miss, not peripherally but totally and centrally.* This is the responsibility of power, and the shrinking from it is an irresponsible act.
 
-## ![](_page_29_Picture_9.jpeg)
-
-## ![](_page_30_Picture_0.jpeg)
-
-## ![](_page_30_Picture_1.jpeg)
 
 Once the experimental phase had furnished guidelines, arcologies could be conceived for specific programs. A refusal to face this necessity and pay the price for it will result in an accelerated decline of the urban tangle and a rapid decay of civilization. This direct interdependence is what we have tried to illustrate in the preceding pages.
 
@@ -691,9 +663,6 @@ A vacation center, a health center, or research, or culture may be the nucleus o
 
 The organization of such megastructures into plurifi tional organisms seems not only justifiable but so r« ing as to make man regret their absence. *This injec of man's society into the body of the megastructure essentially an introduction of "porosity"—from undi entiated solidity to cellular resilience,* structurally fr passive weight resistance to dynamic contrapositior of forces. Even here at the elemental protoliving le\ there is a suggestion of becoming.
 
-## ![](_page_30_Picture_13.jpeg)
-
-## ![](_page_31_Picture_0.jpeg)
 
 These construct\*., so diverse at their roots, would foment —almost force by the nature of their scope— infrastructures, social as well as physical, of unexpected and fertile novelty. The minds as well as the meter would have to rise to the challenge or risk the grotesque. (Fig. 41)
 
@@ -703,7 +672,6 @@ The functionality itself of specialization demands the diversification of the ur
 
 7. When the complex marine ecology is understood, the stream and current flux mapped, the channeling of climates, biological life, chemical concentration predicted, an ideal " force line" could be patrolled by floating arcologies. Like gigantic digestive apparatuses, they would selectively absorb the wealth of the seas and its stored energies in vegetal stuff, animal life, minerals, chemicals, transforming them into usable and exportable food, raw materials, and commodities. Such highly productive organisms would at the same time alleviate the population pressure of those sea-conscious nations (Japan) that have been exploring and harvesting the seas for centuries. Such would be the new forms of life and society on and within the seas, where the surface marine life would have a mirror-imagelike counterpoint in the submarine, manned by the new oceanaut breed. (Fig. 42)
 
-## ![](_page_31_Picture_5.jpeg)
 
 8. The abstract nature of space will find its match in the abstract machines man is going to put in it, abstract machines inhabited by humans; thus, the need for a balance of the mechanical and psychobiological to afford spaceman a reasonably human life. This will not be achieved by a flowerpot on the computer counter (real flowers), nor by predigested salad, nor by a Picasso on the wall. It will have to be environmental, ecological: arcological.
 
@@ -711,9 +679,6 @@ The functionality itself of specialization demands the diversification of the ur
 
 10. The pressure of economic crises, the specter of unemployment because of automation, the conversion from overkill or flag-murder to fruitfulness, the potentials of the underdeveloped countries—all idling or liberating immeasurable amounts of skill, intelligence, power, and materials—a new urbane era at bay, begging for answers.
 
-## ![](_page_32_Picture_0.jpeg)
-
-## ![](_page_32_Picture_1.jpeg)
 
 depersonalized and degraded to a condition of interchangeable cell, dipped in red if productive, green if manutentive, blue if communicative, and so on, is the mal du sifecle (Western). Standardization is the virus.
 
@@ -733,11 +698,6 @@ The organization of man's life, subtly directed by the machine, which is organiz
 
 Real ownership is knowledge, while we must possess only that which is foreign to us. *That which I understand is mine, and the understanding is the true possession, not the physical holding of it.* Interiorization is the ability and joy of grasping what is out there and assimilating it. It is the first phase of the two-phase cycle of the aesthetic process: interiorization and expression. Expression is the materialization of that which, originally physical, has been interiorized. This transfigured matter is aesthetic neomatter, and it is not solely our anchor to freedom, it is freedom itself. *Freedom is creativity, or it is only the "choice" of that which is unavoidable.*
 
-## ![](_page_32_Picture_12.jpeg)
-
-## ![](_page_33_Picture_1.jpeg)
-
-## ![](_page_33_Picture_2.jpeg)
 
 **20. Nature—Neonature - Man** Customarily man constructs his immediate environment by inserting individual, man-made structures into the larger structure of nature. He accepts or takes for granted that the natural setting is the only possible base of departure, and he sets out as an individual to get the best of it. The approach does not change when the given base is no longer the original ecology but an aggregation of the man-made, composed of all the other individual, granular undertakings that preceded its arrival (homes, shops, gas stations). Thus, he will accept his lot among "the lots," that roof among those other roofs—*he will submit in other words to a situation that carries coercion without a reason behind it, if one excludes the nature of randomness.* The problems arising from the unnatural conditions that this pattern develops do not find solution in any of the natural devices that one may call, generally and comprehensively, ecological.
 
@@ -771,7 +731,6 @@ Then man will step from natural ecology into a man-made ecology to find a number
 - 4. Culture in bountiful amounts is where he is; it is infinitely varied as an infinitely complex life develops in the four dimensions of the organism (duration being the fourth dimension).
 - 5. Nature, the ancestry of man in its unending novelty and secrecy, its generosity and harshness, is at his window and at his door. He can visually reach into it from his "living room," physically be in it within a few minutes. (Fig. 27)
 
-## ![](_page_34_Picture_1.jpeg)
 
 Arcology is not a new strait jacket put around society. It is meant to be a framework well equipped to sustain and inspire the action of man. In it, free man would be "urged on" by the superrational substance of the framework itself, expressing, in one, faith in him and the acceptance of his divine-demonic nature. (Fig. 48)
 
@@ -791,9 +750,6 @@ Technological betrayal lies in deficiency most of the time, not in evil. Thus, t
 
 REATES A NEW SCOPE NEW SCOPE (UNIQUE) INSTRUMENT (OBSOLESCENT) NEW CAUSE (AXIAL) SCOPE (UNIQUE) INSTRUMENT (OBSOLESCE NT) CAUSE (AXIAL) 49. The Pulse of Life
 
-## ![](_page_35_Picture_0.jpeg)
-
-## ![](_page_35_Picture_1.jpeg)
 
 To do what nature does is just the preparatory work for the creative step whereby a surnature (or neonature) is conceived and developed. Thus the meaning of science is in its finding of efficiency through guided endeavors, guidance not left to the drift of cosmic " laws" but held in by the purposeful energies of reflection. To do is to know (" actively" ), and the asset of knowledge is its positioning of the energetic world in such a pattern and structure as to make the doing not just easier but also unavoidable. This unavoidable doing that makes man look like a madness-driven creature, carves the tunnel of life within nature and frames the walls and ceiling (encumbered by their entropic drift) with the structures of neonature. Those structures can be purely instrumental (structural), in which case obsolescence will obliterate them, or can overreach into form, making explicit and lasting the reverence and awe of man toward both the infinity that surrounds him and the complexity (infinity of another kind) that is within himself and is himself. (Fig. 50)
 
@@ -803,7 +759,6 @@ In this way there is in science a bartering of existing things between the stony
 
 It seems to me that in the answer to this question rests the qualification of all of man's doing and the clarification of where the substance of life and humaneness lie. If the answer is that creation is not measurable only because of a temporary lack of knowledge, then the real (universe in its totality) is a " scientific" system gazing upon itself by way of man's intellect (reflection).
 
-## ![](_page_36_Picture_1.jpeg)
 
 ## ![](_page_36_Figure_2.jpeg)
 
@@ -825,7 +780,6 @@ Free enterprise assumes that things controlled by man can operate as any other p
 
 Before disputing these concepts, one has to confute the position that nature works by average laws. Up to the inception of life, in pasts beyond imagination, this was probably close to being so. Beyond that threshold and facing the future, choice—that is, the rejection of a statistical unfolding of things—ingrains itself ever more deeply into the texture of nature. *With the birth of choice, the structure of the fatal, rigidly framed by the limitlessness of space, in a time beat scarcely audible (or conceivable), is chiseled away as marble is by a sculptor seeking a "historically valid form."* Evolution carves itself out of the immense body of matter-energy, and the barriers of the impossible as well as the decay-entropy are constantly, unremittingly pushed aside, the probable giving way to the ever more improbable.
 
-## ![](_page_37_Picture_0.jpeg)
 
 Yet two formidable allies of entropy, sloth and reaction, are nested in the arrowhead of life itself. Through countless disguises, within the folds of free enterprise, the statistical finds enough ground to work itself into "motivation." *One then acts not out of intensity or reverence or, one might say, love and compassion but because a tabulated experience, abstraction of the past, "strongly" suggests the way to go.* That amounts to a past, sterilized by the extraction of averages, unexplained and unexplainable in its progression but tabulated in its "results," which is taken as the unfailing guideline for a future of no future because it essentially feeds on hopelessness (fate). (Fig. 55)
 
@@ -1050,15 +1004,11 @@ I feel an absolute continuity relating the various historical patterns within wh
 
 ## ![](_page_41_Figure_0.jpeg)
 
-## ![](_page_41_Picture_2.jpeg)
-
-## ![](_page_41_Picture_3.jpeg)
 
 **179/hectare 1,331/hectare**
 
 **72/acre 538/acre**
 
-## ![](_page_41_Picture_6.jpeg)
 
 **124/hectare 852/hectare**
 
@@ -1068,9 +1018,6 @@ I feel an absolute continuity relating the various historical patterns within wh
 
 **SCHEDULE SEQUENCE OF AN ARCHOLOGY. THE S IZ E , BULK AND CO M PLEXITY OF THE UNDERTAKING WARRANTS THE ESTABLISHM ENT OF A VA ST BUILDING INDUSTRY TO BE LATER PA RTIA LLY CONVERTED.**
 
-## ![](_page_42_Picture_2.jpeg)
-
-## ![](_page_42_Picture_3.jpeg)
 
 ## **PHASE 6 T IM E '. Y E A R S**
 
@@ -1078,7 +1025,6 @@ I feel an absolute continuity relating the various historical patterns within wh
 
 **A LIZA TIO N OF S K E L E - c o n s t r u c t i o n o f p r i v a t e s t r u c t u r e . TON c o n s t r u c t i o n o f p u b l i c s t r u c t u r e s . b e g i n n i n g o f t h e m e t r o p o l i t a n l i f e .**
 
-## ![](_page_42_Picture_8.jpeg)
 
 ## **PHAS E** *\*
 
@@ -1088,15 +1034,11 @@ I feel an absolute continuity relating the various historical patterns within wh
 
 **E C O L O G IC A L S U R V E Y S O C IA L A N D E C O N O M IC A L S U R V E Y R E G IO N A L A N D S T A T E L IN K A G E V IA R A IL , R O A D , A IR , R A D IO , P O W E R S T A T IO N , W A T E R , G A S . . .**
 
-## ![](_page_42_Picture_13.jpeg)
 
 **T H E C O N S T R U C T IO N IN D U S T R IE S B R E A K O U T IN D IV E R S IF IE D P R O D U C T IO N F O R L O C A L C O N S U M P T IO N A N D E X P O R T .**
 
 ## **T I M E : M O N T H S -Y E A R S**
 
-## ![](_page_42_Picture_17.jpeg)
-
-## ![](_page_42_Picture_18.jpeg)
 
 ## **PHASE** *z*
 
@@ -1106,13 +1048,11 @@ I feel an absolute continuity relating the various historical patterns within wh
 
 ## **F O U N D A T IO N P L A T F O R M .**
 
-## ![](_page_42_Picture_23.jpeg)
 
 **F U L L B L O O M O F T H E C I T Y . A P E R C E N T A G E O F T H E P O P U L A T IO N B E C O M E S P E R M A N E N T . B A L A N C IN G O F A L L C O M P O N E N T S - L IV 1 N G , C U L T U R E , P R O D U C T IO N , L E IS U R E .**
 
 ## **T I M E IY E A R S**
 
-## ![](_page_42_Picture_27.jpeg)
 
 ## **PHASE 3**
 
@@ -1124,7 +1064,6 @@ I feel an absolute continuity relating the various historical patterns within wh
 
 ## **C IT Y IS E S T A B L IS H E D .**
 
-## ![](_page_42_Picture_33.jpeg)
 
 ## **PHASE 9**
 
@@ -1136,9 +1075,6 @@ I feel an absolute continuity relating the various historical patterns within wh
 
 **T H E C IT Y BECttM ES H IS T O R IC A L L Y S I G N IF IC A N T .**
 
-## ![](_page_42_Picture_39.jpeg)
-
-## ![](_page_42_Picture_40.jpeg)
 
 ## **PHASE 4 T IM E I M O N T H S —Y E A R S**
 
@@ -1146,7 +1082,6 @@ I feel an absolute continuity relating the various historical patterns within wh
 
 **TION OF C ITY 'S PARTS S T O C K P IL E O F M A N U F A C T U R E D M A T E R IA L S . E S T A B L IS H M E N T O F IN L E T S A N D O U T L E T S .**
 
-## ![](_page_42_Picture_50.jpeg)
 
 ## **PHASE 5 T IM E ; M O N T H S -Y E A R S**
 
@@ -1158,13 +1093,11 @@ I feel an absolute continuity relating the various historical patterns within wh
 
 ## **IN T O U S E .**
 
-## ![](_page_42_Picture_57.jpeg)
 
 ## **NEW CYBERNETIC**
 
 **CYCLES IT IS A N E W C Y C L E B E G IN N IN G A T P H A S E**
 
-## ![](_page_43_Picture_0.jpeg)
 
 ## **I. Novanoah I**
 
@@ -1188,7 +1121,6 @@ I feel an absolute continuity relating the various historical patterns within wh
 
 Babel IIA 3. Population Partial top view: scale 300,000 **1:10,000**
 
-## ![](_page_43_Picture_10.jpeg)
 
 ## 4 -5 vu U
 
@@ -1292,7 +1224,6 @@ Materials: (For processing units and connective rings) Primary structures are in
 
 Construction: (For processing units and connective rings) Prefabrication of standard units. Assemblage on water using its buoyancy as a building frame as soon as the structure becomes large enough to warrant the substitution of the structure itself for the ship-building yards.
 
-## ![](_page_48_Picture_0.jpeg)
 
 ## **3. Noahbabel Noahbabel**
 
@@ -1322,7 +1253,6 @@ Construction: (For processing units and connective rings) Prefabrication of stan
 
 Arcoforte Population 5. Section: scale **20,000 1:10,000**
 
-## ![](_page_48_Picture_13.jpeg)
 
 Noahbabel is not a floating system, but buoyancy is an integral part of its structural configuration.
 
@@ -1352,11 +1282,9 @@ Population 6. Elevation: scale **10.000 1:10,000**
 
 Flight, space, and submarine exploration have given man a direct experience of the 3-dimensionality of space. This 3-D space is the reality we live in. We had better make use of it rather than glue ourselves onto the 2-dimensional surface of the earth. In the vertical dimension we will find that degree of efficiency that has escaped us till now. The routine patterns of each person are contained in a pancake 7 feet thick and many hundreds of feet wide. The efficient interaction of many thousands of such " behavior pancakes" will never be found in a flat configuration; it can be achieved only by stacking them up into solids of congruous proportions. This is really a fundamental biological law which clearly states that tenuity and life are inimical. Life is in the thick of things.
 
-## ![](_page_49_Picture_10.jpeg)
 
 ## ![](_page_50_Figure_0.jpeg)
 
-## ![](_page_51_Picture_0.jpeg)
 
 # **4. Babelnoah Babelnoah**
 
@@ -1370,7 +1298,6 @@ Surface covered Partial section and elevation: scale
 
 ## Population Elevation: scale
 
-## ![](_page_51_Picture_11.jpeg)
 
 Arcologies are architectural organisms of such character and dimensions as to be ecologically relevant. They are that architecture which is the "ecology" of reflective life.
 
@@ -1402,7 +1329,6 @@ tower: scale
 
 s k e t c h ©.
 
-## ![](_page_56_Picture_0.jpeg)
 
 # **5. Arcoforte Arcoforte**
 
@@ -1438,7 +1364,6 @@ s k e t c h ©.
 
 ## **49**
 
-## ![](_page_57_Picture_0.jpeg)
 
 ## 6. Babel IIA
 
@@ -1472,7 +1397,6 @@ As the shelter for consciousness cannot be simply and solely a rational engine, 
 
 If man can be called, in technical jargon, a seeking and suffering machine, the envelope of his seeking and suffering cannot be but a suffering, that is, a super-rational engine. I have called such entity an aesthetocompassion-
 
-## ![](_page_58_Picture_0.jpeg)
 
 ## **6. Babel IIA**
 
@@ -1502,9 +1426,6 @@ It may well take another disaster of universal proportion, the flood of the gadg
 
 The Babel of modern times is a technicality in search of purpose, a purpose it is destined not to find until the day when its subaltern position is understood and framed in the society technicality is meant to serve.. This is, in turn, unachievable unless the credulity of man in the neomagic pose of technology is deflated to its proportion, a proportion to be found in coherent use for purposes that are real inasmuch as they are historically adequate to the position of man within nature.
 
-## ![](_page_58_Picture_15.jpeg)
-
-## ![](_page_59_Picture_0.jpeg)
 
 ## **Babel HA**
 
@@ -1536,7 +1457,6 @@ The upper platform is mainly viewed as the container of most of the cultural ins
 
 The energies derived from waste processing and from industrial surpluses can be used for a further conditioning of the land surrounding the city. In this way the city climate is a milder reflection of the regional climate.
 
-## ![](_page_59_Picture_11.jpeg)
 
 ## ![](_page_59_Figure_12.jpeg)
 
@@ -1590,7 +1510,6 @@ line, and enveloping elements, the feminine. When this bivalance is not spoken c
 
 In the rectilinear this double aspect is absent. There is a singularity of definition that in a way adds order to the system and at times makes it appear stronger. The linear geometry is undoubtedly simpler, conceptually and constructionally. There are, however, goals that simplicity does not foster.
 
-## ![](_page_64_Picture_11.jpeg)
 
 ## ![](_page_65_Figure_0.jpeg)
 
@@ -1600,7 +1519,6 @@ In the rectilinear this double aspect is absent. There is a singularity of defin
 
 # **8. Logology Logology**
 
-## ![](_page_67_Picture_2.jpeg)
 
 (Hilly land; flood condition) Population 900,000 Density 950/hectare; 344/acre Height 900 meters Surface covered 1,034 hectares; 2,550 acres **1.** Section through bowl: scale 1:10,000 **2.** General site plan: scale 1:50,000
 
@@ -1626,9 +1544,6 @@ Population 280,000 3. Elevation: scale 1:10,000 Arcoindian I
 
 ## Population 19,000 4. Elevation: scale 1:10,000
 
-## ![](_page_69_Picture_7.jpeg)
-
-## ![](_page_69_Picture_8.jpeg)
 
 tial spaces; (2) in the medial belt, the gardens and waste processing plants; (3) toward the center, civil facilities and work. The top platform-ground is for cultural institutions: schools, labs, studios, theaters, libraries.
 
@@ -1640,7 +1555,6 @@ For a structure of this size and structural organization, symmetry along the ver
 
 The city could well work as a major airport with aircraft taxiing on the outer rim of the bowl within minutes' time from anywhere in the city.
 
-## ![](_page_70_Picture_0.jpeg)
 
 ## **10. Babel IIC Babel IIC**
 
@@ -1690,7 +1604,6 @@ In Arcanyon, the aqueduct is populated all the way. At intervals, nodular center
 
 Arcanyon is only the progenitor of a far more complex and powerful urban river on which a longitudinal axis would develop a multilevel transportation network topped by an endless airport. On the side of this flow system urbanization would develop on a square kilometer section on each side. (See Map of Despair.) With a strong hierarchy of neighborhood, local, regional, and continental transportation systems all welded or grafted into the flow system, a total mobility would be achieved without interfering with urban, biped life.
 
-## ![](_page_73_Picture_16.jpeg)
 
 ## **66**
 
@@ -1698,7 +1611,6 @@ Arcanyon is only the progenitor of a far more complex and powerful urban river o
 
 ## ![](_page_75_Figure_0.jpeg)
 
-## ![](_page_76_Picture_0.jpeg)
 
 ## **12. Babel liD Babel IID**
 
@@ -1718,9 +1630,6 @@ Population 200,000 3. Elevation: scale 1:10,000 Arcube Population 400,000 **4.**
 
 Babel Canyon Population 250,000 5. Elevation: scale 1:10,000
 
-## ![](_page_76_Picture_11.jpeg)
-
-## ![](_page_76_Picture_12.jpeg)
 
 The concept of an organism whose skin is a mosaic of **Function of the Base** thousands of minds, embodied in specific and different 1. Receiving end of local and outside traffic persons, is well illustrated here. The conocylinder of the tower structure, about 1500 meters high and almost 1 2. Organization of facilities kilometer in diameter, is enveloped by a double mem- residential brane, a cable structure that is subdivided in modular vol- production umes where homes would be fabricated. exchange
 
@@ -1736,7 +1645,6 @@ cultural
 
 ## ![](_page_77_Figure_0.jpeg)
 
-## ![](_page_78_Picture_0.jpeg)
 
 ## **13. Babel Canyon Babel Canyon**
 
@@ -1762,9 +1670,6 @@ cultural
 
 Population 15,000 Partial elevation: scale 1:5,000
 
-## ![](_page_79_Picture_0.jpeg)
-
-## ![](_page_79_Picture_1.jpeg)
 
 ## **13. Babel Canyon Babel Canyon**
 
@@ -1788,11 +1693,6 @@ Population 900,000 **4.** Elevation: scale 1:10,000 Arcoindian I
 
 Designed on a curve-square plan of about 1 kilometer per side, Babel Canyon is like a series of skyscrapers perforating three pyramidal and multifunctional configurations. The lower one covers the servicing entrails of the city. The other two are the containers of residential and public functions. As for many of the arcologies there is a very large light-and-air well running on the vertical axis. The sloping configurations produce a variety of spatial systems of inward or outward character. The environmental characters would be very diverse, with almost opposite rhythms of space, light, and dimension.
 
-## ![](_page_79_Picture_13.jpeg)
-
-## ![](_page_79_Picture_15.jpeg)
-
-## ![](_page_80_Picture_0.jpeg)
 
 **13. Babel Canyon f^Z.aino.s.and)** Population 250,000
 
@@ -1806,7 +1706,6 @@ Designed on a curve-square plan of about 1 kilometer per side, Babel Canyon is l
 
 Density 2,341/hectare; 948/acre Surface covered 100 hectares; 247 acres
 
-## ![](_page_80_Picture_9.jpeg)
 
 ## ![](_page_81_Figure_0.jpeg)
 
@@ -1838,7 +1737,6 @@ Auxiliarity of the natural and the man-produced must be observed. This ecologica
 
 ## ![](_page_87_Figure_0.jpeg)
 
-## ![](_page_87_Picture_1.jpeg)
 
 ## **1.** Section: scale 1:5,000
 
@@ -1926,9 +1824,6 @@ The community, laity and religious, would find income from cultural institutions
 
 ## Population **2.** Elevation: scale
 
-## ![](_page_96_Picture_10.jpeg)
-
-## ![](_page_97_Picture_0.jpeg)
 
 ## (Dam site)
 
@@ -1950,9 +1845,6 @@ Population 3. Partial elevation: scale Noahbabel D
 
 Population **4.** Elevation: scale 90,000 **1:10,000**
 
-## ![](_page_97_Picture_10.jpeg)
-
-## ![](_page_97_Picture_11.jpeg)
 
 and Arcanyon. Close to 6 cubic kilometers of sheltered and shaded space is deployed above and around the dam. This by itself is an ecological factor of relevance. The multiplicity of grounds, the man-made topographies developing on layers at different levels and within a great variety of boundaries and reciprocal position produce a large variety of environments.
 
@@ -1992,7 +1884,6 @@ Span Surface covered 960 meters 30.5 hectares; 75 acres
 
 ## 2. Partial elevation: scale 1:2,000
 
-## ![](_page_105_Picture_0.jpeg)
 
 ## **22. Arcbeam Arcbeam**
 
@@ -2010,13 +1901,11 @@ Population 100,000 3. Elevation: scale 1:5,000 Theology
 
 ## Population 13,000 **4.** Elevation: scale 1:500
 
-## ![](_page_105_Picture_11.jpeg)
 
 Arcbeam is to be taken in the same context as Stonebow, as one of the nonweakening links in the urban river stretching across continents, respectful of nature while not intimidated by its vastness and strength.
 
 In the orthogonal frame of main and secondary beams, the main beam is almost 300 meters deep and 800 meters long. The flow of things and performances are set in an awesome geology and almost composes another of its own—refined, rarefied, and controlled. We might remind ourselves that, wrong or not, for good or for bad, we are remineralizing the earth, recrystalizing it to respond more swiftly to our human condition. The god, or gods, we nurture inside might come to suffer from the bloated landscape and its mounting paraphernalias. Under the fat of our diaspora there is hardly any structure, as if inside of our collectivity despair evenly partakes of all things, all times.
 
-## ![](_page_106_Picture_0.jpeg)
 
 ## **22. Arcbeam Arcbeam**
 
@@ -2058,9 +1947,6 @@ If the pattern of rivers of performance should prevail on random ecumenopoly, th
 
 We see now how divisive on communities otherwise close knit is the crosscutting of rivers, railroad tracks, freeways and, in fact, roads. The interruption of flow is not redeemed by the few tenuous connecting links of bridges, even when closely spaced.
 
-## ![](_page_106_Picture_20.jpeg)
-
-## ![](_page_107_Picture_0.jpeg)
 
 **23.lnfrababel**
 
@@ -2096,7 +1982,6 @@ In the marble quarries of Tuscany whole mountains have been manipulated and move
 
 Infrababel is set in one of these gaping fissures. It is not an underground city. It is not even a below-ground-level city, inasmuch as two short sides of the rectangular plan (500 by 1,000 meters) overlook the water body of a large lake reservoir. The outer skin of the city is translucent and deeply carved by light tunnels that are diversely oriented to telescope onto different areas of geological landscape.
 
-## ![](_page_107_Picture_14.jpeg)
 
 ## ![](_page_108_Figure_0.jpeg)
 
@@ -2120,7 +2005,6 @@ Population 4. Partial plan: scale **100,000** 1,343/hectare; 495/acre 400 meters
 
 Infrababel is somewhat of an answer to geology in geological terms, but naturally geological denseness has been replaced by a denseness of duration-performance.
 
-## ![](_page_108_Picture_10.jpeg)
 
 ## / 9 13,000 1:5,000
 
@@ -2170,7 +2054,6 @@ been made famous on this continent by the Indians, what may be called the open- 
 
 Such topography is the free gift of (1) a collective umbrella; the ceiling of the half cave is the roof above the roofs; (2) a temperature control device for optimum orientation; directly south, the cave is a winter sun trap and a summer parasol; (3) a wind- and air-flow device; (4) an all-embracing space of very inspiring character; something of a concrete and acting symbol of the historical process that has made stone and flesh in one.
 
-## ![](_page_114_Picture_13.jpeg)
 
 ## ![](_page_115_Figure_0.jpeg)
 
@@ -2180,9 +2063,6 @@ Such topography is the free gift of (1) a collective umbrella; the ceiling of th
 
 ## ![](_page_118_Figure_0.jpeg)
 
-## ![](_page_119_Picture_0.jpeg)
-
-## ![](_page_119_Picture_1.jpeg)
 
 ## 3
 
@@ -2248,7 +2128,6 @@ the mineral and the mental, and the beauty of its power is somehow contained the
 
 ## ![](_page_122_Figure_0.jpeg)
 
-## ![](_page_123_Picture_0.jpeg)
 
 ## **29. Asteromo Asteromo**
 
@@ -2264,9 +2143,6 @@ Population 3. Elevation: scale Babel IID 400.000 **1:10,000**
 
 Population **4.** Elevation: scale 550.000 **1:10,000**
 
-## ![](_page_123_Picture_9.jpeg)
-
-## ![](_page_123_Picture_10.jpeg)
 
 In Asteromo the conceptual foundations for arcology are put to test almost as if in a simulation. Simulation is fraudulent by nature. It deals with the substitution for the real stuff, a stuff that more than often has no substitute. Technology, medicine, social sciences, planning, and so forth all make use of simulation procedure, and often that which is simulated is then required to match the laboratory orderliness and its aseptic synthesism—wherefrom the fraudulence.
 
@@ -2297,11 +2173,6 @@ square meters of garden per person, the same order of magnitude considered by th
 
 ## ![](_page_126_Figure_0.jpeg)
 
-## ![](_page_127_Picture_0.jpeg)
-
-## ![](_page_128_Picture_0.jpeg)
-
-## ![](_page_128_Picture_1.jpeg)
 
 # **30. Arcosanti**
 

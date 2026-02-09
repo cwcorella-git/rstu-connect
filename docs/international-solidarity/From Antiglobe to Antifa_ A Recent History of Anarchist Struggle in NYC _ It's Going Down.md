@@ -18,9 +18,6 @@ Filed under: [Anarchist Movement,](https://itsgoingdown.org/category/topics/anar
 
 [Publication](https://itsgoingdown.org/category/type/publication/)
 
-## ![](_page_0_Picture_9.jpeg)
-
-## ![](_page_0_Picture_10.jpeg)
 
 **Some NYC anarchists have put together From Antiglobe to Antifa: A Recent History of Anarchist Struggle in NYC. It chronicles the past 10 years of anarchist struggle in NYC through three waves: Occupy, Black Lives Matter, and anti-Trump/antifa.**
 

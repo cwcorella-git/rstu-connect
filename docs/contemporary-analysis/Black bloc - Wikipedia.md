@@ -11,11 +11,9 @@ tags:
 
 ## Contributors to Wikimedia projects
 
-30–38 minutes
 
 #### From Wikipedia, the free encyclopedia
 
-## ![](_page_0_Picture_7.jpeg)
 
 A black bloc group participating in a march near the [World Bank,](https://en.wikipedia.org/wiki/World_Bank) in Washington, DC, in 2009. Some black bloc protesters wear hoods, allowing their faces to be viewed, while others use such items as scarves, dark sunglasses or masks to conceal their faces as much as possible.
 
@@ -29,9 +27,6 @@ In February 1967, the anarchist group [Black Mask](https://en.wikipedia.org/wiki
 
 ### [\[edit\]](https://en.wikipedia.org/w/index.php?title=Black_bloc&action=edit§ion=3)
 
-## ![](_page_1_Picture_7.jpeg)
-
-## ![](_page_2_Picture_2.jpeg)
 
 Demonstration in Hamburg/Germany with Black Bloc in the front rows
 
@@ -43,7 +38,6 @@ When [Ronald Reagan](https://en.wikipedia.org/wiki/Ronald_Reagan) came to Berlin
 
 Since the late 1980s, Berlin's Kreuzberg district has hosted May Day clashes between anarchists and police.[\[12\]](#page-14-0)[\[13\]](#page-14-1) When the [World Bank](https://en.wikipedia.org/wiki/World_Bank) and the [International Monetary Fund](https://en.wikipedia.org/wiki/International_Monetary_Fund) [met in](https://en.wikipedia.org/wiki/1988_IMF/World_Bank_protests) [Berlin in 1988,](https://en.wikipedia.org/wiki/1988_IMF/World_Bank_protests) autonomous groups hosted an international gathering of [anti-capitalist](https://en.wikipedia.org/wiki/Anti-capitalist) activists. Numbering around 80,000, the protesters greatly outnumbered the police. Officials tried to maintain control by banning all demonstrations and attacking public assemblies. Nevertheless, there were riots and [upmarket](https://en.wikipedia.org/wiki/Upmarket) shopping areas were destroyed[.\[14\]](#page-14-2)[\[15\]](#page-14-3)
 
-![](_page_3_Picture_3.jpeg)
 
 Part of a black bloc in Hamburg during the G20 summit
 
@@ -55,7 +49,6 @@ Riots" after demonstrations every 1 May in Berlin, and since 2008 also in Hambur
 
 # [\[edit\]](https://en.wikipedia.org/w/index.php?title=Black_bloc&action=edit§ion=5)
 
-## ![](_page_4_Picture_5.jpeg)
 
 Black bloc members spray graffiti on a wall during the [Iraq War protest](https://en.wikipedia.org/wiki/Protests_against_the_Iraq_War#March_21,_2009) in Washington, D. C., on 21 March 2009.
 
@@ -71,15 +64,11 @@ NGO leaders as "hypocrites", and wrote that nonviolent activists ought to be "tr
 
 During [protests against](https://en.wikipedia.org/wiki/2010_G20_Toronto_summit_protests) the [2010 G20 summit](https://en.wikipedia.org/wiki/2010_G20_Toronto_summit) in [Toronto,](https://en.wikipedia.org/wiki/Toronto) a black bloc riot damaged a number of retail locations including an [Urban Outfitters,](https://en.wikipedia.org/wiki/Urban_Outfitters) [American Apparel,](https://en.wikipedia.org/wiki/American_Apparel) [Adidas](https://en.wikipedia.org/wiki/Adidas) Store, Starbucks and many banking establishments[.\[37\]](#page-16-7)[\[38\]](#page-16-8)
 
-![](_page_6_Picture_4.jpeg)
 
 Black bloc anarchist protest in Washington, D. C., on J20 on a [Civil War](https://en.wikipedia.org/wiki/United_states_civil_war) monument.
 
 On the day of President [Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump)'s [inauguration in 2017,](https://en.wikipedia.org/wiki/First_inauguration_of_Donald_Trump) black bloc groups were present among other protests in Washington, D. C., and other places. The groups engaged in vandalism, rioting, and violence[.\[39\]](#page-16-9)[\[40\]](#page-16-10) At least 217 were arrested and six police officers sustained minor injuries, and at least one other person was injured[.\[39\]](#page-16-9)[\[41\]](#page-17-0)[\[42\]](#page-17-1)[\[43\]](#page-17-2)[\[44\]](#page-17-3)
 
-![](_page_6_Picture_7.jpeg)
-
-## ![](_page_7_Picture_2.jpeg)
 
 ## Black bloc at Berkeley, California
 
@@ -105,7 +94,6 @@ Amongst hundreds of thousands of protesters protesting the G20 Summit in Hamburg
 
 On occasion, police and security services have infiltrated black blocs, for purposes of investigation. Allegations first surfaced after several demonstrations. At the 2001 [G8 summit in](https://en.wikipedia.org/wiki/27th_G8_summit) [Genoa,](https://en.wikipedia.org/wiki/27th_G8_summit) among the many complaints about the polic[e\[73\]](#page-20-5) there was mention of video footage which "suggests that men in black were seen getting out of police vans near protest marches.["\[74\]](#page-20-6) In August 2007, [Quebec police](https://en.wikipedia.org/wiki/Quebec_police) admitted that "their officers disguised themselves as demonstrators" in [Montebello.](https://en.wikipedia.org/wiki/Montebello,_Quebec) However, the officers purportedly did not engage in violence, and claimed that they were carrying rocks because other protesters were doing so. They were identified by genuine protesters because of their police-issue footwear.[\[75\]](#page-20-7) [\[76\]](#page-20-8) According to veteran activist [Harsha Walia,](https://en.wikipedia.org/wiki/Harsha_Walia) it was other participants in the black bloc who identified and exposed the undercover police[.\[77\]](#page-20-9)
 
-![](_page_10_Picture_3.jpeg)
 
 ## Black bloc in Mexico City organizing protests
 
@@ -113,7 +101,6 @@ When we smash a window, we aim to destroy the thin veneer of legitimacy that sur
 
 —ACME Collective, quoted in Paris (2003[\)\[78\]](#page-21-0)
 
-## ![](_page_11_Picture_4.jpeg)
 
 [Anarchist](https://en.wikipedia.org/wiki/Anarchist) black bloc organizing in [Leipzig,](https://en.wikipedia.org/wiki/Leipzig) Germany, in 2020
 
@@ -261,7 +248,6 @@ New England.
 - Van Deusen, David; Massot, Xavier; Green Mountain Anarchist Collective; [The Black Bloc Papers: An Anthology of Primary](http://www.infoshop.org/amp/bgp/Black Block Papers2.pdf) [Texts From The North American Anarchist Black Bloc 1988–](http://www.infoshop.org/amp/bgp/Black Block Papers2.pdf) [2005](http://www.infoshop.org/amp/bgp/Black Block Papers2.pdf), Breaking Glass Press, Shawnee Mission, Kansas, 2010. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [0-9791671-0-8](https://en.wikipedia.org/wiki/Special:Book Sources/0-9791671-0-8)
 - Van Deusen, David; [The Rise and Fall of The Green Mountain](https://web.archive.org/web/20150930091721/http://news.infoshop.org/anarchist-news/rise-and-fall-green-mountain-anarchist-collective) [Anarchist Collective](https://web.archive.org/web/20150930091721/http://news.infoshop.org/anarchist-news/rise-and-fall-green-mountain-anarchist-collective), 2015, this article looks at the [Green](https://en.wikipedia.org/wiki/Green_Mountain_Anarchist_Collective) [Mountain Anarchist Collective,](https://en.wikipedia.org/wiki/Green_Mountain_Anarchist_Collective) why they came to take part in Black Blocs, and how they moved beyond the Black Bloc.
 
-## ![](_page_24_Picture_8.jpeg)
 
 Wikimedia Commons has media related to [Black bloc.](https://commons.wikimedia.org/wiki/Category:Black_bloc)
 

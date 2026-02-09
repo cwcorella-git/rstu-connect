@@ -32,7 +32,6 @@ ARE BETTER THAN
 
 ## with Ola Rosling and Anna Rosling Rönnlund
 
-## ![](_page_2_Picture_4.jpeg)
 
 www.sceptrebooks.com
 
@@ -128,7 +127,6 @@ When I was a child my dream was to become a circus artist. My parents' dream, th
 
 One afternoon at medical school, in an otherwise dry lecture about the way the throat worked, our professor explained, "If something is stuck, the passage can be straightened by pushing the chin bone forward." To illustrate, he showed an X-ray of a sword swallower in action.
 
-## ![](_page_9_Picture_0.jpeg)
 
 I had a flash of inspiration. My dream was not over! A few weeks earlier, when studying reflexes, I had discovered that of all my classmates, I could push my fingers farthest down my throat without gagging. At the time, I had not been too proud: I didn't think it was an important skill. But now I understood its value, and instantly my childhood dream sprang back to life. I decided to become a sword swallower.
 
@@ -316,7 +314,6 @@ It is the overdramatic worldview that draws people to the most dramatic and nega
 
 My experience, over decades of lecturing, and testing, and listening to the ways people misinterpret the facts even when they are right in front of them, finally brought me to see that the overdramatic worldview is so difficult to shift because it comes from the very way our brains work.
 
-## ![](_page_19_Picture_4.jpeg)
 
 You might have seen this before. The line on the bottom looks longer than the line on the top. You know it isn't, but even if you already know, even if you measure the lines yourself and confirm that they are the same, you keep seeing them as different lengths.
 
@@ -356,7 +353,6 @@ So, if you are more interested in being right than in continuing to live in your
 
 # THE GAP INSTINCT
 
-![](_page_23_Picture_2.jpeg)
 
 **Capturing a monster in a classroom using only a piece of paper**
 
@@ -560,7 +556,6 @@ But we need to do some kind of sorting to make sense of the world. We can't give
 
 One reason the old labels are so popular is that they are so simple. But they are wrong! So, to replace them, I will now suggest an equally simple but more relevant and useful way of dividing up the world. Instead of dividing the world into two groups I will divide it into four income levels, as set out in the image below.
 
-## ![](_page_36_Picture_7.jpeg)
 
 Each figure in the chart represents 1 billion people, and the seven figures show how the current world population is spread out across four income levels, expressed in terms of dollar income per day. You can see that most people are living on the two middle levels, where people have most of their basic human needs met.
 
@@ -570,37 +565,23 @@ Think of the four income levels as the levels of a computer game. Everyone wants
 
 > **LEVEL 1.** You start on Level 1 with \$1 per day. Your five children have to spend hours walking barefoot with your single plastic bucket, back and forth, to fetch water from a dirty mud hole an hour's walk away. On their way home they gather firewood, and you prepare the same gray porridge that you've been eating at every meal, every day, for your whole life—except during the months when the meager soil yielded no crops and you went to bed hungry. One day your youngest daughter develops a nasty cough. Smoke from the indoor fire is weakening her lungs. You can't afford antibiotics, and one month later she is dead. This is extreme poverty. Yet you keep struggling on. If you are lucky and the yields are good, you can maybe sell some surplus crops and manage to earn more than \$2 a day, which would move you to the next level. Good luck! (Roughly 1 billion people live like this today.)
 
-## ![](_page_38_Picture_0.jpeg)
 
 ## Water
 
-## ![](_page_38_Picture_2.jpeg)
 
 ## Transport
 
-## ![](_page_38_Picture_4.jpeg)
 
 ## Cooking
 
-## ![](_page_38_Picture_6.jpeg)
 
 ## Plate of food
 
-## ![](_page_38_Picture_8.jpeg)
 
 ## Source: Dollar Street
 
 **LEVEL 2.** You've made it. In fact, you've quadrupled your income and now you earn \$4 a day. Three extra dollars every day. What are you going to do with all this money? Now you can buy food that you didn't grow yourself, and you can afford chickens, which means eggs. You save some money and buy sandals for your children, and a bike, and more plastic buckets. Now it takes you only half an hour to fetch water for the day. You buy a gas stove so your children can
 
-## ![](_page_39_Picture_0.jpeg)
-
-## ![](_page_39_Picture_2.jpeg)
-
-## ![](_page_39_Picture_4.jpeg)
-
-## ![](_page_39_Picture_6.jpeg)
-
-## ![](_page_39_Picture_8.jpeg)
 
 their homework under a bulb. But the electricity is too unstable for a freezer. You save up for mattresses so you don't have to sleep on the mud floor. Life is much better now, but still very uncertain. A single illness and you would have to sell most of your possessions to buy medicine. That would throw you back to Level 1 again. Another three dollars a day would be good, but to experience really drastic improvement you need to quadruple again. If you can land a job in the local garment industry you will be the first member of your family to bring home a salary. (Roughly 3 billion people live like this today.)
 
@@ -608,37 +589,24 @@ attend school instead of gathering wood. When there's power they do
 
 **LEVEL 3.** Wow! You did it! You work multiple jobs, 16 hours a day, seven days a week, and manage to quadruple your income again, to \$16 a day. Your savings are impressive and you install a cold-water tap. No more fetching water. With a stable electric line the kids' homework improves and you can buy a fridge that lets you store food and serve different dishes each day. You save to buy a motorcycle, which means you can travel to a better-paying job at a factory in
 
-## ![](_page_40_Picture_0.jpeg)
 
 town. Unfortunately you crash on your way there one day and you have to use money you had saved for your children's education to pay the medical bills. You recover, and thanks to your savings you are not thrown back a level. Two of your children start high school. If they manage to finish, they will be able to get better-paying jobs than you have ever had. To celebrate, you take the whole family on its first-ever vacation, one afternoon to the beach, just for fun. (Roughly 2 billion people live like this today.)
 
-## ![](_page_40_Picture_3.jpeg)
-
-## ![](_page_40_Picture_5.jpeg)
-
-## ![](_page_40_Picture_7.jpeg)
-
-## ![](_page_40_Picture_9.jpeg)
 
 **LEVEL 4.** You have more than \$64 a day. You are a rich consumer and three more dollars a day makes very little difference to your everyday life. That's why you think three dollars, which can change the life of someone living in extreme poverty, is not a lot of money. You have more than twelve years of education and you have been on an airplane on vacation. You can eat out once a month and you can buy a car. Of course you have hot and cold water indoors.
 
-## ![](_page_41_Picture_0.jpeg)
 
 ## Water
 
-## ![](_page_41_Picture_2.jpeg)
 
 ## Transport
 
-## ![](_page_41_Picture_4.jpeg)
 
 ## Cooking
 
-## ![](_page_41_Picture_6.jpeg)
 
 ## Plate of food
 
-## ![](_page_41_Picture_8.jpeg)
 
 But you know about this level already. Since you are reading this book, I'm pretty sure you live on Level 4. I don't have to describe it for you to understand. The difficulty, when you have always known this high level of income, is to understand the huge differences between the other three levels. People on Level 4 must struggle hard not to misunderstand the reality of the other 6 billion people in the world. (Roughly 1 billion people live like this today.)
 
@@ -686,7 +654,6 @@ Let's get a better sense of the reality behind the numbers. First, let's change 
 
 Now let's look at the same data in a third way. Instead of looking at the averages each year, let's look at the range of math scores, or incomes, in one particular year.
 
-## ![](_page_45_Picture_5.jpeg)
 
 Now we get a sense of all the individuals who were bundled into the average number. Look! There is an almost complete overlap between men and women's math scores. The majority of women have a male math twin: a man with the same math score as they do. When it comes to incomes in Mexico and the United States, the overlap is there but it is only partial. What is clear, though, looking at the data this way, is that the two groups of people—men and women, Mexicans and people living in the United States—are not separate at all. They overlap. There is no gap.
 
@@ -730,7 +697,6 @@ What do you need to hunt, capture, and replace misconceptions? Data. You have to
 
 # **Factfulness**
 
-## ![](_page_50_Picture_0.jpeg)
 
 **Factfulness is … recognizing when a story talks about a gap,** and remembering that this paints a picture of two separate groups, with a gap in between. The reality is often not polarized at all. Usually the majority is right there in the middle, where the gap is supposed to be.
 
@@ -744,7 +710,6 @@ To control the gap instinct, **look for the majority.**
 
 # THE NEGATIVITY INSTINCT
 
-![](_page_51_Picture_2.jpeg)
 
 **How I was kind of born in Egypt, and what a baby in an incubator can teach us about the world**
 
@@ -788,7 +753,6 @@ Percentage who answered "getting worse".
 
 Overall, do you think the world is getting better, staying the same, or getting worse?
 
-## ![](_page_54_Picture_3.jpeg)
 
 Sources:Yougov[1] & Ipsos MORI[1]. See:gapm.io/rbetter
 
@@ -1147,7 +1111,6 @@ Today, now that Sweden is on Level 4, only three children in 1,000 die before th
 
 # **Factfulness**
 
-## ![](_page_78_Picture_1.jpeg)
 
 **Factfulness is … recognizing when we get negative news,** and remembering that information about bad events is much more likely to reach us. When things are getting better we often don't hear about them. This gives us a systematically too-negative impression of the world around us, which is very stressful.
 
@@ -1163,7 +1126,6 @@ To control the negativity instinct, **expect bad news.**
 
 # THE STRAIGHT LINE INSTINCT
 
-## ![](_page_79_Picture_2.jpeg)
 
 **How more survivors means fewer people, how traffic accidents are like cavities, and why my grandson is like the population of the world**
 
@@ -1407,7 +1369,6 @@ To understand a phenomenon, we need to make sure we understand the shape of its 
 
 # **Factfulness**
 
-## ![](_page_105_Picture_4.jpeg)
 
 **Factfulness is … recognizing the assumption that a line will just continue straight,** and remembering that such lines are rare in reality.
 
@@ -1419,7 +1380,6 @@ To control the straight line instinct, **remember that curves come in different 
 
 # THE FEAR INSTINCT
 
-![](_page_107_Picture_2.jpeg)
 
 **How to hide 40 million airplanes, and how I kind of won the Nobel Peace Prize**
 
@@ -1508,7 +1468,6 @@ This number includes all fatalities from floods, earthquakes, storms, droughts, 
 
 The reason natural disasters kill so many fewer people today is not that nature has changed. It is that the majority of people no longer live on Level 1. Disasters hit countries on all income levels, but the harm done is very different. With more money comes better preparedness. The graph below shows the average number of deaths from natural disasters per million people over the last 25 years, on each income level.
 
-## ![](_page_113_Picture_4.jpeg)
 
 Thanks to better education, new affordable solutions, and global collaborations, the decrease in death rates is impressive even among those who are stuck on Level 1—as shown in the image on the next page. (We look at averages of 25-year periods because natural disasters don't occur at an even rate each year. Even so, just one event, the heat wave in Europe in 2003, was largely responsible for the fourfold increase in the death rate on Level 4.)
 
@@ -1640,7 +1599,6 @@ Because "frightening" and "dangerous" are two different things. Something fright
 
 # **Factfulness**
 
-## ![](_page_129_Picture_0.jpeg)
 
 **Factfulness is … recognizing when frightening things get our attention,** and remembering that these are not necessarily the most risky. Our natural fears of violence, captivity, and contamination make us systematically overestimate these risks.
 
@@ -1654,7 +1612,6 @@ To control the fear instinct, **calculate the risks.**
 
 # THE SIZE INSTINCT
 
-![](_page_130_Picture_2.jpeg)
 
 **Putting war memorials and bear attacks in proportion using two magic tools that you already possess**
 
@@ -1798,7 +1755,6 @@ We can understand the world better, and make better decisions about it, if we kn
 
 There are roughly 7 billion people in the world today. Which map shows best where they live? (Each figure represents 1 billion people.)
 
-## ![](_page_141_Picture_1.jpeg)
 
 This is one of the fact questions where people score best. They are almost as good as the chimps. Their answers are almost as good as random. By this point in the book, that looks like a great achievement. You see, it all depends on how you compare!
 
@@ -1850,7 +1806,6 @@ When I see a lonely number in a news report, it always triggers an alarm: What s
 
 # **Factfulness**
 
-## ![](_page_146_Picture_2.jpeg)
 
 **Factfulness is … recognizing when a lonely number seems impressive** (small or large), and remembering that you could get the opposite impression if it were compared with or divided by some other relevant number.
 
@@ -1864,7 +1819,6 @@ To control the size instinct, **get things in proportion.**
 
 # THE GENERALIZATION INSTINCT
 
-## ![](_page_147_Picture_2.jpeg)
 
 **Why I had to lie about the Danes, and how it can be smart to build half a house**
 
@@ -1996,9 +1950,6 @@ The way a family living on Level 2 in China stores and prepares food looks very 
 
 ### **LEVEL 2 STOVES: OPEN FIRES**
 
-## ![](_page_159_Picture_1.jpeg)
-
-## ![](_page_159_Picture_2.jpeg)
 
 ## Nigeria China
 
@@ -2010,11 +1961,6 @@ Your house has a patchwork roof, so if it's raining you might well get wet and c
 
 ## LEVEL 2 ROOFS: PATCHWORKS
 
-## ![](_page_159_Picture_8.jpeg)
-
-## ![](_page_159_Picture_9.jpeg)
-
-## ![](_page_159_Picture_10.jpeg)
 
 ## Philippines
 
@@ -2026,11 +1972,6 @@ Your house has a patchwork roof, so if it's raining you might well get wet and c
 
 When you go to the toilet in the morning it is smelly and full of flies, but at least there are some walls to give you some privacy.
 
-## ![](_page_160_Picture_2.jpeg)
-
-## ![](_page_160_Picture_3.jpeg)
-
-## ![](_page_160_Picture_4.jpeg)
 
 You eat the same for almost every meal, every day of every week. You dream about food that is more varied and more delicious.
 
@@ -2074,7 +2015,6 @@ To avoid getting your leg crushed in an elevator and other bad mistakes, stay op
 
 If you were to visit Tunisia, a country where you find people living on every level from 1 to 4, you might come across houses that were half-built—like this one, belonging to the Salhi family, who live in the capital, Tunis. You might conclude that Tunisians were lazy or disorganized.
 
-## ![](_page_164_Picture_0.jpeg)
 
 You can visit the Salhi family on Dollar Street and see how they live. Mabrouk is 52 years old and is a gardener. His wife, Jamila, is 44 years old and runs a home-based bakery. Most of their neighbors have similar half-built second floors on their houses. You see this everywhere on Levels 2 and 3 across the world. In Sweden, if someone built their house like that, we would think they had a severe planning problem, or maybe the builders had run away. But you can't generalize from Sweden to Tunisia.
 
@@ -2102,7 +2042,6 @@ I can only hope that the baby in the bread aisle survived. And I can only hope t
 
 # **Factfulness**
 
-## ![](_page_167_Picture_3.jpeg)
 
 **Factfulness is … recognizing when a category is being used in an explanation,** and remembering that categories can be misleading. We can't stop generalization and we shouldn't even try. What we should try to do is to avoid generalizing incorrectly.
 
@@ -2121,7 +2060,6 @@ To control the generalization instinct, **question your categories.**
 
 # THE DESTINY INSTINCT
 
-![](_page_169_Picture_2.jpeg)
 
 **About rocks that move and what Grandpa never talked about**
 
@@ -2313,7 +2251,6 @@ Thirty-three years later, addressing the African Union after a professional life
 
 # **Factfulness**
 
-## ![](_page_185_Picture_3.jpeg)
 
 **Factfulness is … recognizing that many things (including people, countries, religions, and cultures) appear to be constant just because the change is happening slowly,** and remembering that even small, slow changes gradually add up to big changes.
 
@@ -2328,7 +2265,6 @@ To control the destiny instinct, **remember slow change is still change.**
 
 # THE SINGLE PERSPECTIVE INSTINCT
 
-## ![](_page_187_Picture_2.jpeg)
 
 **Why governments should not be mistaken for nails and why shoes and bricks sometimes tell you more than numbers**
 
@@ -2503,7 +2439,6 @@ The world cannot be understood without numbers, nor through numbers alone. A cou
 
 # **Factfulness**
 
-## ![](_page_202_Picture_5.jpeg)
 
 **Factfulness is … recognizing that a single perspective can limit your imagination,** and remembering that it is better to look at problems from many angles to get a more accurate understanding and find practical solutions.
 
@@ -2519,7 +2454,6 @@ To control the single perspective instinct, **get a toolbox, not a hammer.**
 
 # THE BLAME INSTINCT
 
-![](_page_204_Picture_2.jpeg)
 
 **About magic washing machines and money-making robots**
 
@@ -2657,7 +2591,6 @@ The idea that India, China, and other countries moving up the levels should be b
 
 Most of the human-emitted CO accumulated in the atmosphere was emitted over the last 50 years by countries that are now on Level 4. Canada's per capita CO emissions are still twice as high as China's and eight times as high India's. In fact, do you know how much of all the fossil fuel burned each year is burned by the richest billion? More than half of it. Then the second-richest billion burns half of what's left, and so on and so on, down to the poorest billion, who are responsible for only 1 percent. 2 2
 
-## ![](_page_214_Picture_2.jpeg)
 
 It will take at least two decades for the poorest billion to struggle from Level 1 to Level 2—increasing their contribution to global CO emissions by roughly 2 percent. It will take several decades more for them to get up to Levels 3 and 4. 2
 
@@ -2729,7 +2662,6 @@ Similarly, resist the urge to blame the media for lying to you (mostly they are 
 
 # **Factfulness**
 
-## ![](_page_220_Picture_2.jpeg)
 
 **Factfulness is … recognizing when a scapegoat is being used** and remembering that blaming an individual often steals the focus from other possible explanations and blocks our ability to prevent similar problems in the future.
 
@@ -2742,7 +2674,6 @@ To control the blame instinct, **resist finding a scapegoat.**
 
 # THE URGENCY INSTINCT
 
-## ![](_page_221_Picture_2.jpeg)
 
 **How "now or never" can block our roads and our minds**
 
@@ -2936,7 +2867,6 @@ I don't tell you not to worry. I tell you to worry about the right things. I don
 
 # **Factfulness**
 
-## ![](_page_238_Picture_2.jpeg)
 
 **Factfulness is … recognizing when a decision feels urgent** and remembering that it rarely is.
 
@@ -3108,61 +3038,51 @@ When we have a fact-based worldview, we can see that the world is not as bad as 
 
 ## I. GAP
 
-## ![](_page_252_Picture_2.jpeg)
 
 ## Look for the majority
 
 ## 3. STRAIGHT LINE
 
-## ![](_page_252_Picture_5.jpeg)
 
 ## Lines might bend
 
 ## 5. SIZE
 
-## ![](_page_252_Picture_8.jpeg)
 
 ## Get things in proportion
 
 ## 7. DESTINY
 
-## ![](_page_252_Picture_11.jpeg)
 
 ## Slow change is still change
 
 ## 9. BLAME
 
-## ![](_page_252_Picture_14.jpeg)
 
 ## Resist pointing your finger
 
 ## 2. NEGATIVITY
 
-## ![](_page_252_Picture_17.jpeg)
 
 ## Expect bad news
 
 ## 4. FEAR
 
-## ![](_page_252_Picture_20.jpeg)
 
 ## Calculate the risks
 
 ## 6. GENERALIZATION
 
-## ![](_page_252_Picture_23.jpeg)
 
 ## Question your categories
 
 ## 8. SINGLE
 
-## ![](_page_252_Picture_26.jpeg)
 
 ## Get a tool box
 
 ## 10. URGENCY
 
-## ![](_page_252_Picture_29.jpeg)
 
 ## Take small steps
 

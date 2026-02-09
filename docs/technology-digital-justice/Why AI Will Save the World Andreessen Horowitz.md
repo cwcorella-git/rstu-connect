@@ -11,7 +11,6 @@ tags:
 
 ## Marc Andreessen
 
-43-55 minutes
 
 The era of Artificial Intelligence is here, and boy are people freaking out.
 

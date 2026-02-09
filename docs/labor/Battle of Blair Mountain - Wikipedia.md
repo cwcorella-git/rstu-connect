@@ -9,7 +9,6 @@ tags:
   - workers
 ---
 
-## ![](_page_0_Picture_2.jpeg)
 
 The Battle of Blair Mountain was the largest labor uprising in [United States history](https://en.wikipedia.org/wiki/United_States_history) and is the largest armed uprising since the [American Civil War](https://en.wikipedia.org/wiki/American_Civil_War)[.\[3\]](https://en.wikipedia.org/wiki/Battle_of_Blair_Mountain#cite_note-4)[\[4\]](https://en.wikipedia.org/wiki/Battle_of_Blair_Mountain#cite_note-FOOTNOTEKinder2005149-5) The conflict occurred in [Logan](https://en.wikipedia.org/wiki/Logan_County,_West_Virginia) [County,](https://en.wikipedia.org/wiki/Logan_County,_West_Virginia) [West Virginia,](https://en.wikipedia.org/wiki/West_Virginia) as part of the [Coal Wars,](https://en.wikipedia.org/wiki/Coal_Wars) a series of early-20th-century labor disputes in [Appalachia.](https://en.wikipedia.org/wiki/Appalachia)
 
@@ -33,7 +32,6 @@ As the agents walked to the train station to leave town, Police Chief [Sid Hat](
 
 Striking coal miners [United Mine Workers](https://en.wikipedia.org/wiki/United_Mine_Workers) [Baldwin-Felts](https://en.wikipedia.org/wiki/Baldwin-Felts_Detective_Agency) [Detective Agency](https://en.wikipedia.org/wiki/Baldwin-Felts_Detective_Agency) [Logan County Sheri](https://en.wikipedia.org/w/index.php?title=Logan_County_Sheriff%27s_Department&action=edit&redlink=1)ff's [Department](https://en.wikipedia.org/w/index.php?title=Logan_County_Sheriff%27s_Department&action=edit&redlink=1) [West Virginia State](https://en.wikipedia.org/wiki/West_Virginia_State_Police) [Police](https://en.wikipedia.org/wiki/West_Virginia_State_Police) [United States](https://en.wikipedia.org/wiki/United_States_Army) [Army](https://en.wikipedia.org/wiki/United_States_Army) ▪ [West Virginia Army](https://en.wikipedia.org/wiki/West_Virginia_Army_National_Guard) [National Guard](https://en.wikipedia.org/wiki/West_Virginia_Army_National_Guard) Lead figures [Bill Blizzard](https://en.wikipedia.org/wiki/Bill_Blizzard) [Mother Jones](https://en.wikipedia.org/wiki/Mother_Jones) [Don Cha](https://en.wikipedia.org/wiki/Don_Chafin)fin [William Eubanks](https://en.wikipedia.org/w/index.php?title=William_Eubanks&action=edit&redlink=1) Number 10,000 3,000 27,000 Casualties and losses inconclusive[\[a\]](https://en.wikipedia.org/wiki/Battle_of_Blair_Mountain#cite_note-casualties-3) 985 arrested Chafin: Inconclusive[\[a\]](https://en.wikipedia.org/wiki/Battle_of_Blair_Mountain#cite_note-casualties-3) Army: 4 killed[\[1\]](https://en.wikipedia.org/wiki/Battle_of_Blair_Mountain#cite_note-Journal-1)
 
-## ![](_page_1_Picture_8.jpeg)
 
 ## Short documentary about the events that Sid had been arrested. Hatfield backed into the store and Testerman asked to see the warrant. After reviewing it, Mayor Testerman exclaimed, "This is a bogus warrant." With these words, a gunfight erupted and Chief Hatfield shot the agent Albert Felts. Testerman together with Albert and Lee Felts were among the ten men killed (three from the town and seven from the agency)[.\[16\]](https://en.wikipedia.org/wiki/Battle_of_Blair_Mountain#cite_note-FOOTNOTESavage199021-17)
 
@@ -43,11 +41,9 @@ On January 26, 1921, the trial of Hatfield for killing Albert Felts began. It wa
 
 In the midst of this tense situation, Hatfield traveled to [Mc Dowell County](https://en.wikipedia.org/wiki/Mc Dowell_County,_West_Virginia) on August 1, 1921, to stand trial on charges of dynamiting a [coal tipple.](https://en.wikipedia.org/wiki/Tipple) Along with him traveled a good friend, Ed Chambers, and their wives[.\[26\]](https://en.wikipedia.org/wiki/Battle_of_Blair_Mountain#cite_note-FOOTNOTEShogan2004154%E2%80%93156-27) As they walked up the courthouse stairs, unarmed and flanked by their wives, a group of
 
-## ![](_page_2_Picture_5.jpeg)
 
 Blair Mountain miner with his rifle slung over his shoulder
 
-## ![](_page_2_Picture_7.jpeg)
 
 Two union coal miners sitting in a sniper's nest with a machine gun
 
@@ -63,11 +59,9 @@ At a rally on August 7, [Mary Harris "Mother" Jones](https://en.wikipedia.org/wi
 
 The first skirmishes occurred on the morning of August 25. The bulk of the miners were still 15 mi (24 km) away. The following day, President [Warren G. Harding](https://en.wikipedia.org/wiki/Warren_G._Harding) threatened to send in federal troops and Army [Martin MB-1](https://en.wikipedia.org/wiki/Martin_MB-1) bombers. After a long meeting in [Madison,](https://en.wikipedia.org/wiki/Madison,_West_Virginia) the seat of Boone County, the miners were convinced to return home. But the struggle was far from over. After spending days assembling his private
 
-## ![](_page_3_Picture_7.jpeg)
 
 Map of the movement of the union miners during their march from [Marmet](https://en.wikipedia.org/wiki/Marmet,_West_Virginia) towards [Williamson](https://en.wikipedia.org/wiki/Williamson,_West_Virginia)
 
-## ![](_page_3_Picture_9.jpeg)
 
 Logan County Sheriff's deputies during the battle of Blair Mountain.
 
@@ -87,11 +81,9 @@ After the battle, 985 miners were indicted for [murder,](https://en.wikipedia.or
 
 In the short term the battle was an overwhelming victory for coal industry owners and management[.\[47\]](https://en.wikipedia.org/wiki/Battle_of_Blair_Mountain#cite_note-48) [United](https://en.wikipedia.org/wiki/United_Mine_Workers_of_America) [Mine Workers of America](https://en.wikipedia.org/wiki/United_Mine_Workers_of_America) (UMWA or UMW) membership plummeted from more than 50,000 miners to approximately 10,000 over the next several years, and it was not until 1935—following the [Great Depression](https://en.wikipedia.org/wiki/Great_Depression) and the beginning of the [New Deal](https://en.wikipedia.org/wiki/New_Deal) under President [Franklin Delano Roosevelt—](https://en.wikipedia.org/wiki/Franklin_Delano_Roosevelt)that the UMW fully organized in southern West Virginia.
 
-## ![](_page_4_Picture_8.jpeg)
 
 Short arrows indicate the location of fighting between union and nonunion forces. The long arrow shows federal troop movement.
 
-## ![](_page_4_Picture_10.jpeg)
 
 Political cartoon with [Uncle Sam](https://en.wikipedia.org/wiki/Uncle_Sam) saying to the miners "I'll give you until noon Thursday to go back to your home."
 
@@ -111,7 +103,6 @@ The site was accepted and added to the NRHP list on March 30, 2009, but clerical
 
 In October 2012 a federal district judge ruled that a coalition of preservation groups did not have [standing](https://en.wikipedia.org/wiki/Standing_(law)) to [sue](https://en.wikipedia.org/wiki/Lawsuit) to protect the historic site.[\[52\]](https://en.wikipedia.org/wiki/Battle_of_Blair_Mountain#cite_note-53) On August 26, 2014, the [United States Court of Appeals for the](https://en.wikipedia.org/wiki/United_States_Court_of_Appeals_for_the_District_of_Columbia_Circuit) [District of Columbia Circuit](https://en.wikipedia.org/wiki/United_States_Court_of_Appeals_for_the_District_of_Columbia_Circuit) voted 2–1 to overturn the ruling and returned the case.[\[53\]](https://en.wikipedia.org/wiki/Battle_of_Blair_Mountain#cite_note-54)
 
-## ![](_page_5_Picture_11.jpeg)
 
 Political cartoon showing soldier with rifle trained on striking miner; standing to the right, behind the soldier, are President Harding and a mine owner. The caption reads "West Virginia: The same old line up." (1921)[\[46\]](https://en.wikipedia.org/wiki/Battle_of_Blair_Mountain#cite_note-47)
 
@@ -123,7 +114,6 @@ The Battle of Blair Mountain is related by the State of West Virginia through a 
 
 BATTLE OF BLAIR MT. In August of 1921, 7000 striking miners led by [Bill Blizzard](https://en.wikipedia.org/wiki/Bill_Blizzard) met at [Marmet](https://en.wikipedia.org/wiki/Marmet,_West_Virginia) for a march on [Logan](https://en.wikipedia.org/wiki/Logan,_West_Virginia) to organize the southern coalfields for the [UMWA.](https://en.wikipedia.org/wiki/UMWA) Reaching Blair Mt. on August 31, they were repelled by deputies and mine guards, under Sheriff [Don](https://en.wikipedia.org/wiki/Don_Chafin) [Cha](https://en.wikipedia.org/wiki/Don_Chafin)fin, waiting in fortified positions. The five day battle ended with the arrival of U. S. Army and Air Corps. UMWA organizing efforts in southern WV were halted until 1933.
 
-## ![](_page_6_Picture_6.jpeg)
 
 Armed coal miners surrendering their weapons to federal troops.
 
@@ -147,7 +137,6 @@ The marker is on [West Virginia 17,](https://en.wikipedia.org/wiki/West_Virginia
 - [Molly Maguires](https://en.wikipedia.org/wiki/Molly_Maguires)
 - [Railroad Wars](https://en.wikipedia.org/wiki/Railroad_Wars)
 
-## ![](_page_6_Picture_25.jpeg)
 
 A group of miners display one of the bombs dropped by Chafin's airplanes.
 

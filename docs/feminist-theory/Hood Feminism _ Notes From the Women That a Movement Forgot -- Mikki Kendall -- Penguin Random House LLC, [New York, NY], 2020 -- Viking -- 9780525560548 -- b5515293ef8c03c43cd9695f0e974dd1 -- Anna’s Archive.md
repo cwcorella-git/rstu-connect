@@ -1400,7 +1400,6 @@ Laurie Penny, "A Letter to my Liberal Friends," The Baffler, August 15, 2017, ht
 
 Mikki Kendall is a writer, speaker, and blogger whose work has appeared in The Washington Post, The Boston Globe, The Guardian, TIME, Salon, Ebony, Essence, and elsewhere. An accomplished public speaker, she has discussed race, feminism, violence in Chicago, tech, pop culture, and social media on NPR's Tell Me More, Al Jazeera's The Listening Post, BBC Women's Hour, Huffington Post Live, as well as at universities across the country. In 2017, she was awarded Best Food Essay from the Association of Food Journalists for her essay on hot sauce, Jim Crow, and Beyoncé. She co-edited the Locus nominated anthology Hidden Youth, and is part of the Hugo-nominated team of editors at Fireside Magazine. A veteran, she lives in Chicago with her family.
 
-## ![](_page_196_Picture_0.jpeg)
 
 # What's next on your reading list?
 

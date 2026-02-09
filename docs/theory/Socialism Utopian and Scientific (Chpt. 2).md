@@ -11,7 +11,6 @@ tags:
 
 ## Frederick Engels
 
-19-23 minutes
 
 ## Frederick Engels
 
@@ -45,7 +44,6 @@ Nature is the proof of dialectics, and it must be said for modern science that i
 
 An exact representation of the universe, of its evolution, of the development of mankind, and of the reflection of this evolution in the minds of men, can therefore only be obtained by the methods of dialectics with its constant regard to the innumerable actions and reactions of life and death, of progressive or retrogressive changes. And in this spirit, the new German philosophy has worked. Kant began his career by resolving the stable Solar system of Newton and its eternal duration, after the famous initial impulse had once been given, into the result of a historical process, the formation of the Sun and all the planets out of a rotating, nebulous mass. From this, he at the same time drew the conclusion that, given this origin of the Solar system, its future death followed of necessity. His theory, half a century later, was established mathematically by Laplace, and half a century after that, the spectroscope proved the existence in space of such incandescent masses of gas in various stages of condensation.
 
-## ![](_page_5_Picture_4.jpeg)
 
 This new German philosophy culminated in the Hegelian system.
 

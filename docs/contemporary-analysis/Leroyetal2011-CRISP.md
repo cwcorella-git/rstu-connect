@@ -1,7 +1,5 @@
 ---
-title: >-
-  Social Affiliation as a Way to Socially Regulate Emotions: Effects of Others'
-  Situational and Emotional Similarities
+title: "Social Affiliation as a Way to Socially Regulate Emotions: Effects of Others' Situational and Emotional Similarities"
 date: 1959
 category: contemporary-analysis
 tags:

@@ -11,7 +11,6 @@ tags:
 
 [nas.org](https://www.nas.org/academic-questions/36/3/did-american-police-originate-from-slave-patrols)
 
-16–20 minutes
 
 Critics of American policing often make the claim that it is a direct descendant of antebellum slave patrols, the mostly voluntary groups organized to capture runaway slaves and stifle slave rebellions in the early eighteenth century. Consider just a few examples:
 

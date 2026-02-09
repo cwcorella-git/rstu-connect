@@ -70,7 +70,6 @@ tags:
 
 ## **Dan Evans**
 
-## ![](_page_7_Picture_3.jpeg)
 
 ## Published by Repeater Books
 
@@ -106,7 +105,6 @@ This book is sold subject to the condition that it shall not, by way of trade or
 
 Printed and bound in the United Kingdom by TJ International Ltd
 
-## ![](_page_10_Picture_0.jpeg)
 
 ## **CONTENTS**
 

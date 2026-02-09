@@ -13,7 +13,7 @@ tags:
 
 ## **1985**
 
-**[An Ironic Dream of a Common Language for Women in the](#page-0-0) [Integrated Circuit](#page-0-0) [Fractured Identities](#page-5-0) [The Informatics of Domination](#page-10-0) [The 'Homework Economy' Outside 'The Home'](#page-15-0) [Women in The Integrated Circuit](#page-18-0) [Cyborgs: A Myth of Political Identity](#page-21-0) [Bibliography](#page-28-0)**
+**An Ironic Dream of a Common Language for Women in the Integrated Circuit Fractured Identities The Informatics of Domination The 'Homework Economy' Outside 'The Home' Women in The Integrated Circuit Cyborgs: A Myth of Political Identity Bibliography**
 
 # **An Ironic Dream of a Common Language for Women in the Integrated Circuit**
 

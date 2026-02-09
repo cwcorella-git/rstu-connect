@@ -134,6 +134,5 @@ Such are, in a very brief summary, the leading principles of anarchism. Each of 
 
 ## October 17, 2009
 
-## ![](_page_19_Picture_2.jpeg)
 
 Anti-Copyright. http://theanarchistlibrary.org Author: Pëtr Kropotkin Title: Anarchist Communism: Its Basis and Principles Publication date: 1927

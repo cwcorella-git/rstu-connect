@@ -8,7 +8,6 @@ tags:
   - current-events
 ---
 
-## ![](_page_0_Picture_1.jpeg)
 
 # DISCIPLINE & PUNISH
 
@@ -24,9 +23,6 @@ CLARITY OF HIS PASSIONS...
 HIS BEST BOOK.-Washington Post
 ## Book World
 
-## ![](_page_0_Picture_5.jpeg)
-
-## ![](_page_0_Picture_6.jpeg)
 
 ## , {i", r I, ' , t 3 rt r, {".. \$
 
@@ -36,7 +32,6 @@ HIS BEST BOOK.-Washington Post
 
 Michel Foucault was born in Poitiers, France, in 1926. He lectured in universities throughout the world; served as the director at the Institut Frangais in Hamburg, Germany, and at the Institute de Philosophie at the Facult6 des Lertres in the. University of Clermont-Ferrand, France; and wrote frequently for French newspapers and reviews. At the time of his death in 1984, he held a chair at France's most prestigious institution, the Colldge de France.
 
-## ![](_page_2_Picture_0.jpeg)
 
 # Michel Foucault
 
@@ -46,7 +41,6 @@ Michel Foucault was born in Poitiers, France, in 1926. He lectured in universiti
 
 ## Translated from the French by Alan Sheridan
 
-## ![](_page_3_Picture_4.jpeg)
 
 ## VINTAGE BOOKS
 
@@ -117,7 +111,6 @@ ix |
 - Steam machine for the 'celeriferous' correcrion of young boys and girls. 9
 - L'orthopidie ou I'art dc pdvenir et de corriger &ns hs cnfanu hs diformiuis du corps (Orthopaedics or the an of preventing and correcting deformities of the body in children) by N. Andry, 1749. IO
 
-## ![](_page_8_Picture_0.jpeg)
 
 #### Translator's Note
 
@@ -127,13 +120,11 @@ Another problem was posed by the French word 'supplice', which heads the first p
 
 References to other works are usually given not in footnotes but in an abbreviated form in the text itself. These references, in brackets, consist of the author's name and a page number; dates of publication are used to distinguish more than one work by an author, and roman numerals refer to volume numbers. Full references are to be found in the Bibliography.
 
-## ![](_page_10_Picture_0.jpeg)
 
 #### PART ONE
 
 ## Torture
 
-## ![](_page_12_Picture_0.jpeg)
 
 # r. The bodv of the condemned
 
@@ -343,11 +334,9 @@ Perhaps we should compare this literature with the 'disturbances around the scaf
 
 And they disappeared as a whole new literature of crime developed: a literature in which crime is glorified, because it is one of the fine arts, because it can be the work only of exceptional natures, because it reveals the monstrousness of the strong and powerful, because villainy is yet another mode of privilege: from the adventure story to de Quincey, or from the *Castle of Otranto* to Baudelaire, there is a whole aesthetic rewriting of crime, which is also the appropriation of criminality in acceptable forms. In appearance, it is the discovery of the beauty and greatness of crime; in fact, it is the affirmation that greatness too has a right to crime and that it even becomes the exclusive privilege of those who are really great. The great mgrders are not for the pedlars of petty crime. While, from Gaboriau onwards, the literature of crime follows this first shifr by his cunning, his tricks, his sharp-wittedness, the criminal represenred in this literature has made himself impervious to suspicionl and the struggle between two pure minds - the murderer and the detective will constitute the essential form of the confrontation. We are far removed indeed from those accounts of the life and misdeeds of the criminal in which he admitted his crimes, and which recounted in detail the tortures of his execution: we have moved from the exposition of'the facts or the confession to the slow process of discovery; from the execution to the investigation; from the physical confrontation to the intellectual struggle between criminhl and investigator. It was not only the broadsheets that disappeared with the birth of a literature of crime; the glory of the rustic malefactor and his sombre transformation into a hero by the process of torture and execution went with them. The man of the people was now too simple to be the protagonist of subtle truths. In this new genre, there were no more popular heroes or great executions; the criminal was wicked, of course, but he was also intelligent; and although he was punished, he did not have to suffer. The literature of crime transposes to another social class the spectacle that had surrounded the criminal. Meanwhile the newspapers took over the task of recounting the grey, unheroic details ofeveryday crim, e and punishment. The split was complete; the people was robbed of its old pride in its crimesl the great murders had become the quiet game of thb well behaved.
 
-## ![](_page_80_Picture_0.jpeg)
 
 # PART TWO Punishment
 
-## ![](_page_82_Picture_0.jpeg)
 
 # 1. Generalized punishment
 
@@ -555,13 +544,11 @@ In any case, it can be said that, in the late eighteenth century, one is confron
 
 The problem, then, is the following: how is it that, in the end, it was the third that was adoptedl How did the coercive, corporal, solitary, secret model of the power to punish replace the represenative, scenic, signifying, public, collective modell Why did the physical exercise of punishment (which is not torture) replace, with the prison that is its institutional support, the social play of the signs of punishment and the prolix festival that circulated theml
 
-## ![](_page_142_Picture_0.jpeg)
 
 # PART THREE
 
 ## Discipline
 
-## ![](_page_144_Picture_0.jpeg)
 
 #### Docile bodies
 
@@ -665,9 +652,6 @@ It may be that war as strategy is a continuation of politics. But it must not be
 
 Historians of ideas usually attribute the dream of a perfect society to the philosophers and jurists of the eighteenth century; but there was also a military dream of society; its fundamental reference was not to the state of nature, but to the meticulously subordinated cogs of a machine, not to the primal social contract, but to peflnanent coercions, not to fundamental rights, but to indefinitely progressive forms of training, not to the general will but to automatic docility. 'Discipline must be made nationalr' said Guibert. 'The state that I depict will have a simple, reliable, easily controlled administration. It will resemble those huge machines, which by quite uncomplicated means produce great efiects; the strength of this state will spring from its own strength, its prosperity from its own prosperity. Time, which destroys all, will increase its power. It will disprove that vulgar prejudice by which we are made to imagine that empires are subiected to an imperious law of decline and ruin' (Guibert, xxiii- :oriv; cf. what Marx says about the army and forms of bourgeois society in his letter to Engels, z; September fi17). The Napoleonic r6gime was not far off and with it the form of state that was to survive it and, we must not forget, the foundations of which were laid not only by jurists, but also by soldiers, not only councillors of state, but also junior officers, not only t]re men of the courts, but also the men of the camps. The Roman reference that accompanied this formation certainly bears with it this double index: citizens and legionaries, law and manoeuvres. While jurists or philosophers were seeking in the pact a primal model for the construction or reconstruction of the social body, the soldiers and with them the technicians of discipline were elaborating procedures for the individual and collective coercion ofbodies.
 
-## ![](_page_180_Picture_0.jpeg)
-
-## ![](_page_180_Picture_1.jpeg)
 
 - Medal commemorating Louis XIV's first military revue in 1668 (B. N. Cabinet des médailles). Cf. p. 188.
 - Handwriting model (Collections historiques de l'I. N. R. D. P.). Cf. p. 152.
@@ -676,28 +660,19 @@ Historians of ideas usually attribute the dream of a perfect society to the phil
 
 J. Bentham. Pfan otth! Panopticon ( fra Works of Jercmy Bentham, ed. Bowring, vol. lV. 1 843. 1 72-3). Cf. o. 201 .
 
-## ![](_page_182_Picture_0.jpeg)
 
 4 N Harou-Romain. Plan for a penitentiary, 1840 A prisoner, in his cell, kneeling at prayer before the central inspection tower. Cf. p 250.
 
-## ![](_page_183_Picture_0.jpeg)
-
-## ![](_page_183_Picture_1.jpeg)
 
 - 5 The Maison centrale at Rennes in 1877. Cf. p. 250.
 - 6 Interior of the penitentiary at Stateville, United States, twentieth century. Cf. p. 250.
 
-## ![](_page_184_Picture_0.jpeg)
-
-## ![](_page_185_Picture_0.jpeg)
 
 8 Lecture on the evils of alcoholism in the auditorium of Fresnes prison
 
-## ![](_page_186_Picture_0.jpeg)
 
 9 Steam machine for the 'celeriferous' correction of young boys and girls 'Fathers and Mothers. Uncles and Aunts, Guardian Masters and Mistresses of boarding schools and all those who have lazy, greedy, disobedient, rebellious insolent. quarrelsome, tale-bearing, chattering, irreligious children, or children having any other defect, are hereby informed that Mr Bogeyman and Mrs Bricabrac have just set up in every mairie of the city of Paris a machine similar to the one represented in this engraving and are ready to accept all naughty children in need of correction in their establishments each day, from midday to two o'clock Mr Werewolf, Coalman Scarecrow, Eat-without-Hunger and Mrs Wildcat, Spiteful Slag and Drink-without-Thirst, friends and relations of Mr Bogeyman and Mrs Bricabrac, will, for a small sum, set up similar machines to be sent into provincial towns and will themselves supervise their operation. The cheapness of correction given by the steam machine and the surprising effects that it produces will persuade parents to avail themselves of it as often as the bad behaviour of their children will require it. We also take incorrigible children as boarders, they are fed on bread and water 'Engraving of the late eighteenth century (Collections historiques de l'I. N R. D P.).
 
-## ![](_page_187_Picture_0.jpeg)
 
 10 N Andry, L'orthopédie ou l'art de prévenir et de corriger dans les enfants les difformités du corps (Orthopaedics or the art of preventing and correcting deformities of the body in children). 1749.
 
@@ -913,7 +888,6 @@ What is now imposed on penal justice as its point of application, its 'useful' o
 
 # PART FOUR Prison
 
-## ![](_page_248_Picture_0.jpeg)
 
 # 1. Complete and austere institutions
 

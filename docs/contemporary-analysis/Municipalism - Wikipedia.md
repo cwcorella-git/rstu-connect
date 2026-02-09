@@ -8,7 +8,6 @@ tags:
   - urban
 ---
 
-## ![](_page_0_Picture_2.jpeg)
 
 **Libertarian municipalism** is a [political theory](https://en.wikipedia.org/wiki/Political_theory) that developed out of the writings of American [social](https://en.wikipedia.org/wiki/Social_theorist) [theorist](https://en.wikipedia.org/wiki/Social_theorist) and philosopher [Murray Bookchin.](https://en.wikipedia.org/wiki/Murray_Bookchin) It advocates for establishing direct democratic systems within municipalities, such as towns and cities. It envisions these local communities as the foundation for an ecological society, where citizens actively manage social and economic affairs directly rather than relying on representatives. This approach encourages municipalities to join in confederations to collectively address larger regional issues, creating a network of interconnected communities focused on cooperation and mutual aid. Rooted in principles of direct democracy, decentralization, and [libertarian communalism,](https://en.wikipedia.org/wiki/Libertarian_communalism) this system is intended to serve as an alternative to centralized nation-states and corporate capitalism.
 

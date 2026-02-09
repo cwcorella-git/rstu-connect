@@ -10,7 +10,6 @@ tags:
 
 ## For Ourselves
 
-## ![](_page_0_Picture_3.jpeg)
 
 # **Contents**
 
@@ -1896,7 +1895,6 @@ It is now or never. If we are to have a future, we ourselves must be that future
 
 ### The Anarchist Library Anti-Copyright
 
-## ![](_page_86_Picture_1.jpeg)
 
 For Ourselves The Right To Be Greedy Theses On The Practical Necessity Of Demanding Everything 1974
 

@@ -10,9 +10,6 @@ tags:
 
 ## Eric Marcus
 
-16–20 minutes
-
-## ![](_page_0_Picture_6.jpeg)
 
 Sylvia Rivera, 1994. Photo by Harvey Wang for "Holding On: Dreamers, Visionaries, Eccentrics and other American Heroes,"
 
@@ -30,9 +27,6 @@ Listen to the first part of Eric Marcus's interview with Sylvia Rivera and explo
 
 In this second part, Rivera mentions being informed about the sit-in at New York University's Weinstein Hall by Bob Kohler. Click [here](https://greenwichvillagehistory.wordpress.com/2011/12/14/an-army-of-lovers-cannot-lose-the-occupation-of-nyus-weinstein-hall/) to learn more about the protest and find out more about Kohler in his Village Voice obituary [here.](https://www.villagevoice.com/2007/12/06/bob-kohler-gay-rights-pioneer-1926-2007/) After the Stonewall uprising, Kohler helped cofound the Gay Liberation Front (GLF), which you read about [here.](http://web-static.nypl.org/exhibitions/1969/liberation.html)
 
-## ![](_page_1_Picture_9.jpeg)
-
-## ![](_page_2_Picture_2.jpeg)
 
 Sylvia Rivera (third from left) and Bob Kohler (second from left) at a Gay Liberation Front (GLF)-sponsored demonstration at Bellevue Hospital, New York City, fall 1970. Credit: © Richard C. Wandel, reprinted with permission from the National History Archives of the LGBT Community Center.
 
@@ -112,7 +106,6 @@ I remember just going home and just scrubbing myself in a tub of hot waters. "Oh
 
 **SR**: Yes. It was like a god-sent thing to me. I mean, I just happened to be there when it all jumped off. I said, "Oh, well, great," I said, "Now it's my time." I said, "Here, I'm out there being a revolutionist for everybody else." I said, "Now it's time to do my thing for my own people." And I joined GAA, and that first year that we were petitioning for gay rights, on April 15, of that year…
 
-## ![](_page_6_Picture_3.jpeg)
 
 Sylvia Rivera (wearing letter "E") with Marsha P. Johnson (wearing letter "Y") and fellow Gay Liberation Front activists outside criminal court in New York City, early 1970s. Credit: © Diana Davies, courtesy of Manuscripts and Archives Division, The New York Public Library.
 
@@ -192,7 +185,6 @@ Sylvia Rivera (wearing letter "E") with Marsha P. Johnson (wearing letter "Y") a
 
 **SR**: Yeah, a half-dozen. Bebe. Bebe was part of my group at one time.
 
-## ![](_page_9_Picture_8.jpeg)
 
 Sylvia Rivera demonstrating at New York City's St. Patrick's Cathedral with the Street Transvestite Action Revolutionaries, fall 1970. Credit: © Diana Davies, courtesy of the Manuscripts and Archives Division, The New York Public Library.
 
@@ -270,9 +262,6 @@ Marsha and I fought a lot for the liberation of our people. We did a lot back th
 
 **SR**: I'd like to do a lot more for the movement, but the movement just doesn't want to deal with me.
 
-## ![](_page_13_Picture_14.jpeg)
-
-## ![](_page_14_Picture_2.jpeg)
 
 Sylvia Rivera at a gay rights demonstration, Albany, New York, 1971. Credit: © Diana Davies, courtesy of the Manuscripts and Archives Division, The New York Public Library.
 
@@ -284,7 +273,6 @@ I wish I could say that in the years after I first met Sylvia, she lived happily
 
 Sylvia eventually stopped drinking and rejoined the movement, and in 2001 even tried to re-start STAR, renaming it Street Transgender Action Revolutionaries, but she died of liver cancer a year later. Sylvia was 50 years old.
 
-## ![](_page_15_Picture_3.jpeg)
 
 Sylvia Rivera (center) with partner Julia Murray (right) and friend Christina Hayworth on the day before New York's 2000 pride parade.
 

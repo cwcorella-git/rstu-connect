@@ -7,7 +7,6 @@ tags:
   - feminism
 ---
 
-## ![](_page_0_Picture_0.jpeg)
 
 #### Journal of Contemporary Urban Affairs
 
@@ -15,13 +14,9 @@ tags:
 
 ## \* Dr. SENEM ZEYBEKOGLU O
 
-## ![](_page_0_Picture_5.jpeg)
 
 #### ABSTRACT
 
-## ![](_page_0_Picture_7.jpeg)
-
-## ![](_page_0_Picture_8.jpeg)
 
 Article history: Received 12 May 2019 Accepted 11 June 2019 Available online 24 June 2019
 
@@ -53,15 +48,6 @@ World Urbanization Prospects report of United Nations, one of the most important
 
 Associate Professor of Architecture and Urban Design at Girne American University, Cyprus Email address: senem.zeybekoglu@gmail.com
 
-## ![](_page_1_Picture_0.jpeg)
-
-## ![](_page_1_Picture_1.jpeg)
-
-## ![](_page_1_Picture_2.jpeg)
-
-## ![](_page_1_Picture_3.jpeg)
-
-## ![](_page_1_Picture_4.jpeg)
 
 Journal of Contemporary Urban Affairs 2020, Volume 4, Number 1, pages 1– 10
 
@@ -121,7 +107,6 @@ in 2014. The same report predicts that the world years. New mega-urban regions i
 28 between the years 1990 and 2014, and it is Associate Professor of Architecture and Urban Design at expected to rise up to 41 in 2030 (United Nations, Girne American University, Cyprus Department of Economic and Social Affairs, Email address: senem.zeybekoglu@gmail.com Population Division, 2015). According to the How to Cite this Article:
 
 Zeybekoglu, S. (2020). City, Urban Transformation and the Right to the City. Journal of Contemporary Urban Affairs, 4(1), 1-10.
-## ![](_page_4_Picture_5.jpeg)
 
 ## JOURNAL OF CONTEMPORARY URBAN AFFAIRS, 4(1), 1-10 / 2020
 
@@ -183,7 +168,6 @@ traded and shaped according to the market dynamics (Lefèbvre, 1996).
 
 erosion of wildlife and natural areas In today's cities, the contradiction between use surrounding these cities value and exchange value have become even more explicit. Today, main driving force behind In the following part, this paper will provide a many urban design and development projects historical analysis regarding today's urban is to attract the global capital, finance and conditions with a focus on the period starting international professional elite to cities, a target Dr. Senem Zeybekoglu 2
 
-## ![](_page_9_Picture_10.jpeg)
 
 ### JOURNAL OF CONTEMPORARY URBAN AFFAIRS, 4(1), 1-10 / 2020
 
@@ -280,7 +264,6 @@ industrial towns of England, Friedrich Engels David Harvey evaluates Haussmann's
 
 of distinction between classes being the most Haussmann's Renovation of Paris is an example distinctive characteristic of capitalism. While of the hegemony placed on the social space by talking about his observations on Manchester the abstract space. A new function assigned for city, Engels describes the contrast between the the urban space (planned abstract space) Dr. Senem Zeybekoglu 3
 
-## ![](_page_16_Picture_1.jpeg)
 
 economies of the world in 1960s gave its place contradiction is effective in the embodiment, to the service sector employment at the development and transformation of today's beginning of 1980s. However, although it had cities as well (Gotham, Shefner, and Brumley, expanded, the employment in service sector 2001).
 
@@ -362,7 +345,6 @@ managerial institutions, various cultural activities During the 1980s neoliberal
 
 examples of prestige projects first media and advertising. These services enable appeared as rehabilitation projects in coastal the capital to function and centralize on a areas within the port cities of North America, global scale by providing the opportunity for and then they became widespread all around companies to remotely control their production the world. Boston Quincy Market where old and distribution functions in other parts of the market buildings within the port area were Dr. Senem Zeybekoglu 4
 
-## ![](_page_23_Picture_6.jpeg)
 
 JOURNAL OF CONTEMPORARY URBAN AFFAIRS, 4(1), 1-10 / 2020
 
@@ -400,7 +382,6 @@ presence and use that can be summarized as How do all these developments affect 
 
 problem for those from the high-income group, Lefebvre's idea of the right to the city has been because the projects are already aimed at the source of inspiration for struggles regarding defending their interests and spreading their the access to urban public space and lifestyle. How about those staying out of the citizenship rights in many countries around the Dr. Senem Zeybekoglu 5
 
-## ![](_page_29_Picture_0.jpeg)
 
 | JOURNAL OF CONTEMPORARY URBAN AFFAIRS, 4(1), 1-10 / 2020 |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -459,7 +440,6 @@ comply with international and national human Apart from the City Statute of Braz
 
 ## Dr. Senem Zeybekoglu 6
 
-## ![](_page_34_Picture_3.jpeg)
 
 ### JOURNAL OF CONTEMPORARY URBAN AFFAIRS, 4(1), 1-10 / 2020
 
@@ -546,7 +526,6 @@ all according to their abilities, the recognition of Leadership and Urban Regene
 
 North America and Europe, (ed.) D. Judd, and Dr. Senem Zeybekoglu 7
 
-## ![](_page_40_Picture_9.jpeg)
 
 # JOURNAL OF CONTEMPORARY URBAN AFFAIRS, 4(1), 1-10 / 2020
 
@@ -662,7 +641,6 @@ w5Vku PsC&dq=Urban+Regeneration+in+Euro https://books.google.com.cy/books?id=nlY
 
 ## Dr. Senem Zeybekoglu 8
 
-## ![](_page_46_Picture_4.jpeg)
 
 ## JOURNAL OF CONTEMPORARY URBAN AFFAIRS, 4(1), 1-10 / 2020
 
