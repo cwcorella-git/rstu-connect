@@ -1,10 +1,12 @@
 ---
-title: True Learning
-date: 1968
+title: "The Underachieving School"
+author: "John Holt"
+date: 1969
 category: youth-student-organizing
 tags:
   - education
-  - theory
+  - unschooling
+  - pedagogy
 ---
 
 #### **THE UNDERACHIEVING SCHOOL**
