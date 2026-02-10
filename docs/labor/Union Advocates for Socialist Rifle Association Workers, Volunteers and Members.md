@@ -1,12 +1,15 @@
 ---
 title: "Union Advocates for Socialist Rifle Association Workers, Volunteers and Members"
-author: "Industrial Workers of the World"
+author: "Meggie Kessler"
 date: 2022
-category: contemporary-analysis
+category: labor
 tags:
-  - unions
-  - socialism
-  - labor
+  - IWW
+  - Socialist-Rifle-Association
+  - organizing
+  - Meggie-Kessler
+  - collective-bargaining
+  - labor-victory
 ---
 
 | Date: Fri, 03/04/2022 - 00:00

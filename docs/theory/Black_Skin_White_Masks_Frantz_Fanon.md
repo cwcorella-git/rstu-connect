@@ -4,10 +4,14 @@ author: "Frantz Fanon"
 date: 1952
 category: theory
 tags:
+  - Frantz-Fanon
   - colonialism
   - race
   - psychology
   - Algeria
+  - decolonization
+  - identity
+  - anti-racism
 ---
 
 ## Magh Skin While masks

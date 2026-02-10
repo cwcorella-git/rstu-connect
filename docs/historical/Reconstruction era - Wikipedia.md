@@ -1,12 +1,17 @@
 ---
-title: "Reconstruction era"
-author: "Wikipedia contributors"
-date: 1861
-category: "contemporary-analysis"
+title: "Reconstruction Era"
+author: "Wikipedia"
+date: 2024
+category: historical
 tags:
-  - analysis
-  - current-events
-  - wikipedia
+  - Reconstruction
+  - 1865-1877
+  - Civil-War
+  - Radical-Republicans
+  - freedmen
+  - Black-Codes
+  - Jim-Crow
+  - Andrew-Johnson
 ---
 
 

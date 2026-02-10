@@ -1,12 +1,18 @@
 ---
-title: "R. I. P. Taylor – Rage is our weapon"
-author: "Industrial Workers of the World"
-date: 2015
-category: "contemporary-analysis"
+title: "R.I.P. Taylor: Rage is our weapon"
+author: "Bristol Anarchist Black Cross"
+date: 2016
+category: abolition
 tags:
-  - analysis
-  - current-events
-  - libcom
+  - prison-abolition
+  - IWW
+  - IWOC
+  - trans-prisoners
+  - IPP
+  - UK-prisons
+  - suicide
+  - Bristol-ABC
+  - Taylor
 ---
 
 A statement from Bristol Anarchist Black Cross on the death of trans prisoner and IWW member Taylor. Content warning – suicide (graphic), prison, violence, self harm, abuse, homophobia, transphobia.
