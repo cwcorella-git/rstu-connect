@@ -1,12 +1,13 @@
 ---
-title: Bay Area IWW Resolution Defending the West Berkeley Shellmound
-author: "Industrial Workers of the World"
+title: "Bay Area IWW Resolution Defending the West Berkeley Shellmound"
+author: "Bay Area IWW General Membership Branch"
 date: 2017
-category: contemporary-analysis
+category: organizing
 tags:
-  - unions
-  - labor
-  - workers
+  - IWW
+  - indigenous-rights
+  - California
+  - sacred-sites
 ---
 
 ## **Source:** https://ecology.iww.org/node/2005

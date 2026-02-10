@@ -1,12 +1,14 @@
 ---
-title: "Never Dormant on Death Row: Siddique Hasan and Bomani Shakur on Ferguson & movements against po"
-author: "libcom.org"
+title: "Never Dormant on Death Row: Siddique Hasan and Bomani Shakur on Ferguson and Movements Against Police Violence"
+author: "Siddique Hasan and Bomani Shakur"
 date: 2014
 category: abolition
 tags:
-  - police
-  - technology
-  - digital rights
+  - Ferguson
+  - death-row
+  - Lucasville
+  - police-violence
+  - Black-Lives-Matter
 ---
 
 A conversation between Lucasville Uprising prisoners Bomani Shakur and Siddique Hasan about the Ferguson uprising and related anti-police violence movements, taken fromthe Lucasville Amnesty siteand formatted as a pamphlet by Sacramento Prisoner Support.

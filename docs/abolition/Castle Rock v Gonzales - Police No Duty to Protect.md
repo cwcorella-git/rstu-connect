@@ -1,10 +1,10 @@
 ---
 title: "Castle Rock v. Gonzales: Police Have No Duty to Protect"
-author: "Supreme Court of the United States"
+author: "U.S. Supreme Court"
 date: 2005
 category: abolition
 tags:
-  - police
+  - police-abolition
   - Supreme-Court
   - domestic-violence
   - DeShaney

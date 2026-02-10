@@ -1,12 +1,14 @@
 ---
-title: "How a Railway Workers Union Won New Technology That Improves Jobs and Reduces Greenhouse Gases*"
-author: "Industrial Workers of the World"
+title: "How a Railway Workers Union Won New Technology That Improves Jobs and Reduces Greenhouse Gases"
+author: "Karl (Fritz) Edler"
 date: 2016
 category: environmental-justice
 tags:
-  - unions
-  - labor
   - railroads
+  - green-unionism
+  - just-transition
+  - climate
+  - BLET
 ---
 
 ## **Source:** https://ecology.iww.org/node/1978

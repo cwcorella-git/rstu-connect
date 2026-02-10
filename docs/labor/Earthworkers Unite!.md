@@ -1,10 +1,13 @@
 ---
-title: Earthworkers Unite!
-author: "Industrial Workers of the World"
+title: "Earthworkers Unite!"
+author: "Earthworkers Unite (IWW)"
 date: 2024
-category: arts-culture-music
+category: labor
 tags:
-  - labor
+  - IWW
+  - environmental-NGO
+  - organizing
+  - unionization
 ---
 
 ## **Source:** https://ecology.iww.org/node/6209
