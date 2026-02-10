@@ -1,11 +1,17 @@
 ---
-title: 'Jobs, justice, climate: The struggle continues'
-author: "Martin Empson -"
+title: "Jobs, Justice, Climate: The Struggle Continues"
+author: "Martin Empson"
 date: 2016
 category: environmental-justice
 tags:
-  - environment
-  - climate
+  - climate-change
+  - climate-jobs
+  - trade-unions
+  - green-unionism
+  - COP21
+  - Paris-Agreement
+  - book-review
+  - Paul-Hampton
 ---
 
 ## **Source:** https://ecology.iww.org/node/1470

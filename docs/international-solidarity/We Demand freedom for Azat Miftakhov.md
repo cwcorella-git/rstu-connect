@@ -1,10 +1,18 @@
 ---
-title: We Demand freedom for Azat Miftakhov
-author: "libcom.org"
-date: 2019
-category: contemporary-analysis
+title: "We Demand Freedom for Azat Miftakhov"
+author: "Free Azat campaign"
+date: 2023
+category: international-solidarity
 tags:
-  - liberty
+  - Azat-Miftakhov
+  - Russia
+  - political-prisoners
+  - anarchism
+  - FSB
+  - repression
+  - Ukraine-war
+  - Moscow
+  - human-rights
 ---
 
 News about the condition of Azat Miftakhov a Mathematician and Anarchist political prisoner who has been in persecuted since 2019.

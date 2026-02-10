@@ -1,11 +1,18 @@
 ---
-title: Reflections For the Us Occupy Movement the Anarchist Library
-author: Peter Gelderloos
-date: '2025'
-category: theory
+title: "Reflections for the US Occupy Movement"
+author: "Peter Gelderloos"
+date: 2011
+category: organizing
 tags:
-  - occupations
-  - anarchism
+  - Peter-Gelderloos
+  - Occupy
+  - Occupy-Wall-Street
+  - Barcelona
+  - 15M
+  - Spain
+  - assemblies
+  - direct-action
+  - 2011
 ---
 
 Reﬂections for the US Occupy Movement | The Anarchis... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
