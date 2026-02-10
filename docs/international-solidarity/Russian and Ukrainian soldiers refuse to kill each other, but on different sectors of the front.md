@@ -1,10 +1,14 @@
 ---
-title: "Russian and Ukrainian soldiers refuse to kill each other, but on different sectors of the front"
+title: "Russian and Ukrainian Soldiers Refuse to Kill Each Other, But on Different Sectors of the Front"
+author: "Nihilist"
 date: 2022
 category: international-solidarity
 tags:
   - Ukraine
   - Russia
+  - war-resistance
+  - desertion
+  - anti-war
 ---
 
 ## **Source:**

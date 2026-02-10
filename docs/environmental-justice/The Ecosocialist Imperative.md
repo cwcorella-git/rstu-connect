@@ -1,10 +1,13 @@
 ---
-title: The Ecosocialist Imperative
-author: "Industrial Workers of the World"
+title: "The Ecosocialist Imperative"
+author: "Hannah Holleman"
 date: 2016
-category: contemporary-analysis
+category: environmental-justice
 tags:
-  - socialism
+  - ecosocialism
+  - environmental-racism
+  - capitalism
+  - ecological-justice
 ---
 
 | Date: Sun, 10/23/2016 - 10:58 |

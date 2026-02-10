@@ -1,14 +1,14 @@
 ---
 title: "Revolutionary Unionism or White Workerism: The Choice Facing the IWW"
-author: "Brandon & Natalia"
+author: "Brandon and Natalia"
 date: 2017
-category: labor
+category: organizing
 tags:
-  - unions
-  - labor
   - IWW
   - anti-racism
   - revolutionary-unionism
+  - white-workerism
+  - intersectionality
 ---
 
 For A Revolutionary Union Movement, General Defense Committee, Industrial

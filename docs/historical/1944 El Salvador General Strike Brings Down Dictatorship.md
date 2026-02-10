@@ -1,11 +1,14 @@
 ---
-title: 1944 El Salvador General Strike Brings Down Dictatorship
-author: Max Rennebohm
-date: '1944'
-category: labor
+title: "1944: El Salvador General Strike Brings Down Dictatorship"
+author: "Max Rennebohm"
+date: 2011
+category: historical
 tags:
-  - general strikes
-  - strikes
+  - El-Salvador
+  - general-strike
+  - dictatorship
+  - student-movement
+  - nonviolent-resistance
 ---
 
 In 1944 El Salvadoran Dictator General Maximiliano Hernández Martínez had successfully crushed several armed revolts. But a General strike eventually forced him from power.

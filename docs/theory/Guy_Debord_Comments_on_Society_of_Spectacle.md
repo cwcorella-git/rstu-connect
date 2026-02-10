@@ -1,11 +1,13 @@
 ---
 title: "Comments on the Society of the Spectacle"
 author: "Guy Debord"
-date: 1984
-category: "contemporary-analysis"
+date: 1988
+category: theory
 tags:
-  - analysis
-  - current-events
+  - Debord
+  - Situationist
+  - spectacle
+  - capitalism
 ---
 
 ## Guy Debord

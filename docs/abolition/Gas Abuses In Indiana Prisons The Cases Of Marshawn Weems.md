@@ -1,12 +1,14 @@
 ---
-title: 'Gas Abuses In Indiana Prisons: The Cases Of Marshawn Weems'
-author: "libcom.org"
+title: "Gas Abuses in Indiana Prisons: The Cases of Marshawn Weems"
+author: "Kevin 'Rashid' Johnson"
 date: 2019
-category: environmental-justice
+category: abolition
 tags:
   - prisons
-  - fossil fuels
-  - India
+  - tear-gas
+  - Indiana
+  - prison-abuse
+  - Wabash-Valley
 ---
 
 A report from Kevin "Rashid" Johnson on the use of tear gas against inmates in Indiana prisons.

@@ -1,11 +1,14 @@
 ---
-title: Socialism The Hope Of The Working Class
-author: Bill Haywood
-date: '1913'
-category: theory
+title: "Socialism: The Hope of the Working Class"
+author: "Bill Haywood"
+date: 1911
+category: historical
 tags:
-  - class
-  - theory
+  - IWW
+  - socialism
+  - class-struggle
+  - direct-action
+  - sabotage
 ---
 
 United States, sabotage, Socialist Party of America
