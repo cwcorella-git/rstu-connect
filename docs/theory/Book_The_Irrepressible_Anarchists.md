@@ -1,11 +1,14 @@
 ---
-title: Book the Irrepressible Anarchists
-author: CrimethInc.
-date: '2025'
+title: "The Irrepressible Anarchists: Federal Infiltration and Repression"
+author: "CrimethInc."
+date: 2006
 category: theory
 tags:
   - anarchism
-  - theory
+  - repression
+  - FBI
+  - security-culture
+  - CrimethInc
 ---
 
             CrimethInc.

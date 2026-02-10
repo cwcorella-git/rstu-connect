@@ -1,12 +1,16 @@
 ---
-title: Why We Need Unions Heartunions
-author: Industrial Workers of the World
-date: '2025'
+title: "Why We Need Unions"
+author: "A Green Trade Unionist in Bristol"
+date: 2016
 category: labor
 tags:
   - labor
   - unions
   - workers
+  - UK
+  - UNISON
+  - HeartUnions
+  - TUC
 ---
 
 ## By Admin -

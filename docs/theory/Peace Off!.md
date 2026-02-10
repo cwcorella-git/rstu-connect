@@ -1,10 +1,14 @@
 ---
-title: Peace Off!
-author: "libcom.org"
-category: international-solidarity
+title: "Peace Off!"
+author: "Class War Federation"
+date: 2000
+category: theory
 tags:
   - anti-war
-  - peace
+  - pacifism
+  - lifestyle-politics
+  - Class-War
+  - anti-roads
 ---
 
 ## **Source:** https://libcom.org/article/peace
