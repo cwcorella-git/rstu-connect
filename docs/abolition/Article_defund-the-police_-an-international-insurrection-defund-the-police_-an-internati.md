@@ -1,12 +1,15 @@
 ---
-title: Defund the Police an International Insurrection Defund the Police an Internati
-author: Chris Cunneen
-date: '2025'
+title: "Defund the Police: An International Insurrection"
+author: "Chris Cunneen"
+date: 2023
 category: abolition
 tags:
-  - police
-  - abolition
-  - prisons
+  - police-abolition
+  - defund-police
+  - international
+  - Black-Lives-Matter
+  - protest-movements
+  - criminal-justice
 ---
 
 An International Insurrection

@@ -1,12 +1,15 @@
 ---
-title: "Staff at Anti-Mountaintop Removal Nonprofit Coal River Mountain Watch Unionize with IWW"
-author: Industrial Workers of the World
-date: '2021'
+title: "Staff at Coal River Mountain Watch Unionize with IWW"
+author: "Maxim Baru"
+date: 2021
 category: labor
 tags:
-  - unions
-  - labor
-  - workers
+  - IWW
+  - union-organizing
+  - environmental-justice
+  - West-Virginia
+  - nonprofit-workers
+  - mountaintop-removal
 ---
 
 ## **Source:** https://ecology.iww.org/node/4412

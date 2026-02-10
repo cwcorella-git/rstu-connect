@@ -1,15 +1,15 @@
 ---
-title: "Manus, Emil aka Svensson, Emil Bernhard (1889-1935)"
-author: "libcom.org"
-date: 1945
-category: "contemporary-analysis"
+title: "Emil Manus (1889-1935): Swedish Anarcho-Syndicalist"
+author: "Nick Heath"
+date: 2010
+category: historical
 tags:
-  - nick-heath
-  - sweden
-  - sveriges-arbetares-centralorganisation
-  - anarchists
-  - biographies
-  - syndicalism
+  - biography
+  - Sweden
+  - SAC
+  - anarcho-syndicalism
+  - Emil-Manus
+  - labor-history
 ---
 
 A short biography of the Swedish anarchist Emil Manus.

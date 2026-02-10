@@ -1,10 +1,14 @@
 ---
-title: HAU Apology
-author: David Graeber
-date: '2018'
-category: contemporary-analysis
+title: "An Open Letter to My Critics Regarding HAU"
+author: "David Graeber"
+date: 2018
+category: theory
 tags:
-  - Graeber
+  - David-Graeber
+  - anthropology
+  - academic-ethics
+  - HAU-Journal
+  - controversy
 ---
 
 I would like to make a public apology to anyone who has been hurt by their involvement with HAU.

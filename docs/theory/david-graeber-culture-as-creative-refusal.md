@@ -1,10 +1,15 @@
 ---
-title: Culture as creative refusal
-author: David Graeber
-date: '2013'
-category: arts-culture-music
+title: "Culture as Creative Refusal"
+author: "David Graeber"
+date: 2013
+category: theory
 tags:
-  - Graeber
+  - David-Graeber
+  - anthropology
+  - cultural-theory
+  - resistance
+  - creativity
+  - social-theory
 ---
 
 **Notes:** What I would like to do in this essay is to talk about cultural comparison as an active force in history. That is, I want to address the degree to which cultures are not just conceptions of what the world is like, not just ways of being and acting in the world, but active political projects which often operate by the explicit rejection of other ones.
