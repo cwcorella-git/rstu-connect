@@ -1,9 +1,13 @@
 ---
-title: Whose personal is more political? Experience in contemporary feminist politics
+title: "Whose Personal is More Political? Experience in Contemporary Feminist Politics"
+author: "Alison Phipps"
 date: 2016
 category: feminist-theory
 tags:
   - feminism
+  - sex-work
+  - trans
+  - identity
 ---
 
 ## **Source:**

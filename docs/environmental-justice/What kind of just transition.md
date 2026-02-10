@@ -1,11 +1,13 @@
 ---
-title: What kind of "just transition"?
-author: "Industrial Workers of the World"
+title: "What Kind of Just Transition?"
+author: "Michael Ware / System Change Not Climate Change"
 date: 2015
-category: feminist-theory
+category: environmental-justice
 tags:
-  - just transition
-  - feminism
+  - just-transition
+  - climate-justice
+  - energy-democracy
+  - capitalism
 ---
 
 ## **Source:** https://ecology.iww.org/node/1410

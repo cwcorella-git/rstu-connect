@@ -1,12 +1,13 @@
 ---
-title: "Standpoint theory"
-author: "Wikipedia contributors"
-date: 1989
-category: "contemporary-analysis"
+title: "Standpoint Theory"
+author: "Wikipedia"
+date: 2024
+category: feminist-theory
 tags:
-  - analysis
-  - current-events
-  - wikipedia
+  - epistemology
+  - feminism
+  - Sandra-Harding
+  - knowledge
 ---
 
 ## Contributors to Wikimedia projects

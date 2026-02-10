@@ -1,10 +1,13 @@
 ---
-title: 'A Decade of Train Wrecks: What Has Gone Wrong?'
-author: "Industrial Workers of the World"
+title: "A Decade of Train Wrecks: What Has Gone Wrong?"
+author: "J.P. Wright"
 date: 2018
-category: theory
+category: labor
 tags:
-  - theory
+  - railroads
+  - safety
+  - Lac-Megantic
+  - RWU
 ---
 
 safety, crude-by-rail, Lac-Mégantic, green unionism, Railcon15, J.P.Wright

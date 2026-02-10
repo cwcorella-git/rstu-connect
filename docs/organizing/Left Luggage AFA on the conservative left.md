@@ -1,12 +1,13 @@
 ---
-title: "Left Luggage: AFA on the conservative left"
-author: "libcom.org"
+title: "Left Luggage: AFA on the Conservative Left"
+author: "Anti-Fascist Action"
 date: 1997
-category: "contemporary-analysis"
+category: organizing
 tags:
-  - class-war-federation
-  - united-kingdom
-  - socialist-workers-party-uk
+  - AFA
+  - UK
+  - SWP
+  - anti-sectarianism
 ---
 
 ## (SWP), Socialist Party

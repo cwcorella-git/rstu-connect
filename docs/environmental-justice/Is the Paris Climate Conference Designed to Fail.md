@@ -1,11 +1,13 @@
 ---
-title: Is the Paris Climate Conference Designed to Fail?
-author: "Brian Tokar -"
+title: "Is the Paris Climate Conference Designed to Fail?"
+author: "Brian Tokar"
 date: 2015
 category: environmental-justice
 tags:
-  - environment
-  - France
+  - COP21
+  - climate-negotiations
+  - Paris
+  - UNFCCC
 ---
 
 ## **Source:** https://ecology.iww.org/node/1382

@@ -1,9 +1,13 @@
 ---
-title: Language models can explain neurons in language models
+title: "Language Models Can Explain Neurons in Language Models"
+author: "Steven Bills et al. / OpenAI"
+date: 2023
 category: technology-digital-justice
 tags:
-  - technology
-  - digital rights
+  - AI
+  - interpretability
+  - GPT-4
+  - machine-learning
 ---
 
 [openaipublic.blob.core.windows.net](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html)
