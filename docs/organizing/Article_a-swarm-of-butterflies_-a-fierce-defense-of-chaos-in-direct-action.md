@@ -1,12 +1,13 @@
 ---
-title: A Swarm Of Butterflies  A Fierce Defense Of Chaos In Direct Action
-author: Unknown
-date: '2025'
-category: international-solidarity
+title: "A Swarm of Butterflies: A Fierce Defense of Chaos in Direct Action"
+author: "Curious George Brigade"
+date: 2002
+category: organizing
 tags:
-  - direct action
-  - anti-war
-  - peace
+  - direct-action
+  - tactics
+  - swarming
+  - Seattle-1999
 ---
 
             Curious George Brigade

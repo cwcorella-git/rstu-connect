@@ -1,12 +1,13 @@
 ---
-title: Federica Montseny and Spanish Anarchist Feminism - Shirley F. Fredericks
+title: "Federica Montseny and Spanish Anarchist Feminism"
 author: "Shirley F. Fredericks"
-date: 1936
+date: 1976
 category: feminist-theory
 tags:
   - anarchism
   - feminism
   - Spain
+  - CNT
 ---
 
 ## **Source:**

@@ -1,10 +1,13 @@
 ---
-title: NHJA NEW Protections for Tenants!
-date: 2025
-category: contemporary-analysis
+title: "AB 121 Fee Transparency Implementation Toolkit"
+author: "Northern Nevada Housing Justice Alliance"
+date: 2024
+category: housing
 tags:
-  - tenants
-  - housing
+  - Nevada
+  - tenant-rights
+  - legislation
+  - AB-121
 ---
 
 

@@ -1,11 +1,13 @@
 ---
-title: The romance of American Jewish anarchism - Giovanni Vimercati
-author: "libcom.org"
-date: 1980
-category: contemporary-analysis
+title: "The Romance of American Jewish Anarchism"
+author: "Giovanni Vimercati"
+date: 2021
+category: historical
 tags:
-  - anarchism
-  - theory
+  - Jewish-anarchism
+  - Freie-Arbeiter-Stimme
+  - documentary
+  - Emma-Goldman
 ---
 
 A review by Giovanni Vimercati of the 1980 documentary Free Voice of Labor: The Jewish Anarchists. Originally posted: February 16, 2021 at Vashti

@@ -1,12 +1,13 @@
 ---
-title: 'Consciousness, revolution, and the IWW - Jade Saab'
-author: "Industrial Workers of the World"
+title: "Consciousness, Revolution, and the IWW"
+author: "Jade Saab"
 date: 2023
 category: labor
 tags:
-  - unions
-  - labor
-  - workers
+  - IWW
+  - organizing
+  - consciousness
+  - critique
 ---
 
 A critique by Jade Saab, a member of the Industrial Workers of the World (IWW) in the UK, of Marianne Garneau's "Workplace Struggles Are Political", which was published by Organizing Work.

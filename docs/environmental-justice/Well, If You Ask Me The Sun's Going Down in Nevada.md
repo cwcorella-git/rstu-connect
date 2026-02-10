@@ -1,10 +1,13 @@
 ---
-title: 'Well, If You Ask Me: The Sun''s Going Down in Nevada'
+title: "Well, If You Ask Me: The Sun's Going Down in Nevada"
 author: "Dano T. Bob"
 date: 2016
-category: contemporary-analysis
+category: environmental-justice
 tags:
   - Nevada
+  - solar
+  - net-metering
+  - renewable-energy
 ---
 
 | Date: Thu, 01/28/2016 - 21:54 |

@@ -1,11 +1,13 @@
 ---
-title: Siberian punk may be imprisoned for anti-militarist agitation
-author: "libcom.org"
+title: "Siberian Punk May Be Imprisoned for Anti-Militarist Agitation"
+author: "Commons / libcom contributors"
+date: 2022
 category: abolition
 tags:
-  - prisons
-  - abolition
-  - police
+  - Russia
+  - anti-war
+  - Yakutia
+  - repression
 ---
 
 30-year-old Aikhal Ammosov is a member of the local punk rock group Crispy Newspaper. For allegedly "discrediting the Russian army" this guy is threatened with 3 years in prison. The reason for the case was that he and his girlfriend tried to hang a banner "Yakutian punk against war" in the center of Yakutsk before the visit of Prime Minister Mishustin. It was August 26, after which Ammosov was sent to a pre-trial detention center for 15 days.

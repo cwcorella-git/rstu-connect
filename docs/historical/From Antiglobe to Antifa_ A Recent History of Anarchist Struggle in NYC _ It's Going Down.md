@@ -1,11 +1,14 @@
 ---
-title: 'From Antiglobe to Antifa: A Recent History of Anarchist Struggle in NYC'
+title: "From Antiglobe to Antifa: A Recent History of Anarchist Struggle in NYC"
+author: "Anonymous NYC anarchists / It's Going Down"
 date: 2019
-category: contemporary-analysis
+category: historical
 tags:
+  - NYC
   - anarchism
-  - antifascism
-  - New York
+  - Occupy
+  - BLM
+  - antifa
 ---
 
 ## Anonymous Contributor

@@ -1,13 +1,13 @@
 ---
-title: "Smash Hits: A Discussion Bulletin For Revolutionary Ideas 3 (1998)"
-author: "libcom.org"
+title: "Smash Hits: A Discussion Bulletin for Revolutionary Ideas #3"
+author: "Bash Street Kids / Class War Federation"
 date: 1998
-category: "contemporary-analysis"
+category: theory
 tags:
-  - analysis
-  - current-events
-  - revolution
-  - libcom
+  - anarchism
+  - UK
+  - zines
+  - debate
 ---
 
 | Date: Unknown |
