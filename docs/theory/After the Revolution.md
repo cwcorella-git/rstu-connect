@@ -1,11 +1,15 @@
 ---
 title: "After the Revolution"
+author: "Anark"
 date: 2019
-category: "contemporary-analysis"
+category: theory
 tags:
-  - analysis
-  - current-events
-  - revolution
+  - anarchism
+  - post-revolution
+  - communalism
+  - democratic-confederalism
+  - organization
+  - vision
 ---
 
 ## Anark

@@ -1,12 +1,15 @@
 ---
-title: 'The French government told us a big lie, and we believed it'
-author: "Jonathan Neale -"
+title: "The French Government Told Us a Big Lie, and We Believed It"
+author: "Jonathan Neale"
 date: 2015
-category: international-solidarity
+category: environmental-justice
 tags:
+  - COP21
+  - Paris
   - France
-  - international
-  - solidarity
+  - climate-protests
+  - state-repression
+  - protests-banned
 ---
 
 ## **Source:** https://ecology.iww.org/node/1424

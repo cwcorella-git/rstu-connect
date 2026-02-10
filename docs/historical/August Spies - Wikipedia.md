@@ -1,13 +1,16 @@
 ---
 title: "August Spies"
-author: "Wikipedia contributors"
-date: 2020
-category: "historical"
+author: "Wikipedia"
+date: 2024
+category: historical
 tags:
   - Haymarket
   - anarchism
   - labor-history
   - Chicago
+  - 1887
+  - martyrs
+  - execution
 ---
 
 

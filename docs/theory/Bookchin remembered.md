@@ -1,10 +1,15 @@
 ---
-title: Bookchin remembered
-author: "libcom.org"
-date: 1921
-category: arts-culture-music
+title: "Bookchin Remembered"
+author: "Iain McKay"
+date: 2006
+category: theory
 tags:
-  - Bookchin
+  - Murray-Bookchin
+  - obituary
+  - social-ecology
+  - libertarian-municipalism
+  - anarchism
+  - legacy
 ---
 
 Iain Mackay on the huge and enduring influence that was Murray Bookchin (1921-2006)

@@ -1,11 +1,15 @@
 ---
-title: Social Fabric Clothing in a Free Society the Anarchist Library
-author: Holly Rose Baker
-date: '2025'
+title: "Social Fabric: Clothing in a Free Society"
+author: "HollyRose Baker"
+date: 2022
 category: theory
 tags:
   - anarchism
-  - theory
+  - clothing
+  - production
+  - communal-living
+  - mutual-aid
+  - fashion
 ---
 
 Social Fabric; Clothing in a Free Society | The Anarchist... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...
