@@ -1,11 +1,15 @@
 ---
-title: Winnipeg General Strike Wikipedia
-author: Prairie Struggle
-date: '2025'
-category: labor
+title: "Winnipeg General Strike (1919)"
+author: "Wikipedia"
+date: 1919
+category: historical
 tags:
-  - general strikes
-  - strikes
+  - general-strikes
+  - Canada
+  - Winnipeg
+  - 1919
+  - labor-history
+  - Canadian-Labour-Revolt
 ---
 
 Winnipeg general strike - Wikipedia https://en.wikipedia.org/wiki/Winnipeg_general_strike

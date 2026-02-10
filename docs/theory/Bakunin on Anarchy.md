@@ -1,11 +1,14 @@
 ---
-title: Bakunin On Anarchy
-author: James Guillaume
-date: '1971'
+title: "Bakunin On Anarchy"
+author: "Mikhail Bakunin / Sam Dolgoff (editor)"
+date: 1971
 category: theory
 tags:
   - anarchism
   - Bakunin
+  - Mikhail-Bakunin
+  - Sam-Dolgoff
+  - collectivism
 ---
 
 # **Sam Dolgoff (ed.)**

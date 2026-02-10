@@ -1,11 +1,14 @@
 ---
-title: 'One Million Climate Jobs: A Challenge for Canadians'
-author: "Jonathan Neale -"
+title: "One Million Climate Jobs: A Challenge for Canadians"
+author: "Jonathan Neale"
 date: 2016
 category: environmental-justice
 tags:
-  - environment
+  - climate-jobs
   - Canada
+  - just-transition
+  - green-economy
+  - Canadian-Labour-Congress
 ---
 
 ## **Source:** https://ecology.iww.org/node/1459
