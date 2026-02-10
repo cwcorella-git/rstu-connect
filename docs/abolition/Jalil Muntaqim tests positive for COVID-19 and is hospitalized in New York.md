@@ -1,11 +1,15 @@
 ---
-title: Jalil Muntaqim tests positive for COVID-19 and is hospitalized in New York
-author: "libcom.org"
-date: 1971
-category: contemporary-analysis
+title: "Jalil Muntaqim tests positive for COVID-19 and is hospitalized in New York"
+author: "San Francisco Bay View"
+date: 2020
+category: abolition
 tags:
-  - healthcare
-  - New York
+  - Jalil-Muntaqim
+  - COVID-19
+  - Black-Panther-Party
+  - Black-Liberation
+  - political-prisoners
+  - New-York
 ---
 
 An update on Jalil Muntaqim, an elderly Black Liberation prisoner and former Black Panther who has been infected with Covid-19 in prison after the New York Attorney General deliberately blocked his court-ordered release on medical/humanitarian grounds. This story was first published by the San Francisco Bay View.

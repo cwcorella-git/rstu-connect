@@ -1,13 +1,14 @@
 ---
 title: "결혼과 사랑 (Marriage and Love)"
 author: "Emma Goldman"
-date: 1870
-category: "contemporary-analysis"
+date: 1914
+category: "feminist-theory"
 tags:
-  - emma-goldman
-  - anarchist-yondae
+  - Emma-Goldman
+  - marriage
   - feminism
   - anarchism
+  - Korean-translation
 ---
 
 ## **Author:** Emma Goldman

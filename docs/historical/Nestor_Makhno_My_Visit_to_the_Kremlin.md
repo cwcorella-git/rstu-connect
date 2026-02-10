@@ -1,11 +1,14 @@
 ---
 title: "My Visit to the Kremlin"
 author: "Nestor Makhno"
-date: 1979
-category: "contemporary-analysis"
+date: 1918
+category: "historical"
 tags:
-  - analysis
-  - current-events
+  - Nestor-Makhno
+  - Russian-Revolution
+  - Lenin
+  - Ukraine
+  - anarchism
 ---
 
 ## Nestor Makhno

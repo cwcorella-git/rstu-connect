@@ -1,14 +1,15 @@
 ---
 title: "A Right Result"
-author: "libcom.org"
-date: 1991
-category: "contemporary-analysis"
+author: "Fighting Talk"
+date: 1993
+category: "abolition"
 tags:
-  - fascism
+  - anti-fascism
+  - BNP
+  - racism
+  - United-Kingdom
   - 1990s
-  - united-kingdom
-  - hertfordshire
-  - police
+  - direct-action
 ---
 
 We have devoted a relatively large amount of space in this issue of Fighting Talk. to the following account of the trial of a group of fascists, after a race attack in the village of Bungtingford, Herts. The article highlights just how much the state is prepared to let the fascists get away with and poses important questions to those who feel that reliance on the police, rather than militant action, is the key to success.

@@ -1,10 +1,15 @@
 ---
-title: Two Siberian anarchists are captured on suspicion of combative actions
-author: "libcom.org"
-category: contemporary-analysis
+title: "Two Siberian anarchists are captured on suspicion of combative actions"
+author: "Black Book of Capitalism"
+date: 2022
+category: abolition
 tags:
-  - anarchism
-  - theory
+  - Russia
+  - Ukraine-war
+  - anti-war
+  - political-prisoners
+  - repression
+  - Krasnoyarsk
 ---
 
 Bad news from Krasnoyarsk. The names of the guys are Ilya Vinogradov and Danila Ivanov, in the first photo - Ilya before his arrest.

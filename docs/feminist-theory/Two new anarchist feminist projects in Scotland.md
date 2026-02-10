@@ -1,11 +1,14 @@
 ---
-title: Two new anarchist feminist projects in Scotland
-author: "libcom.org"
+title: "Two new anarchist feminist projects in Scotland"
+author: "Anarchist Federation (Edinburgh)"
 date: 2018
 category: feminist-theory
 tags:
   - anarchism
   - feminism
+  - Scotland
+  - organizing
+  - bookfairs
 ---
 
 ## Federation

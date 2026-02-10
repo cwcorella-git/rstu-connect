@@ -1,11 +1,15 @@
 ---
-title: Regered the Sarte
-author: Homi K. Bhabha
-date: 1963
-category: arts-culture-music
+title: "The Wretched of the Earth"
+author: "Frantz Fanon"
+date: 1961
+category: theory
 tags:
-  - arts
-  - culture
+  - Frantz-Fanon
+  - anti-colonialism
+  - decolonization
+  - Algeria
+  - violence
+  - national-liberation
 ---
 
 A NEW TRANSLATION FROM THE FRENCH BY
