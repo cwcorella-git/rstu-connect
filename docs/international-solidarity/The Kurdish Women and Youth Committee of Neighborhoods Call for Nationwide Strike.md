@@ -1,12 +1,14 @@
 ---
 title: "The Kurdish Women and Youth Committee of Neighborhoods Call for Nationwide Strike"
+author: "Sanandaj Women and Youth Committee"
 date: 2022
-category: feminist-theory
+category: international-solidarity
 tags:
-  - strikes
-  - women
-  - community
+  - Iran
   - Kurdistan
+  - women
+  - general-strike
+  - Jina-Mahsa-Amini
 ---
 
 ## **Source:**

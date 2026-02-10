@@ -1,11 +1,13 @@
 ---
-title: Ecology And Revolutionary Thought Audiobook Murray Bookchin
-author: Murray Bookchin
-date: '2006'
-category: theory
+title: "Ecology and Revolutionary Thought"
+author: "Murray Bookchin"
+date: 1968
+category: environmental-justice
 tags:
-  - environment
   - Bookchin
+  - ecology
+  - social-ecology
+  - anarchism
 ---
 
 Audiobook of Murray Bookchin's Ecology and Revolutionary Thought.

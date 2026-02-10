@@ -1,10 +1,14 @@
 ---
-title: "Episode 22: Descartes Vs Hobbes/"
-date: 1994
-category: "arts-culture-music"
+title: "Awakening from the Meaning Crisis: Episode 22 - Descartes vs Hobbes"
+author: "John Vervaeke"
+date: 2019
+category: theory
 tags:
-  - arts
-  - culture
+  - philosophy
+  - Descartes
+  - Hobbes
+  - consciousness
+  - meaning-crisis
 ---
 
 Welcome back to Awakening from the Meaning Crisis. Last time we took a look at Martin Luther and the deep impact in our cultural grammar made by the Protestant Reformation, and we talked about things like cultural training for narcissism, Sapiential Obsolescence, the division of church and state which furthers secularism and the rise of the Protestant Work Ethic, and how that integrated with emergent Corporate Capitalism. We then took a look at some initial responses by Pascal to this change and the loss of the cosmos and it being replaced by "the infinite spaces that terrify". Then we looked at an individual who tried to respond to that, a brilliant genius from the heart of the scientific revolution, and that's Rene Descartes. He creates a new psycho-technology, the psycho-technology that is at the core of the scientific enterprise as understood today. And that's Cartesian graphing. And the whole proposal is that we can render everything into equations and that if we mathematically manipulate those abstract symbolic propositions, we can compute reality. And that Descartes saw in that a method for how we could achieve certainty, and that he understood the anxiety of his time as being provoked by a lack of certainty and the search for it, and this method of making the mind computational in nature would alleviate the anxiety that was prevalent at the time.

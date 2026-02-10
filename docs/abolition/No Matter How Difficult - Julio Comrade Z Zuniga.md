@@ -1,14 +1,13 @@
 ---
-title: "No Matter How Difficult - Julio \"Comrade Z\" Zuniga"
-author: "libcom.org"
-date: 1913
-category: "contemporary-analysis"
+title: "No Matter How Difficult"
+author: "Julio \"Comrade Z\" Zuniga"
+date: 2021
+category: abolition
 tags:
-  - united-states
   - prisons
-  - texas
-  - incarcerated-workers-organizing-committee
-  - julio-comrade-z
+  - IWOC
+  - Texas
+  - prison-organizing
 ---
 
 Texas anarchist prisoner and IWOC member Julio "Comrade Z" Zuniga writes on the struggle against the Texas prison system. This article was first published by Mongoose Distro.

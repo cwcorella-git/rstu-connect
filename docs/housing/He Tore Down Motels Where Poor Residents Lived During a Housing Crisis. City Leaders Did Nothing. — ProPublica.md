@@ -1,10 +1,13 @@
 ---
 title: "He Tore Down Motels Where Poor Residents Lived During a Housing Crisis. City Leaders Did Nothing."
-date: 2001
-category: contemporary-analysis
+author: "David Calvert / ProPublica"
+date: 2020
+category: housing
 tags:
-  - housing
-  - urban
+  - Reno
+  - eviction
+  - displacement
+  - affordable-housing
 ---
 
 ## David Calvert

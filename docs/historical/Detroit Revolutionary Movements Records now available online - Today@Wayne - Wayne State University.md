@@ -1,10 +1,14 @@
 ---
-title: "Today.wayne.edu"
-date: 1969
-category: labor
+title: "Detroit Revolutionary Movements Records Now Available Online"
+author: "Wayne State University"
+date: 2020
+category: historical
 tags:
-  - technology
-  - digital rights
+  - LRBW
+  - DRUM
+  - Detroit
+  - Black-Power
+  - archives
 ---
 
 ## **Detroit Revolutionary Movements Records now available online**
