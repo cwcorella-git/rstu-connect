@@ -1,12 +1,16 @@
 ---
-title: Urban Ore Ore Workers Win Union Certification Election With IWW
-author: "Comms Officer - Bay Area IWW, April 10, 2023"
+title: "Urban Ore Workers Win Union Certification Election with IWW"
+author: "Bay Area IWW"
 date: 2023
 category: labor
 tags:
-  - unions
-  - labor
-  - urban
+  - IWW
+  - union-election
+  - Berkeley
+  - salvage
+  - organizing-victory
+  - COVID-19
+  - California
 ---
 
 ## **Source:** https://ecology.iww.org/node/5565

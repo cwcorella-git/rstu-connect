@@ -1,11 +1,14 @@
 ---
 title: "Preaching to the Converted?"
-author: "libcom.org"
-category: "contemporary-analysis"
+author: "Class War Federation"
+date: 1997
+category: theory
 tags:
-  - analysis
-  - current-events
-  - libcom
+  - Class-War
+  - UK
+  - populism
+  - organizing-strategy
+  - self-critique
 ---
 
 ## **Tags:** Class War Federation, United Kingdom

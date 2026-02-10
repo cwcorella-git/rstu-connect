@@ -1,11 +1,16 @@
 ---
-title: 'Queer Anarcho Communism: An Atemporal Approach'
-author: "libcom.org"
+title: "Queer Anarcho Communism: An Atemporal Approach"
+author: "Anonymous"
 date: 2024
-category: feminist-theory
+category: theory
 tags:
-  - anarchism
-  - LGBTQ+
+  - queer-anarchism
+  - anarcho-communism
+  - Fredy-Perlman
+  - Bæden
+  - Emma-Goldman
+  - gender-abolition
+  - LGBTQ
 ---
 
 This is a collection of an essay, the Queer Anarchist Communist Manifesto, and the writings created to go along with it. The sectionsare as follows: the Queer Anarchist Communist Manifesto; page by page summary of Against His-Story, Against Leviathan by Fredy Perlman; re-writes of Emma Goldman's Mother Earthmagazine into summaries and commentary; page-by-page summary of Baeden's "Against The Gendered Nightmare" essay, from the Journal of Queer Heresy, and several more summaries andcommentaries of essays from Ian Mc Kay's Libertarian Reader volumes 1 and 2 used in thepaper.

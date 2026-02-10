@@ -1,12 +1,15 @@
 ---
-title: 'Incarceration, Justice and the Planet'
-author: "Industrial Workers of the World"
+title: "Incarceration, Justice and the Planet"
+author: "Panagioti Tsolkas"
 date: 2016
-category: contemporary-analysis
+category: abolition
 tags:
   - prisons
-  - abolition
-  - police
+  - environmental-justice
+  - Prison-Ecology-Project
+  - toxic-prisons
+  - Paul-Wright
+  - labor
 ---
 
 Prison Ecology Project, capital blight, privatization, class war prisoners By Panagioti Tsolkas - Earth First! Journal , May 5, 2016 Author's Note: This is a follow-up to another recent article entitled "What Does It Look Like to Be An Environmentalists in Prison" both of which are aimed at generating interest in the upcoming Convergence Against Toxic Prisons June 11- 13, 2016 in D. C. Prisons inspire little in terms of natural wonder. It might be a weed rises through a crack and blooms for a moment. It might be a prisoner notices. But prisoners, one could assume, must have little concern for the flowers or for otherwise pressing environmental issues. With all the social quandaries present in their lives—walls of solitude, the loss of basic human rights—pollution, climate change and healthy ecosystems must seem so distantly important: an issue for the free. In actuality, prisoners are on the frontlines of the environmental movement, one which intersects with social justice. Prisoner Jonathan Jones-Thomas found himself unexpectedly in the middle of a scandal exposing massive sewage spills into Washington State's Skykomish River by the Monroe Correctional Complex. Prisoner Bryant Arroyo ended up rallying hundreds of prisoners to join environmental groups on the outside in fighting plans for a coal gasification plant next to where he was confined. Prisoner Robert Gamez chose to speak out in the midst of an unfolding environmental justice disaster in the Arizona desert, where military waste , Superfund sites and proposed toxic copper mine waste injections ringed the solitary confinement cell he was forced to call home. And they weren't alone. When the Human Rights Defense Center (HRDC), a prisoner-led advocacy group with 25 years under its belt, announced that they were starting a "prison ecology project," letters began rolling in from incarcerated people around the country. These prisoners were witnessing the sort of conditions that many Americans who'd fall into the category of environmentalists don't expect to hear about in their own country: factory labor far below minimum wage and no safety gear; black mold infestations, contaminated water, hazardous waste, and sewage overflows; deadly risks of floods, extreme heat; and a whole host of illnesses related to living in overcrowded toxic facilities.

@@ -1,12 +1,15 @@
 ---
-title: Anarchist Morality
-author: Pyotr Kropotkin
-date: '1897'
-category: housing
+title: "Anarchist Morality"
+author: "Pyotr Kropotkin"
+date: 1897
+category: theory
 tags:
+  - Kropotkin
   - anarchism
-  - housing
-  - tenants
+  - ethics
+  - morality
+  - mutual-aid
+  - philosophy
 ---
 
 Note For *Anarchist Morality* I II III IV V VI VII VIII
