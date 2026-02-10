@@ -1,11 +1,16 @@
 ---
-title: The Soviet Union a Regime of Capitalist Development
-author: Matthew Crossin
-date: '2025'
-category: labor
+title: "The Soviet Union: A Regime of Capitalist Development"
+author: "Matthew Crossin"
+date: 2023
+category: theory
 tags:
-  - unions
-  - capitalism
+  - Soviet-Union
+  - state-capitalism
+  - Russia
+  - USSR
+  - anarchism
+  - Marxism
+  - political-economy
 ---
 
 Crossin, Soviet Union, state capitalism, Russia, USSR, anarchism, Marxism

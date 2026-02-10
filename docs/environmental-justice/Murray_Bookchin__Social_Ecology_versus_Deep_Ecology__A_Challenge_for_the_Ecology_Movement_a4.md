@@ -1,11 +1,14 @@
 ---
-title: 'Social Ecology versus Deep Ecology: A Challenge for the Ecology Movement'
+title: "Social Ecology versus Deep Ecology: A Challenge for the Ecology Movement"
 author: "Murray Bookchin"
-date: 1933
+date: 1987
 category: environmental-justice
 tags:
   - environment
   - Bookchin
+  - social-ecology
+  - deep-ecology
+  - philosophy
 ---
 
 #### **Contents**
