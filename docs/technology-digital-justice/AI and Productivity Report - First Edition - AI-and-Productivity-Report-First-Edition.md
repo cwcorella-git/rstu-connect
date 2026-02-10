@@ -1,11 +1,13 @@
 ---
-title: "Early LLM-based Tools for Enterprise Information Workers Likely Provide Meaningful Boosts to Productivity"
+title: "AI and Productivity Report - First Edition"
+author: "Alexia Cambon, Brent Hecht et al. / Microsoft Research"
 date: 2023
-category: labor
+category: technology-digital-justice
 tags:
-  - labor
-  - technology
-  - digital rights
+  - AI
+  - productivity
+  - LLMs
+  - Microsoft-Copilot
 ---
 
 A first update from Microsoft's research initiative on AI and Productivity

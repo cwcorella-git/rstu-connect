@@ -1,11 +1,13 @@
 ---
-title: "Chapter 04"
+title: "Homage to Catalonia"
 author: "George Orwell"
 date: 1938
-category: "contemporary-analysis"
+category: historical
 tags:
-  - analysis
-  - current-events
+  - Spanish-Civil-War
+  - POUM
+  - anarchism
+  - Barcelona
 ---
 
 ### **Homage to Catalonia - George Orwell**

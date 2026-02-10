@@ -1,9 +1,12 @@
 ---
-title: What I Believe
+title: "What I Believe"
+author: "Emma Goldman"
 date: 1908
-category: feminist-theory
+category: theory
 tags:
-  - Emma Goldman
+  - Emma-Goldman
+  - anarchism
+  - philosophy
   - feminism
 ---
 

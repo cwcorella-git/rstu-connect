@@ -1,12 +1,13 @@
 ---
-title: Solidarity With Anarchist Prisoners in Tangerang and Bekasi in Indonesia
-author: Wikipedia
-date: '2025'
-category: theory
+title: "Solidarity with Anarchist Prisoners in Tangerang and Bekasi in Indonesia"
+author: "Anti Feminist Feminist Club / Bandilang Itim"
+date: 2020
+category: abolition
 tags:
-  - anarchism
+  - Indonesia
+  - political-prisoners
   - solidarity
-  - prisons
+  - repression
 ---
 
 Bandilang Itim, Anti Feminist Feminist Club, prisons

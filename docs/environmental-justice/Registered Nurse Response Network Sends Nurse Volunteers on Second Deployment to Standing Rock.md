@@ -1,11 +1,13 @@
 ---
-title: "Registered Nurse Response Network Sends Nurse Volunteers on Second Deployment to Standing Rock*"
-author: "Charles Idelson -"
+title: "Registered Nurse Response Network Sends Nurse Volunteers on Second Deployment to Standing Rock"
+author: "Charles Idelson / National Nurses United"
 date: 2016
 category: environmental-justice
 tags:
-  - environment
-  - climate
+  - Standing-Rock
+  - NoDAPL
+  - solidarity
+  - healthcare
 ---
 
 ## **Source:** https://ecology.iww.org/node/1909

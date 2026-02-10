@@ -1,11 +1,13 @@
 ---
-title: 'Floods, climate change and job cuts'
-author: "Industrial Workers of the World"
+title: "Floods, Climate Change and Job Cuts"
+author: "Martin Empson / One Million Climate Jobs"
 date: 2015
 category: environmental-justice
 tags:
-  - labor
-  - environment
+  - UK
+  - flooding
+  - climate-change
+  - austerity
 ---
 
 green jobs, climate justice, just transition, COP21, climate change, green unionism, United Kingdom (UK) By Martin Empson - One Million Climate Jobs , December 28, 2015
