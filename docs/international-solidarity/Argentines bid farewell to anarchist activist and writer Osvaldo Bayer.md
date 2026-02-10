@@ -1,12 +1,17 @@
 ---
-title: Argentines bid farewell to anarchist activist and writer Osvaldo Bayer
-author: "libcom.org"
+title: "Argentines Bid Farewell to Anarchist Activist and Writer Osvaldo Bayer"
+author: "Peoples Dispatch"
 date: 2018
 category: international-solidarity
 tags:
+  - Osvaldo-Bayer
+  - Argentina
   - anarchism
-  - international
-  - solidarity
+  - obituary
+  - La-Patagonia-Rebelde
+  - human-rights
+  - indigenous-rights
+  - labor-history
 ---
 
 An obituary for Argentine anarchist writer Osvaldo Bayer.

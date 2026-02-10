@@ -1,10 +1,18 @@
 ---
-title: Book review
-date: 2007
-category: contemporary-analysis
+title: "Review of Judah Schept's 'Progressive Punishment: Job Loss, Jail Growth, and the Neoliberal Logic of Carceral Expansion'"
+author: "Jordan T Camp"
+date: 2018
+category: abolition
 tags:
-  - analysis
-  - current-events
+  - Judah-Schept
+  - prison-abolition
+  - carceral-expansion
+  - neoliberalism
+  - progressive-politics
+  - Indiana
+  - Bloomington
+  - book-review
+  - prison-industrial-complex
 ---
 
 

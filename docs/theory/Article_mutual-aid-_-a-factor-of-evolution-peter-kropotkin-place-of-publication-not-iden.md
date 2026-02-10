@@ -1,11 +1,16 @@
 ---
-title: Mutual Aid a Factor of Evolution Peter Kropotkin Place of Publication Not Iden
-author: Peter Kropotkin
-date: '2025'
-category: organizing
+title: "Mutual Aid: A Factor of Evolution"
+author: "Peter Kropotkin"
+date: 1902
+category: theory
 tags:
-  - mutual aid
-  - Kropotkin
+  - Peter-Kropotkin
+  - mutual-aid
+  - evolution
+  - cooperation
+  - anarchism
+  - social-Darwinism
+  - classical-anarchism
 ---
 
 ## M A

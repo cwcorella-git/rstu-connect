@@ -1,16 +1,19 @@
 ---
 title: "Anarcho-Syndicalism Under and Against the Nazis: An Interview with Helge Döhring"
-author: "Helge Döhring and DC"
+author: "Helge Döhring (interviewed by DC)"
 date: 2023
 category: historical
 tags:
+  - Helge-Döhring
   - Germany
-  - Nazis
+  - Nazi-Germany
   - fascism
   - anarcho-syndicalism
   - resistance
   - interview
   - 1933-1945
+  - labor-history
+  - antifascism
 ---
 
 ## **Source:**

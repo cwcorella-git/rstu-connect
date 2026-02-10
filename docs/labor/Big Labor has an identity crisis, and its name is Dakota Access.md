@@ -1,12 +1,17 @@
 ---
-title: 'Big Labor has an identity crisis, and its name is Dakota Access'
-author: "Aura Bogado -"
+title: "Big Labor Has an Identity Crisis, and Its Name is Dakota Access"
+author: "Aura Bogado"
 date: 2016
 category: labor
 tags:
-  - labor
-  - unions
-  - workers
+  - AFL-CIO
+  - Dakota-Access-Pipeline
+  - DAPL
+  - Richard-Trumka
+  - labor-environment-divide
+  - indigenous-rights
+  - green-unionism
+  - union-politics
 ---
 
 ## **Source:** https://ecology.iww.org/node/1828
