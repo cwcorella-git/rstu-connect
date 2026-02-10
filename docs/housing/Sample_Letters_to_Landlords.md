@@ -1,6 +1,6 @@
 ---
 title: "Sample Letters to Landlords"
-author: "Washington State"
+author: "Washington State Government"
 date: 2020
 category: housing
 tags:

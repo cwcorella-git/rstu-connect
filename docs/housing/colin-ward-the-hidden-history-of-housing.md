@@ -1,11 +1,14 @@
 ---
-title: The hidden history of housing
-author: Colin Ward
-date: '2004'
+title: "The Hidden History of Housing"
+author: "Colin Ward"
+date: 2004
 category: housing
 tags:
   - housing
-  - tenants
+  - self-help
+  - squatting
+  - plotlands
+  - Colin-Ward
 ---
 
 ### Executive summary

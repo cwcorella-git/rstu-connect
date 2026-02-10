@@ -1,10 +1,16 @@
 ---
-title: "Internationalism – a guide to action or an excuse for inaction? To the start of the Prague Acti"
-author: "libcom.org"
+title: "Internationalism: a guide to action or an excuse for inaction? To the start of the Prague Action Week"
+author: "Assembly (Kharkov)"
 date: 2024
-category: organizing
+category: international-solidarity
 tags:
-  - organizing
+  - Ukraine
+  - Russia
+  - Ukraine-war
+  - anti-war
+  - conscription
+  - desertion
+  - Kharkov
 ---
 
 Nine points for further discussion from the anarchist newsletter of Kharkov. In some very, very eastern geography of the country, which until 2022 many would not even find on the map.

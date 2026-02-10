@@ -1,11 +1,14 @@
 ---
-title: General Strike in South Africa
-author: Global Nonviolent Action Database
-date: '2025'
+title: "General Strike in South Africa"
+author: "GroundUp"
+date: 2018
 category: labor
 tags:
-  - general strikes
-  - strikes
+  - South-Africa
+  - general-strike
+  - SAFTU
+  - NUMSA
+  - minimum-wage
 ---
 
 South Africa, National Union of Metal Workers of South Africa, South African

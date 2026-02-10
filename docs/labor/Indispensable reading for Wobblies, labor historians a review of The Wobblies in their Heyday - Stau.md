@@ -1,11 +1,14 @@
 ---
-title: "Indispensable reading for Wobblies, labor historians: a review of The Wobblies in their Heyday"
-author: "Industrial Workers of the World"
-date: 1917
+title: "Indispensable Reading for Wobblies, Labor Historians: A Review of The Wobblies in Their Heyday"
+author: "Staughton Lynd"
+date: 2015
 category: labor
 tags:
-  - unions
-  - labor
+  - IWW
+  - labor-history
+  - book-review
+  - Eric-Chester
+  - Staughton-Lynd
 ---
 
 A review by Staughton Lynd of Eric Chester's book The Wobblies in their heyday. Originally appeared in Industrial Worker(July/August 2015).
