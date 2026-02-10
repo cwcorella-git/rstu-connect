@@ -1,11 +1,14 @@
 ---
-title: 'Wobblies and Cossacks: The 1913 great strike'
-author: "Industrial Workers of the World"
+title: "Wobblies and Cossacks: The 1913 Great Strike"
+author: "Ciaran Doolin"
 date: 2013
-category: contemporary-analysis
+category: historical
 tags:
   - strikes
-  - unions
+  - New-Zealand
+  - IWW
+  - labor-history
+  - 1913
 ---
 
 ## Doolin, PDF

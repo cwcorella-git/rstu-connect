@@ -1,9 +1,13 @@
 ---
-title: The Vernon Philosophy Of Black Media Avoidance
+title: "The Vernon Philosophy of Black Media Avoidance"
+author: "Jared Ball"
 date: 2018
 category: arts-culture-music
 tags:
-  - Black
+  - media
+  - Black-culture
+  - film
+  - representation
 ---
 
 [imixwhatilike.org](https://imixwhatilike.org/2018/12/18/vernon-philosophy/)

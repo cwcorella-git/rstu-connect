@@ -1,12 +1,13 @@
 ---
-title: In This Moment Labor Must Become a Movement
-author: Industrial Workers of the World
-date: '2025'
+title: "In This Moment, Labor Must Become a Movement"
+author: "Moshe Marvit"
+date: 2016
 category: labor
 tags:
-  - labor
+  - labor-movement
+  - organizing
+  - Trump
   - unions
-  - workers
 ---
 
 Trump, movement politics, green unionism, green syndicalism, NoDAPL, Dakota Access

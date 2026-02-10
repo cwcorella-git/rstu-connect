@@ -1,39 +1,17 @@
 ---
-title: "Washington State Labor AFL-CIO Resolutions On Mass Public Transit, Railroad Health and Safety"
-author: "Industrial Workers of the World"
+title: "Washington State Labor AFL-CIO Resolutions on Mass Public Transit, Railroad Health and Safety"
+author: "Washington State Labor Council"
 date: 2016
 category: labor
 tags:
-  - unions
-  - labor
-  - healthcare
   - railroads
+  - public-transit
+  - Washington
+  - unions
+  - health-safety
 ---
 
-| Date: Tue, 10/04/2016 - 19:17 |
-|------------------------------------------------------------------------------------------------------|
-| Source: https://ecology.iww.org/node/1842|
-| Tags: railroad workers, Washington, health and safety, green unionism, public transit |
-| By staff - |
-| |
-| Washington State Labor Council |
-| |
-| , July 27, 2016 |
-| |
-| Every year, delegates to the Washington State Labor Council convention discuss, deliberate |
-| and act on resolutions submitted by the affiliated union locals and councils. These resolutions |
-| establish policy, programs and action for the WSLC. The following were passed by delegates |
-| at the WSLC's 2016 Convention held July 19-21 at the Coast Wenatchee Hotel and
-Convention Center. |
-| |
-| The following resolutions specifically address matters of transportation workers. See the |
-| original post for a |
-| |
-| complete list of resolutions |
-| passed: |
-| |
-| RESOLUTION ON SOUND TRANSIT 3 |
-## | |
+RESOLUTION ON SOUND TRANSIT 3
 
 ## Resolution #7
 

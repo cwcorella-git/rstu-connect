@@ -1,13 +1,13 @@
 ---
-title: The Strike Paul Delesalle
-author: "libcom.org"
-date: '2025'
-category: labor
+title: "The Strike"
+author: "Paul Delesalle"
+date: 1900
+category: theory
 tags:
   - strikes
-  - labor
-  - unions
-  - workers
+  - anarcho-syndicalism
+  - general-strike
+  - class-struggle
 ---
 
 A brief text from 1900 by the French anarchosyndicalist Paul Delesalle on labor and capital, the strike, its origins, and the difference between the “partial” strike for immediate demands and the “general strike” that is the herald of the next revolution.
