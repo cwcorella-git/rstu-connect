@@ -1,10 +1,13 @@
 ---
-title: "Decentralization, deconcentration and devolution: what do they mean?1"
+title: "Decentralization, deconcentration and devolution: what do they mean?"
+author: "Elizabeth Linda Yuliani"
 date: 2004
-category: "contemporary-analysis"
+category: "theory"
 tags:
-  - analysis
-  - current-events
+  - decentralization
+  - devolution
+  - governance
+  - political-theory
 ---
 
 ## Compiled by Elizabeth Linda Yuliani2

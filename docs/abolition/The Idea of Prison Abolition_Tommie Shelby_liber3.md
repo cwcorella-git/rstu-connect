@@ -1,11 +1,13 @@
 ---
-title: The Idea Of Prison Abolition Tommie Shelby Liber3
-author: Princeton University
-date: '2022'
+title: "The Idea of Prison Abolition"
+author: "Tommie Shelby"
+date: 2022
 category: abolition
 tags:
   - prisons
   - abolition
+  - Tommie-Shelby
+  - philosophy
 ---
 
 #### CARL G. HEMPEL LECTURE SERIES

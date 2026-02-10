@@ -1,10 +1,13 @@
 ---
-title: You Are Dead!
+title: "It's Lonely at the Centre of the Earth"
+author: "Zoe Thorogood"
 date: 2022
-category: contemporary-analysis
+category: arts-culture-music
 tags:
-  - analysis
-  - current-events
+  - graphic-novel
+  - memoir
+  - mental-health
+  - Zoe-Thorogood
 ---
 
 

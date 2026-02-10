@@ -1,13 +1,14 @@
 ---
 title: "Refusing the Fascist Future: An Interview with Shane Burley"
-author: "Industrial Workers of the World"
+author: "Shane Burley"
 date: 2017
-category: "contemporary-analysis"
+category: "abolition"
 tags:
   - alt-right
   - anti-fascism
-  - shane-burley
-  - iww-general
+  - Shane-Burley
+  - IWW
+  - interview
 ---
 
 ## **Source:** https://ecology.iww.org/node/2697

@@ -1,10 +1,13 @@
 ---
-title: Sending Fascists Packing is An Act of Community Self-Defense
-author: "Industrial Workers of the World"
+title: "Sending Fascists Packing is An Act of Community Self-Defense"
+author: "Dragonfly Climate Collective, IWW Connecticut"
 date: 2017
-category: contemporary-analysis
+category: abolition
 tags:
-  - community
+  - anti-fascism
+  - IWW
+  - New-Haven
+  - community-defense
 ---
 
 Industrial Workers of the World (IWW), IWW General Defense Committee (GDC), green unionism, green syndicalism, anti-fascism By Dragonfly Climate Collective and Connecticut membership of the Industrial Workers of the World - July 18, 2017 On July 8 th 2017, suburbanite white supremacists in order to not only make a show of force, but to use it as a springboard for greater coordination, recruitment and organizing. They chose their site explicitly because it has for decades been a point of anti-racist struggle and popular power, where working class families chose the New Haven Green as a point of convergence and organizations from every race, nationality and every rung on the social ladder come to gather for cultural enrichment, political action, or simply as their only option. The Proud Boys, Identity Evropa, the American Guard and assorted racists and misogynists find New Haven's communities threatening to their genocidal worldview, and on July 8
