@@ -1,11 +1,14 @@
 ---
-title: 'George Barrett, anarchists and the Great Unrest'
-author: "libcom.org"
-date: 1910
-category: contemporary-analysis
+title: "George Barrett, Anarchists and the Great Unrest"
+author: "Iain McKay"
+date: 2023
+category: historical
 tags:
   - anarchism
-  - theory
+  - UK
+  - George-Barrett
+  - Great-Unrest
+  - Freedom-Press
 ---
 
 Freedom Press published a selection of essays by 1910s anarchist activist George Barrett,Our Masters Are Helpless, at the start of this month. Below is an edited and slightly expanded text of the launch event talk.

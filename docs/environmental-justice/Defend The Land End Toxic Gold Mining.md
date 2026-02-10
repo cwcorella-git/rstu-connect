@@ -1,12 +1,14 @@
 ---
 title: "Defend The Land: End Toxic Gold Mining"
-author: "Industrial Workers of the World"
+author: "IWW Ireland Branch"
 date: 2022
-category: "contemporary-analysis"
+category: environmental-justice
 tags:
-  - iww-wisera
-  - ireland
-  - iww-environmental-unionism
+  - IWW
+  - Ireland
+  - mining
+  - extractivism
+  - Sperrins
 ---
 
 ## **Source:** https://ecology.iww.org/node/5050

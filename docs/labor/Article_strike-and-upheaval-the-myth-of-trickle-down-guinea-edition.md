@@ -1,13 +1,14 @@
 ---
-title: Strike And Upheaval The Myth Of Trickle Down Guinea Edition
-author: "libcom.org"
-date: '2025'
+title: "Strike and Upheaval: The Myth of Trickle Down, Guinea Edition"
+author: "Joschka Philipps"
+date: 2017
 category: labor
 tags:
-  - strikes
-  - labor
-  - unions
-  - workers
+  - Guinea
+  - general-strike
+  - teachers
+  - education
+  - Africa
 ---
 
 Joschka Philipps on the recent teachers' strike and student/youth street protests in Guinea, which broke the mold of prior protests in the country in several different ways.

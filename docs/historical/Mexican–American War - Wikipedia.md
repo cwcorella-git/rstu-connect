@@ -1,13 +1,13 @@
 ---
 title: "Mexican–American War"
-author: "Wikipedia contributors"
-date: 2020
+author: "Wikipedia"
+date: 2024
 category: historical
 tags:
-  - war
   - Mexico
-  - imperialism
+  - US-imperialism
   - 19th-century
+  - territorial-expansion
 ---
 
 

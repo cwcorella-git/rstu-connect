@@ -1,11 +1,14 @@
 ---
-title: 'Suds and Socialism Forum: Workers and the Environment'
-author: "Industrial Workers of the World"
+title: "Suds and Socialism Forum: Workers and the Environment"
+author: "Oakland Greens"
 date: 2021
 category: environmental-justice
 tags:
-  - labor
-  - environment
+  - IWW
+  - green-syndicalism
+  - just-transition
+  - ecosocialism
+  - panel
 ---
 
 | Date: Sat, 05/08/2021 - 00:00 |
