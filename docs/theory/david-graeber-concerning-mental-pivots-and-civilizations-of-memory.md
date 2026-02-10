@@ -1,10 +1,15 @@
 ---
-title: Concerning mental pivots and civilizations of memory
-author: David Graeber
-date: '2015'
-category: contemporary-analysis
+title: "Concerning Mental Pivots and Civilizations of Memory"
+author: "David Graeber"
+date: 2015
+category: theory
 tags:
-  - Graeber
+  - David-Graeber
+  - anthropology
+  - cognitive-science
+  - memory
+  - Carlo-Severi
+  - Aby-Warburg
 ---
 
 >

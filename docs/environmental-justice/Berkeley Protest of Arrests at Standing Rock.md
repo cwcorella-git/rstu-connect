@@ -1,12 +1,15 @@
 ---
-title: Berkeley Protest of Arrests at Standing Rock
-author: "Industrial Workers of the World"
+title: "Berkeley Protest of Arrests at Standing Rock"
+author: "John Reimann"
 date: 2016
 category: environmental-justice
 tags:
   - protests
-  - environment
-  - climate
+  - Standing-Rock
+  - Dakota-Access-Pipeline
+  - IWW
+  - Berkeley
+  - indigenous-solidarity
 ---
 
 | Source: https://ecology.iww.org/node/1886|

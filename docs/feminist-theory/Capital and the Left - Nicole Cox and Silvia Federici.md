@@ -1,10 +1,15 @@
 ---
-title: Capital and the Left - Nicole Cox and Silvia Federici
-author: "libcom.org"
+title: "Counter-Planning from the Kitchen: Wages for Housework, A Perspective on Capital and the Left"
+author: "Nicole Cox and Silvia Federici"
 date: 1975
-category: contemporary-analysis
+category: feminist-theory
 tags:
   - capitalism
+  - Wages-for-Housework
+  - domestic-labor
+  - Silvia-Federici
+  - Nicole-Cox
+  - reproductive-labor
 ---
 
 Against the pro-work left. Published by Falling Wall Press, 1975.

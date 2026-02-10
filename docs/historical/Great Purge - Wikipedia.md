@@ -1,12 +1,16 @@
 ---
 title: "Great Purge"
-author: "Wikipedia contributors"
-date: 1936
-category: "contemporary-analysis"
+author: "Wikipedia"
+date: 1938
+category: historical
 tags:
-  - analysis
-  - current-events
-  - wikipedia
+  - Soviet-Union
+  - Stalin
+  - purges
+  - NKVD
+  - Great-Terror
+  - 1936-1938
+  - totalitarianism
 ---
 
 

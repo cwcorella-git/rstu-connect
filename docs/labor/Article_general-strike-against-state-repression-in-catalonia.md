@@ -1,11 +1,16 @@
 ---
-title: General Strike Against State Repression in Catalonia
-author: Global Nonviolent Action Database
-date: '2025'
+title: "General Strike Against State Repression in Catalonia"
+author: "libcom.org"
+date: 2017
 category: labor
 tags:
-  - general strikes
-  - strikes
+  - general-strikes
+  - Catalonia
+  - Spain
+  - CNT
+  - anarcho-syndicalism
+  - independence-referendum
+  - police-repression
 ---
 
 Workers in Catalonia have launched a general strike today in response to the brutal police repression following Sunday's Catalan independence referendum.
