@@ -1,10 +1,13 @@
 ---
-title: Alienation
-author: David Graeber
-date: '2005'
-category: contemporary-analysis
+title: "Alienation"
+author: "David Graeber"
+date: 2005
+category: theory
 tags:
-  - Graeber
+  - alienation
+  - capitalism
+  - Marx
+  - philosophy
 ---
 
 The notion of alienation is a very unusual one because it is at once an attempt to explain a widespread feeling—a very subjective, somewhat indefinable feeling—and a critique of the nature of any society that regularly produces it.

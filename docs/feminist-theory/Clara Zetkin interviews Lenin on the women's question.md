@@ -1,11 +1,13 @@
 ---
-title: Clara Zetkin interviews Lenin on the women's question
-author: "libcom.org"
+title: "Clara Zetkin Interviews Lenin on the Women's Question"
+author: "Clara Zetkin"
 date: 1920
 category: feminist-theory
 tags:
   - women
   - feminism
+  - Lenin
+  - Bolshevism
 ---
 
 Clara Zetkin's account of her 1920 discussions with Lenin on the Women's question. The interview is notable, for while Lenin supports women's involvement in the communist party, he also dismisses sex worker organising, and calls discussion of 'the sex question' bourgeois an early example of the attempts to subsume specific concerns for party building.

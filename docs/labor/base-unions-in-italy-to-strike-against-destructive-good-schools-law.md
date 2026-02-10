@@ -1,12 +1,13 @@
 ---
-title: Base Unions in Italy To Strike Against Destructive "Good Schools" Law
+title: "Base Unions in Italy To Strike Against Destructive 'Good Schools' Law"
+author: "Patrizia / Umanita Nova"
+date: 2016
 category: labor
-author: Base Unions In
-date: '2025'
 tags:
   - strikes
   - education
   - Italy
+  - base-unions
 ---
 
 A nationwide strike called by base unions against implementation ofLaw 107, better known as the “good school” law, is set to happen tomorrow, Friday 17th, writes Patrizia of Umanita Nova.

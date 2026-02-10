@@ -1,16 +1,16 @@
 ---
-title: "Our world is dying. Or more accurately, it is being killed."
-author:
-date: 1970
-category: "contemporary-analysis"
+title: "How Degrowth Can Save The World"
+author: "Saint Andrewism"
+date: 2023
+category: economic-alternatives
 tags:
-  - analysis
-  - current-events
+  - degrowth
+  - capitalism
+  - ecology
+  - climate-change
 ---
 
 Our world is dying. Or more accurately, it is being killed.
-
-## 0:07
 
 Fish populations and marine ecosystems are collapsing rapidly as the consequences of
 

@@ -1,10 +1,13 @@
 ---
-title: Itsok Tobe Angry Abount
-author: BERNIE SANDERS
-date: 2021
-category: contemporary-analysis
+title: "It's OK to Be Angry About Capitalism"
+author: "Bernie Sanders with John Nichols"
+date: 2023
+category: economic-alternatives
 tags:
   - capitalism
+  - socialism
+  - Democratic-Socialists
+  - inequality
 ---
 
 # CAPITALISM

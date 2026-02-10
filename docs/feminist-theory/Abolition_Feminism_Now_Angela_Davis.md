@@ -1,11 +1,13 @@
 ---
-title: Abolition. Feminism. Now.
-author: Abolition Feminism
-date: 1977
+title: "Abolition. Feminism. Now."
+author: "Angela Y. Davis, Gina Dent, Erica R. Meiners, Beth E. Richie"
+date: 2022
 category: feminist-theory
 tags:
   - feminism
   - abolition
+  - Angela-Davis
+  - prison-abolition
 ---
 
 Angela Y. Davis
