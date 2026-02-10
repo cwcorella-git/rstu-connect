@@ -1,12 +1,17 @@
 ---
-title: "Industrial suicide: understanding the 1924 split of the Industrial Workers of the World - Cameron Molyneux"
-author: "Industrial Workers of the World"
-date: 1917
+title: "Industrial Suicide: Understanding the 1924 Split of the Industrial Workers of the World"
+author: "Cameron Molyneux"
+date: 2015
 category: labor
 tags:
-  - labor
-  - unions
-  - workers
+  - IWW
+  - 1924
+  - split
+  - Cameron-Molyneux
+  - internal-conflict
+  - organizational-decline
+  - labor-history
+  - syndicalism
 ---
 
 A paper by Cameron Molyneux that blames infighting over Communism, organizational structure and strategies to deal with imprisoned members as the causes for the 1924 split, and subsequent decline, of the Industrial Workers of the World (IWW).

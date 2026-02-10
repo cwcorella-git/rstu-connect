@@ -2,10 +2,16 @@
 title: "The Checklist to End Tyranny"
 author: "Peter Ackerman"
 date: 2021
-category: "contemporary-analysis"
+category: organizing
 tags:
-  - analysis
-  - current-events
+  - nonviolence
+  - civil-resistance
+  - Peter-Ackerman
+  - strategy
+  - Sudan
+  - organizing
+  - tactics
+  - dissidents
 ---
 
 

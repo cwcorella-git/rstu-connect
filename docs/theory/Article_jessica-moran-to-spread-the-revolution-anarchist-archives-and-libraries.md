@@ -1,11 +1,17 @@
 ---
-title: Jessica Moran To Spread the Revolution Anarchist Archives and Libraries
-author: Jessica Moran
-date: '2025'
+title: "To Spread the Revolution: Anarchist Archives and Libraries"
+author: "Jessica Moran"
+date: 2016
 category: theory
 tags:
   - anarchism
-  - theory
+  - archives
+  - libraries
+  - Jessica-Moran
+  - Kate-Sharpley-Library
+  - community-archives
+  - preservation
+  - history
 ---
 
 o Spread the Revolution: Anarcist Arcives

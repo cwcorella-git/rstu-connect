@@ -1,10 +1,17 @@
 ---
-title: What is open source AI?
+title: "What is Open Source AI?"
+author: "GitHub"
 date: 2024
 category: technology-digital-justice
 tags:
+  - AI
+  - open-source
+  - machine-learning
+  - TensorFlow
+  - PyTorch
+  - Hugging-Face
+  - GitHub
   - technology
-  - digital rights
 ---
 
 ## Git Hub

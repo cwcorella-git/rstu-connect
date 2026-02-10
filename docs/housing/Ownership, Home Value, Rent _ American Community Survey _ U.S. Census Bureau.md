@@ -1,13 +1,16 @@
 ---
-title: 'Ownership, Home Value, Rent American Community Survey U.S. Census Bureau'
-author: Housing Advocacy Organization
-date: '2025'
+title: "Ownership, Home Value, Rent: American Community Survey"
+author: "U.S. Census Bureau"
+date: 2024
 category: housing
 tags:
   - housing
-  - tenants-rights
+  - Census
+  - American-Community-Survey
   - rent
-  - community
+  - home-ownership
+  - housing-data
+  - statistics
 ---
 
 An oﬃcial website of the United States government Here’s how you know
