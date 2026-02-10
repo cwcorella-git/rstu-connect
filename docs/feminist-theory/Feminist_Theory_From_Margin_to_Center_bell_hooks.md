@@ -1,10 +1,15 @@
 ---
-title: FEMINIST THEORY from margin to center bell hooks south end press
-author: "Feminist Theory"
+title: "Feminist Theory: From Margin to Center"
+author: "bell hooks"
 date: 1984
 category: feminist-theory
 tags:
+  - bell-hooks
   - feminism
+  - Black-feminism
+  - race
+  - class
+  - intersectionality
 ---
 
 ### Copyright © 1984 by bell hooks

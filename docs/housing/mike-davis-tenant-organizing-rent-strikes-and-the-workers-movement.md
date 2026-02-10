@@ -1,13 +1,17 @@
 ---
-title: "Mike-davis-tenant-organizing-rent-strikes-and-the-workers-movement"
-author: Housing Question
-date: '1872'
-category: labor
+title: "Tenant Organizing, Rent Strikes and the Workers Movement"
+author: "Mike Davis"
+date: 2018
+category: housing
 tags:
-  - tenants
-  - organizing
+  - rent-strikes
+  - tenant-organizing
+  - New-York
+  - Glasgow
+  - Barcelona
+  - Buenos-Aires
   - housing
-  - labor
+  - labor-history
 ---
 
 ## Content

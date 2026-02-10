@@ -1,11 +1,15 @@
 ---
-title: 'Death of a paper tiger: reflections on Class War'
-author: "Class War Federation"
-date: 1885
-category: international-solidarity
+title: "Death of a Paper Tiger: Reflections on Class War"
+author: "Subversion"
+date: 1997
+category: theory
 tags:
-  - anti-war
-  - class
+  - Class-War
+  - UK
+  - critique
+  - populism
+  - anarchism
+  - organizationalism
 ---
 
 Class War's attempt to break out of the anarchist ghetto, which had been dominated by eccentrics and liberal pacifists, has had a profound impact on many anarchists and revolutionaries. In this issue's Intakes we have a piece written in response to the disbanding of Class War which looks at the fundamental problems of Class War's populist approach.

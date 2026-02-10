@@ -1,11 +1,15 @@
 ---
-title: Workers' Councils
-date: 1944
-category: contemporary-analysis
+title: "Workers' Councils"
+author: "Anton Pannekoek"
+date: 1947
+category: theory
 tags:
+  - council-communism
+  - Pannekoek
+  - workers-councils
+  - socialism
+  - self-management
   - labor
-  - unions
-  - workers
 ---
 
 #### **Anton Pannekoek**

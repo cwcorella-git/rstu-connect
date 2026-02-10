@@ -1,11 +1,16 @@
 ---
-title: 'The Haymarket Martyrs: The Anarchist Library'
-author: Lucy E
-date: '1926'
-category: theory
+title: "The Haymarket Martyrs"
+author: "Lucy E. Parsons"
+date: 1926
+category: historical
 tags:
+  - Haymarket
+  - Lucy-Parsons
+  - Chicago
+  - 1886
   - anarchism
-  - theory
+  - labor-history
+  - class-struggle
 ---
 
            Title: The Haymarket Martyrs

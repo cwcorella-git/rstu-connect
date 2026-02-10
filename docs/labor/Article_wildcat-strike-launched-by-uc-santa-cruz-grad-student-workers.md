@@ -1,12 +1,16 @@
 ---
-title: Wildcat Strike Launched By Uc Santa Cruz Grad Student Workers
-author: Black Rose
-date: '2025'
+title: "Wildcat Strike Launched by UC Santa Cruz Grad Student Workers"
+author: "C.A."
+date: 2020
 category: labor
 tags:
-  - strikes
-  - labor
-  - education
+  - wildcat-strike
+  - UAW
+  - graduate-students
+  - Santa-Cruz
+  - housing-crisis
+  - COLA
+  - university
 ---
 
 States, education, California, United Auto Workers (UAW), universities, housing, University of California, Black Rose Anarchist Federation
