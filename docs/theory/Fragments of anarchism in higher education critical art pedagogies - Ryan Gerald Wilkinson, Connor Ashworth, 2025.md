@@ -1,10 +1,16 @@
 ---
-title: Fragments of anarchism in higher education critical art pedagogies
-date: 2006
-category: arts-culture-music
+title: "Fragments of Anarchism in Higher Education: Critical Art Pedagogies"
+author: "Connor Ashworth"
+date: 2024
+category: theory
 tags:
   - anarchism
   - education
+  - higher-education
+  - neoliberalism
+  - pedagogy
+  - UK
+  - art-education
 ---
 
 #### [journals.sagepub.com](https://journals.sagepub.com/doi/full/10.1177/14740222241313303)

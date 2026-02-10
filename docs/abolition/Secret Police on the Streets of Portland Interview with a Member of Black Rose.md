@@ -1,12 +1,16 @@
 ---
-title: Secret Police On The Streets Of Portland Interview With A Member Of
-author: Black Rose Anarchist Federation
-date: '2020'
+title: "Secret Police on the Streets of Portland: Interview with a Member of Black Rose"
+author: "Black Rose Anarchist Federation"
+date: 2020
 category: abolition
 tags:
   - police
   - abolition
-  - prisons
+  - Portland
+  - George-Floyd-uprising
+  - federal-police
+  - Trump
+  - Oregon
 ---
 
 ## Oregon, police, George Floyd protests

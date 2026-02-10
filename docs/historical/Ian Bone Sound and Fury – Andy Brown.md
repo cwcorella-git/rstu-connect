@@ -1,16 +1,16 @@
 ---
-title: "Ian Bone: Sound and Fury – Andy Brown"
-author: "libcom.org"
-date: 1962
-category: "contemporary-analysis"
+title: "Ian Bone: Sound and Fury"
+author: "Andy Brown"
+date: 1986
+category: historical
 tags:
-  - andy-brown
-  - solidarity
-  - class-war-federation
+  - interview
+  - Ian-Bone
+  - Class-War
+  - UK
   - 1980s
-  - united-kingdom
-  - interviews
-  - ian-bone
+  - Swansea-Solidarity
+  - anarchism
 ---
 
 Today Ian Bone is a leading activist of Class War, the group he helped to found. But surprisingly, or not, he was once a member of Swansea Solidarity. Andy Brown gets the man the 'Sunday People' says has "a degree in sociology... and a heart overflowing with hate" to tell the story of what happened in between.
