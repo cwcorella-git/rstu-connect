@@ -1,10 +1,13 @@
 ---
-title: 'Wayward Notes on Feminism: A little bit of backwardness? - Stuart Wise'
-author: "libcom.org"
-date: 2007
+title: "Wayward Notes on Feminism: A Little Bit of Backwardness?"
+author: "Stuart Wise"
+date: 2019
 category: feminist-theory
 tags:
   - feminism
+  - Surrealism
+  - Annie-Le-Brun
+  - Rimbaud
 ---
 
 On French surrealist writer and poet Annie Le Brun, via some recent books, Blake, De Sade and Engels. Originally published on the Revolt Against Plenty site.

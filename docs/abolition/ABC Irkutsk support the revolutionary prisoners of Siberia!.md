@@ -1,10 +1,13 @@
 ---
-title: 'ABC Irkutsk: support the revolutionary prisoners of Siberia!'
-author: "libcom.org"
-category: theory
+title: "ABC Irkutsk: Support the Revolutionary Prisoners of Siberia!"
+author: "Anarchist Black Cross - Irkutsk"
+date: 2023
+category: abolition
 tags:
-  - prisons
-  - theory
+  - ABC
+  - Russia
+  - political-prisoners
+  - anti-war
 ---
 
 Just spreading what the Irkutsk Anarchist Black Cross tells about their activity.

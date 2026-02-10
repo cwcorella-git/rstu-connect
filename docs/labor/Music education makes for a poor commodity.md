@@ -1,10 +1,13 @@
 ---
-title: Music education makes for a poor commodity
-author: "libcom.org"
-date: 2009
-category: arts-culture-music
+title: "Music Education Makes for a Poor Commodity"
+author: "Lesley McAllister"
+date: 2018
+category: labor
 tags:
   - education
+  - commodification
+  - privatization
+  - teaching
 ---
 
 The privatization of music education has turned it into a commodity, and with students becoming increasingly addicted to instant stimulation and gratification, a pretty bad one

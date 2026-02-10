@@ -1,11 +1,13 @@
 ---
-title: "Ecology.iww.org"
-author: "Industrial Workers of the World"
-date: 2025
-category: organizing
+title: "Strategy and Tactics for a General Strike"
+author: "IWW Environmental Unionism Caucus"
+date: 2021
+category: labor
 tags:
-  - unions
-  - environment
+  - general-strike
+  - strategy
+  - organizing
+  - IWW
 ---
 
 

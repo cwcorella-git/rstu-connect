@@ -1,11 +1,13 @@
 ---
-title: James C. Scott
-author: "Class War Federation"
+title: "Weapons of the Weak: Everyday Forms of Peasant Resistance"
+author: "James C. Scott"
 date: 1985
-category: international-solidarity
+category: theory
 tags:
-  - anti-war
-  - peace
+  - peasant-resistance
+  - everyday-resistance
+  - Malaysia
+  - anthropology
 ---
 
 # **Weapons of the Weak**

@@ -1,11 +1,13 @@
 ---
-title: Attica Prison riot
-author: "Wikipedia contributors"
-date: 1971
-category: contemporary-analysis
+title: "Attica Prison Uprising"
+author: "Wikipedia"
+date: 2024
+category: abolition
 tags:
-  - riots
+  - Attica
   - prisons
+  - uprising
+  - 1971
 ---
 
 

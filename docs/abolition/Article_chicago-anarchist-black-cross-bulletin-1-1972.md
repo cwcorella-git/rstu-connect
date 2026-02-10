@@ -1,10 +1,12 @@
 ---
-title: Chicago Anarchist Black Cross Bulletin 1 1972
-author: Anarchist Black Cross
-date: '2025'
-category: theory
+title: "Chicago Anarchist Black Cross Bulletin #1"
+author: "Anarchist Black Cross - Chicago"
+date: 1972
+category: abolition
 tags:
-  - anarchism
+  - ABC
+  - political-prisoners
+  - solidarity
   - Chicago
 ---
 
