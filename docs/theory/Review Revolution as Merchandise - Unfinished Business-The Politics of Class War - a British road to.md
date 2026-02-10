@@ -1,12 +1,15 @@
 ---
-title: "Review: Revolution as Merchandise - \"Unfinished Business-The Politics of Class War\" - a British"
-author: "Class War Federation"
+title: "Review: Unfinished Business - The Politics of Class War"
+author: "Nat Turner"
 date: 1992
-category: international-solidarity
+category: theory
 tags:
-  - anti-war
-  - class
-  - United Kingdom
+  - Class-War
+  - UK
+  - book-review
+  - autonomism
+  - identity-politics
+  - 1980s
 ---
 
 -british-road-anarchism

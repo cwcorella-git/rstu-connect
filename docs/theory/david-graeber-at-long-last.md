@@ -1,10 +1,14 @@
 ---
-title: At long last
-author: David Graeber
-date: '2017'
-category: contemporary-analysis
+title: "At Long Last: Foreword to The Fire of the Jaguar"
+author: "David Graeber"
+date: 2017
+category: theory
 tags:
   - Graeber
+  - Terence-Turner
+  - anthropology
+  - structuralism
+  - academia
 ---
 
 For anyone in the Chicago anthropology department in the 1970s,’80s, and ’90s, *The fire of the jaguar* holds a legendary status. I mean this in the almost literal sense: it was wondrous; it had strange and awesome powers; no one was entirely sure if it really existed. Terry refused to publish it. Or even to show it around. Yet the very fact of its hiddenness made it a kind of talisman of secret potency.

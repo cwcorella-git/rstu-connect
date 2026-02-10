@@ -1,11 +1,15 @@
 ---
-title: San Diego Labor Opposes Dakota Access Pipeline
-author: "Jim Miller -"
+title: "San Diego Labor Opposes Dakota Access Pipeline"
+author: "Jim Miller"
 date: 2016
-category: labor
+category: environmental-justice
 tags:
-  - labor
-  - fossil fuels
+  - DAPL
+  - Standing-Rock
+  - labor-movement
+  - AFL-CIO
+  - climate-justice
+  - Indigenous
 ---
 
 ## **Source:** https://ecology.iww.org/node/1982

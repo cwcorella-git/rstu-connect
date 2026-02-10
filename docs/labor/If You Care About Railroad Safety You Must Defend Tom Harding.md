@@ -1,12 +1,15 @@
 ---
-title: If You Care About Railroad Safety You Must Defend Tom Harding
-author: "Industrial Workers of the World"
+title: "If You Care About Railroad Safety You Must Defend Tom Harding"
+author: "Railroad Workers United"
 date: 2016
-category: abolition
+category: labor
 tags:
   - railroads
-  - technology
-  - digital rights
+  - Lac-Mégantic
+  - workplace-safety
+  - criminalization
+  - Canada
+  - labor-rights
 ---
 
 ## **Source:** https://ecology.iww.org/node/1542

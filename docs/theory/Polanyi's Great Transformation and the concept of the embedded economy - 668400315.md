@@ -1,9 +1,14 @@
 ---
-title: Polanyi' s Great Transformation and the Concept of the Embedded Economy
+title: "Polanyi's Great Transformation and the Concept of the Embedded Economy"
+author: "Matěj Vančura"
 date: 2011
-category: feminist-theory
+category: theory
 tags:
-  - feminism
+  - Karl-Polanyi
+  - embedded-economy
+  - political-economy
+  - markets
+  - Great-Transformation
 ---
 
 

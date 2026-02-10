@@ -1,10 +1,14 @@
 ---
-title: "Cayden Mak"
+title: "Building Online Power"
+author: "Cayden Mak"
 date: 2022
-category: "contemporary-analysis"
+category: organizing
 tags:
-  - analysis
-  - current-events
+  - digital-organizing
+  - online-strategy
+  - movement-building
+  - technology
+  - principles
 ---
 
 # **Building Online Power**

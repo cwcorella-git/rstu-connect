@@ -1,11 +1,16 @@
 ---
-title: Haymarket affair
-author: "Wikipedia contributors"
-date: 1886
-category: abolition
+title: "Haymarket Affair"
+author: "Wikipedia"
+date: 2024
+category: historical
 tags:
-  - technology
-  - digital rights
+  - Haymarket
+  - Chicago
+  - 1886
+  - eight-hour-day
+  - anarchism
+  - labor-history
+  - martyrs
 ---
 
 ## Contributors to Wikimedia projects
