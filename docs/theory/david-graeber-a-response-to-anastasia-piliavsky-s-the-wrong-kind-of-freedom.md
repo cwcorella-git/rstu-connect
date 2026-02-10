@@ -1,11 +1,15 @@
 ---
-title: A Response to Anastasia Piliavsky’s The Wrong Kind of Freedom?
-author: David Graeber
-date: 13 January 2017
-category: international-solidarity
+title: "A Response to Anastasia Piliavsky's The Wrong Kind of Freedom?"
+author: "David Graeber"
+date: 2017
+category: theory
 tags:
   - liberty
   - Graeber
+  - bureaucracy
+  - anarchism
+  - book-review
+  - Utopia-of-Rules
 ---
 
 I’ve been asked to respond to the review of *Utopia of Rules* by Anastasia Piliavsky, but I must confess I find myself rather at a loss for how to do so.

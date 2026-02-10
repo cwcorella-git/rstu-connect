@@ -1,11 +1,15 @@
 ---
-title: '1907: Iranian General Strike'
-author: "libcom.org"
-date: 1906
-category: feminist-theory
+title: "1907 Iranian General Strike"
+author: "Unknown"
+date: 1907
+category: historical
 tags:
-  - general strikes
+  - general-strikes
   - strikes
+  - Iran
+  - Constitutional-Revolution
+  - labor-history
+  - 1907
 ---
 
 During the instability of the Constitutional Revolution of 1907 Iranian workers launched a series of strikes to achieve reforms, particularly land redistribution, the right to strike and an 8 hour day.

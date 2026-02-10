@@ -1,12 +1,15 @@
 ---
-title: Report on Oil Train Response 2015 Crude Awakening Network Founding Conference
-author: "Fritz Edler -"
+title: "Report on Oil Train Response 2015 Crude Awakening Network Founding Conference"
+author: "Fritz Edler (Railroad Workers United)"
 date: 2015
 category: environmental-justice
 tags:
-  - fossil fuels
+  - fossil-fuels
   - environment
   - climate
+  - railroad-workers
+  - oil-trains
+  - direct-action
 ---
 
 ## **Source:** https://ecology.iww.org/node/1434
