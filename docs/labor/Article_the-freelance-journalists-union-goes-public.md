@@ -1,12 +1,15 @@
 ---
-title: The Freelance Journalists Union Goes Public
-author: Industrial Workers of the World
-date: '2025'
+title: "The Freelance Journalists Union Goes Public"
+author: "IWW"
+date: 2020
 category: labor
 tags:
-  - unions
-  - labor
-  - workers
+  - IWW
+  - freelance
+  - journalism
+  - media-workers
+  - gig-economy
+  - union-organizing
 ---
 
 Workers of the World (IWW), media and culture, writers, journalism, internet, newspapers, printing, gig economy, Freelance Journalists Union

@@ -1,10 +1,15 @@
 ---
-title: "Fin That Is"
-date: 1971
+title: "All That Is Solid Melts into Air: The Experience of Modernity"
+author: "Marshall Berman"
+date: 1982
 category: theory
 tags:
-  - technology
-  - digital rights
+  - Marshall-Berman
+  - modernity
+  - modernism
+  - capitalism
+  - Marx
+  - urbanization
 ---
 
 "A visionary work which by all rights ought to have the impact of such sixties bibles as Growing Up Absurd and Life Against Death"

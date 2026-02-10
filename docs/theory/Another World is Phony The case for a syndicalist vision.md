@@ -1,13 +1,16 @@
 ---
-title: Another World is Phony? The case for a syndicalist vision
-author: "libcom.org"
-date: 2019
-category: contemporary-analysis
+title: "Another World is Phony? The Case for a Syndicalist Vision"
+author: "Rasmus Hästbacka"
+date: 2022
+category: theory
 tags:
   - syndicalism
-  - labor
-  - unions
-  - workers
+  - SAC
+  - Sweden
+  - IWW
+  - direct-action
+  - workers-control
+  - vision
 ---
 
 The first in a series of three essays about syndicalistvision, strategyandmovement building. First published in the summer of 2022 on the website of US labor magazineASR. In a fourth bonus article, the author relates these themes to makingplans for action on the job. The fourth article was first published on the US union site Organizing Work. A previous version of the essay below was published in the Swedish union paper Arbetaren. The author is a member of the Swedish unionSAC.

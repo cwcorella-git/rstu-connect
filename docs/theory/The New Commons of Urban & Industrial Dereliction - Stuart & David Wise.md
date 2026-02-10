@@ -1,11 +1,16 @@
 ---
-title: The New Commons of Urban & Industrial Dereliction - Stuart & David Wise
-author: "libcom.org"
+title: "The New Commons of Urban & Industrial Dereliction"
+author: "Stuart Wise and David Wise"
 date: 2012
-category: arts-culture-music
+category: theory
 tags:
-  - urban
+  - urbanism
   - commons
+  - Situationist
+  - psychogeography
+  - derive
+  - dereliction
+  - UK
 ---
 
 A Freewheeling Interpretation of Classic Derive, Grand Projects, Subtopian Pornography, Workers' Councils, Nature Reserves versus Wilding.
