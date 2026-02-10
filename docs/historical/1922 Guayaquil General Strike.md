@@ -1,11 +1,13 @@
 ---
-title: '1922: Guayaquil General Strike'
-author: "libcom.org"
-date: 1922
-category: labor
+title: "1922: Guayaquil General Strike"
+author: "Hannah Jones"
+date: 2010
+category: historical
 tags:
-  - general strikes
-  - strikes
+  - general-strike
+  - Ecuador
+  - labor-history
+  - 1922
 ---
 
 Guayaquil, Hannah Jones

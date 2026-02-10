@@ -1,11 +1,14 @@
 ---
-title: Reno-Sparks apartment rent reaches another record high
-author: Reno Gazette Journal
-date: '2022'
+title: "Reno-Sparks Apartment Rent Reaches Another Record High"
+author: "Jason Hidalgo / Reno Gazette Journal"
+date: 2022
 category: housing
 tags:
-  - housing
+  - rent
+  - Reno
+  - Sparks
   - Nevada
+  - housing-crisis
 ---
 
 Reno-Sparks apartment rent reaches another record high https://www.rgj.com/story/news/money/business/2022/07/29/reno-sparks-... Sparks neighborhoods posted higher rents but industry watchers expect the uble-digit increases.
@@ -108,16 +111,3 @@ Reno-Sparks apartment rent reaches another record high https://www.rgj.com/story
          Jason Hidalgo covers business and technology for the Reno Gazette Journal, and also reviews
          the latest video games. Follow him on Twitter @jasonhidalgo. Like this content? Support
          local journalism with an RGJ digital subscription.
-
-## Document Summary
-
-This document was converted from **05_Architecture_Urban_Planning/Articles/Reno-Sparks apartment rent reaches another record high.pdf** containing 6 pages.
-
-**Usage with Claude Code:**
-
-bash claude code "Collections/05_Architecture_Urban_Planning_Articles_Reno-Sparks_apartment_rent_reaches_another_record_high/05_Architecture_Urban_Planning_Articles_Reno-Sparks_apartment_rent_reaches_another_record_high.md"
-**Library Location:** 05_Architecture_Urban_Planning is organized as:
-- **Books/**: Complete texts and manuals
-- **Articles/**: Papers, documents, and shorter works
-
-*Conversion completed: Mon Aug 18 04:24:40 PM PDT 2025*

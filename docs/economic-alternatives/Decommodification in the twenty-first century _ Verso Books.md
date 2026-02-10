@@ -1,11 +1,13 @@
 ---
-title: Decommodification in the twentyfirst century
+title: "Decommodification in the Twenty-First Century"
 author: "Ursula Huws"
-date: 1947
-category: arts-culture-music
+date: 2021
+category: economic-alternatives
 tags:
-  - arts
-  - culture
+  - decommodification
+  - welfare-state
+  - neoliberalism
+  - digital-economy
 ---
 
 ## Ursula Huws

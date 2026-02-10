@@ -1,16 +1,15 @@
 ---
-title: "To The CEOs of General Motors, Ford, and Stellantis:"
-author: "Industrial Workers of the World"
+title: "To The CEOs of General Motors, Ford, and Stellantis"
+author: "Labor Network for Sustainability, et al."
 date: 2023
-category: "contemporary-analysis"
+category: labor
 tags:
-  - automobile-manufacturers
-  - ford
-  - stellantis
-  - green-unionism
-  - electric-vehicles
+  - UAW
+  - automobiles
   - just-transition
-  - 350
+  - electric-vehicles
+  - climate
+  - unions
 ---
 
 ## **Source:** https://ecology.iww.org/node/5807

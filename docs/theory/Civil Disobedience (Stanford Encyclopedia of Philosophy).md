@@ -1,9 +1,13 @@
 ---
-title: Civil Disobedience
+title: "Civil Disobedience"
+author: "Stanford Encyclopedia of Philosophy"
 date: 2007
-category: contemporary-analysis
+category: theory
 tags:
-  - civil disobedience
+  - civil-disobedience
+  - philosophy
+  - political-theory
+  - law
 ---
 
 

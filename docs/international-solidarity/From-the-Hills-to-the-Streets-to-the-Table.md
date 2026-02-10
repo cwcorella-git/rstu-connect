@@ -1,10 +1,13 @@
 ---
-title: "From the Hills to the Streets to the Table"
+title: "From the Hills to the Streets to the Table: Civil Resistance and Peacebuilding in Nepal"
+author: "Subindra Bogati and Ches Thurber"
 date: 2021
-category: "contemporary-analysis"
+category: international-solidarity
 tags:
-  - analysis
-  - current-events
+  - Nepal
+  - civil-resistance
+  - peacebuilding
+  - nonviolence
 ---
 
 ## Civil Resistance and Peacebuilding in Nepal

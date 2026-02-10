@@ -1,12 +1,13 @@
 ---
-title: When capitalism goes green - Miguel Amoros
-author: "libcom.org"
-date: 1972
+title: "When Capitalism Goes Green"
+author: "Miguel Amoros"
+date: 2007
 category: environmental-justice
 tags:
   - capitalism
-  - environment
-  - climate
+  - ecology
+  - greenwashing
+  - eco-capitalism
 ---
 
 ## Encyclopedie des Nuisances, Miguel Amorós

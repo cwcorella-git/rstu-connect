@@ -1,10 +1,13 @@
 ---
-title: "F. A. Hayek"
-date: 1988
-category: "contemporary-analysis"
+title: "The Road to Serfdom"
+author: "F. A. Hayek"
+date: 1944
+category: theory
 tags:
-  - analysis
-  - current-events
+  - libertarianism
+  - free-market
+  - political-economy
+  - authoritarianism
 ---
 
 
