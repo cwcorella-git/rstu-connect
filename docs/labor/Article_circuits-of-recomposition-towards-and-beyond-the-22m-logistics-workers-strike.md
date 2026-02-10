@@ -1,11 +1,15 @@
 ---
-title: Circuits of Recomposition Towards and Beyond the 22m Logistics Workers Strike
-author: these struggles
-date: '2025'
+title: "Circuits of Recomposition: Towards and Beyond the 22M Logistics Workers Strike"
+author: "UniNomade"
+date: 2013
 category: labor
 tags:
-  - strikes
-  - labor
+  - logistics
+  - Italy
+  - wildcat-strikes
+  - SI-Cobas
+  - migrants
+  - class-composition
 ---
 
 Can the #22M logistics workers’ strike be a first step towards the generalization of struggles?

@@ -1,12 +1,14 @@
 ---
 title: "Statutes of the Red and Black Coordination"
-author: "libcom.org"
+author: "Red and Black Coordination"
 date: 2010
-category: "contemporary-analysis"
+category: organizing
 tags:
-  - analysis
-  - current-events
-  - libcom
+  - anarcho-syndicalism
+  - international
+  - coordination
+  - revolutionary-syndicalism
+  - federalism
 ---
 
 The statutes of the Red and Black Coordination, a international network of revolutionary syndicalist and anarcho-syndicalist union that existed in the 2010s. Text taken from Internet Archive

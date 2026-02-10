@@ -1,11 +1,15 @@
 ---
-title: "IWW WISERA Environmental Committee and NARA IWW EUC Reading Group 1: Judi Bari, \"Revolutionary"
-author: "Industrial Workers of the World"
+title: "IWW WISERA and NARA EUC Reading Group: Judi Bari's Revolutionary Ecology"
+author: "IWW WISERA and NARA IWW EUC"
 date: 2023
 category: environmental-justice
 tags:
-  - unions
-  - environment
+  - Judi-Bari
+  - Earth-First
+  - IWW
+  - biocentrism
+  - Marxism
+  - old-growth-forests
 ---
 
 ## **Source:** https://ecology.iww.org/node/5296

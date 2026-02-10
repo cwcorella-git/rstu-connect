@@ -1,11 +1,15 @@
 ---
-title: 'Defend and Transform: Mobilizing Workers for Climate Justice'
-author: "Jeremy Anderson -"
-date: 2018
-category: feminist-theory
+title: "Defend and Transform: Mobilizing Workers for Climate Justice"
+author: "Jeremy Anderson"
+date: 2021
+category: environmental-justice
 tags:
-  - labor
-  - environment
+  - just-transition
+  - climate-justice
+  - transport
+  - aviation
+  - shipping
+  - labor-movement
 ---
 
 ## **Source:** https://ecology.iww.org/node/4432

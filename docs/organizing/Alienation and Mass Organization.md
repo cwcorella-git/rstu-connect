@@ -1,17 +1,15 @@
 ---
 title: "Alienation and Mass Organization"
-author: "libcom.org"
-
+author: "Sitsirya"
 date: 2018
-category: "contemporary-analysis"
+category: organizing
 tags:
-  - activism
-  - education
-  - schools
-  - students
-  - universities
-  - philippines
-  - sitsirya
+  - Philippines
+  - student-activism
+  - mass-organizations
+  - National-Democratic
+  - alienation
+  - anarchism
 ---
 
 A personal reflection on alienation experienced within National Democratic mass organizations.

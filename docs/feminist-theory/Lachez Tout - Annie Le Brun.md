@@ -1,13 +1,15 @@
 ---
-title: "Lachez Tout - Annie Le Brun"
-author: "libcom.org"
-date: 1972
-category: "contemporary-analysis"
+title: "Lachez Tout (Abandon Everything)"
+author: "Annie Le Brun"
+date: 1977
+category: feminist-theory
 tags:
-  - annie-le-brun
+  - surrealism
   - feminism
-  - david-wise
-  - france
+  - France
+  - insurrection
+  - Flora-Tristan
+  - Louise-Michel
 ---
 
 English translation of "Let it all go" or rather more to the point, "Abandon Everything" by French feminist and surrealist Annie Le Brun. Translation by David and Stuart Wise.

@@ -1,10 +1,15 @@
 ---
-title: 'Greece: The Lockdown Resumes - New Democracy and Pandemic Opportunism'
-author: "libcom.org"
-date: 1973
-category: contemporary-analysis
+title: "Greece: The Lockdown Resumes - New Democracy and Pandemic Opportunism"
+author: "CrimethInc and Radio Fragmata"
+date: 2020
+category: international-solidarity
 tags:
-  - democracy
+  - Greece
+  - COVID-19
+  - repression
+  - anarchism
+  - Athens
+  - squatting
 ---
 
 ## **Source:**

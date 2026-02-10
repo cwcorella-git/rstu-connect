@@ -1,10 +1,13 @@
 ---
-title: 'Anarcho-syndicalism: Theory and Practice'
-date: 1868
-category: contemporary-analysis
+title: "Anarcho-syndicalism: Theory and Practice"
+author: "Rudolf Rocker"
+date: 1938
+category: theory
 tags:
-  - anarchism
-  - syndicalism
+  - anarcho-syndicalism
+  - Spanish-Civil-War
+  - labor-movement
+  - Rocker
 ---
 
 ## **Rudolf Rocker**

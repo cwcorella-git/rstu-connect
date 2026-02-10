@@ -1,12 +1,15 @@
 ---
-title: Origins of the Police David Whitehouse Libcomorg
-author: "libcom.org"
-date: '2025'
+title: "Origins of the Police"
+author: "David Whitehouse"
+date: 2014
 category: abolition
 tags:
   - police
-  - abolition
-  - prisons
+  - police-history
+  - crowd-control
+  - 19th-century
+  - England
+  - USA
 ---
 
 Origins of the police - David Whitehouse | libcom.org https://libcom.org/article/origins-police-david-whitehouse 
