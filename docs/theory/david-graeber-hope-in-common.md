@@ -1,10 +1,13 @@
 ---
-title: Hope in Common
-author: David Graeber
-date: '2008'
-category: contemporary-analysis
+title: "Hope in Common"
+author: "David Graeber"
+date: 2008
+category: theory
 tags:
   - Graeber
+  - communism
+  - revolution
+  - debt
 ---
 
 We seem to have reached an impasse. Capitalism as we know it appears to be coming apart. But as financial institutions stagger and crumble, there is no obvious alternative. Organized resistance appears scattered and incoherent; the global justice movement a shadow of its former self. There is good reason to believe that, in a generation or so, capitalism will no longer exist: for the simple reason that it’s impossible to maintain an engine of perpetual growth forever on a finite planet. Faced with the prospect, the knee-jerk reaction — even of “progressives” — is, often, fear, to cling to capitalism because they simply can’t imagine an alternative that wouldn’t be even worse.

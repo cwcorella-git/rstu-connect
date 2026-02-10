@@ -1,11 +1,13 @@
 ---
-title: "Punch Up * Kick Down Distro Love as a Revolutionary Social Ethic"
-date: 2024
-category: "contemporary-analysis"
+title: "Love as a Revolutionary Social Ethic"
+author: "Paul Messersmith-Glavin"
+date: 2019
+category: theory
 tags:
-  - analysis
-  - current-events
-  - revolution
+  - ethics
+  - love
+  - care
+  - social-ecology
 ---
 
 # **2024**

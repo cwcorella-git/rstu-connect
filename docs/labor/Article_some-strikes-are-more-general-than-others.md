@@ -1,12 +1,13 @@
 ---
-title: Some Strikes Are More General Than Others
-author: Rosa Luxemburg
-date: '2025'
+title: "Some Strikes Are More General Than Others"
+author: "R Totale"
+date: 2019
 category: labor
 tags:
-  - labor
-  - unions
-  - workers
+  - general-strikes
+  - strategy
+  - mass-strikes
+  - debate
 ---
 
 A critique ofa recent article from the Organizing Work blog, "You Say You Want A General Strike", examining recent general strike calls in slightly more depth.

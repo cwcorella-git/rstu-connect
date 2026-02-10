@@ -1,12 +1,13 @@
 ---
-title: Workplace Rhythm Variability and Emotional Distress in Information Workers
-author: "Regularity Information"
+title: "Workplace Rhythm Variability and Emotional Distress in Information Workers"
+author: "Subigya Nepal et al."
 date: 2021
-category: contemporary-analysis
+category: labor
 tags:
-  - labor
-  - unions
-  - workers
+  - tech-workers
+  - workplace-health
+  - research
+  - burnout
 ---
 
 [Subigya Nepal](https://orcid.org/0000-0002-4314-9505)∗ Dartmouth College Hanover, NH, USA sknepal@cs.dartmouth.edu

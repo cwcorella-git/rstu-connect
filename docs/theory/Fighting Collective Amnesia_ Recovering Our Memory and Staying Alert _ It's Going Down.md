@@ -1,9 +1,13 @@
 ---
-title: 'Fighting Collective Amnesia: Recovering Our Memory and Staying Alert'
-date: 2011
+title: "Fighting Collective Amnesia: Recovering Our Memory and Staying Alert"
+author: "Milwaukee Anarchists"
+date: 2018
 category: theory
 tags:
-  - theory
+  - movement-history
+  - memory
+  - repression
+  - strategy
 ---
 
 ## Anonymous Contributor

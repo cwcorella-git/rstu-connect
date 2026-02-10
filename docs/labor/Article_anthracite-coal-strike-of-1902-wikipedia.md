@@ -1,13 +1,13 @@
 ---
-title: Anthracite Coal Strike of 1902 Wikipedia
-author: Wikipedia
-date: '2025'
+title: "Anthracite Coal Strike of 1902"
+author: "Wikipedia"
+date: 1902
 category: labor
 tags:
+  - coal-miners
   - strikes
-  - labor
-  - unions
-  - workers
+  - Pennsylvania
+  - history
 ---
 
 Anthracite coal strike of 1902 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
