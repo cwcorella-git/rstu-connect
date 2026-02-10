@@ -1,12 +1,14 @@
 ---
 title: "Ozawa v. United States"
-author: "Wikipedia contributors"
-date: 1922
-category: "contemporary-analysis"
+author: "Wikipedia"
+date: 2024
+category: "historical"
 tags:
-  - analysis
-  - current-events
-  - wikipedia
+  - Supreme-Court
+  - immigration
+  - racism
+  - citizenship
+  - Japanese-Americans
 ---
 
 ## Contributors to Wikimedia projects

@@ -1,13 +1,14 @@
 ---
-title: "Racist Murder In America And The Bifurcation Of The Modern World System"
-author: "libcom.org"
+title: "Racist Murder in America and the Bifurcation of the Modern World System"
+author: "Anonymous"
 date: 2020
-category: "contemporary-analysis"
+category: "abolition"
 tags:
-  - capitalism
+  - police-abolition
   - racism
-  - police
-  - george-floyd-protests
+  - George-Floyd
+  - capitalism
+  - world-systems
 ---
 
 Analysis of racism as a division of labor upholding the capitalist world system and recent uprisings against police brutality as evidence of that world system's terminal crises.

@@ -1,12 +1,13 @@
 ---
-title: Report on the general strike in Palestine
-author:
-date: 1987
-category: labor
+title: "Report on the General Strike in Palestine"
+author: "Riya Al'Sanah"
+date: 2021
+category: international-solidarity
 tags:
-  - general strikes
-  - strikes
   - Palestine
+  - general-strike
+  - intifada
+  - grassroots-organizing
 ---
 
 Laura and Charan interviewed Riya Al'Sanah about the general strike in Palestine. This interview was first published by Notes From Below.

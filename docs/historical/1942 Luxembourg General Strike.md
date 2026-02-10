@@ -1,11 +1,13 @@
 ---
-title: '1942: Luxembuorg General Strike'
-author: "libcom.org"
-date: 2011
-category: labor
+title: "1942: Luxembourg General Strike"
+author: "Zein Nakhoda"
+date: 1942
+category: historical
 tags:
-  - general strikes
-  - strikes
+  - Luxembourg
+  - WWII
+  - Nazi-resistance
+  - general-strike
 ---
 
 resistance, Luxembourg, Zein Nakhoda

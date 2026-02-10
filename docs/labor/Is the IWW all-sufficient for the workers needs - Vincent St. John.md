@@ -1,11 +1,13 @@
 ---
-title: Is the IWW all-sufficient for the workers needs? - Vincent St. John
-author: "Industrial Workers of the World"
+title: "Is the IWW All-Sufficient for the Workers' Needs?"
+author: "Vincent St. John"
 date: 1915
-category: contemporary-analysis
+category: labor
 tags:
-  - unions
-  - labor
+  - IWW
+  - syndicalism
+  - labor-history
+  - revolutionary-unionism
 ---
 
 ## **Tags:** Vincent St. John, syndicalism
