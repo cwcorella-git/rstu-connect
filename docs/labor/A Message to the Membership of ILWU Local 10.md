@@ -1,17 +1,17 @@
 ---
 title: "A Message to the Membership of ILWU Local 10"
-author: "Derrick H Muhammad -"
+author: "Derrick H Muhammad"
 date: 2016
-category: "contemporary-analysis"
+category: labor
 tags:
-  - oakland
-  - coal
-  - exports
-  - ilwu-local-10
-  - jobs-versus-environment
-  - labor-and-environment
+  - ILWU-Local-10
+  - Oakland
+  - coal-exports
   - green-unionism
-  - thin-green-line
+  - labor-environment-alliance
+  - marine-terminal
+  - Harry-Bridges
+  - longshore-workers
 ---
 
 ## **Source:** https://ecology.iww.org/node/1731

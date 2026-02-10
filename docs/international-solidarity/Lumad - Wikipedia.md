@@ -1,12 +1,16 @@
 ---
-title: Lumad
-author: "Wikipedia contributors"
-date: 1983
-category: contemporary-analysis
+title: "Lumad (Indigenous Peoples of Mindanao)"
+author: "Wikipedia"
+date: 2020
+category: international-solidarity
 tags:
-  - analysis
-  - current-events
-  - wikipedia
+  - Lumad
+  - Philippines
+  - Mindanao
+  - indigenous-peoples
+  - Austronesian
+  - Lumad-Mindanao-Peoples-Federation
+  - self-determination
 ---
 
 

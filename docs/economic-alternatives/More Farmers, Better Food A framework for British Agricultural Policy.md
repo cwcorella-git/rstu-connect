@@ -1,11 +1,17 @@
 ---
-title: 'More Farmers, Better Food: A framework for British Agricultural Policy'
-author: "Industrial Workers of the World"
+title: "More Farmers, Better Food: A Framework for British Agricultural Policy"
+author: "Land Workers' Alliance"
 date: 2016
-category: arts-culture-music
+category: economic-alternatives
 tags:
-  - food
-  - United Kingdom
+  - agriculture
+  - food-policy
+  - United-Kingdom
+  - Brexit
+  - small-farms
+  - ecological-farming
+  - food-sovereignty
+  - Land-Workers-Alliance
 ---
 
 ## **Source:** https://ecology.iww.org/node/1729

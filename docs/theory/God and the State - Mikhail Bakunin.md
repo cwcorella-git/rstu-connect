@@ -1,12 +1,16 @@
 ---
-title: BAKUNIN
-author: "Benjamin R. Tucker"
-date: 2014
+title: "God and the State"
+author: "Mikhail Bakunin"
+date: 1882
 category: theory
 tags:
-  - Bakunin
-  - technology
-  - digital rights
+  - Mikhail-Bakunin
+  - anarchism
+  - religion
+  - state-critique
+  - authority
+  - Benjamin-R-Tucker-translator
+  - classical-anarchism
 ---
 
 

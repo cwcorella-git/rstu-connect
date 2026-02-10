@@ -1,11 +1,16 @@
 ---
-title: Anarchists Getting Ourselves Together
-author: James Herod
-date: '2025'
+title: "Anarchists Getting Ourselves Together"
+author: "James Herod"
+date: 2007
 category: theory
 tags:
+  - James-Herod
   - anarchism
-  - theory
+  - organizing
+  - network-building
+  - Northeast-Network-of-Anarchist-Groups
+  - points-of-unity
+  - decision-making
 ---
 
 ## James Herod

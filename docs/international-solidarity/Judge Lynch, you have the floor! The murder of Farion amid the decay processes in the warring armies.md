@@ -1,11 +1,18 @@
 ---
-title: "\"Judge Lynch, you have the floor!\" The murder of Farion amid the decay processes in the warring"
-author: "libcom.org"
-date: 2023
+title: "\"Judge Lynch, you have the floor!\" The murder of Farion amid the decay processes in the warring armies"
+author: "Solidarity Collectives / Spring Assembly"
+date: 2024
 category: international-solidarity
 tags:
+  - Ukraine
+  - Russia
   - anti-war
-  - peace
+  - desertion
+  - military-police
+  - Iryna-Farion
+  - civil-war
+  - conscription
+  - resistance
 ---
 
 The long hot summer continues!
