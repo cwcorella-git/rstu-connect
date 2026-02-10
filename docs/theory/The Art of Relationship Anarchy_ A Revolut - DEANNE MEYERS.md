@@ -1,9 +1,13 @@
 ---
-title: The Art of Relationship Anarchy
+title: "The Art of Relationship Anarchy: A Revolutionary Approach to Love, Intimacy, and Connection"
+author: "Deanne Meyers"
 date: 2023
-category: arts-culture-music
+category: theory
 tags:
+  - relationship-anarchy
+  - intimacy
   - anarchism
+  - polyamory
 ---
 
 

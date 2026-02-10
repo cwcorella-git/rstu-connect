@@ -1,12 +1,14 @@
 ---
-title: Focus Time for well-being and Work Engagement of Information Workers
-author: "Focus Time"
+title: "Focus Time for Well-Being and Work Engagement of Information Workers"
+author: "Koustuv Saha, Shamsi T. Iqbal"
 date: 2023
-category: contemporary-analysis
+category: labor
 tags:
-  - labor
-  - unions
-  - workers
+  - workplace-research
+  - well-being
+  - work-engagement
+  - Microsoft-Research
+  - focus-time
 ---
 
 

@@ -1,12 +1,14 @@
 ---
 title: "Satyagraha"
-author: "Wikipedia contributors"
-date: 1906
-category: "contemporary-analysis"
+author: "Wikipedia"
+date: 2024
+category: "theory"
 tags:
-  - analysis
-  - current-events
-  - wikipedia
+  - nonviolence
+  - Gandhi
+  - civil-disobedience
+  - India
+  - satyagraha
 ---
 
 

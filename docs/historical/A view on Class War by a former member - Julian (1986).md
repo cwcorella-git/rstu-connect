@@ -1,11 +1,14 @@
 ---
-title: A view on "Class War" by a former member - Julian (1986)
-author: "Class War Federation"
+title: "A View on Class War by a Former Member"
+author: "Julian"
 date: 1986
-category: international-solidarity
+category: historical
 tags:
-  - anti-war
-  - class
+  - Class-War-Federation
+  - critique
+  - United-Kingdom
+  - 1980s
+  - anarchism
 ---
 
 Written by a young Frenchman just after he left Class War (CW) and published in the one-off Flamethrowerinsurrectional anarchist magazine. The 1986 article was influenced by the optimism of the times; the recent nationwide waves of intense rioting in 1981 and 1985, the recently ended year-long Miners Strike, the then-ongoing printers strike at Wapping (the TNT lorries mentioned were scab delivery vehicles) etc. Few could see the dramatic downturn in class struggle that was soon to begin ...

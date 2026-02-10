@@ -1,11 +1,14 @@
 ---
-title: 'Authoritarian Leftists: Kill the Cop in Your Head'
-author: "Industrial Workers of the World"
-date: 1995
-category: contemporary-analysis
+title: "Authoritarian Leftists: Kill the Cop in Your Head"
+author: "Greg Jackson / Black Autonomy"
+date: 1996
+category: abolition
 tags:
-  - police
-  - labor
+  - anti-authoritarianism
+  - Black-liberation
+  - white-left
+  - vanguardism
+  - COINTELPRO
 ---
 
 #### [archive.iww.org](https://archive.iww.org/history/library/Jackson/copinyourhead/)
