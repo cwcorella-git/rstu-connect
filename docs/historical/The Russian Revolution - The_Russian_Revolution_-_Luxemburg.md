@@ -1,12 +1,15 @@
 ---
-title: The Russian Revolution
+title: "The Russian Revolution"
 author: "Rosa Luxemburg"
-date: 1940
-category: international-solidarity
+date: 1918
+category: historical
 tags:
   - Russia
-  - international
-  - solidarity
+  - Rosa-Luxemburg
+  - Bolshevism
+  - Russian-Revolution
+  - Marxism
+  - critique
 ---
 
 

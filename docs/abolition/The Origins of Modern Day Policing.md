@@ -1,9 +1,15 @@
 ---
-title: The Origins of Modern Day Policing
+title: "The Origins of Modern Day Policing"
+author: "NAACP"
 date: 2020
-category: contemporary-analysis
+category: abolition
 tags:
   - police
+  - slave-patrols
+  - Jim-Crow
+  - Black-Codes
+  - police-history
+  - NAACP
 ---
 
 [naacp.org](https://naacp.org/find-resources/history-explained/origins-modern-day-policing)

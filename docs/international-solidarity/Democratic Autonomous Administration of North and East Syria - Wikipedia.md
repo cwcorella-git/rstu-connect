@@ -1,11 +1,16 @@
 ---
-title: Democratic Autonomous Administration of North and East Syria
-author: "Wikipedia contributors"
-date: 2016
-category: contemporary-analysis
+title: "Democratic Autonomous Administration of North and East Syria (Rojava)"
+author: "Wikipedia"
+date: 2018
+category: international-solidarity
 tags:
+  - Rojava
+  - Syria
   - autonomy
-  - democracy
+  - Kurdish
+  - democratic-confederalism
+  - Abdullah-Ocalan
+  - SDF
 ---
 
 

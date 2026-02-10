@@ -1,11 +1,14 @@
 ---
-title: Police Unions And The Labor Movement The Flaw
-author: The Flaw
-date: '2008'
-category: theory
+title: "Police Unions and the Labor Movement"
+author: "Haley Florsheim"
+date: 2020
+category: abolition
 tags:
   - police
-  - labor
+  - police-unions
+  - labor-movement
+  - Massachusetts
+  - collective-bargaining
 ---
 
 ## [theflaw.org](https://theflaw.org/articles/police-unions-and-the-labor-movement/)

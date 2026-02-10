@@ -1,11 +1,15 @@
 ---
-title: "Sadie and Exile, Esoteric Fascism, and Olympia's Little White Lies"
-date: 1941
-category: "contemporary-analysis"
+title: "A Field Guide to Straw Men: Sadie and Exile, Esoteric Fascism, and Olympia's Little White Lies"
+author: "1312 Committee"
+date: 2016
+category: contemporary-analysis
 tags:
-  - analysis
-  - current-events
-  - wikipedia
+  - fascism
+  - Olympia
+  - Julius-Evola
+  - Green-Scare
+  - Nathan-Block
+  - Joyanna-Zacher
 ---
 
 ## **1312 Committee**
