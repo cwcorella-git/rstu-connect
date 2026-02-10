@@ -1,11 +1,15 @@
 ---
-title: Statement of the Hospital and the Refinery
-author: "John Kalwaic -"
+title: "Statement of the Hospital and the Refinery"
+author: "Philadelphia IWW GMB"
 date: 2019
-category: theory
+category: labor
 tags:
   - healthcare
-  - theory
+  - Hahnemann-Hospital
+  - refinery
+  - Philadelphia
+  - IWW
+  - capitalism
 ---
 
 ## **Source:** https://ecology.iww.org/node/3363

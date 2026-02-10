@@ -1,11 +1,15 @@
 ---
-title: The LA gang truce and uprising of 1992 - Davey D & Twilight Bey
-author: "libcom.org"
-date: 1992
-category: contemporary-analysis
+title: "The LA Gang Truce and Uprising of 1992: Interview with Twilight Bey"
+author: "Davey D"
+date: 2002
+category: historical
 tags:
-  - riots
-  - Los Angeles
+  - Los-Angeles
+  - gang-truce
+  - Rodney-King
+  - Crips
+  - Bloods
+  - police-brutality
 ---
 
 An interview with Twilight Bey, a former gang member involved in negotiating the truce, on the LA gang truce and uprising of 1992. This interview was first conducted on the 10-year anniversary of the uprising in April 2002, and was archived at indybay.org.

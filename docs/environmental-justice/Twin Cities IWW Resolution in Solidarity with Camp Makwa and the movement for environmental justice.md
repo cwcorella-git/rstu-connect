@@ -1,13 +1,15 @@
 ---
-title: "Twin Cities IWW Resolution in Solidarity with Camp Makwa and the movement for environmental jus"
-author: "Industrial Workers of the World"
+title: "Twin Cities IWW Resolution in Solidarity with Camp Makwa and Environmental Justice"
+author: "Twin Cities IWW GMB"
 date: 2017
-category: theory
+category: environmental-justice
 tags:
-  - unions
-  - solidarity
-  - environment
-  - urban
+  - IWW
+  - Line-3
+  - Enbridge
+  - indigenous-solidarity
+  - pipeline
+  - oil-spills
 ---
 
 ## **Source:** https://ecology.iww.org/node/2666

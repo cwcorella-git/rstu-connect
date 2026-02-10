@@ -1,14 +1,15 @@
 ---
-title: "From one crisis to another. An interview with Helen Arnold and Daniel Blanchard"
-author: "libcom.org"
+title: "From One Crisis to Another: Interview with Helen Arnold and Daniel Blanchard"
+author: "Fabien Delmotte"
 date: 2021
-category: "contemporary-analysis"
+category: theory
 tags:
-  - socialisme-ou-barbarie
-  - murray-bookchin
-  - daniel-blanchard
-  - may-68
-  - crisis
+  - Socialisme-ou-Barbarie
+  - Murray-Bookchin
+  - May-68
+  - Castoriadis
+  - Yellow-Vests
+  - France
 ---
 
 This text is a translation of an article originally published in French in September 2021 on the websiteA contretemps:

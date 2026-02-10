@@ -1,13 +1,15 @@
 ---
 title: "Why The Supreme Court Ruled Police Have No Duty to Protect"
 author: "Legal Clarity"
-date: 2025
+date: 2024
 category: abolition
 tags:
   - police
   - Supreme-Court
-  - constitutional-law
   - DeShaney
+  - Castle-Rock
+  - constitutional-law
+  - Warren-v-DC
 ---
 
 Search Legal Clarity...

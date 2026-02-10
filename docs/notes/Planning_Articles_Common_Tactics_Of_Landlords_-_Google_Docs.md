@@ -1,11 +1,14 @@
 ---
-title: Common Tactics Of Landlords
-author: Common Tactics
-date: '2025'
-category: housing
+title: "Common Tactics Of Landlords"
+author: "RSTU"
+date: 2025
+category: notes
 tags:
-  - housing
-  - tenants
+  - landlord-tactics
+  - tenant-stories
+  - organizing-notes
+  - rent-increases
+  - eviction
 ---
 
 View notes from original meeting: Educational Material Planning 6/20/25

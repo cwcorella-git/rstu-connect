@@ -1,11 +1,14 @@
 ---
-title: The Educational enterprise in the Light of the Gospel
-date: 1982
-category: youth-student-organizing
+title: "The Educational Enterprise in the Light of the Gospel"
+author: "Ivan Illich"
+date: 1988
+category: theory
 tags:
   - education
-  - students
-  - youth
+  - Illich
+  - deschooling
+  - theology
+  - institutional-critique
 ---
 
 ## **Ivan Illich**
