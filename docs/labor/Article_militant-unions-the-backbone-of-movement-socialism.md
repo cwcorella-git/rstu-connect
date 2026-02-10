@@ -1,12 +1,14 @@
 ---
-title: Militant Unions the Backbone of Movement Socialism
-author: Edvin Dahlgren
-date: '2025'
+title: "Militant Unions: The Backbone of Movement Socialism"
+author: "Edvin Dahlgren"
+date: 2018
 category: labor
 tags:
-  - labor
-  - unions
-  - workers
+  - syndicalism
+  - SAC
+  - Sweden
+  - movement-socialism
+  - union-democracy
 ---
 
 Dahlgren, syndicalism, anarcho-syndicalism, SAC, Sweden

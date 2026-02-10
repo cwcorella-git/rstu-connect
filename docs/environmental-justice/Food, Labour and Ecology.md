@@ -1,12 +1,14 @@
 ---
-title: 'Food, Labour and Ecology'
-author: "Industrial Workers of the World"
+title: "Food, Labour and Ecology"
+author: "Lucy Parsons (Vancouver IWW)"
 date: 2016
 category: environmental-justice
 tags:
-  - labor
-  - environment
-  - food
+  - food-justice
+  - urban-agriculture
+  - ecosocialism
+  - Cuba
+  - Marx
 ---
 
 ## **Source:** https://ecology.iww.org/node/1730

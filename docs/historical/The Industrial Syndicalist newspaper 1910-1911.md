@@ -1,13 +1,14 @@
 ---
-title: The Industrial Syndicalist newspaper 1910-1911
-author: "libcom.org"
-date: 1974
-category: contemporary-analysis
+title: "The Industrial Syndicalist newspaper 1910-1911"
+author: "Tom Mann and Guy Bowman"
+date: 1910
+category: historical
 tags:
   - syndicalism
-  - labor
-  - unions
-  - workers
+  - UK
+  - 1910s
+  - Tom-Mann
+  - Guy-Bowman
 ---
 
 | Source: https://libcom.org/article/industrial-syndicalist-newspaper-1910-1911|

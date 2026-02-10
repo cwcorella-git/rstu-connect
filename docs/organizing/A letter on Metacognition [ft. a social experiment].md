@@ -1,10 +1,13 @@
 ---
-title: "A letter on Metacognition [ft. a social experiment]"
-date: 2025
-category: "contemporary-analysis"
+title: "A letter on Metacognition: How Do We Use Online Apparatuses to Organize?"
+author: "Anonymous"
+date: 2023
+category: organizing
 tags:
-  - analysis
-  - current-events
+  - digital-organizing
+  - social-media
+  - revolutionary-strategy
+  - praxis
 ---
 
 | Date: 2025-08-26 |

@@ -1,11 +1,14 @@
 ---
 title: "Revolutionary prisoners Ruslan Abasov and Lev Skoryakin managed to leave Russia"
-author: "libcom.org"
+author: "Libcom"
 date: 2023
 category: international-solidarity
 tags:
-  - prisons
   - Russia
+  - political-prisoners
+  - FSB
+  - repression
+  - anarchism
 ---
 
 Happy twist in criminal case against Moscow activists of the Left Bloc. The inscription on the banner: "Happy Chekist Day!" (i.e. Russian political police).
