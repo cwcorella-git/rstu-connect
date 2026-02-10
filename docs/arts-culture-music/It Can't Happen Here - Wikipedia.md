@@ -1,11 +1,15 @@
 ---
-title: It Can't Happen Here
-author: "Wikipedia contributors"
-date: 1998
-category: theory
+title: "It Can't Happen Here"
+author: "Wikipedia"
+date: 1935
+category: arts-culture-music
 tags:
-  - technology
-  - digital rights
+  - Sinclair-Lewis
+  - dystopian-fiction
+  - fascism
+  - political-fiction
+  - novel
+  - 1930s
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/It_Can%27t_Happen_Here)

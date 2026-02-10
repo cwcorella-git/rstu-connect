@@ -1,11 +1,15 @@
 ---
-title: The Science of Revolutionary Warfare
+title: "The Science of Revolutionary Warfare"
 author: "Johann Most"
 date: 1884
-category: international-solidarity
+category: historical
 tags:
-  - anti-war
-  - peace
+  - propaganda-of-the-deed
+  - insurrectionary-anarchism
+  - Germany
+  - 1880s
+  - tactics
+  - explosives
 ---
 
 ## Johann Most

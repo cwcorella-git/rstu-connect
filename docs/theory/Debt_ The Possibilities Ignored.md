@@ -1,12 +1,15 @@
 ---
-title: 'Debt: The Possibilities Ignored'
-author: William Gillis
-date: '2014'
-category: housing
+title: "Debt: The Possibilities Ignored"
+author: "William Gillis"
+date: 2014
+category: theory
 tags:
+  - David-Graeber
+  - book-review
   - debt
-  - housing
-  - tenants
+  - anthropology
+  - markets
+  - critique
 ---
 
 ## **William Gillis**

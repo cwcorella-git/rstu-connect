@@ -1,16 +1,16 @@
 ---
 title: "COP26: We Only Want the Earth"
-author: "IWW Ireland -"
+author: "IWW Ireland"
 date: 2021
-category: "arts-culture-music"
+category: environmental-justice
 tags:
-  - iww-environmental-unionism-caucus
-  - iww-wisera
-  - ireland
-  - green-syndicalism
+  - COP26
+  - Glasgow
+  - IWW
+  - Ireland
   - green-unionism
-  - cop26
-  - green-capitalism
+  - climate-justice
+  - anti-capitalism
   - greenwashing
 ---
 

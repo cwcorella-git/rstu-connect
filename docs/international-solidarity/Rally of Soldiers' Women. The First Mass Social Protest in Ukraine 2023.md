@@ -1,12 +1,16 @@
 ---
-title: Rally of Soldiers' Women. The First Mass Social Protest in Ukraine 2023
-author: "libcom.org"
+title: "Rally of Soldiers' Women: The First Mass Social Protest in Ukraine 2023"
+author: "Assembly"
 date: 2023
-category: feminist-theory
+category: international-solidarity
 tags:
-  - protests
-  - women
   - Ukraine
+  - Russia-Ukraine-war
+  - anti-war
+  - women
+  - conscription
+  - Kryvyi-Rih
+  - Zelensky
 ---
 
 Not only in Russia, the new Verdun meat grinder near Bakhmut and Donetsk is gradually changing the attitude of the population towards the authorities. Title photo banner: "Enough! Tired!" All photos are from local media.

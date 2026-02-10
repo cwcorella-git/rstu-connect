@@ -1,11 +1,15 @@
 ---
-title: Climate change and the summit smokescreen
-author: "Industrial Workers of the World"
+title: "Climate Change and the Summit Smokescreen"
+author: "Ian Angus"
 date: 2015
 category: environmental-justice
 tags:
-  - environment
-  - climate
+  - COP21
+  - Paris
+  - climate-justice
+  - interview
+  - Obama
+  - emissions
 ---
 
 ## **Source:** https://ecology.iww.org/node/1414
