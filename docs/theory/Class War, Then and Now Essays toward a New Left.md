@@ -1,11 +1,12 @@
 ---
-title: 'Class War, Then and Now: Essays toward a New Left'
-author: "Class War Federation"
+title: "Class War, Then and Now: Essays toward a New Left"
+author: "Chris Wright"
 date: 2025
-category: international-solidarity
+category: theory
 tags:
-  - anti-war
-  - class
+  - class-struggle
+  - imperialism
+  - labor-history
 ---
 
 PDF compendium of essays from a book published in 2025, by Chris Wright.

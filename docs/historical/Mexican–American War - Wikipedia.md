@@ -1,11 +1,13 @@
 ---
-title: Mexican–American War
+title: "Mexican–American War"
 author: "Wikipedia contributors"
-date: 2023
-category: international-solidarity
+date: 2020
+category: historical
 tags:
-  - anti-war
+  - war
   - Mexico
+  - imperialism
+  - 19th-century
 ---
 
 

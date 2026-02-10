@@ -1,11 +1,13 @@
 ---
-title: 1944 Guatemala General Strike Overthrows Dictator
-author: Federico Ponce
-date: '1944'
-category: labor
+title: "1944 Guatemala General Strike Overthrows Dictator"
+author: "libcom.org"
+date: 1944
+category: historical
 tags:
-  - general strikes
-  - strikes
+  - general-strike
+  - Guatemala
+  - dictatorship
+  - nonviolence
 ---
 
 Workers and students in neighbouring El Salvador had driven out their dictator by using a general strike to cripple the regime. That same year Guatemalan workers and students also made use of strikes and mass demonstrations to oust their Dictator.

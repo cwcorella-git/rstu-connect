@@ -1,9 +1,12 @@
 ---
-title: Gilles Dauvé
-date: 1850
-category: contemporary-analysis
+title: "Communisation"
+author: "Gilles Dauvé"
+date: 2011
+category: theory
 tags:
-  - theory
+  - communisation
+  - revolution
+  - ultra-left
 ---
 
 # **Communisation**

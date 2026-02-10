@@ -1,13 +1,13 @@
 ---
-title: Anarcho-syndicalist Trans-Feminism
-author: "libcom.org"
-date: 1936
-category: theory
+title: "Anarcho-syndicalist Trans-Feminism"
+author: "Anonymous"
+date: 2016
+category: feminist-theory
 tags:
-  - anarchism
-  - syndicalism
+  - anarcho-syndicalism
+  - transgender
   - feminism
-  - LGBTQ+
+  - capitalism
 ---
 
 Cobbling together a linking up of Anarcho-syndicalism and Trans-Feminism.

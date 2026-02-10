@@ -1,10 +1,13 @@
 ---
-title: Nestor Makhno
-author: Nestor Makhno
+title: "Nestor Makhno: Anarchy's Cossack"
+author: "Alexandre Skirda"
 date: 2004
-category: contemporary-analysis
+category: historical
 tags:
   - anarchism
+  - Makhno
+  - Ukraine
+  - Russian-Revolution
 ---
 
 ## Anarchy's Cossack
