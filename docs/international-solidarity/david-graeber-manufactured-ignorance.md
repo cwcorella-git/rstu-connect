@@ -1,10 +1,14 @@
 ---
-title: Manufactured ignorance
-author: David Graeber
-date: 2/16/2018
-category: contemporary-analysis
+title: "Manufactured Ignorance"
+author: "David Graeber"
+date: 2018
+category: international-solidarity
 tags:
   - Graeber
+  - Rojava
+  - Kurdistan
+  - PKK
+  - media-critique
 ---
 
 This is a story about how a well-meaning liberal American professor can end up becoming an active propagandist for right-wing forces attempting to destroy a feminist revolution.

@@ -1,10 +1,13 @@
 ---
-title: 'Abraham Guillén, ''The military error of "the Left"'''
-author: "libcom.org"
-date: 2024
-category: theory
+title: "The Military Error of the Left"
+author: "Abraham Guillén"
+date: 1980
+category: historical
 tags:
-  - theory
+  - Spanish-Civil-War
+  - guerrilla-warfare
+  - strategy
+  - urban-guerrilla
 ---
 
 A translated excerpt from a book by Abraham Guillén that is military history of the Spanish Civil War that offers a critique of Republican military strategy and simultaneously outlines a hypothetical alternative approach to waging the war. Originally posted: June 17, 2024 atThe Anarchist Book Club Newsletter

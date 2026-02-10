@@ -1,12 +1,13 @@
 ---
 title: "The Problem with Only Striking"
-author: "IWW Bruxelles -"
+author: "IWW Bruxelles"
 date: 2023
-category: "contemporary-analysis"
+category: labor
 tags:
-  - strategy-and-tactics
-  - class-struggle
-  - deep-organizing
+  - strikes
+  - France
+  - strategy
+  - direct-action
 ---
 
 ## strikes, general strikes, France

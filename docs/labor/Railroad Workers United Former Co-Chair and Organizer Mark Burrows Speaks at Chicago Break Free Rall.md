@@ -1,13 +1,13 @@
 ---
-title: "Railroad Workers United Former Co-Chair and Organizer Mark Burrows Speaks at Chicago Break Free"
-author: "Industrial Workers of the World"
+title: "Railroad Workers United Former Co-Chair Mark Burrows Speaks at Chicago Break Free"
+author: "IWW Environmental Unionism Caucus"
 date: 2016
-category: technology-digital-justice
+category: labor
 tags:
-  - organizing
-  - labor
   - railroads
-  - Chicago
+  - RWU
+  - environmental-justice
+  - rail-safety
 ---
 
 ## **Source:** https://ecology.iww.org/node/1677

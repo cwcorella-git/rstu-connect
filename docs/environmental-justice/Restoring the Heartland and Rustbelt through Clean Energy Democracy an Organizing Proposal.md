@@ -1,11 +1,13 @@
 ---
 title: "Restoring the Heartland and Rustbelt through Clean Energy Democracy: an Organizing Proposal"
-author: "That Green Union Guy -"
+author: "IWW Environmental Unionism Caucus"
 date: 2017
 category: environmental-justice
 tags:
+  - clean-energy
+  - just-transition
   - organizing
-  - democracy
+  - climate-justice
 ---
 
 ## **Source:** https://ecology.iww.org/node/2220

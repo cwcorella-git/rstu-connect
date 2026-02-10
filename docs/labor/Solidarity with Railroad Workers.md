@@ -1,12 +1,13 @@
 ---
-title: Solidarity with Railroad Workers
-author: "Industrial Workers of the World"
+title: "Solidarity with Railroad Workers"
+author: "Railroad Workers United / Haymarket Books"
 date: 2022
-category: theory
+category: labor
 tags:
-  - solidarity
-  - labor
   - railroads
+  - RWU
+  - strikes
+  - solidarity
 ---
 
 | Source: https://ecology.iww.org/node/5180|

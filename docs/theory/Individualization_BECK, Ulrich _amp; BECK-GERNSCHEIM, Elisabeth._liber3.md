@@ -1,10 +1,13 @@
 ---
 title: "Individualization"
+author: "Ulrich Beck & Elisabeth Beck-Gernsheim"
 date: 2001
-category: "contemporary-analysis"
+category: theory
 tags:
-  - analysis
-  - current-events
+  - sociology
+  - individualization
+  - modernity
+  - Beck
 ---
 
 
