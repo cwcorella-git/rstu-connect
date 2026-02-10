@@ -1,11 +1,15 @@
 ---
-title: "Paul and Percival Goodman Banning Cars from Manhattan 1961"
-author:
+title: "Banning Cars from Manhattan"
+author: "Paul Goodman and Percival Goodman"
 date: 1961
-category: "contemporary-analysis"
+category: organizing
 tags:
-  - analysis
-  - current-events
+  - urban-planning
+  - cars
+  - Manhattan
+  - New-York
+  - Paul-Goodman
+  - pedestrian-cities
 ---
 
 Peripheral Parking Roads Means, etc. Conclusion

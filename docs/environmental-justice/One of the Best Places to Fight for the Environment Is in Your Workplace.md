@@ -1,11 +1,15 @@
 ---
-title: One of the Best Places to Fight for the Environment Is in Your Workplace
-author: "Libronaught -"
+title: "One of the Best Places to Fight for the Environment Is in Your Workplace"
+author: "Libronaught"
 date: 2021
 category: environmental-justice
 tags:
-  - environment
-  - climate
+  - green-unionism
+  - labor-organizing
+  - climate-justice
+  - Builders-Labourers-Federation
+  - green-bans
+  - Australia
 ---
 
 ## **Source:** https://ecology.iww.org/node/4186

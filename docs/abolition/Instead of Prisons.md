@@ -1,10 +1,14 @@
 ---
-title: Prison Research Education Action Project Instead of Prisons
+title: "Instead of Prisons: A Handbook for Abolitionists"
+author: "Prison Research Education Action Project (PREAP)"
 date: 1976
-category: contemporary-analysis
+category: abolition
 tags:
   - prisons
-  - education
+  - prison-abolition
+  - handbook
+  - alternatives
+  - restorative-justice
 ---
 
 ## **A Handbook for Abolitionists**

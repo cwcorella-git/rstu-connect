@@ -1,9 +1,14 @@
 ---
-title: 'JAC Audio Interview: Slavoj Zizek All Tracks'
+title: "JAC Audio Interview: Slavoj Žižek"
+author: "Journal for the Anthropology of Consciousness"
+date: 2010
 category: theory
 tags:
-  - technology
-  - digital rights
+  - Slavoj-Zizek
+  - philosophy
+  - psychoanalysis
+  - interview
+  - Lacan
 ---
 
 
