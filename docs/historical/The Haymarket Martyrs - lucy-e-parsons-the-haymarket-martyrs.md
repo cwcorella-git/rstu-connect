@@ -1,11 +1,17 @@
 ---
-title: "Te Haymarket Martyrs"
+title: "The Haymarket Martyrs"
 author: "Lucy E. Parsons"
 date: 1926
-category: "arts-culture-music"
+category: historical
 tags:
-  - arts
-  - culture
+  - Haymarket
+  - Chicago
+  - 1886
+  - eight-hour-day
+  - Albert-Parsons
+  - August-Spies
+  - labor-history
+  - anarchism
 ---
 
 ## Lucy E. Parsons

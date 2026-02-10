@@ -1,10 +1,15 @@
 ---
-title: Possibilities
-author: David Graeber
-date: '2007'
-category: contemporary-analysis
+title: "Possibilities: Essays on Hierarchy, Rebellion, and Desire"
+author: "David Graeber"
+date: 2007
+category: theory
 tags:
-  - Graeber
+  - David-Graeber
+  - anthropology
+  - capitalism
+  - hierarchy
+  - utopia
+  - social-theory
 ---
 
 ## Introduction

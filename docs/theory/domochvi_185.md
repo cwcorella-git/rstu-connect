@@ -1,9 +1,15 @@
 ---
-title: "Ledare och ledda – ett naturfenomen?"
+title: "Ledare och ledda – ett naturfenomen? (Leaders and Led – A Natural Phenomenon?)"
+author: "Lena Martinsson"
 date: 2005
 category: theory
 tags:
-  - theory
+  - leadership
+  - class
+  - democracy
+  - Sweden
+  - workplace-organizing
+  - Swedish
 ---
 
 Om klass i arbetsliv och värdegrundsretorik

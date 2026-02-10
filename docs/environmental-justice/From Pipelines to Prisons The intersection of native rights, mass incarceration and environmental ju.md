@@ -1,13 +1,16 @@
 ---
-title: "From Pipelines to Prisons: The intersection of native rights, mass incarceration and environmen"
-author: "Panagioti Tsolkas and Nicholas Todd -"
+title: "From Pipelines to Prisons: The Intersection of Native Rights, Mass Incarceration and Environmental Justice"
+author: "Panagioti Tsolkas and Nicholas Todd"
 date: 2016
-category: labor
+category: environmental-justice
 tags:
-  - prisons
-  - environment
-  - indigenous
-  - fossil fuels
+  - DAPL
+  - prison-strikes
+  - Indigenous
+  - fossil-fuels
+  - abolition
+  - September-9
+  - Attica
 ---
 
 ## **Source:** https://ecology.iww.org/node/1836

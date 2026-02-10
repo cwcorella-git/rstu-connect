@@ -1,10 +1,15 @@
 ---
-title: 'Lyndon Johnson, Howard University Commencement Address (1965)'
+title: "Howard University Commencement Address (1965)"
+author: "Lyndon B. Johnson"
 date: 1965
-category: youth-student-organizing
+category: historical
 tags:
-  - students
-  - youth
+  - civil-rights
+  - LBJ
+  - 1965
+  - voting-rights
+  - affirmative-action
+  - Howard-University
 ---
 
 

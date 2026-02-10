@@ -1,9 +1,15 @@
 ---
-title: Middle Class? Fuck Off!
-author: "libcom.org"
-category: contemporary-analysis
+title: "Middle Class? Fuck Off!"
+author: "Class War Federation"
+date: 2000
+category: theory
 tags:
   - class
+  - middle-class
+  - UK
+  - Class-War
+  - working-class
+  - anarchism
 ---
 
 Article from Class War issue 73 on the role of the middle class in revolutionary politics, and acknowledging some of the shortcomings in the Class War Federation's understanding of class.

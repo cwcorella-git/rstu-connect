@@ -1,11 +1,15 @@
 ---
-title: 'Union co-operatives: what they are and why we need them'
-author: "Industrial Workers of the World"
+title: "Union Co-operatives: What They Are and Why We Need Them"
+author: "Simon Taylor"
 date: 2017
 category: economic-alternatives
 tags:
-  - unions
   - cooperatives
+  - unions
+  - Mondragon
+  - USW
+  - workers-control
+  - just-transition
 ---
 
 green unionism, cooperatives, green syndicalism, United Steelworkers of America (USW), social ecology, just transition By Simon Taylor - New Internationalist , January 12, 2017 Trade unionist Jimmy Reid described alienation as 'the frustration of ordinary people excluded from the process of decision-making'. This frustration is endemic in contemporary neoliberalised economies, and according to commentators, including George Monbiot , it contributes to the rise of populist backlashes and disempowerment. Unions play a vital role in counter-balancing alienation and frustration, responding to organizations imposing alienating practices on their workers. However, neoliberal policies have contributed to a long-term decline of union membership and influence in the Anglosphere and
