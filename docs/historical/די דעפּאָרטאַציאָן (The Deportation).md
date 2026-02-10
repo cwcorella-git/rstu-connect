@@ -1,13 +1,17 @@
 ---
-title: (Deportation The (די דעפּאָרטאַציאָן
-author: "Industrial Workers of the World"
+title: "די דעפּאָרטאַציאָן (The Deportation)"
+author: "Anonymous"
 date: 1919
-category: labor
+category: historical
 tags:
+  - IWW
+  - deportation
+  - Ellis-Island
   - immigration
-  - labor
-  - unions
-  - workers
+  - Red-Scare
+  - Yiddish
+  - 1919
+  - New-York
 ---
 
 ## **Author:** Industrial Workers of the World (IWW)

@@ -1,15 +1,17 @@
 ---
-title: "Curing The English Disease"
-author: "libcom.org"
+title: "Curing the English Disease"
+author: "Black Flag"
 date: 2001
-category: "contemporary-analysis"
+category: historical
 tags:
-  - activism
-  - community-activity
-  - black-flag
-  - claimants-and-unpaid
+  - UK
+  - Labour-Party
+  - New-Labour
+  - trade-unions
+  - working-class
   - 2000s
-  - united-kingdom
+  - labor-militancy
+  - James-Callaghan
 ---
 
 ## revolutionary unionism, Labour Party

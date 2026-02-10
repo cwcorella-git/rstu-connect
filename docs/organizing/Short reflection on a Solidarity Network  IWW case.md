@@ -1,11 +1,16 @@
 ---
-title: Short reflection on a Solidarity Network / IWW case
-author: "Industrial Workers of the World"
+title: "Short Reflection on a Solidarity Network / IWW Case"
+author: "Angry Workers World"
 date: 2019
-category: theory
+category: organizing
 tags:
-  - unions
-  - solidarity
+  - IWW
+  - solidarity-networks
+  - wage-theft
+  - community-organizing
+  - UK
+  - Southall
+  - immigrant-workers
 ---
 
 In spring 2019 our local solidarity network was approached by a building worker, originally from Punjab, who had worked on a shop conversion of a beauty parlour for a female boss from the same background. His English is pretty weak, he had arrived some years back, whereas she and her family is well established and own various properties in the area. They didn't sign any contractual agreements before he started working. He worked on the site for two weeks, after which he was paid £420 in cash. He was promised further payments, of which he had proof in form of text messages, but they payments were never made. He contacted the solidarity network during one of our weekly drop-ins in Southall. The only proof of the fact that he had worked for the boss were photos he took of the work in progress (plastering, tiling, painting, fixing of mirror units etc.). We wrote an IWW Union letter to the store address, asking the boss to pay the outstanding £1,600. She replied by saying that the builder was a family friend, that he never gave an estimate and that his work was not up to standards. She also said that he was employed through a contractor, not by her directly. We asked her to give us an estimate of how many hours the builder had worked and the contact of the building contractor, for which the builder allegedly had worked for. She did not want to give us this information.

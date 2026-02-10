@@ -1,12 +1,16 @@
 ---
 title: "John Reed Clubs"
-author: "Wikipedia contributors"
-date: 1930
-category: "contemporary-analysis"
+author: "Wikipedia"
+date: 2020
+category: historical
 tags:
-  - analysis
-  - current-events
-  - wikipedia
+  - John-Reed
+  - 1930s
+  - Communist-Party
+  - cultural-organizing
+  - artists
+  - writers
+  - Great-Depression
 ---
 
 ## Contributors to Wikimedia projects

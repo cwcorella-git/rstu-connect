@@ -1,12 +1,15 @@
 ---
-title: Slavery And The Origins Of The American Police State
-author: Ben Fountain
-date: '2018'
+title: "Slavery and the Origins of the American Police State"
+author: "Ben Fountain"
+date: 2018
 category: abolition
 tags:
-  - police
-  - abolition
-  - prisons
+  - police-abolition
+  - slavery
+  - slave-patrols
+  - United-States
+  - racism
+  - history
 ---
 
 [ibw21.org](https://ibw21.org/editors-choice/slavery-and-the-origins-of-the-american-police-state/)
