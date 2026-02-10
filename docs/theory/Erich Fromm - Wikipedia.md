@@ -1,12 +1,13 @@
 ---
 title: "Erich Fromm"
-author: "Wikipedia contributors"
-date: 1947
-category: "contemporary-analysis"
+author: "Wikipedia"
+date: 2024
+category: theory
 tags:
-  - analysis
-  - current-events
-  - wikipedia
+  - Frankfurt-School
+  - psychoanalysis
+  - Marxist-humanism
+  - social-psychology
 ---
 
 ## Contributors to Wikimedia projects

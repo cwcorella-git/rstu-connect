@@ -1,11 +1,13 @@
 ---
-title: Irish Anarchist Review Issue 11 Summer 2015
-author: Murray Bookchin
-date: '2025'
-category: theory
+title: "Irish Anarchist Review Issue 11 - Summer 2015"
+author: "Irish Anarchist Review Editorial Committee"
+date: 2015
+category: organizing
 tags:
   - anarchism
   - Ireland
+  - water-charges
+  - austerity
 ---
 
 Issue 11 of Irish Anarchist Review magazine.

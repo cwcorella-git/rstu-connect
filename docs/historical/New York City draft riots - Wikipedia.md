@@ -1,15 +1,14 @@
 ---
-title: New York City draft riots - Wikipedia
-author: Wikipedia
-date: '2017'
-category: international-solidarity
+title: "New York City Draft Riots"
+author: "Wikipedia"
+date: 2024
+category: historical
 tags:
-  - anti-war
-  - peace
-  - wikipedia
-  - riots
-  - urban
-  - New York
+  - draft-riots
+  - Civil-War
+  - 1863
+  - NYC
+  - racism
 ---
 
 New York City draft riots - Wikipedia                      about:reader?url=https%3A%2F%2Fen.wikipedia.org...

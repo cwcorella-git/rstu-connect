@@ -1,12 +1,13 @@
 ---
-title: 'Turkish miners: Soma workers murdered for profits'
-author: "libcom.org"
+title: "Turkish Miners: Soma Workers Murdered for Profits"
+author: "D. Valerian / Internationalist Communist Tendency"
 date: 2014
-category: environmental-justice
+category: labor
 tags:
-  - labor
-  - environment
-  - climate
+  - Turkey
+  - mining
+  - safety
+  - privatization
 ---
 
 Hundreds of thousands of workers have taken part in a one-day strike, and clashes with police have broken out, after hundreds of coal miners died in Turkey's worst mining disaster, which was no "accident".

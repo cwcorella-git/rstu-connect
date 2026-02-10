@@ -1,11 +1,13 @@
 ---
-title: All Tenants Get Right to Counsel in Kansas City
-author: Patricia Bordallo Dibildox
-date: '2019'
+title: "All Tenants Get Right to Counsel in Kansas City"
+author: "Sandra Larson / Shelterforce"
+date: 2022
 category: housing
 tags:
-  - tenants
-  - urban
+  - right-to-counsel
+  - eviction
+  - Kansas-City
+  - KC-Tenants
 ---
 
 ## Sandra Larson

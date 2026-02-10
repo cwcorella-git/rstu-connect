@@ -1,12 +1,13 @@
 ---
-title: "Wobbling to Victory: Are militant unions anarchist wreckers or the future of the labour movement?"
-author: "Dek Keenan -"
+title: "Wobbling to Victory: Are Militant Unions Anarchist Wreckers or the Future of the Labour Movement?"
+author: "Dek Keenan"
 date: 2015
 category: labor
 tags:
-  - unions
-  - anarchism
-  - labor
+  - IWW
+  - anarcho-syndicalism
+  - organizing
+  - UK
 ---
 
 ## **Source:** https://ecology.iww.org/node/1370

@@ -1,12 +1,13 @@
 ---
-title: Ferguson police department report
-author: Racial Bias
-date: '2010'
+title: "Investigation of the Ferguson Police Department"
+author: "U.S. Department of Justice - Civil Rights Division"
+date: 2015
 category: abolition
 tags:
   - police
-  - abolition
-  - prisons
+  - Ferguson
+  - racial-bias
+  - DOJ
 ---
 
 Investigation of the

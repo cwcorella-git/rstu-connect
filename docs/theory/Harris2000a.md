@@ -1,11 +1,13 @@
 ---
-title: "Understanding Emotion"
+title: "Awareness of Emotion"
 author: "Paul L. Harris"
-date: 1995
-category: "contemporary-analysis"
+date: 2000
+category: theory
 tags:
-  - analysis
-  - current-events
+  - psychology
+  - emotion
+  - child-development
+  - cognition
 ---
 
 ### CHAPTER 18

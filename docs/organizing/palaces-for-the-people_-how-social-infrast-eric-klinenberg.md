@@ -1,11 +1,13 @@
 ---
-title: 'Palaces for the People: How Social Infrast - Eric Klinenberg'
-author: Eric Klinenberg
-date: '2018'
+title: "Palaces for the People: How Social Infrastructure Can Help Fight Inequality"
+author: "Eric Klinenberg"
+date: 2018
 category: organizing
 tags:
-  - organizing
-  - direct-action
+  - social-infrastructure
+  - libraries
+  - community
+  - inequality
 ---
 
 Praise for
