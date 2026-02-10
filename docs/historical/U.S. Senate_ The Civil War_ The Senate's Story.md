@@ -1,10 +1,14 @@
 ---
-title: 'U. S. Senate: The Civil War: The Senate''s Story'
-date: 1870
-category: international-solidarity
+title: "U.S. Senate: The Civil War - The Senate's Story"
+author: "U.S. Senate Historical Office"
+date: 2024
+category: historical
 tags:
-  - anti-war
-  - peace
+  - Civil-War
+  - U.S.-history
+  - Lincoln
+  - Reconstruction
+  - 1865
 ---
 
 [senate.gov](https://www.senate.gov/artandhistory/history/common/civil_war/Victory Tragedy Reconstruction.htm)

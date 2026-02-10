@@ -1,10 +1,13 @@
 ---
-title: "Industrial Society and Its Future"
+title: "Industrial Society and Its Future (Unabomber Manifesto)"
+author: "Theodore Kaczynski"
 date: 1995
-category: "contemporary-analysis"
+category: theory
 tags:
-  - analysis
-  - current-events
+  - anti-technology
+  - anarcho-primitivism
+  - industrial-society
+  - controversial
 ---
 
 # **FC**

@@ -1,9 +1,14 @@
 ---
-title: Feminism for the 99 Percent A Manifesto (1)
-date: 2021
+title: "Feminism for the 99%: A Manifesto"
+author: "Cinzia Arruzza, Tithi Bhattacharya, Nancy Fraser"
+date: 2019
 category: feminist-theory
 tags:
   - feminism
+  - class-struggle
+  - manifesto
+  - 99-percent
+  - intersectionality
 ---
 
 **Article** in Journal of International Women's Studies · February 2021 CITATIONS 0 READS 4,731

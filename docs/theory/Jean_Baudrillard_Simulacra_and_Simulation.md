@@ -1,11 +1,14 @@
 ---
-title: Jean Baudrillard
-author: JEAN BAUDRILLARD TRANSLATED BY SHEILA FARIA GLASER
+title: "Simulacra and Simulation"
+author: "Jean Baudrillard"
 date: 1981
-category: contemporary-analysis
+category: theory
 tags:
-  - analysis
-  - current-events
+  - Baudrillard
+  - postmodernism
+  - simulation
+  - hyperreality
+  - philosophy
 ---
 
 
