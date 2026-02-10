@@ -1,16 +1,17 @@
 ---
-title: "Jean Grave on Colonization – Jeff Shantz"
-author: "libcom.org"
-date: 1912
-category: "contemporary-analysis"
+title: "Jean Grave on Colonization"
+author: "Jeff Shantz"
+date: 2022
+category: theory
 tags:
-  - jeff-shantz
+  - Jeff-Shantz
+  - Jean-Grave
   - colonialism
   - anti-colonialism
-  - settler-colonialism
-  - jean-grave
-  - anarchism
   - imperialism
+  - anarchism
+  - anarchist-history
+  - Manifesto-of-the-16
 ---
 
 This article examines Jean Grave's pamphlet "Colonization." "Colonization" remains a compelling, if problematic, polemic. It presents both a seething criticism of colonization and imperialist expansion while being limited by a Eurocentric developmentalist framework.

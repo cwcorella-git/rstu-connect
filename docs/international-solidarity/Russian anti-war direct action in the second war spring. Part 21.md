@@ -1,12 +1,18 @@
 ---
-title: Russian anti-war direct action in the second war spring. Part 21
-author: "libcom.org"
-date: 2022
-category: arts-culture-music
+title: "Russian Anti-War Direct Action in the Second War Spring: Part 21"
+author: "Nihilist"
+date: 2023
+category: international-solidarity
 tags:
-  - direct action
-  - anti-war
   - Russia
+  - Ukraine
+  - anti-war
+  - direct-action
+  - sabotage
+  - desertion
+  - arson
+  - military-refusers
+  - conscription
 ---
 
 Let's see what interesting things happened last weeks in the Russian radical underground, except for the much more sensational operations of the Ukrainian special services. The title photo from mid-April shows how in three cities at once - Ulyanovsk, Rostov and Yekaterinburg - somebody hacked billboards and postedanti-war statementsfrom mobilized soldiers or their relatives.

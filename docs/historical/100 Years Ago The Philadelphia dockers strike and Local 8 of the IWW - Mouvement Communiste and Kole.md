@@ -1,16 +1,19 @@
 ---
 title: "100 Years Ago: The Philadelphia Dockers Strike and Local 8 of the IWW"
-author: "Mouvement Communiste and Koïé Dodji"
+author: "Mouvement Communiste, Koïé Dodji"
 date: 2013
 category: historical
 tags:
   - IWW
-  - dock-workers
   - Philadelphia
-  - 1913-strike
+  - dock-workers
   - Local-8
-  - labor-history
   - Ben-Fletcher
+  - 1913-strike
+  - MTW
+  - Maritime-Transport-Workers
+  - labor-history
+  - centennial
 ---
 
 A text published to celebrate the hundredth anniversary of an important strike launched by the IWW on the Philadelphia docks, analysing both the strengths and weaknesses of the IWW at the time.

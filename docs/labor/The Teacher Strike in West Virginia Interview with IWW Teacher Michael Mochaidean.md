@@ -1,12 +1,17 @@
 ---
 title: "The Teacher Strike in West Virginia: Interview with IWW Teacher Michael Mochaidean"
-author: "Radical Education Department -"
+author: "Radical Education Department"
 date: 2018
-category: organizing
+category: labor
 tags:
-  - strikes
-  - unions
-  - education
+  - West-Virginia
+  - teachers-strike
+  - IWW
+  - Michael-Mochaidean
+  - education-workers
+  - wildcat-strike
+  - 2018
+  - interview
 ---
 
 ## **Source:** https://ecology.iww.org/node/2844
