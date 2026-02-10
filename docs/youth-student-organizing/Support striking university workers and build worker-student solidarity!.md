@@ -1,12 +1,16 @@
 ---
-title: Support striking university workers and build worker-student solidarity!
-author: "Industrial Workers of the World"
-date: 2022
+title: "Support Striking University Workers and Build Worker-Student Solidarity!"
+author: "IWW"
+date: 2021
 category: youth-student-organizing
 tags:
+  - UCU
+  - United-Kingdom
+  - university-workers
+  - strikes
   - solidarity
-  - labor
   - education
+  - student-organizing
 ---
 
 ## **Source:**

@@ -1,11 +1,16 @@
 ---
-title: "Helge Döhring with DC: Anarcho-Syndicalism Under and Against the Nazis, an Interview"
-author: Rudolf Rocker
-date: '2013'
-category: labor
+title: "Anarcho-Syndicalism Under and Against the Nazis: An Interview with Helge Döhring"
+author: "Helge Döhring and DC"
+date: 2023
+category: historical
 tags:
-  - anarchism
-  - syndicalism
+  - Germany
+  - Nazis
+  - fascism
+  - anarcho-syndicalism
+  - resistance
+  - interview
+  - 1933-1945
 ---
 
 ## **Source:**

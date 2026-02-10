@@ -1,11 +1,16 @@
 ---
-title: "Berkeley Federation of Teachers Resolution in Support of Resistance to the Dakota Access Pipeli"
-author: "Industrial Workers of the World"
+title: "Berkeley Federation of Teachers Resolution in Support of Resistance to the Dakota Access Pipeline"
+author: "Berkeley Federation of Teachers"
 date: 2016
-category: labor
+category: environmental-justice
 tags:
-  - education
-  - fossil fuels
+  - Standing-Rock
+  - DAPL
+  - Indigenous
+  - teachers
+  - labor
+  - fossil-fuels
+  - divestment
 ---
 
 ## **Source:** https://ecology.iww.org/node/1927

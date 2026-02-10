@@ -1,11 +1,15 @@
 ---
-title: Green Syndicalism – A Very Brief Introduction
+title: "Green Syndicalism: A Very Brief Introduction"
 author: "Jeff Shantz"
+date: 2021
 category: environmental-justice
 tags:
   - syndicalism
   - environment
   - climate
+  - ecosyndicalism
+  - landback
+  - Indigenous-solidarity
 ---
 
 ## climate change, Climate Strike

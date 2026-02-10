@@ -1,12 +1,15 @@
 ---
-title: "Satyagraha Wikipedia"
-author: "Wikipedia contributors"
-date: 1930
-category: contemporary-analysis
+title: "Satyagraha"
+author: "Wikipedia"
+date: 2020
+category: theory
 tags:
-  - analysis
-  - current-events
-  - wikipedia
+  - Gandhi
+  - nonviolence
+  - civil-resistance
+  - India
+  - satyagraha
+  - direct-action
 ---
 
 ## [en.wikipedia.org](https://en.wikipedia.org/wiki/Satyagraha)

@@ -1,11 +1,16 @@
 ---
-title: 'I Am an Anarchist: Remembering Anarchist Prisoner Brian McCarvill'
-author: Anarchist Black Cross
-date: '2025'
-category: theory
+title: "I Am an Anarchist: Remembering Anarchist Prisoner Brian McCarvill"
+author: "Perilous Chronicle"
+date: 2020
+category: abolition
 tags:
-  - anarchism
-  - prisons
+  - prison-abolition
+  - Brian-McCarvill
+  - Oregon
+  - COVID-19
+  - anarchist-prisoners
+  - censorship
+  - ODOC
 ---
 
 States, anarchists, repression, prisons, censorship, Anarchist Black Cross, Oregon, Covid-19, Perilous Chronicle, Brian McCarvill

@@ -1,11 +1,15 @@
 ---
-title: The Unique and Its Property
-author: 'Max Stirner, Wolfi Landstreicher'
-date: '2025'
+title: "The Unique and Its Property"
+author: "Max Stirner"
+date: 1845
 category: theory
 tags:
+  - Max-Stirner
+  - egoism
+  - individualism
+  - anarchism
   - property
-  - theory
+  - philosophy
 ---
 
             Max Stirner
