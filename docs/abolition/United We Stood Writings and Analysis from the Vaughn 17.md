@@ -1,16 +1,13 @@
 ---
 title: "United We Stood: Writings and Analysis from the Vaughn 17"
-author: "libcom.org"
-date: 2017
-category: "contemporary-analysis"
+author: "It's Going Down"
+date: 2021
+category: abolition
 tags:
-  - united-states
-  - riots
-  - repression
   - prisons
-  - pennsylvania
-  - delaware
-  - pdf
+  - uprising
+  - Delaware
+  - political-prisoners
 ---
 
 A collection of new writings and analysis from the Vaughn 17, a group of prisoners who faced charges following an uprising at the James T. Correctional Center in Delaware. Most of the Vaughn 17 are still being held indefinitely in solitary confinement in Pennsylvania. This zine was first posted at It's Going Down.

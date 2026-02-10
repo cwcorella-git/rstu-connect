@@ -1,11 +1,13 @@
 ---
-title: 'Listen, Marxist! - Murray Bookchin'
+title: "Listen, Marxist!"
 author: "Murray Bookchin"
-date: 1937
+date: 1969
 category: theory
 tags:
-  - socialism
   - Bookchin
+  - critique
+  - Marxism
+  - New-Left
 ---
 
 ## Labor Party

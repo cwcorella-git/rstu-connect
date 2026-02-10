@@ -1,12 +1,13 @@
 ---
-title: CrimethInc. On Rent Strike against Gentrification and ...
-category: labor
-author: Marshall Elementary
+title: "On Rent Strike Against Gentrification: The Station 40 Eviction Battle"
+author: "CrimethInc / Station 40"
+date: 2020
+category: housing
 tags:
-  - rent strikes
-  - strikes
-  - housing
+  - rent-strike
   - gentrification
+  - San-Francisco
+  - eviction
 ---
 
 CrimethInc. : On Rent Strike against Gentrification and ... • Tenants Fight Longtime Neighborhood Landlord at 16th and Mission • Housing collective avoids eviction from Mission district home Why did you decide to go on strike this time? Coronavirus first began getting traction around these parts via memes, fleeting stories from news sources, and whispers from friends of friends in social services. We began listening to the whispers early and prepared as much as possible. It was less than a week later when news from Italy started coming in, travel bans were put in place, and--most notably--the toilet paper was gone. Within a couple more days, all events were canceled, bars and restaurants had closed, and a soft lockdown quarantine was underway. At that point, 90% of the house had either lost work entirely or had their hours cut significantly. Meanwhile, the other 10% is now being asked to work twice as hard in social services to help maneuver through this crisis--but they are not getting paid any more for their extra efforts. This crisis has shined a glaring light on the injustices relating to housing inequality, the absence of affordable medical care, the astronomical costs of rent in the Bay Area, and the ways that capitalism robs us of our time, energy, and quality of life. When this situation became clear, there was no other choice but to declare a rent strike. Trying to hustle during a mandatory shut-in not only puts us in danger but also endangers others who are more vulnerable. However, this opens a larger question. Some projections say that after several weeks of this shutdown (though it may be 

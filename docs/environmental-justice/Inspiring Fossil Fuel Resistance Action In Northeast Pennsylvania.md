@@ -1,12 +1,13 @@
 ---
-title: Inspiring Fossil Fuel Resistance Action In Northeast Pennsylvania
-author: "Ted Glick -"
+title: "Inspiring Fossil Fuel Resistance Action in Northeast Pennsylvania"
+author: "Ted Glick"
 date: 2016
 category: environmental-justice
 tags:
-  - fossil fuels
-  - environment
-  - climate
+  - fossil-fuels
+  - pipeline
+  - direct-action
+  - Pennsylvania
 ---
 
 ## **Source:** https://ecology.iww.org/node/1493

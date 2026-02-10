@@ -1,11 +1,13 @@
 ---
-title: This World We Must Leave
-author: Jacques Camatte
-date: 1973
-category: contemporary-analysis
+title: "This World We Must Leave and Other Essays"
+author: "Jacques Camatte"
+date: 1995
+category: theory
 tags:
-  - analysis
-  - current-events
+  - Camatte
+  - communization
+  - autonomy
+  - critique
 ---
 
 ## AND OTHER ESSAYS

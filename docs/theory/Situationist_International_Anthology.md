@@ -1,11 +1,13 @@
 ---
-title: Situationist International Anthology
-author: "Situationist International"
-date: 1958
-category: international-solidarity
+title: "Situationist International Anthology"
+author: "Ken Knabb (ed.)"
+date: 2006
+category: theory
 tags:
-  - international
-  - solidarity
+  - Situationism
+  - Debord
+  - spectacle
+  - May-68
 ---
 
 

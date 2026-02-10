@@ -1,10 +1,13 @@
 ---
-title: "Kevin Carson"
+title: "Free Culture Benefits Everyone But the Middle Man"
+author: "Kevin Carson"
 date: 2016
-category: "arts-culture-music"
+category: economic-alternatives
 tags:
-  - arts
-  - culture
+  - free-culture
+  - copyright
+  - C4SS
+  - commons
 ---
 
 ## **Free Culture Benefits Everyone But the Middle Man**

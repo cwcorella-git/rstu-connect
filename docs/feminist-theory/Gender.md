@@ -1,9 +1,13 @@
 ---
-title: Ivan Illich
-date: 1973
+title: "Gender"
+author: "Ivan Illich"
+date: 1982
 category: feminist-theory
 tags:
-  - feminism
+  - gender
+  - vernacular
+  - Illich
+  - economics
 ---
 
 # **Gender**
