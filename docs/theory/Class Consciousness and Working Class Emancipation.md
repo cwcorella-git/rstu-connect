@@ -1,11 +1,13 @@
 ---
-title: Class Consciousness And Working Class Emancipation
-author: "libcom.org"
-date: '1914'
-category: labor
+title: "Class Consciousness and Working Class Emancipation"
+author: "Communist Workers' Organisation (CWO)"
+date: 2021
+category: theory
 tags:
-  - class
-  - theory
+  - class-consciousness
+  - organization
+  - Angry-Workers-of-the-World
+  - Communist-Left
 ---
 
 Organisation (CWO), SI Cobas, base unions, Communist Left, Angry Workers of the World, organisation

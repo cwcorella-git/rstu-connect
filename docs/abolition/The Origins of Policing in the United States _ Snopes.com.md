@@ -1,9 +1,13 @@
 ---
-title: The Origins of Policing in the United States
+title: "The Origins of Policing in the United States"
+author: "Brooke Binkowski / Snopes"
 date: 2016
-category: contemporary-analysis
+category: abolition
 tags:
   - police
+  - slave-patrols
+  - United-States
+  - history
 ---
 
 [snopes.com](https://www.snopes.com/fact-check/the-origins-of-policing-in-the-united-states/)

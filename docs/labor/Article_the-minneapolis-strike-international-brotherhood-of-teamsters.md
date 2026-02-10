@@ -1,13 +1,14 @@
 ---
-title: The Minneapolis Strike International Brotherhood of Teamsters
-author: Unknown
-date: '2025'
+title: "The Minneapolis Strike: International Brotherhood of Teamsters"
+author: "Teamsters"
+date: 1934
 category: labor
 tags:
+  - Minneapolis
+  - Teamsters
   - strikes
-  - labor
-  - unions
-  - workers
+  - 1934
+  - Trotskyism
 ---
 
 The Minneapolis Strike - International Brotherhood of ... about:reader?url=https%3A%2F%2Fteamster.org%2Fa...

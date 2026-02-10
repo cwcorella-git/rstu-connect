@@ -1,12 +1,13 @@
 ---
-title: The Abolition Of Work And Other Essays
-author: Ed Lawrence
-date: '2024'
-category: abolition
+title: "The Abolition of Work and Other Essays"
+author: "Bob Black"
+date: 1986
+category: theory
 tags:
-  - abolition
-  - police
-  - prisons
+  - Bob-Black
+  - work
+  - post-left-anarchism
+  - anti-work
 ---
 
 ## **Bob Black**
