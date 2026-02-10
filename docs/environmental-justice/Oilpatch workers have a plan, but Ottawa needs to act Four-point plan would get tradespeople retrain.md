@@ -1,11 +1,15 @@
 ---
-title: "Oilpatch workers have a plan, but Ottawa needs to act: Four-point plan would get tradespeople r"
-author: "Lyndsey Easton -"
+title: "Oilpatch Workers Have a Plan, But Ottawa Needs to Act"
+author: "Lyndsey Easton"
 date: 2016
 category: environmental-justice
 tags:
-  - labor
-  - fossil fuels
+  - just-transition
+  - Iron-and-Earth
+  - Canada
+  - oil-workers
+  - renewable-energy
+  - retraining
 ---
 
 ## **Source:** https://ecology.iww.org/node/1893

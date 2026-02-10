@@ -1,11 +1,15 @@
 ---
-title: Class War newspaper
+title: "Class War Newspaper Archive"
 author: "Class War Federation"
 date: 1983
-category: international-solidarity
+category: historical
 tags:
-  - anti-war
-  - class
+  - Class-War
+  - UK
+  - 1980s
+  - 1990s
+  - anarchist-media
+  - tabloid
 ---
 
 | Date: Unknown |

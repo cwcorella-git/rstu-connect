@@ -1,11 +1,15 @@
 ---
-title: Direct Action
-author: David Graeber
-date: 'October 8, 2009'
+title: "Direct Action: An Ethnography"
+author: "David Graeber"
+date: 2009
 category: organizing
 tags:
-  - direct action
+  - direct-action
   - Graeber
+  - ethnography
+  - alterglobalization
+  - Seattle-WTO
+  - Zapatistas
 ---
 
 ## **PREFACE**

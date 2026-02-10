@@ -1,14 +1,15 @@
 ---
-title: "A new Lucas Plan for the future"
-author: "David King -"
+title: "A New Lucas Plan for the Future"
+author: "David King"
 date: 2016
-category: "contemporary-analysis"
+category: labor
 tags:
-  - lucas-plan
-  - green-syndicalism
-  - green-unionism
-  - ecosocialism
+  - Lucas-Plan
   - just-transition
+  - green-unionism
+  - UK
+  - workers-control
+  - 1970s
 ---
 
 ## **Source:** https://ecology.iww.org/node/1992

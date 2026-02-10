@@ -1,12 +1,15 @@
 ---
-title: "Black bloc"
-author: "Wikipedia contributors"
-date: 2017
-category: "contemporary-analysis"
+title: "Black Bloc"
+author: "Wikipedia"
+date: 2024
+category: organizing
 tags:
-  - analysis
-  - current-events
-  - wikipedia
+  - black-bloc
+  - tactics
+  - protest
+  - Seattle-WTO
+  - autonomism
+  - anonymity
 ---
 
 ## Contributors to Wikimedia projects

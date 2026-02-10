@@ -1,10 +1,15 @@
 ---
-title: "Against the Nationalist Fragmentation of Cyberspace & Against \"Astroturf Activism\""
+title: "Internet & Ideology: Against Nationalist Fragmentation of Cyberspace"
+author: "Michael Schmidt"
 date: 2013
-category: international-solidarity
+category: technology-digital-justice
 tags:
-  - technology
-  - digital rights
+  - internet
+  - surveillance
+  - Arab-Spring
+  - Russia
+  - China
+  - digital-rights
 ---
 
 ### **Michael Schmidt**

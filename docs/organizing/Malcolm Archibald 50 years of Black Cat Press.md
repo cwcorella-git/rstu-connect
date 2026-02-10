@@ -1,15 +1,15 @@
 ---
-title: "Malcolm Archibald: 50 years of Black Cat Press"
-author: "libcom.org"
+title: "Malcolm Archibald: 50 Years of Black Cat Press"
+author: "Sean Patterson"
 date: 2024
-category: "contemporary-analysis"
+category: organizing
 tags:
-  - malcolm-archibald
-  - edmonton
-  - anarchism
-  - sean-patterson
-  - canada
-  - freedom-press
+  - Black-Cat-Press
+  - anarchist-publishing
+  - Edmonton
+  - Canada
+  - Nestor-Makhno
+  - Murray-Bookchin
 ---
 
 In this interview conducted by Sean Patterson, the founder of Edmonton's anarchist publishing house, Malcolm Archibald looks back on its legacy.

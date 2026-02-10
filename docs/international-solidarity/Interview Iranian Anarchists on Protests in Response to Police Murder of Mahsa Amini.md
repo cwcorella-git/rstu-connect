@@ -1,11 +1,15 @@
 ---
 title: "Interview: Iranian Anarchists on Protests in Response to Police Murder of Mahsa Amini"
+author: "Black Rose Anarchist Federation"
 date: 2022
-category: feminist-theory
+category: international-solidarity
 tags:
-  - protests
-  - anarchism
-  - police
+  - Iran
+  - Mahsa-Amini
+  - Federation-of-Anarchism-Era
+  - police-violence
+  - womens-liberation
+  - morality-police
 ---
 
 ## **Source:**
