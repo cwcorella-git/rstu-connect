@@ -1,12 +1,13 @@
 ---
-title: 'Union Busting in Fast Fashion: IWW Cork'
-author: "Industrial Workers of the World"
+title: "Union Busting in Fast Fashion: IWW Cork"
+author: "IWW Cork"
 date: 2023
-category: contemporary-analysis
+category: labor
 tags:
-  - unions
-  - labor
-  - workers
+  - union-busting
+  - garment-workers
+  - Myanmar
+  - Ireland
 ---
 
 ## **Source:** https://ecology.iww.org/node/6104

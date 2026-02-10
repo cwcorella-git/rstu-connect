@@ -1,12 +1,13 @@
 ---
-title: Culture Leisure and the Police
-author: "libcom.org"
-date: '2025'
+title: "Culture, Leisure and the Police"
+author: "Situationist International"
+date: 1966
 category: abolition
 tags:
   - police
-  - abolition
-  - prisons
+  - urbanism
+  - spectacle
+  - Situationist
 ---
 
 A short text on the police and urbanism. From International Situationniste #10 (March 1966).

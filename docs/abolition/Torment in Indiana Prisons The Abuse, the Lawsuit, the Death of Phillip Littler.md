@@ -1,11 +1,13 @@
 ---
 title: "Torment in Indiana Prisons: The Abuse, the Lawsuit, the Death of Phillip Littler"
-author: "libcom.org"
+author: "Kevin 'Rashid' Johnson"
 date: 2020
-category: contemporary-analysis
+category: abolition
 tags:
   - prisons
-  - India
+  - Indiana
+  - police-violence
+  - prison-abuse
 ---
 
 Kevin 'Rashid' Johnson, currently held in the Indiana prison system, reports on a particularly brutal case of abuse.
