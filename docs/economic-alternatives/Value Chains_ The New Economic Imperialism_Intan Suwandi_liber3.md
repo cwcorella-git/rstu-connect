@@ -1,10 +1,17 @@
 ---
-title: Value Chains
+title: "Value Chains: The New Economic Imperialism"
+author: "Intan Suwandi"
 date: 2019
 category: economic-alternatives
 tags:
-  - technology
-  - digital rights
+  - imperialism
+  - global-value-chains
+  - labor-exploitation
+  - global-South
+  - Intan-Suwandi
+  - monopoly-capital
+  - multinational-corporations
+  - Monthly-Review
 ---
 
 

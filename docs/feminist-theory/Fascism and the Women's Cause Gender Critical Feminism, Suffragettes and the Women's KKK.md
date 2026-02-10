@@ -1,11 +1,19 @@
 ---
 title: "Fascism and the Women's Cause: Gender Critical Feminism, Suffragettes and the Women's KKK"
-author: "libcom.org"
-date: 2011
+author: "Michael Richmond and Alex Charnley"
+date: 2023
 category: feminist-theory
 tags:
   - feminism
-  - women
+  - fascism
+  - TERF
+  - transphobia
+  - gender-critical
+  - white-supremacy
+  - suffragettes
+  - KKK
+  - Michael-Richmond
+  - Alex-Charnley
 ---
 
 While the links between the anti-trans moral panic and the far-right are well-documented, 'Gender Critical' feminists are able shield themselves from that connection because of the common assumption that feminism and fascism are polar opposites. But, at many points in history, the distinction between feminism and fascism has been far from clear cut.

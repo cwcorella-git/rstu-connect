@@ -1,15 +1,20 @@
 ---
-title: "Greek public broadcasting shutdown"
+title: "Greek Public Broadcasting Shutdown"
 author: "libcom.org"
-category: "contemporary-analysis"
+date: 2013
+category: labor
 tags:
   - strikes
   - general-strikes
-  - greece
+  - Greece
+  - 2013
+  - ERT
+  - broadcasting
+  - media-workers
   - occupations
-  - job-losses
-  - radio
-  - greece-against
+  - Troika
+  - austerity
+  - New-Democracy
 ---
 
 ## austerity, ERT

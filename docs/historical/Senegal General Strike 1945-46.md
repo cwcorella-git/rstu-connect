@@ -1,11 +1,19 @@
 ---
-title: 'Senegal General Strike: 1945-46'
+title: "Senegal General Strike: 1945-46"
 author: "libcom.org"
-date: 1945
-category: contemporary-analysis
+date: 2010
+category: historical
 tags:
-  - general strikes
+  - general-strikes
   - strikes
+  - Senegal
+  - 1945
+  - 1946
+  - French-West-Africa
+  - Dakar
+  - CGT
+  - colonialism
+  - wage-struggle
 ---
 
 Rising prices and stagnant wages led to a strike wave in the French colony of Senegal. In addition to wage increases the strike forced the governor to recognise workers organisations and influences over struggles in the region.

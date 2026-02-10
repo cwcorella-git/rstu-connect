@@ -1,11 +1,16 @@
 ---
-title: "The Nature of Money"
+title: "Money: An Introductory Bibliography"
 author: "James Herod"
 date: 1994
-category: "contemporary-analysis"
+category: economic-alternatives
 tags:
-  - analysis
-  - current-events
+  - money
+  - bibliography
+  - James-Herod
+  - state-theory-of-money
+  - credit
+  - abolition
+  - economics
 ---
 
 # James Herod

@@ -1,12 +1,16 @@
 ---
-title: 'On Targeted Deportations: They hunt in broad daylight.'
-date: 2025
-category: labor
+title: "On Targeted Deportations: They hunt in broad daylight"
+date: 2024
+category: abolition
 tags:
+  - deportations
+  - ICE
   - immigration
-  - labor
-  - unions
-  - workers
+  - Palestine
+  - advocacy
+  - fear
+  - immigration-enforcement
+  - repression
 ---
 
 taal MP3 0:00 / 1354.3967346938775 1× Beginning with a journal entry from a few days ago: everything is upside down. I did not know what it would be like to watch my— to witness… people that feel like my own growing flesh vanish in the night. in the afternoon! in the broad, bold, daylight. I remember when my grandmother came out of the basement. I felt like I hadn't seen her in the light since we picked her up at the airport— those days of bright white gap tooth grins and African safari calling cards. She came from the war and went promptly into my mother's basement, into a different kind of hiding. The day she came into the light, the golden

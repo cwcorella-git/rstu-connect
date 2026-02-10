@@ -1,12 +1,17 @@
 ---
-title: The Ghost Of Anarcho Syndicalism Murray Bookchin
-author: Murray Bookchin
-date: '1949'
+title: "The Ghost of Anarcho-Syndicalism"
+author: "Murray Bookchin"
+date: 1992
 category: theory
 tags:
+  - Murray-Bookchin
+  - anarcho-syndicalism
   - anarchism
-  - syndicalism
-  - Bookchin
+  - critique
+  - CNT
+  - CGT
+  - labor-movement
+  - IWW
 ---
 
 ## **Tags:** Murray Bookchin, anarcho-syndicalism
