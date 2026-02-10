@@ -1,10 +1,17 @@
 ---
-title: 'Ronald Creagh, Gabriel Kuhn, Jesse Cohn'
-date: 1881
-category: contemporary-analysis
+title: "Anarchism in the United States"
+author: "Ronald Creagh, Gabriel Kuhn, Jesse Cohn"
+date: 2009
+category: theory
 tags:
   - anarchism
-  - theory
+  - United-States
+  - labor-history
+  - IWW
+  - communal-experiments
+  - Josiah-Warren
+  - American-Revolution
+  - anarchist-history
 ---
 
 # **Anarchism in the United States 2009**

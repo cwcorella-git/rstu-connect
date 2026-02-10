@@ -1,12 +1,17 @@
 ---
-title: "Revolutionary Love costs you something."
-author: "Joy James"
+title: "Revolutionary Love Costs You Something"
+author: "ismatu gwendolyn"
 date: 2023
-category: "contemporary-analysis"
+category: theory
 tags:
-  - analysis
-  - current-events
-  - revolution
+  - Joy-James
+  - revolutionary-love
+  - ismatu-gwendolyn
+  - collective-care
+  - abolition
+  - mutual-aid
+  - activism
+  - personal-essay
 ---
 
 If you told me my life would be like this, I wouldn't have believed you.

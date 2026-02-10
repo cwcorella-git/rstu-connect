@@ -1,12 +1,16 @@
 ---
-title: Know the Union Steve Ongerth
-author: Industrial Workers of the World
-date: '2025'
+title: "Know the Union: Steve Ongerth Interview"
+author: "Industrial Worker Editorial Collective"
+date: 2019
 category: labor
 tags:
-  - unions
-  - labor
-  - workers
+  - IWW
+  - Steve-Ongerth
+  - interview
+  - Bay-Area-IWW
+  - green-unionism
+  - Judi-Bari
+  - Environmental-Unionism-Caucus
 ---
 
 Environmental Unionism Caucus, Industrial Workers of the World (IWW), That Green Union Guy, green unionism, green syndicalism, Judi Bari

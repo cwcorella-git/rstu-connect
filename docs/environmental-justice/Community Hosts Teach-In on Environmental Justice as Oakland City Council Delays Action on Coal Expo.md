@@ -1,12 +1,17 @@
 ---
-title: "Community Hosts Teach-In on Environmental Justice as Oakland City Council Delays Action on Coal"
-author: "April Thomas"
+title: "Community Hosts Teach-In on Environmental Justice as Oakland City Council Delays Action on Coal Export"
+author: "April Thomas and Virginia Reinhart"
 date: 2015
 category: environmental-justice
 tags:
-  - community
-  - environment
-  - urban
+  - Oakland
+  - coal
+  - environmental-justice
+  - ILWU
+  - community-organizing
+  - West-Oakland
+  - pollution
+  - export-terminal
 ---
 
 ## **Source:** https://ecology.iww.org/node/1429

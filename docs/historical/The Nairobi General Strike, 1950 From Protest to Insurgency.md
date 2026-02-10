@@ -1,12 +1,19 @@
 ---
-title: The Nairobi General Strike 1950 From Protest To Insurgency
-author: Makhan Singh
-date: '1940'
-category: labor
+title: "The Nairobi General Strike, 1950: From Protest to Insurgency"
+author: "Dave Hyde"
+date: 2002
+category: historical
 tags:
-  - general strikes
-  - strikes
-  - protests
+  - Nairobi
+  - Kenya
+  - general-strike
+  - 1950
+  - EATUC
+  - colonialism
+  - East-Africa
+  - labor-history
+  - Mau-Mau
+  - urban-struggle
 ---
 
 The Nairobi General Strike [1950] was the culmination of Kenya's post war strike wave and urban upheaval. An unprecedented upsurge occurred with the general strikes in Mombasa [1947] led by the African Workers Federation [A. W. F.] and in Nairobi by the East African Trades Union Congress [E. A. T. U. C.]. While this has been termed and treated as a city wide strike, there is enough evidence to suggest a movement that went some way beyond Nairobi. The extent of the cohesion and reciprocal impacts amongst urban and rural Africans involved in the strike were underplayed by the colonial government and the media that followed it.

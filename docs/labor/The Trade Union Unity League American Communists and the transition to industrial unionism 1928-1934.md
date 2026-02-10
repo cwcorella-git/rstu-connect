@@ -1,11 +1,19 @@
 ---
-title: "The Trade Union Unity League: American Communists and the transition to industrial unionism: 19"
+title: "The Trade Union Unity League: American Communists and the Transition to Industrial Unionism, 1928-1934"
 author: "Edward P. Johanningsmeier"
-date: 1920
+date: 2001
 category: labor
 tags:
-  - unions
-  - socialism
+  - TUUL
+  - CPUSA
+  - industrial-unionism
+  - AFL
+  - CIO
+  - Communist-Party
+  - William-Z-Foster
+  - 1920s-1930s
+  - labor-history
+  - Trade-Union-Educational-League
 ---
 
 A paper by Edward P. Johanningsmeier detailing mostly developments in the Communist International and Communist Party USA (CPUSA) leadership that led to the establishment of the Trade Union Unity League (TUUL), a labor federation affiliated with the CPUSA. Originally appeared in Labor History, Vol. 42, No. 2, 2001

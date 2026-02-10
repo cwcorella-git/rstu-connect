@@ -1,11 +1,18 @@
 ---
-title: Black Feminist Anarchism Leftist Neglect Of The African Continent With
-author: Zoé Samud
-date: '2020'
-category: theory
+title: "Black Feminist Anarchism & Leftist Neglect of the African Continent with Zoé Samudzi"
+author: "Zoé Samudzi (interviewed by Millennials Are Killing Capitalism)"
+date: 2018
+category: feminist-theory
 tags:
+  - Zoé-Samudzi
+  - Black-feminism
   - anarchism
-  - feminism
+  - Africa
+  - Zimbabwe
+  - colonialism
+  - anti-imperialism
+  - interview
+  - podcast-transcript
 ---
 
 ## **Source:**

@@ -1,10 +1,17 @@
 ---
-title: "Fighting for Our Lives"
+title: "Fighting for Our Lives: An Anarchist Primer"
+author: "Noam Deguerre (CrimethInc. Writers' Bloc)"
 date: 2002
-category: "contemporary-analysis"
+category: theory
 tags:
-  - analysis
-  - current-events
+  - CrimethInc
+  - anarchism
+  - primer
+  - direct-action
+  - mutual-aid
+  - revolution
+  - DIY
+  - insurrection
 ---
 
 ## **Noam Deguerre, Crimeth Inc. Writers' Bloc**

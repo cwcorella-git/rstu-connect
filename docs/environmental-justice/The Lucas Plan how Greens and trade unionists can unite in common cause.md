@@ -1,11 +1,19 @@
 ---
-title: 'The Lucas Plan: how Greens and trade unionists can unite in common cause'
-author: "David King -"
+title: "The Lucas Plan: How Greens and Trade Unionists Can Unite in Common Cause"
+author: "David King"
 date: 2016
 category: environmental-justice
 tags:
-  - environment
-  - climate
+  - Lucas-Plan
+  - Lucas-Aerospace
+  - just-transition
+  - green-jobs
+  - trade-unions
+  - arms-conversion
+  - workers-plan
+  - UK
+  - 1970s
+  - renewable-energy
 ---
 
 ## **Source:** https://ecology.iww.org/node/1894

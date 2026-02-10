@@ -1,10 +1,17 @@
 ---
-title: "Response to Greg Butler's critique of the Green New Deal and the Rank-and-File Strategy"
-author: "Industrial Workers of the World"
+title: "Response to Greg Butler's Critique of the Green New Deal and the Rank-and-File Strategy"
+author: "x344543"
 date: 2021
-category: organizing
+category: labor
 tags:
-  - organizing
+  - IWW
+  - Green-New-Deal
+  - rank-and-file-strategy
+  - DSA
+  - Greg-Butler
+  - Jacobin
+  - x344543
+  - labor-strategy
 ---
 
 ## **Source:** https://ecology.iww.org/node/4154

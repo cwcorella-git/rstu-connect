@@ -1,12 +1,18 @@
 ---
-title: Green Unionism Against Precarity
-author: Karl Marx
-date: '2025'
+title: "Green Unionism Against Precarity"
+author: "That Green Union Guy"
+date: 2022
 category: labor
 tags:
-  - labor
-  - unions
-  - workers
+  - green-unionism
+  - IWW
+  - Environmental-Unionism-Caucus
+  - precarity
+  - gig-economy
+  - Lucas-Plan
+  - Green-New-Deal
+  - just-transition
+  - climate-jobs
 ---
 
 Porto Marghera Workerist Group, Lucas Plan, green bans, Green New Deal (GND), Robert Pollin, Political Economy Research Institute (PERI), climate change

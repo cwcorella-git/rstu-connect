@@ -1,10 +1,18 @@
 ---
-title: Solidarity Collectives - Call for Action week - February 24 - 3 march
-author: "libcom.org"
-category: contemporary-analysis
+title: "Solidarity Collectives: Call for Action Week - February 24 - March 3"
+author: "Solidarity Collectives"
+date: 2025
+category: international-solidarity
 tags:
-  - protests
+  - Ukraine
+  - Russia
+  - anti-imperialism
+  - anarchism
   - solidarity
+  - direct-action
+  - refugees
+  - far-right
+  - week-of-action
 ---
 
 ## **Tags:** Ukraine, anarchism, anti-fascism

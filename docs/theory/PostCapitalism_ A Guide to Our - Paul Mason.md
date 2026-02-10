@@ -1,9 +1,15 @@
 ---
-title: Mason Postcapitalism Aguide Tour Future
-date: 2008
-category: contemporary-analysis
+title: "PostCapitalism: A Guide to Our Future"
+author: "Paul Mason"
+date: 2015
+category: theory
 tags:
+  - Paul-Mason
+  - post-capitalism
   - capitalism
+  - technology
+  - information-economy
+  - neoliberalism
 ---
 
 

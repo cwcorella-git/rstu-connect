@@ -1,11 +1,17 @@
 ---
-title: 'Inside The Green Economy: Promises And Pitfalls In 9 Theses'
-author: "Industrial Workers of the World"
+title: "Inside the Green Economy: Promises and Pitfalls in 9 Theses"
+author: "Thomas Fatheuer, Lili Fuhr, Barbara Unmüßig"
 date: 2016
 category: environmental-justice
 tags:
-  - environment
-  - climate
+  - green-economy
+  - green-capitalism
+  - ecosocialism
+  - just-transition
+  - Heinrich-Böll-Foundation
+  - social-ecology
+  - green-syndicalism
+  - climate-justice
 ---
 
 | Date: Wed, 07/20/2016 - 17:12 |

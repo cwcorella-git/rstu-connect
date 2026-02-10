@@ -1,11 +1,18 @@
 ---
-title: 'Northern Nevada Legal Aid: Supporting Housing Security in Reno'
-author: RSTU Team
-date: '2025-03-15'
-category: organizing
+title: "Northern Nevada Legal Aid: Supporting Housing Security in Reno"
+author: "Reno-Sparks Tenants Union"
+date: 2024
+category: notes
 tags:
-  - housing
+  - RSTU
+  - legal-aid
+  - NNLA
+  - tenant-rights
+  - eviction-defense
+  - housing-security
   - Nevada
+  - Reno
+  - internal-docs
 ---
 
 Legal aid organizations play a crucial role in protecting tenant rights and ensuring housing security for our community members. Northern Nevada Legal Aid (NNLA) stands as one of our most important allies in the fight for housing justice.

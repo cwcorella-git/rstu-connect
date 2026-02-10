@@ -1,11 +1,18 @@
 ---
-title: '#Climate Change and the fight for #Climate Jobs'
-author: "Industrial Workers of the World"
+title: "Climate Change and the Fight for Climate Jobs"
+author: "A Green Trade Unionist in Bristol"
 date: 2015
 category: environmental-justice
 tags:
-  - environment
-  - climate
+  - climate-jobs
+  - just-transition
+  - green-unionism
+  - NEON
+  - Bristol
+  - UK
+  - renewable-energy
+  - Naomi-Klein
+  - climate-justice
 ---
 
 green unionism, climate justice, just transition, renewable energy, green jobs, jobs versus environment, labor and environment By the Admin - A Green Trade Unionist in Bristol , December 1, 2015 Author's Note:

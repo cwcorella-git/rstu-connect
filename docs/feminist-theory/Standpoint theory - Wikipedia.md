@@ -1,13 +1,17 @@
 ---
 title: "Standpoint Theory"
-author: "Wikipedia"
-date: 2024
+author: "Wikipedia contributors"
+date: 1983
 category: feminist-theory
 tags:
   - epistemology
   - feminism
   - Sandra-Harding
-  - knowledge
+  - standpoint-epistemology
+  - marginalization
+  - situated-knowledge
+  - feminist-philosophy
+  - social-identity
 ---
 
 ## Contributors to Wikimedia projects

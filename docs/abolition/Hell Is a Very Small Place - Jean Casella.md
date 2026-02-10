@@ -1,10 +1,16 @@
 ---
-title: "Hell Is a Very Small Place"
+title: "Hell Is a Very Small Place: Voices from Solitary Confinement"
+author: "Jean Casella, James Ridgeway, Sarah Shourd (editors)"
 date: 2016
-category: "contemporary-analysis"
+category: abolition
 tags:
-  - analysis
-  - current-events
+  - solitary-confinement
+  - prisons
+  - torture
+  - prison-abolition
+  - voices
+  - anthology
+  - Juan-Méndez
 ---
 
 OICES from SOLITARY CONFINEMENT Jean Casella James Ridge Word Edited Sarah Shourd

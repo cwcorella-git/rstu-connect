@@ -1,11 +1,18 @@
 ---
-title: "Sam Fanto Samotnaf"
-date: 1997
-category: "contemporary-analysis"
+title: "Hong Kong: Its Relevance To The Rest Of Us - Resistance to the Science and Technology of Social Control"
+author: "Sam Fanto (Samotnaf)"
+date: 2019
+category: international-solidarity
 tags:
-  - analysis
-  - current-events
-  - wikipedia
+  - Hong-Kong
+  - surveillance
+  - social-control
+  - protests
+  - China
+  - facial-recognition
+  - direct-action
+  - 2019-protests
+  - technology-critique
 ---
 
 ## **Hong Kong: Its Relevance To The Rest Of Us…**

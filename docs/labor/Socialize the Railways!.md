@@ -1,12 +1,17 @@
 ---
-title: Socialize the Railways!
-author: "Tom Wetzel -"
+title: "Socialize the Railways!"
+author: "Tom Wetzel"
 date: 2023
 category: labor
 tags:
   - railroads
-  - technology
-  - digital rights
+  - nationalization
+  - PSR
+  - climate-justice
+  - freight-rail
+  - East-Bay-Syndicalists
+  - worker-control
+  - transportation
 ---
 
 ## **Source:** https://ecology.iww.org/node/6103

@@ -1,11 +1,15 @@
 ---
-title: Form a Tenants'' Union! Tenants Together
-author: Housing Advocacy Organization
-date: '2020'
-category: housing
+title: "Form a Tenants' Union!"
+author: "Tenants Together"
+date: 2020
+category: organizing
 tags:
-  - tenants
-  - unions
+  - Tenants-Together
+  - tenant-unions
+  - organizing-guide
+  - Homes-for-All
+  - tenant-organizing
+  - how-to
 ---
 
 to connect with other residents. This might be in your apartment complex,on your block or in your neighbors kitchen. It’s really important to share with others why you are organizing and listen to their concerns. A good rule of organizing is to spend 

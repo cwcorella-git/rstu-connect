@@ -1,11 +1,16 @@
 ---
-title: Communisation the Anarchist Library
-author: Gilles Dauv
-date: '2025'
+title: "Communisation"
+author: "Gilles Dauvé"
+date: 2019
 category: theory
 tags:
-  - anarchism
-  - theory
+  - Gilles-Dauvé
+  - communisation
+  - communism
+  - ultra-left
+  - revolution
+  - anti-democracy
+  - anarchist-library
 ---
 
 Communisation | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...

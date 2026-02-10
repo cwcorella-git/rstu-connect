@@ -1,10 +1,16 @@
 ---
-title: '18. Principles for Individuals: the Principle of Fairness'
-date: 1961
-category: contemporary-analysis
+title: "A Theory of Justice"
+author: "John Rawls"
+date: 1971
+category: theory
 tags:
-  - analysis
-  - current-events
+  - John-Rawls
+  - political-philosophy
+  - justice-as-fairness
+  - social-contract
+  - liberalism
+  - distributive-justice
+  - original-position
 ---
 
 ## **A THEORY OF JUSTICE**

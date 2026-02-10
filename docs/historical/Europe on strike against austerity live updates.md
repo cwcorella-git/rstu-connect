@@ -1,6 +1,6 @@
 ---
-title: "Europe on strike against austerity: live updates"
-author: "Libcom"
+title: "Europe on Strike Against Austerity: Live Updates"
+author: "libcom.org"
 date: 2012
 category: historical
 tags:
@@ -12,6 +12,9 @@ tags:
   - Portugal
   - Italy
   - Greece
+  - Belgium
+  - ETUC
+  - November-14
 ---
 
 The struggle against austerity steps up a notch as on November 14 an international general strike takes place across several European countries, with demonstrations and solidarity actions across the world. Please post live reports from the area in the comments below.

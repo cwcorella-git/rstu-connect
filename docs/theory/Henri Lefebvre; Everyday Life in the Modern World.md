@@ -4,11 +4,15 @@ author: "Henri Lefebvre"
 date: 1971
 category: theory
 tags:
-  - Lefebvre
+  - Henri-Lefebvre
   - everyday-life
   - urbanism
   - capitalism
   - alienation
+  - Marxism
+  - space
+  - modernity
+  - Routledge
 ---
 
 

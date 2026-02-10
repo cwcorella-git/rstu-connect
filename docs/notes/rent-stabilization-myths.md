@@ -1,11 +1,18 @@
 ---
-title: Rent Stabilization MYTHS Nevada Realtors Want YOU to Believe
-author: RSTU Research Team
-date: '2025-09-10'
-category: housing
+title: "Rent Stabilization Myths: What Nevada Realtors Want You to Believe"
+author: "Reno-Sparks Tenants Union"
+date: 2024
+category: notes
 tags:
-  - housing
+  - RSTU
+  - rent-control
+  - rent-stabilization
   - Nevada
+  - Reno
+  - tenant-rights
+  - housing-policy
+  - internal-docs
+  - myth-busting
 ---
 
 As housing costs skyrocket in Reno and across Nevada, more tenants are calling for rent stabilization policies to protect them from devastating rent increases. But real estate interests and their allies are spreading myths to prevent these common-sense protections.

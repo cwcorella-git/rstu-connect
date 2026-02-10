@@ -1,10 +1,18 @@
 ---
-title: The Capitalist Offensive
-author: "libcom.org"
-date: 2008
+title: "The Capitalist Offensive"
+author: "Communist Workers' Organisation"
+date: 2021
 category: contemporary-analysis
 tags:
+  - CWO
+  - Aurora
+  - UK
+  - police-violence
+  - fire-and-rehire
+  - austerity
   - capitalism
+  - working-class
+  - repression
 ---
 
 ## Organisation (CWO), police

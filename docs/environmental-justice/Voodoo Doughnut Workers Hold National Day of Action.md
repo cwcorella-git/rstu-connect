@@ -1,12 +1,18 @@
 ---
-title: Voodoo Doughnut Workers Hold National Day of Action
-author: "Industrial Workers of the World"
+title: "Voodoo Doughnut Workers Hold National Day of Action"
+author: "Shawn Kinnaman"
 date: 2021
-category: labor
+category: environmental-justice
 tags:
-  - labor
-  - unions
-  - workers
+  - IWW
+  - Portland
+  - Doughnut-Workers-United
+  - strikes
+  - union-busting
+  - heat-wave
+  - climate-emergency
+  - workplace-safety
+  - Pacific-Northwest
 ---
 
 | Date: Wed, 08/11/2021 - 00:00 |

@@ -1,8 +1,8 @@
 ---
 title: "Minneapolis Truckers' Strike of 1934"
 author: "Minnesota Historical Society"
-date: 2010
-category: labor
+date: 1934
+category: historical
 tags:
   - strikes
   - teamsters
@@ -13,6 +13,7 @@ tags:
   - General-Drivers-Local-574
   - National-Guard
   - labor-history
+  - Great-Depression
 ---
 
 ## **Lib Guides: Truckers' Strike of 1934: Overview**

@@ -1,12 +1,17 @@
 ---
 title: "Der Klasen Kampf"
-author: "Industrial Workers of the World"
+author: "IWW Jewish Branch"
 date: 1919
-category: "contemporary-analysis"
+category: historical
 tags:
-  - analysis
-  - current-events
-  - libcom
+  - IWW
+  - Yiddish
+  - Jewish-workers
+  - 1919
+  - United-States
+  - Brooklyn
+  - labor-press
+  - historical-publications
 ---
 
 | Date: Unknown |

@@ -2,11 +2,16 @@
 title: "Breaking Out of the Cage and Destroying Our Jailers"
 author: "James Herod"
 date: 1999
-category: abolition
+category: theory
 tags:
-  - prisons
-  - technology
-  - digital rights
+  - James-Herod
+  - anarchism
+  - anti-state
+  - capitalism
+  - direct-action
+  - Chomsky-critique
+  - revolution
+  - political-strategy
 ---
 
 ## James Herod

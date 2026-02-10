@@ -1,11 +1,17 @@
 ---
-title: Anarchism The Afterbirth Of Liberalism
-author: Max Stirner
-date: '1880'
+title: "Anarchism: The Afterbirth of Liberalism"
+author: "Kommunistische Arbeiter-Zeitung (Berlin Tendency)"
+date: 1932
 category: theory
 tags:
   - anarchism
-  - theory
+  - council-communism
+  - critique-of-anarchism
+  - Max-Stirner
+  - liberalism
+  - bourgeois-ideology
+  - 1932
+  - Germany
 ---
 
 An article from the Kommunistische Arbeiter-Zeitung of the Berlin tendency, dated: 13-1932-011

@@ -1,10 +1,16 @@
 ---
-title: Deschooling Society
+title: "Deschooling Society"
+author: "Ivan Illich"
 date: 1971
 category: youth-student-organizing
 tags:
+  - Ivan-Illich
   - education
-  - theory
+  - deschooling
+  - institutionalization
+  - pedagogy
+  - learning
+  - radical-education
 ---
 
 ## **Ivan Illich**

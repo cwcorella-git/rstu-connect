@@ -1,12 +1,18 @@
 ---
-title: "Den Bierbauch loswerden"
-author: "Industrial Workers of the World"
+title: "Den Bierbauch loswerden (Getting Rid of the Beer Belly)"
+author: "Daniel Bovart-Katz"
 date: 2017
-category: "contemporary-analysis"
+category: labor
 tags:
-  - daniel-bovart-katz
-  - spuren-der-solidarität
-  - deutsch
+  - IWW
+  - Germany
+  - German-language
+  - organizing
+  - sexism
+  - gender-equity
+  - union-transformation
+  - Spuren-der-Solidarität
+  - General-Membership-Branch
 ---
 
 Die Reise einer allgemeinen Ortsgruppe der IWW von einem Klub alter Herren zur produktiven gewerkschaftlichen Organisierung.

@@ -1,10 +1,14 @@
 ---
-title: Organizing Materials and Activities
-author: Jeff Shantz
-date: '2025'
-category: organizing
+title: "RSTU Organizing Materials and Activities"
+author: "Reno-Sparks Tenants Union"
+date: 2024
+category: notes
 tags:
+  - RSTU
   - organizing
+  - internal-docs
+  - mission
+  - governance
 ---
 
 **Date**: September 8, 2025

@@ -1,11 +1,17 @@
 ---
-title: Striking workers imprisoned in Iran
-author: "Industrial Workers of the World"
+title: "Striking Workers Imprisoned in Iran"
+author: "IWW Solidarity Statement"
 date: 2017
-category: contemporary-analysis
+category: international-solidarity
 tags:
-  - prisons
-  - labor
+  - Iran
+  - strikes
+  - political-prisoners
+  - National-Steel-Group
+  - Ahwaz
+  - IWW
+  - solidarity
+  - repression
 ---
 
 ## 2017/18

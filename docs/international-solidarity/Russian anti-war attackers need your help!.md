@@ -1,11 +1,18 @@
 ---
-title: Russian anti-war attackers need your help!
+title: "Russian Anti-War Attackers Need Your Help!"
 author: "libcom.org"
-date: 1920
+date: 2022
 category: international-solidarity
 tags:
-  - anti-war
   - Russia
+  - Ukraine
+  - anti-war
+  - direct-action
+  - political-prisoners
+  - Zone-of-Solidarity
+  - FSB
+  - arson
+  - June-2022
 ---
 
 Even one in the field can be a warrior. Title photo with the arson of the riot cops HQ is from Komsomolsk-on-Amur in the Far East of the Russian Federation. International Week of Solidarity with Anarchist Prisoners 23-30 August is coming to an end but these brave resisters deserve to be supported even if they are not anarchists!

@@ -1,12 +1,18 @@
 ---
-title: While There Is A Soul In Prison
-author: "Marie Gottschalk, and the"
+title: "While There Is a Soul in Prison"
+author: "Colin Bossen"
 date: 2016
-category: contemporary-analysis
+category: abolition
 tags:
-  - prisons
-  - abolition
-  - police
+  - prison-abolition
+  - IWOC
+  - IWW
+  - September-9-2016
+  - prisoner-strike
+  - Colin-Bossen
+  - Unitarian-Universalism
+  - sermon
+  - faith-based-organizing
 ---
 
 IWOC, Industrial Workers of the World (IWW), Collin Bossen, green syndicalism, general strikes, direct action, class struggle, class war prisoners By Colin Bossen - Colin Bossen: Writer, Preacher, Organizer , August 28, 2016 Note: I recently have become involved with the Industrial Workers of the World's Incarcerated Workers Organizing Committee . I am serving as their contact person for faith-based organizing. It is a volunteer role and one of things that I am doing as part of it is preaching some in support of the September 9, 2016 National Prisoner Strike. The following sermon was the first I preached in support of the movement. I presented it at the First Parish in Needham, Unitarian Universalist , on August 28, 2016.

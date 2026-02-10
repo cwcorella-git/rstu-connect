@@ -1,11 +1,18 @@
 ---
 title: "Greece: Everything Is Coming to a Boil - Looming Recession, the Ban on Freedom of Assembly, and the Death of Vassilis Maggos"
-author: "libcom.org"
-date: 2015
-category: environmental-justice
+author: "CrimethInc."
+date: 2020
+category: international-solidarity
 tags:
-  - liberty
-  - fossil fuels
+  - Greece
+  - protests
+  - police-violence
+  - anarchism
+  - surveillance
+  - New-Democracy
+  - Exarchia
+  - COVID-19
+  - assembly-ban
 ---
 
 A report on the situation in Greece, where the collapse of tourism has left the country on the verge of a major recession, while the government introduces a major crackdown on demonstrations. This report comes from Radio Fragmata's contribution to the "Bad News" international radio project, and wasadapted and transcribed by Crimethinc.

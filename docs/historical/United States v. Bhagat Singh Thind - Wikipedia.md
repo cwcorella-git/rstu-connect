@@ -1,12 +1,18 @@
 ---
-title: "United States V. Bhagat Singh Thind Wikipedia"
+title: "United States v. Bhagat Singh Thind"
 author: "Wikipedia contributors"
 date: 1923
-category: contemporary-analysis
+category: historical
 tags:
-  - analysis
-  - current-events
-  - wikipedia
+  - Bhagat-Singh-Thind
+  - Supreme-Court
+  - citizenship
+  - immigration
+  - racism
+  - naturalization
+  - Indian-Americans
+  - 1923
+  - racial-prerequisites
 ---
 
 ## [en.wikipedia.org](https://en.wikipedia.org/wiki/United_States_v._Bhagat_Singh_Thind)

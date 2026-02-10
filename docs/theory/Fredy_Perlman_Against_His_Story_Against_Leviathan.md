@@ -1,10 +1,15 @@
 ---
-title: 'Against His-story, Against Leviathan'
+title: "Against His-story, Against Leviathan"
 author: "Fredy Perlman"
-category: international-solidarity
+date: 1983
+category: theory
 tags:
-  - technology
-  - digital rights
+  - Fredy-Perlman
+  - anarcho-primitivism
+  - civilization
+  - Leviathan
+  - anti-civilization
+  - history
 ---
 
 ## Fredy Perlman

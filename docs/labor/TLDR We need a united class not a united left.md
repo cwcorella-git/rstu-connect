@@ -1,10 +1,17 @@
 ---
-title: 'TLDR: We need a united class not a united left'
-author: "libcom.org"
+title: "TLDR: We Need a United Class Not a United Left"
+author: "Rasmus Hästbacka"
 date: 2023
-category: contemporary-analysis
+category: labor
 tags:
-  - class
+  - syndicalism
+  - SAC
+  - Sweden
+  - Rasmus-Hästbacka
+  - rank-and-file
+  - labor-organizing
+  - class-unity
+  - self-managed-unions
 ---
 
 Short summary of a long article on the website Znetwork(published on January 13, 2023). Written by Rasmus Hästbacka, member of the Swedish syndicalist unionSAC. A somewhat longer summary was published as a standalone article in the US magazine Industrial Worker.

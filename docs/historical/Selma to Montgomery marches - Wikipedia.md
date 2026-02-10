@@ -1,7 +1,7 @@
 ---
 title: "Selma to Montgomery Marches"
-author: "Wikipedia"
-date: 2024
+author: "Wikipedia contributors"
+date: 1965
 category: historical
 tags:
   - Selma
@@ -13,6 +13,9 @@ tags:
   - voting-rights
   - SNCC
   - SCLC
+  - Alabama
+  - Voting-Rights-Act
+  - African-American-history
 ---
 
 The Selma to Montgomery marches were three [protest marches,](https://en.m.wikipedia.org/wiki/Demonstration_(protest)) held in 1965, along the 54-mile (87 km) highway from [Selma,](https://en.m.wikipedia.org/wiki/Selma,_Alabama) [Alabama,](https://en.m.wikipedia.org/wiki/Selma,_Alabama) to the state capital of [Montgomery.](https://en.m.wikipedia.org/wiki/Montgomery,_Alabama) The marches were organized by [nonviolent](https://en.m.wikipedia.org/wiki/Nonviolence) [activists](https://en.m.wikipedia.org/wiki/Activism) to demonstrate the desire of [African-American](https://en.m.wikipedia.org/wiki/African_Americans) citizens to exercise their [constitutional right](https://en.m.wikipedia.org/wiki/Constitutional_right) to [vote,](https://en.m.wikipedia.org/wiki/Vote) in defiance of [segregationist](https://en.m.wikipedia.org/wiki/Segregationist) repression; they were part of a broader voting rights movement underway in Selma and throughout the [American South.](https://en.m.wikipedia.org/wiki/Southern_United_States) By highlighting racial injustice, they contributed to passage that year of the [Voting Rights Act,](https://en.m.wikipedia.org/wiki/Voting_Rights_Act_of_1965) a landmark federal achievement of the [civil rights movement.](https://en.m.wikipedia.org/wiki/Civil_rights_movement)

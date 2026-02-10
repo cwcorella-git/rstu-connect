@@ -1,12 +1,16 @@
 ---
-title: 'Information Anarchy: The Case Against Sponsorships'
-author: "Wikipedia contributors"
+title: "Information Anarchy: The Case Against Sponsorships"
+author: "ismatu gwendolyn"
 date: 2023
 category: technology-digital-justice
 tags:
-  - anarchism
-  - technology
-  - digital rights
+  - ismatu-gwendolyn
+  - influencer-culture
+  - sponsorships
+  - social-media
+  - threadings
+  - commodification
+  - digital-activism
 ---
 
 | Date: 2023-10-13

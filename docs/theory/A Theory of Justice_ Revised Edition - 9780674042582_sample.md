@@ -1,10 +1,17 @@
 ---
-title: A Theory of Justice
-date: 1971
-category: contemporary-analysis
+title: "A Theory of Justice (Revised Edition)"
+author: "John Rawls"
+date: 1999
+category: theory
 tags:
-  - analysis
-  - current-events
+  - John-Rawls
+  - political-philosophy
+  - justice-as-fairness
+  - social-contract
+  - liberalism
+  - distributive-justice
+  - original-position
+  - Harvard-University-Press
 ---
 
 Since it appeared in 1971, John Rawls's A Theory of Justice has become a classic. This revised edition clears up a number of difficulties he and others have found in the original book.

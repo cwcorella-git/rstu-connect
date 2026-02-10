@@ -1,10 +1,18 @@
 ---
-title: Counterinsurgency and the Policing of Space in Ferguson
-author: "libcom.org"
+title: "Counterinsurgency and the Policing of Space in Ferguson"
+author: "Unknown"
 date: 2014
-category: contemporary-analysis
+category: abolition
 tags:
-  - police
+  - Ferguson
+  - Mike-Brown
+  - police-militarization
+  - counterinsurgency
+  - spatial-control
+  - National-Guard
+  - Missouri
+  - uprising
+  - repression
 ---
 
 This article will briefly document and analyze the various methods and techniques through which the St. Louis Metropolitan Police, the National Guard, and several other local law enforcement formations were able to gradually achieve a kind of 'total spatial dominance' over this small region and its residents.

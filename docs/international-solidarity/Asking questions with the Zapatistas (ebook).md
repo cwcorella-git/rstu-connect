@@ -1,10 +1,16 @@
 ---
-title: Asking questions with the Zapatistas (ebook)
-author: "libcom.org"
+title: "Asking Questions with the Zapatistas: Reflections from Greece on Our Civilizational Impasse"
+author: "Theodoros Karyotis, Ioanna-Maria Maravelidi, Yavor Tarinski"
 date: 2022
-category: arts-culture-music
+category: international-solidarity
 tags:
+  - Zapatistas
+  - EZLN
   - Mexico
+  - Greece
+  - social-ecology
+  - emancipation
+  - Transnational-Institute-of-Social-Ecology
 ---
 
 E-book by Theodoros Karyotis, Ioanna-Maria Maravelidi, and Yavor Tarinski Title: Asking questions with the Zapatistas. Reflections from Greece on our Civilizational Impasse Publisher: Transnational Institute of Social Ecology, 2022Design: George Chelebiev Cover: Apollon Petropoulos Editor: Matthew Little

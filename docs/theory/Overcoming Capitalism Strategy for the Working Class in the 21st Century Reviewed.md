@@ -1,11 +1,18 @@
 ---
-title: Overcoming Capitalism Strategy For The Working Class In The 21St
-author: Century Reviewe
-date: '2023'
+title: "Overcoming Capitalism: Strategy for the Working Class in the 21st Century (Book Review)"
+author: "That Green Union Guy (reviewing Tom Wetzel)"
+date: 2023
 category: theory
 tags:
+  - Tom-Wetzel
+  - anarcho-syndicalism
+  - libertarian-socialism
+  - green-syndicalism
+  - IWW
   - capitalism
-  - class
+  - book-review
+  - AK-Press
+  - working-class-strategy
 ---
 
 libertarian-socialism, anarchism, anarcho-syndicalism, anarcho-communism, Industrial Workers of the World (IWW), International Workers' Association (IWA-AIT), revolutionary unions, green syndicalism, anti-capitalism, socialism By That Green Union Guy - IWW Environmental Union Caucus , February 8, 2023 While the IWW is not an explicitely anarcho-syndicalist organization, much of its praxis fits comfortably within the anarcho-syndicalist tradition. It's not the only revolutionary organization or union that does, either, and it's evident that anarcho-syndicalism as a living, breathing revolutionary practice is alive and well in the first couple of decades of the 21st Century. It's therefore somewhat puzzling that nobody has bothered to write a book that provides an updated overview of anarcho-syndicalism for a modern audience in well over seven or eight decades.

@@ -1,12 +1,18 @@
 ---
-title: Despair Fatigue
-author: David Graeber
-date: March 2016
+title: "Despair Fatigue"
+author: "David Graeber"
+date: 2016
 category: contemporary-analysis
 tags:
-  - Graeber
-  - technology
-  - digital rights
+  - David-Graeber
+  - austerity
+  - UK
+  - Britain
+  - Conservative-Party
+  - NHS
+  - neoliberalism
+  - despair
+  - political-economy
 ---
 
 Is it possible to become bored with hopelessness?

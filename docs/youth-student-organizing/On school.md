@@ -1,10 +1,16 @@
 ---
-title: On school
-author: "libcom.org"
+title: "On School"
+author: "Sergio Ghirardi"
+date: 2018
 category: youth-student-organizing
 tags:
-  - education
-  - theory
+  - Sergio-Ghirardi
+  - education-critique
+  - anti-school
+  - deschooling
+  - consumerism
+  - alienation
+  - Italy
 ---
 
 ## **Source:** https://libcom.org/article/school

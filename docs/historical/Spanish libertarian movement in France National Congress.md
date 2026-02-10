@@ -1,11 +1,19 @@
 ---
-title: Spanish libertarian movement in France National Congress
-author: "Confederación Nacional del Trabajo"
-date: 1936
-category: international-solidarity
+title: "Spanish Libertarian Movement in France: National Congress"
+author: "Confederación Nacional del Trabajo (CNT)"
+date: 1945
+category: historical
 tags:
+  - CNT
   - Spain
   - France
+  - Spanish-Civil-War
+  - anarcho-syndicalism
+  - exiles
+  - 1945
+  - Direct-Action
+  - IWMA
+  - UGT
 ---
 
 An account of a Congress in France of the Spanish anarchist movement in exile. Originally appeared in the Anarchist Federation of Britain's Direct Action (June 1945, 2nd).

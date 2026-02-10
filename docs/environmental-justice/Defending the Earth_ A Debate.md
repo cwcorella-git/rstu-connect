@@ -1,10 +1,17 @@
 ---
-title: 'Murray Bookchin and Dave Foreman Defending the Earth: A Debate 1991'
-author: "Murray Bookchin"
-date: 1985
-category: arts-culture-music
+title: "Defending the Earth: A Debate Between Murray Bookchin and Dave Foreman"
+author: "Murray Bookchin and Dave Foreman"
+date: 1991
+category: environmental-justice
 tags:
-  - Bookchin
+  - Murray-Bookchin
+  - Dave-Foreman
+  - debate
+  - social-ecology
+  - deep-ecology
+  - Earth-First
+  - radical-ecology
+  - environmentalism
 ---
 
 **Foreword: Turning Debate Into Dialogue**

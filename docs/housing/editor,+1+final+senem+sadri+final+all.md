@@ -1,9 +1,16 @@
 ---
-title: 'City, Urban Transformation and the Right to the City'
+title: "City, Urban Transformation and the Right to the City"
+author: "Senem Zeybekoglu"
 date: 2020
-category: contemporary-analysis
+category: housing
 tags:
-  - urban
+  - urban-transformation
+  - right-to-the-city
+  - gentrification
+  - urban-planning
+  - Henri-Lefebvre
+  - Cyprus
+  - academic-journal
 ---
 
 

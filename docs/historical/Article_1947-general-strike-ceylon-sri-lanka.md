@@ -1,11 +1,19 @@
 ---
-title: 1947 General Strike Ceylon Sri Lanka
-author: Global Nonviolent Action Database
-date: '2025'
-category: labor
+title: "1947 General Strike: Ceylon (Sri Lanka)"
+author: "T. B. Dissanayake"
+date: 1947
+category: historical
 tags:
-  - general strikes
-  - strikes
+  - Ceylon
+  - Sri-Lanka
+  - general-strike
+  - 1947
+  - colonialism
+  - British-Raj
+  - LSSP
+  - GCSU
+  - labor-history
+  - South-Asia
 ---
 
 An account by T. B. Dissanayake of the 1947 general strike in Ceylon, now Sri Lanka

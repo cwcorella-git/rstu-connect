@@ -1,13 +1,18 @@
 ---
-title: London Mass Strike 1889
+title: "London Mass Strike 1889"
 author: "libcom.org"
-date: '2025'
-category: labor
+date: 1889
+category: historical
 tags:
-  - strikes
-  - labor
-  - unions
-  - workers
+  - London
+  - dock-strike
+  - 1889
+  - East-End
+  - general-strike
+  - new-unionism
+  - matchgirls
+  - rent-strike
+  - labor-history
 ---
 
 London, United Kingdom, Past Tense, 1889 London dock

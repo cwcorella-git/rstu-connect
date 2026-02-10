@@ -1,11 +1,16 @@
 ---
-title: Anarchy Vs Archy No Justified Authority the Anarchist Library
-author: "The Anarchist Library"
-date: '2025'
+title: "Anarchy vs. Archy: No Justified Authority"
+author: "ziq"
+date: 2018
 category: theory
 tags:
+  - ziq
   - anarchism
-  - theory
+  - anti-hierarchy
+  - authority
+  - archy
+  - anarchist-library
+  - political-theory
 ---
 
 Anarchy Vs. Archy: No Justiﬁed Authority | The Anarchis... about:reader?url=https%3A%2F%2Ftheanarchistlibrary...

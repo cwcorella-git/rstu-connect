@@ -2,11 +2,17 @@
 title: "Bonus Army"
 author: "Wikipedia contributors"
 date: 1932
-category: "contemporary-analysis"
+category: historical
 tags:
-  - analysis
-  - current-events
-  - wikipedia
+  - Bonus-Army
+  - WWI-veterans
+  - Great-Depression
+  - 1932
+  - Washington-DC
+  - Herbert-Hoover
+  - protest
+  - military-repression
+  - labor-history
 ---
 
 ## Contributors to Wikimedia projects

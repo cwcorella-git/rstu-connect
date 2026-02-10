@@ -1,11 +1,18 @@
 ---
-title: Northeast Ohio Protestors Demand Justice for East Palestine
-author: "Industrial Workers of the World"
+title: "Northeast Ohio Protesters Demand Justice for East Palestine Train Derailment"
+author: "x409232"
 date: 2023
-category: international-solidarity
+category: environmental-justice
 tags:
-  - protests
-  - Palestine
+  - East-Palestine
+  - Ohio
+  - Norfolk-Southern
+  - train-derailment
+  - toxic-spill
+  - environmental-disaster
+  - Railroad-Workers-United
+  - RWU
+  - x409232
 ---
 
 | Date: Tue, 06/20/2023 - 00:00 |

@@ -1,11 +1,17 @@
 ---
-title: Anarchist Perspectives On Net Neutrality
-author: Crimethinc.
-date: '2025'
-category: theory
+title: "Anarchist Perspectives on Net Neutrality: The Digital Enclosure of the Commons"
+author: "CrimethInc."
+date: 2017
+category: technology-digital-justice
 tags:
+  - net-neutrality
+  - CrimethInc
+  - internet
+  - digital-commons
+  - FCC
+  - corporate-control
+  - digital-enclosure
   - anarchism
-  - theory
 ---
 
             CrimethInc.

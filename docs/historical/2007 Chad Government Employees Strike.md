@@ -1,11 +1,18 @@
 ---
-title: '2007: Chad Government Employees Strike'
+title: "2007 Chad Government Employees Strike"
 author: "libcom.org"
 date: 2007
-category: labor
+category: historical
 tags:
+  - Chad
+  - general-strike
+  - public-sector
+  - 2007
+  - Intersyndicale
+  - UST
+  - Africa
+  - ITUC
   - strikes
-  - labor
 ---
 
 An account of the general srike of public sector workers in Chad.

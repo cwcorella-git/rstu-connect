@@ -1,11 +1,18 @@
 ---
-title: "BCGEU signs solidarity accord with First Nations against Northern Gateway pipeline"
-author: "Industrial Workers of the World"
+title: "BCGEU Signs Solidarity Accord with First Nations Against Northern Gateway Pipeline"
+author: "Alyse Kotyk"
 date: 2016
-category: labor
+category: environmental-justice
 tags:
-  - solidarity
-  - fossil fuels
+  - BCGEU
+  - First-Nations
+  - Northern-Gateway
+  - Enbridge
+  - pipelines
+  - British-Columbia
+  - Save-the-Fraser-Declaration
+  - indigenous-solidarity
+  - tar-sands
 ---
 
 | Date: Wed, 02/10/2016 - 22:18 |

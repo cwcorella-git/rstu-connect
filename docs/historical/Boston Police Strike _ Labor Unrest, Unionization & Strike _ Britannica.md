@@ -1,12 +1,17 @@
 ---
-title: Boston Police Strike   Labor Unrest Unionization Strike   Britannica
-author: Britannica
-date: '1923'
-category: abolition
+title: "Boston Police Strike"
+author: "Encyclopaedia Britannica"
+date: 1919
+category: historical
 tags:
-  - strikes
-  - police
-  - labor
+  - Boston
+  - police-strike
+  - 1919
+  - Calvin-Coolidge
+  - AFL
+  - labor-history
+  - Massachusetts
+  - union-busting
 ---
 
 ## [britannica.com](https://www.britannica.com/event/Boston-Police-Strike)

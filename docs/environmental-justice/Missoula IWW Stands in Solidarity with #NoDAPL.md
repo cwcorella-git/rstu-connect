@@ -1,10 +1,18 @@
 ---
-title: 'Missoula IWW Stands in Solidarity with #NoDAPL'
-author: "Industrial Workers of the World"
+title: "Missoula IWW Stands in Solidarity with #NoDAPL"
+author: "Erica Johnson, Davis Ritsema, C. W. Copeland"
 date: 2016
-category: labor
+category: environmental-justice
 tags:
-  - unions
+  - Standing-Rock
+  - Dakota-Access-Pipeline
+  - NoDAPL
+  - indigenous-rights
+  - Sioux
+  - IWW
+  - Missoula
+  - Sacred-Stone-Camp
+  - LIUNA
   - solidarity
 ---
 

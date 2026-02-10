@@ -1,13 +1,15 @@
 ---
 title: "Civil Self-Help Law Center Provides Legal Information, Resources for Tenants"
 author: "RSTU Community Resources Team"
-date: 2025
+date: 2024
 category: notes
 tags:
   - Reno
   - Washoe-County
   - legal-aid
   - tenant-resources
+  - self-help
+  - court-procedures
 ---
 
 When facing housing legal issues, many tenants feel overwhelmed by the complexity of laws, court procedures, and paperwork. The Civil Self-Help Law Center at the Washoe County Courthouse provides free resources to help people navigate the legal system, including tenant-landlord disputes.
