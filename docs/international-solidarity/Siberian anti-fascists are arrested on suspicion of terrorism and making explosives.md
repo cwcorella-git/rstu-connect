@@ -1,9 +1,14 @@
 ---
-title: "Siberian anti-fascists are arrested on suspicion of terrorism and making explosives"
+title: "Siberian Anti-Fascists Arrested on Suspicion of Terrorism and Making Explosives"
+author: "Autonomous Action"
 date: 2022
-category: contemporary-analysis
+category: international-solidarity
 tags:
   - antifascism
+  - Russia
+  - repression
+  - Tyumen
+  - Yekaterinburg
 ---
 
 ## **Source:**

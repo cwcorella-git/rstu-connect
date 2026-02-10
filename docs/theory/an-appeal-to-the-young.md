@@ -1,12 +1,14 @@
 ---
-title: An Appeal to the Young
-author: Peter Kropotkin
-date: '1880'
+title: "An Appeal to the Young"
+author: "Peter Kropotkin"
+date: 1880
 category: theory
 tags:
   - theory
   - political-theory
-  - peter-kropotkin
+  - Peter-Kropotkin
+  - anarchism
+  - youth
 ---
 
 Pëtr Kropotkin

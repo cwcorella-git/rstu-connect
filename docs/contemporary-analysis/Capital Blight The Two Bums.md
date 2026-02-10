@@ -1,10 +1,15 @@
 ---
-title: 'Capital Blight: The Two Bums'
-author: "Industrial Workers of the World"
+title: "Capital Blight: The Two Bums"
+author: "x344543 (IWW Environmental Unionism Caucus)"
 date: 2016
 category: contemporary-analysis
 tags:
   - capitalism
+  - coal
+  - Don-Blankenship
+  - Massey-Energy
+  - Upper-Big-Branch
+  - mine-safety
 ---
 
 ## **Source:** https://ecology.iww.org/node/1609

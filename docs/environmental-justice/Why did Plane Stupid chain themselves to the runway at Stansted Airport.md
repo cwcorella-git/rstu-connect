@@ -2,12 +2,14 @@
 title: "Why Did Plane Stupid Chain Themselves to the Runway at Stansted Airport?"
 author: "Plane Stupid"
 date: 2017
-category: abolition
+category: environmental-justice
 tags:
   - climate
   - deportation
   - direct-action
   - anti-racism
+  - IWW
+  - intersectionality
 ---
 
 | Date: Mon, 04/03/2017 - 17:27 |

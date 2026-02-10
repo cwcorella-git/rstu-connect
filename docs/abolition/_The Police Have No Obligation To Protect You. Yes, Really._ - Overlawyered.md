@@ -1,12 +1,14 @@
 ---
-title: The Police Have No Obligation To Protect You Yes Really  Overlawyered
-author: Wikipedia
-date: '2011'
+title: "The Police Have No Obligation To Protect You. Yes, Really."
+author: "Walter Olson"
+date: 2011
 category: abolition
 tags:
   - police
   - abolition
-  - prisons
+  - Supreme-Court
+  - Castle-Rock-v-Gonzales
+  - DeShaney-v-Winnebago
 ---
 
 ### By [Walter Olson](https://www.cato.org/people/walter-olson) **December 28, 2011**
