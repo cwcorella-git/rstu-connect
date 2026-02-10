@@ -1,10 +1,13 @@
 ---
-title: Some Possible Topics for a Workshop on Anarchism
-date: 1992
-category: contemporary-analysis
+title: "Some Possible Topics for a Workshop on Anarchism"
+author: "James Herod"
+date: 2000
+category: theory
 tags:
   - anarchism
-  - theory
+  - education
+  - study-guide
+  - bibliography
 ---
 
 ## James Herod

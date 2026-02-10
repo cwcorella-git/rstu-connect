@@ -1,11 +1,13 @@
 ---
-title: Are You in a BS Job?
-author: David Graeber
-date: 'May 6, 2018'
-category: contemporary-analysis
+title: "Are You in a BS Job? On the Bullshitization of Academic Life"
+author: "David Graeber"
+date: 2018
+category: labor
 tags:
-  - labor
+  - bullshit-jobs
+  - academia
   - Graeber
+  - work
 ---
 
 I would like to write about the bullshitization of academic life: that is, the degree to which those involved in teaching and academic management spend more and more of their time involved in tasks which they secretly — or not so secretly — believe to be entirely pointless.

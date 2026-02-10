@@ -1,12 +1,13 @@
 ---
-title: "Resolutions"
-author: "libcom.org"
+title: "Resolutions: Building an All-Out General Strike from Below"
+author: "Phil Dickens"
 date: 2014
-category: "contemporary-analysis"
+category: labor
 tags:
   - general-strikes
-  - united-kingdom
-  - phil-dickens
+  - UK
+  - rank-and-file
+  - strategy
 ---
 
 If there's one thing, politically, that I want to happen in 2014 it's for leftists to drop the demand for a 24 hour general strike from above and start building for an all out general strike from below.

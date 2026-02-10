@@ -1,9 +1,13 @@
 ---
-title: "Communalist Murray Bookchin: the natural world"
-author: "Murray Bookchin"
-category: contemporary-analysis
+title: "Humanity Is Not A Parasite: Embrace Social Ecology"
+author: "Saint Andrew (video essay)"
+date: 2020
+category: environmental-justice
 tags:
+  - social-ecology
   - Bookchin
+  - ecofascism
+  - critique
 ---
 
 Embrace Social Ecology - Misanthropic, borderline ecofash narratives about humanity's relationship with nature have become way too common in discourse about climate change, highlighting the urgent and critical importance of a social ecological approach.
