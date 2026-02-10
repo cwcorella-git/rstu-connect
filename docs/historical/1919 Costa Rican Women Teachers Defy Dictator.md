@@ -1,11 +1,17 @@
 ---
-title: '1919: Costa Rican Women Teachers Defy Dictator'
-author: "libcom.org"
+title: "1919: Costa Rican Women Teachers Defy Dictator"
+author: "Global Nonviolent Action Database"
 date: 2011
-category: feminist-theory
+category: historical
 tags:
+  - Costa-Rica
+  - teachers
   - women
   - education
+  - Tinoco
+  - 1919
+  - resistance
+  - Maria-Isabel-Carvajal
 ---
 
 ## Maria Isabel Carvajal, PDF

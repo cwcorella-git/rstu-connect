@@ -1,12 +1,15 @@
 ---
-title: Make economic democracy popular again!
-author: "libcom.org"
-date: 2012
-category: labor
+title: "Make Economic Democracy Popular Again!"
+author: "Rasmus Hästbacka"
+date: 2020
+category: theory
 tags:
-  - democracy
-  - technology
-  - digital rights
+  - syndicalism
+  - SAC
+  - Sweden
+  - economic-democracy
+  - workers-control
+  - self-management
 ---
 
 First published in the Swedish union paper Arbetarenin 2020. Therafter published by Znetwork. The author is a member of the Swedish syndicalist unionSAC.

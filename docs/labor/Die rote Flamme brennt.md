@@ -1,11 +1,15 @@
 ---
 title: "Die rote Flamme brennt"
-author: "Industrial Workers of the World"
+author: "Pete Davies"
 date: 2018
-category: "contemporary-analysis"
+category: labor
 tags:
-  - pete-davies
-  - spuren-der-solidarität
+  - IWW
+  - Deliveroo
+  - gig-economy
+  - United-Kingdom
+  - courier-workers
+  - Germany
   - deutsch
 ---
 

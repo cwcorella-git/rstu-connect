@@ -1,12 +1,15 @@
 ---
-title: The Death of Reconstruction Race Labor and Politics in Heather Cox Richardson
-author: Unknown
-date: '2025'
-category: labor
+title: "The Death of Reconstruction: Race, Labor, and Politics in the Post–Civil War North, 1865–1901"
+author: "Heather Cox Richardson"
+date: 2001
+category: historical
 tags:
-  - labor
-  - unions
-  - workers
+  - Reconstruction
+  - United-States
+  - Civil-War
+  - race
+  - labor-history
+  - 19th-century
 ---
 
 The Death of Reconstruction Race, Labor, and Politics in the

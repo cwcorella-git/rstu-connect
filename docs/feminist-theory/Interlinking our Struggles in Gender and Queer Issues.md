@@ -1,10 +1,16 @@
 ---
-title: Interlinking our Struggles in Gender and Queer Issues
-author: "libcom.org"
+title: "Interlinking Our Struggles in Gender and Queer Issues"
+author: "Bandilang Itim"
+date: 2020
 category: feminist-theory
 tags:
   - LGBTQ+
   - feminism
+  - trans-rights
+  - queer-liberation
+  - intersectionality
+  - allyship
+  - Philippines
 ---
 
 ## Bi Trans Queer +)
