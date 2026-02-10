@@ -1,11 +1,17 @@
 ---
 title: "Trees Cut as Maple Syrup Farmers Lose Eminent Domain Battle Over Constitution Pipeline"
-author: "Industrial Workers of the World"
+author: "Energy Justice Network"
 date: 2016
 category: environmental-justice
 tags:
-  - food
-  - fossil fuels
+  - Constitution-Pipeline
+  - eminent-domain
+  - fracking
+  - Pennsylvania
+  - maple-syrup
+  - fossil-fuels
+  - land-rights
+  - energy-justice
 ---
 
 | Date: Sun, 03/06/2016 - 11:45 |

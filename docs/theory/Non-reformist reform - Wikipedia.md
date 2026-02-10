@@ -1,12 +1,18 @@
 ---
-title: "Non-reformist reform"
-author: "Wikipedia contributors"
-date: 1987
-category: "contemporary-analysis"
+title: "Non-Reformist Reform"
+author: "Wikipedia"
+date: 2020
+category: theory
 tags:
-  - analysis
-  - current-events
-  - wikipedia
+  - non-reformist-reform
+  - abolitionist-reform
+  - André-Gorz
+  - anti-capitalism
+  - structural-change
+  - Dean-Spade
+  - Peter-Gelderloos
+  - prison-abolition
+  - political-theory
 ---
 
 

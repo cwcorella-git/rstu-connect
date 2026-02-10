@@ -1,12 +1,17 @@
 ---
-title: "Instant-runoff voting"
-author: "Wikipedia contributors"
-date: 2015
-category: "contemporary-analysis"
+title: "Instant-Runoff Voting (Ranked Choice Voting)"
+author: "Wikipedia"
+date: 2020
+category: organizing
 tags:
-  - analysis
-  - current-events
-  - wikipedia
+  - instant-runoff-voting
+  - ranked-choice-voting
+  - IRV
+  - RCV
+  - electoral-systems
+  - voting-methods
+  - democracy
+  - alternative-vote
 ---
 
 ## Contributors to Wikimedia projects

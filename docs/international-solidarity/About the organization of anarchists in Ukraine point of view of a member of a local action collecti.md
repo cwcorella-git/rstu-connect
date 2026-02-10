@@ -1,12 +1,18 @@
 ---
-title: "About the organization of anarchists in Ukraine: point of view of a member of a local action collective"
-author: "libcom.org"
+title: "About the Organization of Anarchists in Ukraine: Point of View of a Member of a Local Action Collective"
+author: "Ksusha (Solidarity Collectives)"
 date: 2022
 category: international-solidarity
 tags:
+  - Ukraine
   - anarchism
-  - ukraine
+  - Solidarity-Collectives
   - organizing
+  - anti-authoritarians
+  - Russia-Ukraine-war
+  - mutual-aid
+  - Kyiv
+  - Kharkiv
 ---
 
 n-collective

@@ -1,11 +1,16 @@
 ---
-title: RSTU Partners with Nevada Housing Justice Alliance to Lobby for Housing Reform
-author: RSTU Organizing Committee
-date: '2025-09-05'
-category: housing
+title: "RSTU Partners with Nevada Housing Justice Alliance to Lobby for Housing Reform"
+author: "RSTU Organizing Committee"
+date: 2024
+category: notes
 tags:
-  - housing
+  - RSTU
+  - Nevada-Housing-Justice-Alliance
   - Nevada
+  - housing-reform
+  - policy
+  - coalition-building
+  - state-lobbying
 ---
 
 The Reno Sparks Tenants Union is proud to announce our partnership with the Nevada Housing Justice Alliance (NHJA), a statewide coalition working to address Nevada's housing crisis through policy reform and grassroots organizing.

@@ -1,9 +1,16 @@
 ---
-title: POEMS
-date: 1956
-category: feminist-theory
+title: "Voltairine de Cleyre: Selected Works"
+author: "Voltairine de Cleyre"
+date: 1914
+category: theory
 tags:
+  - Voltairine-de-Cleyre
+  - anarchism
   - feminism
+  - classical-anarchism
+  - essays
+  - poetry
+  - American-anarchism
 ---
 
 

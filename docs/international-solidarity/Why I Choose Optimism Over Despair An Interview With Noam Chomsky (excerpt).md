@@ -1,11 +1,18 @@
 ---
-title: 'Why I Choose Optimism Over Despair: An Interview With Noam Chomsky (excerpt)'
-author: "Noam Chomsky"
+title: "Why I Choose Optimism Over Despair: An Interview With Noam Chomsky (excerpt)"
+author: "Noam Chomsky (interviewed by C. J. Polychroniou)"
 date: 2016
 category: international-solidarity
 tags:
-  - technology
-  - digital rights
+  - Noam-Chomsky
+  - libertarian-socialism
+  - anarchism
+  - climate-change
+  - nuclear-war
+  - capitalism
+  - neoliberalism
+  - state-capitalism
+  - interview
 ---
 
 ## **Source:** https://ecology.iww.org/node/1538
