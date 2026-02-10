@@ -1,11 +1,14 @@
 ---
 title: "Is Affordable Renting Possible?"
+author: "re.Marx"
 date: 2022
-category: "contemporary-analysis"
+category: housing
 tags:
-  - analysis
-  - current-events
   - rent
+  - exploitation
+  - affordable-housing
+  - landlords
+  - nonprofit-housing
 ---
 
 ## re. Marx

@@ -1,11 +1,14 @@
 ---
-title: Prison Memoirs of an Anarchist
+title: "Prison Memoirs of an Anarchist"
 author: "Alexander Berkman"
-category: contemporary-analysis
+date: 1912
+category: abolition
 tags:
   - anarchism
   - prisons
   - Berkman
+  - Homestead
+  - attentat
 ---
 
 ## Alexander Berkman

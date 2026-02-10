@@ -1,11 +1,14 @@
 ---
-title: Survival through solidarity. A few stories from the occupied South of Ukraine
-author: "libcom.org"
-date: 1980
-category: labor
+title: "Survival Through Solidarity: Stories from Occupied South Ukraine"
+author: "Nihilist"
+date: 2022
+category: international-solidarity
 tags:
-  - solidarity
   - Ukraine
+  - mutual-aid
+  - occupation
+  - resistance
+  - Kherson
 ---
 
 Over 3000 new graves seen by a French journalist Alexandra Dalsbaek at the beginning of summer in Mariupol, almost razed to the ground... But even in such a post-apocalyptic reality with North Korean social control, popular resistance and self-organization are possible!

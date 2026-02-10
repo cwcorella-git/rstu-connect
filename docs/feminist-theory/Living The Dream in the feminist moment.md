@@ -1,9 +1,13 @@
 ---
-title: Living The Dream in the feminist moment
-author: "libcom.org"
+title: "Living The Dream in the Feminist Moment"
+author: "The Word From Struggle Street"
+date: 2018
 category: feminist-theory
 tags:
   - feminism
+  - Eleanor-Robertson
+  - intersectionality
+  - podcast
 ---
 
 Interview with feminist writer Eleanor Robertson. This podcast is host at The Word From Struggle Street

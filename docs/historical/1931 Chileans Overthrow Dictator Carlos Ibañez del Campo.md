@@ -1,12 +1,13 @@
 ---
-title: 1931 Chileans Overthrow Dictator Carlos Ibañez
-author: Del Campo
-date: '1931'
-category: labor
+title: "1931: Chileans Overthrow Dictator Carlos Ibañez del Campo"
+author: "Global Nonviolent Action Database"
+date: 2011
+category: historical
 tags:
-  - labor
-  - unions
-  - workers
+  - Chile
+  - general-strike
+  - dictatorship
+  - student-movement
 ---
 
 In response to economic depression the Chilean state became a Dictatorship. In response Chilean students and workers engaged in a general strike and occupation of universities demanding a return to civilian rule.

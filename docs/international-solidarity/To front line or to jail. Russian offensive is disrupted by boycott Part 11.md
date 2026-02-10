@@ -1,12 +1,14 @@
 ---
-title: To front line or to jail. Russian offensive is disrupted by boycott? Part 11
-author: "libcom.org"
+title: "To Front Line or to Jail: Russian Offensive Disrupted by Boycott? Part 11"
+author: "Nihilist"
 date: 2022
-category: arts-culture-music
+category: international-solidarity
 tags:
-  - boycotts
-  - prisons
   - Russia
+  - Ukraine
+  - war-resistance
+  - desertion
+  - anti-war
 ---
 
 While the front mostly froze in anticipation of the main blows, direct action continues to exhaust the forces of the aggressor. A banner with Z-swastika on the wall of the sports complex set on fire on the night of July 22 in the town of Gulkevichi near Krasnodar. But the anti-war guerrilla is just the tip of the iceberg!

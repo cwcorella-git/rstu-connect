@@ -1,9 +1,14 @@
 ---
-title: The Imprisoned Black Radical Intellectual Tradition - Russell Maroon Shoatz
-author: "libcom.org"
-category: contemporary-analysis
+title: "The Imprisoned Black Radical Intellectual Tradition"
+author: "Russell Maroon Shoatz"
+date: 2013
+category: abolition
 tags:
   - prisons
+  - Black-radical-tradition
+  - political-prisoners
+  - Malcolm-X
+  - George-Jackson
 ---
 
 A short article by anti-authoritarian Black Power prisoner Russell Maroon Shoatz, first published by In The Belly: An Abolitionist Journaland then republished by Abolition Media Worldwide.

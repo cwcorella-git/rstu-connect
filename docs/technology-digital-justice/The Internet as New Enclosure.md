@@ -1,10 +1,14 @@
 ---
-title: Crimeth Inc.
+title: "The Internet as New Enclosure"
+author: "CrimethInc."
 date: 2013
-category: international-solidarity
+category: technology-digital-justice
 tags:
-  - technology
-  - digital rights
+  - internet
+  - surveillance
+  - capitalism
+  - enclosure
+  - attention-economy
 ---
 
 ## **The Internet as New Enclosure**
