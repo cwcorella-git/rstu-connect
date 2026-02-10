@@ -1,11 +1,14 @@
 ---
-title: Henri Lefebvre
-author: "Sacha Rabinovitch"
-date: 1969
-category: contemporary-analysis
+title: "Everyday Life in the Modern World"
+author: "Henri Lefebvre"
+date: 1971
+category: theory
 tags:
-  - analysis
-  - current-events
+  - Lefebvre
+  - everyday-life
+  - urbanism
+  - capitalism
+  - alienation
 ---
 
 

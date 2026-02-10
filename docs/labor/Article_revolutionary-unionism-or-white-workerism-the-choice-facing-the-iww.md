@@ -1,11 +1,14 @@
 ---
-title: Revolutionary Unionism Or White Workerism the Choice Facing the Iww
-author: Industrial Workers of the World
-date: '2025'
+title: "Revolutionary Unionism or White Workerism: The Choice Facing the IWW"
+author: "Brandon & Natalia"
+date: 2017
 category: labor
 tags:
   - unions
   - labor
+  - IWW
+  - anti-racism
+  - revolutionary-unionism
 ---
 
 For A Revolutionary Union Movement, General Defense Committee, Industrial

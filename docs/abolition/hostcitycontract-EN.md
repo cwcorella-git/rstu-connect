@@ -1,9 +1,13 @@
 ---
-title: Host City Contract for the Games of the XXXII Olympiad in the Year 2020
+title: "Host City Contract for the Games of the XXXII Olympiad (Tokyo 2020)"
+author: "International Olympic Committee"
 date: 2020
-category: contemporary-analysis
+category: abolition
 tags:
-  - urban
+  - mega-events
+  - urban-displacement
+  - Olympics
+  - gentrification
 ---
 
 

@@ -1,13 +1,14 @@
 ---
-title: For an Anti Fascist Revolutionary Unionism
-author: It's Going Down
-date: '2025'
+title: "For an Anti-Fascist Revolutionary Unionism"
+author: "African People's Caucus (IWW)"
+date: 2017
 category: labor
 tags:
   - antifascism
   - labor
   - unions
-  - workers
+  - IWW
+  - anti-racism
 ---
 
 Workers of the World (IWW), IWW African People's Conference, anti-fascism

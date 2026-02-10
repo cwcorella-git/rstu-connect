@@ -1,12 +1,13 @@
 ---
 title: "Persecution of Uyghurs in China"
-author: "Wikipedia contributors"
-date: 2014
-category: "contemporary-analysis"
+author: "Wikipedia"
+date: 2024
+category: "international-solidarity"
 tags:
-  - analysis
-  - current-events
-  - wikipedia
+  - China
+  - Uyghurs
+  - human-rights
+  - repression
 ---
 
 
