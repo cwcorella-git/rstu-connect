@@ -1,10 +1,14 @@
 ---
-title: Delfin English teachers win contract improvements after joining IWW
-author: "Industrial Workers of the World"
-category: youth-student-organizing
+title: "Delfin English Teachers Win Contract Improvements After Joining IWW"
+author: "TEFL Workers Union (IWW)"
+date: 2019
+category: labor
 tags:
-  - unions
+  - IWW
   - education
+  - TEFL
+  - London
+  - organizing
 ---
 
 ## Union

@@ -1,12 +1,12 @@
 ---
-title: The History Of Police In America And The First Force   Time
+title: "The History of Police in America and the First Force"
 author: "Olivia B. Waxman"
-date: '1838'
+date: 2017
 category: abolition
 tags:
-  - police
-  - abolition
-  - prisons
+  - police-history
+  - police-abolition
+  - United-States
 ---
 
 ## [time.com](https://time.com/4779112/police-history-origins/)

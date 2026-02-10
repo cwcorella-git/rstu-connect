@@ -1,13 +1,13 @@
 ---
-title: "Get mad and get even"
-author: "libcom.org"
-date: 2013
-category: "contemporary-analysis"
+title: "Get Mad and Get Even"
+author: "Eleanor Robertson"
+date: 2016
+category: "feminist-theory"
 tags:
-  - sex-and-sexuality
-  - australia
   - feminism
-  - gender
+  - class-struggle
+  - Australia
+  - Germaine-Greer
 ---
 
 ## Germaine Greer, Eleanor Robertson, Meanjin

@@ -1,11 +1,13 @@
 ---
-title: Situating "the blurred trail of the Cangaceiros on the social pampas"
-author: "libcom.org"
-date: 2009
+title: "Situating the Blurred Trail of the Cangaceiros on the Social Pampas"
+author: "David Wise"
+date: 2008
 category: international-solidarity
 tags:
-  - technology
-  - digital rights
+  - Os-Cangaceiros
+  - France
+  - direct-action
+  - prisoners-struggle
 ---
 
 Three introductory texts to Os Cangaceiros - a European direct action group originating in France in the 1980s. Originally published on the Revolt Against Plenty website.

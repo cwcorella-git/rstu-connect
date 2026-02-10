@@ -1,11 +1,14 @@
 ---
-title: War against war is starting? The grapes of wrath in Ukraine
-author: "libcom.org"
-date: 2022
-category: arts-culture-music
+title: "War Against War is Starting: The Grapes of Wrath in Ukraine"
+author: "Autonomous Action"
+date: 2024
+category: international-solidarity
 tags:
-  - anti-war
   - Ukraine
+  - anti-war
+  - conscription
+  - resistance
+  - anarchism
 ---
 
 This yellow Niva has become in Ukraine a truly popular meme of resistance to state terror

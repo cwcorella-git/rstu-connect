@@ -1,11 +1,14 @@
 ---
-title: Going Slowly to 100% Renewables … by 2025?
-author: "Industrial Workers of the World"
+title: "Going Slowly to 100% Renewables ... by 2025?"
+author: "Dan Fischer"
 date: 2020
 category: environmental-justice
 tags:
-  - environment
+  - renewable-energy
   - climate
+  - Murray-Bookchin
+  - degrowth
+  - ecosocialism
 ---
 
 | Date: Sun, 04/05/2020 - 18:41

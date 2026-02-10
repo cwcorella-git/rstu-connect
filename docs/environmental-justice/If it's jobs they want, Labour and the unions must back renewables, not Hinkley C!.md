@@ -1,11 +1,14 @@
 ---
-title: "If it's jobs they want, Labour and the unions must back renewables, not Hinkley C!"
-author: "Industrial Workers of the World"
+title: "If It's Jobs They Want, Labour and the Unions Must Back Renewables, Not Hinkley C!"
+author: "Ian Fairlie"
 date: 2016
 category: environmental-justice
 tags:
-  - labor
-  - environment
+  - nuclear-power
+  - renewable-energy
+  - just-transition
+  - UK
+  - unions
 ---
 
 | Date: Tue, 08/30/2016 - 18:53 |

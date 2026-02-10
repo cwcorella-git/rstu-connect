@@ -1,11 +1,14 @@
 ---
-title: Just Transition and Extractive Industry Workers
-author: "That Green Union Guy -"
+title: "Just Transition and Extractive Industry Workers"
+author: "That Green Union Guy"
 date: 2021
-category: labor
+category: environmental-justice
 tags:
+  - just-transition
+  - fossil-fuels
+  - coal
   - labor
-  - just transition
+  - IWW
 ---
 
 ## **Source:** https://ecology.iww.org/node/4153
