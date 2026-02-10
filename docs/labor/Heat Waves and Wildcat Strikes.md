@@ -1,12 +1,17 @@
 ---
-title: Heat Waves And Wildcat Strikes
-author: Jeff Shantz
-date: '2024'
+title: "Heat Waves and Wildcat Strikes"
+author: "Jeff Shantz"
+date: 2024
 category: labor
 tags:
-  - labor
-  - unions
-  - workers
+  - wildcat-strikes
+  - heat-waves
+  - climate-crisis
+  - Jeff-Shantz
+  - green-syndicalism
+  - worker-safety
+  - IWW
+  - labor-organizing
 ---
 
 ## **Source:** https://ecology.iww.org/node/6239

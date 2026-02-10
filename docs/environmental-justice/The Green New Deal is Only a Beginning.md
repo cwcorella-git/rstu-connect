@@ -1,11 +1,17 @@
 ---
-title: The Green New Deal is Only a Beginning
-author: "Wobbly Ball - Open Letter, Summer 2019"
+title: "The Green New Deal is Only a Beginning"
+author: "Wobbly Ball"
 date: 2019
 category: environmental-justice
 tags:
-  - environment
-  - climate
+  - Green-New-Deal
+  - just-transition
+  - working-class
+  - IWW
+  - environmental-justice
+  - labor-movement
+  - XR
+  - Wobbly-Ball
 ---
 
 ## **Source:** https://ecology.iww.org/node/3362

@@ -1,12 +1,17 @@
 ---
-title: 'Storytelling on the Road to Socialism: Episode 16: A Teacher Speaks'
-author: "Industrial Workers of the World"
+title: "Storytelling on the Road to Socialism: Episode 16: A Teacher Speaks"
+author: "Candace Wolf"
 date: 2023
 category: youth-student-organizing
 tags:
-  - education
-  - students
-  - youth
+  - Candace-Wolf
+  - teachers
+  - DC-Teachers-Union
+  - radical-education
+  - IWW
+  - Washington-DC
+  - podcast
+  - education-workers
 ---
 
 | Date: Tue, 07/04/2023 - 00:00 |

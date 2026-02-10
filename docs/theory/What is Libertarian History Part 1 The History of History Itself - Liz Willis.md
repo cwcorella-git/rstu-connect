@@ -1,13 +1,17 @@
 ---
-title: "What is Libertarian History? Part 1: The History of History Itself - Liz Willis"
-author: "libcom.org"
-date: 1818
-category: "arts-culture-music"
+title: "What is Libertarian History? Part 1: The History of History Itself"
+author: "Liz Willis"
+date: 2010
+category: theory
 tags:
-  - arts
-  - culture
-  - history
-  - libcom
+  - Liz-Willis
+  - historiography
+  - libertarian-history
+  - anarchist-history
+  - Kropotkin
+  - feminist-history
+  - Catherine-Macaulay
+  - Mary-Wollstonecraft
 ---
 
 ## **Tags:** Liz Willis, United Kingdom, feminism

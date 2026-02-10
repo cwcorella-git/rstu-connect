@@ -1,9 +1,17 @@
 ---
-title: "Review of David Roediger (ed.) Listening to Revolt"
-date: 1969
-category: contemporary-analysis
+title: "Review of David Roediger (ed.) Listening to Revolt: The Selected Writings of George Rawick"
+author: "Jordan T. Camp"
+date: 2012
+category: theory
 tags:
+  - David-Roediger
+  - George-Rawick
+  - book-review
+  - Jordan-Camp
+  - race
   - class
+  - slavery
+  - labor-history
 ---
 
 Listening to Revolt: the selected writings of George Rawick

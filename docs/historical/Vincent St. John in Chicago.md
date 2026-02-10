@@ -1,9 +1,17 @@
 ---
-title: Vincent St. John in Chicago
+title: "Vincent St. John in Chicago"
 author: "Fred W. Heslewood"
 date: 1907
-category: contemporary-analysis
+category: historical
 tags:
+  - IWW
+  - Vincent-St-John
+  - 1907
+  - Fred-Heslewood
+  - Haywood
+  - Goldfield
+  - AFL
+  - labor-history
   - Chicago
 ---
 
