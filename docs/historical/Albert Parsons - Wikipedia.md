@@ -1,12 +1,13 @@
 ---
-title: Albert Parsons
-author: "Wikipedia contributors"
-date: 1873
-category: labor
+title: "Albert Parsons"
+author: "Wikipedia"
+date: 2024
+category: historical
 tags:
-  - labor
-  - unions
-  - workers
+  - anarchism
+  - Haymarket
+  - labor-history
+  - United-States
 ---
 
 

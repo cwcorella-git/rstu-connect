@@ -1,11 +1,14 @@
 ---
-title: "Marius Mason calls for an International Day of Trans Prisoner Support on January 22nd"
-author: "Industrial Workers of the World"
+title: "Marius Mason Calls for an International Day of Trans Prisoner Support on January 22nd"
+author: "IWW Incarcerated Workers Organizing Committee"
 date: 2016
-category: labor
+category: abolition
 tags:
-  - prisons
-  - LGBTQ+
+  - trans-prisoners
+  - LGBTQ
+  - Marius-Mason
+  - IWW
+  - Green-Scare
 ---
 
 ## **Source:** https://ecology.iww.org/node/1451

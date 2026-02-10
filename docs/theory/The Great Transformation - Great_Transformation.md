@@ -1,11 +1,14 @@
 ---
-title: Karl Polanyi
-author: "Joseph E. Stiglitz"
+title: "The Great Transformation"
+author: "Karl Polanyi"
 date: 1944
-category: feminist-theory
+category: theory
 tags:
-  - labor
-  - feminism
+  - Polanyi
+  - capitalism
+  - market
+  - double-movement
+  - embeddedness
 ---
 
 ## The C^reat Transformation

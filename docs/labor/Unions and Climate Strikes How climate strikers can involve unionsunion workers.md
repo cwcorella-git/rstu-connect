@@ -1,12 +1,13 @@
 ---
-title: "Unions and Climate Strikes: How climate strikers can involve unions/union workers"
-author: "Industrial Workers of the World"
-date: 2006
+title: "Unions and Climate Strikes: How Climate Strikers Can Involve Unions/Union Workers"
+author: "IWW Environmental Unionism Caucus"
+date: 2019
 category: environmental-justice
 tags:
+  - climate-strike
   - unions
-  - labor
-  - environment
+  - IWW
+  - green-bans
 ---
 
 ## **Source:** https://ecology.iww.org/node/3314

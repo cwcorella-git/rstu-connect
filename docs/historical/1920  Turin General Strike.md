@@ -1,11 +1,14 @@
 ---
-title: '1920: Turin General Strike'
-author: "libcom.org"
-date: 1919
-category: labor
+title: "1920: Turin General Strike"
+author: "Anonymous"
+date: 1920
+category: historical
 tags:
-  - general strikes
-  - strikes
+  - Italy
+  - Turin
+  - general-strike
+  - factory-occupations
+  - Gramsci
 ---
 
 The General Strike of 1920 in the city of Turin lead to workers occupying and running the factories themselves as part of an attempt to build a socialist society.
