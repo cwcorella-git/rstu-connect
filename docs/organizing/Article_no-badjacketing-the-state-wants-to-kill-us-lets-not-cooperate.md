@@ -1,12 +1,15 @@
 ---
-title: No Badjacketing the State Wants To Kill Us Lets Not Cooperate
-author: Industrial Workers of the World
-date: '2025'
-category: abolition
+title: "No Badjacketing: The State Wants To Kill Us, Let's Not Cooperate"
+author: "Twin Cities GDC Local 14"
+date: 2016
+category: organizing
 tags:
-  - abolition
-  - police
-  - prisons
+  - IWW-GDC
+  - badjacketing
+  - security-culture
+  - COINTELPRO
+  - BLM
+  - Minneapolis
 ---
 
 Workers of the World (IWW), Black Lives Matter, IWW General Defense Committee (GDC), GDC Local 14, Twin Cities IWW, movement politics, direct action

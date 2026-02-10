@@ -1,11 +1,14 @@
 ---
-title: An Anarchist Theory of Criminal Justice
-author: Coy McKinney
-date: '2025'
+title: "An Anarchist Theory of Criminal Justice"
+author: "Coy McKinney"
+date: 2012
 category: theory
 tags:
   - anarchism
-  - theory
+  - criminal-justice
+  - restorative-justice
+  - abolition
+  - racism
 ---
 
             Coy McKinney

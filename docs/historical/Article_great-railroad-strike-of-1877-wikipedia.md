@@ -1,11 +1,15 @@
 ---
-title: Great Railroad Strike of 1877 Wikipedia
-author: Wikipedia
-date: '2025'
-category: labor
+title: "Great Railroad Strike of 1877"
+author: "Wikipedia"
+date: 1877
+category: historical
 tags:
-  - strikes
-  - railroads
+  - railroad-strike
+  - 1877
+  - USA
+  - Workingmens-Party
+  - National-Guard
+  - general-strike
 ---
 
 Great Railroad Strike of 1877 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...

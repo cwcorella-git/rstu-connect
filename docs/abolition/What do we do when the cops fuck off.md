@@ -1,12 +1,15 @@
 ---
-title: What do we do when the cops fuck off?
-author: "libcom.org"
-date: 1981
-category: contemporary-analysis
+title: "What Do We Do When the Cops Fuck Off?"
+author: "Class War Federation"
+date: 1986
+category: abolition
 tags:
-  - police
-  - abolition
-  - prisons
+  - Class-War
+  - UK
+  - riots
+  - Brixton
+  - Broadwater-Farm
+  - 1980s
 ---
 
 ## **Tags:** Class War Federation, 1980s, riots

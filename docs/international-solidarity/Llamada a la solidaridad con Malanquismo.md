@@ -1,10 +1,15 @@
 ---
-title: Llamada a la solidaridad con Malanquismo
-author: "libcom.org"
+title: "Llamada a la Solidaridad con Malanquismo (Call for Solidarity with Malanquismo)"
+author: "Nuestra Ayuda Mutua: Malanquismo"
 date: 2023
-category: contemporary-analysis
+category: international-solidarity
 tags:
-  - Los Angeles
+  - South-Korea
+  - hotel-workers
+  - union-busting
+  - Seoul
+  - anarchism
+  - labor
 ---
 
 ## 12 de marzo del 2023, Seúl, Corea

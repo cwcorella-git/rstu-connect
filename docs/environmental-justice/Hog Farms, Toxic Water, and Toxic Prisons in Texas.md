@@ -1,11 +1,15 @@
 ---
-title: 'Hog Farms, Toxic Water, and Toxic Prisons in Texas'
-author: "Comrade Malik -"
+title: "Hog Farms, Toxic Water, and Toxic Prisons in Texas"
+author: "Keith 'Malik' Washington"
 date: 2018
 category: environmental-justice
 tags:
-  - prisons
-  - food
+  - IWOC
+  - prison-abolition
+  - environmental-racism
+  - Texas
+  - factory-farming
+  - water-pollution
 ---
 
 ## **Source:** https://ecology.iww.org/node/2871
