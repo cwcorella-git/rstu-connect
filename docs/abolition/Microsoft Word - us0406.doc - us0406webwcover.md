@@ -1,10 +1,15 @@
 ---
-title: "So Long as They Die"
-date: 2003
-category: "contemporary-analysis"
+title: "So Long as They Die: Lethal Injections in the United States"
+author: "Human Rights Watch"
+date: 2006
+category: abolition
 tags:
-  - analysis
-  - current-events
+  - capital-punishment
+  - lethal-injection
+  - death-penalty
+  - prisons
+  - human-rights
+  - United-States
 ---
 
 

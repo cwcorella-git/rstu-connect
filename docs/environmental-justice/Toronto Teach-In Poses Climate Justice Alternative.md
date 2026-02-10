@@ -1,11 +1,15 @@
 ---
-title: Toronto Teach-In Poses Climate Justice Alternative
-author: "John Riddell -"
+title: "Toronto Teach-In Poses Climate Justice Alternative"
+author: "John Riddell"
 date: 2016
 category: environmental-justice
 tags:
-  - environment
+  - climate-justice
   - indigenous
+  - Canada
+  - Toronto
+  - Peoples-Climate-Plan
+  - pipelines
 ---
 
 ## **Source:** https://ecology.iww.org/node/1680

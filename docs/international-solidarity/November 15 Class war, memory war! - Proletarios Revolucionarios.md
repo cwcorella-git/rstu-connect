@@ -1,11 +1,16 @@
 ---
-title: 'November 15: Class war, memory war! - Proletarios Revolucionarios'
-author: "Class War Federation"
-date: 1922
+title: "November 15: Class War, Memory War!"
+author: "Proletarios Revolucionarios"
+date: 2014
 category: international-solidarity
 tags:
-  - anti-war
-  - class
+  - Ecuador
+  - Guayaquil
+  - 1922-massacre
+  - class-struggle
+  - autonomy
+  - anti-unionism
+  - historical-memory
 ---
 
 ## Guayaquil

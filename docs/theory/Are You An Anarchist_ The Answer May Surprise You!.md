@@ -1,11 +1,14 @@
 ---
-title: David Graeber
+title: "Are You An Anarchist? The Answer May Surprise You!"
 author: "David Graeber"
-date: 2009
-category: contemporary-analysis
+date: 2000
+category: theory
 tags:
   - anarchism
-  - Graeber
+  - David-Graeber
+  - introduction
+  - self-organization
+  - voluntary-association
 ---
 
 # **Are You An Anarchist? The Answer May Surprise You!**
