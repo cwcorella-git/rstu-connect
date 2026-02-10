@@ -1,10 +1,12 @@
 ---
-title: Reclaiming Libertarianism
-author:
+title: "Reclaiming Libertarianism"
+author: "Anonymous"
+date: 2010
 category: theory
 tags:
-  - technology
-  - digital rights
+  - anarchism
+  - libertarianism
+  - communism
 ---
 
 ## **Tags:** Anonymous, anarchism

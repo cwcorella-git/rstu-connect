@@ -1,11 +1,13 @@
 ---
 title: "Wobblies Continue Lawsuits Against Texas Prison Authorities, Despite Retaliation"
-author: "Industrial Workers of the World"
+author: "J Parampathu"
 date: 2022
-category: labor
+category: abolition
 tags:
-  - unions
   - prisons
+  - IWW
+  - IWOC
+  - organizing
 ---
 
 ## **Source:**

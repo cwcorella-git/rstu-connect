@@ -1,9 +1,13 @@
 ---
-title: The Myth of Non-Reformist Reforms
-category: contemporary-analysis
+title: "The Myth of Non-Reformist Reforms"
+author: "Robin Hahnel (compiled by Black Rose/Rosa Negra)"
+date: 2005
+category: theory
 tags:
-  - analysis
-  - current-events
+  - anarchism
+  - strategy
+  - reformism
+  - organizing
 ---
 
 ## [blackrosefed.org](https://www.blackrosefed.org/myth-non-reformist-reforms/)

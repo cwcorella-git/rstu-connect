@@ -1,11 +1,13 @@
 ---
-title: Towards a PEOPLE'S PEACE
-author: "Hardy Merriman"
+title: "Towards a People's Peace: A Task for Activists, Peacebuilders, and Allies"
+author: "Hardy Merriman, Ola Ibrahim, Gino Govender, Hanyea Mohammed, Véronique Dudouet, Steward Muhindo, Shreen Saroor"
 date: 2025
 category: international-solidarity
 tags:
   - anti-war
   - peace
+  - nonviolence
+  - organizing
 ---
 
 ## A Task, for Activists, Peacebuilders, and Affies

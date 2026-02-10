@@ -1,12 +1,13 @@
 ---
-title: Third Class
-author: Mahatma Gandhi
-date: 2008
-category: labor
+title: "Third Class in Indian Railways"
+author: "Mahatma Gandhi"
+date: 1917
+category: historical
 tags:
-  - class
-  - railroads
   - India
+  - transportation
+  - class-struggle
+  - Gandhi
 ---
 
 Project Gutenberg's Third class in Indian railways, by Mahatma Gandhi
