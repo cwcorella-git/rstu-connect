@@ -1,12 +1,14 @@
 ---
-title: 'AFL-CIO to Planet Earth: Drop Dead!'
-author: "Industrial Workers of the World"
+title: "AFL-CIO to Planet Earth: Drop Dead!"
+author: "Norman Solomon"
 date: 2016
-category: labor
+category: environmental-justice
 tags:
+  - AFL-CIO
+  - climate-justice
+  - DAPL
   - unions
-  - labor
-  - workers
+  - yellow-unionism
 ---
 
 | Source: https://ecology.iww.org/node/1813|

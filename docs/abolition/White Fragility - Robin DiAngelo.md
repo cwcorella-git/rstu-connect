@@ -1,10 +1,12 @@
 ---
-title: "FRAGILITY"
-date: 1949
-category: "contemporary-analysis"
+title: "White Fragility: Why It's So Hard for White People to Talk About Racism"
+author: "Robin DiAngelo"
+date: 2018
+category: "abolition"
 tags:
-  - analysis
-  - current-events
+  - anti-racism
+  - white-supremacy
+  - DiAngelo
 ---
 
 ## WHY IT'S SO HARD

@@ -1,13 +1,13 @@
 ---
-title: Rent Strike Organizing Emergency Episode Rebel Steps
-author: CrimethInc
-date: '2020'
-category: labor
+title: "Rent Strike Organizing: Emergency Episode (Rebel Steps)"
+author: "Rebel Steps Podcast"
+date: 2020
+category: housing
 tags:
-  - rent strikes
-  - strikes
-  - organizing
-  - housing
+  - rent-strikes
+  - tenant-organizing
+  - COVID-19
+  - housing-justice
 ---
 
 , and “L.A.’s Class Struggle Looks Like This: The Tenants Movement” from Black Rose. Also, listen to From Below’s episode “Organize Your Neighbors: The Los Angeles Tenants Union.” Seattle Rent Strike has some excellent resources including rent strike posters and fliers, a sample letter to neighbors, and a sample letter to landlords. Keep Your Rent Toronto also has sample letters and posters available. Check out Austin Rent Strike’s list of resources, including flyer examples. Check out the DSA-NYC Tenant Organizing Manual. Read “Form a Union” from Tenants Together. Read “On Rent Strike against Gentrification and the Pandemic An Interview with Residents of Station 40 in San Francisco” from Crimethinc. Listen to Crimethinc’s episode 75 on rent strike history and tactics. Full transcript available as well. Welcome to a special emergency episode of Rebel Steps. I’m Liz. Amy and I are currently in New York where everything is locked down. This episode will definitely be a little less polished than our other episodes, but for now we just wanted to get it out as soon as possible. It’s a really unprecedented moment here in New York, and globally. It sort of feels like the world is ending… but there’s also some hope in the moment. We’ve seen many mutual aid 

@@ -1,12 +1,14 @@
 ---
-title: Prison Peninsula. About Guerrilla Attacks in Occupied Crimea
-author: "libcom.org"
+title: "Prison Peninsula: About Guerrilla Attacks in Occupied Crimea"
+author: "Autonomous Action"
 date: 2022
-category: contemporary-analysis
+category: international-solidarity
 tags:
-  - prisons
-  - abolition
-  - police
+  - Ukraine
+  - Crimea
+  - resistance
+  - anarchism
+  - sabotage
 ---
 
 This is the special issue of our survey concerning grassroots sabotage to disrupt ongoing Russian aggression in Ukraine. You also can seethe newest general overviewof radical popular resistance in various regions of the totalitarian hell. And please support the anarchist online magazine forrestoration of the community social fabricin injured frontline Kharkiv. To donate you are welcome to jointhis fundraising. A couple of cups of coffee in your country even before the war could be equivalent in price to the daily wage of a worker in Ukraine!

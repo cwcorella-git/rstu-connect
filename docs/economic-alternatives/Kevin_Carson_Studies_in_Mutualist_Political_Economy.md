@@ -1,11 +1,13 @@
 ---
-title: 'Part One—Theoretical Foundations: Value Theory'
+title: "Studies in Mutualist Political Economy"
 author: "Kevin Carson"
-date: 2001
+date: 2004
 category: economic-alternatives
 tags:
+  - mutualism
   - economics
-  - alternatives
+  - anarchism
+  - value-theory
 ---
 
 ### **Studies in Mutualist Political Economy**

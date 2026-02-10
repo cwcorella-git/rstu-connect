@@ -1,13 +1,14 @@
 ---
-title: "No jobs on a dead planet: Why South African unions should stop investing in fossil fuels and lo"
-author: "Industrial Workers of the World"
+title: "No Jobs on a Dead Planet: Why South African Unions Should Stop Investing in Fossil Fuels"
+author: "David Le Page"
 date: 2017
-category: labor
+category: environmental-justice
 tags:
-  - fossil fuels
-  - labor
+  - South-Africa
+  - climate-justice
+  - divestment
+  - just-transition
   - unions
-  - workers
 ---
 
 | Date: Mon, 02/06/2017 - 17:09
