@@ -1,12 +1,14 @@
 ---
-title: "Marx-Engels on Historical Materialism"
-author: "Marxists.org"
-date: 1999
+title: "Marx and Engels on Historical Materialism"
+author: "Karl Marx and Friedrich Engels"
+date: 1880
 category: theory
 tags:
-  - marxism
+  - Marxism
+  - historical-materialism
+  - German-Ideology
   - philosophy
-  - materialism
+  - dialectics
 ---
 
 ## **Marx-Engels Subject Archive**

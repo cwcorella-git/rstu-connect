@@ -1,10 +1,14 @@
 ---
-title: Eco-Socialism and Decentralism
-author: "Industrial Workers of the World"
+title: "Eco-Socialism and Decentralism"
+author: "Wayne Price"
 date: 2016
-category: contemporary-analysis
+category: theory
 tags:
-  - theory
+  - ecosocialism
+  - decentralism
+  - anarchism
+  - Kropotkin
+  - climate-justice
 ---
 
 ## **Source:** https://ecology.iww.org/node/1555

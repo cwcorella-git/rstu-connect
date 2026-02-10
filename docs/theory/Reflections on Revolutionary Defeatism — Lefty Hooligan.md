@@ -1,19 +1,16 @@
 ---
-title: "Reflections on Revolutionary Defeatism — \"Lefty\" Hooligan"
-author: "libcom.org"
-date: 1975
-category: "contemporary-analysis"
+title: "Reflections on Revolutionary Defeatism"
+author: "Lefty Hooligan"
+date: 2024
+category: theory
 tags:
-  - lefty-hooligan
-  - russia-ukraine-war
-  - russian-revolution-1917
-  - german-revolution-1918
-  - leninism
-  - anarchism
-  - vietnam-war
-  - left-communism
-  - national-liberation
   - revolutionary-defeatism
+  - Ukraine
+  - Vietnam-War
+  - Russian-Revolution
+  - German-Revolution
+  - anarchism
+  - left-communism
 ---
 
 Three 2024 columns from Lefty Hooligan reflecting on his views on Revolutionary Defeatism. He considers the tactic in the historical context of Russian and German Revolutions, the Vietnam War, the current Russian invasion of Ukraine and more. Lefty Hooligan wrote a column for Maximum Rockn Roll from 1991 until 2020.

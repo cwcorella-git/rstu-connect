@@ -1,11 +1,15 @@
 ---
-title: 'Audrey Goodfriend, 1920-2013: an anarchist life'
-author: "libcom.org"
-date: 1927
-category: contemporary-analysis
+title: "Audrey Goodfriend, 1920-2013: An Anarchist Life"
+author: "Howard Besser"
+date: 2013
+category: theory
 tags:
   - anarchism
-  - theory
+  - biography
+  - Emma-Goldman
+  - Why?
+  - Yiddish
+  - NYC
 ---
 
 An obituary by Howard Besser of Audrey Goodfriend, a lifelong American anarchist who, among other things, was part of the group around the publication Why?.
