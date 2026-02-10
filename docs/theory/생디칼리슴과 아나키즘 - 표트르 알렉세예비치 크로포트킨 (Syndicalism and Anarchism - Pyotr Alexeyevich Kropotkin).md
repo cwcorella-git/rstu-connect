@@ -1,12 +1,14 @@
 ---
-title: 생디칼리슴과 아나키즘 표트르 알렉세예비치 크로포트킨 Syndicalism And Anarchism Pyotr
-author: Alexeyevich Kropotk
-date: '1977'
+title: "Syndicalism and Anarchism (생디칼리슴과 아나키즘)"
+author: "Peter Kropotkin"
+date: 1908
 category: theory
 tags:
   - anarchism
   - syndicalism
   - Kropotkin
+  - Korean-translation
+  - direct-action
 ---
 
 ## **Author:** Peter Kropotkin

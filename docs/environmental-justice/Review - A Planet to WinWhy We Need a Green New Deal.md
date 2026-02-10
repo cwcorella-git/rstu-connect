@@ -1,11 +1,14 @@
 ---
-title: 'Review - A Planet to Win:Why We Need a Green New Deal'
-author: "Industrial Workers of the World"
+title: "Review: A Planet to Win - Why We Need a Green New Deal"
+author: "x344543 (IWW Environmental Union Caucus)"
 date: 2023
 category: environmental-justice
 tags:
   - environment
   - climate
+  - Green-New-Deal
+  - book-review
+  - ecosocialism
 ---
 
 | Date: Tue, 05/09/2023 - 18:22 |

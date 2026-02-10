@@ -1,7 +1,7 @@
 ---
 title: "Battle of Blair Mountain"
 author: "Wikipedia"
-date: 2024
+date: 1921
 category: historical
 tags:
   - labor-history
@@ -9,6 +9,7 @@ tags:
   - West-Virginia
   - strikes
   - armed-struggle
+  - 1921
 ---
 
 

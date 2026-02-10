@@ -1,11 +1,14 @@
 ---
-title: Statements from Alabama Prisoners as Strike Enters Third Week
-author: "libcom.org"
+title: "Statements from Alabama Prisoners as Strike Enters Third Week"
+author: "Alabama Prisoners (Free Alabama Movement)"
 date: 2022
-category: contemporary-analysis
+category: abolition
 tags:
   - strikes
   - prisons
+  - prison-strike
+  - Alabama
+  - labor-organizing
 ---
 
 An update from the Alabama prison strike which began in September 2022. This article was first published on It's Going Down.

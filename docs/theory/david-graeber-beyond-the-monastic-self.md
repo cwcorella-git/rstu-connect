@@ -1,10 +1,15 @@
 ---
-title: Beyond the Monastic Self
-author: David Graeber
-date: '2022'
-category: contemporary-analysis
+title: "Beyond the Monastic Self"
+author: "David Graeber"
+date: 2022
+category: theory
 tags:
   - Graeber
+  - anthropology
+  - consciousness
+  - Maurice-Bloch
+  - dialogue
+  - posthumous
 ---
 
 #pubdate 2022-09-17T21:54:00
