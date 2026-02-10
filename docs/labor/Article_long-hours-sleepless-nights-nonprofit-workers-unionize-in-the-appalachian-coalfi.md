@@ -1,12 +1,14 @@
 ---
-title: "Long Hours Sleepless Nights Nonprofit Workers Unionize in the Appalachian Coalfi"
-author: Industrial Workers of the World
-date: '2025'
+title: "Long Hours, Sleepless Nights: Nonprofit Workers Unionize in the Appalachian Coalfields"
+author: "Caitlin Myers"
+date: 2021
 category: labor
 tags:
-  - labor
-  - unions
-  - workers
+  - nonprofits
+  - IWW
+  - Appalachia
+  - environmental-justice
+  - burnout
 ---
 
 Valley Environmental Coalition (OVEC), Industrial Workers of the World (IWW), NGOs, green unionism, ecological movements and organizations, movements, unions, and organizations, class struggle

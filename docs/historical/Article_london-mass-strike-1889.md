@@ -1,6 +1,6 @@
 ---
 title: "London Mass Strike 1889"
-author: "libcom.org"
+author: "Past Tense"
 date: 1889
 category: historical
 tags:

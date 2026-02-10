@@ -1,11 +1,13 @@
 ---
-title: Reopen Or Close Schools A Lose Lose Situation For The Working Class
-author: "libcom.org"
-date: '1919'
+title: "Reopen or Close Schools: A Lose-Lose Situation for the Working Class"
+author: "1919 (mcmxix.org)"
+date: 2020
 category: youth-student-organizing
 tags:
+  - COVID-19
+  - schools
   - education
-  - class
+  - working-class
 ---
 
 ## Covid-19, schools

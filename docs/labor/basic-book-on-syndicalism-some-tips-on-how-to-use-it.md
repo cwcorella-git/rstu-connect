@@ -1,13 +1,14 @@
 ---
-title: Basic book on syndicalism – some tips on how to use it
-author: "Erik Bonk"
-date: '2025'
+title: "Basic book on syndicalism: some tips on how to use it"
+author: "Rasmus Hästbacka"
+date: 2024
 category: labor
 tags:
-  - labor
-  - workers
-  - unions
   - syndicalism
+  - SAC
+  - Sweden
+  - organizing
+  - education
 ---
 
 Buy the printed bookhereor download a free PDF. The article below is translated from the Swedish magazineSyndikalisten, printed issue #3 2023. The author is a member of the Swedish syndicalist unionSAC.

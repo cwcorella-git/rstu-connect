@@ -1,12 +1,14 @@
 ---
 title: "Inmates Launch Month-Long Strike to Protest 'Slavery Conditions' in Florida Prisons"
-author: "Industrial Workers of the World"
+author: "Julia Conley / Common Dreams"
 date: 2018
-category: contemporary-analysis
+category: abolition
 tags:
-  - strikes
-  - protests
-  - prisons
+  - prison-strikes
+  - Florida
+  - IWOC
+  - prison-labor
+  - Operation-Push
 ---
 
 | Date: Wed, 01/17/2018 - 18:13 |
