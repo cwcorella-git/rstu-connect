@@ -1,12 +1,27 @@
 ---
-title: "Why We Withdrew Sponsorship from the Sierra Club's Rally in Hartford, CT: Comfort Letter, Censo"
-author: "Industrial Workers of the World"
+title: "Why We Withdrew Sponsorship from the Sierra Club's Rally in Hartford, CT"
+author: "Capitalism vs. the Climate"
 date: 2016
-category: "arts-culture-music"
+category: environmental-justice
 tags:
-  - sierra-club
+  - Sierra-Club
   - big-green
+  - fracking
+  - Connecticut
   - movement-politics
+---
+  - Connecticut
+  - movement-politics
+---
+  - Connecticut
+  - movement-politics
+---
+  - Connecticut
+  - movement-politics
+---
+  - Connecticut
+  - movement-politics
+---
 ---
 
 ## **Source:** https://ecology.iww.org/node/1620

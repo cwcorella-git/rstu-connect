@@ -1,11 +1,13 @@
 ---
-title: Dog Section Press 2021 Abolishing the Police
-author: Unknown
-date: '2025'
+title: "Abolishing the Police"
+author: "Dog Section Press / Koshka Duff (editor)"
+date: 2021
 category: abolition
 tags:
   - police
   - abolition
+  - Black-Lives-Matter
+  - abolitionist-futures
 ---
 
 ABOLISHING

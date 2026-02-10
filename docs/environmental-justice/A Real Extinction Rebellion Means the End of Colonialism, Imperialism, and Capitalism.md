@@ -1,11 +1,15 @@
 ---
 title: "A Real Extinction Rebellion Means the End of Colonialism, Imperialism, and Capitalism"
-author: "Jessica Garraway -"
+author: "Jessica Garraway"
 date: 2019
-category: theory
+category: environmental-justice
 tags:
-  - riots
+  - climate-justice
   - capitalism
+  - colonialism
+  - imperialism
+  - Extinction-Rebellion
+  - environmental-racism
 ---
 
 ## **Source:** https://ecology.iww.org/node/3343

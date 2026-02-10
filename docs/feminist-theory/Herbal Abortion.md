@@ -1,10 +1,14 @@
 ---
-title: Herbal Abortion a woman's d.i.y. guide
+title: "Herbal Abortion: A Woman's DIY Guide"
+author: "Annwen"
 date: 2002
-category: theory
+category: feminist-theory
 tags:
-  - women
+  - reproductive-rights
   - feminism
+  - herbalism
+  - DIY
+  - abortion
 ---
 
 ## **Annwen**

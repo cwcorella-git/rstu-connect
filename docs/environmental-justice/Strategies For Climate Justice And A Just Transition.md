@@ -1,11 +1,14 @@
 ---
-title: Strategies For Climate Justice And A Just Transition
-author: "Industrial Workers of the World"
+title: "Strategies For Climate Justice And A Just Transition"
+author: "Environmental Justice League of Rhode Island (EJLRI)"
 date: 2016
-category: feminist-theory
+category: environmental-justice
 tags:
-  - environment
-  - just transition
+  - climate-justice
+  - just-transition
+  - fracking
+  - Rhode-Island
+  - green-unionism
 ---
 
 | Date: Mon, 01/18/2016 - 19:06 |

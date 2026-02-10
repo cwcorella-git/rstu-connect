@@ -2,10 +2,12 @@
 title: "Anarchosyndicalism"
 author: "Rudolf Rocker"
 date: 1938
-category: contemporary-analysis
+category: theory
 tags:
   - anarchism
   - syndicalism
+  - Rudolf-Rocker
+  - anarcho-syndicalism
 ---
 
 ## RUDOLF ROCKER
