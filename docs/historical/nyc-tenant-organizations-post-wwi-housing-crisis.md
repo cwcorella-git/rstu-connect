@@ -1,17 +1,14 @@
 ---
 title: "NYC Tenant Organizations and the Post-WWI Housing Crisis: How Rent Strikes Won America's First Rent Control"
-author: "libcom.org"
-date: 2013
-category: organizing
+author: "Anonymous"
+date: 2020
+category: historical
 tags:
-  - rent-strike
-  - tenant-organizing
-  - historical
-  - new-york
-  - socialist-party
+  - rent-strikes
+  - NYC
+  - 1917-1929
   - rent-control
-  - tactics
-source: "libcom.org"
+  - tenant-organizing
 ---
 
 *How Rent Strikes Won America's First Rent Control (1917-1929)*

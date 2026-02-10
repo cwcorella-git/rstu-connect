@@ -1,10 +1,13 @@
 ---
-title: "The @ismatu.gwendolyn experiment: risk, love, conduction."
-date: 2025
-category: "contemporary-analysis"
+title: "The @ismatu.gwendolyn Experiment: Risk, Love, Conduction"
+author: "ismatu gwendolyn"
+date: 2024
+category: organizing
 tags:
-  - analysis
-  - current-events
+  - public-scholarship
+  - social-media
+  - community-building
+  - love
 ---
 
 #### introductions

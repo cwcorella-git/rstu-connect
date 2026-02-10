@@ -1,12 +1,13 @@
 ---
-title: Police Powers Bill Preparing For
-author: "Class War Federation"
-date: '2022'
+title: "Police Powers Bill: Preparing for Class War"
+author: "Communist Workers Organisation"
+date: 2021
 category: abolition
 tags:
+  - UK
   - police
-  - anti-war
-  - class
+  - repression
+  - Kill-the-Bill
 ---
 
 ## Organisation (CWO), police

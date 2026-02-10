@@ -1,12 +1,13 @@
 ---
-title: "Reno council debates allowing denser housing, revisits controversial effort to legalize granny flats"
-author: Housing Advocacy Organization
-date: '2025'
+title: "Reno Council Debates Allowing Denser Housing, Revisits Controversial Effort to Legalize Granny Flats"
+author: "Ben Margiott / Fox Reno"
+date: 2024
 category: housing
 tags:
-  - housing
-  - tenants-rights
-  - Nevada
+  - Reno
+  - ADUs
+  - zoning
+  - density
 ---
 
 Reno council debates allowing denser housing, revisits ...   about:reader?url=https%3A%2F%2Ffoxreno.com%2F...

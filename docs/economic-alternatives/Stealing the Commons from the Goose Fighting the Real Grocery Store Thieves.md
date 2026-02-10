@@ -1,12 +1,13 @@
 ---
-title: 'Stealing the Commons from the Goose: Fighting the Real Grocery Store Thieves'
-author: "libcom.org"
+title: "Stealing the Commons from the Goose: Fighting the Real Grocery Store Thieves"
+author: "Common Cause / libcom contributors"
 date: 2023
-category: contemporary-analysis
+category: economic-alternatives
 tags:
-  - commons
-  - economics
-  - alternatives
+  - shoplifting
+  - grocery-stores
+  - Loblaws
+  - enclosure
 ---
 
 Capitalist law has always existed to protect capitalist enclosers and exploiters and to punish working class people simply trying to survive. Right from the beginning of capitalism. The real violence is capitalist hoarding of necessities of life for interests of value and profit. A violence protected and sustained by the same state forces chasing after working class people needing food. So how might we respond to the shoplifting panics and targeting of especially poor working-class people, while also building collective strength and challenging grocery capital?

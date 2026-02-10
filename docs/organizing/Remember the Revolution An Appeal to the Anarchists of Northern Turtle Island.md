@@ -1,11 +1,13 @@
 ---
-title: 'Remember the Revolution: An Appeal to the Anarchists of Northern Turtle Island'
-author: "libcom.org"
-date: 1982
-category: theory
+title: "Remember the Revolution: An Appeal to the Anarchists of Northern Turtle Island"
+author: "J.P. Billings"
+date: 2020
+category: organizing
 tags:
   - anarchism
-  - theory
+  - lifestylism
+  - strategy
+  - history
 ---
 
 ## **Tags:** J. P. Billings, lifestylism, anarchism

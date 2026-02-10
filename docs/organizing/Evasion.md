@@ -1,10 +1,13 @@
 ---
-title: "Anonymous"
+title: "Evasion"
+author: "Anonymous"
 date: 2001
-category: "contemporary-analysis"
+category: organizing
 tags:
-  - analysis
-  - current-events
+  - zines
+  - shoplifting
+  - dumpster-diving
+  - squatting
 ---
 
 # **Evasion**

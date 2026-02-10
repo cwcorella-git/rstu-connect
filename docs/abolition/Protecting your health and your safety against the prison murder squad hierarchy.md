@@ -1,10 +1,13 @@
 ---
-title: "Protecting your health and your safety against the prison murder squad hierarchy"
+title: "Protecting Your Health and Safety Against the Prison Murder Squad Hierarchy"
+author: "Jason Renard Walker"
 date: 2021
 category: abolition
 tags:
   - prisons
-  - healthcare
+  - Texas
+  - Polunsky-Unit
+  - brutality
 ---
 
 ## **Source:**

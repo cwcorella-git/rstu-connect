@@ -1,13 +1,13 @@
 ---
-title: "Sorel's reflections on violence and the poverty of voluntarism - Donald Parkinson"
-author: "libcom.org"
-date: 1910
-category: "contemporary-analysis"
+title: "Sorel's Reflections on Violence and the Poverty of Voluntarism"
+author: "Donald Parkinson"
+date: 2015
+category: theory
 tags:
-  - violence
-  - fascism
+  - Sorel
   - syndicalism
-  - donald-parkinson
+  - fascism
+  - critique
 ---
 
 Article that discusses Sorel's Reflection On Violence, critiquing its voluntaristic ideas and exploring its relation to fascism.
