@@ -1,12 +1,13 @@
 ---
-title: RWU Statement Upon the Acquittal of Canadian Railroad Workers
-author: "Ron Kaminkow -"
+title: "RWU Statement Upon the Acquittal of Canadian Railroad Workers"
+author: "Ron Kaminkow"
 date: 2018
-category: technology-digital-justice
+category: labor
 tags:
-  - labor
   - railroads
+  - Lac-Megantic
   - Canada
+  - safety
 ---
 
 ## **Source:** https://ecology.iww.org/node/2759

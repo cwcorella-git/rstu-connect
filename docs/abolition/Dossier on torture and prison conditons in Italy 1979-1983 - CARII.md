@@ -1,11 +1,13 @@
 ---
-title: Dossier on torture and prison conditons in Italy 1979-1983 - CARII
-author: "libcom.org"
-date: 1979
-category: contemporary-analysis
+title: "Dossier on Torture and Prison Conditions in Italy, 1979-1983"
+author: "CARII (Committee Against Repression in Italy)"
+date: 1983
+category: abolition
 tags:
   - prisons
   - Italy
+  - torture
+  - political-prisoners
 ---
 
 Committee Against Repression in Italy's publication on prisons, including testimonies on torture, statements by jurists, politicians and police etc.

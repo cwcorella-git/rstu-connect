@@ -1,12 +1,13 @@
 ---
-title: "Mary Wollstonecraft: Two sexes, yet one truth - Liz Willis"
-author: "libcom.org"
-category: "contemporary-analysis"
+title: "Mary Wollstonecraft: Two Sexes, Yet One Truth"
+author: "Liz Willis"
+date: 1992
+category: feminist-theory
 tags:
-  - liz-willis
-  - mary-wollstonecraft
+  - Wollstonecraft
   - feminism
-  - 1700s
+  - 18th-century
+  - libertarian
 ---
 
 Mary Wollstonecraft had few illusions: women's emancipation would be as difficult to live up to as it would be to achieve. On the eve of the 200th anniversary of the first feminist manifesto, Liz Willis discovers what its author actually expected of her fellow sex.

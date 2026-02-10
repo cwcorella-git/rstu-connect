@@ -1,10 +1,13 @@
 ---
-title: "The Inefficient Utopia or How Consensus Will Change the World"
-date: 2009
-category: "contemporary-analysis"
+title: "The Inefficient Utopia, or How Consensus Will Change the World"
+author: "Curious George Brigade"
+date: 2003
+category: organizing
 tags:
-  - analysis
-  - current-events
+  - consensus
+  - affinity-groups
+  - prefiguration
+  - DIY
 ---
 
 ## **Curious George Brigade**

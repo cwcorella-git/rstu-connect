@@ -1,11 +1,13 @@
 ---
-title: "Gender egalitarianism made us human: A response to David Graeber & David Wengrow's 'How to chan"
-author: "libcom.org"
-date: 1980
+title: "Gender Egalitarianism Made Us Human: A Response to Graeber & Wengrow"
+author: "Camilla Power"
+date: 2017
 category: feminist-theory
 tags:
   - Graeber
-  - feminism
+  - human-origins
+  - gender
+  - anthropology
 ---
 
 In an ambitiousrecent article in Eurozine David Graeber and David Wengrow try to rewrite the narrative of human history. They attack the 'myth' that humans had once enjoyed equality and freedom in hunter-gatherer bands, until the invention of farming sent us down the road to social inequality.

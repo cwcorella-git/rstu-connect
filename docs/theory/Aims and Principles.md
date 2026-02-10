@@ -1,12 +1,13 @@
 ---
-title: Anarchist Federation
-author: "Anarchist Federation"
+title: "Aims and Principles of the Anarchist Federation"
+author: "Anarchist Federation (UK)"
 date: 2021
 category: theory
 tags:
   - anarchism
-  - technology
-  - digital rights
+  - anarchist-communism
+  - organization
+  - platform
 ---
 
 ## **Aims and Principles**

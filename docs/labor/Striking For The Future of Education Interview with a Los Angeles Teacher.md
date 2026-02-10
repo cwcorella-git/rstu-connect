@@ -1,11 +1,13 @@
 ---
-title: 'Striking For The Future of Education: Interview with a Los Angeles Teacher'
-author: "libcom.org"
-date: 2018
-category: youth-student-organizing
+title: "Striking For The Future of Education: Interview with a Los Angeles Teacher"
+author: "Black Rose/Rosa Negra"
+date: 2019
+category: labor
 tags:
   - education
-  - Los Angeles
+  - teachers
+  - UTLA
+  - strikes
 ---
 
 ## Federation, United Teachers Los Angeles
