@@ -1,12 +1,13 @@
 ---
-title: "A letter to the libertarian left"
-author: "libcom.org"
+title: "A Letter to the Libertarian Left"
+author: "DSA Libertarian Socialist Caucus"
 date: 2024
-category: "contemporary-analysis"
+category: organizing
 tags:
-  - libertarian-socialist-caucus
-  - especifismo
+  - DSA
   - libertarian-socialism
+  - especifismo
+  - social-insertion
   - anarchism
 ---
 

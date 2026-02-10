@@ -1,11 +1,14 @@
 ---
 title: "Alameda County Central Labor Council Climate and Environmental Justice Caucus Mission Statement"
-author: "Industrial Workers of the World"
+author: "Alameda County AFL-CIO Central Labor Council"
 date: 2016
-category: labor
+category: environmental-justice
 tags:
+  - climate
+  - environmental-justice
   - labor
-  - environment
+  - AFL-CIO
+  - California
 ---
 
 ## **Source:** https://ecology.iww.org/node/1699

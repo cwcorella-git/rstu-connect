@@ -1,10 +1,14 @@
 ---
-title: Branches of anarchism
-author: "libcom.org"
-category: contemporary-analysis
+title: "Branches of Anarchism"
+author: "Agent of the International"
+date: 2015
+category: theory
 tags:
   - anarchism
-  - theory
+  - individualist-anarchism
+  - mutualism
+  - socialist-anarchism
+  - anarcho-syndicalism
 ---
 
 ## **Tags:** Agent of the International, anarchism
