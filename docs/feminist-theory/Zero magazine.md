@@ -1,12 +1,13 @@
 ---
-title: "Zero magazine"
-author: "libcom.org"
-date: 1976
-category: "contemporary-analysis"
+title: "Zero Magazine"
+author: "Zero Collective"
+date: 1977
+category: "feminist-theory"
 tags:
-  - analysis
-  - current-events
-  - libcom
+  - anarcha-feminism
+  - London
+  - 1970s
+  - publications
 ---
 
 | Date: Unknown |

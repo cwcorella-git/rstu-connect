@@ -1,17 +1,14 @@
 ---
-title: "Interview: Adil Rahman of Newham Monitoring Project - Black Flag"
-author: "libcom.org"
-date: 1980
-category: "contemporary-analysis"
+title: "Interview: Adil Rahman of Newham Monitoring Project"
+author: "Black Flag"
+date: 1998
+category: "abolition"
 tags:
-  - black-flag
-  - 1990s
-  - london
-  - united-kingdom
-  - interviews
-  - newham
-  - tower-hamlets
-  - newham
+  - police-abolition
+  - community-organizing
+  - London
+  - anti-racism
+  - copwatch
 ---
 
 ## Monitoring Project, racism, police

@@ -1,11 +1,13 @@
 ---
-title: Video How To Strike For Climate in Your Workplace
-author: Industrial Workers of the World
-date: '2025'
-category: labor
+title: "Video: How to Strike for Climate in Your Workplace"
+author: "Ian Allinson"
+date: 2019
+category: environmental-justice
 tags:
-  - strikes
-  - environment
+  - climate-strike
+  - workplace-organizing
+  - green-unionism
+  - climate-justice
 ---
 
 Climate Strike, Earth Strike, green syndicalism, green unionism, highly recommended, videos

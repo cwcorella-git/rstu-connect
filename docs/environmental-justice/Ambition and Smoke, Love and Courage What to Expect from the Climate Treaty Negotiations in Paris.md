@@ -1,11 +1,14 @@
 ---
-title: "Ambition and Smoke, Love and Courage: What to Expect from the Climate Treaty Negotiations in Pa"
-author: "Industrial Workers of the World"
+title: "Ambition and Smoke, Love and Courage: What to Expect from the Climate Treaty Negotiations in Paris"
+author: "John Foran"
 date: 2015
 category: environmental-justice
 tags:
-  - environment
-  - France
+  - climate-justice
+  - COP21
+  - Paris
+  - system-change
+  - movement-politics
 ---
 
 | Date: Sat, 11/28/2015 - 17:50 |

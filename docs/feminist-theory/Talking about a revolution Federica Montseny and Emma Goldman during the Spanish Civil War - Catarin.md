@@ -1,12 +1,14 @@
 ---
-title: "Talking about a revolution: Federica Montseny and Emma Goldman during the Spanish Civil War - C"
-author: "Confederación Nacional del Trabajo"
-date: 1920
+title: "Talking about a revolution: Federica Montseny and Emma Goldman during the Spanish Civil War"
+author: "Catarina von Wedemeyer"
+date: 2020
 category: feminist-theory
 tags:
-  - anti-war
-  - Emma Goldman
-  - Spain
+  - anarcha-feminism
+  - Emma-Goldman
+  - Federica-Montseny
+  - Spanish-Civil-War
+  - anarchism
 ---
 
 A chapter from Untold Stories of the Spanish Civil War, Catarina von Wedemeyer's "Talking about a revolution: Federica Montseny and Emma Goldman during the Spanish Civil War" compares the two anarchists in relation to the Spanish Civil War.

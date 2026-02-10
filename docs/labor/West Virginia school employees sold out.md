@@ -1,11 +1,14 @@
 ---
-title: West Virginia school employees sold out?
-author: "libcom.org"
+title: "West Virginia School Employees Sold Out"
+author: "Internationalist Workers Group"
 date: 2018
-category: youth-student-organizing
+category: labor
 tags:
-  - labor
+  - teachers-strike
   - education
+  - West-Virginia
+  - unions
+  - rank-and-file
 ---
 
 ## America, AFSCME, Internationalist Workers' Group
