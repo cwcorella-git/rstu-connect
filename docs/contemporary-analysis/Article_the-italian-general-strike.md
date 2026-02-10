@@ -1,12 +1,15 @@
 ---
-title: The Italian General Strike
-author: Jon Bekken
-date: '2025'
-category: labor
+title: "The Italian General Strike"
+author: "Battaglia Comunista"
+date: 2021
+category: contemporary-analysis
 tags:
-  - general strikes
-  - strikes
+  - general-strike
   - Italy
+  - rank-and-file
+  - GKN
+  - USB
+  - base-unions
 ---
 
 Communist Tendency, general strikes, Italy, base unions, Battaglia Comunista

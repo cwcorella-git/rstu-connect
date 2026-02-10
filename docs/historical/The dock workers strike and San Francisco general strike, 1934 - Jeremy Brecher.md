@@ -1,12 +1,16 @@
 ---
-title: "The dock workers strike and San Francisco general strike, 1934 - Jeremy Brecher"
+title: "The Dock Workers Strike and San Francisco General Strike, 1934"
 author: "Jeremy Brecher"
-date: 1919
-category: contemporary-analysis
+date: 1934
+category: historical
 tags:
-  - general strikes
-  - strikes
-  - labor
+  - general-strike
+  - San-Francisco
+  - longshoremen
+  - ILA
+  - Harry-Bridges
+  - 1934
+  - shape-up
 ---
 
 ## **Source:**

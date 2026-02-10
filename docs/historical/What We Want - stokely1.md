@@ -1,10 +1,14 @@
 ---
 title: "What We Want"
-date: 1963
-category: "contemporary-analysis"
+author: "Stokely Carmichael"
+date: 1966
+category: historical
 tags:
-  - analysis
-  - current-events
+  - Black-Power
+  - SNCC
+  - civil-rights
+  - Black-liberation
+  - 1960s
 ---
 
 ## SNCC

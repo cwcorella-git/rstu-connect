@@ -1,13 +1,16 @@
 ---
-title: "Mick Renwick: trade union activist, Wobbly, anarcho-syndicalist, anti-fascist, internationalist"
-author: "Industrial Workers of the World"
+title: "Mick Renwick: Trade Union Activist, Wobbly, Anarcho-Syndicalist, Anti-Fascist, Internationalist"
+author: "David Douglass"
 date: 2014
-category: international-solidarity
+category: labor
 tags:
-  - unions
-  - anarchism
-  - syndicalism
-  - antifascism
+  - IWW
+  - obituary
+  - UK
+  - anarcho-syndicalism
+  - anti-fascism
+  - miners
+  - Tyneside
 ---
 
 An obituary by David Douglass of Mick Renwick, a leftist activist who involved in the Campaign for Nuclear Disarmament (CND), Socialist Workers Party (UK) and the Industrial Workers of the World (IWW) . Appeared in the Industrial Worker(January/February 2014).

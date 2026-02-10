@@ -1,12 +1,16 @@
 ---
-title: 'Kite Line: Appalachian Prison Resistance'
-author: "Industrial Workers of the World"
+title: "Kite Line: Appalachian Prison Resistance"
+author: "Kite Line"
 date: 2017
 category: abolition
 tags:
   - prisons
-  - technology
-  - digital rights
+  - Kentucky
+  - IWOC
+  - mountaintop-removal
+  - prison-resistance
+  - Appalachia
+  - Letcher-County
 ---
 
 | Source: https://ecology.iww.org/node/2595|

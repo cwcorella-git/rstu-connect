@@ -1,11 +1,15 @@
 ---
-title: Against Civilization
-author: Human Action
-date: '2005'
-category: housing
+title: "Against Civilization: Readings and Reflections"
+author: "John Zerzan"
+date: 2005
+category: theory
 tags:
-  - housing
-  - tenants
+  - anarcho-primitivism
+  - Zerzan
+  - civilization-critique
+  - anthology
+  - ecology
+  - indigenous
 ---
 
 # **Edited By John Zerzan. Illustrated By R. L. Tubbesing.**
