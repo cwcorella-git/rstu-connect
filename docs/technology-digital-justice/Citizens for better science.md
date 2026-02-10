@@ -1,12 +1,14 @@
 ---
-title: "Citizens for better science"
-author: "libcom.org"
-date: 1971
-category: "contemporary-analysis"
+title: "Citizens for Better Science"
+author: "Anonymous"
+date: 2019
+category: technology-digital-justice
 tags:
-  - analysis
-  - current-events
-  - libcom
+  - citizen-science
+  - open-science
+  - scientific-literacy
+  - peer-review
+  - democratization
 ---
 
 ## **Tags:** education

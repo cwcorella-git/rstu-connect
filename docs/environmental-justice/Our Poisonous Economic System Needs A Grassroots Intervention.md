@@ -1,11 +1,14 @@
 ---
-title: Our Poisonous Economic System Needs A Grassroots Intervention
-author: "Industrial Workers of the World"
+title: "Our Poisonous Economic System Needs A Grassroots Intervention"
+author: "Taj James"
 date: 2016
-category: economic-alternatives
+category: environmental-justice
 tags:
-  - economics
-  - alternatives
+  - climate-justice
+  - Paris-Agreement
+  - just-transition
+  - System-Change-Not-Climate-Change
+  - grassroots
 ---
 
 | Date: Tue, 11/08/2016 - 09:55 |

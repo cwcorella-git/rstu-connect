@@ -1,11 +1,14 @@
 ---
-title: "Five 'I's for a city beyond policing: a message to defense groups in Minneapolis"
-author: "libcom.org"
+title: "Five 'I's for a City Beyond Policing: A Message to Defense Groups in Minneapolis"
+author: "Workers Defense Alliance"
 date: 2020
-category: contemporary-analysis
+category: abolition
 tags:
-  - police
-  - urban
+  - police-abolition
+  - Minneapolis
+  - George-Floyd
+  - armed-self-defense
+  - community-defense
 ---
 
 An article from the Workers Defense Alliance advising armed self-defense groups that sprung up in Minneapolis after the 2020 George Floyd protests and riots saw police retreat from certain neighborhoods.

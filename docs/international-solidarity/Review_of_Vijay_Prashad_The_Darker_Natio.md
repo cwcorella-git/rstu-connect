@@ -1,9 +1,14 @@
 ---
-title: "Review of Vijay Prashad: The Darker Nations"
-date: 2005
-category: contemporary-analysis
+title: "Review: The Darker Nations by Vijay Prashad"
+author: "Jordan T. Camp"
+date: 2009
+category: international-solidarity
 tags:
-  - class
+  - Third-World
+  - anti-imperialism
+  - Non-Aligned-Movement
+  - Bandung
+  - book-review
 ---
 
 Review: The Darker Nations: a people's history of the Third World By VIJAY PRASHAD (New York and London, The New Press, 2007), 384 pp. Cloth \$26.95, Paper \$19.95

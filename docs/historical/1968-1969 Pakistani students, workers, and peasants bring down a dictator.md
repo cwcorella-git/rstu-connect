@@ -1,11 +1,15 @@
 ---
-title: 1968 1969 Pakistani Students Workers And Peasants Bring Down A Dictator
-author: Global Nonviolent Action Database
-date: '1968'
-category: labor
+title: "1968-1969: Pakistani Students, Workers, and Peasants Bring Down a Dictator"
+author: "Aileen Eisenburg"
+date: 2013
+category: historical
 tags:
-  - labor
-  - education
+  - Pakistan
+  - Ayub-Khan
+  - student-movement
+  - general-strike
+  - 1960s
+  - Zulfikar-Bhutto
 ---
 
 ## **Source:**
