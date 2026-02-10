@@ -1,10 +1,16 @@
 ---
-title: "The darkest hour is before the dawn? Assembly's view on another year of trench warfare in 2024*"
+title: "The Darkest Hour is Before the Dawn? Assembly's View on Another Year of Trench Warfare in 2024"
+author: "Assembly"
 date: 2024
 category: international-solidarity
 tags:
+  - Ukraine
+  - Russia
   - anti-war
-  - peace
+  - Russian-Ukrainian-war
+  - desertion
+  - mobilization
+  - class-struggle
 ---
 
 ## **Source:**

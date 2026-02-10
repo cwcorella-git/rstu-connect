@@ -1,9 +1,16 @@
 ---
-title: Paulo Freire
+title: "Pedagogy of the Oppressed"
+author: "Paulo Freire"
 date: 1970
 category: youth-student-organizing
 tags:
-  - theory
+  - Paulo-Freire
+  - education
+  - pedagogy
+  - critical-pedagogy
+  - liberation
+  - oppression
+  - Brazil
 ---
 
 # PEDAGOGY of the OPPRESSED

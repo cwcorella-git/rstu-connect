@@ -1,15 +1,16 @@
 ---
 title: "Protection or Free Trade"
 author: "Henry George"
-date: "1886"
-category: "housing"
+date: 1886
+category: theory
 tags:
+  - Henry-George
   - georgism
   - land-value-tax
-  - economics
-  - trade
-  - labor
+  - free-trade
+  - tariffs
   - political-economy
+  - labor
 ---
 
 **An Examination of the Tariff Question, with Especial Regard to the Interests of Labor**

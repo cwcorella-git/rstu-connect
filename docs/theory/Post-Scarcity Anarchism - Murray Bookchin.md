@@ -1,11 +1,15 @@
 ---
-title: Post-Scarcity Anarchism
-author: Murray Bookchin
-date: '2004'
+title: "Post-Scarcity Anarchism"
+author: "Murray Bookchin"
+date: 1971
 category: theory
 tags:
+  - Murray-Bookchin
   - anarchism
-  - Bookchin
+  - post-scarcity
+  - social-ecology
+  - technology
+  - libertarian-municipalism
 ---
 
 ## Murray Bookchin

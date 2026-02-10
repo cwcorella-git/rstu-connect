@@ -1,12 +1,16 @@
 ---
-title: 'Ph■ng v■n Xuân Rayne: ng■■i lao ■■ng tình d■c vô tr■ ng■■i Vi■t'
-author: "libcom.org"
+title: "Phỏng vấn Xuân Rayne: người lao động tình dục vô trị người Việt"
+author: "Mèo Mun"
 date: 2018
 category: labor
 tags:
-  - labor
-  - unions
-  - workers
+  - sex-work
+  - Vietnamese
+  - United-States
+  - labor-organizing
+  - interview
+  - non-binary
+  - San-Diego
 ---
 
 Nhân ngày Qu■c t■ Ng■■i Lao ■■ng Tình d■c 2/6, Mèo Mun ■ã ph■ng v■n Xuân Rayne m■t ng■■i vô tr■ và lao ■■ng tình d■c phi nh■ nguyên gi■i (non-binary) g■c Vi■t hi■n ■ang s■ng t■i M■. Qua bài ph■ng v■n này, chúng mình mu■n tìm hi■u góc nhìn c■a Xuân v■ s■ giao thoa c■a nh■ng danh tính này, v■ con ■■■ng cho tình ■oàn k■t gi■a nh■ng ng■■i lao ■■ng tình d■c trên toàn th■ gi■i, và cách ng■■i lao ■■ng trong các ngành ngh■ khác có th■ ■■u tranh cùng ng■■i lao ■■ng tình d■c. Xuân dùng m■i ■■i t■ nhân x■ng (anh ■y/cô ■y/b■n ■y). (English original).

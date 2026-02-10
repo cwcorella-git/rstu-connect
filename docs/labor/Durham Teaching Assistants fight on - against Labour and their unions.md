@@ -1,12 +1,17 @@
 ---
-title: Durham Teaching Assistants fight on against Labour and their unions
-author: "libcom.org"
+title: "Durham Teaching Assistants Fight On - Against Labour and Their Unions"
+author: "Dominie"
 date: 2016
 category: labor
 tags:
-  - labor
-  - unions
-  - workers
+  - UK
+  - Durham
+  - teaching-assistants
+  - Unison
+  - Labour-Party
+  - strikes
+  - education-workers
+  - rank-and-file
 ---
 
 Dominie, Durham Teaching Assistants Activist Committee, Unison, ATL, Labour Party
