@@ -1,10 +1,15 @@
 ---
-title: Forum
-author: "Forum The"
-date: 2016
-category: contemporary-analysis
+title: "The Prison in Twelve Landscapes: A Forum Discussion"
+author: "Brett Story, Jack Norton, Jordan T. Camp, Annie Spencer, Christina Heatherton"
+date: 2017
+category: abolition
 tags:
-  - prisons
+  - prison-abolition
+  - documentary
+  - Brett-Story
+  - carceral-state
+  - neoliberalism
+  - spatial-theory
 ---
 
 Brett Story, *The Prison in Twelve Landscapes* (documentary, 87 min., 2016)

@@ -1,6 +1,6 @@
 ---
 title: "Strategy and Tactics for a General Strike"
-author: "IWW Environmental Unionism Caucus"
+author: "That Green Union Guy"
 date: 2021
 category: labor
 tags:
@@ -8,10 +8,12 @@ tags:
   - strategy
   - organizing
   - IWW
+  - direct-action
+  - Trump-resistance
 ---
 
 
-**By That Green Union Guy -** [IWW Eco Union Caucus](https://ecology.iww.org/)**, July 27, 2025**
+**By That Green Union Guy -** [IWW Eco Union Caucus](https://ecology.iww.org/)**, July 27, 2021**
 
 
 As the crises unfolding from Felonious Trump's lawless coup continue, and the apparent inability by what's left of the American putatively constitutional government to stop it grow increasingly odious, desperation among the people seems to be festering. This includes growing calls for a "general strike" on various social media platforms.

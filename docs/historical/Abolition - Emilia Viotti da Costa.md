@@ -1,12 +1,14 @@
 ---
-title: Abolition Emilia Viotti
-author: Emilia Viotti da Costa
-date: '2008'
-category: abolition
+title: "Abolition: From Slavery to Free Labour"
+author: "Emilia Viotti da Costa"
+date: 2008
+category: historical
 tags:
-  - abolition
-  - police
-  - prisons
+  - slavery
+  - Brazil
+  - abolition-history
+  - labor-history
+  - emancipation
 ---
 
 

@@ -1,12 +1,15 @@
 ---
-title: IWW report from the 30th SAC Congress
-author: "Industrial Workers of the World"
-date: 2009
-category: contemporary-analysis
+title: "IWW Report from the 30th SAC Congress"
+author: "akai"
+date: 2012
+category: labor
 tags:
-  - unions
-  - labor
-  - workers
+  - IWW
+  - SAC
+  - Sweden
+  - syndicalism
+  - international-solidarity
+  - union-congress
 ---
 
 ## **Tags:** syndicalism, Sweden, SAC, x369425
