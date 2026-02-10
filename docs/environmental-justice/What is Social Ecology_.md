@@ -1,11 +1,14 @@
 ---
-title: Murray Bookchin What is Social Ecology? 1993
+title: "What is Social Ecology?"
 author: "Murray Bookchin"
 date: 1993
 category: environmental-justice
 tags:
-  - environment
+  - social-ecology
   - Bookchin
+  - hierarchy
+  - domination
+  - spirituality
 ---
 
 Nature and Society Social Hierarchy and Domination The Idea of Dominating Nature "Grow or Die!" An Ecological Society

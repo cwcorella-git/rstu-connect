@@ -1,16 +1,14 @@
 ---
 title: "Comprehensive Tenant Organizing Platform Proposal for Reno-Sparks Tenants Union"
-author: Sparks Tenants Union
-date: '2025'
-category: housing
+author: "RSTU Organizing Committee"
+date: 2024
+category: notes
 tags:
-  - housing
-  - tenants-rights
-  - tenants
-  - unions
+  - RSTU
+  - platform-development
   - organizing
-  - gig economy
   - Nevada
+  - Reno-Sparks
 ---
 
 Comprehensive Tenant Organizing Platform Proposal for RenoSparks Tenants Union

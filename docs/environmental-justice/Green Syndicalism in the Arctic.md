@@ -1,12 +1,15 @@
 ---
-title: Green Syndicalism in the Arctic
-author: "Jeff Shantz -"
+title: "Green Syndicalism in the Arctic"
+author: "Jeff Shantz"
 date: 2021
 category: environmental-justice
 tags:
   - syndicalism
-  - environment
-  - climate
+  - Inuit
+  - mining
+  - indigenous
+  - Arctic
+  - blockade
 ---
 
 ## **Source:** https://ecology.iww.org/node/4213

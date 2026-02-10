@@ -1,12 +1,14 @@
 ---
-title: "Operation Sold Out II: The Failed General Strike in British Columbia in 2004 – Paul Finch"
-author: "libcom.org"
+title: "Operation Sold Out II: The Failed General Strike in British Columbia in 2004"
+author: "Paul Finch"
 date: 2005
-category: labor
+category: historical
 tags:
-  - general strikes
-  - strikes
-  - United Kingdom
+  - Canada
+  - British-Columbia
+  - general-strike
+  - NEFAC
+  - labor-bureaucracy
 ---
 
 ## **Source:**

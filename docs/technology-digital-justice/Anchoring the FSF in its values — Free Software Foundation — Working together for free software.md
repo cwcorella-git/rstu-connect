@@ -1,10 +1,14 @@
 ---
-title: Anchoring the FSF in its values
+title: "Anchoring the FSF in its Values"
+author: "Free Software Foundation Board"
 date: 2025
 category: technology-digital-justice
 tags:
-  - technology
-  - digital rights
+  - FSF
+  - free-software
+  - governance
+  - mission-preservation
+  - open-source
 ---
 
 This article was edited on January 18, 2025 to make it clear that this article was written by the board of the FSF, not the founders.

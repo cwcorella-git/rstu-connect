@@ -1,11 +1,13 @@
 ---
-title: THE ANARCHIST REVOLUTION Polemical Articles 1924-1931
+title: "The Anarchist Revolution: Polemical Articles 1924-1931"
 author: "Errico Malatesta"
-date: 1931
-category: contemporary-analysis
+date: 1995
+category: theory
 tags:
   - anarchism
   - Malatesta
+  - revolution
+  - platformism
 ---
 
 

@@ -1,13 +1,14 @@
 ---
 title: "Was die Solidaritätsgewerkschaft ist und was nicht"
-author: "Industrial Workers of the World"
+author: "Don White and MK Lees"
 date: 2013
-category: "contemporary-analysis"
+category: organizing
 tags:
-  - don-white
-  - mk-lees
-  - spuren-der-solidarität
-  - deutsch
+  - IWW
+  - solidarity-unionism
+  - German
+  - direct-action
+  - shop-committees
 ---
 
 Don White und MK Lees diskutieren über das Konzept der Solidaritätsgewerkschaft und deren Vereinbarkeit mit Verträgen. Zu den Fachbegriffen siehe das Glossar unten.
