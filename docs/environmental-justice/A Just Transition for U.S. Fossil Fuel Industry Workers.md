@@ -1,12 +1,13 @@
 ---
-title: A Just Transition For Us Fossil Fuel Industry Workers
-author: Laura Powers
-date: '2011'
-category: housing
+title: "A Just Transition for U.S. Fossil Fuel Industry Workers"
+author: "Robert Pollin and Brian Callaci"
+date: 2016
+category: environmental-justice
 tags:
+  - just-transition
+  - fossil-fuels
   - labor
-  - fossil fuels
-  - just transition
+  - climate-change
 ---
 
 ## **Source:** https://ecology.iww.org/node/1708

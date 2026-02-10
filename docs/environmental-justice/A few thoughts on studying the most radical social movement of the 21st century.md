@@ -1,11 +1,12 @@
 ---
-title: "A few thoughts on studying the most radical social movement of the 21st century"
-author: "Industrial Workers of the World"
+title: "A Few Thoughts on Studying the Most Radical Social Movement of the 21st Century"
+author: "John Foran"
 date: 2016
-category: "contemporary-analysis"
+category: "environmental-justice"
 tags:
-  - analysis
-  - current-events
+  - climate-justice
+  - organizing
+  - social-movements
 ---
 
 John Foran, climate justice, System Change not Climate Change (SCnCC), Naomi Klein, This Changes Everything, Paris, COP21 By John Foran - Resilience , March 14, 2016 Introduction

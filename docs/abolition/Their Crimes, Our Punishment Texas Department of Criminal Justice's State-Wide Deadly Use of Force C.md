@@ -1,14 +1,13 @@
 ---
-title: "Their Crimes, Our Punishment: Texas Department of Criminal Justice's State-Wide Deadly Use of F"
+title: "Their Crimes, Our Punishment: Texas Department of Criminal Justice's State-Wide Deadly Use of Force Cover-Ups"
 author: "Jason Renard Walker"
 date: 2021
-category: "arts-culture-music"
+category: "abolition"
 tags:
-  - united-states
-  - repression
   - prisons
-  - texas
-  - jason-renard-walker
+  - Texas
+  - police-violence
+  - repression
 ---
 
 Texas prisoner Jason Renard Walker writes on violence and cover-ups within the Texas prison system.

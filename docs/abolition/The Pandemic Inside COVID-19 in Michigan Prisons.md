@@ -1,10 +1,13 @@
 ---
-title: 'The Pandemic Inside: COVID-19 in Michigan Prisons'
-author: "libcom.org"
+title: "The Pandemic Inside: COVID-19 in Michigan Prisons"
+author: "Michigan Abolition and Prisoner Solidarity (MAPS)"
 date: 2020
-category: contemporary-analysis
+category: abolition
 tags:
   - prisons
+  - COVID-19
+  - Michigan
+  - mutual-aid
 ---
 
 A compilation of writing by prisoners in Michigan covering the first year of the pandemic. This publication was collected by Michigan Abolition and Prisoners Solidarity (MAPS).

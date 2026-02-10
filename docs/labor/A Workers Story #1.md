@@ -1,11 +1,13 @@
 ---
-title: 'A Workers Story #1'
-author: "libcom.org"
-category: contemporary-analysis
+title: "A Workers Story #1"
+author: "Aotearoa Workers Solidarity Movement (AWSM)"
+date: 2010
+category: labor
 tags:
   - labor
-  - unions
-  - workers
+  - New-Zealand
+  - education
+  - organizing
 ---
 
 ## **Tags:** education, New Zealand

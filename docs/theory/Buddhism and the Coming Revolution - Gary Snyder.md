@@ -1,14 +1,13 @@
 ---
-title: "Buddhism and the Coming Revolution - Gary Snyder"
-author: "libcom.org"
+title: "Buddhism and the Coming Revolution"
+author: "Gary Snyder"
 date: 1961
-category: "contemporary-analysis"
+category: "theory"
 tags:
-  - gary-snyder
-  - buddhism
+  - Buddhism
   - anarchism
-  - vietnam-war
-  - religion
+  - philosophy
+  - Beat-Generation
 ---
 
 Text by Buddhist anarchist poet Gary Snyder in which he draws parallels between anarchism and Buddhism. The article was originally published in the Journal for the Protection of All Beingsas "Buddhist Anarchism" in 1961 and in a modified form as "Buddhism and the Coming Revolution" in Snyder's 1969 book Earth House Hold. Snyder was also the inspiration for the character Japhy Ryder in Jack Kerouac's 1958 novel Dharma Bums.
