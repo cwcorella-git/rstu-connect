@@ -1,11 +1,13 @@
 ---
 title: "Beyond the Bullshit: In A Galaxy Far, Far Away..."
-author: "libcom.org"
-category: "contemporary-analysis"
+author: "Class War Federation"
+date: 1993
+category: "historical"
 tags:
-  - analysis
-  - current-events
-  - libcom
+  - Class-War-Federation
+  - United-Kingdom
+  - anarchism
+  - organizational-dissolution
 ---
 
 ## **Tags:** Class War Federation, United Kingdom

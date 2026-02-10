@@ -1,11 +1,14 @@
 ---
 title: "Blues Geographies and the Security Turn: Interpreting the Housing Crisis in Los Angeles"
-author: "Ernest R. Savage"
-date: 1965
-category: contemporary-analysis
+author: "Jordan T. Camp"
+date: 2012
+category: housing
 tags:
   - housing
-  - Los Angeles
+  - Los-Angeles
+  - Skid-Row
+  - gentrification
+  - policing
 ---
 
 

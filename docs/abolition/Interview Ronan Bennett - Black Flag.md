@@ -1,16 +1,16 @@
 ---
 title: "Interview: Ronan Bennett - Black Flag"
-author: "libcom.org"
-date: 1974
-category: "contemporary-analysis"
+author: "Black Flag"
+date: 1998
+category: "abolition"
 tags:
-  - black-flag
-  - media-and-culture
+  - Black-Flag
   - prisons
-  - northern-ireland
-  - united-kingdom
+  - Northern-Ireland
+  - United-Kingdom
   - interviews
-  - ronan
+  - Ronan-Bennett
+  - political-prisoners
 ---
 
 1998 interview with author Ronan Bennett, which touches on his time in prison in Northern Ireland and on remand in London (as one of the "Persons Unknown" suspects).

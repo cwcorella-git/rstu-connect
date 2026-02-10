@@ -1,7 +1,7 @@
 ---
 title: "New York City Draft Riots"
 author: "Wikipedia"
-date: 2024
+date: 1863
 category: historical
 tags:
   - draft-riots

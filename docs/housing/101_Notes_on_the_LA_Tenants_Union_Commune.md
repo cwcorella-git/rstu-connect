@@ -1,12 +1,14 @@
 ---
-title: 101 Notes on the LA Tenants Union Commune
+title: "101 Notes on the LA Tenants Union Commune"
+author: "LA Tenants Union"
+date: 2019
 category: housing
-author: Union Commune aboutreaderurl
-date: 2012
 tags:
-  - tenants
-  - unions
-  - Los Angeles
+  - tenants-unions
+  - Los-Angeles
+  - rent-strikes
+  - gentrification
+  - organizing
 ---
 
 22. I’m talking about gentrification, whose definition in 2012 seemed to be written by the people it benefited. 23. Together, School of Echoes wanted to redefine gentrification not as a natural process, but as--to use Ursula K. Le Guinn’s phrase--a “human power,” produced by humans, by actors, agents, and targets. 24. So, we spent a few years listening: to STAY in Echo Park, where a gang injunction meant youth of color could be jailed just for sitting together outside; 25. to residents of Frogtown, where a new public park arrived right after half of neighborhood properties had changed hands in three years; 26. to Needle Exchange in Hollywood, whose outreach operations had to keep up with stepped up encampment sweeps; 
