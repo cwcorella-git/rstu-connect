@@ -1,12 +1,14 @@
 ---
 title: "The Revolution in Work Calls for an Evolution in Living"
-author: "Graham Peebles -"
+author: "Graham Peebles"
 date: 2017
-category: "contemporary-analysis"
+category: labor
 tags:
-  - green-economics
-  - green-unionism
-  - green-syndicalism
+  - automation
+  - poverty
+  - universal-basic-income
+  - future-of-work
+  - inequality
 ---
 
 ## **Source:** https://ecology.iww.org/node/2152

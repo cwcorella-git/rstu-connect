@@ -1,12 +1,15 @@
 ---
-title: 'Catastrophe for somebody, salvation for others. Desertion is flooding Ukraine'
-author: "libcom.org"
-date: 1918
+title: "Catastrophe for Somebody, Salvation for Others: Desertion is Flooding Ukraine"
+author: "Assembly (anarchist media)"
+date: 2024
 category: international-solidarity
 tags:
   - Ukraine
-  - technology
-  - digital rights
+  - Russia
+  - desertion
+  - anti-war
+  - conscription
+  - military-refusal
 ---
 
 "Imagine: the rulers start a war, and no one goes to it!" (on the poster)

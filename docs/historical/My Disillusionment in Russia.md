@@ -1,11 +1,15 @@
 ---
-title: Preface to First Volume of American Edition
-date: 1921
-category: international-solidarity
+title: "My Disillusionment in Russia"
+author: "Emma Goldman"
+date: 1923
+category: historical
 tags:
   - Russia
-  - international
-  - solidarity
+  - Bolshevism
+  - Emma-Goldman
+  - anarchism
+  - Russian-Revolution
+  - disillusionment
 ---
 
 [Back to ebook](https://standardebooks.org/ebooks/emma-goldman/my-disillusionment-in-russia)

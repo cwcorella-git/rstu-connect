@@ -1,11 +1,15 @@
 ---
-title: 'Class War #64 1994'
+title: "Class War #64 (1994)"
 author: "Class War Federation"
 date: 1994
-category: international-solidarity
+category: historical
 tags:
-  - anti-war
-  - class
+  - Class-War-Federation
+  - UK
+  - 1990s
+  - zine
+  - identity-cards
+  - anti-roads
 ---
 
 | Date: Unknown |

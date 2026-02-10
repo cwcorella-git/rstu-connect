@@ -1,11 +1,14 @@
 ---
-title: In Defense Of Housing 2016 Madden Marcuse Defense Housing Book
-author: Hewer Text
-date: '1872'
+title: "In Defense of Housing: The Politics of Crisis"
+author: "David Madden and Peter Marcuse"
+date: 2016
 category: housing
 tags:
   - housing
-  - tenants
+  - housing-crisis
+  - commodification
+  - financialization
+  - gentrification
 ---
 
 *The Politics of Crisis* DAV ID MADDEN PETER MARCUSE

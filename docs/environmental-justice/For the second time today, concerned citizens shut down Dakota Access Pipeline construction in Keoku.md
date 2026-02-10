@@ -1,12 +1,15 @@
 ---
-title: "For the second time today, concerned citizens shut down Dakota Access Pipeline construction in"
-author: "Aaron Murphy, Ruby Montoya, and Jim Arenz -"
+title: "For the Second Time Today, Concerned Citizens Shut Down Dakota Access Pipeline Construction in Keokuk"
+author: "Aaron Murphy, Ruby Montoya, and Jim Arenz / Mississippi Stand Camp"
 date: 2016
-category: international-solidarity
+category: environmental-justice
 tags:
-  - fossil fuels
+  - fossil-fuels
   - indigenous
-  - solidarity
+  - Dakota-Access-Pipeline
+  - direct-action
+  - lockdown
+  - Iowa
 ---
 
 ## **Source:** https://ecology.iww.org/node/1853
