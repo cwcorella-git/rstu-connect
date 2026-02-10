@@ -1,11 +1,15 @@
 ---
-title: Autumn wave of radical direct action on both sides of the front line
-author: "libcom.org"
+title: "Autumn Wave of Radical Direct Action on Both Sides of the Front Line"
+author: "Libcom"
 date: 2023
-category: contemporary-analysis
+category: international-solidarity
 tags:
-  - direct action
-  - organizing
+  - Ukraine
+  - Russia
+  - war-resistance
+  - desertion
+  - arson
+  - direct-action
 ---
 
 Meet the 23rd part of our regular overview, suspended since the beginning of summer this year...

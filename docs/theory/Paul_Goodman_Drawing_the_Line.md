@@ -1,11 +1,14 @@
 ---
-title: 'Redrawing The Line: The Anarchist Writings of Paul Goodman'
-author: "Paul Goodman"
-date: 1965
-category: contemporary-analysis
+title: "Review: Drawing The Line Once Again - Paul Goodman's Anarchist Writings"
+author: "Paul Comeau"
+date: 2012
+category: theory
 tags:
+  - Paul-Goodman
   - anarchism
-  - theory
+  - book-review
+  - New-Left
+  - free-society
 ---
 
 ## Paul Comeau

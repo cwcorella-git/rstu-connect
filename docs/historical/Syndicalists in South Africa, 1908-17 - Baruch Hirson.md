@@ -1,12 +1,15 @@
 ---
-title: 'Syndicalists in South Africa, 1908-17 - Baruch Hirson'
-author: "libcom.org"
-date: 1902
-category: international-solidarity
+title: "Syndicalists in South Africa, 1908-17"
+author: "Baruch Hirson"
+date: 1993
+category: historical
 tags:
+  - South-Africa
   - syndicalism
-  - international
-  - solidarity
+  - ISL
+  - 1910s
+  - settler-colonialism
+  - race
 ---
 
 Baruch Hirson, South African Trotskyist, provides some insight into the South African syndicalists of the early twentieth century recovering the history of South African left traditions ignored or caricatured in the South African Communist Party and academic accounts. Although his interest was in the Communist Party and the Trotskyists that emerged subsequently, his work also touched on the anarchist and syndicalist tradition, as this interesting paper shows.

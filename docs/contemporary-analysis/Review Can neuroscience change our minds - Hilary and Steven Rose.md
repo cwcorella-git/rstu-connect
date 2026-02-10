@@ -1,12 +1,15 @@
 ---
-title: "Review: Can neuroscience change our minds? - Hilary and Steven Rose"
-author: "libcom.org"
+title: "Review: Can Neuroscience Change Our Minds? by Hilary and Steven Rose"
+author: "Libcom"
 date: 2016
-category: "contemporary-analysis"
+category: contemporary-analysis
 tags:
-  - analysis
-  - current-events
-  - libcom
+  - neuroscience
+  - neoliberalism
+  - poverty
+  - education
+  - UK
+  - science-critique
 ---
 
 A review of the new book by Hilary and Steven Rose which presents both a scientific and political critique of the growth of 'neuro' disciplines.

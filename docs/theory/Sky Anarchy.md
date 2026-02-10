@@ -1,10 +1,15 @@
 ---
-title: Sky Anarchy
-author: "libcom.org"
-date: 1917
-category: contemporary-analysis
+title: "Sky Anarchy: Aviation and the Anarchist Future"
+author: "Jacob Hutchison"
+date: 2020
+category: theory
 tags:
+  - aviation
   - anarchism
+  - Black-Army
+  - Ukraine
+  - climate
+  - technology
 ---
 
 Sky Anarchy is a new adventure. It's part of a wider project of addressing the issues of aviation and its relationship with anarchy and the left in general. Through this I hope to open up our movement to the possibilities and hopefully to educate our comrades on aviation past, present, and it's hypothetical future. All feedback is welcome.

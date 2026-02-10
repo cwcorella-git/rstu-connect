@@ -1,11 +1,15 @@
 ---
-title: "Folk Devils and Moral Panics  The creation of the Mods and Rockers   stanley cohen folk devils and moral panics"
-
+title: "Folk Devils and Moral Panics: The Creation of the Mods and Rockers"
+author: "Stanley Cohen"
 date: 1972
-category: "contemporary-analysis"
+category: theory
 tags:
-  - analysis
-  - current-events
+  - sociology
+  - moral-panic
+  - youth
+  - subcultures
+  - UK
+  - media
 ---
 
 
