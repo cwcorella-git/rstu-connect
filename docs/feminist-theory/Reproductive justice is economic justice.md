@@ -1,9 +1,13 @@
 ---
-title: Reproductive justice is economic justice.
+title: "Reproductive Justice is Economic Justice"
+author: "Ismatu Gwendolyn"
 date: 2022
-category: theory
+category: feminist-theory
 tags:
-  - feminism
+  - reproductive-justice
+  - economic-justice
+  - Black-feminism
+  - capitalism
 ---
 
 Capitalism has brainwashed us into thinking children are burdensome by design.

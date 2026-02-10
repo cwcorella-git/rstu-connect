@@ -1,10 +1,13 @@
 ---
-title: "CASTLE ROCK v. GONZALES"
-date: 2002
-category: "contemporary-analysis"
+title: "Castle Rock v. Gonzales: Police Have No Duty to Protect"
+author: "Supreme Court of the United States"
+date: 2005
+category: abolition
 tags:
-  - analysis
-  - current-events
+  - police
+  - Supreme-Court
+  - domestic-violence
+  - DeShaney
 ---
 
 #### [law.cornell.edu](https://www.law.cornell.edu/supremecourt/text/04-278)

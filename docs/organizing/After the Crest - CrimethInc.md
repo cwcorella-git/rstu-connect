@@ -1,11 +1,13 @@
 ---
-title: "Repression hits hardest at the end."
-author: "CrimethInc."
-category: "arts-culture-music"
+title: "After the Crest: Lessons from Movement Declines"
+author: "CrimethInc"
+date: 2014
+category: organizing
 tags:
-  - arts
-  - culture
-  - crimethinc
+  - movements
+  - strategy
+  - Occupy
+  - burnout
 ---
 
 As all movements inevitably reach limits, it is pointless to bewail their passing as if they would go on growing indenitely if only the participants were strategic enough.

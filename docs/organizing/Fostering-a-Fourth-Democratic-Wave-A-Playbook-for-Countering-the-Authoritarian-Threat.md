@@ -1,10 +1,13 @@
 ---
-title: 'Fostering a Fourth Democratic Wave:'
+title: "Fostering a Fourth Democratic Wave: A Playbook for Countering the Authoritarian Threat"
 author: "Hardy Merriman, Patrick Quirk, and Ash Jain"
 date: 2023
-category: arts-culture-music
+category: organizing
 tags:
+  - nonviolent-resistance
   - democracy
+  - civil-resistance
+  - strategy
 ---
 
 

@@ -1,12 +1,13 @@
 ---
-title: Indigenous Property Rights And The Dakota Access Pipeline
-author: Industrial Workers of the World
-date: '2016'
-category: housing
+title: "Indigenous Property Rights and the Dakota Access Pipeline"
+author: "Logan Glitterbomb"
+date: 2016
+category: environmental-justice
 tags:
   - indigenous
-  - property
-  - fossil fuels
+  - Standing-Rock
+  - fossil-fuels
+  - direct-action
 ---
 
 ## **Source:** https://ecology.iww.org/node/1776

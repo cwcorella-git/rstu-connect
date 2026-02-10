@@ -1,12 +1,13 @@
 ---
-title: On "fundamentalism" in the IWW
-author: "Industrial Workers of the World"
+title: "On 'Fundamentalism' in the IWW"
+author: "Erik"
 date: 2017
 category: labor
 tags:
-  - unions
-  - labor
-  - workers
+  - IWW
+  - strategy
+  - debate
+  - GDC
 ---
 
 Workers of the World (IWW), Industrial Unionist Caucus

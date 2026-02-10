@@ -1,11 +1,12 @@
 ---
-title: 1912 Brisbane General Strike
-author: Global Nonviolent Action Database
-date: '2025'
+title: "1912 Brisbane General Strike"
+author: "Global Nonviolent Action Database"
+date: 1912
 category: labor
 tags:
-  - general strikes
-  - strikes
+  - general-strikes
+  - Australia
+  - history
 ---
 
 Union busting at the Brisbane Tramway led to a municipal general strike and the setting up of an alt

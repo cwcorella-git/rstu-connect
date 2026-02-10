@@ -1,10 +1,13 @@
 ---
-title: The New Prisoner - Martin Sostre (with introduction by Garrett Felber)
-author: "libcom.org"
+title: "The New Prisoner"
+author: "Martin Sostre"
 date: 1973
-category: arts-culture-music
+category: abolition
 tags:
   - prisons
+  - Attica
+  - Black-liberation
+  - anarchism
 ---
 
 A 1970s article from the revolutionary prisoner Martin Sostre, responding to the Attica uprising.
