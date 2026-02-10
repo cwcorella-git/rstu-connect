@@ -1,12 +1,16 @@
 ---
 title: "Getting Organised"
-author: "libcom.org"
+author: "Class War"
 date: 1997
-category: "contemporary-analysis"
+category: organizing
 tags:
-  - organisation
-  - class-war-federation
-  - united-kingdom
+  - Class-War
+  - organization
+  - UK
+  - 1997
+  - revolutionary-organization
+  - critique
+  - activism
 ---
 
 Article from Class War Issue 73 looking at revolutionary organisation.

@@ -1,13 +1,17 @@
 ---
-title: Resolution Against the Dakota Access Pipeline
-author: "Industrial Workers of the World"
+title: "Resolution Against the Dakota Access Pipeline"
+author: "Railroad Workers United"
 date: 2016
-category: labor
+category: environmental-justice
 tags:
-  - fossil fuels
-  - labor
-  - unions
-  - workers
+  - DAPL
+  - Standing-Rock
+  - Railroad-Workers-United
+  - pipelines
+  - Indigenous
+  - solidarity
+  - labor-solidarity
+  - NoDAPL
 ---
 
 | Date: Sun, 11/27/2016 - 18:47 |

@@ -1,11 +1,17 @@
 ---
-title: 'I am a member of the CNT, for anarcho-syndicalism - René Thieblemont'
-author: "Confederación Nacional del Trabajo"
+title: "I am a member of the CNT, for anarcho-syndicalism"
+author: "René Thieblemont"
 date: 1955
-category: contemporary-analysis
+category: labor
 tags:
-  - anarchism
-  - syndicalism
+  - CNT
+  - CNT-AIT
+  - anarcho-syndicalism
+  - France
+  - René-Thieblemont
+  - revolutionary-syndicalism
+  - Renault
+  - 1950s
 ---
 
 ## Anarchiste, Le Combat syndicaliste, PCF

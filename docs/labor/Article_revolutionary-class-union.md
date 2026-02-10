@@ -1,11 +1,15 @@
 ---
-title: Revolutionary Class Union
-author: Industrial Workers of the World
-date: '2025'
+title: "Revolutionary Class Union"
+author: "James P. Thompson"
+date: 1950
 category: labor
 tags:
-  - unions
-  - class
+  - IWW
+  - revolutionary-unionism
+  - James-Thompson
+  - class-struggle
+  - wage-slavery
+  - capitalism
 ---
 
 James P Thompson writes on the necessity of workers to form revolutionary unions.
