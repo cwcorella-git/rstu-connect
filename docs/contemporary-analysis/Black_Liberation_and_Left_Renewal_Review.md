@@ -1,11 +1,15 @@
 ---
-title: "Black Liberation and Left Renewal"
-author: "JORDAN T. CAMP"
+title: "Review: From #BlackLivesMatter to Black Liberation by Keeanga-Yamahtta Taylor"
+author: "Jordan T. Camp"
 date: 2016
-category: "contemporary-analysis"
+category: contemporary-analysis
 tags:
-  - analysis
-  - current-events
+  - Black-Lives-Matter
+  - book-review
+  - Keeanga-Yamahtta-Taylor
+  - police-violence
+  - neoliberalism
+  - Ferguson
 ---
 
 ## BY

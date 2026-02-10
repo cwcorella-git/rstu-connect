@@ -1,13 +1,15 @@
 ---
 title: "To Escape Trump's America, Bring the Militant Labor Tactics of 1946 Back to the Future"
-author: "IWW Environmental Unionism Caucus"
+author: "Anonymous"
 date: 2016
-category: labor
+category: historical
 tags:
-  - general-strikes
+  - general-strike
   - Oakland
   - 1946
-  - history
+  - Taft-Hartley
+  - strike-wave
+  - GDC
 ---
 
 ## **Source:**

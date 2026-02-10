@@ -1,13 +1,14 @@
 ---
-title: FAQ on syndicalism
-author: "libcom.org"
-date: 1910
-category: contemporary-analysis
+title: "FAQ on Syndicalism"
+author: "Rasmus Hästbacka"
+date: 2017
+category: theory
 tags:
   - syndicalism
-  - labor
-  - unions
-  - workers
+  - SAC
+  - Sweden
+  - labor-movement
+  - anarcho-syndicalism
 ---
 
 22 online questions and answers. Launched by the syndicalist union SAC in Sweden, more precisely by its Local in the city of Umeå (Northern Sweden).

@@ -1,11 +1,15 @@
 ---
-title: No plan for the Valley; No plan for the workers; No plan for the climate
-author: "IWW Melbourne -"
+title: "No Plan for the Valley; No Plan for the Workers; No Plan for the Climate"
+author: "IWW Melbourne"
 date: 2017
 category: environmental-justice
 tags:
-  - labor
-  - environment
+  - just-transition
+  - Australia
+  - coal
+  - Hazelwood
+  - La-Trobe-Valley
+  - energy
 ---
 
 ## **Source:** https://ecology.iww.org/node/2141

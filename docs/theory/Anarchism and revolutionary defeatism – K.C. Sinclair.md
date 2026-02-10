@@ -1,11 +1,15 @@
 ---
-title: Anarchism And Revolutionary Defeatism Kc Sinclair
-author: Peter Kropotkin
-date: '1909'
+title: "Anarchism and Revolutionary Defeatism"
+author: "K.C. Sinclair"
+date: 2025
 category: theory
 tags:
+  - revolutionary-defeatism
   - anarchism
-  - theory
+  - Lenin
+  - WWI
+  - anti-militarism
+  - colonialism
 ---
 
 ## of the Sixteen
