@@ -1,11 +1,13 @@
 ---
-title: Against the Logic of Submission - Wolfi Landstreicher
-author: "libcom.org"
-date: 1968
+title: "Against the Logic of Submission"
+author: "Wolfi Landstreicher"
+date: 2003
 category: theory
 tags:
-  - technology
-  - digital rights
+  - anarchism
+  - insurrection
+  - domination
+  - revolt
 ---
 
 A series of essays investigating the role of social relationships.

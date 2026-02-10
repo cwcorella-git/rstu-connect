@@ -1,11 +1,13 @@
 ---
-title: 'Class, democracy and the General Executive Board - Travis Elise'
-author: "Industrial Workers of the World"
+title: "Class, Democracy and the General Executive Board"
+author: "Travis Elise"
 date: 2017
-category: contemporary-analysis
+category: organizing
 tags:
+  - IWW
   - democracy
-  - class
+  - union-structure
+  - organizing
 ---
 
 ## Movement, organisation

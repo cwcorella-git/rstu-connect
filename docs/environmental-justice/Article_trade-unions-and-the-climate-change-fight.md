@@ -1,13 +1,13 @@
 ---
-title: Trade Unions and the Climate Change Fight
-author: Industrial Workers of the World
-date: '2025'
-category: labor
+title: "Trade Unions and the Climate Change Fight"
+author: "Julie Douglas and Peter McGhee"
+date: 2016
+category: environmental-justice
 tags:
-  - environment
-  - labor
+  - climate
   - unions
-  - workers
+  - New-Zealand
+  - just-transition
 ---
 
 ## By Julie Douglas and Peter McGhee -

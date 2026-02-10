@@ -1,11 +1,13 @@
 ---
-title: Unions stand at Standing Rock
-author: "Industrial Workers of the World"
+title: "Unions Stand at Standing Rock"
+author: "NW Labor Press"
 date: 2016
 category: environmental-justice
 tags:
-  - environment
-  - climate
+  - Standing-Rock
+  - pipelines
+  - indigenous
+  - labor
 ---
 
 ## **Source:** https://ecology.iww.org/node/1984

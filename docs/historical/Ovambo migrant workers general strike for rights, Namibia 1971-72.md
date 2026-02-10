@@ -1,12 +1,13 @@
 ---
-title: 'Ovambo migrant workers general strike for rights, Namibia: 1971-72'
-author: "libcom.org"
-date: 1972
-category: labor
+title: "Ovambo Migrant Workers General Strike for Rights, Namibia: 1971-72"
+author: "Max Rennebohm"
+date: 2012
+category: historical
 tags:
-  - general strikes
-  - strikes
-  - labor
+  - Namibia
+  - general-strike
+  - apartheid
+  - migrant-workers
 ---
 
 ## Namibia, Max Rennebohm

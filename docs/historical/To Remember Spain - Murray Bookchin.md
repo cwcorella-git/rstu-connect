@@ -1,13 +1,14 @@
 ---
-title: The Anarchist and Syndicalist Revolution of 1936
-author: Freddie Baer
-date: '1994'
-category: theory
+title: "To Remember Spain: The Anarchist and Syndicalist Revolution of 1936"
+author: "Murray Bookchin"
+date: 1994
+category: historical
 tags:
+  - Spain
   - anarchism
   - syndicalism
-  - Bookchin
-  - Spain
+  - CNT
+  - Spanish-Civil-War
 ---
 
 

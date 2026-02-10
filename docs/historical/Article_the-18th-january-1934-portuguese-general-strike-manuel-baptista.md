@@ -1,11 +1,14 @@
 ---
-title: The 18th January 1934 Portuguese General Strike Manuel Baptista
-author: Global Nonviolent Action Database
-date: '2025'
-category: labor
+title: "The 18th January 1934 Portuguese General Strike"
+author: "Manuel Baptista"
+date: 2008
+category: historical
 tags:
-  - general strikes
-  - strikes
+  - Portugal
+  - general-strike
+  - anarcho-syndicalism
+  - CGT
+  - fascism
 ---
 
 Baptista, Portugal, general strikes, syndicalism, anarchism

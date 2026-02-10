@@ -1,12 +1,13 @@
 ---
-title: Free Software and Education - GNU Project
-date: 1983
-category: labor
+title: "Free Software and Education"
+author: "Free Software Foundation"
+date: 2024
+category: technology-digital-justice
 tags:
+  - free-software
   - education
-  - labor
-  - unions
-  - workers
+  - GNU
+  - digital-rights
 ---
 
 [gnu.org](https://www.gnu.org/education/education.html)
