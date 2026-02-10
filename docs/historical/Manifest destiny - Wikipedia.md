@@ -1,12 +1,16 @@
 ---
-title: "Manifest destiny"
-author: "Wikipedia contributors"
-date: 1872
-category: "contemporary-analysis"
+title: "Manifest Destiny"
+author: "Wikipedia"
+date: 2024
+category: historical
 tags:
-  - analysis
-  - current-events
-  - wikipedia
+  - imperialism
+  - US-history
+  - colonialism
+  - Indigenous-genocide
+  - westward-expansion
+  - 19th-century
+  - Mexican-American-War
 ---
 
 

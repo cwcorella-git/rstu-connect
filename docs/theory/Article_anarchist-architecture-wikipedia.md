@@ -1,11 +1,15 @@
 ---
-title: Anarchist Architecture Wikipedia
-author: Colin Ward
-date: '2025'
+title: "Anarchist Architecture"
+author: "Wikipedia"
+date: 2024
 category: theory
 tags:
-  - anarchism
-  - theory
+  - anarchist-architecture
+  - anarchitecture
+  - Colin-Ward
+  - squatting
+  - informal-settlements
+  - decentralization
 ---
 
 Anarchist architecture - Wikipedia https://en.wikipedia.org/wiki/Anarchist_architecture

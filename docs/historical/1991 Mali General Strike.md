@@ -1,11 +1,16 @@
 ---
-title: '1991: Mali General Strike'
-author: "libcom.org"
-date: 1997
-category: labor
+title: "1991: Mali General Strike (March Revolution)"
+author: "Global Nonviolent Action Database"
+date: 1991
+category: historical
 tags:
-  - general strikes
-  - strikes
+  - general-strike
+  - Mali
+  - 1991
+  - ADEMA
+  - Moussa-Traoré
+  - democracy
+  - Africa
 ---
 
 In March 1991 what Mali experienced what became known as the March revolution. A series of protests by students and democracy activists supported by a general strike led to the downfall of its dictator and the establishment of civilian rule.

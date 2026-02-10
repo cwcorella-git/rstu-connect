@@ -1,11 +1,16 @@
 ---
-title: 'Revolutionary Syndicalism, or Anarcho-syndicalism - René Berthier'
-author: "libcom.org"
+title: "Revolutionary Syndicalism, or Anarcho-syndicalism"
+author: "René Berthier"
 date: 1986
 category: theory
 tags:
-  - anarchism
-  - syndicalism
+  - revolutionary-syndicalism
+  - anarcho-syndicalism
+  - CGT
+  - IWA
+  - France
+  - CNT
+  - labor-history
 ---
 
 René Berthier writes about the difference between Revolutionary Syndicalism and Anarcho-syndicalism
