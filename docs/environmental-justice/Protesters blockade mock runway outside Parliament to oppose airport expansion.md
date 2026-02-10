@@ -1,11 +1,13 @@
 ---
-title: Protesters blockade mock runway outside Parliament to oppose airport expansion
-author: "Industrial Workers of the World"
+title: "Protesters Blockade Mock Runway Outside Parliament to Oppose Airport Expansion"
+author: "Plane Stupid / Reclaim the Power"
 date: 2016
-category: abolition
+category: environmental-justice
 tags:
-  - protests
-  - blockades
+  - climate-justice
+  - direct-action
+  - Heathrow
+  - UK
 ---
 
 Plane Stupid, Heathrow, direct action, climate justice, blockadia By staff - Plane Stupid and Reclaim the Power , October 25, 2016 Activists have blockaded a mock runway outside Parliament to oppose airport expansion and highlight the inequality of catastrophic climate impacts on the day a government

@@ -1,11 +1,13 @@
 ---
-title: Strike and protests against Macron's employment law
-author: "libcom.org"
-category: technology-digital-justice
+title: "Strike and Protests Against Macron's Employment Law"
+author: "Sud / libcom contributors"
+date: 2017
+category: labor
 tags:
+  - France
   - strikes
-  - protests
-  - labor
+  - Macron
+  - general-strike
 ---
 
 ## Sud

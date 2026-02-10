@@ -1,11 +1,13 @@
 ---
-title: Police Unions Are Anti Labor Harvard Political Review
-author: "Harvard Political Review"
-date: '2025'
+title: "Police Unions Are Anti-Labor"
+author: "Ria Modak / Harvard Political Review"
+date: 2021
 category: abolition
 tags:
   - police
-  - labor
+  - unions
+  - labor-history
+  - HUPD
 ---
 
 Police Unions Are Anti-Labor - Harvard Political Review about:reader?url=https%3A%2F%2Fharvardpolitics.c...

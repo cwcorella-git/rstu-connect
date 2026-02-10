@@ -1,12 +1,13 @@
 ---
-title: Abolitionism In The United States Wikipedia
-author: Wikipedia
-date: '1808'
-category: abolition
+title: "Abolitionism in the United States"
+author: "Wikipedia"
+date: 2024
+category: historical
 tags:
-  - abolition
-  - police
-  - prisons
+  - slavery
+  - abolition-movement
+  - Civil-War
+  - Frederick-Douglass
 ---
 
 #### [en.wikipedia.org](https://en.wikipedia.org/wiki/Abolitionism_in_the_United_States)

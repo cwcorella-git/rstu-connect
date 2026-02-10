@@ -1,12 +1,13 @@
 ---
-title: Should College Be Free?
-author: "Updated on May 6, 2025"
-date: 2025
+title: "Should College Be Free?"
+author: "Mark J. Drozdowski / BestColleges"
+date: 2024
 category: youth-student-organizing
 tags:
   - education
-  - students
-  - youth
+  - free-college
+  - student-debt
+  - higher-education
 ---
 
 Mark J. Drozdowski, Ed. D.

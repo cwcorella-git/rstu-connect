@@ -1,15 +1,14 @@
 ---
-title: "Black Rim / Nigra Rando / ■■"
-author: "libcom.org"
-date: 1978
-category: "contemporary-analysis"
+title: "Black Rim / Nigra Rando Issue #1"
+author: "Beijing Anarchist Study Group / Asian Anarchist Network"
+date: 2009
+category: international-solidarity
 tags:
-  - killing-king-abacus
-  - hsi-hsuan-wou
-  - dc
-  - asia
+  - Asia
+  - China
   - anarchism
-  - japan
+  - labor
+  - Japan
 ---
 
 ## publications, China, Hong Kong

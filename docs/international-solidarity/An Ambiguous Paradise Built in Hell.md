@@ -1,11 +1,13 @@
 ---
 title: "An Ambiguous Paradise Built in Hell"
-author: "Industrial Workers of the World"
+author: "Dan Fischer / New Politics"
 date: 2023
-category: "contemporary-analysis"
+category: international-solidarity
 tags:
-  - analysis
-  - current-events
+  - Kurdistan
+  - Rojava
+  - Kurdish-womens-movement
+  - book-review
 ---
 
 | Source: https://ecology.iww.org/node/5283|
