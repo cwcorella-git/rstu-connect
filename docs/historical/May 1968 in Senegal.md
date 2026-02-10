@@ -1,17 +1,15 @@
 ---
 title: "May 1968 in Senegal"
-author: "libcom.org"
-date: 1961
-category: "contemporary-analysis"
+author: "International Communist Current"
+date: 1968
+category: "historical"
 tags:
-  - lassou
   - strikes
-  - schools
-  - general-strikes
+  - general-strike
   - students
-  - universities
-  - school-students
-  - senegal
+  - Senegal
+  - 1968
+  - May-68
 ---
 
 ## International Communist Current, PDF

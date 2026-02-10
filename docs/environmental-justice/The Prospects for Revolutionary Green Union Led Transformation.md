@@ -1,12 +1,13 @@
 ---
-title: The Prospects for Revolutionary Green Union Led Transformation
-author: "Industrial Workers of the World"
+title: "The Prospects for Revolutionary Green Union Led Transformation"
+author: "x344543"
 date: 2020
-category: theory
+category: environmental-justice
 tags:
-  - unions
+  - green-unionism
   - labor
-  - workers
+  - climate-change
+  - IWW
 ---
 
 ## **Source:** https://ecology.iww.org/node/3802

@@ -1,10 +1,13 @@
 ---
-title: Fetishism as social creativity
-author: David Graeber
-date: '2005'
-category: contemporary-analysis
+title: "Fetishism as Social Creativity"
+author: "David Graeber"
+date: 2005
+category: theory
 tags:
+  - anthropology
   - Graeber
+  - fetishism
+  - social-theory
 ---
 
 ### **ABSTRACT**

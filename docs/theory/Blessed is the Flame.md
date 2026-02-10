@@ -1,10 +1,13 @@
 ---
-title: "Serafinski"
-date: 2013
-category: "contemporary-analysis"
+title: "Blessed is the Flame: An Introduction to Concentration Camp Resistance and Anarcho-Nihilism"
+author: "Serafinski"
+date: 2016
+category: "theory"
 tags:
-  - analysis
-  - current-events
+  - anarcho-nihilism
+  - Holocaust
+  - resistance
+  - concentration-camps
 ---
 
 # **Blessed is the Flame**

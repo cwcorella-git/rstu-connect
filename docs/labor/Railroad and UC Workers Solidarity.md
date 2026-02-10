@@ -1,12 +1,13 @@
 ---
-title: Railroad and UC Workers Solidarity
-author: "Industrial Workers of the World"
+title: "Railroad and UC Workers Solidarity"
+author: "That Green Union Guy / Baltimore Red"
 date: 2022
 category: labor
 tags:
   - solidarity
-  - labor
   - railroads
+  - strikes
+  - green-unionism
 ---
 
 | Source: https://ecology.iww.org/node/5282|

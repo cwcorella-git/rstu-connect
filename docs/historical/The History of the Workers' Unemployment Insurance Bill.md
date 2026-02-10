@@ -1,12 +1,13 @@
 ---
-title: The History of the Workers' Unemployment Insurance Bill
-author: "libcom.org"
-date: 1934
-category: contemporary-analysis
+title: "The History of the Workers' Unemployment Insurance Bill"
+author: "C. Wright"
+date: 2018
+category: historical
 tags:
   - labor
-  - unions
-  - workers
+  - unemployment
+  - Great-Depression
+  - Communist-Party
 ---
 
 ## C. Wright
