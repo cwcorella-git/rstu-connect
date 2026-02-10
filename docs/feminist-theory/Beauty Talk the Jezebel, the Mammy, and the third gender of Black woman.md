@@ -1,10 +1,13 @@
 ---
-title: 'Beauty Talk: the Jezebel, the Mammy, and the third gender of "Black woman."'
+title: "Beauty Talk: the Jezebel, the Mammy, and the Third Gender of Black Woman"
+author: "Anonymous"
 date: 2022
 category: feminist-theory
 tags:
-  - women
   - feminism
+  - anti-Blackness
+  - anti-fatness
+  - beauty-standards
 ---
 
 | Date: 2022-11-06

@@ -1,10 +1,13 @@
 ---
-title: The commons versus capitalism
-date: 2001
-category: contemporary-analysis
+title: "The Commons Versus Capitalism"
+author: "Eurozine"
+date: 2019
+category: economic-alternatives
 tags:
-  - capitalism
   - commons
+  - capitalism
+  - Elinor-Ostrom
+  - enclosure
 ---
 
 

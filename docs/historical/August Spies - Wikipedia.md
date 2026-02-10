@@ -1,12 +1,13 @@
 ---
 title: "August Spies"
 author: "Wikipedia contributors"
-date: 1855
-category: "contemporary-analysis"
+date: 2020
+category: "historical"
 tags:
-  - analysis
-  - current-events
-  - wikipedia
+  - Haymarket
+  - anarchism
+  - labor-history
+  - Chicago
 ---
 
 

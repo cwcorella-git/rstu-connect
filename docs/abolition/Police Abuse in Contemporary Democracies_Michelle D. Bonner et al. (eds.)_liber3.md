@@ -1,11 +1,12 @@
 ---
-title: Police Abuse In Contemporary Democracies Michelle D Bonner Et Al Eds Liber3
-author: Michelle D. Bonner
-date: '2018'
+title: "Police Abuse in Contemporary Democracies"
+author: "Michelle D. Bonner, Guillermina Seri, Mary Rose Kubal, Michael Kempa (eds.)"
+date: 2018
 category: abolition
 tags:
   - police
   - democracy
+  - state-violence
 ---
 
 

@@ -1,10 +1,12 @@
 ---
-title: "On Fear."
+title: "On Fear"
+author: "Anonymous"
 date: 2024
-category: "contemporary-analysis"
+category: "theory"
 tags:
-  - analysis
-  - current-events
+  - capitalism
+  - poverty
+  - class-struggle
 ---
 
 So... here I go.

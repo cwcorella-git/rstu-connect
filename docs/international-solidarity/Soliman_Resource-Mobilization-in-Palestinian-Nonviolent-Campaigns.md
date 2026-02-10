@@ -1,10 +1,13 @@
 ---
-title: Resource Mobilization in Palestinian Nonviolent Campaigns
+title: "Resource Mobilization in Palestinian Nonviolent Campaigns"
+author: "Mahmoud Soliman"
 date: 2022
 category: international-solidarity
 tags:
   - nonviolence
   - Palestine
+  - organizing
+  - resistance
 ---
 
 ## Mahmoud Soliman

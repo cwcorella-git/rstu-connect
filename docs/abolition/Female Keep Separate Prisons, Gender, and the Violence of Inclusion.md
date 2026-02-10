@@ -1,10 +1,13 @@
 ---
-title: 'Female Keep Separate: Prisons, Gender, and the Violence of Inclusion'
-author: "libcom.org"
-category: feminist-theory
+title: "Female Keep Separate: Prisons, Gender, and the Violence of Inclusion"
+author: "Anonymous (submitted to North Shore Counter-Info)"
+date: 2019
+category: abolition
 tags:
   - prisons
-  - feminism
+  - transgender
+  - gender
+  - abolition
 ---
 
 ## transgender, PDF
