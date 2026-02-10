@@ -1,9 +1,13 @@
 ---
-title: Compulsory Miseducation
-date: 1911
-category: contemporary-analysis
+title: "Compulsory Miseducation"
+author: "Paul Goodman"
+date: 1964
+category: theory
 tags:
   - education
+  - anarchism
+  - deschooling
+  - Goodman
 ---
 
 Much of the sharpest and most fundamental chinking about aducation has been coming from America. This book is one of five titles published simultaneously by Penguin Education. It would be wrong to call these writers a school – they are widely different in stance and style. But they are united, firstly, by their readiness to think of education in (literally) radical ways and to propose radical solutions, secondly, by their deep concern that education should exist primarily for the benefit of those who learn, and lastly, and above all, by their conviction that education – in the modern world as in America – has reached crisis point.

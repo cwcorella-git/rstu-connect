@@ -1,11 +1,14 @@
 ---
-title: Unions Prepare for UN Climate Talks in Marrakesh
-author: "Industrial Workers of the World"
+title: "Unions Prepare for UN Climate Talks in Marrakesh"
+author: "ITUC"
 date: 2016
 category: environmental-justice
 tags:
-  - environment
   - climate
+  - unions
+  - just-transition
+  - Paris-Agreement
+  - TUED
 ---
 
 ## **Source:** https://ecology.iww.org/node/1901

@@ -1,11 +1,14 @@
 ---
-title: When Women Stop - Everything Stops
-author: "libcom.org"
-date: 1974
+title: "When Women Stop - Everything Stops"
+author: "Anonymous"
+date: 1975
 category: feminist-theory
 tags:
+  - Iceland
   - women
+  - general-strike
   - feminism
+  - housework
 ---
 
 Report on the women's general strike on October 24th 1974 in Iceland.

@@ -1,12 +1,14 @@
 ---
 title: "Kill the Bill? Change the System!"
-author: "libcom.org"
-category: "contemporary-analysis"
+author: "Communist Workers Organisation"
+date: 2021
+category: organizing
 tags:
-  - internationalist-communist-tendency
+  - UK
   - repression
-  - united-kingdom
-  - communist-workers
+  - police
+  - protest
+  - CWO
 ---
 
 ## Organisation (CWO), police

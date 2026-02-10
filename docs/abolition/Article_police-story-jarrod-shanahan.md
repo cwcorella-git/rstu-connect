@@ -1,12 +1,14 @@
 ---
-title: Police Story Jarrod Shanahan
-author: "libcom.org"
-date: '2025'
+title: "Police Story"
+author: "Jarrod Shanahan"
+date: 2021
 category: abolition
 tags:
   - police
   - abolition
-  - prisons
+  - George-Floyd
+  - NYPD
+  - counterinsurgency
 ---
 
 States, police, repression, New York, Jarrod Shanahan, Black Lives Matter movement, Ill Will Editions, counter-insurgency, George Floyd protests

@@ -1,13 +1,13 @@
 ---
 title: "What Kind of Just Transition?"
-author: "Michael Ware / System Change Not Climate Change"
+author: "Michael Ware"
 date: 2015
 category: environmental-justice
 tags:
   - just-transition
   - climate-justice
   - energy-democracy
-  - capitalism
+  - System-Change-Not-Climate-Change
 ---
 
 ## **Source:** https://ecology.iww.org/node/1410
