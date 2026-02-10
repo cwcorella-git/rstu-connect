@@ -1,10 +1,13 @@
 ---
-title: Monthly Review
-author: John J. Simon
-date: 1959
-category: contemporary-analysis
+title: "Why Socialism?"
+author: "Albert Einstein"
+date: 1949
+category: theory
 tags:
-  - theory
+  - socialism
+  - economics
+  - capitalism-critique
+  - Einstein
 ---
 
 [Navigation](https://monthlyreview.org/2009/05/01/why-socialism/#navigation)

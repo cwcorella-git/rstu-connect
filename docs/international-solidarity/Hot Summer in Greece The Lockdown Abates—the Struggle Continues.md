@@ -1,14 +1,14 @@
 ---
 title: "Hot Summer in Greece: The Lockdown Abates—the Struggle Continues"
 author: "CrimethInc."
-date: 1973
-category: "contemporary-analysis"
+date: 2021
+category: "international-solidarity"
 tags:
-  - crimeth-inc.
+  - Greece
+  - COVID-19
+  - anarchism
+  - squatting
   - repression
-  - prisons
-  - greece
-  - athens
 ---
 
 In this update, our correspondents in Greece describe the state of the anarchist movement following the easing of the lockdown and review the court cases that remain from the last year of struggle. This report was first published by Crimethinc. Content warning: this article contains mentions of domestic and sexual violence.

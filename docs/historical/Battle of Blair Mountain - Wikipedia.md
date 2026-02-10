@@ -1,12 +1,14 @@
 ---
-title: Battle of Blair Mountain
-author: "Wikipedia contributors"
-date: 1920
-category: labor
+title: "Battle of Blair Mountain"
+author: "Wikipedia"
+date: 2024
+category: historical
 tags:
-  - labor
-  - unions
-  - workers
+  - labor-history
+  - coal-miners
+  - West-Virginia
+  - strikes
+  - armed-struggle
 ---
 
 

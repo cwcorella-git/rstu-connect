@@ -1,11 +1,13 @@
 ---
-title: Can the Climate Movement Break Free From the 'Jobs vs. Environment' Debate?
-author: "Kate Aronoff -"
+title: "Can the Climate Movement Break Free From the 'Jobs vs. Environment' Debate?"
+author: "Kate Aronoff"
 date: 2016
 category: environmental-justice
 tags:
-  - environment
-  - climate
+  - climate-justice
+  - just-transition
+  - labor-environment-alliance
+  - unions
 ---
 
 ## **Source:** https://ecology.iww.org/node/1633

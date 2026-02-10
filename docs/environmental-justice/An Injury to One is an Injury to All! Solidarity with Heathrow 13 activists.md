@@ -1,9 +1,13 @@
 ---
-title: 'An Injury to One is an Injury to All!: Solidarity with Heathrow 13 activists'
-author: "Industrial Workers of the World"
+title: "An Injury to One is an Injury to All! Solidarity with Heathrow 13 Activists"
+author: "Dorsett IWW"
 date: 2016
-category: contemporary-analysis
+category: environmental-justice
 tags:
+  - climate-justice
+  - direct-action
+  - Plane-Stupid
+  - IWW
   - solidarity
 ---
 

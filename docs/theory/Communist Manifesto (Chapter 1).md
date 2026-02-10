@@ -1,10 +1,13 @@
 ---
-title: Communist Manifesto (Chapter 1)
-date: 1888
-category: contemporary-analysis
+title: "The Communist Manifesto (Chapter 1)"
+author: "Karl Marx and Friedrich Engels"
+date: 1848
+category: theory
 tags:
-  - socialism
-  - theory
+  - Marxism
+  - communism
+  - class-struggle
+  - historical-materialism
 ---
 
 #### [marxists.org](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/ch01.htm)

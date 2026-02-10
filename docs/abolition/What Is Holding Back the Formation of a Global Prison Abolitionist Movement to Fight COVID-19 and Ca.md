@@ -1,11 +1,14 @@
 ---
 title: "What Is Holding Back the Formation of a Global Prison Abolitionist Movement to Fight COVID-19 and Capitalism?"
-author: "libcom.org"
-date: '2011'
+author: "Frieda Afary and Lara al-Kateb"
+date: 2020
 category: abolition
 tags:
-  - prisons
-  - abolition
+  - prison-abolition
+  - COVID-19
+  - pandemic
+  - MENA
+  - internationalism
 ---
 
 An article from Frieda Afary and Lara al-Kateb of the Alliance of MENA Socialists, arguing that "Effectively fighting the COVID-19 pandemic demands a global prison abolitionist movement based on opposition to all forms of exploitation and domination... We hope to spark discussion with prison abolitionists around the world, so that we can make a difference at this critical moment."This article was first published in Spectre Journal.
