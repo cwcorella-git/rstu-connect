@@ -1,12 +1,16 @@
 ---
 title: "The Eclipse Committee Manifesto"
-author: "libcom.org"
-date: 2026
-category: "contemporary-analysis"
+author: "Eclipse Committee"
+date: 2024
+category: organizing
 tags:
-  - analysis
-  - current-events
-  - libcom
+  - UK
+  - anarchism
+  - Eclipse-2029
+  - organizing
+  - far-right
+  - community-resilience
+  - direct-action
 ---
 
 Eclipse 2029 is a project to reactivate the Anarchist movement in the UK to oppose the narrative of electoralism and to strengthen our capacities to resist what is likely to be a far right government coming to power. We seek to build a resilient community through a series of annual gatherings (coinciding with an eclipse each year leading up to the election in 2029). We seek to build a shared platform for mutual defence and cooperation between Anarchist groups and also encourage autonomous direct action by affinity groups under the name of Eclipse Committees. The platform will provide a visible space in the form of a website and publications to share these actions and connect the movement together.

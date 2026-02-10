@@ -1,10 +1,15 @@
 ---
-title: The Modern Crisis Murray Bookchin
+title: "The Modern Crisis"
 author: "Murray Bookchin"
-date: 2022
-category: arts-culture-music
+date: 1986
+category: theory
 tags:
-  - Bookchin
+  - Murray-Bookchin
+  - capitalism
+  - market-economy
+  - social-ecology
+  - morality
+  - crisis
 ---
 
 

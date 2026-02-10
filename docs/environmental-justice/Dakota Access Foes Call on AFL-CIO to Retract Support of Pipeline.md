@@ -1,11 +1,16 @@
 ---
-title: Dakota Access Foes Call on AFL-CIO to Retract Support of Pipeline
-author: "Mark Hand -"
+title: "Dakota Access Foes Call on AFL-CIO to Retract Support of Pipeline"
+author: "Mark Hand"
 date: 2016
-category: labor
+category: environmental-justice
 tags:
+  - AFL-CIO
+  - DAPL
+  - Standing-Rock
+  - Indigenous
   - unions
-  - fossil fuels
+  - fossil-fuels
+  - labor
 ---
 
 ## **Source:** https://ecology.iww.org/node/1814
