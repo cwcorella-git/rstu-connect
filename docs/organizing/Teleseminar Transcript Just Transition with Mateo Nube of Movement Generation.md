@@ -1,30 +1,14 @@
 ---
 title: "Teleseminar Transcript: \"Just Transition\" with Mateo Nube of Movement Generation"
-author: "Industrial Workers of the World"
+author: "Mateo Nube / Movement Generation"
 date: 2015
 category: organizing
 tags:
-  - just transition
+  - just-transition
+  - green-unionism
+  - climate-jobs
   - organizing
 ---
-
-| Date: Wed, 03/02/2016 - 18:53 |
-|-----------------------------------------------------------------------------------------------|
-| Source: https://ecology.iww.org/node/1549|
-| Tags: just transition, green unionism, Movement Generation, green jobs, labor and environment |
-| |
-| By |
-| |
-| |
-| Mateo Nube - |
-| |
-| Movement Generation |
-| |
-| , November 4, 2015 |
-| |
-| Marissa Mommaerts: |
-| |
-## | |
 
 I'm so happy this teleseminar is happening, because personally I believe that making social justice more explicit in our work is not only the right thing to do, it's also the only way our movement is going to become powerful enough to rise to the challenges of our time. And I'm very excited to welcome a friend and mentor, someone I deeply respect and admire, Mateo Nube of Movement Generation, to lead today's call.
 

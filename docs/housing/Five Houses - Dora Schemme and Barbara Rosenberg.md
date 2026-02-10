@@ -1,12 +1,13 @@
 ---
-title: "Five Houses - Dora Schemme and Barbara Rosenberg"
-author: "libcom.org"
+title: "Five Houses"
+author: "Dora Schemme and Barbara Rosenberg"
 date: 1981
-category: "contemporary-analysis"
+category: housing
 tags:
-  - analysis
-  - current-events
-  - libcom
+  - squatting
+  - West-Berlin
+  - feminism
+  - housing
 ---
 
 Profiles of five squatted houses in West Berlin in the early 1980s, including quotes from the female occupants.

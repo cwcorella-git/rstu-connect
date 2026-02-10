@@ -1,10 +1,13 @@
 ---
-title: The Woman of Color and the White Man
-author: Homi K. Bhabha
-date: 2008
-category: contemporary-analysis
+title: "Black Skin, White Masks"
+author: "Frantz Fanon"
+date: 1952
+category: theory
 tags:
-  - women
+  - colonialism
+  - race
+  - psychology
+  - Algeria
 ---
 
 ## Magh Skin While masks

@@ -1,10 +1,13 @@
 ---
 title: "The Impact of Nonviolent Resistance on the Peaceful Transformation of Civil War"
+author: "Luke Abbs"
 date: 2021
-category: feminist-theory
+category: international-solidarity
 tags:
   - nonviolence
   - anti-war
+  - civil-war
+  - peace
 ---
 
 ## Luke Abbs

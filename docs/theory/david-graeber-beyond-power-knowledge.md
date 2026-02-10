@@ -1,10 +1,13 @@
 ---
-title: Beyond Power/Knowledge
-author: David Graeber
-date: 25<sup>th</sup> May 2006
-category: contemporary-analysis
+title: "Beyond Power/Knowledge"
+author: "David Graeber"
+date: 2006
+category: theory
 tags:
-  - Graeber
+  - bureaucracy
+  - violence
+  - power
+  - anthropology
 ---
 
 Let me begin with a brief story about bureaucracy.

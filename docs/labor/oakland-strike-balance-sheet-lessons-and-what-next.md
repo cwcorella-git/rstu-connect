@@ -1,13 +1,13 @@
 ---
-title: Oakland Strike Balance Sheet Lessons and What Next
-author: Oakland Strike Balance
-date: '2025'
+title: "Oakland Strike Balance Sheet: Lessons and What Next"
+author: "Jack Gerson"
+date: 2019
 category: labor
 tags:
   - strikes
-  - labor
+  - teachers
+  - Oakland
   - unions
-  - workers
 ---
 
 Oakland Educators Association (OEA) reached a tentative agreement to settle a 7-day strike in Oakland, California last week. Jack Gerson, retired Oakland teacher and former executive board and bargaining team member, gives his account of the dynamics of the walkout.
