@@ -1,12 +1,13 @@
 ---
-title: The Place Of Anarchism In Socialistic Evol Peter Kropotkin
-author: Peter Kropotkin
-date: '1848'
+title: "The Place of Anarchism in Socialistic Evolution"
+author: "Peter Kropotkin"
+date: 1886
 category: theory
 tags:
   - anarchism
   - socialism
-  - Kropotkin
+  - Peter-Kropotkin
+  - Paris-address
 ---
 
 PLACE

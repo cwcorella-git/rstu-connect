@@ -1,12 +1,14 @@
 ---
-title: The Battle for Bread at Lawrence - Mary Marcy
-author: "Industrial Workers of the World"
+title: "The Battle for Bread at Lawrence"
+author: "Mary Marcy"
 date: 1912
 category: labor
 tags:
-  - labor
-  - unions
-  - workers
+  - Lawrence-strike
+  - textile-workers
+  - IWW
+  - strikes
+  - 1912
 ---
 
 Industrial Workers of the World (IWW), nationalism, internationalism

@@ -1,11 +1,14 @@
 ---
 title: "Talking Shop: Burning Up"
-author: "Industrial Workers of the World"
+author: "New Syndicalist"
 date: 2019
-category: "contemporary-analysis"
+category: "environmental-justice"
 tags:
-  - analysis
-  - current-events
+  - climate-change
+  - green-syndicalism
+  - Simon-Pirani
+  - fossil-fuels
+  - interview
 ---
 
 | Date: Sat, 06/22/2019 - 17:02 |

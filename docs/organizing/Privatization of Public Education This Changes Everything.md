@@ -1,12 +1,14 @@
 ---
-title: 'Privatization of Public Education: This Changes Everything'
+title: "Privatization of Public Education: This Changes Everything"
+author: "Morna McDermott"
 date: 2016
-category: labor
+category: organizing
 tags:
   - education
-  - labor
-  - unions
-  - workers
+  - privatization
+  - teachers
+  - Naomi-Klein
+  - climate-justice
 ---
 
 | Date: Tue, 09/27/2016 - 17:51 |

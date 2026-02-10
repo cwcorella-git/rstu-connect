@@ -1,14 +1,15 @@
 ---
-title: "Montague \"Monty\" Miller - 1831 -1920"
-author: "Industrial Workers of the World"
+title: "Montague \"Monty\" Miller (1831-1920)"
+author: "Joe Toscano"
 date: 1920
-category: "contemporary-analysis"
+category: "historical"
 tags:
+  - Monty-Miller
+  - Australia
+  - IWW
+  - Eureka-Stockade
   - anarchism
-  - world-war-i
-  - australia
   - biographies
-  - monty
 ---
 
 ## Miller, Joe Toscano
