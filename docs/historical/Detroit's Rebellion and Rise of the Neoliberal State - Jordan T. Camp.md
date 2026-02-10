@@ -1,10 +1,14 @@
 ---
-title: "Detroit's Rebellion and the Rise of the Neoliberal State: 1967: Dialectics of Insurgency By Jordan T. Camp"
+title: "Detroit's Rebellion and the Rise of the Neoliberal State: 1967 Dialectics of Insurgency"
 author: "Jordan T. Camp"
-date: 1967
-category: contemporary-analysis
+date: 2016
+category: historical
 tags:
-  - riots
+  - Detroit
+  - 1967-rebellion
+  - Black-Power
+  - League-of-Revolutionary-Black-Workers
+  - neoliberalism
 ---
 
 

@@ -1,11 +1,13 @@
 ---
-title: The Winnipeg General Strike Of 1919
-author: Prairie Struggle
-date: '2025'
-category: labor
+title: "The Winnipeg General Strike of 1919"
+author: "Anarchist Communist Group"
+date: 2019
+category: historical
 tags:
-  - general strikes
-  - strikes
+  - Canada
+  - Winnipeg
+  - general-strike
+  - labor-history
 ---
 
 A short account of the Winnipeg General Strike of 1919

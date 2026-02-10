@@ -1,15 +1,14 @@
 ---
-title: "Augusto Masetti (1888–1966)"
-author: "libcom.org"
-date: 1888
-category: "contemporary-analysis"
+title: "Augusto Masetti (1888-1966)"
+author: "Fiorenza Tarozzi"
+date: 2014
+category: "historical"
 tags:
-  - fiorenza-tarozzi
-  - psychiatry
+  - Italy
+  - anarchism
+  - anti-militarism
   - anti-colonialism
-  - r.-d.-laing
-  - thomas-szasz
-  - ivan-illich
+  - psychiatry
 ---
 
 A short biography of Augusto Masetti who opposed colonial European encroachment in Africa (Libya) by shooting a commanding officer, and accidently a fellow soldier in the ranks. Rather than sentence Masetti to death, military court appointed psychiatrists declared him to be 'unbalanced' and 'irreducibly unfit for regular social coexistence and permanently dangerous to himself and others'. Subsequently, civil authorities applied various other psychiatric labels for which he was also incarcerated. He himself, at the time of the first offence, proclaimed, 'long live anarchy'.

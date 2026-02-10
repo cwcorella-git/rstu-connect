@@ -1,10 +1,13 @@
 ---
-title: Hakim Bey
+title: "T.A.Z.: The Temporary Autonomous Zone, Ontological Anarchy, Poetic Terrorism"
+author: "Hakim Bey"
 date: 1985
-category: contemporary-analysis
+category: theory
 tags:
   - anarchism
+  - TAZ
   - autonomy
+  - poetic-terrorism
 ---
 
 # **T. A. Z.: The Temporary Autonomous Zone, Ontological Anarchy, Poetic Terrorism**
