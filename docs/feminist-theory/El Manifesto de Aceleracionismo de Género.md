@@ -1,17 +1,16 @@
 ---
 title: "El Manifesto de Aceleracionismo de Género"
-author: "libcom.org"
-date: 1986
-category: "contemporary-analysis"
+author: "Eme Flores"
+date: 2020
+category: feminist-theory
 tags:
-  - español
-  - feminism
-  - gender
-  - housework
-  - historical-materialism
-  - transgender
-  - vikky-storm
-  - eme
+  - gender-accelerationism
+  - gender-abolition
+  - Spanish
+  - trans
+  - queer
+  - Vikky-Storm
+  - materialism
 ---
 
 ## Flores

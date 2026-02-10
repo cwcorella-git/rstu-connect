@@ -1,11 +1,16 @@
 ---
-title: 'Class War #2 1983'
+title: "Class War #2 1983"
 author: "Class War Federation"
 date: 1983
-category: international-solidarity
+category: historical
 tags:
-  - anti-war
-  - class
+  - Class-War
+  - UK
+  - 1980s
+  - Thatcher
+  - Red-Action
+  - Crass
+  - Northern-Ireland
 ---
 
 | Date: Unknown |

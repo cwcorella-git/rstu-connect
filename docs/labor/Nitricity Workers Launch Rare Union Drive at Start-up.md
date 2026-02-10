@@ -1,11 +1,15 @@
 ---
-title: Nitricity Workers Launch Rare Union Drive at Start-up
-author: "Shelby N -"
+title: "Nitricity Workers Launch Rare Union Drive at Start-up"
+author: "Shelby N"
 date: 2022
 category: labor
 tags:
-  - unions
-  - labor
+  - IWW
+  - union-drive
+  - San-Francisco
+  - start-up
+  - tech-workers
+  - organizing
 ---
 
 ## **Source:** https://ecology.iww.org/node/4969

@@ -1,13 +1,15 @@
 ---
-title: Extinction Rebellion Trade Unionists a Timely Initiative
-author: Industrial Workers of the World
-date: '2025'
-category: labor
+title: "Extinction Rebellion Trade Unionists: A Timely Initiative"
+author: "Rob Marsden"
+date: 2022
+category: environmental-justice
 tags:
-  - riots
-  - labor
-  - unions
-  - workers
+  - Extinction-Rebellion
+  - trade-unions
+  - climate-justice
+  - just-transition
+  - green-unionism
+  - UK
 ---
 
 Rebellion (XR), green unionism, movements, unions, and organizations, just transition, green syndicalism, United Kingdom (UK), refinery workers, climate change, climate justice

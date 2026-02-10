@@ -1,12 +1,16 @@
 ---
-title: Black Rim / Nigra Rando / 黑环 (Asian Anarchist Magazine)
-author: "Killing King Abacus"
-date: 1978
+title: "Black Rim / Nigra Rando / 黑环 (Asian Anarchist Magazine)"
+author: "Black Rim Collective"
+date: 2009
 category: international-solidarity
 tags:
   - anarchism
-  - international
-  - solidarity
+  - Asia
+  - China
+  - Hong-Kong
+  - Japan
+  - migrant-labor
+  - magazine
 ---
 
 ## **Author:** Killing King Abacus
