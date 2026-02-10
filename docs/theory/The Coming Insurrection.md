@@ -1,10 +1,13 @@
 ---
-title: "Comité invisible"
-date: 2008
-category: "contemporary-analysis"
+title: "The Coming Insurrection"
+author: "Comité invisible"
+date: 2007
+category: "theory"
 tags:
-  - analysis
-  - current-events
+  - insurrection
+  - France
+  - communes
+  - strategy
 ---
 
 # **The Coming Insurrection**

@@ -1,12 +1,13 @@
 ---
-title: Committee for Academic Freedom in Africa newsletter
-author: "libcom.org"
-date: 1991
+title: "Committee for Academic Freedom in Africa Newsletter (1991-2003)"
+author: "Ousseina Alidou, Silvia Federici, George Caffentzis (eds.)"
+date: 2003
 category: international-solidarity
 tags:
-  - liberty
-  - international
-  - solidarity
+  - Africa
+  - education
+  - neoliberalism
+  - structural-adjustment
 ---
 
 Magbaily Fyle, Committee for Academic Freedom in Africa, PDF

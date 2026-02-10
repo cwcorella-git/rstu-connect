@@ -1,11 +1,13 @@
 ---
-title: Another solidarity network/IWW case - A potential for a strategic leap
-author: "Industrial Workers of the World"
+title: "Another Solidarity Network/IWW Case: A Potential for a Strategic Leap"
+author: "Angry Workers of the World"
 date: 2017
 category: organizing
 tags:
-  - unions
-  - solidarity
+  - solidarity-network
+  - IWW
+  - organizing
+  - migrant-workers
 ---
 
 ## Workers of the World

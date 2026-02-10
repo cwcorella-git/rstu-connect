@@ -1,12 +1,13 @@
 ---
-title: Marxism Freedom and the State
+title: "Marxism, Freedom and the State"
 author: "Mikhail Bakunin"
-date: 1950
-category: contemporary-analysis
+date: 1872
+category: theory
 tags:
-  - socialism
-  - liberty
+  - anarchism
+  - Marxism
   - Bakunin
+  - anti-authoritarianism
 ---
 
 #### Translated and Edited with a Biographical Sketch by

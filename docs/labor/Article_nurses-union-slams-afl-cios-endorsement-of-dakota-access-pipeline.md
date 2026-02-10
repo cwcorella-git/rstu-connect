@@ -1,11 +1,13 @@
 ---
-title: Nurses Union Slams Afl Cios Endorsement of Dakota Access Pipeline
-author: Industrial Workers of the World
-date: '2025'
+title: "Nurses Union Slams AFL-CIO's Endorsement of Dakota Access Pipeline"
+author: "Real News Network"
+date: 2016
 category: labor
 tags:
   - unions
-  - fossil fuels
+  - DAPL
+  - Standing-Rock
+  - just-transition
 ---
 
 National Nurses United, Dakota Access Pipeline (DAPL), pipelines, just transition, indigenous
