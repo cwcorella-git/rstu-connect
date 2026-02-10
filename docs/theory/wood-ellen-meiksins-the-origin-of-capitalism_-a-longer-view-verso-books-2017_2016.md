@@ -1,9 +1,13 @@
 ---
-title: The Origin of Capitalism a longer view
+title: "The Origin of Capitalism: A Longer View"
+author: "Ellen Meiksins Wood"
 date: 2002
-category: arts-culture-music
+category: theory
 tags:
   - capitalism
+  - Marxism
+  - history
+  - agrarian
 ---
 
 

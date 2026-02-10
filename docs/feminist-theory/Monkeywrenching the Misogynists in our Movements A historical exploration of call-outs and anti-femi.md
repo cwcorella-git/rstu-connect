@@ -1,10 +1,13 @@
 ---
-title: "Monkeywrenching the Misogynists in our Movements: A historical exploration of call-outs and ant"
-author: "Kiera Loki Anderson -"
+title: "Monkeywrenching the Misogynists in Our Movements: A Historical Exploration of Call-Outs"
+author: "Kiera Loki Anderson"
 date: 2015
 category: feminist-theory
 tags:
-  - feminism
+  - misogyny
+  - accountability
+  - Earth-First
+  - Cascadia
 ---
 
 ## **Source:** https://ecology.iww.org/node/1448

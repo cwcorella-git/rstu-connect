@@ -1,12 +1,13 @@
 ---
-title: Anarchist Organization in Times of War and Crisis Ukraine Saša Kaluža
-author: Saša Kaluža
-date: '2025'
+title: "Anarchist Organization in Times of War and Crisis: Ukraine"
+author: "Saša Kaluža"
+date: 2022
 category: international-solidarity
 tags:
-  - anarchism
-  - anti-war
   - Ukraine
+  - anarchism
+  - self-organization
+  - war
 ---
 
 Article by Ukrainian anarchist Saša Kaluža on the situation following the 2022 Russian invasion of Ukraine.

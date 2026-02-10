@@ -1,11 +1,13 @@
 ---
-title: "\"The Impact of Parasocial Relationships with AI on Mental Health\" Valerie Hill and Rose Hill Commu"
-date: 1956
+title: "The Impact of Parasocial Relationships with AI on Mental Health"
+author: "Valerie Hill & Rose Hill"
+date: 2024
 category: technology-digital-justice
 tags:
-  - healthcare
-  - technology
-  - digital rights
+  - AI
+  - mental-health
+  - parasocial
+  - metaverse
 ---
 
 **"The Impact of Parasocial Relationships with AI on Mental Health" Valerie Hill and Rose Hill Community Virtual Library and Crisis Connections Mental Health Symposium 2024 Friday, May 17**

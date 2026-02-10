@@ -1,11 +1,13 @@
 ---
-title: 'Trumka and building trades leaders join bosses, support Dakota Pipeline'
+title: "Trumka and Building Trades Leaders Join Bosses, Support Dakota Pipeline"
+author: "Richard Mellor"
 date: 2016
-category: international-solidarity
+category: labor
 tags:
-  - fossil fuels
-  - indigenous
-  - solidarity
+  - AFL-CIO
+  - Standing-Rock
+  - fossil-fuels
+  - class-collaboration
 ---
 
 | Date: Sun, 09/25/2016 - 17:01 |

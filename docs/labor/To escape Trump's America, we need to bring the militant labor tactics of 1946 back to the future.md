@@ -1,12 +1,13 @@
 ---
-title: "To escape Trump's America, we need to bring the militant labor tactics of 1946 back to the futu"
-author: "Industrial Workers of the World"
-date: 1946
-category: contemporary-analysis
+title: "To Escape Trump's America, Bring the Militant Labor Tactics of 1946 Back to the Future"
+author: "IWW Environmental Unionism Caucus"
+date: 2016
+category: labor
 tags:
-  - labor
-  - unions
-  - workers
+  - general-strikes
+  - Oakland
+  - 1946
+  - history
 ---
 
 ## **Source:**

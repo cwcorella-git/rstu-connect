@@ -1,8 +1,8 @@
 ---
 title: 'Criminal Syndicalism Laws in Canada: Repression During WWI and Today''s Echoes'
-author: "Industrial Workers of the World"
-date: 1918
-category: contemporary-analysis
+author: "IWW Environmental Unionism Caucus"
+date: 2023
+category: labor
 tags:
   - syndicalism
   - Canada

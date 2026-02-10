@@ -1,10 +1,13 @@
 ---
-title: Solidarity is the new I love you
-author: "Dano T Bob -"
+title: "Solidarity is the New I Love You"
+author: "Dano T Bob"
 date: 2015
-category: contemporary-analysis
+category: environmental-justice
 tags:
-  - solidarity
+  - coal
+  - Oakland
+  - environmental-racism
+  - IWW
 ---
 
 ## **Source:** https://ecology.iww.org/node/1435

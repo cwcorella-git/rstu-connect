@@ -1,12 +1,13 @@
 ---
-title: A World Without Police Geo Maher
-author: Geo Maher
-date: '2025'
+title: "A World Without Police"
+author: "Geo Maher"
+date: 2021
 category: abolition
 tags:
-  - police
-  - abolition
-  - prisons
+  - police-abolition
+  - BLM
+  - 2020-uprising
+  - book
 ---
 
 “The uprising against the police in the summer of 2020 showed the United States, if not the world, what Black America has always known: the police are an enduring force of oppression and violence. Geo Maher’s new book not only provides us the tools to understand the role of the police but the imagination to conceive of a world without them. This is the right book at the right time.” —Keeanga-Yamahtta Taylor, From #BlackLivesMatter to

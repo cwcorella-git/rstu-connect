@@ -1,11 +1,13 @@
 ---
-title: May Day and Immigrant Workers
-author: "Industrial Workers of the World"
+title: "May Day and Immigrant Workers"
+author: "Asa Singer"
 date: 2023
 category: labor
 tags:
-  - labor
+  - May-Day
   - immigration
+  - IWW
+  - history
 ---
 
 | Source: https://ecology.iww.org/node/5666|
