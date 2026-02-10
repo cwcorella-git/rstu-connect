@@ -1,10 +1,15 @@
 ---
-title: Bookchin
+title: "Bookchin: A Critical Appraisal"
 author: "Damian F. White"
 date: 2008
-category: arts-culture-music
+category: theory
 tags:
-  - Bookchin
+  - Murray-Bookchin
+  - Damian-White
+  - critical-theory
+  - social-ecology
+  - anarchism
+  - critique
 ---
 
 

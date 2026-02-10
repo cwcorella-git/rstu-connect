@@ -1,12 +1,17 @@
 ---
 title: "The Ouarzazate Solar Plant in Morocco: Triumphal 'Green' Capitalism and the Privatization of Nature"
-author: "Industrial Workers of the World"
-date: 1962
+author: "Hamza Hamouchene"
+date: 2016
 category: environmental-justice
 tags:
-  - capitalism
-  - environment
-  - climate
+  - green-capitalism
+  - greenwashing
+  - solar-power
+  - Morocco
+  - Ouarzazate
+  - privatization
+  - renewable-energy
+  - Hamza-Hamouchene
 ---
 
 | Date: Tue, 03/29/2016 - 18:21 |

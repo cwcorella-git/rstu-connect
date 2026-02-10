@@ -1,11 +1,16 @@
 ---
-title: "VINTAGE e Books"
-author: "John P. Davis"
-date: 1992
-category: "contemporary-analysis"
+title: "Black Power: The Politics of Liberation in America"
+author: "Kwame Ture (Stokely Carmichael) and Charles V. Hamilton"
+date: 1967
+category: theory
 tags:
-  - analysis
-  - current-events
+  - Black-Power
+  - Black-Liberation
+  - civil-rights
+  - Stokely-Carmichael
+  - Kwame-Ture
+  - Charles-Hamilton
+  - African-American-history
 ---
 
 ### **Black Power**

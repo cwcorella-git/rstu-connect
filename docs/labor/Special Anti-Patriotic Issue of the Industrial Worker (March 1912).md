@@ -1,11 +1,17 @@
 ---
-title: Special Anti-Patriotic Issue of the Industrial Worker (March 1912)
-author: "Industrial Workers of the World"
+title: "Special Anti-Patriotic Issue of the Industrial Worker (March 1912)"
+author: "IWW"
 date: 1912
 category: labor
 tags:
-  - protests
-  - labor
+  - IWW
+  - anti-patriotism
+  - Lawrence-strike
+  - San-Diego
+  - free-speech
+  - 1912
+  - patriotism
+  - flags
 ---
 
 Extracts from the "Special Anti-Patriotic Issue" of the Industrial Worker magazine published in March 1912. The issue was partly a critical response to the flag-waving and other patriotic expressions that characterized both the Lawrence Textile Strike and the San Diego Free Speech Fight, whether coming from the strikers/protesters or their opponents. In Lawrence in particular, many of the striking textile workers had migrant backgrounds and constantly faced the accusation of being un-American, outside troublemakers. Hence many of the strikers waved the American flag to "prove their patriotism and loyalty."

@@ -1,11 +1,17 @@
 ---
-title: Police Unions Are Anti Labor Harvard
-author: Harvard Political Review
-date: '2016'
+title: "Police Unions Are Anti-Labor"
+author: "Ria Modak"
+date: 2020
 category: abolition
 tags:
-  - police
-  - labor
+  - police-unions
+  - abolition
+  - anti-labor
+  - police-brutality
+  - FOP
+  - IUPA
+  - HUPD
+  - Harvard
 ---
 
 ## [harvardpolitics.com](https://harvardpolitics.com/police-unions-are-anti-labor/)
