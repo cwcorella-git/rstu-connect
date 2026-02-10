@@ -1,12 +1,18 @@
 ---
-title: The Proletarian (1909-1910) - IWW Japanese-English Bilingual Newspaper
-author: "Industrial Workers of the World"
+title: "The Proletarian (1909-1910): IWW Japanese-English Bilingual Newspaper"
+author: "Takeshi Takahashi"
 date: 1909
-category: contemporary-analysis
+category: historical
 tags:
-  - unions
-  - labor
-  - workers
+  - IWW
+  - 1909
+  - Japanese
+  - bilingual
+  - Takeshi-Takahashi
+  - Chicago
+  - immigrant-workers
+  - anarchism
+  - Denjiro-Kotoku
 ---
 
 ## Chicago, ■■■, publications, The Proletarian

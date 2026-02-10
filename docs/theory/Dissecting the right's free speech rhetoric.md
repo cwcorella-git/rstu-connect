@@ -1,13 +1,17 @@
 ---
-title: "Dissecting the right's \"free speech\" rhetoric"
-author: "Industrial Workers of the World"
-date: 1965
-category: "contemporary-analysis"
+title: "Dissecting the Right's 'Free Speech' Rhetoric"
+author: "libcom.org"
+date: 2019
+category: theory
 tags:
-  - united-kingdom
-  - brazil
   - free-speech
-  - jair-bolsonaro
+  - alt-right
+  - Bolsonaro
+  - fascism
+  - Carl-Schmitt
+  - ACLU
+  - political-correctness
+  - reactionaries
 ---
 
 ## ACLU, Carl Schmitt

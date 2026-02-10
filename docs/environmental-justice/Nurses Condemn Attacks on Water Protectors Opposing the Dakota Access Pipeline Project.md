@@ -1,13 +1,17 @@
 ---
 title: "Nurses Condemn Attacks on Water Protectors Opposing the Dakota Access Pipeline Project"
-author: "Industrial Workers of the World"
+author: "National Nurses United"
 date: 2016
-category: labor
+category: environmental-justice
 tags:
-  - fossil fuels
-  - labor
-  - unions
-  - workers
+  - Standing-Rock
+  - DAPL
+  - water-protectors
+  - National-Nurses-United
+  - Indigenous
+  - pipeline
+  - police-violence
+  - solidarity
 ---
 
 ## **Source:** https://ecology.iww.org/node/1888

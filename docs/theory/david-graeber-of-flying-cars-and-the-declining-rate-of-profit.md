@@ -1,10 +1,16 @@
 ---
-title: Of Flying Cars and the Declining Rate of Profit
-author: David Graeber
-date: '2012'
-category: contemporary-analysis
+title: "Of Flying Cars and the Declining Rate of Profit"
+author: "David Graeber"
+date: 2012
+category: theory
 tags:
-  - Graeber
+  - David-Graeber
+  - technology
+  - capitalism
+  - stagnation
+  - bureaucracy
+  - postmodernism
+  - innovation
 ---
 
 A secret question hovers over us, a sense of disappointment, a broken promise we were given as children about what our adult world was supposed to be like. I am referring not to the standard false promises that children are always given (about how the world is fair, or how those who work hard shall be rewarded), but to a particular generational promise—given to those who were children in the fifties, sixties, seventies, or eighties—one that was never quite articulated as a promise but rather as a set of assumptions about what our adult world would be like. And since it was never quite promised, now that it has failed to come true, we’re left confused: indignant, but at the same time, embarrassed at our own indignation, ashamed we were ever so silly to believe our elders to begin with.
