@@ -1,10 +1,13 @@
 ---
-title: COVID-19 Mutual Aid It's Going Down
+title: "COVID-19 Mutual Aid Directory"
+author: "It's Going Down"
+date: 2020
 category: organizing
-author: Black Lives Matter Louisville
 tags:
-  - mutual aid
-  - organizing
+  - mutual-aid
+  - COVID-19
+  - pandemic
+  - networks
 ---
 
 COVID-19 Mutual Aid | It's Going Down Spread sheet. • Puget Sound COV-19 Mutual Aid: Seattle based collective well-being through class solidarity, disability justice, anti- racism, abolition. Resource guide here. Donate here. Instagram. • Lettered Streets Mutual Aid: Coordinating efforts including childcare, eldercare, housing, supplies, food, emotional support in the Lettered Streets neighborhood of Bellingham and beyond. We can also help connect you to other efforts happening in Bellingham and Whatcom County. Request support. Offer support. • Tacoma Mutual Aid Collective: Tacoma Mutual Aid Collective works in solidarity with Tacoma communities to support resource, knowledge, and skill sharing across our neighborhoods. Currently organizing free food programs for kids hit by school closures and beyond. Support via PayPal. Grocery program sign-up form. • Olympia Mutual Aid: We are coordinating food and supply drop offs to people’s front doors. Please use this form if you would like to help make deliveries. Facebook. • Olympia Community Resilience: Olympia Community Resilience is a volunteer run mutual aid project coordinating support involving grocery delivery, food restrictions, translation or interpretation services, pharmacy prescription pickups, running errands, food preparation, and centering accessibility needs and prioritizes vulnerable populations including those experiencing marginalization from disability, quarantine without pay, transphobia, racism, ageism, ableism, 

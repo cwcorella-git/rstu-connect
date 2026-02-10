@@ -1,11 +1,13 @@
 ---
-title: "RUSSIAN REVOLUTION CONGRESS: Athens, Greece, 12-14 April 2019: LAW SCHOOL OF ATHENS"
-author: libcom.org
+title: "Russian Revolution Congress: Athens 2019"
+author: "Conference Organizers"
 date: 2019
-category: international-solidarity
+category: historical
 tags:
-  - education
-  - Russia
+  - Russian-Revolution
+  - October-1917
+  - conference
+  - Greece
 ---
 
 ## **RUSSIAN REVOLUTION CONGRESS | Athens, Greece, 12-14 April 2019 | LAW SCHOOL OF ATHENS**

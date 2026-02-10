@@ -1,11 +1,13 @@
 ---
-title: The Wretched of the Earth
-author: "Homi K. Bhabha"
-date: 1963
-category: arts-culture-music
+title: "The Wretched of the Earth"
+author: "Frantz Fanon"
+date: 1961
+category: theory
 tags:
-  - arts
-  - culture
+  - Fanon
+  - decolonization
+  - violence
+  - Algeria
 ---
 
 A NEW TRANSLATION FROM THE FRENCH BY

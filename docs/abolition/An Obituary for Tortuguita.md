@@ -1,14 +1,13 @@
 ---
 title: "An Obituary for Tortuguita"
-author: "Tallahassee IWW -"
+author: "Tallahassee IWW"
 date: 2023
-category: "contemporary-analysis"
+category: abolition
 tags:
-  - atlanta-forest
-  - mobilizations-and-uprisings
-  - anti-capitalism
-  - libertarian-socialism
-  - industrial
+  - Cop-City
+  - Atlanta-forest
+  - police-violence
+  - environmental-justice
 ---
 
 ## **Source:** https://ecology.iww.org/node/5474

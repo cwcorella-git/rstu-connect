@@ -1,9 +1,13 @@
 ---
-title: "0:00 Our world has undeniably been shaped by the process of colonisation, which swept through 0:05"
+title: "Do We Still Need to Decolonise?"
+author: "Unknown"
+date: 2020
 category: theory
 tags:
+  - decolonization
+  - colonialism
   - indigenous
-  - solidarity
+  - empire
 ---
 
 0:00 Our world has undeniably been shaped by the process of colonisation, which swept through 0:05

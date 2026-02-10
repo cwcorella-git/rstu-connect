@@ -1,13 +1,13 @@
 ---
-title: Sample Resolution For Local Unions On the Dakota Access Pipeline
-author: Industrial Workers of the World
-date: '2025'
+title: "Sample Resolution for Local Unions on the Dakota Access Pipeline"
+author: "Brooke Anderson / Climate Workers"
+date: 2016
 category: labor
 tags:
-  - fossil fuels
-  - labor
-  - unions
-  - workers
+  - NoDAPL
+  - Standing-Rock
+  - environmental-justice
+  - labor-solidarity
 ---
 
 Climate Workers, NoDAPL, Dakota Access Pipeline (DAPL), Brooke Anderson

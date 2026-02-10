@@ -1,11 +1,13 @@
 ---
-title: 'Harris, Palestine, and the Spectacle of Liberation.'
+title: "Harris, Palestine, and the Spectacle of Liberation"
+author: "Anonymous"
 date: 2024
 category: international-solidarity
 tags:
   - Palestine
-  - international
-  - solidarity
+  - spectacle
+  - electoral-politics
+  - critique
 ---
 
 a series of musings nearly entitled, "

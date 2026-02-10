@@ -1,13 +1,14 @@
 ---
-title: Anarchists Demand Strike To End War New York Times
-author: Emma Goldman
-date: '2025'
+title: "Anarchists Demand Strike to End War"
+author: "New York Times"
+date: 1917
 category: labor
 tags:
   - strikes
-  - anarchism
   - anti-war
-  - New York
+  - Emma-Goldman
+  - IWW
+  - WWI
 ---
 
 Goldman, Alexander Berkman, World War I, Leonard D. Abbott, Harry Weissberger,
