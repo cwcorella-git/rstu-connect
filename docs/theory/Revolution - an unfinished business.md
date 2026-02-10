@@ -1,13 +1,16 @@
 ---
-title: "Revolution - an unfinished business"
-author: "libcom.org"
+title: "Revolution: An Unfinished Business"
+author: "Anarchist Federation (UK)"
 date: 1997
-category: "contemporary-analysis"
+category: theory
 tags:
-  - anarchist-federation
-  - class-war-federation
-  - groups
-  - united-kingdom
+  - Class-War-Federation
+  - Anarchist-Federation
+  - UK
+  - 1997
+  - organizational-theory
+  - critique
+  - platformism
 ---
 
 The Anarchist Federation on the 1997 disbanding of Class War Federation, and their analysis of the strengths and weaknesses of the organisation.

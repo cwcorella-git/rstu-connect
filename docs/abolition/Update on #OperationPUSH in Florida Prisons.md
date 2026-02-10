@@ -1,10 +1,17 @@
 ---
-title: 'Update on #OperationPUSH in Florida Prisons'
-author: "Industrial Workers of the World"
+title: "Update on #OperationPUSH in Florida Prisons"
+author: "IWOC"
 date: 2018
-category: contemporary-analysis
+category: abolition
 tags:
-  - prisons
+  - IWOC
+  - prison-strikes
+  - Florida
+  - Operation-PUSH
+  - IWW
+  - MLK-Day
+  - prison-abolition
+  - repression
 ---
 
 | Date: Mon, 01/22/2018 - 16:10 |

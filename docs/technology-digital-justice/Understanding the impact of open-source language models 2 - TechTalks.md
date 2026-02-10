@@ -1,11 +1,16 @@
 ---
-title: Understanding the impact of opensource language models - Tech Talks
-author: "TechTalks"
-date: 2022
+title: "Understanding the Impact of Open-Source Language Models"
+author: "Ben Dickson (TechTalks)"
+date: 2023
 category: technology-digital-justice
 tags:
-  - technology
-  - digital rights
+  - AI
+  - LLMs
+  - open-source
+  - Cerebras-GPT
+  - ChatGPT
+  - Ben-Dickson
+  - machine-learning
 ---
 
 #### [bdtechtalks.com](https://bdtechtalks.com/2023/05/29/open-source-llms-cerebras-gpt/amp/)

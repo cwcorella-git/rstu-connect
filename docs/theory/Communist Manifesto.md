@@ -1,11 +1,16 @@
 ---
-title: The Communist Manifesto
-author: "Wikipedia contributors"
-date: 1849
-category: contemporary-analysis
+title: "The Communist Manifesto"
+author: "Karl Marx and Friedrich Engels"
+date: 1848
+category: theory
 tags:
-  - socialism
-  - theory
+  - Karl-Marx
+  - Friedrich-Engels
+  - Communism
+  - historical-materialism
+  - class-struggle
+  - capitalism
+  - proletariat
 ---
 
 

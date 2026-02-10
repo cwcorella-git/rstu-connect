@@ -1,10 +1,16 @@
 ---
-title: Anti-Fascism Is Self-Defense
+title: "Anti-Fascism Is Self-Defense"
 author: "CrimethInc."
 date: 2017
-category: contemporary-analysis
+category: abolition
 tags:
   - antifascism
+  - CrimethInc
+  - self-defense
+  - police
+  - fascism
+  - far-right
+  - community-defense
 ---
 
 ## Crimeth Inc. Ex-Workers Collective

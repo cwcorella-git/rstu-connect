@@ -1,12 +1,15 @@
 ---
-title: Workers' Councils
-author: Robert F. Barsky
-date: 2003
-category: contemporary-analysis
+title: "Workers' Councils"
+author: "Anton Pannekoek"
+date: 1948
+category: theory
 tags:
-  - labor
-  - unions
-  - workers
+  - Anton-Pannekoek
+  - workers-councils
+  - council-communism
+  - Noam-Chomsky
+  - self-management
+  - libertarian-communism
 ---
 
 
