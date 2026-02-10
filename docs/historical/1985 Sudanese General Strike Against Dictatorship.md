@@ -1,11 +1,12 @@
 ---
-title: 1985 Sudanese General Strike Against Dictatorship
-author: John Garang
-date: '1985'
-category: labor
+title: "1985 Sudanese General Strike Against Dictatorship"
+author: "libcom.org"
+date: 1985
+category: historical
 tags:
-  - general strikes
-  - strikes
+  - general-strike
+  - Sudan
+  - dictatorship
 ---
 
 In 1985 workers and students protested and struck against worsening living conditions and greater repression, in particular the imposition of Sharia and conflict in the south.

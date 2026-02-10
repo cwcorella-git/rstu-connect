@@ -1,11 +1,12 @@
 ---
-title: On the political economy of women - Conference of Socialist Economists
-author: "libcom.org"
+title: "On the Political Economy of Women"
+author: "Conference of Socialist Economists"
 date: 1976
 category: feminist-theory
 tags:
   - socialism
-  - women
+  - feminism
+  - political-economy
 ---
 
 CSE Pamphlet 2, 1976.

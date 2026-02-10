@@ -1,12 +1,12 @@
 ---
-title: Combative Unionism Clarifications To Our Position Paper Prairie Struggle
-author: Industrial Workers of the World
-date: '2025'
+title: "Combative Unionism: Clarifications To Our Position Paper"
+author: "Prairie Struggle Organization"
+date: 2013
 category: labor
 tags:
-  - labor
   - unions
-  - workers
+  - organizing
+  - anarcho-syndicalism
 ---
 
 Shortly after the release of our position paper on “combative unionism” which sparked much criticism and legitimate questioning, members of Prairie Struggle set about reviewing the critiques and debating the position paper and its legitimacy. Though the process of creating this position paper entailed much debate and thought, the process is a continu- ous one.

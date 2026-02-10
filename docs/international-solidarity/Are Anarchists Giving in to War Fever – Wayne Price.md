@@ -1,11 +1,12 @@
 ---
-title: Are Anarchists Giving in to War Fever? – Wayne Price
-author: "libcom.org"
-date: 1915
+title: "Are Anarchists Giving in to War Fever?"
+author: "Wayne Price"
+date: 2022
 category: international-solidarity
 tags:
   - anarchism
   - anti-war
+  - Ukraine
 ---
 
 Article by Wayne Price responding to British Anarchism Succumbs to War Fever.
