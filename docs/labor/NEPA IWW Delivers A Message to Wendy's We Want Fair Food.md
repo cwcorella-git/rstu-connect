@@ -1,11 +1,15 @@
 ---
-title: 'NEPA IWW Delivers A Message to Wendy''s: We Want Fair Food'
-author: "Alex Lotorto -"
+title: "NEPA IWW Delivers A Message to Wendy's: We Want Fair Food"
+author: "Alex Lotorto"
 date: 2016
 category: labor
 tags:
-  - unions
-  - food
+  - IWW
+  - farmworkers
+  - Coalition-of-Immokalee-Workers
+  - boycott
+  - Wendys
+  - Fair-Food-Program
 ---
 
 ## **Source:** https://ecology.iww.org/node/1670

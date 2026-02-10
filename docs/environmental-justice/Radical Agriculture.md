@@ -1,11 +1,15 @@
 ---
-title: Murray Bookchin Radical Agriculture 1972
+title: "Radical Agriculture"
 author: "Murray Bookchin"
 date: 1972
-category: arts-culture-music
+category: environmental-justice
 tags:
-  - food
+  - agriculture
   - Bookchin
+  - ecology
+  - food-systems
+  - soil
+  - capitalism
 ---
 
 Agriculture is a form of culture. The cultivation of food is a social and cultural phenomenon unique to humanity. Among animals, anything that could remotely be described as food cultivation appear ephemerally, if at all; and even among humans, agriculture developed little more than ten thousand years ago. Yet, in an epoch when food cultivation is reduced to a mere industrial technique, it becomes especially important to dwell on the cultural implications of "modern" agriculture—to indicate their impact not only on public health, but also on humanity's relationship to nature and the relationship of human to human.

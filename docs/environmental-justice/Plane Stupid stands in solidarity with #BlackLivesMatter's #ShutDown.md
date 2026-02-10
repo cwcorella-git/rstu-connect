@@ -1,11 +1,15 @@
 ---
-title: 'Plane Stupid stands in solidarity with #Black Lives Matter''s #Shut Down'
-author: "Paula -"
+title: "Plane Stupid Stands in Solidarity with #BlackLivesMatter's #ShutDown"
+author: "Paula"
 date: 2016
-category: contemporary-analysis
+category: environmental-justice
 tags:
-  - solidarity
-  - racial justice
+  - Black-Lives-Matter
+  - UK
+  - climate-justice
+  - environmental-racism
+  - aviation
+  - Plane-Stupid
 ---
 
 ## **Source:** https://ecology.iww.org/node/1735

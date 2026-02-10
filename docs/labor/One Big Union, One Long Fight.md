@@ -1,12 +1,15 @@
 ---
-title: 'One Big Union, One Long Fight'
-author: "Industrial Workers of the World"
-date: 2011
+title: "One Big Union, One Long Fight"
+author: "Robert Young"
+date: 2017
 category: labor
 tags:
-  - unions
-  - labor
-  - workers
+  - IWW
+  - Wobblies
+  - precariat
+  - book-review
+  - organizing-strategy
+  - stagnation
 ---
 
 Industrial Workers of the World (IWW) By Robert Young - Monthly Review , November 2017 The Wobblies , a film directed by Stewart Bird and Deborah Shaffer (1979; Docurama, 2006), 89 minutes, color, DVD. Fred W. Thompson and Jon Bekken, The Industrial Workers of the World: Its First Hundred Years (Cincinnati: IWW, 2006), 247 pages, \$15, paperback.

@@ -1,10 +1,15 @@
 ---
-title: 'Listen, Marxist!'
+title: "Listen, Marxist!"
+author: "Murray Bookchin"
 date: 1969
-category: contemporary-analysis
+category: theory
 tags:
-  - socialism
-  - theory
+  - Bookchin
+  - anarchism
+  - Marxism
+  - New-Left
+  - SDS
+  - affinity-groups
 ---
 
 #### **Murray Bookchin**
