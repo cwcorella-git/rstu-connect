@@ -1,11 +1,17 @@
 ---
-title: 'Class War #4 1983'
+title: "Class War #4 (1983)"
 author: "Class War Federation"
-date: 1981
-category: international-solidarity
+date: 1983
+category: historical
 tags:
-  - anti-war
-  - class
+  - Class-War-Federation
+  - UK
+  - autonomism
+  - class-struggle
+  - shoplifting
+  - Zurich
+  - zine
+  - 1983
 ---
 
 ## **Tags:** Class War Federation, PDF

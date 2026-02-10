@@ -1,13 +1,16 @@
 ---
 title: "Do We Still Need to Decolonise?"
-author: "Unknown"
+author: "Video transcript"
 date: 2020
 category: theory
 tags:
   - decolonization
   - colonialism
-  - indigenous
-  - empire
+  - indigenous-rights
+  - imperialism
+  - settler-colonialism
+  - capitalism
+  - video-transcript
 ---
 
 0:00 Our world has undeniably been shaped by the process of colonisation, which swept through 0:05

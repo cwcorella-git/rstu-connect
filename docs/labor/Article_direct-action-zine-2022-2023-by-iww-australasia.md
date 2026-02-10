@@ -1,11 +1,16 @@
 ---
-title: Direct Action Zine 2022 2023 By Iww Australasia
-author: Industrial Workers of the World
-date: '2025'
+title: "Direct Action Zine 2022-2023"
+author: "IWW Australasia"
+date: 2023
 category: labor
 tags:
-  - direct action
-  - unions
+  - IWW
+  - Australasia
+  - Direct-Action
+  - zine
+  - labor-organizing
+  - Sydney
+  - anarcho-syndicalism
 ---
 
 Direct Action is the regional zine of IWW Australasia. It began as a project in our Warrang-Sydney General Membership Branch, but is now a region wide publication.

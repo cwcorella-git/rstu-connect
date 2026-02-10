@@ -1,11 +1,17 @@
 ---
 title: "Editorial: The Jevons Paradox Myth"
-author: "Industrial Workers of the World"
+author: "x344543"
 date: 2023
-category: "contemporary-analysis"
+category: environmental-justice
 tags:
-  - analysis
-  - current-events
+  - Jevons-Paradox
+  - degrowth
+  - ecosocialism
+  - renewable-energy
+  - energy-democracy
+  - IWW-Environmental-Unionism-Caucus
+  - green-unionism
+  - climate
 ---
 
 | Source: https://ecology.iww.org/node/5532|

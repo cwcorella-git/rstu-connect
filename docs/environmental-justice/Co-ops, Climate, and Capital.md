@@ -1,12 +1,16 @@
 ---
-title: 'Co-ops, Climate, and Capital'
-author: "RK Upadhya -"
+title: "Co-ops, Climate, and Capital"
+author: "RK Upadhya"
 date: 2022
 category: environmental-justice
 tags:
   - cooperatives
-  - environment
+  - rural-electric-cooperatives
+  - RECs
+  - climate
   - capitalism
+  - energy-democracy
+  - United-States
 ---
 
 ## **Source:** https://ecology.iww.org/node/4938

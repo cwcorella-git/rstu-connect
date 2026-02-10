@@ -1,10 +1,17 @@
 ---
-title: "Paul Goodman"
-date: 2021
-category: "contemporary-analysis"
+title: "The Children and Psychology"
+author: "Paul Goodman"
+date: 1960
+category: theory
 tags:
-  - analysis
-  - current-events
+  - Paul-Goodman
+  - parenting
+  - family
+  - psychology
+  - child-development
+  - alienation
+  - interpersonal-relations
+  - anarchism
 ---
 
 # **The Children and Psychology**
