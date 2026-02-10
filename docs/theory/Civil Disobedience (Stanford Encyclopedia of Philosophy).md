@@ -1,13 +1,15 @@
 ---
 title: "Civil Disobedience"
 author: "Stanford Encyclopedia of Philosophy"
-date: 2007
+date: 2021
 category: theory
 tags:
   - civil-disobedience
   - philosophy
   - political-theory
   - law
+  - Rawls
+  - protest
 ---
 
 

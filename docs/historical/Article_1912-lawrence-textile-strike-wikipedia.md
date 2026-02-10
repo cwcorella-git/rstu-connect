@@ -1,13 +1,17 @@
 ---
-title: 1912 Lawrence Textile Strike Wikipedia
-author: Bill Haywood
-date: '2025'
-category: labor
+title: "1912 Lawrence Textile Strike"
+author: "Wikipedia"
+date: 1912
+category: historical
 tags:
   - strikes
   - labor
-  - unions
-  - workers
+  - IWW
+  - Lawrence
+  - Massachusetts
+  - textile-workers
+  - 1912
+  - Bread-and-Roses
 ---
 
 1912 Lawrence textile strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...

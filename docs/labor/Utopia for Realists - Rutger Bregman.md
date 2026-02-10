@@ -1,11 +1,15 @@
 ---
-title: Utopia for Realists
-author: Bloomsbury Publishing
-date: 2014
-category: contemporary-analysis
+title: "Utopia for Realists: How We Can Build the Ideal World"
+author: "Rutger Bregman"
+date: 2017
+category: labor
 tags:
-  - analysis
-  - current-events
+  - universal-basic-income
+  - 15-hour-workweek
+  - open-borders
+  - poverty
+  - utopia
+  - Rutger-Bregman
 ---
 
 

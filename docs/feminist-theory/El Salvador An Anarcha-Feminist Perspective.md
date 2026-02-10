@@ -1,11 +1,15 @@
 ---
-title: 'El Salvador: An Anarcha-Feminist Perspective'
-author: "libcom.org"
-date: 2009
+title: "El Salvador: An Anarcha-Feminist Perspective"
+author: "Elisa / The Final Straw Radio"
+date: 2020
 category: feminist-theory
 tags:
   - anarchism
-  - feminism
+  - anarcha-feminism
+  - El-Salvador
+  - Nayib-Bukele
+  - FMLN
+  - Latin-America
 ---
 
 An interview with an anarcha-feminist organizer from El Salvador, conducted bythe Final Straw Radio Show. An audio version of this interview can be heard here.
