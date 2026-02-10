@@ -1,9 +1,16 @@
 ---
 title: "Colombia Has Lost Its Fear: A Nationwide Uprising Continues in the Face of State Violence"
-date: 2016
+author: "Medios Libres Cali / CrimethInc."
+date: 2021
 category: contemporary-analysis
 tags:
-  - riots
+  - Colombia
+  - uprising
+  - state-violence
+  - tax-reform
+  - protests
+  - Cali
+  - FARC
 ---
 
 ## **Source:**

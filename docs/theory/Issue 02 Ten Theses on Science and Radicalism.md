@@ -1,14 +1,15 @@
 ---
 title: "Issue 02: Ten Theses on Science and Radicalism"
-author: "libcom.org"
-date: 2015
-category: "contemporary-analysis"
+author: "The Peer Review"
+date: 2025
+category: theory
 tags:
-  - the-peer-review
-  - covid-19
+  - The-Peer-Review
+  - COVID-19
   - science
   - anarchism
-  - pdf
+  - public-health
+  - anti-science
 ---
 
 Issue #2 of The Peer Review, a zine dedicated to the intersection of anarchism, science, and philosophy. This issue addresses the anti-science sentiment that has arisen in the wake of the COVID-19 pandemic.

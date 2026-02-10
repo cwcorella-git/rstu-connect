@@ -1,12 +1,14 @@
 ---
-title: Confronting the Carbon Capitalists
-author: "Seattle IWW -"
+title: "Confronting the Carbon Capitalists"
+author: "Seattle IWW"
 date: 2018
 category: environmental-justice
 tags:
   - capitalism
-  - environment
-  - climate
+  - climate-justice
+  - fossil-fuels
+  - colonialism
+  - Pacific-Northwest
 ---
 
 ## **Source:** https://ecology.iww.org/node/2992

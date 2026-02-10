@@ -1,10 +1,15 @@
 ---
-title: Jailed for anti-war rally announcement. The case of Javid Mamedov
-author: "libcom.org"
+title: "Jailed for Anti-War Rally Announcement: The Case of Javid Mamedov"
+author: "Socialist Alternative (Russia)"
+date: 2022
 category: international-solidarity
 tags:
   - prisons
   - anti-war
+  - Russia
+  - Ukraine
+  - repression
+  - Socialist-Alternative
 ---
 
 "Putin's Russia: the police - tortures, the FSB - poisons, the oligarchs - rule, we are getting poorer". Yesterday big review of Russian anti-invasion actions is waiting for youhere. To donate this media group from Kharkiv for help the civilian population please jointhe crowdfunding campaign.

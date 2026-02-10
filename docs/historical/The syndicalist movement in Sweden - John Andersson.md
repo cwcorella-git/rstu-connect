@@ -1,11 +1,15 @@
 ---
-title: The syndicalist movement in Sweden - John Andersson
-author: "libcom.org"
-date: 1910
-category: contemporary-analysis
+title: "The Syndicalist Movement in Sweden"
+author: "John Andersson"
+date: 1920
+category: historical
 tags:
   - syndicalism
   - Sweden
+  - SAC
+  - labor-history
+  - 1910s
+  - 1920s
 ---
 
 An article by John Andersson detailing the establishment and growth of the Sveriges Arbetares Centralorganisation (SAC), a revolutionary syndicalist union in Sweden. Originally appeared in the One Big Union Monthly(September 1920).

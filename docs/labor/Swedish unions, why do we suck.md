@@ -1,10 +1,15 @@
 ---
-title: 'Swedish unions, why do we suck?'
-author: "libcom.org"
+title: "Swedish Unions, Why Do We Suck?"
+author: "Rasmus Hästbacka"
 date: 2021
-category: contemporary-analysis
+category: labor
 tags:
   - Sweden
+  - unions
+  - union-decline
+  - samförstånd
+  - social-democracy
+  - labor-organizing
 ---
 
 A syndicalist attempt to provide solutions. This article was originally published on the US labor union site Organizing Workon December 14, 2021. Another version was published in the Swedish union paper Arbetaren.
