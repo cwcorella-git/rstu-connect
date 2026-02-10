@@ -2,14 +2,17 @@
 title: "Who Bombed Judi Bari? Feature Documentary"
 author: "Darryl Cherney"
 date: 2017
-category: "labor"
+category: environmental-justice
 tags:
-  - judi-bari
-  - earth-first
+  - Judi-Bari
+  - Earth-First
   - IWW
   - green-unionism
-  - environmental-justice
   - FBI
+  - COINTELPRO
+  - Darryl-Cherney
+  - Redwoods
+  - documentary
 ---
 
 ## **Source:** https://ecology.iww.org/node/2260

@@ -1,11 +1,17 @@
 ---
-title: "Draft Resolution - Stop Line 3"
-author: "Industrial Workers of the World"
+title: "Draft Resolution: Stop Line 3"
+author: "IWW Environmental Unionism Caucus"
 date: 2018
-category: "contemporary-analysis"
+category: environmental-justice
 tags:
-  - analysis
-  - current-events
+  - Line-3
+  - pipelines
+  - IWW
+  - Indigenous
+  - green-unionism
+  - Enbridge
+  - Minnesota
+  - blockadia
 ---
 
 | Date: Fri, 12/21/2018 - 17:36 |

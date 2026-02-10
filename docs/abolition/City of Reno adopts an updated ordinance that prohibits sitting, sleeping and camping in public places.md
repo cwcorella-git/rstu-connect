@@ -1,14 +1,16 @@
 ---
-title: "City of Reno adopts an updated ordinance that prohibits sitting, sleeping and camping in public places"
-author: Unknown
-date: '2025'
+title: "City of Reno Adopts Anti-Homeless Camping Ordinance"
+author: "Nick Doyle (KOLO)"
+date: 2023
 category: abolition
 tags:
-  - abolition
-  - police
-  - prisons
-  - urban
+  - homelessness
+  - Reno
   - Nevada
+  - anti-camping-laws
+  - criminalization
+  - police
+  - housing-crisis
 ---
 
 City of Reno adopts an updated ordinance that prohibits ...   about:reader?url=https%3A%2F%2Fwww.kolotv.com...

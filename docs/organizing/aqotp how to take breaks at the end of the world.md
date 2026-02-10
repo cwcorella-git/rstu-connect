@@ -1,10 +1,15 @@
 ---
-title: "Aqotp: how to take breaks at the end of the world"
+title: "How to Take Breaks at the End of the World"
+author: "Threadings"
 date: 2024
-category: "contemporary-analysis"
+category: organizing
 tags:
-  - analysis
-  - current-events
+  - burnout
+  - self-care
+  - activism
+  - mental-health
+  - sustainability
+  - rest
 ---
 
 | Date: 2024-03-20

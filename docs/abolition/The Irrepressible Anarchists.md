@@ -1,10 +1,17 @@
 ---
-title: The Irrepressible Anarchists
+title: "The Irrepressible Anarchists"
+author: "CrimethInc."
 date: 2006
-category: contemporary-analysis
+category: abolition
 tags:
-  - anarchism
-  - theory
+  - CrimethInc
+  - repression
+  - Green-Scare
+  - FBI
+  - ELF
+  - Operation-Backfire
+  - solidarity
+  - security-culture
 ---
 
 ## **Crimeth Inc.**

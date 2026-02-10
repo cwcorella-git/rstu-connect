@@ -1,10 +1,17 @@
 ---
-title: 'Alive With Resistance: Diasporic Reflections on the Revolt in Myanmar'
-author: "libcom.org"
-date: 1989
-category: contemporary-analysis
+title: "Alive With Resistance: Diasporic Reflections on the Revolt in Myanmar"
+author: "Geoff Aung (interviewed by The Final Straw)"
+date: 2021
+category: international-solidarity
 tags:
-  - riots
+  - Myanmar
+  - Burma
+  - 2021-coup
+  - Geoff-Aung
+  - uprising
+  - military-dictatorship
+  - resistance
+  - Southeast-Asia
 ---
 
 A conversation with Geoff Aung, a Burmese American Marxist anthropology Phd candidate at Columbia University living abroad, about the current uprising, repression and revolutionary potentials in Myanmar. This interview was first broadcast by The Final Straw.

@@ -1,9 +1,17 @@
 ---
-title: 'A Modern Anarchism (Part 2): Anarchy'
-author: "libcom.org"
-category: arts-culture-music
+title: "A Modern Anarchism (Part 2): Anarchy"
+author: "Daniel Baryon (Anark)"
+date: 2021
+category: theory
 tags:
   - anarchism
+  - Daniel-Baryon
+  - Anark
+  - complexity-theory
+  - systems-analysis
+  - chaos-theory
+  - social-ecology
+  - theory-synthesis
 ---
 
 ## **Tags:** Daniel Baryon, anarchism
