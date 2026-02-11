@@ -1,11 +1,17 @@
 ---
-title: School for Syndicalism - Tom Brown
-author: "libcom.org"
-date: 2018
-category: youth-student-organizing
+title: "School for Syndicalism"
+author: "Tom Brown"
+date: 1970
+category: labor
 tags:
   - syndicalism
-  - education
+  - WWI
+  - shop-stewards
+  - Tyneside
+  - apprentice
+  - revolutionary-industrial-unionism
+  - 1910s
+  - UK
 ---
 
 1910s

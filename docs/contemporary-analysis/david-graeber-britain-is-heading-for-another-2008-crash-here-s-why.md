@@ -1,7 +1,7 @@
 ---
-title: 'Britain is heading for another 2008 crash: here’s why'
-author: David Graeber
-date: 28 October 2015
+title: "Britain is heading for another 2008 crash: here's why"
+author: "David Graeber"
+date: 2015
 category: contemporary-analysis
 tags:
   - Graeber

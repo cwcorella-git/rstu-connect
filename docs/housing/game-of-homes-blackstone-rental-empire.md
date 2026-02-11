@@ -1,8 +1,8 @@
 ---
 title: "Game of Homes: How Blackstone Became America's Biggest Slumlord"
 author: "Rebecca Burns, Michael Donley, Carmilla Manzanet"
-date: 2014-03-31
-category: contemporary-analysis
+date: 2014
+category: housing
 tags:
   - blackstone
   - institutional-investors
