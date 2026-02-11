@@ -1,14 +1,17 @@
 ---
-title: London IWW Statement of Solidarity with UK Rail Workers
-author: "Industrial Workers of the World"
+title: "London IWW Statement of Solidarity with UK Rail Workers"
+author: "London IWW Branch"
 date: 2022
-category: technology-digital-justice
+category: labor
 tags:
-  - unions
+  - IWW
+  - rail-workers
+  - UK
+  - strikes
   - solidarity
-  - labor
-  - railroads
-  - United Kingdom
+  - RMT
+  - transport
+  - labor-movement
 ---
 
 ## **Source:** https://ecology.iww.org/node/5140

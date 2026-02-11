@@ -1,7 +1,7 @@
 ---
 title: "Solidarity Collectives: Call for Action Week - February 24 - March 3"
 author: "Solidarity Collectives"
-date: 2025
+date: 2024
 category: international-solidarity
 tags:
   - Ukraine
@@ -13,6 +13,7 @@ tags:
   - refugees
   - far-right
   - week-of-action
+  - Russian-invasion
 ---
 
 ## **Tags:** Ukraine, anarchism, anti-fascism

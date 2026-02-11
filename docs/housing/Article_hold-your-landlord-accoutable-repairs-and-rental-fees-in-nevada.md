@@ -1,11 +1,17 @@
 ---
-title: Hold Your Landlord Accoutable Repairs and Rental Fees in Nevada
-author: Housing Advocacy Organization
-date: '2025'
+title: "Hold Your Landlord Accountable: Repairs and Rental Fees in Nevada"
+author: "Nevada Housing Justice Alliance"
+date: 2024
 category: housing
 tags:
-  - housing
   - Nevada
+  - tenant-rights
+  - NHJA
+  - repairs
+  - rental-fees
+  - AB-121
+  - habitability
+  - Nevada-Legislature
 ---
 
 TENANTS

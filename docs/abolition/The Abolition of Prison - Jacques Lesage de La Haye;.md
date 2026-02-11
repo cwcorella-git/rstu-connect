@@ -1,12 +1,15 @@
 ---
-title: The Abolition Of Prison Jacques Lesage De
-author: Jacques Lesage de La Haye
-date: '2019'
+title: "The Abolition of Prison"
+author: "Jacques Lesage de La Haye"
+date: 2019
 category: abolition
 tags:
-  - prisons
-  - abolition
-  - Los Angeles
+  - prison-abolition
+  - carceral-system
+  - Angela-Davis
+  - Mexico
+  - Guerrero
+  - community-justice
 ---
 
 # Jacques Lesage de La Haye translated by Scott Branson
