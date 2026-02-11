@@ -1,15 +1,15 @@
 ---
 title: "Intersectional Identity and the Path to Progress"
-author: "libcom.org"
-date: 2009
-category: "contemporary-analysis"
+author: "Eleanor Robertson"
+date: 2016
+category: "feminist-theory"
 tags:
-  - australia
-  - feminism
-  - moishe-postone
   - intersectionality
-  - eleanor-robertson
-  - meanjin
+  - feminism
+  - identity-politics
+  - Kimberlé-Crenshaw
+  - Eleanor-Robertson
+  - Meanjin
 ---
 
 Eleanor Robertson looks at the debate over intersectionality and identity politics, and what these concepts can offer for a renewed version of class politics. This article originally appeared in Meanjin.

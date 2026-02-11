@@ -1,13 +1,14 @@
 ---
 title: "Fascist Entryism: Ad Busters and the Problem of Hazy Politics"
-author: "Antifascist Front -"
+author: "Antifascist Front"
 date: 2016
 category: "contemporary-analysis"
 tags:
   - anti-fascism
   - ecofascism
-  - green-anarchism
-  - john-zerzan
+  - AdBusters
+  - infiltration
+  - far-right
 ---
 
 ## **Source:** https://ecology.iww.org/node/1553

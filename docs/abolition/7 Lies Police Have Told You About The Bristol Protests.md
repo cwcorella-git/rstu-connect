@@ -1,11 +1,15 @@
 ---
 title: 7 Lies Police Have Told You About The Bristol Protests
-author: Anarchist Federation
-date: '2021'
+author: "Anarchist Federation"
+date: 2021
 category: abolition
 tags:
-  - protests
   - police
+  - protests
+  - Bristol
+  - UK
+  - Kill-the-Bill
+  - police-lies
 ---
 
 The police have been desperate to build a narrative of valiant officers defending Bristol from dangerous thugs, but the truth is very different, and they have started to trip over their own lies.

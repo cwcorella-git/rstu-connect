@@ -1,7 +1,7 @@
 ---
 title: "Satyagraha"
 author: "Wikipedia"
-date: 2020
+date: 2024
 category: theory
 tags:
   - Gandhi

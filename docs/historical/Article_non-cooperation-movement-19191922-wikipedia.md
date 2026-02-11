@@ -1,11 +1,15 @@
 ---
-title: Non Cooperation Movement 19191922 Wikipedia
-author: Wikipedia
-date: '2025'
-category: organizing
+title: "Non-Cooperation Movement (1919-1922)"
+author: "Wikipedia"
+date: 2024
+category: historical
 tags:
-  - civil disobedience
-  - organizing
+  - civil-disobedience
+  - Gandhi
+  - India
+  - 1919-1922
+  - Indian-independence
+  - satyagraha
 ---
 
          Non-cooperation movement (1919–1922)
