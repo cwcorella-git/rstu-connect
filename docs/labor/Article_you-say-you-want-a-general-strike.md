@@ -1,11 +1,15 @@
 ---
-title: You Say You Want a General Strike
-author: Global Nonviolent Action Database
-date: '2025'
+title: "You Say You Want a General Strike"
+author: "Marianne Garneau"
+date: 2019
 category: labor
 tags:
-  - general strikes
-  - strikes
+  - general-strike
+  - organizing-strategy
+  - Europe
+  - labor-unions
+  - austerity
+  - critique
 ---
 
 Marianne Garneau critiques recent calls for general strikes.This article first appeared on Organizing Work.

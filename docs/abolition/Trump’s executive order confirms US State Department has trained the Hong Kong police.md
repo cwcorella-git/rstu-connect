@@ -1,7 +1,7 @@
 ---
 title: "Trump's executive order confirms US State Department has trained the Hong Kong police"
-author: "libcom.org"
-date: 2017
+author: "Lausan"
+date: 2020
 category: abolition
 tags:
   - police

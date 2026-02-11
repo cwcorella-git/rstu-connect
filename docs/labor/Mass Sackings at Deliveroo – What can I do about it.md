@@ -1,12 +1,16 @@
 ---
-title: Mass Sackings at Deliveroo – What can I do about it?
-author: "Industrial Workers of the World"
-category: contemporary-analysis
+title: "Mass Sackings at Deliveroo – What can I do about it?"
+author: "IWW Couriers Network"
+date: 2018
+category: labor
 tags:
-  - gig economy
-  - labor
-  - unions
-  - workers
+  - Deliveroo
+  - gig-economy
+  - IWW
+  - couriers
+  - mass-terminations
+  - collective-action
+  - UK
 ---
 
 An update from the IWW Couriers' Network about the mass sackings at Deliveroo.
