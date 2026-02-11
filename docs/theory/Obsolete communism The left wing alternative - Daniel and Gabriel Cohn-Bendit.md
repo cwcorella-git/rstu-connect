@@ -1,10 +1,18 @@
 ---
-title: 'Obsolete communism: The left wing alternative - Daniel and Gabriel Cohn-Bendit'
-date: 1984
+title: "Obsolete Communism: The Left-Wing Alternative"
+author: "Daniel Cohn-Bendit and Gabriel Cohn-Bendit"
+date: 1968
 category: theory
 tags:
-  - indigenous
-  - solidarity
+  - May-1968
+  - Paris
+  - student-revolt
+  - Daniel-Cohn-Bendit
+  - Gabriel-Cohn-Bendit
+  - France
+  - general-strike
+  - Leninism
+  - anti-authoritarianism
 ---
 
 ## **Source:**
