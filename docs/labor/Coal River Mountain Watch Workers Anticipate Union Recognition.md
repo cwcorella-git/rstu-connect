@@ -1,11 +1,17 @@
 ---
-title: Coal River Mountain Watch Workers Anticipate Union Recognition
-author: "Industrial Workers of the World"
+title: "Coal River Mountain Watch Workers Anticipate Union Recognition"
+author: "Christian Prince"
 date: 2021
-category: environmental-justice
+category: labor
 tags:
   - unions
   - labor
+  - IWW
+  - Coal-River-Mountain-Watch
+  - West-Virginia
+  - green-unionism
+  - environmental-nonprofits
+  - organizing
 ---
 
 Coal River Mountain Watch, Industrial Workers of the World (IWW), NGOs, green unionism, ecological movements and organizations, movements, unions, and organizations, class struggle By Christian Prince - Industrial Worker , August 18, 2021 In late July, workers at Coal River Mountain Watch in Naoma, West Virginia, requested voluntary union recognition from the environmental nonprofit organization's board of directors. They anticipate full recognition of the Coal River Mountain Watch Union, organized with the Industrial Workers of the World , by month's end. The campaign to unionize CRMW is being led by Junior Walker, a longtime employee. CRMW workers had considered forming a union previously, but only committed after witnessing the campaign at another West Virginia-based environmental nonprofit,

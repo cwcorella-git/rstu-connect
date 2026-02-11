@@ -1,10 +1,15 @@
 ---
-title: Juan Carlos Pérez Cortés Relationship Anarchy Occupy Intimacy!
-date: 2005
+title: "Relationship Anarchy: Occupy Intimacy!"
+author: "Juan Carlos Pérez Cortés"
+date: 2022
 category: theory
 tags:
-  - occupations
+  - relationship-anarchy
   - anarchism
+  - intimacy
+  - non-monogamy
+  - Andie-Nordgren
+  - Juan-Carlos-Pérez-Cortés
 ---
 
 # **December 2022**

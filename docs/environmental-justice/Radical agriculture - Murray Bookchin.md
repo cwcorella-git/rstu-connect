@@ -1,11 +1,16 @@
 ---
-title: Radical Agriculture Murray Bookchin
-author: Murray Bookchin
-date: '1972'
-category: theory
+title: "Radical Agriculture"
+author: "Murray Bookchin"
+date: 1972
+category: environmental-justice
 tags:
   - food
   - Bookchin
+  - agriculture
+  - ecology
+  - social-ecology
+  - food-cultivation
+  - capitalism
 ---
 
 An essay in which Murray Bookchin outlines his ideal system of food cultivation and criticizes the existing, capitalistic system. Appeared in Radical Agriculture(1972), ed. Richard Merrill.

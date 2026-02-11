@@ -1,11 +1,17 @@
 ---
-title: "Civilian-Based Resistance in the Baltic States"
+title: "Civilian-Based Resistance in the Baltic States: Historical Precedents and Current Capabilities"
+author: "Anika Binnendijk and Marta Kepe"
 date: 2021
-category: "contemporary-analysis"
+category: international-solidarity
 tags:
-  - analysis
-  - current-events
   - resistance
+  - Baltic-States
+  - Lithuania
+  - Latvia
+  - Estonia
+  - RAND
+  - nonviolent-resistance
+  - civil-resistance
 ---
 
 

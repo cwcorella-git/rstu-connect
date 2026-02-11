@@ -1,11 +1,16 @@
 ---
-title: 'Class War #15 1985'
-author: "libcom.org"
+title: "Class War #15"
+author: "Class War Federation"
 date: 1985
-category: international-solidarity
+category: historical
 tags:
-  - anti-war
-  - class
+  - Class-War-Federation
+  - 1980s
+  - UK
+  - gentrification
+  - Bash-The-Rich
+  - social-security
+  - East-End-London
 ---
 
 | Tags: Class War Federation, PDF, 1980s |
