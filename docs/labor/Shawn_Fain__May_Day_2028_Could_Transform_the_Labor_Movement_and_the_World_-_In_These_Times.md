@@ -1,12 +1,17 @@
 ---
-title: "Shawn Fain May Day 2028 Could Transform the Labor Movement—and the World - In These Times"
-author: May Day
-date: '1886'
+title: "May Day 2028 Could Transform the Labor Movement—and the World"
+author: "Shawn Fain"
+date: 2024
 category: labor
 tags:
-  - labor
-  - unions
-  - workers
+  - UAW
+  - May-Day
+  - Stand-Up-Strike
+  - Shawn-Fain
+  - 2028
+  - contract-expiration
+  - general-strike
+  - Big-Three-automakers
 ---
 
 # Shawn Fain_ May Day 2028 Could Transform the Labor Movement—and the World - In These Times.pdf

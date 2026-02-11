@@ -1,12 +1,18 @@
 ---
-title: "Education workers announce wildcat action after Ontario suspends human rights to crush their un"
+title: "Education workers announce wildcat action after Ontario suspends human rights to crush their union"
 author: "Jeff Shantz"
-date: 2007
+date: 2022
 category: labor
 tags:
   - unions
-  - labor
   - education
+  - Ontario
+  - Canada
+  - CUPE
+  - notwithstanding-clause
+  - wildcat-strike
+  - Bill-28
+  - education-workers
 ---
 
 The Conservative government in Canada's largest province, Ontario, took the extraordinary step of introducing legislation suspending fundamental human rights on October 31, in an effort to preemptively stop an education workers' strike.
