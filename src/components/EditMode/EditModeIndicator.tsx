@@ -138,6 +138,11 @@ export function EditModeIndicator() {
     )
   }
 
+  // Only show edit mode indicator on landing page
+  if (activeTab !== 'landing') {
+    return null
+  }
+
   // Normal edit mode indicator
   return (
     <div className="sticky top-[57px] z-30 bg-blue-600 text-white text-sm px-4 py-2 shadow-lg">
