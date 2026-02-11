@@ -1,12 +1,13 @@
 ---
-title: The Public Duty Doctrine and Its Implications For Police Officers Savage Train
-author: Unknown
-date: '2025'
+title: "The Public Duty Doctrine and Its Implications for Police Officers"
+author: "Scott Savage"
+date: 2024
 category: abolition
 tags:
   - police
-  - abolition
-  - prisons
+  - police-accountability
+  - legal-doctrine
+  - public-duty-doctrine
 ---
 
 The Public Duty Doctrine and Its Implications for Police ... about:reader?url=https%3A%2F%2Fsavagetraininggro...
