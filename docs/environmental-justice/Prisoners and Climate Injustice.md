@@ -1,11 +1,16 @@
 ---
-title: Prisoners and Climate Injustice
-author: "Natalia Cardona -"
+title: "Prisoners and Climate Injustice"
+author: "Natalia Cardona"
 date: 2017
 category: environmental-justice
 tags:
   - prisons
-  - environment
+  - environmental-justice
+  - climate-change
+  - 350-org
+  - prison-abolition
+  - heat-waves
+  - environmental-racism
 ---
 
 ## **Source:** https://ecology.iww.org/node/2379

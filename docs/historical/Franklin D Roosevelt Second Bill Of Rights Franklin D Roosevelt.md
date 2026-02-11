@@ -1,6 +1,6 @@
 ---
 title: "FDR's Second Bill of Rights"
-author: "Patricia Truslow"
+author: "Franklin D. Roosevelt"
 date: 1944
 category: historical
 tags:
@@ -10,6 +10,9 @@ tags:
   - New-Deal
   - 1944
   - State-of-the-Union
+  - right-to-employment
+  - right-to-housing
+  - social-security
 ---
 
 #### [aboutfranklindroosevelt.com](https://www.aboutfranklindroosevelt.com/the-2nd-bill-of-rights/486/)

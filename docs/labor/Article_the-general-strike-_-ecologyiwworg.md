@@ -1,12 +1,15 @@
 ---
-title: The General Strike Ecologyiwworg
-author: Industrial Workers of the World
-date: '2025'
+title: "The General Strike"
+author: "That Green Union Guy"
+date: 2021
 category: labor
 tags:
-  - general strikes
+  - general-strikes
   - strikes
-  - environment
+  - IWW
+  - IWW-Environmental-Unionism-Caucus
+  - labor-strategy
+  - Trump
 ---
 
 The General Strike | ecology.iww.org about:reader?url=https%3A%2F%2Fecology.iww.org%...
