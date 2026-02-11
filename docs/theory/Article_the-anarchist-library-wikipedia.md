@@ -1,11 +1,15 @@
 ---
-title: The Anarchist Library Wikipedia
-author: Wikipedia
-date: '2025'
+title: "The Anarchist Library"
+author: "Wikipedia"
+date: 2024
 category: theory
 tags:
+  - Anarchist-Library
   - anarchism
-  - theory
+  - digital-library
+  - archive
+  - Aragorn
+  - free-access
 ---
 
 The Anarchist Library - Wikipedia https://en.wikipedia.org/wiki/The_Anarchist_Library

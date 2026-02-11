@@ -1,11 +1,16 @@
 ---
-title: "Peter Lamborn Wilson Islam and the Internet Net-religion, a War in Heaven October 6, 1995"
+title: "Islam and the Internet: Net-Religion, a War in Heaven"
+author: "Peter Lamborn Wilson (Hakim Bey)"
 date: 1995
-category: international-solidarity
+category: technology-digital-justice
 tags:
-  - anti-war
+  - Peter-Lamborn-Wilson
+  - Hakim-Bey
+  - internet
+  - religion
   - technology
-  - digital rights
+  - consciousness
+  - media-ecology
 ---
 
 I don't even own a computer. Is there anybody else in here who doesn't own a computer? It's interesting to watch the net and to approach media ecology, and the internet, specifically from the point of view of what I do.

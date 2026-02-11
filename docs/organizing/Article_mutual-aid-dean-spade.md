@@ -1,11 +1,15 @@
 ---
-title: Mutual Aid Dean Spade
-author: Unknown
-date: '2025'
+title: "Mutual Aid: Building Solidarity During This Crisis (and the Next)"
+author: "Dean Spade"
+date: 2020
 category: organizing
 tags:
-  - mutual aid
+  - mutual-aid
+  - solidarity
   - organizing
+  - Dean-Spade
+  - community-care
+  - consensus-decision-making
 ---
 
              Dean Spade

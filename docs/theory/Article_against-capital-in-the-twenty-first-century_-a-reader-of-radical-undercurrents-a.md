@@ -1,12 +1,16 @@
 ---
-title: "Against Capital in the Twenty First Century a Reader of Radical Undercurrents a"
-author: 'John Asimakopoulos (editor), Richard Gilman-Opalsky (Editor)'
-date: '2025'
-category: housing
+title: "Against Capital in the Twenty-First Century: A Reader of Radical Undercurrents"
+author: "John Asimakopoulos, Richard Gilman-Opalsky (editors)"
+date: 2018
+category: theory
 tags:
   - capitalism
-  - housing
-  - tenants
+  - Marxism
+  - anarchism
+  - feminism
+  - radical-thought
+  - anthology
+  - Temple-University-Press
 ---
 
 ## Praise for

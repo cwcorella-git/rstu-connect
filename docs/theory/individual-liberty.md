@@ -1,12 +1,15 @@
 ---
-title: Individual Liberty
-author: Economic Rent
-date: '1893'
+title: "Individual Liberty"
+author: "Benjamin Tucker"
+date: 1926
 category: theory
 tags:
-  - theory
-  - political-theory
+  - Benjamin-Tucker
+  - individualist-anarchism
   - liberty
+  - anarchism
+  - state-socialism
+  - political-theory
 ---
 
 Benjamin Tucker

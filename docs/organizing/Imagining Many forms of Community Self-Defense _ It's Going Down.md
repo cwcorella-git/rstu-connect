@@ -1,8 +1,15 @@
 ---
-title: Imagining Many forms of Community Self-Defense
-category: contemporary-analysis
+title: "Imagining Many Forms of Community Self-Defense"
+author: "Anonymous / It's Going Down"
+date: 2018
+category: organizing
 tags:
-  - community
+  - community-defense
+  - abolition
+  - Parkland
+  - anti-violence
+  - prison-abolition
+  - Its-Going-Down
 ---
 
 ## [itsgoingdown.org](https://itsgoingdown.org/imagining-many-forms-community-self-defense/)
