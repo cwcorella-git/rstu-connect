@@ -1,13 +1,18 @@
 ---
-title: The Chicago Teachers Union Strike Beyond Mythology Earl Silbar
-author: "libcom.org"
-date: '2025'
+title: "The Chicago Teachers Union Strike: Beyond Mythology"
+author: "Earl Silbar"
+date: 2014
 category: labor
 tags:
   - strikes
   - unions
   - education
   - Chicago
+  - CTU
+  - Rahm-Emanuel
+  - CORE
+  - teachers
+  - 2012-strike
 ---
 
 A critique by Earl Silbar of the Chicago Teachers Union in the context of their 2012 strike. Originally appeared in theIndustrial Worker(June 2014).

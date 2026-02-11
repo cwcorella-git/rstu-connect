@@ -1,11 +1,15 @@
 ---
-title: Anarchism As Extreme Democracy the Anarchist Library
-author: Wayne Price
-date: '2025'
+title: "Anarchism as Extreme Democracy"
+author: "Wayne Price"
+date: 2013
 category: theory
 tags:
   - anarchism
   - democracy
+  - radical-democracy
+  - Laclau-Mouffe
+  - direct-democracy
+  - socialism
 ---
 
 Anarchism as Extreme Democracy | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...

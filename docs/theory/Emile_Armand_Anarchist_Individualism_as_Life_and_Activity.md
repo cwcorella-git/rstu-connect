@@ -1,11 +1,15 @@
 ---
-title: Anarchist Individualism as a Life and Activity
-author: "Emile Armand"
+title: "Anarchist Individualism as a Life and Activity"
+author: "Émile Armand"
 date: 1907
-category: contemporary-analysis
+category: theory
 tags:
   - anarchism
-  - theory
+  - individualist-anarchism
+  - Émile-Armand
+  - mutualism
+  - reciprocity
+  - anarchist-philosophy
 ---
 
 ## Émile Armand
