@@ -1,13 +1,17 @@
 ---
 title: "On an Island Watch House Bed, A Black Man's Lying Dead"
-author: "libcom.org"
+author: "Internationalist Communist Tendency"
 date: 2020
-category: "contemporary-analysis"
+category: "abolition"
 tags:
-  - internationalist-communist-tendency
-  - australia
-  - indigenous
-  - internationalist-communists
+  - Internationalist-Communist-Tendency
+  - Australia
+  - Indigenous
+  - police-violence
+  - deaths-in-custody
+  - Palm-Island
+  - Kumanjayi-Walker
+  - David-Dungay
 ---
 
 ## Oceania, racism, police

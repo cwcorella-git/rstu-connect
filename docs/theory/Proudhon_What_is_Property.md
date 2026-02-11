@@ -1,10 +1,15 @@
 ---
-title: What is Property?
-author:
-category: contemporary-analysis
+title: "What is Property? An Inquiry into the Principle of Right and of Government"
+author: "Pierre-Joseph Proudhon"
+date: 1840
+category: theory
 tags:
-  - property
   - Proudhon
+  - property
+  - anarchism
+  - political-economy
+  - mutualism
+  - theft
 ---
 
 **An Inquiry into the Principle of Right and of Government**

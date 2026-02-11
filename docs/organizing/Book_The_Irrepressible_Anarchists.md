@@ -2,13 +2,16 @@
 title: "The Irrepressible Anarchists: Federal Infiltration and Repression"
 author: "CrimethInc."
 date: 2006
-category: theory
+category: organizing
 tags:
   - anarchism
   - repression
   - FBI
   - security-culture
   - CrimethInc
+  - COINTELPRO
+  - infiltration
+  - movement-security
 ---
 
             CrimethInc.

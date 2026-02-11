@@ -1,14 +1,17 @@
 ---
-title: "Hijos de Campesinos: Teachers' Struggles in Chiapas - Monty Neill and Peter Linebaugh"
-author: "Monty Neill and Peter Linebaugh"
-date: 1986
-category: youth-student-organizing
+title: "Hijos de Campesinos: Teachers' Struggles in Chiapas"
+author: "Monty Neill, Peter Linebaugh, Susan Street"
+date: 1987
+category: labor
 tags:
-  - education
-  - students
-  - youth
-  - mexico
   - teachers
+  - Chiapas
+  - Mexico
+  - education
+  - strikes
+  - campesinos
+  - Midnight-Notes
+  - indigenous
 ---
 
 Monty Neill and Peter Linebaugh of Midnight Notes interviewed Susan Street about the struggles of teachers, campesinos, ejidatarios and urban dwellers (colonos) in the Mexican state of Chiapas. Susan, who has been living in Mexico since 1977, has become active in supporting these struggles. Guillermo Orozco, a Mexican national and resident of Mexico City, but not active in Chiapas, also participated. The first interview took place in Boston on October 27, 1986. A second interview, also in Boston, was done exactly one year later, October 27, 1987, and further discussions occurred in ensuing months. "Hijos de Campesinos" means 'children of the campesinos.'
