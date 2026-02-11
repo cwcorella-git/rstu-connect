@@ -1,14 +1,16 @@
 ---
-title: "The Proletarian Public - The Practice of Proletarian Self-Emancipation [1996] Peter Critchley"
+title: "The Proletarian Public - The Practice of Proletarian Self-Emancipation"
+author: "Peter Critchley"
 date: 1996
-category: "contemporary-analysis"
+category: theory
 tags:
   - class
   - anarchism
   - syndicalism
   - libertarian-socialism
-  - peter-critchley
-  - pdf
+  - Peter-Critchley
+  - proletarian-self-emancipation
+  - socialism-from-below
 ---
 
 ## **Source:**

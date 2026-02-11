@@ -1,10 +1,15 @@
 ---
-title: "Pv-magazine.com"
+title: "Energy Vault Signs Gravity Storage Deal Covering Southern Africa"
+author: "Patrick Jowett (pv magazine)"
 date: 2024
 category: environmental-justice
 tags:
-  - environment
-  - climate
+  - energy-storage
+  - gravity-storage
+  - southern-Africa
+  - renewable-energy
+  - Energy-Vault
+  - GESS
 ---
 
 ## Energy Vault signs gravity storage deal covering southern Africa

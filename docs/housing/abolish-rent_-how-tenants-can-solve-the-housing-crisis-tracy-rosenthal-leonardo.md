@@ -1,13 +1,16 @@
 ---
-title: Abolish Rent How Tenants Can Solve the Housing Crisis
-author: Praise for ABOLISH RENT
-date: '2025'
+title: "Abolish Rent: How Tenants Can Solve the Housing Crisis"
+author: "Tracy Rosenthal, Leonardo Vilchis"
+date: 2024
 category: housing
 tags:
   - housing
   - tenants-rights
-  - tenants
-  - abolition
+  - rent-abolition
+  - LA-Tenants-Union
+  - tenant-organizing
+  - housing-crisis
+  - radical-housing
 ---
 
 Praise for ABOLISH RENT

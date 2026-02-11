@@ -1,11 +1,16 @@
 ---
-title: Anarchist Black Cross News Black Flag
-author: Albert Meltzer
-date: '2025'
-category: theory
+title: "Anarchist Black Cross News - Black Flag"
+author: "Black Flag"
+date: 1998
+category: abolition
 tags:
   - anarchism
-  - theory
+  - Anarchist-Black-Cross
+  - prisoner-support
+  - political-prisoners
+  - Sekou-Kambui
+  - death-penalty
+  - Black-Flag
 ---
 
 Prisoner news and support from Black Flag #213 1998.
