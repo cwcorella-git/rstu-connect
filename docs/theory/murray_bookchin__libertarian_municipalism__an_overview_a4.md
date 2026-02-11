@@ -1,15 +1,15 @@
 ---
-title: Murray Bookchin Libertarian Municipalism An Overview a4
-author: Murray Bookchin
-date: '2025'
-category: organizing
+title: "Libertarian Municipalism: An Overview"
+author: "Murray Bookchin"
+date: 1991
+category: theory
 tags:
-  - organizing
-  - direct-action
-  - murray-bookchin
-  - municipalism
-  - urban
+  - libertarian-municipalism
   - Bookchin
+  - municipalism
+  - confederalism
+  - anarchism
+  - local-politics
 ---
 
 Libertarian Municipalism: An Overview

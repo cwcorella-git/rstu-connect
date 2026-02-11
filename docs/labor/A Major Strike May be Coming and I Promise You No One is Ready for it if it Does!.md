@@ -1,13 +1,14 @@
 ---
 title: "A Major Strike May be Coming and I Promise You No One is Ready for it if it Does!"
-author: "Xaxnar -"
+author: "Xaxnar"
 date: 2022
 category: labor
 tags:
   - strikes
+  - railroads
   - labor
   - unions
-  - workers
+  - 2022
 ---
 
 ## **Source:** https://ecology.iww.org/node/5039

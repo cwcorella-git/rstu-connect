@@ -1,10 +1,14 @@
 ---
 title: "The role of the artist is to load the gun."
+author: "ismatu"
 date: 2024
 category: "arts-culture-music"
 tags:
-  - arts
-  - culture
+  - art
+  - Toni-Cade-Bambara
+  - artist-role
+  - freedom
+  - essay
 ---
 
 | Source: https://www.threadings.io/the-role-of-the-artist-is-to-load/|

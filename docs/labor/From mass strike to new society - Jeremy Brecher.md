@@ -1,13 +1,16 @@
 ---
-title: From mass strike to new society - Jeremy Brecher
-author: "libcom.org"
-date: 1919
-category: contemporary-analysis
+title: "From mass strike to new society"
+author: "Jeremy Brecher"
+date: 1972
+category: labor
 tags:
   - strikes
-  - labor
-  - unions
-  - workers
+  - mass-strikes
+  - Jeremy-Brecher
+  - general-strikes
+  - workers-control
+  - Seattle-General-Strike
+  - Russian-Revolution
 ---
 
 ## war, Biennio Rosso, Russian Revolution 1917

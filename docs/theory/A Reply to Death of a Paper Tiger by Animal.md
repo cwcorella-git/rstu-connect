@@ -1,12 +1,14 @@
 ---
-title: "A Reply to Death of a Paper Tiger by Animal"
-author:
+title: "A Reply to Death of a Paper Tiger"
+author: "Animal (Class War)"
 date: 1997
-category: "contemporary-analysis"
+category: "theory"
 tags:
-  - analysis
-  - current-events
-  - libcom
+  - Class-War
+  - Aufheben
+  - UK
+  - anarchism
+  - debate
 ---
 
 A reply from a Class War member to "Intakes: Death of a Paper Tiger... Reflections on Class War" in Aufheben #6.
