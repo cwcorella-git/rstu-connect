@@ -1,9 +1,16 @@
 ---
-title: 'Fascism: Definition, Meaning, Characteristics, Examples, & History'
-date: 1933
-category: contemporary-analysis
+title: "Fascism: Definition, Meaning, Characteristics, Examples, & History"
+author: "Robert Soucy / Britannica"
+date: 2020
+category: theory
 tags:
   - fascism
+  - Mussolini
+  - Hitler
+  - Nazism
+  - political-theory
+  - authoritarianism
+  - nationalism
 ---
 
 ## [britannica.com](https://www.britannica.com/topic/fascism)

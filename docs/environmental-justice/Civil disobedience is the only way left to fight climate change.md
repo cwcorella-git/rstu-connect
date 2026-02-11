@@ -1,11 +1,16 @@
 ---
-title: Civil disobedience is the only way left to fight climate change
-author: "Industrial Workers of the World"
+title: "Civil Disobedience is the Only Way Left to Fight Climate Change"
+author: "Kara Moses"
 date: 2018
 category: environmental-justice
 tags:
-  - civil disobedience
-  - environment
+  - civil-disobedience
+  - climate-justice
+  - direct-action
+  - coal
+  - blockadia
+  - fossil-fuels
+  - Red-Pepper
 ---
 
 | Date: Tue, 01/16/2018 - 18:44 |

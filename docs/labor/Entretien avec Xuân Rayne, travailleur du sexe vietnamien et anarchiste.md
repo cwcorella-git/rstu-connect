@@ -1,12 +1,16 @@
 ---
-title: 'Entretien avec Xuân Rayne, travailleur du sexe vietnamien et anarchiste'
+title: "Entretien avec Xuân Rayne, travailleur du sexe vietnamien et anarchiste"
+author: "Mèo Mun / Al Raven (translator)"
 date: 2018
 category: labor
 tags:
+  - sex-work
+  - labor-rights
+  - Vietnam
   - anarchism
-  - labor
-  - unions
-  - workers
+  - queer
+  - non-binary
+  - French-translation
 ---
 
 ## **Source:**

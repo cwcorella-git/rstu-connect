@@ -1,10 +1,15 @@
 ---
-title: Self-restraint Self-indulgence
+title: "Self-Restraint vs. Self-Indulgence"
+author: "M. K. Gandhi"
 date: 1928
 category: theory
 tags:
-  - technology
-  - digital rights
+  - Gandhi
+  - nonviolence
+  - self-restraint
+  - philosophy
+  - Indian-independence
+  - Navajivan
 ---
 
 ## M. K. GANDHI

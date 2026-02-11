@@ -1,10 +1,17 @@
 ---
 title: "Homes Guarantee Agenda 2025"
-date: 2025
-category: "contemporary-analysis"
+author: "People's Action Institute"
+date: 2024
+category: housing
 tags:
-  - analysis
-  - current-events
+  - housing
+  - tenant-rights
+  - homelessness
+  - affordable-housing
+  - policy
+  - Homes-Guarantee
+  - rent-control
+  - corporate-landlords
 ---
 
 twilkins
