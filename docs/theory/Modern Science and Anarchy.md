@@ -1,10 +1,16 @@
 ---
-title: Pëtr Kropotkin
-date: 1872
-category: contemporary-analysis
+title: "Modern Science and Anarchy"
+author: "Pëtr Kropotkin"
+date: 1913
+category: theory
 tags:
+  - Pëtr-Kropotkin
   - anarchism
-  - Kropotkin
+  - science
+  - evolution
+  - mutual-aid
+  - state-criticism
+  - social-darwinism
 ---
 
 # **Modern Science and Anarchy**

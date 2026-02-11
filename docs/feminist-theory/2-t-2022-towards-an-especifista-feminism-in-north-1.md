@@ -1,9 +1,18 @@
 ---
-title: Towards an Especifista Feminism in North America
+title: "Towards an Especifista Feminism in North America"
+author: "Anonymous Especifist Collective"
 date: 2022
-category: theory
+category: feminist-theory
 tags:
   - feminism
+  - especifismo
+  - anarchism
+  - North-America
+  - non-mixed-spaces
+  - FAR
+  - Federación-Anarquista-de-Rosario
+  - popular-power
+  - organizing
 ---
 
 #### **INTRODUCTION**

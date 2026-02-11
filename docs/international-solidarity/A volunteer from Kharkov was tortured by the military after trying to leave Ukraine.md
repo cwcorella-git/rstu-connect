@@ -1,12 +1,19 @@
 ---
-title: "A volunteer from Kharkov was tortured by the military after trying to leave Ukraine"
-author: "libcom.org"
-date: 1985
+title: "A Volunteer from Kharkov Was Tortured by the Military After Trying to Leave Ukraine"
+author: "Assembly (Ukraine)"
+date: 2023
 category: international-solidarity
 tags:
   - Ukraine
-  - technology
-  - digital rights
+  - conscription
+  - military-torture
+  - border-control
+  - draft-evasion
+  - Lviv
+  - Staryi-Sambir
+  - war-resistance
+  - repression
+  - 2023
 ---
 
 Calling on media in other countries not to keep silence on this story!

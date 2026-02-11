@@ -1,10 +1,17 @@
 ---
 title: "Anarchism Triumphant: Free Software and the Death of Copyright"
+author: "Eben Moglen"
 date: 1999
-category: contemporary-analysis
+category: technology-digital-justice
 tags:
+  - Eben-Moglen
+  - free-software
+  - copyright
   - anarchism
-  - theory
+  - digital-rights
+  - intellectual-property
+  - GPL
+  - software-freedom
 ---
 
 ## Eben Moglen
