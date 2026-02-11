@@ -1,11 +1,16 @@
 ---
-title: 'Climate Justice and Class Struggle: Online Screening Event'
-author: "Industrial Workers of the World"
+title: "Climate Justice and Class Struggle: Online Screening Event"
+author: "IWW Ireland / Global May Day"
 date: 2022
 category: environmental-justice
 tags:
-  - environment
-  - class
+  - climate-justice
+  - class-struggle
+  - IWW
+  - Ireland
+  - May-Day
+  - green-unionism
+  - film-screening
 ---
 
 | Date: Wed, 05/18/2022 - 00:00 |

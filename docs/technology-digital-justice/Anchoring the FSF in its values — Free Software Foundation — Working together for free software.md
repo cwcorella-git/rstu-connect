@@ -1,13 +1,15 @@
 ---
 title: "Anchoring the FSF in its Values"
 author: "Free Software Foundation Board"
-date: 2025
+date: 2024
 category: technology-digital-justice
 tags:
   - FSF
   - free-software
   - governance
-  - mission-preservation
+  - Richard-Stallman
+  - organizational-structure
+  - GNU
   - open-source
 ---
 

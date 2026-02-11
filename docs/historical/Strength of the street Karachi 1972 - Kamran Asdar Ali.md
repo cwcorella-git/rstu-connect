@@ -1,16 +1,17 @@
 ---
-title: "Strength of the street: Karachi 1972 - Kamran Asdar Ali"
-author: "libcom.org"
-date: 1972
-category: "contemporary-analysis"
+title: "Strength of the Street: Karachi 1972"
+author: "Kamran Asdar Ali"
+date: 2012
+category: historical
 tags:
-  - manufacturing-and-materials
-  - strikes
-  - general-strikes
-  - textiles
-  - pakistan
-  - massacres
-  - repression
+  - Pakistan
+  - Karachi
+  - general-strike
+  - 1972
+  - Bhutto
+  - labor-history
+  - textile-workers
+  - state-repression
 ---
 
 ## killings, Karachi, Kamran Asdar Ali

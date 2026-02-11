@@ -1,6 +1,6 @@
 ---
 title: "Europe on Strike Against Austerity: Live Updates"
-author: "libcom.org"
+author: "Libcom Collective"
 date: 2012
 category: historical
 tags:
@@ -15,6 +15,7 @@ tags:
   - Belgium
   - ETUC
   - November-14
+  - coordinated-strike
 ---
 
 The struggle against austerity steps up a notch as on November 14 an international general strike takes place across several European countries, with demonstrations and solidarity actions across the world. Please post live reports from the area in the comments below.

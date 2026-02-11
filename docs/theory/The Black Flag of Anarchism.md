@@ -1,10 +1,16 @@
 ---
-title: Paul Goodman
+title: "The Black Flag of Anarchism"
+author: "Paul Goodman"
 date: 1968
-category: contemporary-analysis
+category: theory
 tags:
+  - Paul-Goodman
   - anarchism
-  - theory
+  - black-flag
+  - 1968
+  - student-movements
+  - New-Left
+  - SDS
 ---
 
 ## **The Black Flag of Anarchism**
