@@ -1,12 +1,19 @@
 ---
-title: "A Victim of Power Corp and Police the La Presse Conflict and the Tear Gas Suffoc"
-author: "libcom.org"
-date: '2025'
-category: abolition
+title: "A Victim of Power Corp and Police: The La Presse Conflict and the Tear Gas Suffocation of Michele Gauthier"
+author: "Jeff Shantz"
+date: 2018
+category: labor
 tags:
-  - police
-  - fossil fuels
-  - Los Angeles
+  - Quebec
+  - Montreal
+  - La-Presse
+  - strike
+  - police-violence
+  - Michele-Gauthier
+  - Power-Corporation
+  - general-strike
+  - 1971
+  - Canada
 ---
 
 A report on the 1971 conflict at La Presse and the police killing of socialist feminist Michele Gauthier. The broader struggle against Power Corp., the impact of the police killing, and the development of the Common Front and subsequent general strikes.

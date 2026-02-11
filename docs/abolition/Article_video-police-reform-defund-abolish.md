@@ -1,11 +1,15 @@
 ---
-title: Video Police Reform Defund Abolish
-author: "libcom.org"
-date: '2025'
+title: "Video: Police Reform, Defund, or Abolish?"
+author: "Luna (libcom.org)"
+date: 2020
 category: abolition
 tags:
   - police
   - abolition
+  - police-reform
+  - defund-police
+  - debate
+  - video
 ---
 
 Should police be reformed, defunded, or abolished?

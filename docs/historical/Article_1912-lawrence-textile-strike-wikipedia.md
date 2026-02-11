@@ -1,7 +1,7 @@
 ---
 title: "1912 Lawrence Textile Strike"
-author: "Wikipedia"
-date: 1912
+author: "Wikipedia contributors"
+date: 2020
 category: historical
 tags:
   - strikes
@@ -12,6 +12,7 @@ tags:
   - textile-workers
   - 1912
   - Bread-and-Roses
+  - immigrant-workers
 ---
 
 1912 Lawrence textile strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...
