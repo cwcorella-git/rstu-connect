@@ -1,12 +1,15 @@
 ---
-title: "Information wants to be free"
-author: "Wikipedia contributors"
-date: 1987
-category: "contemporary-analysis"
+title: "Information Wants to be Free"
+author: "Wikipedia"
+date: 2024
+category: "technology-digital-justice"
 tags:
-  - analysis
-  - current-events
-  - wikipedia
+  - intellectual-property
+  - Stewart-Brand
+  - hackers
+  - information-freedom
+  - digital-rights
+  - technology-activism
 ---
 
 [en.m.wikipedia.org](https://en.m.wikipedia.org/wiki/Information_wants_to_be_free)

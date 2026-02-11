@@ -1,6 +1,6 @@
 ---
 title: "He Tore Down Motels Where Poor Residents Lived During a Housing Crisis. City Leaders Did Nothing."
-author: "David Calvert / ProPublica"
+author: "David Calvert"
 date: 2020
 category: housing
 tags:
@@ -8,6 +8,10 @@ tags:
   - eviction
   - displacement
   - affordable-housing
+  - ProPublica
+  - Jeffrey-Jacobs
+  - motels
+  - gentrification
 ---
 
 ## David Calvert

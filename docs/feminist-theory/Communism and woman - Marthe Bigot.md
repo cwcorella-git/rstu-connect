@@ -1,10 +1,16 @@
 ---
-title: Communism and woman - Marthe Bigot
-author: "Industrial Workers of the World"
+title: Communism and Woman
+author: "Marthe Bigot"
 date: 1920
-category: arts-culture-music
+category: feminist-theory
 tags:
-  - women
+  - feminism
+  - Marthe-Bigot
+  - communism
+  - USSR
+  - Russian-Revolution
+  - womens-emancipation
+  - socialism
 ---
 
 ## **Tags:** Marthe Bigot, feminism, USSR

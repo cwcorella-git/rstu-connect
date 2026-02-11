@@ -1,11 +1,16 @@
 ---
-title: "Challenging the Terms of Order"
+title: "Mobilized 4 Movement: Representations of the Detroit Rebellions, 1967-1968"
 author: "Jordan T. Camp"
-date: 1935
-category: "contemporary-analysis"
+date: 2015
+category: "historical"
 tags:
-  - analysis
-  - current-events
+  - Detroit-rebellion
+  - 1967-1968
+  - Black-working-class
+  - DRUM
+  - League-of-Revolutionary-Black-Workers
+  - racial-capitalism
+  - industrial-organizing
 ---
 
 
