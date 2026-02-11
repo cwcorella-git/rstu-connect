@@ -1,12 +1,17 @@
 ---
-title: 'Paths Written in Concrete: The Chilean student movement of 2011'
-author: "libcom.org"
-date: 2011
+title: "Paths Written in Concrete: The Chilean student movement of 2011"
+author: "Mónica Kostas, Scott Nikolas Nappalos, and Felipe Ramírez"
+date: 2012
 category: youth-student-organizing
 tags:
+  - Chile
+  - student-movements
   - education
-  - students
-  - youth
+  - Piñera
+  - LOCE
+  - Federation-of-Libertarian-Students
+  - Penguin-Revolution
+  - 2011
 ---
 
 This piece hopes to offer a brief and concise background of the Chilean student movement and an analysis of the strategies that pushed it along. Afterwards we provide an interview with Felipe Ramírez, member of the FeL (Federation of Libertarian Students) and 2012 secretary to the FECh (Federation of University of Chile Students).

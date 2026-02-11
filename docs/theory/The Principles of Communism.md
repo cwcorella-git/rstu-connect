@@ -1,10 +1,14 @@
 ---
-title: The Principles of Communism
-author: "Andy Blunden"
-date: 1969
-category: contemporary-analysis
+title: "The Principles of Communism"
+author: "Frederick Engels"
+date: 1847
+category: theory
 tags:
-  - theory
+  - communism
+  - Frederick-Engels
+  - Marxism
+  - political-economy
+  - 19th-century
 ---
 
 #### [marxists.org](https://www.marxists.org/archive/marx/works/1847/11/prin-com.htm)

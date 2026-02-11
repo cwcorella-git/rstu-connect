@@ -1,10 +1,15 @@
 ---
-title: "All Rise"
+title: "All Rise: Judicial Resistance in Poland"
+author: "Marcin Mrowicki"
 date: 2024
-category: "contemporary-analysis"
+category: "international-solidarity"
 tags:
-  - analysis
-  - current-events
+  - Poland
+  - judicial-resistance
+  - nonviolent-resistance
+  - ICNC
+  - rule-of-law
+  - authoritarianism
 ---
 
 #### ICNC MONOGRAPH SERIES

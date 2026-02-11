@@ -1,10 +1,15 @@
 ---
 title: "Interview with Chicano anarchist political prisoner Xinachtli (Alvaro Luna Hernandez)"
-date: 1996
-category: contemporary-analysis
+author: "The Final Straw Radio Show"
+date: 2013
+category: abolition
 tags:
-  - anarchism
-  - prisons
+  - political-prisoners
+  - Xinachtli
+  - Texas-prison-system
+  - Chicano-anarchism
+  - anarchist-communism
+  - prison-resistance
 ---
 
 ## **Source:**

@@ -1,12 +1,14 @@
 ---
-title: A Black Autonomy Reader Reader Seditionist Distribution
-author: Housing Advocacy Organization
-date: '2024'
-category: housing
+title: "A Black Autonomy Reader: Anarchism Isn't White"
+author: "Seditionist Distribution"
+date: 2024
+category: theory
 tags:
-  - autonomy
-  - housing
-  - tenants
+  - Black-anarchism
+  - Black-autonomy
+  - anti-racism
+  - anarchism
+  - Black-liberation
 ---
 
 
