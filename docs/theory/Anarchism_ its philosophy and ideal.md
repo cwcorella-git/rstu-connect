@@ -1,10 +1,13 @@
 ---
-title: Pëtr Kropotkin
+title: "Anarchism: Its Philosophy and Ideal"
+author: "Peter Kropotkin"
 date: 1898
-category: contemporary-analysis
+category: theory
 tags:
   - anarchism
   - Kropotkin
+  - philosophy
+  - anarchist-theory
 ---
 
 ## **Anarchism: its philosophy and ideal**

@@ -1,14 +1,16 @@
 ---
-title: "An afterthought: 'extra-parliamentary electoralism'"
-author: "libcom.org"
+title: "An Afterthought: 'Extra-Parliamentary Electoralism'"
+author: "Cautiously Pessimistic"
 date: 2015
-category: "contemporary-analysis"
+category: organizing
 tags:
   - anarchism
   - class-war-federation
-  - united-kingdom
+  - United-Kingdom
   - elections
-  - socialist-party-of-great-britain
+  - Socialist-Party-of-Great-Britain
+  - electoralism
+  - SPGB
 ---
 
 ## (SPGB), UK elections 2015

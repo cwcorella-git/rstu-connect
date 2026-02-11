@@ -1,11 +1,14 @@
 ---
-title: Being Numerous Ssays ()/V
-author: Natasha Lennard
+title: "Being Numerous: Essays on Non-Fascist Life"
+author: "Natasha Lennard"
 date: 2019
 category: contemporary-analysis
 tags:
-  - analysis
-  - current-events
+  - antifascism
+  - essays
+  - militant-struggle
+  - journalism
+  - Occupy
 ---
 
 ## "Compassionate and merciless."

@@ -1,17 +1,17 @@
 ---
 title: "Helter Shelter: How Blackstone Contributes To and Profits From California's Broken Housing System"
 author: "Private Equity Stakeholder Project, ACCE Institute"
-date: 2024-08
-category: contemporary-analysis
+date: 2024
+category: housing
 tags:
-  - blackstone
-  - california
+  - Blackstone
+  - California
   - corporate-landlords
   - rent-increases
   - evictions
   - price-fixing
-  - realpage
-source: "Private Equity Stakeholder Project"
+  - RealPage
+  - private-equity
 ---
 
 *Private Equity Stakeholder Project Report — August 2024*
