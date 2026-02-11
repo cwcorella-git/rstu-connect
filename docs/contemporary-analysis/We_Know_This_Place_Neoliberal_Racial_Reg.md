@@ -1,10 +1,17 @@
 ---
-title: '''We Know This Place'': Neoliberal Racial Regimes and the Katrina Circumstance'
-author: "We Know"
-date: 2005
+title: "'We Know This Place': Neoliberal Racial Regimes and the Katrina Circumstance"
+author: "Jordan T. Camp"
+date: 2009
 category: contemporary-analysis
 tags:
-  - racial justice
+  - Hurricane-Katrina
+  - New-Orleans
+  - neoliberalism
+  - racial-capitalism
+  - disaster-capitalism
+  - Black-freedom
+  - American-Quarterly
+  - 2005
 ---
 
 

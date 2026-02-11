@@ -1,12 +1,18 @@
 ---
 title: "Zohran Mamdani"
-author: "Wikipedia contributors"
-date: 2021
-category: "contemporary-analysis"
+author: "Wikipedia"
+date: 2025
+category: contemporary-analysis
 tags:
-  - analysis
-  - current-events
-  - wikipedia
+  - Zohran-Mamdani
+  - DSA
+  - NYC
+  - Queens
+  - socialist
+  - mayoral-race
+  - 2025-election
+  - rent-control
+  - Palestine
 ---
 
 

@@ -1,10 +1,16 @@
 ---
-title: White Australia has a Black History
-author: "Industrial Workers of the World"
+title: "White Australia Has a Black History"
+author: "Patricia Olive Corowa / IWW Environmental Unionism Caucus"
 date: 2016
 category: contemporary-analysis
 tags:
   - Australia
+  - indigenous
+  - Aboriginal
+  - racism
+  - IWW
+  - white-Australia-policy
+  - colonialism
 ---
 
 | Date: Fri, 05/13/2016 - 16:24

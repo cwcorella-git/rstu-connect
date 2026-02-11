@@ -1,11 +1,18 @@
 ---
-title: Air Conditioning Will Not Save Us
+title: "Air Conditioning Will Not Save Us"
 author: "Eric Dean Wilson"
 date: 2022
 category: environmental-justice
 tags:
-  - technology
-  - digital rights
+  - climate-change
+  - heat-waves
+  - air-conditioning
+  - energy-crisis
+  - environmental-racism
+  - urban-heat
+  - fossil-fuels
+  - NYC
+  - Con-Ed
 ---
 
 ## By Eric Dean Wilson

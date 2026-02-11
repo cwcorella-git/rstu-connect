@@ -1,12 +1,19 @@
 ---
-title: The Seattle General Strike of 1919
-author: History Committee of The General Strike Committee
-date: '2025'
-category: labor
+title: "The Seattle General Strike of 1919"
+author: "History Committee of the General Strike Committee"
+date: 2019
+category: historical
 tags:
-  - general strikes
-  - strikes
   - Seattle
+  - general-strike
+  - 1919
+  - IWW
+  - AFL
+  - Central-Labor-Council
+  - Russian-Revolution
+  - Anna-Louise-Strong
+  - Ole-Hansen
+  - shipyard-strike
 ---
 
 States, general strikes, Seattle, Seattle General Strike 1919, Anarchist Communist Group (ACG), Industrial Workers of the World (IWW)

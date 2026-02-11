@@ -1,12 +1,18 @@
 ---
-title: 'Wobbly driplines: strikes, stowaways & the SS Manuka'
-author: "libcom.org"
-date: 1923
-category: contemporary-analysis
+title: "Wobbly Driplines: Strikes, Stowaways & the SS Manuka"
+author: "Noel Lyons"
+date: 2013
+category: historical
 tags:
-  - unions
-  - labor
-  - workers
+  - IWW
+  - New-Zealand
+  - maritime
+  - SS-Manuka
+  - syndicalism
+  - 1903-1929
+  - trans-Tasman
+  - WWI
+  - seamen
 ---
 
 ## Josephs, Noel Lyons
