@@ -1,12 +1,14 @@
 ---
-title: On the Revolutionary Union Movement Faction in the Iww
-author: M. Dashar
-date: '2025'
+title: On the Revolutionary Union Movement Faction in the IWW
+author: "M. Dashar"
+date: 2017
 category: labor
 tags:
-  - unions
-  - labor
-  - workers
+  - IWW
+  - Revolutionary-Union-Movement
+  - Industrial-Unionist-Caucus
+  - labor-organizing
+  - strategy
 ---
 
 Unionist Caucus, Wobblies For A Revolutionary Union Movement, Industrial Workers

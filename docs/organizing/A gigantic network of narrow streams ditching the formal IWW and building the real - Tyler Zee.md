@@ -1,11 +1,14 @@
 ---
-title: "A gigantic network of narrow streams: ditching the formal IWW and building the real - Tyler Zee"
-author: "Industrial Workers of the World"
-date: 2014
+title: "A gigantic network of narrow streams: ditching the formal IWW and building the real"
+author: "Tyler Zee"
+date: 2017
 category: organizing
 tags:
-  - unions
+  - IWW
   - organizing
+  - critique
+  - formalism
+  - rank-and-file
 ---
 
 A 2017 critique of the Industrial Workers of the World (IWW) by some members about the formalism and grounds for debate of the union at the time.

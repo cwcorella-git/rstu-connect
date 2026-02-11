@@ -1,12 +1,14 @@
 ---
 title: Ecounionist News 74
-author: Industrial Workers of the World
-date: '2025'
-category: labor
+author: "IWW Environmental Unionism Caucus"
+date: 2015
+category: environmental-justice
 tags:
+  - IWW
+  - green-unionism
+  - environmental-justice
   - labor
-  - unions
-  - workers
+  - newsletter
 ---
 
 Unionist News, green unionism, labor and environment

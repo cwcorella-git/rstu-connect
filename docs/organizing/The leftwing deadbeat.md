@@ -1,10 +1,14 @@
 ---
 title: "The leftwing deadbeat"
+author: "MK Lees & Marianne Garneau"
 date: 2023
-category: "contemporary-analysis"
+category: "organizing"
 tags:
-  - analysis
-  - current-events
+  - organizing
+  - workplace
+  - leftists
+  - strategy
+  - union-campaigns
 ---
 
 ### **MK Lees & Marianne Garneau**

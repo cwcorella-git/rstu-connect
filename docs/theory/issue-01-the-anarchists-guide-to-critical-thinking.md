@@ -1,11 +1,14 @@
 ---
-title: Issue 01 the Anarchists Guide To Critical Thinking
-author: The Peer Review
-date: '2025'
+title: "Issue 01: The Anarchist's Guide to Critical Thinking"
+author: "The Peer Review"
+date: 2019
 category: theory
 tags:
   - anarchism
-  - theory
+  - critical-thinking
+  - philosophy
+  - education
+  - logic
 ---
 
 First Issue of the Peer Review. This issue is a guide to critical thinking written from an anarchist's perspective.
