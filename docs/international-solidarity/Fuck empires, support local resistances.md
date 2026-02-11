@@ -1,14 +1,16 @@
 ---
 title: "Fuck empires, support local resistances."
-author: "libcom.org"
+author: "Solidarity Collectives"
 date: 2025
-category: "contemporary-analysis"
+category: "international-solidarity"
 tags:
-  - solidarity-collectives
+  - Solidarity-Collectives
   - anarchism
   - anti-fascism
   - anti-imperialism
-  - ukraine
+  - Ukraine
+  - Trump
+  - 2025
 ---
 
 The Solidarity Collectives call on you to fight for mutual aid against imperialist and reactionary state or para-state policies. (design of picture with trump from ecoplatform)

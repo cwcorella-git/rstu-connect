@@ -1,12 +1,15 @@
 ---
-title: Bay Area And California Green Unionism Report
-author: May 2024
-date: '2024'
-category: labor
+title: Bay Area And California Green Unionism Report May 2024
+author: "x344543 (IWW Environmental Unionism Caucus)"
+date: 2024
+category: environmental-justice
 tags:
-  - labor
-  - unions
-  - workers
+  - green-unionism
+  - IWW
+  - California
+  - Bay-Area
+  - just-transition
+  - Chevron
 ---
 
 ## **Source:** https://ecology.iww.org/node/6470

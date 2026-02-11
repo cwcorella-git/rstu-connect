@@ -1,12 +1,14 @@
 ---
 title: "Kathleen Cleaver"
-author: "Wikipedia contributors"
-date: 1998
-category: "contemporary-analysis"
+author: "Wikipedia"
+date: 2024
+category: "historical"
 tags:
-  - analysis
-  - current-events
-  - wikipedia
+  - Black-Panther-Party
+  - Kathleen-Cleaver
+  - Black-Power
+  - civil-rights
+  - 1970s
 ---
 
 ## Contributors to Wikimedia projects

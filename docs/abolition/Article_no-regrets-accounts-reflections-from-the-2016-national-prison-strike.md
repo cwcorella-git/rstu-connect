@@ -1,11 +1,15 @@
 ---
 title: No Regrets Accounts Reflections From the 2016 National Prison Strike
-author: Anarchist Black Cross
-date: '2025'
-category: labor
+author: "Anarchist Black Cross"
+date: 2017
+category: abolition
 tags:
-  - strikes
-  - prisons
+  - prison-strike
+  - 2016-prison-strike
+  - IWOC
+  - Anarchist-Black-Cross
+  - prison-abolition
+  - Free-Alabama-Movement
 ---
 
 A zine collecting accounts and reflections from the 2016 US prison strikes.This zine was first published by Blackbird Publishing.
