@@ -1,10 +1,19 @@
 ---
-title: On the Phenomenology of Giant Puppets
-author: David Graeber
-date: 5th April 2007
+title: "On the Phenomenology of Giant Puppets"
+author: "David Graeber"
+date: 2007
 category: contemporary-analysis
 tags:
-  - Graeber
+  - David-Graeber
+  - direct-action
+  - puppets
+  - anti-globalization
+  - Seattle-WTO
+  - police
+  - tactics
+  - symbolism
+  - direct-action
+  - global-justice-movement
 ---
 
 What follows is an essay of interpretation. It is about direct action in North America, about the mass mobilizations organized by the so called “anti-globalization movement”, and especially, about the war of images that has surrounded it. It begins with a simple observation. I think it’s fair to say that if the average American knows just two things about these mobilizations, they are, first of all, that there are often people dressed in black who break windows; second, that they involve colorful giant puppets.

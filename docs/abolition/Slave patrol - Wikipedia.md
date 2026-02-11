@@ -1,12 +1,18 @@
 ---
-title: "Slave patrol"
-author: "Wikipedia contributors"
-date: 2019
-category: "contemporary-analysis"
+title: "Slave Patrol"
+author: "Wikipedia"
+date: 2024
+category: abolition
 tags:
-  - analysis
-  - current-events
-  - wikipedia
+  - slave-patrol
+  - slavery
+  - police-history
+  - US-South
+  - policing
+  - patterrollers
+  - law-enforcement
+  - 1704-1865
+  - racial-control
 ---
 
 ## Contributors to Wikimedia projects

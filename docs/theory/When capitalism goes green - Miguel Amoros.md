@@ -2,12 +2,18 @@
 title: "When Capitalism Goes Green"
 author: "Miguel Amoros"
 date: 2007
-category: environmental-justice
+category: theory
 tags:
-  - capitalism
-  - ecology
-  - greenwashing
+  - Miguel-Amoros
   - eco-capitalism
+  - greenwashing
+  - Encyclopedie-des-Nuisances
+  - ecology
+  - capitalism
+  - Murray-Bookchin
+  - Guy-Debord
+  - ecological-crisis
+  - critique
 ---
 
 ## Encyclopedie des Nuisances, Miguel Amorós
