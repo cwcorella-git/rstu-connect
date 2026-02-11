@@ -1,11 +1,14 @@
 ---
-title: What Games Are
+title: "The Post-Platform Future"
+author: "Tadhg Kelly (What Games Are)"
 date: 2010
-category: technology-digital-justice
+category: arts-culture-music
 tags:
-  - gig economy
-  - technology
-  - digital rights
+  - game-design
+  - game-industry
+  - platforms
+  - digital-distribution
+  - indie-games
 ---
 
 The Wayback Machine - https://web.archive.org/web/20250914121151/https://www.whatgamesare.com/2010/12/the-post-platform-future.html

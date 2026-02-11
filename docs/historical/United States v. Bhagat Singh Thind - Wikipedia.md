@@ -1,7 +1,7 @@
 ---
 title: "United States v. Bhagat Singh Thind"
 author: "Wikipedia contributors"
-date: 1923
+date: 2020
 category: historical
 tags:
   - Bhagat-Singh-Thind
@@ -13,6 +13,7 @@ tags:
   - Indian-Americans
   - 1923
   - racial-prerequisites
+  - whiteness
 ---
 
 ## [en.wikipedia.org](https://en.wikipedia.org/wiki/United_States_v._Bhagat_Singh_Thind)

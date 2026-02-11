@@ -1,12 +1,16 @@
 ---
-title: Some Thoughts On the Iww Union Debate in the Us
-author: Industrial Workers of the World
-date: '2025'
+title: "Some Thoughts on the IWW Union Debate in the US"
+author: "Angry Workers of the World"
+date: 2017
 category: labor
 tags:
-  - unions
-  - labor
-  - workers
+  - IWW
+  - Industrial-Workers-of-the-World
+  - union-debate
+  - formalism
+  - rank-and-file
+  - workplace-organizing
+  - Angry-Workers
 ---
 
 Workers of the World, Industrial Workers of the World (IWW), organisation, debates

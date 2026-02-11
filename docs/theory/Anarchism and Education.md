@@ -1,11 +1,15 @@
 ---
-title: Anarchism And Education
-author: Judith Suissa
-date: '2006'
-category: youth-student-organizing
+title: "Anarchism and Education: A Philosophical Perspective"
+author: "Judith Suissa"
+date: 2006
+category: theory
 tags:
   - anarchism
   - education
+  - philosophy-of-education
+  - Judith-Suissa
+  - pedagogy
+  - libertarian-education
 ---
 
 # **Judith Suissa**

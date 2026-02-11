@@ -1,12 +1,17 @@
 ---
 title: "Emma Lazarus"
 author: "Wikipedia contributors"
-date: 1871
-category: "contemporary-analysis"
+date: 2020
+category: arts-culture-music
 tags:
-  - analysis
-  - current-events
-  - wikipedia
+  - Emma-Lazarus
+  - poetry
+  - Statue-of-Liberty
+  - The-New-Colossus
+  - Jewish-activism
+  - Georgism
+  - 19th-century
+  - immigration
 ---
 
 
