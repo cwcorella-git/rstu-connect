@@ -1,9 +1,15 @@
 ---
-title: The short instructional manifesto for relationship anarchy
+title: "The Short Instructional Manifesto for Relationship Anarchy"
+author: "Andie Nordgren"
 date: 2006
-category: contemporary-analysis
+category: theory
 tags:
   - anarchism
+  - relationship-anarchy
+  - Andie-Nordgren
+  - non-monogamy
+  - autonomy
+  - love
 ---
 
 ## Andie Nordgren

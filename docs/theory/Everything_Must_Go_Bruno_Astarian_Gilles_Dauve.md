@@ -1,11 +1,15 @@
 ---
-title: "Everything Must Go!"
-author: "Everything Must"
+title: "Everything Must Go! The Abolition of Value"
+author: "Bruno Astarian and Gilles Dauve"
 date: 2015
-category: "contemporary-analysis"
+category: theory
 tags:
-  - analysis
-  - current-events
+  - communization
+  - value-abolition
+  - Bruno-Astarian
+  - Gilles-Dauve
+  - communist-theory
+  - capitalism
 ---
 
 

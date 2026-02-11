@@ -1,12 +1,18 @@
 ---
-title: Durham Teaching Assistants – Not Finished Yet?
-author: "libcom.org"
+title: "Durham Teaching Assistants: Not Finished Yet?"
+author: "Internationalist Communist Tendency"
 date: 2017
 category: labor
 tags:
   - labor
   - unions
   - workers
+  - Durham
+  - teaching-assistants
+  - Unison
+  - UK
+  - strike
+  - sell-out
 ---
 
 The solidarity and determination of the Durham Teaching Assistants has been an inspiration to other workers throughout the North East and beyond. More than once they refused to accept a deal which would have meant a complete cave-in.

@@ -1,10 +1,17 @@
 ---
-title: Free Software Is Even More Important Now
-date: 1983
+title: "Free Software Is Even More Important Now"
+author: "Richard Stallman"
+date: 2020
 category: technology-digital-justice
 tags:
   - technology
-  - digital rights
+  - digital-rights
+  - free-software
+  - GNU
+  - FSF
+  - Richard-Stallman
+  - software-freedom
+  - malware
 ---
 
 *by [Richard Stallman ](https://www.stallman.org/)*

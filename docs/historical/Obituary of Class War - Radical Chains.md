@@ -1,11 +1,17 @@
 ---
-title: Obituary of Class War - Radical Chains
-author: "Class War Federation"
-date: 1992
-category: international-solidarity
+title: "Obituary of Class War"
+author: "Radical Chains"
+date: 1997
+category: historical
 tags:
-  - anti-war
-  - class
+  - Class-War-Federation
+  - UK-anarchism
+  - 1980s
+  - 1990s
+  - retrospective
+  - Thatcherism
+  - poll-tax
+  - Radical-Chains
 ---
 
 Radical Chains on the demise and legacy of the UK anarchist organisation Class War Federation.
