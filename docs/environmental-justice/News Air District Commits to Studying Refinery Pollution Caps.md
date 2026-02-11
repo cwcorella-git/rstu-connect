@@ -1,11 +1,17 @@
 ---
-title: 'News: Air District Commits to Studying Refinery Pollution Caps'
-author: "Shoshana Wechsler -"
+title: "Air District Commits to Studying Refinery Pollution Caps"
+author: "Shoshana Wechsler"
 date: 2016
 category: environmental-justice
 tags:
   - environment
   - climate
+  - Bay-Area
+  - refineries
+  - pollution
+  - tar-sands
+  - Sunflower-Alliance
+  - air-quality
 ---
 
 ## **Source:** https://ecology.iww.org/node/1700

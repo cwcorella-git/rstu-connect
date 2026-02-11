@@ -1,10 +1,15 @@
 ---
-title: "I grew up hearing about the Illuminati everywhere, from DVD sermons to internet memes."
-date: 2000
-category: "contemporary-analysis"
+title: "How to Overthrow the Illuminati"
+author: "Second Thought"
+date: 2023
+category: contemporary-analysis
 tags:
-  - analysis
-  - current-events
+  - conspiracy-theories
+  - class-analysis
+  - capitalism
+  - media-critique
+  - Second-Thought
+  - video-transcript
 ---
 
 I grew up hearing about the Illuminati everywhere, from DVD sermons to internet memes.

@@ -1,13 +1,18 @@
 ---
-title: 'Syndicalist Sociology: The Forgotten Work of Guillaume De Greef'
-author: "libcom.org"
-date: 1908
-category: contemporary-analysis
+title: "Syndicalist Sociology: The Forgotten Work of Guillaume De Greef"
+author: "Jeff Shantz"
+date: 2025
+category: theory
 tags:
   - syndicalism
   - labor
   - unions
   - workers
+  - Guillaume-De-Greef
+  - sociology
+  - Proudhon
+  - Jeff-Shantz
+  - anarchist-history
 ---
 
 ## Working Men's Association (IWMA), Georges Sorel

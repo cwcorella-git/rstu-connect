@@ -1,10 +1,17 @@
 ---
-title: 'Falling star: Countering gender essentialism with sex essentialism'
-author: "libcom.org"
+title: "Falling Star: Countering Gender Essentialism with Sex Essentialism"
+author: "Red and Black Leeds"
 date: 2016
 category: feminist-theory
 tags:
   - feminism
+  - trans-rights
+  - gender-essentialism
+  - sex-essentialism
+  - TERF
+  - Red-and-Black-Leeds
+  - Morning-Star
+  - transgender
 ---
 
 Red and Black Leeds on the limitations of both gender essentialism and sex essentialism as a way to understand gender expression and identity.
