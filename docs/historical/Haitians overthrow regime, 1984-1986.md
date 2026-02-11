@@ -1,12 +1,16 @@
 ---
-title: "Haitians overthrow regime, 1984-1986"
+title: "Haitians Overthrow Regime, 1984-1986"
 author: "libcom.org"
-date: 1986
-category: international-solidarity
+date: 2011
+category: historical
 tags:
   - uprising
-  - haiti
-  - nonviolent-resistance
+  - Haiti
+  - Duvalier
+  - general-strike
+  - popular-uprising
+  - Jean-Claude-Duvalier
+  - 1980s
 ---
 
 Article on the two year long campaign of demonstrations and strikes that toppled the Dictatorship of Jean Claude "Baby Doc" Duvalier.

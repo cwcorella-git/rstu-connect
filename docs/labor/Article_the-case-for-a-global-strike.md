@@ -1,13 +1,16 @@
 ---
-title: The Case For a Global Strike
-author: Unknown
-date: '2025'
+title: "The Case for a Global Strike"
+author: "ismatu gwendolyn"
+date: 2024
 category: labor
 tags:
-  - strikes
-  - labor
-  - unions
-  - workers
+  - general-strike
+  - global-strike
+  - Palestine
+  - Gaza
+  - solidarity
+  - labor-organizing
+  - Iran
 ---
 
 The Case for a Global Strike about:reader?url=https%3A%2F%2Fwww.threadings....

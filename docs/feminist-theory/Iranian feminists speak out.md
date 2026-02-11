@@ -1,10 +1,16 @@
 ---
-title: Iranian feminists speak out
-author: "libcom.org"
+title: "Iranian Feminists Speak Out"
+author: "Iran's Feminist Liberation Group"
 date: 2024
 category: feminist-theory
 tags:
   - feminism
+  - Iran
+  - anti-imperialism
+  - Palestine
+  - political-prisoners
+  - women's-liberation
+  - Islamic-Republic
 ---
 
 Three statements released by feminists in Iran rejecting both the Islamic Republic of Iran and US/Israel military strikes.
