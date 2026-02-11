@@ -1,10 +1,15 @@
 ---
-title: "The paradox of tolerance: do we have to tolerate intolerant?"
-date: 2025
-category: "contemporary-analysis"
+title: "The Paradox of Tolerance: Do We Have to Tolerate the Intolerant?"
+author: "Alexander Marchall"
+date: 2024
+category: theory
 tags:
-  - analysis
-  - current-events
+  - tolerance-paradox
+  - Karl-Popper
+  - fascism
+  - democracy
+  - freedom-of-expression
+  - political-philosophy
 ---
 
 ## Alexander Marchall

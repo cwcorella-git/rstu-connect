@@ -1,15 +1,19 @@
 ---
 title: "Still Standing or Standing Still?"
-author: "Robert Lambert -"
+author: "Robert Lambert"
 date: 2016
-category: "contemporary-analysis"
+category: labor
 tags:
   - green-unionism
   - globalization
   - ecosocialism
   - green-syndicalism
   - movement-politics
-  - capitalism
+  - migrant-workers
+  - hospitality-workers
+  - Unite
+  - UK
+  - Barcelona
 ---
 
 ## **Source:** https://ecology.iww.org/node/1782

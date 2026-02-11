@@ -1,11 +1,18 @@
 ---
-title: Edinburgh IWW statement on Scotrail/RMT railworkers strikes
-author:
+title: "Edinburgh IWW Statement on Scotrail/RMT Railworkers Strikes"
+author: "Edinburgh IWW"
 date: 2016
 category: labor
 tags:
   - unions
   - labor
+  - IWW
+  - RMT
+  - Scotrail
+  - UK
+  - railroad-workers
+  - safety
+  - driver-only-operation
 ---
 
 ## **Source:** https://ecology.iww.org/node/1698
