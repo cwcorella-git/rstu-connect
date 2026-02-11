@@ -1,12 +1,15 @@
 ---
-title: Combative Unionism Waging Class War Within Labour Prairie Struggle
-author: Industrial Workers of the World
-date: '2025'
+title: Combative Unionism Waging Class War Within Labour
+author: "Prairie Struggle Organization"
+date: 2012
 category: labor
 tags:
-  - labor
-  - anti-war
-  - class
+  - combative-unionism
+  - Prairie-Struggle-Organization
+  - labor-organizing
+  - anarchism
+  - Canada
+  - strategy
 ---
 
 After putting much of our efforts in the cross Canada Speaking Tour on Combative Unionism, a debate on Combative unionism took place inside and outside of Prairie Struggle giving way to PSO's first position paper. In this position paper we hope to contribute to the relevant work and theoretical development that has been done or is already underway. We salute our comrades within the revolutionary left that are active in undermining bureaucratic control over working class power.

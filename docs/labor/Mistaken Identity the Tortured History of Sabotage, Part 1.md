@@ -1,17 +1,15 @@
 ---
 title: "Mistaken Identity: the Tortured History of Sabotage, Part 1"
-author: "Industrial Workers of the World"
+author: "x344543"
 date: 2016
-category: "arts-culture-music"
+category: "labor"
 tags:
-  - x344543
-  - green-unionism
-  - green-syndicalism
   - sabotage
+  - IWW
+  - Earth-First
   - direct-action
-  - earth-first!
-  - ralph-chaplin
-  - elizabeth-gurley-flynn
+  - labor-history
+  - tactics
 ---
 
 ## **Source:** https://ecology.iww.org/node/1546

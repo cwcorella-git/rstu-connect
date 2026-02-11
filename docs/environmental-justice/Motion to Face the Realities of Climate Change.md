@@ -1,11 +1,14 @@
 ---
 title: Motion to Face the Realities of Climate Change
-author: "Industrial Workers of the World"
+author: "UA Local 393 (San Jose)"
 date: 2016
 category: environmental-justice
 tags:
-  - environment
-  - climate
+  - climate-change
+  - labor
+  - resolution
+  - US-Labor-Against-the-War
+  - unions
 ---
 
 ## **Source:** https://ecology.iww.org/node/1558

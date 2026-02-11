@@ -1,10 +1,14 @@
 ---
 title: "Capitalists, Global Warming, and the Climate Justice Movement: Reflections on COP15"
+author: "James Herod"
 date: 2010
 category: environmental-justice
 tags:
-  - environment
+  - climate-change
+  - COP15
+  - Copenhagen
   - capitalism
+  - climate-justice
 ---
 
 ## James Herod

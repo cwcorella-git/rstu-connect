@@ -2,9 +2,13 @@
 title: At The Café
 author: "Errico Malatesta"
 date: 1922
-category: contemporary-analysis
+category: theory
 tags:
   - Malatesta
+  - anarchism
+  - dialogues
+  - conversations
+  - 1922
 ---
 
 #### **Conversations on Anarchism**
