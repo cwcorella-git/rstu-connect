@@ -1,11 +1,17 @@
 ---
-title: 'Commons, Libraries & Degrowth'
-date: 1968
-category: contemporary-analysis
+title: "Commons, Libraries & Degrowth"
+author: "Andrewism"
+date: 2024
+category: economic-alternatives
 tags:
   - commons
-  - economics
-  - alternatives
+  - degrowth
+  - library-economy
+  - Garrett-Hardin
+  - nationalisation
+  - privatisation
+  - social-ownership
+  - anarchism
 ---
 
 ## **Andrewism**

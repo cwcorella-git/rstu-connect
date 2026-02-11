@@ -1,11 +1,16 @@
 ---
-title: "What in the World is going on at CSX and Amtrak?"
-author: "Industrial Workers of the World"
+title: "What in the World is Going on at CSX and Amtrak?"
+author: "John Paul Wright / Railroad Workers United"
 date: 2018
-category: "contemporary-analysis"
+category: "labor"
 tags:
-  - analysis
-  - current-events
+  - railroad
+  - CSX
+  - Amtrak
+  - Railroad-Workers-United
+  - workplace-safety
+  - rank-and-file
+  - IWW
 ---
 
 | Date: Wed, 02/07/2018 - 18:06 |

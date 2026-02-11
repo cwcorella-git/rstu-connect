@@ -1,13 +1,17 @@
 ---
-title: Revolutionary syndicalism
-author: "libcom.org"
-date: 1936
+title: "Revolutionary Syndicalism"
+author: "Agent of the International"
+date: 2024
 category: theory
 tags:
   - syndicalism
-  - labor
-  - unions
-  - workers
+  - IWW
+  - anarchism
+  - workers-control
+  - direct-action
+  - anti-statism
+  - federation
+  - Spanish-Revolution
 ---
 
 ## **Tags:** Agent of the International, syndicalism
