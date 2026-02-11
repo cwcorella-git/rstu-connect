@@ -7,8 +7,9 @@ tags:
   - nonprofits
   - IWW
   - Appalachia
-  - environmental-justice
+  - OVEC
   - burnout
+  - organizing
 ---
 
 Valley Environmental Coalition (OVEC), Industrial Workers of the World (IWW), NGOs, green unionism, ecological movements and organizations, movements, unions, and organizations, class struggle

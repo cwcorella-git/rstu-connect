@@ -1,11 +1,15 @@
 ---
 title: Marxism and Sexuality
-author: "libcom.org"
-date: 1909
+author: "Communist Workers' Organisation (CWO)"
+date: 2019
 category: theory
 tags:
-  - socialism
-  - theory
+  - Marxism
+  - sexuality
+  - gender
+  - LGBT
+  - historical-materialism
+  - Communist-Workers-Organisation
 ---
 
 Trans Queer +), feminism, Communist Workers' Organisation (CWO), historical materialism,

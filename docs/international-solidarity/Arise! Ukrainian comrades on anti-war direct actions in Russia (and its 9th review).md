@@ -1,12 +1,15 @@
 ---
 title: "\"Arise!\" Ukrainian comrades on anti-war direct actions in Russia (and its 9th review)"
-date: 2013
+author: "Black Flag (Ukraine)"
+date: 2022
 category: international-solidarity
 tags:
-  - direct action
-  - anti-war
   - Ukraine
   - Russia
+  - anti-war
+  - sabotage
+  - Black-Flag
+  - 2022-invasion
 ---
 
 ## **Source:**

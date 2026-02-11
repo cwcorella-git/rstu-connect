@@ -1,11 +1,15 @@
 ---
 title: A new coalition demands healthcare and justice for East Palestine
-author: "Industrial Workers of the World"
+author: "Max Alvarez et al."
 date: 2024
 category: environmental-justice
 tags:
+  - East-Palestine-Ohio
+  - train-derailment
   - healthcare
-  - Palestine
+  - environmental-disaster
+  - railroads
+  - Norfolk-Southern
 ---
 
 | Source: https://ecology.iww.org/node/6355|

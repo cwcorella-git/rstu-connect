@@ -1,13 +1,15 @@
 ---
 title: "Energy Democracy: Inside Californians' Game-Changing Plan for Community-Owned Power"
-author: "Industrial Workers of the World"
-date: 2016
+author: "Al Weinrub"
+date: 2015
 category: environmental-justice
 tags:
-  - community
-  - democracy
-  - energy
-  - california
+  - energy-democracy
+  - community-choice
+  - California
+  - renewable-energy
+  - public-power
+  - PG&E
 ---
 
 ## **Source:** https://ecology.iww.org/node/1582
