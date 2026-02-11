@@ -1,11 +1,17 @@
 ---
-title: Emma Goldman Anarchism and Other Essays
+title: "Anarchism and Other Essays"
 author: "Emma Goldman"
-date: 1887
+date: 1910
 category: theory
 tags:
   - anarchism
-  - Emma Goldman
+  - Emma-Goldman
+  - political-violence
+  - prisons
+  - patriotism
+  - feminism
+  - Francisco-Ferrer
+  - Puritanism
 ---
 
 ## **Table of Context:**

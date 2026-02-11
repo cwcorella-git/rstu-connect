@@ -1,11 +1,16 @@
 ---
-title: How financialization undermines the power of workers
+title: "Unions Renewed: Building Power in an Age of Finance"
+author: "Alice Martin, Annie Quick, Josh Ryan-Collins"
 date: 2020
-category: economic-alternatives
+category: labor
 tags:
   - labor
-  - economics
-  - alternatives
+  - unions
+  - financialization
+  - private-equity
+  - worker-power
+  - organizing-strategy
+  - Justice-for-Janitors
 ---
 
 

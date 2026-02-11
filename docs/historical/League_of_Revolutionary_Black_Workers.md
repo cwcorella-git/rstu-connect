@@ -1,11 +1,18 @@
 ---
-title: 'A. Muhammad Ahmad 1968-1971: The League of Revolutionary Black Workers'
-date: 1958
-category: contemporary-analysis
+title: "The League of Revolutionary Black Workers (1968-1971): A Historical Study"
+author: "A. Muhammad Ahmad"
+date: 1971
+category: historical
 tags:
   - labor
   - unions
-  - workers
+  - Black-liberation
+  - Detroit
+  - UAW
+  - LRBW
+  - auto-workers
+  - racism
+  - Ford
 ---
 
 # **THE LEAGUE OF REVOLUTIONARY BLACK WORKERS (A HISTORICAL STUDY)**

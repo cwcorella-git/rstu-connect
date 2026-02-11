@@ -1,8 +1,17 @@
 ---
 title: "Housing as a Right: The Legal and Historical Case"
 author: "RSTU Research"
-date: 2026
-category: theory
+date: 2024
+category: housing
+tags:
+  - housing-rights
+  - housing-policy
+  - legal-framework
+  - Housing-Act-1949
+  - Fair-Housing-Act
+  - Callahan-v-Carey
+  - Mount-Laurel-Doctrine
+  - right-to-shelter
 ---
 
 The housing crisis in America is not a market failure—it is a policy success. For nearly a century, the federal government deliberately constructed a system that treats shelter as a commodity rather than a fundamental human need.

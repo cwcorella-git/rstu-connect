@@ -1,11 +1,17 @@
 ---
-title: "Californians Deliver 350,000 Signatures Calling on State, Gov. Brown to Stop Irrigation of Crop"
-author: "Industrial Workers of the World"
+title: "Californians Deliver 350,000 Signatures Calling on State, Gov. Brown to Stop Irrigation of Crops with Fracking Wastewater"
+author: "Julie Light, Patrick Sullivan"
 date: 2016
 category: environmental-justice
 tags:
-  - food
-  - justice
+  - food-justice
+  - fracking
+  - water-pollution
+  - California
+  - Jerry-Brown
+  - Center-for-Biological-Diversity
+  - National-Nurses-United
+  - agriculture
 ---
 
 | Date: Sun, 08/14/2016 - 14:16 |
