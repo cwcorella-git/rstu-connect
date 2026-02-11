@@ -1,11 +1,19 @@
 ---
-title: 'Anti State, Anti Capital, Anti Psychiatry'
-author: "libcom.org"
-date: 1965
+title: "Anti State, Anti Capital, Anti Psychiatry"
+author: "Libcom Collective"
+date: 2013
 category: theory
 tags:
+  - anti-psychiatry
+  - R-D-Laing
+  - David-Cooper
+  - Thomas-Szasz
+  - psychiatry
+  - mental-health
   - capitalism
-  - theory
+  - social-control
+  - Kingsley-Hall
+  - Philadelphia-Association
 ---
 
 ## antipsychiatry, R D Laing, David Cooper

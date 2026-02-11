@@ -1,12 +1,18 @@
 ---
-title: Plane Stupid Wants Police Spies Out of Our Lives
-author: Industrial Workers of the World
-date: '2025'
+title: "Plane Stupid Wants Police Spies Out of Our Lives"
+author: "Tilly Gifford / Plane Stupid"
+date: 2017
 category: abolition
 tags:
   - police
-  - abolition
-  - prisons
+  - surveillance
+  - undercover-police
+  - spycops
+  - Scotland
+  - Pitchford-Inquiry
+  - G8-Gleneagles
+  - Plane-Stupid
+  - activism
 ---
 
 ## By staff -

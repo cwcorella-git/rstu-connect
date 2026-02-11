@@ -1,9 +1,17 @@
 ---
-title: "Philosophy Terms Search for a term Enter"
-category: "contemporary-analysis"
+title: "Paradox of Tolerance: Explanation and Examples"
+author: "Philosophy Terms"
+date: 2020
+category: theory
 tags:
-  - analysis
-  - current-events
+  - Karl-Popper
+  - tolerance
+  - paradox
+  - philosophy
+  - intolerance
+  - fascism
+  - liberalism
+  - open-society
 ---
 
 #### Lastest Philosophers Entries
