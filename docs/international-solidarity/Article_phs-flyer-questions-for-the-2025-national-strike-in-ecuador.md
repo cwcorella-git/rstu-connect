@@ -1,13 +1,18 @@
 ---
-title: Phs Flyer Questions For The 2025 National Strike In Ecuador
-author: "libcom.org"
-date: '2025'
-category: labor
+title: "Questions for the National Strike in Ecuador"
+author: "Proletarios Hartos de Serlo"
+date: 2025
+category: international-solidarity
 tags:
-  - strikes
-  - labor
-  - unions
-  - workers
+  - Ecuador
+  - general-strike
+  - class-struggle
+  - revolution
+  - insurrection
+  - Noboa
+  - 2025
+  - communism
+  - anarchism
 ---
 
 Hartos de Serlo, internationalism, class struggle, Ecuador

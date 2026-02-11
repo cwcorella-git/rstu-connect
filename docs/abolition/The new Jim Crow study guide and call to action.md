@@ -1,10 +1,16 @@
 ---
 title: "The New Jim Crow Study Guide and Call to Action"
+author: "Veterans of Hope Project, Michelle Alexander"
 date: 2013
-category: "contemporary-analysis"
+category: abolition
 tags:
-  - analysis
-  - current-events
+  - mass-incarceration
+  - Michelle-Alexander
+  - New-Jim-Crow
+  - prison-abolition
+  - racism
+  - criminal-justice
+  - Martin-Luther-King
 ---
 
 

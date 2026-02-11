@@ -1,12 +1,17 @@
 ---
-title: XR call for just transition from North Sea oil to renewable energy
-author: "Gabriel Levy -"
+title: "XR Call for Just Transition from North Sea Oil to Renewable Energy"
+author: "Gabriel Levy"
 date: 2019
-category: feminist-theory
+category: environmental-justice
 tags:
-  - environment
-  - fossil fuels
-  - just transition
+  - just-transition
+  - Extinction-Rebellion
+  - North-Sea
+  - oil-workers
+  - Scotland
+  - renewable-energy
+  - decarbonization
+  - green-unionism
 ---
 
 | Date: Wed, 09/25/2019 - 20:29 |

@@ -1,12 +1,17 @@
 ---
-title: "Labor Rallies Against Fossil Fuel At Climate Rally In Oakland on November 21, 2015"
-author: "Steve Zeltser -"
+title: "Labor Rallies Against Fossil Fuel at Climate Rally in Oakland"
+author: "Steve Zeltser"
 date: 2015
-category: labor
+category: environmental-justice
 tags:
   - labor
-  - environment
-  - fossil fuels
+  - climate-justice
+  - fossil-fuels
+  - Oakland
+  - California
+  - IBEW
+  - green-jobs
+  - zero-carbon
 ---
 
 ## **Source:** https://ecology.iww.org/node/1406
