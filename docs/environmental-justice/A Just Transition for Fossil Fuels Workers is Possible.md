@@ -1,12 +1,17 @@
 ---
-title: A Just Transition for Fossil Fuels Workers is Possible
-author: "Industrial Workers of the World"
+title: "A Just Transition for Fossil Fuels Workers is Possible"
+author: "Robert Pollin (interviewed by Sharmini Peries)"
 date: 2016
-category: feminist-theory
+category: environmental-justice
 tags:
   - labor
-  - fossil fuels
-  - just transition
+  - fossil-fuels
+  - just-transition
+  - Robert-Pollin
+  - PERI
+  - coal-workers
+  - green-jobs
+  - Real-News-Network
 ---
 
 just transition, oil workers, mine workers, green unionism, green jobs, Donald Trump, Hillary Clinton Robert Pollin interviewed by Sharmini Peries - The Real News Network , October 24, 2016

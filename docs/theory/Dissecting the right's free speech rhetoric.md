@@ -1,6 +1,6 @@
 ---
 title: "Dissecting the Right's 'Free Speech' Rhetoric"
-author: "libcom.org"
+author: "Anonymousanarchist"
 date: 2019
 category: theory
 tags:
@@ -12,6 +12,8 @@ tags:
   - ACLU
   - political-correctness
   - reactionaries
+  - Richard-Spencer
+  - Jair-Bolsonaro
 ---
 
 ## ACLU, Carl Schmitt

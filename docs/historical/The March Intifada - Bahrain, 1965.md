@@ -1,12 +1,18 @@
 ---
-title: 'The March Intifada - Bahrain, 1965'
-author: "libcom.org"
-date: 1965
-category: international-solidarity
+title: "The March Intifada - Bahrain, 1965"
+author: "alwaqt.com (machine translated)"
+date: 2025
+category: historical
 tags:
   - protests
-  - technology
-  - digital rights
+  - Bahrain
+  - 1965
+  - strikes
+  - general-strike
+  - British-imperialism
+  - Ian-Henderson
+  - anti-colonial
+  - Middle-East
 ---
 
 The March Intifada in Bahrain, 1965 began with the laying off of hundreds of workers at the Bahrain Petroleum Company, school students protested, were suppressed by the military, and things developed into a general strike against British rule. Bahrain joined the UAE in 1968, and annual protests continued until 1972.

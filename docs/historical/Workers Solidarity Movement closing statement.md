@@ -1,11 +1,17 @@
 ---
-title: Workers Solidarity Movement closing statement
-author: "libcom.org"
+title: "Workers Solidarity Movement Closing Statement"
+author: "Workers Solidarity Movement"
 date: 2021
-category: theory
+category: historical
 tags:
   - solidarity
   - labor
+  - WSM
+  - Ireland
+  - anarchism
+  - anarcho-syndicalism
+  - organizational-dissolution
+  - retrospective
 ---
 
 This is the promised detailed analysis of the end of the WSM following on from our very brief announcement of December 7th, 2021 titled 'WSM has come to an end - we look forward to new anarchist beginnings'. Developed over a couple of dozen meeting since it outlines our collective reflections on why we have taken this decision. It outlines the WSM's achievements, the challenges we have encountered, and the lessons we feel can be drawn for the future. We are writing for our comrades, friends and supporters who have worked with the WSM in the past. We are also writing for fellow anarchists internationally and all those who struggle in our social movements and wish to see a world without bosses. We hope this statement will be useful to those who wish to start new conversations and discussions about the kinds of movements and organisations we need to win.
