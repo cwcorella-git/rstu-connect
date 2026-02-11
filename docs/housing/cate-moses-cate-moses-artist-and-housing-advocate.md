@@ -1,11 +1,18 @@
 ---
-title: 'Cate Moses, Artist and Housing Advocate'
-author: Cate Moses
-date: April 23 2024
+title: "Cate Moses: Artist and Housing Advocate"
+author: "mk zariel (interviewer)"
+date: 2024
 category: housing
 tags:
   - housing
   - tenants
+  - Cate-Moses
+  - youth-liberation
+  - McKinney-Vento
+  - unhoused-youth
+  - anarchism
+  - mutual-aid
+  - interview
 ---
 
 MK: Hello and welcome to *THE CHILD AND ITS ENEMIES*, a podcast about queer and neurodivergent kids living out anarchy and youth liberation.

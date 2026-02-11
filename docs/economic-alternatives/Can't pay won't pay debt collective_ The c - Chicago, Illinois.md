@@ -7,6 +7,12 @@ tags:
   - debt
   - economic-justice
   - organizing
+  - Debt-Collective
+  - debt-strike
+  - Astra-Taylor
+  - student-debt
+  - medical-debt
+  - economic-disobedience
 ---
 
 ## AND DEBT ABOLITION

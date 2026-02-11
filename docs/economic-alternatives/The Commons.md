@@ -1,11 +1,16 @@
 ---
-title: The Commons
-date: 2015
-category: contemporary-analysis
+title: "The Commons: Beyond the State and the Market"
+author: "Yavor Tarinski"
+date: 2016
+category: economic-alternatives
 tags:
   - commons
   - economics
   - alternatives
+  - Yavor-Tarinski
+  - self-management
+  - autonomy
+  - mutual-aid
 ---
 
 ## **Yavor Tarinski**
