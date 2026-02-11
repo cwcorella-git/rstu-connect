@@ -1,12 +1,16 @@
 ---
 title: "Strike in West London: Richmond upon Thames College staff fight 'Fire and Rehire'"
+author: "Communism or Barbarism"
 date: 2022
-category: youth-student-organizing
+category: labor
 tags:
   - strikes
   - education
   - london
   - teachers
+  - UCU
+  - fire-and-rehire
+  - further-education
 ---
 
 ## **Source:**

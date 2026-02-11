@@ -1,9 +1,15 @@
 ---
-title: Soil Solidarity
+title: "Soil Solidarity - Collaborative Support for Housing Solutions"
+author: "Soil Solidarity"
 date: 2017
-category: contemporary-analysis
+category: housing
 tags:
-  - solidarity
+  - Reno
+  - Washoe-County
+  - housing-advocacy
+  - homelessness
+  - faith-communities
+  - Nevada
 ---
 
 

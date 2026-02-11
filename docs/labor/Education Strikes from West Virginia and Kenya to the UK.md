@@ -1,11 +1,17 @@
 ---
-title: Education Strikes From West Virginia And Kenya To The Uk
-author: Global Nonviolent Action Database
-date: '2020'
+title: "Education Strikes from West Virginia and Kenya to the UK"
+author: "Communism or Barbarism (CWO)"
+date: 2018
 category: labor
 tags:
   - education
-  - United Kingdom
+  - strikes
+  - West-Virginia
+  - Kenya
+  - United-Kingdom
+  - teachers
+  - UCU
+  - university-strike
 ---
 
 On Sunday March 25 the CWO held a meeting in Newcastle focussing on the recent educational strikes across the world. It was attended by students, academics and other university workers (some in the CWO, some not) who had participated in the recent pickets of Newcastle, York and Durham universities. A CWO comrade gave the following introduction.

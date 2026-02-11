@@ -1,10 +1,16 @@
 ---
-title: Prisoners - Black Flag
-author: "libcom.org"
+title: "Prisoners - Black Flag"
+author: "Black Flag"
 date: 1999
-category: contemporary-analysis
+category: abolition
 tags:
   - prisons
+  - prisoner-solidarity
+  - Mark-Barnsley
+  - anarchist-prisoners
+  - Russia
+  - Oregon
+  - political-prisoners
 ---
 
 Round up of prisoner solidarity from Black Flag #218, 1999.

@@ -1,11 +1,15 @@
 ---
-title: Against the (new and old) familism down with the family! - humanaesfera
-author: "libcom.org"
-date: 1970
+title: "Against the (new and old) familism - down with the family!"
+author: "humanaesfera"
+date: 2015
 category: theory
 tags:
-  - technology
-  - digital rights
+  - family
+  - capitalism
+  - familism
+  - critique
+  - anarchism
+  - reproduction
 ---
 
 ## **Tags:** education
