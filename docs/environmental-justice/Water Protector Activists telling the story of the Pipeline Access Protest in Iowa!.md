@@ -1,11 +1,16 @@
 ---
-title: "Water Protector Activists telling the story of the Pipeline Access Protest in Iowa!"
-author: "Ahmed Tharwat -"
+title: "Water Protector Activists Telling the Story of the Pipeline Access Protest in Iowa"
+author: "Ahmed Tharwat"
 date: 2016
 category: environmental-justice
 tags:
   - protests
-  - fossil fuels
+  - fossil-fuels
+  - Dakota-Access-Pipeline
+  - water-protectors
+  - Mississippi-Stand
+  - direct-action
+  - Iowa
 ---
 
 ## **Source:** https://ecology.iww.org/node/1872

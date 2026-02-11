@@ -1,7 +1,7 @@
 ---
 title: "Common Tactics Of Landlords"
 author: "RSTU"
-date: 2025
+date: 2024
 category: notes
 tags:
   - landlord-tactics
@@ -9,6 +9,7 @@ tags:
   - organizing-notes
   - rent-increases
   - eviction
+  - meeting-notes
 ---
 
 View notes from original meeting: Educational Material Planning 6/20/25

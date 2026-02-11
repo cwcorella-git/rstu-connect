@@ -1,12 +1,16 @@
 ---
-title: 'Chapter Seven: The Social Ecology of Urbanization'
+title: "Urbanization Without Cities: The Rise and Decline of Citizenship"
 author: "Murray Bookchin"
-date: 1860
-category: arts-culture-music
+date: 1992
+category: theory
 tags:
   - environment
   - urban
   - Bookchin
+  - citizenship
+  - municipalism
+  - social-ecology
+  - civic-freedom
 ---
 
 ### **Urbanization Without Cities**

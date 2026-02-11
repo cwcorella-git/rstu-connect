@@ -1,9 +1,15 @@
 ---
-title: Against the Logic of Submission Audio book - Audio Anarchy
-author: "libcom.org"
-category: arts-culture-music
+title: "Against the Logic of Submission"
+author: "Wolfi Landstreicher"
+date: 2009
+category: theory
 tags:
   - anarchism
+  - insurrection
+  - domination
+  - submission
+  - Audio-Anarchy
+  - Wolfi-Landstreicher
 ---
 
 An audio book of Wolfi Landstreicher's essay Against the Logic of Submission. Created by the group Audio Anarchy.

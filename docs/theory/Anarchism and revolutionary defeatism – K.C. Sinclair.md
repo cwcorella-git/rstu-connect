@@ -1,7 +1,7 @@
 ---
 title: "Anarchism and Revolutionary Defeatism"
 author: "K.C. Sinclair"
-date: 2024
+date: 2025
 category: theory
 tags:
   - revolutionary-defeatism

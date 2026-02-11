@@ -1,10 +1,15 @@
 ---
-title: From Riot to Insurrection
-author: "Alfredo Bonanno"
+title: "From Riot to Insurrection"
+author: "Alfredo M. Bonanno"
 date: 1985
-category: contemporary-analysis
+category: theory
 tags:
   - riots
+  - insurrection
+  - anarchism
+  - Alfredo-Bonanno
+  - post-industrial-capitalism
+  - revolutionary-strategy
 ---
 
 **Analysis for an anarchist perspective against post-industrial capitalism**
