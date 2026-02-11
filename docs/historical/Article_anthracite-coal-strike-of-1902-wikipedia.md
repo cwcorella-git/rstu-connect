@@ -1,13 +1,17 @@
 ---
 title: "Anthracite Coal Strike of 1902"
-author: "Wikipedia"
-date: 1902
-category: labor
+author: "Wikipedia contributors"
+date: 2020
+category: historical
 tags:
   - coal-miners
   - strikes
   - Pennsylvania
-  - history
+  - 1902
+  - UMWA
+  - John-Mitchell
+  - Theodore-Roosevelt
+  - labor-history
 ---
 
 Anthracite coal strike of 1902 - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...

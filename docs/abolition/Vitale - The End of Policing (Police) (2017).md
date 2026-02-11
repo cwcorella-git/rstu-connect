@@ -1,12 +1,16 @@
 ---
-title: Vitale The End Of Policing
-author: Alex S. Vitale
-date: '2017'
+title: "The End of Policing"
+author: "Alex S. Vitale"
+date: 2017
 category: abolition
 tags:
   - police
   - abolition
-  - prisons
+  - police-reform
+  - Alex-Vitale
+  - broken-windows
+  - mass-incarceration
+  - criminalization
 ---
 
 The problem is not police training, police diversity, or police methods. The problem is the dramatic and unprecedented expansion and intensity of policing in the last forty years, a fundamental shift in the role of police in society. The problem is policing itself.

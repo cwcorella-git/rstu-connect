@@ -1,11 +1,17 @@
 ---
-title: 'For a Transnational Fall of Struggle: Strike the Climate Crisis!'
-author: "TSS PLATFORM -"
+title: "For a Transnational Fall of Struggle: Strike the Climate Crisis!"
+author: "Transnational Social Strike Platform (TSS)"
 date: 2022
-category: feminist-theory
+category: environmental-justice
 tags:
+  - climate-crisis
   - strikes
-  - environment
+  - Ukraine-war
+  - energy-crisis
+  - green-transition
+  - transnational-organizing
+  - DontPayUK
+  - fossil-fuels
 ---
 
 ## **Source:** https://ecology.iww.org/node/5094

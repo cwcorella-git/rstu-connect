@@ -1,11 +1,16 @@
 ---
-title: "Hong Kong, a struggle for bourgeois freedoms trapped within the limits of capitalism and politi"
-author: "libcom.org"
-date: 2014
-category: labor
+title: "Hong Kong: A Struggle for Bourgeois Freedoms Trapped Within the Limits of Capitalism and Political Submission"
+author: "Mouvement Communiste / Kolektivně proti Kapitălu"
+date: 2019
+category: international-solidarity
 tags:
-  - capitalism
-  - liberty
+  - Hong-Kong
+  - Umbrella-Movement
+  - democracy
+  - China
+  - protest-movement
+  - bourgeois-democracy
+  - imperialism
 ---
 
 Text analysing the recent, and continuing, democracy protests in Hong Kong.

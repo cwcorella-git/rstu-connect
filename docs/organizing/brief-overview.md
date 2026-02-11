@@ -1,11 +1,16 @@
 ---
-title: "Brief-overview"
-author: Reno Sparks Tenants Union
-date: '2025'
+title: "A Brief Overview of How to Organize a Tenants Association"
+author: "Reno Sparks Tenants Union"
+date: 2023
 category: organizing
 tags:
   - organizing
-  - direct-action
+  - tenants-associations
+  - tenant-organizing
+  - RSTU
+  - how-to
+  - mutual-aid
+  - collective-bargaining
 ---
 
 What is a Tenants
