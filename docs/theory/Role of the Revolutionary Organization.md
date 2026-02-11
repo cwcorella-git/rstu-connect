@@ -1,11 +1,16 @@
 ---
-title: Black Rose Anarchist Federation
-author: "Anarchist Federation"
+title: "Role of the Revolutionary Organization"
+author: "Black Rose Anarchist Federation"
 date: 2019
-category: contemporary-analysis
+category: theory
 tags:
   - anarchism
-  - theory
+  - organizing
+  - Black-Rose
+  - revolutionary-organization
+  - mass-work
+  - platformism
+  - political-strategy
 ---
 
 # **Role of the Revolutionary Organization**

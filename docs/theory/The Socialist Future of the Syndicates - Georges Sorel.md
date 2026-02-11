@@ -1,11 +1,15 @@
 ---
-title: The Socialist Future of the Syndicates - Georges Sorel
-author: "libcom.org"
+title: "The Socialist Future of the Syndicates"
+author: "Georges Sorel"
 date: 1898
-category: contemporary-analysis
+category: theory
 tags:
-  - socialism
-  - theory
+  - Georges-Sorel
+  - syndicalism
+  - Marxism
+  - trade-unions
+  - revolutionary-syndicalism
+  - 1898
 ---
 
 | Date: Unknown |

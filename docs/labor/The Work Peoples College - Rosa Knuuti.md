@@ -1,12 +1,18 @@
 ---
-title: The Work Peoples College - Rosa Knuuti
-author: "Industrial Workers of the World"
-date: 1908
-category: youth-student-organizing
+title: "The Work People's College"
+author: "Rosa Knuuti"
+date: 1921
+category: labor
 tags:
   - education
-  - students
-  - youth
+  - IWW
+  - Finnish-immigrants
+  - Duluth
+  - Minnesota
+  - industrial-unionism
+  - Rosa-Knuuti
+  - Work-Peoples-College
+  - 1920s
 ---
 
 An article by Rosa Knuuti about the courses offered by Work Peoples College, an IWW run school in Duluth, Minnesota that operated until the 1940s. Originally appeared in the Industrial Pioneer, October 1921 (Vol. 1, No. 9, Serial No. 9)

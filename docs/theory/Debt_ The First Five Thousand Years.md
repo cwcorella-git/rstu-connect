@@ -1,7 +1,7 @@
 ---
 title: "Debt: The First Five Thousand Years"
 author: "David Graeber"
-date: 2009
+date: 2011
 category: theory
 tags:
   - debt
@@ -11,6 +11,7 @@ tags:
   - virtual-money
   - credit
   - imperialism
+  - anthropology
 ---
 
 ## **David Graeber**

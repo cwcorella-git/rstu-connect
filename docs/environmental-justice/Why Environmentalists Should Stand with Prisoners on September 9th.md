@@ -1,10 +1,17 @@
 ---
-title: Why Environmentalists Should Stand with Prisoners on September 9th
+title: "Why Environmentalists Should Stand with Prisoners on September 9th"
+author: "Panagioti (Earth First! Newswire)"
 date: 2016
 category: environmental-justice
 tags:
   - prisons
   - environment
+  - Attica
+  - prison-strike
+  - IWOC
+  - September-9
+  - toxic-prisons
+  - 13th-Amendment
 ---
 
 | Date: Thu, 09/08/2016 - 09:56 |

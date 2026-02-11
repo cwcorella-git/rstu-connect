@@ -1,13 +1,16 @@
 ---
-title: 'Address rent now or homelessness later, lawmakers told'
-author: Nevada Current
-date: '2025'
+title: "Address Rent Now or Homelessness Later, Lawmakers Told"
+author: "Michael Lyle (Nevada Current)"
+date: 2023
 category: housing
 tags:
   - housing
-  - tenants-rights
+  - Nevada
   - rent
-  - tenants
+  - homelessness
+  - affordability
+  - rent-increases
+  - lawmakers
 ---
 
 Address rent now or homelessness later, lawmakers told   about:reader?url=https%3A%2F%2Fthisisreno.com%2...
