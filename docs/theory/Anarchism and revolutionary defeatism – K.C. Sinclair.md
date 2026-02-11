@@ -1,7 +1,7 @@
 ---
 title: "Anarchism and Revolutionary Defeatism"
 author: "K.C. Sinclair"
-date: 2025
+date: 2024
 category: theory
 tags:
   - revolutionary-defeatism
@@ -10,6 +10,10 @@ tags:
   - WWI
   - anti-militarism
   - colonialism
+  - Kropotkin
+  - Manifesto-of-the-Sixteen
+  - anti-imperialism
+  - Kanaky
 ---
 
 ## of the Sixteen

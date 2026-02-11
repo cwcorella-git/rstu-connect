@@ -1,10 +1,17 @@
 ---
-title: The Place of Anarchism in Socialistic Evolution
+title: "The Place of Anarchism in Socialistic Evolution"
+author: "Pëtr Kropotkin"
 date: 1884
-category: contemporary-analysis
+category: theory
 tags:
+  - Pëtr-Kropotkin
   - anarchism
   - socialism
+  - French-Revolution
+  - 1789
+  - economic-freedom
+  - liberty-equality-fraternity
+  - class-struggle
 ---
 
 ## Pëtr Kropotkin

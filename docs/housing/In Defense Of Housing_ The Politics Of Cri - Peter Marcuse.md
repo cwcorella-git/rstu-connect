@@ -1,11 +1,17 @@
 ---
-title: In Defense Of Housing  The Politics Of Cri
-author: Peter Marcuse
-date: '1872'
+title: "In Defense of Housing: The Politics of Crisis"
+author: "David Madden and Peter Marcuse"
+date: 2016
 category: housing
 tags:
   - housing
-  - tenants
+  - housing-crisis
+  - commodification
+  - financialization
+  - gentrification
+  - neoliberalism
+  - right-to-the-city
+  - Verso
 ---
 
 
