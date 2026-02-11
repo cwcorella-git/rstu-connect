@@ -1,11 +1,16 @@
 ---
-title: "If We Must Die: Bomani Shakur's statement on launching a hunger strike (January 2011)"
+title: "If We Must Die: Bomani Shakur's Statement on Launching a Hunger Strike (January 2011)"
 author: "Bomani Shakur"
 date: 2011
 category: abolition
 tags:
-  - strikes
-  - food
+  - hunger-strike
+  - Lucasville
+  - death-row
+  - Ohio
+  - prison-uprising
+  - solitary-confinement
+  - wrongful-conviction
 ---
 
 A statement by Bomani Shakur on the co-ordinated hunger strike launched by several Lucasville defendants in January 2011. This article was first published by the San Francisco Bay View.

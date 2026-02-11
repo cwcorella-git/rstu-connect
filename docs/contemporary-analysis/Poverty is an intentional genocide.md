@@ -1,11 +1,16 @@
 ---
-title: "Poverty is an intentional genocide."
-author:
+title: "Poverty is an Intentional Genocide"
+author: "Anonymous"
 date: 2023
-category: "contemporary-analysis"
+category: contemporary-analysis
 tags:
-  - analysis
-  - current-events
+  - poverty
+  - capitalism
+  - structural-violence
+  - imperialism
+  - manufactured-scarcity
+  - class-warfare
+  - healthcare
 ---
 
 Yes, that's right. I said genocide.

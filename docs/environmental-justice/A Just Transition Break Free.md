@@ -1,11 +1,15 @@
 ---
-title: 'A Just Transition: Break Free'
-author: "John Paul Wright -"
+title: "A Just Transition: Break Free"
+author: "John Paul Wright"
 date: 2016
-category: feminist-theory
+category: environmental-justice
 tags:
-  - just transition
-  - feminism
+  - just-transition
+  - railroads
+  - labor-history
+  - climate-justice
+  - green-unionism
+  - transportation
 ---
 
 ## Railroad Music. Org , May 17, 2016
