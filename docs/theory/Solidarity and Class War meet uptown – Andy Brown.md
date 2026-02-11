@@ -1,11 +1,19 @@
 ---
-title: Solidarity and Class War meet uptown – Andy Brown
-author: "Class War Federation"
-category: international-solidarity
+title: "Solidarity and Class War Meet Uptown: Interview with Class War Federation"
+author: "Andy Brown (interviewer)"
+date: 1986
+category: theory
 tags:
-  - solidarity
-  - anti-war
-  - class
+  - Class-War-Federation
+  - UK
+  - anarchism
+  - direct-action
+  - Bash-the-Rich
+  - Ian-Bone
+  - class-struggle
+  - 1980s
+  - propaganda
+  - tactics
 ---
 
 On the face of it, the arrival of a new anarchist group with a newspaper which outsells other libertarian papers several times over is a promising thing. But Class War's other tactics include organising 'Bash the Rich' outings and disrupting CND meetings. While Fleet Street brands them 'political nutters', some sections of the Left have reproved their behaviour as 'fascist'. What is their own view?

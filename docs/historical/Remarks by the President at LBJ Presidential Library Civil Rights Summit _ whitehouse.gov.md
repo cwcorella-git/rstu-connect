@@ -1,10 +1,17 @@
 ---
-title: "Obamawhitehouse.archives.gov"
+title: "Remarks by the President at LBJ Presidential Library Civil Rights Summit"
+author: "Barack Obama"
 date: 2014
-category: contemporary-analysis
+category: historical
 tags:
-  - analysis
-  - current-events
+  - Barack-Obama
+  - Civil-Rights-Act
+  - LBJ
+  - Lyndon-Johnson
+  - 50th-anniversary
+  - civil-rights
+  - John-Lewis
+  - voting-rights
 ---
 
 ## **Remarks by the President at LBJ Presidential Library Civil Rights Summit**

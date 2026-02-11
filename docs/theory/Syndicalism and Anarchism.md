@@ -1,11 +1,18 @@
 ---
-title: Syndicalism And Anarchism
-author: Pëtr Kropotkin
-date: '1908'
+title: "Syndicalism and Anarchism"
+author: "Emilio López Arango"
+date: 1925
 category: theory
 tags:
   - anarchism
   - syndicalism
+  - anarcho-syndicalism
+  - FORA
+  - Argentina
+  - La-Protesta
+  - Malatesta
+  - labor-movement
+  - revolutionary-unionism
 ---
 
 ## (FORA), Scott Nappalos, Emilio Lopez Arango, PDF

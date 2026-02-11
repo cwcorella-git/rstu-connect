@@ -1,11 +1,18 @@
 ---
-title: The Public Duty Doctrine and Its Implications for Police Officers
-date: 1856
+title: "The Public Duty Doctrine and Its Implications for Police Officers"
+author: "Scott Savage"
+date: 2023
 category: abolition
 tags:
   - police
-  - technology
-  - digital rights
+  - public-duty-doctrine
+  - police-liability
+  - Supreme-Court
+  - Warren-v-DC
+  - DeShaney
+  - Castle-Rock-v-Gonzales
+  - legal
+  - law-enforcement
 ---
 
 ## [savagetraininggroup.com](https://savagetraininggroup.com/public-duty-doctrine-implications-police-officers/)
