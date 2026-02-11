@@ -1,11 +1,16 @@
 ---
-title: "Our activism will be intersectional, or it will be bullshit…"
-author: "Industrial Workers of the World"
+title: "Our Activism Will Be Intersectional, or It Will Be Bullshit"
+author: "Ali Tamlit / Red Pepper"
 date: 2017
-category: "contemporary-analysis"
+category: "organizing"
 tags:
-  - analysis
-  - current-events
+  - intersectionality
+  - Black-Lives-Matter
+  - climate-justice
+  - Standing-Rock
+  - NODAPL
+  - racism
+  - environmental-justice
 ---
 
 intersectionality, Black Lives Matter, Plane Stupid, NGO-industrial complex, Big Green By Ali Tamlit - Red Pepper

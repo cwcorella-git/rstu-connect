@@ -1,12 +1,17 @@
 ---
-title: Worker Solidarity with Camp Makwa and the Movement for Environmental Justice
-author: "Industrial Workers of the World"
+title: "Worker Solidarity with Camp Makwa and the Movement for Environmental Justice"
+author: "Twin Cities GDC"
 date: 2017
 category: environmental-justice
 tags:
-  - solidarity
-  - labor
-  - environment
+  - Camp-Makwa
+  - Line-3-Pipeline
+  - Enbridge
+  - water-protectors
+  - IWW
+  - Twin-Cities
+  - just-transition
+  - indigenous-solidarity
 ---
 
 ## **Source:** https://ecology.iww.org/node/2696

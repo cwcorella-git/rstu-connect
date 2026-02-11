@@ -1,11 +1,17 @@
 ---
-title: Picket Line Lessons the Utla Teacher Strike
-author: Black Rose
-date: '2025'
+title: "Picket Line Lessons: The UTLA Teacher Strike"
+author: "Black Rose Anarchist Federation"
+date: 2019
 category: labor
 tags:
   - strikes
   - education
+  - teachers
+  - UTLA
+  - Los-Angeles
+  - Black-Rose-Anarchist-Federation
+  - charter-schools
+  - rank-and-file
 ---
 
 States, education, strikes, schools, Los Angeles, Black Rose Anarchist Federation,

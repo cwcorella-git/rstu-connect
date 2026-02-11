@@ -1,11 +1,14 @@
 ---
-title: An Anarchist Faq
-author: 'Dave Neal, Ed Boraas, Gary Elkin, Iain Mckay'
-date: '2025'
+title: "An Anarchist FAQ"
+author: "Iain McKay, Gary Elkin, Dave Neal, Ed Boraas"
+date: 2020
 category: theory
 tags:
   - anarchism
+  - FAQ
   - theory
+  - libertarian-socialism
+  - Anarchist-FAQ-Editorial-Collective
 ---
 
             The Anarchist FAQ Editorial Collective

@@ -1,13 +1,17 @@
 ---
-title: Earth Strike 20 September
-author: Industrial Workers of the World
-date: '2025'
-category: labor
+title: "Earth Strike 20 September"
+author: "EUC Dan / Bristol IWW"
+date: 2019
+category: environmental-justice
 tags:
-  - strikes
-  - labor
-  - unions
-  - workers
+  - climate-strike
+  - Earth-Strike
+  - IWW
+  - Environmental-Unionism-Caucus
+  - Bristol
+  - green-syndicalism
+  - Extinction-Rebellion
+  - Fridays-for-Future
 ---
 
 Earth Strike, Climate Strike, Industrial Workers of the World (IWW), IWW Environmental Unionism Caucus, green syndicalism, green unionism, Extinction Rebellion (XR),
