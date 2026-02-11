@@ -1,10 +1,14 @@
 ---
 title: '[VIDEO] Power to End Capitalism: The Case for Workplace Organizing'
-author: "Industrial Workers of the World"
+author: "IWW"
+date: 2020
 category: organizing
 tags:
   - organizing
-  - capitalism
+  - workplace
+  - revolution
+  - IWW
+  - video
 ---
 
 Organizing as workers gives us the power to improve our lives in the short-term and abolish capitalism in the long-term. So to say this is an important topic is an understatement! And that's what this video is all about.

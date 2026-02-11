@@ -1,11 +1,14 @@
 ---
 title: 'Just Transition, System Change, and Revolutionary Green Transformation'
-author: "That Green Union Guy -"
+author: "IWW Environmental Unionism Caucus"
 date: 2016
-category: feminist-theory
+category: environmental-justice
 tags:
-  - just transition
-  - feminism
+  - just-transition
+  - climate-change
+  - renewable-energy
+  - fossil-fuels
+  - workers
 ---
 
 ## **Source:** https://ecology.iww.org/node/1619

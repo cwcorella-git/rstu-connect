@@ -2,10 +2,13 @@
 title: "Majority Rule"
 author: "James Herod"
 date: 2001
-category: "contemporary-analysis"
+category: "theory"
 tags:
-  - analysis
-  - current-events
+  - democracy
+  - decision-making
+  - anarchism
+  - political-philosophy
+  - consensus
 ---
 
 ## James Herod

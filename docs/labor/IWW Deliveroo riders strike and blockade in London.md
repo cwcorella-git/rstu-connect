@@ -1,12 +1,15 @@
 ---
 title: IWW Deliveroo riders strike and blockade in London
-author: "Industrial Workers of the World"
-category: contemporary-analysis
+author: "IWW London Branch"
+date: 2019
+category: labor
 tags:
   - strikes
-  - blockades
-  - unions
-  - gig economy
+  - Deliveroo
+  - gig-economy
+  - IWW
+  - London
+  - direct-action
 ---
 
 Deliveroo riders organising with the London IWWhave been taking spontaneous action for improved wages and working conditions, shutting down one of Deliveroo's 'dark kitchens' in Swiss Cottage, North-West London.

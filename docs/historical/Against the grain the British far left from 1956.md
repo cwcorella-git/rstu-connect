@@ -1,12 +1,15 @@
 ---
 title: 'Against the grain: the British far left from 1956'
-author: "libcom.org"
-date: 1956
-category: international-solidarity
+author: "Evan Smith & Matthew Worley (eds.)"
+date: 2014
+category: historical
 tags:
-  - United Kingdom
-  - technology
-  - digital rights
+  - United-Kingdom
+  - far-left
+  - post-1956
+  - Labour-Party
+  - Trotskyism
+  - anarchism
 ---
 
 ## Direct Action Movement (DAM), Red Action, PDF
