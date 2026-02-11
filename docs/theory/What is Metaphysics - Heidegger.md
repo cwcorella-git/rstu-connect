@@ -1,10 +1,15 @@
 ---
-title: "Introduction to 'What is Metaphysics?' Getting to the Bottom of Metaphysics (1949)2"
+title: "What is Metaphysics?"
+author: "Martin Heidegger"
 date: 1929
-category: contemporary-analysis
+category: theory
 tags:
-  - analysis
-  - current-events
+  - Heidegger
+  - philosophy
+  - metaphysics
+  - existentialism
+  - phenomenology
+  - Being
 ---
 
 #### **MARTIN HEIDEGGER**

@@ -1,12 +1,16 @@
 ---
-title: The Abolition of Work
+title: "The Abolition of Work"
 author: "Bob Black"
 date: 1991
-category: contemporary-analysis
+category: abolition
 tags:
-  - abolition
-  - police
-  - prisons
+  - work-abolition
+  - Bob-Black
+  - anti-work
+  - play
+  - ludic
+  - post-left-anarchy
+  - autonomy
 ---
 
 ## Bob Black

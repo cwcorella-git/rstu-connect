@@ -1,12 +1,16 @@
 ---
 title: 'Entrevista a Xuân Rayne: Vietnamita, anarquista, trabajadora sexual'
-author: "libcom.org"
+author: "Mèo Mun / Grupo Anarquista Aurora"
 date: 2018
 category: labor
 tags:
-  - labor
-  - unions
-  - workers
+  - sex-work
+  - labor-rights
+  - Vietnam
+  - anarchism
+  - queer
+  - non-binary
+  - Spanish-translation
 ---
 
 ## Xuân Rayne, police
