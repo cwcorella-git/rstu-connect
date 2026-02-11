@@ -1,12 +1,17 @@
 ---
-title: Business unionism vs revolutionary unionism - Dave Neal
-author: "Industrial Workers of the World"
-date: 1919
+title: "Business Unionism vs Revolutionary Unionism"
+author: "Dave Neal"
+date: 2006
 category: labor
 tags:
-  - labor
-  - unions
-  - workers
+  - business-unionism
+  - revolutionary-unionism
+  - IWW
+  - AFL-CIO
+  - globalization
+  - labor-decline
+  - organizing
+  - Knights-of-Labor
 ---
 
 A piece on the decline of business unions and the opportunities this has opened up for a resurgent Revolutionary Union movement.

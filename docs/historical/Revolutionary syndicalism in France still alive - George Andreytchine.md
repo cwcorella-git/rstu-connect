@@ -1,11 +1,19 @@
 ---
-title: Revolutionary syndicalism in France still alive - George Andreytchine
-author: "libcom.org"
-date: 1910
-category: theory
+title: "Revolutionary Syndicalism in France Still Alive"
+author: "George Andreytchine"
+date: 1920
+category: historical
 tags:
-  - syndicalism
   - France
+  - syndicalism
+  - CGT
+  - WWI
+  - Pierre-Monatte
+  - Merrheim
+  - Zimmerwald
+  - La-Vie-Ouvriere
+  - 1919
+  - Lyon-Congress
 ---
 
 A look at labor in post-World War I France. George Andreytchine reports on the struggle within the CGT and the role of its various syndicalist, Communist, and Socialist tendencies before and during its September 1919 Lyon Congress. Originally appeared in the One Big Union Monthly(January 1920).

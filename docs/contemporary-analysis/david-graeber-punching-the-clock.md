@@ -1,10 +1,17 @@
 ---
-title: Punching the Clock
-author: David Graeber
-date: June 2018
+title: "Punching the Clock"
+author: "David Graeber"
+date: 2018
 category: contemporary-analysis
 tags:
-  - Graeber
+  - David-Graeber
+  - bullshit-jobs
+  - work
+  - meaning
+  - purpose
+  - Karl-Groos
+  - alienation
+  - labor
 ---
 
 Everyone is familiar with the sorts of jobs whose purpose is difficult to discern: HR consultants, PR researchers, communications coordinators, financial strategists, logistics managers. The list is endless.

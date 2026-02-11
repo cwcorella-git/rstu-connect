@@ -1,12 +1,18 @@
 ---
-title: 'Utopia: Industrial Workers Taking the Wheel'
-author: "Hilary Wainwright -"
+title: "Utopia: Industrial Workers Taking the Wheel"
+author: "Hilary Wainwright"
 date: 2017
-category: contemporary-analysis
+category: labor
 tags:
-  - labor
-  - unions
-  - workers
+  - Lucas-Plan
+  - Lucas-Aerospace
+  - workers-control
+  - socially-useful-production
+  - UK
+  - 1970s
+  - Tony-Benn
+  - industrial-conversion
+  - economic-democracy
 ---
 
 ## **Source:** https://ecology.iww.org/node/2018
