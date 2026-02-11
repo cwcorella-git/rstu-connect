@@ -1,12 +1,15 @@
 ---
-title: "Newham Monitoring Project annual reports"
-author: "libcom.org"
-date: 1983
-category: "contemporary-analysis"
+title: "Newham Monitoring Project annual reports (1983-2005)"
+author: "Newham Monitoring Project"
+date: 2005
+category: "abolition"
 tags:
-  - analysis
-  - current-events
-  - libcom
+  - Newham-Monitoring-Project
+  - police-monitoring
+  - anti-racism
+  - UK
+  - Asians
+  - 1980s-2000s
 ---
 
 | Date: Unknown |

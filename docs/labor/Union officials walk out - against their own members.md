@@ -5,8 +5,11 @@ date: 2018
 category: labor
 tags:
   - unions
-  - technology
-  - digital rights
+  - UCU
+  - UK
+  - union-bureaucracy
+  - Sally-Hunt
+  - pensions-dispute
 ---
 
 Officials of the education union UCU have downed tools and walked out - from their own annual congress.

@@ -1,11 +1,14 @@
 ---
 title: Insurrectionary Mutual Aid
-author: Curious George Brigade
-date: '2025'
+author: "Curious George Brigade"
+date: 2009
 category: organizing
 tags:
-  - mutual aid
-  - organizing
+  - mutual-aid
+  - insurrection
+  - Curious-George-Brigade
+  - anarchism
+  - direct-action
 ---
 
             Curious George Brigade

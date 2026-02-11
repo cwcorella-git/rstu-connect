@@ -1,11 +1,14 @@
 ---
-title: 'Persistent WRAP URL:'
-author: "Climate Crisis"
-date: 1983
+title: "Climate Crisis, Racist Crisis: Racial Capitalism and Climate (In)Justice"
+author: "Leon Sealey-Huggins"
+date: 2018
 category: environmental-justice
 tags:
-  - environment
-  - climate
+  - climate-change
+  - racial-capitalism
+  - environmental-racism
+  - climate-justice
+  - Leon-Sealey-Huggins
 ---
 
 

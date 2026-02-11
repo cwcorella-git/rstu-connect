@@ -1,11 +1,15 @@
 ---
-title: "How europe underdeveloped AFRICA"
+title: "How Europe Underdeveloped Africa"
 author: "Walter Rodney"
-date: 2011
+date: 1972
 category: international-solidarity
 tags:
-  - international
-  - solidarity
+  - Africa
+  - colonialism
+  - imperialism
+  - Walter-Rodney
+  - underdevelopment
+  - capitalism
 ---
 
 
