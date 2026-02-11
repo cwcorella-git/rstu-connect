@@ -1,12 +1,17 @@
 ---
-title: Us Coal Miners Strikes 1894 Jeremy Brecher
-author: "libcom.org"
-date: '2025'
-category: labor
+title: "U.S. Coal Miners' Strikes 1894"
+author: "Jeremy Brecher"
+date: 1972
+category: historical
 tags:
-  - labor
-  - unions
-  - workers
+  - strikes
+  - United-Mine-Workers
+  - coal-mining
+  - 1894
+  - Western-Federation-of-Miners
+  - AFL
+  - labor-history
+  - general-strike
 ---
 
 Brecher, United States, strikes, general strikes, repression, mining, coal, AFL, United

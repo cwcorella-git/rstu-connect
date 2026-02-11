@@ -1,11 +1,15 @@
 ---
-title: "Dollars and Dissent"
+title: "Dollars and Dissent: Donor Support for Grassroots Organizing and Nonviolent Movements"
 author: "Benjamin Naimark-Rowse"
 date: 2022
-category: "contemporary-analysis"
+category: "organizing"
 tags:
-  - analysis
-  - current-events
+  - fundraising
+  - donor-support
+  - grassroots-organizing
+  - nonviolent-movements
+  - ICNC
+  - philanthropy
 ---
 
 Donor Support for Grassroots Organizing and Nonviolent Movements

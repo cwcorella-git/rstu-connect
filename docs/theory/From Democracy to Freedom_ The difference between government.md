@@ -1,11 +1,14 @@
 ---
-title: What Is Democracy?
+title: "From Democracy to Freedom: The Difference Between Government and Self-Determination"
 author: "CrimethInc."
 date: 2017
-category: contemporary-analysis
+category: theory
 tags:
   - democracy
-  - liberty
+  - anarchism
+  - self-determination
+  - direct-action
+  - critique-of-democracy
 ---
 
 

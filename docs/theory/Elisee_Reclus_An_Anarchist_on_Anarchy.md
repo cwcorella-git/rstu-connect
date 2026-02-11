@@ -1,10 +1,15 @@
 ---
-title: An Anarchist on Anarchy
-author: "Elisee Reclus"
-category: contemporary-analysis
+title: "An Anarchist on Anarchy"
+author: "Elisée Reclus"
+date: 1884
+category: theory
 tags:
   - anarchism
-  - theory
+  - Elisée-Reclus
+  - justice
+  - brotherhood
+  - equality
+  - 19th-century
 ---
 
 ## *by Elisée Reclus*
