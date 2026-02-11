@@ -1,12 +1,13 @@
 ---
-title: Anarchist Pedagogies
-author: Robert H. Haworth
-date: '2012'
-category: housing
+title: "Anarchist Pedagogies: Collective Actions, Theories, and Critical Reflections on Education"
+author: "Robert H. Haworth"
+date: 2012
+category: youth-student-organizing
 tags:
   - anarchism
-  - housing
-  - tenants
+  - education
+  - pedagogy
+  - radical-education
 ---
 
 # **Robert H. Haworth**

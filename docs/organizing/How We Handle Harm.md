@@ -1,10 +1,15 @@
 ---
-title: "Punch Up * Kick Down Distro How We Handle Harm"
-date: 2025
-category: "contemporary-analysis"
+title: "How We Handle Harm: Contextualizing Harmful Behavior, Understanding Accountability & Exploring Community Response to Interpersonal Violence"
+author: "Punch Up Kick Down Distro"
+date: 2022
+category: organizing
 tags:
-  - analysis
-  - current-events
+  - accountability
+  - transformative-justice
+  - community-response
+  - sexual-violence
+  - abolition
+  - zine
 ---
 
 ## **Contextualizing Harmful Behavior Understanding Accountability & Exploring Community Response to Interpersonal Violence**

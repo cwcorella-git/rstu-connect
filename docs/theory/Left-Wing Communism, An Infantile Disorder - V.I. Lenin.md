@@ -1,10 +1,14 @@
 ---
-title: Little Lenin Library Volume 20
-author: V. I. Lenin
+title: "Left-Wing Communism: An Infantile Disorder"
+author: "V. I. Lenin"
 date: 1920
-category: contemporary-analysis
+category: theory
 tags:
-  - theory
+  - Lenin
+  - communism
+  - Marxism
+  - strategy
+  - tactics
 ---
 
 "LEFT-WING"

@@ -1,11 +1,14 @@
 ---
-title: Murray Bookchin Social Ecology and Communalism 2006
+title: "Social Ecology and Communalism"
 author: "Murray Bookchin"
-date: 2002
+date: 2006
 category: environmental-justice
 tags:
   - environment
   - Bookchin
+  - social-ecology
+  - communalism
+  - libertarian-municipalism
 ---
 
 #### **An Introduction to Social Ecology and Communalism What is Social Ecology?**

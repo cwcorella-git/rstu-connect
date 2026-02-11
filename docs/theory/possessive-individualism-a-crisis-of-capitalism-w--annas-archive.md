@@ -1,10 +1,13 @@
 ---
-title: Possessive Individualism
-author:
+title: "Possessive Individualism: A Crisis of Capitalism"
+author: "Daniel W. Bromley"
 date: 2019
-category: contemporary-analysis
+category: theory
 tags:
   - capitalism
+  - individualism
+  - political-economy
+  - crisis
 ---
 
 ## RISISOF

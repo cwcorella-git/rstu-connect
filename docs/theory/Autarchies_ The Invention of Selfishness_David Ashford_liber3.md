@@ -1,10 +1,13 @@
 ---
-title: "Autarchies"
+title: "Autarchies: The Invention of Selfishness"
+author: "David Ashford"
 date: 2017
-category: "contemporary-analysis"
+category: theory
 tags:
-  - analysis
-  - current-events
+  - selfishness
+  - individualism
+  - political-philosophy
+  - anarchism
 ---
 
 
