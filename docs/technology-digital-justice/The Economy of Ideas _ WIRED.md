@@ -1,10 +1,16 @@
 ---
-title: The Economy of Ideas
+title: "The Economy of Ideas: A Framework for Patents and Copyrights in the Digital Age"
+author: "John Perry Barlow"
 date: 1994
-category: economic-alternatives
+category: technology-digital-justice
 tags:
-  - economics
-  - alternatives
+  - John-Perry-Barlow
+  - intellectual-property
+  - copyright
+  - patents
+  - digital-rights
+  - cyberspace
+  - WIRED
 ---
 
 #### [web.archive.org](https://web.archive.org/web/20190223232929/https://www.wired.com/1994/03/economy-ideas/)

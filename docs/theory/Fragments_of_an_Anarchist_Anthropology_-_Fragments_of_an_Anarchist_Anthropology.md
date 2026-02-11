@@ -1,11 +1,16 @@
 ---
-title: Fragments of an Anarchist Anthropology
-author: David Graeber
-date: '2004'
+title: "Fragments of an Anarchist Anthropology"
+author: "David Graeber"
+date: 2004
 category: theory
 tags:
   - anarchism
-  - theory
+  - anthropology
+  - David-Graeber
+  - Kropotkin
+  - utopianism
+  - social-movements
+  - Prickly-Paradigm-Press
 ---
 
 Fragments of an Anarchist Anthropology David Graeber

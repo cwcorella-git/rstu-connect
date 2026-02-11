@@ -1,11 +1,16 @@
 ---
-title: 'Make Your Own Tea: Women''s Realm and Other Recipes and Patterns'
-author: "libcom.org"
-date: 1977
+title: "Make Your Own Tea: Women's Realm and Other Recipes and Patterns"
+author: "Class War"
+date: 1997
 category: feminist-theory
 tags:
-  - women
   - feminism
+  - Class-War
+  - women-organizing
+  - gender
+  - working-class-feminism
+  - UK
+  - leftist-sexism
 ---
 
 Article from issue 73 of Class War looking at the reasons why so few women joined Class War (and other revolutionary groups).

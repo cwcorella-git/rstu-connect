@@ -1,12 +1,18 @@
 ---
-title: "There Is No Revolution without Madness."
-author: "La Marr"
+title: "There Is No Revolution without Madness"
+author: "Ismatu / threadings."
 date: 2023
-category: "contemporary-analysis"
+category: "theory"
 tags:
-  - analysis
-  - current-events
   - revolution
+  - sanity
+  - madness
+  - La-Marr-Jurelle-Bruce
+  - world-making
+  - capitalism
+  - Sudan
+  - Palestine
+  - grief
 ---
 
 this is an essay once entitled, "revolutionary love costs you your sanity, at minimum. are we sincerely prepared for it to cost us our life?"

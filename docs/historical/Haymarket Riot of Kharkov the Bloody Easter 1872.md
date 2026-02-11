@@ -1,10 +1,17 @@
 ---
-title: '''Haymarket Riot'' of Kharkov: the Bloody Easter 1872'
-author: "libcom.org"
-date: 1872
-category: contemporary-analysis
+title: "'Haymarket Riot' of Kharkov: The Bloody Easter 1872"
+author: "Anarchist Kharkiv"
+date: 2022
+category: historical
 tags:
-  - riots
+  - Kharkov
+  - Kharkiv
+  - Ukraine
+  - 1872
+  - police-riot
+  - workers-uprising
+  - tsarist-Russia
+  - Russian-invasion-2022
 ---
 
 Mikhailovska square (in Soviet times - Rudneva, now - Heavenly Hundred) has long been a traditional place for mass celebrations of Kharkiv residents. In 1872, Easter fell on April 16, but the fun did not last long. The holiday was interrupted by a street fight that escalated into a massacre. For several days, the townspeople beat the cops and smashed the police stations. To pacify the unrest, were used the military troops. This was the first mass action of the workers and artisans of Kharkov against the tsarist regime.
