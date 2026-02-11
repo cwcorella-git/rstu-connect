@@ -1,10 +1,16 @@
 ---
-title: What makes me tired when organising with middle class comrades
-author: "Industrial Workers of the World"
+title: "What Makes Me Tired When Organising with Middle Class Comrades"
+author: "Nicole Vosper"
 date: 2016
-category: contemporary-analysis
+category: organizing
 tags:
   - class
+  - organizing
+  - middle-class
+  - working-class
+  - class-struggle
+  - Nicole-Vosper
+  - Guardian
 ---
 
 class struggle, movement politics, Industrial Workers of the World (IWW), green unionism By Nicole Vosper - The Guardian , June 8, 2016

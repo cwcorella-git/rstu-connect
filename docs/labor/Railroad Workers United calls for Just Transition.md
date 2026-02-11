@@ -1,12 +1,18 @@
 ---
-title: Railroad Workers United calls for Just Transition
-author: "Industrial Workers of the World"
+title: "Railroad Workers United Calls for Just Transition"
+author: "Railroad Workers United"
 date: 2016
-category: feminist-theory
+category: labor
 tags:
   - labor
-  - just transition
+  - just-transition
   - railroads
+  - RWU
+  - green-unionism
+  - fossil-fuels
+  - climate
+  - coal
+  - crude-by-rail
 ---
 
 | Date: Mon, 04/04/2016 - 16:12 |
