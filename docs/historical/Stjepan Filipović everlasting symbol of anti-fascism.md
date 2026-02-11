@@ -1,10 +1,16 @@
 ---
-title: 'Stjepan Filipovi■: everlasting symbol of anti-fascism'
-author: "libcom.org"
-date: 1942
-category: contemporary-analysis
+title: "Stjepan Filipović: Everlasting Symbol of Anti-Fascism"
+author: "libcom contributors"
+date: 2015
+category: historical
 tags:
   - antifascism
+  - Yugoslavia
+  - Croatia
+  - World-War-II
+  - 1942
+  - partisans
+  - communism
 ---
 
 ## WWII resistance

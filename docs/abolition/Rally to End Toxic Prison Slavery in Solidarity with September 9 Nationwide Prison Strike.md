@@ -1,12 +1,16 @@
 ---
 title: "Rally to End Toxic Prison Slavery in Solidarity with September 9 Nationwide Prison Strike"
-author: "Industrial Workers of the World"
+author: "Campaign to Fight Toxic Prisons"
 date: 2016
-category: contemporary-analysis
+category: abolition
 tags:
   - strikes
   - solidarity
   - prisons
+  - prison-strike
+  - IWOC
+  - September-9
+  - Attica
 ---
 
 ## **Source:** https://ecology.iww.org/node/1741

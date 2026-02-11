@@ -1,10 +1,14 @@
 ---
-title: Consumption
-author: David Graeber
-date: August 2011
-category: contemporary-analysis
+title: "Consumption"
+author: "David Graeber"
+date: 2011
+category: theory
 tags:
   - Graeber
+  - consumption
+  - possessive-individualism
+  - desire
+  - anthropology
 ---
 
 Beginning in the 1980s, anthropologists began to be bombarded with endless—and often strangely moralistic—exhortations to acknowledge the importance of something referred to as “consumption.” The exhortations were effective; for the past 2 decades, the term has become a staple of theoretical discourse. Rarely, however, do anthropologists examine it: asking themselves why it is that almost all forms of human self-expression or enjoyment are now being seen as analogous to eating food. This essay seeks to investigate how this came about, beginning with medieval European theories of desire and culminating in the argument that the notion of consumption ultimately resolves certain conceptual problems in possessive individualism.

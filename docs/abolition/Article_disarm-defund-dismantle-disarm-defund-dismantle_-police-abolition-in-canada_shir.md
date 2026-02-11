@@ -1,12 +1,14 @@
 ---
-title: "Disarm Defund Dismantle Disarm Defund Dismantle Police Abolition in Canada Shir"
-author: 'Shiri Pasternak, Kevin Walby, Abby Stadnyk'
-date: '2025'
+title: "Disarm, Defund, Dismantle: Police Abolition in Canada"
+author: "Shiri Pasternak, Kevin Walby, Abby Stadnyk"
+date: 2022
 category: abolition
 tags:
   - police
   - abolition
   - Canada
+  - decolonization
+  - settler-colonialism
 ---
 
 Cover image for Disarm, Defund, Dismantle. The cover features an illustration of an old, out of use police car overgrown by weeds and large yellow flowers.

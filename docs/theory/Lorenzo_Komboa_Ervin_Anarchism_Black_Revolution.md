@@ -1,11 +1,14 @@
 ---
-title: Anarchism and the Black Revolution
-author: "Lorenzo Komboa"
+title: "Anarchism and the Black Revolution"
+author: "Lorenzo Kom'boa Ervin"
 date: 1983
-category: contemporary-analysis
+category: theory
 tags:
   - anarchism
   - theory
+  - Black-anarchism
+  - white-supremacy
+  - anti-racism
 ---
 
 ## Lorenzo Kom'boa Ervin
