@@ -1,10 +1,14 @@
 ---
-title: Bakunin And Marx A Letter To Anton Pannekoek Kenneth
-author: Joseph Kenafick
-date: '1949'
+title: "Bakunin and Marx: A Letter to Anton Pannekoek"
+author: "Kenneth Joseph Kenafick"
+date: 1949
 category: theory
 tags:
   - Bakunin
+  - Marx
+  - Pannekoek
+  - anarchism
+  - Marxism
   - theory
 ---
 

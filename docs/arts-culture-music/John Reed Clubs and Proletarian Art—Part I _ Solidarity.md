@@ -1,10 +1,14 @@
 ---
 title: John Reed Clubs and Proletarian Art—Part I
 author: "Andrew Hemingway"
-date: 1933
+date: 2010
 category: arts-culture-music
 tags:
-  - solidarity
+  - art
+  - proletarian-art
+  - John-Reed-Clubs
+  - Communist-Party
+  - 1930s
 ---
 
 ### **— Andrew Hemingway**

@@ -1,11 +1,14 @@
 ---
 title: Richmond IWW May Day Platform
-author: "Joe Sabo -"
+author: "Joe Sabo"
 date: 2018
 category: labor
 tags:
-  - unions
-  - gig economy
+  - IWW
+  - May-Day
+  - Richmond
+  - labor-movement
+  - solidarity
 ---
 
 ## **Source:** https://ecology.iww.org/node/2864

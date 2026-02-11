@@ -1,12 +1,14 @@
 ---
 title: 'Against war, against power: statement from the CRIFA meeting of IFA'
-author: "libcom.org"
+author: "International of Anarchist Federations (IFA)"
 date: 2025
 category: international-solidarity
 tags:
   - anti-war
-  - technology
-  - digital rights
+  - NATO
+  - anarchism
+  - IFA
+  - militarism
 ---
 
 A statement from the International of Anarchist Federations (IFA) encouraging anarchists to oppose and protest the 2025 NATO Summit that took place at the World Forum in The Hague, Netherlands, from June 24 to 26. Originally posted: May 5, 2025 atIFA

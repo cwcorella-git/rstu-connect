@@ -1,5 +1,5 @@
 ---
-title: "Bay Area IWW General Membership Branch Endorses Resolution in Support of Public Ownership of the Railroad"
+title: "Bay Area IWW Endorses Resolution in Support of Public Ownership of the Railroad"
 author: "Bay Area IWW General Membership Branch"
 date: 2023
 category: labor
@@ -9,6 +9,7 @@ tags:
   - nationalization
   - transportation
   - public-ownership
+  - Railroad-Workers-United
 ---
 
 | Date: Thu, 03/02/2023 - 00:00 |
