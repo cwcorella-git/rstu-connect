@@ -1,13 +1,18 @@
 ---
-title: "Work Week Radio: AFL-CIO and Opposition To Pipeline and Brazilian Workers Strike"
-author: "Steve Zeltser -"
+title: "Work Week Radio: AFL-CIO and Opposition to Pipeline and Brazilian Workers Strike"
+author: "Steve Zeltser"
 date: 2016
 category: labor
 tags:
   - strikes
   - unions
   - labor
-  - fossil fuels
+  - fossil-fuels
+  - DAPL
+  - Standing-Rock
+  - Brazil
+  - Work-Week-Radio
+  - KPFA
 ---
 
 ## **Source:** https://ecology.iww.org/node/1830

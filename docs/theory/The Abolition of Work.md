@@ -1,12 +1,16 @@
 ---
-title: The Abolition Of Work
-author: 'Bob Black, Bruno Borges (Illustrator)'
-date: '2024'
-category: abolition
+title: "The Abolition of Work"
+author: "Bob Black"
+date: 1991
+category: theory
 tags:
-  - abolition
-  - police
-  - prisons
+  - anti-work
+  - Bob-Black
+  - anarchism
+  - play
+  - leisure
+  - work-abolition
+  - ludic-revolution
 ---
 
 ## **Bob Black**

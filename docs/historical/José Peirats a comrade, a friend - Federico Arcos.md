@@ -1,8 +1,8 @@
 ---
-title: "José Peirats: a comrade, a friend - Federico Arcos"
-author: "Confederación Nacional del Trabajo"
-date: 1962
-category: "contemporary-analysis"
+title: "José Peirats: A Comrade, A Friend"
+author: "Federico Arcos"
+date: 1990
+category: historical
 tags:
   - federico-arcos
   - josé-peirats
@@ -10,7 +10,9 @@ tags:
   - anarchism
   - anarcho-syndicalism
   - obituaries
-  - solidaridad-obrera
+  - CNT
+  - Spain
+  - Spanish-Revolution
 ---
 
 An obituary written by Federico Arcos of Spanish anarcho-syndicalist José Peirats. Originally appeared in Fifth Estate # 333, Winter, 1990
