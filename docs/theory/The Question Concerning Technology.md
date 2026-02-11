@@ -1,9 +1,16 @@
 ---
-title: The Question Concerning Technology
+title: "The Question Concerning Technology"
+author: "Martin Heidegger"
+date: 1954
 category: theory
 tags:
-  - technology
-  - digital rights
+  - Martin-Heidegger
+  - phenomenology
+  - philosophy-of-technology
+  - instrumental-reason
+  - essence
+  - causality
+  - enframing
 ---
 
 

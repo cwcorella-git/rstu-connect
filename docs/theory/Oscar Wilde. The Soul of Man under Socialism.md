@@ -1,9 +1,17 @@
 ---
-title: "Oscar Wilde 1891"
+title: "The Soul of Man under Socialism"
+author: "Oscar Wilde"
 date: 1891
-category: contemporary-analysis
+category: theory
 tags:
-  - theory
+  - Oscar-Wilde
+  - socialism
+  - individualism
+  - anarchism
+  - property
+  - charity
+  - poverty
+  - art
 ---
 
 ## The Soul of Man under Socialism

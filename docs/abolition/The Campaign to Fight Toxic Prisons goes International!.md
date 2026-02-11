@@ -1,12 +1,18 @@
 ---
-title: The Campaign to Fight Toxic Prisons goes International!
-author: "Industrial Workers of the World"
+title: "The Campaign to Fight Toxic Prisons Goes International!"
+author: "Fight Toxic Prisons Campaign"
 date: 2017
 category: abolition
 tags:
-  - prisons
-  - technology
-  - digital rights
+  - toxic-prisons
+  - environmental-justice
+  - prison-abolition
+  - UK
+  - IWOC
+  - IWW
+  - Prison-Ecology-Project
+  - Earth-First
+  - mass-incarceration
 ---
 
 toxics, Prison Ecology Project, prison labor, class war prisoners, Earth First!, IWOC, Industrial Workers of the World (IWW), green unionism By Fight Toxic Prisons.org - Earth First! Newswire , September 16, 2017 We're Hitting the Road with the U. K. "End Toxic Prisons" Tour. Check out dates and details below. This Autumn, the Campaign to Fight Toxic Prisons will be touring the UK with Community Action on Prison Expansion.

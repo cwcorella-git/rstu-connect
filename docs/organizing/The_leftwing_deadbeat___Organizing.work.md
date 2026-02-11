@@ -1,10 +1,17 @@
 ---
-title: The leftwing deadbeat – Organizing.work
-author: Creativ Themes
-date: '2020'
+title: "The Leftwing Deadbeat"
+author: "MK Lees and Marianne Garneau"
+date: 2020
 category: organizing
 tags:
   - organizing
+  - workplace-organizing
+  - DSA
+  - IWW
+  - organizing-committee
+  - labor
+  - leftists
+  - class-struggle
 ---
 
 The leftwing deadbeat – Organizing.work https://organizing.work/2020/05/the-leftwing-deadbeat/

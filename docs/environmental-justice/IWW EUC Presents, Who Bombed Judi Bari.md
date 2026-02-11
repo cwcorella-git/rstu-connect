@@ -1,12 +1,19 @@
 ---
-title: 'IWW EUC Presents, Who Bombed Judi Bari?'
-author: "Industrial Workers of the World"
+title: "IWW EUC Presents: Who Bombed Judi Bari?"
+author: "IWW Environmental Unionism Caucus"
 date: 2023
-category: contemporary-analysis
+category: environmental-justice
 tags:
-  - unions
-  - labor
-  - workers
+  - Judi-Bari
+  - IWW
+  - green-unionism
+  - Earth-First
+  - Redwood-Summer
+  - FBI
+  - COINTELPRO
+  - timber-workers
+  - class-struggle-environmentalism
+  - just-transition
 ---
 
 IWW Environmental Unionism Caucus Fellow Workers! You are invited to a Zoom meeting. When: May 28, 2023 07:00 PM Universal Time UTC In honor of Judi Bari Day (May 24), the WISERA IWW Environmental Committee and NARA IWW Eco Union Caucus present a showing of the documentary, "Who Bombed Judi Bari?" https://youtu.be/HWApxv SjMKY

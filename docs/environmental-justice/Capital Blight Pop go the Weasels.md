@@ -1,10 +1,18 @@
 ---
-title: 'Capital Blight: Pop go the Weasels'
-author: "Industrial Workers of the World"
+title: "Capital Blight: Pop Go the Weasels"
+author: "x344543 / IWW Environmental Unionism Caucus"
 date: 2016
-category: contemporary-analysis
+category: environmental-justice
 tags:
-  - capitalism
+  - coal
+  - climate-change
+  - fossil-fuels
+  - stranded-assets
+  - China
+  - Sierra-Club
+  - Greenpeace
+  - air-pollution
+  - IWW
 ---
 
 ## **Source:** https://ecology.iww.org/node/1604
