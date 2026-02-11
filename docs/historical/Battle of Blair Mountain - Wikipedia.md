@@ -1,14 +1,17 @@
 ---
 title: "Battle of Blair Mountain"
-author: "Wikipedia"
+author: "Wikipedia contributors"
 date: 1921
 category: historical
 tags:
   - labor-history
   - coal-miners
   - West-Virginia
-  - strikes
+  - Coal-Wars
   - armed-struggle
+  - UMW
+  - Baldwin-Felts
+  - Matewan
   - 1921
 ---
 

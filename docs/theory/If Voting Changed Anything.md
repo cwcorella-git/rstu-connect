@@ -1,13 +1,16 @@
 ---
 title: "If Voting Changed Anything..."
-author: "libcom.org"
+author: "Black Flag Collective"
 date: 1995
-category: "contemporary-analysis"
+category: theory
 tags:
-  - black-flag
-  - state
-  - murray-bookchin
+  - Black-Flag
   - electoralism
+  - Murray-Bookchin
+  - libertarian-municipalism
+  - anti-statism
+  - UK-anarchism
+  - IWCA
 ---
 
 A critical article on the electoralism of Murray Bookchin and the Independent Working Class Association from Black Flag#207 (1995)

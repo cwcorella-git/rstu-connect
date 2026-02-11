@@ -2,7 +2,7 @@
 title: "Voodoo Doughnut Workers Hold National Day of Action"
 author: "Shawn Kinnaman"
 date: 2021
-category: environmental-justice
+category: labor
 tags:
   - IWW
   - Portland
@@ -12,6 +12,7 @@ tags:
   - heat-wave
   - climate-emergency
   - workplace-safety
+  - green-unionism
   - Pacific-Northwest
 ---
 

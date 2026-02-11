@@ -1,16 +1,16 @@
 ---
 title: "Social Problems"
 author: "Henry George"
-date: "1883"
-category: "housing"
+date: 1883
+category: economic-alternatives
 tags:
-  - georgism
+  - Georgism
   - land-value-tax
-  - land
-  - economics
-  - social-reform
-  - poverty
+  - land-reform
   - political-economy
+  - poverty
+  - Henry-George
+  - single-tax
 ---
 
 *By Henry George (1883)*

@@ -1,11 +1,16 @@
 ---
-title: '1974: Ethiopian General Strike'
-author: "libcom.org"
+title: "1974: Ethiopian General Strike"
+author: "Global Nonviolent Action Database"
 date: 1974
-category: labor
+category: historical
 tags:
-  - general strikes
-  - strikes
+  - general-strike
+  - Ethiopia
+  - Haile-Selassie
+  - CELU
+  - labor-history
+  - Addis-Ababa
+  - 1974
 ---
 
 In 1974 the regime of Emperor Selassie was badly shaken, the student protests shut down the education system and there were mutinies in the army. In addition the Main Trade Union Confederation kicked off a general strike. Most of the protests where about wages and benefits, which were largely won, but the events would also mark the beginning of the Emperor's downfall.
