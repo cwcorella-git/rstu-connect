@@ -12,6 +12,7 @@ const log = createLogger('AdminSettings')
 
 import { safeGetJson, safeSetItem } from '../utils/safeStorage'
 import { isAdmin } from './profileStorage'
+import type { Tab } from '@/contexts/TabContext'
 
 // ============================================================================
 // Types
@@ -33,6 +34,12 @@ export interface AdminSettings {
 
   // Landing page as home
   landingAsHome: boolean    // Default users to landing page
+
+  // Custom Navigation Labels (admin-editable)
+  customNavLabels?: Record<Tab, string>  // Custom labels for each tab
+
+  // Custom Navigation Order (admin-controlled)
+  navOrder?: Tab[]                       // Custom navigation order
 
   // Metadata
   lastUpdatedBy: string | null
@@ -58,6 +65,8 @@ export const DEFAULT_ADMIN_SETTINGS: AdminSettings = {
     userFeedback: true,     // User feedback system enabled
   },
   landingAsHome: true,      // Landing page is the home
+  customNavLabels: {},      // Empty = use translation keys
+  navOrder: ['landing', 'home', 'reading', 'mutualAid', 'resources', 'tools', 'profile', 'governance'],
   lastUpdatedBy: null,
   lastUpdatedAt: null,
   version: CURRENT_VERSION,
@@ -85,6 +94,8 @@ export function getAdminSettings(): AdminSettings {
       ...DEFAULT_ADMIN_SETTINGS.features,
       ...stored.features,
     },
+    customNavLabels: stored.customNavLabels || DEFAULT_ADMIN_SETTINGS.customNavLabels,
+    navOrder: stored.navOrder || DEFAULT_ADMIN_SETTINGS.navOrder,
   }
 }
 
@@ -210,5 +221,136 @@ export function resetAdminSettings(adminProfileId?: string): AdminSettings | nul
     return reset
   }
   return null
+}
+
+// ============================================================================
+// Navigation Customization Functions
+// ============================================================================
+
+/**
+ * Get custom label for a tab (returns null if using default translation)
+ */
+export function getNavLabel(tabId: Tab): string | null {
+  const settings = getAdminSettings()
+  return settings.customNavLabels?.[tabId] || null
+}
+
+/**
+ * Set custom label for a tab (admin only)
+ */
+export function setNavLabel(tabId: Tab, customLabel: string, adminProfileId?: string): boolean {
+  if (!isAdmin()) {
+    log.warn('Non-admin attempted to set nav label')
+    return false
+  }
+
+  const current = getAdminSettings()
+  const updated = updateAdminSettings({
+    customNavLabels: {
+      ...current.customNavLabels,
+      [tabId]: customLabel,
+    },
+  }, adminProfileId)
+
+  return updated !== null
+}
+
+/**
+ * Reset a tab label to use translation key (admin only)
+ */
+export function resetNavLabel(tabId: Tab, adminProfileId?: string): boolean {
+  if (!isAdmin()) {
+    log.warn('Non-admin attempted to reset nav label')
+    return false
+  }
+
+  const current = getAdminSettings()
+  const newLabels = { ...current.customNavLabels }
+  delete newLabels[tabId]
+
+  const updated = updateAdminSettings({
+    customNavLabels: newLabels,
+  }, adminProfileId)
+
+  return updated !== null
+}
+
+/**
+ * Get current navigation order
+ */
+export function getNavOrder(): Tab[] {
+  const settings = getAdminSettings()
+  return settings.navOrder || DEFAULT_ADMIN_SETTINGS.navOrder!
+}
+
+/**
+ * Set custom navigation order (admin only)
+ */
+export function setNavOrder(order: Tab[], adminProfileId?: string): boolean {
+  if (!isAdmin()) {
+    log.warn('Non-admin attempted to set nav order')
+    return false
+  }
+
+  // Validate that all tabs are present (no duplicates, no missing)
+  const defaultOrder = DEFAULT_ADMIN_SETTINGS.navOrder!
+  if (order.length !== defaultOrder.length) {
+    log.warn('Invalid nav order: incorrect length')
+    return false
+  }
+
+  const orderSet = new Set(order)
+  if (orderSet.size !== order.length) {
+    log.warn('Invalid nav order: contains duplicates')
+    return false
+  }
+
+  for (const tab of defaultOrder) {
+    if (!orderSet.has(tab)) {
+      log.warn(`Invalid nav order: missing tab ${tab}`)
+      return false
+    }
+  }
+
+  const updated = updateAdminSettings({
+    navOrder: order,
+  }, adminProfileId)
+
+  return updated !== null
+}
+
+/**
+ * Move a tab left or right in the navigation order (admin only)
+ */
+export function moveTab(tabId: Tab, direction: 'left' | 'right', adminProfileId?: string): boolean {
+  if (!isAdmin()) {
+    log.warn('Non-admin attempted to move tab')
+    return false
+  }
+
+  const currentOrder = getNavOrder()
+  const index = currentOrder.indexOf(tabId)
+
+  if (index === -1) {
+    log.warn(`Tab ${tabId} not found in nav order`)
+    return false
+  }
+
+  // Can't move left from first position
+  if (direction === 'left' && index === 0) {
+    return false
+  }
+
+  // Can't move right from last position
+  if (direction === 'right' && index === currentOrder.length - 1) {
+    return false
+  }
+
+  // Create new order with swapped positions
+  const newOrder = [...currentOrder]
+  const swapIndex = direction === 'left' ? index - 1 : index + 1
+  ;[newOrder[index], newOrder[swapIndex]] = [newOrder[swapIndex], newOrder[index]]
+
+  return setNavOrder(newOrder, adminProfileId)
 }
 
