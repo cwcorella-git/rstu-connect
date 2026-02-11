@@ -1,11 +1,14 @@
 ---
-title: Bullshit Jobs - David Graeber
-author: BULLSHIT JOBS
-date: '2018'
+title: "Bullshit Jobs: A Theory"
+author: "David Graeber"
+date: 2018
 category: theory
 tags:
-  - Graeber
-  - theory
+  - David-Graeber
+  - work
+  - capitalism
+  - meaningless-jobs
+  - labor-critique
 ---
 
 ## INTERNATIONAL BESTSELLING AUTHOR OF DEBT

@@ -1,6 +1,6 @@
 ---
 title: "Northeast Ohio Protesters Demand Justice for East Palestine Train Derailment"
-author: "x409232"
+author: "Industrial Worker"
 date: 2023
 category: environmental-justice
 tags:
@@ -12,7 +12,7 @@ tags:
   - environmental-disaster
   - Railroad-Workers-United
   - RWU
-  - x409232
+  - class-I-railroads
 ---
 
 | Date: Tue, 06/20/2023 - 00:00 |

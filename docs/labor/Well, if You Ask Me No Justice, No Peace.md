@@ -1,11 +1,15 @@
 ---
-title: 'Well, if You Ask Me: No Justice, No Peace'
-author: "Dano T Bob -"
+title: "Well, if You Ask Me: No Justice, No Peace"
+author: "Dano T Bob (IWW Environmental Unionism Caucus)"
 date: 2015
-category: international-solidarity
+category: labor
 tags:
-  - anti-war
-  - peace
+  - Upper-Big-Branch
+  - Don-Blankenship
+  - mining-disaster
+  - workplace-safety
+  - coal-mining
+  - West-Virginia
 ---
 
 ## **Source:** https://ecology.iww.org/node/1427
