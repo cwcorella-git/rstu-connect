@@ -1,11 +1,14 @@
 ---
-title: "To Change Everything An Anarchist Appeal Crimethinc Crimethinc 8677beaca38aba07c"
-author: CrimethInc.
-date: '2025'
+title: "To Change Everything: An Anarchist Appeal"
+author: "CrimethInc. Ex-Workers Collective"
+date: 2015
 category: theory
 tags:
   - anarchism
-  - theory
+  - CrimethInc
+  - self-determination
+  - anti-authority
+  - manifesto
 ---
 
 If you could change anything, what would you change? Would you go on vacation for the rest of your life? Make fossil fuels stop causing climate change? Ask for ethical banks and politicians? Surely nothing could be more unrealistic than to keep everything the way it is and expect different results. Our private nancial and emotional struggles mirror global upheaval and disaster. We could spend the rest of our days trying to douse these res one by one, but they stem from the same source. No piecemeal solution will serve; we need to rethink everything according to a different logic.

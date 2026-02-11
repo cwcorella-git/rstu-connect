@@ -1,13 +1,17 @@
 ---
-title: "FOB unanimously agree to ICL membership!"
-author: "libcom.org"
+title: "FOB Unanimously Agrees to ICL Membership"
+author: "International Confederation of Labour (ICL-CIT)"
 date: 2025
-category: "contemporary-analysis"
+category: international-solidarity
 tags:
-  - international-confederation-of-labour
+  - International-Confederation-of-Labour
+  - ICL
   - anarcho-syndicalism
   - syndicalism
-  - brazil
+  - Brazil
+  - FOB
+  - FORA
+  - Argentina
 ---
 
 A brief article announcing that the Federação das Organizações Sindicalistas Revolucionárias do Brasil (FOB) has affiliated with the revolutionary syndicalist/anarcho-syndicalist International Confederation of Labor.

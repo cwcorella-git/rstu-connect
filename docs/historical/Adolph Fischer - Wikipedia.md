@@ -1,10 +1,16 @@
 ---
-title: Adolph Fischer
+title: "Adolph Fischer"
 author: "Wikipedia contributors"
-date: 1984
-category: theory
+date: 2020
+category: historical
 tags:
-  - theory
+  - Haymarket
+  - Haymarket-Martyrs
+  - Chicago
+  - anarchism
+  - 1887
+  - Adolph-Fischer
+  - execution
 ---
 
 Contributors to Wikimedia projects

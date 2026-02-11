@@ -1,11 +1,17 @@
 ---
-title: To Libertarians - Guy Debord/International Friends
-author: "libcom.org"
+title: "To Libertarians"
+author: "Guy Debord (International Friends)"
 date: 1980
 category: international-solidarity
 tags:
-  - international
-  - solidarity
+  - Spain
+  - prisoner-solidarity
+  - Guy-Debord
+  - libertarian-prisoners
+  - CNT
+  - anarchism
+  - 1980s
+  - Segovia-prison
 ---
 
 A text on solidarity with libertarian prisoners in Spain, written by Guy Debord and circulated under the name "International Friends". This translation taken from Not Bored!,PDF version found at azinelibrary.org.

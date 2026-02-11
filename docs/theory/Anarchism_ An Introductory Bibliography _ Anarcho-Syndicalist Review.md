@@ -1,11 +1,15 @@
 ---
-title: 'Anarchism: An Introductory Bibliography: Anarcho-Syndicalist Review'
-author: James Herod
-date: 1969
-category: contemporary-analysis
+title: "Anarchism: An Introductory Bibliography"
+author: "James Herod"
+date: 2012
+category: theory
 tags:
   - anarchism
   - syndicalism
+  - bibliography
+  - anarcho-syndicalism
+  - reading-list
+  - James-Herod
 ---
 
 #### [syndicalist.us](https://syndicalist.us/theory/anarchism-an-introductory-bibliography/)
