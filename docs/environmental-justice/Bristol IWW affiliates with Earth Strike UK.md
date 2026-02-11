@@ -1,12 +1,17 @@
 ---
-title: Bristol IWW affiliates with Earth Strike UK
-author: "Industrial Workers of the World"
+title: "Bristol IWW Affiliates with Earth Strike UK"
+author: "Earth Strike UK Staff"
 date: 2022
-category: arts-culture-music
+category: environmental-justice
 tags:
-  - strikes
-  - unions
-  - United Kingdom
+  - Earth-Strike
+  - IWW
+  - Bristol
+  - UK
+  - climate-strike
+  - union-affiliation
+  - green-unionism
+  - general-strike
 ---
 
 ## **Source:** https://ecology.iww.org/node/4913

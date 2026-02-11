@@ -1,12 +1,17 @@
 ---
 title: "Post-conspiracy: Notes from an Egoist Criminologist"
-author: "libcom.org"
-date: 1979
-category: "contemporary-analysis"
+author: "Anonymous / Black Committee"
+date: 2020
+category: theory
 tags:
-  - analysis
-  - current-events
-  - libcom
+  - egoism
+  - Stirner
+  - insurrection
+  - illegalism
+  - post-left-anarchy
+  - Indonesia
+  - Jakarta
+  - criminology
 ---
 
 Do not mistake this for a manifesto. This is a criminologist's autopsy report on a rotting social order. I have grown tired of the naive formulas of organizations and collectives, which inevitably replicate the very systems of control they claim to oppose. My disillusionment, born from a hypocritical discipline and a personal history of systemic violence, forced me to look outside the law and its false morality. What I found in the shadows was not a new ideology, but a pattern of action I call Post-conspiracy: a form of spontaneous, sequential illegalism driven by individual will, not collective hope. This text is not a blueprint for a better future; it is an analysis of how the sovereign Ego moves and disrupts the present. If you are looking for hope, look elsewhere.

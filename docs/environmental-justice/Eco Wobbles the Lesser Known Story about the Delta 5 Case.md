@@ -1,12 +1,17 @@
 ---
-title: 'Eco Wobbles: the Lesser Known Story about the Delta 5 Case'
-author: "Industrial Workers of the World"
+title: "Eco Wobbles: The Lesser Known Story about the Delta 5 Case"
+author: "x344543"
 date: 2016
-category: contemporary-analysis
+category: environmental-justice
 tags:
-  - unions
-  - labor
-  - workers
+  - Delta-5
+  - direct-action
+  - oil-trains
+  - climate-justice
+  - IWW
+  - BNSF
+  - Everett
+  - necessity-defense
 ---
 
 ## **Source:** https://ecology.iww.org/node/1474
