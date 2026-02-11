@@ -1,11 +1,16 @@
 ---
-title: Six Myths About Union Action Notes From Sweden
-author: Rasmus Hästbacka
-date: '2025'
+title: "Six Myths About Union Action: Notes from Sweden"
+author: "Rasmus Hästbacka"
+date: 2021
 category: labor
 tags:
   - unions
   - Sweden
+  - SAC
+  - syndicalism
+  - organizing-strategy
+  - rank-and-file
+  - workers-power
 ---
 
 This article was published in Swedish on April 28, 2021 in the union paperArbetaren. It has been translated for Libcom by the author. Therafter published by theIndustrial Workerin a slightly different version.

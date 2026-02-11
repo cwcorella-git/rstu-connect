@@ -1,9 +1,16 @@
 ---
-title: ANARCHY 43
+title: "Anarchy #43: Parents and Teachers"
+author: "Freedom Press"
 date: 1964
-category: contemporary-analysis
+category: historical
 tags:
   - anarchism
+  - Anarchy-magazine
+  - education
+  - 1960s
+  - UK
+  - pedagogy
+  - libertarian-education
 ---
 
 ## **TWO SHILLINGS THIRTY CENTS**

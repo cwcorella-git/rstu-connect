@@ -1,12 +1,17 @@
 ---
-title: "Knife crime - analysing a moral panic"
-author: "libcom.org"
-date: 2007
-category: "contemporary-analysis"
+title: "Knife Crime - Analysing a Moral Panic"
+author: "KojoRTE"
+date: 2019
+category: abolition
 tags:
-  - analysis
-  - current-events
-  - libcom
+  - moral-panic
+  - knife-crime
+  - UK
+  - policing
+  - stop-and-search
+  - Stuart-Hall
+  - youth-violence
+  - racism
 ---
 
 ## **Tags:** violence, police, United Kingdom

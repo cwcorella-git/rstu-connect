@@ -1,12 +1,18 @@
 ---
-title: "Militarization & Economic Transformation in Colombia & Mexico Drug War Capitalism By Dawn Paley"
-author: "Drug War"
-date: 1980
-category: theory
+title: "Drug War Capitalism"
+author: "Dawn Paley"
+date: 2014
+category: international-solidarity
 tags:
-  - anti-war
+  - drug-war
   - capitalism
   - Mexico
+  - Colombia
+  - militarization
+  - paramilitary
+  - imperialism
+  - extractive-industries
+  - Central-America
 ---
 
 IN BOTH THE United States and Canada there have been sustained grassroots efforts to spotlight the unjust mass incarceration and criminalization of poor people, and especially poor people of color, for drug-related arrests. But there has been too little analysis about the reasons behind and mechanisms of this war, and its economic impact on Mexico and beyond.
