@@ -1,11 +1,14 @@
 ---
 title: 1950 Austrian General Strike
-author: Global Nonviolent Action Database
-date: '2025'
-category: labor
+author: "Global Nonviolent Action Database"
+date: 2013
+category: historical
 tags:
-  - general strikes
-  - strikes
+  - general-strike
+  - Austria
+  - 1950
+  - Communist-Party
+  - Cold-War
 ---
 
 In post war Austria the rivalry between the Communist party and the Social Democrats came to ahead in 1950 with the Communist party initiated strike call out. The strike failed largely due to the resistance of the Social Democrat labour organisations.

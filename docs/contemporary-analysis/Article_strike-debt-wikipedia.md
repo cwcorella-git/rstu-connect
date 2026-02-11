@@ -1,11 +1,15 @@
 ---
-title: Strike Debt Wikipedia
-author: David Graeber
-date: '2025'
-category: labor
+title: Strike Debt
+author: "Wikipedia"
+date: 2024
+category: contemporary-analysis
 tags:
-  - strikes
-  - debt
+  - Strike-Debt
+  - debt-abolition
+  - Occupy-Wall-Street
+  - Rolling-Jubilee
+  - David-Graeber
+  - mutual-aid
 ---
 
 Strike Debt - Wikipedia https://en.wikipedia.org/wiki/Strike_Debt

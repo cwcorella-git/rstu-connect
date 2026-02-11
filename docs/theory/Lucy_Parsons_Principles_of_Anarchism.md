@@ -2,10 +2,13 @@
 title: The Principles of Anarchism
 author: "Lucy Parsons"
 date: 1905
-category: contemporary-analysis
+category: theory
 tags:
   - anarchism
-  - theory
+  - Lucy-Parsons
+  - 1905
+  - anti-statism
+  - Chicago
 ---
 
 ## Lucy E. Parsons

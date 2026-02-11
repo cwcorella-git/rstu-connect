@@ -1,10 +1,15 @@
 ---
-title: "Preface"
-date: 1901
-category: "contemporary-analysis"
+title: "What is to be Done?"
+author: "Vladimir Lenin"
+date: 1902
+category: "historical"
 tags:
-  - analysis
-  - current-events
+  - Lenin
+  - Bolshevism
+  - vanguardism
+  - Russian-Revolution
+  - Marxism-Leninism
+  - 1902
 ---
 
 ## What is to be Done?
