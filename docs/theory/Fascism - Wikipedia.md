@@ -1,12 +1,15 @@
 ---
 title: "Fascism"
-author: "Wikipedia contributors"
-date: 2018
-category: "contemporary-analysis"
+author: "Wikipedia"
+date: 2024
+category: "theory"
 tags:
-  - analysis
-  - current-events
-  - wikipedia
+  - fascism
+  - far-right
+  - authoritarianism
+  - ultranationalism
+  - totalitarianism
+  - political-ideology
 ---
 
 

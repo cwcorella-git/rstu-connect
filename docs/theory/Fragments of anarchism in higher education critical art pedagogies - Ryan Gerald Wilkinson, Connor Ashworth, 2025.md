@@ -1,6 +1,6 @@
 ---
 title: "Fragments of Anarchism in Higher Education: Critical Art Pedagogies"
-author: "Connor Ashworth"
+author: "Ryan Gerald Wilkinson and Connor Ashworth"
 date: 2024
 category: theory
 tags:
@@ -11,6 +11,7 @@ tags:
   - pedagogy
   - UK
   - art-education
+  - grounded-theory
 ---
 
 #### [journals.sagepub.com](https://journals.sagepub.com/doi/full/10.1177/14740222241313303)
