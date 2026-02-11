@@ -1,12 +1,16 @@
 ---
-title: "Lansing Correctional: Prison uprising put down as US inmates demand protection from coronavirus"
-author: "libcom.org"
+title: "Lansing Correctional: Prison Uprising Put Down as US Inmates Demand Protection from Coronavirus"
+author: "The Guardian"
 date: 2020
 category: abolition
 tags:
   - prisons
-  - covid-19
-  - riots
+  - COVID-19
+  - prison-uprising
+  - Kansas
+  - Lansing-Correctional-Facility
+  - prisoner-rights
+  - pandemic
 ---
 
 ## **Tags:** Kansas, prisons, Covid-19

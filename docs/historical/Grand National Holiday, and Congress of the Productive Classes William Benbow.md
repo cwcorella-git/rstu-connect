@@ -1,12 +1,16 @@
 ---
-title: "Grand National Holiday, and Congress of the Productive Classes: William Benbow"
+title: "Grand National Holiday, and Congress of the Productive Classes"
 author: "William Benbow"
-category: "contemporary-analysis"
+date: 1832
+category: "historical"
 tags:
-  - general-strikes
-  - 1800s
-  - 1830s
-  - william-benbow
+  - general-strike
+  - William-Benbow
+  - Chartists
+  - Sacred-Month
+  - 1832
+  - labor-history
+  - UK
 ---
 
 ## **Source:**

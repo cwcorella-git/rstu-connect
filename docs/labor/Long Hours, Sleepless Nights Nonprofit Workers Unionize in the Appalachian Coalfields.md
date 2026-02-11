@@ -1,12 +1,17 @@
 ---
 title: "Long Hours, Sleepless Nights: Nonprofit Workers Unionize in the Appalachian Coalfields"
-author: "Caitlin Myers -"
+author: "Caitlin Myers / Strike Wave"
 date: 2021
-category: environmental-justice
+category: labor
 tags:
-  - labor
-  - environment
-  - climate
+  - nonprofit-workers
+  - IWW
+  - OVEC
+  - West-Virginia
+  - Appalachia
+  - union-busting
+  - burnout
+  - environmental-organizing
 ---
 
 ## **Source:** https://ecology.iww.org/node/4410

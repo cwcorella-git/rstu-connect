@@ -1,19 +1,17 @@
 ---
 title: "Reflections on Sentencing"
-author: "The Heathrow 13 -"
+author: "The Heathrow 13 / Plane Stupid"
 date: 2016
-category: "contemporary-analysis"
+category: "environmental-justice"
 tags:
-  - plane-stupid
-  - heathrow
-  - ella-gilbert
-  - bec-sanderson
-  - kara-moses
+  - Plane-Stupid
+  - Heathrow
+  - Heathrow-13
   - climate-justice
-  - green-syndicalism
-  - green-unionism
   - direct-action
-  - blockadia
+  - sentencing
+  - UK
+  - prison
 ---
 
 ## **Source:** https://ecology.iww.org/node/1547

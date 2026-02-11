@@ -1,11 +1,16 @@
 ---
-title: The Cyber Anarchist Manifesto
-author: Timothy C. May
-date: '2025'
-category: theory
+title: "The Cyber-Anarchist Manifesto"
+author: "Anarchist Federation of Cyber Communes (AF2C)"
+date: 2023
+category: technology-digital-justice
 tags:
   - anarchism
-  - theory
+  - internet
+  - AF2C
+  - cyber-anarchism
+  - digital-organizing
+  - web
+  - federation
 ---
 
             Anarchist Federation of Cyber
