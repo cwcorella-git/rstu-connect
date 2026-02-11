@@ -1,11 +1,15 @@
 ---
-title: Anarchism Arguments For And Against 2023 Edition
-author: Ambrose Cuddon
-date: '1981'
+title: "Anarchism: Arguments For and Against [2023 Edition]"
+author: "Albert Meltzer"
+date: 2023
 category: theory
 tags:
   - anarchism
+  - Albert-Meltzer
   - theory
+  - working-class
+  - social-revolution
+  - Kate-Sharpley-Library
 ---
 
 ## **Tags:** Albert Meltzer, anarchism

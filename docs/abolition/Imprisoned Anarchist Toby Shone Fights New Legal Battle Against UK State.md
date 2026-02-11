@@ -1,11 +1,17 @@
 ---
-title: Imprisoned Anarchist Toby Shone Fights New Legal Battle Against UK State
+title: "Imprisoned Anarchist Toby Shone Fights New Legal Battle Against UK State"
+author: "Brighton Anarchist Black Cross"
 date: 2022
 category: abolition
 tags:
   - anarchism
   - prisons
-  - United Kingdom
+  - United-Kingdom
+  - Toby-Shone
+  - political-prisoners
+  - repression
+  - Counter-Terror
+  - de-radicalisation
 ---
 
 ## **Source:**

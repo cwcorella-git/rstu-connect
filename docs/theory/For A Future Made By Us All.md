@@ -1,9 +1,15 @@
 ---
-title: Rebel City London
-date: 2020
-category: contemporary-analysis
+title: "For A Future Made By Us All: Questions and Answers About Anarchism"
+author: "Rebel City London"
+date: 2023
+category: theory
 tags:
-  - urban
+  - anarchism
+  - FAQ
+  - introduction
+  - democracy
+  - self-organisation
+  - anti-state
 ---
 
 # **For A Future Made By Us All**

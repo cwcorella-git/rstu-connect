@@ -1,15 +1,17 @@
 ---
-title: "Berenguer, Sara (1919-2010)"
-author: "Confederación Nacional del Trabajo"
-date: 1938
-category: "contemporary-analysis"
+title: "Sara Berenguer (1919-2010)"
+author: "Nick Heath"
+date: 2024
+category: "feminist-theory"
 tags:
-  - nick-heath
+  - Sara-Berenguer
+  - biography
+  - Spanish-anarchism
+  - CNT
+  - Spanish-Revolution
   - women
-  - anarchists
-  - biographies
   - feminism
-  - confederación-nacional-del-trabajo
+  - Barcelona
 ---
 
 ## (CNT), Spain

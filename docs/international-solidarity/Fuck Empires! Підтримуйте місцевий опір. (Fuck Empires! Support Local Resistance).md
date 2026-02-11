@@ -2,14 +2,16 @@
 title: "Fuck Empires! Підтримуйте місцевий опір. (Fuck Empires! Support Local Resistance)"
 author: "Solidarity Collectives"
 date: 2025
-category: "contemporary-analysis"
+category: "international-solidarity"
 tags:
-  - solidarity-collectives
+  - Ukraine
+  - Russia
+  - anti-war
   - anarchism
   - anti-fascism
   - anti-imperialism
-  - anti-colonialism
-  - russia-
+  - solidarity
+  - Trump
 ---
 
 ## **Author:** Solidarity Collectives
