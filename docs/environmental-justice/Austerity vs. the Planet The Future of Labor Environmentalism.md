@@ -1,11 +1,17 @@
 ---
-title: 'Austerity vs. the Planet: The Future of Labor Environmentalism'
-author: "Trish Kahle -"
-date: 1969
-category: labor
+title: "Austerity vs. the Planet: The Future of Labor Environmentalism"
+author: "Trish Kahle"
+date: 2016
+category: environmental-justice
 tags:
-  - labor
-  - environment
+  - just-transition
+  - climate-justice
+  - labor-environmentalism
+  - COP21
+  - austerity
+  - fossil-fuels
+  - green-jobs
+  - ITUC
 ---
 
 ## **Source:** https://ecology.iww.org/node/1607

@@ -1,12 +1,17 @@
 ---
-title: Bayard Rustin
-author: "Wikipedia contributors"
-date: 1912
-category: labor
+title: "Bayard Rustin"
+author: "Wikipedia"
+date: 2024
+category: historical
 tags:
-  - labor
-  - unions
-  - workers
+  - Bayard-Rustin
+  - civil-rights
+  - March-on-Washington
+  - nonviolence
+  - gay-rights
+  - A-Philip-Randolph
+  - LGBTQ-history
+  - 1963
 ---
 
 

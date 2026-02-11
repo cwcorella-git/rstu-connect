@@ -1,8 +1,8 @@
 ---
 title: "The Iceland Women's Strike 1975"
 author: "Steven Johns"
-date: 1975
-category: labor
+date: 2013
+category: historical
 tags:
   - womens-strike
   - Iceland
@@ -12,6 +12,8 @@ tags:
   - Reykjavik
   - equal-pay
   - housework
+  - United-Nations-Day
+  - Red-Stockings
 ---
 
 Johns, women, strikes, schools, general strikes, finance, feminism, Iceland, housework,

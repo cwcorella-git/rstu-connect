@@ -1,11 +1,16 @@
 ---
 title: "How Western Mental Health Reinforces Capitalism"
-date: 1952
+author: "Hood Communist"
+date: 2025
 category: theory
 tags:
-  - socialism
-  - healthcare
+  - mental-health
   - capitalism
+  - psychiatry
+  - racism
+  - medical-industrial-complex
+  - drapetomania
+  - colonial-psychiatry
 ---
 
 
