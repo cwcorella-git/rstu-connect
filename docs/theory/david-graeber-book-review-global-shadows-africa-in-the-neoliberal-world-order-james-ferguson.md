@@ -1,10 +1,18 @@
 ---
-title: 'Global Shadows: Africa in the Neoliberal World Order.'
-author: David Graeber
-date: '2007'
-category: arts-culture-music
+title: "Global Shadows: Africa in the Neoliberal World Order"
+author: "David Graeber"
+date: 2007
+category: theory
 tags:
-  - Graeber
+  - David-Graeber
+  - book-review
+  - James-Ferguson
+  - neoliberalism
+  - Africa
+  - Zambia
+  - anthropology
+  - development
+  - extractive-economies
 ---
 
 **Global Shadows: Africa in the Neoliberal World Order.** James Ferguson. Durham: Duke University Press, 2006, 257 pp. $21.95

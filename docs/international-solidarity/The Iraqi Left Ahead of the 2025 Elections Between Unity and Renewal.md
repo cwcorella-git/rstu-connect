@@ -1,15 +1,17 @@
 ---
 title: "The Iraqi Left Ahead of the 2025 Elections: Between Unity and Renewal"
-author: "libcom.org"
+author: "Rezgar Akrawi"
 date: 2025
-category: "contemporary-analysis"
+category: "international-solidarity"
 tags:
-  - rezgar-akrawi
-  - ■■■■■-■■■■■■
-  - leftist-unity
+  - Iraq
+  - Kurdistan
   - elections
-  - iraqi-communist-party
-  - kurdistan
+  - leftist-unity
+  - Iraqi-Communist-Party
+  - Worker-Communist-Party
+  - democracy
+  - socialism
 ---
 
 Communist Party, Worker-Communist Party, socialism, democracy, progressive politics

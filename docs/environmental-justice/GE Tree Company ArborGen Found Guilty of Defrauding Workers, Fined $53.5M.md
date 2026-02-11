@@ -1,12 +1,15 @@
 ---
-title: 'GE Tree Company Arbor Gen Found Guilty of Defrauding Workers, Fined $53.5M'
-author: "Industrial Workers of the World"
+title: "GE Tree Company ArborGen Found Guilty of Defrauding Workers, Fined $53.5M"
+author: "Kip Doyle / Global Justice Ecology Project"
 date: 2015
-category: contemporary-analysis
+category: environmental-justice
 tags:
-  - labor
-  - unions
-  - workers
+  - ArborGen
+  - genetically-engineered-trees
+  - worker-fraud
+  - labor-rights
+  - timber-industry
+  - corporate-crime
 ---
 
 timber workers, health and safety, Global Justice Ecology Project, Anne Petermann By Kip Doyle - Global Justice Ecology Project , January 7, 2015 New York (8 January 2015) –

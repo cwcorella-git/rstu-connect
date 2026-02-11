@@ -1,13 +1,16 @@
 ---
-title: West Virginia Extend the Strike Build Long Term Power
-author: It's Going Down
-date: '2025'
+title: "West Virginia: Extend the Strike, Build Long-Term Power"
+author: "It's Going Down"
+date: 2018
 category: labor
 tags:
   - strikes
-  - labor
-  - unions
-  - workers
+  - West-Virginia
+  - teachers
+  - IWW
+  - wildcat-strike
+  - working-class-solidarity
+  - PEIA
 ---
 
 What follows is a proposal for how to extend the strike unfolding in West Virginia.To hear an interview with a striking teacher, go here.This post first appeared on It's Going Down.

@@ -1,11 +1,18 @@
 ---
-title: Paperwrenching Prisons and Pipelines
-author: "Industrial Workers of the World"
+title: "Paperwrenching Prisons and Pipelines"
+author: "Panagioti"
 date: 2017
-category: contemporary-analysis
+category: environmental-justice
 tags:
   - prisons
-  - fossil fuels
+  - pipelines
+  - abolition
+  - fossil-fuels
+  - NoDAPL
+  - Sabal-Trail
+  - prison-labor
+  - Earth-First
+  - direct-action
 ---
 
 | Source: https://ecology.iww.org/node/2576|

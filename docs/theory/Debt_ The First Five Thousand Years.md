@@ -1,12 +1,16 @@
 ---
-title: 'Debt: The First Five Thousand Years'
-author: David Graeber
-date: '2009'
-category: housing
+title: "Debt: The First Five Thousand Years"
+author: "David Graeber"
+date: 2009
+category: theory
 tags:
   - debt
-  - housing
-  - tenants
+  - capitalism
+  - economic-history
+  - David-Graeber
+  - virtual-money
+  - credit
+  - imperialism
 ---
 
 ## **David Graeber**
