@@ -1,11 +1,15 @@
 ---
-title: 'The Trouble with Democracy: An Anarchist View - Jeff Shantz'
-author: "libcom.org"
+title: "The Trouble with Democracy: An Anarchist View"
+author: "Jeff Shantz"
 date: 2008
-category: contemporary-analysis
+category: theory
 tags:
   - anarchism
   - democracy
+  - direct-democracy
+  - consensus
+  - anti-globalization
+  - participatory-democracy
 ---
 
 A saying popular in anarchist circles holds that "Elections are the means by which we choose the sauce with which we will be basted." Anarchists have a deep problem with claims of representation made by political leaders. This article is a short contribution to anarchist critiques of representative and electoral democracy. It was first published as part of the "Does Democracy Still Matter?" symposium in Free Inquiry (October / November 2008).

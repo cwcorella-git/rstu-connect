@@ -1,12 +1,15 @@
 ---
-title: Restoring the Union Us History Ii Os Collection
-author: the end
-date: '2025'
-category: labor
+title: "Restoring the Union: The Era of Reconstruction 1865-1877"
+author: "Lumen Learning"
+date: 2019
+category: historical
 tags:
-  - unions
-  - labor
-  - workers
+  - Reconstruction
+  - Civil-War
+  - Lincoln
+  - Radical-Republicans
+  - 13th-Amendment
+  - US-history
 ---
 
 Restoring the Union | US History II (OS Collection) about:reader?url=https%3A%2F%2Fcourses.lumenlear...

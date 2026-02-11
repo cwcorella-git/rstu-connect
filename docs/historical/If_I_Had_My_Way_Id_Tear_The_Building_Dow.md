@@ -1,10 +1,16 @@
 ---
 title: "If I Had My Way I'd Tear The Building Down: Political Economy, Regional History, and Landscape Transformations in Greater New Orleans"
-date: 2020
-category: contemporary-analysis
+author: "Jordan T. Camp"
+date: 2022
+category: historical
 tags:
-  - analysis
-  - current-events
+  - New-Orleans
+  - Hurricane-Katrina
+  - historical-geography
+  - political-economy
+  - slavery
+  - Reconstruction
+  - white-supremacy
 ---
 
 
