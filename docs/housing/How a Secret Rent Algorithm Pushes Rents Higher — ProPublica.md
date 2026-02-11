@@ -1,11 +1,17 @@
 ---
-title: Rent Going Up? One Company's Algorithm Could Be Why.
-date: 2019
+title: "Rent Going Up? One Company's Algorithm Could Be Why."
+author: "Heather Vogell, Haru Coryne"
+date: 2022
 category: housing
 tags:
   - housing
+  - rent-increases
+  - RealPage
+  - YieldStar
+  - algorithmic-pricing
+  - price-fixing
+  - ProPublica
   - technology
-  - digital rights
 ---
 
 #### [propublica.org](https://www.propublica.org/article/yieldstar-rent-increase-realpage-rent)

@@ -1,10 +1,16 @@
 ---
 title: "Minneapolis: Now This Fight Has Two Sides - What the Riots Mean for the COVID-19 Era"
 author: "CrimethInc."
-date: 2017
-category: contemporary-analysis
+date: 2020
+category: abolition
 tags:
   - riots
+  - George-Floyd
+  - Minneapolis
+  - police-violence
+  - COVID-19
+  - uprising
+  - CrimethInc
 ---
 
 ## George Floyd protests

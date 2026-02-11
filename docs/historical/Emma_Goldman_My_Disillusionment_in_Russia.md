@@ -1,11 +1,16 @@
 ---
-title: Emma Goldman My Disillusionment in Russia
+title: "My Disillusionment in Russia"
 author: "Emma Goldman"
-date: 1921
-category: theory
+date: 1923
+category: historical
 tags:
-  - Emma Goldman
+  - Emma-Goldman
   - Russia
+  - Soviet-Union
+  - Bolshevism
+  - anarchism
+  - Russian-Revolution
+  - 1920s
 ---
 
 #### **Table of Contents**

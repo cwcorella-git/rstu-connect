@@ -1,12 +1,17 @@
 ---
-title: 'The 1946 general strike of Rochester, New York'
-author: "libcom.org"
-date: 1946
-category: contemporary-analysis
+title: "The 1946 General Strike of Rochester, New York"
+author: "Jon Garlock"
+date: 2011
+category: historical
 tags:
-  - general strikes
+  - general-strikes
   - strikes
-  - New York
+  - New-York
+  - Rochester
+  - 1946
+  - AFL
+  - municipal-workers
+  - FSCME
 ---
 
 ## Rochester, Rochester general strike
