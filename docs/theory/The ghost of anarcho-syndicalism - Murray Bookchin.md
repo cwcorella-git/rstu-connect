@@ -12,6 +12,7 @@ tags:
   - CGT
   - labor-movement
   - IWW
+  - Spanish-Civil-War
 ---
 
 ## **Tags:** Murray Bookchin, anarcho-syndicalism

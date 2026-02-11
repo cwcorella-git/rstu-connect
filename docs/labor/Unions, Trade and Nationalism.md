@@ -1,12 +1,18 @@
 ---
-title: 'Unions, Trade and Nationalism'
-author: "Tom Crofton -"
+title: "Unions, Trade and Nationalism"
+author: "Tom Crofton"
 date: 2017
 category: labor
 tags:
   - labor
   - unions
-  - workers
+  - AFL-CIO
+  - NAFTA
+  - trade-agreements
+  - IWW
+  - nationalism
+  - imperialism
+  - critique
 ---
 
 ## **Source:** https://ecology.iww.org/node/2581

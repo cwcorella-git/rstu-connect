@@ -1,12 +1,18 @@
 ---
-title: Why I've no regrets about going to prison for shutting down Heathrow airport
-author: "Industrial Workers of the World"
+title: "Why I've No Regrets About Going to Prison for Shutting Down Heathrow Airport"
+author: "Ella Gilbert"
 date: 2016
-category: abolition
+category: environmental-justice
 tags:
-  - prisons
-  - technology
-  - digital rights
+  - climate-justice
+  - Plane-Stupid
+  - Heathrow
+  - blockadia
+  - direct-action
+  - civil-disobedience
+  - Heathrow13
+  - airport-expansion
+  - IWW
 ---
 
 | Source: https://ecology.iww.org/node/1536|

@@ -1,12 +1,18 @@
 ---
-title: 'Ten Years Since the Financial Crash: What Price Education?'
-author: "libcom.org"
+title: "Ten Years Since the Financial Crash: What Price Education?"
+author: "Libcom Collective"
 date: 2017
 category: youth-student-organizing
 tags:
   - education
   - students
-  - youth
+  - UK
+  - student-debt
+  - tuition-fees
+  - 2008-crash
+  - austerity
+  - universities
+  - financialization
 ---
 
 Ever since the post-war principle of free education was abandoned in 1998 by Blair's New Labour government, fees for higher education have risen steeply and expanded to include maintenance charges.

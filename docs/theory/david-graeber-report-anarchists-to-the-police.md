@@ -1,12 +1,18 @@
 ---
-title: Report anarchists to the police
-author: David Graeber
-date: 6 August 2011
-category: contemporary-analysis
+title: "Report Anarchists to the Police"
+author: "David Graeber"
+date: 2011
+category: theory
 tags:
+  - David-Graeber
   - anarchism
   - police
-  - Graeber
+  - surveillance
+  - UK
+  - Norway
+  - terrorism
+  - Europol
+  - state-repression
 ---
 
 As Europe recoils in horror from the wake of the massacre of 77 people by an anti-Islamic nationalist crusader in Norway, and Britain continues to await daily revelations on the absolute corruption and cynicism of their current governing elite (from media barons to politicians to police), a branch of London’s Metropolitan Police force published — and later retracted — a leaflet asking people to report to them information about anarchists.

@@ -1,13 +1,18 @@
 ---
-title: "In the year 1968: on the nationwide strike and university occupation in Helsinki"
+title: "In the Year 1968: On the Nationwide Strike and University Occupation in Helsinki"
 author: "Suvi Auvinen"
-date: 1968
+date: 2018
 category: youth-student-organizing
 tags:
   - strikes
   - occupations
-  - finland
+  - Finland
+  - Helsinki
   - universities
+  - 1968
+  - Porthania
+  - student-movement
+  - general-strike
 ---
 
 Imagine the following situation. Due to a strike, public transportation is paralyzed all over the country. Some restaurants and shops shut their doors and 30,000 people are gathered in Helsinki to oppose the current cabinet's austerity measures, despite of wind and rain.
