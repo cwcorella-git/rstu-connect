@@ -1,12 +1,19 @@
 ---
-title: Unrest in Britain in 1919
-author: "libcom.org"
-date: 2019
-category: international-solidarity
+title: "Unrest in Britain in 1919"
+author: "Anarchist Communist Group (ACG)"
+date: 1919
+category: historical
 tags:
-  - United Kingdom
-  - technology
-  - digital rights
+  - United-Kingdom
+  - 1919
+  - soldier-mutinies
+  - strikes
+  - Glasgow
+  - Belfast
+  - Russian-Revolution
+  - post-WWI
+  - soviets
+  - rank-and-file
 ---
 
 ## Communist Group (ACG), UK, 1919

@@ -1,11 +1,17 @@
 ---
-title: 'Burgerville Fast Food Workers Walk Off Job, Launch Strike'
-author: "Industrial Workers of the World"
-category: food-justice
+title: "Burgerville Fast Food Workers Walk Off Job, Launch Strike"
+author: "Burgerville Workers Union (IWW)"
+date: 2018
+category: labor
 tags:
   - strikes
   - labor
-  - food
+  - fast-food
+  - IWW
+  - Burgerville
+  - Portland
+  - BVWU
+  - organizing
 ---
 
 Members of the Industrial Workers of the World (IWW) union at the fast food chain Burgerville have gone on strike in Portland, Oregon. This report first appeared on It's Going Down.

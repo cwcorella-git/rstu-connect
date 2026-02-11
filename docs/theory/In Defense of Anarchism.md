@@ -1,11 +1,15 @@
 ---
-title: In Defense Of Anarchism
-author: Robert Paul Wolff
-date: '1970'
+title: "In Defense of Anarchism"
+author: "Robert Paul Wolff"
+date: 1970
 category: theory
 tags:
   - anarchism
   - theory
+  - authority
+  - autonomy
+  - democracy
+  - political-philosophy
 ---
 
 ## **1970**

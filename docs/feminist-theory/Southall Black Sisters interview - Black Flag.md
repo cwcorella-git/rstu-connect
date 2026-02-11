@@ -1,16 +1,18 @@
 ---
-title: "Southall Black Sisters interview - Black Flag"
-author: "libcom.org"
-date: 1980
-category: "contemporary-analysis"
+title: "Southall Black Sisters Interview"
+author: "Black Flag magazine"
+date: 1998
+category: feminist-theory
 tags:
   - black-flag
   - united-kingdom
   - interviews
   - feminism
   - domestic-violence
-  - 1970s-80s-asians-fight-racism
-  - migration
+  - Asian-women
+  - racism
+  - Southall-Black-Sisters
+  - community-organizing
 ---
 
 Southall Black Sisters are a black women's group that were formed in the late 70s and are still going strong today. They have campaigned tirelessly for the rights of women who fight back against domestic violence and more recently against creeping fundamentalism within Asian and other communities. SBS are not anarchists, but we should have plenty to learn from their struggles and their courage over the last 20 years. We interviewed Hananna and Anita from SBS at their resource centre in Southall.

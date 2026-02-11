@@ -1,11 +1,16 @@
 ---
-title: What Solidarity Looks Like Nearly 100 Unions Pitch In To Help Flint
-author: Industrial Workers of the World
-date: '2016'
+title: "What Solidarity Looks Like: Nearly 100 Unions Pitch In to Help Flint"
+author: "Brandon Weber"
+date: 2016
 category: labor
 tags:
   - solidarity
-  - theory
+  - mutual-aid
+  - Flint
+  - water-crisis
+  - unions
+  - Michigan
+  - environmental-justice
 ---
 
 | Date: Mon, 03/21/2016 - 14:16

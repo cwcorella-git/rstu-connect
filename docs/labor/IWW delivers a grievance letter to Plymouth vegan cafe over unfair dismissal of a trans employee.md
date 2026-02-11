@@ -1,12 +1,18 @@
 ---
-title: "IWW delivers a grievance letter to Plymouth vegan cafe over unfair dismissal of a trans employe"
-author: "Industrial Workers of the World"
+title: "IWW Delivers Grievance Letter to Plymouth Vegan Cafe Over Unfair Dismissal of Trans Employee"
+author: "Tom Anderson (Canary)"
 date: 2023
 category: labor
 tags:
   - unions
   - labor
   - LGBTQ+
+  - IWW
+  - trans-rights
+  - workplace-discrimination
+  - Plymouth
+  - veganism
+  - green-unionism
 ---
 
 | Date: Tue, 03/07/2023 - 00:00 |
