@@ -1,11 +1,16 @@
 ---
-title: 'Urbanization Without Cities: The Anarchist Library'
-author: Murray Bookchin
-date: '1860'
+title: "Urbanization Without Cities"
+author: "Murray Bookchin"
+date: 1991
 category: theory
 tags:
   - anarchism
-  - urban
+  - urban-theory
+  - Bookchin
+  - libertarian-municipalism
+  - social-ecology
+  - ecocommunity
+  - democracy
 ---
 
 Urbanization Without Cities | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...

@@ -1,11 +1,17 @@
 ---
-title: 'Paris climate agreement: a terror attack on Africa'
-author: "Patrick Bond -"
+title: "Paris Climate Agreement: A Terror Attack on Africa"
+author: "Patrick Bond"
 date: 2015
 category: environmental-justice
 tags:
-  - environment
-  - France
+  - climate-justice
+  - COP21
+  - Paris-Agreement
+  - Africa
+  - climate-debt
+  - carbon-trading
+  - global-South
+  - imperialism
 ---
 
 ## **Source:** https://ecology.iww.org/node/1443

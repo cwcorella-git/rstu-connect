@@ -1,12 +1,15 @@
 ---
-title: The State & Revolution
-author: Lenin State
-date: 1852
-category: contemporary-analysis
+title: "The State and Revolution"
+author: "V. I. Lenin"
+date: 1917
+category: theory
 tags:
-  - analysis
-  - current-events
+  - Lenin
+  - Marxism
+  - state-theory
   - revolution
+  - Bolshevism
+  - dictatorship-of-proletariat
 ---
 
 UNION RATES RATES RATES RATES RATES RATES RATES RATES

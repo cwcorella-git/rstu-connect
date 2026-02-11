@@ -1,11 +1,17 @@
 ---
-title: 'Interview with Xuân Rayne: Vietnamese, Anarchist, Sex Worker'
-author: "libcom.org"
+title: "Interview with Xuân Rayne: Vietnamese, Anarchist, Sex Worker"
+author: "Mèo Mun / libcom.org"
 date: 2018
 category: labor
 tags:
+  - sex-work
   - anarchism
   - labor
+  - Vietnamese-diaspora
+  - migration
+  - refugee
+  - workers-rights
+  - non-binary
 ---
 
 ## Rayne, police, migration

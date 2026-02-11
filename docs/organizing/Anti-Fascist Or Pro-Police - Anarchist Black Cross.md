@@ -1,12 +1,18 @@
 ---
-title: Anti Fascist Or Pro Police Anarchist
-author: Anarchist Black Cross
-date: '1986'
-category: abolition
+title: "Anti-Fascist or Pro-Police?"
+author: "Anarchist Black Cross (London)"
+date: 1986
+category: organizing
 tags:
   - anarchism
   - antifascism
   - police
+  - Anti-Fascist-Action
+  - Searchlight
+  - UK
+  - 1980s
+  - direct-action
+  - Special-Branch
 ---
 
 Article from Black Flag in 1986 about Searchlight's attempts to influence Anti-Fascist Action.
