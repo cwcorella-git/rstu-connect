@@ -1,11 +1,16 @@
 ---
-title: Women's Rights and Feminist Movements in Iran1
-author: Iranian Women
-date: 1935
+title: "Women's Rights and Feminist Movements in Iran"
+author: "Nayereh Tohidi"
+date: 2016
 category: feminist-theory
 tags:
   - feminism
-  - women
+  - Iran
+  - womens-rights
+  - Islamic-Republic
+  - Middle-East
+  - transnational-feminism
+  - diaspora
 ---
 
 

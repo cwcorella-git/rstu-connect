@@ -1,12 +1,18 @@
 ---
-title: Council Nurses Urge San Francisco To Divest from DAPL
-author: "Industrial Workers of the World"
+title: "Council Nurses Urge San Francisco To Divest from DAPL"
+author: "California Nurses Association / National Nurses United"
 date: 2017
 category: labor
 tags:
-  - labor
-  - unions
-  - workers
+  - nurses
+  - NNU
+  - CNA
+  - DAPL
+  - NoDAPL
+  - Standing-Rock
+  - divestment
+  - green-unionism
+  - San-Francisco
 ---
 
 | Date: Mon, 03/20/2017 - 17:28 |

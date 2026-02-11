@@ -1,11 +1,15 @@
 ---
-title: "The Anarchist Before the Law Law Without Authority the Anarchist Before the Law"
-author: Saul Newman
-date: '2025'
+title: "The Anarchist Before the Law: Law Without Authority"
+author: "Saul Newman & Massimo La Torre"
+date: 2020
 category: theory
 tags:
   - anarchism
-  - theory
+  - law
+  - authority
+  - Saul-Newman
+  - political-philosophy
+  - legal-theory
 ---
 
 ## 

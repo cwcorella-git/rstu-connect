@@ -1,11 +1,17 @@
 ---
 title: "The Murder of George Floyd: The End of Racism Starts with the Death of Capitalism"
-author: "libcom.org"
-date: 2013
-category: arts-culture-music
+author: "Internationalist Communist Tendency"
+date: 2020
+category: contemporary-analysis
 tags:
-  - racial justice
+  - George-Floyd
+  - Black-Lives-Matter
+  - police-brutality
+  - racism
   - capitalism
+  - class-struggle
+  - USA
+  - 2020-uprising
 ---
 
 The killing of George Floyd in plain sight by the Minneapolis police rightly shocked millions of people across the world. The killing of a black person by the police is not an unusual event, particularly in the US.

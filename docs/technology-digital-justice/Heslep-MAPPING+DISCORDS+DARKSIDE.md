@@ -1,10 +1,16 @@
 ---
-title: 'Mapping Discord''s Darkside: Distributed Hate Networks on Disboard'
-date: 2018
+title: "Mapping Discord's Darkside: Distributed Hate Networks on Disboard"
+author: "Daniel G. Heslep & PS Berge"
+date: 2021
 category: technology-digital-justice
 tags:
-  - technology
-  - digital rights
+  - Discord
+  - hate-speech
+  - platform-moderation
+  - white-supremacy
+  - social-media
+  - content-moderation
+  - digital-hate
 ---
 
 
