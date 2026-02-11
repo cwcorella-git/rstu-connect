@@ -1,11 +1,13 @@
 ---
-title: The Ends of Class War - Mark S. Tey
-author: "Class War Federation"
+title: "The Ends of Class War"
+author: "Mark S. Tey"
 date: 1997
-category: international-solidarity
+category: theory
 tags:
-  - anti-war
-  - class
+  - Class-War-Federation
+  - UK-anarchism
+  - revolutionary-politics
+  - analysis
 ---
 
 A review article about the "final" issue 73 of Class War and related strands of the UK Anarchist movement in the late 1990s.

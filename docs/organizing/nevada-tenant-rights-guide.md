@@ -1,7 +1,7 @@
 ---
 title: "Nevada Tenant Rights Guide"
 author: "RSTU Research"
-date: 2025
+date: 2024
 category: organizing
 tags:
   - Nevada
@@ -10,6 +10,7 @@ tags:
   - habitability
   - anti-retaliation
   - legal-rights
+  - SB-381
 ---
 
 Housing rights aren't radical demands—they're already established in American law. This guide covers your rights under Nevada's Residential Landlord and Tenant Act (NRS Chapter 118A).

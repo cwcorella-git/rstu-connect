@@ -1,12 +1,16 @@
 ---
-title: "Sumak kawsay"
-author: "Wikipedia contributors"
-date: 2011
-category: "contemporary-analysis"
+title: "Sumak kawsay (Buen Vivir)"
+author: "Wikipedia"
+date: 2024
+category: "theory"
 tags:
-  - analysis
-  - current-events
-  - wikipedia
+  - indigenous-politics
+  - Ecuador
+  - Bolivia
+  - Quechua
+  - buen-vivir
+  - anti-capitalism
+  - alternative-development
 ---
 
 ## Contributors to Wikimedia projects

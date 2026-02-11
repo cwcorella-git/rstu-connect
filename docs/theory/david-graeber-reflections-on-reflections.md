@@ -1,10 +1,14 @@
 ---
-title: Reflections on reflections
-author: David Graeber
-date: '2016'
-category: contemporary-analysis
+title: "Reflections on Reflections"
+author: "David Graeber"
+date: 2016
+category: theory
 tags:
-  - Graeber
+  - anthropology
+  - academic-theory
+  - practice-theory
+  - neoliberalism
+  - social-movements
 ---
 
 **Abstract:** Comment on Ortner, Sherry. 2016. “Dark anthropology and its others: Theory since the eighties.” *Hau: Journal of Ethnographic Theory* 6 (1): 47–73.
