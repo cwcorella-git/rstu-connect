@@ -1,12 +1,16 @@
 ---
 title: "IWW EUC Report for the June 2024 San Francisco Bay Area IWW General Membership Branch Meeting"
-author: "Industrial Workers of the World"
+author: "x344543 / IWW Environmental Unionism Caucus"
 date: 2024
-category: contemporary-analysis
+category: labor
 tags:
-  - unions
-  - labor
-  - workers
+  - IWW
+  - environmental-unionism
+  - San-Francisco
+  - Judi-Bari
+  - Earth-First
+  - green-unionism
+  - 2024
 ---
 
 ## **Source:** https://ecology.iww.org/node/6505

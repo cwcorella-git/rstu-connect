@@ -1,12 +1,18 @@
 ---
 title: "1985 Sudanese General Strike Against Dictatorship"
-author: "libcom.org"
+author: "Global Nonviolent Action Database"
 date: 1985
 category: historical
 tags:
   - general-strike
   - Sudan
+  - Numeiri
   - dictatorship
+  - Khartoum
+  - 1985
+  - IMF
+  - military-coup
+  - sharia-law
 ---
 
 In 1985 workers and students protested and struck against worsening living conditions and greater repression, in particular the imposition of Sharia and conflict in the south.

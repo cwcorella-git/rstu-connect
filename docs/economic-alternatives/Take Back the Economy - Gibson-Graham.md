@@ -1,10 +1,15 @@
 ---
-title: "Take Back the Economy"
-date: 2008
-category: "contemporary-analysis"
+title: "Take Back the Economy: An Ethical Guide for Transforming Our Communities"
+author: "J.K. Gibson-Graham, Jenny Cameron & Stephen Healy"
+date: 2013
+category: economic-alternatives
 tags:
-  - analysis
-  - current-events
+  - Gibson-Graham
+  - community-economics
+  - economic-alternatives
+  - cooperative-economics
+  - diverse-economies
+  - ethical-economy
 ---
 
 ## AN ETHICAL GUIDE FOR TRANSFORMING DUR COMMUNITIES

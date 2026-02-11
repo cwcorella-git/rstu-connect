@@ -1,14 +1,17 @@
 ---
 title: "Monthly London Meetings: 'Social Histories of Revolution: the Long 1960s'"
-author: "libcom.org"
-date: 1968
-category: "contemporary-analysis"
+author: "Social Histories of Revolution Organizers"
+date: 2018
+category: historical
 tags:
   - 1960s
-  - vietnam-war
-  - social-movements
-  - france-1968
-  - feminism
+  - conference-series
+  - London
+  - Iran-1979
+  - Vietnam-War
+  - China-Cultural-Revolution
+  - womens-liberation
+  - Leeds-strike
 ---
 
 'Social Histories of Revolution: the Long 1960s' explores this period from the perspectives of those whose strikes, demonstrations and other forms of struggle shook the world.

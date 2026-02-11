@@ -1,11 +1,17 @@
 ---
-title: The Iceland Womens Strike 1975
-author: "libcom.org"
-date: '2025'
+title: "The Iceland Women's Strike 1975"
+author: "Steven Johns"
+date: 1975
 category: labor
 tags:
-  - strikes
-  - women
+  - womens-strike
+  - Iceland
+  - general-strike
+  - feminism
+  - 1975
+  - Reykjavik
+  - equal-pay
+  - housework
 ---
 
 Johns, women, strikes, schools, general strikes, finance, feminism, Iceland, housework,
