@@ -1,11 +1,14 @@
 ---
-title: Anarchy Works the Anarchist Library
-author: "The Anarchist Library"
-date: '2025'
+title: "Anarchy Works"
+author: "Peter Gelderloos"
+date: 2010
 category: theory
 tags:
   - anarchism
   - theory
+  - Peter-Gelderloos
+  - mutual-aid
+  - stateless-societies
 ---
 
 Anarchy Works | The Anarchist Library about:reader?url=https%3A%2F%2Ftheanarchistlibrary...

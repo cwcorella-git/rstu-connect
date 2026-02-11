@@ -1,10 +1,15 @@
 ---
-title: "Solidarity is the way to survive. A few stories from the occupied South of Ukraine"
-author: "libcom.org"
-category: theory
+title: "Solidarity is the Way to Survive: A Few Stories from the Occupied South of Ukraine"
+author: "Autonomous Action"
+date: 2022
+category: international-solidarity
 tags:
   - solidarity
   - Ukraine
+  - mutual-aid
+  - occupation
+  - Mariupol
+  - Tokmak
 ---
 
 Over 3000 new graves seen by Alexandra Dalsbaek at the beginning of summer in Mariupol, almost razed to the ground... But even in such a post-apocalyptic reality with North Korean social control, popular resistance and self-organization are possible!

@@ -1,11 +1,16 @@
 ---
-title: 'Storytelling on the Road to Socialism: Episode 2: Forest Defenders Speak'
-author: "Industrial Workers of the World"
+title: "Storytelling on the Road to Socialism: Episode 2 - Forest Defenders Speak"
+author: "Candace Wolf"
 date: 2023
 category: environmental-justice
 tags:
   - environment
   - climate
+  - Ecuador
+  - Amazon
+  - indigenous
+  - petroleum
+  - podcast
 ---
 
 | Date: Tue, 04/04/2023 - 00:00 |

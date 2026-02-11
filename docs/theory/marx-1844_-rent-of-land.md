@@ -1,14 +1,15 @@
 ---
-title: 'Marx 1844: Rent of Land'
-author: Karl Marx
-date: '2025'
-category: housing
+title: "Rent of Land (Economic and Philosophic Manuscripts of 1844)"
+author: "Karl Marx"
+date: 1844
+category: theory
 tags:
   - housing
-  - tenants-rights
   - rent
-  - karl-marx
-  - tenants
+  - Karl-Marx
+  - landlords
+  - political-economy
+  - 1844
 ---
 
 Karl Marx

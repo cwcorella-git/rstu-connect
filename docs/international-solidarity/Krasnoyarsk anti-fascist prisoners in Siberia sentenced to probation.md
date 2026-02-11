@@ -1,11 +1,14 @@
 ---
-title: Krasnoyarsk anti-fascist prisoners in Siberia sentenced to probation
-author: "libcom.org"
-date: 2022
-category: contemporary-analysis
+title: "Krasnoyarsk Anti-Fascist Prisoners in Siberia Sentenced to Probation"
+author: "Autonomous Action"
+date: 2023
+category: international-solidarity
 tags:
   - antifascism
   - prisons
+  - Russia
+  - Krasnoyarsk
+  - repression
 ---
 
 Just wonderful news from Russia!

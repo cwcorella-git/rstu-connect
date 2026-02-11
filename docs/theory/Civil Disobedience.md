@@ -1,9 +1,14 @@
 ---
-title: On the Duty of Civil Disobedience
-author: HENRY DAVID THOREAU
-category: contemporary-analysis
+title: "On the Duty of Civil Disobedience"
+author: "Henry David Thoreau"
+date: 1849
+category: theory
 tags:
-  - civil disobedience
+  - civil-disobedience
+  - Thoreau
+  - anarchism
+  - direct-action
+  - resistance
 ---
 
 ## BY
