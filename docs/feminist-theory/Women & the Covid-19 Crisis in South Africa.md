@@ -1,11 +1,16 @@
 ---
-title: Women & the Covid-19 Crisis in South Africa
-author: "libcom.org"
-date: 2005
+title: "Women & the Covid-19 Crisis in South Africa"
+author: "Abahlali baseMjondolo Women's League"
+date: 2020
 category: feminist-theory
 tags:
   - women
   - feminism
+  - Covid-19
+  - South-Africa
+  - Abahlali-baseMjondolo
+  - housing-rights
+  - evictions
 ---
 
 ## **Tags:** South Africa, feminism

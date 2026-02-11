@@ -1,11 +1,15 @@
 ---
-title: "Getting Serious About Keeping Fossil Fuels in the Ground Means Getting Serious About a Just Tra"
+title: "Getting Serious About Keeping Fossil Fuels in the Ground Means Getting Serious About a Just Transition"
 author: "Patrick Young"
 date: 2016
-category: feminist-theory
+category: environmental-justice
 tags:
-  - fossil fuels
-  - feminism
+  - fossil-fuels
+  - just-transition
+  - climate-justice
+  - labor
+  - IWW
+  - Counterpunch
 ---
 
 ## **Source:** https://ecology.iww.org/node/1621

@@ -1,9 +1,15 @@
 ---
-title: The Thinking Aro
+title: "Relationship Anarchy is not About Sex or Polyamory"
+author: "The Thinking Aro"
 date: 2016
-category: contemporary-analysis
+category: theory
 tags:
+  - relationship-anarchy
   - anarchism
+  - polyamory
+  - asexuality
+  - aromanticism
+  - Andie-Nordgren
 ---
 
 ## **Relationship Anarchy is not About Sex or Polyamory**

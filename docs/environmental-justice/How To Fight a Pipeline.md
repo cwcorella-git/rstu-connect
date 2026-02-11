@@ -1,12 +1,16 @@
 ---
-title: How To Fight a Pipeline
-author: "Alex Lotorto -"
+title: "How To Fight a Pipeline"
+author: "Alex Lotorto"
 date: 2016
-category: contemporary-analysis
+category: environmental-justice
 tags:
-  - fossil fuels
-  - environment
-  - climate
+  - fossil-fuels
+  - pipelines
+  - fracking
+  - Energy-Justice-Network
+  - Pennsylvania
+  - organizing
+  - landowners
 ---
 
 ## **Source:** https://ecology.iww.org/node/1502

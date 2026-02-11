@@ -1,11 +1,15 @@
 ---
-title: Racial capitalism
-author: "Wikipedia contributors"
-date: 1983
-category: contemporary-analysis
+title: "Racial Capitalism"
+author: "Wikipedia"
+date: 2024
+category: theory
 tags:
-  - racial justice
+  - racial-justice
   - capitalism
+  - Cedric-Robinson
+  - Black-Marxism
+  - political-economy
+  - racism
 ---
 
 ## Contributors to Wikimedia projects
