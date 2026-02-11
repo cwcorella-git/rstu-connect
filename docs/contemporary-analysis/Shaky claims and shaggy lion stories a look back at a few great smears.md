@@ -1,11 +1,16 @@
 ---
 title: 'Shaky claims and shaggy lion stories: a look back at a few great smears'
 author: "libcom.org"
-date: 2006
-category: international-solidarity
+date: 2019
+category: contemporary-analysis
 tags:
-  - technology
-  - digital rights
+  - police
+  - media
+  - repression
+  - fake-news
+  - smears
+  - antifascism
+  - Portland
 ---
 
 ## **Tags:** repression, mainstream media, police

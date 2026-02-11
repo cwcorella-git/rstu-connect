@@ -1,13 +1,15 @@
 ---
-title: Homestead Strike Wikipedia
-author: Wikipedia
-date: '2025'
-category: labor
+title: Homestead Strike
+author: "Wikipedia"
+date: 2024
+category: historical
 tags:
   - strikes
-  - labor
-  - unions
-  - workers
+  - Homestead-Strike
+  - 1892
+  - Carnegie-Steel
+  - Pennsylvania
+  - labor-history
 ---
 
 Homestead strike - Wikipedia about:reader?url=https%3A%2F%2Fen.wikipedia.org...

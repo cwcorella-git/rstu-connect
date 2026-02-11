@@ -1,11 +1,15 @@
 ---
-title: 'Interview: IWW Shop Workers - Black Flag'
-author: "Industrial Workers of the World"
+title: 'Interview: IWW Shop Workers'
+author: "Black Flag"
 date: 1998
-category: contemporary-analysis
+category: labor
 tags:
-  - unions
-  - labor
+  - IWW
+  - shop-workers
+  - Co-op
+  - UK
+  - organizing
+  - interview
 ---
 
 We recently heard of that the Industrial Workers of the World (IWW) had managed to establish a job shop in Hampshire, and took the opportunity to interview Ray Carr, the IWW delegate involved, recently.

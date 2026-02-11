@@ -1,10 +1,15 @@
 ---
-title: Bookchin on Technology
+title: "Bookchin on Technology (Review of Post-Scarcity Anarchism)"
 author: "libcom.org"
 date: 1978
-category: arts-culture-music
+category: theory
 tags:
   - Bookchin
+  - post-scarcity
+  - technology
+  - ecology
+  - anarchism
+  - decentralization
 ---
 
 Review of Murray Bookchin's Post-Scarcity Anarchism.
