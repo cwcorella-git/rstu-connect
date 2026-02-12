@@ -1,5 +1,5 @@
 ---
-title: 7 Lies Police Have Told You About The Bristol Protests
+title: "7 Lies Police Have Told You About The Bristol Protests"
 author: "Anarchist Federation"
 date: 2021
 category: abolition
