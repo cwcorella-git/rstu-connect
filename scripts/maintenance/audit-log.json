@@ -3,8 +3,8 @@
     "created": "2026-02-09",
     "last_updated": "2026-02-12",
     "total_documents": 2198,
-    "audited_count": 98,
-    "current_round": 227,
+    "audited_count": 108,
+    "current_round": 228,
     "categories_audited": []
   },
   "audit_sessions": [
@@ -168,7 +168,17 @@
     "abolition/No Matter How Difficult - Julio Comrade Z Zuniga.md",
     "abolition/On an Island Watch House Bed, A Black Man's Lying Dead.md",
     "abolition/Organizing to End Prison Slavery with Bennu Hannibal Ra Sun.md",
-    "abolition/Origins and Development of Workers Autonomy in Spain (1970-1976) – Miguel Amorós.md"
+    "abolition/Origins and Development of Workers Autonomy in Spain (1970-1976) – Miguel Amorós.md",
+    "abolition/Police Precinct Torched in Minneapolis as Government Buildings Stormed & Riots Spread in Solidarity.md",
+    "abolition/Police Regulation of Working Class Life in 19th Century France.md",
+    "abolition/Police Station Support Guide.md",
+    "abolition/Policing Race and Racing Police on JSTOR.md",
+    "abolition/Police Abuse in Contemporary Democracies_Michelle D. Bonner et al. (eds.)_liber3.md",
+    "abolition/Police Powers Bill Preparing for Class War.md",
+    "abolition/Police Unions And The Labor Movement - The Flaw.md",
+    "abolition/Police Unions Are Anti-Labor - Harvard Political Review.md",
+    "abolition/Power to the people A welcome prison victory in Ohio (January 2011).md",
+    "abolition/Prisoners - Black Flag.md"
   ],
   "flagged_for_review": [],
   "quality_scores": {
@@ -269,6 +279,16 @@
     "abolition/No Matter How Difficult - Julio Comrade Z Zuniga.md": "ok",
     "abolition/On an Island Watch House Bed, A Black Man's Lying Dead.md": "ok",
     "abolition/Organizing to End Prison Slavery with Bennu Hannibal Ra Sun.md": "ok",
-    "abolition/Origins and Development of Workers Autonomy in Spain (1970-1976) – Miguel Amorós.md": "ok"
+    "abolition/Origins and Development of Workers Autonomy in Spain (1970-1976) – Miguel Amorós.md": "ok",
+    "abolition/Police Precinct Torched in Minneapolis as Government Buildings Stormed & Riots Spread in Solidarity.md": "ok",
+    "abolition/Police Regulation of Working Class Life in 19th Century France.md": "ok",
+    "abolition/Police Station Support Guide.md": "ok",
+    "abolition/Policing Race and Racing Police on JSTOR.md": "ok",
+    "abolition/Police Abuse in Contemporary Democracies_Michelle D. Bonner et al. (eds.)_liber3.md": "ok",
+    "abolition/Police Powers Bill Preparing for Class War.md": "ok",
+    "abolition/Police Unions And The Labor Movement - The Flaw.md": "ok",
+    "abolition/Police Unions Are Anti-Labor - Harvard Political Review.md": "ok",
+    "abolition/Power to the people A welcome prison victory in Ohio (January 2011).md": "ok",
+    "abolition/Prisoners - Black Flag.md": "ok"
   }
 }
