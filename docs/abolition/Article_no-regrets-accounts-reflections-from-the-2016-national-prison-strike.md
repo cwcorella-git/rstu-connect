@@ -1,5 +1,5 @@
 ---
-title: No Regrets Accounts Reflections From the 2016 National Prison Strike
+title: "No Regrets Accounts Reflections From the 2016 National Prison Strike"
 author: "Anarchist Black Cross"
 date: 2017
 category: abolition

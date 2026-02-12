@@ -1,7 +1,7 @@
 ---
-title: Police Behavior a Sociological Perspective Police Behavior a Sociological Pers
-author: Richard J. Lundman
-date: '2025'
+title: "Police Behavior: A Sociological Perspective"
+author: "Richard J. Lundman"
+date: 1980
 category: abolition
 tags:
   - police
