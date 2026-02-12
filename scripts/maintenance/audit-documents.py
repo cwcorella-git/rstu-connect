@@ -5,11 +5,13 @@ Document audit tool for the reading library.
 Tracks which documents have been manually reviewed and their quality status.
 
 Usage:
-    python3 scripts/maintenance/audit-documents.py sample [N]     # Get N random unaudited docs
-    python3 scripts/maintenance/audit-documents.py status         # Show audit progress
-    python3 scripts/maintenance/audit-documents.py check <file>   # Check a specific file for issues
+    python3 scripts/maintenance/audit-documents.py sample [N]          # Get N random unaudited docs
+    python3 scripts/maintenance/audit-documents.py queue [N]           # Get next N unaudited docs (sorted)
+    python3 scripts/maintenance/audit-documents.py status              # Show audit progress
+    python3 scripts/maintenance/audit-documents.py check <file>        # Check a specific file for issues
     python3 scripts/maintenance/audit-documents.py mark <file> <status>  # Mark file as audited
-    python3 scripts/maintenance/audit-documents.py issues         # Find docs with potential issues
+    python3 scripts/maintenance/audit-documents.py finalize-round <N>  # Mark docs from last commit as audited
+    python3 scripts/maintenance/audit-documents.py issues              # Find docs with potential issues
 """
 
 import os
@@ -17,6 +19,7 @@ import re
 import sys
 import json
 import random
+import subprocess
 from pathlib import Path
 from datetime import datetime
 
@@ -154,29 +157,55 @@ def find_issues():
     return by_issue
 
 def show_status():
-    """Show audit progress."""
+    """Show audit progress with category breakdown."""
     log = load_audit_log()
     all_docs = get_all_docs()
+    audited_set = set(log.get('audited_documents', []))
 
-    audited = len(log.get('audited_documents', []))
+    audited_count = len(audited_set)
     total = len(all_docs)
     flagged = len(log.get('flagged_for_review', []))
+    current_round = log.get('metadata', {}).get('current_round', 214)
 
     print("=== AUDIT STATUS ===\n")
     print(f"Total documents:    {total:,}")
-    print(f"Audited:            {audited:,} ({100*audited/total:.1f}%)")
-    print(f"Remaining:          {total - audited:,}")
+    print(f"Audited:            {audited_count:,} ({100*audited_count/total:.1f}%)")
+    print(f"Remaining:          {total - audited_count:,}")
+    print(f"Current round:      {current_round}")
     print(f"Flagged for review: {flagged}")
 
-    # Category breakdown
-    print("\n--- By Category ---")
-    categories = {}
+    # Category breakdown with progress
+    print("\nProgress by category:")
+    by_category = {}
     for doc in all_docs:
         cat = doc.parent.name
-        categories[cat] = categories.get(cat, 0) + 1
+        rel_path = str(doc.relative_to(DOCS_DIR))
 
-    for cat, count in sorted(categories.items(), key=lambda x: -x[1]):
-        print(f"  {cat}: {count}")
+        if cat not in by_category:
+            by_category[cat] = {'total': 0, 'audited': 0}
+
+        by_category[cat]['total'] += 1
+        if rel_path in audited_set:
+            by_category[cat]['audited'] += 1
+
+    for cat in sorted(by_category.keys()):
+        total_cat = by_category[cat]['total']
+        audited_cat = by_category[cat]['audited']
+        pct = 100 * audited_cat / total_cat if total_cat > 0 else 0
+
+        # Progress bar (20 chars)
+        filled = int(pct / 5)
+        bar = '█' * filled + '░' * (20 - filled)
+
+        print(f"  {cat:30} {audited_cat:3}/{total_cat:3} ({pct:4.1f}%)  {bar}")
+
+    # Completion estimate
+    if audited_count > 0 and audited_count < total:
+        remaining = total - audited_count
+        print(f"\nEstimated completion:")
+        print(f"  At 10 docs/round:  ~{(remaining + 9) // 10} rounds remaining")
+        print(f"  At 15 docs/round:  ~{(remaining + 14) // 15} rounds remaining")
+        print(f"  At 20 docs/round:  ~{(remaining + 19) // 20} rounds remaining")
 
 def mark_audited(filepath, status='ok'):
     """Mark a document as audited."""
@@ -198,6 +227,94 @@ def mark_audited(filepath, status='ok'):
 
     print(f"Marked as {status}: {rel_path}")
 
+def queue_next(n=10):
+    """Get next N unaudited documents in alphabetical (sorted) order."""
+    log = load_audit_log()
+    audited = set(log.get('audited_documents', []))
+    current_round = log.get('metadata', {}).get('current_round', 214)
+
+    # Get all documents sorted alphabetically by relative path
+    all_docs = sorted(get_all_docs(), key=lambda p: str(p.relative_to(DOCS_DIR)))
+    unaudited = [d for d in all_docs if str(d.relative_to(DOCS_DIR)) not in audited]
+
+    if len(unaudited) < n:
+        n = len(unaudited)
+
+    queue = unaudited[:n]
+    total = len(all_docs)
+    audited_count = len(audited)
+    remaining = total - audited_count
+
+    print(f"=== ROUND {current_round}: NEXT {n} DOCUMENTS IN QUEUE ===\n")
+    print(f"Progress: {audited_count:,}/{total:,} ({100*audited_count/total:.1f}%) | Remaining: {remaining:,}\n")
+
+    results = []
+    for filepath in queue:
+        rel_path = filepath.relative_to(DOCS_DIR)
+        info = check_document(filepath)
+
+        status = "OK" if not info.get('issues') else f"ISSUES: {', '.join(info['issues'])}"
+
+        print(f"📄 {rel_path}")
+        print(f"   Title: {info.get('title', 'Unknown')[:60]}")
+        print(f"   Words: {info.get('word_count', 0):,} | Lines: {info.get('line_count', 0)}")
+        print(f"   Status: {status}")
+        print()
+
+        results.append({
+            'path': str(rel_path),
+            'info': info
+        })
+
+    return results
+
+def finalize_round(round_num):
+    """Mark all documents from last git commit as audited."""
+    try:
+        # Get files changed in last commit
+        result = subprocess.run(
+            ['git', 'diff', '--name-only', 'HEAD~1', 'HEAD'],
+            capture_output=True,
+            text=True,
+            check=True
+        )
+
+        changed_files = result.stdout.strip().split('\n')
+        changed_docs = [
+            f.replace('docs/', '')
+            for f in changed_files
+            if f.startswith('docs/') and f.endswith('.md')
+        ]
+
+        if not changed_docs:
+            print("No documents found in last commit.")
+            return
+
+        log = load_audit_log()
+
+        # Mark each document as audited
+        newly_audited = []
+        for doc in changed_docs:
+            if doc not in log['audited_documents']:
+                log['audited_documents'].append(doc)
+                log['quality_scores'][doc] = 'ok'
+                newly_audited.append(doc)
+
+        # Update metadata
+        log['metadata']['current_round'] = round_num + 1
+        log['metadata']['audited_count'] = len(log['audited_documents'])
+
+        save_audit_log(log)
+
+        print(f"✓ Marked {len(newly_audited)} documents from Round {round_num} as audited:")
+        for doc in newly_audited:
+            print(f"  - {doc}")
+        print(f"\n✓ Advanced to Round {round_num + 1}")
+
+    except subprocess.CalledProcessError as e:
+        print(f"Error running git command: {e}")
+        sys.exit(1)
+
 def main():
     if len(sys.argv) < 2:
         print(__doc__)
@@ -208,6 +325,9 @@ def main():
     if command == 'sample':
         n = int(sys.argv[2]) if len(sys.argv) > 2 else 10
         sample_unaudited(n)
+    elif command == 'queue':
+        n = int(sys.argv[2]) if len(sys.argv) > 2 else 10
+        queue_next(n)
     elif command == 'status':
         show_status()
     elif command == 'check':
@@ -222,6 +342,12 @@ def main():
             print("Status: ok, flagged, needs_work, off_topic")
             sys.exit(1)
         mark_audited(sys.argv[2], sys.argv[3])
+    elif command == 'finalize-round':
+        if len(sys.argv) < 3:
+            print("Usage: audit-documents.py finalize-round <round_number>")
+            sys.exit(1)
+        round_num = int(sys.argv[2])
+        finalize_round(round_num)
     elif command == 'issues':
         find_issues()
     else:
