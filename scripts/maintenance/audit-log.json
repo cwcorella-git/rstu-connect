@@ -3,8 +3,8 @@
     "created": "2026-02-09",
     "last_updated": "2026-02-12",
     "total_documents": 2198,
-    "audited_count": 30,
-    "current_round": 220,
+    "audited_count": 40,
+    "current_round": 221,
     "categories_audited": []
   },
   "audit_sessions": [
@@ -100,7 +100,17 @@
     "abolition/Article_interview-with-ashanti-alston-anarchist-and-former-black-panther-partyblack-libe.md",
     "abolition/Article_origins-of-the-police-david-whitehouse-_-libcomorg.md",
     "abolition/Article_plane-stupid-wants-police-spies-out-of-our-lives.md",
-    "abolition/Article_police-story-jarrod-shanahan.md"
+    "abolition/Article_police-story-jarrod-shanahan.md",
+    "abolition/Article_the-police-and-the-black-wageless-race-today.md",
+    "abolition/Article_vitale-the-end-of-policing-police-2017.md",
+    "abolition/Article_why-oppose-police-unions.md",
+    "abolition/Black Cross A Proposal for an Abolitionist Prisoner Support Group.md",
+    "abolition/Article_police-unions-are-anti-labor-harvard-political-review.md",
+    "abolition/Article_serikat-tahanan-prisoners-union-has-a-fundraising-request.md",
+    "abolition/Article_solidarity-with-anarchist-prisoners-in-tangerang-and-bekasi-in-indonesia.md",
+    "abolition/Article_video-police-reform-defund-abolish.md",
+    "abolition/Attica Prison riot - Wikipedia.md",
+    "abolition/Authoritarian Leftists_ Kill the Cop in Your Head _ Industrial Workers of the World.md"
   ],
   "flagged_for_review": [],
   "quality_scores": {
@@ -133,6 +143,16 @@
     "abolition/Article_interview-with-ashanti-alston-anarchist-and-former-black-panther-partyblack-libe.md": "ok",
     "abolition/Article_origins-of-the-police-david-whitehouse-_-libcomorg.md": "ok",
     "abolition/Article_plane-stupid-wants-police-spies-out-of-our-lives.md": "ok",
-    "abolition/Article_police-story-jarrod-shanahan.md": "ok"
+    "abolition/Article_police-story-jarrod-shanahan.md": "ok",
+    "abolition/Article_the-police-and-the-black-wageless-race-today.md": "ok",
+    "abolition/Article_vitale-the-end-of-policing-police-2017.md": "ok",
+    "abolition/Article_why-oppose-police-unions.md": "ok",
+    "abolition/Black Cross A Proposal for an Abolitionist Prisoner Support Group.md": "ok",
+    "abolition/Article_police-unions-are-anti-labor-harvard-political-review.md": "ok",
+    "abolition/Article_serikat-tahanan-prisoners-union-has-a-fundraising-request.md": "ok",
+    "abolition/Article_solidarity-with-anarchist-prisoners-in-tangerang-and-bekasi-in-indonesia.md": "ok",
+    "abolition/Article_video-police-reform-defund-abolish.md": "ok",
+    "abolition/Attica Prison riot - Wikipedia.md": "ok",
+    "abolition/Authoritarian Leftists_ Kill the Cop in Your Head _ Industrial Workers of the World.md": "ok"
   }
 }
