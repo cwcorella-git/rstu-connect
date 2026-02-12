@@ -3,8 +3,8 @@
     "created": "2026-02-09",
     "last_updated": "2026-02-12",
     "total_documents": 2198,
-    "audited_count": 40,
-    "current_round": 221,
+    "audited_count": 50,
+    "current_round": 222,
     "categories_audited": []
   },
   "audit_sessions": [
@@ -110,7 +110,17 @@
     "abolition/Article_solidarity-with-anarchist-prisoners-in-tangerang-and-bekasi-in-indonesia.md",
     "abolition/Article_video-police-reform-defund-abolish.md",
     "abolition/Attica Prison riot - Wikipedia.md",
-    "abolition/Authoritarian Leftists_ Kill the Cop in Your Head _ Industrial Workers of the World.md"
+    "abolition/Authoritarian Leftists_ Kill the Cop in Your Head _ Industrial Workers of the World.md",
+    "abolition/Castle Rock v. Gonzales _ Case Brief for Law Students _ Casebriefs.md",
+    "abolition/Detainment is Death in the Pandemic!.md",
+    "abolition/Black_Radicalism_Marxism_and_Collective.md",
+    "abolition/Bob_Black_The_Abolition_of_Work.md",
+    "abolition/Castle Rock v Gonzales - Police No Duty to Protect.md",
+    "abolition/City of Reno adopts an updated ordinance that prohibits sitting, sleeping and camping in public places.md",
+    "abolition/Coming out of isolation stronger advice from a long-term prisoner.md",
+    "abolition/Cops and Cocaine Bent for the cause \u2013 Black Flag.md",
+    "abolition/Counterinsurgency and the Policing of Space in Ferguson.md",
+    "abolition/CrimethInc. _ Anti-Fascism Is Self-Defense _ A General-Purpose Flier.md"
   ],
   "flagged_for_review": [],
   "quality_scores": {
@@ -153,6 +163,16 @@
     "abolition/Article_solidarity-with-anarchist-prisoners-in-tangerang-and-bekasi-in-indonesia.md": "ok",
     "abolition/Article_video-police-reform-defund-abolish.md": "ok",
     "abolition/Attica Prison riot - Wikipedia.md": "ok",
-    "abolition/Authoritarian Leftists_ Kill the Cop in Your Head _ Industrial Workers of the World.md": "ok"
+    "abolition/Authoritarian Leftists_ Kill the Cop in Your Head _ Industrial Workers of the World.md": "ok",
+    "abolition/Castle Rock v. Gonzales _ Case Brief for Law Students _ Casebriefs.md": "ok",
+    "abolition/Detainment is Death in the Pandemic!.md": "ok",
+    "abolition/Black_Radicalism_Marxism_and_Collective.md": "ok",
+    "abolition/Bob_Black_The_Abolition_of_Work.md": "ok",
+    "abolition/Castle Rock v Gonzales - Police No Duty to Protect.md": "ok",
+    "abolition/City of Reno adopts an updated ordinance that prohibits sitting, sleeping and camping in public places.md": "ok",
+    "abolition/Coming out of isolation stronger advice from a long-term prisoner.md": "ok",
+    "abolition/Cops and Cocaine Bent for the cause \u2013 Black Flag.md": "ok",
+    "abolition/Counterinsurgency and the Policing of Space in Ferguson.md": "ok",
+    "abolition/CrimethInc. _ Anti-Fascism Is Self-Defense _ A General-Purpose Flier.md": "ok"
   }
 }
