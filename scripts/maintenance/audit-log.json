@@ -3,8 +3,8 @@
     "created": "2026-02-09",
     "last_updated": "2026-02-12",
     "total_documents": 2198,
-    "audited_count": 60,
-    "current_round": 223,
+    "audited_count": 70,
+    "current_round": 224,
     "categories_audited": []
   },
   "audit_sessions": [
@@ -130,7 +130,17 @@
     "abolition/Female Keep Separate Prisons, Gender, and the Violence of Inclusion.md",
     "abolition/Five Is for a city beyond policing a message to defense groups in Minneapolis.md",
     "abolition/Forum_The_Prison_in_Twelve_Landscapes_by.md",
-    "abolition/From Republicanism to Anarchism The making of an anarchist in Portlaoise prison.md"
+    "abolition/From Republicanism to Anarchism The making of an anarchist in Portlaoise prison.md",
+    "abolition/How To Set Up An Anti-Raids Group.md",
+    "abolition/How You and Your Co-Workers Can Fck the Police.md",
+    "abolition/How much do incarcerated people earn in each state_ _ Prison Policy Initiative.md",
+    "abolition/Gas Abuses In Indiana Prisons The Cases Of Marshawn Weems.md",
+    "abolition/Gruesome spectacles _ botched executions and America's death -- Sarat, Austin -- Stanford University Press, Stanford, California, 2014 -- Stanford Law -- 9780804789165 -- 1c342e9984846e053d12aee07cc90e92 -- Anna's Archive.md",
+    "abolition/Hell Is a Very Small Place - Jean Casella.md",
+    "abolition/Hundreds at Heathrow 'die-in' protest against airport expansion.md",
+    "abolition/If We Must Die Bomani Shakur's statement on launching a hunger strike (January 2011).md",
+    "abolition/Imprisoned Anarchist Toby Shone Fights New Legal Battle Against UK State.md",
+    "abolition/Incarceration, Justice and the Planet.md"
   ],
   "flagged_for_review": [],
   "quality_scores": {
@@ -193,6 +203,16 @@
     "abolition/Female Keep Separate Prisons, Gender, and the Violence of Inclusion.md": "ok",
     "abolition/Five Is for a city beyond policing a message to defense groups in Minneapolis.md": "ok",
     "abolition/Forum_The_Prison_in_Twelve_Landscapes_by.md": "ok",
-    "abolition/From Republicanism to Anarchism The making of an anarchist in Portlaoise prison.md": "ok"
+    "abolition/From Republicanism to Anarchism The making of an anarchist in Portlaoise prison.md": "ok",
+    "abolition/How To Set Up An Anti-Raids Group.md": "ok",
+    "abolition/How You and Your Co-Workers Can Fck the Police.md": "ok",
+    "abolition/How much do incarcerated people earn in each state_ _ Prison Policy Initiative.md": "ok",
+    "abolition/Gas Abuses In Indiana Prisons The Cases Of Marshawn Weems.md": "ok",
+    "abolition/Gruesome spectacles _ botched executions and America's death -- Sarat, Austin -- Stanford University Press, Stanford, California, 2014 -- Stanford Law -- 9780804789165 -- 1c342e9984846e053d12aee07cc90e92 -- Anna's Archive.md": "ok",
+    "abolition/Hell Is a Very Small Place - Jean Casella.md": "ok",
+    "abolition/Hundreds at Heathrow 'die-in' protest against airport expansion.md": "ok",
+    "abolition/If We Must Die Bomani Shakur's statement on launching a hunger strike (January 2011).md": "ok",
+    "abolition/Imprisoned Anarchist Toby Shone Fights New Legal Battle Against UK State.md": "ok",
+    "abolition/Incarceration, Justice and the Planet.md": "ok"
   }
 }
