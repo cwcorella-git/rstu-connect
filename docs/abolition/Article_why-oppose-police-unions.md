@@ -1,7 +1,7 @@
 ---
-title: Why Oppose Police Unions
-author: Industrial Workers of the World
-date: '2025'
+title: "Why Oppose Police Unions"
+author: "Industrial Workers of the World"
+date: 2015
 category: abolition
 tags:
   - police

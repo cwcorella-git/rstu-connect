@@ -1,7 +1,7 @@
 ---
-title: The Police And The Black Wageless Race Today
-author: "libcom.org"
-date: '2025'
+title: "The Police And The Black Wageless Race Today"
+author: "Race Today Collective"
+date: 1975
 category: abolition
 tags:
   - police

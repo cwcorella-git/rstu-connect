@@ -1,7 +1,7 @@
 ---
-title: Vitale the End of Policing Police 2017
-author: Alex S. Vitale
-date: '2025'
+title: "The End of Policing"
+author: "Alex S. Vitale"
+date: 2017
 category: abolition
 tags:
   - police
