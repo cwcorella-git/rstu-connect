@@ -3,8 +3,8 @@
     "created": "2026-02-09",
     "last_updated": "2026-02-12",
     "total_documents": 2198,
-    "audited_count": 118,
-    "current_round": 229,
+    "audited_count": 128,
+    "current_round": 230,
     "categories_audited": []
   },
   "audit_sessions": [
@@ -188,7 +188,17 @@
     "abolition/Rally to End Toxic Prison Slavery in Solidarity with September 9 Nationwide Prison Strike.md",
     "abolition/Reforming Zeal - Jack Straw vs Football Fans.md",
     "abolition/Refusing the Fascist Future An Interview with Shane Burley.md",
-    "abolition/Review_of_Judah_Schept_Progressive_Punis.md"
+    "abolition/Review_of_Judah_Schept_Progressive_Punis.md",
+    "abolition/Slave patrol - Wikipedia.md",
+    "abolition/Stop Cop Planet, Save the Surreal World.md",
+    "abolition/Soledad's Black prisoners brutalized in 3 a.m. raid report guards warned, 'You Nggers will have COVI.md",
+    "abolition/Secret Police on the Streets of Portland Interview with a Member of Black Rose.md",
+    "abolition/Sending Fascists Packing is An Act of Community Self-Defense.md",
+    "abolition/Siberian punk may be imprisoned for anti-militarist agitation.md",
+    "abolition/Slave Patrols_ An Early Form of American Policing - National Law Enforcement Officers Memorial Fund.md",
+    "abolition/Slavery and the Origins of the American Police State.md",
+    "abolition/Statements from Alabama Prisoners as Strike Enters Third Week.md",
+    "abolition/The Abolition of Prison - Jacques Lesage de La Haye;.md"
   ],
   "flagged_for_review": [],
   "quality_scores": {
@@ -309,6 +319,16 @@
     "abolition/Rally to End Toxic Prison Slavery in Solidarity with September 9 Nationwide Prison Strike.md": "ok",
     "abolition/Reforming Zeal - Jack Straw vs Football Fans.md": "ok",
     "abolition/Refusing the Fascist Future An Interview with Shane Burley.md": "ok",
-    "abolition/Review_of_Judah_Schept_Progressive_Punis.md": "ok"
+    "abolition/Review_of_Judah_Schept_Progressive_Punis.md": "ok",
+    "abolition/Slave patrol - Wikipedia.md": "ok",
+    "abolition/Stop Cop Planet, Save the Surreal World.md": "ok",
+    "abolition/Soledad's Black prisoners brutalized in 3 a.m. raid report guards warned, 'You Nggers will have COVI.md": "ok",
+    "abolition/Secret Police on the Streets of Portland Interview with a Member of Black Rose.md": "ok",
+    "abolition/Sending Fascists Packing is An Act of Community Self-Defense.md": "ok",
+    "abolition/Siberian punk may be imprisoned for anti-militarist agitation.md": "ok",
+    "abolition/Slave Patrols_ An Early Form of American Policing - National Law Enforcement Officers Memorial Fund.md": "ok",
+    "abolition/Slavery and the Origins of the American Police State.md": "ok",
+    "abolition/Statements from Alabama Prisoners as Strike Enters Third Week.md": "ok",
+    "abolition/The Abolition of Prison - Jacques Lesage de La Haye;.md": "ok"
   }
 }
