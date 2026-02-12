@@ -1,5 +1,5 @@
 ---
-title: Detainment is Death in the Pandemic!
+title: "Detainment is Death in the Pandemic!"
 author: "Simoun Magsalin"
 date: 2020
 category: abolition

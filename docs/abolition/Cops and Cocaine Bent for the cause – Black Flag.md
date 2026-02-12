@@ -1,6 +1,6 @@
 ---
-title: 'Cops and Cocaine: Bent for the cause – Black Flag'
-author: "libcom.org"
+title: "Cops and Cocaine: Bent for the cause – Black Flag"
+author: "Black Flag"
 date: 1997
 category: abolition
 tags:

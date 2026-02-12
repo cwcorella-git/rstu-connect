@@ -1,7 +1,7 @@
 ---
-title: 'Castle Rock v. Gonzales: Case Brief for Law Students'
-author: Paul D. Clement
-date: 1989
+title: "Castle Rock v. Gonzales: Case Brief for Law Students"
+author: "Casebriefs.com"
+date: 2005
 category: abolition
 tags:
   - education
