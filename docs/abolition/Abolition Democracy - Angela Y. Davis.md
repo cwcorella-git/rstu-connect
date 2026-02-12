@@ -1,7 +1,7 @@
 ---
-title: Abolition Democracy Angela
+title: "Abolition Democracy"
 author: Angela Y. Davis
-date: '1997'
+date: 1997
 category: abolition
 tags:
   - abolition

@@ -1,8 +1,8 @@
 ---
 title: Anarchism And The Black Revolution
-author: Lorenzo Kom’boa Ervin
-date: '1993'
-category: abolition
+author: Lorenzo Kom'boa Ervin
+date: 1993
+category: theory
 tags:
   - anarchism
   - theory

@@ -1,6 +1,6 @@
 ---
-title: "Alabama Correctional Officers Respond to Mental Health Crisis With Deadly Force, Leaving at lea"
-author: "libcom.org"
+title: "Alabama Correctional Officers Respond to Mental Health Crisis With Deadly Force"
+author: "Free Alabama Movement"
 date: 2021
 category: abolition
 tags:

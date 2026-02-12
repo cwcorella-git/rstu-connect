@@ -1,8 +1,8 @@
 ---
 title: Airport expansion is a racist policy
-author: "Jo Ram -"
+author: "Jo Ram"
 date: 2016
-category: abolition
+category: environmental-justice
 tags:
   - technology
   - digital rights
