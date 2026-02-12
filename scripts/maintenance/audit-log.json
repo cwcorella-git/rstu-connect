@@ -3,8 +3,8 @@
     "created": "2026-02-09",
     "last_updated": "2026-02-12",
     "total_documents": 2198,
-    "audited_count": 70,
-    "current_round": 224,
+    "audited_count": 78,
+    "current_round": 225,
     "categories_audited": []
   },
   "audit_sessions": [
@@ -140,7 +140,15 @@
     "abolition/Hundreds at Heathrow ‘die-in’ protest against airport expansion.md",
     "abolition/If We Must Die Bomani Shakur's statement on launching a hunger strike (January 2011).md",
     "abolition/Imprisoned Anarchist Toby Shone Fights New Legal Battle Against UK State.md",
-    "abolition/Incarceration, Justice and the Planet.md"
+    "abolition/Incarceration, Justice and the Planet.md",
+    "abolition/Interview Iranian Anarchists on Protests in Response to Police Murder of Mahsa Amini.md",
+    "abolition/Inmates Launch Month-Long Strike to Protest 'Slavery Conditions' in Florida Prisons.md",
+    "abolition/Instead of Prisons.md",
+    "abolition/International Day Against Police Brutality March 15.md",
+    "abolition/Interview Adil Rahman of Newham Monitoring Project - Black Flag.md",
+    "abolition/Interview Ronan Bennett - Black Flag.md",
+    "abolition/Interview with Chicano anarchist political prisoner Xinachtli (Alvaro Luna Hernandez).md",
+    "abolition/Jalil Muntaqim tests positive for COVID-19 and is hospitalized in New York.md"
   ],
   "flagged_for_review": [],
   "quality_scores": {
@@ -213,6 +221,14 @@
     "abolition/Hundreds at Heathrow ‘die-in’ protest against airport expansion.md": "ok",
     "abolition/If We Must Die Bomani Shakur's statement on launching a hunger strike (January 2011).md": "ok",
     "abolition/Imprisoned Anarchist Toby Shone Fights New Legal Battle Against UK State.md": "ok",
-    "abolition/Incarceration, Justice and the Planet.md": "ok"
+    "abolition/Incarceration, Justice and the Planet.md": "ok",
+    "abolition/Interview Iranian Anarchists on Protests in Response to Police Murder of Mahsa Amini.md": "ok",
+    "abolition/Inmates Launch Month-Long Strike to Protest 'Slavery Conditions' in Florida Prisons.md": "ok",
+    "abolition/Instead of Prisons.md": "ok",
+    "abolition/International Day Against Police Brutality March 15.md": "ok",
+    "abolition/Interview Adil Rahman of Newham Monitoring Project - Black Flag.md": "ok",
+    "abolition/Interview Ronan Bennett - Black Flag.md": "ok",
+    "abolition/Interview with Chicano anarchist political prisoner Xinachtli (Alvaro Luna Hernandez).md": "ok",
+    "abolition/Jalil Muntaqim tests positive for COVID-19 and is hospitalized in New York.md": "ok"
   }
 }
