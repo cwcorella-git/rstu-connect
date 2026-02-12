@@ -3,8 +3,8 @@
     "created": "2026-02-09",
     "last_updated": "2026-02-12",
     "total_documents": 2198,
-    "audited_count": 108,
-    "current_round": 228,
+    "audited_count": 118,
+    "current_round": 229,
     "categories_audited": []
   },
   "audit_sessions": [
@@ -178,7 +178,17 @@
     "abolition/Police Unions And The Labor Movement - The Flaw.md",
     "abolition/Police Unions Are Anti-Labor - Harvard Political Review.md",
     "abolition/Power to the people A welcome prison victory in Ohio (January 2011).md",
-    "abolition/Prisoners - Black Flag.md"
+    "abolition/Prisoners - Black Flag.md",
+    "abolition/Prisoners Justice Day at 50 Grassroots Abolition.md",
+    "abolition/Rally at Coleman Prison in Support of Prisoner Strike Amidst Riots and Lockdowns across Florida.md",
+    "abolition/Prisons and Police Brutality Last Line in the Defence of Exploitation and Oppression (Part I).md",
+    "abolition/Protecting your health and your safety against the prison murder squad hierarchy.md",
+    "abolition/R.I.P. Taylor – Rage is our weapon.md",
+    "abolition/Racist Murder In America And The Bifurcation Of The Modern World System.md",
+    "abolition/Rally to End Toxic Prison Slavery in Solidarity with September 9 Nationwide Prison Strike.md",
+    "abolition/Reforming Zeal - Jack Straw vs Football Fans.md",
+    "abolition/Refusing the Fascist Future An Interview with Shane Burley.md",
+    "abolition/Review_of_Judah_Schept_Progressive_Punis.md"
   ],
   "flagged_for_review": [],
   "quality_scores": {
@@ -289,6 +299,16 @@
     "abolition/Police Unions And The Labor Movement - The Flaw.md": "ok",
     "abolition/Police Unions Are Anti-Labor - Harvard Political Review.md": "ok",
     "abolition/Power to the people A welcome prison victory in Ohio (January 2011).md": "ok",
-    "abolition/Prisoners - Black Flag.md": "ok"
+    "abolition/Prisoners - Black Flag.md": "ok",
+    "abolition/Prisoners Justice Day at 50 Grassroots Abolition.md": "ok",
+    "abolition/Rally at Coleman Prison in Support of Prisoner Strike Amidst Riots and Lockdowns across Florida.md": "ok",
+    "abolition/Prisons and Police Brutality Last Line in the Defence of Exploitation and Oppression (Part I).md": "ok",
+    "abolition/Protecting your health and your safety against the prison murder squad hierarchy.md": "ok",
+    "abolition/R.I.P. Taylor – Rage is our weapon.md": "ok",
+    "abolition/Racist Murder In America And The Bifurcation Of The Modern World System.md": "ok",
+    "abolition/Rally to End Toxic Prison Slavery in Solidarity with September 9 Nationwide Prison Strike.md": "ok",
+    "abolition/Reforming Zeal - Jack Straw vs Football Fans.md": "ok",
+    "abolition/Refusing the Fascist Future An Interview with Shane Burley.md": "ok",
+    "abolition/Review_of_Judah_Schept_Progressive_Punis.md": "ok"
   }
 }
