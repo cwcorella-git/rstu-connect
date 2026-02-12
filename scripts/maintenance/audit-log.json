@@ -3,8 +3,8 @@
     "created": "2026-02-09",
     "last_updated": "2026-02-12",
     "total_documents": 2198,
-    "audited_count": 50,
-    "current_round": 222,
+    "audited_count": 60,
+    "current_round": 223,
     "categories_audited": []
   },
   "audit_sessions": [
@@ -120,7 +120,17 @@
     "abolition/Coming out of isolation stronger advice from a long-term prisoner.md",
     "abolition/Cops and Cocaine Bent for the cause \u2013 Black Flag.md",
     "abolition/Counterinsurgency and the Policing of Space in Ferguson.md",
-    "abolition/CrimethInc. _ Anti-Fascism Is Self-Defense _ A General-Purpose Flier.md"
+    "abolition/CrimethInc. _ Anti-Fascism Is Self-Defense _ A General-Purpose Flier.md",
+    "abolition/Disarm, Defund, Dismantle - Disarm, Defund, Dismantle_ Police Abolition in Canada_Shiri Pasternak, Kevin Walby, Abby Stadnyk_liber3.md",
+    "abolition/Discipline and Punish.md",
+    "abolition/Failed Response to Coronavirus in Indiana Prisons (Pendleton Correctional Facility).md",
+    "abolition/From Minneapolis to France, Fck the Police! The Revolt Spreads from the US to Paris and Beyond.md",
+    "abolition/Did American Police Originate from Slave Patrols_ by Timothy Hsiao _ NAS.md",
+    "abolition/Dossier on torture and prison conditons in Italy 1979-1983 - CARII.md",
+    "abolition/Female Keep Separate Prisons, Gender, and the Violence of Inclusion.md",
+    "abolition/Five Is for a city beyond policing a message to defense groups in Minneapolis.md",
+    "abolition/Forum_The_Prison_in_Twelve_Landscapes_by.md",
+    "abolition/From Republicanism to Anarchism The making of an anarchist in Portlaoise prison.md"
   ],
   "flagged_for_review": [],
   "quality_scores": {
@@ -173,6 +183,16 @@
     "abolition/Coming out of isolation stronger advice from a long-term prisoner.md": "ok",
     "abolition/Cops and Cocaine Bent for the cause \u2013 Black Flag.md": "ok",
     "abolition/Counterinsurgency and the Policing of Space in Ferguson.md": "ok",
-    "abolition/CrimethInc. _ Anti-Fascism Is Self-Defense _ A General-Purpose Flier.md": "ok"
+    "abolition/CrimethInc. _ Anti-Fascism Is Self-Defense _ A General-Purpose Flier.md": "ok",
+    "abolition/Disarm, Defund, Dismantle - Disarm, Defund, Dismantle_ Police Abolition in Canada_Shiri Pasternak, Kevin Walby, Abby Stadnyk_liber3.md": "ok",
+    "abolition/Discipline and Punish.md": "ok",
+    "abolition/Failed Response to Coronavirus in Indiana Prisons (Pendleton Correctional Facility).md": "ok",
+    "abolition/From Minneapolis to France, Fck the Police! The Revolt Spreads from the US to Paris and Beyond.md": "ok",
+    "abolition/Did American Police Originate from Slave Patrols_ by Timothy Hsiao _ NAS.md": "ok",
+    "abolition/Dossier on torture and prison conditons in Italy 1979-1983 - CARII.md": "ok",
+    "abolition/Female Keep Separate Prisons, Gender, and the Violence of Inclusion.md": "ok",
+    "abolition/Five Is for a city beyond policing a message to defense groups in Minneapolis.md": "ok",
+    "abolition/Forum_The_Prison_in_Twelve_Landscapes_by.md": "ok",
+    "abolition/From Republicanism to Anarchism The making of an anarchist in Portlaoise prison.md": "ok"
   }
 }
