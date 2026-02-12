@@ -1,7 +1,8 @@
 ---
 title: 'Defend Your Community (Antifascism): Rebel Steps'
-date: 2017
-category: contemporary-analysis
+author: "Rebel Steps"
+date: 2020
+category: organizing
 tags:
   - community
   - antifascism

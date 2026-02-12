@@ -1,7 +1,7 @@
 ---
-title: "Why misogynists make great Informants: How gender violence on the left enables state violence i"
-author: "libcom.org"
-date: 2006
+title: "Why misogynists make great Informants: How gender violence on the left enables state violence in radical movements"
+author: "Courtney Desiree Morris"
+date: 2010
 category: feminist-theory
 tags:
   - feminism

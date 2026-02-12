@@ -1,8 +1,8 @@
 ---
 title: Industrialisti and the Industrial Workers of the World - Katriina Etholén
-author: "Industrial Workers of the World"
+author: "Katriina Etholén"
 date: 2020
-category: contemporary-analysis
+category: historical
 tags:
   - labor
   - unions

@@ -1,7 +1,7 @@
 ---
 title: A World Without Police Study Guide
 author: Geo Maher
-date: '2021'
+date: 2021
 category: abolition
 tags:
   - police

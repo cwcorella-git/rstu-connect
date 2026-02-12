@@ -1,8 +1,8 @@
 ---
 title: 'Workplace Heat: Guidance for Language School Workers'
-author: "Ryan -"
+author: "Ryan"
 date: 2022
-category: arts-culture-music
+category: labor
 tags:
   - labor
   - education

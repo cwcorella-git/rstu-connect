@@ -1,8 +1,8 @@
 ---
 title: "Scotland Yardies"
-author: "libcom.org"
+author: "Black Flag"
 date: 1997
-category: "contemporary-analysis"
+category: "historical"
 tags:
   - black-flag
   - drugs

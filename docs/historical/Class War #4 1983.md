@@ -14,8 +14,6 @@ tags:
   - 1983
 ---
 
-## **Tags:** Class War Federation, PDF
-
 The notorious "autonomist" issue, including: class and class antagonism, socialism and its leftovers, press cuttings on shoplifting etc.
 
 According to Ian Bone this issue went down badly with a number of people involved with Class War at the time and a large number were burned. (Bash The Rich: True Life Confessions of an Anarchist in the UKp150-153).
