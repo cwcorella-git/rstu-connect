@@ -1,7 +1,7 @@
 ---
-title: Afa and the Police Whatever You Say Say Nothing
-author: "libcom.org"
-date: '2025'
+title: "AFA and the Police: Whatever You Say, Say Nothing"
+author: "Anti-Fascist Action"
+date: 1993
 category: abolition
 tags:
   - police

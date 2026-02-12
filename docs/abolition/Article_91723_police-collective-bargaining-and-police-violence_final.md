@@ -1,7 +1,7 @@
 ---
-title: 91723 Police Collective Bargaining and Police Violence Final
+title: "Police Collective Bargaining and Police Violence"
 author: William P. Jones
-date: '2025'
+date: 2023
 category: abolition
 tags:
   - police

@@ -1,7 +1,7 @@
 ---
-title: A World Without Police Audio Book
+title: "A World Without Police (Audiobook)"
 author: Geo Maher
-date: '2025'
+date: 2021
 category: abolition
 tags:
   - police
