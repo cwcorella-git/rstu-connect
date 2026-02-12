@@ -1,7 +1,7 @@
 ---
-title: On Minneapolis Police Brutality
-author: Karl Marx
-date: '1965'
+title: "On Minneapolis Police Brutality & Class Struggle"
+author: "Internationalist Workers' Group / Klasbatalo"
+date: 2020
 category: abolition
 tags:
   - police
