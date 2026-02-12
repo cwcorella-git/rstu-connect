@@ -1,6 +1,7 @@
 ---
-title: "Soledad's Black prisoners brutalized in 3 a.m. raid report guards warned, 'You N*ggers will ha"
-author: "libcom.org"
+title: "Soledad's Black prisoners brutalized in 3 a.m. raid report guards warned, 'You N*ggers will have COVID-19'"
+author: "PHERM (Soledad Prisoners)"
+date: 2020
 category: abolition
 tags:
   - prisons

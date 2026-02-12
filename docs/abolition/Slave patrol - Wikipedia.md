@@ -1,6 +1,6 @@
 ---
 title: "Slave Patrol"
-author: "Wikipedia"
+author: "Wikipedia Contributors"
 date: 2024
 category: abolition
 tags:
