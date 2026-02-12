@@ -3,8 +3,8 @@
     "created": "2026-02-09",
     "last_updated": "2026-02-12",
     "total_documents": 2198,
-    "audited_count": 78,
-    "current_round": 225,
+    "audited_count": 88,
+    "current_round": 226,
     "categories_audited": []
   },
   "audit_sessions": [
@@ -148,7 +148,17 @@
     "abolition/Interview Adil Rahman of Newham Monitoring Project - Black Flag.md",
     "abolition/Interview Ronan Bennett - Black Flag.md",
     "abolition/Interview with Chicano anarchist political prisoner Xinachtli (Alvaro Luna Hernandez).md",
-    "abolition/Jalil Muntaqim tests positive for COVID-19 and is hospitalized in New York.md"
+    "abolition/Jalil Muntaqim tests positive for COVID-19 and is hospitalized in New York.md",
+    "abolition/On Minneapolis Police Brutality & Class Struggle.md",
+    "abolition/Kite Line Appalachian Prison Resistance.md",
+    "abolition/Knife crime - analysing a moral panic.md",
+    "abolition/Lansing Correctional Prison uprising.md",
+    "abolition/Marius Mason calls for International Day.md",
+    "abolition/Microsoft Word - us0406.doc (Lethal Injections).md",
+    "abolition/Minneapolis Now This Fight Has Two Sides.md",
+    "abolition/Never Dormant on Death Row.md",
+    "abolition/Newham Monitoring Project annual reports.md",
+    "abolition/No Matter How Difficult - Julio Zuniga.md"
   ],
   "flagged_for_review": [],
   "quality_scores": {
@@ -229,6 +239,16 @@
     "abolition/Interview Adil Rahman of Newham Monitoring Project - Black Flag.md": "ok",
     "abolition/Interview Ronan Bennett - Black Flag.md": "ok",
     "abolition/Interview with Chicano anarchist political prisoner Xinachtli (Alvaro Luna Hernandez).md": "ok",
-    "abolition/Jalil Muntaqim tests positive for COVID-19 and is hospitalized in New York.md": "ok"
+    "abolition/Jalil Muntaqim tests positive for COVID-19 and is hospitalized in New York.md": "ok",
+    "abolition/On Minneapolis Police Brutality & Class Struggle.md": "ok",
+    "abolition/Kite Line Appalachian Prison Resistance.md": "ok",
+    "abolition/Knife crime - analysing a moral panic.md": "ok",
+    "abolition/Lansing Correctional Prison uprising.md": "ok",
+    "abolition/Marius Mason calls for International Day.md": "ok",
+    "abolition/Microsoft Word - us0406.doc (Lethal Injections).md": "ok",
+    "abolition/Minneapolis Now This Fight Has Two Sides.md": "ok",
+    "abolition/Never Dormant on Death Row.md": "ok",
+    "abolition/Newham Monitoring Project annual reports.md": "ok",
+    "abolition/No Matter How Difficult - Julio Zuniga.md": "ok"
   }
 }
