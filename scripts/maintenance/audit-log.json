@@ -1,10 +1,10 @@
 {
   "metadata": {
     "created": "2026-02-09",
-    "last_updated": "2026-02-09",
+    "last_updated": "2026-02-12",
     "total_documents": 2198,
-    "audited_count": 0,
-    "current_round": 214,
+    "audited_count": 1,
+    "current_round": 215,
     "categories_audited": []
   },
   "audit_sessions": [
@@ -70,7 +70,11 @@
       "severity": "info"
     }
   },
-  "audited_documents": [],
+  "audited_documents": [
+    "abolition/7 Lies Police Have Told You About The Bristol Protests.md"
+  ],
   "flagged_for_review": [],
-  "quality_scores": {}
+  "quality_scores": {
+    "abolition/7 Lies Police Have Told You About The Bristol Protests.md": "ok"
+  }
 }
