@@ -3,8 +3,8 @@
     "created": "2026-02-09",
     "last_updated": "2026-02-12",
     "total_documents": 2198,
-    "audited_count": 6,
-    "current_round": 216,
+    "audited_count": 9,
+    "current_round": 217,
     "categories_audited": []
   },
   "audit_sessions": [
@@ -76,7 +76,10 @@
     "abolition/Activists Demand Independent Investigation After Cops Kill Protester in Atlanta.md",
     "abolition/Alabama Correctional Officers Respond to Mental Health Crisis With Deadly Force, Leaving at least Fo.md",
     "environmental-justice/Airport expansion is a racist policy.md",
-    "theory/Anarchism and the Black Revolution.md"
+    "theory/Anarchism and the Black Revolution.md",
+    "abolition/Article_91723_police-collective-bargaining-and-police-violence_final.md",
+    "abolition/Article_a-world-without-police-audio-book.md",
+    "abolition/Article_afa-and-the-police-whatever-you-say-say-nothing.md"
   ],
   "flagged_for_review": [],
   "quality_scores": {
@@ -85,6 +88,9 @@
     "abolition/Activists Demand Independent Investigation After Cops Kill Protester in Atlanta.md": "ok",
     "abolition/Alabama Correctional Officers Respond to Mental Health Crisis With Deadly Force, Leaving at least Fo.md": "ok",
     "environmental-justice/Airport expansion is a racist policy.md": "ok",
-    "theory/Anarchism and the Black Revolution.md": "ok"
+    "theory/Anarchism and the Black Revolution.md": "ok",
+    "abolition/Article_91723_police-collective-bargaining-and-police-violence_final.md": "ok",
+    "abolition/Article_a-world-without-police-audio-book.md": "ok",
+    "abolition/Article_afa-and-the-police-whatever-you-say-say-nothing.md": "ok"
   }
 }
