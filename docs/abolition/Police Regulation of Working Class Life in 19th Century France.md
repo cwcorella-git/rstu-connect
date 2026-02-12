@@ -1,8 +1,8 @@
 ---
-title: Police Regulation Of Working Class Life In 19Th
-author: Century France
-date: '1851'
-category: theory
+title: "Police Regulation of Working Class Life in 19th Century France"
+author: "W. Scott Haine"
+date: 1983
+category: abolition
 tags:
   - police
   - class

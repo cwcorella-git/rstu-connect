@@ -1,7 +1,7 @@
 ---
-title: Police Station Support Guide
-author: "libcom.org"
-date: '2020'
+title: "Police Station Support Guide"
+author: "GBC Resources, Activist Court Aid Brigade (ACAB), and Queercare"
+date: 2020
 category: abolition
 tags:
   - police

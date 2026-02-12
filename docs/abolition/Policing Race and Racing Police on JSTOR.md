@@ -1,7 +1,7 @@
 ---
-title: Policing Race And Racing Police On Jstor
-author: "JSTOR"
-date: '2020'
+title: "Policing Race and Racing Police"
+author: "Ben Brucato"
+date: 2020
 category: abolition
 tags:
   - police
