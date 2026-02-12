@@ -3,8 +3,8 @@
     "created": "2026-02-09",
     "last_updated": "2026-02-12",
     "total_documents": 2198,
-    "audited_count": 1,
-    "current_round": 215,
+    "audited_count": 6,
+    "current_round": 216,
     "categories_audited": []
   },
   "audit_sessions": [
@@ -71,10 +71,20 @@
     }
   },
   "audited_documents": [
-    "abolition/7 Lies Police Have Told You About The Bristol Protests.md"
+    "abolition/7 Lies Police Have Told You About The Bristol Protests.md",
+    "abolition/Abolition Democracy - Angela Y. Davis.md",
+    "abolition/Activists Demand Independent Investigation After Cops Kill Protester in Atlanta.md",
+    "abolition/Alabama Correctional Officers Respond to Mental Health Crisis With Deadly Force, Leaving at least Fo.md",
+    "environmental-justice/Airport expansion is a racist policy.md",
+    "theory/Anarchism and the Black Revolution.md"
   ],
   "flagged_for_review": [],
   "quality_scores": {
-    "abolition/7 Lies Police Have Told You About The Bristol Protests.md": "ok"
+    "abolition/7 Lies Police Have Told You About The Bristol Protests.md": "ok",
+    "abolition/Abolition Democracy - Angela Y. Davis.md": "ok",
+    "abolition/Activists Demand Independent Investigation After Cops Kill Protester in Atlanta.md": "ok",
+    "abolition/Alabama Correctional Officers Respond to Mental Health Crisis With Deadly Force, Leaving at least Fo.md": "ok",
+    "environmental-justice/Airport expansion is a racist policy.md": "ok",
+    "theory/Anarchism and the Black Revolution.md": "ok"
   }
 }
