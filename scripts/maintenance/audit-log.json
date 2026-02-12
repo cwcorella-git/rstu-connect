@@ -3,8 +3,8 @@
     "created": "2026-02-09",
     "last_updated": "2026-02-12",
     "total_documents": 2198,
-    "audited_count": 20,
-    "current_round": 219,
+    "audited_count": 30,
+    "current_round": 220,
     "categories_audited": []
   },
   "audit_sessions": [
@@ -90,7 +90,17 @@
     "abolition/Article_anarchist-black-cross-news-black-flag.md",
     "abolition/Article_chicago-anarchist-black-cross-bulletin-1-1972.md",
     "abolition/Article_culture-leisure-and-the-police.md",
-    "abolition/Article_defund-the-police_-an-international-insurrection-defund-the-police_-an-internati.md"
+    "abolition/Article_defund-the-police_-an-international-insurrection-defund-the-police_-an-internati.md",
+    "abolition/Article_no-regrets-accounts-reflections-from-the-2016-national-prison-strike.md",
+    "abolition/Article_police-behavior_-a-sociological-perspective-police-behavior_-a-sociological-pers.md",
+    "abolition/Article_disarm-defund-dismantle-disarm-defund-dismantle_-police-abolition-in-canada_shir.md",
+    "abolition/Article_dog_section_press_2021_abolishing_the_police.md",
+    "abolition/Article_fountain_slavery-and-the-origins-of-the-american-police-state.md",
+    "abolition/Article_i-am-an-anarchist-remembering-anarchist-prisoner-brian-mccarvill-who-died-of-cov.md",
+    "abolition/Article_interview-with-ashanti-alston-anarchist-and-former-black-panther-partyblack-libe.md",
+    "abolition/Article_origins-of-the-police-david-whitehouse-_-libcomorg.md",
+    "abolition/Article_plane-stupid-wants-police-spies-out-of-our-lives.md",
+    "abolition/Article_police-story-jarrod-shanahan.md"
   ],
   "flagged_for_review": [],
   "quality_scores": {
@@ -113,6 +123,16 @@
     "abolition/Article_anarchist-black-cross-news-black-flag.md": "ok",
     "abolition/Article_chicago-anarchist-black-cross-bulletin-1-1972.md": "ok",
     "abolition/Article_culture-leisure-and-the-police.md": "ok",
-    "abolition/Article_defund-the-police_-an-international-insurrection-defund-the-police_-an-internati.md": "ok"
+    "abolition/Article_defund-the-police_-an-international-insurrection-defund-the-police_-an-internati.md": "ok",
+    "abolition/Article_no-regrets-accounts-reflections-from-the-2016-national-prison-strike.md": "ok",
+    "abolition/Article_police-behavior_-a-sociological-perspective-police-behavior_-a-sociological-pers.md": "ok",
+    "abolition/Article_disarm-defund-dismantle-disarm-defund-dismantle_-police-abolition-in-canada_shir.md": "ok",
+    "abolition/Article_dog_section_press_2021_abolishing_the_police.md": "ok",
+    "abolition/Article_fountain_slavery-and-the-origins-of-the-american-police-state.md": "ok",
+    "abolition/Article_i-am-an-anarchist-remembering-anarchist-prisoner-brian-mccarvill-who-died-of-cov.md": "ok",
+    "abolition/Article_interview-with-ashanti-alston-anarchist-and-former-black-panther-partyblack-libe.md": "ok",
+    "abolition/Article_origins-of-the-police-david-whitehouse-_-libcomorg.md": "ok",
+    "abolition/Article_plane-stupid-wants-police-spies-out-of-our-lives.md": "ok",
+    "abolition/Article_police-story-jarrod-shanahan.md": "ok"
   }
 }
