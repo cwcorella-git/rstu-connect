@@ -1,8 +1,8 @@
 ---
-title: The Ambivalence Of Alexander Berkmans Anti Prison Anarchism
-author: Noam Chomsky
-date: '2013'
-category: theory
+title: "The Ambivalence of Alexander Berkman's Anti-Prison Anarchism"
+author: "Nolan Bennett"
+date: 2023
+category: abolition
 tags:
   - anarchism
   - prisons

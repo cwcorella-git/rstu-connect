@@ -1,11 +1,13 @@
 ---
-title: "Thekeep.eiu.edu"
+title: "The Impossibility of Freedom in a Country Founded on Slavery and Genocide"
+author: "Dread Scott"
 date: 1989
 category: abolition
 tags:
-  - liberty
-  - students
-  - youth
+  - slavery
+  - genocide
+  - art
+  - activism
 ---
 
 ## The Impossibility of Freedom in a Country Founded on Slavery and Genocide | For All the World to See: Photo Galleries

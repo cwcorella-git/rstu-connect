@@ -1,11 +1,12 @@
 ---
-title: Albert Jensen
-author: "Confederación Nacional del Trabajo"
+title: "The CNT-FAI, the State and Government (1938)"
+author: "Albert Jensen"
 date: 1938
 category: abolition
 tags:
-  - technology
-  - digital rights
+  - anarchism
+  - Spain
+  - CNT-FAI
 ---
 
 ## **The CNT-FAI, the State and Government (1938)**
