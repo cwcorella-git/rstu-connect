@@ -1,7 +1,7 @@
 ---
 title: "From Minneapolis to France, Fck the Police!: The Revolt Spreads from the US to Paris and Beyond"
-author: CrimethInc
-date: '2005'
+author: "CrimethInc"
+date: 2020
 category: abolition
 tags:
   - riots

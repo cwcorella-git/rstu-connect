@@ -1,8 +1,8 @@
 ---
-title: "—Geo Maher, author of A World Without Police: How Strong Communities Make Cops Obsolete"
-author: "Shiri Pasternak, Kevin Walby, Abby Stadnyk"
+title: "Disarm, Defund, Dismantle: Police Abolition in Canada"
+author: "Shiri Pasternak, Kevin Walby, Abby Stadnyk (editors)"
 date: 2022
-category: contemporary-analysis
+category: abolition
 tags:
   - police
   - abolition

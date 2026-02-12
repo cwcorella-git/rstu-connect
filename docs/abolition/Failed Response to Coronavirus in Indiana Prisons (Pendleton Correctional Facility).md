@@ -1,9 +1,12 @@
 ---
 title: "Failed Response to Coronavirus in Indiana Prisons (Pendleton Correctional Facility)"
+author: "Kevin 'Rashid' Johnson"
+date: 2020
 category: abolition
 tags:
   - prisons
-  - India
+  - Indiana
+  - COVID-19
 ---
 
 #### **Source:**

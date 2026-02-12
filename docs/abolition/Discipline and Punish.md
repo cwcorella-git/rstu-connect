@@ -1,8 +1,8 @@
 ---
-title: Michel Foucault Discipline and Punish The Birth of the Prison
+title: "Discipline and Punish: The Birth of the Prison"
 author: "Michel Foucault"
-date: 1926
-category: contemporary-analysis
+date: 1975
+category: abolition
 tags:
   - prisons
   - abolition
