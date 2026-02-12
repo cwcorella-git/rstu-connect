@@ -1,9 +1,9 @@
 # Document Library Metadata Audit Log
 
 **Project:** RSTU Connect Reading Library
-**Total Documents:** ~2,254
-**Status:** In Progress (Rounds 1-212 Complete)
-**Estimated Completion:** ~66%
+**Total Documents:** 2,198
+**Status:** In Progress - Systematic Tracking Enabled (Round 215)
+**Completion:** 1/2,198 (0.0%) tracked
 
 ## Overview
 
@@ -17,23 +17,45 @@ Systematic audit of all markdown documents in `/docs/` to fix critical YAML fron
 
 ## Progress Summary
 
-### Completed Work
-- **Rounds Completed:** 1-212
-- **Documents Audited:** ~1,484 (66% of 2,254)
-- **Documents Fixed:** ~1,036
+### Historical Work (Rounds 1-213)
+- **Methodology:** Random sampling (no duplicate prevention)
+- **Rounds Completed:** 213
+- **Estimated Coverage:** ~66% of documents (with duplicates)
+- **Documents Fixed:** ~1,040
 - **Documents Deleted:** ~50 (off-topic/duplicates)
-- **Remaining Documents:** ~770 (34%)
-- **Estimated Rounds Remaining:** ~110
 
-### Methodology
-Each round follows a consistent process:
-1. Sample 10 random documents using `find | shuf | head -10`
+### Current System (Round 214+)
+
+**New systematic tracking system implemented February 12, 2026:**
+
+✅ **100% Coverage Guarantee** - Every document audited exactly once
+✅ **Zero Duplicates** - Persistent tracking prevents re-auditing
+✅ **Resume-able** - Can stop/start without losing progress
+✅ **Progress Visibility** - Category-level progress tracking
+✅ **Deterministic** - Alphabetical queue order
+
+**Tool:** `scripts/maintenance/audit-documents.py`
+
+**Commands:**
+- `queue [N]` - Get next N unaudited documents (sorted alphabetically)
+- `finalize-round <N>` - Auto-mark documents from last commit as audited
+- `status` - Show progress with category breakdown and completion estimates
+
+**Workflow (Round 214+):**
+1. Run `python3 scripts/maintenance/audit-documents.py queue 10`
 2. Read first 30 lines of each (frontmatter + context)
-3. Identify 3-7 most critical metadata issues
-4. Edit YAML frontmatter to fix issues
-5. Move files to correct categories as needed
-6. Commit with detailed message documenting all changes
-7. Push to remote to trigger deployment
+3. Fix critical metadata issues, move files to correct categories
+4. Commit with detailed message documenting all changes
+5. Run `python3 scripts/maintenance/audit-documents.py finalize-round <N>`
+6. Push to remote to trigger deployment
+
+**Progress Tracking:** All audited documents tracked in `scripts/maintenance/audit-log.json`
+
+**Current Stats:**
+- **Round:** 215
+- **Audited:** 1/2,198 (0.0%)
+- **Remaining:** 2,197
+- **Estimated completion:** ~220 rounds at 10 docs/round
 
 ## Recent Sessions
 
@@ -104,6 +126,36 @@ Fixed 4 documents:
 - "Bayard Rustin" - Fixed Wikipedia placeholder, **112-year date error** (1912 birth→2024), moved labor → historical
 - "The Iceland Women's Strike 1975" - **38-year date error** (1975 event→2013 publication), moved labor → historical
 - "Austerity vs. the Planet" - **47-year date error** (1969→2016), removed trailing dash, moved to environmental-justice
+
+#### Round 213
+Fixed 7 documents:
+- "Class War #4 (1983)" - Removed leftover metadata artifact in body text
+- "Scotland Yardies" - Fixed placeholder author (libcom.org → Black Flag), moved contemporary-analysis → historical
+- "Workplace Heat: Guidance for Language School Workers" - Fixed trailing dash (Ryan - → Ryan), fixed wrong category (arts-culture-music → labor)
+- "Why misogynists make great Informants" - Fixed placeholder (libcom.org → Courtney Desiree Morris), **4-year date error** (2006 → 2010), completed truncated title
+- "Defend Your Community (Antifascism)" - Added missing author (Rebel Steps), **3-year date error** (2017 → 2020), moved contemporary-analysis → organizing
+- "A World Without Police Study Guide" - Fixed quoted date format ('2021' → 2021)
+- "Industrialisti and the Industrial Workers of the World" - Fixed placeholder (Industrial Workers of the World → Katriina Etholén), moved labor → historical
+
+---
+
+### Session: Systematic Tracking System (Round 214+)
+**Date:** February 12, 2026
+**System Change:** Implemented persistent tracking to ensure 100% coverage
+
+#### Round 214 (Test)
+**System Implementation:**
+- Created `queue` command for alphabetically sorted unaudited documents
+- Created `finalize-round` command for auto-marking from git commits
+- Enhanced `status` command with category-level progress bars
+- Initialized `audit-log.json` with `current_round: 214`
+
+**Documents Audited:** 1
+- "7 Lies Police Have Told You About The Bristol Protests" - Added quotes to title for YAML consistency
+
+**Verification:** ✓ Queue skips audited docs, ✓ Round auto-increments, ✓ Alphabetical ordering maintained
+
+---
 
 ## Common Metadata Issues
 
