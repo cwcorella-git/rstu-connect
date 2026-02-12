@@ -1,7 +1,7 @@
 ---
-title: Anti Fascist Or Pro Police Anarchist Black Cross
+title: "Anti-Fascist Or Pro-Police? - Anarchist Black Cross"
 author: Anarchist Black Cross
-date: '2025'
+date: 1986
 category: abolition
 tags:
   - anarchism
