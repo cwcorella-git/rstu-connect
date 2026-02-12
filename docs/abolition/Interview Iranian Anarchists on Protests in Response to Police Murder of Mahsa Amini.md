@@ -1,7 +1,7 @@
 ---
-title: Interview Iranian Anarchists On Protests In Response To Police Murder Of
-author: Mahsa Alimardani
-date: '2019'
+title: "Interview: Iranian Anarchists on Protests in Response to Police Murder of Mahsa Amini"
+author: "Black Rose Anarchist Federation"
+date: 2022
 category: abolition
 tags:
   - protests
