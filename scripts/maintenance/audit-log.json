@@ -3,8 +3,8 @@
     "created": "2026-02-09",
     "last_updated": "2026-02-12",
     "total_documents": 2198,
-    "audited_count": 9,
-    "current_round": 217,
+    "audited_count": 10,
+    "current_round": 218,
     "categories_audited": []
   },
   "audit_sessions": [
@@ -79,7 +79,8 @@
     "theory/Anarchism and the Black Revolution.md",
     "abolition/Article_91723_police-collective-bargaining-and-police-violence_final.md",
     "abolition/Article_a-world-without-police-audio-book.md",
-    "abolition/Article_afa-and-the-police-whatever-you-say-say-nothing.md"
+    "abolition/Article_afa-and-the-police-whatever-you-say-say-nothing.md",
+    "abolition/Article_anti-fascist-or-pro-police-anarchist-black-cross.md"
   ],
   "flagged_for_review": [],
   "quality_scores": {
@@ -91,6 +92,7 @@
     "theory/Anarchism and the Black Revolution.md": "ok",
     "abolition/Article_91723_police-collective-bargaining-and-police-violence_final.md": "ok",
     "abolition/Article_a-world-without-police-audio-book.md": "ok",
-    "abolition/Article_afa-and-the-police-whatever-you-say-say-nothing.md": "ok"
+    "abolition/Article_afa-and-the-police-whatever-you-say-say-nothing.md": "ok",
+    "abolition/Article_anti-fascist-or-pro-police-anarchist-black-cross.md": "ok"
   }
 }
