@@ -3,8 +3,8 @@
     "created": "2026-02-09",
     "last_updated": "2026-02-12",
     "total_documents": 2198,
-    "audited_count": 10,
-    "current_round": 218,
+    "audited_count": 20,
+    "current_round": 219,
     "categories_audited": []
   },
   "audit_sessions": [
@@ -80,7 +80,17 @@
     "abolition/Article_91723_police-collective-bargaining-and-police-violence_final.md",
     "abolition/Article_a-world-without-police-audio-book.md",
     "abolition/Article_afa-and-the-police-whatever-you-say-say-nothing.md",
-    "abolition/Article_anti-fascist-or-pro-police-anarchist-black-cross.md"
+    "abolition/Article_anti-fascist-or-pro-police-anarchist-black-cross.md",
+    "abolition/A Right Result.md",
+    "abolition/A World Without Police Study Guide.md",
+    "abolition/ABC Irkutsk support the revolutionary prisoners of Siberia!.md",
+    "abolition/Alexander_Berkman_Prison_Memoirs.md",
+    "abolition/An Obituary for Tortuguita.md",
+    "abolition/Article_a-world-without-police-geo-maher.md",
+    "abolition/Article_anarchist-black-cross-news-black-flag.md",
+    "abolition/Article_chicago-anarchist-black-cross-bulletin-1-1972.md",
+    "abolition/Article_culture-leisure-and-the-police.md",
+    "abolition/Article_defund-the-police_-an-international-insurrection-defund-the-police_-an-internati.md"
   ],
   "flagged_for_review": [],
   "quality_scores": {
@@ -93,6 +103,16 @@
     "abolition/Article_91723_police-collective-bargaining-and-police-violence_final.md": "ok",
     "abolition/Article_a-world-without-police-audio-book.md": "ok",
     "abolition/Article_afa-and-the-police-whatever-you-say-say-nothing.md": "ok",
-    "abolition/Article_anti-fascist-or-pro-police-anarchist-black-cross.md": "ok"
+    "abolition/Article_anti-fascist-or-pro-police-anarchist-black-cross.md": "ok",
+    "abolition/A Right Result.md": "ok",
+    "abolition/A World Without Police Study Guide.md": "ok",
+    "abolition/ABC Irkutsk support the revolutionary prisoners of Siberia!.md": "ok",
+    "abolition/Alexander_Berkman_Prison_Memoirs.md": "ok",
+    "abolition/An Obituary for Tortuguita.md": "ok",
+    "abolition/Article_a-world-without-police-geo-maher.md": "ok",
+    "abolition/Article_anarchist-black-cross-news-black-flag.md": "ok",
+    "abolition/Article_chicago-anarchist-black-cross-bulletin-1-1972.md": "ok",
+    "abolition/Article_culture-leisure-and-the-police.md": "ok",
+    "abolition/Article_defund-the-police_-an-international-insurrection-defund-the-police_-an-internati.md": "ok"
   }
 }
