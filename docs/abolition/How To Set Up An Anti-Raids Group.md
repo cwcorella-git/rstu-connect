@@ -1,6 +1,6 @@
 ---
-title: How To Set Up An Anti-Raids Group
-author: "libcom.org"
+title: "How To Set Up An Anti-Raids Group"
+author: "Haringey Anti-Raids"
 date: 2018
 category: abolition
 tags:

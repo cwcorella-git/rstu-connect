@@ -1,5 +1,6 @@
 ---
-title: Gruesome Spectacles
+title: "Gruesome Spectacles: Botched Executions and America's Death Penalty"
+author: "Austin Sarat"
 date: 2014
 category: abolition
 tags:

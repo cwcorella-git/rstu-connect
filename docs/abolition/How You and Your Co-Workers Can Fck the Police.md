@@ -1,7 +1,7 @@
 ---
-title: How You And Your Co Workers Can Fck The Police
-author: Evan Milner
-date: '2020'
+title: "How You And Your Co-Workers Can Fck The Police"
+author: "Evan Milner"
+date: 2020
 category: abolition
 tags:
   - police
