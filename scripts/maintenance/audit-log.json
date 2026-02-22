@@ -3,8 +3,8 @@
     "created": "2026-02-09",
     "last_updated": "2026-02-22",
     "total_documents": 2198,
-    "audited_count": 147,
-    "current_round": 232,
+    "audited_count": 157,
+    "current_round": 233,
     "categories_audited": []
   },
   "audit_sessions": [
@@ -217,7 +217,17 @@
     "abolition/The Pandemic Inside COVID-19 in Michigan Prisons.md",
     "abolition/The Origins of Policing in the United States _ Snopes.com.md",
     "abolition/The Ambivalence of Alexander Berkman’s Anti-Prison Anarchism.md",
-    "abolition/The New Prisoner - Martin Sostre.md"
+    "abolition/The New Prisoner - Martin Sostre.md",
+    "abolition/The unforgettable life of prison rebel Martin Sostre - William C Anderson.md",
+    "abolition/Thousands of prisoners strike ‘to end slavery’ across the United States.md",
+    "abolition/They Call It Suicide, We Call It Murder - Black Flag.md",
+    "abolition/Torment in Indiana Prisons The Abuse, the Lawsuit, the Death of Phillip Littler.md",
+    "abolition/Their Crimes, Our Punishment Texas Department of Criminal Justice's State-Wide Deadly Use of Force C.md",
+    "abolition/Update on #OperationPUSH in Florida Prisons.md",
+    "abolition/Trump’s executive order confirms US State Department has trained the Hong Kong police.md",
+    "abolition/Two Siberian anarchists are captured on suspicion of combative actions.md",
+    "abolition/United We Stood Writings and Analysis from the Vaughn 17.md",
+    "abolition/Vitale - The End of Policing (Police) (2017).md"
   ],
   "flagged_for_review": [],
   "quality_scores": {
@@ -358,6 +368,7 @@
     "abolition/The Imprisoned Black Radical Intellectual Tradition - Russell Maroon Shoatz.md": "ok",
     "abolition/The Influence of Race in Police-Civilian Interactions.md": "ok",
     "abolition/The Irrepressible Anarchists.md": "ok",
-    "technology-digital-justice/The Right to Read - GNU Project - Free Software Foundation.md": "ok"
+    "technology-digital-justice/The Right to Read - GNU Project - Free Software Foundation.md": "ok",
+    "abolition/The unforgettable life of prison rebel Martin Sostre - William C Anderson.md": "ok"
   }
 }
