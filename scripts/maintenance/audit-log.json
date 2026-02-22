@@ -3,8 +3,8 @@
     "created": "2026-02-09",
     "last_updated": "2026-02-22",
     "total_documents": 2198,
-    "audited_count": 186,
-    "current_round": 236,
+    "audited_count": 196,
+    "current_round": 237,
     "categories_audited": []
   },
   "audit_sessions": [
@@ -256,7 +256,17 @@
     "arts-culture-music/Blake Escape book reviews.md",
     "arts-culture-music/Coordenação Anarquista Brasileira analyse Brazil’s political earthquake.md",
     "arts-culture-music/Emma Lazarus - Wikipedia.md",
-    "arts-culture-music/Concerning violence _ Fanon, film, and liberation in Africa, -- Göran Olsson (Editor), Sophie Vukovic (Editor), Gayatri -- 2024 -- Haymarket Books -- 9781608465323 -- cb2bcda9bb3f67e046447c498e036390 -- Anna’s Archive.md"
+    "arts-culture-music/Concerning violence _ Fanon, film, and liberation in Africa, -- Göran Olsson (Editor), Sophie Vukovic (Editor), Gayatri -- 2024 -- Haymarket Books -- 9781608465323 -- cb2bcda9bb3f67e046447c498e036390 -- Anna’s Archive.md",
+    "arts-culture-music/European Regulators Approve Sales of First Artificial Heart - Reader Mode.md",
+    "arts-culture-music/Free Cities_Murray Bookchin_liber3.md",
+    "arts-culture-music/From the clinker to cleats the story of Nicolaas Steelink - Matthew Hart.md",
+    "arts-culture-music/How The Barter Myth Harms Us.md",
+    "arts-culture-music/How You Start is How You Finish_ The Slave Patrol and Jim Crow Origins of Policing.md",
+    "arts-culture-music/Interview with Ashanti Alston, anarchist and former Black Panther PartyBlack Liberation Army member.md",
+    "arts-culture-music/Introduction_to_Stuart_Hall_When_We_Are.md",
+    "arts-culture-music/It Starts On Your Job Syndicalist proposals.md",
+    "arts-culture-music/It Can't Happen Here - Wikipedia.md",
+    "arts-culture-music/First Novels, Part 4-The First Veil – Patricia C. Wrede.md"
   ],
   "flagged_for_review": [],
   "quality_scores": {
@@ -408,6 +418,14 @@
     "arts-culture-music/Designing Pacifist Films.md": "ok",
     "arts-culture-music/Earth Strike Ireland Rising.md": "ok",
     "arts-culture-music/Ending the cycle of violence the youth-led bike movements of London challenging gang culture today.md": "ok",
-    "arts-culture-music/Episode 34 Sacredness Horror Music And The Symbol.md": "ok"
+    "arts-culture-music/Episode 34 Sacredness Horror Music And The Symbol.md": "ok",
+    "arts-culture-music/European Regulators Approve Sales of First Artificial Heart - Reader Mode.md": "ok",
+    "arts-culture-music/Free Cities_Murray Bookchin_liber3.md": "ok",
+    "arts-culture-music/From the clinker to cleats the story of Nicolaas Steelink - Matthew Hart.md": "ok",
+    "arts-culture-music/How The Barter Myth Harms Us.md": "ok",
+    "arts-culture-music/How You Start is How You Finish_ The Slave Patrol and Jim Crow Origins of Policing.md": "ok",
+    "arts-culture-music/Interview with Ashanti Alston, anarchist and former Black Panther PartyBlack Liberation Army member.md": "ok",
+    "arts-culture-music/Introduction_to_Stuart_Hall_When_We_Are.md": "ok",
+    "arts-culture-music/It Starts On Your Job Syndicalist proposals.md": "ok"
   }
 }
