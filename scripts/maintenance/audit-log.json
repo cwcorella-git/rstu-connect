@@ -3,8 +3,8 @@
     "created": "2026-02-09",
     "last_updated": "2026-02-22",
     "total_documents": 2198,
-    "audited_count": 176,
-    "current_round": 235,
+    "audited_count": 186,
+    "current_round": 236,
     "categories_audited": []
   },
   "audit_sessions": [
@@ -246,7 +246,17 @@
     "abolition/project_muse_38590-1551073.md",
     "abolition/hostcitycontract-EN.md",
     "abolition/‘I Am An Anarchist’ Remembering Anarchist Prisoner Brian McCarvill, who Died of COVID-19 in Prison o.md",
-    "abolition/“Energize the Movement” Jailhouse Lawyers Speak on the Importance of the National Shut’Em Down Demon.md"
+    "abolition/“Energize the Movement” Jailhouse Lawyers Speak on the Importance of the National Shut’Em Down Demon.md",
+    "arts-culture-music/Between the 30s and the 60s - Murray Bookchin.md",
+    "arts-culture-music/Book Review The Dawn of Everything A New History of Humanity.md",
+    "arts-culture-music/Designing Pacifist Films.md",
+    "arts-culture-music/Earth Strike Ireland Rising.md",
+    "arts-culture-music/Ending the cycle of violence the youth-led bike movements of London challenging gang culture today.md",
+    "arts-culture-music/Episode 34 Sacredness Horror Music And The Symbol.md",
+    "arts-culture-music/Blake Escape book reviews.md",
+    "arts-culture-music/Coordenação Anarquista Brasileira analyse Brazil’s political earthquake.md",
+    "arts-culture-music/Emma Lazarus - Wikipedia.md",
+    "arts-culture-music/Concerning violence _ Fanon, film, and liberation in Africa, -- Göran Olsson (Editor), Sophie Vukovic (Editor), Gayatri -- 2024 -- Haymarket Books -- 9781608465323 -- cb2bcda9bb3f67e046447c498e036390 -- Anna’s Archive.md"
   ],
   "flagged_for_review": [],
   "quality_scores": {
@@ -392,6 +402,12 @@
     "abolition/new-anti-homeless-policies.md": "ok",
     "abolition/the-public-duty-doctrine-and-its-implications-for-police-officers-_-savage-train.md": "ok",
     "arts-culture-music/A healthy planet for our children to inherit, or destroying the earth for jobs Join Thousands of Wor.md": "ok",
-    "arts-culture-music/Arts and Crafts movement - Wikipedia.md": "ok"
+    "arts-culture-music/Arts and Crafts movement - Wikipedia.md": "ok",
+    "arts-culture-music/Between the 30s and the 60s - Murray Bookchin.md": "ok",
+    "arts-culture-music/Book Review The Dawn of Everything A New History of Humanity.md": "ok",
+    "arts-culture-music/Designing Pacifist Films.md": "ok",
+    "arts-culture-music/Earth Strike Ireland Rising.md": "ok",
+    "arts-culture-music/Ending the cycle of violence the youth-led bike movements of London challenging gang culture today.md": "ok",
+    "arts-culture-music/Episode 34 Sacredness Horror Music And The Symbol.md": "ok"
   }
 }
