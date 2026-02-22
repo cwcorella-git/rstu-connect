@@ -1,7 +1,7 @@
 ---
-title: "Interview with Ashanti Alston, anarchist and former Black Panther Party/Black Liberation Army m"
-author: "libcom.org"
-date: 1972
+title: "Interview with Ashanti Alston, Anarchist and Former Black Panther Party/Black Liberation Army Member"
+author: "Treyf Podcast"
+date: 2018
 category: arts-culture-music
 tags:
   - anarchism

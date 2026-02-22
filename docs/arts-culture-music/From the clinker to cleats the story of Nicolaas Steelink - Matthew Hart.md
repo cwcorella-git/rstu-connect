@@ -1,7 +1,7 @@
 ---
-title: "From the clinker to cleats: the story of Nicolaas Steelink - Matthew Hart"
-author: "Industrial Workers of the World"
-date: 1922
+title: "From the Clinker to Cleats: The Story of Nicolaas Steelink"
+author: "Matthew Hart"
+date: 2020
 category: "arts-culture-music"
 tags:
   - matthew-hart

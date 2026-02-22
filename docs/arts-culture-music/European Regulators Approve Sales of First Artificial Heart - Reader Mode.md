@@ -1,10 +1,12 @@
 ---
-title: "European Regulators Approve Sales of First Articial Heart"
+title: "European Regulators Approve Sales of First Artificial Heart"
+author: "Bloomberg"
 date: 2021
-category: "arts-culture-music"
+category: arts-culture-music
 tags:
-  - arts
-  - culture
+  - technology
+  - medical
+  - health
 ---
 
 - CE mark in 10 years 'a record' but production is complex: CEO

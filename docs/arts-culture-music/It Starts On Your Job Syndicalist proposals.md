@@ -1,8 +1,8 @@
 ---
 title: 'It Starts On Your Job: Syndicalist proposals'
-author: "libcom.org"
+author: "Rasmus Hästbacka"
 date: 2022
-category: arts-culture-music
+category: labor
 tags:
   - syndicalism
   - labor

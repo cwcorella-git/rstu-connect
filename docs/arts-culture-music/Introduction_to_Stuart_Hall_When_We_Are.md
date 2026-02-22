@@ -1,7 +1,7 @@
 ---
 title: "When We Are All Enemies of the State"
 author: "Jordan T. Camp"
-date: 1969
+date: 2020
 category: "arts-culture-music"
 tags:
   - arts
