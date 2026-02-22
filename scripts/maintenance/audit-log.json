@@ -3,8 +3,8 @@
     "created": "2026-02-09",
     "last_updated": "2026-02-22",
     "total_documents": 2198,
-    "audited_count": 167,
-    "current_round": 234,
+    "audited_count": 176,
+    "current_round": 235,
     "categories_audited": []
   },
   "audit_sessions": [
@@ -237,7 +237,16 @@
     "abolition/While There Is A Soul In Prison.md",
     "abolition/What Is Holding Back the Formation of a Global Prison Abolitionist Movement to Fight COVID-19 and Ca.md",
     "abolition/david-graeber-new-police-strategy-in-new-york-sexual-assault.md",
-    "abolition/ferguson_police_department_report.md"
+    "abolition/ferguson_police_department_report.md",
+    "abolition/new-anti-homeless-policies.md",
+    "arts-culture-music/A healthy planet for our children to inherit, or destroying the earth for jobs Join Thousands of Wor.md",
+    "arts-culture-music/Arts and Crafts movement - Wikipedia.md",
+    "arts-culture-music/Answering Annihilation Some Notes on Earth’s Execution.md",
+    "arts-culture-music/An Open Letter of a Part-Time Instructor from PUP.md",
+    "abolition/project_muse_38590-1551073.md",
+    "abolition/hostcitycontract-EN.md",
+    "abolition/‘I Am An Anarchist’ Remembering Anarchist Prisoner Brian McCarvill, who Died of COVID-19 in Prison o.md",
+    "abolition/“Energize the Movement” Jailhouse Lawyers Speak on the Importance of the National Shut’Em Down Demon.md"
   ],
   "flagged_for_review": [],
   "quality_scores": {
@@ -379,6 +388,10 @@
     "abolition/The Influence of Race in Police-Civilian Interactions.md": "ok",
     "abolition/The Irrepressible Anarchists.md": "ok",
     "technology-digital-justice/The Right to Read - GNU Project - Free Software Foundation.md": "ok",
-    "abolition/The unforgettable life of prison rebel Martin Sostre - William C Anderson.md": "ok"
+    "abolition/The unforgettable life of prison rebel Martin Sostre - William C Anderson.md": "ok",
+    "abolition/new-anti-homeless-policies.md": "ok",
+    "abolition/the-public-duty-doctrine-and-its-implications-for-police-officers-_-savage-train.md": "ok",
+    "arts-culture-music/A healthy planet for our children to inherit, or destroying the earth for jobs Join Thousands of Wor.md": "ok",
+    "arts-culture-music/Arts and Crafts movement - Wikipedia.md": "ok"
   }
 }
