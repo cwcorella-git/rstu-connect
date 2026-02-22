@@ -1,11 +1,14 @@
 ---
-title: The Right to Read - GNU Project
+title: "The Right to Read"
 author: "Richard Stallman"
-date: 1995
-category: abolition
+date: 1997
+category: technology-digital-justice
 tags:
   - technology
-  - digital rights
+  - digital-rights
+  - copyright
+  - dystopia
+  - free-software
 ---
 
 [gnu.org](https://www.gnu.org/philosophy/right-to-read.html)
