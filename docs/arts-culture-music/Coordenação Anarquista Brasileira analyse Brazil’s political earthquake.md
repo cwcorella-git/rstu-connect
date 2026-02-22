@@ -1,5 +1,6 @@
 ---
 title: "Coordenação Anarquista Brasileira analyse Brazil's political earthquake"
+author: "Coordenação Anarquista Brasileira"
 date: 2016
 category: "arts-culture-music"
 tags:

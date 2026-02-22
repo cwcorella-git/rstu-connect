@@ -1,6 +1,6 @@
 ---
-title: "Ending the cycle of violence: the youth-led bike movements of London challenging gang culture t"
-author: "libcom.org"
+title: "Ending the Cycle of Violence: The Youth-Led Bike Movements of London Challenging Gang Culture Today"
+author: "Rosa Soros"
 date: 2014
 category: "arts-culture-music"
 tags:

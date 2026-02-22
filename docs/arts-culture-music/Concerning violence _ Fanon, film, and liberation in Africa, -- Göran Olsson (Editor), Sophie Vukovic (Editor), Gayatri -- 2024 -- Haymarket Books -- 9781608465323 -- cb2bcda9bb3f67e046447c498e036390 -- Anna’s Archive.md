@@ -1,5 +1,6 @@
 ---
 title: "Concerning Violence"
+author: "Göran Hugo Olsson and Sophie Vukov (eds.)"
 date: 2017
 category: "arts-culture-music"
 tags:

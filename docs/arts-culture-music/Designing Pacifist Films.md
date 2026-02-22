@@ -1,9 +1,12 @@
 ---
-title: Paul Goodman
-date: 2009
+title: "Designing Pacifist Films"
+author: "Paul Goodman"
+date: 1961
 category: arts-culture-music
 tags:
   - anti-war
+  - film
+  - pacifism
 ---
 
 ## **Designing Pacifist Films**

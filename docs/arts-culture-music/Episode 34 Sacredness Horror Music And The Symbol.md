@@ -1,10 +1,13 @@
 ---
-title: "Episode 34: Sacredness Horror Music And The Symbol/"
-date: 1917
-category: "arts-culture-music"
+title: "Episode 34: Sacredness, Horror, Music, and The Symbol"
+author: "John Vervaeke"
+date: 2019
+category: arts-culture-music
 tags:
-  - arts
-  - culture
+  - philosophy
+  - meaning
+  - sacredness
+  - Awakening-from-the-Meaning-Crisis
 ---
 
 Welcome back to awakening from the meaning crisis. So last time I tried to develop with you the right side of the plausibility argument I'm making, and tried to give an account of central features of human spirituality and to try not [to] use that term, therefore, in a vague, indefinite way. And then I made an argument for how Relevance Realization can explain many of the facets that are found within the normal attribution of human spirituality. And I proposed a term, "Religio", to cover all of those aspects of spirituality that can be explained by the machinery of relevance realization. There was, of course, an important lacuna; there was something that was still missing from that account and this was the account of the Sacred. And then I propose to you, in order to avoid confusion especially post-Schleiermacher, that we should make a distinction between the metaphysical proposal of the ground or the cause of the experience of sacredness, where Schleiermacher is emphasising the experience. And then for reasons of the way my argument has unfolded, since I'm talking about the psycho-existential machinery of sacredness as opposed to the metaphysical proposal, at least initially that is where I should begin.

@@ -1,7 +1,7 @@
 ---
 title: "Book Review: The Dawn of Everything: A New History of Humanity"
-author: "Industrial Workers of the World"
-date: 2019
+author: "Dan Fischer"
+date: 2023
 category: "arts-culture-music"
 tags:
   - arts
