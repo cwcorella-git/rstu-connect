@@ -1,10 +1,10 @@
 {
   "metadata": {
     "created": "2026-02-09",
-    "last_updated": "2026-02-12",
+    "last_updated": "2026-02-22",
     "total_documents": 2198,
-    "audited_count": 137,
-    "current_round": 231,
+    "audited_count": 147,
+    "current_round": 232,
     "categories_audited": []
   },
   "audit_sessions": [
@@ -207,7 +207,17 @@
     "abolition/The Idea of Prison Abolition_Tommie Shelby_liber3.md",
     "abolition/The Imprisoned Black Radical Intellectual Tradition - Russell Maroon Shoatz.md",
     "abolition/The Influence of Race in Police-Civilian Interactions.md",
-    "abolition/The Irrepressible Anarchists.md"
+    "abolition/The Irrepressible Anarchists.md",
+    "technology-digital-justice/The Right to Read - GNU Project - Free Software Foundation.md",
+    "abolition/The Public Duty Doctrine and Its Implications for Police Officers _ Savage Training Group.md",
+    "abolition/The Origins of Modern Day Policing.md",
+    "abolition/The Police are Not Required to Protect You — Barnes Law.md",
+    "abolition/The new Jim Crow study guide and call to action.md",
+    "abolition/The Sport of Abusing Prisoners in Lucasville, Ohio Like Pulling Wings Off Flies.md",
+    "abolition/The Pandemic Inside COVID-19 in Michigan Prisons.md",
+    "abolition/The Origins of Policing in the United States _ Snopes.com.md",
+    "abolition/The Ambivalence of Alexander Berkman’s Anti-Prison Anarchism.md",
+    "abolition/The New Prisoner - Martin Sostre.md"
   ],
   "flagged_for_review": [],
   "quality_scores": {
@@ -347,6 +357,7 @@
     "abolition/The Idea of Prison Abolition_Tommie Shelby_liber3.md": "ok",
     "abolition/The Imprisoned Black Radical Intellectual Tradition - Russell Maroon Shoatz.md": "ok",
     "abolition/The Influence of Race in Police-Civilian Interactions.md": "ok",
-    "abolition/The Irrepressible Anarchists.md": "ok"
+    "abolition/The Irrepressible Anarchists.md": "ok",
+    "technology-digital-justice/The Right to Read - GNU Project - Free Software Foundation.md": "ok"
   }
 }
