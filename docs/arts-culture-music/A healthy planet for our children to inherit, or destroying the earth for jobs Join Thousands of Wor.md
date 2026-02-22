@@ -1,6 +1,6 @@
 ---
-title: "A healthy planet for our children to inherit, or destroying the earth for jobs? Join Thousands"
-author: "Labor for Standing Rock -"
+title: "A Healthy Planet for Our Children to Inherit, or Destroying the Earth for Jobs? Join Thousands of Workers for the Climate March"
+author: "Labor for Standing Rock"
 date: 2017
 category: arts-culture-music
 tags:
