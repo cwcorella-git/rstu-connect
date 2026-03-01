@@ -3,8 +3,8 @@
     "created": "2026-02-09",
     "last_updated": "2026-02-28",
     "total_documents": 2198,
-    "audited_count": 237,
-    "current_round": 241,
+    "audited_count": 247,
+    "current_round": 242,
     "categories_audited": []
   },
   "audit_sessions": [
@@ -307,7 +307,17 @@
     "theory/Alfredo_Bonanno_Armed_Joy.md",
     "theory/An Open Letter to Revolutionaries.md",
     "environmental-justice/A Solarpunk Manifesto (English) \u2013 ReDes \u2013 Regenerative Design.md",
-    "organizing/A Tilted Guide to Being a Defendant A Guide to the Criminal Legal System for Radicals.md"
+    "organizing/A Tilted Guide to Being a Defendant A Guide to the Criminal Legal System for Radicals.md",
+    "abolition/Are_Prisons_Obsolete_Angela_Davis.md",
+    "abolition/Assata Shakur - Wikipedia.md",
+    "feminist-theory/Because we want ourselves alive, together we are disrupting everything Notes for thinking about the.md",
+    "international-solidarity/Ang Potensyal na Anarkistang Tendensiya ng Diliman Commune.md",
+    "organizing/And One With No Answers - Udo Renkes.md",
+    "theory/Anarchy 071.md",
+    "theory/Anarchy Works.md",
+    "theory/Bakunin_God_and_the_State.md",
+    "contemporary-analysis/Article_strike-debt-wikipedia.md",
+    "contemporary-analysis/Article_the-italian-general-strike.md"
   ],
   "flagged_for_review": [],
   "quality_scores": {
@@ -496,6 +506,14 @@
     "labor/Amazon Strikes on Prime Day.md": "ok",
     "organizing/A Tilted Guide to Being a Defendant A Guide to the Criminal Legal System for Radicals.md": "ok",
     "theory/Alfredo_Bonanno_Armed_Joy.md": "ok",
-    "theory/An Open Letter to Revolutionaries.md": "ok"
+    "theory/An Open Letter to Revolutionaries.md": "ok",
+    "abolition/Are_Prisons_Obsolete_Angela_Davis.md": "ok",
+    "abolition/Assata Shakur - Wikipedia.md": "ok",
+    "feminist-theory/Because we want ourselves alive, together we are disrupting everything Notes for thinking about the.md": "ok",
+    "international-solidarity/Ang Potensyal na Anarkistang Tendensiya ng Diliman Commune.md": "ok",
+    "organizing/And One With No Answers - Udo Renkes.md": "ok",
+    "theory/Anarchy 071.md": "ok",
+    "theory/Anarchy Works.md": "ok",
+    "theory/Bakunin_God_and_the_State.md": "ok"
   }
 }
