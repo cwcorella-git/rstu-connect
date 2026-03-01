@@ -3,8 +3,8 @@
     "created": "2026-02-09",
     "last_updated": "2026-02-28",
     "total_documents": 2198,
-    "audited_count": 247,
-    "current_round": 242,
+    "audited_count": 256,
+    "current_round": 243,
     "categories_audited": []
   },
   "audit_sessions": [
@@ -317,7 +317,16 @@
     "theory/Anarchy Works.md",
     "theory/Bakunin_God_and_the_State.md",
     "contemporary-analysis/Article_strike-debt-wikipedia.md",
-    "contemporary-analysis/Article_the-italian-general-strike.md"
+    "contemporary-analysis/Article_the-italian-general-strike.md",
+    "contemporary-analysis/Between the World and Me - Ta-Nehisi Coates.md",
+    "contemporary-analysis/Beyond May Day From Ritual to Resistance.md",
+    "housing/Beyond_Blame_Safer_Streets_Report_2024.md",
+    "labor/Boycott Sakuma Berries!.md",
+    "theory/p-m-bolo-bolo.md",
+    "contemporary-analysis/Being Numerous - Natasha Lennard.md",
+    "contemporary-analysis/Black_Liberation_and_Left_Renewal_Review.md",
+    "theory/Bj\u00f6rklund, Carl Johan (1884-1971).md",
+    "economic-alternatives/Bolsa Fam\u00edlia - Wikipedia.md"
   ],
   "flagged_for_review": [],
   "quality_scores": {
@@ -514,6 +523,11 @@
     "organizing/And One With No Answers - Udo Renkes.md": "ok",
     "theory/Anarchy 071.md": "ok",
     "theory/Anarchy Works.md": "ok",
-    "theory/Bakunin_God_and_the_State.md": "ok"
+    "theory/Bakunin_God_and_the_State.md": "ok",
+    "contemporary-analysis/Between the World and Me - Ta-Nehisi Coates.md": "ok",
+    "contemporary-analysis/Beyond May Day From Ritual to Resistance.md": "ok",
+    "housing/Beyond_Blame_Safer_Streets_Report_2024.md": "ok",
+    "labor/Boycott Sakuma Berries!.md": "ok",
+    "theory/p-m-bolo-bolo.md": "ok"
   }
 }
