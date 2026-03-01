@@ -1,8 +1,8 @@
 ---
 title: "Clarifying especifismo: a response to DSA-LSC's 'Letter to the Libertarian Left'"
-author: "libcom.org"
-date: 2025
-category: "contemporary-analysis"
+author: "Black Rose Anarchist Federation"
+date: 2017
+category: "theory"
 tags:
   - black-rose-anarchist-federation
   - especifismo

@@ -1,10 +1,13 @@
 ---
-title: Community-Driven Social Change in the Age of the Non-Profit Industrial Complex
-author: "Industrial Workers of the World"
+title: "Community-Driven Social Change in the Age of the Non-Profit Industrial Complex"
+author: "IWW Environmental Unionism Caucus"
 date: 2016
-category: contemporary-analysis
+category: organizing
 tags:
-  - community
+  - community-organizing
+  - non-profit-industrial-complex
+  - IWW
+  - movement-building
 ---
 
 | Date: Wed, 12/07/2016 - 17:05

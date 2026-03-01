@@ -1,10 +1,13 @@
 ---
-title: Constructive Programme
+title: "Constructive Programme: Its Meaning and Place"
+author: "M. K. Gandhi"
 date: 1941
-category: contemporary-analysis
+category: organizing
 tags:
-  - analysis
-  - current-events
+  - Gandhi
+  - nonviolent-resistance
+  - constructive-program
+  - India
 ---
 
 ## (Its Meaning and Place)

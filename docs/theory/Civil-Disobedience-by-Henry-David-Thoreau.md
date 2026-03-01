@@ -1,9 +1,13 @@
 ---
 title: "Civil Disobedience"
 author: "Henry David Thoreau"
-category: contemporary-analysis
+date: 1849
+category: theory
 tags:
-  - civil disobedience
+  - civil-disobedience
+  - anarchism
+  - nonviolent-resistance
+  - Thoreau
 ---
 
 ## **By Henry David Thoreau**

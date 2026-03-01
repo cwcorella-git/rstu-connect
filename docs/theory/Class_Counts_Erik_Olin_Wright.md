@@ -1,10 +1,13 @@
 ---
-title: Class Counts
-author: "Class Counts"
-date: 1948
-category: contemporary-analysis
+title: "Class Counts"
+author: "Erik Olin Wright"
+date: 1997
+category: theory
 tags:
-  - class
+  - class-analysis
+  - Marxism
+  - sociology
+  - Erik-Olin-Wright
 ---
 
 ## **Student Edition**

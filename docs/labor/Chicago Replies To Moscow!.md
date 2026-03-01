@@ -1,10 +1,13 @@
 ---
-title: Chicago Replies To Moscow!
+title: "Chicago Replies to Moscow!"
 author: "Industrial Workers of the World"
 date: 1945
-category: contemporary-analysis
+category: labor
 tags:
-  - Chicago
+  - IWW
+  - anti-Stalinism
+  - labor-history
+  - Soviet-Union
 ---
 
 Exchange from the Industrial Worker newspaper with a Soviet official from 1945.

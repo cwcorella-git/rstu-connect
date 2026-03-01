@@ -1,11 +1,13 @@
 ---
-title: "Raúl Zibechi"
-author: "Charles V. Hamilton"
-date: 2006
-category: "contemporary-analysis"
+title: "Constructing Worlds Otherwise"
+author: "Raúl Zibechi"
+date: 2012
+category: "international-solidarity"
 tags:
-  - analysis
-  - current-events
+  - Latin-America
+  - social-movements
+  - anticolonialism
+  - Zibechi
 ---
 
 # CONSTRUCTING WORLDS OTHERWISE
