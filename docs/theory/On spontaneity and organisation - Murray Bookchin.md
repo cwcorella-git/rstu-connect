@@ -1,8 +1,8 @@
 ---
-title: On spontaneity and organisation - Murray Bookchin
+title: "On Spontaneity and Organisation"
 author: "Murray Bookchin"
 date: 1972
-category: arts-culture-music
+category: theory
 tags:
   - Bookchin
 ---

@@ -1,10 +1,12 @@
 ---
-title: Post-Scarcity Anarchism
+title: "Post-Scarcity Anarchism (2nd Edition)"
 author: "Murray Bookchin"
 date: 1986
-category: arts-culture-music
+category: theory
 tags:
   - anarchism
+  - post-scarcity
+  - social-ecology
   - Bookchin
 ---
 

@@ -1,11 +1,12 @@
 ---
-title: Post-Scarcity Anarchism
+title: "Post-Scarcity Anarchism (Complete Edition with Listen, Marxist!)"
 author: "Murray Bookchin"
-date: 1949
-category: arts-culture-music
+date: 1971
+category: theory
 tags:
   - anarchism
-  - socialism
+  - post-scarcity
+  - social-ecology
   - Bookchin
 ---
 

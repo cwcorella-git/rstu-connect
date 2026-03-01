@@ -1,11 +1,13 @@
 ---
 title: "On Fire Departments"
 author: "Brad Hargreaves"
-date: 2018
-category: "arts-culture-music"
+date: 2024
+category: "housing"
 tags:
-  - arts
-  - culture
+  - housing-policy
+  - building-codes
+  - walkability
+  - fire-departments
 ---
 
 ## Brad Hargreaves

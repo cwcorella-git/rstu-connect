@@ -1,11 +1,13 @@
 ---
 title: "Castle Rock v. Gonzales - Amicus (Merits)"
 author: "Paul D. Clement"
-date: 1976
-category: "arts-culture-music"
+date: 2005
+category: "housing"
 tags:
-  - arts
-  - culture
+  - supreme-court
+  - domestic-violence
+  - police-accountability
+  - restraining-orders
 ---
 
 

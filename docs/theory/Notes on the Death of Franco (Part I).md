@@ -1,8 +1,8 @@
 ---
 title: "Notes on the Death of Franco (Part I)"
-author: "libcom.org"
+author: "Murray Bookchin"
 date: 1976
-category: "arts-culture-music"
+category: "theory"
 tags:
   - murray-bookchin
   - fascism
