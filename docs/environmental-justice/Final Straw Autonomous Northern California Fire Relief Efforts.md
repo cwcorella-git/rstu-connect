@@ -1,9 +1,13 @@
 ---
 title: 'Final Straw: Autonomous Northern California Fire Relief Efforts'
+author: "Final Straw"
 date: 2017
-category: contemporary-analysis
+category: "environmental-justice"
 tags:
-  - autonomy
+  - wildfires
+  - mutual-aid
+  - disaster-relief
+  - california
 ---
 
 | Date: Wed, 10/18/2017 - 18:11 |

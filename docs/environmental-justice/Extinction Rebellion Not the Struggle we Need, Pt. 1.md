@@ -1,10 +1,13 @@
 ---
 title: 'Extinction Rebellion: Not the Struggle we Need, Pt. 1'
-author: "libcom.org"
-date: 2017
-category: contemporary-analysis
+author: "Anonymous"
+date: 2019
+category: "environmental-justice"
 tags:
-  - riots
+  - extinction-rebellion
+  - climate-justice
+  - direct-action
+  - critique
 ---
 
 The first of a three-part critique of Extinction Rebellion, focussing on their attitudes towards the police, legal system and prison.

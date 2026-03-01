@@ -1,12 +1,13 @@
 ---
 title: "Ferrer movement"
-author: "Wikipedia contributors"
-date: 1980
-category: "contemporary-analysis"
+author: "Wikipedia"
+date: 2024
+category: "historical"
 tags:
-  - analysis
-  - current-events
   - wikipedia
+  - ferrer-movement
+  - anarchism
+  - free-schools
 ---
 
 ## Contributors to Wikimedia projects

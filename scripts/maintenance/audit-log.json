@@ -3,8 +3,8 @@
     "created": "2026-02-09",
     "last_updated": "2026-02-28",
     "total_documents": 2198,
-    "audited_count": 294,
-    "current_round": 247,
+    "audited_count": 302,
+    "current_round": 248,
     "categories_audited": []
   },
   "audit_sessions": [
@@ -364,7 +364,15 @@
     "historical/Donald L. Cox - Wikipedia.md",
     "labor/Do treeplanters suffer from Stockholm syndrome.md",
     "organizing/Critical Thoughts on Consensus Decision Making.md",
-    "theory/DeShaney v. Winnebago County - Wikipedia.md"
+    "theory/DeShaney v. Winnebago County - Wikipedia.md",
+    "abolition/Enduring-Injustice-Race-and-the-Death-Penalty-2020.md",
+    "contemporary-analysis/Donate.md",
+    "environmental-justice/EcoDefense Radio Alex Lotorto on Supporting Frontline Communities.md",
+    "historical/Elena Quinteros, 1945-1976.md",
+    "theory/Egress_ on Mourning, Melancholy and Mark F - Matt Colquhoun.md",
+    "theory/Elisee_Reclus_Evolution_and_Revolution.md",
+    "theory/Epictetus.md",
+    "theory/Erasing History_ How Fascists Rewrite the - Jason Stanley.md"
   ],
   "flagged_for_review": [],
   "quality_scores": {
@@ -601,6 +609,14 @@
     "historical/Donald L. Cox - Wikipedia.md": "ok",
     "labor/Do treeplanters suffer from Stockholm syndrome.md": "ok",
     "organizing/Critical Thoughts on Consensus Decision Making.md": "ok",
-    "theory/DeShaney v. Winnebago County - Wikipedia.md": "ok"
+    "theory/DeShaney v. Winnebago County - Wikipedia.md": "ok",
+    "abolition/Enduring-Injustice-Race-and-the-Death-Penalty-2020.md": "ok",
+    "contemporary-analysis/Donate.md": "ok",
+    "environmental-justice/EcoDefense Radio Alex Lotorto on Supporting Frontline Communities.md": "ok",
+    "historical/Elena Quinteros, 1945-1976.md": "ok",
+    "theory/Egress_ on Mourning, Melancholy and Mark F - Matt Colquhoun.md": "ok",
+    "theory/Elisee_Reclus_Evolution_and_Revolution.md": "ok",
+    "theory/Epictetus.md": "ok",
+    "theory/Erasing History_ How Fascists Rewrite the - Jason Stanley.md": "ok"
   }
 }

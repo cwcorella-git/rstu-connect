@@ -1,10 +1,13 @@
 ---
-title: Errico Malatesta (1853-1932) - Jeff Shantz
-author: "Errico Malatesta"
+title: "Errico Malatesta (1853-1932)"
+author: "Jeff Shantz"
 date: 2011
-category: contemporary-analysis
+category: "theory"
 tags:
-  - Malatesta
+  - malatesta
+  - anarchism
+  - anarcho-communism
+  - biography
 ---
 
 Encyclopedia of Political Science (2011) entry on Errico Malatesta.

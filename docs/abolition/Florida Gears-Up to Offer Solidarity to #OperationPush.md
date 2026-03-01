@@ -2,9 +2,13 @@
 title: 'Florida Gears-Up to Offer Solidarity to #Operation Push'
 author: "Industrial Workers of the World"
 date: 2018
-category: contemporary-analysis
+category: "abolition"
 tags:
-  - solidarity
+  - prison-labor
+  - operation-push
+  - florida
+  - iwoc
+  - prison-strike
 ---
 
 | Date: Wed, 01/10/2018 - 18:53 |
