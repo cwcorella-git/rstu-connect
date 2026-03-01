@@ -1,12 +1,13 @@
 ---
-title: "About the Author"
+title: "Factfulness: Ten Reasons We're Wrong About the World"
 author: "Hans Rosling"
 date: 2018
-category: "contemporary-analysis"
+category: "theory"
 tags:
-  - analysis
-  - current-events
-  - wikipedia
+  - data
+  - global-development
+  - statistics
+  - critical-thinking
 ---
 
 'One of the most important books I've ever read an indispensable guide to thinking clearly about the world' Bill Gates

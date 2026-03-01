@@ -1,9 +1,13 @@
 ---
-title: "The Right To Be Greedy"
-category: "contemporary-analysis"
+title: "The Right To Be Greedy: Theses on the Practical Necessity of Demanding Everything"
+author: "For Ourselves"
+date: 1974
+category: "theory"
 tags:
-  - analysis
-  - current-events
+  - anarchism
+  - situationism
+  - desire
+  - egoism
 ---
 
 **Theses On The Practical Necessity Of Demanding Everything**

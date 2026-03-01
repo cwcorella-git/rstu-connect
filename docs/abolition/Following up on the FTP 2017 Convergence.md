@@ -1,11 +1,13 @@
 ---
 title: "Following up on the FTP 2017 Convergence"
-author: "Industrial Workers of the World"
+author: "Campaign to Fight Toxic Prisons"
 date: 2017
-category: "contemporary-analysis"
+category: "abolition"
 tags:
-  - analysis
-  - current-events
+  - toxic-prisons
+  - prison-ecology
+  - iwoc
+  - prison-abolition
 ---
 
 Prison Ecology Project, prison labor, IWOC, toxics By staff - The Campaign to Fight Toxic Prisons , June 29, 2017 [The following letter was sent to all who registered for the 2017 FTP Convergence, but we felt there was pertinent info in here for the rest of you as well. Have a look, take some action, write some prisoners to tell them about it, and pass it on.] Greetings Toxic Prison Fighters, Earlier this month we held our second annual national convergence

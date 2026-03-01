@@ -1,12 +1,13 @@
 ---
 title: "Freetown Christiania"
-author: "Wikipedia contributors"
-date: 1976
-category: "contemporary-analysis"
+author: "Wikipedia"
+date: 2024
+category: "theory"
 tags:
-  - analysis
-  - current-events
   - wikipedia
+  - autonomous-zone
+  - denmark
+  - freetown-christiania
 ---
 
 ## Contributors to Wikimedia projects

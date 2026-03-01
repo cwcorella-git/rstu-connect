@@ -1,8 +1,12 @@
 ---
-title: A Delivery Driver in Manhattan
+title: "For a Solidarity of Condition and Position"
+author: "Anonymous"
 date: 2020
-category: contemporary-analysis
+category: "labor"
 tags:
+  - covid-19
+  - gig-workers
+  - class
   - solidarity
 ---
 

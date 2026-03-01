@@ -1,9 +1,12 @@
 ---
-title: Freedom
+title: "Freedom"
+author: "Alex Prichard"
 date: 2019
-category: contemporary-analysis
+category: "theory"
 tags:
-  - liberty
+  - anarchism
+  - freedom
+  - political-philosophy
 ---
 
 ## **Alex Prichard**
