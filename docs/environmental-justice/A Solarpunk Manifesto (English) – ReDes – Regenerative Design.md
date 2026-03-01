@@ -1,10 +1,13 @@
 ---
-title: A Solarpunk Manifesto (English) – Re Des – Regenerative Design
+title: "A Solarpunk Manifesto"
+author: "ReDes – Regenerative Design"
 date: 2014
-category: contemporary-analysis
+category: environmental-justice
 tags:
-  - analysis
-  - current-events
+  - solarpunk
+  - ecology
+  - manifesto
+  - degrowth
 ---
 
 [re-des.org](https://www.re-des.org/es/a-solarpunk-manifesto/)

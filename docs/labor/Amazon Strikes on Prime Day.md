@@ -1,7 +1,8 @@
 ---
 title: "Amazon Strikes on Prime Day"
-author: "libcom.org"
-category: "contemporary-analysis"
+author: "libcom.org (via IWW)"
+date: 2018
+category: "labor"
 tags:
   - retail-and-food
   - strikes

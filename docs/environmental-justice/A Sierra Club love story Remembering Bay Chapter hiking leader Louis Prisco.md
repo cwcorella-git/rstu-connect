@@ -1,8 +1,8 @@
 ---
 title: "A Sierra Club love story: Remembering Bay Chapter hiking leader Louis Prisco"
-author:
+author: "Sierra Club Yodeller"
 date: 2016
-category: "contemporary-analysis"
+category: "environmental-justice"
 tags:
   - bay-area-iww
   - sierra-club

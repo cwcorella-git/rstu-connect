@@ -1,11 +1,12 @@
 ---
-title: Affirmative Inaction - The American Scholar
+title: "Affirmative Inaction"
 author: "William M. Chace"
-date: 1965
+date: 2011
 category: contemporary-analysis
 tags:
-  - analysis
-  - current-events
+  - affirmative-action
+  - racial-inequality
+  - higher-education
 ---
 
 ## [theamericanscholar.org](https://theamericanscholar.org/affirmative-inaction/)

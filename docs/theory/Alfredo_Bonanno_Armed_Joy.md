@@ -2,10 +2,11 @@
 title: "Armed Joy"
 author: "Alfredo Bonanno"
 date: 1977
-category: "contemporary-analysis"
+category: "theory"
 tags:
-  - analysis
-  - current-events
+  - anarchism
+  - insurrectionary-anarchism
+  - Bonanno
 ---
 
 ## Alfredo M. Bonanno

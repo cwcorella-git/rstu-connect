@@ -1,13 +1,12 @@
 ---
 title: "An Open Letter to Revolutionaries"
-author: "libcom.org"
-date: 1917
-category: "contemporary-analysis"
+author: "Class War Federation"
+date: 1997
+category: "theory"
 tags:
-  - analysis
-  - current-events
-  - revolution
-  - libcom
+  - class-war
+  - revolutionary-left
+  - United-Kingdom
 ---
 
 ## **Tags:** Class War Federation, United Kingdom
