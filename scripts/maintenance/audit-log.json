@@ -3,8 +3,8 @@
     "created": "2026-02-09",
     "last_updated": "2026-02-28",
     "total_documents": 2198,
-    "audited_count": 206,
-    "current_round": 238,
+    "audited_count": 216,
+    "current_round": 239,
     "categories_audited": []
   },
   "audit_sessions": [
@@ -276,7 +276,17 @@
     "theory/Notes on the Death of Franco (Part I).md",
     "theory/On spontaneity and organisation - Murray Bookchin.md",
     "arts-culture-music/It's Lonely at the Centre of the World - Zoe Thorogood.md",
-    "arts-culture-music/John Reed Clubs and Proletarian Art\u2014Part I _ Solidarity.md"
+    "arts-culture-music/John Reed Clubs and Proletarian Art\u2014Part I _ Solidarity.md",
+    "feminist-theory/Rape_Culture_Pyramid_discussion_guide.md",
+    "organizing/The history of a photo - and a video. Anti-fascism's strength and limits in facing rape culture. PAR.md",
+    "theory/Radical Agriculture - Radical Agriculture_Murray Bookchin_liber3.md",
+    "theory/The Party's Over The State of the Left in the 1990s.md",
+    "theory/The tragic week, Spain 1909 - Murray Bookchin.md",
+    "theory/Were we wrong - Murray Bookchin.md",
+    "arts-culture-music/Sorry-to-Bother-You.md",
+    "arts-culture-music/The Vernon Philosophy Of Black Media Avoidance \u2013 iMWiL!.md",
+    "feminist-theory/Sylvia Rivera \u2014 Part 2 _ Making Gay History.md",
+    "contemporary-analysis/These ten charts show the black-white economic gap hasn\u2019t budged in 50 years - The Washington Post.md"
   ],
   "flagged_for_review": [],
   "quality_scores": {
@@ -444,6 +454,12 @@
     "theory/Murray_Bookchin_Listen_Marxist_Post_Scarcity_Anarchism.md": "ok",
     "theory/Murray_Bookchin_Post-Scarcity_Anarchism.md": "ok",
     "theory/Notes on the Death of Franco (Part I).md": "ok",
-    "theory/On spontaneity and organisation - Murray Bookchin.md": "ok"
+    "theory/On spontaneity and organisation - Murray Bookchin.md": "ok",
+    "feminist-theory/Rape_Culture_Pyramid_discussion_guide.md": "ok",
+    "organizing/The history of a photo - and a video. Anti-fascism's strength and limits in facing rape culture. PAR.md": "ok",
+    "theory/Radical Agriculture - Radical Agriculture_Murray Bookchin_liber3.md": "ok",
+    "theory/The Party's Over The State of the Left in the 1990s.md": "ok",
+    "theory/The tragic week, Spain 1909 - Murray Bookchin.md": "ok",
+    "theory/Were we wrong - Murray Bookchin.md": "ok"
   }
 }
