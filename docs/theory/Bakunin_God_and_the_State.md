@@ -1,10 +1,13 @@
 ---
-title: God and the State
-author: Bakunin God
-date: 1970
-category: contemporary-analysis
+title: "God and the State"
+author: "Mikhail Bakunin"
+date: 1882
+category: theory
 tags:
   - Bakunin
+  - anarchism
+  - anti-statism
+  - atheism
 ---
 
 

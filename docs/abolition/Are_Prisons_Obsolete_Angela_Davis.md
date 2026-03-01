@@ -2,9 +2,12 @@
 title: Are Prisons Obsolete?
 author: Angela Y. Davis
 date: 2003
-category: contemporary-analysis
+category: abolition
 tags:
   - prisons
+  - prison-abolition
+  - Angela-Davis
+  - incarceration
 ---
 
 ## sa.jls: \$13.95 CANADA £6.99 UK

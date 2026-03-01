@@ -1,12 +1,13 @@
 ---
 title: "Assata Shakur"
-author: "Wikipedia contributors"
-date: 1970
-category: "contemporary-analysis"
+author: "Wikipedia"
+date: 2024
+category: "abolition"
 tags:
-  - analysis
-  - current-events
-  - wikipedia
+  - Assata-Shakur
+  - Black-Liberation-Army
+  - political-prisoner
+  - abolition
 ---
 
 

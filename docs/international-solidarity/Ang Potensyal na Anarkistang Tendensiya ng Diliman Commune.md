@@ -1,7 +1,8 @@
 ---
 title: "Ang Potensyal na Anarkistang Tendensiya ng Diliman Commune"
 author: "Randy Nobleza"
-category: "contemporary-analysis"
+date: 2020
+category: "international-solidarity"
 tags:
   - education
   - uprisings

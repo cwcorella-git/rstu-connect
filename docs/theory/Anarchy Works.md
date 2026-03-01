@@ -1,9 +1,12 @@
 ---
-title: Peter Gelderloos
+title: "Anarchy Works"
+author: "Peter Gelderloos"
 date: 2010
-category: contemporary-analysis
+category: theory
 tags:
   - anarchism
+  - Gelderloos
+  - direct-action
 ---
 
 # **Anarchy Works**

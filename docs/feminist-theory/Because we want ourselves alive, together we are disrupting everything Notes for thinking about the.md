@@ -1,12 +1,13 @@
 ---
-title: "Because we want ourselves alive, together we are disrupting everything: Notes for thinking abou"
-author: "libcom.org"
+title: "Because We Want Ourselves Alive, Together We Are Disrupting Everything"
+author: "Raquel Gutiérrez Aguilar"
 date: 2017
-category: "contemporary-analysis"
+category: "feminist-theory"
 tags:
-  - analysis
-  - current-events
-  - libcom
+  - feminism
+  - Latin-America
+  - popular-feminism
+  - social-movements
 ---
 
 ## **Tags:** feminism, Raquel Gutiérrez Aguilar

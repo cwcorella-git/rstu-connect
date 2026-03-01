@@ -1,6 +1,6 @@
 ---
-title: "And One With No Answers - Udo Renkes"
-author: "libcom.org"
+title: "And One With No Answers"
+author: "Udo Renkes"
 date: 1981
 category: "contemporary-analysis"
 tags:

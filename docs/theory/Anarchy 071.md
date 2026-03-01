@@ -1,10 +1,12 @@
 ---
-title: The sociology of a school
+title: "Anarchy #71"
+author: "Various"
 date: 1967
-category: contemporary-analysis
+category: theory
 tags:
   - anarchism
   - education
+  - journal
 ---
 
 
