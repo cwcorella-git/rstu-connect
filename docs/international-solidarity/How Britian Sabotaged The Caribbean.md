@@ -1,9 +1,11 @@
 ---
-title: "Once considered the jewels of Empire, the Caribbean has been forsaken in its suffering."
-category: "contemporary-analysis"
+title: "How Britain Sabotaged The Caribbean"
+category: "international-solidarity"
 tags:
-  - analysis
-  - current-events
+  - caribbean
+  - colonialism
+  - imperialism
+  - britain
 ---
 
 Once considered the jewels of Empire, the Caribbean has been forsaken in its suffering.

@@ -1,8 +1,11 @@
 ---
-title: "When you imagine a city, what do you see? I see the predominance of cracked grey concrete and"
-category: contemporary-analysis
+title: "How To Build A Solarpunk City"
+category: "environmental-justice"
 tags:
-  - urban
+  - solarpunk
+  - urban-planning
+  - ecology
+  - futures
 ---
 
 When you imagine a city, what do you see? I see the predominance of cracked grey concrete and

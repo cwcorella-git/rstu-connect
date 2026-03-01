@@ -1,10 +1,11 @@
 ---
-title: "\"Man, it is hot today.\""
-date: 1973
-category: "contemporary-analysis"
+title: "How We Can Make Solarpunk A Reality"
+category: "environmental-justice"
 tags:
-  - analysis
-  - current-events
+  - solarpunk
+  - ecology
+  - futures
+  - sustainability
 ---
 
 0:01

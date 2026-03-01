@@ -1,10 +1,11 @@
 ---
-title: "Three K's, Two A's in AmeriKKKa, I'm just a black spade spawn out the nebula."
+title: "How the USA Destroys The World"
 date: 2016
-category: "contemporary-analysis"
+category: "international-solidarity"
 tags:
-  - analysis
-  - current-events
+  - imperialism
+  - united-states
+  - anti-imperialism
 ---
 
 Three K's, Two A's in AmeriKKKa, I'm just a black spade spawn out the nebula.

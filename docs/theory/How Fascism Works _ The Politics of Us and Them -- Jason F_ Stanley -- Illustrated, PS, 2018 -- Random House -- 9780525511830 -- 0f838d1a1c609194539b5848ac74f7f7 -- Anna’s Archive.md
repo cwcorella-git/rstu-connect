@@ -2,10 +2,11 @@
 title: How Fascism Works
 author: Jason Stanley
 date: 2018
-category: contemporary-analysis
+category: "theory"
 tags:
-  - analysis
-  - current-events
+  - fascism
+  - politics
+  - jason-stanley
 ---
 
 ## THE POLITICS OF US AND THEM

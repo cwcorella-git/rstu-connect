@@ -1,9 +1,10 @@
 ---
-title: Oppose (Confrontation)
-category: contemporary-analysis
+title: "How We Can Change The World"
+category: "organizing"
 tags:
-  - analysis
-  - current-events
+  - strategy
+  - social-change
+  - organizing
 ---
 
 ## 0:00

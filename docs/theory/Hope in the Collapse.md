@@ -1,10 +1,13 @@
 ---
-title: "Punch Up * Kick Down Distro Hope in the Collapse 2025"
+title: "Hope in the Collapse"
+author: "Punch Up / Kick Down Distro"
 date: 2025
-category: "contemporary-analysis"
+category: "theory"
 tags:
-  - analysis
-  - current-events
+  - collapse
+  - hope
+  - capitalism
+  - grief
 ---
 
 Never Ending End Times Capitalism and Collapse Dialectic of Hope and Grief Letting Go Liberation Through Relation Conclusion Addendum: Faith

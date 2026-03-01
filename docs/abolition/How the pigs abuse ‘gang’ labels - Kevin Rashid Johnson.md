@@ -1,8 +1,8 @@
 ---
-title: "How the pigs abuse 'gang' labels - Kevin 'Rashid' Johnson"
-author: "libcom.org"
+title: "How the pigs abuse 'gang' labels"
+author: "Kevin 'Rashid' Johnson"
 date: 2010
-category: "contemporary-analysis"
+category: "abolition"
 tags:
   - racism
   - united-states
