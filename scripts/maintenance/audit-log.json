@@ -3,8 +3,8 @@
     "created": "2026-02-09",
     "last_updated": "2026-02-28",
     "total_documents": 2198,
-    "audited_count": 302,
-    "current_round": 248,
+    "audited_count": 308,
+    "current_round": 249,
     "categories_audited": []
   },
   "audit_sessions": [
@@ -372,7 +372,16 @@
     "theory/Egress_ on Mourning, Melancholy and Mark F - Matt Colquhoun.md",
     "theory/Elisee_Reclus_Evolution_and_Revolution.md",
     "theory/Epictetus.md",
-    "theory/Erasing History_ How Fascists Rewrite the - Jason Stanley.md"
+    "theory/Erasing History_ How Fascists Rewrite the - Jason Stanley.md",
+    "abolition/Florida Gears-Up to Offer Solidarity to #OperationPush.md",
+    "environmental-justice/Extinction Rebellion Not the Struggle we Need, Pt. 1.md",
+    "environmental-justice/Final Straw Autonomous Northern California Fire Relief Efforts.md",
+    "historical/Ferrer movement - Wikipedia.md",
+    "organizing/Exactly What to Say_ The Magic Words for I - Phil M. Jones.md",
+    "theory/Errico Malatesta (1853-1932) - Jeff Shantz.md",
+    "contemporary-analysis/Drugs are fucking everywhere (and we're all addicted to comfort)..md",
+    "contemporary-analysis/Fascism's tightening grip in the SoCal desert.md",
+    "contemporary-analysis/Fascist Entryism AdBusters and the Problem of Hazy Politics.md"
   ],
   "flagged_for_review": [],
   "quality_scores": {
@@ -617,6 +626,12 @@
     "theory/Egress_ on Mourning, Melancholy and Mark F - Matt Colquhoun.md": "ok",
     "theory/Elisee_Reclus_Evolution_and_Revolution.md": "ok",
     "theory/Epictetus.md": "ok",
-    "theory/Erasing History_ How Fascists Rewrite the - Jason Stanley.md": "ok"
+    "theory/Erasing History_ How Fascists Rewrite the - Jason Stanley.md": "ok",
+    "abolition/Florida Gears-Up to Offer Solidarity to #OperationPush.md": "ok",
+    "environmental-justice/Extinction Rebellion Not the Struggle we Need, Pt. 1.md": "ok",
+    "environmental-justice/Final Straw Autonomous Northern California Fire Relief Efforts.md": "ok",
+    "historical/Ferrer movement - Wikipedia.md": "ok",
+    "organizing/Exactly What to Say_ The Magic Words for I - Phil M. Jones.md": "ok",
+    "theory/Errico Malatesta (1853-1932) - Jeff Shantz.md": "ok"
   }
 }
