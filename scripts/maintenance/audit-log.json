@@ -3,8 +3,8 @@
     "created": "2026-02-09",
     "last_updated": "2026-02-28",
     "total_documents": 2198,
-    "audited_count": 216,
-    "current_round": 239,
+    "audited_count": 226,
+    "current_round": 240,
     "categories_audited": []
   },
   "audit_sessions": [
@@ -286,7 +286,17 @@
     "arts-culture-music/Sorry-to-Bother-You.md",
     "arts-culture-music/The Vernon Philosophy Of Black Media Avoidance \u2013 iMWiL!.md",
     "feminist-theory/Sylvia Rivera \u2014 Part 2 _ Making Gay History.md",
-    "contemporary-analysis/These ten charts show the black-white economic gap hasn\u2019t budged in 50 years - The Washington Post.md"
+    "contemporary-analysis/These ten charts show the black-white economic gap hasn\u2019t budged in 50 years - The Washington Post.md",
+    "contemporary-analysis/A Nation of Shopkeepers - Dan Evans.md",
+    "contemporary-analysis/A Revolutionary Proposal Invisible Insurrection of a Million Minds - Alexander Trocchi.md",
+    "technology-digital-justice/the-post-platform-future.md",
+    "theory/Whither Anarchism_ _ A Reply to Recent Ana - Murray Bookchin.md",
+    "theory/Why We Need a World Party - Donald Parkinson.md",
+    "theory/david-graeber-book-review-symposium-the-democracy-project-by-david-graeber.md",
+    "arts-culture-music/the role of the artist is to load the gun.md",
+    "contemporary-analysis/A Field Guide to Straw Men.md",
+    "feminist-theory/1, 2001 -- William Morrow Paperbacks -- 9780060959470 -- 6ded7ca2b1992e630fdff7b149db4b6a -- Anna\u2019s Archive.md",
+    "economic-alternatives/A Brief History of Equality - A Brief History of Equality -- Thomas Piketty; Steven Rendall -- Cambridge, Massachusetts ; London, England, 2022 -- Belknap Press_ An Imprint of -- 9780674273559 -- 09e17e399e3e31eff36a19717d2d40da -- Anna\u2019s Archive.md"
   ],
   "flagged_for_review": [],
   "quality_scores": {
@@ -460,6 +470,12 @@
     "theory/Radical Agriculture - Radical Agriculture_Murray Bookchin_liber3.md": "ok",
     "theory/The Party's Over The State of the Left in the 1990s.md": "ok",
     "theory/The tragic week, Spain 1909 - Murray Bookchin.md": "ok",
-    "theory/Were we wrong - Murray Bookchin.md": "ok"
+    "theory/Were we wrong - Murray Bookchin.md": "ok",
+    "contemporary-analysis/A Nation of Shopkeepers - Dan Evans.md": "ok",
+    "contemporary-analysis/A Revolutionary Proposal Invisible Insurrection of a Million Minds - Alexander Trocchi.md": "ok",
+    "technology-digital-justice/the-post-platform-future.md": "ok",
+    "theory/Whither Anarchism_ _ A Reply to Recent Ana - Murray Bookchin.md": "ok",
+    "theory/Why We Need a World Party - Donald Parkinson.md": "ok",
+    "theory/david-graeber-book-review-symposium-the-democracy-project-by-david-graeber.md": "ok"
   }
 }
