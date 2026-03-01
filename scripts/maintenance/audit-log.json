@@ -3,8 +3,8 @@
     "created": "2026-02-09",
     "last_updated": "2026-02-28",
     "total_documents": 2198,
-    "audited_count": 308,
-    "current_round": 249,
+    "audited_count": 319,
+    "current_round": 250,
     "categories_audited": []
   },
   "audit_sessions": [
@@ -381,7 +381,15 @@
     "theory/Errico Malatesta (1853-1932) - Jeff Shantz.md",
     "contemporary-analysis/Drugs are fucking everywhere (and we're all addicted to comfort)..md",
     "contemporary-analysis/Fascism's tightening grip in the SoCal desert.md",
-    "contemporary-analysis/Fascist Entryism AdBusters and the Problem of Hazy Politics.md"
+    "contemporary-analysis/Fascist Entryism AdBusters and the Problem of Hazy Politics.md",
+    "abolition/Following up on the FTP 2017 Convergence.md",
+    "contemporary-analysis/Freetown.md",
+    "contemporary-analysis/Frown.md",
+    "labor/For a Solidarity of Condition and Position.md",
+    "theory/Factfulness_ Ten Reasons We're Wrong About - Hans Rosling.md",
+    "theory/For_Ourselves_The_Right_to_Be_Greedy.md",
+    "theory/Freedom.md",
+    "theory/Freetown Christiania - Wikipedia.md"
   ],
   "flagged_for_review": [],
   "quality_scores": {
@@ -632,6 +640,14 @@
     "environmental-justice/Final Straw Autonomous Northern California Fire Relief Efforts.md": "ok",
     "historical/Ferrer movement - Wikipedia.md": "ok",
     "organizing/Exactly What to Say_ The Magic Words for I - Phil M. Jones.md": "ok",
-    "theory/Errico Malatesta (1853-1932) - Jeff Shantz.md": "ok"
+    "theory/Errico Malatesta (1853-1932) - Jeff Shantz.md": "ok",
+    "abolition/Following up on the FTP 2017 Convergence.md": "ok",
+    "contemporary-analysis/Freetown.md": "ok",
+    "contemporary-analysis/Frown.md": "ok",
+    "labor/For a Solidarity of Condition and Position.md": "ok",
+    "theory/Factfulness_ Ten Reasons We're Wrong About - Hans Rosling.md": "ok",
+    "theory/For_Ourselves_The_Right_to_Be_Greedy.md": "ok",
+    "theory/Freedom.md": "ok",
+    "theory/Freetown Christiania - Wikipedia.md": "ok"
   }
 }
