@@ -335,6 +335,70 @@ Documents that may be stubs or need expansion.
 - **Current document count: 2,401**
 - Next: housing (103), feminist-theory (99) to audit
 
+### 2026-02-28 (Sessions 9–19: Metadata & Recategorization Audit — Rounds 237–255)
+
+A second-pass audit focused on metadata quality and precise categorization within the `contemporary-analysis` category (300 files), which was the largest remaining bucket of miscategorized content. Systematic rounds of 10 documents each, fixing frontmatter and moving files to correct categories.
+
+**Methodology:**
+- Queue 10 docs → read frontmatter → fix metadata → move to correct category → commit → finalize-round
+- Track audited docs in `scripts/maintenance/audit-log.json`
+- Script: `python3 scripts/maintenance/audit-documents.py queue|finalize-round|status`
+
+**Common issues found and fixed:**
+| Issue | Examples |
+|-------|---------|
+| `author: "libcom.org"` placeholder | Replaced with actual authors (Lorenzo Komboa Ervin, Peter Gelderloos, BM Blob, etc.) |
+| Date = birth year or event year | Copwatching 1969→1998, Dangerfield Newby 1903→2024, God and the State kept 1882 |
+| Title = author name | "Paul Goodman" → "Growing Up Absurd"; "WILL STORR" → "The Status Game" |
+| Title = first sentence of article | "When you imagine a city..." → "How To Build A Solarpunk City" |
+| Title = website nav bar | "News Opinion Sport Culture Lifestyle" → "I spent decades at Columbia..." (Khalidi/Guardian) |
+| Author = wrong org (FAU, IWW) | Rashid Khalidi, Sam Dolgoff, Doug Richardson, etc. restored |
+| Generic tags `[analysis, current-events]` | Replaced with specific topical tags |
+| Off-topic files | Hacksaw Ridge screenplay, Frown (facial expressions), Freetown (Sierra Leone capital), Donate.md (libcom donation page) — deleted |
+| OCR typos | "Do Igoff" → "Dolgoff"; "Exact Ly" → "Exactly" |
+| Duplicate files | Coverture / Coverture - Wikipedia → kept one, deleted other |
+
+**Documents recategorized out of contemporary-analysis (rounds 237–255):**
+| Destination | Count |
+|-------------|-------|
+| theory | 45+ |
+| abolition | 20+ |
+| labor | 15+ |
+| historical | 10+ |
+| organizing | 10+ |
+| environmental-justice | 10+ |
+| international-solidarity | 8+ |
+| feminist-theory | 3 |
+| technology-digital-justice | 2 |
+| youth-student-organizing | 1 |
+
+**Documents deleted (rounds 237–255):** ~8 off-topic files
+
+**Rounds completed:** 237–255 (19 rounds × ~10 docs = ~190 documents reviewed)
+
+**Status as of 2026-02-28:**
+
+| Category | Audited | Total | % |
+|----------|---------|-------|---|
+| abolition | 175 | 175 | 100% ✓ |
+| arts-culture-music | 29 | 29 | 100% ✓ |
+| contemporary-analysis | 19 | 219 | 9% (in progress) |
+| economic-alternatives | 4 | 46 | 9% |
+| environmental-justice | 11 | 256 | 4% |
+| feminist-theory | 6 | 86 | 7% |
+| historical | 6 | 155 | 4% |
+| housing | 4 | 79 | 5% |
+| international-solidarity | 8 | 143 | 6% |
+| labor | 11 | 371 | 3% |
+| organizing | 11 | 114 | 10% |
+| technology-digital-justice | 3 | 35 | 9% |
+| theory | 55 | 432 | 13% |
+| **Total** | **363** | **2,184** | **16.6%** |
+
+**Next:** Continue contemporary-analysis (current round: 256), then work through other large categories (labor 371, theory 432, environmental-justice 256).
+
+---
+
 ### 2026-01-20 (Session 8)
 - **Audited housing category (103 files)**
   - Removed: astronomy content (bsolar/sublunar points), psychology papers (2), AI research, engineering paper, anger management article
