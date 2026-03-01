@@ -1,12 +1,13 @@
 ---
 title: "Charles Sumner"
-author: "Wikipedia contributors"
-date: 1869
-category: "contemporary-analysis"
+author: "Wikipedia"
+date: 2024
+category: "theory"
 tags:
-  - analysis
-  - current-events
-  - wikipedia
+  - Charles-Sumner
+  - abolitionism
+  - Reconstruction
+  - Republican-Party
 ---
 
 ## Contributors to Wikimedia projects

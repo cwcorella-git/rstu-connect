@@ -1,9 +1,13 @@
 ---
-title: 'Canada''s Free Birth Control and Insulin Program: Complete Overview'
-date: 2025
-category: contemporary-analysis
+title: "Canada's Free Birth Control and Insulin Program: Complete Overview"
+author: "Health Canada"
+date: 2024
+category: economic-alternatives
 tags:
   - Canada
+  - pharmacare
+  - universal-healthcare
+  - social-programs
 ---
 
 Canada has officially launched the first phase of its national universal pharmacare program, making birth control and insulin free for millions of Canadians. This landmark healthcare initiative represents a significant step toward universal healthcare coverage in the country.

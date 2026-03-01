@@ -1,11 +1,13 @@
 ---
-title: "Supreme.justia.com"
-author: "Paul D. Clement"
+title: "Castle Rock v. Gonzales, 545 U.S. 748 (2005)"
+author: "Supreme Court of the United States"
 date: 2005
-category: contemporary-analysis
+category: housing
 tags:
-  - analysis
-  - current-events
+  - supreme-court
+  - domestic-violence
+  - police-accountability
+  - restraining-orders
 ---
 
 ## **Castle Rock v. Gonzales, 545 U. S. 748 (2005)**

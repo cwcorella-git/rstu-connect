@@ -1,8 +1,8 @@
 ---
 title: "Capital Blight: The Two Bums"
-author: "x344543 (IWW Environmental Unionism Caucus)"
+author: "IWW Environmental Unionism Caucus"
 date: 2016
-category: contemporary-analysis
+category: labor
 tags:
   - capitalism
   - coal

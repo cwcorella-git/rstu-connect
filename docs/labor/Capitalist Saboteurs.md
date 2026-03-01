@@ -1,10 +1,14 @@
 ---
-title: Capitalist Saboteurs
-author: "Industrial Workers of the World"
+title: "Capitalist Saboteurs"
+author: "R. H. Lossin"
 date: 2016
-category: contemporary-analysis
+category: labor
 tags:
   - capitalism
+  - sabotage
+  - pipelines
+  - green-unionism
+  - environmental-justice
 ---
 
 Industrial Workers of the World (IWW), sabotage, capital blight, pipelines, health and safety, green unionism, green syndicalism By R. H. Lossin - Jacobin , September 1, 2016 This April, a natural gas pipeline exploded in Salem Township, Pennsylvania, shooting flames well above the tree line and producing enough heat to send a man to the hospital with third-degree burns. Such explosions, if uncommon, aren't rare: according to Pro Publica , they've killed five hundred people and injured four thousand more in the past thirty years. When infrastructure fails in such a dramatic fashion, it is usually considered an accident. In the rare instances in which events like pipeline explosions are addressed as structural failures, it is only in the most literal sense of the word "structural," prompting demands for repairs, regulation, and safety measures. But calls for oversight and technological fixes only reassert the accidental nature of what is in fact a problem of class society.

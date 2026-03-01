@@ -1,12 +1,13 @@
 ---
-title: "Charlotte Wilson (1854-1944) - Jeff Shantz"
-author: "libcom.org"
-date: 1854
-category: "contemporary-analysis"
+title: "Charlotte Wilson (1854-1944)"
+author: "Jeff Shantz"
+date: 2010
+category: "theory"
 tags:
-  - analysis
-  - current-events
-  - libcom
+  - anarchism
+  - biography
+  - Fabian-Society
+  - Freedom-newspaper
 ---
 
 A brief biography of Charlotte Wilson, Fabian Society member and anarchist. Wilson, with Peter Kropotkin, founded the anarchist newspaper Freedom, the longest running anarchist publication.

@@ -1,10 +1,12 @@
 ---
-title: Civil Disobedience Focus
-author: "Jane M. Day"
+title: "Civil Disobedience in Focus"
+author: "Hugo Adam Bedau (ed.)"
 date: 1991
-category: contemporary-analysis
+category: theory
 tags:
-  - civil disobedience
+  - civil-disobedience
+  - political-philosophy
+  - nonviolent-resistance
 ---
 
 ## \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
