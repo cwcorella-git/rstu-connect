@@ -3,8 +3,8 @@
     "created": "2026-02-09",
     "last_updated": "2026-02-28",
     "total_documents": 2198,
-    "audited_count": 333,
-    "current_round": 252,
+    "audited_count": 339,
+    "current_round": 253,
     "categories_audited": []
   },
   "audit_sessions": [
@@ -403,7 +403,13 @@
     "historical/Ho Chi Minh - Wikipedia.md",
     "historical/Holodomor - Wikipedia.md",
     "theory/Guy_Debord_Society_of_the_Spectacle.md",
-    "theory/Hakim_Bey_TAZ_Temporary_Autonomous_Zone.md"
+    "theory/Hakim_Bey_TAZ_Temporary_Autonomous_Zone.md",
+    "environmental-justice/How To Build A Solarpunk City.md",
+    "environmental-justice/How We Can Make Solarpunk A Reality.md",
+    "international-solidarity/How Britian Sabotaged The Caribbean.md",
+    "international-solidarity/How the USA Destroys The World.md",
+    "organizing/How We Can Change The World.md",
+    "theory/Hope in the Collapse.md"
   ],
   "flagged_for_review": [],
   "quality_scores": {
@@ -676,6 +682,12 @@
     "historical/Ho Chi Minh - Wikipedia.md": "ok",
     "historical/Holodomor - Wikipedia.md": "ok",
     "theory/Guy_Debord_Society_of_the_Spectacle.md": "ok",
-    "theory/Hakim_Bey_TAZ_Temporary_Autonomous_Zone.md": "ok"
+    "theory/Hakim_Bey_TAZ_Temporary_Autonomous_Zone.md": "ok",
+    "environmental-justice/How To Build A Solarpunk City.md": "ok",
+    "environmental-justice/How We Can Make Solarpunk A Reality.md": "ok",
+    "international-solidarity/How Britian Sabotaged The Caribbean.md": "ok",
+    "international-solidarity/How the USA Destroys The World.md": "ok",
+    "organizing/How We Can Change The World.md": "ok",
+    "theory/Hope in the Collapse.md": "ok"
   }
 }

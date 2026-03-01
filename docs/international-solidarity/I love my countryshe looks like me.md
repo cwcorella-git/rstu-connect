@@ -1,10 +1,12 @@
 ---
 title: "I love my country//she looks like me."
+author: "Anonymous"
 date: 2023
-category: "contemporary-analysis"
+category: "international-solidarity"
 tags:
-  - analysis
-  - current-events
+  - palestine
+  - poetry
+  - solidarity
 ---
 
 I had this vision I had to walk people through how Palestine is my country and how I love my country. I sat on the ground and rocked myself and sang oshya. And practiced opening my veins and arteries. I had never been much of a countryman but I started seeing Micah behind my eyelids. Her pseudonym is Micah, and she is one of two surviving her family after Ebola and the day of our meeting she was eighteen. How she looks at me while I cry during her interview because I know now how Pablo Neruda wrote

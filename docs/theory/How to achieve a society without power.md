@@ -1,8 +1,8 @@
 ---
 title: "How to achieve a society without power?"
-author: "libcom.org"
+author: "Federico de Soya"
 date: 1931
-category: "contemporary-analysis"
+category: "theory"
 tags:
   - federico-de-soya
   - anarchism

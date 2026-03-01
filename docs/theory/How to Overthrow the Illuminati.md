@@ -2,7 +2,7 @@
 title: "How to Overthrow the Illuminati"
 author: "Second Thought"
 date: 2023
-category: contemporary-analysis
+category: "theory"
 tags:
   - conspiracy-theories
   - class-analysis

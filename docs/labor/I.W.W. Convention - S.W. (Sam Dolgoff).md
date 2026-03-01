@@ -1,10 +1,13 @@
 ---
-title: "I. W. W. Convention - S. W. (Sam Dolgoff)"
-author: "Industrial Workers of the World"
+title: "I.W.W. Convention"
+author: "Sam Dolgoff"
 date: 1938
-category: "contemporary-analysis"
+category: "labor"
 tags:
   - sam-dolgoff
+  - iww
+  - anarcho-syndicalism
+  - labor-history
 ---
 
 An account by S. W. (Sam Dolgoff) of the 1938 IWW Convention in which he expresses support for the potential decision of the IWW to allow collective bargaining agreements and regret for the decision to not affiliate with the International Workingmens Association. Dolgoff was a longtime IWW member who also participated in a number of anarchist and anarcho-syndicalist groups and publications. Originally appeared in Vanguard(November 1938).

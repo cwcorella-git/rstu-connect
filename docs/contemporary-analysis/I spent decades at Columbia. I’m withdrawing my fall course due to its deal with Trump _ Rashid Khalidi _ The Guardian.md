@@ -1,6 +1,6 @@
 ---
-title: "News Opinion Sport Culture Lifestyle"
-author: "Freie Arbeiterinnen- und Arbeiter-Union"
+title: "I spent decades at Columbia. I'm withdrawing my fall course due to its deal with Trump"
+author: "Rashid Khalidi"
 date: 2025
 category: "contemporary-analysis"
 tags:

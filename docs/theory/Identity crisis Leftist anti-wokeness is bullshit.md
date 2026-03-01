@@ -1,8 +1,8 @@
 ---
 title: "Identity crisis: Leftist anti-wokeness is bullshit"
-author: "libcom.org"
+author: "Adolph Reed Jr."
 date: 2016
-category: "contemporary-analysis"
+category: "theory"
 tags:
   - class
   - racism
