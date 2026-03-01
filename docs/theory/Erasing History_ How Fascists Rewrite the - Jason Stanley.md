@@ -1,11 +1,13 @@
 ---
-title: Erasing History
-date: 1906
-category: contemporary-analysis
+title: "Erasing History: How Fascists Rewrite the Past to Control the Future"
+author: "Jason Stanley"
+date: 2024
+category: "theory"
 tags:
-  - analysis
-  - current-events
+  - fascism
   - history
+  - education
+  - jason-stanley
 ---
 
 

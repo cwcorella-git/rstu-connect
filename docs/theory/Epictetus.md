@@ -1,12 +1,12 @@
 ---
 title: "Epictetus"
-author: "Wikipedia contributors"
+author: "Wikipedia"
 date: 2023
-category: "contemporary-analysis"
+category: "theory"
 tags:
-  - analysis
-  - current-events
   - wikipedia
+  - stoicism
+  - philosophy
 ---
 
 

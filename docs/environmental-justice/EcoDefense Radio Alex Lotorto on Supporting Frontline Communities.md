@@ -2,9 +2,12 @@
 title: 'Eco Defense Radio: Alex Lotorto on Supporting Frontline Communities'
 author: "Industrial Workers of the World"
 date: 2016
-category: contemporary-analysis
+category: "environmental-justice"
 tags:
-  - community
+  - iww
+  - frontline-communities
+  - environmental-unionism
+  - pennsylvania
 ---
 
 | Date: Wed, 09/28/2016 - 19:38 |

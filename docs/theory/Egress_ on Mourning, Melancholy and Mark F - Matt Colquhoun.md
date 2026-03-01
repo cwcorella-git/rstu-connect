@@ -1,11 +1,13 @@
 ---
 title: "Egress: on mourning, melancholy and Mark Fisher"
+author: "Matt Colquhoun"
 date: 2020
-category: "contemporary-analysis"
+category: "theory"
 tags:
-  - analysis
-  - current-events
-  - wikipedia
+  - mark-fisher
+  - mourning
+  - accelerationism
+  - left-melancholy
 ---
 
 # MATT COLQUHOUN

@@ -2,11 +2,11 @@
 title: "Evolution and Revolution"
 author: "Elisee Reclus"
 date: 1891
-category: "contemporary-analysis"
+category: "theory"
 tags:
-  - analysis
-  - current-events
+  - anarchism
   - revolution
+  - elisee-reclus
 ---
 
 ## Elisée Reclus

@@ -1,10 +1,12 @@
 ---
 title: "Drugs are fucking everywhere (and we're all addicted to comfort)."
+author: "ismatu gwendolyn"
 date: 2023
 category: "contemporary-analysis"
 tags:
-  - analysis
-  - current-events
+  - drugs
+  - addiction
+  - harm-reduction
 ---
 
 #### [threadings.io](https://www.threadings.io/drugs-are-fucking-everywhere-and/)

@@ -1,7 +1,8 @@
 ---
-title: "Educação Crítica - Fredy Perlman"
-author: "libcom.org"
-category: "contemporary-analysis"
+title: "Educação Crítica"
+author: "Fredy Perlman"
+date: 1969
+category: "theory"
 tags:
   - fredy-perlman
   - education

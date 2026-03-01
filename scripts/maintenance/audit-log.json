@@ -3,8 +3,8 @@
     "created": "2026-02-09",
     "last_updated": "2026-02-28",
     "total_documents": 2198,
-    "audited_count": 285,
-    "current_round": 246,
+    "audited_count": 294,
+    "current_round": 247,
     "categories_audited": []
   },
   "audit_sessions": [
@@ -355,7 +355,16 @@
     "contemporary-analysis/Coverture - Wikipedia.md",
     "feminist-theory/Coverture.md",
     "organizing/Counterinsurgency dousing the flames of Minneapolis.md",
-    "organizing/CrimethInc. _ After the Crest _ The Life Cycle of Movements.md"
+    "organizing/CrimethInc. _ After the Crest _ The Life Cycle of Movements.md",
+    "abolition/Critical Resistance - Wikipedia.md",
+    "contemporary-analysis/Democrats are being told to _get shot_ for the anti-Trump resistance.md",
+    "environmental-justice/Defend Our Sperrins Not Toxic Gold Mining.md",
+    "environmental-justice/Doing Away With Private Utilities Is a Matter of Life and Death.md",
+    "historical/Dangerfield Newby - Wikipedia.md",
+    "historical/Donald L. Cox - Wikipedia.md",
+    "labor/Do treeplanters suffer from Stockholm syndrome.md",
+    "organizing/Critical Thoughts on Consensus Decision Making.md",
+    "theory/DeShaney v. Winnebago County - Wikipedia.md"
   ],
   "flagged_for_review": [],
   "quality_scores": {
@@ -583,6 +592,15 @@
     "contemporary-analysis/Coverture - Wikipedia.md": "ok",
     "feminist-theory/Coverture.md": "ok",
     "organizing/Counterinsurgency dousing the flames of Minneapolis.md": "ok",
-    "organizing/CrimethInc. _ After the Crest _ The Life Cycle of Movements.md": "ok"
+    "organizing/CrimethInc. _ After the Crest _ The Life Cycle of Movements.md": "ok",
+    "abolition/Critical Resistance - Wikipedia.md": "ok",
+    "contemporary-analysis/Democrats are being told to _get shot_ for the anti-Trump resistance.md": "ok",
+    "environmental-justice/Defend Our Sperrins Not Toxic Gold Mining.md": "ok",
+    "environmental-justice/Doing Away With Private Utilities Is a Matter of Life and Death.md": "ok",
+    "historical/Dangerfield Newby - Wikipedia.md": "ok",
+    "historical/Donald L. Cox - Wikipedia.md": "ok",
+    "labor/Do treeplanters suffer from Stockholm syndrome.md": "ok",
+    "organizing/Critical Thoughts on Consensus Decision Making.md": "ok",
+    "theory/DeShaney v. Winnebago County - Wikipedia.md": "ok"
   }
 }

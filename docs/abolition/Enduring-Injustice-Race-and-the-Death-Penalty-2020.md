@@ -1,9 +1,13 @@
 ---
-title: 'Racism, shmacism. Get a rope and let''s go hang us one.'
-date: 2010
-category: contemporary-analysis
+title: "Enduring Injustice: Race and the Death Penalty"
+author: "ACLU"
+date: 2020
+category: "abolition"
 tags:
-  - racism
+  - death-penalty
+  - racial-disparities
+  - criminal-justice
+  - aclu
 ---
 
 
