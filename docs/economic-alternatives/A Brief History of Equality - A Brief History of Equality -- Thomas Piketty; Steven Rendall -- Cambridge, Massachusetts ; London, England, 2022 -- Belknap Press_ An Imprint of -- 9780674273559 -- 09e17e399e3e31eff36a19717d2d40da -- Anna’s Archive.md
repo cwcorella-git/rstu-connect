@@ -1,9 +1,13 @@
 ---
-title: Brief History Equality Thomas Piketty
+title: "A Brief History of Equality"
+author: "Thomas Piketty"
 date: 2022
-category: contemporary-analysis
+category: economic-alternatives
 tags:
-  - United Kingdom
+  - inequality
+  - political-economy
+  - Piketty
+  - history
 ---
 
 

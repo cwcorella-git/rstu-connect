@@ -4,8 +4,10 @@ author: "Dan Evans"
 date: 2023
 category: "contemporary-analysis"
 tags:
-  - analysis
-  - current-events
+  - petty-bourgeoisie
+  - class-analysis
+  - United-Kingdom
+  - populism
 ---
 
 

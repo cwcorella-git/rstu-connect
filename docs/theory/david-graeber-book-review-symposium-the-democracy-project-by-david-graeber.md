@@ -1,11 +1,13 @@
 ---
-title: 'Book review symposium: The Democracy Project, by David Graeber'
-author: David Graeber
-date: 1 July 2014
-category: arts-culture-music
+title: "Book Review Symposium: The Democracy Project, by David Graeber"
+author: "David Graeber"
+date: 2014
+category: theory
 tags:
   - democracy
   - Graeber
+  - direct-democracy
+  - anarchism
 ---
 
 First of all, let me say how honored I feel to receive such thoughtful and intellectually generous reviews. *The Democracy Project* was mostly written in the early months of 2012. At the time I had no idea where the whole project of OWS was ultimately going – none of us did – and what its long-term impact might be. Of course, in a way we still don’t. But if I am right that one of the chief aims of revolutionary activity is to transform political common sense, then the very fact that conversations like this are going is already something of a victory; the questions being asked are at this stage more important than the (always provisional) answers we can provide; for this reason, the quality of the critical reflections here is if anything even more gratifying to me than the praise (however pleasant to read) because they raise such important questions in such a constructive way. Let me try to respond to one or two points from each in the spirit in which they were given.

@@ -1,8 +1,8 @@
 ---
 title: "The Post-Platform Future"
-author: "Tadhg Kelly (What Games Are)"
+author: "Tadhg Kelly"
 date: 2010
-category: arts-culture-music
+category: technology-digital-justice
 tags:
   - game-design
   - game-industry

@@ -1,10 +1,13 @@
 ---
-title: "Bell hooks"
+title: "All About Love: New Visions"
+author: "bell hooks"
 date: 2001
-category: "contemporary-analysis"
+category: "feminist-theory"
 tags:
-  - analysis
-  - current-events
+  - love
+  - feminist-theory
+  - community
+  - bell-hooks
 ---
 
 ### NATIONAL BESTSELLER

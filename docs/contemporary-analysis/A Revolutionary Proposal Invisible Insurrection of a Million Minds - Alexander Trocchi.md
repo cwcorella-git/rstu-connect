@@ -4,13 +4,11 @@ author: "Alexander Trocchi"
 date: 1968
 category: "contemporary-analysis"
 tags:
-  - analysis
-  - current-events
   - revolution
+  - education
+  - situationist
+  - counter-culture
 ---
-
-## **Source:**
-## **Tags:** Alexander Trocchi, art, education
 
 Trocchi's proposals for a radical education establishment, which fed into the creation of the Anti University in Shoreditch, London in 1968. From Internationale Situationniste #8 (January 1963).
 

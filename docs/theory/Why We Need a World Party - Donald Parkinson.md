@@ -1,8 +1,8 @@
 ---
-title: "Why We Need a World Party - Donald Parkinson"
-author: "libcom.org"
-date: 1909
-category: "arts-culture-music"
+title: "Why We Need a World Party"
+author: "Donald Parkinson"
+date: 2015
+category: "theory"
 tags:
   - organisation
   - syndicalism
