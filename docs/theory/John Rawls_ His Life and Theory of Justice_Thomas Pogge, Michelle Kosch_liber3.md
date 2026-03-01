@@ -1,11 +1,12 @@
 ---
-title: "John Rawls"
+title: "John Rawls: His Life and Theory of Justice"
 author: "Thomas Pogge"
-date: 1994
-category: "contemporary-analysis"
+date: 2007
+category: "theory"
 tags:
-  - analysis
-  - current-events
+  - rawls
+  - political-philosophy
+  - liberal-theory
 ---
 
 ## HIS LIFE AND THEORY OF JUSTICE

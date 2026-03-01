@@ -2,11 +2,11 @@
 title: "John Rawls and the History of Political Thought"
 author: "William E. Scheuerman"
 date: 2014
-category: "contemporary-analysis"
+category: "theory"
 tags:
-  - analysis
-  - current-events
-  - history
+  - rawls
+  - political-philosophy
+  - liberal-theory
 ---
 
 The Rousseauvian and Hegelian Heritage of Justice as Fairness

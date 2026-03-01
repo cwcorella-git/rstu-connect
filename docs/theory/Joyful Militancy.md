@@ -1,11 +1,13 @@
 ---
-title: "Carla bergman and Nick Montgomery Joyful Militancy"
+title: "Joyful Militancy: Building Thriving Resistance in Toxic Times"
+author: "Carla Bergman and Nick Montgomery"
 date: 2017
-category: "contemporary-analysis"
+category: "theory"
 tags:
-  - analysis
-  - current-events
-  - wikipedia
+  - militancy
+  - anarchism
+  - resistance
+  - joy
 ---
 
 # **Building Thriving Resistance in Toxic Times**

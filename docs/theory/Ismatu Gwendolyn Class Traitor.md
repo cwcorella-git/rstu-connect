@@ -1,11 +1,13 @@
 ---
 title: 'Ismatu Gwendolyn: Class Traitor'
-date: 1970
-category: contemporary-analysis
+author: "Ismatu Gwendolyn"
+date: 2022
+category: "theory"
 tags:
   - class
   - technology
-  - digital rights
+  - digital-rights
+  - race
 ---
 
 | you've been traumatized into hating reading (and it's making you easier to oppress): |

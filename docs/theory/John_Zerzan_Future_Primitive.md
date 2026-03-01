@@ -1,11 +1,12 @@
 ---
-title: Future Primitive
-author: John Zerzan Anti-Copyright
+title: "Future Primitive"
+author: "John Zerzan"
 date: 1990
-category: contemporary-analysis
+category: "theory"
 tags:
-  - analysis
-  - current-events
+  - anarcho-primitivism
+  - anti-civilization
+  - john-zerzan
 ---
 
 ## AND OTHER ESSAYS

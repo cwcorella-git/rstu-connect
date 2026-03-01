@@ -1,8 +1,8 @@
 ---
 title: "Jeremy Hammond's statement on the plea and sentencing of his brother, Jason Hammond"
-author: "libcom.org"
+author: "Jeremy Hammond"
 date: 2015
-category: "contemporary-analysis"
+category: "organizing"
 tags:
   - united-states
   - police

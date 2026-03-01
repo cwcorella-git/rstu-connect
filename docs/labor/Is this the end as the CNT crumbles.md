@@ -1,8 +1,8 @@
 ---
 title: "Is this the end?: as the CNT crumbles"
-author: "Confederación Nacional del Trabajo"
+author: "Terry Sheen and Billy Williams"
 date: 1980
-category: "contemporary-analysis"
+category: "labor"
 tags:
   - terry-sheen
   - billy-williams
