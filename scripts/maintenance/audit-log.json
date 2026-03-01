@@ -3,8 +3,8 @@
     "created": "2026-02-09",
     "last_updated": "2026-02-28",
     "total_documents": 2198,
-    "audited_count": 339,
-    "current_round": 253,
+    "audited_count": 345,
+    "current_round": 254,
     "categories_audited": []
   },
   "audit_sessions": [
@@ -409,7 +409,17 @@
     "international-solidarity/How Britian Sabotaged The Caribbean.md",
     "international-solidarity/How the USA Destroys The World.md",
     "organizing/How We Can Change The World.md",
-    "theory/Hope in the Collapse.md"
+    "theory/Hope in the Collapse.md",
+    "international-solidarity/I love my countryshe looks like me.md",
+    "labor/I.W.W. Convention - S.W. (Sam Dolgoff).md",
+    "labor/ICL-CIL referendum 2025 results are in.md",
+    "theory/How to Overthrow the Illuminati.md",
+    "theory/How to achieve a society without power.md",
+    "theory/Identity crisis Leftist anti-wokeness is bullshit.md",
+    "abolition/How the pigs abuse \u2018gang\u2019 labels - Kevin Rashid Johnson.md",
+    "contemporary-analysis/Drugs are fucking everywhere (and we\u2019re all addicted to comfort)..md",
+    "contemporary-analysis/Fascism\u2019s tightening grip in the SoCal desert.md",
+    "contemporary-analysis/I spent decades at Columbia. I\u2019m withdrawing my fall course due to its deal with Trump _ Rashid Khalidi _ The Guardian.md"
   ],
   "flagged_for_review": [],
   "quality_scores": {
@@ -688,6 +698,12 @@
     "international-solidarity/How Britian Sabotaged The Caribbean.md": "ok",
     "international-solidarity/How the USA Destroys The World.md": "ok",
     "organizing/How We Can Change The World.md": "ok",
-    "theory/Hope in the Collapse.md": "ok"
+    "theory/Hope in the Collapse.md": "ok",
+    "international-solidarity/I love my countryshe looks like me.md": "ok",
+    "labor/I.W.W. Convention - S.W. (Sam Dolgoff).md": "ok",
+    "labor/ICL-CIL referendum 2025 results are in.md": "ok",
+    "theory/How to Overthrow the Illuminati.md": "ok",
+    "theory/How to achieve a society without power.md": "ok",
+    "theory/Identity crisis Leftist anti-wokeness is bullshit.md": "ok"
   }
 }
