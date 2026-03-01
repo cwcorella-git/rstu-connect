@@ -1,8 +1,8 @@
 ---
 title: "Funerals of Vladislav 'Pirate' Iurchenko"
-author: "libcom.org"
+author: "Anonymous"
 date: 2025
-category: "contemporary-analysis"
+category: "international-solidarity"
 tags:
   - solidarity-collectives
   - anarchism

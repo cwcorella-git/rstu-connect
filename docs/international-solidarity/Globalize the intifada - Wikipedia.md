@@ -1,12 +1,13 @@
 ---
 title: "Globalize the intifada"
-author: "Wikipedia contributors"
-date: 1976
-category: "contemporary-analysis"
+author: "Wikipedia"
+date: 2024
+category: "international-solidarity"
 tags:
-  - analysis
-  - current-events
   - wikipedia
+  - palestine
+  - intifada
+  - solidarity
 ---
 
 ## Contributors to Wikimedia projects

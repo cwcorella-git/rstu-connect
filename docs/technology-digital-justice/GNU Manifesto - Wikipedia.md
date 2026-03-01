@@ -1,12 +1,13 @@
 ---
-title: GNU Manifesto
+title: "GNU Manifesto"
 author: "Richard M. Stallman"
-date: 2011
-category: contemporary-analysis
+date: 1985
+category: "technology-digital-justice"
 tags:
-  - analysis
-  - current-events
-  - wikipedia
+  - free-software
+  - gnu
+  - stallman
+  - open-source
 ---
 
 

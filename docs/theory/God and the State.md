@@ -1,9 +1,13 @@
 ---
-title: Michail Bakunin God and the State 1882
+title: "God and the State"
+author: "Mikhail Bakunin"
 date: 1882
-category: contemporary-analysis
+category: "theory"
 tags:
-  - Bakunin
+  - bakunin
+  - anarchism
+  - atheism
+  - anti-state
 ---
 
 **Preface to the First French Edition I II III IV Credo quod absurdum**

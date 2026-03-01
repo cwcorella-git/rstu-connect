@@ -1,10 +1,13 @@
 ---
-title: "Paul Goodman"
+title: "Growing Up Absurd"
+author: "Paul Goodman"
 date: 1960
-category: "contemporary-analysis"
+category: "theory"
 tags:
-  - analysis
-  - current-events
+  - youth
+  - alienation
+  - anarchism
+  - paul-goodman
 ---
 
 # **Growing Up Absurd**

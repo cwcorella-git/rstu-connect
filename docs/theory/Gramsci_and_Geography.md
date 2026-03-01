@@ -1,11 +1,13 @@
 ---
 title: "Gramsci and Geography"
-author: "Joseph A. Buttigieg"
-date: 1986
-category: "contemporary-analysis"
+author: "Jordan Camp"
+date: 2022
+category: "theory"
 tags:
-  - analysis
-  - current-events
+  - gramsci
+  - geography
+  - hegemony
+  - political-theory
 ---
 
 

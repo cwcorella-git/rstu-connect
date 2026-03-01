@@ -2,10 +2,12 @@
 title: "Getting Free"
 author: "James Herod"
 date: 2001
-category: "contemporary-analysis"
+category: "theory"
 tags:
-  - analysis
-  - current-events
+  - anarchism
+  - autonomy
+  - neighborhood-organizing
+  - james-herod
 ---
 
 ### *Creating an Association of Democratic Autonomous Neighborhoods*
