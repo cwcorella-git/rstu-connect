@@ -1,11 +1,13 @@
 ---
-title: "Beyond Blame:"
-author: "Beyond Blame"
+title: "Beyond Blame: How Cities Can Learn From Crashes To Create Safer Streets"
+author: "National League of Cities"
 date: 2023
-category: "contemporary-analysis"
+category: "housing"
 tags:
-  - analysis
-  - current-events
+  - street-safety
+  - traffic-violence
+  - urban-planning
+  - housing-policy
 ---
 
 

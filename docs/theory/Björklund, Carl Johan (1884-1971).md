@@ -1,8 +1,8 @@
 ---
 title: "Björklund, Carl Johan (1884-1971)"
-author: "libcom.org"
-date: 1884
-category: "contemporary-analysis"
+author: "Nick Heath"
+date: 2010
+category: "theory"
 tags:
   - nick-heath
   - sweden

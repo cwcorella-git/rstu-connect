@@ -1,12 +1,13 @@
 ---
-title: Bolsa Família
-author: "Wikipedia contributors"
+title: "Bolsa Família"
+author: "Wikipedia"
 date: 2003
-category: contemporary-analysis
+category: economic-alternatives
 tags:
-  - analysis
-  - current-events
-  - wikipedia
+  - Brazil
+  - social-programs
+  - poverty-reduction
+  - conditional-cash-transfer
 ---
 
 

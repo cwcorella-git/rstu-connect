@@ -1,10 +1,13 @@
 ---
-title: Boycott Sakuma Berries!
-author: "A Abraham Chakur -"
+title: "Boycott Sakuma Berries!"
+author: "A. Abraham Chakur"
 date: 2016
-category: contemporary-analysis
+category: labor
 tags:
   - boycotts
+  - farmworkers
+  - IWW
+  - migrant-labor
 ---
 
 ## **Source:** https://ecology.iww.org/node/1486

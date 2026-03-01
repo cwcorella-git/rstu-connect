@@ -1,7 +1,7 @@
 ---
 title: "Beyond May Day: From Ritual to Resistance"
-author: "libcom.org"
-date: 1968
+author: "Jeff Shantz"
+date: 2012
 category: "contemporary-analysis"
 tags:
   - general-strikes

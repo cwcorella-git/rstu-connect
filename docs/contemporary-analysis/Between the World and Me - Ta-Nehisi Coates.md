@@ -1,11 +1,13 @@
 ---
-title: "COATES"
+title: "Between the World and Me"
 author: "Ta-Nehisi Coates"
 date: 2015
 category: "contemporary-analysis"
 tags:
-  - analysis
-  - current-events
+  - race
+  - Black-America
+  - police-violence
+  - letter
 ---
 
 ## BETWEEN for THE WORLD ANDME

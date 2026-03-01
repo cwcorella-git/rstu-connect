@@ -1,11 +1,12 @@
 ---
-title: Bolo'bolo
-author:
+title: "Bolo'bolo"
+author: "P.M."
 date: 1983
-category: contemporary-analysis
+category: theory
 tags:
-  - analysis
-  - current-events
+  - anarchism
+  - utopian
+  - post-scarcity
 ---
 
 P. M.
