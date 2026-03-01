@@ -3,8 +3,8 @@
     "created": "2026-02-09",
     "last_updated": "2026-02-28",
     "total_documents": 2198,
-    "audited_count": 256,
-    "current_round": 243,
+    "audited_count": 267,
+    "current_round": 244,
     "categories_audited": []
   },
   "audit_sessions": [
@@ -326,7 +326,18 @@
     "contemporary-analysis/Being Numerous - Natasha Lennard.md",
     "contemporary-analysis/Black_Liberation_and_Left_Renewal_Review.md",
     "theory/Bj\u00f6rklund, Carl Johan (1884-1971).md",
-    "economic-alternatives/Bolsa Fam\u00edlia - Wikipedia.md"
+    "economic-alternatives/Bolsa Fam\u00edlia - Wikipedia.md",
+    "contemporary-analysis/CASTLE ROCK V. GONZALES.md",
+    "contemporary-analysis/Cenotaph.md",
+    "contemporary-analysis/Chandra.md",
+    "contemporary-analysis/Town of Castle Rock v. Gonzales - Wikipedia.md",
+    "economic-alternatives/Canada's Free Birth Control and Insulin Program_ Complete Overview.md",
+    "housing/Castle Rock v. Gonzales _ 545 U.S. 748 (2005) _ Justia U.S. Supreme Court Center.md",
+    "labor/Capital Blight The Two Bums.md",
+    "labor/Capitalist Saboteurs.md",
+    "theory/Charles Sumner - Wikipedia.md",
+    "theory/Charlotte Wilson (1854-1944) - Jeff Shantz.md",
+    "theory/CIVIL DISOBEDIENCE in focus - Civil Disobedience in Focus (Philosophers in Focus) -- Hugo Adam Bedau; Bedau H Staff -- Philosophers in Focus, 1, 2002 -- Routledge; Other -- 9780203003657 -- 5d0a35cc6c2686f081443a2a03665f45 -- Anna\u2019s Archive.md"
   ],
   "flagged_for_review": [],
   "quality_scores": {
@@ -528,6 +539,16 @@
     "contemporary-analysis/Beyond May Day From Ritual to Resistance.md": "ok",
     "housing/Beyond_Blame_Safer_Streets_Report_2024.md": "ok",
     "labor/Boycott Sakuma Berries!.md": "ok",
-    "theory/p-m-bolo-bolo.md": "ok"
+    "theory/p-m-bolo-bolo.md": "ok",
+    "contemporary-analysis/CASTLE ROCK V. GONZALES.md": "ok",
+    "contemporary-analysis/Cenotaph.md": "ok",
+    "contemporary-analysis/Chandra.md": "ok",
+    "contemporary-analysis/Town of Castle Rock v. Gonzales - Wikipedia.md": "ok",
+    "economic-alternatives/Canada's Free Birth Control and Insulin Program_ Complete Overview.md": "ok",
+    "housing/Castle Rock v. Gonzales _ 545 U.S. 748 (2005) _ Justia U.S. Supreme Court Center.md": "ok",
+    "labor/Capital Blight The Two Bums.md": "ok",
+    "labor/Capitalist Saboteurs.md": "ok",
+    "theory/Charles Sumner - Wikipedia.md": "ok",
+    "theory/Charlotte Wilson (1854-1944) - Jeff Shantz.md": "ok"
   }
 }
