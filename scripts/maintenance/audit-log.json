@@ -3,8 +3,8 @@
     "created": "2026-02-09",
     "last_updated": "2026-02-28",
     "total_documents": 2198,
-    "audited_count": 226,
-    "current_round": 240,
+    "audited_count": 237,
+    "current_round": 241,
     "categories_audited": []
   },
   "audit_sessions": [
@@ -296,7 +296,18 @@
     "arts-culture-music/the role of the artist is to load the gun.md",
     "contemporary-analysis/A Field Guide to Straw Men.md",
     "feminist-theory/1, 2001 -- William Morrow Paperbacks -- 9780060959470 -- 6ded7ca2b1992e630fdff7b149db4b6a -- Anna\u2019s Archive.md",
-    "economic-alternatives/A Brief History of Equality - A Brief History of Equality -- Thomas Piketty; Steven Rendall -- Cambridge, Massachusetts ; London, England, 2022 -- Belknap Press_ An Imprint of -- 9780674273559 -- 09e17e399e3e31eff36a19717d2d40da -- Anna\u2019s Archive.md"
+    "economic-alternatives/A Brief History of Equality - A Brief History of Equality -- Thomas Piketty; Steven Rendall -- Cambridge, Massachusetts ; London, England, 2022 -- Belknap Press_ An Imprint of -- 9780674273559 -- 09e17e399e3e31eff36a19717d2d40da -- Anna\u2019s Archive.md",
+    "contemporary-analysis/Affirmative Inaction - The American Scholar.md",
+    "contemporary-analysis/After Brexit and Trump don't demonise; localise!.md",
+    "contemporary-analysis/All things considered - Nadine Bloch.md",
+    "contemporary-analysis/An Open Letter To Gen Z.md",
+    "environmental-justice/A Sierra Club love story Remembering Bay Chapter hiking leader Louis Prisco.md",
+    "labor/Amazon Strikes on Prime Day.md",
+    "organizing/A Tilted Guide to Being a Defendant A Guide to the Criminal Legal System for Radicals.md",
+    "theory/Alfredo_Bonanno_Armed_Joy.md",
+    "theory/An Open Letter to Revolutionaries.md",
+    "environmental-justice/A Solarpunk Manifesto (English) \u2013 ReDes \u2013 Regenerative Design.md",
+    "organizing/A Tilted Guide to Being a Defendant A Guide to the Criminal Legal System for Radicals.md"
   ],
   "flagged_for_review": [],
   "quality_scores": {
@@ -476,6 +487,15 @@
     "technology-digital-justice/the-post-platform-future.md": "ok",
     "theory/Whither Anarchism_ _ A Reply to Recent Ana - Murray Bookchin.md": "ok",
     "theory/Why We Need a World Party - Donald Parkinson.md": "ok",
-    "theory/david-graeber-book-review-symposium-the-democracy-project-by-david-graeber.md": "ok"
+    "theory/david-graeber-book-review-symposium-the-democracy-project-by-david-graeber.md": "ok",
+    "contemporary-analysis/Affirmative Inaction - The American Scholar.md": "ok",
+    "contemporary-analysis/After Brexit and Trump don't demonise; localise!.md": "ok",
+    "contemporary-analysis/All things considered - Nadine Bloch.md": "ok",
+    "contemporary-analysis/An Open Letter To Gen Z.md": "ok",
+    "environmental-justice/A Sierra Club love story Remembering Bay Chapter hiking leader Louis Prisco.md": "ok",
+    "labor/Amazon Strikes on Prime Day.md": "ok",
+    "organizing/A Tilted Guide to Being a Defendant A Guide to the Criminal Legal System for Radicals.md": "ok",
+    "theory/Alfredo_Bonanno_Armed_Joy.md": "ok",
+    "theory/An Open Letter to Revolutionaries.md": "ok"
   }
 }
