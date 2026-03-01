@@ -1,8 +1,8 @@
 ---
 title: "Individuals, Society and Nature"
-author: "Leonard Mortensen -"
+author: "Leonard Mortensen"
 date: 2023
-category: "contemporary-analysis"
+category: "theory"
 tags:
   - peter-kropotkin
   - libertarian-socialism

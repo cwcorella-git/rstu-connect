@@ -1,8 +1,8 @@
 ---
-title: "Interview with Esther and Sam Do Igoff – Doug Richardson"
-author: "Industrial Workers of the World"
+title: "Interview with Esther and Sam Dolgoff"
+author: "Doug Richardson"
 date: 1975
-category: "contemporary-analysis"
+category: "labor"
 tags:
   - sam-dolgoff
   - anarchism

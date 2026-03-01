@@ -2,11 +2,11 @@
 title: "Interview about Liberated Guardian"
 author: "James Herod"
 date: 2014
-category: "contemporary-analysis"
+category: "organizing"
 tags:
-  - analysis
-  - current-events
+  - anarchist-media
   - interviews
+  - liberated-guardian
 ---
 
 ## James Herod

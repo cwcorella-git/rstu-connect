@@ -1,12 +1,12 @@
 ---
 title: "Introduction"
-author: "libcom.org"
+author: "Class War"
 date: 1985
-category: "contemporary-analysis"
+category: "theory"
 tags:
-  - analysis
-  - current-events
-  - libcom
+  - class-war
+  - anarchism
+  - dissolution
 ---
 
 Introduction to Class War number 73, the final issue of Class War explaining why the organisation decided to dissolve itself.

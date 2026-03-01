@@ -1,10 +1,13 @@
 ---
 title: 'Innocent on Death Row: An interview with Bomani Shakur/Keith La Mar'
-author: "libcom.org"
-date: 1993
-category: contemporary-analysis
+author: "JR Valrey"
+date: 2016
+category: "abolition"
 tags:
-  - Los Angeles
+  - death-row
+  - lucasville
+  - political-prisoners
+  - ohio
 ---
 
 An interview with Lucasville Uprising prisoner Bomani Shakur/Keith La Mar, carried out by JR Valrey for Block Report Radio. This transcript was first published by the San Francisco Bay View.

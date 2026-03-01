@@ -2,7 +2,7 @@
 title: "Interview With John Paul Wright"
 author: "Industrial Workers of the World"
 date: 2016
-category: "contemporary-analysis"
+category: "labor"
 tags:
   - j.-p.-wright
   - railroad-workers

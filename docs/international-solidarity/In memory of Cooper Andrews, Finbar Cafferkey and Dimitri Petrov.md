@@ -1,11 +1,13 @@
 ---
 title: "In memory of Cooper Andrews, Finbar Cafferkey and Dimitri Petrov"
-author: "libcom.org"
-category: "contemporary-analysis"
+author: "Anonymous"
+date: 2022
+category: "international-solidarity"
 tags:
-  - analysis
-  - current-events
-  - libcom
+  - ukraine
+  - russia
+  - anti-war
+  - anarchism
 ---
 
 ## Russia-Ukraine war

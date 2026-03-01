@@ -1,10 +1,12 @@
 ---
 title: 'Imprisoned for a day: a personal reflection'
-author: "libcom.org"
+author: "Anonymous"
 date: 2000
-category: contemporary-analysis
+category: "abolition"
 tags:
   - prisons
+  - incarceration
+  - personal-reflection
 ---
 
 Your perspective on the world changes from inside a jail cell.
