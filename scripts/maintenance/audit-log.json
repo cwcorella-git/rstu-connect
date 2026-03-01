@@ -3,8 +3,8 @@
     "created": "2026-02-09",
     "last_updated": "2026-02-28",
     "total_documents": 2198,
-    "audited_count": 345,
-    "current_round": 254,
+    "audited_count": 357,
+    "current_round": 255,
     "categories_audited": []
   },
   "audit_sessions": [
@@ -419,7 +419,16 @@
     "abolition/How the pigs abuse \u2018gang\u2019 labels - Kevin Rashid Johnson.md",
     "contemporary-analysis/Drugs are fucking everywhere (and we\u2019re all addicted to comfort)..md",
     "contemporary-analysis/Fascism\u2019s tightening grip in the SoCal desert.md",
-    "contemporary-analysis/I spent decades at Columbia. I\u2019m withdrawing my fall course due to its deal with Trump _ Rashid Khalidi _ The Guardian.md"
+    "contemporary-analysis/I spent decades at Columbia. I\u2019m withdrawing my fall course due to its deal with Trump _ Rashid Khalidi _ The Guardian.md",
+    "abolition/Imprisoned for a day a personal reflection.md",
+    "abolition/Innocent on Death Row An interview with Bomani ShakurKeith LaMar.md",
+    "international-solidarity/In memory of Cooper Andrews, Finbar Cafferkey and Dimitri Petrov.md",
+    "labor/Interview With John Paul Wright.md",
+    "organizing/Interview about Liberated Guardian.md",
+    "theory/Individuals, Society and Nature.md",
+    "theory/Introduction.md",
+    "theory/Is Greed All that's Wrong With Capitalism_.md",
+    "theory/Invisible_Committee_The_Coming_Insurrection.md"
   ],
   "flagged_for_review": [],
   "quality_scores": {
@@ -704,6 +713,14 @@
     "labor/ICL-CIL referendum 2025 results are in.md": "ok",
     "theory/How to Overthrow the Illuminati.md": "ok",
     "theory/How to achieve a society without power.md": "ok",
-    "theory/Identity crisis Leftist anti-wokeness is bullshit.md": "ok"
+    "theory/Identity crisis Leftist anti-wokeness is bullshit.md": "ok",
+    "abolition/Imprisoned for a day a personal reflection.md": "ok",
+    "abolition/Innocent on Death Row An interview with Bomani ShakurKeith LaMar.md": "ok",
+    "international-solidarity/In memory of Cooper Andrews, Finbar Cafferkey and Dimitri Petrov.md": "ok",
+    "labor/Interview With John Paul Wright.md": "ok",
+    "organizing/Interview about Liberated Guardian.md": "ok",
+    "theory/Individuals, Society and Nature.md": "ok",
+    "theory/Introduction.md": "ok",
+    "theory/Is Greed All that's Wrong With Capitalism_.md": "ok"
   }
 }
