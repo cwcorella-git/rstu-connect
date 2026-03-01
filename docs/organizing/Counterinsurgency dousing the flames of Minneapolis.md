@@ -1,8 +1,8 @@
 ---
 title: "Counterinsurgency: dousing the flames of Minneapolis"
-author: "libcom.org"
-date: 2017
-category: "contemporary-analysis"
+author: "Peter Gelderloos"
+date: 2020
+category: "organizing"
 tags:
   - united-states
   - pacifism

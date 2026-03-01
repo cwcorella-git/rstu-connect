@@ -1,10 +1,13 @@
 ---
 title: "Criminal Justice Fact Sheet"
-date: 1986
-category: "contemporary-analysis"
+author: "NAACP"
+date: 2024
+category: "abolition"
 tags:
-  - analysis
-  - current-events
+  - naacp
+  - criminal-justice
+  - racial-disparities
+  - policing
 ---
 
 [naacp.org](https://naacp.org/resources/criminal-justice-fact-sheet)

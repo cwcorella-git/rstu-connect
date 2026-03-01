@@ -1,8 +1,8 @@
 ---
 title: 'Crime, Punishment, and Community Policing'
-author: "libcom.org"
+author: "Gregor Kerr"
 date: 2001
-category: contemporary-analysis
+category: "abolition"
 tags:
   - community
   - police

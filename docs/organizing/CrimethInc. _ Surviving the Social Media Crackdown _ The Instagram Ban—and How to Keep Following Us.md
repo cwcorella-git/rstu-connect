@@ -2,11 +2,12 @@
 title: "Surviving the Social Media Crackdown"
 author: "CrimethInc."
 date: 2020
-category: "contemporary-analysis"
+category: "organizing"
 tags:
-  - analysis
-  - current-events
   - crimethinc
+  - social-media
+  - censorship
+  - digital-organizing
 ---
 
 ## Crimeth Inc. Ex-Workers Collective

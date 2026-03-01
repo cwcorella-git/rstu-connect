@@ -1,12 +1,13 @@
 ---
 title: "Coverture"
-author: "Wikipedia contributors"
-date: 1870
-category: "contemporary-analysis"
+author: "Wikipedia"
+date: 2024
+category: "feminist-theory"
 tags:
-  - analysis
-  - current-events
   - wikipedia
+  - legal-history
+  - coverture
+  - womens-rights
 ---
 
 

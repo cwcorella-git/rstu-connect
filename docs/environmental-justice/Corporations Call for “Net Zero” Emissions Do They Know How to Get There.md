@@ -1,8 +1,8 @@
 ---
 title: "Corporations Call for 'Net Zero' Emissions: Do They Know How to Get There?"
-author: "Sean Sweeney -"
+author: "Sean Sweeney"
 date: 2016
-category: "contemporary-analysis"
+category: "environmental-justice"
 tags:
   - renewable-energy
   - green-capitalism

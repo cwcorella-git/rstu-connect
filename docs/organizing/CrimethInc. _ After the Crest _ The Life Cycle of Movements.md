@@ -2,11 +2,11 @@
 title: After the Crest
 author: "CrimethInc."
 date: 2013
-category: contemporary-analysis
+category: "organizing"
 tags:
-  - analysis
-  - current-events
   - crimethinc
+  - movement-cycles
+  - strategy
 ---
 
 ## Crimeth Inc. Ex-Workers Collective

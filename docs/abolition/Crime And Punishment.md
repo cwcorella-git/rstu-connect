@@ -1,8 +1,8 @@
 ---
 title: "Crime And Punishment"
-author: "libcom.org"
-date: 1914
-category: "contemporary-analysis"
+author: "BM Blob"
+date: 1981
+category: "abolition"
 tags:
   - bm-blob
   - police

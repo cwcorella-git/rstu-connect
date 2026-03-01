@@ -1,8 +1,8 @@
 ---
-title: "Copwatching in Chattanooga - Lorenzo Komboa Ervin"
-author: "libcom.org"
-date: 1969
-category: "contemporary-analysis"
+title: "Copwatching in Chattanooga"
+author: "Lorenzo Komboa Ervin"
+date: 1998
+category: "abolition"
 tags:
   - lorenzo-komboa-ervin
   - united-states
