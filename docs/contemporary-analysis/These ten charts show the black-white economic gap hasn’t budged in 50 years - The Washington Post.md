@@ -1,10 +1,12 @@
 ---
-title: "These ten charts show the blackwhite economic gap hasn't budged in 50 years"
+title: "These Ten Charts Show the Black-White Economic Gap Hasn't Budged in 50 Years"
+author: "Brad Plumer"
 date: 2013
-category: "arts-culture-music"
+category: "contemporary-analysis"
 tags:
-  - arts
-  - culture
+  - racial-inequality
+  - economic-inequality
+  - data
 ---
 
 #### [washingtonpost.com](https://www.washingtonpost.com/news/wonk/wp/2013/08/28/these-seven-charts-show-the-black-white-economic-gap-hasnt-budged-in-50-years/)

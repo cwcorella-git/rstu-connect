@@ -1,11 +1,13 @@
 ---
 title: Ending Rape Culture Activity Zine
-author: Rape Culture
+author: "FORCE: Upsetting Rape Culture"
 date: 2018
-category: arts-culture-music
+category: feminist-theory
 tags:
-  - arts
-  - culture
+  - rape-culture
+  - feminist-theory
+  - discussion-guide
+  - activism
 ---
 
 

@@ -1,8 +1,8 @@
 ---
 title: "The Party's Over: The State of the Left in the 1990s"
-author: "libcom.org"
+author: "Class War Federation"
 date: 1984
-category: "arts-culture-music"
+category: "theory"
 tags:
   - class-war-federation
   - united-kingdom

@@ -1,11 +1,13 @@
 ---
-title: 'The tragic week, Spain 1909 - Murray Bookchin'
+title: "The Tragic Week, Spain 1909"
 author: "Murray Bookchin"
-date: 1909
-category: arts-culture-music
+date: 1977
+category: theory
 tags:
   - Bookchin
   - Spain
+  - historical
+  - anarchism
 ---
 
 ## Obrera, PDF

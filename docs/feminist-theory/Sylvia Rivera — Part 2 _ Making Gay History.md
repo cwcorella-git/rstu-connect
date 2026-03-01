@@ -2,10 +2,12 @@
 title: "Sylvia Rivera — Part 2"
 author: "Richard C. Wandel"
 date: 1995
-category: "arts-culture-music"
+category: "feminist-theory"
 tags:
-  - arts
-  - culture
+  - LGBTQ
+  - trans-rights
+  - oral-history
+  - Sylvia-Rivera
 ---
 
 ## Eric Marcus

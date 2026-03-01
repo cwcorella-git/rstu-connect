@@ -1,10 +1,12 @@
 ---
 title: "The history of a photo - and a video. Anti-fascism's strength and limits in facing rape culture"
-author: "libcom.org"
+author: "Nicoletta Bourbaki Collective"
 date: 2017
-category: arts-culture-music
+category: organizing
 tags:
   - antifascism
+  - rape-culture
+  - feminist-theory
 ---
 
 An analysis of how rape culture permeates yesterday and today's right-wing narrative, and of how anti-fascism sometimes failed to face it, with violent consequences. Part 2 of an article by the Nicoletta Bourbaki collective, published on Wu Ming's website.

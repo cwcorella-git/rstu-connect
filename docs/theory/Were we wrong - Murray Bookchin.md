@@ -1,10 +1,13 @@
 ---
-title: Were we wrong? - Murray Bookchin
+title: "Were We Wrong?"
 author: "Murray Bookchin"
-date: 1934
-category: arts-culture-music
+date: 1985
+category: theory
 tags:
   - Bookchin
+  - Marxism
+  - anarchism
+  - self-criticism
 ---
 
 An essay in which Murray Bookchin argues against the dominant Marxist and anarchist view of capitalist development and revolutionary change. Published in Telos,Vol. 65, Fall, 1985, pp. 59-74.
