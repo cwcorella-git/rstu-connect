@@ -1,12 +1,13 @@
 ---
-title: "De Shaney v. Winnebago County"
-author: "Wikipedia contributors"
-date: 1989
-category: "contemporary-analysis"
+title: "DeShaney v. Winnebago County"
+author: "Wikipedia"
+date: 2024
+category: "theory"
 tags:
-  - analysis
-  - current-events
   - wikipedia
+  - supreme-court
+  - state-violence
+  - legal-theory
 ---
 
 ## Contributors to Wikimedia projects

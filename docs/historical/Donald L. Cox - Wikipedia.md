@@ -1,12 +1,12 @@
 ---
-title: "Donald L. Cox Wikipedia"
-author: "Wikipedia contributors"
-date: 2019
-category: contemporary-analysis
+title: "Donald L. Cox"
+author: "Wikipedia"
+date: 2024
+category: "historical"
 tags:
-  - analysis
-  - current-events
   - wikipedia
+  - black-panther-party
+  - black-liberation
 ---
 
 ## [en.wikipedia.org](https://en.wikipedia.org/wiki/Donald_L._Cox)

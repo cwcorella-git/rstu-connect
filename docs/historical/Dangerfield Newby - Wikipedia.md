@@ -1,12 +1,13 @@
 ---
 title: "Dangerfield Newby"
-author: "Wikipedia contributors"
-date: 1903
-category: "contemporary-analysis"
+author: "Wikipedia"
+date: 2024
+category: "historical"
 tags:
-  - analysis
-  - current-events
   - wikipedia
+  - john-brown
+  - abolitionism
+  - harpers-ferry
 ---
 
 ## Contributors to Wikimedia projects

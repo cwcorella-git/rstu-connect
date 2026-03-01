@@ -1,11 +1,13 @@
 ---
 title: "Critical Thoughts on Consensus Decision Making"
+author: "James Herod"
 date: 2008
-category: "contemporary-analysis"
+category: "organizing"
 tags:
-  - analysis
-  - current-events
-  - wikipedia
+  - consensus
+  - decision-making
+  - direct-democracy
+  - anarchism
 ---
 
 ## James Herod

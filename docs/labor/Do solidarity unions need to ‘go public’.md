@@ -1,9 +1,11 @@
 ---
 title: Do solidarity unions need to 'go public'?
-author: "Industrial Workers of the World"
-category: contemporary-analysis
+author: "Marianne Garneau and MK Lees"
+category: "labor"
 tags:
-  - solidarity
+  - solidarity-unionism
+  - organizing
+  - iww
 ---
 
 Marianne Garneau and MK Lees reexamine the value of the "Going Public" step in solidarity union organizing drives.

@@ -1,9 +1,13 @@
 ---
 title: Democrats told to "get shot" for the anti-Trump resistance
-date: 2026
-category: contemporary-analysis
+author: "Andrew Solender"
+date: 2025
+category: "contemporary-analysis"
 tags:
-  - democracy
+  - trump
+  - resistance
+  - democrats
+  - congress
 ---
 
 [axios.com](https://www.axios.com/2025/07/07/democrats-trump-resistance-violence-congress)

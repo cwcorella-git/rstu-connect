@@ -1,13 +1,13 @@
 ---
 title: "Critical Resistance"
-author: "Wikipedia contributors"
-date: 2000
-category: "contemporary-analysis"
+author: "Wikipedia"
+date: 2024
+category: "abolition"
 tags:
-  - analysis
-  - current-events
   - wikipedia
-  - resistance
+  - prison-abolition
+  - critical-resistance
+  - criminal-justice
 ---
 
 

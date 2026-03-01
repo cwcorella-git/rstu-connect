@@ -3,8 +3,8 @@
     "created": "2026-02-09",
     "last_updated": "2026-02-28",
     "total_documents": 2198,
-    "audited_count": 277,
-    "current_round": 245,
+    "audited_count": 285,
+    "current_round": 246,
     "categories_audited": []
   },
   "audit_sessions": [
@@ -347,7 +347,15 @@
     "theory/Class_Counts_Erik_Olin_Wright.md",
     "theory/Collapsing the levels, Consolidating Our efforts.md",
     "contemporary-analysis/Context_ Prologues \u2013 Patricia C. Wrede.md",
-    "theory/Clarifying especifismo a response to DSA-LSC\u2019s \u2018Letter to the Libertarian Left\u2019.md"
+    "theory/Clarifying especifismo a response to DSA-LSC\u2019s \u2018Letter to the Libertarian Left\u2019.md",
+    "abolition/Copwatching in Chattanooga - Lorenzo Komboa Ervin.md",
+    "abolition/Crime And Punishment.md",
+    "abolition/Crime, Punishment, and Community Policing.md",
+    "abolition/Criminal Justice Fact Sheet _ NAACP.md",
+    "contemporary-analysis/Coverture - Wikipedia.md",
+    "feminist-theory/Coverture.md",
+    "organizing/Counterinsurgency dousing the flames of Minneapolis.md",
+    "organizing/CrimethInc. _ After the Crest _ The Life Cycle of Movements.md"
   ],
   "flagged_for_review": [],
   "quality_scores": {
@@ -567,6 +575,14 @@
     "organizing/Constructive Programme - construct.md": "ok",
     "theory/Civil-Disobedience-by-Henry-David-Thoreau.md": "ok",
     "theory/Class_Counts_Erik_Olin_Wright.md": "ok",
-    "theory/Collapsing the levels, Consolidating Our efforts.md": "ok"
+    "theory/Collapsing the levels, Consolidating Our efforts.md": "ok",
+    "abolition/Copwatching in Chattanooga - Lorenzo Komboa Ervin.md": "ok",
+    "abolition/Crime And Punishment.md": "ok",
+    "abolition/Crime, Punishment, and Community Policing.md": "ok",
+    "abolition/Criminal Justice Fact Sheet _ NAACP.md": "ok",
+    "contemporary-analysis/Coverture - Wikipedia.md": "ok",
+    "feminist-theory/Coverture.md": "ok",
+    "organizing/Counterinsurgency dousing the flames of Minneapolis.md": "ok",
+    "organizing/CrimethInc. _ After the Crest _ The Life Cycle of Movements.md": "ok"
   }
 }

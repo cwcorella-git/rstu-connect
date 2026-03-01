@@ -2,7 +2,7 @@
 title: "Do treeplanters suffer from Stockholm syndrome?"
 author: "Industrial Workers of the World"
 date: 2018
-category: "contemporary-analysis"
+category: "labor"
 tags:
   - timber-workers
   - green-unionism

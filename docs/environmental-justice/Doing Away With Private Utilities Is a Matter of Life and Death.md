@@ -1,8 +1,8 @@
 ---
 title: "Doing Away With Private Utilities Is a Matter of Life and Death"
-author: "Ryan Smith -"
+author: "Ryan Smith"
 date: 2019
-category: "contemporary-analysis"
+category: "environmental-justice"
 tags:
   - disaster-capitalism
   - green-syndicalism
