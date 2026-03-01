@@ -1,7 +1,7 @@
 ---
 title: "Hipsterphobia - Cava Sundays"
-author: "libcom.org"
-date: 1964
+author: "Class War Federation"
+date: 2014
 category: "contemporary-analysis"
 tags:
   - culture

@@ -1,11 +1,13 @@
 ---
 title: "Ho Chi Minh"
-date: 1945
-category: "contemporary-analysis"
+author: "Wikipedia"
+date: 2024
+category: "historical"
 tags:
-  - analysis
-  - current-events
   - wikipedia
+  - vietnam
+  - anti-colonialism
+  - communism
 ---
 
 

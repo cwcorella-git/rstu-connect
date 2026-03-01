@@ -1,13 +1,13 @@
 ---
 title: "Half the Sky: interview with Yu Shuet"
-author: "libcom.org"
+author: "Zero magazine"
 date: 1977
-category: "contemporary-analysis"
+category: "feminist-theory"
 tags:
-  - analysis
-  - current-events
+  - china
+  - feminism
   - interviews
-  - libcom
+  - womens-liberation
 ---
 
 ## **Tags:** Zero, Yu Shuet, China, feminism

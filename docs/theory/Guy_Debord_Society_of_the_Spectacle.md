@@ -2,10 +2,12 @@
 title: The Society of the Spectacle
 author: Guy Debord
 date: 1967
-category: contemporary-analysis
+category: "theory"
 tags:
-  - analysis
-  - current-events
+  - situationism
+  - spectacle
+  - capitalism
+  - guy-debord
 ---
 
 ## GUY DEBORD

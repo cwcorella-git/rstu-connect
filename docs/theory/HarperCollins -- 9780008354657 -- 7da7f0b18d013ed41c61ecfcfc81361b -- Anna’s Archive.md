@@ -1,10 +1,12 @@
 ---
-title: "WILL STORR"
+title: "The Status Game: On Human Life and How to Play It"
+author: "Will Storr"
 date: 2021
-category: "contemporary-analysis"
+category: "theory"
 tags:
-  - analysis
-  - current-events
+  - status
+  - social-psychology
+  - human-behavior
 ---
 
 'A master storyteller'

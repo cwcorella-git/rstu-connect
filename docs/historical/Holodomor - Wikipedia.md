@@ -1,12 +1,13 @@
 ---
 title: "Holodomor"
-author: "Oleksiy Musiyenko"
-date: 2004
-category: "contemporary-analysis"
+author: "Wikipedia"
+date: 2024
+category: "historical"
 tags:
-  - analysis
-  - current-events
   - wikipedia
+  - ukraine
+  - soviet-union
+  - famine
 ---
 
 
