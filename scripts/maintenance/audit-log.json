@@ -3,8 +3,8 @@
     "created": "2026-02-09",
     "last_updated": "2026-02-28",
     "total_documents": 2198,
-    "audited_count": 267,
-    "current_round": 244,
+    "audited_count": 277,
+    "current_round": 245,
     "categories_audited": []
   },
   "audit_sessions": [
@@ -337,7 +337,17 @@
     "labor/Capitalist Saboteurs.md",
     "theory/Charles Sumner - Wikipedia.md",
     "theory/Charlotte Wilson (1854-1944) - Jeff Shantz.md",
-    "theory/CIVIL DISOBEDIENCE in focus - Civil Disobedience in Focus (Philosophers in Focus) -- Hugo Adam Bedau; Bedau H Staff -- Philosophers in Focus, 1, 2002 -- Routledge; Other -- 9780203003657 -- 5d0a35cc6c2686f081443a2a03665f45 -- Anna\u2019s Archive.md"
+    "theory/CIVIL DISOBEDIENCE in focus - Civil Disobedience in Focus (Philosophers in Focus) -- Hugo Adam Bedau; Bedau H Staff -- Philosophers in Focus, 1, 2002 -- Routledge; Other -- 9780203003657 -- 5d0a35cc6c2686f081443a2a03665f45 -- Anna\u2019s Archive.md",
+    "international-solidarity/Colombia Has Lost Its Fear A Nationwide Uprising Continues in the Face of State Violence.md",
+    "international-solidarity/Constructing Worlds Otherwise - Ral Zibechi;.md",
+    "labor/Chicago Replies To Moscow!.md",
+    "organizing/Community-Driven Social Change in the Age of the Non-Profit Industrial Complex.md",
+    "organizing/Constructive Programme - construct.md",
+    "theory/Civil-Disobedience-by-Henry-David-Thoreau.md",
+    "theory/Class_Counts_Erik_Olin_Wright.md",
+    "theory/Collapsing the levels, Consolidating Our efforts.md",
+    "contemporary-analysis/Context_ Prologues \u2013 Patricia C. Wrede.md",
+    "theory/Clarifying especifismo a response to DSA-LSC\u2019s \u2018Letter to the Libertarian Left\u2019.md"
   ],
   "flagged_for_review": [],
   "quality_scores": {
@@ -549,6 +559,14 @@
     "labor/Capital Blight The Two Bums.md": "ok",
     "labor/Capitalist Saboteurs.md": "ok",
     "theory/Charles Sumner - Wikipedia.md": "ok",
-    "theory/Charlotte Wilson (1854-1944) - Jeff Shantz.md": "ok"
+    "theory/Charlotte Wilson (1854-1944) - Jeff Shantz.md": "ok",
+    "international-solidarity/Colombia Has Lost Its Fear A Nationwide Uprising Continues in the Face of State Violence.md": "ok",
+    "international-solidarity/Constructing Worlds Otherwise - Ral Zibechi;.md": "ok",
+    "labor/Chicago Replies To Moscow!.md": "ok",
+    "organizing/Community-Driven Social Change in the Age of the Non-Profit Industrial Complex.md": "ok",
+    "organizing/Constructive Programme - construct.md": "ok",
+    "theory/Civil-Disobedience-by-Henry-David-Thoreau.md": "ok",
+    "theory/Class_Counts_Erik_Olin_Wright.md": "ok",
+    "theory/Collapsing the levels, Consolidating Our efforts.md": "ok"
   }
 }
