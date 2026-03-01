@@ -3,8 +3,8 @@
     "created": "2026-02-09",
     "last_updated": "2026-02-28",
     "total_documents": 2198,
-    "audited_count": 326,
-    "current_round": 251,
+    "audited_count": 333,
+    "current_round": 252,
     "categories_audited": []
   },
   "audit_sessions": [
@@ -396,7 +396,14 @@
     "theory/Global Capitalism and the Crisis of Humanity_William I. Robinson_liber3.md",
     "theory/God and the State.md",
     "theory/Gramsci_and_Geography.md",
-    "theory/Growing Up Absurd.md"
+    "theory/Growing Up Absurd.md",
+    "contemporary-analysis/HACKSAW RIDGE 2013March12-clean.fdx - hacksaw-ridge-2016.md",
+    "contemporary-analysis/Hipsterphobia - Cava Sundays.md",
+    "feminist-theory/Half the Sky interview with Yu Shuet.md",
+    "historical/Ho Chi Minh - Wikipedia.md",
+    "historical/Holodomor - Wikipedia.md",
+    "theory/Guy_Debord_Society_of_the_Spectacle.md",
+    "theory/Hakim_Bey_TAZ_Temporary_Autonomous_Zone.md"
   ],
   "flagged_for_review": [],
   "quality_scores": {
@@ -662,6 +669,13 @@
     "theory/Global Capitalism and the Crisis of Humanity_William I. Robinson_liber3.md": "ok",
     "theory/God and the State.md": "ok",
     "theory/Gramsci_and_Geography.md": "ok",
-    "theory/Growing Up Absurd.md": "ok"
+    "theory/Growing Up Absurd.md": "ok",
+    "contemporary-analysis/HACKSAW RIDGE 2013March12-clean.fdx - hacksaw-ridge-2016.md": "ok",
+    "contemporary-analysis/Hipsterphobia - Cava Sundays.md": "ok",
+    "feminist-theory/Half the Sky interview with Yu Shuet.md": "ok",
+    "historical/Ho Chi Minh - Wikipedia.md": "ok",
+    "historical/Holodomor - Wikipedia.md": "ok",
+    "theory/Guy_Debord_Society_of_the_Spectacle.md": "ok",
+    "theory/Hakim_Bey_TAZ_Temporary_Autonomous_Zone.md": "ok"
   }
 }
