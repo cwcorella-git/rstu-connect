@@ -191,12 +191,12 @@ src/
     │   ├── delegateStorage.ts        # Delegate voting weight calculations
     │   ├── canvassStorage.ts         # Unit-level tenant outreach, habitability
     │   └── ...                       # 23 more *Storage.ts modules
-    ├── services/           # External integrations (7 files)
+    ├── services/           # External integrations (5 files)
     │   ├── supabase.ts             # Cloud sync, user storage, FTS
     │   ├── socketio.ts             # Socket.io client configuration
     │   └── authService.ts          # Authentication service
-    ├── utils/              # Pure utilities (10 files)
-    │   ├── logger.ts, sanitize.ts, crypto.ts, rateLimit.ts, etc.
+    ├── utils/              # Pure utilities (8 files)
+    │   ├── logger.ts, sanitize.ts, rateLimit.ts, offlineCache.ts, etc.
     ├── pdf/                # PDF generators (2 files)
     │   └── strikeNoticePDF.ts, rentDisputePDF.ts
     ├── data/               # Types, loaders, domain logic (7 files)
