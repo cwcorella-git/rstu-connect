@@ -197,8 +197,8 @@ src/
     │   └── authService.ts          # Authentication service
     ├── utils/              # Pure utilities (10 files)
     │   ├── logger.ts, sanitize.ts, crypto.ts, rateLimit.ts, etc.
-    ├── pdf/                # PDF generators (3 files)
-    │   └── demandLetterPDF.ts, strikeNoticePDF.ts, rentDisputePDF.ts
+    ├── pdf/                # PDF generators (2 files)
+    │   └── strikeNoticePDF.ts, rentDisputePDF.ts
     ├── data/               # Types, loaders, domain logic (7 files)
     │   ├── getBuildingsData.ts     # EnhancedBuilding interface
     │   └── loadAllProperties.ts    # Loads compressed property JSON
