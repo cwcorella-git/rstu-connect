@@ -4,7 +4,7 @@ import React, { useState, useMemo, useEffect } from 'react'
 import { createCase, type EvictionCase } from '@/lib/storage/evictionDefenseStorage'
 import { getCurrentProfile } from '@/lib/storage/profileStorage'
 import { EnhancedBuilding } from '@/lib/data/getBuildingsData'
-import { LegislationLink } from '@/components/Legislation'
+import { LegislationLink } from '@/components/shared/Legislation'
 import { useLanguage } from '@/contexts/LanguageContext'
 
 interface EvictionCaseFormProps {

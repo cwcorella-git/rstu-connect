@@ -24,6 +24,12 @@ The platform is **built but not field-tested**. As of January 2026:
 
 The core challenge: closing the gap between awareness and action through real-world deployment.
 
+## Prerequisites
+
+- Node.js 18+
+- npm
+- Python 3 (for property export prebuild script)
+
 ## Development Commands
 
 ```bash
@@ -73,6 +79,7 @@ rstu-connect/
 ├── scripts/            # Build, data loading, and maintenance scripts
 │   ├── build/          #   Prebuild scripts (export-all-properties, generate-manifest)
 │   ├── data/           #   Data import/export scripts (supabase loaders, extractors)
+│   ├── diagnostics/    #   Browser-console diagnostic snippets (e.g., invite-system-check.js for troubleshooting localStorage/Supabase)
 │   └── maintenance/    #   Translation audits, frontmatter fixes, tag checks
 ├── infrastructure/     # Server-side infrastructure
 │   ├── relay-server/   #   Socket.io relay server (deployed to Render)
@@ -117,7 +124,7 @@ data/databases/main_properties.db (192,463 Washoe County properties)
   -> page.tsx renders BuildingList + PropertyViewTabs
 
 Supabase (optional, for FTS):
-  -> scripts/data/load-all-data-to-supabase.js (properties + intelligence data)
+  -> scripts/data/extract-property-names.py (extracts property names for search)
   -> src/lib/services/supabase.ts (search, evictions, landlord scores)
 ```
 
@@ -149,20 +156,22 @@ src/
 │   ├── page.tsx            # Main page with tab routing (home/reading/tools/profile)
 │   └── layout.tsx          # Root layout with header
 ├── components/
-│   ├── layout/             # App shell (ClientLayout, Navigation, Footer, etc.)
-│   ├── building/           # Property components (BuildingList, BuildingCard, LinkedGroupCard)
-│   ├── shared/             # Cross-cutting (ErrorBoundary, OfflineBanner, VersionFooter)
+│   ├── Layout/             # App shell (ClientLayout, Navigation, Footer, etc.)
+│   ├── Building/           # Property components (BuildingList, BuildingCard, LinkedGroupCard)
+│   ├── shared/             # Cross-cutting (ErrorBoundary, OfflineBanner, VersionFooter,
+│   │                       #   FeedbackModal, EditableText, EditModeIndicator,
+│   │                       #   Citations/, Legislation/)
 │   ├── ui/                 # UI primitives (ConfirmModal)
 │   ├── Chat/               # Real-time messaging, governance proposals
 │   ├── PropertyView/       # Tabbed property view (Chat, Events, Map tabs)
 │   ├── Events/             # Calendar, event cards, event creator
 │   ├── SocketChat/         # Chat UI components (MessageList, MessageInput)
 │   ├── Reading/            # Document library components
-│   ├── MutualAid/          # Needs, offers, skills, library, Blocks
+│   ├── MutualAid/          # Needs, offers, skills, library, Blocks, CommitmentCard/Creator
 │   ├── Tools/              # Organizer tools (UnitTracker, PowerMap, Canvassing, etc.)
 │   ├── Profile/            # User profile management, onboarding wizard
 │   ├── LandingPage/        # Customizable landing page builder
-│   ├── Elections/           # Ballot system, ranked choice voting
+│   ├── Elections/          # Ballot system, ranked choice voting
 │   ├── Escalation/         # Complaint & demand escalation
 │   ├── Resources/          # Resource directory
 │   ├── Messages/           # Direct messaging
@@ -172,6 +181,7 @@ src/
 │   └── TabContext.tsx       # Global tab state
 ├── hooks/
 │   └── useSocketChat.ts    # Socket.io chat hook
+├── data/                   # Static data constants (citations.ts, nevada-legislation.ts, property-names.json, reading-manifest.json, external-resources.json) — distinct from src/lib/data/ which contains data-loading utilities and types
 └── lib/
     ├── storage/            # Data persistence (29 files)
     │   ├── profileStorage.ts         # User profiles, roles, invite codes
@@ -438,6 +448,8 @@ Final Weight = min(Base × (1 + Activity Bonus), 100)  // capped at 100
 
 ## Onboarding Checklist
 
+**Note on dual Onboarding directories:** `components/Onboarding/` = persistent checklist widget (the "Getting Started" checklist); `components/Profile/Onboarding/` = profile setup wizard (different features, same name prefix).
+
 **Location:** `src/components/Onboarding/OnboardingChecklist.tsx`, `src/contexts/OnboardingContext.tsx`
 
 The "Getting Started" checklist guides new users through initial setup:
@@ -605,6 +617,23 @@ All presets include full i18n support (EN, ES, TL, ZH, VI).
 - `NEXT_PUBLIC_SOCKETIO_URL` - Socket.io server URL (default: `https://rstu-gun-relay.onrender.com`)
 - `NEXT_PUBLIC_SUPABASE_URL` - Supabase project URL (optional, for FTS)
 - `NEXT_PUBLIC_SUPABASE_ANON_KEY` - Supabase anon key (optional, for FTS)
+
+**Claude Code GitHub Action:** `.github/workflows/claude.yml` triggers Claude Code on `@claude` mentions in issues/PRs. Requires `CLAUDE_CODE_OAUTH_TOKEN` secret in repo settings. See `GITHUB_SETUP_GUIDE.md` for setup.
+
+**Git note (WSL/NTFS):** File permissions are committed as `100755` due to WSL/NTFS. Suppress noise with:
+```bash
+git config core.fileMode false
+```
+
+## Key Design Decisions
+
+| Decision | Rationale |
+|----------|-----------|
+| Next.js static export (SSG) | Free hosting on GitHub Pages, no server costs, simple deployment |
+| localStorage-first state | Fast local performance, works offline; Supabase is optional cloud sync |
+| Socket.io for chat | Real-time messaging with server persistence; self-hosted on Render |
+| 5-language i18n | Serve diverse tenant communities (EN/ES/TL/ZH/VI) |
+| Property intelligence SQLite → JSON | 192k property DB exported to ~3.6 MB JSON at build time; no runtime DB needed |
 
 ## Reno-Sparks Housing Statistics
 

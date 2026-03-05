@@ -2,7 +2,7 @@
 
 import { useState } from 'react'
 import { useLanguage } from '@/contexts/LanguageContext'
-import { FeedbackModal } from '@/components/Feedback/FeedbackModal'
+import { FeedbackModal } from '@/components/shared/FeedbackModal'
 
 export function Footer() {
   const { t } = useLanguage()

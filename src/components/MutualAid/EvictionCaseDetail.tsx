@@ -20,7 +20,7 @@ import {
 import { getCurrentProfile } from '@/lib/storage/profileStorage'
 import { NevadaEvictionPlaybook } from './NevadaEvictionPlaybook'
 import { WitnessMobilizationPanel } from './WitnessMobilizationPanel'
-import { LegislationLink } from '@/components/Legislation'
+import { LegislationLink } from '@/components/shared/Legislation'
 
 interface EvictionCaseDetailProps {
   caseId: string

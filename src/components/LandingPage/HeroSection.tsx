@@ -1,7 +1,7 @@
 'use client'
 
 import { useLanguage } from '@/contexts/LanguageContext'
-import { EditableText } from '@/components/EditMode'
+import { EditableText } from '@/components/shared/EditableText'
 
 interface HeroSectionProps {
   onScrollClick: () => void

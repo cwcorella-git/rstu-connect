@@ -3,7 +3,7 @@
 import { useState, ReactNode } from 'react'
 import type { EnhancedBuilding } from '@/lib/data/getBuildingsData'
 import type { StrikePreparation } from '@/lib/storage/strikeStorage'
-import { LegislationLink } from '@/components/Legislation'
+import { LegislationLink } from '@/components/shared/Legislation'
 import {
   getHabitabilityScore,
   getBuildingCanvass,

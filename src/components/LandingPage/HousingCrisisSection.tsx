@@ -1,7 +1,7 @@
 'use client'
 
 import { useState } from 'react'
-import { CitationLink } from '@/components/Citations'
+import { CitationLink } from '@/components/shared/Citations'
 
 export function HousingCrisisSection() {
   const [expandData, setExpandData] = useState(false)

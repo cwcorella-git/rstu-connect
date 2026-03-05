@@ -5,7 +5,7 @@ const log = createLogger('App')
 import { useState, useEffect, useRef, useCallback, useMemo } from 'react';
 import { EnhancedBuilding } from '@/lib/data/getBuildingsData';
 import { loadAllProperties } from '@/lib/data/loadAllProperties';
-import { BuildingList } from '@/components/building/BuildingList';
+import { BuildingList } from '@/components/Building/BuildingList';
 import { PropertyViewTabs } from '@/components/PropertyView';
 import { LandingPage } from '@/components/LandingPage/LandingPage';
 import { ReadingList } from '@/components/Reading/ReadingList';

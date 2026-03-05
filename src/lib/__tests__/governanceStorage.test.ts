@@ -37,11 +37,11 @@ import {
 } from '../storage/governanceStorage'
 
 // Mock dependencies
-jest.mock('../profileStorage', () => ({
+jest.mock('../storage/profileStorage', () => ({
   getCurrentProfile: jest.fn(),
 }))
 
-jest.mock('../linkedPropertiesStorage', () => ({
+jest.mock('../storage/linkedPropertiesStorage', () => ({
   getLinkedGroups: jest.fn(() => []),
   updateLinkedGroup: jest.fn(),
   getGroupForApn: jest.fn(),
@@ -49,12 +49,12 @@ jest.mock('../linkedPropertiesStorage', () => ({
   generateBlocName: jest.fn(() => 'Test Bloc'),
 }))
 
-jest.mock('../supabase', () => ({
+jest.mock('../services/supabase', () => ({
   supabase: null,
   USE_SUPABASE: false,
 }))
 
-jest.mock('../authService', () => ({
+jest.mock('../services/authService', () => ({
   castVote: jest.fn(),
   getVoteCounts: jest.fn(),
   checkPermission: jest.fn(() => ({ allowed: true })),
@@ -62,7 +62,7 @@ jest.mock('../authService', () => ({
   OfflineError: class OfflineError extends Error {},
 }))
 
-jest.mock('../offlineCache', () => ({
+jest.mock('../utils/offlineCache', () => ({
   cacheForOffline: jest.fn(),
   getCached: jest.fn(),
   invalidateCachePattern: jest.fn(),
@@ -71,16 +71,16 @@ jest.mock('../offlineCache', () => ({
   },
 }))
 
-jest.mock('../sanitize', () => ({
+jest.mock('../utils/sanitize', () => ({
   sanitizeText: jest.fn((text) => text),
   sanitizeRichText: jest.fn((text) => text),
 }))
 
-jest.mock('../rateLimit', () => ({
+jest.mock('../utils/rateLimit', () => ({
   tryAction: jest.fn(() => ({ allowed: true })),
 }))
 
-jest.mock('../logger', () => ({
+jest.mock('../utils/logger', () => ({
   createLogger: jest.fn(() => ({
     info: jest.fn(),
     warn: jest.fn(),

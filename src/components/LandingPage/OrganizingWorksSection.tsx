@@ -1,8 +1,8 @@
 'use client'
 
 import { useLanguage } from '@/contexts/LanguageContext'
-import { EditableText } from '@/components/EditMode'
-import { CitationLink } from '@/components/Citations'
+import { EditableText } from '@/components/shared/EditableText'
+import { CitationLink } from '@/components/shared/Citations'
 
 export function OrganizingWorksSection() {
   const { t } = useLanguage()

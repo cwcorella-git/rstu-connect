@@ -53,13 +53,13 @@ import {
 } from '../storage/canvassStorage'
 
 // Mock Supabase
-jest.mock('../supabase', () => ({
+jest.mock('../services/supabase', () => ({
   supabase: null,
   USE_SUPABASE: false,
 }))
 
 // Mock logger
-jest.mock('../logger', () => ({
+jest.mock('../utils/logger', () => ({
   createLogger: jest.fn(() => ({
     info: jest.fn(),
     warn: jest.fn(),

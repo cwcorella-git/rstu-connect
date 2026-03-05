@@ -1,8 +1,8 @@
 'use client'
 
 import { useLanguage } from '@/contexts/LanguageContext'
-import { EditableText } from '@/components/EditMode'
-import { LegislationText } from '@/components/Legislation'
+import { EditableText } from '@/components/shared/EditableText'
+import { LegislationText } from '@/components/shared/Legislation'
 
 export function RightsSection() {
   const { t } = useLanguage()

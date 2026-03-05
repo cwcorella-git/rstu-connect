@@ -1,6 +1,6 @@
 import type { Metadata, Viewport } from 'next'
 import './globals.css'
-import { ClientLayout } from '@/components/layout/ClientLayout'
+import { ClientLayout } from '@/components/Layout/ClientLayout'
 import { ServiceWorkerRegistration } from '@/components/shared/ServiceWorkerRegistration'
 import { VersionInfo } from '@/components/shared/VersionInfo'
 

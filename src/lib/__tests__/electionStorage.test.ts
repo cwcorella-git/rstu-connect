@@ -13,7 +13,7 @@ import {
 } from '../storage/electionStorage'
 
 // Mock dependencies
-jest.mock('../socketio', () => ({
+jest.mock('../services/socketio', () => ({
   getSocket: jest.fn(() => null),
 }))
 

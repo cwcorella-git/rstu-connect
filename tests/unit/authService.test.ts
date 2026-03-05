@@ -17,7 +17,7 @@ const mockProfile = {
 // Note: mock functions are created inside jest.mock factory and accessed via __mocks
 
 // Mock modules - these are hoisted by Jest
-jest.mock('../src/lib/profileStorage', () => ({
+jest.mock('@/lib/storage/profileStorage', () => ({
   getCurrentProfile: jest.fn(() => ({
     id: 'test-user-uuid',
     nickname: 'TestUser',
@@ -29,7 +29,7 @@ jest.mock('../src/lib/profileStorage', () => ({
   })),
 }))
 
-jest.mock('../src/lib/supabase', () => {
+jest.mock('@/lib/services/supabase', () => {
   const rpc = jest.fn()
   const from = jest.fn()
   return {
@@ -50,9 +50,9 @@ import {
   canVoteOnProposal,
   canSendMessage,
   OfflineError,
-} from '../src/lib/authService'
-import { getCurrentProfile } from '../src/lib/profileStorage'
-import { supabase, __mocks } from '../src/lib/supabase'
+} from '@/lib/services/authService'
+import { getCurrentProfile } from '@/lib/storage/profileStorage'
+import { supabase, __mocks } from '@/lib/services/supabase'
 
 // Get the actual mock functions from the module
 const { rpc: supabaseRpc, from: supabaseFrom } = __mocks as { rpc: jest.Mock; from: jest.Mock }

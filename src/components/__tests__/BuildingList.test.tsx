@@ -60,7 +60,7 @@ const mockFetch = jest.fn(() =>
 global.fetch = mockFetch as unknown as typeof fetch
 
 // Import after mocks
-import { BuildingList } from '../BuildingList'
+import { BuildingList } from '@/components/Building/BuildingList'
 
 describe('BuildingList', () => {
   const mockBuildings: EnhancedBuilding[] = [
