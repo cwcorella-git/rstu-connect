@@ -1,8 +1,0 @@
-{
-  "commit": "4c502bcf",
-  "message": "Fix category names being truncated in reading library",
-  "author": "cwcorella-git",
-  "date": "2026-02-11 01:24:25 -0800",
-  "branch": "main",
-  "buildTime": "2026-02-11T10:31:59.616Z"
-}
