@@ -1171,20 +1171,126 @@ if (typeof window !== 'undefined') {
 }
 
 // ============================================
+// Email Availability Checking
+// ============================================
+
+/**
+ * Check if an email is already in use
+ * Checks Supabase first (source of truth), then localStorage fallback
+ * @returns { available: boolean, existingNickname?: string }
+ */
+export async function isEmailAvailable(email: string): Promise<{
+  available: boolean
+  existingNickname?: string
+}> {
+  if (!email || !email.trim()) {
+    return { available: false }
+  }
+
+  const normalizedEmail = email.trim().toLowerCase()
+
+  // Check Supabase first (primary source of truth)
+  if (USE_SUPABASE && supabase) {
+    try {
+      const { data, error } = await supabase
+        .from('profiles')
+        .select('nickname')
+        .eq('email', normalizedEmail)
+        .maybeSingle()
+
+      if (error && error.code !== 'PGRST116') {  // PGRST116 = no rows found
+        console.error('[ProfileStorage] Error checking email availability:', error)
+        // Fail open - return available on error to avoid blocking legitimate users
+        return { available: true }
+      }
+
+      if (data) {
+        return { available: false, existingNickname: data.nickname }
+      }
+    } catch (err) {
+      console.error('[ProfileStorage] Exception checking email:', err)
+      // Fail open on network errors
+      return { available: true }
+    }
+  }
+
+  // Fallback: Check localStorage for offline support
+  const state = getProfileState()
+  const existing = state.storedProfiles.find(
+    p => p.email?.toLowerCase() === normalizedEmail
+  )
+
+  if (existing) {
+    return { available: false, existingNickname: existing.nickname }
+  }
+
+  return { available: true }
+}
+
+// ============================================
 // Async Supabase-Enabled Public Functions
 // These functions use Supabase when available,
 // falling back to localStorage when offline
 // ============================================
 
 // Create profile with Supabase sync
+// Email is required to prevent duplicate profiles
 export async function createProfileAsync(data: {
   nickname: string
+  email?: string  // Optional in type for backwards compat, but required at runtime for new profiles
   buildingId?: string
   buildingAddress?: string
   unitNumber?: string
   inviteCode?: string
 }): Promise<UserProfile> {
-  // First validate invite code (check Supabase first, then local)
+  // Validate email (required for new profiles to prevent duplicates)
+  const normalizedEmail = data.email?.trim().toLowerCase()
+
+  // CRITICAL: Check for duplicate email before creating profile
+  if (normalizedEmail) {
+    // Check Supabase first (source of truth)
+    if (USE_SUPABASE && supabase) {
+      try {
+        const { data: existing, error } = await supabase
+          .from('profiles')
+          .select('id, nickname')
+          .eq('email', normalizedEmail)
+          .maybeSingle()
+
+        if (error && error.code !== 'PGRST116') {
+          console.error('[ProfileStorage] Error checking for duplicate email:', error)
+          throw new Error('Failed to verify email availability. Please try again.')
+        }
+
+        if (existing) {
+          throw new Error(
+            `A profile with email "${data.email}" already exists (${existing.nickname}). ` +
+            `Please login instead of creating a new profile.`
+          )
+        }
+      } catch (err) {
+        if (err instanceof Error && err.message.includes('already exists')) {
+          throw err  // Re-throw duplicate error
+        }
+        console.error('[ProfileStorage] Exception checking email:', err)
+        // Continue on network errors to allow offline profile creation
+      }
+    }
+
+    // Also check localStorage for duplicates
+    const state = getProfileState()
+    const existingLocal = state.storedProfiles.find(
+      p => p.email?.toLowerCase() === normalizedEmail
+    )
+    if (existingLocal) {
+      throw new Error(
+        `A profile with email "${data.email}" already exists locally (${existingLocal.nickname}). ` +
+        `Please login instead.`
+      )
+    }
+  }
+
+  // Validate invite code (check Supabase first, then local)
   let trustLevel: TrustLevel = 'self_registered'
   let invitedBy: string | undefined
   let role: UserRole = 'tenant'
@@ -1218,6 +1324,7 @@ export async function createProfileAsync(data: {
   const profile: UserProfile = {
     id: generateId(),
     nickname: data.nickname,
+    email: normalizedEmail,  // Include email in profile
     role,
     trustLevel,
     buildingId: data.buildingId,
@@ -1235,7 +1342,14 @@ export async function createProfileAsync(data: {
 
   // Sync to Supabase
   if (USE_SUPABASE) {
-    await saveProfileToDb(profile)
+    const saved = await saveProfileToDb(profile)
+    if (!saved) {
+      // Rollback localStorage on Supabase failure (for duplicate constraint violations)
+      console.error('[ProfileStorage] Failed to save profile to Supabase, rolling back')
+      state.currentProfile = null
+      saveProfileState(state)
+      throw new Error('Failed to save profile. Email may already be in use.')
+    }
   }
 
   // Mark invite as used
