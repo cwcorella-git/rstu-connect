@@ -1033,14 +1033,35 @@ export async function getAllProfiles(): Promise<DbProfile[]> {
 }
 
 /**
+ * Get every member's non-identifying fields (public_profiles view): id,
+ * nickname, role, trust_level, building_id, banned, created_at, last_active.
+ * Use this anywhere a non-organizer needs to list members.
+ */
+export async function getPublicProfiles(): Promise<DbProfile[]> {
+  if (!supabase) return []
+
+  const { data, error } = await supabase
+    .from('public_profiles')
+    .select('*')
+    .order('last_active', { ascending: false })
+
+  if (error) {
+    log.error('Get public profiles error:', error)
+    return []
+  }
+
+  return (data || []) as DbProfile[]
+}
+
+/**
  * Get profile count
  */
 export async function getProfileCount(): Promise<number> {
   if (!supabase) return 0
 
   const { count, error } = await supabase
-    .from('profiles')
-    .select('*', { count: 'exact', head: true })
+    .from('public_profiles')
+    .select('id', { count: 'exact', head: true })
 
   if (error) return 0
   return count || 0

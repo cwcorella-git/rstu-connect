@@ -4,7 +4,7 @@ const log = createLogger('OrganizingProgress')
 
 import { useState, useEffect, useCallback } from 'react'
 import { getCurrentProfile, type UserProfile } from '@/lib/storage/profileStorage'
-import { getAllProfiles, USE_SUPABASE, type DbProfile } from '@/lib/services/supabase'
+import { getAllProfiles, getPublicProfiles, USE_SUPABASE, type DbProfile } from '@/lib/services/supabase'
 import { getTenantSafeProgress, type TenantSafeProgress } from '@/lib/storage/canvassStorage'
 
 /**
@@ -70,7 +70,9 @@ export function useOrganizingProgress(
 
       if (USE_SUPABASE) {
         try {
-          const allProfiles = await getAllProfiles()
+          // Full rows (with unit) are only readable by organizers/admins.
+          const isStaff = currentUser?.role === 'organizer' || currentUser?.role === 'admin'
+          const allProfiles = isStaff ? await getAllProfiles() : await getPublicProfiles()
           registeredMembers = allProfiles
             .filter((p: DbProfile) => p.building_id === buildingId)
             .filter((p: DbProfile) => !((p as any).banned)) // Exclude banned users

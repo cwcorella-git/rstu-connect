@@ -335,10 +335,20 @@ async function fetchProfileFromDb(id: string): Promise<UserProfile | null> {
     .from('profiles')
     .select('*')
     .eq('id', id)
-    .single()
+    .maybeSingle()
 
-  if (error || !data) return null
-  return dbToProfile(data as DbProfile)
+  if (!error && data) return dbToProfile(data as DbProfile)
+
+  // RLS shows the full row only to its owner and to organizers/admins;
+  // everyone else gets the non-identifying public view.
+  const { data: pub, error: pubError } = await supabase
+    .from('public_profiles')
+    .select('*')
+    .eq('id', id)
+    .maybeSingle()
+
+  if (pubError || !pub) return null
+  return dbToProfile(pub as DbProfile)
 }
 
 // Check if a profile has been deleted from Supabase (e.g. by an admin)
@@ -346,14 +356,16 @@ async function fetchProfileFromDb(id: string): Promise<UserProfile | null> {
 export async function isProfileDeletedInDb(id: string): Promise<boolean> {
   if (!supabase) return false // Can't check — assume not deleted
 
+  // public_profiles, not profiles: RLS hides the profiles row from a
+  // visitor without a Supabase Auth session, which would read as "deleted".
   const { data, error } = await supabase
-    .from('profiles')
+    .from('public_profiles')
     .select('id')
     .eq('id', id)
-    .single()
+    .maybeSingle()
 
-  // If error (PGRST116 = no rows) or no data, profile was deleted
-  return !data || !!error
+  if (error) return false // Can't tell — assume not deleted
+  return !data
 }
 
 // Save profile to Supabase
@@ -1547,7 +1559,7 @@ export async function deleteProfileAsync(profileId: string): Promise<boolean> {
   if (!profileToDelete && USE_SUPABASE && supabase) {
     try {
       const { data, error } = await supabase
-        .from('profiles')
+        .from('public_profiles')
         .select('id, role')
         .eq('id', profileId)
         .single()
@@ -1781,15 +1793,12 @@ export async function createProfileAsync(data: {
   // CRITICAL: Check for duplicate email BEFORE creating profile
   if (normalizedEmail) {
     if (USE_SUPABASE && supabase) {
-      const { data: existing, error } = await supabase
-        .from('profiles')
-        .select('id, nickname')
-        .eq('email', normalizedEmail)
-        .maybeSingle()
+      const { data: registered, error } = await supabase
+        .rpc('is_email_registered', { check_email: normalizedEmail })
 
-      if (!error && existing) {
+      if (!error && registered) {
         throw new Error(
-          `A profile with email "${data.email}" already exists (${existing.nickname}). ` +
+          `A profile with email "${data.email}" already exists. ` +
           `Please login instead of creating a new profile.`
         )
       }
@@ -2216,14 +2225,13 @@ export async function isEmailAvailable(email: string): Promise<{
 
   // Check Supabase first (source of truth)
   if (USE_SUPABASE && supabase) {
-    const { data, error } = await supabase
-      .from('profiles')
-      .select('nickname')
-      .eq('email', normalizedEmail)
-      .maybeSingle()
+    // An RPC that answers yes/no: reading profiles by email would tell a
+    // stranger whose account an address belongs to.
+    const { data: registered, error } = await supabase
+      .rpc('is_email_registered', { check_email: normalizedEmail })
 
-    if (!error && data) {
-      return { available: false, existingNickname: data.nickname }
+    if (!error && registered) {
+      return { available: false }
     }
   }
 
