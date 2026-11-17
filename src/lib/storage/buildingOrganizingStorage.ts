@@ -3,7 +3,6 @@ import { createLogger } from '../utils/logger'
 const log = createLogger('BuildingOrganizing')
 
 // Building organizing storage for complaints, demands, and voting
-// Supports both localStorage (offline) and Supabase (cloud sync)
 // Implements Bookchin's direct democracy principles:
 // - Tenants vote directly on demands (not representatives)
 // - Admins are neutral facilitators (cannot vote)
@@ -11,7 +10,6 @@ const log = createLogger('BuildingOrganizing')
 
 import { getCurrentProfile, type UserProfile } from './profileStorage'
 import { COMPLAINT_CATEGORIES } from './canvassStorage'
-import { supabase, USE_SUPABASE, DbBuildingComplaint, DbBuildingDemand } from '../services/supabase'
 import { generateShortId, generateEntityId, isLocalId } from '../utils/idUtils'
 
 // Re-export complaint categories for convenience
@@ -68,182 +66,6 @@ interface OrganizingState {
 }
 
 const STORAGE_KEY = 'rstu_organizing_data'
-
-// ============================================
-// Supabase Database Operations
-// ============================================
-
-// Convert database complaint to app complaint
-function dbToComplaint(db: DbBuildingComplaint): BuildingComplaint {
-  return {
-    id: db.id,
-    buildingId: db.building_id,
-    category: db.category,
-    title: db.title,
-    description: db.description || '',
-    submittedBy: db.submitted_by,
-    submittedByName: db.submitted_by_name,
-    timestamp: new Date(db.created_at).getTime(),
-    upvotes: db.upvotes || [],
-    downvotes: db.downvotes || [],
-    status: db.status,
-  }
-}
-
-// Convert app complaint to database format
-function complaintToDb(complaint: BuildingComplaint): Partial<DbBuildingComplaint> {
-  return {
-    id: complaint.id,
-    building_id: complaint.buildingId,
-    category: complaint.category,
-    title: complaint.title,
-    description: complaint.description || null,
-    submitted_by: complaint.submittedBy,
-    submitted_by_name: complaint.submittedByName,
-    status: complaint.status,
-    upvotes: complaint.upvotes,
-    downvotes: complaint.downvotes,
-  }
-}
-
-// Convert database demand to app demand
-function dbToDemand(db: DbBuildingDemand): BuildingDemand {
-  return {
-    id: db.id,
-    buildingId: db.building_id,
-    title: db.title,
-    description: db.description || '',
-    sourceComplaintId: db.source_complaint_id || '',
-    supportVotes: db.support_votes || [],
-    escalationLevel: db.escalation_level,
-    createdAt: new Date(db.created_at).getTime(),
-  }
-}
-
-// Convert app demand to database format
-function demandToDb(demand: BuildingDemand): Partial<DbBuildingDemand> {
-  return {
-    id: demand.id,
-    building_id: demand.buildingId,
-    title: demand.title,
-    description: demand.description || null,
-    source_complaint_id: demand.sourceComplaintId || null,
-    support_votes: demand.supportVotes,
-    escalation_level: demand.escalationLevel,
-  }
-}
-
-// Fetch complaints for a building from Supabase
-async function fetchComplaintsFromDb(buildingId: string): Promise<BuildingComplaint[]> {
-  if (!supabase) return []
-
-  const { data, error } = await supabase
-    .from('building_complaints')
-    .select('*')
-    .eq('building_id', buildingId)
-    .order('created_at', { ascending: false })
-
-  if (error || !data) return []
-  return data.map(d => dbToComplaint(d as DbBuildingComplaint))
-}
-
-// Fetch demands for a building from Supabase
-async function fetchDemandsFromDb(buildingId: string): Promise<BuildingDemand[]> {
-  if (!supabase) return []
-
-  const { data, error } = await supabase
-    .from('building_demands')
-    .select('*')
-    .eq('building_id', buildingId)
-    .order('created_at', { ascending: false })
-
-  if (error || !data) return []
-  return data.map(d => dbToDemand(d as DbBuildingDemand))
-}
-
-// Save complaint to Supabase
-async function saveComplaintToDb(complaint: BuildingComplaint): Promise<boolean> {
-  if (!supabase) return false
-
-  const dbComplaint = complaintToDb(complaint)
-
-  const { error } = await supabase
-    .from('building_complaints')
-    .upsert(dbComplaint, { onConflict: 'id' })
-
-  if (error) {
-    log.error('Failed to save complaint to Supabase:', error)
-    return false
-  }
-  return true
-}
-
-// Save demand to Supabase
-async function saveDemandToDb(demand: BuildingDemand): Promise<boolean> {
-  if (!supabase) return false
-
-  const dbDemand = demandToDb(demand)
-
-  const { error } = await supabase
-    .from('building_demands')
-    .upsert(dbDemand, { onConflict: 'id' })
-
-  if (error) {
-    log.error('Failed to save demand to Supabase:', error)
-    return false
-  }
-  return true
-}
-
-// Delete complaint from Supabase
-async function deleteComplaintFromDb(complaintId: string): Promise<boolean> {
-  if (!supabase) return false
-
-  const { error } = await supabase
-    .from('building_complaints')
-    .delete()
-    .eq('id', complaintId)
-
-  return !error
-}
-
-// Update complaint votes in Supabase
-async function updateComplaintVotesInDb(
-  complaintId: string,
-  upvotes: string[],
-  downvotes: string[],
-  status: ComplaintStatus
-): Promise<boolean> {
-  if (!supabase) return false
-
-  const { error } = await supabase
-    .from('building_complaints')
-    .update({ upvotes, downvotes, status })
-    .eq('id', complaintId)
-
-  return !error
-}
-
-// Update demand support in Supabase
-async function updateDemandSupportInDb(
-  demandId: string,
-  supportVotes: string[],
-  escalationLevel?: EscalationLevel
-): Promise<boolean> {
-  if (!supabase) return false
-
-  const updates: Record<string, unknown> = { support_votes: supportVotes }
-  if (escalationLevel) {
-    updates.escalation_level = escalationLevel
-  }
-
-  const { error } = await supabase
-    .from('building_demands')
-    .update(updates)
-    .eq('id', demandId)
-
-  return !error
-}
 
 // Circuit breaker: stop trying to save after quota error
 let quotaExceeded = false
@@ -846,35 +668,15 @@ export function getBuildingOrganizingStats(buildingId: string): {
 }
 
 // ============================================
-// Async Supabase-Enabled Public Functions
-// These functions use Supabase when available,
-// falling back to localStorage when offline
+// Async Public Functions (localStorage-backed)
 // ============================================
 
-// Get building organizing data with Supabase support
+// Get building organizing data
 export async function getBuildingOrganizingAsync(buildingId: string): Promise<BuildingOrganizing> {
-  // Try Supabase first
-  if (USE_SUPABASE) {
-    const [complaints, demands] = await Promise.all([
-      fetchComplaintsFromDb(buildingId),
-      fetchDemandsFromDb(buildingId)
-    ])
-
-    if (complaints.length > 0 || demands.length > 0) {
-      return {
-        buildingId,
-        complaints,
-        demands,
-        lastModified: Date.now()
-      }
-    }
-  }
-
-  // Fallback to localStorage
   return getBuildingOrganizing(buildingId)
 }
 
-// Submit complaint with Supabase sync
+// Submit complaint
 export async function submitComplaintAsync(data: {
   buildingId: string
   category: string
@@ -885,15 +687,10 @@ export async function submitComplaintAsync(data: {
   const complaint = submitComplaint(data)
   if (!complaint) return null
 
-  // Sync to Supabase
-  if (USE_SUPABASE) {
-    await saveComplaintToDb(complaint)
-  }
-
   return complaint
 }
 
-// Vote on complaint with Supabase sync
+// Vote on complaint
 export async function voteOnComplaintAsync(
   buildingId: string,
   complaintId: string,
@@ -909,32 +706,10 @@ export async function voteOnComplaintAsync(
   const complaint = voteOnComplaint(buildingId, complaintId, voteType)
   if (!complaint) return null
 
-  // Sync to Supabase
-  if (USE_SUPABASE) {
-    await updateComplaintVotesInDb(
-      complaintId,
-      complaint.upvotes,
-      complaint.downvotes,
-      complaint.status
-    )
-
-    // If promoted to demand, save the new demand
-    if (complaint.status === 'demand') {
-      const state = getOrganizingState()
-      const building = state.buildings[buildingId]
-      if (building) {
-        const newDemand = building.demands.find(d => d.sourceComplaintId === complaintId)
-        if (newDemand) {
-          await saveDemandToDb(newDemand)
-        }
-      }
-    }
-  }
-
   return complaint
 }
 
-// Delete complaint with Supabase sync
+// Delete complaint
 export async function deleteComplaintAsync(
   buildingId: string,
   complaintId: string
@@ -943,15 +718,10 @@ export async function deleteComplaintAsync(
   const success = deleteComplaint(buildingId, complaintId)
   if (!success) return false
 
-  // Delete from Supabase
-  if (USE_SUPABASE) {
-    await deleteComplaintFromDb(complaintId)
-  }
-
   return true
 }
 
-// Support demand with Supabase sync
+// Support demand
 export async function supportDemandAsync(
   buildingId: string,
   demandId: string
@@ -960,15 +730,10 @@ export async function supportDemandAsync(
   const demand = supportDemand(buildingId, demandId)
   if (!demand) return null
 
-  // Sync to Supabase
-  if (USE_SUPABASE) {
-    await updateDemandSupportInDb(demandId, demand.supportVotes)
-  }
-
   return demand
 }
 
-// Escalate demand with Supabase sync
+// Escalate demand
 export async function escalateDemandAsync(
   buildingId: string,
   demandId: string,
@@ -978,85 +743,30 @@ export async function escalateDemandAsync(
   const demand = escalateDemand(buildingId, demandId, newLevel)
   if (!demand) return null
 
-  // Sync to Supabase
-  if (USE_SUPABASE) {
-    await updateDemandSupportInDb(demandId, demand.supportVotes, newLevel)
-  }
-
   return demand
 }
 
-// Get complaints with Supabase support
+// Get complaints
 export async function getBuildingComplaintsAsync(buildingId: string): Promise<BuildingComplaint[]> {
-  if (USE_SUPABASE) {
-    const complaints = await fetchComplaintsFromDb(buildingId)
-    if (complaints.length > 0) {
-      // Sort as expected
-      return complaints.sort((a, b) => {
-        if (a.status === 'voting' && b.status !== 'voting') return -1
-        if (a.status !== 'voting' && b.status === 'voting') return 1
-        const aNet = a.upvotes.length - a.downvotes.length
-        const bNet = b.upvotes.length - b.downvotes.length
-        if (aNet !== bNet) return bNet - aNet
-        return b.timestamp - a.timestamp
-      })
-    }
-  }
-
   return getBuildingComplaints(buildingId)
 }
 
-// Get demands with Supabase support
+// Get demands
 export async function getBuildingDemandsAsync(buildingId: string): Promise<BuildingDemand[]> {
-  if (USE_SUPABASE) {
-    const demands = await fetchDemandsFromDb(buildingId)
-    if (demands.length > 0) {
-      // Sort as expected
-      return demands.sort((a, b) => {
-        if (a.supportVotes.length !== b.supportVotes.length) {
-          return b.supportVotes.length - a.supportVotes.length
-        }
-        return b.createdAt - a.createdAt
-      })
-    }
-  }
-
   return getBuildingDemands(buildingId)
 }
 
-// Sync all local organizing data to Supabase
+// Formerly synced local organizing data to Supabase; no server now
 export async function syncOrganizingToCloud(): Promise<{
   success: boolean
   complaints: number
   demands: number
   errors: number
 }> {
-  if (!USE_SUPABASE || !supabase) {
-    return { success: false, complaints: 0, demands: 0, errors: 0 }
-  }
-
-  const state = getOrganizingState()
-  let complaints = 0
-  let demands = 0
-  let errors = 0
-
-  for (const building of Object.values(state.buildings)) {
-    for (const complaint of building.complaints) {
-      const success = await saveComplaintToDb(complaint)
-      if (success) complaints++
-      else errors++
-    }
-    for (const demand of building.demands) {
-      const success = await saveDemandToDb(demand)
-      if (success) demands++
-      else errors++
-    }
-  }
-
-  return { success: errors === 0, complaints, demands, errors }
+  return { success: false, complaints: 0, demands: 0, errors: 0 }
 }
 
-// Get organizing stats with Supabase support
+// Get organizing stats
 export async function getBuildingOrganizingStatsAsync(buildingId: string): Promise<{
   totalComplaints: number
   activeComplaints: number
@@ -1105,30 +815,8 @@ export function subscribeToComplaints(
   buildingId: string,
   onUpdate: (complaints: BuildingComplaint[]) => void
 ): (() => void) | null {
-  if (!USE_SUPABASE || !supabase) return null
-
-  const channel = supabase
-    .channel(`complaints-${buildingId}`)
-    .on(
-      'postgres_changes',
-      {
-        event: '*',
-        schema: 'public',
-        table: 'building_complaints',
-        filter: `building_id=eq.${buildingId}`
-      },
-      async () => {
-        // Refetch all complaints when any change occurs
-        const complaints = await fetchComplaintsFromDb(buildingId)
-        onUpdate(complaints)
-      }
-    )
-    .subscribe()
-
-  // Return unsubscribe function
-  return () => {
-    if (supabase) supabase.removeChannel(channel)
-  }
+  // Realtime sync was Supabase-only; local storage has no change feed.
+  return () => {}
 }
 
 // Subscribe to real-time demand updates
@@ -1136,31 +824,6 @@ export function subscribeToDemands(
   buildingId: string,
   onUpdate: (demands: BuildingDemand[]) => void
 ): (() => void) | null {
-  if (!USE_SUPABASE || !supabase) return null
-
-  const channel = supabase
-    .channel(`demands-${buildingId}`)
-    .on(
-      'postgres_changes',
-      {
-        event: '*',
-        schema: 'public',
-        table: 'building_demands',
-        filter: `building_id=eq.${buildingId}`
-      },
-      async () => {
-        // Refetch all demands when any change occurs
-        const demands = await fetchDemandsFromDb(buildingId)
-        onUpdate(demands)
-      }
-    )
-    .subscribe()
-
-  // Return unsubscribe function
-  return () => {
-    if (supabase) supabase.removeChannel(channel)
-  }
+  // Realtime sync was Supabase-only; local storage has no change feed.
+  return () => {}
 }
-
-// Export flag for components to check
-export { USE_SUPABASE }

@@ -3,7 +3,7 @@ import { createLogger } from '../utils/logger'
 const log = createLogger('Strike')
 
 // Rent strike preparation tracking
-// Supports both localStorage (offline) and Supabase (cloud sync)
+// localStorage only
 
 import { createProposal, getProposal, VOTE_THRESHOLDS } from './governanceStorage'
 

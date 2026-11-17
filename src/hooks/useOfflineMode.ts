@@ -7,14 +7,13 @@
 
 import { useState, useEffect, useCallback } from 'react'
 import { isOnline, subscribeToOnlineState, OfflineError } from '../lib/services/authService'
-import { USE_SUPABASE } from '../lib/services/supabase'
 
 export interface OfflineModeState {
   /** Whether the browser is connected to the internet */
   isOnline: boolean
   /** Whether the app is in read-only mode (offline or no server) */
   isReadOnly: boolean
-  /** Whether Supabase is configured */
+  /** Whether a sync server is configured (always false: no server exists) */
   hasServer: boolean
   /** Human-readable status message */
   statusMessage: string
@@ -39,7 +38,7 @@ export function useOfflineMode(): OfflineModeState {
     return unsubscribe
   }, [])
 
-  const hasServer = USE_SUPABASE
+  const hasServer = false
   const isReadOnly = !online || !hasServer
 
   const statusMessage = !online

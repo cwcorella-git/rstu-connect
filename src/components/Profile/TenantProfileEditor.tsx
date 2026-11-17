@@ -13,7 +13,6 @@ import {
 } from '@/lib/storage/profileStorage'
 import { COMPLAINT_CATEGORIES, INTEREST_LEVELS } from '@/lib/storage/canvassStorage'
 import type { EnhancedBuilding } from '@/lib/data/getBuildingsData'
-import { searchProperties, USE_SUPABASE, PropertySearchResult } from '@/lib/services/supabase'
 
 // Generate a chat slug from an address
 function generateChatSlug(address: string): string {
@@ -22,24 +21,6 @@ function generateChatSlug(address: string): string {
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/^-+|-+$/g, '')
     .substring(0, 50)
-}
-
-// Convert Supabase search result to EnhancedBuilding
-function searchResultToBuilding(result: PropertySearchResult): EnhancedBuilding {
-  return {
-    apn: result.apn,
-    address: result.address,
-    owner: result.owner,
-    units: result.units,
-    value: result.value || 0,
-    yearBuilt: result.year_built,
-    sqft: result.sqft,
-    chatSlug: result.chat_slug || generateChatSlug(result.address),
-    propertyName: result.name || undefined,
-    latitude: result.lat || undefined,
-    longitude: result.lon || undefined,
-    neighborhood: result.neighborhood || undefined,
-  } as EnhancedBuilding
 }
 
 // Compressed property format from all-properties.json
@@ -176,7 +157,7 @@ export const TenantProfileEditor = forwardRef<TenantProfileEditorHandle, TenantP
 
   const isOrganizer = canAccessTools()
 
-  // Load all properties on mount (fallback for when Supabase is unavailable)
+  // Load all properties on mount
   useEffect(() => {
     const basePath = '/rstu-connect'
     fetch(`${basePath}/data/all-properties.json`)
@@ -205,15 +186,6 @@ export const TenantProfileEditor = forwardRef<TenantProfileEditorHandle, TenantP
 
     setIsSearching(true)
     searchTimeoutRef.current = setTimeout(async () => {
-      if (USE_SUPABASE) {
-        const results = await searchProperties(query, 50)
-        if (results.length > 0) {
-          setSearchResults(results.map(searchResultToBuilding))
-          setIsSearching(false)
-          return
-        }
-      }
-
       const queryLower = query.toLowerCase()
       const results: EnhancedBuilding[] = []
 

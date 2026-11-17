@@ -17,7 +17,6 @@ import { trackActivity } from '@/lib/storage/profileStorage'
 import { getLinkedGroups, type LinkedPropertyGroup } from '@/lib/storage/linkedPropertiesStorage'
 import { getBuildingDemands } from '@/lib/storage/buildingOrganizingStorage'
 import { getFavorites, toggleFavorite } from '@/lib/storage/favoritesStorage'
-import { searchProperties, USE_SUPABASE, PropertySearchResult } from '@/lib/services/supabase'
 import { useLanguage } from '@/contexts/LanguageContext'
 
 // Compressed property format from all-properties.json
@@ -57,22 +56,6 @@ function expandProperty(p: CompressedProperty): EnhancedBuilding {
   } as EnhancedBuilding;
 }
 
-// Convert Supabase search result to EnhancedBuilding
-function searchResultToBuilding(result: PropertySearchResult): EnhancedBuilding {
-  return {
-    apn: result.apn,
-    address: result.address,
-    owner: result.owner,
-    units: result.units,
-    value: result.value || 0,
-    yearBuilt: result.year_built,
-    sqft: null,
-    chatSlug: result.chat_slug || generateChatSlug(result.address),
-    propertyName: result.name || undefined,
-    latitude: result.lat || undefined,
-    longitude: result.lon || undefined,
-  } as EnhancedBuilding;
-}
 
 type ToolsTab = 'canvassing' | 'powermap' | 'tasks'
 
@@ -192,15 +175,6 @@ export function ToolsPage({ buildings }: ToolsPageProps) {
     // Debounce search by 300ms
     setIsSearching(true)
     searchTimeoutRef.current = setTimeout(async () => {
-      if (USE_SUPABASE) {
-        // Use Supabase FTS
-        const results = await searchProperties(query, 50)
-        if (results.length > 0) {
-          setSearchResults(results.map(searchResultToBuilding))
-          setIsSearching(false)
-          return
-        }
-      }
 
       // Fallback to client-side search
       const queryLower = query.toLowerCase()

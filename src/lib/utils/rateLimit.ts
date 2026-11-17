@@ -3,7 +3,7 @@
 /**
  * Client-side rate limiting utility
  * Provides immediate feedback without network roundtrip
- * Server-side rate limiting in Supabase is the authoritative check
+ * There is no server-side rate limiting since Supabase was retired; this is the only check
  */
 
 interface RateLimitConfig {

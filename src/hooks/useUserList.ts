@@ -11,45 +11,8 @@ import {
   type UserRole,
   type UserProfile,
 } from '@/lib/storage/profileStorage'
-import {
-  getAllProfiles,
-  updateProfileRole,
-  USE_SUPABASE,
-  type DbProfile,
-} from '@/lib/services/supabase'
-
-// Convert DbProfile to SyncedProfile format
 export interface SyncedProfile extends UserProfile {
   isOnline?: boolean
-}
-
-function dbToSyncedProfile(db: DbProfile): SyncedProfile {
-  return {
-    id: db.id,
-    nickname: db.nickname,
-    role: db.role,
-    trustLevel: db.trust_level,
-    buildingId: db.building_id || undefined,
-    buildingAddress: db.building_address || undefined,
-    unitNumber: db.unit_number || undefined,
-    phone: db.phone || undefined,
-    email: db.email || undefined,
-    preferredContact: db.preferred_contact || undefined,
-    language: db.language || undefined,
-    rentAmount: db.rent_amount || undefined,
-    moveInDate: db.move_in_date || undefined,
-    leaseType: db.lease_type || undefined,
-    leaseExpires: db.lease_expires || undefined,
-    assignedBuildings: db.assigned_buildings || undefined,
-    invitedBy: db.invited_by || undefined,
-    inviteCode: db.invite_code || undefined,
-    banned: (db as any).banned || false,
-    bannedAt: (db as any).banned_at ? new Date((db as any).banned_at).getTime() : undefined,
-    bannedBy: (db as any).banned_by || undefined,
-    created: new Date(db.created_at).getTime(),
-    lastActive: new Date(db.last_active).getTime(),
-    isOnline: false,
-  }
 }
 
 // Role change types
@@ -118,7 +81,7 @@ export function useUserList(): UseUserListReturn {
   const canViewList = hasRole('organizer')
   const canChangeRoles = isAdmin()
 
-  // Fetch profiles from Supabase on mount
+  // No server holds a user list any more (Supabase removed)
   useEffect(() => {
     if (typeof window === 'undefined') return
     if (!canViewList) {
@@ -131,22 +94,8 @@ export function useUserList(): UseUserListReturn {
       setIsLoading(true)
       setError(null)
 
-      if (!USE_SUPABASE) {
-        setError('Database not configured')
-        setIsLoading(false)
-        return
-      }
-
-      try {
-        const dbProfiles = await getAllProfiles()
-        const syncedProfiles = dbProfiles.map(dbToSyncedProfile)
-        setProfiles(syncedProfiles)
-        setIsLoading(false)
-      } catch (err) {
-        log.error('Error fetching profiles:', err)
-        setError('Failed to load users')
-        setIsLoading(false)
-      }
+      setError('Database not configured')
+      setIsLoading(false)
     }
 
     fetchProfiles()
@@ -249,45 +198,22 @@ export function useUserList(): UseUserListReturn {
     }
   }, [sortField])
 
-  // Change role via Supabase
+  // Role changes needed the server; there is none
   const changeRole = useCallback(async (request: RoleChangeRequest): Promise<RoleChangeResponse> => {
     if (!canChangeRoles) {
       return { success: false, error: 'Insufficient permissions' }
     }
 
-    const result = await updateProfileRole(request.targetId, request.newRole)
-
-    if (result.success) {
-      // Update local state
-      setProfiles(prev => prev.map(p =>
-        p.id === request.targetId ? { ...p, role: request.newRole } : p
-      ))
-    }
-
-    return result
+    return { success: false, error: 'Server not configured' }
   }, [canChangeRoles])
 
-  // Refresh from Supabase
+  // Refresh (no server: always reports not configured)
   const refresh = useCallback(async () => {
     setIsLoading(true)
     setError(null)
 
-    if (!USE_SUPABASE) {
-      setError('Database not configured')
-      setIsLoading(false)
-      return
-    }
-
-    try {
-      const dbProfiles = await getAllProfiles()
-      const syncedProfiles = dbProfiles.map(dbToSyncedProfile)
-      setProfiles(syncedProfiles)
-      setIsLoading(false)
-    } catch (err) {
-      log.error('Error refreshing profiles:', err)
-      setError('Failed to refresh users')
-      setIsLoading(false)
-    }
+    setError('Database not configured')
+    setIsLoading(false)
   }, [])
 
   return {

@@ -3,9 +3,6 @@ import { createLogger } from '../utils/logger'
 const log = createLogger('Canvass')
 
 // Canvassing data storage for tenant outreach tracking
-// Supports both localStorage (offline) and Supabase (cloud sync)
-
-import { supabase, USE_SUPABASE, DbCanvassUnit } from '../services/supabase'
 
 // Contact status pipeline
 export type ContactStatus =
@@ -211,236 +208,6 @@ export interface CanvassState {
 }
 
 const STORAGE_KEY = 'rstu_canvass_data'
-
-// ============================================
-// Supabase Database Operations
-// ============================================
-
-// Convert database unit to app unit
-function dbToUnit(db: DbCanvassUnit): UnitRecord {
-  return {
-    unitNumber: db.unit_number,
-    status: db.status,
-    name: db.contact_name || undefined,
-    phone: db.phone || undefined,
-    email: db.email || undefined,
-    preferredContact: db.preferred_contact as 'phone' | 'text' | 'email' | undefined,
-    language: db.language || undefined,
-    occupants: db.occupants || undefined,
-    rentAmount: db.rent_amount || undefined,
-    complaints: db.complaints || [],
-    complaintDetails: db.complaint_details || undefined,
-    interestLevel: db.interest_levels || [],
-    notes: db.notes || undefined,
-    followUpDate: db.follow_up_date || undefined,
-    organizer: db.organizer_id || undefined,
-    profileId: db.linked_profile_id || undefined,
-    created: new Date(db.created_at).getTime(),
-    updated: new Date(db.updated_at).getTime(),
-    // Household info
-    hasChildren: db.has_children || undefined,
-    hasPets: db.has_pets || undefined,
-    petTypes: db.pet_types || undefined,
-    accessibilityNeeds: db.accessibility_needs || undefined,
-    // Unit details
-    unitType: db.unit_type as UnitRecord['unitType'] || undefined,
-    bedroomCount: db.bedroom_count || undefined,
-    bathroomCount: db.bathroom_count || undefined,
-    unitSqft: db.unit_sqft || undefined,
-    // Lease info
-    moveInDate: db.move_in_date || undefined,
-    leaseType: db.lease_type as 'fixed' | 'month-to-month' | undefined,
-    leaseExpires: db.lease_expires || undefined,
-    securityDeposit: db.security_deposit || undefined,
-    depositIssues: db.deposit_issues || undefined,
-    lastRentIncrease: db.last_rent_increase_amount ? {
-      amount: db.last_rent_increase_amount,
-      date: db.last_rent_increase_date || ''
-    } : undefined,
-    // Schedule
-    workHours: db.work_hours || undefined,
-    bestTimeToReach: db.best_time_to_reach || undefined,
-    bestDays: db.best_days || undefined,
-    // Maintenance
-    maintenanceRating: db.maintenance_rating as 'good' | 'ok' | 'bad' | undefined,
-    avgResponseDays: db.avg_response_days || undefined,
-    outstandingRepairs: db.outstanding_repairs || undefined,
-    // Community
-    knowsNeighbors: db.knows_neighbors as 'yes' | 'somewhat' | 'no' | undefined,
-    idealRent: db.ideal_rent || undefined,
-    hasOrganizingExperience: db.has_organizing_experience || undefined,
-    suggestions: db.suggestions || undefined,
-    // Habitability
-    habitabilityIssues: db.habitability_issues || undefined,
-    habitabilityQuotes: db.habitability_quotes || undefined,
-    // Subsidy
-    subsidyType: db.subsidy_type as UnitRecord['subsidyType'] || undefined,
-    subsidyDetails: db.subsidy_details || undefined,
-    // Utilities
-    utilitiesIncluded: db.utilities_included || undefined,
-    // Profile linking
-    profileNickname: db.profile_nickname || undefined,
-    linkedAt: db.linked_at ? new Date(db.linked_at).getTime() : undefined,
-    contactDate: db.contact_date ? new Date(db.contact_date).getTime() : undefined,
-  }
-}
-
-// Convert app unit to database format
-function unitToDb(buildingId: string, buildingAddress: string, unit: UnitRecord): Partial<DbCanvassUnit> {
-  return {
-    building_id: buildingId,
-    building_address: buildingAddress,
-    unit_number: unit.unitNumber,
-    status: unit.status,
-    contact_name: unit.name || null,
-    phone: unit.phone || null,
-    email: unit.email || null,
-    preferred_contact: unit.preferredContact || null,
-    language: unit.language || null,
-    occupants: unit.occupants || null,
-    rent_amount: unit.rentAmount || null,
-    complaints: unit.complaints || null,
-    complaint_details: unit.complaintDetails || null,
-    interest_levels: unit.interestLevel || null,
-    notes: unit.notes || null,
-    follow_up_date: unit.followUpDate || null,
-    organizer_id: unit.organizer || null,
-    linked_profile_id: unit.profileId || null,
-    // Household info
-    has_children: unit.hasChildren ?? null,
-    has_pets: unit.hasPets ?? null,
-    pet_types: unit.petTypes || null,
-    accessibility_needs: unit.accessibilityNeeds || null,
-    // Unit details
-    unit_type: unit.unitType || null,
-    bedroom_count: unit.bedroomCount ?? null,
-    bathroom_count: unit.bathroomCount ?? null,
-    unit_sqft: unit.unitSqft ?? null,
-    // Lease info
-    move_in_date: unit.moveInDate || null,
-    lease_type: unit.leaseType || null,
-    lease_expires: unit.leaseExpires || null,
-    security_deposit: unit.securityDeposit ?? null,
-    deposit_issues: unit.depositIssues || null,
-    last_rent_increase_amount: unit.lastRentIncrease?.amount ?? null,
-    last_rent_increase_date: unit.lastRentIncrease?.date || null,
-    // Schedule
-    work_hours: unit.workHours || null,
-    best_time_to_reach: unit.bestTimeToReach || null,
-    best_days: unit.bestDays || null,
-    // Maintenance
-    maintenance_rating: unit.maintenanceRating || null,
-    avg_response_days: unit.avgResponseDays ?? null,
-    outstanding_repairs: unit.outstandingRepairs || null,
-    // Community
-    knows_neighbors: unit.knowsNeighbors || null,
-    ideal_rent: unit.idealRent ?? null,
-    has_organizing_experience: unit.hasOrganizingExperience ?? null,
-    suggestions: unit.suggestions || null,
-    // Habitability
-    habitability_issues: unit.habitabilityIssues || null,
-    habitability_quotes: unit.habitabilityQuotes || null,
-    // Subsidy
-    subsidy_type: unit.subsidyType || null,
-    subsidy_details: unit.subsidyDetails || null,
-    // Utilities
-    utilities_included: unit.utilitiesIncluded || null,
-    // Profile linking
-    profile_nickname: unit.profileNickname || null,
-    linked_at: unit.linkedAt ? new Date(unit.linkedAt).toISOString() : null,
-    contact_date: unit.contactDate ? new Date(unit.contactDate).toISOString() : null,
-  }
-}
-
-// Fetch all units for a building from Supabase
-async function fetchBuildingUnitsFromDb(buildingId: string): Promise<UnitRecord[]> {
-  if (!supabase) return []
-
-  const { data, error } = await supabase
-    .from('canvass_units')
-    .select('*')
-    .eq('building_id', buildingId)
-    .order('unit_number')
-
-  if (error || !data) return []
-  return data.map(d => dbToUnit(d as DbCanvassUnit))
-}
-
-// Fetch a single unit from Supabase
-async function fetchUnitFromDb(buildingId: string, unitNumber: string): Promise<UnitRecord | null> {
-  if (!supabase) return null
-
-  const { data, error } = await supabase
-    .from('canvass_units')
-    .select('*')
-    .eq('building_id', buildingId)
-    .eq('unit_number', unitNumber)
-    .single()
-
-  if (error || !data) return null
-  return dbToUnit(data as DbCanvassUnit)
-}
-
-// Save unit to Supabase
-async function saveUnitToDb(
-  buildingId: string,
-  buildingAddress: string,
-  unit: UnitRecord
-): Promise<boolean> {
-  if (!supabase) return false
-
-  const dbUnit = unitToDb(buildingId, buildingAddress, unit)
-
-  const { error } = await supabase
-    .from('canvass_units')
-    .upsert(dbUnit, { onConflict: 'building_id,unit_number' })
-
-  if (error) {
-    log.error('Failed to save unit to Supabase:', error)
-    return false
-  }
-  return true
-}
-
-// Delete unit from Supabase
-async function deleteUnitFromDb(buildingId: string, unitNumber: string): Promise<boolean> {
-  if (!supabase) return false
-
-  const { error } = await supabase
-    .from('canvass_units')
-    .delete()
-    .eq('building_id', buildingId)
-    .eq('unit_number', unitNumber)
-
-  return !error
-}
-
-// Fetch building stats from Supabase (aggregated)
-async function fetchBuildingStatsFromDb(buildingId: string): Promise<{
-  total: number
-  contacted: number
-  interested: number
-  activeMembers: number
-  followUp: number
-} | null> {
-  if (!supabase) return null
-
-  const { data, error } = await supabase
-    .from('canvass_units')
-    .select('status')
-    .eq('building_id', buildingId)
-
-  if (error || !data) return null
-
-  const units = data as { status: ContactStatus }[]
-  return {
-    total: units.length,
-    contacted: units.filter(u => u.status !== 'NOT_CONTACTED' && u.status !== 'NO_ANSWER').length,
-    interested: units.filter(u => u.status === 'INTERESTED').length,
-    activeMembers: units.filter(u => u.status === 'ACTIVE_MEMBER').length,
-    followUp: units.filter(u => u.status === 'FOLLOW_UP').length,
-  }
-}
 
 // Get full canvass state
 export function getCanvassState(): CanvassState {
@@ -1026,91 +793,34 @@ export function getBuildingUnitSummary(buildingId: string): {
 }
 
 // ============================================
-// Async Supabase-Enabled Public Functions
-// These functions use Supabase when available,
-// falling back to localStorage when offline
+// Async Public Functions (localStorage-backed)
 // ============================================
 
-// Get building canvass with Supabase support
+// Get building canvass
 export async function getBuildingCanvassAsync(buildingId: string): Promise<BuildingCanvass | null> {
-  // Try Supabase first
-  if (USE_SUPABASE) {
-    const units = await fetchBuildingUnitsFromDb(buildingId)
-    if (units.length > 0) {
-      const unitsRecord: Record<string, UnitRecord> = {}
-      let buildingAddress = ''
-      for (const unit of units) {
-        unitsRecord[unit.unitNumber] = unit
-      }
-      // Get address from first unit's db record
-      if (supabase) {
-        const { data } = await supabase
-          .from('canvass_units')
-          .select('building_address')
-          .eq('building_id', buildingId)
-          .limit(1)
-          .single()
-        if (data) buildingAddress = data.building_address
-      }
-      return {
-        buildingId,
-        buildingAddress,
-        units: unitsRecord,
-        lastModified: Date.now()
-      }
-    }
-  }
-
-  // Fallback to localStorage
   return getBuildingCanvass(buildingId)
 }
 
-// Initialize building canvass with Supabase support
+// Initialize building canvass
 export async function initBuildingCanvassAsync(
   buildingId: string,
   buildingAddress: string
 ): Promise<BuildingCanvass> {
-  // Check Supabase first
-  if (USE_SUPABASE) {
-    const existing = await getBuildingCanvassAsync(buildingId)
-    if (existing && Object.keys(existing.units).length > 0) {
-      return existing
-    }
-  }
-
   // Initialize locally first
   const building = initBuildingCanvass(buildingId, buildingAddress)
   return building
 }
 
-// Add units with Supabase sync
+// Add units
 export async function addUnitsAsync(
   buildingId: string,
   buildingAddress: string,
   unitNumbers: string[]
 ): Promise<void> {
-  const now = Date.now()
-
-  // Add to localStorage first
   addUnits(buildingId, unitNumbers)
-
-  // Sync to Supabase
-  if (USE_SUPABASE) {
-    for (const unitNumber of unitNumbers) {
-      const unit: UnitRecord = {
-        unitNumber,
-        status: 'NOT_CONTACTED',
-        complaints: [],
-        interestLevel: [],
-        created: now,
-        updated: now,
-      }
-      await saveUnitToDb(buildingId, buildingAddress, unit)
-    }
-  }
 }
 
-// Update unit with Supabase sync
+// Update unit
 export async function updateUnitAsync(
   buildingId: string,
   buildingAddress: string,
@@ -1119,19 +829,9 @@ export async function updateUnitAsync(
 ): Promise<void> {
   // Update localStorage first
   updateUnit(buildingId, unitNumber, updates)
-
-  // Sync to Supabase
-  if (USE_SUPABASE) {
-    // Get the full updated unit from localStorage
-    const state = getCanvassState()
-    const building = state.buildings[buildingId]
-    if (building?.units[unitNumber]) {
-      await saveUnitToDb(buildingId, buildingAddress, building.units[unitNumber])
-    }
-  }
 }
 
-// Update unit status with Supabase sync
+// Update unit status
 export async function updateUnitStatusAsync(
   buildingId: string,
   buildingAddress: string,
@@ -1144,21 +844,16 @@ export async function updateUnitStatusAsync(
   })
 }
 
-// Delete unit with Supabase sync
+// Delete unit
 export async function deleteUnitAsync(
   buildingId: string,
   unitNumber: string
 ): Promise<void> {
   // Delete from localStorage
   deleteUnit(buildingId, unitNumber)
-
-  // Delete from Supabase
-  if (USE_SUPABASE) {
-    await deleteUnitFromDb(buildingId, unitNumber)
-  }
 }
 
-// Get building stats with Supabase support
+// Get building stats
 export async function getBuildingStatsAsync(buildingId: string): Promise<{
   total: number
   contacted: number
@@ -1166,40 +861,22 @@ export async function getBuildingStatsAsync(buildingId: string): Promise<{
   activeMembers: number
   followUp: number
 }> {
-  // Try Supabase first
-  if (USE_SUPABASE) {
-    const stats = await fetchBuildingStatsFromDb(buildingId)
-    if (stats) return stats
-  }
-
-  // Fallback to localStorage
   return getBuildingStats(buildingId)
 }
 
-// Ensure unit exists with Supabase sync
+// Ensure unit exists
 export async function ensureUnitExistsAsync(
   buildingId: string,
   buildingAddress: string,
   unitNumber: string
 ): Promise<UnitRecord> {
-  // Check Supabase first
-  if (USE_SUPABASE) {
-    const dbUnit = await fetchUnitFromDb(buildingId, unitNumber)
-    if (dbUnit) return dbUnit
-  }
-
   // Check/create in localStorage
   const unit = ensureUnitExists(buildingId, buildingAddress, unitNumber)
-
-  // Sync to Supabase
-  if (USE_SUPABASE) {
-    await saveUnitToDb(buildingId, buildingAddress, unit)
-  }
 
   return unit
 }
 
-// Link profile to unit with Supabase sync
+// Link profile to unit
 export async function linkProfileToUnitAsync(
   buildingId: string,
   buildingAddress: string,
@@ -1209,65 +886,23 @@ export async function linkProfileToUnitAsync(
 ): Promise<void> {
   // Update localStorage
   linkProfileToUnit(buildingId, unitNumber, profileId, profileNickname)
-
-  // Sync to Supabase
-  if (USE_SUPABASE && supabase) {
-    await supabase
-      .from('canvass_units')
-      .update({
-        linked_profile_id: profileId,
-        updated_at: new Date().toISOString()
-      })
-      .eq('building_id', buildingId)
-      .eq('unit_number', unitNumber)
-  }
 }
 
-// Unlink profile from unit with Supabase sync
+// Unlink profile from unit
 export async function unlinkProfileFromUnitAsync(
   buildingId: string,
   unitNumber: string
 ): Promise<void> {
   // Update localStorage
   unlinkProfileFromUnit(buildingId, unitNumber)
-
-  // Sync to Supabase
-  if (USE_SUPABASE && supabase) {
-    await supabase
-      .from('canvass_units')
-      .update({
-        linked_profile_id: null,
-        updated_at: new Date().toISOString()
-      })
-      .eq('building_id', buildingId)
-      .eq('unit_number', unitNumber)
-  }
 }
 
-// Find unit by profile with Supabase support
+// Find unit by profile
 export async function getUnitByProfileAsync(profileId: string): Promise<{
   buildingId: string
   buildingAddress: string
   unit: UnitRecord
 } | null> {
-  // Try Supabase first
-  if (USE_SUPABASE && supabase) {
-    const { data, error } = await supabase
-      .from('canvass_units')
-      .select('*')
-      .eq('linked_profile_id', profileId)
-      .single()
-
-    if (!error && data) {
-      const dbUnit = data as DbCanvassUnit
-      return {
-        buildingId: dbUnit.building_id,
-        buildingAddress: dbUnit.building_address,
-        unit: dbToUnit(dbUnit)
-      }
-    }
-  }
-
   // Fallback to localStorage
   const result = getUnitByProfile(profileId)
   if (result) {
@@ -1457,10 +1092,10 @@ export function getHabitabilityScore(buildingId: string): HabitabilityScore | nu
   }
 }
 
-// Get habitability score with Supabase support
+// Get habitability score
 export async function getHabitabilityScoreAsync(buildingId: string): Promise<HabitabilityScore | null> {
   // For now, just use localStorage version
-  // In future, could fetch from Supabase aggregated view
+  // In future, could read released tallies from the sync node
   return getHabitabilityScore(buildingId)
 }
 
@@ -1629,6 +1264,3 @@ export function getBuildingHabitabilityQuotes(buildingId: string): Array<{quote:
     .slice(0, 3)
     .map(q => ({ quote: q.quote, unitNumber: q.unitNumber, issues: q.issues }));
 }
-
-// Export flag for components to check
-export { USE_SUPABASE }

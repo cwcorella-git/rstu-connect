@@ -48,8 +48,9 @@ export function clearStoredToken(): void {
 }
 
 function getConfig(): GitHubConfig | null {
-  // Try localStorage first, then env var
-  const token = getStoredToken() || process.env.NEXT_PUBLIC_GITHUB_PAT
+  // Only a user-supplied token (localStorage). No build-time token: anything
+  // in NEXT_PUBLIC_* is compiled into the public bundle.
+  const token = getStoredToken()
   const owner = process.env.NEXT_PUBLIC_GITHUB_OWNER || 'cwcorella-git'
   const repo = process.env.NEXT_PUBLIC_GITHUB_REPO || 'rstu-connect'
 
@@ -310,7 +311,7 @@ export async function updateTranslation(
  * Check if GitHub integration is configured
  */
 export function isGitHubConfigured(): boolean {
-  return !!(getStoredToken() || process.env.NEXT_PUBLIC_GITHUB_PAT)
+  return !!getStoredToken()
 }
 
 /**

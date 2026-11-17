@@ -3,20 +3,14 @@ import { createLogger } from '../utils/logger'
 const log = createLogger('Auth')
 
 /**
- * Server-Authoritative Authentication Service
+ * Authentication and permission checks.
  *
- * This module handles all permission checks server-side to prevent
- * localStorage manipulation attacks. The server (Supabase) is the
- * source of truth for:
- * - User roles and permissions
- * - Ban/mute status
- * - Voting eligibility
- * - Trust levels
- *
- * localStorage is used only as a read-only cache for offline viewing.
+ * Supabase, which used to be the server-side source of truth for roles,
+ * bans, votes and trust levels, was retired 2026-10-26. Every check here now
+ * reads the local profile, so it can be bypassed by editing localStorage
+ * until signed role grants (device keys + founder quorum) replace it.
  */
 
-import { supabase, USE_SUPABASE } from './supabase'
 import type { UserProfile, UserRole, TrustLevel } from '../storage/profileStorage'
 import { getCurrentProfile } from '../storage/profileStorage'
 
@@ -119,9 +113,9 @@ export function requireOnline(operation: string): void {
   if (!isOnlineState) {
     throw new OfflineError(`Cannot ${operation} while offline. Please reconnect to the internet.`)
   }
-  if (!USE_SUPABASE) {
-    throw new OfflineError(`Cannot ${operation} without server connection. Server not configured.`)
-  }
+  // There is no server any more (Supabase removed), so server-only
+  // operations can never proceed.
+  throw new OfflineError(`Cannot ${operation} without server connection. Server not configured.`)
 }
 
 // Custom error for offline state
@@ -144,62 +138,15 @@ export async function getAuthoritativeProfile(): Promise<AuthoritativeProfile | 
   const localProfile = getCurrentProfile()
   if (!localProfile) return null
 
-  // If no Supabase, fall back to local (development only)
-  if (!USE_SUPABASE || !supabase) {
-    return {
-      id: localProfile.id,
-      nickname: localProfile.nickname,
-      role: localProfile.role,
-      trustLevel: localProfile.trustLevel,
-      buildingId: localProfile.buildingId,
-      buildingAddress: localProfile.buildingAddress,
-      banned: localProfile.banned ?? false,
-    }
-  }
-
-  try {
-    const { data, error } = await supabase
-      .from('profiles')
-      .select('id, nickname, role, trust_level, building_id, building_address, banned, banned_at, banned_by')
-      .eq('id', localProfile.id)
-      .single()
-
-    if (error || !data) {
-      // Profile not in Supabase yet - use local but mark as unverified
-      return {
-        id: localProfile.id,
-        nickname: localProfile.nickname,
-        role: 'tenant', // Default to lowest privilege if not in server
-        trustLevel: 'self_registered',
-        buildingId: localProfile.buildingId,
-        buildingAddress: localProfile.buildingAddress,
-        banned: false,
-      }
-    }
-
-    return {
-      id: data.id,
-      nickname: data.nickname,
-      role: data.role as UserRole,
-      trustLevel: data.trust_level as TrustLevel,
-      buildingId: data.building_id || undefined,
-      buildingAddress: data.building_address || undefined,
-      banned: data.banned ?? false,
-      bannedAt: data.banned_at || undefined,
-      bannedBy: data.banned_by || undefined,
-    }
-  } catch {
-    // Network error - return local with warning
-    log.warn('Failed to fetch authoritative profile, using cached data')
-    return {
-      id: localProfile.id,
-      nickname: localProfile.nickname,
-      role: localProfile.role,
-      trustLevel: localProfile.trustLevel,
-      buildingId: localProfile.buildingId,
-      buildingAddress: localProfile.buildingAddress,
-      banned: localProfile.banned ?? false,
-    }
+  // No server: the local profile is the only source
+  return {
+    id: localProfile.id,
+    nickname: localProfile.nickname,
+    role: localProfile.role,
+    trustLevel: localProfile.trustLevel,
+    buildingId: localProfile.buildingId,
+    buildingAddress: localProfile.buildingAddress,
+    banned: localProfile.banned ?? false,
   }
 }
 
@@ -225,42 +172,12 @@ export async function checkBanStatus(
   scopeType?: 'group' | 'building',
   scopeId?: string
 ): Promise<BanStatus> {
-  if (!USE_SUPABASE || !supabase) {
-    // Fallback to local profile check
-    const localProfile = getCurrentProfile()
-    if (localProfile?.id === profileId && localProfile.banned) {
-      return { banned: true, scope: 'global' }
-    }
-    return { banned: false }
+  // Local profile check only (scope-specific bans lived on the server)
+  const localProfile = getCurrentProfile()
+  if (localProfile?.id === profileId && localProfile.banned) {
+    return { banned: true, scope: 'global' }
   }
-
-  try {
-    const { data, error } = await supabase.rpc('check_ban_status', {
-      p_profile_id: profileId,
-      p_scope_type: scopeType || null,
-      p_scope_id: scopeId || null,
-    })
-
-    if (error) {
-      log.error('Ban check error:', error)
-      return { banned: false }
-    }
-
-    if (data?.banned) {
-      return {
-        banned: true,
-        scope: data.scope,
-        scopeId: data.scope_id,
-        reason: data.reason,
-        expiresAt: data.expires_at,
-      }
-    }
-
-    return { banned: false }
-  } catch {
-    log.warn('Failed to check ban status')
-    return { banned: false }
-  }
+  return { banned: false }
 }
 
 /**
@@ -271,36 +188,8 @@ export async function checkMuteStatus(
   scopeType: 'group' | 'building',
   scopeId: string
 ): Promise<MuteStatus> {
-  if (!USE_SUPABASE || !supabase) {
-    return { muted: false }
-  }
-
-  try {
-    const { data, error } = await supabase
-      .from('mute_records')
-      .select('*')
-      .eq('profile_id', profileId)
-      .eq('scope_type', scopeType)
-      .eq('scope_id', scopeId)
-      .is('lifted_at', null)
-      .or(`expires_at.is.null,expires_at.gt.${new Date().toISOString()}`)
-      .limit(1)
-      .single()
-
-    if (error || !data) {
-      return { muted: false }
-    }
-
-    return {
-      muted: true,
-      scope: data.scope_type as 'group' | 'building',
-      scopeId: data.scope_id,
-      reason: data.reason,
-      expiresAt: data.expires_at,
-    }
-  } catch {
-    return { muted: false }
-  }
+  // Mute records lived on the server; nothing is muted locally
+  return { muted: false }
 }
 
 // ============================================
@@ -497,34 +386,7 @@ export async function castVote(
     return { success: false, error: 'Not logged in' }
   }
 
-  if (!supabase) {
-    return { success: false, error: 'Server not configured' }
-  }
-
-  try {
-    const { data, error } = await supabase.rpc('cast_vote', {
-      p_target_type: targetType,
-      p_target_id: targetId,
-      p_voter_id: profile.id,
-      p_vote: vote,
-    })
-
-    if (error) {
-      log.error('Vote error:', error)
-      return { success: false, error: error.message }
-    }
-
-    if (data && !data.success) {
-      return { success: false, error: data.error }
-    }
-
-    return { success: true }
-  } catch (e) {
-    if (e instanceof OfflineError) {
-      throw e
-    }
-    return { success: false, error: 'Failed to cast vote' }
-  }
+  return { success: false, error: 'Server not configured' }
 }
 
 /**
@@ -534,61 +396,8 @@ export async function getVoteCounts(
   targetType: 'proposal' | 'event',
   targetId: string
 ): Promise<{ upvotes: number; downvotes: number; userVote?: 'up' | 'down' }> {
-  if (!USE_SUPABASE || !supabase) {
-    return { upvotes: 0, downvotes: 0 }
-  }
-
-  const profile = getCurrentProfile()
-
-  try {
-    if (targetType === 'proposal') {
-      const { data, error } = await supabase.rpc('get_proposal_votes', {
-        p_proposal_id: targetId,
-      })
-
-      if (error || !data) {
-        return { upvotes: 0, downvotes: 0 }
-      }
-
-      let userVote: 'up' | 'down' | undefined
-      if (profile) {
-        if (data.upvoters?.includes(profile.id)) userVote = 'up'
-        else if (data.downvoters?.includes(profile.id)) userVote = 'down'
-      }
-
-      return {
-        upvotes: data.upvotes || 0,
-        downvotes: data.downvotes || 0,
-        userVote,
-      }
-    } else {
-      // Event votes
-      const { data, error } = await supabase
-        .from('event_votes')
-        .select('voter_id, vote')
-        .eq('event_id', targetId)
-
-      if (error || !data) {
-        return { upvotes: 0, downvotes: 0 }
-      }
-
-      let userVote: 'up' | 'down' | undefined
-      let upvotes = 0
-      let downvotes = 0
-
-      for (const v of data) {
-        if (v.vote === 'up') upvotes++
-        else if (v.vote === 'down') downvotes++
-        if (profile && v.voter_id === profile.id) {
-          userVote = v.vote as 'up' | 'down'
-        }
-      }
-
-      return { upvotes, downvotes, userVote }
-    }
-  } catch {
-    return { upvotes: 0, downvotes: 0 }
-  }
+  // Vote tallies lived on the server
+  return { upvotes: 0, downvotes: 0 }
 }
 
 // ============================================
@@ -603,28 +412,7 @@ export async function validateRoleChange(
   targetId: string,
   newRole: UserRole
 ): Promise<{ valid: boolean; error?: string }> {
-  if (!USE_SUPABASE || !supabase) {
-    return { valid: false, error: 'Server not configured' }
-  }
-
-  try {
-    const { data, error } = await supabase.rpc('validate_role_change', {
-      p_actor_id: actorId,
-      p_target_id: targetId,
-      p_new_role: newRole,
-    })
-
-    if (error) {
-      return { valid: false, error: error.message }
-    }
-
-    return {
-      valid: data?.valid ?? false,
-      error: data?.error,
-    }
-  } catch {
-    return { valid: false, error: 'Failed to validate role change' }
-  }
+  return { valid: false, error: 'Server not configured' }
 }
 
 // ============================================
@@ -648,34 +436,7 @@ export async function banUser(
     return { success: false, error: 'Not logged in' }
   }
 
-  if (!supabase) {
-    return { success: false, error: 'Server not configured' }
-  }
-
-  try {
-    const { data, error } = await supabase.rpc('ban_user', {
-      p_actor_id: profile.id,
-      p_target_id: targetId,
-      p_scope_type: scopeType,
-      p_scope_id: scopeId || null,
-      p_reason: reason || null,
-      p_expires_at: expiresAt?.toISOString() || null,
-    })
-
-    if (error) {
-      return { success: false, error: error.message }
-    }
-
-    return {
-      success: data?.success ?? false,
-      error: data?.error,
-    }
-  } catch (e) {
-    if (e instanceof OfflineError) {
-      throw e
-    }
-    return { success: false, error: 'Failed to ban user' }
-  }
+  return { success: false, error: 'Server not configured' }
 }
 
 /**
@@ -693,32 +454,7 @@ export async function unbanUser(
     return { success: false, error: 'Not logged in' }
   }
 
-  if (!supabase) {
-    return { success: false, error: 'Server not configured' }
-  }
-
-  try {
-    const { data, error } = await supabase.rpc('unban_user', {
-      p_actor_id: profile.id,
-      p_target_id: targetId,
-      p_scope_type: scopeType,
-      p_scope_id: scopeId || null,
-    })
-
-    if (error) {
-      return { success: false, error: error.message }
-    }
-
-    return {
-      success: data?.success ?? false,
-      error: data?.error,
-    }
-  } catch (e) {
-    if (e instanceof OfflineError) {
-      throw e
-    }
-    return { success: false, error: 'Failed to unban user' }
-  }
+  return { success: false, error: 'Server not configured' }
 }
 
 // ============================================

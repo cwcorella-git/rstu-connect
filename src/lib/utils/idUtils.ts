@@ -2,7 +2,7 @@
  * ID Generation Utilities
  *
  * Centralized ID generation that handles online/offline scenarios:
- * - Online: Let Supabase generate UUIDs (returns null, caller should use server response)
+ * - Online: Let the server generate UUIDs (returns null, caller should use server response)
  * - Offline: Generate local IDs with 'local-' prefix for later reconciliation
  *
  * When syncing offline data:
@@ -69,7 +69,7 @@ export function generateShortId(): string {
  *    ```
  *    const id = generateEntityId()  // Returns local-xxx when offline
  *    if (isOnline()) {
- *      const result = await supabase.rpc('create_entity', { ...data })
+ *      const result = await createEntityOnServer({ ...data })
  *      // Use result.id from server
  *    } else {
  *      // Store with local ID, sync later

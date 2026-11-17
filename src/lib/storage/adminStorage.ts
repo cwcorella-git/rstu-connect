@@ -3,17 +3,8 @@ import { createLogger } from '../utils/logger'
 
 const log = createLogger('Admin')
 
-import { isAdmin as checkProfileAdmin, getCurrentProfile } from './profileStorage'
+import { isAdmin as checkProfileAdmin } from './profileStorage'
 import { safeJsonParse } from '../utils/safeStorage'
-import {
-  USE_SUPABASE,
-  getDocumentAdminState as getDbAdminState,
-  setDocumentHidden as setDbHidden,
-  setDocumentDeleted as setDbDeleted,
-  getDocumentEdits as getDbEdits,
-  saveDocumentEdit as saveDbEdit,
-  deleteDocumentEdit as deleteDbEdit
-} from '../services/supabase'
 
 const ADMIN_KEY = 'rstu_admin_state';
 const AUTH_KEY = 'rstu_admin_auth';
@@ -251,7 +242,7 @@ export function exportDocumentEdits(): string {
 }
 
 // ============================================
-// Async Database-Synced Functions
+// Async Functions (local-only; kept async for API compatibility)
 // ============================================
 
 /**
@@ -259,29 +250,8 @@ export function exportDocumentEdits(): string {
  * Merges database state with localStorage
  */
 export async function syncAdminStateFromDatabase(): Promise<AdminState> {
-  const localState = getAdminState()
-
-  if (!USE_SUPABASE) {
-    return localState
-  }
-
-  try {
-    const dbState = await getDbAdminState()
-
-    // Merge database state with local state (database takes priority)
-    const mergedState: AdminState = {
-      hiddenDocuments: Array.from(new Set([...localState.hiddenDocuments, ...dbState.hidden])),
-      deletedDocuments: Array.from(new Set([...localState.deletedDocuments, ...dbState.deleted])),
-      lastModified: Date.now()
-    }
-
-    // Update localStorage with merged state
-    saveAdminState(mergedState)
-    return mergedState
-  } catch (error) {
-    log.error('Failed to sync from database:', error)
-    return localState
-  }
+  // Local-only: no remote database. Returns localStorage state.
+  return getAdminState()
 }
 
 /**
@@ -289,39 +259,8 @@ export async function syncAdminStateFromDatabase(): Promise<AdminState> {
  * Merges database edits with localStorage
  */
 export async function syncDocumentEditsFromDatabase(): Promise<Record<string, DocumentEdit>> {
-  const localEdits = getDocumentEdits()
-
-  if (!USE_SUPABASE) {
-    return localEdits
-  }
-
-  try {
-    const dbEdits = await getDbEdits()
-
-    // Merge database edits with local (database takes priority for same document)
-    const mergedEdits: Record<string, DocumentEdit> = { ...localEdits }
-
-    dbEdits.forEach((edit, docId) => {
-      mergedEdits[docId] = {
-        documentId: docId,
-        title: edit.title,
-        content: edit.content || '',
-        editedAt: Date.now()
-      }
-    })
-
-    // Update localStorage with merged edits
-    try {
-      localStorage.setItem(EDITS_KEY, JSON.stringify(mergedEdits))
-    } catch (e) {
-      log.error('Failed to save merged edits:', e)
-    }
-
-    return mergedEdits
-  } catch (error) {
-    log.error('Failed to sync edits from database:', error)
-    return localEdits
-  }
+  // Local-only: no remote database. Returns localStorage edits.
+  return getDocumentEdits()
 }
 
 /**
@@ -340,12 +279,6 @@ export async function toggleDocumentVisibilityAsync(documentId: string): Promise
   }
   saveAdminState(state)
 
-  // Sync to database
-  if (USE_SUPABASE) {
-    const profile = getCurrentProfile()
-    const adminId = profile?.id || 'unknown'
-    await setDbHidden(documentId, newHiddenState, adminId)
-  }
 
   return newHiddenState
 }
@@ -365,14 +298,6 @@ export async function deleteDocumentAsync(documentId: string): Promise<boolean> 
   state.hiddenDocuments = state.hiddenDocuments.filter(id => id !== documentId)
   saveAdminState(state)
 
-  // Sync to database
-  if (USE_SUPABASE) {
-    const profile = getCurrentProfile()
-    const adminId = profile?.id || 'unknown'
-    await setDbDeleted(documentId, true, adminId)
-    // Also clear hidden status in database
-    await setDbHidden(documentId, false, adminId)
-  }
 
   return true
 }
@@ -391,12 +316,6 @@ export async function restoreDocumentAsync(documentId: string): Promise<boolean>
   state.deletedDocuments = state.deletedDocuments.filter(id => id !== documentId)
   saveAdminState(state)
 
-  // Sync to database
-  if (USE_SUPABASE) {
-    const profile = getCurrentProfile()
-    const adminId = profile?.id || 'unknown'
-    await setDbDeleted(documentId, false, adminId)
-  }
 
   return true
 }
@@ -408,12 +327,6 @@ export async function saveDocumentEditAsync(documentId: string, title: string, c
   // Save to localStorage
   saveDocumentEdit(documentId, title, content)
 
-  // Sync to database
-  if (USE_SUPABASE) {
-    const profile = getCurrentProfile()
-    const adminId = profile?.id || 'unknown'
-    await saveDbEdit(documentId, title, content, adminId)
-  }
 }
 
 /**
@@ -423,10 +336,6 @@ export async function deleteDocumentEditAsync(documentId: string): Promise<void>
   // Delete from localStorage
   deleteDocumentEdit(documentId)
 
-  // Delete from database
-  if (USE_SUPABASE) {
-    await deleteDbEdit(documentId)
-  }
 }
 
 // ============================================
@@ -482,20 +391,6 @@ export function toggleDocumentFeatured(documentId: string): boolean {
 export async function toggleDocumentFeaturedAsync(documentId: string): Promise<boolean> {
   // Update localStorage
   const isFeatured = toggleDocumentFeatured(documentId)
-
-  // Sync to database if enabled
-  if (USE_SUPABASE) {
-    try {
-      const profile = getCurrentProfile()
-      const adminId = profile?.id || 'unknown'
-
-      // Note: This requires the Supabase table to be created
-      // For now, we'll just sync to localStorage
-      // If Supabase is set up, the actual sync can be implemented in supabase.ts
-    } catch (e) {
-      log.error('Failed to sync featured document to database:', e)
-    }
-  }
 
   return isFeatured
 }

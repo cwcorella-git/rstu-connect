@@ -6,7 +6,7 @@ const log = createLogger('AdminSettings')
  * Admin Settings Storage
  * Site-wide settings controlled by admins that affect all users
  *
- * For now, stored in localStorage with a sync mechanism via Supabase.
+ * Stored in localStorage.
  * Non-admin users read these settings but cannot modify them.
  */
 

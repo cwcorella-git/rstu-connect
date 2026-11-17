@@ -1,5 +1,4 @@
 import { safeGetJson, safeSetItem } from '../utils/safeStorage'
-import { supabase } from '../services/supabase'
 
 // ============================================================================
 // Types
@@ -2628,7 +2627,6 @@ export function saveLandingPage(config: LandingPageConfig): void {
     pages.push(config)
   }
   safeSetItem(PAGES_KEY, JSON.stringify(pages))
-  pushToSupabase(config)
 }
 
 export function deleteLandingPage(id: string): void {
@@ -2644,10 +2642,6 @@ export function deleteLandingPage(id: string): void {
     }
   }
 
-  // Also remove from Supabase (fire-and-forget - table may not exist)
-  if (supabase) {
-    void supabase.from('landing_pages').delete().eq('id', id)
-  }
   // If active page was deleted, reset to page-1
   if (getActiveLandingPageId() === id) {
     setActiveLandingPageId('page-1')
@@ -2705,43 +2699,10 @@ export function createSection(type: string): SectionDescriptor {
 }
 
 // ============================================================================
-// Supabase Sync
+// Sync (local-only)
 // ============================================================================
 
-async function pushToSupabase(config: LandingPageConfig): Promise<void> {
-  if (!supabase) return
-  try {
-    await supabase.from('landing_pages').upsert({
-      id: config.id,
-      name: config.name,
-      sections: config.sections,
-      created_at: config.created_at,
-      updated_at: config.updated_at,
-    })
-  } catch {
-    // Silent fail — localStorage is primary
-  }
-}
-
-export async function syncFromSupabase(): Promise<LandingPageConfig[]> {
-  if (!supabase) return getLandingPages()
-  try {
-    const { data, error } = await supabase
-      .from('landing_pages')
-      .select('*')
-      .order('created_at', { ascending: true })
-    if (error || !data || data.length === 0) return getLandingPages()
-
-    const pages = data.map((row: Record<string, unknown>) => ({
-      id: row.id as string,
-      name: row.name as string,
-      sections: row.sections as SectionDescriptor[],
-      created_at: row.created_at as string,
-      updated_at: row.updated_at as string,
-    }))
-    safeSetItem(PAGES_KEY, JSON.stringify(pages))
-    return pages
-  } catch {
-    return getLandingPages()
-  }
+/** Retained for API compatibility; there is no remote store, so returns local pages. */
+export async function syncLandingPages(): Promise<LandingPageConfig[]> {
+  return getLandingPages()
 }

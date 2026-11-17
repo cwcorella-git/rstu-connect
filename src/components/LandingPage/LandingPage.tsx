@@ -13,7 +13,7 @@ import {
   setActiveLandingPageId,
   createBlankPage,
   createSection,
-  syncFromSupabase,
+  syncLandingPages,
 } from '@/lib/storage/landingPageStorage'
 import { PageSelector } from './PageSelector'
 import { SectionRenderer } from './SectionRenderer'
@@ -43,8 +43,8 @@ export function LandingPage({ onEnter, onNavigate }: LandingPageProps) {
     const stored = getLandingPages()
     setPages(stored)
     setActivePageIdState(getActiveLandingPageId())
-    // Async sync from Supabase
-    syncFromSupabase().then(synced => {
+    // Load landing pages (local)
+    syncLandingPages().then(synced => {
       if (synced.length > 0) {
         setPages(synced)
       }

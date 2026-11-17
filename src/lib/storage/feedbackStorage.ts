@@ -2,7 +2,6 @@ import { createLogger } from '../utils/logger'
 
 const log = createLogger('Feedback')
 
-import { supabase, USE_SUPABASE } from '../services/supabase'
 import { createNotification } from './notificationStorage'
 
 // Type definitions
@@ -63,7 +62,7 @@ function saveLocalFeedbackState(state: LocalFeedbackState): void {
 }
 
 /**
- * Submit feedback to Supabase (or localStorage fallback)
+ * Submit feedback (stored locally in localStorage; there is no remote backend)
  */
 export async function submitFeedback(data: SubmitFeedbackData): Promise<SubmitFeedbackResult> {
   const feedbackRecord = {
@@ -75,28 +74,7 @@ export async function submitFeedback(data: SubmitFeedbackData): Promise<SubmitFe
     current_page: typeof window !== 'undefined' ? window.location.pathname : null,
   }
 
-  // Try Supabase first
-  if (USE_SUPABASE && supabase) {
-    try {
-      const { error } = await supabase
-        .from('feedback')
-        .insert([feedbackRecord])
-
-      if (error) {
-        log.error('Supabase insert error:', error)
-        // Fall through to localStorage
-      } else {
-        // Notify admins
-        notifyAdminsOfFeedback(data)
-        return { success: true }
-      }
-    } catch (e) {
-      log.error('Supabase error:', e)
-      // Fall through to localStorage
-    }
-  }
-
-  // localStorage fallback
+  // Store locally
   try {
     const state = getLocalFeedbackState()
     const newItem: FeedbackItem = {

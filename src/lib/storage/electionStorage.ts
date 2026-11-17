@@ -2,7 +2,6 @@
 
 import { getSocket } from '../services/socketio'
 import { safeJsonParse } from '../utils/safeStorage'
-import { supabase, USE_SUPABASE, setUserContext } from '../services/supabase'
 import { getCurrentProfile } from './profileStorage'
 import { createLogger } from '../utils/logger'
 import { generateShortId, generateEntityId, isLocalId } from '../utils/idUtils'
@@ -730,7 +729,7 @@ export function getTimeRemaining(endTimestamp: number): string {
 }
 
 // ============================================================================
-// Supabase Async Functions (Server-Verified)
+// Async Functions
 // ============================================================================
 
 /**
@@ -757,50 +756,7 @@ export async function castRankedVoteAsync(data: {
     return { success: false, error: 'Already voted for this position' }
   }
 
-  // If Supabase is available, verify server-side
-  if (USE_SUPABASE && supabase) {
-    try {
-      await setUserContext(profile.id)
-
-      const { data: voteId, error } = await supabase.rpc('cast_ranked_vote', {
-        p_election_id: data.electionId,
-        p_position_id: data.positionId,
-        p_rankings: data.rankings,
-      })
-
-      if (error) {
-        log.error('Server vote error:', error)
-        // Roll back local vote
-        rollbackRankedVote(data.electionId, data.positionId, profile.id)
-        return { success: false, error: error.message }
-      }
-
-      log.info(`Ranked vote recorded server-side: ${voteId}`)
-      return { success: true, voteId }
-    } catch (e) {
-      log.error('Server vote exception:', e)
-      // Roll back local vote on error
-      rollbackRankedVote(data.electionId, data.positionId, profile.id)
-      return { success: false, error: 'Failed to cast vote' }
-    }
-  }
-
-  // No Supabase - just return local success
   return { success: true, voteId: localVote.id }
-}
-
-/**
- * Roll back a ranked vote from localStorage (used when server rejects)
- */
-function rollbackRankedVote(electionId: string, positionId: string, voterId: string): void {
-  if (typeof window === 'undefined') return
-
-  const votes = getRankedVotes()
-  const filtered = votes.filter(
-    v => !(v.electionId === electionId && v.positionId === positionId && v.voterId === voterId)
-  )
-  localStorage.setItem(RANKED_VOTES_KEY, JSON.stringify(filtered))
-  log.info('Rolled back local ranked vote after server rejection')
 }
 
 /**
@@ -826,68 +782,7 @@ export async function createNominationAsync(data: {
     nominatorName: profile.nickname,
   })
 
-  // If Supabase is available, verify server-side
-  if (USE_SUPABASE && supabase) {
-    try {
-      await setUserContext(profile.id)
-
-      const { data: nominationId, error } = await supabase.rpc('create_nomination', {
-        p_election_id: data.electionId,
-        p_position_id: data.positionId,
-        p_nominee_id: data.nomineeId,
-        p_nominee_name: data.nomineeName,
-        p_statement: data.statement,
-        p_self_nomination: data.selfNomination || false,
-      })
-
-      if (error) {
-        log.error('Server nomination error:', error)
-        // Roll back local nomination
-        rollbackNomination(localNomination.id)
-        return { success: false, error: error.message }
-      }
-
-      // Update local nomination with server ID if different
-      if (nominationId && nominationId !== localNomination.id) {
-        updateLocalNominationId(localNomination.id, nominationId)
-      }
-
-      log.info(`Nomination recorded server-side: ${nominationId}`)
-      return { success: true, nominationId }
-    } catch (e) {
-      log.error('Server nomination exception:', e)
-      rollbackNomination(localNomination.id)
-      return { success: false, error: 'Failed to create nomination' }
-    }
-  }
-
   return { success: true, nominationId: localNomination.id }
-}
-
-/**
- * Roll back a nomination from localStorage
- */
-function rollbackNomination(nominationId: string): void {
-  if (typeof window === 'undefined') return
-
-  const nominations = getNominations()
-  const filtered = nominations.filter(n => n.id !== nominationId)
-  localStorage.setItem(NOMINATIONS_KEY, JSON.stringify(filtered))
-  log.info('Rolled back local nomination after server rejection')
-}
-
-/**
- * Update local nomination ID to match server ID
- */
-function updateLocalNominationId(oldId: string, newId: string): void {
-  if (typeof window === 'undefined') return
-
-  const nominations = getNominations()
-  const nomination = nominations.find(n => n.id === oldId)
-  if (nomination) {
-    nomination.id = newId
-    localStorage.setItem(NOMINATIONS_KEY, JSON.stringify(nominations))
-  }
 }
 
 /**
@@ -905,196 +800,28 @@ export async function respondToNominationAsync(
   // Update local first for optimistic UI
   respondToNomination(nominationId, accepted)
 
-  // If Supabase is available, verify server-side
-  if (USE_SUPABASE && supabase) {
-    try {
-      await setUserContext(profile.id)
-
-      const { error } = await supabase.rpc('respond_to_nomination', {
-        p_nomination_id: nominationId,
-        p_accepted: accepted,
-      })
-
-      if (error) {
-        log.error('Server nomination response error:', error)
-        // Roll back - set back to pending
-        const nominations = getNominations()
-        const nomination = nominations.find(n => n.id === nominationId)
-        if (nomination) {
-          nomination.accepted = null
-          localStorage.setItem(NOMINATIONS_KEY, JSON.stringify(nominations))
-        }
-        return { success: false, error: error.message }
-      }
-
-      log.info(`Nomination response recorded: ${accepted ? 'accepted' : 'declined'}`)
-      return { success: true }
-    } catch (e) {
-      log.error('Server nomination response exception:', e)
-      return { success: false, error: 'Failed to respond to nomination' }
-    }
-  }
-
   return { success: true }
 }
 
 /**
- * Fetch elections from Supabase and sync to localStorage
+ * Fetch elections (local only)
  */
 export async function fetchElectionsFromServer(): Promise<Election[]> {
-  if (!USE_SUPABASE || !supabase) {
-    return getElections()
-  }
-
-  try {
-    const { data: elections, error } = await supabase
-      .from('elections')
-      .select(`
-        *,
-        election_positions (*)
-      `)
-      .order('created_at', { ascending: false })
-
-    if (error) {
-      log.error('Failed to fetch elections:', error)
-      return getElections()
-    }
-
-    // Transform to local format
-    const transformed: Election[] = (elections || []).map(e => ({
-      id: e.id,
-      title: e.title,
-      positions: (e.election_positions || []).map((p: {
-        id: string
-        title: string
-        description: string | null
-        term_length: number
-        max_terms: number
-      }) => ({
-        id: p.id,
-        title: p.title,
-        description: p.description || '',
-        termLength: p.term_length,
-        maxTerms: p.max_terms,
-      })),
-      nominationStart: new Date(e.nomination_start).getTime(),
-      nominationEnd: new Date(e.nomination_end).getTime(),
-      votingStart: new Date(e.voting_start).getTime(),
-      votingEnd: new Date(e.voting_end).getTime(),
-      status: e.status,
-      quorumPercent: e.quorum_percent,
-      createdBy: e.created_by,
-      createdAt: new Date(e.created_at).getTime(),
-    }))
-
-    // Sync to localStorage
-    syncElectionsFromServer(transformed)
-
-    return transformed
-  } catch (e) {
-    log.error('Exception fetching elections:', e)
-    return getElections()
-  }
+  return getElections()
 }
 
 /**
- * Fetch nominations from Supabase and sync to localStorage
+ * Fetch nominations (local only)
  */
 export async function fetchNominationsFromServer(electionId: string): Promise<Nomination[]> {
-  if (!USE_SUPABASE || !supabase) {
-    return getNominations(electionId)
-  }
-
-  try {
-    const { data: nominations, error } = await supabase
-      .from('nominations')
-      .select('*')
-      .eq('election_id', electionId)
-
-    if (error) {
-      log.error('Failed to fetch nominations:', error)
-      return getNominations(electionId)
-    }
-
-    // Transform to local format
-    const transformed: Nomination[] = (nominations || []).map(n => ({
-      id: n.id,
-      electionId: n.election_id,
-      positionId: n.position_id,
-      nomineeId: n.nominee_id,
-      nomineeName: n.nominee_name,
-      nominatorId: n.nominator_id,
-      nominatorName: n.nominator_name,
-      statement: n.statement || '',
-      accepted: n.accepted,
-      createdAt: new Date(n.created_at).getTime(),
-    }))
-
-    // Merge with local nominations (in case of offline changes)
-    const local = getNominations(electionId)
-    const merged = mergeNominations(local, transformed)
-    localStorage.setItem(NOMINATIONS_KEY, JSON.stringify(merged))
-
-    return merged.filter(n => n.electionId === electionId)
-  } catch (e) {
-    log.error('Exception fetching nominations:', e)
-    return getNominations(electionId)
-  }
+  return getNominations(electionId)
 }
 
 /**
- * Merge local and server nominations (server wins on conflicts)
- */
-function mergeNominations(local: Nomination[], server: Nomination[]): Nomination[] {
-  const serverIds = new Set(server.map(n => n.id))
-  const serverElectionIds = new Set(server.map(n => n.electionId))
-
-  // Keep local nominations that aren't from the fetched election
-  const localOther = local.filter(n => !serverElectionIds.has(n.electionId))
-
-  // Server nominations take precedence
-  return [...localOther, ...server]
-}
-
-/**
- * Fetch ranked votes from Supabase and sync to localStorage
+ * Fetch ranked votes (local only)
  */
 export async function fetchRankedVotesFromServer(electionId: string): Promise<RankedVote[]> {
-  if (!USE_SUPABASE || !supabase) {
-    return getRankedVotes(electionId)
-  }
-
-  try {
-    const { data: votes, error } = await supabase
-      .from('ranked_votes')
-      .select('*')
-      .eq('election_id', electionId)
-
-    if (error) {
-      log.error('Failed to fetch ranked votes:', error)
-      return getRankedVotes(electionId)
-    }
-
-    // Transform to local format
-    const transformed: RankedVote[] = (votes || []).map(v => ({
-      id: v.id,
-      electionId: v.election_id,
-      positionId: v.position_id,
-      voterId: v.voter_id,
-      rankings: v.rankings || [],
-      timestamp: new Date(v.created_at).getTime(),
-    }))
-
-    // Sync to localStorage (replace for this election)
-    const local = getRankedVotes()
-    const otherElections = local.filter(v => v.electionId !== electionId)
-    localStorage.setItem(RANKED_VOTES_KEY, JSON.stringify([...otherElections, ...transformed]))
-
-    return transformed
-  } catch (e) {
-    log.error('Exception fetching ranked votes:', e)
-    return getRankedVotes(electionId)
-  }
+  return getRankedVotes(electionId)
 }
 
 // ============================================================================

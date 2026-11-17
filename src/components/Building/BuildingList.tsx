@@ -8,7 +8,6 @@ import { BuildingCard } from './BuildingCard';
 import { LinkedGroupCard } from './LinkedGroupCard';
 import { getFavorites, toggleFavorite } from '@/lib/storage/favoritesStorage';
 import { getLinkedGroups, getGroupForApn, type LinkedPropertyGroup } from '@/lib/storage/linkedPropertiesStorage';
-import { searchProperties, USE_SUPABASE, PropertySearchResult } from '@/lib/services/supabase';
 import { buildSearchIndex, searchWithIndex, buildPropertyMap } from '@/lib/utils/searchIndex';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { getHabitabilityScore, getEffectiveOrganizingPriority, getTenantSafeProgress } from '@/lib/storage/canvassStorage';
@@ -111,22 +110,6 @@ interface BuildingListProps {
   onToggleLinkSelection?: (building: EnhancedBuilding) => void;
 }
 
-// Convert Supabase search result to EnhancedBuilding
-function searchResultToBuilding(result: PropertySearchResult): EnhancedBuilding {
-  return {
-    apn: result.apn,
-    address: result.address,
-    owner: result.owner,
-    units: result.units,
-    value: result.value || 0,
-    yearBuilt: result.year_built,
-    sqft: null,
-    chatSlug: result.chat_slug || generateChatSlug(result.address),
-    propertyName: result.name || undefined,
-    latitude: result.lat || undefined,
-    longitude: result.lon || undefined,
-  } as EnhancedBuilding;
-}
 
 export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, linkingSelection = [], onToggleLinkSelection }: BuildingListProps) {
   const { t } = useLanguage();
@@ -166,7 +149,7 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
     }
   }, [linkingSelection]);
 
-  // Load all properties on mount (fallback for when Supabase is unavailable)
+  // Load all properties on mount
   useEffect(() => {
     const basePath = '/rstu-connect';
     fetch(`${basePath}/data/all-properties.json`)
@@ -190,7 +173,7 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
     return [buildSearchIndex(allProperties), buildPropertyMap(allProperties)];
   }, [allProperties]);
 
-  // Debounced Supabase FTS search with caching
+  // Debounced client-side search with caching
   useEffect(() => {
     const query = searchQuery.trim();
 
@@ -219,23 +202,6 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
     searchTimeoutRef.current = setTimeout(async () => {
       let results: EnhancedBuilding[] = [];
 
-      if (USE_SUPABASE) {
-        // Use Supabase FTS
-        const ftsResults = await searchProperties(query, 50);
-        if (ftsResults.length > 0) {
-          results = ftsResults.map(searchResultToBuilding);
-          // Cache the results
-          searchCacheRef.current.set(query, results);
-          // LRU eviction if cache gets too large
-          if (searchCacheRef.current.size > 20) {
-            const firstKey = searchCacheRef.current.keys().next().value;
-            if (firstKey) searchCacheRef.current.delete(firstKey);
-          }
-          setSearchResults(results);
-          setIsSearching(false);
-          return;
-        }
-      }
 
       // Fallback to client-side search using inverted index for O(1) lookups
       const queryLower = query.toLowerCase();
@@ -570,7 +536,7 @@ export function BuildingList({ buildings, selectedBuilding, onSelectBuilding, li
 
       {/* Building List */}
       <div ref={listContainerRef} className="flex-1 overflow-y-auto">
-        {isLoading && !USE_SUPABASE ? (
+        {isLoading ? (
           <div className="p-4 text-center text-gray-500 text-sm">
             {t('buildings.loadingData')}
           </div>

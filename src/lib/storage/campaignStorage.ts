@@ -8,14 +8,10 @@ const log = createLogger('Campaign')
  * Tracks building organizing campaigns from intelligence gathering
  * through resolution. Integrates with existing demands/complaints
  * from buildingOrganizingStorage.
- *
- * SECURITY: Campaign creation is validated server-side via Supabase RPC
- * to prevent client-side authorization bypass (C4 fix).
  */
 
 import { sanitizeText, sanitizeRichText } from '../utils/sanitize'
-import { supabase, USE_SUPABASE, setUserContext, DbCampaign, DbCampaignBuilding, DbCampaignStageChange, DbCampaignDemand, DbCampaignNote } from '../services/supabase'
-import { isOnline, OfflineError, checkPermission } from '../services/authService'
+import { checkPermission } from '../services/authService'
 import { getCurrentProfile } from './profileStorage'
 import { generateEntityId, generateShortId, isLocalId } from '../utils/idUtils'
 
@@ -379,69 +375,7 @@ export async function createCampaignSecure(
     return { success: false, error: 'Not logged in' }
   }
 
-  // If online and Supabase available, use server-side validation
-  if (USE_SUPABASE && supabase && isOnline()) {
-    try {
-      // Use secure RPC for server-side validation
-      const { data: rpcResult, error } = await supabase.rpc('create_campaign_secure', {
-        p_creator_id: profile.id,
-        p_name: sanitizeText(data.name),
-        p_building_ids: data.buildingChatSlugs,
-        p_building_addresses: [], // Could be populated if available
-        p_landlord_name: sanitizeText(data.landlordName),
-        p_start_date: data.startDate,
-        p_target_date: data.targetDate || null,
-        p_estimated_units: data.estimatedUnits || null
-      })
-
-      if (error) {
-        log.error('Server error creating campaign:', error)
-        return { success: false, error: error.message }
-      }
-
-      if (rpcResult && !rpcResult.success) {
-        return { success: false, error: rpcResult.error }
-      }
-
-      // Create local cache copy with server-assigned ID
-      const now = Date.now()
-      const campaign: Campaign = {
-        ...data,
-        name: sanitizeText(data.name),
-        landlordName: sanitizeText(data.landlordName),
-        demands: data.demands.map(d => ({
-          ...d,
-          text: sanitizeText(d.text),
-          notes: d.notes ? sanitizeRichText(d.notes) : undefined,
-        })),
-        nextAction: data.nextAction ? sanitizeText(data.nextAction) : undefined,
-        nextActionAssignee: data.nextActionAssignee ? sanitizeText(data.nextActionAssignee) : undefined,
-        outcomeDetails: data.outcomeDetails ? sanitizeRichText(data.outcomeDetails) : undefined,
-        id: rpcResult.campaign_id || generateEntityId(true), // Force local ID as fallback
-        stageChanges: [{ stage: data.stage, date: data.startDate }],
-        notes: [],
-        createdBy: profile.id,
-        created: now,
-        updated: now,
-      }
-
-      // Cache locally
-      const state = getCampaignState()
-      state.campaigns.push(campaign)
-      saveCampaignState(state)
-
-      return { success: true, campaign }
-    } catch (e) {
-      if (e instanceof OfflineError) {
-        return { success: false, error: 'Cannot create campaigns while offline' }
-      }
-      log.error('Failed to create campaign:', e)
-      return { success: false, error: 'Failed to create campaign' }
-    }
-  }
-
-  // No Supabase - check permission locally
-  // SECURITY WARNING: This path has limited server-side validation
+  // Check permission locally
   const permission = await checkPermission('create:campaign')
   if (!permission.allowed) {
     return { success: false, error: permission.reason }
@@ -726,131 +660,13 @@ export function getPreparationStageCampaigns(): Campaign[] {
   return getAllCampaigns().filter((c) => c.stage === 'preparation')
 }
 
-// === SUPABASE CONVERSION FUNCTIONS ===
-
-/**
- * Convert database campaign to application campaign
- */
-function dbToCampaign(
-  db: DbCampaign,
-  buildings: DbCampaignBuilding[],
-  stageChanges: DbCampaignStageChange[],
-  demands: DbCampaignDemand[],
-  notes: DbCampaignNote[]
-): Campaign {
-  // Build strikePreparationIds map from buildings
-  const strikePreparationIds: { [chatSlug: string]: string } = {}
-  buildings.forEach(b => {
-    if (b.strike_preparation_id) {
-      strikePreparationIds[b.building_chat_slug] = b.strike_preparation_id
-    }
-  })
-
-  return {
-    id: db.id,
-    name: db.name,
-    buildingChatSlugs: buildings.map(b => b.building_chat_slug),
-    landlordName: db.landlord_name,
-    strikePreparationIds: Object.keys(strikePreparationIds).length > 0 ? strikePreparationIds : undefined,
-    stage: db.stage,
-    outcome: db.outcome,
-    startDate: db.start_date,
-    stageChanges: stageChanges.map(sc => ({
-      stage: sc.stage,
-      date: sc.changed_at
-    })),
-    targetDate: db.target_date || undefined,
-    resolvedDate: db.resolved_date || undefined,
-    demands: demands.map(d => ({
-      id: d.id,
-      text: d.text,
-      status: d.status,
-      notes: d.notes || undefined
-    })),
-    estimatedUnits: db.estimated_units || undefined,
-    participatingUnits: db.participating_units || undefined,
-    monthlyRentAtRisk: db.monthly_rent_at_risk || undefined,
-    nextAction: db.next_action || undefined,
-    nextActionDate: db.next_action_date || undefined,
-    nextActionAssignee: db.next_action_assignee || undefined,
-    outcomeDetails: db.outcome_details || undefined,
-    notes: notes.map(n => ({
-      id: n.id,
-      date: n.note_date,
-      author: n.author,
-      text: n.text
-    })),
-    createdBy: db.created_by || undefined,
-    created: new Date(db.created_at).getTime(),
-    updated: new Date(db.updated_at).getTime()
-  }
-}
-
-// === ASYNC SUPABASE FUNCTIONS ===
+// === ASYNC FUNCTIONS ===
 
 /**
  * Fetch campaigns from server
  */
 export async function fetchCampaignsFromServer(): Promise<Campaign[]> {
-  if (!USE_SUPABASE || !supabase || !isOnline()) {
-    return getAllCampaigns()
-  }
-
-  const profile = getCurrentProfile()
-  if (!profile) return getAllCampaigns()
-
-  try {
-    await setUserContext(profile.id)
-
-    // Fetch all campaigns
-    const { data: campaigns, error: campaignsError } = await supabase
-      .from('campaigns')
-      .select('*')
-      .order('updated_at', { ascending: false })
-
-    if (campaignsError) {
-      log.error('Fetch campaigns error:', campaignsError)
-      return getAllCampaigns()
-    }
-
-    if (!campaigns || campaigns.length === 0) {
-      return []
-    }
-
-    const campaignIds = campaigns.map(c => c.id)
-
-    // Fetch related data in parallel
-    const [buildingsRes, stageChangesRes, demandsRes, notesRes] = await Promise.all([
-      supabase.from('campaign_buildings').select('*').in('campaign_id', campaignIds),
-      supabase.from('campaign_stage_changes').select('*').in('campaign_id', campaignIds).order('created_at'),
-      supabase.from('campaign_demands').select('*').in('campaign_id', campaignIds).order('sort_order'),
-      supabase.from('campaign_notes').select('*').in('campaign_id', campaignIds).order('note_date', { ascending: false })
-    ])
-
-    const buildings = buildingsRes.data || []
-    const stageChanges = stageChangesRes.data || []
-    const demands = demandsRes.data || []
-    const notes = notesRes.data || []
-
-    // Convert to application format
-    const result = campaigns.map(c => dbToCampaign(
-      c as DbCampaign,
-      buildings.filter(b => b.campaign_id === c.id) as DbCampaignBuilding[],
-      stageChanges.filter(sc => sc.campaign_id === c.id) as DbCampaignStageChange[],
-      demands.filter(d => d.campaign_id === c.id) as DbCampaignDemand[],
-      notes.filter(n => n.campaign_id === c.id) as DbCampaignNote[]
-    ))
-
-    // Update local cache
-    const state = getCampaignState()
-    state.campaigns = result
-    saveCampaignState(state)
-
-    return result
-  } catch (e) {
-    log.error('Failed to fetch campaigns:', e)
-    return getAllCampaigns()
-  }
+  return getAllCampaigns()
 }
 
 /**
@@ -870,31 +686,6 @@ export async function updateCampaignStageAsync(
   const updated = updateCampaign(campaignId, { stage: newStage, resolvedDate })
   if (!updated) {
     return { success: false, error: 'Campaign not found' }
-  }
-
-  // Fire server sync in background
-  if (USE_SUPABASE && supabase && isOnline()) {
-    (async () => {
-      try {
-        await setUserContext(profile.id)
-        const { data, error } = await supabase.rpc('update_campaign_stage_secure', {
-          p_campaign_id: campaignId,
-          p_new_stage: newStage,
-          p_resolved_date: resolvedDate || null
-        })
-
-        if (error || (data && !data.success)) {
-          log.error('Server rejected stage update:', error || data?.error)
-          // Rollback would be complex here - log for now
-        }
-      } catch (e) {
-        if (e instanceof OfflineError) {
-          log.warn('Offline - stage update queued locally')
-        } else {
-          log.error('Failed to sync stage update:', e)
-        }
-      }
-    })()
   }
 
   return { success: true }
@@ -919,30 +710,6 @@ export async function updateCampaignOutcomeAsync(
     return { success: false, error: 'Campaign not found' }
   }
 
-  // Fire server sync in background
-  if (USE_SUPABASE && supabase && isOnline()) {
-    (async () => {
-      try {
-        await setUserContext(profile.id)
-        const { data, error } = await supabase.rpc('update_campaign_outcome_secure', {
-          p_campaign_id: campaignId,
-          p_outcome: outcome,
-          p_outcome_details: outcomeDetails || null
-        })
-
-        if (error || (data && !data.success)) {
-          log.error('Server rejected outcome update:', error || data?.error)
-        }
-      } catch (e) {
-        if (e instanceof OfflineError) {
-          log.warn('Offline - outcome update queued locally')
-        } else {
-          log.error('Failed to sync outcome update:', e)
-        }
-      }
-    })()
-  }
-
   return { success: true }
 }
 
@@ -962,30 +729,6 @@ export async function addCampaignDemandAsync(
   const demand = addCampaignDemand(campaignId, text)
   if (!demand) {
     return { success: false, error: 'Campaign not found' }
-  }
-
-  // Fire server sync in background
-  if (USE_SUPABASE && supabase && isOnline()) {
-    (async () => {
-      try {
-        await setUserContext(profile.id)
-        const { data, error } = await supabase.rpc('add_campaign_demand_secure', {
-          p_campaign_id: campaignId,
-          p_text: sanitizeText(text),
-          p_status: 'proposed'
-        })
-
-        if (error || (data && !data.success)) {
-          log.error('Server rejected demand:', error || data?.error)
-        }
-      } catch (e) {
-        if (e instanceof OfflineError) {
-          log.warn('Offline - demand queued locally')
-        } else {
-          log.error('Failed to sync demand:', e)
-        }
-      }
-    })()
   }
 
   return { success: true, demand }
@@ -1010,31 +753,6 @@ export async function updateCampaignDemandAsync(
     return { success: false, error: 'Demand not found' }
   }
 
-  // Fire server sync in background
-  if (USE_SUPABASE && supabase && isOnline()) {
-    (async () => {
-      try {
-        await setUserContext(profile.id)
-        const { data, error } = await supabase.rpc('update_campaign_demand_secure', {
-          p_demand_id: demandId,
-          p_status: updates.status || null,
-          p_text: updates.text ? sanitizeText(updates.text) : null,
-          p_notes: updates.notes || null
-        })
-
-        if (error || (data && !data.success)) {
-          log.error('Server rejected demand update:', error || data?.error)
-        }
-      } catch (e) {
-        if (e instanceof OfflineError) {
-          log.warn('Offline - demand update queued locally')
-        } else {
-          log.error('Failed to sync demand update:', e)
-        }
-      }
-    })()
-  }
-
   return { success: true }
 }
 
@@ -1056,30 +774,6 @@ export async function addCampaignNoteAsync(
     return { success: false, error: 'Campaign not found' }
   }
 
-  // Fire server sync in background
-  if (USE_SUPABASE && supabase && isOnline()) {
-    (async () => {
-      try {
-        await setUserContext(profile.id)
-        const { data, error } = await supabase.rpc('add_campaign_note_secure', {
-          p_campaign_id: campaignId,
-          p_author: sanitizeText(profile.nickname),
-          p_text: sanitizeRichText(text)
-        })
-
-        if (error || (data && !data.success)) {
-          log.error('Server rejected note:', error || data?.error)
-        }
-      } catch (e) {
-        if (e instanceof OfflineError) {
-          log.warn('Offline - note queued locally')
-        } else {
-          log.error('Failed to sync note:', e)
-        }
-      }
-    })()
-  }
-
   return { success: true, note }
 }
 
@@ -1098,30 +792,6 @@ export async function linkStrikeToCampaignAsync(
 
   // Optimistic update
   linkStrikeToCampaign(campaignId, chatSlug, strikePreparationId)
-
-  // Fire server sync in background
-  if (USE_SUPABASE && supabase && isOnline()) {
-    (async () => {
-      try {
-        await setUserContext(profile.id)
-        const { data, error } = await supabase.rpc('link_strike_to_campaign_secure', {
-          p_campaign_id: campaignId,
-          p_chat_slug: chatSlug,
-          p_strike_preparation_id: strikePreparationId
-        })
-
-        if (error || (data && !data.success)) {
-          log.error('Server rejected strike link:', error || data?.error)
-        }
-      } catch (e) {
-        if (e instanceof OfflineError) {
-          log.warn('Offline - strike link queued locally')
-        } else {
-          log.error('Failed to sync strike link:', e)
-        }
-      }
-    })()
-  }
 
   return { success: true }
 }

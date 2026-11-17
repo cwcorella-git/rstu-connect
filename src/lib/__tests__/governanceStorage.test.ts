@@ -49,11 +49,6 @@ jest.mock('../storage/linkedPropertiesStorage', () => ({
   generateBlocName: jest.fn(() => 'Test Bloc'),
 }))
 
-jest.mock('../services/supabase', () => ({
-  supabase: null,
-  USE_SUPABASE: false,
-}))
-
 jest.mock('../services/authService', () => ({
   castVote: jest.fn(),
   getVoteCounts: jest.fn(),

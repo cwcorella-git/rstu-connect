@@ -52,12 +52,6 @@ import {
   type UnitRecord,
 } from '../storage/canvassStorage'
 
-// Mock Supabase
-jest.mock('../services/supabase', () => ({
-  supabase: null,
-  USE_SUPABASE: false,
-}))
-
 // Mock logger
 jest.mock('../utils/logger', () => ({
   createLogger: jest.fn(() => ({

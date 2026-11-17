@@ -30,7 +30,6 @@ const SENSITIVE_PATTERNS = [
   /node_modules\//g,            // Node modules paths
   /\.next\//g,                  // Next.js build paths
   /webpack:/g,                  // Webpack paths
-  /supabase\.[a-z]+\.co/g,      // Supabase URLs (keep domain, remove details)
 ]
 
 // Generic error messages for users

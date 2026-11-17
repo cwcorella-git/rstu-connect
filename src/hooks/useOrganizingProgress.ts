@@ -4,7 +4,6 @@ const log = createLogger('OrganizingProgress')
 
 import { useState, useEffect, useCallback } from 'react'
 import { getCurrentProfile, type UserProfile } from '@/lib/storage/profileStorage'
-import { getAllProfiles, getPublicProfiles, USE_SUPABASE, type DbProfile } from '@/lib/services/supabase'
 import { getTenantSafeProgress, type TenantSafeProgress } from '@/lib/storage/canvassStorage'
 
 /**
@@ -65,30 +64,9 @@ export function useOrganizingProgress(
       // Get canvass progress (tenant-safe)
       const canvassProgress = getTenantSafeProgress(buildingId, totalBuildingUnits)
 
-      // Get registered members for this building
-      let registeredMembers: RegisteredMember[] = []
-
-      if (USE_SUPABASE) {
-        try {
-          // Full rows (with unit) are only readable by organizers/admins.
-          const isStaff = currentUser?.role === 'organizer' || currentUser?.role === 'admin'
-          const allProfiles = isStaff ? await getAllProfiles() : await getPublicProfiles()
-          registeredMembers = allProfiles
-            .filter((p: DbProfile) => p.building_id === buildingId)
-            .filter((p: DbProfile) => !((p as any).banned)) // Exclude banned users
-            .map((p: DbProfile) => ({
-              id: p.id,
-              nickname: p.nickname,
-              unitNumber: p.unit_number || undefined,
-              role: p.role as 'tenant' | 'organizer' | 'admin',
-              isVerified: p.trust_level === 'verified',
-              lastActive: new Date(p.last_active).getTime(),
-            }))
-        } catch (err) {
-          log.error('Error fetching profiles:', err)
-          // Continue with empty members - canvass data still useful
-        }
-      }
+      // Registered members came from the server profile list; with no
+      // server (Supabase removed) there are none to show.
+      const registeredMembers: RegisteredMember[] = []
 
       // Fallback: count registered profiles who may have failed canvass sync
       // If a member has a unit that's still in notContactedUnits, they weren't synced

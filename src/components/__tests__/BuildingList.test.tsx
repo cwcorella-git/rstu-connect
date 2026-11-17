@@ -34,11 +34,6 @@ jest.mock('@/lib/storage/linkedPropertiesStorage', () => ({
   getGroupForApn: jest.fn(() => null),
 }))
 
-jest.mock('@/lib/services/supabase', () => ({
-  searchProperties: jest.fn(() => Promise.resolve([])),
-  USE_SUPABASE: false,
-}))
-
 jest.mock('@/lib/utils/searchIndex', () => ({
   buildSearchIndex: jest.fn(() => new Map()),
   searchWithIndex: jest.fn(() => new Set()),

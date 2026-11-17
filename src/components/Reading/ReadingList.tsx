@@ -5,7 +5,6 @@ import { ChevronDownIcon } from '@heroicons/react/24/outline'
 import { ReadingCard } from './ReadingCard'
 import { getReadingState, toggleFavorite } from '@/lib/storage/readingStorage'
 import type { ReadingDocument } from '@/lib/data/getReadingData'
-import { searchDocuments, USE_SUPABASE, DocumentSearchResult } from '@/lib/services/supabase'
 import { useLanguage } from '@/contexts/LanguageContext'
 
 interface ReadingListProps {
@@ -22,22 +21,6 @@ interface ReadingListProps {
   onFeature?: (docId: string) => void
 }
 
-// Convert Supabase search result to ReadingDocument
-function searchResultToDocument(result: DocumentSearchResult): ReadingDocument {
-  return {
-    id: result.id,
-    title: result.title,
-    author: result.author || null,
-    date: result.date || null,
-    category: result.category,
-    filename: result.filename,
-    slug: result.slug,
-    excerpt: result.excerpt || '',
-    wordCount: 0,
-    lastModified: '',
-    tags: [],
-  }
-}
 
 // Memoized category group to prevent unnecessary re-renders
 interface CategoryGroupProps {
@@ -194,7 +177,7 @@ export function ReadingList({
     setFavoriteVersion(v => v + 1)
   }, [])
 
-  // Debounced Supabase FTS search
+  // Debounced client-side search
   useEffect(() => {
     const query = searchQuery.trim()
 
@@ -213,15 +196,6 @@ export function ReadingList({
     // Debounce search by 300ms
     setIsSearching(true)
     searchTimeoutRef.current = setTimeout(async () => {
-      if (USE_SUPABASE) {
-        // Use Supabase FTS
-        const results = await searchDocuments(query, undefined, 100)
-        if (results.length > 0) {
-          setSearchResults(results.map(searchResultToDocument))
-          setIsSearching(false)
-          return
-        }
-      }
 
       // Fallback to client-side search
       const queryLower = query.toLowerCase()

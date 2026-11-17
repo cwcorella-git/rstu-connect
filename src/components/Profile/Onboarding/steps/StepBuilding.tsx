@@ -4,7 +4,6 @@ const log = createLogger('Onboarding')
 
 import { useState, useEffect, useRef } from 'react';
 import type { EnhancedBuilding } from '@/lib/data/getBuildingsData';
-import { searchProperties, USE_SUPABASE } from '@/lib/services/supabase';
 import { useLanguage } from '@/contexts/LanguageContext';
 import type { OnboardingFormData } from '../types';
 
@@ -102,31 +101,6 @@ export function StepBuilding({ formData, onFormDataChange, buildings }: StepBuil
     searchTimeoutRef.current = setTimeout(async () => {
       let results: EnhancedBuilding[] = [];
 
-      if (USE_SUPABASE) {
-        try {
-          const supabaseResults = await searchProperties(query, 15);
-          results = supabaseResults.map((r: any) => ({
-            apn: r.apn,
-            address: r.address,
-            owner: r.owner,
-            units: r.units,
-            value: r.value || 0,
-            yearBuilt: r.year_built,
-            sqft: r.sqft,
-            chatSlug: r.chat_slug || generateChatSlug(r.address),
-            propertyName: r.name || undefined,
-          } as EnhancedBuilding));
-
-          if (results.length > 0) {
-            setSearchResults(results);
-            setIsSearching(false);
-            setShowResults(true);
-            return;
-          }
-        } catch (err) {
-          log.error('Supabase search failed:', err);
-        }
-      }
 
       // Fallback to client-side search
       const queryLower = query.toLowerCase();

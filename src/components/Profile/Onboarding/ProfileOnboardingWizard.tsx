@@ -2,7 +2,6 @@
 
 import { useEffect, useState, useCallback } from 'react';
 import { createProfileAsync, getCurrentProfile } from '@/lib/storage/profileStorage';
-import { signUpWithEmail, isSupabaseAuthAvailable } from '@/lib/services/supabaseAuth';
 import type { EnhancedBuilding } from '@/lib/data/getBuildingsData';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { usePushNotifications } from '@/hooks/usePushNotifications';
@@ -123,19 +122,7 @@ export function ProfileOnboardingWizard({
     });
 
     try {
-      // Step 1: Create Supabase Auth user with email/password (if available)
-      if (isSupabaseAuthAvailable()) {
-        const authResult = await signUpWithEmail(formData.email, formData.password);
-        if (!authResult.success) {
-          // Auth creation failed
-          setError(authResult.error || 'Failed to create account');
-          setIsLoading(false);
-          return;
-        }
-        // Note: authResult.needsEmailVerification may be true - user can still use app
-      }
-
-      // Step 2: Create the profile (race between profile creation and timeout)
+      // Create the profile (race between profile creation and timeout)
       const profile = await Promise.race([
         createProfileAsync({
           nickname: formData.nickname,

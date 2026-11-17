@@ -2,9 +2,8 @@
 
 import { getCurrentProfile } from './profileStorage'
 import { getLinkedGroups, updateLinkedGroup, getGroupForApn, createOrMergeLinkedGroup, generateBlocName } from './linkedPropertiesStorage'
-import { supabase, USE_SUPABASE } from '../services/supabase'
-import { castVote as serverCastVote, getVoteCounts, checkPermission, requireOnline, OfflineError } from '../services/authService'
-import { cacheForOffline, getCached, invalidateCachePattern, CacheKeys } from '../utils/offlineCache'
+import { checkPermission } from '../services/authService'
+import { getCached, CacheKeys } from '../utils/offlineCache'
 import { sanitizeText, sanitizeRichText } from '../utils/sanitize'
 import { tryAction } from '../utils/rateLimit'
 import { createLogger } from '../utils/logger'
@@ -220,102 +219,7 @@ export function createProposal(
   state.proposals.push(proposal)
   saveState(state)
 
-  // Fire server verification in background (don't await)
-  if (USE_SUPABASE) {
-    syncProposalToServer(proposal, options)
-      .then(result => {
-        if (!result.success) {
-          log.warn(`Server rejected proposal: ${result.error}`)
-          // Remove the locally created proposal if server rejected
-          removeLocalProposal(proposal.id)
-        } else if (result.serverId && result.serverId !== proposal.id) {
-          // Update local ID to match server-assigned ID
-          updateLocalProposalId(proposal.id, result.serverId)
-        }
-      })
-      .catch(err => {
-        log.error('Background proposal sync failed:', err)
-      })
-  }
-
   return proposal
-}
-
-/**
- * Sync a locally created proposal to the server
- * Used by sync createProposal for background verification
- */
-async function syncProposalToServer(
-  proposal: GovernanceProposal,
-  options: {
-    buildingId?: string
-    buildingAddress?: string
-    // Also accept createProposal options (ignored but prevents type error)
-    targetGroupId?: string
-    targetApn?: string
-    targetProfileId?: string
-    targetValue?: string
-    targetApns?: string[]
-    reason?: string
-  } = {}
-): Promise<{ success: boolean; error?: string; serverId?: string }> {
-  if (!USE_SUPABASE || !supabase) {
-    return { success: true } // No server to sync to
-  }
-
-  try {
-    requireOnline('sync proposal')
-
-    const { data, error } = await supabase.rpc('create_proposal_secure', {
-      p_creator_id: proposal.proposedBy,
-      p_building_id: options.buildingId || proposal.groupId,
-      p_building_address: sanitizeText(options.buildingAddress || ''),
-      p_title: sanitizeText(proposal.targetValue || proposal.type),
-      p_description: sanitizeRichText(proposal.reason || ''),
-      p_proposal_type: proposal.type,
-      p_group_id: proposal.groupId || null
-    })
-
-    if (error) {
-      log.error('Server error syncing proposal:', error)
-      return { success: false, error: error.message }
-    }
-
-    if (data && !data.success) {
-      return { success: false, error: data.error }
-    }
-
-    return { success: true, serverId: data?.proposal_id }
-  } catch (e) {
-    if (e instanceof OfflineError) {
-      // Offline - proposal will sync when online
-      return { success: true }
-    }
-    log.error('Failed to sync proposal:', e)
-    return { success: false, error: 'Failed to sync proposal' }
-  }
-}
-
-/**
- * Remove a proposal from local storage (used when server rejects)
- */
-function removeLocalProposal(proposalId: string): void {
-  const state = getState()
-  state.proposals = state.proposals.filter(p => p.id !== proposalId)
-  saveState(state)
-  invalidateCachePattern('proposals:*')
-}
-
-/**
- * Update a local proposal's ID to match server-assigned ID
- */
-function updateLocalProposalId(oldId: string, newId: string): void {
-  const state = getState()
-  const proposal = state.proposals.find(p => p.id === oldId)
-  if (proposal) {
-    proposal.id = newId
-    saveState(state)
-  }
 }
 
 export function getProposal(proposalId: string): GovernanceProposal | undefined {
@@ -368,7 +272,7 @@ export function getIncomingCrossGroupRequests(groupId: string): GovernancePropos
  * Vote on a proposal - optimistic update with background server sync
  *
  * This function provides immediate UI feedback while ensuring votes
- * are verified through the server when Supabase is available.
+ * are checked locally (there is no server).
  *
  * Flow:
  * 1. Update localStorage immediately (optimistic)
@@ -398,47 +302,7 @@ export function voteOnProposal(
 
   saveState(state)
 
-  // Fire server verification in background (don't await)
-  // This ensures votes are recorded server-side for security
-  if (USE_SUPABASE) {
-    voteOnProposalAsync(proposalId, vote)
-      .then(result => {
-        if (!result.success) {
-          log.warn(`Server rejected vote: ${result.error}`)
-          // Roll back the local vote since server rejected it
-          rollbackVote(proposalId, profile.id, vote)
-          invalidateCachePattern('proposals:*')
-        }
-      })
-      .catch(err => {
-        log.error('Background vote sync failed:', err)
-        // Roll back on network error as well
-        rollbackVote(proposalId, profile.id, vote)
-        invalidateCachePattern('proposals:*')
-      })
-  }
-
   return proposal
-}
-
-/**
- * Roll back a vote that was rejected by the server
- * @internal
- */
-function rollbackVote(proposalId: string, profileId: string, vote: 'up' | 'down'): void {
-  const state = getState()
-  const proposal = state.proposals.find(p => p.id === proposalId)
-  if (!proposal) return
-
-  // Remove from the vote arrays (opposite of what applyVoteLocally did)
-  if (vote === 'up') {
-    proposal.upvotes = proposal.upvotes.filter(id => id !== profileId)
-  } else {
-    proposal.downvotes = proposal.downvotes.filter(id => id !== profileId)
-  }
-
-  saveState(state)
-  log.info(`Rolled back vote on proposal ${proposalId}`)
 }
 
 /**
@@ -501,55 +365,6 @@ export async function voteOnProposalAsync(
     return { success: false, error: permission.reason }
   }
 
-  // If Supabase is available, use server-side voting
-  if (USE_SUPABASE && supabase) {
-    try {
-      requireOnline('vote on proposals')
-
-      // Cast vote through server RPC
-      const result = await serverCastVote('proposal', proposalId, vote)
-      if (!result.success) {
-        return { success: false, error: result.error }
-      }
-
-      // Update local cache with new vote counts
-      const voteCounts = await getVoteCounts('proposal', proposalId)
-
-      // Update local state for immediate UI feedback
-      const state = getState()
-      const proposal = state.proposals.find(p => p.id === proposalId)
-      if (proposal) {
-        // Rebuild vote arrays based on server count
-        // (We don't have full voter list from server, so we update local estimate)
-        if (vote === 'up') {
-          proposal.downvotes = proposal.downvotes.filter(id => id !== profile.id)
-          if (!proposal.upvotes.includes(profile.id)) {
-            proposal.upvotes.push(profile.id)
-          }
-        } else {
-          proposal.upvotes = proposal.upvotes.filter(id => id !== profile.id)
-          if (!proposal.downvotes.includes(profile.id)) {
-            proposal.downvotes.push(profile.id)
-          }
-        }
-        saveState(state)
-
-        // Invalidate cache so next fetch gets fresh data
-        invalidateCachePattern('proposals:*')
-
-        return { success: true, proposal }
-      }
-
-      return { success: true }
-    } catch (e) {
-      if (e instanceof OfflineError) {
-        return { success: false, error: e.message }
-      }
-      log.error('Server vote error:', e)
-      return { success: false, error: 'Failed to cast vote' }
-    }
-  }
-
   // Fallback to localStorage only (development/offline only)
   // Use applyVoteLocally directly to avoid infinite loop with voteOnProposal
   const state = getState()
@@ -577,14 +392,6 @@ export async function getProposalVoteCountsAsync(proposalId: string): Promise<{
   downvotes: number
   userVote?: 'up' | 'down'
 }> {
-  if (USE_SUPABASE && supabase) {
-    try {
-      return await getVoteCounts('proposal', proposalId)
-    } catch {
-      // Fall back to local
-    }
-  }
-
   // Fallback to localStorage
   const proposal = getProposal(proposalId)
   if (!proposal) {
@@ -627,74 +434,6 @@ export async function createProposalAsync(
     return { success: false, error: rateLimitResult.error || 'Rate limited' }
   }
 
-  // If online and Supabase available, use server-side validation
-  if (USE_SUPABASE && supabase) {
-    try {
-      requireOnline('create proposals')
-
-      // Use secure RPC for server-side validation
-      const { data, error } = await supabase.rpc('create_proposal_secure', {
-        p_creator_id: profile.id,
-        p_building_id: options.buildingId || groupId,
-        p_building_address: sanitizeText(options.buildingAddress || ''),
-        p_title: sanitizeText(options.targetValue || type),
-        p_description: sanitizeRichText(options.reason || ''),
-        p_proposal_type: type,
-        p_group_id: groupId || null
-      })
-
-      if (error) {
-        log.error('Server error creating proposal:', error)
-        return { success: false, error: error.message }
-      }
-
-      if (data && !data.success) {
-        return { success: false, error: data.error }
-      }
-
-      // Create local cache copy with server-assigned ID
-      const now = Date.now()
-      const proposal: GovernanceProposal = {
-        id: data.proposal_id || `gov-${now}-${generateShortId()}`,
-        type,
-        groupId,
-        targetGroupId: options.targetGroupId,
-        targetApn: options.targetApn,
-        targetProfileId: options.targetProfileId,
-        targetValue: sanitizeText(options.targetValue),
-        targetApns: options.targetApns,
-        proposedBy: profile.id,
-        proposedByName: sanitizeText(profile.nickname),
-        reason: sanitizeRichText(options.reason || ''),
-        upvotes: [profile.id],
-        downvotes: [],
-        status: 'active',
-        createdAt: now,
-        expiresAt: now + PROPOSAL_EXPIRY_DAYS * 24 * 60 * 60 * 1000,
-      }
-
-      // Cache locally
-      const state = getState()
-      state.proposals.push(proposal)
-      saveState(state)
-
-      // Invalidate cache
-      invalidateCachePattern('proposals:*')
-
-      return { success: true, proposal }
-    } catch (e) {
-      if (e instanceof OfflineError) {
-        // Fall through to offline handling
-        log.warn('Offline - cannot create proposal without server validation')
-        return { success: false, error: 'Cannot create proposals while offline' }
-      }
-      log.error('Failed to create proposal:', e)
-      return { success: false, error: 'Failed to create proposal' }
-    }
-  }
-
-  // No Supabase - check permission locally and create
-  // SECURITY WARNING: This path has no server-side validation
   const permission = await checkPermission('create:proposal')
   if (!permission.allowed) {
     return { success: false, error: permission.reason }
@@ -718,80 +457,8 @@ export async function getActiveProposalsAsync(groupId: string): Promise<Governan
     return cached
   }
 
-  if (USE_SUPABASE && supabase) {
-    try {
-      const { data, error } = await supabase
-        .from('governance_proposals')
-        .select('*')
-        .eq('group_id', groupId)
-        .in('status', ['active', 'pending-finalize', 'pending-partner'])
-        .order('created_at', { ascending: false })
-
-      if (!error && data) {
-        // Convert from DB format
-        const proposals = data.map(dbToProposal)
-
-        // Cache for offline use
-        cacheForOffline(CacheKeys.proposals(groupId), proposals, 10 * 60 * 1000)
-
-        return proposals
-      }
-    } catch {
-      // Fall through to localStorage
-    }
-  }
-
   // Fallback to localStorage
   return getActiveProposals(groupId)
-}
-
-/**
- * Convert database proposal to app format
- */
-function dbToProposal(db: {
-  id: string
-  type: string
-  group_id: string
-  target_group_id?: string | null
-  target_apn?: string | null
-  target_profile_id?: string | null
-  target_value?: string | null
-  target_apns?: string[] | null
-  proposed_by: string
-  proposed_by_name: string
-  reason?: string | null
-  upvotes: string[]
-  downvotes: string[]
-  status: string
-  partner_proposal_id?: string | null
-  partner_group_passed?: boolean | null
-  created_at: string
-  expires_at: string
-  executed_at?: string | null
-  finalized_by?: string | null
-}): GovernanceProposal {
-  return {
-    id: db.id,
-    type: db.type as GovernanceProposalType,
-    groupId: db.group_id,
-    targetGroupId: db.target_group_id || undefined,
-    targetApn: db.target_apn || undefined,
-    targetProfileId: db.target_profile_id || undefined,
-    targetValue: db.target_value || undefined,
-    targetApns: db.target_apns || undefined,
-    proposedBy: db.proposed_by,
-    proposedByName: db.proposed_by_name,
-    reason: db.reason || '',
-    upvotes: db.upvotes || [],
-    downvotes: db.downvotes || [],
-    status: db.status as GovernanceProposalStatus,
-    partnerProposalId: db.partner_proposal_id || undefined,
-    partnerGroupPassed: db.partner_group_passed ?? undefined,
-    createdAt: new Date(db.created_at).getTime(),
-    expiresAt: new Date(db.expires_at).getTime(),
-    executedAt: db.executed_at ? new Date(db.executed_at).getTime() : undefined,
-    finalizedBy: db.finalized_by || undefined,
-  }
 }
 
 // ============================================================================
@@ -1049,57 +716,6 @@ export async function finalizeProposalAsync(
   const proposal = state.proposals.find(p => p.id === proposalId)
   if (!proposal || proposal.status !== 'pending-finalize') {
     return { success: false, error: 'Proposal not found or not awaiting finalization' }
-  }
-
-  // Try server-side finalization first
-  if (USE_SUPABASE && supabase) {
-    try {
-      requireOnline('finalize proposal')
-
-      const { data, error } = await supabase.rpc('finalize_proposal_secure', {
-        p_actor_id: profile.id,
-        p_proposal_id: proposalId
-      })
-
-      if (error) {
-        log.error('Server error finalizing proposal:', error)
-        // Fall through to local finalization
-      } else if (data && !data.success) {
-        // Server explicitly rejected - don't fall back to local
-        return { success: false, error: data.error }
-      } else {
-        // Server succeeded - update local state to match
-        proposal.finalizedBy = profile.id
-        proposal.executedAt = Date.now()
-        proposal.status = 'executed'
-
-        // Execute the mute locally as well (server already did it)
-        if (proposal.type === 'mute-tenant' && proposal.targetProfileId) {
-          const groups = getLinkedGroups()
-          const group = groups.find(g => g.id === proposal.groupId)
-          if (group) {
-            const mutedProfiles = group.mutedProfiles || []
-            if (!mutedProfiles.includes(proposal.targetProfileId)) {
-              updateLinkedGroup(proposal.groupId, {
-                mutedProfiles: [...mutedProfiles, proposal.targetProfileId]
-              })
-            }
-          }
-        }
-
-        saveState(state)
-        log.info('Proposal finalized via server:', proposalId)
-        return { success: true }
-      }
-    } catch (e) {
-      if (e instanceof OfflineError) {
-        log.warn('Offline - falling back to local finalization')
-        // Fall through to local finalization
-      } else {
-        log.error('Failed to finalize proposal:', e)
-        // Fall through to local finalization
-      }
-    }
   }
 
   // Local-only finalization (offline or no server)

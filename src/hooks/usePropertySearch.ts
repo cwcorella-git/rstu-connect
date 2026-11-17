@@ -4,7 +4,6 @@ const log = createLogger('PropertySearch')
 
 import { useState, useEffect, useRef, useMemo, useDeferredValue } from 'react'
 import { EnhancedBuilding } from '@/lib/data/getBuildingsData'
-import { searchProperties, USE_SUPABASE, PropertySearchResult } from '@/lib/services/supabase'
 import { buildSearchIndex, searchWithIndex, buildPropertyMap } from '@/lib/utils/searchIndex'
 
 // Compressed property format from all-properties.json
@@ -45,22 +44,6 @@ function expandProperty(p: CompressedProperty): EnhancedBuilding {
   } as EnhancedBuilding
 }
 
-// Convert Supabase search result to EnhancedBuilding
-function searchResultToBuilding(result: PropertySearchResult): EnhancedBuilding {
-  return {
-    apn: result.apn,
-    address: result.address,
-    owner: result.owner,
-    units: result.units,
-    value: result.value || 0,
-    yearBuilt: result.year_built,
-    sqft: null,
-    chatSlug: result.chat_slug || generateChatSlug(result.address),
-    propertyName: result.name || undefined,
-    latitude: result.lat || undefined,
-    longitude: result.lon || undefined,
-  } as EnhancedBuilding
-}
 
 interface UsePropertySearchReturn {
   // Search query
@@ -153,21 +136,6 @@ export function usePropertySearch(maxResults = 50): UsePropertySearchReturn {
     searchTimeoutRef.current = setTimeout(async () => {
       let results: EnhancedBuilding[] = []
 
-      if (USE_SUPABASE) {
-        // Try Supabase FTS first
-        const ftsResults = await searchProperties(query, maxResults)
-        if (ftsResults.length > 0) {
-          results = ftsResults.map(searchResultToBuilding)
-          searchCacheRef.current.set(query, results)
-          if (searchCacheRef.current.size > 20) {
-            const firstKey = searchCacheRef.current.keys().next().value
-            if (firstKey) searchCacheRef.current.delete(firstKey)
-          }
-          setSearchResults(results)
-          setIsSearching(false)
-          return
-        }
-      }
 
       // Fallback to client-side search
       const queryLower = query.toLowerCase()

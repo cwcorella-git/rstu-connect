@@ -5,16 +5,13 @@ const log = createLogger('Event')
 
 /**
  * Event Storage - CRUD operations for building events
- * Uses localStorage with optional Supabase sync
- *
- * SECURITY: Write operations (create, update, delete) are validated server-side
- * via Supabase RPC functions to prevent localStorage manipulation attacks.
+ * Uses localStorage
  */
 
 import { sanitizeText, sanitizeRichText, sanitizeUrl } from '../utils/sanitize'
 import { tryAction } from '../utils/rateLimit'
-import { supabase, USE_SUPABASE } from '../services/supabase'
-import { isOnline, requireOnline, OfflineError, checkPermission } from '../services/authService'
+import { requireOnline, checkPermission } from '../services/authService'
+import { getCurrentProfile } from './profileStorage'
 import { generateShortId, generateEntityId, isLocalId } from '../utils/idUtils'
 
 // Event types
@@ -146,97 +143,7 @@ function saveAllEvents(events: BuildingEvent[]): void {
 
 // Fetch events from server and update local cache
 export async function fetchEventsFromServer(buildingId?: string): Promise<BuildingEvent[]> {
-  if (!USE_SUPABASE || !supabase || !isOnline()) {
-    log.info('Using local events cache (offline or no Supabase)')
-    return getAllEvents()
-  }
-
-  try {
-    let query = supabase
-      .from('events')
-      .select(`
-        *,
-        event_rsvps (
-          profile_id,
-          profile_nickname,
-          status,
-          created_at
-        ),
-        event_votes (
-          profile_id,
-          vote
-        )
-      `)
-      .order('date_time', { ascending: true })
-
-    if (buildingId) {
-      query = query.or(`building_id.eq.${buildingId},is_group_wide.eq.true`)
-    }
-
-    const { data, error } = await query
-
-    if (error) {
-      log.error('Error fetching events from server:', error)
-      return getAllEvents()
-    }
-
-    if (!data) {
-      return getAllEvents()
-    }
-
-    // Transform server data to local format
-    const events: BuildingEvent[] = data.map(e => ({
-      id: e.id,
-      buildingId: e.building_id,
-      buildingAddress: e.building_address,
-      groupId: e.group_id,
-      isGroupWide: e.is_group_wide,
-      campaignId: e.campaign_id,
-      title: e.title,
-      description: e.description,
-      eventType: e.event_type as EventType,
-      status: e.status as EventStatus,
-      dateTime: new Date(e.date_time).getTime(),
-      durationMinutes: e.duration_minutes,
-      location: {
-        name: e.location_name || '',
-        address: e.location_address,
-        isVirtual: e.is_virtual,
-        virtualLink: e.virtual_link
-      },
-      createdBy: e.created_by,
-      createdByName: e.created_by_name,
-      createdAt: new Date(e.created_at).getTime(),
-      chatMessageId: e.chat_message_id,
-      rsvps: (e.event_rsvps || []).map((r: { profile_id: string; profile_nickname: string; status: RsvpStatus; created_at: string }) => ({
-        profileId: r.profile_id,
-        profileNickname: r.profile_nickname,
-        status: r.status as RsvpStatus,
-        timestamp: new Date(r.created_at).getTime()
-      })),
-      votes: {
-        upvotes: (e.event_votes || []).filter((v: { vote: string }) => v.vote === 'up').map((v: { profile_id: string }) => v.profile_id),
-        downvotes: (e.event_votes || []).filter((v: { vote: string }) => v.vote === 'down').map((v: { profile_id: string }) => v.profile_id),
-        threshold: e.vote_threshold
-      },
-      recurrence: e.recurrence_type !== 'none' ? {
-        type: e.recurrence_type as 'weekly' | 'biweekly' | 'monthly',
-        interval: e.recurrence_interval,
-        endDate: e.recurrence_end_date ? new Date(e.recurrence_end_date).getTime() : undefined,
-        seriesId: e.series_id,
-        occurrenceNumber: e.occurrence_number
-      } : undefined
-    }))
-
-    // Update local cache
-    saveAllEvents(events)
-    log.info(`Fetched ${events.length} events from server`)
-
-    return events
-  } catch (e) {
-    log.error('Failed to fetch events:', e)
-    return getAllEvents()
-  }
+  return getAllEvents()
 }
 
 // Get events for a specific building (includes org-wide events)
@@ -363,71 +270,6 @@ export async function createEventSecure(
     return { success: false, error: rateLimitResult.error || 'Rate limited' }
   }
 
-  // If online and Supabase available, use server-side validation
-  if (USE_SUPABASE && supabase && isOnline()) {
-    try {
-      const { data, error } = await supabase.rpc('create_event_secure', {
-        p_creator_id: event.createdBy,
-        p_building_id: event.buildingId,
-        p_building_address: sanitizeText(event.buildingAddress),
-        p_title: sanitizeText(event.title),
-        p_description: event.description ? sanitizeRichText(event.description) : null,
-        p_event_type: event.eventType,
-        p_date_time: new Date(event.dateTime).toISOString(),
-        p_duration_minutes: event.durationMinutes || 60,
-        p_location_name: event.location.name ? sanitizeText(event.location.name) : null,
-        p_location_address: event.location.address ? sanitizeText(event.location.address) : null,
-        p_is_virtual: event.location.isVirtual || false,
-        p_virtual_link: event.location.virtualLink ? sanitizeUrl(event.location.virtualLink) : null,
-        p_group_id: event.groupId || null,
-        p_is_group_wide: event.isGroupWide || false,
-        p_vote_threshold: event.votes?.threshold || 3,
-        p_recurrence_type: event.recurrence?.type || 'none'
-      })
-
-      if (error) {
-        log.error('Server error creating event:', error)
-        return { success: false, error: error.message }
-      }
-
-      if (data && !data.success) {
-        return { success: false, error: data.error }
-      }
-
-      // Create local cache copy
-      const newEvent: BuildingEvent = {
-        ...event,
-        title: sanitizeText(event.title),
-        description: event.description ? sanitizeRichText(event.description) : undefined,
-        createdByName: sanitizeText(event.createdByName),
-        location: {
-          ...event.location,
-          name: sanitizeText(event.location.name),
-          address: event.location.address ? sanitizeText(event.location.address) : undefined,
-          virtualLink: event.location.virtualLink ? sanitizeUrl(event.location.virtualLink) : undefined,
-        },
-        id: data.event_id,
-        createdAt: Date.now(),
-        rsvps: []
-      }
-
-      // Cache locally
-      const allEvents = getAllEvents()
-      allEvents.push(newEvent)
-      saveAllEvents(allEvents)
-
-      return { success: true, event: newEvent }
-    } catch (e) {
-      if (e instanceof OfflineError) {
-        // Fall through to offline handling
-      } else {
-        log.error('Failed to create event:', e)
-        return { success: false, error: 'Failed to create event' }
-      }
-    }
-  }
-
-  // Offline or no Supabase - use local storage only (less secure)
   log.warn('Creating event in offline mode - no server validation')
   const localEvent = createEventLocal(event)
   if (!localEvent) {
@@ -480,42 +322,6 @@ export async function updateEventSecure(
   actorId: string,
   updates: Partial<BuildingEvent>
 ): Promise<{ success: boolean; event?: BuildingEvent; error?: string }> {
-  // If online and Supabase available, use server-side validation
-  if (USE_SUPABASE && supabase && isOnline()) {
-    try {
-      const { data, error } = await supabase.rpc('update_event_secure', {
-        p_actor_id: actorId,
-        p_event_id: eventId,
-        p_title: updates.title ? sanitizeText(updates.title) : null,
-        p_description: updates.description ? sanitizeRichText(updates.description) : null,
-        p_status: updates.status || null,
-        p_date_time: updates.dateTime ? new Date(updates.dateTime).toISOString() : null,
-        p_location_name: updates.location?.name ? sanitizeText(updates.location.name) : null,
-        p_is_virtual: updates.location?.isVirtual ?? null,
-        p_virtual_link: updates.location?.virtualLink ? sanitizeUrl(updates.location.virtualLink) : null
-      })
-
-      if (error) {
-        log.error('Server error updating event:', error)
-        return { success: false, error: error.message }
-      }
-
-      if (data && !data.success) {
-        return { success: false, error: data.error }
-      }
-
-      // Update local cache
-      const updatedEvent = updateEventLocal(eventId, updates)
-      return { success: true, event: updatedEvent || undefined }
-    } catch (e) {
-      if (e instanceof OfflineError) {
-        return { success: false, error: 'Cannot update events while offline' }
-      }
-      log.error('Failed to update event:', e)
-      return { success: false, error: 'Failed to update event' }
-    }
-  }
-
   // Offline - update local only with warning
   log.warn('Updating event in offline mode - no server validation')
   const updatedEvent = updateEventLocal(eventId, updates)
@@ -548,37 +354,18 @@ export async function deleteEventSecure(
   eventId: string,
   actorId: string
 ): Promise<{ success: boolean; error?: string }> {
-  // If online and Supabase available, use server-side validation
-  if (USE_SUPABASE && supabase && isOnline()) {
-    try {
-      const { data, error } = await supabase.rpc('delete_event_secure', {
-        p_actor_id: actorId,
-        p_event_id: eventId
-      })
+  const event = getAllEvents().find(e => e.id === eventId)
+  if (!event) return { success: false, error: 'Event not found' }
 
-      if (error) {
-        log.error('Server error deleting event:', error)
-        return { success: false, error: error.message }
-      }
-
-      if (data && !data.success) {
-        return { success: false, error: data.error }
-      }
-
-      // Remove from local cache
-      deleteEventLocal(eventId)
-      return { success: true }
-    } catch (e) {
-      if (e instanceof OfflineError) {
-        return { success: false, error: 'Cannot delete events while offline' }
-      }
-      log.error('Failed to delete event:', e)
-      return { success: false, error: 'Failed to delete event' }
-    }
+  const actor = getCurrentProfile()
+  const isStaff = actor?.role === 'organizer' || actor?.role === 'admin'
+  if (!actor || actor.id !== actorId || (event.createdBy !== actorId && !isStaff)) {
+    return { success: false, error: 'Only the creator or an organizer can delete this event' }
   }
 
-  // Offline - cannot delete without server validation
-  return { success: false, error: 'Cannot delete events while offline' }
+  return deleteEventLocal(eventId)
+    ? { success: true }
+    : { success: false, error: 'Event not found' }
 }
 
 // Delete event locally
@@ -631,38 +418,12 @@ export async function rsvpToEventAsync(
   eventId: string,
   status: RsvpStatus
 ): Promise<{ success: boolean; error?: string }> {
-  // If online and Supabase available, use server-side function
-  if (USE_SUPABASE && supabase && isOnline()) {
-    try {
-      const { data, error } = await supabase.rpc('rsvp_to_event', {
-        p_event_id: eventId,
-        p_status: status
-      })
+  const profile = getCurrentProfile()
+  if (!profile) return { success: false, error: 'Not logged in' }
 
-      if (error) {
-        log.error('Server error RSVPing to event:', error)
-        return { success: false, error: error.message }
-      }
-
-      if (data && !data.success) {
-        return { success: false, error: data.error }
-      }
-
-      // Update local cache optimistically
-      // Note: We don't have profile info here, so just reload from server if needed
-      log.info('RSVP submitted successfully')
-      return { success: true }
-    } catch (e) {
-      if (e instanceof OfflineError) {
-        return { success: false, error: 'Cannot RSVP while offline' }
-      }
-      log.error('Failed to RSVP:', e)
-      return { success: false, error: 'Failed to RSVP' }
-    }
-  }
-
-  // Offline - cannot RSVP without server
-  return { success: false, error: 'Cannot RSVP while offline' }
+  return rsvpToEvent(eventId, profile.id, profile.nickname, status)
+    ? { success: true }
+    : { success: false, error: 'Event not found' }
 }
 
 // Remove RSVP from an event
@@ -902,43 +663,15 @@ export async function voteOnEventAsync(
   eventId: string,
   vote: 'up' | 'down'
 ): Promise<{ success: boolean; upvotes?: number; threshold?: number; autoConfirmed?: boolean; error?: string }> {
-  // If online and Supabase available, use server-side function
-  if (USE_SUPABASE && supabase && isOnline()) {
-    try {
-      const { data, error } = await supabase.rpc('vote_on_event', {
-        p_event_id: eventId,
-        p_vote: vote
-      })
+  const profile = getCurrentProfile()
+  if (!profile) return { success: false, error: 'Not logged in' }
 
-      if (error) {
-        log.error('Server error voting on event:', error)
-        return { success: false, error: error.message }
-      }
+  const event = voteOnEvent(eventId, profile.id, vote)
+  if (!event) return { success: false, error: 'Event not found' }
 
-      if (data && !data.success) {
-        return { success: false, error: data.error }
-      }
-
-      const result = {
-        success: true,
-        upvotes: data?.upvotes || 0,
-        threshold: data?.threshold || 3,
-        autoConfirmed: (data?.upvotes || 0) >= (data?.threshold || 3)
-      }
-
-      log.info('Vote submitted successfully:', result)
-      return result
-    } catch (e) {
-      if (e instanceof OfflineError) {
-        return { success: false, error: 'Cannot vote while offline' }
-      }
-      log.error('Failed to vote:', e)
-      return { success: false, error: 'Failed to vote' }
-    }
-  }
-
-  // Offline - cannot vote without server
-  return { success: false, error: 'Cannot vote while offline' }
+  const { passed, upvotes, threshold } = checkProposalStatus(event)
+  const autoConfirmed = passed && event.status === 'proposed' && !!confirmProposedEvent(eventId)
+  return { success: true, upvotes, threshold, autoConfirmed }
 }
 
 // Check proposal status

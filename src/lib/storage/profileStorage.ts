@@ -1,7 +1,6 @@
 // User profile storage for tenant organizing platform
-// Supports both localStorage (offline) and Supabase (cloud sync)
+// localStorage-only (Supabase sync removed)
 
-import { supabase, USE_SUPABASE, DbProfile, DbInviteCode } from '../services/supabase'
 import { safeJsonParse } from '../utils/safeStorage'
 import { createLogger } from '../utils/logger'
 import { generateUUID, generateShortId as idUtilsGenerateShortId, generateEntityId, isLocalId } from '../utils/idUtils'
@@ -252,272 +251,10 @@ export const ACTIVITY_LABELS: Record<string, string> = {
   organizing: 'Tenant Organizing',
 }
 
-// ============================================
-// Supabase Database Operations
-// ============================================
-
-// Convert database profile to app profile
-function dbToProfile(db: DbProfile): UserProfile {
-  return {
-    id: db.id,
-    nickname: db.nickname,
-    role: db.role,
-    trustLevel: db.trust_level,
-    buildingId: db.building_id || undefined,
-    buildingAddress: db.building_address || undefined,
-    unitNumber: db.unit_number || undefined,
-    phone: db.phone || undefined,
-    email: db.email || undefined,
-    emailVerified: db.email_verified || false,
-    preferredContact: db.preferred_contact || undefined,
-    language: db.language || undefined,
-    rentAmount: db.rent_amount || undefined,
-    rentHistory: db.rent_history ? safeJsonParse(db.rent_history, undefined) : undefined,
-    moveInDate: db.move_in_date || undefined,
-    leaseType: db.lease_type || undefined,
-    leaseExpires: db.lease_expires || undefined,
-    assignedBuildings: db.assigned_buildings || undefined,
-    invitedBy: db.invited_by || undefined,
-    inviteCode: db.invite_code || undefined,
-    created: new Date(db.created_at).getTime(),
-    lastActive: new Date(db.last_active).getTime(),
-  }
-}
-
-// Convert app profile to database format
-function profileToDb(profile: UserProfile): Partial<DbProfile> {
-  return {
-    id: profile.id,
-    nickname: profile.nickname,
-    role: profile.role,
-    trust_level: profile.trustLevel,
-    building_id: profile.buildingId || null,
-    building_address: profile.buildingAddress || null,
-    unit_number: profile.unitNumber || null,
-    phone: profile.phone || null,
-    email: profile.email || null,
-    email_verified: profile.emailVerified || false,
-    preferred_contact: profile.preferredContact || null,
-    language: profile.language || null,
-    rent_amount: profile.rentAmount || null,
-    rent_history: profile.rentHistory ? JSON.stringify(profile.rentHistory) : null,
-    move_in_date: profile.moveInDate || null,
-    lease_type: profile.leaseType || null,
-    lease_expires: profile.leaseExpires || null,
-    assigned_buildings: profile.assignedBuildings || null,
-    invited_by: profile.invitedBy || null,
-    invite_code: profile.inviteCode || null,
-  }
-}
-
-// Convert database invite to app invite
-function dbToInvite(db: DbInviteCode): InviteCode {
-  return {
-    code: db.code,
-    createdBy: db.created_by,
-    buildingId: db.building_id || undefined,
-    unitNumber: db.unit_number || undefined,
-    grantRole: db.grant_role as UserRole,
-    maxUses: db.max_uses,
-    usedCount: db.used_count,
-    usedBy: db.used_by || [],
-    revoked: db.revoked,
-    created: new Date(db.created_at).getTime(),
-    expires: db.expires_at ? new Date(db.expires_at).getTime() : 0,
-  }
-}
-
-// Fetch profile from Supabase by ID
-async function fetchProfileFromDb(id: string): Promise<UserProfile | null> {
-  if (!supabase) return null
-
-  const { data, error } = await supabase
-    .from('profiles')
-    .select('*')
-    .eq('id', id)
-    .maybeSingle()
-
-  if (!error && data) return dbToProfile(data as DbProfile)
-
-  // RLS shows the full row only to its owner and to organizers/admins;
-  // everyone else gets the non-identifying public view.
-  const { data: pub, error: pubError } = await supabase
-    .from('public_profiles')
-    .select('*')
-    .eq('id', id)
-    .maybeSingle()
-
-  if (pubError || !pub) return null
-  return dbToProfile(pub as DbProfile)
-}
-
-// Check if a profile has been deleted from Supabase (e.g. by an admin)
-// Returns true if Supabase is configured and the profile does NOT exist
-export async function isProfileDeletedInDb(id: string): Promise<boolean> {
-  if (!supabase) return false // Can't check — assume not deleted
-
-  // public_profiles, not profiles: RLS hides the profiles row from a
-  // visitor without a Supabase Auth session, which would read as "deleted".
-  const { data, error } = await supabase
-    .from('public_profiles')
-    .select('id')
-    .eq('id', id)
-    .maybeSingle()
-
-  if (error) return false // Can't tell — assume not deleted
-  return !data
-}
-
-// Save profile to Supabase
-async function saveProfileToDb(profile: UserProfile): Promise<boolean> {
-  if (!supabase) {
-    log.warn('saveProfileToDb: Supabase not configured')
-    return false
-  }
-
-  const dbProfile = profileToDb(profile)
-
-  // Use onConflict with both 'id' and 'email' to handle both unique constraints
-  const { error } = await supabase
-    .from('profiles')
-    .upsert(dbProfile, { onConflict: 'id' })
-
-  if (error) {
-    log.error('saveProfileToDb error:', { code: error.code, message: error.message })
-    // If we hit a duplicate email constraint, try to find and update the existing profile
-    if (error.code === '23505' && error.message.includes('email')) {
-      // Try to fetch the existing profile by email
-      const { data: existing } = await supabase
-        .from('profiles')
-        .select('id')
-        .eq('email', profile.email)
-        .single()
-
-      if (existing) {
-        // Update the existing profile with the ID we found
-        const updatedProfile = { ...dbProfile, id: existing.id }
-        const { error: updateError } = await supabase
-          .from('profiles')
-          .upsert(updatedProfile, { onConflict: 'id' })
-
-        if (updateError) {
-          log.error('saveProfileToDb retry error:', { code: updateError.code, message: updateError.message })
-          return false
-        }
-        log.info('Profile saved to cloud (updated existing):', profile.id)
-        return true
-      }
-    }
-
-    return false
-  }
-  log.info('Profile saved to cloud:', profile.id)
-  return true
-}
-
-// Fetch invite code from Supabase
-async function fetchInviteFromDb(code: string): Promise<InviteCode | null> {
-  if (!supabase) return null
-
-  try {
-    const { data, error } = await supabase
-      .from('invite_codes')
-      .select('*')
-      .eq('code', code.toUpperCase())
-      .single()
-
-    if (error || !data) {
-      return null
-    }
-
-    return dbToInvite(data as DbInviteCode)
-  } catch {
-    return null
-  }
-}
-
-// Save invite code to Supabase
-async function saveInviteToDb(invite: InviteCode): Promise<boolean> {
-  if (!supabase) {
-    log.warn('saveInviteToDb: Supabase not configured')
-    return false
-  }
-
-  try {
-    // Use RPC function that sets user context within the transaction
-    // so the invite_codes INSERT RLS policy (requires organizer+) passes
-    const { data, error } = await supabase.rpc('sync_invite_code', {
-      caller_id: invite.createdBy,
-      p_code: invite.code,
-      p_created_by: invite.createdBy,
-      p_building_id: invite.buildingId || null,
-      p_unit_number: invite.unitNumber || null,
-      p_grant_role: invite.grantRole,
-      p_max_uses: invite.maxUses,
-      p_used_count: invite.usedCount,
-      p_used_by: invite.usedBy?.length ? invite.usedBy : null,
-      p_revoked: invite.revoked,
-      p_expires_at: invite.expires > 0 ? new Date(invite.expires).toISOString() : null,
-    })
-
-    if (error) {
-      log.error('saveInviteToDb failed:', { code: error.code, message: error.message })
-      return false
-    }
-
-    if (data && !data.success) {
-      log.error('saveInviteToDb RPC failed:', data.error)
-      return false
-    }
-
-    log.info('Invite code saved to cloud:', invite.code)
-    return true
-  } catch (err) {
-    log.error('saveInviteToDb exception:', err)
-    return false
-  }
-}
-
-// Update invite usage in Supabase via RPC (bypasses RLS)
-async function updateInviteUsageInDb(code: string, profileId: string): Promise<boolean> {
-  if (!supabase) return false
-
-  try {
-    const { data, error } = await supabase.rpc('redeem_invite_code', {
-      p_code: code,
-      p_profile_id: profileId,
-    })
-
-    if (error) {
-      log.error('updateInviteUsageInDb RPC error:', error.message)
-      return false
-    }
-
-    if (data && !data.success) {
-      log.error('updateInviteUsageInDb RPC failed:', data.error)
-      return false
-    }
-
-    return true
-  } catch {
-    return false
-  }
-}
-
-// Fetch all invite codes from Supabase (for admin/organizer)
-async function fetchAllInvitesFromDb(creatorId?: string): Promise<InviteCode[]> {
-  if (!supabase) return []
-
-  let query = supabase.from('invite_codes').select('*')
-
-  if (creatorId) {
-    query = query.eq('created_by', creatorId)
-  }
-
-  const { data, error } = await query.order('created_at', { ascending: false })
-
-  if (error || !data) return []
-  return data.map(d => dbToInvite(d as DbInviteCode))
+// Profiles live only in localStorage now; there is no server copy that an
+// admin could delete, so this always answers "not deleted".
+export async function isProfileDeletedInDb(_id: string): Promise<boolean> {
+  return false
 }
 
 // Use imported functions from idUtils:
@@ -551,7 +288,6 @@ function generateBootstrapCode(): string {
 
 // Bootstrap code for first admin - loaded from environment variable
 // WARNING: In static builds, this will be embedded in the client bundle.
-// For production, consider using a Supabase Edge Function for bootstrap validation.
 const BOOTSTRAP_ADMIN_CODE = process.env.NEXT_PUBLIC_BOOTSTRAP_ADMIN_CODE || ''
 
 // Initialize bootstrap - just checks if needed (no console logging)
@@ -1452,49 +1188,12 @@ export function verifyProfile(userId: string, verifiedBy: string): boolean {
     action: 'manual_verification'
   })
 
-  // Sync to Supabase if available (fire-and-forget)
-  syncVerificationToSupabase(userId, verifiedBy).catch(e => log.error('Async operation failed', e))
-
   return true
 }
 
 /**
- * Sync verification to Supabase (internal fire-and-forget)
- */
-async function syncVerificationToSupabase(userId: string, verifiedBy: string): Promise<void> {
-  if (!USE_SUPABASE || !supabase) return
-
-  try {
-    const { error } = await supabase
-      .from('profiles')
-      .update({
-        trust_level: 'verified',
-        verified_at: new Date().toISOString(),
-        verified_by: verifiedBy
-      })
-      .eq('id', userId)
-
-    if (error) throw error
-
-    // Log to audit table if it exists
-    try {
-      await supabase.from('verification_audit').insert({
-        user_id: userId,
-        verified_by: verifiedBy,
-        action: 'manual_verification',
-        timestamp: new Date().toISOString()
-      })
-    } catch {
-      // Table might not exist yet, that's ok
-    }
-  } catch (error) {
-    log.error('Failed to sync verification to Supabase:', error)
-  }
-}
-
-/**
- * Async wrapper for profile verification that includes Supabase sync
- * Returns true if verification succeeded (localStorage + Supabase)
+ * Async wrapper for profile verification (local only)
+ * Returns true if verification succeeded
  */
 export async function verifyProfileAsyncWithSync(userId: string, verifiedBy: string): Promise<boolean> {
   const currentUser = getCurrentProfile()
@@ -1505,38 +1204,13 @@ export async function verifyProfileAsyncWithSync(userId: string, verifiedBy: str
     return false
   }
 
-  // Try local verification first (will work if profile is in localStorage)
   const localSuccess = verifyProfile(userId, verifiedBy)
-
-  // Update Supabase regardless of local result (profile may only exist in Supabase)
-  if (USE_SUPABASE && supabase) {
-    try {
-      const { error } = await supabase
-        .from('profiles')
-        .update({
-          trust_level: 'verified',
-          verified_at: new Date().toISOString(),
-          verified_by: verifiedBy
-        })
-        .eq('id', userId)
-
-      if (error) {
-        log.error('Supabase update failed:', error.message)
-        return localSuccess // Return local result if Supabase fails
-      }
-
-      return true
-    } catch (err) {
-      log.error('Supabase error:', err)
-      return localSuccess
-    }
-  }
 
   return localSuccess
 }
 
 /**
- * Delete a profile from localStorage and Supabase
+ * Delete a profile from localStorage
  * Only users with higher role can delete
  */
 export async function deleteProfileAsync(profileId: string): Promise<boolean> {
@@ -1551,33 +1225,9 @@ export async function deleteProfileAsync(profileId: string): Promise<boolean> {
   const state = getProfileState()
 
   // Find the profile to delete - check localStorage first
-  let profileToDelete = state.currentProfile?.id === profileId
+  const profileToDelete = state.currentProfile?.id === profileId
     ? state.currentProfile
     : state.storedProfiles.find(p => p.id === profileId)
-
-  // If not in localStorage, try to fetch from Supabase to check role
-  if (!profileToDelete && USE_SUPABASE && supabase) {
-    try {
-      const { data, error } = await supabase
-        .from('public_profiles')
-        .select('id, role')
-        .eq('id', profileId)
-        .single()
-
-      if (!error && data) {
-        profileToDelete = {
-          id: data.id,
-          role: data.role as UserRole,
-          nickname: '',
-          trustLevel: 'self_registered',
-          created: 0,
-          lastActive: 0
-        } as UserProfile
-      }
-    } catch {
-      // Continue - will fail below if profile not found
-    }
-  }
 
   if (!profileToDelete) {
     log.error('Profile not found')
@@ -1601,32 +1251,6 @@ export async function deleteProfileAsync(profileId: string): Promise<boolean> {
   } else if (state.storedProfiles.some(p => p.id === profileId)) {
     state.storedProfiles = state.storedProfiles.filter(p => p.id !== profileId)
     saveProfileState(state)
-  }
-
-  // Delete from Supabase
-  if (USE_SUPABASE && supabase) {
-    try {
-      const { error } = await supabase
-        .from('profiles')
-        .delete()
-        .eq('id', profileId)
-
-      if (error) {
-        log.error('Supabase delete failed:', error.message)
-        // RLS may block delete - this is expected with anon key
-        // Return false to indicate failure
-        return false
-      }
-
-      // Profile deleted successfully
-      return true
-    } catch (err) {
-      // Log error but don't expose details to user
-      if (process.env.NODE_ENV === 'development') {
-        log.error('Supabase error:', err)
-      }
-      return false
-    }
   }
 
   return true
@@ -1674,24 +1298,6 @@ export async function banProfile(profileId: string): Promise<boolean> {
 
   saveProfileState(state)
 
-  // Sync to Supabase
-  if (USE_SUPABASE && supabase) {
-    try {
-      const { error } = await supabase
-        .from('profiles')
-        .update({
-          banned: true,
-          banned_at: new Date().toISOString(),
-          banned_by: currentUser.id
-        })
-        .eq('id', profileId)
-
-      if (error) throw error
-    } catch {
-      // Still return true since local ban succeeded
-    }
-  }
-
   return true
 }
 
@@ -1729,24 +1335,6 @@ export async function unbanProfile(profileId: string): Promise<boolean> {
 
   saveProfileState(state)
 
-  // Sync to Supabase
-  if (USE_SUPABASE && supabase) {
-    try {
-      const { error } = await supabase
-        .from('profiles')
-        .update({
-          banned: false,
-          banned_at: null,
-          banned_by: null
-        })
-        .eq('id', profileId)
-
-      if (error) throw error
-    } catch {
-      // Still return true since local unban succeeded
-    }
-  }
-
   return true
 }
 
@@ -1773,12 +1361,11 @@ function logVerificationAction(action: {
 }
 
 // ============================================
-// Async Supabase-Enabled Public Functions
-// These functions use Supabase when available,
-// falling back to localStorage when offline
+// Async Public Functions
+// Local-only (Supabase removed); kept async for API stability
 // ============================================
 
-// Create profile with Supabase sync and optional Supabase Auth
+// Create profile (local only)
 export async function createProfileAsync(data: {
   nickname: string
   email?: string
@@ -1790,22 +1377,7 @@ export async function createProfileAsync(data: {
 }): Promise<UserProfile> {
   const normalizedEmail = data.email?.trim().toLowerCase()
 
-  // CRITICAL: Check for duplicate email BEFORE creating profile
-  if (normalizedEmail) {
-    if (USE_SUPABASE && supabase) {
-      const { data: registered, error } = await supabase
-        .rpc('is_email_registered', { check_email: normalizedEmail })
-
-      if (!error && registered) {
-        throw new Error(
-          `A profile with email "${data.email}" already exists. ` +
-          `Please login instead of creating a new profile.`
-        )
-      }
-    }
-  }
-
-  // First validate invite code (check Supabase first, then local)
+  // First validate invite code
   let trustLevel: TrustLevel = 'self_registered'
   let invitedBy: string | undefined
   let role: UserRole = 'tenant'
@@ -1823,17 +1395,8 @@ export async function createProfileAsync(data: {
 
   // First user becomes admin (bootstrap)
   if (!state.currentProfile && Object.keys(state.inviteCodes).length === 0) {
-    // Check if any profiles exist in Supabase
-    if (USE_SUPABASE && supabase) {
-      const { count } = await supabase.from('profiles').select('*', { count: 'exact', head: true })
-      if (!count || count === 0) {
-        role = 'admin'
-        trustLevel = 'verified'
-      }
-    } else {
-      role = 'admin'
-      trustLevel = 'verified'
-    }
+    role = 'admin'
+    trustLevel = 'verified'
   }
 
   const profile: UserProfile = {
@@ -1856,17 +1419,6 @@ export async function createProfileAsync(data: {
   state.currentProfile = profile
   saveProfileState(state)
 
-  // Sync to Supabase
-  if (USE_SUPABASE) {
-    const saved = await saveProfileToDb(profile)
-    if (!saved) {
-      // Rollback on failure (email constraint violation)
-      state.currentProfile = null
-      saveProfileState(state)
-      throw new Error('Failed to save profile. Email may already be in use.')
-    }
-  }
-
   // Mark invite as used
   if (data.inviteCode) {
     await redeemInviteCodeAsync(data.inviteCode, profile.id)
@@ -1883,7 +1435,7 @@ export async function createProfileAsync(data: {
   return profile
 }
 
-// Update profile with Supabase sync
+// Update profile (local only)
 export async function updateProfileAsync(updates: Partial<UserProfile>): Promise<UserProfile | null> {
   const state = getProfileState()
   if (!state.currentProfile) return null
@@ -1898,11 +1450,6 @@ export async function updateProfileAsync(updates: Partial<UserProfile>): Promise
   // Save locally first
   state.currentProfile = newProfile
   saveProfileState(state)
-
-  // Sync to Supabase
-  if (USE_SUPABASE) {
-    await saveProfileToDb(newProfile)
-  }
 
   // Auto-link to canvassing if building/unit changed
   const buildingChanged = updates.buildingId !== undefined && updates.buildingId !== oldProfile.buildingId
@@ -1945,50 +1492,21 @@ export async function updateProfileAsync(updates: Partial<UserProfile>): Promise
   return newProfile
 }
 
-// Validate invite code (checks Supabase first)
+// Validate invite code (local only)
 export async function validateInviteCodeAsync(code: string): Promise<{
   valid: boolean
   invite?: InviteCode
   error?: string
 }> {
-  // Try Supabase first
-  if (USE_SUPABASE) {
-    try {
-      const dbInvite = await fetchInviteFromDb(code)
-      if (dbInvite) {
-        if (dbInvite.revoked) {
-          return { valid: false, error: 'Invite code has been revoked' }
-        }
-        if (dbInvite.maxUses > 0 && dbInvite.usedCount >= dbInvite.maxUses) {
-          return { valid: false, error: 'Invite code has reached max uses' }
-        }
-        if (dbInvite.expires > 0 && dbInvite.expires < Date.now()) {
-          return { valid: false, error: 'Invite code expired' }
-        }
-        return { valid: true, invite: dbInvite }
-      }
-    } catch {
-      // Fall through to localStorage below
-    }
-  }
-
-  // Fallback to localStorage (works cross-device if sync is working, always works locally)
   return validateInviteCode(code)
 }
 
-// Use invite code with Supabase sync
+// Use invite code (local only)
 export async function redeemInviteCodeAsync(code: string, profileId: string): Promise<boolean> {
-  // Update Supabase
-  if (USE_SUPABASE) {
-    const success = await updateInviteUsageInDb(code, profileId)
-    if (success) return true
-  }
-
-  // Fallback to localStorage
   return redeemInviteCode(code, profileId)
 }
 
-// Create invite code with Supabase sync
+// Create invite code (local only)
 export async function createInviteAsync(options: CreateInviteOptions = {}): Promise<InviteCode | null> {
   const profile = getCurrentProfile()
   if (!profile) {
@@ -2005,15 +1523,6 @@ export async function createInviteAsync(options: CreateInviteOptions = {}): Prom
   }
   if (!hasRole('organizer')) {
     return null
-  }
-
-  // IMPORTANT: Sync creator's profile to Supabase first (required for foreign key constraint)
-  let profileSynced = false
-  if (USE_SUPABASE) {
-    profileSynced = await syncProfileToCloud()
-    if (!profileSynced) {
-      log.warn('Failed to sync profile to cloud - invite code may not work on other devices')
-    }
   }
 
   const code = generateInviteCode()
@@ -2041,150 +1550,46 @@ export async function createInviteAsync(options: CreateInviteOptions = {}): Prom
   state.inviteCodes[code] = invite
   saveProfileState(state)
 
-  // Sync to Supabase (required for cross-device invite code validation)
-  if (USE_SUPABASE) {
-    const saved = await saveInviteToDb(invite)
-    if (!saved) {
-      log.warn('Invite code NOT synced to cloud - will only work on this device:', code)
-      // Mark the invite as local-only so UI can warn user
-      invite.localOnly = true
-      state.inviteCodes[code] = invite
-      saveProfileState(state)
-    }
-  }
-
   return invite
 }
 
-// Get all invite codes with Supabase support
+// Get all invite codes (local only)
 export async function getAllInviteCodesAsync(): Promise<InviteCode[]> {
   const profile = getCurrentProfile()
   if (!profile || !hasRole('organizer')) return []
 
-  // Try Supabase first
-  if (USE_SUPABASE) {
-    const creatorId = isAdmin() ? undefined : profile.id
-    const dbInvites = await fetchAllInvitesFromDb(creatorId)
-    if (dbInvites.length > 0) {
-      return dbInvites
-    }
-  }
-
-  // Fallback to localStorage
   return getAllInviteCodes()
 }
 
-// Revoke invite with Supabase sync
+// Revoke invite (local only)
 export async function revokeInviteAsync(code: string): Promise<boolean> {
   const profile = getCurrentProfile()
   if (!profile) return false
 
-  // Update in Supabase via RPC (sets user context within transaction)
-  if (USE_SUPABASE && supabase) {
-    const { data, error } = await supabase.rpc('revoke_invite_code', {
-      caller_id: profile.id,
-      p_code: code,
-    })
-
-    if (!error && data?.success) {
-      // Also update localStorage
-      revokeInvite(code)
-      return true
-    }
-
-    if (data && !data.success) {
-      log.error('revokeInviteAsync failed:', data.error)
-    }
-  }
-
-  // Fallback to localStorage only
   return revokeInvite(code)
 }
 
-// Sync local profile to Supabase (call on app startup)
+// Formerly pushed the local profile to Supabase. There is no server any more,
+// so nothing is ever synced.
 export async function syncProfileToCloud(): Promise<boolean> {
-  if (!USE_SUPABASE) return false
-
-  const profile = getCurrentProfile()
-  if (!profile) return false
-
-  // Check if profile exists in Supabase
-  const dbProfile = await fetchProfileFromDb(profile.id)
-
-  if (dbProfile) {
-    // Server has newer data - merge
-    const serverNewer = new Date(dbProfile.lastActive).getTime() > profile.lastActive
-    if (serverNewer) {
-      // Update local with server role/trust (authoritative)
-      const merged = {
-        ...profile,
-        role: dbProfile.role,
-        trustLevel: dbProfile.trustLevel,
-        // Keep local activity data
-        lastActive: Math.max(profile.lastActive, dbProfile.lastActive),
-      }
-      const state = getProfileState()
-      state.currentProfile = merged
-      saveProfileState(state)
-      return true
-    }
-  }
-
-  // Push local to server
-  return await saveProfileToDb(profile)
+  return false
 }
 
-// Login by email - allows existing users to login from any device
-export async function loginByEmailAsync(email: string, password?: string): Promise<UserProfile | null> {
-  if (!USE_SUPABASE || !supabase) {
-    return null
-  }
-
-  try {
-    // Look up profile by email in Supabase
-    const { data, error } = await supabase
-      .from('profiles')
-      .select('*')
-      .eq('email', email.toLowerCase())
-      .maybeSingle()
-
-    if (error || !data) {
-      return null
-    }
-
-    // Convert database profile to app profile
-    const profile = dbToProfile(data as DbProfile)
-
-    // Check if profile is banned
-    if (profile.banned) {
-      return null
-    }
-
-    // Set as current profile
-    const state = getProfileState()
-    state.currentProfile = profile
-    saveProfileState(state)
-
-    return profile
-  } catch {
-    return null
-  }
+// Formerly looked a profile up by email in Supabase. With no server there is
+// nothing to log in to from another device, so this always returns null.
+export async function loginByEmailAsync(_email: string, _password?: string): Promise<UserProfile | null> {
+  return null
 }
 
 // Fetch profile by ID (useful for looking up other users)
 export async function getProfileById(id: string): Promise<UserProfile | null> {
-  if (USE_SUPABASE) {
-    const dbProfile = await fetchProfileFromDb(id)
-    if (dbProfile) return dbProfile
-  }
-
   // Check local stored profiles
   const state = getProfileState()
   if (state.currentProfile?.id === id) return state.currentProfile
   return state.storedProfiles.find(p => p.id === id) || null
 }
 
-// Update last active timestamp in Supabase
+// Update last active timestamp
 export async function updateLastActiveAsync(): Promise<void> {
   const profile = getCurrentProfile()
   if (!profile) return
@@ -2196,13 +1601,6 @@ export async function updateLastActiveAsync(): Promise<void> {
     saveProfileState(state)
   }
 
-  // Update Supabase
-  if (USE_SUPABASE && supabase) {
-    await supabase
-      .from('profiles')
-      .update({ last_active: new Date().toISOString() })
-      .eq('id', profile.id)
-  }
 }
 
 // ============================================
@@ -2211,7 +1609,7 @@ export async function updateLastActiveAsync(): Promise<void> {
 
 /**
  * Check if an email is available (not already registered)
- * Uses Supabase as source of truth, falls back to localStorage
+ * Checks localStorage
  */
 export async function isEmailAvailable(email: string): Promise<{
   available: boolean
@@ -2223,19 +1621,7 @@ export async function isEmailAvailable(email: string): Promise<{
     return { available: true }
   }
 
-  // Check Supabase first (source of truth)
-  if (USE_SUPABASE && supabase) {
-    // An RPC that answers yes/no: reading profiles by email would tell a
-    // stranger whose account an address belongs to.
-    const { data: registered, error } = await supabase
-      .rpc('is_email_registered', { check_email: normalizedEmail })
-
-    if (!error && registered) {
-      return { available: false }
-    }
-  }
-
-  // Fallback: check localStorage
+  // Check localStorage
   const state = getProfileState()
   const existing = state.storedProfiles.find(
     p => p.email?.toLowerCase() === normalizedEmail
@@ -2305,5 +1691,3 @@ export function shouldAlertAboutRentIncrease(rentComparison: RentComparison | nu
   return rentComparison.isUnusualSpike && rentComparison.percentChange > 0
 }
 
-// Export flag for components to check
-export { USE_SUPABASE }

@@ -17,18 +17,15 @@ import {
   isAdmin,
   canAccessTools,
   getActivityStatus,
-  isProfileDeletedInDb,
   type UserProfile,
 } from '@/lib/storage/profileStorage'
 import { syncProfile } from '@/lib/storage/profileSync'
-import { syncProfileToSupabase, USE_SUPABASE } from '@/lib/services/supabase'
 import { useUnreadCount } from '@/hooks/useDirectMessages'
 import { MessageHub } from '@/components/Messages/MessageHub'
 import { ProfileOnboardingWizard } from './Onboarding/ProfileOnboardingWizard'
 import { ProfileEditor } from './ProfileEditor'
 import { TenantProfileEditor, type TenantProfileEditorHandle } from './TenantProfileEditor'
 import { ProfileHeader } from './ProfileHeader'
-import { LoginForm } from './LoginForm'
 import { InviteCodeManager } from './InviteCodeManager'
 import { UserList } from './UserList'
 import { ProfileVotingSection } from './ProfileVotingSection'
@@ -71,37 +68,13 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
   // Unread message count from Socket.io
   const unreadCount = useUnreadCount()
 
-  // Load profile on mount and sync to Supabase if needed
+  // Load profile on mount
   useEffect(() => {
     const p = getCurrentProfile()
     const stored = getStoredProfiles()
     setProfile(p)
     setStoredProfiles(stored)
     setLoading(false)
-
-    if (p && USE_SUPABASE) {
-      // Check if profile was deleted by admin before syncing
-      isProfileDeletedInDb(p.id).then(deleted => {
-        if (deleted) {
-          log.info('Profile was deleted by admin, signing out')
-          clearProfile()
-          setProfile(null)
-          setStoredProfiles(getStoredProfiles())
-          refreshAuth()
-          return
-        }
-        // Profile still exists — sync to Supabase
-        syncProfileToSupabase(p).catch(err => {
-          log.error('Failed to sync profile to Supabase:', err)
-        })
-      }).catch(err => {
-        log.error('Failed to check profile existence:', err)
-        // On error, still sync (don't block normal usage)
-        syncProfileToSupabase(p).catch(syncErr => {
-          log.error('Failed to sync profile to Supabase:', syncErr)
-        })
-      })
-    }
 
     // Show RCV tutorial if user is logged in but hasn't completed it yet
     if (p && !hasTutorialCompleted()) {
@@ -153,13 +126,6 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
       setProfileIdToLogin(null)
       setPasswordPromptInput('')
       syncProfile() // Sync after login (Socket.io for real-time)
-
-      // Sync to Supabase (for user list)
-      if (USE_SUPABASE) {
-        await syncProfileToSupabase(loggedIn).catch(err => {
-          log.error('Failed to sync profile to Supabase:', err)
-        })
-      }
 
       refreshAuth() // Update nav immediately
     } else {
@@ -282,15 +248,6 @@ export function ProfilePage({ buildings }: ProfilePageProps) {
                 <div className="flex-1 border-t border-gray-200" />
               </div>
             )}
-
-            {/* Login Form - for existing users on new devices */}
-            <LoginForm
-              onLoginSuccess={(loggedInProfile) => {
-                setProfile(loggedInProfile)
-                refreshAuth()
-              }}
-              onShowCreateProfile={() => setShowWizard(true)}
-            />
 
             {/* Divider before create option */}
             <div className="flex items-center gap-4">

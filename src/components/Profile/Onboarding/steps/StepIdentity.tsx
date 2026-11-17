@@ -2,10 +2,32 @@
 
 import { useState, useEffect, useRef, useCallback } from 'react';
 import { isEmailAvailable } from '@/lib/storage/profileStorage';
-import { validatePassword } from '@/lib/services/supabaseAuth';
 import { getFieldError } from '../utils';
 import { useLanguage } from '@/contexts/LanguageContext';
 import type { OnboardingFormData, ValidateEmailResult, ValidatePasswordResult } from '../types';
+
+// Password strength rules
+function validatePassword(password: string): { valid: boolean; error?: string } {
+  if (!password) {
+    return { valid: false, error: 'Password is required' };
+  }
+
+  if (password.length < 8) {
+    return { valid: false, error: 'Password must be at least 8 characters' };
+  }
+
+  // Check for at least one number
+  if (!/\d/.test(password)) {
+    return { valid: false, error: 'Password must contain at least one number' };
+  }
+
+  // Check for at least one letter
+  if (!/[a-zA-Z]/.test(password)) {
+    return { valid: false, error: 'Password must contain at least one letter' };
+  }
+
+  return { valid: true };
+}
 
 interface StepIdentityProps {
   formData: OnboardingFormData;
