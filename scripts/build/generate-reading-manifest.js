@@ -6,6 +6,12 @@ const DOCS_DIR = path.join(__dirname, '../../docs');
 const OUTPUT_DIR = path.join(__dirname, '../../src/data');
 const PUBLIC_DIR = path.join(__dirname, '../../public/documents');
 
+// The reading library is NOT published by default (operator decision, 2026-11-19):
+// the manifest is empty, so every viewer, admin included, sees 0 documents, and nothing
+// is copied to public/documents. The components, docs/ and this script stay intact.
+// Set RSTU_PUBLISH_READING=1 to build and publish the library again.
+const PUBLISH_READING = process.env.RSTU_PUBLISH_READING === '1';
+
 // Clean title artifacts from frontmatter (ALL CAPS, underscores, HTML, etc.)
 function cleanTitle(title) {
   let t = title;
@@ -67,6 +73,16 @@ function generateManifest() {
     }
   }
   fs.mkdirSync(PUBLIC_DIR, { recursive: true });
+
+  if (!PUBLISH_READING) {
+    if (!fs.existsSync(OUTPUT_DIR)) fs.mkdirSync(OUTPUT_DIR, { recursive: true });
+    fs.writeFileSync(
+      path.join(OUTPUT_DIR, 'reading-manifest.json'),
+      JSON.stringify({ documents: [], categories: [], totalDocuments: 0 }, null, 2)
+    );
+    console.log('Reading library not published (set RSTU_PUBLISH_READING=1 to enable): 0 documents');
+    return;
+  }
 
   // Recursively scan for markdown files
   function scanDirectory(dir, depth = 0) {
